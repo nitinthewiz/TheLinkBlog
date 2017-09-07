@@ -19,7 +19,7 @@ layout: null
                 <title>{{ post.title | xml_escape }}</title>
                 <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-                <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
+                <link>{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             </item>
         {% endfor %}
