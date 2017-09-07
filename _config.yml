@@ -1,16 +1,29 @@
 name: links.thingelstad.com
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: Links of interest for Jamie Thingelstad
 
 timezone: America/Chicago
 permalink: /:year/:title/
 
-paginate: 10
+url:                "http://links.thingelstad.com" # the base hostname & protocol for your site
+
+# Pagination
+paginate: 25
 paginate_path: /page:num/
+
+# Feed config
+feed_posts:         20
+
+# Analytics
+# google_analytics:   UA-49944629-XX
 
 markdown: kramdown
 kramdown:
   input: GFM
 
-gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from

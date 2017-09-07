@@ -1,0 +1,30 @@
+---
+layout: null
+---
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": {{ site.title | jsonify }},
+	"author": {
+		"name": {{ site.author | jsonify }},
+		"url": "{{ site.url }}{% link about/index.md %}",
+		"avatar": "https://s.gravatar.com/avatar/54e9f4f6495f7b7a218ae7051a173645?s=500"
+	},
+	"description": {{ site.description | jsonify }},
+	"home_page_url": "{{ site.url }}/",
+	"feed_url": "{{ site.url }}/feed.json",
+	"icon": "https://s.gravatar.com/avatar/54e9f4f6495f7b7a218ae7051a173645?s=500",
+	"items": [
+		{% for post in site.posts limit: site.feed_posts %}
+		{
+			"id": "{{ site.url }}{{ post.url }}",
+			"title": {{ post.title | jsonify }},
+			{% if post.author %}"author": {{ post.author | jsonify }}, {% endif %}
+			{% if post.description %}"summary": {{ post.description | jsonify }}, {% endif %}
+			{% if post.image %}"image": {{ post.image | jsonify }}, {% endif %}
+			"content_html": {{ post.content | jsonify }},
+			"date_published": "{{ post.date | date_to_xmlschema }}",
+			"url": "{{ site.url }}{{ post.url }}"
+		}{% if forloop.last == false %},{% endif %}
+		{% endfor %}
+	]
+}
