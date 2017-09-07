@@ -1,0 +1,8 @@
+---
+title: "Webfinger - Personal Web Discovery, making email addresses readable again"
+date: 2012-08-14 02:25:38 +0000
+external-url: http://code.google.com/p/webfinger/
+hash: 045b9207b88c0ee890da870b225188e9
+---
+
+WebFinger is about making email addresses more valuable, by letting people attach public metadata to them.

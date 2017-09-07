@@ -1,0 +1,8 @@
+---
+title: "MediaWiki Widgets"
+date: 2011-03-04 04:55:16 +0000
+external-url: http://www.mediawikiwidgets.org/Widgets_Catalog
+hash: d1436a400f2a4dbaa4752287eb5fa7af
+---
+
+

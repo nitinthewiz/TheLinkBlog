@@ -1,0 +1,8 @@
+---
+title: "7 Ways Your Data Is Telling You It’s a Graph"
+date: 2015-12-25 11:31:53 +0000
+external-url: http://neo4j.com/blog/7-ways-data-is-graph/
+hash: a8302344c8614de3fecddef3f31e0724
+---
+
+My role is to explain why I think there are signs that your data – and maybe not just your data, but your data stories – are telling you that you have graphs. And not only are graphs everywhere; they’re eating the world, and your data knows that.

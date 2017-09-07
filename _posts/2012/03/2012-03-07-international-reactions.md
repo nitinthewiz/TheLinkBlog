@@ -1,0 +1,8 @@
+---
+title: "International Reactions to Google’s New Privacy Policy | Electronic Frontier Foundation"
+date: 2012-03-07 06:45:27 +0000
+external-url: https://www.eff.org/deeplinks/2012/03/international-reactions-googles-new-privacy-policy
+hash: 7b2a7ae22f5dcb3771557ebe1ce81828
+---
+
+

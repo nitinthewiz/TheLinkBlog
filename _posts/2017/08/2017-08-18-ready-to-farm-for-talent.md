@@ -1,0 +1,8 @@
+---
+title: "Ready to Farm for Software Talent? – RoleModel Software"
+date: 2017-08-18 12:15:03 +0000
+external-url: https://blog.rolemodelsoftware.com/ready-to-farm-for-software-talent-48bda240eca0
+hash: 41df17ce87d0a8423b0b7455bf8bfb73
+---
+
+This has to be a component of any technology team that needs to grow and scale over time.

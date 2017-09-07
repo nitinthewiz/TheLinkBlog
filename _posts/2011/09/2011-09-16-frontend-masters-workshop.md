@@ -1,0 +1,8 @@
+---
+title: "Frontend Masters Workshop Series"
+date: 2011-09-16 21:21:24 +0000
+external-url: http://frontendmasters.com/
+hash: 207e475d0cabb8e1331bc89698705902
+---
+
+The Frontend Masters Workshop Series is for beginning and intermediate designers and developers looking to earn a mastery in the arts of frontend development. The six workshops will focus on leading frontend technologies including: jQuery, jQuery UI, jQuery Mobile, HTML5, CSS3 and emerging trends like server-side JavaScript.

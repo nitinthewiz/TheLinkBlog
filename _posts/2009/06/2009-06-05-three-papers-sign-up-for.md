@@ -1,0 +1,9 @@
+---
+title: "Three Papers Sign Up for 'WSJ Sunday'"
+date: 2009-06-05 04:06:00 +0000
+external-url: http://www.editorandpublisher.com/eandp/departments/syndicates/article_display.jsp?vnu_content_id=1003980515
+hash: 46278194a7dce8fb9dadb03379161b9d
+---
+
+Three daily newspapers have signed on with The Wall Street Journal Sunday to receive business-related syndicated content.
+

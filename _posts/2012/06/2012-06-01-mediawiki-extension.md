@@ -1,0 +1,8 @@
+---
+title: "MediaWiki Extension NumerAlpha"
+date: 2012-06-01 23:54:53 +0000
+external-url: http://www.mediawiki.org/wiki/Extension:NumerAlpha
+hash: a313ff173150831e8fa932edcbb40115
+---
+
+This is an incremental tag... it counts how many tag you insert in the page source. You can reset the count at any moment or begin to a specified number.

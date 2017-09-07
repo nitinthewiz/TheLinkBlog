@@ -12,10 +12,10 @@ paginate: 25
 paginate_path: /page:num/
 
 # Feed config
-feed_posts:         20
+feed_posts:         50
 
 # Analytics
-# google_analytics:   UA-49944629-XX
+google_analytics:   UA-49944629-15
 
 markdown: kramdown
 kramdown:

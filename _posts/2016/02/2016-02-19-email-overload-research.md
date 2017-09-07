@@ -1,0 +1,8 @@
+---
+title: "Email Overload: Research and Statistics"
+date: 2016-02-19 08:42:12 +0000
+external-url: http://blog.sanebox.com/2016/02/18/email-overload-research-statistics-sanebox/
+hash: 4243a6c60626d36cc4fed86a95f4d6cd
+---
+
+We’ve scoured the earth for studies on email overload and interruptions. Here’s what we found.
