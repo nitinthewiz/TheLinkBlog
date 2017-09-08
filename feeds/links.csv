@@ -1,0 +1,12 @@
+---
+layout: null
+---
+Title, URL, Hostname, Timestamp, Link URL
+{% for post in site.posts %}
+{% capture line %}
+"{{ post.title | replace: '"', '""' }}",
+"{{ post.external-url }}",
+"{{ post.hostname }}",
+{{ post.date | date_to_xmlschema }},
+{{ site.baseurl }}{{ post.url }}
+{% endcapture %}{{ line | strip_newlines }}{% endfor %}
