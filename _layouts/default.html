@@ -1,46 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="en">
 
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width">
-
-  <!-- Font -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-  <!-- Feeds -->
-  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
-  <link rel="alternate" type="application/json" title="JSON Feed for {{ site.title }}" href="{{ site.baseurl }}/feed.json" />
-
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-light.css" rel="stylesheet" />
-
-</head>
+{% include head.html %}
 
 <body>
 
-  <header id="header">
-    <h1><a href="/"><i class="icon-sun"></i> {{ site.name }}</a></h1>
-    <p>{{ site.description }}</p>
-  </header>
-
+{% include header.html %}
 
   <div id="page">
 
-    <div id="sidebar">
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/archives">Archive</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="http://micro.thingelstad.com/">micro.blog</a></li>
-          <li><a href="http://thingelstad.com/">thingelstad.com</a></li>
-          <li><a href="/feed.xml">RSS Feed</a></li>
-          <li><a href="/feed.json">JSON Feed</a></li>
-        </ul>
-      </nav>
-    </div>
+    {% include sidebar.html %}
 
     <div id="content">
       {{ content }}
@@ -48,15 +17,7 @@
 
   </div>
 
-  <footer id="footer">
-    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
-  </footer>
-
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include ga.html %}
-  {% else %}
-  <!-- Google Analytics tags omitted -->
-  {% endif %}
+{% include footer.html %}
 
 </body>
 </html>

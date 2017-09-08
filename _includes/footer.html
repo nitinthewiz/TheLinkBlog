@@ -1,0 +1,10 @@
+  <footer id="footer">
+    {% include cc.html %}
+    <p>Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
+  </footer>
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include ga.html %}
+  {% else %}
+  <!-- Google Analytics tags omitted -->
+  {% endif %}
