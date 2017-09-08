@@ -8,5 +8,5 @@ Title, URL, Hostname, Timestamp, Link URL
 "{{ post.external-url }}",
 "{{ post.hostname }}",
 {{ post.date | date_to_xmlschema }},
-{{ site.baseurl }}{{ post.url }}
+{{ site.url }}{{ post.url }}
 {% endcapture %}{{ line | strip_newlines }}{% endfor %}
