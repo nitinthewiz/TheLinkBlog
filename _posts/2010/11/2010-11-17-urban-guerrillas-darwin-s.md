@@ -3,6 +3,10 @@ title: "Urban Guerrillas - Darwin's Theory Of Pelvic Revolution LP : Larry Sahag
 date: 2010-11-17 20:08:43 +0000
 external-url: https://archive.org/details/UrbanGuerrillas-DarwinsTheoryOfPelvicRevolutionLp
 hash: cdada5bdf2e1b37c50eef7da65d354a9
+annum:
+    year: 2010
+    month: 11
+hostname: archive.org
 ---
 
 

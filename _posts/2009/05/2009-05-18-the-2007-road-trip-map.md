@@ -3,6 +3,10 @@ title: "The 2007 Road Trip Map"
 date: 2009-05-18 20:54:21 +0000
 external-url: http://duncandavidson.com/2009/05/the-2007-road-trip-map.html
 hash: a6df9024b3e5666841f8d0d9aa3f1b60
+annum:
+    year: 2009
+    month: 05
+hostname: duncandavidson.com
 ---
 
 In late 2007, Pinar and I undertook a massive road trip from California to Texas and lots of places in between. Along the way, I made a pretty extensive map of our travels that turned out pretty damn cool. The online version of this map had gotten lost in the great server database meltdown of early 2008 that hit my site, but I finally dug up the original Illustrator file. Here’s a copy of the entire map:

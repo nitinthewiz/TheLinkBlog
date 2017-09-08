@@ -3,6 +3,10 @@ title: "Silicon Valley Goes Hollywood: Top Coders Can Now Get Agents"
 date: 2013-04-11 19:35:59 +0000
 external-url: http://www.businessweek.com/articles/2013-04-10/silicon-valley-goes-hollywood-top-coders-can-now-get-agents
 hash: f93dcd1a97e7e6817b77a070c0ebca86
+annum:
+    year: 2013
+    month: 04
+hostname: www.businessweek.com
 ---
 
 Pack it up. Go home. It's all done now.

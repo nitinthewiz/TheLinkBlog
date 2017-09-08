@@ -3,6 +3,10 @@ title: "Lifetime's Digital Strategy For Project Runway Includes Streaming On Dem
 date: 2009-08-20 04:36:17 +0000
 external-url: http://m.paidcontent.org/article/419-lifetimes-digital-strategy-for-project-runway-includes-streaming-on-dem/
 hash: d2d6d6376541ac3868efe530dc77fb16
+annum:
+    year: 2009
+    month: 08
+hostname: m.paidcontent.org
 ---
 
 A first for Project Runway as it (finally) starts a new life with season six on Lifetime Thursday night: full episodes of the show will stream on demand at MyLifetime.com after they premiere on cable, paidContent has learned. The show was on NBC Universal CEO Jeff Zucker’s list of Bravo hits that he didn’t want to make available in full for free online to protect the value to MSOs. But The Weinstein Company yanked Runway from Bravo for a new home at Lifetime (after the requisite dueling lawsuits)—and a new online strategy with streaming replays as a key, along with a real-time Buzz Room, behind-the-scenes video and gaming. [Some screenshots.]

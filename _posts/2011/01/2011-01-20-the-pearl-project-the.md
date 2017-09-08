@@ -3,6 +3,10 @@ title: "The Pearl Project: The Truth Left Behind"
 date: 2011-01-20 14:07:37 +0000
 external-url: http://cloudfront-files-1.iwatchnews.org/documents/pdfs/The_Pearl_Project.pdf
 hash: d4a120971f81c4891d2d90bddd7ef084
+annum:
+    year: 2011
+    month: 01
+hostname: cloudfront-files-1.iwatchnews.org
 ---
 
 An exhaustive account of the kidnapping and murder of reporter Danny Pearl

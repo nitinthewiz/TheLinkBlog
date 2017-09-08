@@ -3,6 +3,10 @@ title: "Coffee with Tim Cook auction closes at $610,000"
 date: 2013-05-15 16:14:11 +0000
 external-url: http://www.tuaw.com/2013/05/15/coffee-with-tim-cook-auction-closes-at-610-000/
 hash: 76b5a4ff0a11ea80c36f63ff3af45390
+annum:
+    year: 2013
+    month: 05
+hostname: www.tuaw.com
 ---
 
 Crazy. Between $10,166 and $20,333 dollars per minute. Maybe Cook will bonus the winner an iPad Mini or something.

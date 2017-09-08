@@ -3,6 +3,10 @@ title: "Dorthy.com: A (Semantic) Search Engine for Dreams"
 date: 2009-08-23 21:21:26 +0000
 external-url: http://www.readwriteweb.com/archives/dorthy_a_semantic_search_engine_for_dreams.php
 hash: 5ddbaaf51ae50d13f5b3c3ca5aa0ebfc
+annum:
+    year: 2009
+    month: 08
+hostname: www.readwriteweb.com
 ---
 
 Dorthy.com, a site we've been hearing about since late last year, has just raised $4 million from angel investors for their "new agey" concept of a search engine for dreams. Currently in private alpha, the site makes fluffy claims about how they're "reversing the traditional search process, continuously filtering and focusing the Universe of online content, to connect you with the best stuff around your interests and aspirations." 

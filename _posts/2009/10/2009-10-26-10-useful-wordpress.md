@@ -3,6 +3,10 @@ title: "10 Useful WordPress Coding Techniques"
 date: 2009-10-26 04:21:17 +0000
 external-url: http://www.smashingmagazine.com/2009/10/20/10-useful-wordpress-hacks-for-advanced-themes/
 hash: db2dba4d486c58b397c84e7d1e6f865f
+annum:
+    year: 2009
+    month: 10
+hostname: www.smashingmagazine.com
 ---
 
 

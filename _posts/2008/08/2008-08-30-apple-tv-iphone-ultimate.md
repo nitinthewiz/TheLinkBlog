@@ -3,6 +3,10 @@ title: "Apple TV + iPhone = Ultimate geeky car audio system"
 date: 2008-08-30 21:54:05 +0000
 external-url: http://www.appletvhacks.net/2008/08/30/apple-tv-iphone-ultimate-geeky-car-audio-system/
 hash: ca23f4d7c74886ef297d81033ab43a8c
+annum:
+    year: 2008
+    month: 08
+hostname: www.appletvhacks.net
 ---
 
 If you ever wanted to prove your geek-cred to your friends what could be better than using your iPhone as a graphical remote for your car stereo.

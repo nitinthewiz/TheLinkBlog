@@ -3,6 +3,10 @@ title: "Videos Live Fast, Die Young On Web"
 date: 2008-06-18 12:10:00 +0000
 external-url: http://www.businessinsider.com/2008/6/online-video
 hash: 6c9032179ca641f3ca8ea7f891e20885
+annum:
+    year: 2008
+    month: 06
+hostname: www.businessinsider.com
 ---
 
 Want to make a splash with your Internet video? Better do it fast: Web clips attract their peak audiences a mere three days after they're uploaded.

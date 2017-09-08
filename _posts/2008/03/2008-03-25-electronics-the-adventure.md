@@ -3,6 +3,10 @@ title: "Electronics: The Adventure Begins"
 date: 2008-03-25 04:32:25 +0000
 external-url: http://whereslou.com/2008/03/24/electronics-the-adventure-begins
 hash: 03310b7c5d2b37904dcce1bf849b32ef
+annum:
+    year: 2008
+    month: 03
+hostname: whereslou.com
 ---
 
 Finally got started doing some real work on the electronics project I’m taking part of with my friend Kevin. A number of parts were picked up today at ABC Electronics and a few a/d converter chips were picked up at AEI Electronics. I have to say AEI/Acme isn’t what it used to be when it was on Washington… The wall of IC chips was nowhere to be seen - it’s become more of a high-end home audio gear shop or something.

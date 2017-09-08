@@ -3,6 +3,10 @@ title: "A taste of what's coming in Rails 2.1"
 date: 2008-04-02 00:28:00 +0000
 external-url: http://weblog.rubyonrails.org/2008/4/1/a-taste-of-what-s-coming-in-rails-2-1/
 hash: 40c2a8a0284164b27b1157af55dd08db
+annum:
+    year: 2008
+    month: 04
+hostname: weblog.rubyonrails.org
 ---
 
 Rails 2.1 is not far off the horizon and weve been adding a ton of extra deliciously nice goodies in preparation of its release lately. As always, the good Ryan Daigle has been keeping a watchful eye on the changelog and has been documenting some of the new features. The latest stars are:

@@ -3,6 +3,10 @@ title: "I Was a Warehouse Wage Slave"
 date: 2012-04-05 20:51:35 +0000
 external-url: http://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor
 hash: 8168c85fb6517140f1c854ef7a219cba
+annum:
+    year: 2012
+    month: 04
+hostname: www.motherjones.com
 ---
 
 This is a really compelling article that makes me think twice about what is behind all the commerce sites online.

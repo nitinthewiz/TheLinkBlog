@@ -3,6 +3,10 @@ title: "Fox Business Loses Domain Name Battle Due To Laziness"
 date: 2008-03-10 21:59:17 +0000
 external-url: http://gigaom.com/2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
 hash: f7014ea32c2fcbd152fc04b136765b52
+annum:
+    year: 2008
+    month: 03
+hostname: gigaom.com
 ---
 
 Talk about being dumb on the smallest of things: Fox Business Network has lost its battle for the domain name www.foxbusinessnetwork.com, because it did not register its trade marks early enough. Of course it owns FoxBusiness.com, so not a huge loss in the scheme of things.

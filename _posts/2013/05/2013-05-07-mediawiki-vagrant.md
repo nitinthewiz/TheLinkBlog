@@ -3,6 +3,10 @@ title: "Mediawiki-Vagrant"
 date: 2013-05-07 21:16:16 +0000
 external-url: http://www.mediawiki.org/wiki/MediaWiki-Vagrant
 hash: 3f3e3cc6ca9dff280e538c66cf431b17
+annum:
+    year: 2013
+    month: 05
+hostname: www.mediawiki.org
 ---
 
 Directions on loading a vagrant instance with MediaWiki.

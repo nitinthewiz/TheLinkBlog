@@ -3,6 +3,10 @@ title: "Move mapping"
 date: 2010-11-16 13:39:03 +0000
 external-url: http://bobulate.com/post/1591139175/move-mapping
 hash: 9ffe6cc32ebef1d19bd71241fd3eac87
+annum:
+    year: 2010
+    month: 11
+hostname: bobulate.com
 ---
 
 Move mapping: Map your moves is a visual exploration of where New Yorkers moved in the last decade by Moritz Stefaner:

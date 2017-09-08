@@ -3,6 +3,10 @@ title: "Journalism in the age of data"
 date: 2010-09-30 18:55:58 +0000
 external-url: http://kottke.org/10/09/journalism-in-the-age-of-data
 hash: 002c36655bdde332d98e1f437df9c6c8
+annum:
+    year: 2010
+    month: 09
+hostname: kottke.org
 ---
 
 A 50-minute documentary on information visualization and its use in journalism.

@@ -3,6 +3,10 @@ title: "Iceland Most Peaceful Country in World; Syria Dangerous"
 date: 2012-06-20 05:47:39 +0000
 external-url: http://newsfeed.time.com/2012/06/18/and-the-most-peaceful-country-in-the-world-is/
 hash: aa40e9ca21751d8a2aa2d9156b985b2b
+annum:
+    year: 2012
+    month: 06
+hostname: newsfeed.time.com
 ---
 
 Fun to be going to Iceland this September.

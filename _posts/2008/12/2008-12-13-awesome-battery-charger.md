@@ -3,6 +3,10 @@ title: "Awesome Battery Charger (with Total Crap UI)"
 date: 2008-12-13 08:32:45 +0000
 external-url: http://www.friday.com/bbum/2008/12/13/awesome-battery-charger-with-total-crap-ui/
 hash: e7d06bdb0f2c508351bc793296c9fc46
+annum:
+    year: 2008
+    month: 12
+hostname: www.friday.com
 ---
 
 

@@ -3,6 +3,10 @@ title: "Luma’s Wild Fall Season"
 date: 2010-12-18 10:20:00 +0000
 external-url: http://duncandavidson.com/blog/2010/12/six-hour-sellout
 hash: 42693ecbd9b427eb69ce80fe672ffdc4
+annum:
+    year: 2010
+    month: 12
+hostname: duncandavidson.com
 ---
 
 The last two months or so has been a wild ride at Luma Labs, the camera accessory company that I’m a co-owner of with Greg Koenig. To give a bit of background, we launched our company with an improved camera sling last year called the Loop to a warm reception. It did well and was a great product, but we knew it could be better. So we dug in, did our homework, and came up with a second-generation Loop that improved on every single aspect of the original, including having a bad-ass new connector that took a lot of collaboration and design work to come up with.

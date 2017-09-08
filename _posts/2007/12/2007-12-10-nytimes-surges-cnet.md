@@ -3,6 +3,10 @@ title: "NYTimes Surges, CNet Slumps"
 date: 2007-12-10 16:35:20 +0000
 external-url: http://techcrunch.com/2007/12/10/nytimes-surges-cnet-slumps/
 hash: ab0b240d793a1199144e470b6159d343
+annum:
+    year: 2007
+    month: 12
+hostname: techcrunch.com
 ---
 
 Ever since the NYTimes.com swept away the last remaining boulders of its subscription pay wall (aka Times Select) in mid-September, its traffic has been going through the roof.  According to comScore, it gained 7.5 million readers worldwide from the end of August through the end of October (November numbers are not out yet).  That is a 64 percent jump (to a total of 19.4 million).  Similarly worldwide monthly pageviews surged 52 percent in that time period to 181 million. Other major news outlets like BusinessWeek.com (4.4 million readers in October), the WSJ.com (3.6 million, with a subscriber wall), and Wired.com (3.2 million) saw gains as well during the Fall, but nothing as dramatic as the NYTimes.com.

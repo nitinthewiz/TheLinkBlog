@@ -3,6 +3,10 @@ title: "Adobe partners with Typekit to bring legendary typefaces to the web"
 date: 2010-08-16 15:50:39 +0000
 external-url: http://blog.typekit.com/2010/08/16/typekit-and-adobe/
 hash: 5d9a42dbe848e431f0acdf72d5840415
+annum:
+    year: 2010
+    month: 08
+hostname: blog.typekit.com
 ---
 
 Today marks the one-year anniversary of Typekit’s launch. It’s been an unbelievable 12 months of growth and learning, not just for us but for webfonts, web design, browser development, and so much more. And we can’t think of a better way to mark this moment than to announce one of our most exciting partnerships to date.

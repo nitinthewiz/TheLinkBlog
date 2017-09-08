@@ -3,6 +3,10 @@ title: "Calendar Hacks Code as Craft"
 date: 2014-07-18 17:40:27 +0000
 external-url: http://codeascraft.com/2014/07/15/calendar-hacks/
 hash: 80a1a87b02cf355974adf34e3e53abdd
+annum:
+    year: 2014
+    month: 07
+hostname: codeascraft.com
 ---
 
 Good tips. I do many of these myself. Very Google Calendar focused though.

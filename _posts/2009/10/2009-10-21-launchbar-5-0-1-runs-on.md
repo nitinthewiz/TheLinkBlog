@@ -3,6 +3,10 @@ title: "LaunchBar 5.0.1 Runs on Snow Leopard, Adds Clipboard History"
 date: 2009-10-21 00:36:20 +0000
 external-url: http://tidbits.com/article/10662
 hash: 9a4fed9acb92655d19dc1d9b025fbd22
+annum:
+    year: 2009
+    month: 10
+hostname: tidbits.com
 ---
 
 Any reader of TidBITS or my Take Control books is probably aware that I couldn't live without LaunchBar, from Objective Development Software. (See, for example, "Curing Your LaunchBar Addiction," 6 August 2007, or "Take Control of Exploring & Customizing Snow Leopard".) LaunchBar is so crucial to my moment-by-moment Mac usage that I can barely tolerate a Mac that lacks it; I just sit there, slack-jawed, inert, unable to proceed and get anything done. Naturally, in the run-up to Snow Leopard, I was concerned over whether my LaunchBar dependency would be rudely interrupted. But, no problem: LaunchBar 5, which had been 

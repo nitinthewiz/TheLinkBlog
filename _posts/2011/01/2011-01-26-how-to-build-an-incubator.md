@@ -3,6 +3,10 @@ title: "How To Build An Incubator That Wins"
 date: 2011-01-26 09:53:12 +0000
 external-url: http://www.cogmap.com/blog/2011/01/26/how-to-build-an-incubator-that-wins/
 hash: 7a685cd450575c682931817d5ed1518a
+annum:
+    year: 2011
+    month: 01
+hostname: www.cogmap.com
 ---
 
 There has been much talk on the periphery of my vision about building more incubators. Some people say to build 500. Some people say to build one in Baltimore.

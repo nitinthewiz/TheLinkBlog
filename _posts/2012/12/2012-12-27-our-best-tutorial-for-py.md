@@ -3,6 +3,10 @@ title: "Our best tutorial for dumpgenerator.py"
 date: 2012-12-27 20:42:02 +0000
 external-url: http://code.google.com/p/wikiteam/wiki/NewTutorial
 hash: c1c2e5ad631cff734e8ab34c91040dc5
+annum:
+    year: 2012
+    month: 12
+hostname: code.google.com
 ---
 
 Good overview of dumpgenerator.py which creates a MediaWiki backup using the API of a remote wiki. No local shell access is required.

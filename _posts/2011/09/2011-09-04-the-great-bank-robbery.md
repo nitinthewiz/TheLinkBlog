@@ -3,6 +3,10 @@ title: "The Great Bank Robbery - Nassim Nicholas Taleb           and  Mark Spitz
 date: 2011-09-04 22:23:21 +0000
 external-url: http://www.project-syndicate.org/commentary/taleb1/English
 hash: a4ac7488cd9c4a17ec1306d8c0b00f08
+annum:
+    year: 2011
+    month: 09
+hostname: www.project-syndicate.org
 ---
 
 

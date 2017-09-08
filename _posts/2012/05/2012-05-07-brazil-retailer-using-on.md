@@ -3,6 +3,10 @@ title: "Brazil retailer using Facebook likes on its clothing hangers"
 date: 2012-05-07 16:28:48 +0000
 external-url: http://venturebeat.com/2012/05/06/brazil-facebook-lies/
 hash: 36695c229709f1620a92681f22d763e3
+annum:
+    year: 2012
+    month: 05
+hostname: venturebeat.com
 ---
 
 The part missing from this is a QR code on the hangar that processes a Like action when you scan it. Surprising they didn't do that, not that hard to do. In general the idea of extending the digital world into the physical is something I like. This example too literal. Showing some derivation of raw data may be more compelling than a raw number and one metric.

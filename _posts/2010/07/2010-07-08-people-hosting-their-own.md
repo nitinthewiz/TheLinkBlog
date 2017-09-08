@@ -3,6 +3,10 @@ title: "People hosting their own servers"
 date: 2010-07-08 09:49:31 +0000
 external-url: http://scripting.com/stories/2010/07/08/peopleHostingTheirOwnServe.html
 hash: bba3426ff4a063ca7f5f44cceb445a59
+annum:
+    year: 2010
+    month: 07
+hostname: scripting.com
 ---
 
 My Scripting2 to-do list is getting small again, but there are still some big items there. One of them is to get an Amazon AMI ready for people to create their own blogging servers.

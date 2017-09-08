@@ -3,6 +3,10 @@ title: "Iceland Timelapse Compilatiion"
 date: 2012-09-25 15:08:25 +0000
 external-url: http://vimeo.com/26880424
 hash: c5f3fb472c38815ab8dfb4db91e55048
+annum:
+    year: 2012
+    month: 09
+hostname: vimeo.com
 ---
 
 This is a compilation of my best timelapses taken during my month in Iceland. 

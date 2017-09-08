@@ -3,6 +3,10 @@ title: "SeaDragon In Silverlight: The Coolest Bit From Mix Keynote One"
 date: 2008-03-05 22:49:25 +0000
 external-url: http://techcrunch.com/2008/03/05/seadragon-in-silverlight-the-coolest-bit-from-mix-keynote-one/
 hash: a557639235a5c5161c461a204f9a4b34
+annum:
+    year: 2008
+    month: 03
+hostname: techcrunch.com
 ---
 
 Hard Rock Cafe Memorabilia Site with Deep Zoom

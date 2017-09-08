@@ -3,6 +3,10 @@ title: "The Macintosh/iPhone Mind Meld"
 date: 2009-09-04 03:55:55 +0000
 external-url: http://tidbits.com/article/10529
 hash: 092896cc76913ce4dd40e1924977e0dd
+annum:
+    year: 2009
+    month: 09
+hostname: tidbits.com
 ---
 
 So you have a Mac, and you do have an iPhone (or other Bluetooth-compatible mobile phone - I don't have one of those, so I'm concentrating on the iPhone here). You're sitting at your Mac, working away, and the phone in your pocket rings. You could pull it out, check the caller ID, and decide whether or not your want to answer.

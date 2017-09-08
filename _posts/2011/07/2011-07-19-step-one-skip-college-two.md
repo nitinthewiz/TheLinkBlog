@@ -3,6 +3,10 @@ title: "Step one: skip college. Step two: launch a tech startup"
 date: 2011-07-19 00:36:08 +0000
 external-url: http://tech.mn/news/2011/07/18/syncmyad-nathan-reimnitz/
 hash: 1444a2b73fc579526a24ff650702dcac
+annum:
+    year: 2011
+    month: 07
+hostname: tech.mn
 ---
 
 At  the ripe age of 18 and while still in high school, entrepreneur Nathan  Reimnitz picked up a copy of “Freakonomics” and made a conscious decision to skip the traditional college path.

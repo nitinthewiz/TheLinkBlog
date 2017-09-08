@@ -3,6 +3,10 @@ title: "A Watch Guy's Thoughts On The Apple Watch After Seeing It In The Metal (
 date: 2014-09-12 08:17:30 +0000
 external-url: http://www.hodinkee.com/blog/hodinkee-apple-watch-review
 hash: 92153eca8cf10e3a984563320ae53397
+annum:
+    year: 2014
+    month: 09
+hostname: www.hodinkee.com
 ---
 
 A Watch Guy's Thoughts On The Apple Watch After Seeing It In The Metal (Tons Of Live Photos)

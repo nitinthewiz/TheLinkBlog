@@ -3,6 +3,10 @@ title: "The Hijacked Commission - NYTimes.com"
 date: 2010-11-15 00:43:40 +0000
 external-url: http://www.nytimes.com/2010/11/12/opinion/12krugman.html?partner=rssnyt&emc=rss
 hash: 583aba87be9500702b2f3dfef6f7e293
+annum:
+    year: 2010
+    month: 11
+hostname: www.nytimes.com
 ---
 
 Matters become clearer once you reach the section on tax reform. The goals of reform, as Mr. Bowles and Mr. Simpson see them, are presented in the form of seven bullet points. “Lower Rates” is the first point; “Reduce the Deficit” is the seventh.        

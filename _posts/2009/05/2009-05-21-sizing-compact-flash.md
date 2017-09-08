@@ -3,6 +3,10 @@ title: "Sizing Compact Flash Cards"
 date: 2009-05-21 04:43:11 +0000
 external-url: http://duncandavidson.com/2009/05/sizing-compact-flash-cards.html
 hash: 56884be0c222b7fb6a97e77c39eac242
+annum:
+    year: 2009
+    month: 05
+hostname: duncandavidson.com
 ---
 
 Earlier tonight, as I was prepping for shooting the Where 2.0 Conference tomorrow in San Jose,  I had all my compact flash cards with me laid out on the desk. For whatever reason, I snapped a picture and tweeted it saying, “I finally feel like I have enough CF cards for just about anything life throws at me. Maybe.” 

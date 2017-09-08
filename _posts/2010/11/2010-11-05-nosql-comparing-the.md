@@ -3,6 +3,10 @@ title: "NoSQL: Comparing the Different Solutions"
 date: 2010-11-05 01:35:00 +0000
 external-url: http://readwrite.com/2010/11/04/nosql-comparison
 hash: 9fb2fd382ac140a785c25d0261aadf72
+annum:
+    year: 2010
+    month: 11
+hostname: readwrite.com
 ---
 
 Adrian Cockcroft, a cloud architect at Netflix, is running a series of posts looking at how different NoSQL databases handle common cloud computing tasks. All the usual disclaimers apply: SQL is good for some things, and different scenarios call for different NoSQL solutions. No one solution is necessarily "better" overall. However, as Cockcroft writes "We need a basis for comparison across them, so that we understand the differences in behavior."

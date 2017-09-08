@@ -3,6 +3,10 @@ title: "AOL Gets Serious About Finance"
 date: 2007-11-28 05:16:13 +0000
 external-url: http://techcrunch.com/2007/11/27/aol-gets-serious-about-finance/
 hash: 738ecd64332849b722909541d2a8dbfe
+annum:
+    year: 2007
+    month: 11
+hostname: techcrunch.com
 ---
 
 AOL Money and Finance has been around almost as long as AOL itself - forever in Internet time. But theyve sat on the sidelines as Yahoo periodically updated their own property, and Google launched their own competing site.

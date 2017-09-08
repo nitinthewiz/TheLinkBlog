@@ -3,6 +3,10 @@ title: "Simple rules —a n n i e m u e l l e r “People crave simplicity. Well
 date: 2017-03-26 00:04:05 +0000
 external-url: http://anniemueller.com/2017/03/23/the-power-of-simple-rules/
 hash: 08b00a3473018e27c16d3dc851e046f4
+annum:
+    year: 2017
+    month: 03
+hostname: anniemueller.com
 ---
 
 

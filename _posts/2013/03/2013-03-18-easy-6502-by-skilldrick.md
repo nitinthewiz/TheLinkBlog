@@ -3,6 +3,10 @@ title: "Easy 6502 by skilldrick"
 date: 2013-03-18 21:29:04 +0000
 external-url: http://skilldrick.github.io/easy6502/
 hash: 8d5a7431c5627ed8987fb872997e009d
+annum:
+    year: 2013
+    month: 03
+hostname: skilldrick.github.io
 ---
 
 Running a 6502 assembler simulator in Javascript? Yeah, that's cool.

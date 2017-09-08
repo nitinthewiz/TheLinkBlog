@@ -3,6 +3,10 @@ title: "The Citadel : A Community of Liberty"
 date: 2013-01-30 15:31:15 +0000
 external-url: http://iiicitadel.blogspot.com/
 hash: 28e7bec6e587388d1852860f7f35ee25
+annum:
+    year: 2013
+    month: 01
+hostname: iiicitadel.blogspot.com
 ---
 
 ...of course this is in Idaho.

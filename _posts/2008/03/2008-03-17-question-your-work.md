@@ -3,6 +3,10 @@ title: "Question your work"
 date: 2008-03-17 20:15:00 +0000
 external-url: http://www.37signals.com/svn/posts/913-question-your-work
 hash: 4ed4d1feb3208559222f805a69131295
+annum:
+    year: 2008
+    month: 03
+hostname: www.37signals.com
 ---
 
 A slide from my South by Southwest presentation:

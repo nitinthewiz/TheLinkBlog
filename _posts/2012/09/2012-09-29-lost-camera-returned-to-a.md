@@ -3,6 +3,10 @@ title: "Lost Camera Returned To Owner After Three Years In A Creek"
 date: 2012-09-29 23:55:10 +0000
 external-url: http://www.popphoto.com/news/2012/08/lost-camera-returned-to-owner-after-three-years-creek
 hash: fe2ccd2975f845184b47ee00227fec3e
+annum:
+    year: 2012
+    month: 09
+hostname: www.popphoto.com
 ---
 
 Fun story. Makes me feel good about my Sandisk Ultra cards.

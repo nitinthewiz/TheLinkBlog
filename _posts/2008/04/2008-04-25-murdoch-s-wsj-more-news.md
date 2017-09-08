@@ -3,6 +3,10 @@ title: "Murdoch's WSJ: More News, Less Business"
 date: 2008-04-25 17:04:00 +0000
 external-url: http://www.businessinsider.com/2008/4/murdoch-s-wsj-it-really-is-different
 hash: 9b7cd71073a4c9e0bf01d7a436ae57f2
+annum:
+    year: 2008
+    month: 04
+hostname: www.businessinsider.com
 ---
 
 Keep forgetting what paper you're reading when you crack the WSJ in the morning? It's not you. It really is different since Rupert Murdoch bought it last year.

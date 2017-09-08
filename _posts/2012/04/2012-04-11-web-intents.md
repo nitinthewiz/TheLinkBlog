@@ -3,6 +3,10 @@ title: "Web Intents"
 date: 2012-04-11 20:06:36 +0000
 external-url: http://www.webintents.org/
 hash: e335a11c95df64fc91b865ae730ba81c
+annum:
+    year: 2012
+    month: 04
+hostname: www.webintents.org
 ---
 
 Looks interesting, am somewhat skeptical it will ever get adopted.

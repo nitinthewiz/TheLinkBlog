@@ -3,6 +3,10 @@ title: "Eat Local Challenge - Chase's Daily"
 date: 2012-08-19 01:27:45 +0000
 external-url: http://www.eatlocalchallenge.com/2006/06/chases_daily.html
 hash: 27b8289299d0c27618b1a4fa1c9fd724
+annum:
+    year: 2012
+    month: 08
+hostname: www.eatlocalchallenge.com
 ---
 
 We had a fabulous lunch at Chase's Daily on our Maine vacation. Everything about the place was great, in every way. Plus, as an added bonus, the first cold press coffee I found in Maine.

@@ -3,6 +3,10 @@ title: "A Space Shuttle on the Streets of Los Angeles"
 date: 2012-10-15 21:15:31 +0000
 external-url: http://www.theatlantic.com/infocus/2012/10/a-space-shuttle-on-the-streets-of-los-angeles/100386/
 hash: 85e6ad85b48c9bf7e29e6fe888cb2509
+annum:
+    year: 2012
+    month: 10
+hostname: www.theatlantic.com
 ---
 
 Every one of these shots is just awesome.

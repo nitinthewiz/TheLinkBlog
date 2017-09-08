@@ -3,6 +3,10 @@ title: "Whois Masking Considered Harmful"
 date: 2011-04-16 16:34:45 +0000
 external-url: http://www.circleid.com/posts/20081120_whois_masking_considered_harmful/
 hash: 250e54c45a0071a4456707c0f30a93e3
+annum:
+    year: 2011
+    month: 04
+hostname: www.circleid.com
 ---
 
 Via iWantMyName’s FAQ on why they don’t offer a “domain privacy” service:

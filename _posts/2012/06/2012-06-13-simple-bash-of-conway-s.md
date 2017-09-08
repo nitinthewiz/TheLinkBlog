@@ -3,6 +3,10 @@ title: "Simple Bash implementation of Conway's Game of Life"
 date: 2012-06-13 17:15:24 +0000
 external-url: https://code.google.com/p/conways-game-of-life-bash/
 hash: 427674354f40b7f4df504372d705b212
+annum:
+    year: 2012
+    month: 06
+hostname: code.google.com
 ---
 
 A bash implementation of the game of life. Awesome! I would love to put this on the LightBrite at CoCoMSP. Out of the box the script doesn't want to work well on my Mac (which has bash 3.2.48).

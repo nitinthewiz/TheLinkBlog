@@ -3,6 +3,10 @@ title: "Woz: How it all began"
 date: 2008-06-21 20:30:00 +0000
 external-url: http://www.tuaw.com/2008/06/21/woz-how-it-all-began/
 hash: 415a968efc0e68b72912c6419ab5e996
+annum:
+    year: 2008
+    month: 06
+hostname: www.tuaw.com
 ---
 
 Filed under: The Woz

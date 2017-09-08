@@ -3,6 +3,10 @@ title: "Rails premieres on GitHub"
 date: 2008-04-11 14:45:00 +0000
 external-url: http://weblog.rubyonrails.org/2008/4/11/rails-premieres-on-github/
 hash: 5acae77563d9223e5c03c836ef6c3da8
+annum:
+    year: 2008
+    month: 04
+hostname: weblog.rubyonrails.org
 ---
 
 GitHub has now officially launched and Rails is right there at the premiere. The Rails repository now lives at rails/rails and you can check it out with:

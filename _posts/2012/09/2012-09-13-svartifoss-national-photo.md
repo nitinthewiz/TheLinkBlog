@@ -3,6 +3,10 @@ title: "Svartifoss - National Geographic Photo of the Day"
 date: 2012-09-13 02:03:58 +0000
 external-url: http://photography.nationalgeographic.com/photography/photo-of-the-day/svartifoss-waterfall-iceland/
 hash: d40b3f2634b8c7ea40652504e668d61e
+annum:
+    year: 2012
+    month: 09
+hostname: photography.nationalgeographic.com
 ---
 
 Amazing looking waterfall with very cool lava columns. Need to put this on the list for the 2nd visit.

@@ -3,6 +3,10 @@ title: "Don't tackle your own good news"
 date: 2008-06-10 14:01:00 +0000
 external-url: http://www.37signals.com/svn/posts/1070-dont-tackle-your-own-good-news
 hash: d4ae838201f534816082d10e9cf97096
+annum:
+    year: 2008
+    month: 06
+hostname: www.37signals.com
 ---
 
 When we launched the new Backpack, we were going to increase the prices across the board. It was a big overhaul and we felt the improvements were worth it.

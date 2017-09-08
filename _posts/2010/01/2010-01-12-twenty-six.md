@@ -3,6 +3,10 @@ title: "Twenty-six"
 date: 2010-01-12 01:21:12 +0000
 external-url: http://ma.tt/2010/01/twenty-six/
 hash: ee6de6b338b9c99f9ee819c1d7b85834
+annum:
+    year: 2010
+    month: 01
+hostname: ma.tt
 ---
 
 Today is my birthday! It is also, if you write it the right way, a palindrome: 01-11-10. (Hat tip: Mike Adams.)

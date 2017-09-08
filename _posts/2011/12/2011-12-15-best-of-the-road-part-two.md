@@ -3,6 +3,10 @@ title: "Best Of The Road – Part Two | Smaller Than A Redwood"
 date: 2011-12-15 20:49:43 +0000
 external-url: http://smallerthanaredwood.com/best-of-the-road-part-two/
 hash: 88a995ad1e5c29a0584ed929365613dd
+annum:
+    year: 2011
+    month: 12
+hostname: smallerthanaredwood.com
 ---
 
 Best Of The Road – Part Two:

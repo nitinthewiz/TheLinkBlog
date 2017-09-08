@@ -3,6 +3,10 @@ title: "News CorpFox Close To Deal With Apple For iTunes Movies: Report"
 date: 2007-12-03 18:14:09 +0000
 external-url: http://gigaom.com/2007/12/04/419-news-corp-fox-in-talks-with-apple-for-itunes-movies-report/
 hash: 15e052b40b8efdfec3fe0f064941291b
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 News Corp and its studio Twentieth Century Fox are close to a deal with Apple (NSDQ: AAPL) to begin offering new releases and catalog movie titles through iTunes beginning in early 2008, reports Pali analyst Richard Greenfield, in a blog post (reg. req.) He said the two sides are waiting till early 2008 prevents any impact to the all-important holiday DVD selling season. Disney (NYSE: DIS) is the only major studio with full catalog within iTunes for now, while Paramount, Lionsgate and MGM have partial catalog deals.

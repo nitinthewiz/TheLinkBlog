@@ -3,6 +3,10 @@ title: "Tunnel Bear VPN — MacSparky"
 date: 2015-06-25 03:27:04 +0000
 external-url: http://macsparky.com/blog/2015/6/tunnel-bear-vpn
 hash: eb3890cdddf67e23cdc1a02da3562a67
+annum:
+    year: 2015
+    month: 06
+hostname: macsparky.com
 ---
 
 I've been on the road a lot the last few weeks and, as happens when you travel, spent a lot of time around tempting, yet unknown, public WiFi. . So I decided to get more serious about VPN.

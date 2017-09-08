@@ -3,6 +3,10 @@ title: "Twitter: You Say Transparency, I Say Vulnerability"
 date: 2009-10-22 03:45:34 +0000
 external-url: http://techcrunch.com/2009/10/21/twitter-you-say-transperancy-i-say-vulnerability/
 hash: 6ef9749925438ecdce25900509b90b87
+annum:
+    year: 2009
+    month: 10
+hostname: techcrunch.com
 ---
 
 

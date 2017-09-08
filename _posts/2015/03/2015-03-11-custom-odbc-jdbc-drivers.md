@@ -3,6 +3,10 @@ title: "Custom ODBC/JDBC Drivers and Query Visualization for Amazon Redshift | A
 date: 2015-03-11 03:19:38 +0000
 external-url: https://aws.amazon.com/blogs/aws/custom-odbcjdbc-drivers-and-query-visualization-for-amazon-redshift/
 hash: e2c85acd841f5322b142fefb80a1823d
+annum:
+    year: 2015
+    month: 03
+hostname: aws.amazon.com
 ---
 
 

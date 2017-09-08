@@ -3,6 +3,10 @@ title: "New in Highrise: Inline editing of notes and emails"
 date: 2007-11-29 18:19:02 +0000
 external-url: http://37signals.blogs.com/products/2007/11/new-in-highrise.html
 hash: ae02eb874ca2f9d42e34a69befabd758
+annum:
+    year: 2007
+    month: 11
+hostname: 37signals.blogs.com
 ---
 
 Here's a new feature that will make editing and deleting Highrise notes and emails a lot faster: Inline editing.

@@ -3,6 +3,10 @@ title: "DNS for RSS feeds"
 date: 2009-09-21 03:57:52 +0000
 external-url: http://www.scripting.com/stories/2009/09/20/dnsForRssFeeds.html
 hash: db90762f12ad0e05295f682b55fbdc5b
+annum:
+    year: 2009
+    month: 09
+hostname: www.scripting.com
 ---
 
 Here is a Unix shell command that gets the address of my RSS feed: dig +short davewiner.supercloud.org TXT

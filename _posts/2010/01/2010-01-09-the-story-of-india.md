@@ -3,6 +3,10 @@ title: "The Story of India"
 date: 2010-01-09 01:52:57 +0000
 external-url: http://truefilms.com/2010/01/the-story-of-in
 hash: 6d47e4db132f9017b102a963968441c6
+annum:
+    year: 2010
+    month: 01
+hostname: truefilms.com
 ---
 
 Originally posted in True Films

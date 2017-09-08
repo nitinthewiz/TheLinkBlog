@@ -3,6 +3,10 @@ title: "Seattle Surprise"
 date: 2009-08-11 03:29:01 +0000
 external-url: http://newspaperdeathwatch.com/seattle-surprise-2.html
 hash: 32fdd1c05cd5719183d24159260ac0f5
+annum:
+    year: 2009
+    month: 08
+hostname: newspaperdeathwatch.com
 ---
 
 Things are looking up in Seattle. Shortly after the closing of the Seattle Post-Intelligencer just five months ago, the surviving Seattle Times asked publicly if the city was about to become a “no-newspaper town.” Hardly. Since the P-I went under, circulation at the Times has shot up 30% to 260,000 daily readers. The paper has crept back into the black on a month-t0-month basis and is enjoying its best outlook in years.

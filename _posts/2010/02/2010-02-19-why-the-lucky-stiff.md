@@ -3,6 +3,10 @@ title: "why the lucky stiff"
 date: 2010-02-19 22:22:22 +0000
 external-url: http://why.usesthis.com/
 hash: 4efb73ad817ef89587be12b30db051f0
+annum:
+    year: 2010
+    month: 02
+hostname: why.usesthis.com
 ---
 
 

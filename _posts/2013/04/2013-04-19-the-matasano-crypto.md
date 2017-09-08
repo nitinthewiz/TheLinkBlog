@@ -3,6 +3,10 @@ title: "The Matasano Crypto Challenges"
 date: 2013-04-19 16:32:58 +0000
 external-url: http://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/
 hash: 6970bab6bca27b285804501ed4d6d549
+annum:
+    year: 2013
+    month: 04
+hostname: blog.pinboard.in
 ---
 
 Maciej runs Pinboard, and is extremely down to earth about tech... plus he writes in a direct good fashion. His insights around security are interesting.

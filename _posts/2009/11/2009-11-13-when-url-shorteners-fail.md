@@ -3,6 +3,10 @@ title: "When URL shorteners fail"
 date: 2009-11-13 21:46:35 +0000
 external-url: http://kottke.org/09/11/when-url-shorteners-fail
 hash: d4a3e75336d43c0ce2adc57259b4dc48
+annum:
+    year: 2009
+    month: 11
+hostname: kottke.org
 ---
 
 URL shorteners still suck, but several URL shortening services have agreed to hand over the keys to 301Works in the event that a URL shortening company goes under. 301Works will be administered by Internet Archive.

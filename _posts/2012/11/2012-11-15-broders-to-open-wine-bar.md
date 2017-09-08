@@ -3,6 +3,10 @@ title: "Broders' to Open Wine Bar in Former Pierre's"
 date: 2012-11-15 04:58:39 +0000
 external-url: http://heavytable.com/broders-to-open-wine-bar-in-former-pierres/
 hash: bbe079536be980ef16bcf7e10b4009b4
+annum:
+    year: 2012
+    month: 11
+hostname: heavytable.com
 ---
 
 This is great news! Am sad to see Pierre's close though.

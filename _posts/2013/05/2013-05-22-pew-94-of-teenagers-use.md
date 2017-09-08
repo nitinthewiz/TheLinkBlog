@@ -3,6 +3,10 @@ title: "Pew: 94% Of Teenagers Use Facebook, Have 425 Facebook Friends, But Twitt
 date: 2013-05-22 19:43:54 +0000
 external-url: http://marketingland.com/pew-the-average-teenager-has-425-4-facebook-friends-44847
 hash: ea18b93371a0c9a06812038a8bebf1af
+annum:
+    year: 2013
+    month: 05
+hostname: marketingland.com
 ---
 
 67% of teens use daily.

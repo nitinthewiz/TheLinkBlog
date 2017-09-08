@@ -3,6 +3,10 @@ title: "Reflections on a Black Widow"
 date: 2009-06-13 23:58:20 +0000
 external-url: http://www.friday.com/bbum/2009/06/13/reflections-on-a-black-widow/
 hash: d51f8f84b63fc8df4322b52c04afaf2b
+annum:
+    year: 2009
+    month: 06
+hostname: www.friday.com
 ---
 
 

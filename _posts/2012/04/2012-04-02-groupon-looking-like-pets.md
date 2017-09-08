@@ -3,6 +3,10 @@ title: "Groupon looking like Pets.com of current tech boom"
 date: 2012-04-02 21:24:21 +0000
 external-url: http://www.marketwatch.com/story/interesting-numbers-in-groupons-filing-2012-04-02
 hash: ea7045cf3f8a9b04d34164f005ca3c1f
+annum:
+    year: 2012
+    month: 04
+hostname: www.marketwatch.com
 ---
 
 Never been a fan of Groupon. Thinking I will be vindicated in that over the not too distant future.

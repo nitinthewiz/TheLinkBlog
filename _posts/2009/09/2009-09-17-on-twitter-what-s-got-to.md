@@ -3,6 +3,10 @@ title: "On Twitter: What's Valuation Got to Do With Revenue?"
 date: 2009-09-17 01:54:12 +0000
 external-url: http://www.readwriteweb.com/archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
 hash: 92860a5090b064e4615d7cd97bdcb9a2
+annum:
+    year: 2009
+    month: 09
+hostname: www.readwriteweb.com
 ---
 
 While it's unlikely that Twitter CEO Evan Williams was wearing a Dr. Evil costume when he delivered the news, he had the pleasure of announcing his company's $1 billion dollar valuation today at an all hands meeting. According to TechCrunch, the company has raised a $50 million dollar funding round and the money will be in the bank shortly. Given the fact that Twitter turned down an offer to be purchased by Facebook earlier in the year, it appears the two are about to tango.

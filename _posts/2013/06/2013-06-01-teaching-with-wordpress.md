@@ -3,6 +3,10 @@ title: "Teaching with WordPress just got easy - WooThemes"
 date: 2013-06-01 21:38:40 +0000
 external-url: http://www.woothemes.com/2013/01/teaching-with-wordpress-just-got-easy/
 hash: 695b31ec5daf2164975b986f7d481824
+annum:
+    year: 2013
+    month: 06
+hostname: www.woothemes.com
 ---
 
 This could be the tool to start making some Planet Kubb courses.

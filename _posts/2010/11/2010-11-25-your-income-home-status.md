@@ -3,6 +3,10 @@ title: "Your Income, Home Ownership & Parenthood Status Now Available as an API"
 date: 2010-11-25 02:00:01 +0000
 external-url: http://www.readwriteweb.com/archives/your_income_home_ownership_parenthood_status_privacy_api.php
 hash: 4c7a0001e3a1205afd3ab7d965614b10
+annum:
+    year: 2010
+    month: 11
+hostname: www.readwriteweb.com
 ---
 
 Personal information aggregation service Rapleaf announced to its developers today that it now offers "lifestyle" information like home ownership status, occupation and income corresponding with any email or postal address in its database.

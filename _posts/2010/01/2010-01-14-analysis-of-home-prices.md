@@ -3,6 +3,10 @@ title: "Analysis of home prices in terms of weeks of work"
 date: 2010-01-14 05:12:03 +0000
 external-url: http://blogs.law.harvard.edu/philg/2010/01/13/analysis-of-home-prices-in-terms-of-weeks-of-work/
 hash: 1781c595c60ed501a6717577e1f47313
+annum:
+    year: 2010
+    month: 01
+hostname: blogs.law.harvard.edu
 ---
 
 This Wall Street Journal article has an interesting analysis of U.S. home prices in terms of how many weeks an average American would have to work to pay for the mortgage on a house or for the house itself. The conclusion is that houses are cheap and therefore should not fall further in value. Nowhere in this analysis does the author, Brett Arends, consider the employment situation. If median earnings for those who continue to be in the workforce remain the same but 2 million more Americans lose their jobs, that’s approximately 1 million mortgages that won’t be paid. There isn’t a lot of demand for new or upgraded housing from unemployed people, who ultimately will have to move in with relatives.

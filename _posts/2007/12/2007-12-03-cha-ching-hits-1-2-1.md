@@ -3,6 +3,10 @@ title: "Cha-ching hits 1.2.1"
 date: 2007-12-03 20:30:00 +0000
 external-url: http://www.tuaw.com/2007/12/03/cha-ching-hits-1-2-1/
 hash: 19305b4cbb1f7b6d8f890203a806bec0
+annum:
+    year: 2007
+    month: 12
+hostname: www.tuaw.com
 ---
 
 Filed under: Software, Software Update

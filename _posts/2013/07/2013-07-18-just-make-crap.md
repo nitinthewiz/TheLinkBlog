@@ -3,6 +3,10 @@ title: "Just Make Crap"
 date: 2013-07-18 15:35:14 +0000
 external-url: http://just.makecrap.com/
 hash: 048d87df69c28fec9aa1f466fcb39fad
+annum:
+    year: 2013
+    month: 07
+hostname: just.makecrap.com
 ---
 
 Great idea, but the kerning is a little off on the type. :-P

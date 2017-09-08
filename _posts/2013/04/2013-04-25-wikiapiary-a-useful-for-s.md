@@ -3,6 +3,10 @@ title: "Wikiapiary a useful website for MediaWiki admins - Yury Katkov's weblog"
 date: 2013-04-25 16:46:16 +0000
 external-url: http://www.ykatkov.name/2013/04/18/wikiapiary-a-useful-website-for-mediawiki-admins/
 hash: b424357fffe03ad6f942409af5b5746d
+annum:
+    year: 2013
+    month: 04
+hostname: www.ykatkov.name
 ---
 
 Nice writeup from Yury Katkov on WikiApiary!

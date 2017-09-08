@@ -3,6 +3,10 @@ title: "Twilio for Calculus Class at Ohio State University"
 date: 2010-03-04 04:45:29 +0000
 external-url: http://www.twilio.com/blog/2010/03/using-twlio-in-the-classroom-twilio-for-calculus.html
 hash: d15d7191df6f4f319f570374bebcc31d
+annum:
+    year: 2010
+    month: 03
+hostname: www.twilio.com
 ---
 
 Sometimes we get emails so awesome, they just need to be shared verbatim instead of written up as some kind of editorial on an app. Check out this note from Jim Fowler, a professor at Ohio State University:

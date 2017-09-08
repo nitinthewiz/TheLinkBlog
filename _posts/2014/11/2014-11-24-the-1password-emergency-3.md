@@ -3,6 +3,10 @@ title: "The 1Password Emergency Kit: Version 3.0"
 date: 2014-11-24 04:14:34 +0000
 external-url: http://www.productivityist.com/blog/1password-emergency-kit-3
 hash: 2febfcbf916f4d5b461d3f11b60cc284
+annum:
+    year: 2014
+    month: 11
+hostname: www.productivityist.com
 ---
 
 It's been a while since I updated The 1Password Emergency Kit I created a 

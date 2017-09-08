@@ -3,6 +3,10 @@ title: "New Super Mario Bros. Wii review: impressive, and then some"
 date: 2009-11-16 06:03:04 +0000
 external-url: http://arstechnica.com/gaming/reviews/2009/11/new-super-mario-bros-wii-review-impressive-and-then-some.ars
 hash: 3adf3aa4d314949a925418311ddf0c95
+annum:
+    year: 2009
+    month: 11
+hostname: arstechnica.com
 ---
 
 New Super Mario Bros. Wii is one of those games that will leave you disappointed after the first level, slightly happy after the first world, and then you'll be stuck with a huge grin on your face after blasting through the game with three friends. This is a magical game, made even more impressive by how rote it may seem at first. Keep playing, however, and you'll see just how much this title offers.

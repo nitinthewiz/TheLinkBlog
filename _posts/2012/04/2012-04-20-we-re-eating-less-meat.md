@@ -3,6 +3,10 @@ title: "We're Eating Less Meat. Why?"
 date: 2012-04-20 02:54:44 +0000
 external-url: http://opinionator.blogs.nytimes.com/2012/01/10/were-eating-less-meat-why/
 hash: b87703f52d8db802e35777c7f838c033
+annum:
+    year: 2012
+    month: 04
+hostname: opinionator.blogs.nytimes.com
 ---
 
 I think we forget that companies make a lot of money getting us to shove food into our mouth, and a big percentage of those companies are schilling animal products. The theoretical "War on Meat" reference from industry is ridiculous, but so typical of American companies. It's not enough to get the government out of their way, they want the government pushing the product.

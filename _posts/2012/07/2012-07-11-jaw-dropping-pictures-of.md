@@ -3,6 +3,10 @@ title: "Jaw-Dropping Pictures of Iceland"
 date: 2012-07-11 03:31:57 +0000
 external-url: http://abduzeedo.com/jaw-dropping-pictures-iceland
 hash: 4f84d2be2712ee3a4ac78c0270b76dfd
+annum:
+    year: 2012
+    month: 07
+hostname: abduzeedo.com
 ---
 
 This just makes me even more excited about going to Iceland in early September.

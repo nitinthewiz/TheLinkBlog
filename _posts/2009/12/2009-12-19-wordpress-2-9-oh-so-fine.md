@@ -3,6 +3,10 @@ title: "WordPress 2.9, oh so fine"
 date: 2009-12-19 05:44:31 +0000
 external-url: http://wordpress.org/development/2009/12/wordpress-2-9/
 hash: 94cabe39deab212f833bf08635c6e766
+annum:
+    year: 2009
+    month: 12
+hostname: wordpress.org
 ---
 
 I want to make you mine, all the time… oh wait. Hello. I’m here on behalf of the entire WordPress development team and community to announce the immediate availability of WordPress version 2.9 “Carmen” named in honor of magical jazz vocalist Carmen McRae (whom we’ve added to our Last.fm WP release station). You can upgrade easily from your Dashboard by going to Tools > Upgrade, or you can download from WordPress.org. 

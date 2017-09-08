@@ -3,6 +3,10 @@ title: "Square is the new round."
 date: 2008-12-04 19:39:00 +0000
 external-url: http://googlereader.blogspot.com/2008/12/square-is-new-round.html
 hash: 97eecdbf2e759603b1fa28b1666e2607
+annum:
+    year: 2008
+    month: 12
+hostname: googlereader.blogspot.com
 ---
 
 On the Reader team, we know that the old adage "change is good" isn't always true. Sometimes, change is just change.  In this case, we hope that these decisions both improve your Reader experience today, and pave the way for additional improvements down the line. So...what's changing, you ask?

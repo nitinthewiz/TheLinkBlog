@@ -3,6 +3,10 @@ title: "Why nerd culture must die « Pete Warden's blog"
 date: 2014-10-06 12:28:51 +0000
 external-url: http://petewarden.com/2014/10/05/why-nerd-culture-must-die/
 hash: 77d3b0cffbab0650c24f77ef888f6ad9
+annum:
+    year: 2014
+    month: 10
+hostname: petewarden.com
 ---
 
 I’m not claiming to know the answers, but you don’t have to be a social justice warrior to notice something is going very wrong somewhere. Even the Jargon File acknowledged, to paraphrase, that hackers routinely behave like assholes. Is it a crazy leap to imagine that this deeply-rooted tolerance of terrible behavior might drive people away?

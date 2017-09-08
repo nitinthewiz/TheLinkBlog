@@ -3,6 +3,10 @@ title: "Muxtape: Beautifully simple"
 date: 2008-03-25 19:42:00 +0000
 external-url: http://www.37signals.com/svn/posts/933-muxtape-beautifully-simple
 hash: 6b02b54b0f4f6102c83f32a830ba7690
+annum:
+    year: 2008
+    month: 03
+hostname: www.37signals.com
 ---
 
 Man… I just adore simple solutions like Muxtape. Here’s a sample muxtape for reference.

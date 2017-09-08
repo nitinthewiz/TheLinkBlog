@@ -3,6 +3,10 @@ title: "How can that be free?"
 date: 2010-09-27 15:16:17 +0000
 external-url: http://www.woothemes.com/2010/09/how-can-that-be-free/
 hash: c6bd11d8e4dc83e3bcd525de9e890cec
+annum:
+    year: 2010
+    month: 09
+hostname: www.woothemes.com
 ---
 
 A customizable and clean free theme.

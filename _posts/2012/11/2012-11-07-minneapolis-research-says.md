@@ -3,6 +3,10 @@ title: "Minneapolis: Research says you should move to the Twin Cities"
 date: 2012-11-07 23:04:37 +0000
 external-url: http://www.slate.com/blogs/moneybox/2012/11/06/minneapolis_research_says_you_should_move_to_the_twin_cities.html
 hash: ec20a8aef949b3d17ec205e4ecf70329
+annum:
+    year: 2012
+    month: 11
+hostname: www.slate.com
 ---
 
 All the great things about the Twin Cities.

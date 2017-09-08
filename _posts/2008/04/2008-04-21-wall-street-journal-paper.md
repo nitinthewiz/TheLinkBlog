@@ -3,6 +3,10 @@ title: "Wall Street Journal Paper Redesign: Launching Tomorrow; Broader Focus"
 date: 2008-04-21 19:41:23 +0000
 external-url: http://gigaom.com/2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
 hash: efa2a7407c07728a762975116461b684
+annum:
+    year: 2008
+    month: 04
+hostname: gigaom.com
 ---
 
 The much-anticipated Wall Street Journal print redesign is launching tomorrow, as this long Newsweek story writes about, including positioning it as Rupert Murdoch's full frontal assault on the New York Times (NYSE: NYT). The series of editorial and design changes, which is more evolutionary than revolutionary, will include:

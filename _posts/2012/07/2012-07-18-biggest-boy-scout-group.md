@@ -3,6 +3,10 @@ title: "Biggest Boy Scout group in Minn. to stay inclusive"
 date: 2012-07-18 16:55:12 +0000
 external-url: http://www.startribune.com/local/west/162817346.html
 hash: 50d1302073798b03ee5bd8f778ba72cc
+annum:
+    year: 2012
+    month: 07
+hostname: www.startribune.com
 ---
 
 Ira is a friend of mine. Nice to see him in this article and taking a strong position. The rest of the article is infuriating and highlights how far society has to go on gay rights. Two quotes from mothers terming this discriminatory practice as "protecting" their kids saddens me.

@@ -3,6 +3,10 @@ title: "The Best Camera"
 date: 2009-09-22 22:13:56 +0000
 external-url: http://blog.duncandavidson.com/2009/09/the-best-camera.html
 hash: 091081bf3066575ebe4ba57565379334
+annum:
+    year: 2009
+    month: 09
+hostname: blog.duncandavidson.com
 ---
 
 Since the moment he got his iPhone, Chase Jarvis has been snapping like mad living up to the meme of the best camera is the one you have with you. If you couldn't guess, I totally agree with him, having been pushing out a lot of iPhone photography myself. Well, now he's gone and pushed up the game by collaboration with some software devs and putting together both a new iPhone photo processing application and social website.

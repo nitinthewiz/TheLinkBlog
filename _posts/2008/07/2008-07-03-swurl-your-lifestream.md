@@ -3,6 +3,10 @@ title: "Swurl: Your Lifestream, Made Beautiful"
 date: 2008-07-03 23:23:38 +0000
 external-url: http://readwrite.com/2008/07/03/swurl_your_lifestream_made_bea
 hash: bdbee51847f3c1e6f0c7b2b31e4d0741
+annum:
+    year: 2008
+    month: 07
+hostname: readwrite.com
 ---
 
 RSS is magic and the things we do online are often beautiful - so why are all the interfaces for displaying the feeds of our activities so ugly?  Enter Swurl, a visually stunning system for displaying a timeline of your activities on various sites around the web.

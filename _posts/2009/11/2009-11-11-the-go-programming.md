@@ -3,6 +3,10 @@ title: "The Go Programming Language"
 date: 2009-11-11 02:42:52 +0000
 external-url: http://golang.org/
 hash: ac48772220bc32723807032f9a262b68
+annum:
+    year: 2009
+    month: 11
+hostname: golang.org
 ---
 
 New systems level programming language from Google (but, judging from the copyright statements, not an official Google project). Go has built-in garbage collection, a simpler syntax than Java or C++, fast compilation times and excellent performance — and it was designed with concurrency in mind. Interesting and ambitious, to say the least.

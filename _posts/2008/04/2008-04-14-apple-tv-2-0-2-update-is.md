@@ -3,6 +3,10 @@ title: "Apple TV 2.0.2 Update is here, no one knows why"
 date: 2008-04-14 21:15:44 +0000
 external-url: http://appletvsource.com/content/view/607/
 hash: 7a539d0fa03b1097b952bda83d12d9d0
+annum:
+    year: 2008
+    month: 04
+hostname: appletvsource.com
 ---
 
 Two weeks after Apple release the 2.0.1 update for the Apple TV, the company has released yet another update.  And just like the 2.0.1 update, nobody knows exactly what this update is for.

@@ -3,6 +3,10 @@ title: "Wikimedia Celebrates Hewlett Grant"
 date: 2009-08-23 21:22:10 +0000
 external-url: http://www.readwriteweb.com/archives/wikimedia_celebrates_hewlett_grant.php
 hash: 6850e0b6c4043f85a2360ac9f3d09496
+annum:
+    year: 2009
+    month: 08
+hostname: www.readwriteweb.com
 ---
 
 The Wikimedia Foundation just emailed ReadWriteWeb to announce receipt of $500,000 in grant funding from The William and Flora Hewlett Foundation. The grant is a part of a $100 million dollar program to fund open education resources, and given Wikimedia's mission to encourage the growth, development and distribution of free, multilingual content, the Hewlett Foundation couldn't have chosen a better org. 

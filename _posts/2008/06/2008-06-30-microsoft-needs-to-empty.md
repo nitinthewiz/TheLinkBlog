@@ -3,6 +3,10 @@ title: "Microsoft Needs to Empty Windows Trash, Reboot"
 date: 2008-06-30 03:02:25 +0000
 external-url: http://db.tidbits.com/article/9674
 hash: 90116d607c4a267f64b4f54553f6d55e
+annum:
+    year: 2008
+    month: 06
+hostname: db.tidbits.com
 ---
 
 Apple has pulled the tablecloth off the table stirring just a few knives and nearly tottering a glass three times since the early 1990s. They moved from 680x0 chips to PowerPC, from homegrown Mac OS 9 to Unix-standard Mac OS X, and from IBM/Freescale PowerPC to Intel Core, Xeon, and other CPUs.

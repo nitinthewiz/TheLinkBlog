@@ -3,6 +3,10 @@ title: "Think Different"
 date: 2010-09-03 16:05:27 +0000
 external-url: http://kottke.org/10/09/think-different
 hash: b17746952ed1f9406ee7d81c3b619468
+annum:
+    year: 2010
+    month: 09
+hostname: kottke.org
 ---
 
 One of the first things that Steve Jobs did after taking over as Apple's interim CEO in 1997 is to get Apple back on track with their branding. In this short presentation from '97, Jobs talks about branding & Apple's core values and introduces the Think Different campaign.

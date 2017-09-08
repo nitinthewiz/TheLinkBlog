@@ -3,6 +3,10 @@ title: "One more step"
 date: 2008-03-06 05:27:00 +0000
 external-url: http://googlereader.blogspot.com/2008/03/one-more-step.html
 hash: db98dbfb5f3c167a1f0bc9af5897fda4
+annum:
+    year: 2008
+    month: 03
+hostname: googlereader.blogspot.com
 ---
 
 photo by groundzero (CC-licensed)Not every Reader release is filled with exciting new features, but we'd like to think that every little improvement counts. While we've been working on some longer-term things, we've also had time to make some smaller changes to Reader, which we're releasing today:

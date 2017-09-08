@@ -3,6 +3,10 @@ title: "Participate Everywhere, Manage Centrally"
 date: 2008-03-31 10:39:45 +0000
 external-url: http://www.loupaglia.com/correlate/2008/03/31/participate-everywhere-manage-centrally/
 hash: 223c86e423e54c4566ebbe51267ab273
+annum:
+    year: 2008
+    month: 03
+hostname: www.loupaglia.com
 ---
 
 Yesterday, a meme was started by Loic Le Meur where he discussed the de-centralization of his social media life and that he posits that he wants it all centralized back on his blog.  I commented there and had no his post would spawn ironically a fully de-centralized conversation on the topic ranging from his blog, Twitter, FriendFeed and a number of other blogs.

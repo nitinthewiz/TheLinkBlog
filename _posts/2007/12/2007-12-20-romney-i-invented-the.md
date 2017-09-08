@@ -3,6 +3,10 @@ title: "Romney: I invented the Internet."
 date: 2007-12-20 17:36:05 +0000
 external-url: http://www.dailykos.com/story/2007/12/20/424786/-Romney-I-invented-the-Internet
 hash: 88b1dd780112f1045295d4c18c9f5d16
+annum:
+    year: 2007
+    month: 12
+hostname: www.dailykos.com
 ---
 
 No, not this time. But we do have a story line that's riper and more grounded in reality for the "serial exaggerator" narrative the campaign press used to love so much.

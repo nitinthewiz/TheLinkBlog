@@ -3,6 +3,10 @@ title: "Social Shopping Heats Up On Facebook"
 date: 2010-10-01 18:22:26 +0000
 external-url: http://allfacebook.com/social-shopping-facebook_b18910
 hash: fd0f1bf64963ac3e31388582dc6fd89a
+annum:
+    year: 2010
+    month: 10
+hostname: allfacebook.com
 ---
 
 For a while now, social shopping has been heating up as the Next Big Thing on Facebook. Ive written recently about Amazons implementation of Facebook Connect, the launch of two new products from FatWallet, and even the fact that social shopping apps both won and placed in the recent Facebook Hackathon in Palo Alto.

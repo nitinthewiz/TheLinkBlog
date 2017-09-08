@@ -3,6 +3,10 @@ title: "Dow Jones Sells Stake In Stoxx For $309 Million"
 date: 2009-11-16 06:26:56 +0000
 external-url: http://gigaom.com/2009/11/12/419-dow-jones-sells-stake-in-stoxx-for-309-million/
 hash: bba23acc1a1998f5173dcc6ee7d08b11
+annum:
+    year: 2009
+    month: 11
+hostname: gigaom.com
 ---
 
 Dow Jones has unloaded its stake in European index provider Stoxxin what is likely the first of several divestitures for the company under owner News Corp (NYSE: NWS). Dow Jones is selling its one-third interest in Stoxx, which operates the Dow Jones Stoxx Indices, to partners Deutsche Boerse and SIX Swiss Exchange for $309 million, in addition to $44 million depending on its future business performance. 

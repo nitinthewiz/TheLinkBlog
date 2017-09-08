@@ -3,6 +3,10 @@ title: "Hundreds of North Dakota Oil Spills Not Publicized"
 date: 2013-10-28 02:07:47 +0000
 external-url: http://kstp.com/article/stories/s3200731.shtml
 hash: ccf422534d6c5b2d21ccf1142392625f
+annum:
+    year: 2013
+    month: 10
+hostname: kstp.com
 ---
 
 Oh wait, oil companies are screwing up the environment and not telling anyone about it? Say it isn't so!

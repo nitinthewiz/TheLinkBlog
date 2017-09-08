@@ -3,6 +3,10 @@ title: "Beyond Thinking Different to Doing Different"
 date: 2008-12-31 12:31:00 +0000
 external-url: http://brandautopsy.typepad.com/brandautopsy/2008/12/beyond-thinking.html
 hash: 7163f7ab13da0d952f3373d8db75ecae
+annum:
+    year: 2008
+    month: 12
+hostname: brandautopsy.typepad.com
 ---
 
 Electronically reprinting Bruce Mau's Incomplete Manifesto for Change has become a New Year's tradition on Brand Autopsy.  Enjoy all over again ...

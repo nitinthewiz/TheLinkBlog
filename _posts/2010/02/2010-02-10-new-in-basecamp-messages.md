@@ -3,6 +3,10 @@ title: "New in Basecamp: Redesigned messages section"
 date: 2010-02-10 04:52:07 +0000
 external-url: http://productblogarchive.37signals.com/products/2010/02/new-in-basecamp-redesigned-messages-section.html
 hash: a8880cfc4a29e82a7b5e7f3fb1b21d91
+annum:
+    year: 2010
+    month: 02
+hostname: productblogarchive.37signals.com
 ---
 
 We just launched a redesigned message section in Basecamp. The redesign brings current discussions to the top of the screen for easy discoverability and quick access. We also cleaned up the message design and added avatars to each message in the list.

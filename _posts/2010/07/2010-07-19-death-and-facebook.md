@@ -3,6 +3,10 @@ title: "Death and Facebook, revisited"
 date: 2010-07-19 15:05:39 +0000
 external-url: http://scripting.com/stories/2010/07/19/deathAndFacebookRevisited.html
 hash: da72981c38e30bb6610a952ddcb4fcd5
+annum:
+    year: 2010
+    month: 07
+hostname: scripting.com
 ---
 
 Last week I wrote a piece about Facebook and Guy Kewney, a friend who died recently. Facebook noticed he wasn't getting much attention, and wasn't posting a lot, so they've been recommending that I (and presumably other of his friends) reach out to him. 

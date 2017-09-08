@@ -3,6 +3,10 @@ title: "Apple no longer pursuing ZFS as the next generation file system for OS X
 date: 2009-10-23 23:48:50 +0000
 external-url: http://9to5mac.com/ZFS-apple-sun-oracle
 hash: 9943aeae49be08825e432d2ba7b8a32c
+annum:
+    year: 2009
+    month: 10
+hostname: 9to5mac.com
 ---
 
 Today, the ZFS repository on MacOSforge was closed, likely meaning the end of Apple's pursuit of Sun's next generation file storage system for use in Mac and Macintosh OSX Server.  They also mention that the mailing list and repository are also being removed.

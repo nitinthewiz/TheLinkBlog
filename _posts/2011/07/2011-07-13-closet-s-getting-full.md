@@ -3,6 +3,10 @@ title: "CLOSET'S GETTING FULL"
 date: 2011-07-13 04:58:18 +0000
 external-url: http://www.ginandtacos.com/2011/07/13/closets-getting-full/
 hash: f12484a3cfdef8119bff372c7ac6b9f4
+annum:
+    year: 2011
+    month: 07
+hostname: www.ginandtacos.com
 ---
 
 It pains me to acknowledge Michele Bachmann's existence twice in a fortnight but this is too amusing to ignore.

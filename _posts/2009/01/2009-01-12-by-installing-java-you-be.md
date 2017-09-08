@@ -3,6 +3,10 @@ title: "“By installing Java, you will be able to experience the power of Java�
 date: 2009-01-12 20:12:39 +0000
 external-url: http://www.joelonsoftware.com/items/2009/01/12.html
 hash: 4ccc14054b145a63111db7f1067c337e
+annum:
+    year: 2009
+    month: 01
+hostname: www.joelonsoftware.com
 ---
 
 Just because there’s room on the dialog box, doesn’t mean you have to put something there. The Java installer starts off with a dialog box that manages to repeat the word Java six times without really telling you what it is, just that it’s “everywhere.”

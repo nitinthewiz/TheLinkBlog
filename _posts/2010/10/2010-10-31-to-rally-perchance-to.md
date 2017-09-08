@@ -3,6 +3,10 @@ title: "To rally, perchance to dream"
 date: 2010-10-31 01:15:12 +0000
 external-url: http://www.buzzmachine.com/2010/10/30/to-rally-perchance-to-dream/
 hash: 908505ce83d6133a2557d246a001c332
+annum:
+    year: 2010
+    month: 10
+hostname: www.buzzmachine.com
 ---
 
 I had many reactions to Jon Stewart’s Rally to Restore Sanity — all good. These thoughts were stored up like nuts in a squirrel’s cheeks during the rally as AT&T couldn’t cope with so much sanity, and so I tweeted them in a flurry afterwards and will expand on them here. 

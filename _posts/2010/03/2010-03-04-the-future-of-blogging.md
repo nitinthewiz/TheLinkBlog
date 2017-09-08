@@ -3,6 +3,10 @@ title: "The Future of Blogging"
 date: 2010-03-04 04:37:05 +0000
 external-url: http://gigaom.com/collaboration/the-future-of-blogging/
 hash: 56338ab1eca433adf09488cad4ffd838
+annum:
+    year: 2010
+    month: 03
+hostname: gigaom.com
 ---
 
 A recent Pew survey revealed that the popularity of blogging among teens and young adults has declined dramatically from 28 percent to 14 percent from 2006 to 2009. While this wasn’t an exhaustive scientific study, it does reveal a trend that clearly shows that blogging is losing its luster with today’s younger generation. There are many factors that could have contributed to this drastic decline, such as the plethora of real-time communication platforms like social networks, the explosion of gaming platforms (Wii, Playstation, Xbox) and 24/7 access to instant entertainment such as Netflix and Hulu. Regardless of the reasons, the bottom line is that young people are getting bored of traditional blogging.

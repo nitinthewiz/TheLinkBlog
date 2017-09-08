@@ -3,6 +3,10 @@ title: "Google Native Client"
 date: 2009-07-11 18:14:09 +0000
 external-url: http://code.google.com/p/nativeclient/
 hash: 20c9c05bc0baaa8e0a3e87c6bd486623
+annum:
+    year: 2009
+    month: 07
+hostname: code.google.com
 ---
 
 Many people are speculating that Native Client will play a significant role in Chrome OS:

@@ -3,6 +3,10 @@ title: "First Look: TimesPeople Adds Social Layer To NYTimes.com"
 date: 2008-06-19 05:34:20 +0000
 external-url: https://gigaom.com/2008/06/18/419-first-look-timespeople-adds-social-layer-to-nytimescom/
 hash: 983fb0345aa846cc1588468bb61455fe
+annum:
+    year: 2008
+    month: 06
+hostname: gigaom.com
 ---
 
 I've spent some time off and on today with the latest tool from NYTimes.com: TimesPeople, a Firefox add-on that functions as a combo recommendation engine and low-frills social network. The add-on is part of the beta phase: NYTimes.com promises that it will be "baked into the site" for the 1.0 launch. For now, it works like this: log in as a registered NYTimes.com user, pick a display name and location, add people to your network by searching the TimesPeople database or by letting TimesPeople load contacts from other networks (the only option right now is GMail), start recommending. It's not just about NYT articlesTimesPeople members can share ratings (hotels, movies, restaurants), reviews, and comments. The feed also can be sent to Facebook pages. The site's CTO Marc Frons describes it "as an example of opening up our site as a place for

@@ -3,6 +3,10 @@ title: "TECHdotMN TV #5: MinneDemo"
 date: 2011-10-07 13:57:35 +0000
 external-url: http://tech.mn/news/2011/10/07/techdotmn-tv-5-minnedemo/
 hash: fb1444e84acaeedaa5791023985689b2
+annum:
+    year: 2011
+    month: 10
+hostname: tech.mn
 ---
 
 

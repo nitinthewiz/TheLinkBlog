@@ -3,6 +3,10 @@ title: "Best Buy Releases Commerce API"
 date: 2010-10-13 06:16:08 +0000
 external-url: http://tech.mn/news/2010/10/13/best-buy-commerce-api/
 hash: e450a179befcc8196abfe8f63d6e4126
+annum:
+    year: 2010
+    month: 10
+hostname: tech.mn
 ---
 
 Via Announcement

@@ -3,6 +3,10 @@ title: "All The Webcams"
 date: 2013-04-14 21:56:33 +0000
 external-url: https://cryptogasm.com/2012/10/all-the-webcams/
 hash: 6fc463115f29a5f09f435ccb77e4d15a
+annum:
+    year: 2013
+    month: 04
+hostname: cryptogasm.com
 ---
 
 This article is exactly why I've never put a live webcam in my house.

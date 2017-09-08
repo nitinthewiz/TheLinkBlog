@@ -3,6 +3,10 @@ title: "Hell returns as id Software’s John Carmack builds Doom Classic for the
 date: 2009-11-05 13:54:35 +0000
 external-url: http://venturebeat.com/2009/11/05/hell-returns-as-id-softwares-john-carmack-builds-doom-classic-for-the-iphone/
 hash: 40e015d58d745957d05e5a3dc4f8563c
+annum:
+    year: 2009
+    month: 11
+hostname: venturebeat.com
 ---
 
 John Carmack is the programming wiz at id Software, the Mesquite, Texas-based company that pioneered the first-person shooter game genre that has generated billions of dollars in the game industry since 1993. Now Carmack has returned to the game that started it all: Doom. He has taken the original game and ported the code to run on the iPhone, his favorite new game platform. Although he is working on big console and PC game projects for id (and its new owner ZeniMax) such as Doom 4 and Rage, Carmack stole time to create the iPhone game, Doom Classic. With 36 levels, this shooting game is a repeat of the original title where you play a space marine who has to wade knee deep in the dead and hold off an onslaught demons after a mining colony on Mars accidentally opens a portal into Hell. Doom Classic is now available on the iPhone. Here’s our interview with Carmack about how he made it.

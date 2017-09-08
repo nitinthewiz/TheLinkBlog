@@ -3,6 +3,10 @@ title: "Shooting China’s 60th anniversary parade with the 7D, 5DmkII and Nikon
 date: 2009-10-05 18:35:28 +0000
 external-url: http://www.dslrnewsshooter.com/2009/10/01/shooting-chinas-60th-anniversary-parade-with-the-7d-5dmkii-and-nikon-d700/
 hash: 3d13d5d2818ce7a15832e98d9afd34b5
+annum:
+    year: 2009
+    month: 10
+hostname: www.dslrnewsshooter.com
 ---
 
 

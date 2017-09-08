@@ -3,6 +3,10 @@ title: "The AVC Network"
 date: 2010-11-30 11:25:35 +0000
 external-url: http://avc.com/2010/11/the-avc-network/
 hash: 4b3bf7a283edc9d496f2f4ab1ed1f7fa
+annum:
+    year: 2010
+    month: 11
+hostname: avc.com
 ---
 
 Disqus (a portfolio company of USV) has rolled out a really sweet analytics service as part of its "add ons" that were released a few weeks ago. You get the analytics as part of every add on package, including the $19/month Plus service.

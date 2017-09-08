@@ -3,6 +3,10 @@ title: "\"Templates\": Quickly Create Instances Of Omnifocus Projects"
 date: 2013-01-24 16:43:17 +0000
 external-url: http://pxldot.com/projects/
 hash: 178b4066f8a5801040839994e8f47d92
+annum:
+    year: 2013
+    month: 01
+hostname: pxldot.com
 ---
 
 I've used projects in a template folder like this before. This script automates the instantiation of them. Pretty neat.

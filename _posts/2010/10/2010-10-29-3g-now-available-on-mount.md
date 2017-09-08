@@ -3,6 +3,10 @@ title: "3G now available on Mount Everest"
 date: 2010-10-29 23:00:00 +0000
 external-url: http://www.tuaw.com/2010/10/29/3g-now-available-on-mount-everest/
 hash: edb451d967fbaed57b3f814540f53f47
+annum:
+    year: 2010
+    month: 10
+hostname: www.tuaw.com
 ---
 
 Happen to be climbing Mount Everest in the near future? Take heart -- you can probably use your iPhone there now. Provider Teliasonera has reportedly installed a 3G antenna at the base camp of Everest, connecting the remote location to a modern cell phone network for the first time. Previously, climbers had to use satellite phones to stay in touch with the rest of the world, and according to Reuters, the summit is still off limits -- the highest video call was made from an elevation of about 17,388 feet, which is where most climbers begin their journey to the summit at 29,035 feet.

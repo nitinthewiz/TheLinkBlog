@@ -3,6 +3,10 @@ title: "Weblog Tools Collection: New Twist on Premium WordPress Themes"
 date: 2008-02-24 21:18:27 +0000
 external-url: http://weblogtoolscollection.com/archives/2008/02/24/new-twist-on-premium-wordpress-themes/
 hash: d85259bac1204782caf7f14b42f733f5
+annum:
+    year: 2008
+    month: 02
+hostname: weblogtoolscollection.com
 ---
 
 Small Potato of wpdesigner.com fame has come up with a new twist for Premium Themes. Now I try very hard to stay away from promoting premium themes because of their economic nature, especially if there is no direct advantage to my readers. But SP offered a large number of freebies for my readers and I had to pass them on to you.

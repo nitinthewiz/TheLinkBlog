@@ -3,6 +3,10 @@ title: "Kindle Statistics"
 date: 2009-09-20 15:01:24 +0000
 external-url: http://ma.tt/2009/09/kindle-statistics/
 hash: d9201904f96b4bf8b03e1934ec40a59d
+annum:
+    year: 2009
+    month: 09
+hostname: ma.tt
 ---
 
 Dear Kindle Team, one of my favorite features of Google Reader has always been its “Trends” or more simply its statistics that give you insight into your reading patterns and volume.

@@ -3,6 +3,10 @@ title: "What I Think About Atlas Shrugged"
 date: 2010-10-01 21:19:39 +0000
 external-url: http://whatever.scalzi.com/2010/10/01/what-i-think-about-atlas-shrugged/
 hash: a2f15c8067256dee29712a6ea83aa188
+annum:
+    year: 2010
+    month: 10
+hostname: whatever.scalzi.com
 ---
 
 In the wake of the “Objectivist Jerky” crack I made earlier in the week, I was asked by a friend of mine to share my thoughts on Atlas Shrugged with the general public. I suspect this friend then went off to make herself some popcorn in preparation for the presumed inevitable mind-losing that will occur in the comments. That’s what I am to you people: cheap entertainment. Well, fine.

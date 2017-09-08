@@ -3,6 +3,10 @@ title: "After a big win, Naiku looks to the future"
 date: 2011-09-14 00:00:00 +0000
 external-url: http://www.thelinemedia.com/innovationnews/naikufuture091411.aspx
 hash: b7ecbecdd7f1bcf799b3f3e7cf2eec36
+annum:
+    year: 2011
+    month: 09
+hostname: www.thelinemedia.com
 ---
 
 Although Naiku didn't win the grand prize in the recent Minnesota Cup competition, just garnering the division win has been enough to raise the company's profile considerably. And after a summer of winning more clients, expect to hear even more about Naiku in the near future. 

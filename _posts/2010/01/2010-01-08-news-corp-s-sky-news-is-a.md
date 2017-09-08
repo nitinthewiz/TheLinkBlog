@@ -3,6 +3,10 @@ title: "News Corp's Sky News Is Making Every Journalist a Twitter Convert"
 date: 2010-01-08 05:35:56 +0000
 external-url: http://www.businessinsider.com/news-corps-sky-news-is-making-every-journalist-a-twitter-convert-2010-1
 hash: 403a0d7793d176f5de598eefe3188190
+annum:
+    year: 2010
+    month: 01
+hostname: www.businessinsider.com
 ---
 
 

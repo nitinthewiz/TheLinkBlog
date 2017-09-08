@@ -3,6 +3,10 @@ title: "How Protoblogger.com works"
 date: 2010-12-08 16:21:20 +0000
 external-url: http://scripting.com/stories/2010/12/08/howProtobloggercomWorks.html
 hash: f47035470fcfcba911832deb31e667d2
+annum:
+    year: 2010
+    month: 12
+hostname: scripting.com
 ---
 
 Every day I push a bunch of links through Twitter. I have this process fairly well streamlined. I click on a bookmarklet, it grabs the headline and URL and shoots it to an app on one of my servers. It shortens the URL and then sends it to twitter.com, where it all appears in my status box. I edit it, and click the Tweet button and off it goes.

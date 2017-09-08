@@ -3,6 +3,10 @@ title: "Chasing Ice"
 date: 2012-11-20 15:32:25 +0000
 external-url: http://www.chasingice.com/
 hash: 8fcf1adf89e0805853d03605a16b7185
+annum:
+    year: 2012
+    month: 11
+hostname: www.chasingice.com
 ---
 
 I got tickets to go see this at the Uptown Theatre on December 12th.

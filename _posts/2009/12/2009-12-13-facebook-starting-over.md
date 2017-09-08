@@ -3,6 +3,10 @@ title: "Facebook: Starting Over"
 date: 2009-12-13 15:51:11 +0000
 external-url: http://mediactive.com/2009/12/12/facebook-starting-over/
 hash: 89a96ad149c288c7bbcc560b72dc6ba1
+annum:
+    year: 2009
+    month: 12
+hostname: mediactive.com
 ---
 
 Like many other people, I have a Facebook account. One reason is to keep track of what’s happening in the planet’s largest social network, including what application developers and users are doing there.

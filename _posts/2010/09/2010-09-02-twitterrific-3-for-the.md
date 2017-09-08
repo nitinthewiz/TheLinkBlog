@@ -3,6 +3,10 @@ title: "Twitterrific 3 for the iPad: change, tough love, and better"
 date: 2010-09-02 22:00:00 +0000
 external-url: http://www.tuaw.com/2010/09/02/twitterrific-3-for-the-ipad-change-tough-love-and-better/
 hash: 98b465ae98cac4ab831b2ee9bd449cc5
+annum:
+    year: 2010
+    month: 09
+hostname: www.tuaw.com
 ---
 
 Here's a good sign that you've made some pretty significant changes to your application: three different people from the company write three different posts about the new design. That's what the folks from Iconfactory did about Twitterrific 3. David Lanham wrote about Redesigning Twitterrific, not just the timeline, but also the settings, contacts, filtering, and more to "optimize the user experience." Gedeon Maheux wrote about Twitterrific's Tough Love, and realizing that Twitterrific had gotten out of hand, along with the steps they took to make it better rather than just pile more on top of it. Craig Hockenberry wrote about not designing for early adopters, whose expectations may limit making something better by expecting you to simply build on what you had before.

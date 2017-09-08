@@ -3,6 +3,10 @@ title: "“One Day on Earth” project needs your help"
 date: 2010-09-28 11:48:33 +0000
 external-url: http://www.dslrnewsshooter.com/2010/09/28/one-day-on-earth-project-needs-your-help/
 hash: b2dc2f9e11c13928936d0143ee884b3c
+annum:
+    year: 2010
+    month: 09
+hostname: www.dslrnewsshooter.com
 ---
 
 

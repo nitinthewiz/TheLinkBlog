@@ -3,6 +3,10 @@ title: "Sen. Franken demands answers from Carrier IQ, suggests phone snooping vi
 date: 2011-12-01 23:45:05 +0000
 external-url: http://www.alfranken.com/2011/12/01/ars-technica-sen-franken-demands-answers-from-carrier-iq-suggests-phone-snooping-violates-federal-law/
 hash: c7cce05ea177090f253f3d4a5a320780
+annum:
+    year: 2011
+    month: 12
+hostname: www.alfranken.com
 ---
 
 Happy to see our Senator pursuing this.

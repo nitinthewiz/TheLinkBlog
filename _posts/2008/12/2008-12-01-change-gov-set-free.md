@@ -3,6 +3,10 @@ title: "Change.gov set free"
 date: 2008-12-01 12:33:57 +0000
 external-url: http://www.lessig.org/blog/2008/12/changegov_set_free.html
 hash: 1cf6dd7e8a15ff4e15861c010b4504a1
+annum:
+    year: 2008
+    month: 12
+hostname: www.lessig.org
 ---
 
 Consistent with the values of any "open government," and with his strong leadership on "free debates" from the very start, the Obama team has modified the copyright notice on change.gov to embrace the freest CC license. 

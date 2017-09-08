@@ -3,6 +3,10 @@ title: "Introducing Typekit"
 date: 2009-05-28 20:57:27 +0000
 external-url: http://blog.typekit.com/2009/05/27/introducing-typekit/
 hash: 5f04cd65b0abb9820c3a8a4b741ebed5
+annum:
+    year: 2009
+    month: 05
+hostname: blog.typekit.com
 ---
 
 

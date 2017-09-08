@@ -3,6 +3,10 @@ title: "1TB hard drives dipping below $100 retail for the first time"
 date: 2008-10-19 04:08:20 +0000
 external-url: http://9to5mac.com/1TB-HD-100
 hash: f975c8e229ccca9a5db7b38735ba7e0e
+annum:
+    year: 2008
+    month: 10
+hostname: 9to5mac.com
 ---
 
 

@@ -3,6 +3,10 @@ title: "Rupert Murdoch sees all"
 date: 2010-07-14 01:32:45 +0000
 external-url: http://kottke.org/10/07/rupert-murdoch-sees-all
 hash: 0e95e266d5b2c0ea0549c73475bc0b02
+annum:
+    year: 2010
+    month: 07
+hostname: kottke.org
 ---
 
 A fantastically entertaining story about a NY Post employee, short pants, and Rupert Murdoch's hidden camera in the cafeteria.

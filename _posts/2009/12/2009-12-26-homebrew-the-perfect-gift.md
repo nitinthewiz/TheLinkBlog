@@ -3,6 +3,10 @@ title: "Homebrew, the perfect gift for command line lovers"
 date: 2009-12-26 04:53:24 +0000
 external-url: http://www.tuaw.com/2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/
 hash: a9e47f61a49caddb2240ebfbb73620ec
+annum:
+    year: 2009
+    month: 12
+hostname: www.tuaw.com
 ---
 
 Filed under: Cool tools, Odds and ends, Freeware, Terminal Tips

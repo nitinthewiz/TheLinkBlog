@@ -3,6 +3,10 @@ title: "MacBook Pro tip: resetting SMC saved my day"
 date: 2008-12-14 18:45:00 +0000
 external-url: http://www.tuaw.com/2008/12/14/macbook-pro-tip-saved-my-day/
 hash: a9db53e7fd7a38184dae46b9b1fcfd69
+annum:
+    year: 2008
+    month: 12
+hostname: www.tuaw.com
 ---
 
 Filed under: Hardware, Troubleshooting, Macbook Pro, MacBook, MacBook Air

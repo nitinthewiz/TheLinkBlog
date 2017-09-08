@@ -3,6 +3,10 @@ title: "Target and Elasticsearch: Maintaining an ELK stack over Peak Season —t
 date: 2017-05-26 01:21:16 +0000
 external-url: http:////target.github.io
 hash: 9ab01697ce142825642f5b763853f9eb
+annum:
+    year: 2017
+    month: 05
+hostname: 
 ---
 
 

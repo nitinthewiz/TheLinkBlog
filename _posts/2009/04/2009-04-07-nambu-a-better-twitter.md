@@ -3,6 +3,10 @@ title: "Nambu: A Better Twitter Client Than Tweetdeck?"
 date: 2009-04-07 04:50:29 +0000
 external-url: http://readwrite.com/2009/04/06/nambu_a_better_twitter_client_than_tweetdeck
 hash: 1c375985173d6d4cec3e6051b0df2c89
+annum:
+    year: 2009
+    month: 04
+hostname: readwrite.com
 ---
 
 If you are looking for a desktop client for Twitter these days, you will most likely be overwhelmed by the amount of choices, but according to TwitStat, the most popular desktop clients right now are TweetDeck and Twhirl, and TweetDeck is the clear choice of Twitter's most active users. This weekend, however, we came across Nambu, a new Mac OSX Twitter client that packs the best features of both TweetDeck and Twhirl into a native application, and which adds a number of very interesting additional features, including threaded conversations, three different views to choose from, and the ability to filter columns by keyword.

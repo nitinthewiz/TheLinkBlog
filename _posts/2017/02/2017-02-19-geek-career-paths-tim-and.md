@@ -3,6 +3,10 @@ title: "Geek Career Paths —Tim Bray “Suppose you’re doing technology, and 
 date: 2017-02-19 20:31:54 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2017/02/18/Geek-Career-Paths
 hash: 17d35553ce4f0677c82ba351ef941524
+annum:
+    year: 2017
+    month: 02
+hostname: www.tbray.org
 ---
 
 

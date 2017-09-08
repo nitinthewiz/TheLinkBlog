@@ -3,6 +3,10 @@ title: "CAPTCHA advertising"
 date: 2010-09-21 13:16:17 +0000
 external-url: http://kottke.org/10/09/captcha-advertising
 hash: d837bb4ee2db6ea6cc4b15933ae48784
+annum:
+    year: 2010
+    month: 09
+hostname: kottke.org
 ---
 
 People need to pay attention to CAPTCHAs to complete all sorts of tasks on the web...so why not make the CAPTCHA an advertisement?

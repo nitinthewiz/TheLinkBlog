@@ -3,6 +3,10 @@ title: "Hydra: Give Your Photos Range"
 date: 2008-06-15 11:00:57 +0000
 external-url: http://macapper.com/2008/06/15/hydra-give-your-photos-range/
 hash: b2a8067801ff18997dc92d089ba0dfd6
+annum:
+    year: 2008
+    month: 06
+hostname: macapper.com
 ---
 
 Recently, one passion of mine that has really taken over my spare time is photography. I have been interested in photography for some time now, but earlier this year I really stepped it up by purchasing a DSLR (a Nikon D40 to be exact). I am the type of person who learns by doing, so I purchased this camera not knowing what Aperture, Shutter Speed or what an 18-55mm lens was. These are all terms that I have learned since my purchase, but one term that I only recently started to research is HDR.

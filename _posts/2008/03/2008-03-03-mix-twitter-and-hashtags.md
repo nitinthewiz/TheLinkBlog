@@ -3,6 +3,10 @@ title: "Mix, Twitter, and Hashtags"
 date: 2008-03-03 23:11:54 +0000
 external-url: http://simpable.com/technology/hashtags/
 hash: b74bbff0a0824696bda291f554608d4c
+annum:
+    year: 2008
+    month: 03
+hostname: simpable.com
 ---
 
 I am getting ready to pack and head to Las Vegas in the morning for Mix 08. This year, while I am very interested to learn about all the new stuff that will get announced, meet some new people and see some familiar faces, there is another thing I am very interested to see play out, Mix + Twitter.

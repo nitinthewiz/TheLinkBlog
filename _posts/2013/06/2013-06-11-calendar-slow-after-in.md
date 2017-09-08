@@ -3,6 +3,10 @@ title: "Calendar slow/unresponsive after in Mountain Lion"
 date: 2013-06-11 22:22:11 +0000
 external-url: https://discussions.apple.com/message/21005336#21005336
 hash: 8511d066f92980e0ab974dad5db68ecd
+annum:
+    year: 2013
+    month: 06
+hostname: discussions.apple.com
 ---
 
 This solved my terrible slowness, spinning beach ball issues with Calendar.

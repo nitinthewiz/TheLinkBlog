@@ -3,6 +3,10 @@ title: "Lightroom 3 beta now available"
 date: 2009-10-22 04:25:49 +0000
 external-url: http://blogs.adobe.com/lightroomjournal/2009/10/lightroom_3_beta_now_available.html
 hash: a9fafe1baa4cb4c1fa84518c1321d839
+annum:
+    year: 2009
+    month: 10
+hostname: blogs.adobe.com
 ---
 
 The Lightroom team is proud to introduce the third public beta program of our application designed by and for digital photographers.  We've come a long way since our very first public beta on January 9th 2006 at MacWorld.(We didn't even have a crop tool in the first release!)   For this latest release we went back to the drawing board and revisited what we believe are the fundamental priorities of our customers:  Performance and Image Quality.  Lightroom has been stripped down to the "engine block" in order to rebuild a performance architecture that meets the needs of photographers with growing image collections and increasing megapixels.  The raw processing engine has also received an overhaul right down to the fundamental demosaic algorithms that now allows unprecedented sharpening and noise reduction results.   

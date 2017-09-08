@@ -3,6 +3,10 @@ title: "New Tron: Legacy Trailer Is a Daft Punk Music Video"
 date: 2010-10-26 23:42:02 +0000
 external-url: http://mashable.com/2010/10/26/tron-legacy-daft-pun/
 hash: 405b17dbcfc7c52867bc3d861831f03b
+annum:
+    year: 2010
+    month: 10
+hostname: mashable.com
 ---
 
 The new TRON: Legacy trailer from Disney doubles as a music video for Daft Punks Derezzed, a track from the films soundtrack.

@@ -3,6 +3,10 @@ title: "Big companies are where startups go to die"
 date: 2008-08-14 15:56:00 +0000
 external-url: http://www.37signals.com/svn/posts/1197-big-companies-are-where-startups-go-to-die
 hash: 820f4ef46e9219e1df426fe9bfd625e3
+annum:
+    year: 2008
+    month: 08
+hostname: www.37signals.com
 ---
 
 Farhad Manjoo (who wrote a cover story on 37signals for Salon.com a few years back) is now writing for Slate. This time he wonders about the Google Black Hole.

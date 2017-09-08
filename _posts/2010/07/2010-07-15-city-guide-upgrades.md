@@ -3,6 +3,10 @@ title: "City Guide Upgrades"
 date: 2010-07-15 14:08:01 +0000
 external-url: http://www.woothemes.com/2010/07/city-guide-upgrades/
 hash: b6d80743987f7a49a8222194faf3cc50
+annum:
+    year: 2010
+    month: 07
+hostname: www.woothemes.com
 ---
 
 City Guide has probably been one of our most successful themes this year (evidence here). Considering that this is a very niche theme, we feel this is quite an accomplishment.

@@ -3,6 +3,10 @@ title: "NginX Reporting for Duty"
 date: 2008-06-09 18:45:42 +0000
 external-url: http://www.opticality.com/blog/2008/06/09/nginx-reporting-for-duty/
 hash: a841a1e5855a96b5e4c179681deabf9f
+annum:
+    year: 2008
+    month: 06
+hostname: www.opticality.com
 ---
 
 Last week, my friend Jamie Thingelstad tweeted from the Rails Conference that he was considering switching to NginX (I’ll probably drop the caps starting now) after sitting in on a session about it.

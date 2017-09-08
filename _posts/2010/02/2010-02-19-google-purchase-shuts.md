@@ -3,6 +3,10 @@ title: "Google Purchase Shuts Down reMail"
 date: 2010-02-19 21:54:03 +0000
 external-url: http://gigaom.com/2010/02/19/google-purchase-shuts-down-remail/
 hash: b4d203ccd7c6efd56123d28523b48653
+annum:
+    year: 2010
+    month: 02
+hostname: gigaom.com
 ---
 
 A while back I reviewed an iPhone app called reMail that I really liked. It allowed users to search their email archives very comprehensively. Apparently Google was impressed with the application, too, and as Liz reported over on GigaOM, Google has purchased the company.

@@ -3,6 +3,10 @@ title: "Solar syncing"
 date: 2010-07-16 16:20:00 +0000
 external-url: http://bobulate.com/post/819887714
 hash: 73f2d701eb845b628195356071b5b011
+annum:
+    year: 2010
+    month: 07
+hostname: bobulate.com
 ---
 
 Solar syncing: Sunday saw a rare solar eclipse and audiences gathered in crowds to watch:

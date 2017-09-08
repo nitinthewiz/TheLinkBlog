@@ -3,6 +3,10 @@ title: "Photos from Chasing Ice, James Balogs Chronicle of Melting Polar Glacier
 date: 2012-11-08 22:43:50 +0000
 external-url: http://www.vanityfair.com/culture/2012/11/photos-chasing-ice-glaciers-melting
 hash: f47a158d989c6dcac0176b312f0528c7
+annum:
+    year: 2012
+    month: 11
+hostname: www.vanityfair.com
 ---
 
 I was on this beach!

@@ -3,6 +3,10 @@ title: "Twitter Traffic Explosion: Whos behind it all?"
 date: 2008-05-16 13:22:52 +0000
 external-url: https://blog.compete.com/2008/05/15/twitter-traffic-growth-usage-demographics/
 hash: 9bd0c1ca1f557d82d9fa0644b089d2bd
+annum:
+    year: 2008
+    month: 05
+hostname: blog.compete.com
 ---
 
 Twitter has made headlines for some amazingly powerful stuff lately; breaking the news of recent Chinas earthquake; partnering with MySpace for its data availability project; even helping a student get out of jail! All of these speak to the growing popularity of Twitter, and also help to explain its recent scaling issues. But how big is twitter, who uses it and how? 

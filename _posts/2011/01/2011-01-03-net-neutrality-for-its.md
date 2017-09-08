@@ -3,6 +3,10 @@ title: "Net Neutrality for Writers: Its All About the Leverage"
 date: 2011-01-03 04:54:27 +0000
 external-url: http://www.locusmag.com/Perspectives/2011/01/cory-doctorow-net-neutrality-for-writers-its-all-about-the-leverage/
 hash: e0386fc694b159a37643e4122b3bfb26
+annum:
+    year: 2011
+    month: 01
+hostname: www.locusmag.com
 ---
 
 Perspective: Cory Doctorow:Net Neutrality for Writers: Its All About the Leverage

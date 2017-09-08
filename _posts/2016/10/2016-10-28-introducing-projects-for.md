@@ -3,6 +3,10 @@ title: "Introducing Projects for Organizations —GitHub “You can now use GitH
 date: 2016-10-28 04:30:39 +0000
 external-url: https://github.com/blog/2272-introducing-projects-for-organizations
 hash: 1edc6ce0bb2b435f0301e22d89746e18
+annum:
+    year: 2016
+    month: 10
+hostname: github.com
 ---
 
 

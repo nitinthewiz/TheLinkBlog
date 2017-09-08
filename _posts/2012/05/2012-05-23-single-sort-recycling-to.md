@@ -3,6 +3,10 @@ title: "Single sort recycling coming to Minneapolis soon"
 date: 2012-05-23 10:39:14 +0000
 external-url: http://www.southwestjournal.com/index.php?publication=southwest&page=152&story=18479&category=63
 hash: 89bfaa0b2112c258e4f24559238ccca5
+annum:
+    year: 2012
+    month: 05
+hostname: www.southwestjournal.com
 ---
 
 Awesome news!

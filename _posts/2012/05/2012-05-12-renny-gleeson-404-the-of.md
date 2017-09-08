@@ -3,6 +3,10 @@ title: "Renny Gleeson: 404, the story of a page not found"
 date: 2012-05-12 20:41:41 +0000
 external-url: http://www.ted.com/talks/renny_gleeson_404_the_story_of_a_page_not_found
 hash: 11532790b2a90ad3f35d609bd15bf853
+annum:
+    year: 2012
+    month: 05
+hostname: www.ted.com
 ---
 
 Similar vein to the talk Garrick and I gave on Every HTTP Status code, but much better done. :-) He seemed to talk the point into a pretty philosophical place for the mundane 404 page, but nicely done.

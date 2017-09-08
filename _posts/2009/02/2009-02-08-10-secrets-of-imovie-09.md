@@ -3,6 +3,10 @@ title: "10 Secrets of iMovie '09"
 date: 2009-02-08 05:25:36 +0000
 external-url: http://db.tidbits.com/article/10052
 hash: dd020c030ef538319448c643bc92e462
+annum:
+    year: 2009
+    month: 02
+hostname: db.tidbits.com
 ---
 
 I'm one of those people who thought iMovie '08 was pretty okay. It advanced consumer video editing on the Mac in several ways, such as having live transitions and effects that don't require re-rendering clips and putting your entire video library at your fingers without opening old projects.

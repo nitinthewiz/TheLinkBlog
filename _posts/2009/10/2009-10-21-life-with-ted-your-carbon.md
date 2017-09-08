@@ -3,6 +3,10 @@ title: "Life With TED - Micromanaging Your Carbon Footprint"
 date: 2009-10-21 04:39:13 +0000
 external-url: http://radar.oreilly.com/2009/10/life-with-ted---micromanaging.html
 hash: 763b46b58273d8bb2479f50803be1ea4
+annum:
+    year: 2009
+    month: 10
+hostname: radar.oreilly.com
 ---
 
 I've been interested in having a better handle on my electrical consumption for a long time. Our family regularly goes through 1100-1200 kWh a month, and it's been frustrating that I couldn't really get a grip on where or when the power was really being used.  I want to get my power usage under control for three reasons:

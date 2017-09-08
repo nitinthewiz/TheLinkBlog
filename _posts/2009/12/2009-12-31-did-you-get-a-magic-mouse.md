@@ -3,6 +3,10 @@ title: "Did You Get A Magic Mouse This Holiday? Download MagicPrefs Immediately.
 date: 2009-12-31 05:39:24 +0000
 external-url: http://techcrunch.com/2009/12/30/magic-mouse-multi-touch-magicprefs/
 hash: 69ab161d69c7b8efc5fc45104ba1b95a
+annum:
+    year: 2009
+    month: 12
+hostname: techcrunch.com
 ---
 
 Back in November, I wrote up a review of the new Magic Mouse, noting that it was “Apple’s best mouse ever, but…” Essentially, the problem is a software one. Apple gave its new mouse multi-touch capabilities, but only takes advantage of a fraction of what it can do. (And yes, it’s fully multi-touch capable.) A new third-party program called MagicPrefs, enables all the multi-touch capabilities you could ever want for the device — and even some you likely don’t.

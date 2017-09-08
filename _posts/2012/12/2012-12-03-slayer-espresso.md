@@ -3,6 +3,10 @@ title: "Slayer Espresso"
 date: 2012-12-03 02:07:18 +0000
 external-url: http://www.slayerespresso.com/
 hash: 47896fd2d1ce3ff8c11762b7b24049a0
+annum:
+    year: 2012
+    month: 12
+hostname: www.slayerespresso.com
 ---
 
 Amazing espresso machines.

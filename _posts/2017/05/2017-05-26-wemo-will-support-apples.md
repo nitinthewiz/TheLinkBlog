@@ -3,6 +3,10 @@ title: "Wemo will support Apple’s HomeKit —Apple World Today “Wemo, the sm
 date: 2017-05-26 01:15:10 +0000
 external-url: https://www.appleworld.today/blog/2017/5/25/wemo-will-support-apples-homekit
 hash: e1261065f677c42c1645cfa4512ded8c
+annum:
+    year: 2017
+    month: 05
+hostname: www.appleworld.today
 ---
 
 

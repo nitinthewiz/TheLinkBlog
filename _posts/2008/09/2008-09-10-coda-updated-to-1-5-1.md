@@ -3,6 +3,10 @@ title: "Coda updated to 1.5.1"
 date: 2008-09-10 21:00:00 +0000
 external-url: http://www.tuaw.com/2008/09/10/coda-updated-to-1-5-1/
 hash: 17eda1d5ce8ac15e7688220703fa9918
+annum:
+    year: 2008
+    month: 09
+hostname: www.tuaw.com
 ---
 
 Filed under: Software, Internet Tools

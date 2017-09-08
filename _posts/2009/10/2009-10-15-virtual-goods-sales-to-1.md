@@ -3,6 +3,10 @@ title: "Virtual goods sales to hit $1 billion in 2009 as social games pay off bi
 date: 2009-10-15 05:05:12 +0000
 external-url: http://venturebeat.com/2009/10/14/virtual-goods-sales-to-hit-1-billion-in-2009-as-social-games-pay-off-big/
 hash: 9e322a8dc6f595af83effcd9264ffeb0
+annum:
+    year: 2009
+    month: 10
+hostname: venturebeat.com
 ---
 
 Thanks to the astonishing growth of games on social networks such as Facebook and MySpace, the U.S. virtual goods market is poised to clear $1 billion in revenues in 2009, more than doubling from a year earlier, according to a new report.

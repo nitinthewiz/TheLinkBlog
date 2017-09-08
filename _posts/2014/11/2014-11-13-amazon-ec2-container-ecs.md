@@ -3,6 +3,10 @@ title: "Amazon EC2 Container Service (ECS) - Container Management for the AWS Cl
 date: 2014-11-13 17:56:18 +0000
 external-url: https://aws.amazon.com/blogs/aws/cloud-container-management/
 hash: e7cf80a0c207d64ecb8d933587ac3c34
+annum:
+    year: 2014
+    month: 11
+hostname: aws.amazon.com
 ---
 
 

@@ -3,6 +3,10 @@ title: "Optoma's palm-sized video projector looks great"
 date: 2008-11-14 15:00:00 +0000
 external-url: http://www.tuaw.com/2008/11/14/optomas-palm-sized-video-projector-looks-great/
 hash: c65f01b9288ca2d2790f0b0033308f39
+annum:
+    year: 2008
+    month: 11
+hostname: www.tuaw.com
 ---
 
 Filed under: Multimedia, Video, iPod classic

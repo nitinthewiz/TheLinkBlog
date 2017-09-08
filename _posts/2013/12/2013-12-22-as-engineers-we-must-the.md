@@ -3,6 +3,10 @@ title: "As engineers, we must consider the ethical implications of our work"
 date: 2013-12-22 20:36:42 +0000
 external-url: http://www.theguardian.com/commentisfree/2013/dec/05/engineering-moral-effects-technology-impact
 hash: 0ceb694ab1d9a52fdc21af89c2f0c0a4
+annum:
+    year: 2013
+    month: 12
+hostname: www.theguardian.com
 ---
 
 This issue deserves so much more attention.

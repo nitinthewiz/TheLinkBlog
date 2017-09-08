@@ -3,6 +3,10 @@ title: "Here Comes Trouble: The Thin Edge of SIP"
 date: 2007-12-28 11:30:35 +0000
 external-url: http://gigaom.com/2007/12/28/here-comes-trouble-the-thin-edge-of-sip/
 hash: 95ba276adf4baef0fded9d1f929d6923
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 Vint Cerfs Facebook profile includes a picture of him wearing his favorite t-shirt: it reads IP on Everything.  Cerf co-authored the 1973 paper that led to TCP/IP being used as a means to interconnect previously incompatible computers and networks associated with the ARPANET. Increasingly, Session Initiation Protocol (SIP) is playing a similar role as  the common denominator interconnecting diverse communication devices and networks. And although the protocol geeks either love or hate SIP, its rapid adoption makes it impossible to ignore.

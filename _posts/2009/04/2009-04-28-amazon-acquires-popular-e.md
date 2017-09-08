@@ -3,6 +3,10 @@ title: "Amazon Acquires Popular iPhone E-Reader App Stanza"
 date: 2009-04-28 04:56:47 +0000
 external-url: http://m.paidcontent.org/article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
 hash: 2ac9683457797297b4f3991eea1b6ed5
+annum:
+    year: 2009
+    month: 04
+hostname: m.paidcontent.org
 ---
 
 A small but potentially mighty acquisition by Amazon (NSDQ: AMZN), which has picked up e-reader start-up Lexcycle and its popular iPhone application Stanza. No financial details were disclosed but Lexcycle founder Marc Prud'hommeaux tried to dispel the inevitable Kindle combo chatter by telling users in a forum that Stanza, one of the most downloaded iPhone apps, will continue to operate as a standalone. 

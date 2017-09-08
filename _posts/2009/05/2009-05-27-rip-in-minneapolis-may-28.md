@@ -3,6 +3,10 @@ title: "RIP! in Minneapolis -- May 28."
 date: 2009-05-27 21:53:21 +0000
 external-url: http://www.lessig.org/blog/2009/05/rip_in_minneapolis_--_may_28.html
 hash: e3ec76f799d3614839277418b349f986
+annum:
+    year: 2009
+    month: 05
+hostname: www.lessig.org
 ---
 
 From the latest RIP!: A Remix Manifesto screening: 

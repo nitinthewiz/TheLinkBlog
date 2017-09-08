@@ -3,6 +3,10 @@ title: "It Takes a Team to Photograph a TED"
 date: 2009-08-02 04:08:29 +0000
 external-url: http://blog.duncandavidson.com/2009/07/it-takes-a-team-to-photograph.html
 hash: c43a056d5d2380da77a21530e9c43d77
+annum:
+    year: 2009
+    month: 08
+hostname: blog.duncandavidson.com
 ---
 
 I’ve talked a bit about what it was like to be the main stage photographer at TEDGlobal 2009, but there’s a lot more to getting the job done than just showing up, snapping pics, and posting them. In the case of both TED events I’ve worked on—TED 2009 in Long Beach and TEDGlobal 2009 in Oxford—it’s taken a team of talented and dedicated people to get the job done

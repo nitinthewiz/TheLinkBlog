@@ -3,6 +3,10 @@ title: "Beyond Consumption vs Creation"
 date: 2013-03-07 04:19:19 +0000
 external-url: http://www.speirs.org/blog/2013/3/4/beyond-consumption-vs-creation.html
 hash: d777fe63d85b3bbd6e568a99c430a885
+annum:
+    year: 2013
+    month: 03
+hostname: www.speirs.org
 ---
 
 This completely fits the bill for what device I reach for to get some stuff done.

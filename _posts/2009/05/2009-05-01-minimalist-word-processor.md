@@ -3,6 +3,10 @@ title: "Minimalist Word Processor Showdown: WriteRoom vs. JDarkRoom"
 date: 2009-05-01 04:05:04 +0000
 external-url: http://macapper.com/2009/04/30/minimalist-word-processor-showdown-writeroom-vs-jdarkroom/
 hash: 509e839935a1b3ad407fc9c1474bb59f
+annum:
+    year: 2009
+    month: 05
+hostname: macapper.com
 ---
 
 

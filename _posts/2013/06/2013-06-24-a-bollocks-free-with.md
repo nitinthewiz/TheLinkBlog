@@ -3,6 +3,10 @@ title: "A Bollocks-free Enterprise Architecture Repository with Semantic Mediawi
 date: 2013-06-24 14:36:14 +0000
 external-url: http://www.josefassad.com/enterprise_architecture_repository_with_semantic_mediawiki
 hash: e3f5880132c998336129bc8161354a4f
+annum:
+    year: 2013
+    month: 06
+hostname: www.josefassad.com
 ---
 
 Nice post, enjoy the color of his comments. Especially the "big load of do-not-care", very accurate.

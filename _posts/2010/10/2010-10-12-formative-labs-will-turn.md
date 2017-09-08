@@ -3,6 +3,10 @@ title: "Formative Labs Will Turn Energy Saving Into A Game On The Wings Of Impre
 date: 2010-10-12 00:10:52 +0000
 external-url: http://techcrunch.com/2010/10/11/formative-labs-funding/
 hash: 37d6e694c5d73fd9dec1d0a8f94da7e5
+annum:
+    year: 2010
+    month: 10
+hostname: techcrunch.com
 ---
 
 I think we’re all well aware by now that we need new forms of energy to continue to have a future on this planet in the long-term. It’s hugely important — but it’s also not something that is going to be solved overnight. But there are plenty of things we can all do right now to conserve the forms of energy we do have. And while the cost-saving angle motivates some people, it’s often confusing because many solutions require you spend more money upfront to save in the long run. Formative Labs has a different solution to get people to conserve.

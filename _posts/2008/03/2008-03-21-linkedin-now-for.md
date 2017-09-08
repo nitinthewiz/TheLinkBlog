@@ -3,6 +3,10 @@ title: "LinkedIn, Now For Companies"
 date: 2008-03-21 05:20:22 +0000
 external-url: http://techcrunch.com/2008/03/20/linkedin-now-for-companies-2/
 hash: f94882c53885daba83df6ed2955090f5
+annum:
+    year: 2008
+    month: 03
+hostname: techcrunch.com
 ---
 
 LinkedIn, the boring social network that wont find you a date but may land you a job, is expanding beyond people profiles.

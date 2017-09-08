@@ -3,6 +3,10 @@ title: "CNBC.com's Game Of Catch-Up Continues; Yahoo Syndication Deal Includes E
 date: 2007-12-12 20:33:25 +0000
 external-url: https://gigaom.com/2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
 hash: 7390a6155d7f781e52579d1792dacdc2
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 CNBC.com will syndicate news stories and video on Yahoo (NSDQ: YHOO) Finance, reflecting the cable news channel's push to broaden the online reach for its content. In addition to its U.S. coverage, the deal is CNBC's first global agreement and includes content produced by its CNBC Asia and CNBC Europe units. Yahoo Finance will have access to segments from the cable channel's programming, such as Mad Money with Jim Cramer and Fast Money.

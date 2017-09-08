@@ -3,6 +3,10 @@ title: "Dashboard widget for Backpack Journal"
 date: 2008-05-27 15:16:07 +0000
 external-url: http://37signals.blogs.com/products/2008/05/dashboard-widge.html
 hash: d5a2514c1702e3608289b4adb42dc904
+annum:
+    year: 2008
+    month: 05
+hostname: 37signals.blogs.com
 ---
 
 The latest addition to Backpack: The Journal. And now, if you're a Mac user, you can post your status and create new journal entries right from your Dashboard thanks to Roobasoft.com's Dashboard widget.

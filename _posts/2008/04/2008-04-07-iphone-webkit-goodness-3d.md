@@ -3,6 +3,10 @@ title: "IPhone WebKit Goodness: 3D CSS Transforms and ontouch events"
 date: 2008-04-07 06:01:15 +0000
 external-url: http://ajaxian.com/archives/iphone-webkit-goodness-3d-css-transforms-and-ontouch-events
 hash: da7d5d936929b79c0653b4c27360fff0
+annum:
+    year: 2008
+    month: 04
+hostname: ajaxian.com
 ---
 
 Apple is secretive. I normally don't mind so much, as they always come through on yet another cool Mac product. If I could know one thing though, it wouldn't be when the next Macbook Pro is coming out, or when we will see the 3G iPhone. Instead, I wish I knew the attentions in the battle of "what can we develop with on the iPhone".

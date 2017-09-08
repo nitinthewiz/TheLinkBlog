@@ -3,6 +3,10 @@ title: "NGiNX HTTP Push Module"
 date: 2009-11-19 12:44:12 +0000
 external-url: http://ajaxian.com/archives/nginx-http-push-module
 hash: 128f2668a4fac96b8e89714d4f69f475
+annum:
+    year: 2009
+    month: 11
+hostname: ajaxian.com
 ---
 
 Even PHP developers can write web applications that use all sorts of fancy long-polling.

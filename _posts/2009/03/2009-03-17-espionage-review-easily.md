@@ -3,6 +3,10 @@ title: "Espionage Review: Easily Secure Your Files"
 date: 2009-03-17 12:43:34 +0000
 external-url: http://macapper.com/2009/03/17/espionage-review-easily-secure-your-files/
 hash: 450ef21d848b2c5003b207c25b00be3c
+annum:
+    year: 2009
+    month: 03
+hostname: macapper.com
 ---
 
 Security on the Internet has been a big issue for a while now. It is fairly common because the hacker or scammer does not need to be at the same location as you. But there is also the issue of keeping your computer safe. If you have no protection, and it gets stolen, all your data can be read by others. Even if you just go to the bathroom at Starbucks and leave your computer unwatched, there is potential risk. Although these types of theft are fairly uncommon, you may still want to secure yourself. An application that can help you with this is Tao Effect’s Espionage.

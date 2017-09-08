@@ -3,6 +3,10 @@ title: "How to stop junk mail"
 date: 2008-07-02 18:40:13 +0000
 external-url: https://www.mattcutts.com/blog/stop-junk-mail/
 hash: cb09e72296f439260351070704a720d4
+annum:
+    year: 2008
+    month: 07
+hostname: www.mattcutts.com
 ---
 
 Ive been learning how to stop receiving junk mail, and I thought Id share what Ive learned.

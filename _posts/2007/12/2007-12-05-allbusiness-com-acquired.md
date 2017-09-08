@@ -3,6 +3,10 @@ title: "AllBusiness.com Acquired By Dun & Bradstreet For $55 Million"
 date: 2007-12-05 00:05:46 +0000
 external-url: http://gigaom.com/2007/12/04/419-allbusinesscom-acquired-by-dun-bradstreet-for-about-55-million/
 hash: f3d6557a0944379da029defcd8c953a2
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 Online business resource AllBusiness.com has been acquired by Dun & Bradstreet for approximately $55 million to enhance its internet presence. The site will operate as a wholly owned subsidiary of the veteran commercial info company with Kathy Yates remaining as CEO. Dun & Bradstreet (NYSE: DNB) expects the acquisition to generate about $10 million of incremental revenue in 2008, according to AP. 

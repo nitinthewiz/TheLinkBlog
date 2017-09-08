@@ -3,6 +3,10 @@ title: "Great Example of the Pressure of Quarter to Quarter Earnings"
 date: 2009-02-24 05:24:14 +0000
 external-url: http://www.cogmap.com/blog/2009/02/17/great-example-of-the-pressure-of-quarter-to-quarter-earnings/
 hash: a10393e9db9508148211884fc9bb3786
+annum:
+    year: 2009
+    month: 02
+hostname: www.cogmap.com
 ---
 
 A great critical analysis of the challenges that MapQuest faces is on Silicon Alley Insider, written by the former CTO of AOL, namely someone who theoretically had the power to make change and apparently did not? I hate to see crying out of school like this, although I think he does a nice job of breaking it down. Let me be clear: I dont know him, have never met him, and look forward to being his friend as he is way more of a power broker than me. I hope that accusing his post of crying out of school does not taint our relationship.

@@ -3,6 +3,10 @@ title: "Sylvansport Go Camping Travel Trailer"
 date: 2012-07-09 03:22:38 +0000
 external-url: http://www.sylvansport.com/go/product-details/
 hash: cb13718d6129b6f20df58088d18fc408
+annum:
+    year: 2012
+    month: 07
+hostname: www.sylvansport.com
 ---
 
 This camper seems more tent than camper, but it looks really cool. A frame that provides strength and then the tent part comes around it. Similar in some ways to a tent camper. No fancy fixtures, embedded cooler is the main amenity but the price is good, it's lightweight and you can haul stuff with it as well.

@@ -3,6 +3,10 @@ title: "Highcharts: Really nice charting API"
 date: 2009-12-04 11:36:06 +0000
 external-url: http://ajaxian.com/archives/highcharts-really-nice-charting-api
 hash: 24e4db909e8df5f47c68284c5ec38436
+annum:
+    year: 2009
+    month: 12
+hostname: ajaxian.com
 ---
 
 We all want better and better charting libraries. Dojo has some good stuff, Protovis is a good option, and there are many many more (put your favourite below!).

@@ -3,6 +3,10 @@ title: "5 Simple Ways To Keep Up With The Rails Community"
 date: 2008-04-24 03:58:32 +0000
 external-url: http://www.draconis.com/blog/2008/04/23/5-simple-ways-to-keep-up-with-the-rails-community/
 hash: 3068ac32e48b934495f0f15e1e7e96d6
+annum:
+    year: 2008
+    month: 04
+hostname: www.draconis.com
 ---
 
 Update: There are some great suggestions in the comments as well.

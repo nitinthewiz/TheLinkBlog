@@ -3,6 +3,10 @@ title: "enStratus goes global; 80 percent of new cloud customers from outside U.
 date: 2010-08-26 07:29:28 +0000
 external-url: http://tech.mn/news/2010/08/26/enstratus-goes-global-80-percent-of-new-cloud-customers-from-outside-u-s/
 hash: ef6b481055d29f4f9140a89cf2241e33
+annum:
+    year: 2010
+    month: 08
+hostname: tech.mn
 ---
 
 By Dan Haugen, The Line

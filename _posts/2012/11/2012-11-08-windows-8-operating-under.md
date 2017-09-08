@@ -3,6 +3,10 @@ title: "Windows 8: Operating Under the Influence"
 date: 2012-11-08 21:09:53 +0000
 external-url: http://threesheetsresearch.com/?p=233
 hash: 120f811339dcac89e618fcaba9625576
+annum:
+    year: 2012
+    month: 11
+hostname: threesheetsresearch.com
 ---
 
 I've sat down in front of Windows 8 on a computer (not a tablet). I was completely sober and had many of the same confusing incidents that this woman did.

@@ -3,6 +3,10 @@ title: "Adobe Releases Lightroom 5"
 date: 2013-06-10 19:49:15 +0000
 external-url: http://www.canonrumors.com/2013/06/adobe-releases-lightroom-5/
 hash: 7c039cf00058d123ac2d15481716946a
+annum:
+    year: 2013
+    month: 06
+hostname: www.canonrumors.com
 ---
 
 Just purchased the upgrade and installed it.

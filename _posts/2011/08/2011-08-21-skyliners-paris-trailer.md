@@ -3,6 +3,10 @@ title: "Skyliners Paris trailer"
 date: 2011-08-21 01:23:01 +0000
 external-url: http://kottke.org/11/08/skyliners-paris-trailer
 hash: 468a03461b08f97a5c996f588c820a3c
+annum:
+    year: 2011
+    month: 08
+hostname: kottke.org
 ---
 
 These folks attached a cable to France's highest twin towers and then walked around on it. Really wild shots. These guys are wearing saftey harnesses, which tells me they're stupid or crazy, but not both, and definitely not at the same time. I love them for that.

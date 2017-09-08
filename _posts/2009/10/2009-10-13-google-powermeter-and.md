@@ -3,6 +3,10 @@ title: "Google PowerMeter Installation and First Impressions"
 date: 2009-10-13 22:43:04 +0000
 external-url: http://www.thedeets.com/2009/10/13/google-powermeter-installation-and-first-impressions/
 hash: 57aa7680d3b70fbf3498a723af6b48d3
+annum:
+    year: 2009
+    month: 10
+hostname: www.thedeets.com
 ---
 
 Google announced last week that they had formed a device partnership with a company called T.E.D. to provide hardware to power their PowerMeter service.

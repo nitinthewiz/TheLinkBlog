@@ -3,6 +3,10 @@ title: "FROZBROZ - Minneapolis Craft Ice Cream"
 date: 2012-03-31 05:28:41 +0000
 external-url: http://frozbroz.com/
 hash: c3714e8e9cdda2bc4c134f472992da53
+annum:
+    year: 2012
+    month: 03
+hostname: frozbroz.com
 ---
 
 These guys are crazy serious about there ice cream. Need to try it!

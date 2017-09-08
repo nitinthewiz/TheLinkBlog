@@ -3,6 +3,10 @@ title: "Urban Photo Data Uncovers Local Hot Spots"
 date: 2010-06-09 21:14:35 +0000
 external-url: http://www.readwriteweb.com/archives/cool_local_places_without_tourists.php
 hash: aa45b09cc4291380b14b225b86fbfa36
+annum:
+    year: 2010
+    month: 06
+hostname: www.readwriteweb.com
 ---
 
 What parts of a city do locals know are interesting, but are off the beaten path of typical tourists?  Now that a growing amount of photography has been enriched with public data, questions like that are something we can tackle in new and interesting ways.  

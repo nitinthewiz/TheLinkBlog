@@ -3,6 +3,10 @@ title: "Shipping the Unknown - TwinCities PracticalAgility"
 date: 2012-10-29 16:00:19 +0000
 external-url: https://sites.google.com/site/twincitiespracticalagility/agile-day-twin-cities-2012/schedule/Shipping-the-Unknown
 hash: 4447b573e2d0a55d61a9e994ad687547
+annum:
+    year: 2012
+    month: 10
+hostname: sites.google.com
 ---
 
 My session for Agile Day Twin Cities 2012.

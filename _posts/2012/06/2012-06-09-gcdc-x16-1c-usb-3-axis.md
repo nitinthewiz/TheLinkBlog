@@ -3,6 +3,10 @@ title: "GCDC X16-1C Usb-Accelerometer 3-axis Data Recorder"
 date: 2012-06-09 05:13:02 +0000
 external-url: http://gcdataconcepts.com/xlr8r-1.html
 hash: 7c43cccf8865c06f618b56ba627205ba
+annum:
+    year: 2012
+    month: 06
+hostname: gcdataconcepts.com
 ---
 
 Garrick and I have been talking about instrumenting a Kubb set with all sorts of tech and doing interesting things with it. He found this as an option to drill inside of a Kubb to try and see what data we would get. Wish they were cheaper!

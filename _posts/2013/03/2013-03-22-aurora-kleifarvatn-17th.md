@@ -3,6 +3,10 @@ title: "Aurora - Kleifarvatn 17th of March 2013 on Vimeo"
 date: 2013-03-22 01:58:12 +0000
 external-url: http://vimeo.com/62124710
 hash: 328f08785371e618bf66a2d5882e17bb
+annum:
+    year: 2013
+    month: 03
+hostname: vimeo.com
 ---
 
 Great video of the recent northern lights spectacular over Iceland.

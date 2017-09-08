@@ -3,6 +3,10 @@ title: "Programmer. Come Work For Us."
 date: 2013-05-15 02:45:45 +0000
 external-url: http://edu.mkrecny.com/thoughts/programmer-come-work-for-us
 hash: 1754b8205a406266c804b484c7bf0ebf
+annum:
+    year: 2013
+    month: 05
+hostname: edu.mkrecny.com
 ---
 
 Nice.

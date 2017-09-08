@@ -3,6 +3,10 @@ title: "TCPSocket: Sockets in the browser"
 date: 2008-07-01 18:50:36 +0000
 external-url: http://ajaxian.com/archives/tcpsocket-sockets-in-the-browser
 hash: 4efbcabcc3ce896e41a35171bfe1a073
+annum:
+    year: 2008
+    month: 07
+hostname: ajaxian.com
 ---
 
 Michael Carter of Orbited has written about how he now likes to call Comet sockets in the browser, and has an implementation available that looks like this:

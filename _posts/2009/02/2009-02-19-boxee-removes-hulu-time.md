@@ -3,6 +3,10 @@ title: "Boxee removes Hulu, time for Understudy"
 date: 2009-02-19 05:12:54 +0000
 external-url: http://9to5mac.com/2009/02/18/boxee-removes-hulu-time-for-understudy/
 hash: e8dd0f8f4e0a3d9c019a16aa2f68e557
+annum:
+    year: 2009
+    month: 02
+hostname: 9to5mac.com
 ---
 
 Boxee got a little letter in the mail this week from ol' Hulu requesting that they no longer incorperate Hulu in their little system. Rather than go up against a consortium of the world's biggest media companies, the team of programmers has complied and Hulu content will no longer be available on Boxee. Remember, there is always Understudy or, even better, Plex for you Mac-equipped Hulu addicts. AppleTV? Notsomuch.

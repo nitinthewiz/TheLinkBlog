@@ -3,6 +3,10 @@ title: "Americans don't know how to die"
 date: 2010-07-29 16:25:48 +0000
 external-url: http://kottke.org/10/07/americans-dont-know-how-to-die
 hash: 1ffcb64b75fafa8a0e75ea204c191b7f
+annum:
+    year: 2010
+    month: 07
+hostname: kottke.org
 ---
 
 Atul Gawande's articles on healthcare for the New Yorker are all top-shelf, but his most recent piece on modern medicine's difficulty in dealing with patients who are likely to die is a doozy and a must-read.

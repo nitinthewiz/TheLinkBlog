@@ -3,6 +3,10 @@ title: "Birdhouse — A Notepad for Twitter"
 date: 2009-04-15 02:23:16 +0000
 external-url: http://birdhouseapp.com/
 hash: 3e8705f929ce19ada28a21409c901d03
+annum:
+    year: 2009
+    month: 04
+hostname: birdhouseapp.com
 ---
 
 Birdhouse 1.0 is now available at — err, on — the App Store for $4. It’s a notepad for Twitter by Adam Lisagor and Cameron Hunt. It’s not a full-on Twitter client — it is instead very specifically a Twitter posting client. A fussy, precious concept to be sure, and the result is a wonderfully fussy and precious app.

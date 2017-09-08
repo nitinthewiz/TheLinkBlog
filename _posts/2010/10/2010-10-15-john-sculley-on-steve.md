@@ -3,6 +3,10 @@ title: "John Sculley on Steve Jobs"
 date: 2010-10-15 02:01:14 +0000
 external-url: http://www.cultofmac.com/john-sculley-on-steve-jobs-the-full-interview-transcript/63295
 hash: d81fa5e46dd7caff7e4477d49cb3cf40
+annum:
+    year: 2010
+    month: 10
+hostname: www.cultofmac.com
 ---
 
 A lengthy, fascinating, interview with Sculley by Leander Kahney. Tons of good stuff to quote, but I love this passage the most:

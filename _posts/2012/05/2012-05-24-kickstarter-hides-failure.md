@@ -3,6 +3,10 @@ title: "Kickstarter hides failure"
 date: 2012-05-24 22:28:45 +0000
 external-url: http://misener.org/kickstarter-hides-failure/
 hash: 34baf47e1e7167f78b205f5b4397c167
+annum:
+    year: 2012
+    month: 05
+hostname: misener.org
 ---
 
 Survivor Bias being enforced by algorithm.

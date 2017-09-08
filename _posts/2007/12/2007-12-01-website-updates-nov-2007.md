@@ -3,6 +3,10 @@ title: "Website Updates (Nov 2007)"
 date: 2007-12-01 07:05:02 +0000
 external-url: http://www.thingelstad.com/2007/12/website-updates-nov-2007/
 hash: f18ed6f2936605acca6855e418460c5b
+annum:
+    year: 2007
+    month: 12
+hostname: www.thingelstad.com
 ---
 
 I just finished a pretty long session or upgrades and improvements to thingelstad.com. Here are some new things to check out.

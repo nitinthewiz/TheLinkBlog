@@ -3,6 +3,10 @@ title: "Gary the Great: Vaynerchuk sets the example of how to succeed in busines
 date: 2008-04-09 16:05:00 +0000
 external-url: http://www.37signals.com/svn/posts/956-gary-the-great-vaynerchuk-sets-the-example-of-how-to-succeed-in-business-today
 hash: 992f9bedbd8011b12b8ee307d9976c3e
+annum:
+    year: 2008
+    month: 04
+hostname: www.37signals.com
 ---
 
 Gary Vaynerchuk is a legend in the making.

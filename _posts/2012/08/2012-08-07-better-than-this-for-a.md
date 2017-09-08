@@ -3,6 +3,10 @@ title: "Better than this - Physicians for a National Health Program"
 date: 2012-08-07 18:56:31 +0000
 external-url: http://www.pnhp.org/news/2012/july/better-than-this
 hash: a11624efda745d2bc3113f91f182dbf9
+annum:
+    year: 2012
+    month: 08
+hostname: www.pnhp.org
 ---
 
 Heartfelt article forwarded to me by my fiend Mike who is a Dr. himself and knows the author of this article.

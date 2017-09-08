@@ -3,6 +3,10 @@ title: "15 Mind-Blowing Facts About Wealth And Inequality In America"
 date: 2010-07-16 14:46:00 +0000
 external-url: http://www.businessinsider.com/us-wealth-inequality-2010-7
 hash: 5f0ccbe6d482c5786cd99aed71a75dd2
+annum:
+    year: 2010
+    month: 07
+hostname: www.businessinsider.com
 ---
 
 The rich are getting richer and the poor are getting poorer. Cliché, sure, but it's also more true than at any time since the Gilded Age.

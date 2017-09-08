@@ -3,6 +3,10 @@ title: "5 Shortcuts to Finding Your Passion"
 date: 2011-09-15 16:12:06 +0000
 external-url: http://zenhabits.net/passion-webinar/
 hash: 42f1d2cde0ff67b93098e4cb4fedf171
+annum:
+    year: 2011
+    month: 09
+hostname: zenhabits.net
 ---
 
 Post written by Leo Babauta.

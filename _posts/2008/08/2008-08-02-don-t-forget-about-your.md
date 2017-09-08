@@ -3,6 +3,10 @@ title: "Don't Forget About Your Personal Blog"
 date: 2008-08-02 02:37:49 +0000
 external-url: http://performancing.com/blogging/dont-forget-about-your-personal-blog
 hash: abd3c2be978af8163b94a996420d98f9
+annum:
+    year: 2008
+    month: 08
+hostname: performancing.com
 ---
 
 In a time where we have Twitter, FriendFeed, Plurk, Facebook, and all kinds of services to socialize with, it is far too easy to forget about the value of a personal blog. For some of us, a personal blog might be a place to express ourselves in our free time, but for others, it is an excellent opportunity to create quite a following. However, many of us have neglected our personal blogs, some of us dont update our personal blogs, and a few of us dont even have personal blogs! Regardless, there are a few great reasons as to why you should have one and keep it updated.

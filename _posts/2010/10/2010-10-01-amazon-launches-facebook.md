@@ -3,6 +3,10 @@ title: "Amazon Launches Facebook e-Commerce Store"
 date: 2010-10-01 16:06:26 +0000
 external-url: http://readwrite.com/2010/10/01/amazon_launches_facebook_e-commerce_store
 hash: 95509540acd2c2c4446f7e06e0ef9958
+annum:
+    year: 2010
+    month: 10
+hostname: readwrite.com
 ---
 
 Amazon has just launched a Facebook e-commerce store, but sadly it's not a Facebook-enabled version of Amazon.com. Instead, the new store is integrated into Procter & Gamble's Facebook page for Pampers. Yes, Pampers diapers. 

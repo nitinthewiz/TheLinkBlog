@@ -3,6 +3,10 @@ title: "Reaching out to Photographers"
 date: 2009-09-22 04:06:27 +0000
 external-url: http://blog.duncandavidson.com/2009/09/photo-community-outreach.html
 hash: fda66c953ba5eb2a507c9e4e7efde84c
+annum:
+    year: 2009
+    month: 09
+hostname: blog.duncandavidson.com
 ---
 
 A few weeks back, Chase Jarvis hosted another Seattle photo enthusiast get together. He put out the call on Twitter and in a matter of minutes, the number of slots available filled up. After all, people up in Seattle know what these things are all about. Photography. Trying new things out. Pushing oneself. The chance to play with gear that you've never worked with before. And, lets not forget the ever-important camaraderie over drinks afterword.

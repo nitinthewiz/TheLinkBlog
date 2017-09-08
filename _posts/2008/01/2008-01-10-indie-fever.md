@@ -3,6 +3,10 @@ title: "Indie Fever"
 date: 2008-01-10 18:36:37 +0000
 external-url: http://www.red-sweater.com/blog/447/indie-fever
 hash: 43d26ce01e62d2a06bfdd3ad737e6ac6
+annum:
+    year: 2008
+    month: 01
+hostname: www.red-sweater.com
 ---
 
 Something is changing. In the past few years, more and more of my developer friends have started talking about “going indie.” That is, going out on their own to develop, market, support, and profit from their own software. Many years ago, while I was working at Apple, the notion of striking out on one’s own was not even on the table for most developers I knew. 

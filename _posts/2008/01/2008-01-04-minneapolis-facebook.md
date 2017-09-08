@@ -3,6 +3,10 @@ title: "Minneapolis Facebook Developer Garage"
 date: 2008-01-04 19:59:00 +0000
 external-url: http://railspikes.com/2008/1/4/minneapolis-facebook-developer-garage
 hash: f11845e921573dc3f6744b527d3f92a3
+annum:
+    year: 2008
+    month: 01
+hostname: railspikes.com
 ---
 
 A quick note for anyone in the Twin Cities and interested in the Facebook craze: Slantwise and Best Buy are sponsoring a developer garage here on January 15th.

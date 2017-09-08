@@ -3,6 +3,10 @@ title: "MobileMe: Much improved Calendar open now for beta testing"
 date: 2010-07-07 10:03:27 +0000
 external-url: http://9to5mac.com/mobile_me_calendar_uppgrade
 hash: 5b0efba2601d09b60a4ccdc25c8e3b82
+annum:
+    year: 2010
+    month: 07
+hostname: 9to5mac.com
 ---
 
 

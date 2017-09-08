@@ -3,6 +3,10 @@ title: "MediaStorm publishes Driftless: Stories from Iowa"
 date: 2009-06-04 19:50:19 +0000
 external-url: http://mediastorm.org/blog/?p=1044
 hash: abcb6a0d35fa27ec5c5c05e53bb22b4d
+annum:
+    year: 2009
+    month: 06
+hostname: mediastorm.org
 ---
 
 

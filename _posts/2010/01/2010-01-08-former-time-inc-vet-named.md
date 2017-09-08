@@ -3,6 +3,10 @@ title: "Former Time Inc. Vet Klingensmith Named Star Trib Publisher; 30 Newsroom
 date: 2010-01-08 05:31:48 +0000
 external-url: https://gigaom.com/2010/01/08/419-former-time-inc-vet-klingensmith-named-star-trib-publisher-30-newsroom/
 hash: ff36542cc985e98eb1ff2dc9681c4a07
+annum:
+    year: 2010
+    month: 01
+hostname: gigaom.com
 ---
 
 Minneapolis Star Tribune has named former Time Inc. (NYSE: TWX) exec Michael Klingensmith as its new publisher, the paper reported. He replaces Chris Harte, who stepped down as chairman and publisher last June as the company was working its way through bankruptcy. Separately from Klingensmiths hire, the paper, which emerged from Chapter 11 last September, also said it was laying off 30 newsroom support staffers, the AP reported. No reporter or editor posts were lost in the job cuts.

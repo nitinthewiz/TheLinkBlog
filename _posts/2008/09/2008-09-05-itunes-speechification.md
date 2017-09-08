@@ -3,6 +3,10 @@ title: "ITunes Speechification"
 date: 2008-09-05 19:00:00 +0000
 external-url: http://www.tuaw.com/2008/09/05/itunes-speechification/
 hash: fd519a6fc2e5d3fcfc4dc70739bd4dbb
+annum:
+    year: 2008
+    month: 09
+hostname: www.tuaw.com
 ---
 
 Filed under: iTS, iTunes

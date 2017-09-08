@@ -3,6 +3,10 @@ title: "Simplifying ASP.Net - NVelocity"
 date: 2008-05-12 20:53:08 +0000
 external-url: http://simpable.com/code/nvelocity/
 hash: 2caf72cbae3d4e2b8c0430ac83070c71
+annum:
+    year: 2008
+    month: 05
+hostname: simpable.com
 ---
 
 NVelocity[1] is a .NET port of the Velocity open source template engine. I have used NVelocity quite a few times over the last couple of years.

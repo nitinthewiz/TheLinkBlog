@@ -3,6 +3,10 @@ title: "★ A Liberal, Accurate Regex Pattern for Matching URLs"
 date: 2009-11-28 05:11:13 +0000
 external-url: http://daringfireball.net/2009/11/liberal_regex_for_matching_urls
 hash: 9c3505d505573a6af525b008749cb7ed
+annum:
+    year: 2009
+    month: 11
+hostname: daringfireball.net
 ---
 
 A common programming problem: identify the URLs in an arbitrary string of text, where by “arbitrary” let’s agree we mean something unstructured such as an email message or a tweet. I offer a solution, in the form of the following regex pattern:

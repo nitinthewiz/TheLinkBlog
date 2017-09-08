@@ -3,6 +3,10 @@ title: "What Twitter's New Geolocation Makes Possible"
 date: 2009-11-20 05:40:07 +0000
 external-url: http://www.readwriteweb.com/archives/twitter_location_api_possible_uses.php
 hash: ee49848f917602f8462a2abb7a0f66b7
+annum:
+    year: 2009
+    month: 11
+hostname: www.readwriteweb.com
 ---
 
 Twitter turned on its long-awaited Geolocation API today, meaning that users can opt-in to having their messages annotated with their exact locations.   The significance of this is made clear by comparing it with last week's release of 500 million time-stamped Twitter messages for analysis.

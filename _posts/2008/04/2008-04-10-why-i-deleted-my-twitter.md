@@ -3,6 +3,10 @@ title: "why i deleted my twitter account"
 date: 2008-04-10 06:07:09 +0000
 external-url: http://www.gapingvoid.com/Moveable_Type/archives/004480.html
 hash: 7e69af2996fdb9a6e8f721db21e25848
+annum:
+    year: 2008
+    month: 04
+hostname: www.gapingvoid.com
 ---
 
 

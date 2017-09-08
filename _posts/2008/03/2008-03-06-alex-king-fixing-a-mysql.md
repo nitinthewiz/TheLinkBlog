@@ -3,6 +3,10 @@ title: "Alex King: Fixing a MySQL Character Encoding Mismatch"
 date: 2008-03-06 07:13:55 +0000
 external-url: http://alexking.org/blog/2008/03/06/mysql-latin1-utf8-conversion
 hash: 8a370f73d1a3b1f9261a8416a4f45a5b
+annum:
+    year: 2008
+    month: 03
+hostname: alexking.org
 ---
 
 We ran into an interesting MySQL character encoding issue at Crowd Favorite today while working to upgrade and launch a new client site.

@@ -3,6 +3,10 @@ title: "New Version of Akismet"
 date: 2007-12-17 16:58:19 +0000
 external-url: http://www.bloggingpro.com/archives/2007/12/17/new-version-of-akismet/
 hash: 67fbb9714ad1416dffaaa04a7afa0ff2
+annum:
+    year: 2007
+    month: 12
+hostname: www.bloggingpro.com
 ---
 
 There is a new version of Akismet out today, and this time it looks like they are taking some cues from their competitors and users in adding new features:

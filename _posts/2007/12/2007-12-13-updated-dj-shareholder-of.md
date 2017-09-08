@@ -3,6 +3,10 @@ title: "Updated: @ DJ Shareholder Meeting: Shareholders Approve Sale Of Dow Jone
 date: 2007-12-13 22:39:36 +0000
 external-url: http://gigaom.com/2007/12/13/419-dj-shareholder-meeting/
 hash: 458dc0633bb137d00070bc0ad46aed9b
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 It's official: Dow Jones (NYSE: DJ) shareholders have approved the sale of the company to News Corp. (NYSE: NWS) In the end, shares representing 60.27 percent of the total voting power were cast in favor of the deal. Of the Class B shares that were voted, most of which were held by the controlling Bancroft family, 54 percent were cast in favor. Common shareholders overwhelmingly approved the deal, with 94 percent of votes cast going in favor. The official sale close is yet to come. That is expected to happen at the close of business today. Release.

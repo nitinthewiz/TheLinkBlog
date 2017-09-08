@@ -3,6 +3,10 @@ title: "Postling: Etsy Founders Do Social Media for Small Business"
 date: 2009-08-06 05:56:46 +0000
 external-url: http://www.readwriteweb.com/enterprise/2009/08/postling-etsy-founders-do-social-media-for-small-business.php
 hash: f5e636830ab6ae676371d0ea66c814ea
+annum:
+    year: 2009
+    month: 08
+hostname: www.readwriteweb.com
 ---
 
 Half of the team that founded Etsy, along with a former Etsy and Amazon.com product manager, have quietly launched a new startup. Postling is a centralized platform for small businesses to publish to the social Web. 

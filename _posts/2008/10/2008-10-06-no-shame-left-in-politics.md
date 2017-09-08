@@ -3,6 +3,10 @@ title: "No Shame Left In Politics"
 date: 2008-10-06 13:47:22 +0000
 external-url: http://www.opticality.com/blog/2008/10/06/no-shame-left-in-politics/
 hash: 3f965375590b2f7623056024299e6b68
+annum:
+    year: 2008
+    month: 10
+hostname: www.opticality.com
 ---
 
 To be honest, there’s really little shame left in the country (world?) in general, but in politics, it’s effectively non-existent.

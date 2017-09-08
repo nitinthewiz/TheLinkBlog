@@ -3,6 +3,10 @@ title: "[Back to] The Future of Typography - Presentation Notes"
 date: 2009-05-18 03:36:07 +0000
 external-url: http://kernest.com/blog/archive/back-to-the-future-of-typography-presentation-notes
 hash: 6cde0ee6b39c467be35eef87b6a859a4
+annum:
+    year: 2009
+    month: 05
+hostname: kernest.com
 ---
 
 I just talked with the UofMN’s Web Standards Workgroup about @font-face. Rather than load up a context-less, frozen, presentation, here are my notes.

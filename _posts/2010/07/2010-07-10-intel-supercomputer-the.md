@@ -3,6 +3,10 @@ title: "Intel supercomputer predicts the path of Gulf oil spill (video)"
 date: 2010-07-10 18:53:22 +0000
 external-url: http://venturebeat.com/2010/07/10/intel-supercomputer-predicts-the-path-of-gulf-oil-spill/
 hash: e827c8cc1ea192144de855bfd9aa92aa
+annum:
+    year: 2010
+    month: 07
+hostname: venturebeat.com
 ---
 
 Everybody wants to know just where the oil spill in the Gulf of Mexico will spread. Intel’s Encanto supercomputer in New Mexico has calculated that information, using a complex ocean current simulation.

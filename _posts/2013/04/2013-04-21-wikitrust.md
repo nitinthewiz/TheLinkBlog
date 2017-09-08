@@ -3,6 +3,10 @@ title: "WikiTrust"
 date: 2013-04-21 18:56:27 +0000
 external-url: http://www.wikitrust.net/
 hash: e26513cc5964ae3c079a59780d655986
+annum:
+    year: 2013
+    month: 04
+hostname: www.wikitrust.net
 ---
 
 Interesting project.

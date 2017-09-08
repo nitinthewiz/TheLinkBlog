@@ -3,6 +3,10 @@ title: "Are we too old to trick or treat? | Ask Metafilter [comment] Wonderful  
 date: 2009-10-06 15:48:34 +0000
 external-url: http://www.kungfugrippe.com/post/204206094
 hash: 19c400e7776869dcdfbf9804e51fade1
+annum:
+    year: 2009
+    month: 10
+hostname: www.kungfugrippe.com
 ---
 
 Are we too old to trick or treat? | Ask Metafilter [comment]

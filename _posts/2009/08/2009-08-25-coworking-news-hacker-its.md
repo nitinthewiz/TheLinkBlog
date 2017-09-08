@@ -3,6 +3,10 @@ title: "Coworking News: Hacker Dojo Opens Its Doors"
 date: 2009-08-25 03:57:22 +0000
 external-url: http://gigaom.com/collaboration/co-working-news-hacker-dojo-opens-its-doors/
 hash: 58690b7b1352ce7a5f14a94a21fcfd30
+annum:
+    year: 2009
+    month: 08
+hostname: gigaom.com
 ---
 
 Hacker Dojo, a new coworking venture located in Mountain View, Calif., opened for business yesterday. Its location is good news for web workers from the Bay Area looking for a co-working space who aren’t based in San Francisco. Inspired by the monthly DevHouse “hackathon” events, the space is intended to be a venue for hackers, tinkerers and creative people — despite the name, you don’t need to be a programmer to become a member. Hacker Dojo is primarily intended to be a creative community space (a place to hold events, workshops, BarCamps, etc.), with coworking as an additional feature.

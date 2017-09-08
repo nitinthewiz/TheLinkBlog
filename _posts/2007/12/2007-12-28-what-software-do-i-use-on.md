@@ -3,6 +3,10 @@ title: "What Software do I use on the Mac?"
 date: 2007-12-28 19:16:34 +0000
 external-url: http://simpable.com/software/mac-software/
 hash: fc692afec99916f15cd04007e1589d92
+annum:
+    year: 2007
+    month: 12
+hostname: simpable.com
 ---
 
 I am still a border line noob on the Mac, but with so many friends/co-workers jumping in, I figured I put together a list of what software I am currently using most often on my Mac.

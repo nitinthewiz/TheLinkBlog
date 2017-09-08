@@ -3,6 +3,10 @@ title: "Twitter will molest you."
 date: 2009-10-29 04:00:27 +0000
 external-url: http://thebloggess.com/?p=4528
 hash: 22789b4a4bd9ae2753f78c3789592a16
+annum:
+    year: 2009
+    month: 10
+hostname: thebloggess.com
 ---
 
 Conversation between me and twitter, who is kind of an asshole:

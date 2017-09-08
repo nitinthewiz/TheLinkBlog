@@ -3,6 +3,10 @@ title: "MARTHAANDTOM » When was the last time you heard someone talk about the 
 date: 2009-09-03 23:21:57 +0000
 external-url: http://marthaandtom.com/2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/#
 hash: fd783e2a92a094841b4dc25880bf10b2
+annum:
+    year: 2009
+    month: 09
+hostname: marthaandtom.com
 ---
 
 I started by going to the Midtown Farmers’ Market on Saturday (Week 18 if you’re keeping track) and buying produce as I usually do (impulsively). I ended up with 3 Gingergold Apples, green/yellow beans, Celery still attached to its root (celeriac), sweet banana peppers, red peppers, six ears of corn, a pint of cherry tomatoes and a quart of beautiful heirloom tomatoes (I have been buying this exact tomato order from Honey Creek Farm for the past three weeks and will continue to until that sad day when there are no more tomatoes). The total for all this? $26.

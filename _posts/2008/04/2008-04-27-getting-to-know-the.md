@@ -3,6 +3,10 @@ title: "Getting to Know the Nabaztag Internet Rabbit"
 date: 2008-04-27 23:36:27 +0000
 external-url: http://db.tidbits.com/article/9584
 hash: 12c4365bfb2ae0a4fc30fade278d53bf
+annum:
+    year: 2008
+    month: 04
+hostname: db.tidbits.com
 ---
 
 Shortly after I moved to France last year, Glenn Fleishman offered to introduce me to his contacts at a company called Violet that's based here in Paris. (And thus, by the way, it's pronounced "vee-oh-LAY.") Violet is best known as the developer of the Nabaztag Internet-enabled rabbit, and this product sounded sufficiently wacky that I was delighted to pay its creators a visit. It turned out they're located just down the street from me, about a ten-minute walk away, and I'd unknowingly passed their offices dozens of times already. So I set up an appointment, and Morgen and I met with Rafi Haladjian (one of the Nabaztag's inventors) and Jean-FranÃ§ois Kitten 

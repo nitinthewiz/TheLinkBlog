@@ -3,6 +3,10 @@ title: "NYSE Launches Bitcoin Index Powered by Coinbase"
 date: 2015-05-19 16:56:17 +0000
 external-url: https://blog.coinbase.com/2015/05/19/nyse-creates-bitcoin-index-powered-by-coinbase/
 hash: b062226b7e43411901c7382f83e144d0
+annum:
+    year: 2015
+    month: 05
+hostname: blog.coinbase.com
 ---
 
 Today the New York Stock Exchange launched the NYSE Bitcoin Index (NYXBT), a benchmark for the daily price of bitcoin. NYXBT represents the U.S. Dollar value of one bitcoin, based on transactions occurring on Coinbase Exchange and other select bitcoin exchanges.

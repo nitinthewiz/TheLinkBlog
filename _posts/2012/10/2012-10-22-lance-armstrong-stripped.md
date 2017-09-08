@@ -3,6 +3,10 @@ title: "Lance Armstrong stripped of Tour de France medals"
 date: 2012-10-22 18:19:27 +0000
 external-url: http://www.cbsnews.com/8301-400_162-57537025/lance-armstrong-stripped-of-tour-de-france-medals/
 hash: 782cccf044900c4cdcbec17019e08f51
+annum:
+    year: 2012
+    month: 10
+hostname: www.cbsnews.com
 ---
 
 OMG.

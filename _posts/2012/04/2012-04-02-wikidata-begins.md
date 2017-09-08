@@ -3,6 +3,10 @@ title: "Wikidata begins"
 date: 2012-04-02 04:11:59 +0000
 external-url: http://wikiworks.com/blog/2012/04/02/wikidata-begins/
 hash: a3ed84409c5fcfa2064f83a136ccddfa
+annum:
+    year: 2012
+    month: 04
+hostname: wikiworks.com
 ---
 
 I'm still figuring out Wikidata but from what I understand so far Wikimedia is creating this new project to be similar to MediaWiki Commons. Where commons holds media, Wikidata will hold data. Yaron is one of the guys behind Semantic MediaWiki, which is one of the best ways to put data in a wiki now.

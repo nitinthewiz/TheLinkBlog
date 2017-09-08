@@ -3,6 +3,10 @@ title: "LR2/Mogrify update to version 4"
 date: 2009-10-01 00:26:17 +0000
 external-url: http://lightroom-news.com/2009/09/30/lr2mogrify-update-to-version-4/
 hash: e34315d011598ec7c7ba89dada44e1bc
+annum:
+    year: 2009
+    month: 10
+hostname: lightroom-news.com
 ---
 
 Timothy Armes has just released version 4.00 of LR2/Mogrify – his Lightroom plugin for adding watermarks, text annotations and borders to exported images (among lots of other things).

@@ -3,6 +3,10 @@ title: "The Gold Rush is On"
 date: 2008-09-19 04:21:12 +0000
 external-url: http://inessential.com/?comments=1&postid=3531
 hash: 3f96d0def2a9ba2745cdc6dcbeaa38ee
+annum:
+    year: 2008
+    month: 09
+hostname: inessential.com
 ---
 
 

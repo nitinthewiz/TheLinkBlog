@@ -3,6 +3,10 @@ title: "Minnesota’s Startup Scene in Twin Cities Business Magazine"
 date: 2010-10-02 20:34:26 +0000
 external-url: http://garrickvanburen.com/archive/minnesotas-startup-scene-in-twin-cities-business-magazine
 hash: 6f81c3389bf65364f9284b2b2eb6f9f5
+annum:
+    year: 2010
+    month: 10
+hostname: garrickvanburen.com
 ---
 
 ‘Saving Innovation’ – Dan Haugen’s article on our vibrant meet-up scene and how it supports innovation & entrepreneurship was published in the October 2010 issue of Twin Cities Business Magazine.

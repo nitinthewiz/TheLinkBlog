@@ -3,6 +3,10 @@ title: "Major Newspaper Chain Goes Open Source"
 date: 2010-07-05 02:55:00 +0000
 external-url: http://www.readwriteweb.com/archives/major_newspaper_chain_goes_open_source.php
 hash: f4949632580eea727043dc28adda4a80
+annum:
+    year: 2010
+    month: 07
+hostname: www.readwriteweb.com
 ---
 
 The argument over the utility of open source has one more voter in the yes camp. This time, it's the Journal Register Company, a U.S. newspaper chain with 170 publications. 

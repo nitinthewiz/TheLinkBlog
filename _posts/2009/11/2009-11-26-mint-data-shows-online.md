@@ -3,6 +3,10 @@ title: "Mint Data Shows Online Retail Rebounding"
 date: 2009-11-26 06:26:11 +0000
 external-url: http://readwrite.com/2009/11/24/mint_data_shows_online_retail_rebounding
 hash: 33f15f086b9d34b31bc2cd2ced7142d3
+annum:
+    year: 2009
+    month: 11
+hostname: readwrite.com
 ---
 
 Last night we wrote about Forrester's prediction that online holiday retail sales will grow 8% this year to $44.7 billion. comScore had similar numbers about the growth of online retail - toy web sites grew 9% in October, as did the retail apparel segment. Online personal finance service  Mint.com has joined the festive statistics parade, with  data analyzing some of the U.S.'s leading retailers. 

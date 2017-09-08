@@ -3,6 +3,10 @@ title: "Facebook Confirms Talent Acquisition of Three Zenbe Employees"
 date: 2010-11-16 20:10:00 +0000
 external-url: http://www.insidefacebook.com/2010/11/16/facebook-zenbe/
 hash: e8be9b44ab16061d3c53c6eba29ea617
+annum:
+    year: 2010
+    month: 11
+hostname: www.insidefacebook.com
 ---
 
 Facebook confirmed that it hired three employees from messaging startup Zenbe in a small talent acquisition. They were part of the team working on the new Messages product Facebook launched yesterday, according to Zenbe.

@@ -3,6 +3,10 @@ title: "The woman with 100 personalities"
 date: 2011-10-03 14:10:01 +0000
 external-url: http://kottke.org/11/10/the-woman-with-100-personalities
 hash: eb361ce07319a5346bb39f92eea07412
+annum:
+    year: 2011
+    month: 10
+hostname: kottke.org
 ---
 
 Kim Noble, although she doesn't care to be called that, has over 100 distinct personalities.

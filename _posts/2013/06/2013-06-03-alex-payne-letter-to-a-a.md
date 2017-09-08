@@ -3,6 +3,10 @@ title: "Alex Payne Letter To A Young Programmer Considering A Startup"
 date: 2013-06-03 21:28:53 +0000
 external-url: https://al3x.net/2013/05/23/letter-to-a-young-programmer.html
 hash: d80c448249494014d972879355a8a016
+annum:
+    year: 2013
+    month: 06
+hostname: al3x.net
 ---
 
 Very good.

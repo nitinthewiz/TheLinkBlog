@@ -3,6 +3,10 @@ title: "Apple Rumor Site Think Secret Shutting Down On Settlement"
 date: 2007-12-21 05:56:19 +0000
 external-url: http://gigaom.com/2007/12/20/419-apple-gossip-site-thinksecret-shutting-down-on-settlement/
 hash: 6def35be2993ad120554d2bca4d6dd40
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 Think Secret, a popular source of Apple (NSDQ: AAPL) gossip and news, will be shutting down, per a settlement of a trade secrets lawsuit brought by Apple in 2005. In a statement, publisher Nick Ciarelli described the agreement as "amicable", but offered few details. Apple, which gets a lot of PR mileage from Steve Jobs' keynote product announcements, has been fighting a multi-front effort to stamp out news leaks. The suit against Think Secret was separate from a broader effort to force blogs to reveal their company sources. As noted in the statement, Think Secret was not forced to reveal any of its sources as part of the agreement. Announcement.

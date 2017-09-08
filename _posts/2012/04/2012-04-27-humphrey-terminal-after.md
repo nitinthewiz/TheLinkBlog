@@ -3,6 +3,10 @@ title: "Humphrey terminal reopening after suspicious bag led to evacuation"
 date: 2012-04-27 13:36:43 +0000
 external-url: http://www.startribune.com/local/149210655.html
 hash: 2019b435341c0bbd8b04dc1212baaac1
+annum:
+    year: 2012
+    month: 04
+hostname: www.startribune.com
 ---
 
 How would you go about keeping a population of people willing to trade liberties for security? You would likely want to randomly spread news of potential threats, drive peoples fear reactions and remind them that they are constantly being threatened.

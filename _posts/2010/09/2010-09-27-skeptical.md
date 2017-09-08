@@ -3,6 +3,10 @@ title: "Skeptical"
 date: 2010-09-27 15:06:45 +0000
 external-url: http://www.woothemes.com/2010/09/skeptical/
 hash: 8b9884dc6186516d15708b387fd3ba8b
+annum:
+    year: 2010
+    month: 09
+hostname: www.woothemes.com
 ---
 
 Unique Features Custom TypographyAlmost every text element can be changed in the options panel, and even has full support for Google Fonts in the font selector.

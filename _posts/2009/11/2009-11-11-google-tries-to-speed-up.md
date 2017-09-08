@@ -3,6 +3,10 @@ title: "Google tries to speed up programming with a new language: Go"
 date: 2009-11-11 02:41:58 +0000
 external-url: http://venturebeat.com/2009/11/10/google-tries-to-speed-up-programming-with-a-new-language-go/
 hash: 2de927fabe2f3a60676ba2fbd07a8270
+annum:
+    year: 2009
+    month: 11
+hostname: venturebeat.com
 ---
 
 A team of Googlers just announced a project called Go — it’s a new, experimental programming language that Google is making available as open source at the Go website.

@@ -3,6 +3,10 @@ title: "JFK On Secrecy And Censorship"
 date: 2011-01-02 12:21:15 +0000
 external-url: https://www.techdirt.com/articles/20101206/01134912143/jfk-secrecy-censorship.shtml
 hash: 8adb4a2a02fc6ff8cfbfb4c6f0064791
+annum:
+    year: 2011
+    month: 01
+hostname: www.techdirt.com
 ---
 
 Glyn Moody points us to a blog post that has a video/audio clip of a John F. Kennedy speech to the press about secrecy and censorship, which is getting some attention for the contrast to the way our government is responding to the WikiLeaks controversy.  

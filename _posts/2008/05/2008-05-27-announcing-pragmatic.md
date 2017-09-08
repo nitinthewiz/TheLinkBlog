@@ -3,6 +3,10 @@ title: "Announcing Pragmatic Screencasts!"
 date: 2008-05-27 16:45:00 +0000
 external-url: http://www.clarkware.com/cgi/blosxom/2008/05/27#AnnouncingPragmaticScreencasts
 hash: a00c1fff14bef3eb9ad0688b54570894
+annum:
+    year: 2008
+    month: 05
+hostname: www.clarkware.com
 ---
 
 

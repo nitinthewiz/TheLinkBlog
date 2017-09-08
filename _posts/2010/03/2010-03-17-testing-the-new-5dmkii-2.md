@@ -3,6 +3,10 @@ title: "Testing the new 5DmkII 2.0.3 firmware on a news assignment"
 date: 2010-03-17 02:38:19 +0000
 external-url: http://www.dslrnewsshooter.com/2010/03/16/testing-the-new-5dmkii-2-0-3-firmware-on-a-news-assignment/
 hash: 3587ccd24efad25e5da052f581a15bd0
+annum:
+    year: 2010
+    month: 03
+hostname: www.dslrnewsshooter.com
 ---
 
 

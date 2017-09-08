@@ -3,6 +3,10 @@ title: "Perian 1.1.3 now available, provides lots of fixes"
 date: 2008-12-16 21:00:00 +0000
 external-url: http://www.tuaw.com/2008/12/16/perian-1-1-3-now-available-provides-lots-of-fixes/
 hash: 451873aed5cb8caa7dbc33ecc4350760
+annum:
+    year: 2008
+    month: 12
+hostname: www.tuaw.com
 ---
 
 Filed under: Multimedia, Software, Freeware

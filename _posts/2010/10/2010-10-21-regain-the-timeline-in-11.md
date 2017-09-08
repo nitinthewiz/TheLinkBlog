@@ -3,6 +3,10 @@ title: "Regain the Timeline in iMovie ’11"
 date: 2010-10-21 17:24:43 +0000
 external-url: http://tidbits.com/article/11688?rss=
 hash: b1f6a8a1f5c33c8c3cf1a3c65250242e
+annum:
+    year: 2010
+    month: 10
+hostname: tidbits.com
 ---
 
 When Apple radically changed iMovie between the ’06 and ’08 releases, one of the main criticisms was the abandonment of the traditional editing timeline. Instead of one horizontal succession of clips at the bottom of the screen, iMovie ’08 introduced an editing area at the top-left of the screen where the movie wraps like a paragraph.

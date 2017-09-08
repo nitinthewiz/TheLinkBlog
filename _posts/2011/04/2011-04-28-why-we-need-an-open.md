@@ -3,6 +3,10 @@ title: "Why We Need An Open Wireless Movement"
 date: 2011-04-28 22:08:30 +0000
 external-url: http://www.eff.org/deeplinks/2011/04/open-wireless-movement
 hash: 99a739f9262c561066036ede977f54fa
+annum:
+    year: 2011
+    month: 04
+hostname: www.eff.org
 ---
 
 If you sometimes find yourself needing an open wireless network in order to check your email from a car, a street corner, or a park, you may have noticed that they're getting harder to find.

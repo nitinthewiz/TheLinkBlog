@@ -3,6 +3,10 @@ title: "Super Hot: Muxtape With Coverflow"
 date: 2008-04-18 03:05:13 +0000
 external-url: http://readwrite.com/2008/04/17/muxtape_with_coverflow
 hash: 26fcb2a32cbeecd2cc899fda4950d467
+annum:
+    year: 2008
+    month: 04
+hostname: readwrite.com
 ---
 
 MP3 "mix tape" site Muxtape has been my preferred source of new music for the last few weeks now, in large part because the simple interface is such a joy to use.  Now, internet and organic root-beer lover Colin Sproule has come up with a great way for Mac users to get an iTunes-style Coverflow preview of playlists on the site.  

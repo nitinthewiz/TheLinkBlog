@@ -3,6 +3,10 @@ title: "Translating Eliot Spitzer Resignation Speech"
 date: 2008-03-12 18:59:13 +0000
 external-url: http://www.opticality.com/blog/2008/03/12/translating-eliot-spitzer-resignation-speech/
 hash: ce2e9cf3535730f4a249700322bda70b
+annum:
+    year: 2008
+    month: 03
+hostname: www.opticality.com
 ---
 
 I feel the need to provide a public service. Eliot Spitzer, Governor of New York, resigned today. He gave a heart-felt speech, that was carefully crafted to communicate as clearly as possible with everyone in the country.

@@ -3,6 +3,10 @@ title: "Google Sync for Blackberry Calendar"
 date: 2007-12-13 12:49:37 +0000
 external-url: http://gigaom.com/2007/12/13/google-sync-for-blackberry-calendar/
 hash: 22e25f561add217bbdef2e6f79b1c1aa
+annum:
+    year: 2007
+    month: 12
+hostname: gigaom.com
 ---
 
 When it comes to working with Google data on mobile devices, Google isnt all about the iPhone after all. A few weeks after Google  updated their cross-platform Maps application comes some new love for those of us with Blackberry devices.

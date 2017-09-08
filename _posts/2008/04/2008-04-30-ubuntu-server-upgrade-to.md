@@ -3,6 +3,10 @@ title: "Ubuntu Server Upgrade to 8.04 Hardy Heron"
 date: 2008-04-30 07:30:23 +0000
 external-url: http://hostingfu.com/article/ubuntu-server-upgrade-8-04-hardy-heron
 hash: e2c8733207713f042c1c823775842678
+annum:
+    year: 2008
+    month: 04
+hostname: hostingfu.com
 ---
 
 First of all I have to confess that I have been very busy over the last months or two and have not really been motivated to write. I have a few other projects happening at the same time — at work, at home, at church and at my other websites, and I apologise for neglecting this blog. Hopefully I will get back to writing here again. I am also hoping to write shorter pieces — maybe just 2 or 3 paragraphs — so I can make more frequent posts.

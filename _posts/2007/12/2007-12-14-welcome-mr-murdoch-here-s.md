@@ -3,6 +3,10 @@ title: "Welcome, Mr. Murdoch: Here's Your Page Views"
 date: 2007-12-14 14:23:37 +0000
 external-url: http://www.businessinsider.com/2007/12/welcome-mr-murdoch-heres-your-page-views
 hash: aa951746ae53ed8eb215ca543f6bd2ab
+annum:
+    year: 2007
+    month: 12
+hostname: www.businessinsider.com
 ---
 
 In the months leading up to Rupert Murdoch's WSJ takeover, some of the Dow Jones crew insisted that WSJ.com might keep its subscription wall -- even though Murdoch clearly intended to tear it down. Now that reality has set in, it will be fascinating to watch WSJ.com turn all of its focus on advertising metrics like uniques and page views.Baby steps first... 

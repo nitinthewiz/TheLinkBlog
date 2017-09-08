@@ -3,6 +3,10 @@ title: "System Outages Explained"
 date: 2009-03-14 04:40:12 +0000
 external-url: https://uto.asu.edu/blog/2009/03/05/system-outages-explained/
 hash: 3f3e58d94313e84b79188145554999df
+annum:
+    year: 2009
+    month: 03
+hostname: uto.asu.edu
 ---
 
  If you’ve been at ASU this semester, you’ve probably been inconvenienced by one of the five major system outages we’ve experienced so far this term. And as you might imagine, I’ve received more than a few emails from concerned members of the ASU Community expressing their frustration with being unable to access Blackboard, or My ASU or the various other services that have been affected in the past several weeks.

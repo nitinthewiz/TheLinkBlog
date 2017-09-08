@@ -3,6 +3,10 @@ title: "Firebug 1.5: New Features and ready for Firefox 3.6"
 date: 2010-01-21 02:18:44 +0000
 external-url: http://ajaxian.com/archives/firebug-1-5-new-features-and-ready-for-firefox-3-6
 hash: f030ac6ce452609547c2de733a9b9ba4
+annum:
+    year: 2010
+    month: 01
+hostname: ajaxian.com
 ---
 
 Nice work Firebug team for announcing Firebug 1.5, a great release that fixes many bugs and adds great features:

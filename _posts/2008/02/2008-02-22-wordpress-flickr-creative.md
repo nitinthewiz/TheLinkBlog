@@ -3,6 +3,10 @@ title: "Wordpress + Flickr + Creative Commons = Awesome New Plugin for Bloggers"
 date: 2008-02-22 19:15:46 +0000
 external-url: http://readwrite.com/2008/02/22/wordpress_flickr_creative_commons
 hash: f8eb94ec38eef389184e420184165da3
+annum:
+    year: 2008
+    month: 02
+hostname: readwrite.com
 ---
 
 Adding photos to your blog is one of the best ways to enhance your content and attract attention to your writings. The only problem is that finding quality photos to use can be difficult. Bloggers end up going with one of three options: stealing, buying, or using Creative Commons licensed photos. Now, that third option just got easier with the introduction of the Photo Dropper WordPress plugin. This new plugin searches flickr for Creative Commons licensed photos for you to add to your WordPress blog.

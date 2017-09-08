@@ -3,6 +3,10 @@ title: "Playgrounder is born"
 date: 2009-08-28 00:37:47 +0000
 external-url: http://hivelogic.com/articles/playgrounder/
 hash: 70dfec4109fc48c8a8b88037ccc38b09
+annum:
+    year: 2009
+    month: 08
+hostname: hivelogic.com
 ---
 
 

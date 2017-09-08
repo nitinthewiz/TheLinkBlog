@@ -3,6 +3,10 @@ title: "Google Reader needs GPC"
 date: 2007-12-26 07:43:41 +0000
 external-url: http://scobleizer.com/?p=3948
 hash: 23223081c4321eb7d1fbd547a1687173
+annum:
+    year: 2007
+    month: 12
+hostname: scobleizer.com
 ---
 
 Oh, man, is the Google Reader team under attack for its new social networking features.

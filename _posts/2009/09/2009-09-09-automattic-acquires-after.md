@@ -3,6 +3,10 @@ title: "Automattic acquires spellchecking company After the Deadline"
 date: 2009-09-09 04:08:25 +0000
 external-url: http://venturebeat.com/2009/09/08/automattic-acquires-spellchecking-company-after-the-deadline/
 hash: 70887c1ba99319ab69ea6be3a30daa18
+annum:
+    year: 2009
+    month: 09
+hostname: venturebeat.com
 ---
 
 Fairly or not, the Internet has earned a reputation as the home for typos, incorrect spelling, and bad grammar. I’ve certainly been responsible for my share of cringeworthy mistakes. Automattic, the company that created the WordPress blogging platform (which powers VentureBeat and many other sites), is taking steps to improve that with the just-announced acquistion of a spell-checking startup called After the Deadline.

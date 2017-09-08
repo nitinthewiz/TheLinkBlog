@@ -3,6 +3,10 @@ title: "MediaWiki Extension PCR GUI Inserts"
 date: 2013-11-23 12:37:52 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:PCR_GUI_Inserts
 hash: f40ac02ef3e6efd12c9b04b2c11979ae
+annum:
+    year: 2013
+    month: 11
+hostname: www.mediawiki.org
 ---
 
 This could come in handy at some point.

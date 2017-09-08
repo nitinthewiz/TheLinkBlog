@@ -3,6 +3,10 @@ title: "DailyMuse - Inspiration in your Inbox"
 date: 2015-03-21 02:02:09 +0000
 external-url: https://dailymuse.net/
 hash: 1433a56a901df3f9302776756e7eaed4
+annum:
+    year: 2015
+    month: 03
+hostname: dailymuse.net
 ---
 
 <blockquote>

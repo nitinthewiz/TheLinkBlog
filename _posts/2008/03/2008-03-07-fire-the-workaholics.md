@@ -3,6 +3,10 @@ title: "Fire the workaholics"
 date: 2008-03-07 23:24:00 +0000
 external-url: http://signalvnoise.com/posts/902-fire-the-workaholics
 hash: cd3d392ed05a8f1b157aed456d990e66
+annum:
+    year: 2008
+    month: 03
+hostname: signalvnoise.com
 ---
 
 Jason Calacanis wants you to save money for your startup, so he has come up with 17 tips on how. The intention is good. Working lean is great and means you probably wont need outside money. And theres some good stuff, like dont buy Microsoft Office and skip the phone system. But theres also some depressing bullshit like:

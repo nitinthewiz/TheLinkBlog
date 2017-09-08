@@ -3,6 +3,10 @@ title: "YC-Funded FanChatter Takes Social Media To The Ball Game"
 date: 2009-08-06 05:40:08 +0000
 external-url: http://techcrunch.com/2009/08/01/yc-funded-fanchatter-takes-social-media-to-the-ball-game/
 hash: 234357eebc5ecc73d84fb018a5b739af
+annum:
+    year: 2009
+    month: 08
+hostname: techcrunch.com
 ---
 
 Every day, sports fans congregate at their nearest big-league stadium to bask in each other’s cheers, body paint, and beer, relishing their shared enthusiasm for the teams they love.  But then the game ends.  Everyone is forced to head back to their normal lives to trudge through their day jobs once more, at least til the next home game comes round.  Social media can offer them some comfort, giving them a chance to take the community home with them.  Unfortunately, many professional sports teams are still failing to tap into this effectively.

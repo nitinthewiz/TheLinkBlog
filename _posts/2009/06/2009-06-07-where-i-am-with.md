@@ -3,6 +3,10 @@ title: "Where I am with NetNewsWire"
 date: 2009-06-07 11:03:27 +0000
 external-url: http://inessential.com/2009/06/06/where_i_am_with_netnewswire
 hash: c346f46dd0ea12b84f1fe2ed5d4ea4e5
+annum:
+    year: 2009
+    month: 06
+hostname: inessential.com
 ---
 
 People ask me what’s up with NetNewsWire — and this week they’ll ask me in person. So I figured I’d better write a post about it.

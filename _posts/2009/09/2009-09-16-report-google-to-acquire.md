@@ -3,6 +3,10 @@ title: "Report: Google to acquire Brightcove for $500 to 700 million"
 date: 2009-09-16 19:14:13 +0000
 external-url: http://venturebeat.com/2009/09/16/report-google-to-acquire-brightcove-for-500-to-700-million/
 hash: 12eba8859a9ed0648590a62047527c7d
+annum:
+    year: 2009
+    month: 09
+hostname: venturebeat.com
 ---
 
 Google may be in talks to acquire video company Brightcove for between $500 and 700 million, according to PBS’ Mark Glaser.

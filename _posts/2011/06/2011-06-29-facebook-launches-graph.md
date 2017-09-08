@@ -3,6 +3,10 @@ title: "Facebook Launches Graph API Explorer for Testing and Revamps Developer A
 date: 2011-06-29 19:00:29 +0000
 external-url: http://www.insidefacebook.com/2011/06/29/graph-api-explorer-developer-app/
 hash: 8bd4ed5b1a8d15a4125d731c4a812623
+annum:
+    year: 2011
+    month: 06
+hostname: www.insidefacebook.com
 ---
 
 Facebook released significant improvements to its Platform developer toolset this morning with the introduction of the Graph API Explorer and a new version of the Developer app. The Graph API Explorer lets developers make and test API calls and see formatted results in-line, preview extended permissions dialogs, explore connections between objects, and more. The enhanced Developer app allows for quick access to apps, important app info, Getting Started guides, and roles management.

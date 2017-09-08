@@ -3,6 +3,10 @@ title: "The Hustler's MBA"
 date: 2012-09-26 17:13:03 +0000
 external-url: http://tynan.com/hustle
 hash: 09cf3dd8ccc6291b696ce6c25cdf7360
+annum:
+    year: 2012
+    month: 09
+hostname: tynan.com
 ---
 
 As someone that didn't finish college I can read this with a little smugness. I went to college for 3 years, and while I didn't get the degree I did get immense benefit. Access to computers science labs, the Internet and fellow techies was key. These days that access is a lot easier to get.

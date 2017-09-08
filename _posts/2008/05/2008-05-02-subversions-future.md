@@ -3,6 +3,10 @@ title: "Subversion’s Future?"
 date: 2008-05-02 14:31:17 +0000
 external-url: http://mjtsai.com/blog/2008/05/02/subversions-future/
 hash: 947de56816895105dfaeba20629baf56
+annum:
+    year: 2008
+    month: 05
+hostname: mjtsai.com
 ---
 
 Ben Collins-Sussman:

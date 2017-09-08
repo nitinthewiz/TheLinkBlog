@@ -3,6 +3,10 @@ title: "Ebyline Wants to Create an iTunes for Journalism"
 date: 2010-09-11 04:18:19 +0000
 external-url: http://gigaom.com/2010/09/09/ebyline-wants-to-create-an-itunes-for-journalism/
 hash: f98996bd2e2dac4b3954cbb42b035987
+annum:
+    year: 2010
+    month: 09
+hostname: gigaom.com
 ---
 
 

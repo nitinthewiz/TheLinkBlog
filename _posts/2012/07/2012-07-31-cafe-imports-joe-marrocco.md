@@ -3,6 +3,10 @@ title: "Cafe Imports - Joe Marrocco"
 date: 2012-07-31 03:23:49 +0000
 external-url: http://www.cafeimports.com/joe.php
 hash: b174cbe7d6d0b89fac67f08ff02500a7
+annum:
+    year: 2012
+    month: 07
+hostname: www.cafeimports.com
 ---
 
 I won a private coffee roasting class with Joe at the Matt Call Benefit. I can't wait to set this class up!

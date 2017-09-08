@@ -3,6 +3,10 @@ title: "Survey: Fox the only TV news outlet that more people say they trust than
 date: 2010-01-26 21:54:06 +0000
 external-url: http://www.poynter.org/latest-news/mediawire/100452/survey-fox-the-only-tv-news-outlet-that-more-people-say-they-trust-than-distrust/
 hash: af2f8211ccaa5f8e889095f44685ec4d
+annum:
+    year: 2010
+    month: 01
+hostname: www.poynter.org
 ---
 
 Public Policy Polling

@@ -3,6 +3,10 @@ title: "J. Arthur's Coffee"
 date: 2012-06-26 11:56:42 +0000
 external-url: http://jarthurscoffee.com/
 hash: 374918a0b484392a50fe6c9932cdeb6d
+annum:
+    year: 2012
+    month: 06
+hostname: jarthurscoffee.com
 ---
 
 Looks like a great reinvigorated coffee option in Roseville.

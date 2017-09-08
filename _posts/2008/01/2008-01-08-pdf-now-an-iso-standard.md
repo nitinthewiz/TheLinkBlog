@@ -3,6 +3,10 @@ title: "PDF Now an ISO Standard"
 date: 2008-01-08 18:10:08 +0000
 external-url: http://www.photoshopnews.com/2008/01/08/pdf-now-an-iso-standard/
 hash: 020b2ec7e9dd54e2a9e8073fe701352a
+annum:
+    year: 2008
+    month: 01
+hostname: www.photoshopnews.com
 ---
 
 Stephen Partridge, the business development Manager for Acrobat has announced on his Adobe Blog that the International Organization for Standardisation (ISO) voted to approve Adobes PDF as an international document format standard. The ISO standard number is ISO32000.

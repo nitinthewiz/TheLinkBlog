@@ -3,6 +3,10 @@ title: "Top 10 Uses For A Message Queue"
 date: 2012-12-12 23:09:12 +0000
 external-url: http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html
 hash: ad88f011d269742c8bfc230c25cdc67e
+annum:
+    year: 2012
+    month: 12
+hostname: blog.iron.io
 ---
 
 All new developers just starting to write production code should have to read this. It's simple, but thorough.

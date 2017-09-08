@@ -3,6 +3,10 @@ title: "Open Weather Map actual and forecast weather"
 date: 2013-01-09 17:25:26 +0000
 external-url: http://openweathermap.org/Maps
 hash: 02711b5289ba0c2473a68a34f1e70a33
+annum:
+    year: 2013
+    month: 01
+hostname: openweathermap.org
 ---
 
 Crowd sourced weather data from personally ran collection stations. Makes a lot of sense.

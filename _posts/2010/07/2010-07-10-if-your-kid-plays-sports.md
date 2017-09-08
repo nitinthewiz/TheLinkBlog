@@ -3,6 +3,10 @@ title: "If Your Kid Plays Sports, You MUST Follow This Startup"
 date: 2010-07-10 11:00:00 +0000
 external-url: http://www.businessinsider.com/if-your-kid-plays-sports-you-must-follow-this-startup-2010-7
 hash: c864edf75132db25632b39bf680f7eb0
+annum:
+    year: 2010
+    month: 07
+hostname: www.businessinsider.com
 ---
 
 Keeping track of amateur, youth, and high school sports -- as a  parent, player, or fan -- has long been a crapshoot. It's usually  difficult or impossible for fans or local media to keep solid track of  how teams and players are performing, and the information is usually  sparse and/or old. Especially for sports that aren't football.

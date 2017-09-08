@@ -3,6 +3,10 @@ title: "Colorful Food"
 date: 2012-08-06 02:13:06 +0000
 external-url: http://www.amazon.com/Colorful-Food-Mindy-Brueggemann/dp/0985567600
 hash: db5bbb08259a3c5bd7a0997c6b63a09a
+annum:
+    year: 2012
+    month: 08
+hostname: www.amazon.com
 ---
 
 Mindy was an awesome designer at BigCharts back in the day and she just published a book! How awesome is that!

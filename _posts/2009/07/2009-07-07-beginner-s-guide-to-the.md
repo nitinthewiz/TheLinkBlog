@@ -3,6 +3,10 @@ title: "Beginner's Guide to the Tour de France for 2009"
 date: 2009-07-07 15:29:56 +0000
 external-url: http://www.tdfblog.com/2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
 hash: e24d460702030bbf3e14744107f19ee7
+annum:
+    year: 2009
+    month: 07
+hostname: www.tdfblog.com
 ---
 
 If you're interested in the Tour de France, but you don't really get what's going on all the time, this is the post for you.

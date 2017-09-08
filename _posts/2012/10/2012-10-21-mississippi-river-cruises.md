@@ -3,6 +3,10 @@ title: "Mississippi River Cruises - American Queen Steamboat Company"
 date: 2012-10-21 16:59:27 +0000
 external-url: http://www.americanqueensteamboatcompany.com/
 hash: 476c6b5f9065db38511ad4b95bb2caf0
+annum:
+    year: 2012
+    month: 10
+hostname: www.americanqueensteamboatcompany.com
 ---
 
 We saw this boat docked in Wabasha this weekend and it looked pretty cool. Might be a fun trip to take some time, going down the Mississippi.

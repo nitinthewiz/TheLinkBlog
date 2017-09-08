@@ -3,6 +3,10 @@ title: "8x8 Announces New Integration With Salesforce for Enterprise Cloud Commu
 date: 2015-09-18 22:31:23 +0000
 external-url: http://www.marketwatch.com/story/8x8-announces-new-integration-with-salesforce-for-enterprise-cloud-communications-2015-09-15?siteid=nbsh
 hash: b25edff5bcbe08429e37b7aed1307843
+annum:
+    year: 2015
+    month: 09
+hostname: www.marketwatch.com
 ---
 
 

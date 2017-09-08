@@ -3,6 +3,10 @@ title: "The Wall Street Journal Asks: What Do Online Advertisers Know About You?
 date: 2010-08-04 21:39:21 +0000
 external-url: http://www.eff.org/deeplinks/2010/08/what-they-know
 hash: 92d96fa8712c08b13fa7bccaeaeaa7ba
+annum:
+    year: 2010
+    month: 08
+hostname: www.eff.org
 ---
 
 In a groundbreaking new series titled "What They Know," the Wall Street Journal is taking a close look at the information that online advertisers collect about you as you browse the Web:

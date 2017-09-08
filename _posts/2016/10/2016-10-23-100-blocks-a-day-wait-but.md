@@ -3,6 +3,10 @@ title: "100 Blocks a Day —Wait But Why “Most people sleep about seven or eig
 date: 2016-10-23 20:56:44 +0000
 external-url: http://waitbutwhy.com/2016/10/100-blocks-day.html
 hash: 912dc1ebc6d092a88895fa978863f8e6
+annum:
+    year: 2016
+    month: 10
+hostname: waitbutwhy.com
 ---
 
 

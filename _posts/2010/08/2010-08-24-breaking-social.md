@@ -3,6 +3,10 @@ title: "Breaking Social Networking Interconnections"
 date: 2010-08-24 18:27:50 +0000
 external-url: http://www.opticality.com/blog/2010/08/24/breaking-social-networking-interconnections/
 hash: 09f7fbf6a05675e64ffbd20ed2b8fba6
+annum:
+    year: 2010
+    month: 08
+hostname: www.opticality.com
 ---
 
 Many (most?) people post updates to multiple Social Networks. Rather than hand-picking which networks get which updates, most of the multi-network types (nearly all?) post the identical update to all networks, simultaneously, automatically.

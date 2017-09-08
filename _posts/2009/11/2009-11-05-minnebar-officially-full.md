@@ -3,6 +3,10 @@ title: "MinneBar Officially Full"
 date: 2009-11-05 04:14:51 +0000
 external-url: http://minnestar.org/2009/11/minnebar-officially-full/
 hash: f7478358448fc4d24f2d9352c80f43a7
+annum:
+    year: 2009
+    month: 11
+hostname: minnestar.org
 ---
 
 After releasing the last few tickets we could scrounge up the 2009 MinneBar (un)conference is now full.  In the week leading up to the event we will ask that anyone who has a ticket but knows they will not be able to make it let us know so we can release a few more that week.

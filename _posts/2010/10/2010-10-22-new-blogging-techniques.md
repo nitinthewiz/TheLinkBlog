@@ -3,6 +3,10 @@ title: "New blogging techniques"
 date: 2010-10-22 01:28:39 +0000
 external-url: http://scripting.com/stories/2010/10/21/newBloggingTechniques.html
 hash: 78a05755b6e595b211179bff90cf3ebd
+annum:
+    year: 2010
+    month: 10
+hostname: scripting.com
 ---
 
 What I call paragraph-level permalinks have made an appearance in Jay Rosen's blog, thanks to the innovative design work of Lauren Rabaino. 

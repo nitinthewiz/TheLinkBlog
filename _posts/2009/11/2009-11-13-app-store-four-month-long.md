@@ -3,6 +3,10 @@ title: "App Store Four-Month-Long Wait for a Bug Fix to Be Accepted of the Week:
 date: 2009-11-13 16:07:01 +0000
 external-url: http://weblog.rogueamoeba.com/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
 hash: b29abe2d58982cb8d4dd3597bcc35dba
+annum:
+    year: 2009
+    month: 11
+hostname: weblog.rogueamoeba.com
 ---
 
 Rogue Amoeba submitted a small bug fix update to Airfoil Speakers Touch in July. It wasnt accepted until this week. The reason: when you use it to stream audio from a Mac on your local network, it (a) shows a picture of the type of Mac doing the streaming, and (b) shows a small icon of the app on the Mac playing the audio. Version 1.0 did these things and was in the Store. Version 1.0.1 did the exact same things and was not accepted.

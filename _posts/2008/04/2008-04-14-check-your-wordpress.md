@@ -3,6 +3,10 @@ title: "Check Your WordPress Security"
 date: 2008-04-14 19:01:06 +0000
 external-url: http://www.red-sweater.com/blog/488/check-your-wordpress-security
 hash: 126fc4bf79a06eee4a097a012144fa87
+annum:
+    year: 2008
+    month: 04
+hostname: www.red-sweater.com
 ---
 
 Matt Mullenweg from the WordPress team has posted a message about the security of WordPress, which MarsEdit users who run WordPress should take a look at. It’s particularly timely because there are a number of attacks going around that impact older WordPress blogs that haven’t been updated to to the most recent version.

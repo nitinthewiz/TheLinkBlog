@@ -3,6 +3,10 @@ title: "Twitter and more disconnection"
 date: 2008-04-30 18:05:00 +0000
 external-url: http://weblogs.asp.net/jeff/twitter-and-more-disconnection
 hash: fa552d003076db4294b29e5cd830577e
+annum:
+    year: 2008
+    month: 04
+hostname: weblogs.asp.net
 ---
 
 It's weird how bloggers, gossip types and

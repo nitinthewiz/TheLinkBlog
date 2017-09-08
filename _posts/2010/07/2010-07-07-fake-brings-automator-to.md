@@ -3,6 +3,10 @@ title: "Fake Brings Automator-Like Workflows to Your Web Browser [Downloads]"
 date: 2010-07-07 21:00:00 +0000
 external-url: http://lifehacker.com/5581686/fake-brings-automator+like-workflows-to-your-web-browser
 hash: 203d3df709cafc55eb31fc7e7d99e32c
+annum:
+    year: 2010
+    month: 07
+hostname: lifehacker.com
 ---
 
 

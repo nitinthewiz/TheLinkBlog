@@ -3,6 +3,10 @@ title: "Tiny URLs based on pk"
 date: 2008-06-17 18:59:29 +0000
 external-url: http://leahculver.com/2008/06/17/tiny-urls-based-on-pk/
 hash: 29ff3790a457185b51a4b200487ee322
+annum:
+    year: 2008
+    month: 06
+hostname: leahculver.com
 ---
 
 I’ve been wanting to make a short url for Pownce permalink pages for an upcoming project. Pownce note permalink pages on the website currently look like this: http://pownce.com/leahculver/notes/2477365/

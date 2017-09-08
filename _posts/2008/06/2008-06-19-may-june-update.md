@@ -3,6 +3,10 @@ title: "May/June update"
 date: 2008-06-19 17:01:45 +0000
 external-url: http://www.hillsidelounge.com/wp/2008/06/20/mayjune-update
 hash: 3dffb9e382c60ba0d0c898e956c6f103
+annum:
+    year: 2008
+    month: 06
+hostname: www.hillsidelounge.com
 ---
 
   I can’t believe it’s been almost 2 months since the last update, loads of fun photos. Since end of April when things were “a bit crazy” it’s just gotten nuttier and busier. Family events, job events, and some borderline silly injuries on the sporting fields for me have rounded out the last two months. Even when the curveballs are flying the Olivers pack in some fun times as well. May and June have had plenty going on with Mother’s Day, Fathers Day, trips to Malaysia for Grandma and Grandpa’s new grass, Jacob going from crawling to walking, trips to the zoo and beach, and backyard parties at the Mullanes. Jacob’s new favorite activities are being chased around the table, playing in water anywhere and anytime, making random noises, and throwing the ball like a pro. Ok, like Chuck Knoblock but it’s improving. Far from important but super annoying is the recent demise of our carry everywhere Casio Exilim. Likely impact is that June photos might be a bit on the thin side.

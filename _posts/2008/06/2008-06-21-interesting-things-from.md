@@ -3,6 +3,10 @@ title: "Interesting Things Learned From Google Trends"
 date: 2008-06-21 01:51:07 +0000
 external-url: http://www.inquisitr.com/1174/interesting-things-learned-from-google-trends/
 hash: 1fa2c57042412284f68336a0d2aaeb4b
+annum:
+    year: 2008
+    month: 06
+hostname: www.inquisitr.com
 ---
 
 Now that Google has entered the Alexa space with Google Trends for Websites, the general public has some access to hidden traffic data from Googles vaults. The service get its numbers from a combination of sources including search traffic, anonymous Google Analytics figures and other third party marketing data.

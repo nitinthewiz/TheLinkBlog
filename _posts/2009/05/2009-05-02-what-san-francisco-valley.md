@@ -3,6 +3,10 @@ title: "What San Francisco/Silicon Valley can learn from the Twittering company:
 date: 2009-05-02 04:08:12 +0000
 external-url: http://scobleizer.com/2009/04/23/learn-from-zappos/
 hash: d29e6a51365f5f59dc5596929935bcf4
+annum:
+    year: 2009
+    month: 05
+hostname: scobleizer.com
 ---
 
 

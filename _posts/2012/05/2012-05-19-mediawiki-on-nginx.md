@@ -3,6 +3,10 @@ title: "MediaWiki on Nginx"
 date: 2012-05-19 01:42:51 +0000
 external-url: http://blog.bigdinosaur.org/mediawiki-on-nginx/
 hash: 58f1cf8c153975a4e07a525022217ecc
+annum:
+    year: 2012
+    month: 05
+hostname: blog.bigdinosaur.org
 ---
 
 Really thorough and complete guide on configuring nginx for MediaWiki. The internal directives that he uses were completely new to me. I'm going to update my config to have a similar lockdown.

@@ -3,6 +3,10 @@ title: "Newspapers Weigh in on Obama's Speech"
 date: 2008-03-19 15:12:48 +0000
 external-url: http://www.dailykos.com/story/2008/03/19/479729/-Newspapers-Weigh-in-on-Obama-s-Speech
 hash: 1bdbc2539e52498a02057aa3c3069f5a
+annum:
+    year: 2008
+    month: 03
+hostname: www.dailykos.com
 ---
 
 Reading responses to Obama's speech of yesterday, I've been struck that just about every commentator who makes any kind of pretense at seriousness has had to acknowledge the speech as exceptional. Not Obama's usual brand of exceptional, in which his trademark soaring delivery lifts up whatever he says, but exceptional in its depth, nuance, and forthrightness.

@@ -3,6 +3,10 @@ title: "Tease! Tease! Tease!"
 date: 2009-09-08 02:53:11 +0000
 external-url: http://www.scripting.com/stories/2009/09/07/teaseTeaseTease.html
 hash: 7da007dbb84f7ff415c664553a0e9edb
+annum:
+    year: 2009
+    month: 09
+hostname: www.scripting.com
 ---
 
 This is one of many millions of blogs on wordpress.com.

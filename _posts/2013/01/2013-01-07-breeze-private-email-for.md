@@ -3,6 +3,10 @@ title: "Breeze: Private email lists for small groups"
 date: 2013-01-07 18:51:59 +0000
 external-url: https://basecamp.com/breeze
 hash: 331db6bbc065ab5998cd60e50e5c7ed7
+annum:
+    year: 2013
+    month: 01
+hostname: basecamp.com
 ---
 
 This is an idea that Garrick and I had discussed and even put on 100 Startup Ideas. Kudos to 37Signals for seeing the opportunity and doing it.

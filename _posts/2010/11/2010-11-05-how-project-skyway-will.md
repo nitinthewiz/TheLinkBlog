@@ -3,6 +3,10 @@ title: "How Project Skyway Will Be Different"
 date: 2010-11-05 16:45:55 +0000
 external-url: http://www.projectskyway.com/how-project-skyway-will-be-different/
 hash: ee6a508c8465fcadf26546eb6934572c
+annum:
+    year: 2010
+    month: 11
+hostname: www.projectskyway.com
 ---
 
 Accelerator Programs such as Y-Combinator (Silicon Valley) and TechStars (Boston, Boulder, NY, Seattle) have in many ways taken on the role of VC firms to help mentor emerging tech companies develop their product, create a business plan and connect them with investors to provide necessary seed funding.

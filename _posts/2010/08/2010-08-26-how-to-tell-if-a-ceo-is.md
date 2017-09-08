@@ -3,6 +3,10 @@ title: "How to tell if a CEO is lying"
 date: 2010-08-26 11:16:32 +0000
 external-url: http://bobulate.com/post/1013852157
 hash: 432c9650f18e94abcec91428171e49ec
+annum:
+    year: 2010
+    month: 08
+hostname: bobulate.com
 ---
 
 How to tell if a CEO is lying: The Economist summarizes a study from Stanford’s Graduate School of Business showing how to tell when a CEO is lying:

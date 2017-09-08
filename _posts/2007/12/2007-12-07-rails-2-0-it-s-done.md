@@ -3,6 +3,10 @@ title: "Rails 2.0: It's done"
 date: 2007-12-07 15:03:00 +0000
 external-url: http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done/
 hash: 23c84ff8ad790977c17bf090b0230969
+annum:
+    year: 2007
+    month: 12
+hostname: weblog.rubyonrails.org
 ---
 
 Rails 2.0 is finally finished after about a year in the making. This is a fantastic release thats absolutely stuffed with great new features, loads of fixes, and an incredible amount of polish. Weve even taken a fair bit of cruft out to make the whole package more coherent and lean.

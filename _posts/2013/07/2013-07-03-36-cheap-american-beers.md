@@ -3,6 +3,10 @@ title: "36 Cheap American Beers, Ranked"
 date: 2013-07-03 18:41:57 +0000
 external-url: http://deadspin.com/36-cheap-american-beers-ranked-638820035
 hash: 37d9ba5a0c1f0c5f56a3679f0fa44bda
+annum:
+    year: 2013
+    month: 07
+hostname: deadspin.com
 ---
 
 Grain Belt Premium is also the preferred beer of the B-Squad Softball team.

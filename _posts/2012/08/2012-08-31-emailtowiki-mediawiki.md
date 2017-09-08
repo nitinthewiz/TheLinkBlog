@@ -3,6 +3,10 @@ title: "EmailToWiki MediaWiki Extension"
 date: 2012-08-31 02:35:40 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:EmailToWiki
 hash: 7238d9fb2e432a92bb19313c16021ed4
+annum:
+    year: 2012
+    month: 08
+hostname: www.mediawiki.org
 ---
 
 Looks like a great extension to be able to create new content from various devices.

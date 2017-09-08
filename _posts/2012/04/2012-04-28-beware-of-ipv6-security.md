@@ -3,6 +3,10 @@ title: "Beware of IPv6 security goblins, IETF warns"
 date: 2012-04-28 15:20:09 +0000
 external-url: http://arstechnica.com/business/news/2012/04/beware-of-ipv6-security-goblins-ietf-warns.ars
 hash: 420dbaf0c697739fe520b6ee3817bfcc
+annum:
+    year: 2012
+    month: 04
+hostname: arstechnica.com
 ---
 
 Important to keep in mind. I was happily running iptables on my hosts but didn't consider running ip6tables and I'm advertising IPv6 addresses.

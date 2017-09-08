@@ -3,6 +3,10 @@ title: "Driving While TXTin (DWT) Is Stupid"
 date: 2008-05-25 16:35:15 +0000
 external-url: https://gigaom.com/2008/05/25/driving-while-texting/
 hash: 51d586c7b45c8e7d3a9dc6e164bb8452
+annum:
+    year: 2008
+    month: 05
+hostname: gigaom.com
 ---
 
 I get very nervous when I ride shotgun with people who decide to read their Blackberry or send text messages when driving. It is an inherently stupid and dumb thing to do, considering that not only it puts their own well being at risk, it raises dangers for everyone on the around. There have be an increase in number of the accidents as a result of the DWT (Driving while TXTing) 

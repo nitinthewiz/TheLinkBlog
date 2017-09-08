@@ -3,6 +3,10 @@ title: "Reserve Your Name At About.Me"
 date: 2010-09-11 04:06:22 +0000
 external-url: http://techcrunch.com/2010/09/10/reserve-your-name-at-about-me/
 hash: 7349a29eace267f81ccef93ab670e637
+annum:
+    year: 2010
+    month: 09
+hostname: techcrunch.com
 ---
 
 Early this year we wrote about Pumkpinhead, the working name for new startup About.me being created by repeat entrepreneurs/investors Tony Conrad and Tim Young. We didn’t know much about the startup except that it had top angel investors involved: True Ventures, Ron Conway, AOL Ventures, Scott Kurnit, Founders Collective, Radar Partners (Doug Mackenzie & Kevin Compton) and David Mahoney. Freestyle Capital has also invested since then.

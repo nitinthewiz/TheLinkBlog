@@ -3,6 +3,10 @@ title: "More cold water from Gregory Clark"
 date: 2009-08-16 11:45:03 +0000
 external-url: http://blogs.law.harvard.edu/philg/2009/08/13/more-cold-water-from-gregory-clark/
 hash: d6f1b3b0e760a99b39a82dc02de512a5
+annum:
+    year: 2009
+    month: 08
+hostname: blogs.law.harvard.edu
 ---
 
 Gregory Clark, who dumped cold water on the dreams of development economists and good-hearted people worldwide with A Farewell to Alms (see my blog posting from a year ago), is back with another pail of icy salt water. This time he throws it in the face of folks who think that an economic recovery will bring jobs and prosperity to America’s lowest skilled workers. See this op-editorial in the Washington Post.

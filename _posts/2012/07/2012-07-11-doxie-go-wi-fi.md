@@ -3,6 +3,10 @@ title: "Doxie Go + Wi-Fi"
 date: 2012-07-11 03:33:13 +0000
 external-url: http://www.getdoxie.com/product/doxie-go-wifi/
 hash: 941252e850a84f0464ebf190dddc9b67
+annum:
+    year: 2012
+    month: 07
+hostname: www.getdoxie.com
 ---
 
 Looks like a phenomenal product. My friend Garrick has one and it's tempting to get one just to have it.

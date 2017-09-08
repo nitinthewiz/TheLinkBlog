@@ -3,6 +3,10 @@ title: "Iditarod Trail Sled Dog Race 2013 - The Big Picture - Boston.com"
 date: 2013-03-14 04:16:16 +0000
 external-url: http://www.boston.com/bigpicture/2013/03/iditarod_trail_sled_dog_race_2_1.html
 hash: 0476c93b1df563f7df00dae2e10611ec
+annum:
+    year: 2013
+    month: 03
+hostname: www.boston.com
 ---
 
 Great photos! Love the tongues on those dogs!

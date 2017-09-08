@@ -3,6 +3,10 @@ title: "The 'Language' in Domain-Specific Language Doesn't Mean English (or Fren
 date: 2008-03-11 13:40:00 +0000
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2008/03/the-language-in.html
 hash: 013e5ef7a9b48c084e35d4d8156c704f
+annum:
+    year: 2008
+    month: 03
+hostname: pragdave.blogs.pragprog.com
 ---
 
 

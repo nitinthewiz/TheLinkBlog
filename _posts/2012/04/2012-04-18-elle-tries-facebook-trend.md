@@ -3,6 +3,10 @@ title: "Elle Tries Facebook Commerce, Launches Shoppable Trend Guide"
 date: 2012-04-18 05:17:26 +0000
 external-url: http://mashable.com/2012/04/17/elle-facebook-fcommerce/
 hash: 45d38832b19da4ffbb11d58262f38b71
+annum:
+    year: 2012
+    month: 04
+hostname: mashable.com
 ---
 
 The first customer launched from our new platform.

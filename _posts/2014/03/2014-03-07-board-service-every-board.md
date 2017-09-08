@@ -3,6 +3,10 @@ title: "Board service: Every board needs a bit of maintenance Wikimedia blog"
 date: 2014-03-07 02:29:29 +0000
 external-url: http://blog.wikimedia.org/2014/02/28/board-service-every-board-needs-a-bit-of-maintenance/
 hash: d9bf5bb355063fd41dc85d971f7b5fc1
+annum:
+    year: 2014
+    month: 03
+hostname: blog.wikimedia.org
 ---
 
 Good perspective to apply to boards and board committees. Makes me think about things we should do at minne.

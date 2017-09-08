@@ -3,6 +3,10 @@ title: "Salesforce.com announces Chatter, another social network for companies"
 date: 2009-11-18 18:10:48 +0000
 external-url: http://venturebeat.com
 hash: 664c74ae6e1465b9b915a3b46a95c952
+annum:
+    year: 2009
+    month: 11
+hostname: venturebeat.com
 ---
 
 Salesforce.com announced today that it’s going to join the hordes of companies offering a social networking for your business. With a new product called Salesforce Chatter, companies get their own secure, private social network where they can collaborate and communicate in real-time.

@@ -3,6 +3,10 @@ title: "Goodbye, my dearest Marco..."
 date: 2008-05-01 11:54:23 +0000
 external-url: http://minigirl.typepad.com/mini_girl/2008/05/christopher-mar.html
 hash: 18d39d44271d2c1b139e0dd39e4ff9c0
+annum:
+    year: 2008
+    month: 05
+hostname: minigirl.typepad.com
 ---
 
 For those of you who have not heard this news yet, I apologize that you are hearing about it this way. I would have liked to tell you in person, or at least over the phone or email. I have spoken with so many relatives, friends and colleagues of both myself and my husband over the past three days that I am utterly exhausted -- both mentally and physically. I hope you will understand.

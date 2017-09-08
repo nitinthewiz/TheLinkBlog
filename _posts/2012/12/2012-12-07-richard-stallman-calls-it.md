@@ -3,6 +3,10 @@ title: "Richard Stallman calls Ubuntu spyware because it tracks searches"
 date: 2012-12-07 21:45:09 +0000
 external-url: http://arstechnica.com/information-technology/2012/12/richard-stallman-calls-ubuntu-spyware-because-it-tracks-searches/
 hash: a5ac578148fed8c53795820390e7caff
+annum:
+    year: 2012
+    month: 12
+hostname: arstechnica.com
 ---
 
 Oh boy, RMS in true form! :-)

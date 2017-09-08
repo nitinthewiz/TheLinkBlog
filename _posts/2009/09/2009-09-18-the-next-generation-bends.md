@@ -3,6 +3,10 @@ title: "The next generation bends over"
 date: 2009-09-18 04:46:27 +0000
 external-url: http://37signals.com/svn/posts/1927-the-next-generation-bends-over
 hash: e3e3e8a2e8083a3465d9c0aa980a2c6e
+annum:
+    year: 2009
+    month: 09
+hostname: 37signals.com
 ---
 
 Mint’s sale to Intuit really pissed me off.

@@ -3,6 +3,10 @@ title: "Interesting possibilities for MacBook dock..."
 date: 2008-10-12 15:58:18 +0000
 external-url: http://9to5mac.com/imac-macbook-dock
 hash: f32811e1dea457d93712b7277ae3261c
+annum:
+    year: 2008
+    month: 10
+hostname: 9to5mac.com
 ---
 
 

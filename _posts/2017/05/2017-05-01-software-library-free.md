@@ -3,6 +3,10 @@ title: "Software Library: Macintosh : Free Softwarelibrary : Download & Streamin
 date: 2017-05-01 16:45:10 +0000
 external-url: https://archive.org/details/softwarelibrary_mac
 hash: 9670a3262a314ad779d94de108c8c8ad
+annum:
+    year: 2017
+    month: 05
+hostname: archive.org
 ---
 
 A collection of emulated software for the early Macintosh computer, created by Apple as the successor to the Apple II series. Simple, powerful and a new path in computing, the Macintosh's graphics-based operating system changed the face of computing permanently. 

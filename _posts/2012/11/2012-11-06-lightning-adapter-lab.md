@@ -3,6 +3,10 @@ title: "Lightning adapter - Elevation Lab"
 date: 2012-11-06 12:39:01 +0000
 external-url: http://www.elevationlab.com/products/lightning-adapter
 hash: 9e28163e37a332096e516b5bf1f00dda
+annum:
+    year: 2012
+    month: 11
+hostname: www.elevationlab.com
 ---
 
 I got my Elevation Dock a couple of months before the iPhone 5. Looking forward to using it again with this adapter.

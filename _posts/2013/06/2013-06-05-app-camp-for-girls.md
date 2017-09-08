@@ -3,6 +3,10 @@ title: "App Camp For Girls - Indiegogo"
 date: 2013-06-05 15:56:45 +0000
 external-url: https://www.indiegogo.com/projects/app-camp-for-girls
 hash: ae9906796f5359427254bb52a8e4fd02
+annum:
+    year: 2013
+    month: 06
+hostname: www.indiegogo.com
 ---
 
 I'm for anything encouraging more girls/women to pursue careers in software development.

@@ -3,6 +3,10 @@ title: "Are Your Financials Minty Fresh?"
 date: 2008-09-30 17:47:57 +0000
 external-url: https://blog.compete.com/2008/09/30/mint-geezeo-wesabe-personal-0finance/
 hash: 3dd17da3478b03b76230d6a02aed5f85
+annum:
+    year: 2008
+    month: 09
+hostname: blog.compete.com
 ---
 
 In July, we posted a blog about the rising traffic of the finance sections of the major portals (e.g. Yahoo! Finance, MSN MoneyCentral). In the blog, we hypothesized that the increase in online interest for financial research and information is contributing to increased interest by people researching their personal finances online as people are taking a closer tab on their finances these days.

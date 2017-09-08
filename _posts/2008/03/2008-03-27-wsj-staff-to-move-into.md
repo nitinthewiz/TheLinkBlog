@@ -3,6 +3,10 @@ title: "WSJ Staff To Move Into News Corp HQs?; Online Model Set For Now"
 date: 2008-03-27 05:46:50 +0000
 external-url: https://gigaom.com/2008/03/27/419-wsj-staff-to-move-into-news-corp-hqs-online-model-set-for-now/
 hash: 0bab294e1b30345c1abd38c229620c47
+annum:
+    year: 2008
+    month: 03
+hostname: gigaom.com
 ---
 
 The new Dow Jones (NYSE: NWS) CEO Les Hinton gave his first public interview to The Australian, and though no revelatory points, some reiteration of current policies, and a hint that various DJ units would be working more closely together with News Corp in the near future.

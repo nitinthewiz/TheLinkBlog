@@ -3,6 +3,10 @@ title: "Apple (AAPL) iPhone Goes Corporate, Part 4: Hedge Funds"
 date: 2007-12-10 20:46:55 +0000
 external-url: http://www.businessinsider.com/2007/12/apple-aapl-iphone-goes-corporate-part-4-hedge-funds
 hash: 4d04038fd9e41aeee46a69efa1390f91
+annum:
+    year: 2007
+    month: 12
+hostname: www.businessinsider.com
 ---
 
 Once ridiculed as a plaything for fanboys, the iPhone is beginning to break into the corporate market. Anecdote1 : New York business dinner with 15% penetration. Anecdote 2: a CEO who can't stop fondling his unit. Anecdote 3: SAP sales force demands iPhones. Anecdote 4: Our intrepid hedge-fund correspondent is so in love she carries two phones and sees more and more at investor conferences. We asked for details. She provided them:Why iLove My iPhone (and Still Keep BlackBerry on Side)When the iPhone was released, I was one of those sick souls who waited in line for it. I didnt care that it wouldnt play well with Outlook. This was not an effort to replace my work-issued CrackBerry, which I still brandish. I lusted for that glossy sleekness, changeability, the iPhones response to the flutter of my finger.These days, though, I see more and more iPhones cropping up in work circles (29% of my office uses one)... 

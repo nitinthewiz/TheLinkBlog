@@ -3,6 +3,10 @@ title: "Dropbox 1.0 available with performance enhancements, Selective Sync"
 date: 2010-12-18 20:11:00 +0000
 external-url: http://www.tuaw.com/2010/12/17/dropbox-1-0-available-with-performance-enhancements-selective-s/
 hash: 04af546de6281cd105a14ed23fba2e11
+annum:
+    year: 2010
+    month: 12
+hostname: www.tuaw.com
 ---
 
 Dropbox, the multi-platform file syncing application that frankly puts Apple's own iDisk to shame, has been updated to version 1.0. The application has been in public beta for over two years, and an iOS version of Dropbox came out about a year after the public beta began.

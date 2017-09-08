@@ -3,6 +3,10 @@ title: "Create a second Mail window to watch a specific folder"
 date: 2009-10-09 02:55:27 +0000
 external-url: http://mac.finerthingsin.com/post/207593339
 hash: b07f0554430f66fc91ea6291c5e1331f
+annum:
+    year: 2009
+    month: 10
+hostname: mac.finerthingsin.com
 ---
 
 For some time, Mail has featured an awkwardly named File > New Viewer Window command (Command-Option-N). This opens a second, fully functional Mail window, complete with the ability to hide the sidebar (View > Hide Mailboxes, or Command-Shift-M) to cut down on visual clutter.

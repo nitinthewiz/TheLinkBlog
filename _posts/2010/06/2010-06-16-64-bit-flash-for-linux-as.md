@@ -3,6 +3,10 @@ title: "64-bit Flash for Linux dropped as Adobe preps next version"
 date: 2010-06-16 01:04:29 +0000
 external-url: http://arstechnica.com/open-source/news/2010/06/64-bit-flash-for-linux-dropped-as-adobe-preps-next-version.ars
 hash: 4e73cb70214cc7de38cb3b1a9a961a16
+annum:
+    year: 2010
+    month: 06
+hostname: arstechnica.com
 ---
 
 Adobe has discontinued its experimental 64-bit Flash player for Linux, citing the need for significant architectural changes to the software. The company assures users that the project hasn't been abandoned.

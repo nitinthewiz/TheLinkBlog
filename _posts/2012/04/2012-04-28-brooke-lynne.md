@@ -3,6 +3,10 @@ title: "Brooke Lynne"
 date: 2012-04-28 12:57:29 +0000
 external-url: http://brookelynne.tumblr.com/
 hash: ccd09ee266aee4db573c19fad3fc9871
+annum:
+    year: 2012
+    month: 04
+hostname: brookelynne.tumblr.com
 ---
 
 New website for Brooke Lynne. Brooke Lynne is one of the models that I photographed in the Photographing the Nude workshop by Doug Beasley.

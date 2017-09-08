@@ -3,6 +3,10 @@ title: "Weblog Tools Collection: Gravatars and WordPress 2.5"
 date: 2008-03-04 05:30:10 +0000
 external-url: http://weblogtoolscollection.com/archives/2008/03/03/gravatars-and-wordpress-25/
 hash: 072700de0c05fa67d672a293f396f7d9
+annum:
+    year: 2008
+    month: 03
+hostname: weblogtoolscollection.com
 ---
 
 Several commenters mentioned on yesterday’s post regarding Gravatars without a plugin that WordPress 2.5 would be having built-in Gravatar support.

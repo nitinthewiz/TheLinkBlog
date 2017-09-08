@@ -3,6 +3,10 @@ title: "News: New App Store on the Block"
 date: 2009-08-05 15:10:35 +0000
 external-url: http://macapper.com/2009/08/05/news-new-app-store-on-the-block/
 hash: 3f69b0c1a28956b9d3d61613a2ab4dc1
+annum:
+    year: 2009
+    month: 08
+hostname: macapper.com
 ---
 
 It was to be expected that with the success of Apple’s App Store, that others of its type would follow. A number of mobile app stores have launched, but IDFusion’s Bodega is one of the first to launch for the desktop. With roughly 150 apps at launch, a number of big names have signed on-board, let’s take a first look at the Bodega App Store.

@@ -3,6 +3,10 @@ title: "Should Page Speed Influence Google PageRank?"
 date: 2009-11-23 20:58:00 +0000
 external-url: http://gigaom.com/2009/11/22/should-web-page-speed-influence-google-pagerank/
 hash: ffff9d7038ebfe182fefa294c9aa3e1f
+annum:
+    year: 2009
+    month: 11
+hostname: gigaom.com
 ---
 
 Matt Cutts, a software engineer and an eloquent corporate spokesman for Google, spoke at PubCon earlier this month and later gave a video interview to Web Pro News, in which he said that the speed at which web pages are available might become a factor in SEO moving into 2010. He said that because many within Google consider fastness to be vital to the web, the company is considering making web site speed a factor in calculating page rankings. Those comments have confused and scared many folks as to how speed might impact their businesses. 

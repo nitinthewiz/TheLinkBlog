@@ -3,6 +3,10 @@ title: "YC-Funded The Fridge Takes The Privacy Headaches Out Of Sharing With Fri
 date: 2010-08-24 02:59:32 +0000
 external-url: http://techcrunch.com/2010/08/23/the-fridge-facebook-sharing/
 hash: a9e3587018d8cd64a4e35e1ced99a4f8
+annum:
+    year: 2010
+    month: 08
+hostname: techcrunch.com
 ---
 
 Back in the old days, Facebook was a site where college students could share photos of their youthful indiscretions without having to worry too much about their boss or parents stumbling across them. That isn’t the case anymore.  This isn’t an inherently bad thing — there’s a reason the site has over 500 million people — but there’s also room for startups to fill in the more private niches that Facebook doesn’t. Enter The Fridge, a Y Combinator-funded site launching today that makes it easy to create private groups that let you use a Facebook-like interface to share photos, links, and status updates.

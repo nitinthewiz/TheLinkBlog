@@ -3,6 +3,10 @@ title: "Minnebar '08 Rocked the Mouse, the House, the State, and the Twittervers
 date: 2008-05-11 13:35:00 +0000
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/05/minnebar-08-roc.html
 hash: 3bcfcf56f8dfd1c70d632f32e9ad2673
+annum:
+    year: 2008
+    month: 05
+hostname: graemethickins.typepad.com
 ---
 
 The third annual Minnebar unconference, Minnesota's own Barcamp event, definitely was the place to be for the local Internet developer/entrepreneur community yesterday. (That was an understatement.) The t-shirt we all got, below, says it all. 

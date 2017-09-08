@@ -3,6 +3,10 @@ title: "Drobo hits the turbo-boost with newly launched 5N home NAS"
 date: 2012-12-13 15:48:35 +0000
 external-url: http://arstechnica.com/gadgets/2012/12/drobo-hits-the-turbo-boost-with-newly-launched-5n-home-nas/
 hash: 9404fc4d30ba45152c2febb3dcd65423
+annum:
+    year: 2012
+    month: 12
+hostname: arstechnica.com
 ---
 
 I had a FireWire Drobo back in the day and it was interesting but a total dog for performance. This model, with the revamped CPU, SSD for rapid caching and network based would fit really nice into my home network. Very interesting.

@@ -3,6 +3,10 @@ title: "Four videos of Wikipedia’s volunteers"
 date: 2010-09-25 01:05:30 +0000
 external-url: http://blog.wikimedia.org/blog/2010/09/24/four-videos-of-wikipedias-volunteers/
 hash: d987509d75ebd784e23f267dd971c0c0
+annum:
+    year: 2010
+    month: 09
+hostname: blog.wikimedia.org
 ---
 
 Earlier this week we announced the first of four videos featuring Wikipedia’s volunteer editors, Wikipedia: Username. Today we released the fourth and final video in the series, Wikipedia: Great feeling.

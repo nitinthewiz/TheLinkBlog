@@ -3,6 +3,10 @@ title: "Announcing the official Commons app for iOS and Android Wikimedia blog"
 date: 2013-04-29 18:18:32 +0000
 external-url: http://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/
 hash: c799395fcba4a6ea97b83d7e61ae488e
+annum:
+    year: 2013
+    month: 04
+hostname: blog.wikimedia.org
 ---
 
 This is cool.

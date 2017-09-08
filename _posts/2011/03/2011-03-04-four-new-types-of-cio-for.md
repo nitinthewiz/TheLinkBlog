@@ -3,6 +3,10 @@ title: "Four New Types of CIO for the Future"
 date: 2011-03-04 01:15:09 +0000
 external-url: http://readwrite.com/2011/03/03/four-new-types-of-cio-for-the
 hash: 081db221527ac4427e0dae769861956f
+annum:
+    year: 2011
+    month: 03
+hostname: readwrite.com
 ---
 
 The global recession, the consumerization of IT, the great cloud migration and other factors are changing the role of the CIO. Past failures of enterprise technology to live up to its promises and IT's lack of agility caused by legacy technology have decreased the influence of the CIO, explained R "Ray" Wang in a piece for Forbes last year.

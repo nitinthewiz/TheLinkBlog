@@ -3,6 +3,10 @@ title: "Making Games on Facebook Better"
 date: 2010-09-21 17:20:00 +0000
 external-url: http://developers.facebook.com/blog/post/410
 hash: 2ba4be1c90eebac1dd502fd06c81844a
+annum:
+    year: 2010
+    month: 09
+hostname: developers.facebook.com
 ---
 
 First, hello from the new Games team!  Over the last few months, we’ve assembled a team of dedicated engineers and product managers who are focused exclusively on designing the platform you need to maximize the potential of your games. And we are game lovers, every last one of us. We’re looking forward to working with you to build even better games experiences on Facebook.

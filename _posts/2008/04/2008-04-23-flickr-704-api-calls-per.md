@@ -3,6 +3,10 @@ title: "Flickr: 704 API Calls per Second"
 date: 2008-04-23 06:10:41 +0000
 external-url: http://www.programmableweb.com/2008/04/23/flickr-704-api-calls-per-second
 hash: b57bffd234414ff9cdc5f3211c0cb3dc
+annum:
+    year: 2008
+    month: 04
+hostname: www.programmableweb.com
 ---
 
 As announced on the Flickr Blog, Flickr has launched a new website for developers: Flickr Code. And besides announcing the new site theyve both a) given interesting details on just how much API traffic they do each day (see below), and b) they announced theyre open sourcing Flickr Uploadr, the cross-platform (Windows and OS X) desktop tool for uploading photos to Flickr. 

@@ -3,6 +3,10 @@ title: "Rainbow - Javascript Code Syntax Highlighting"
 date: 2012-03-28 11:09:55 +0000
 external-url: http://craig.is/making/rainbows
 hash: 359cb8019b77a91c46ee74d88644d5b7
+annum:
+    year: 2012
+    month: 03
+hostname: craig.is
 ---
 
 I'm suspect of syntax highlighters in JavaScript, but this one looks pretty good.

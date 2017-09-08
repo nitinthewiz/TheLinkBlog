@@ -3,6 +3,10 @@ title: "Detect and highlight your heart-rate using just a webcam and this Python
 date: 2013-04-17 17:22:36 +0000
 external-url: http://thechangelog.com/detect-and-highlight-your-heart-rate-using-just-a-webcam-and-this-python-application/
 hash: fa557135ce13d9eb6a1b4c934759296f
+annum:
+    year: 2013
+    month: 04
+hostname: thechangelog.com
 ---
 
 Wow, this is kinda scary. Accurate detection of a persons pulse could be used in very "interesting" ways.

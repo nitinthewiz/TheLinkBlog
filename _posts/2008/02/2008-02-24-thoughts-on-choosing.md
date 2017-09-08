@@ -3,6 +3,10 @@ title: "Thoughts On Choosing Board Members"
 date: 2008-02-24 12:55:21 +0000
 external-url: http://avc.blogs.com/a_vc/2008/02/thoughts-on-cho.html
 hash: 1ad6893a00b4d9bdc07d884b557dfeab
+annum:
+    year: 2008
+    month: 02
+hostname: avc.blogs.com
 ---
 
 I am a professional board member. I've been sitting on boards for almost 20 years and I've seen a lot. I've seen some of the best board members in action and have tried to copy them. I've seen some of the worst board members in action and have tried hard to forget them.

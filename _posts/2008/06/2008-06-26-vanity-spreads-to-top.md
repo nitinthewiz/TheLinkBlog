@@ -3,6 +3,10 @@ title: "Vanity Spreads to Top-Level Domain Names"
 date: 2008-06-26 17:08:28 +0000
 external-url: http://db.tidbits.com/article/9669
 hash: 703b1c3be7178a75f459f8a5da444cdd
+annum:
+    year: 2008
+    month: 06
+hostname: db.tidbits.com
 ---
 
 We all know about vanity domain names - www dot yourname here dot com, org, net, info, or otherwise. The Internet authority that oversees domain names is about to let you get a little more top heavy with your vanity, if you have deep enough pockets.

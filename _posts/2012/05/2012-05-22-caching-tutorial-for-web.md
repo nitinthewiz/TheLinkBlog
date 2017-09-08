@@ -3,6 +3,10 @@ title: "Caching Tutorial for Web Authors and Webmasters"
 date: 2012-05-22 04:01:55 +0000
 external-url: https://www.mnot.net/cache_docs/
 hash: 5b50c013c55cc0cdf4473097145da872
+annum:
+    year: 2012
+    month: 05
+hostname: www.mnot.net
 ---
 
 Thorough writeup on the various forms of caching to make websites optimal.

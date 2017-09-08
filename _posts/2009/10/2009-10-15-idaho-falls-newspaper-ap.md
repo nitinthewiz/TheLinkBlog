@@ -3,6 +3,10 @@ title: "Idaho Falls newspaper rescinds AP cancellation"
 date: 2009-10-15 04:59:14 +0000
 external-url: http://www.poynter.org/column.asp?id=45&aid=171731
 hash: d0cd1428e08aa46c292d5e28b32a263c
+annum:
+    year: 2009
+    month: 10
+hostname: www.poynter.org
 ---
 
 Editor & Publisher

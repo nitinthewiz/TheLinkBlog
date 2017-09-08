@@ -3,6 +3,10 @@ title: "Google Analytics goes async"
 date: 2009-12-04 03:14:37 +0000
 external-url: http://www.stevesouders.com/blog/2009/12/01/google-analytics-goes-async/
 hash: 0dba1c60568c64d3ed1833ec1a6c300a
+annum:
+    year: 2009
+    month: 12
+hostname: www.stevesouders.com
 ---
 
 Today’s announcement that Google Analytics Launches Asynchronous Tracking is music to my ears. Not only does it make web sites faster, switching over to this async pattern improves uptime and increases the amount of analytics data gathered. I’ll touch on each of these three benefits, and wrap-up with an overview of the new code snippet.

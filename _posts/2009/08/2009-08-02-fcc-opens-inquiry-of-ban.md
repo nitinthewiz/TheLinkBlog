@@ -3,6 +3,10 @@ title: "FCC Opens Inquiry of Apple’s Ban of Google Voice Apps for iPhone"
 date: 2009-08-02 04:10:29 +0000
 external-url: http://money.cnn.com/news/newsfeeds/articles/djf500/200907311912DOWJONESDJONLINE000919_FORTUNE5.htm
 hash: e0c9826f5c85bdbbcc0edab26e7c446e
+annum:
+    year: 2009
+    month: 08
+hostname: money.cnn.com
 ---
 
 Fawn Johnson and Amy Schatz, reporting for Dow Jones:

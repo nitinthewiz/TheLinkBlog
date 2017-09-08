@@ -3,6 +3,10 @@ title: "A quick look at Apple's Clips for iOS devices (and some helpful hints) â
 date: 2017-04-08 01:17:28 +0000
 external-url: https://www.appleworld.today/blog/2017/4/7/a-quick-look-at-apples-clips-for-ios-devices-and-some-helpful-hints
 hash: 7ba957b4785962caa076c37099d148bc
+annum:
+    year: 2017
+    month: 04
+hostname: www.appleworld.today
 ---
 
 

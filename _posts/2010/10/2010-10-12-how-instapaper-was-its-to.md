@@ -3,6 +3,10 @@ title: "How Instapaper Was Created & its Plan to Add Social Features"
 date: 2010-10-12 18:10:49 +0000
 external-url: http://www.readwriteweb.com/archives/how_instapaper_was_created.php
 hash: b2a2d0043bb8fbd2396917bbb807727d
+annum:
+    year: 2010
+    month: 10
+hostname: www.readwriteweb.com
 ---
 
 A common theme in our product innovation series has been applications that take advantage of new devices - and the new user experience patterns that have evolved out of them. Instapaper is perfect example of this. It started out as a web application, then embraced smart phones, and now it's being used by many iPad owners. In a nutshell, Instapaper is an app that saves web pages for  reading later. But unlike older 'web 2.0' social bookmarking services, it not only bookmarks a web page - it saves the content so it can be read later, offline if need be, within the Instapaper app. 

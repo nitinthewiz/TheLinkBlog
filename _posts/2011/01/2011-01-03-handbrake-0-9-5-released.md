@@ -3,6 +3,10 @@ title: "HandBrake 0.9.5 released, adds presets and more for easier DVD ripping"
 date: 2011-01-03 23:42:00 +0000
 external-url: http://www.tuaw.com/2011/01/03/handbrake-0-9-5-released-and-there-is-much-rejoicing/
 hash: 96d1d5903af1ce009280b516ad9f5592
+annum:
+    year: 2011
+    month: 01
+hostname: www.tuaw.com
 ---
 
 It's been over a year since the amazing free DVD ripping software (also known as a "video transcoder"), HandBrake, has been updated. Life is good, and Handbrake 0.9.5 has now been released.

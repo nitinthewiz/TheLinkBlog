@@ -3,6 +3,10 @@ title: "Twilio Launches Roll-Your-Own Google Voice"
 date: 2010-06-16 00:12:48 +0000
 external-url: http://gigaom.com/2010/06/15/openvbx/
 hash: 36b00d2060bdb3a32c862946fe842ccb
+annum:
+    year: 2010
+    month: 06
+hostname: gigaom.com
 ---
 
 

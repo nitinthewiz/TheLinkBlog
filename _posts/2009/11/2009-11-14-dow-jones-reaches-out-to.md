@@ -3,6 +3,10 @@ title: "Dow Jones Reaches Out To McKinsey—Company Says It's Building, Not Cutt
 date: 2009-11-14 07:39:24 +0000
 external-url: http://m.paidcontent.org/article/419-dow-jones-reaches-out-to-mckinsey-company-says-its-building-not-cutting/
 hash: 4b42332aac8c356dad118423e2ccd68a
+annum:
+    year: 2009
+    month: 11
+hostname: m.paidcontent.org
 ---
 
 

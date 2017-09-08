@@ -3,6 +3,10 @@ title: "OmniGraffle 5 shipping now"
 date: 2008-03-06 15:00:00 +0000
 external-url: http://www.tuaw.com/2008/03/06/omnigraffle-5-shipping-now/
 hash: cd20bc7dc4ca71205e680e587b4314bb
+annum:
+    year: 2008
+    month: 03
+hostname: www.tuaw.com
 ---
 
 Filed under: Software, Graphic Design

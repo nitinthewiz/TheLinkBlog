@@ -3,6 +3,10 @@ title: "Happy Birthday - the Wiki Celebrates its Sweet 16"
 date: 2011-03-25 09:15:21 +0000
 external-url: http://www.readwriteweb.com/cloud/2011/03/happy-birthday---the-wiki-cele.php
 hash: 00333623c5a3a69610a48aabb05eb2fd
+annum:
+    year: 2011
+    month: 03
+hostname: www.readwriteweb.com
 ---
 
 The wiki turns16 today. How far it has come since that day 16 years ago when Ward Cunningham created a Web page that anyone could edit.

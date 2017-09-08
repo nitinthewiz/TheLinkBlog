@@ -3,6 +3,10 @@ title: "Google+ Introductory Videos"
 date: 2011-06-28 20:26:46 +0000
 external-url: http://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html
 hash: 0af930d559eb7ad1d00a88caebd2ecb5
+annum:
+    year: 2011
+    month: 06
+hostname: googleblog.blogspot.com
 ---
 
 I don’t want to place a bet that these things are going to take off — and the more I learn, the more it seems clear that “Google+” is an umbrella name for several individual services, rather than a single unified thing — but these introductory videos are really well done. Note that the UI screenshots are even set in Helvetica, not Arial. Some of the best evidence of good taste at Google I can ever recall.

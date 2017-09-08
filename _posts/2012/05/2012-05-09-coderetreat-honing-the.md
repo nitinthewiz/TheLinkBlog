@@ -3,6 +3,10 @@ title: "Coderetreat - Honing the craft together worldwide"
 date: 2012-05-09 18:20:34 +0000
 external-url: http://coderetreat.org/
 hash: c0345a3b90235acb2a904c147196a3f6
+annum:
+    year: 2012
+    month: 05
+hostname: coderetreat.org
 ---
 
 This seems like a very cool concept!

@@ -3,6 +3,10 @@ title: "Facebook Snags Open Web Community Leader Recordon"
 date: 2009-08-25 04:05:27 +0000
 external-url: http://www.readwriteweb.com/archives/facebook_snags_open_web_community_leader_recordon.php
 hash: 04328dfde57777e3d052a962de5cb28d
+annum:
+    year: 2009
+    month: 08
+hostname: www.readwriteweb.com
 ---
 
 David Recordon, an outspoken young advocate for Open Source and Open Web technologies, is leaving blog software company SixApart to join Facebook.  

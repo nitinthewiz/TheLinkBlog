@@ -3,6 +3,10 @@ title: "Penn and Teller take on vaccines"
 date: 2010-09-03 08:16:54 +0000
 external-url: http://blogs.discovermagazine.com/badastronomy/2010/08/30/penn-and-teller-take-on-vaccines/
 hash: d3b4cefa0ae20086c50d47dc785b5137
+annum:
+    year: 2010
+    month: 09
+hostname: blogs.discovermagazine.com
 ---
 
 I have long beaten the drum against the antivaxxers: people who falsely claim that vaccines cause autism, or are loaded with toxins. These groups are loud, in many cases vicious, and all have one thing in common: they are wrong, wrong, wrong. The evidence is overwhelming that vaccines don’t cause autism, for example. We know they don’t. 

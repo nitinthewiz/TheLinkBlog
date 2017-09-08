@@ -3,6 +3,10 @@ title: "Dev Blog: Upcoming WordCamps"
 date: 2008-04-30 10:54:48 +0000
 external-url: http://wordpress.org/news/2008/04/upcoming-wordcamps/
 hash: 85d995d672f526253ef7e507a0b2e0e6
+annum:
+    year: 2008
+    month: 04
+hostname: wordpress.org
 ---
 
 WordCamps are my favorite events to go to because theres something about the core WordPress community that attracts smart folks with good philosophies that are fun to hang out with. In this post Ive collated the upcoming WordCamps we know about, including the one in San Francisco. Hopefully there will be one nearby so you can meet other WordPressers in your area.

@@ -3,6 +3,10 @@ title: "Mailpile enters betaIts like Gmail, but you run it on your own computer 
 date: 2014-09-16 03:29:36 +0000
 external-url: http://arstechnica.com/information-technology/2014/09/mailpile-enters-beta-its-like-gmail-but-you-run-it-on-your-own-computer/
 hash: 4b0be41ca5adbb95f46fc1d7859c62ce
+annum:
+    year: 2014
+    month: 09
+hostname: arstechnica.com
 ---
 
 Been wondering when Mailpile would get to this point for a while. Interesting approach.

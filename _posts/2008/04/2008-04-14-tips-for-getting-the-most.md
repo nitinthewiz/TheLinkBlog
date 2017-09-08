@@ -3,6 +3,10 @@ title: "Tips for getting the most out of Backpack on the iPhone"
 date: 2008-04-14 15:09:23 +0000
 external-url: http://37signals.blogs.com/products/2008/04/tips-for-gettin.html
 hash: 7b5c13aeec676085f0de0777302c2b8b
+annum:
+    year: 2008
+    month: 04
+hostname: 37signals.blogs.com
 ---
 
 Just Another iPhone Blog recently posted "Tips and Tweaks Make 37signals Backpack A 'Must Have' iPhone Application." It discusses using iBackpack to make your Backpack pages look nice on your iPhone and also links to a Forum post that shows how to add a custom Backpack icon to your iPhone home screen.

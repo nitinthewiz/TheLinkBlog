@@ -3,6 +3,10 @@ title: "Funding Math and Science Projects For Young Women"
 date: 2010-10-31 14:22:08 +0000
 external-url: http://avc.com/2010/10/funding-math-and-science-projects-for-young-women/
 hash: f213f8374d41bb7523aef0eec1190bf2
+annum:
+    year: 2010
+    month: 10
+hostname: avc.com
 ---
 
 In prior years, this community has participated in the Donors Choose Bloggers Challenge during the month of October. We've won the Bloggers Challenge in the tech category three years in a row with total giving amounts of about $30,000 each year. We were dominant in the tech category and a few other blogs were equally dominant in their categories. As a result Donors Choose has decided to stop doing the Bloggers Challenge and encourage the blog communities that were regular winners to do something on their own.

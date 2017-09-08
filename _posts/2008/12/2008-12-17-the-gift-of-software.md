@@ -3,6 +3,10 @@ title: "The Gift Of Software"
 date: 2008-12-17 03:14:30 +0000
 external-url: http://www.red-sweater.com/blog/659/the-gift-of-software
 hash: 199aa739eb6056d812d867e59224db8c
+annum:
+    year: 2008
+    month: 12
+hostname: www.red-sweater.com
 ---
 
 The holidays are upon us, and if you’re anything like me, you’ve put off buying gifts for your friends and loved ones until almost the last minute!

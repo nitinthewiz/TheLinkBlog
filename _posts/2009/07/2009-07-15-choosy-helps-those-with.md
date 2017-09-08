@@ -3,6 +3,10 @@ title: "Choosy helps those with Browser Commitment Phobia"
 date: 2009-07-15 17:09:15 +0000
 external-url: http://www.tuaw.com/2009/07/14/choosy-helps-those-with-browser-commitment-phobia/
 hash: abf8fdb1aa634b17b4878bceff06082c
+annum:
+    year: 2009
+    month: 07
+hostname: www.tuaw.com
 ---
 
 Filed under: Software, Internet Tools

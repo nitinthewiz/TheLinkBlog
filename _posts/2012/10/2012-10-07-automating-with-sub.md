@@ -3,6 +3,10 @@ title: "Automating with convention: Introducing sub"
 date: 2012-10-07 16:27:40 +0000
 external-url: https://signalvnoise.com/posts/3264-automating-with-convention-introducing-sub
 hash: aad26cb960e0c71f1a055eb8752d076b
+annum:
+    year: 2012
+    month: 10
+hostname: signalvnoise.com
 ---
 
 This seems like a smart idea that many organizations could emulate.

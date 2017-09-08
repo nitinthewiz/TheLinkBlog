@@ -3,6 +3,10 @@ title: "Let's Encrypt Launch Schedule"
 date: 2015-06-16 16:22:51 +0000
 external-url: https://letsencrypt.org//2015/06/16/lets-encrypt-launch-schedule.html
 hash: db809e10d4ffa3e609e6cd8636f889a1
+annum:
+    year: 2015
+    month: 06
+hostname: letsencrypt.org
 ---
 
 Let’s Encrypt has reached a point where we’re ready to announce our launch schedule.

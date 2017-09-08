@@ -3,6 +3,10 @@ title: "Four short links: 6 July 2010"
 date: 2010-07-06 10:00:00 +0000
 external-url: http://radar.oreilly.com/2010/07/four-short-links-6-july-2010.html
 hash: 51543aa9b44c6da6573824f66a444379
+annum:
+    year: 2010
+    month: 07
+hostname: radar.oreilly.com
 ---
 
 

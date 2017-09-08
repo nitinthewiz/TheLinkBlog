@@ -3,6 +3,10 @@ title: "25+ Tools for a Road Trip 2.0"
 date: 2008-08-04 16:20:17 +0000
 external-url: http://mashable.com/2008/08/04/road-trip-tools/
 hash: c1715eb25539a57dcf1c5e11ee347549
+annum:
+    year: 2008
+    month: 08
+hostname: mashable.com
 ---
 
 Ten, five, even two years ago, documenting a road trip meant disposable cameras, a fold-out map, postage stamps and planning ahead. Now a road trip means streaming video, GPS, email, and Hotels.com.

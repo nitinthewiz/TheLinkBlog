@@ -3,6 +3,10 @@ title: "Backplane Exchange Seamless data flow between social applications"
 date: 2012-03-27 19:56:55 +0000
 external-url: http://backplanex.com/
 hash: 7868eb6c038595e582c96b0183f8cd47
+annum:
+    year: 2012
+    month: 03
+hostname: backplanex.com
 ---
 
 Looks like a Javascript framework to allow multiple Javascript applications to communicate through a message mechanism in the web page.

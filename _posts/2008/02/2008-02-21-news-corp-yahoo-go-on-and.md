@@ -3,6 +3,10 @@ title: "News Corp.-Yahoo Discussion Go On. And On."
 date: 2008-02-21 10:56:18 +0000
 external-url: http://techcrunch.com/2008/02/21/news-corp-yahoo-discussion-continue/
 hash: 563c5a203549b83774a3172d10013159
+annum:
+    year: 2008
+    month: 02
+hostname: techcrunch.com
 ---
 
 News Corp. has essentially planted four or five deal guys at Yahoo HQ, working directly with Yahoo business development to try to find a deal to combine MySpace and Yahoo that both sides can swallow. The News Corp. team is led by Jack Kennedy, Fox Interactive Medias EVP Strategy and Corporate Development, says a source with knowledge of the discussions. According to another source, the team was as Yahoo again on Wednesday, and has been there most of the last two weeks.

@@ -3,6 +3,10 @@ title: "Many Huffington Post Readers Hate Site's New Facebook-Powered Recommenda
 date: 2011-01-07 01:48:21 +0000
 external-url: http://www.readwriteweb.com/archives/many_huffington_post_readers_hate_sites_new_facebo.php
 hash: fbb9185bf0cb0a284895aaf8b113fb05
+annum:
+    year: 2011
+    month: 01
+hostname: www.readwriteweb.com
 ---
 
 The giant online publisher and aggregator Huffington Post began experimenting with a new content recommendation engine today, powered by Facebook and built by AdaptiveSemantics, the startup the company acquired last June.  The feature uses the "Liked" Pages and shared articles of logged-in Facebook users who visit the Post to recommend recent content from across its wide swath of articles.  

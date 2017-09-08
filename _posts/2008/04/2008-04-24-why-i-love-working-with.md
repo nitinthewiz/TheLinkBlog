@@ -3,6 +3,10 @@ title: "Why I love working with family people"
 date: 2008-04-24 20:45:00 +0000
 external-url: http://www.37signals.com/svn/posts/996-why-i-love-working-with-family-people
 hash: 3df67615e6943c77331b5bd9192410b6
+annum:
+    year: 2008
+    month: 04
+hostname: www.37signals.com
 ---
 
 The stereotypical startup dream hire is a 20-something with as little life as possible outside of computers. The one that’ll be happy working 14-hour crunch days for weeks on end sprinting for an ever-shifting target that keeps being 90% done for 90% of the time. The one you can make sleep under the table or please with a foosball table in the center of the room. The one where the company paying for dinner pizza is “awesome”.

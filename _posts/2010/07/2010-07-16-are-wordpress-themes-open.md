@@ -3,6 +3,10 @@ title: "Are Wordpress themes necessarily open source?"
 date: 2010-07-16 15:05:07 +0000
 external-url: http://scripting.com/stories/2010/07/16/areWordpressThemesNecessar.html
 hash: 71b4bab22bbb53b843ddf733f1991a6a
+annum:
+    year: 2010
+    month: 07
+hostname: scripting.com
 ---
 
 An interesting question has come up in the Wordpress community. 

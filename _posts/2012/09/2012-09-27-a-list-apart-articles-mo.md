@@ -3,6 +3,10 @@ title: "A List Apart: Articles: Mo Pixels Mo Problems"
 date: 2012-09-27 04:24:28 +0000
 external-url: http://alistapart.com/article/mo-pixels-mo-problems
 hash: ffad843ba0275bfc2bfe7151a14fa00b
+annum:
+    year: 2012
+    month: 09
+hostname: alistapart.com
 ---
 
 A good article reviewing the approaches for dealing with different device pixel densities. I've been reading through this to "retina optimize" some of my websites.

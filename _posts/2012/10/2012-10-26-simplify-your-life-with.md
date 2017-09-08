@@ -3,6 +3,10 @@ title: "Simplify Your Life With an SSH Config File"
 date: 2012-10-26 05:14:08 +0000
 external-url: http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/
 hash: ce2e9d574bfc6cf3edd1b9caedfc1e04
+annum:
+    year: 2012
+    month: 10
+hostname: nerderati.com
 ---
 
 I can't wait to highlight to some of my nerdy friends that like to bug me for the alternative port that I run SSH on, that is also the one highlighted in this smart blog post.

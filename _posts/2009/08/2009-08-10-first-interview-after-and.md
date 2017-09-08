@@ -3,6 +3,10 @@ title: "First Interview After Acquisition With FriendFeed And Facebook"
 date: 2009-08-10 21:21:20 +0000
 external-url: http://techcrunch.com/2009/08/10/first-interview-after-acquisition-with-friendfeed-and-facebook/
 hash: 29c5ad3378caf4b0c284ef13031e1a86
+annum:
+    year: 2009
+    month: 08
+hostname: techcrunch.com
 ---
 
 Details on the Facebook acquisition of Friendfeed story that we broke earlier today are still coming in. But we had a chance to talk with Friendfeed cofounder Bret Taylor (pictured right) and Facebook VP Products Chris Cox a few minutes ago to discuss the deal and the product integration plans going forward.

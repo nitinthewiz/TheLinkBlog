@@ -3,6 +3,10 @@ title: "On Alltop and RSS For The Masses"
 date: 2008-03-12 01:02:55 +0000
 external-url: http://readwrite.com/2008/03/11/alltop_rss_for_the_masses
 hash: 0c57ad49c63a00b0421570d6abe5effc
+annum:
+    year: 2008
+    month: 03
+hostname: readwrite.com
 ---
 
 Today Alltop, an aggregator of RSS feeds, launched. It's a very similar product to one of my daily refreshes, OriginalSignal. Only Alltop covers a much broader range of topics, 40 in total. Alltop's selection of feeds is savvy and wide-ranging - and I'm not just saying that because ReadWriteWeb is the first feed listed in 'Social Media' (although I am very pleased about that!). The service is being positioned as 'RSS for the masses', because it makes it very easy for non-tech people to find new sources to read.

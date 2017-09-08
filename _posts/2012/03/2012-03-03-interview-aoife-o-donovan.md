@@ -3,6 +3,10 @@ title: "Interview: Aoife O' Donovan of Crooked Still Shares Memories While Looki
 date: 2012-03-03 03:40:28 +0000
 external-url: http://www.nodepression.com/profiles/blogs/interview-aoife-o-donovan-of-crooked-still-shares-memories-while
 hash: 4b820985cdf4d74b97612f506ed4d846
+annum:
+    year: 2012
+    month: 03
+hostname: www.nodepression.com
 ---
 
 

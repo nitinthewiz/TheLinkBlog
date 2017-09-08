@@ -3,6 +3,10 @@ title: "Google and Verizon’s Joint Policy Proposal for an Open Internet"
 date: 2010-08-09 18:56:04 +0000
 external-url: http://googlepublicpolicy.blogspot.com/2010/08/joint-policy-proposal-for-open-internet.html
 hash: e9cb18093ebe46d0a110f829f64d9033
+annum:
+    year: 2010
+    month: 08
+hostname: googlepublicpolicy.blogspot.com
 ---
 
 Just keep repeating the word “open”:

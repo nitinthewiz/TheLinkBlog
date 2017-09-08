@@ -3,6 +3,10 @@ title: "WolframTones Generates Unique MIDI Ringtones for Your Cellphone [Rington
 date: 2010-05-05 03:45:54 +0000
 external-url: http://lifehacker.com/5530727/wolframtones-generates-unique-midi-ringtones-for-your-cellphone
 hash: 8b7224714b5128455c5d1779fd214211
+annum:
+    year: 2010
+    month: 05
+hostname: lifehacker.com
 ---
 
 

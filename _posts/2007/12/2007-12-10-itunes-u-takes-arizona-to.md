@@ -3,6 +3,10 @@ title: "iTunes U takes Arizona State “straight to the head of the class”"
 date: 2007-12-10 20:14:57 +0000
 external-url: http://www.apple.com/education/profiles/asu/index.html?sr=hotnews?sr=hotnews.rss
 hash: 44202e0c1a6b2c9f9f0b4ab59caaeefa
+annum:
+    year: 2007
+    month: 12
+hostname: www.apple.com
 ---
 
 As enrollment at Arizona State University topped the 65,000-student mark, Dr. Adrian Sannier, the school’s chief information technology, saw a golden opportunity in store. The iTunes Store, that is. Numerous universities were already taking advantage of iTunes U to deliver digital content to students, and Sannier realized that Arizona State could go “straight to the head of the class with iTunes U, the world’s greatest content delivery infrastructure. iTunes U,” he explains, “has allowed us to move into the rich-media space, completely seamlessly.”

@@ -3,6 +3,10 @@ title: "Michael Lewis on the Greek financial crisis"
 date: 2010-09-15 15:51:02 +0000
 external-url: http://kottke.org/10/09/the-greek-financial-crisis
 hash: 8eccdff8beb4fc6edd83506aa6ce57ae
+annum:
+    year: 2010
+    month: 09
+hostname: kottke.org
 ---
 
 Of all the stories I've heard about the recent financial crisis -- the high-risk mortgage loans, the CDOs, the credit default swaps, the Icelandic crisis -- the story of the collapse of the Greek economy by Michael Lewis in the October issue of Vanity Fair is the craziest. And it's the only one involving monks.

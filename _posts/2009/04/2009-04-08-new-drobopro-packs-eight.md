@@ -3,6 +3,10 @@ title: "New DroboPro packs eight storage bays"
 date: 2009-04-08 00:19:33 +0000
 external-url: http://9to5mac.com/drobo-pro-8-bay
 hash: 10e6987b5b3b89afdaf9c6d36749198a
+annum:
+    year: 2009
+    month: 04
+hostname: 9to5mac.com
 ---
 
 Some people love them (easy to configure RAID storage).  Other people hate them (speed, reliability issues).  Either way, Drobo is bringing multi-drive network attached storage to the masses.  We've covered Drobo and Droboshare and DroboApps before. 

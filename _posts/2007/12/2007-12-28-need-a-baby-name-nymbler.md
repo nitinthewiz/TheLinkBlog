@@ -3,6 +3,10 @@ title: "Need a Baby Name? Nymbler Has A Hunch About What You Might Like."
 date: 2007-12-28 16:45:29 +0000
 external-url: http://techcrunch.com/2007/12/28/need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like/
 hash: 995154b9169a2b62c400c586e2c4661a
+annum:
+    year: 2007
+    month: 12
+hostname: techcrunch.com
 ---
 
 Any parent knows how hard picking a name for a baby can be.  The Web makes it easier to research names, but the majority of baby-naming sites simply overwhelm you with too many choices.  You can check out the most popular baby names in the U.S., map those names around the world, look to celebrity baby names for inspiration,  or even graph a given names popularity over time.  My wife and I have gone through this exercise twice with our own three-year-old and one-year old boys (Sebastien and Emile).  All I remember from the process is scrolling through endless, brain-numbing, alphabetical lists that made one name seem indistinguishable from the next.  We ended up going offline for our final inspiration.

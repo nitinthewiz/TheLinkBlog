@@ -3,6 +3,10 @@ title: "Sidebar Manager, now your sharpest tool in the shed"
 date: 2010-09-28 11:29:18 +0000
 external-url: http://www.woothemes.com/2010/09/sidebar-manager-now-your-sharpest-tool-in-the-shed/
 hash: 2ae5095b5a7ca301c32dfa2e1ddc15d3
+annum:
+    year: 2010
+    month: 09
+hostname: www.woothemes.com
 ---
 
 We’re ecstatic to launch the latest addition to the WooFramework – Sidebar Manager.

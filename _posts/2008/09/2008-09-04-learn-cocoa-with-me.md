@@ -3,6 +3,10 @@ title: "Learn Cocoa With Me"
 date: 2008-09-04 16:46:00 +0000
 external-url: http://www.clarkware.com/cgi/blosxom/2008/09/04#LearnCocoaWithMe
 hash: e37f581fc3c70f1743ac56ab60e3fbaa
+annum:
+    year: 2008
+    month: 09
+hostname: www.clarkware.com
 ---
 
 

@@ -3,6 +3,10 @@ title: "Mark Hamburg leaves Adobe"
 date: 2008-04-25 16:14:01 +0000
 external-url: http://lightroom-news.com/2008/04/25/mark-hamburg-leaves-adobe/
 hash: c98ae9f38261d0b0c5fd9b111d59291d
+annum:
+    year: 2008
+    month: 04
+hostname: lightroom-news.com
 ---
 
 News has been announced that Mark Hamburg has decided to leave Adobe after having worked at the company for over 17 years. Mark joined Adobe in the Fall of 1990, not long after Photoshop 1.0 was released and was instrumental in devising many of the ‘wow’ features we have all come to love and rely on daily when we work with Photoshop.

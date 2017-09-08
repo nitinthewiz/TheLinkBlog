@@ -3,6 +3,10 @@ title: "Announcing LinkedIn Mobile (includes an iPhone version)"
 date: 2008-02-25 02:21:30 +0000
 external-url: http://blog.linkedin.com/2008/02/24/linkedin-mobile-2/
 hash: 939f9a05abfb8c7600cfcca53cd189ef
+annum:
+    year: 2008
+    month: 02
+hostname: blog.linkedin.com
 ---
 
 Well, this is the first time I'm blogging on our corporate blog and I've got to thank Mario for roping me into this. Today, I'd like to announce LinkedIn mobile for any Web enabled wireless phones that use the wireless application protocol (WAP). What that allows you to do is access LinkedIn from any mobile device ranging from your Blackberry to iPhone (more on that in just a second). 

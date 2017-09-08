@@ -3,6 +3,10 @@ title: "Javascript JPEG Encoding"
 date: 2009-11-26 05:33:34 +0000
 external-url: http://ajaxian.com/archives/javascript-jpeg-encoding
 hash: 78642628e3078852d36ab45936615fd1
+annum:
+    year: 2009
+    month: 11
+hostname: ajaxian.com
 ---
 
 

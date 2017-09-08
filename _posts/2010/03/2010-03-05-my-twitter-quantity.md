@@ -3,6 +3,10 @@ title: "My Twitter Quantity Experiment"
 date: 2010-03-05 02:15:40 +0000
 external-url: https://gigaom.com/2010/03/04/my-twitter-quantity-experiment/
 hash: 19b92e0c95c692ace136fae4902f2523
+annum:
+    year: 2010
+    month: 03
+hostname: gigaom.com
 ---
 
 I follow some very successful Twitter users and noticed they tweeted a lot, which inspired me to try the experiment Ill outline in this post.

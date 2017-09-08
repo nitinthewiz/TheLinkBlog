@@ -3,6 +3,10 @@ title: "Wikidata - Meta"
 date: 2012-03-30 20:43:34 +0000
 external-url: http://meta.wikimedia.org/wiki/Wikidata
 hash: d9081c03ee77db540f11b9dcb07571ca
+annum:
+    year: 2012
+    month: 03
+hostname: meta.wikimedia.org
 ---
 
 It appears that Wikimedia is going to get very serious about data. Wikidata looks at first blush to be building on the amazing capabilities of Semantic MediaWiki and creating something very similar to Wikimedia Commons but for data. This is exciting on a number of levels.

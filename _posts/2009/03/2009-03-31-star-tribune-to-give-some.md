@@ -3,6 +3,10 @@ title: "Star Tribune To Give Some 'Deeper' Stories To Print Subscribers Exclusiv
 date: 2009-03-31 04:18:07 +0000
 external-url: http://m.paidcontent.org/article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
 hash: 0ec9a99670bba0d78a0987ff464b8268
+annum:
+    year: 2009
+    month: 03
+hostname: m.paidcontent.org
 ---
 
 More online newspapers are certainly talking about building up the pay-wall around their web content these days, but next week, the Twin Cities' StarTribune.com will begin what it's tentatively calling an "experiment" in offering certain stories to print readers first. 

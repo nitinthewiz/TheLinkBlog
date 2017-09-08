@@ -3,6 +3,10 @@ title: "Social Technographics: Conversationalists get onto the ladder"
 date: 2010-01-21 02:14:00 +0000
 external-url: http://forrester.typepad.com/groundswell/2010/01/conversationalists-get-onto-the-ladder.html
 hash: e953a9e39aab7825af6cecfa9af29d82
+annum:
+    year: 2010
+    month: 01
+hostname: forrester.typepad.com
 ---
 
 by Josh Bernoff

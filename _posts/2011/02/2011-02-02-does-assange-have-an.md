@@ -3,6 +3,10 @@ title: "Does Assange have an agenda?"
 date: 2011-02-02 20:54:52 +0000
 external-url: http://scripting.com/stories/2011/02/02/doesAssangeHaveAnAgenda.html
 hash: 13d4240191bdc2e226d1b897c05b8cad
+annum:
+    year: 2011
+    month: 02
+hostname: scripting.com
 ---
 
 Does Julian Assange have an agenda? We've heard the question so many times, usually asked by American media, whose agendas we are intimately familiar with. My answer, on reflection, is yes, I think he has one, and he has said what it is. And it's not what the big media people insinuate that it is, although that's not usually made very clear. If they think he has an inappropriate agenda, perhaps they should say specifically what they think it is, and back it up. 

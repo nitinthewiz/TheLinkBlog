@@ -3,6 +3,10 @@ title: "Recent Bounciness And When It Will Stop (Pinboard Blog)"
 date: 2012-06-15 19:53:10 +0000
 external-url: http://blog.pinboard.in/2012/06/recent_bounciness_and_when_it_will_stop/
 hash: 9f6044cb067e39b53b17af763c0d105c
+annum:
+    year: 2012
+    month: 06
+hostname: blog.pinboard.in
 ---
 
 These outages are very atypical for Pinboard. It's usually rock solid. This blog post is well done. Fully transparent. Reads like an informal incident report.

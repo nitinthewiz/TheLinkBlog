@@ -3,6 +3,10 @@ title: "We Can't Figure Out How To Make Money On Web Video, Either"
 date: 2008-07-09 06:10:00 +0000
 external-url: http://www.businessinsider.com/2008/7/google-we-can-t-figure-out-how-to-make-money-on-web-video-either
 hash: 34b725fb68c1d3eb7f734e417acc76b0
+annum:
+    year: 2008
+    month: 07
+hostname: www.businessinsider.com
 ---
 
 YouTube will generate about $200 million of revenue this year,* say two WSJ sources, short of Google's expectations.  Chief salesman Tim Armstrong is trying to overhaul YouTube's overly complicated (and expensive) sales process, but the company is now considering much more drastic measures. WSJ:

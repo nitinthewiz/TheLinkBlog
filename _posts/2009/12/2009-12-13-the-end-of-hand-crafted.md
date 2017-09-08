@@ -3,6 +3,10 @@ title: "The End Of Hand Crafted Content"
 date: 2009-12-13 15:45:01 +0000
 external-url: http://techcrunch.com/2009/12/13/the-end-of-hand-crafted-content/
 hash: 8ab2d0ad07d57faed5fe266a238cd1ec
+annum:
+    year: 2009
+    month: 12
+hostname: techcrunch.com
 ---
 
 Old media loves nothing quite so much as writing about their own impeding death. And we always enjoy adding our own two cents – the AP not knowing what YouTube is, the NYTimes guys reading TechCrunch every day, etc.

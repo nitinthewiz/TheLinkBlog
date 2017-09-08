@@ -3,6 +3,10 @@ title: "Relativistic Baseball"
 date: 2012-07-23 02:18:29 +0000
 external-url: http://what-if.xkcd.com/1/
 hash: c1cbd3de4d86ae570a816f8f67bfb566
+annum:
+    year: 2012
+    month: 07
+hostname: what-if.xkcd.com
 ---
 
 Awesome new thing from xkcd creator.
