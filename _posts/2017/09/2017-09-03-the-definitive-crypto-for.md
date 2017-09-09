@@ -9,4 +9,4 @@ annum:
 hostname: mycrypto.guide
 ---
 
-
+Very thorough introduction to the basic concepts and mechanisms behind cryptocurrencies like Bitcoin and Ethereum.

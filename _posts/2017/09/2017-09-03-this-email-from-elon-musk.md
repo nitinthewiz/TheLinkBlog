@@ -9,4 +9,8 @@ annum:
 hostname: www.inc.com
 ---
 
+Love and strongly agree with the directness of this message that Musk sent to the Tesla team.
 
+> Anyone at Tesla can and should email/talk to anyone else according to what they think is the fastest way to solve a problem for the benefit of the whole company.
+
+👍

@@ -9,4 +9,4 @@ annum:
 hostname: www.menshealth.com
 ---
 
-
+It’s great to read about the real sport research and science going into the Apple Watch and fitness applications. I’m optimistic that wearables may be an area where technology truly can make someone a better, healthier, person. 💪

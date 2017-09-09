@@ -9,4 +9,4 @@ annum:
 hostname: bridgetkromhout.com
 ---
 
-
+[Bridget Kromhout](https://bridgetkromhout.com) and [Charity Majors](https://twitter.com/mipsytipsy) presentation from recent [SREcon](https://www.usenix.org/conference/srecon17americas). Good insights into how to evolve into microservices, particularly from an organizational perspective.

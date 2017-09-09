@@ -9,4 +9,4 @@ annum:
 hostname: code.facebook.com
 ---
 
-
+I think you have to always be a bit suspect about adopting too much of the practices used by Internet giants, but it is interesting to see how they solve some of these exceptionally unique problems. Not many organizations need to release **1,000 to 10,000 diffs** a day to production. I do think you can take learnings from these and it’s interesting to see what is possible.

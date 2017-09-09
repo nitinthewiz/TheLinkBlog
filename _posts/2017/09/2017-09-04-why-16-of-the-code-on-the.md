@@ -9,4 +9,4 @@ annum:
 hostname: medium.com
 ---
 
-
+There are many reasons I believe that everyone should run content blockers in their browser. This article does a good job of highlighting some of those reasons.

@@ -9,4 +9,4 @@ annum:
 hostname: toolsandtoys.net
 ---
 
-
+I've got far too many weather applications but I've always wanted one that used a map as the main way to show information. This does a nice job of presenting weather data. A request would be to show temperature data for places that are not a favorite at various zoom levels. 🌤

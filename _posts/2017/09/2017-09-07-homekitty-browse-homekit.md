@@ -9,4 +9,4 @@ annum:
 hostname: homekitty.world
 ---
 
-Website to crowdsource HomeKit compatible devices.
+Website to crowdsource HomeKit compatible devices. 💡

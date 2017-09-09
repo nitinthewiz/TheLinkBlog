@@ -9,4 +9,4 @@ annum:
 hostname: www.theverge.com
 ---
 
-
+Curious if this is in "black hat" or "white hat" ways. AI to improve systems and efficiencies, or AI to drive new attack vectors. I’m guessing the intent is both, but I worry that we only look at the positive vectors. The massive bot nets of the world could be supercharged with strong AI.

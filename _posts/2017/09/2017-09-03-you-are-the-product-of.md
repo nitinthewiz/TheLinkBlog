@@ -9,4 +9,4 @@ annum:
 hostname: www.lrb.co.uk
 ---
 
-
+Extremely well thought through analysis about the *attention economy* and the ethical challenges being completely unaddressed by the giants of social media.
