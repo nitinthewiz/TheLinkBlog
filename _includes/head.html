@@ -1,7 +1,7 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="viewport" content="width=device-width">
 
   <!-- Font -->
@@ -13,5 +13,8 @@
 
   <link href="/assets/css/style.css" rel="stylesheet" />
   <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+
+  <!-- Jekyll SEO Tag -->
+  {% seo %}
 
 </head>

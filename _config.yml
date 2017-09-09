@@ -1,11 +1,14 @@
-name: links.thingelstad.com
-url: http://example.org
+
+# Basic
+title: Link Thing
 description: Links of interest for Jamie Thingelstad
+author: Jamie Thingelstad
+
+url: http://links.thingelstad.com
+baseurl: ""
 
 timezone: America/Chicago
 permalink: /:year/:title/
-
-url:                "http://links.thingelstad.com" # the base hostname & protocol for your site
 
 # Pagination
 paginate: 25
@@ -20,6 +23,21 @@ google_analytics:   UA-49944629-15
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
