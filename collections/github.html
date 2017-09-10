@@ -1,0 +1,13 @@
+---
+layout: default
+title: GitHub
+---
+
+GitHub links.
+
+{% assign collection = site.posts | where: "host", "github.com" %}
+<ul>
+{% for item in collection %}
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
