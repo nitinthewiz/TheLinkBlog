@@ -16,7 +16,7 @@ Links for {{ include.year }}.
 {% assign by_host = this_year | group_by: 'host' %}
 
 <ul>
-{% for host in by_host %} <!-- need limit: 20 -->
+{% for host in by_host limit: 20 %}
 <li>{{ host.name }}: {{ host.items | size }}</li>
 {% endfor %}
 </ul>
