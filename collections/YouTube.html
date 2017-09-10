@@ -1,0 +1,15 @@
+---
+layout: default
+title: YouTube
+---
+
+<p>30 most recent YouTube videos.</p>
+
+{% assign collection = site.posts | where: "host", "www.youtube.com" %}
+
+{% for item in collection limit: 30 %}
+	{% if item.query.v %}
+<h3>{{ item.title }}</h3>
+{% include embed/youtube.html youtube_id=item.query.v %}
+    {% endif %}
+{% endfor %}
