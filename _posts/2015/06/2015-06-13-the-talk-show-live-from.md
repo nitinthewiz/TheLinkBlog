@@ -6,7 +6,11 @@ hash: ff8905a1f170bd471e8bcd39bef0ba9d
 annum:
     year: 2015
     month: 06
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /130510366
+
 ---
 
 Producer: Amy Jane Gruber @amyjane Junior Producer & Announcer: Paul Kafasis @pbones Directed & Edited by: App: The Human Story @appdocu Audio Engineering by:…

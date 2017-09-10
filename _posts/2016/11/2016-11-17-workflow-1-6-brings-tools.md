@@ -6,7 +6,11 @@ hash: c245406c5ec92603dba5da35fa7ab9e0
 annum:
     year: 2016
     month: 11
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/workflow-1-6-brings-revamped-gallery-better-tools-to-share-and-import-workflows/
+
 ---
 
 

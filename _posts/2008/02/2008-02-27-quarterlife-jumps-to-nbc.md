@@ -6,7 +6,11 @@ hash: 24569abf8b879b526de01232e3e18e7c
 annum:
     year: 2008
     month: 02
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/2/-quarterlife--bombs-on-nbc
+
 ---
 
 MySpace and producer Marshall Herskovitz say that "Quarterlife", the TV-like Web show, is a hit. But when the show jumped to an actual TV network last night, it flopped. NBC drew 3.1 million viewers for the show's national TV debut Tuesday night -- 43% and 48% less than CBS and ABC, respectively, drew during the same 10 pm slot (Fox doesn't broadcast nationally during that hour).

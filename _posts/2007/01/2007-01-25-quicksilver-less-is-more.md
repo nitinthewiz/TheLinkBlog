@@ -6,7 +6,11 @@ hash: 2ce737f31cf99a4c5ed79742ac004176
 annum:
     year: 2007
     month: 01
-hostname: quicksilver.blacktree.com
+url-parts:
+    scheme: http
+    host: quicksilver.blacktree.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f7f6228badcb612e046a5602edb65a3d
 annum:
     year: 2007
     month: 05
-hostname: www.photoshopsupport.com
+url-parts:
+    scheme: http
+    host: www.photoshopsupport.com
+    path: /tutorials/jennifer/favicon.html
+
 ---
 
 A Favicon is a little custom icon that appears next to a website's URL in the address bar of a web browser. And when I say little, I mean 16 pixels by 16 pixels. So if you like a good design challenge try your hand at this one.

@@ -6,7 +6,11 @@ hash: 0c3d5ff858aacd77cc26b1b48a7f217f
 annum:
     year: 2011
     month: 11
-hostname: mcnearney.net
+url-parts:
+    scheme: http
+    host: mcnearney.net
+    path: /blog/2010/2/28/compiling-nginx-cache-purging-support/
+
 ---
 
 

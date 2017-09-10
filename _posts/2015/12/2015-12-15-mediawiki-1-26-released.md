@@ -6,7 +6,11 @@ hash: 526a4e8edbb139275f5a268e4dcec301
 annum:
     year: 2015
     month: 12
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2015/12/14/new-mediawiki-release/
+
 ---
 
 The latest version of MediaWiki is live. Photo by Zach Dischner, freely licensed under CC BY-SA 2.0. The MediaWiki developer community has proudly released the latest version of the software that

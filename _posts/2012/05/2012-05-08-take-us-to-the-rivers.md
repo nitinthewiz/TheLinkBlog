@@ -6,7 +6,11 @@ hash: 72ebf7526d02cbbc057f07f84b350558
 annum:
     year: 2012
     month: 05
-hostname: blogs.law.harvard.edu
+url-parts:
+    scheme: https
+    host: blogs.law.harvard.edu
+    path: /doc/2012/05/07/take-us-to-the-rivers/
+
 ---
 
 

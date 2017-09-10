@@ -6,7 +6,11 @@ hash: 7c51450f0432a90bffebd75fbe723199
 annum:
     year: 2015
     month: 07
-hostname: tpo.com
+url-parts:
+    scheme: https
+    host: tpo.com
+    path: /about
+
 ---
 
 There's something really wrong with the web, and I want your help in fixing it. There are three easy things I'm going to ask you to do…

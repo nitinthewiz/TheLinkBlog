@@ -6,7 +6,11 @@ hash: 96eae734fcc0e9ca36e50d0f4f4438f8
 annum:
     year: 2011
     month: 04
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/morning_roundup/2011/04/has-strib-turned-around-ny-times-thinks.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 70046243ff0193e250b242857e2c83e9
 annum:
     year: 2010
     month: 12
-hostname: paulgraham.com
+url-parts:
+    scheme: http
+    host: paulgraham.com
+    path: /control.html
+
 ---
 
 

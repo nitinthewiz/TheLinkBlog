@@ -6,7 +6,11 @@ hash: 28e2784bb37b78d63a0fb23385113340
 annum:
     year: 2015
     month: 08
-hostname: blockstrap.com
+url-parts:
+    scheme: http
+    host: blockstrap.com
+    path: /en/a-complete-beginners-guide-to-blockchain-technology/
+
 ---
 
 framework api showcase

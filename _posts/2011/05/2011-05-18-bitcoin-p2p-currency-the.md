@@ -6,7 +6,11 @@ hash: 9e39aed0d99c3b75b974d7bc94a0857c
 annum:
     year: 2011
     month: 05
-hostname: launch.is
+url-parts:
+    scheme: http
+    host: launch.is
+    path: /blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html
+
 ---
 
 Bitcoin is a P2P currency that could topple governments, destabilize economies and create uncontrollable global bazaars for contraband.

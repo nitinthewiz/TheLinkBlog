@@ -6,7 +6,11 @@ hash: 202e8b0fc8d1d3e49491ca1c44d966a6
 annum:
     year: 2017
     month: 06
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/determining-incident-priority/
+
 ---
 
 Good, simple writeup on how to approach two key metrics for incident management. Like how this follows the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle). Priority = Impact + Urgency.

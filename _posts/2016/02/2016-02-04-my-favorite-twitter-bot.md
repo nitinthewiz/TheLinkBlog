@@ -6,7 +6,11 @@ hash: 10f09853bf8d0ac8a61ed98caa0056b3
 annum:
     year: 2016
     month: 02
-hostname: clkoerner.com
+url-parts:
+    scheme: https
+    host: clkoerner.com
+    path: /2016/02/03/my-favorite-twitter-bot/
+
 ---
 
 It was always funny and frustrating to me when folks shared screenshots from their mobile phones with such low battery. For some reason the low battery bugged me. It’s like living on the edge, man!

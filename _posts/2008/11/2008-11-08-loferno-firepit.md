@@ -6,7 +6,11 @@ hash: aeea3c9330688085287717f46c780ffc
 annum:
     year: 2008
     month: 11
-hostname: www.loferno.com
+url-parts:
+    scheme: http
+    host: www.loferno.com
+    path: /
+
 ---
 
 Very well built and cool looking metal firepit. Nice.

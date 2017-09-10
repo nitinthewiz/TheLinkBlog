@@ -6,7 +6,11 @@ hash: d7f11633f029d25a3ece8c176a402ad4
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2007/12/13/419-dvr-software-firm-replaytv-sold-to-directv/
+
 ---
 
 ReplayTV, one of the pioneers in the DVR business and now in its faded glory, has been sold by its Japanese owner D&M Holdings to DirecTV, (NYSE: DTV) for an undisclosed sum. D&M bought the ReplayTV business along with portable music player brand Rio in 2003 for about $36 million...it sold off Rio MP3 branded player business to Sigmatel in 2005, and has turned around ReplayTV's focus from the DVR box to being a software players in the DVR sector. More here.

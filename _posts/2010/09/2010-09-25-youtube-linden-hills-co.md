@@ -7,7 +7,12 @@ hash: 52aedc5ed7f2927c5d1fc2fc34e4f85b
 annum:
     year: 2010
     month: 09
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "jGXzSfmHjj0"
 ---
 
 Check out this neat video from our opening day:  

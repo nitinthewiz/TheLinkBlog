@@ -6,7 +6,11 @@ hash: b1577c1e00aa89b4e2f6f2c980c9a2d4
 annum:
     year: 2008
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/03/06/video-of-apple-iphone-roadmap-event-is-up/
+
 ---
 
 Filed under: Apple, iPhone

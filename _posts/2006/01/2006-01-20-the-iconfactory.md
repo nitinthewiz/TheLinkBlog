@@ -6,7 +6,11 @@ hash: 01e77e4a2f510b2ef2e8f96794d8c382
 annum:
     year: 2006
     month: 01
-hostname: iconfactory.com
+url-parts:
+    scheme: http
+    host: iconfactory.com
+    path: //show.asp
+
 ---
 
 Your Quality Freeware Icons Hub

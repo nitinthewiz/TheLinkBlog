@@ -6,7 +6,11 @@ hash: 696ed38a69679e1665deb4d8b76a9cc2
 annum:
     year: 2014
     month: 11
-hostname: www.streetinsider.com
+url-parts:
+    scheme: http
+    host: www.streetinsider.com
+    path: /Press+Releases/Amazon+Web+Services+Announces+AWS+Lambda/10010731.html
+
 ---
 
 New compute service runs developers code in response to events, and

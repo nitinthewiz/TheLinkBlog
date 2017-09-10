@@ -6,7 +6,11 @@ hash: 78642628e3078852d36ab45936615fd1
 annum:
     year: 2009
     month: 11
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/javascript-jpeg-encoding
+
 ---
 
 

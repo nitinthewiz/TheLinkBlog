@@ -6,7 +6,11 @@ hash: d29e6a51365f5f59dc5596929935bcf4
 annum:
     year: 2009
     month: 05
-hostname: scobleizer.com
+url-parts:
+    scheme: http
+    host: scobleizer.com
+    path: /2009/04/23/learn-from-zappos/
+
 ---
 
 

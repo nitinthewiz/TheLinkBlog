@@ -6,7 +6,11 @@ hash: 776e361f7a6df709999d40c370dfb6a4
 annum:
     year: 2011
     month: 03
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /4046697118
+
 ---
 
 I'm a launchbar user and didn't even know this feature. Very handy!

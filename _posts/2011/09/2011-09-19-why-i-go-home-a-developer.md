@@ -6,7 +6,11 @@ hash: a297f53812576ef0c95bafb1a2df8ba9
 annum:
     year: 2011
     month: 09
-hostname: adamschepis.com
+url-parts:
+    scheme: http
+    host: adamschepis.com
+    path: /blog/2011/09/15/why-i-go-home-a-dads-manifesto/
+
 ---
 
 

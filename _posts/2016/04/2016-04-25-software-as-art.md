@@ -6,7 +6,11 @@ hash: f871eaa12ccb53992abe995f77bf95cd
 annum:
     year: 2016
     month: 04
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /2016/04/24/1210.html
+
 ---
 
 Yesterday I posed this question on Twitter.Are there any developers in Silicon Valley, having made their FU Money

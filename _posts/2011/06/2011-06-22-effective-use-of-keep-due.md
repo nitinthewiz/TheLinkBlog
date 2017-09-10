@@ -6,7 +6,11 @@ hash: b0da1a2ad351668862ab52689d4506aa
 annum:
     year: 2011
     month: 06
-hostname: sharplet.me
+url-parts:
+    scheme: http
+    host: sharplet.me
+    path: /post/6753096142/effective-use-of-omnifocus-keep-due-dates-sacred
+
 ---
 
 Why I keep due dates sacred in OmniFocus:

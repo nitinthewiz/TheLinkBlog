@@ -6,7 +6,11 @@ hash: 089f7dfa17db595ccab674f2b5848158
 annum:
     year: 2010
     month: 12
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5706326/textual-is-a-lightweight-and-scriptable-mac-os-x-irc-client
+
 ---
 
 

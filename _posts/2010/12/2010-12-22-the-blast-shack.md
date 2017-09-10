@@ -6,7 +6,11 @@ hash: d89e6d6f3176b54686fff0b938074faa
 annum:
     year: 2010
     month: 12
-hostname: www.webstock.org.nz
+url-parts:
+    scheme: http
+    host: www.webstock.org.nz
+    path: /blog/2010/the-blast-shack/
+
 ---
 
 Reading Bruce Sterling on Wikileaks and the NSA: 

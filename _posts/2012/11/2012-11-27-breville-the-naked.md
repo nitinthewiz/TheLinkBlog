@@ -6,7 +6,11 @@ hash: e76a3b1fdc740928877ad3606b5e3b87
 annum:
     year: 2012
     month: 11
-hostname: www.shinymetalthings.net
+url-parts:
+    scheme: http
+    host: www.shinymetalthings.net
+    path: /thenakedespresso/
+
 ---
 
 A unique product demonstration that re-engineered the Dual Boiler to lay bare the consistency of its commercial grade features through a visualisation of live data and art.

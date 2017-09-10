@@ -6,7 +6,11 @@ hash: 6f5de0f4a8a29f33d79fb23f368bccb7
 annum:
     year: 2010
     month: 12
-hostname: www.havasworldwide.com
+url-parts:
+    scheme: http
+    host: www.havasworldwide.com
+    path: 
+
 ---
 
 

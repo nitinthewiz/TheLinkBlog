@@ -6,7 +6,11 @@ hash: 919ec2d831b8675a99620e4bba072a28
 annum:
     year: 2011
     month: 02
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2011/01/30/should-you-really-be-a-startup-entrepreneur/
+
 ---
 
 

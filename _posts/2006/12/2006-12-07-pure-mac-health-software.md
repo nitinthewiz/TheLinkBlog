@@ -6,7 +6,11 @@ hash: 8fe1fced9911208c1589719543868548
 annum:
     year: 2006
     month: 12
-hostname: www.pure-mac.com
+url-parts:
+    scheme: http
+    host: www.pure-mac.com
+    path: /health.html
+
 ---
 
 

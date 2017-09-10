@@ -6,7 +6,11 @@ hash: b95525443d8bf88398cb6ca05cf375ea
 annum:
     year: 2015
     month: 04
-hostname: bbqguru.huntspoint.com
+url-parts:
+    scheme: http
+    host: bbqguru.huntspoint.com
+    path: /
+
 ---
 
 BBQ Meats: Wagyu Beef Brisket, Duroc Pork ribs and butts, Berkshire Pork Ribs and butts with best hatfield pork

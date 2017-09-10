@@ -6,7 +6,12 @@ hash: d3be04f7aecd9acd29864f0d3a9fe04e
 annum:
     year: 2010
     month: 12
-hostname: ultimatestatusbar.com
+url-parts:
+    scheme: http
+    host: ultimatestatusbar.com
+    path: 
+    query:
+        from: "@"
 ---
 
 

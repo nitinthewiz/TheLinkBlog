@@ -6,7 +6,11 @@ hash: 3df7eb9dfddc082f0ddac55a0057c078
 annum:
     year: 2012
     month: 06
-hostname: thimble.webmaker.org
+url-parts:
+    scheme: https
+    host: thimble.webmaker.org
+    path: /en-US/
+
 ---
 
 I really like what Mozilla is doing with these little projects to make web authoring super easy for everyone.

@@ -6,7 +6,11 @@ hash: 80a1a87b02cf355974adf34e3e53abdd
 annum:
     year: 2014
     month: 07
-hostname: codeascraft.com
+url-parts:
+    scheme: http
+    host: codeascraft.com
+    path: /2014/07/15/calendar-hacks/
+
 ---
 
 Good tips. I do many of these myself. Very Google Calendar focused though.

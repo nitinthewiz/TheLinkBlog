@@ -6,7 +6,11 @@ hash: 5dba0334ccd9680eb2f5e94200809afe
 annum:
     year: 2011
     month: 04
-hostname: 177icons.com
+url-parts:
+    scheme: http
+    host: 177icons.com
+    path: /hand-drawn-web-icon-set
+
 ---
 
 

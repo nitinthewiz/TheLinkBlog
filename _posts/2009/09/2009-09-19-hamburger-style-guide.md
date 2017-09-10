@@ -6,7 +6,11 @@ hash: 8d5822787ed461baca755b60e26372ee
 annum:
     year: 2009
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /09/09/hamburger-style-guide
+
 ---
 
 A Hamburger Today presents a guide to all the different styles of hamburgers and cheeseburgers out there, including sliders, the pub burger, and guberburgers (a regional burger featuring melted peanut butter).

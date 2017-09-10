@@ -6,7 +6,11 @@ hash: e2929cc39a364e8b3da3922e191d17fd
 annum:
     year: 2015
     month: 02
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@lauraklein/your-job-is-not-to-write-code-d002609b117a
+
 ---
 
 

@@ -6,7 +6,15 @@ hash: f39132a954e4309ad0ec39466dcf148c
 annum:
     year: 2017
     month: 03
-hostname: www.nytimes.com
+url-parts:
+    scheme: https
+    host: www.nytimes.com
+    path: /2017/03/26/magazine/trump-vs-congress-now-what.html
+    query:
+        emc: "edit_nn_20170327"
+        nl: "morning-briefing"
+        nlid: "12498434"
+        te: "1"
 ---
 
 After the president suffered his first defeat on Capitol Hill, can the White House still make good on its legislative promises?

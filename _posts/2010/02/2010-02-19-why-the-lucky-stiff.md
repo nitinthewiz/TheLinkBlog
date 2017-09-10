@@ -6,7 +6,11 @@ hash: 4efb73ad817ef89587be12b30db051f0
 annum:
     year: 2010
     month: 02
-hostname: why.usesthis.com
+url-parts:
+    scheme: http
+    host: why.usesthis.com
+    path: /
+
 ---
 
 

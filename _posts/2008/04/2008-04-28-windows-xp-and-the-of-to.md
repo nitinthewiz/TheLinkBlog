@@ -6,7 +6,11 @@ hash: f22ecaaa80ea058329820231100bbdbe
 annum:
     year: 2008
     month: 04
-hostname: software.ericsink.com
+url-parts:
+    scheme: http
+    host: software.ericsink.com
+    path: /entries/Save_Windows_XP.html
+
 ---
 
 On June 30, Microsoft will discontinue Windows XP in an

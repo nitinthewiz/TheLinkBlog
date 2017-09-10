@@ -6,7 +6,11 @@ hash: b1d4171ff3cb9c5bc9fd2cffd6abeda4
 annum:
     year: 2011
     month: 12
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /2011/12/i-dont-understand-what-anyone/
+
 ---
 
 I'd say that in about half of my business conversations, I have almost no idea what other people are saying to me. The language of internet business models has made the problem even worse. When I was younger, if I didn't understand what people were saying, I thought I was stupid. Now I realize that if it's to people's benefit that I understand them but I don't, then they're the ones who are stupid.

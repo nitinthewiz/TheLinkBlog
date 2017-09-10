@@ -6,7 +6,11 @@ hash: 8e9d5f60654ca548fe604f0530d0a448
 annum:
     year: 2015
     month: 05
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2015/5/home-screens-macsparky-in-2015
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7e2616e4f5a0ac7b527bd9b69227c132
 annum:
     year: 2011
     month: 09
-hostname: ergo.human.cornell.edu
+url-parts:
+    scheme: http
+    host: ergo.human.cornell.edu
+    path: /CUESitStand.html
+
 ---
 
 I've been using an app to remind me to do this, but it's annoying. :-/

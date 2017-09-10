@@ -6,7 +6,12 @@ hash: e45338b759aefe82c88a2c9b4ec5dd1a
 annum:
     year: 2010
     month: 12
-hostname: www.gq.com
+url-parts:
+    scheme: http
+    host: www.gq.com
+    path: /news-politics/big-issues/201012/viral-me-silicon-valley-social-networking-devin-friedman
+    query:
+        printable: "true"
 ---
 
 

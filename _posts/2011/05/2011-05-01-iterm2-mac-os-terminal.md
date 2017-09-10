@@ -6,7 +6,11 @@ hash: 50f0abaf1902bf46c81cba057488c69b
 annum:
     year: 2011
     month: 05
-hostname: www.iterm2.com
+url-parts:
+    scheme: http
+    host: www.iterm2.com
+    path: /
+
 ---
 
 

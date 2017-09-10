@@ -6,7 +6,11 @@ hash: 45ce63a0168feebc0457c13bc9589ae3
 annum:
     year: 2011
     month: 04
-hostname: razorfast.com
+url-parts:
+    scheme: http
+    host: razorfast.com
+    path: /2011/04/25/dropbox-attempts-to-kill-open-source-project/
+
 ---
 
 

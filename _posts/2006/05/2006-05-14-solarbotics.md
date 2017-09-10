@@ -6,7 +6,11 @@ hash: eb62efda93dc88bca8177994d756cd6c
 annum:
     year: 2006
     month: 05
-hostname: www.solarbotics.com
+url-parts:
+    scheme: http
+    host: www.solarbotics.com
+    path: /
+
 ---
 
 

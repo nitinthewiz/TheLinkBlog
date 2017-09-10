@@ -6,7 +6,11 @@ hash: fd519a6fc2e5d3fcfc4dc70739bd4dbb
 annum:
     year: 2008
     month: 09
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/09/05/itunes-speechification/
+
 ---
 
 Filed under: iTS, iTunes

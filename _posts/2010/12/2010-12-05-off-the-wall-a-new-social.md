@@ -6,7 +6,11 @@ hash: f7476e9778eb01471ff2706851d69184
 annum:
     year: 2010
     month: 12
-hostname: blogs.forrester.com
+url-parts:
+    scheme: http
+    host: blogs.forrester.com
+    path: /ebusiness_strategy/2009/12/off-the-wall-a-new-social-commerce-experiment-on-facebook.html
+
 ---
 
 A new and notable social commerce experiment is about to launch on Facebook. Starting tomorrow, The Limited will enable their fans to purchase products directly from their news stream. This will enable The Limited to push unique offers and products into their Facebook fans news feeds from which their fans can transact with The Limited while never having to jump off to their commerce site to convert. The feature is called Off The Wall since the fan will be interacting through their wall on Facebook.

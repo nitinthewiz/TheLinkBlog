@@ -6,7 +6,11 @@ hash: 7c70baffb5ca4f550379c7c6ea3afeee
 annum:
     year: 2007
     month: 08
-hostname: bbantispam.com
+url-parts:
+    scheme: http
+    host: bbantispam.com
+    path: /atc/
+
 ---
 
 An universal antispam for forums, blogs, contact forms, and others. It is a smart textual CAPTCHA, which challenges site visitors only once, and then disappears. To install, no database required, no graphical libraries required, just insert one line into

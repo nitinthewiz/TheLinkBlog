@@ -6,7 +6,11 @@ hash: 1d7fdfb2c25616ae2e85e427fe61075a
 annum:
     year: 2015
     month: 12
-hostname: mylio.com
+url-parts:
+    scheme: http
+    host: mylio.com
+    path: /
+
 ---
 
 Mylio intelligently gathers and manages all of your photos with an intuitive interface, letting you find, view, sort, tag and edit quickly and easily from all of your devices.

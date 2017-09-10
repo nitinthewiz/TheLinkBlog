@@ -6,7 +6,11 @@ hash: 18aadf426f6005251b59db5de19d265d
 annum:
     year: 2011
     month: 07
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/Semantic_MediaWiki
+
 ---
 
 Semantic MediaWiki (SMW) is a free, open-source extension to MediaWiki – the wiki software that powers Wikipedia – that lets you store and query data within the wiki's pages.

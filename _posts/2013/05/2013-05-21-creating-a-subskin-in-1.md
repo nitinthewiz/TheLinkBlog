@@ -6,7 +6,11 @@ hash: 63fe3672811caccb41068572abc0e61f
 annum:
     year: 2013
     month: 05
-hostname: blog.redwerks.org
+url-parts:
+    scheme: http
+    host: blog.redwerks.org
+    path: /2012/02/28/mediawiki-subskin-tutorial/
+
 ---
 
 Nice way to do something similar to child themes in WordPress for skins in MediaWiki.

@@ -6,7 +6,11 @@ hash: 734afb8ff14f78c97e6fbd959d4ea662
 annum:
     year: 2013
     month: 04
-hostname: markgritter.livejournal.com
+url-parts:
+    scheme: http
+    host: markgritter.livejournal.com
+    path: /708394.html
+
 ---
 
 Good write up from Mark Gritter on his Minnebar 8 experience.

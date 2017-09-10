@@ -6,7 +6,11 @@ hash: 0a111de63b931e56ee3baab00b22d7a9
 annum:
     year: 2013
     month: 10
-hostname: gerrithub.io
+url-parts:
+    scheme: http
+    host: gerrithub.io
+    path: 
+
 ---
 
 Link of the day: GerritHub, hosted Gerrit on top of GitHub. 

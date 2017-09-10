@@ -6,7 +6,11 @@ hash: a2be0374dab475fabb0c0ae98a2c4d40
 annum:
     year: 2015
     month: 06
-hostname: blog.intercom.io
+url-parts:
+    scheme: https
+    host: blog.intercom.io
+    path: /where-do-product-roadmaps-come-from/
+
 ---
 
 What's on your product roadmap and why it is there? Paul Adams shares the five categories of ideas that get onto Intercom's roadmap.

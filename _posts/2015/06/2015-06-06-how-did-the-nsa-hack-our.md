@@ -6,7 +6,12 @@ hash: a0c38111ca4d09a62f02969f9ff9da70
 annum:
     year: 2015
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "ulg_AHBOIQU"
 ---
 
 Professor Edward Frenkel discusses the mathematics behind the NSA Surveillance controversy

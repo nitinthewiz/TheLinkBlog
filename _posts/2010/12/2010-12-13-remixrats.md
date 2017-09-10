@@ -6,7 +6,11 @@ hash: 8461989e37c4bc90965c8cc1b8dfe56f
 annum:
     year: 2010
     month: 12
-hostname: remixrats.tumblr.com
+url-parts:
+    scheme: http
+    host: remixrats.tumblr.com
+    path: /
+
 ---
 
 @lessig  I have compiled the work of some of those remix artists. This is fascinating stuff.

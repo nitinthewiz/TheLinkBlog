@@ -6,7 +6,11 @@ hash: 7d63807b6224473829eebc045f90864c
 annum:
     year: 2011
     month: 01
-hostname: feltron.com
+url-parts:
+    scheme: http
+    host: feltron.com
+    path: /
+
 ---
 
 

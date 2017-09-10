@@ -6,7 +6,11 @@ hash: a9217ed0f19b17b60b6b573cafcf17d5
 annum:
     year: 2014
     month: 07
-hostname: map.ipviking.com
+url-parts:
+    scheme: http
+    host: map.ipviking.com
+    path: /
+
 ---
 
 Very cool real-time visualization of Internet attacks.

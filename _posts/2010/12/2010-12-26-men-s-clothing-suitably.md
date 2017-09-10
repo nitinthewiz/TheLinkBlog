@@ -6,7 +6,11 @@ hash: dadc3215373cb021413a1c9e2add0018
 annum:
     year: 2010
     month: 12
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /node/17722802
+
 ---
 
 

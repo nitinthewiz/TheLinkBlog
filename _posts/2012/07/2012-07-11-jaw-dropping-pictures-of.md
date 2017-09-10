@@ -6,7 +6,11 @@ hash: 4f84d2be2712ee3a4ac78c0270b76dfd
 annum:
     year: 2012
     month: 07
-hostname: abduzeedo.com
+url-parts:
+    scheme: http
+    host: abduzeedo.com
+    path: /jaw-dropping-pictures-iceland
+
 ---
 
 This just makes me even more excited about going to Iceland in early September.

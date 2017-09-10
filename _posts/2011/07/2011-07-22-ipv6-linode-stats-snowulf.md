@@ -6,7 +6,11 @@ hash: 1466f1f8a74f4f8bf572a68bf50d13d8
 annum:
     year: 2011
     month: 07
-hostname: snowulf.com
+url-parts:
+    scheme: http
+    host: snowulf.com
+    path: /2011/06/21/ipv6-linode-stats/
+
 ---
 
 

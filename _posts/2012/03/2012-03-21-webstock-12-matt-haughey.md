@@ -6,7 +6,11 @@ hash: 49bd862b4ded41e209f9fd91f0aa29f3
 annum:
     year: 2012
     month: 03
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /38463833
+
 ---
 
 Matt will cover a bunch of lessons he’s learned in the past decade of life as he embarks on turning 40. They eschew much of the Techcrunch/ReadWriteWeb/Mashable world by focusing on taking a longer term view of your work and focusing on life/work balance and having a happy life as well as a fulfill

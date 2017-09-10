@@ -6,7 +6,11 @@ hash: f7dc2e7bb9918cb429b4b3937aa79d7a
 annum:
     year: 2008
     month: 03
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2008/03/19/apple-updates-time-machine-and-airport-now-working-together/
+
 ---
 
 Apple has now filled what was a gaping hole in their Time Machine backup ecosystem. You can now use Airport connected HFS+ Formatted USB hard drives to backup your Leopard computers. Apple had promised this feature long ago and then pulled the advertising for the "Airport Disk Time Machine Backups" and hasn't able to deliver during the first two releases of Leopard. This might have been more difficult than originally planned (though our Flux Capacitor has helped many). 

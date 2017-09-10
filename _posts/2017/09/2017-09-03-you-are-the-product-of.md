@@ -6,7 +6,11 @@ hash: 4b4a92b183221c8752ecbfbc823a31e1
 annum:
     year: 2017
     month: 09
-hostname: www.lrb.co.uk
+url-parts:
+    scheme: https
+    host: www.lrb.co.uk
+    path: /v39/n16/john-lanchester/you-are-the-product
+
 ---
 
 Extremely well thought through analysis about the *attention economy* and the ethical challenges being completely unaddressed by the giants of social media.

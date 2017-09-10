@@ -6,7 +6,11 @@ hash: cfd6c2aef0bf36e87d55c426e88b0457
 annum:
     year: 2010
     month: 11
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /zappa-razor-sharp-dsl-for-modern-web-apps/
+
 ---
 
 

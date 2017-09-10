@@ -6,7 +6,11 @@ hash: f7fff82bf2cf58f04f74d4b72d6abebd
 annum:
     year: 2012
     month: 08
-hostname: chris.onstad.usesthis.com
+url-parts:
+    scheme: http
+    host: chris.onstad.usesthis.com
+    path: /
+
 ---
 
 Hilarious dream setup.

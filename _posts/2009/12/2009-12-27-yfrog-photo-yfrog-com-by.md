@@ -6,7 +6,11 @@ hash: 859ec0a6a157aca4604fc8813a4cab26
 annum:
     year: 2009
     month: 12
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4g1i8pj
+
 ---
 
 Big Green Egg finally unthawed! It's all easy from here. #biggreenegg 

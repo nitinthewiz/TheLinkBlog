@@ -6,7 +6,11 @@ hash: 789ffcc3dd2597efc1686251aab9074c
 annum:
     year: 2011
     month: 03
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2011/03/four-short-links-8-march-2011.html
+
 ---
 
 

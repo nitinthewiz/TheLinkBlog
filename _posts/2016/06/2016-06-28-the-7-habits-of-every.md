@@ -6,7 +6,11 @@ hash: 6c8a183271417a0a109685d00a97fa04
 annum:
     year: 2016
     month: 06
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@chuck/the-7-habits-of-every-user-b6eaca8fba4b
+
 ---
 
 I have designed experiences in a number of different contexts over the years. From slide decks to email campaigns and websites to applications

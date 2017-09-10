@@ -6,7 +6,11 @@ hash: e43c2aac0b6f21bf3a498443a8c7d535
 annum:
     year: 2008
     month: 12
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /vlbi
+
 ---
 
 Christmas Tree pancake for Mazie this morning! 

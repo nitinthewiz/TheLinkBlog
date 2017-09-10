@@ -6,7 +6,11 @@ hash: 9bca1308c390d1b93c4303a6fe5a89f2
 annum:
     year: 2011
     month: 04
-hostname: info.org.il
+url-parts:
+    scheme: http
+    host: info.org.il
+    path: /english/The-Users-are-the-Suppliers.html
+
 ---
 
 I want to suggest that for Facebook, Google, Twitter and companies like them, the users are the suppliers. 

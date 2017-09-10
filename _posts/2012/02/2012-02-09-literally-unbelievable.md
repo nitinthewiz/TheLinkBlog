@@ -6,7 +6,11 @@ hash: a1b5b4381e8cf38c25695b58899c856e
 annum:
     year: 2012
     month: 02
-hostname: literallyunbelievable.org
+url-parts:
+    scheme: http
+    host: literallyunbelievable.org
+    path: /
+
 ---
 
 Stories from The Onion as interpreted by Facebook

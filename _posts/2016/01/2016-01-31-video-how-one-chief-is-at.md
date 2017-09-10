@@ -6,7 +6,11 @@ hash: a62203b13890c4ac9048116e9bcfc151
 annum:
     year: 2016
     month: 01
-hostname: www.producttalk.org
+url-parts:
+    scheme: http
+    host: www.producttalk.org
+    path: /2016/01/video-how-one-chief-product-officer-is-reinventing-product-management-at-her-company/
+
 ---
 
 We spend much of the conversation talking about her team’s move to dual track Agile, the challenges with adopting product discovery practices, and how they continue to iterate on their delivery practices.

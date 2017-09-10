@@ -6,7 +6,11 @@ hash: f7478358448fc4d24f2d9352c80f43a7
 annum:
     year: 2009
     month: 11
-hostname: minnestar.org
+url-parts:
+    scheme: http
+    host: minnestar.org
+    path: /2009/11/minnebar-officially-full/
+
 ---
 
 After releasing the last few tickets we could scrounge up the 2009 MinneBar (un)conference is now full.  In the week leading up to the event we will ask that anyone who has a ticket but knows they will not be able to make it let us know so we can release a few more that week.

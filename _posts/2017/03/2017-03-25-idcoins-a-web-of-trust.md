@@ -6,7 +6,11 @@ hash: 9552da249a4ba338fd5f97b4b1f40099
 annum:
     year: 2017
     month: 03
-hostname: docs.google.com
+url-parts:
+    scheme: https
+    host: docs.google.com
+    path: /document/d/1UIbYc6swFKA5p0y26WG0RZMZC296zZuZx19fBb33wHY/mobilebasic
+
 ---
 
 

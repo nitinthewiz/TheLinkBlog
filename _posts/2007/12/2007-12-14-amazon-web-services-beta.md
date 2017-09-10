@@ -6,7 +6,11 @@ hash: 00a1009018e74ed42acfce3cd80f9919
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2007/12/14/amazon-web-services-launches-simpledb-beta/
+
 ---
 
 

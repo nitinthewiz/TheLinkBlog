@@ -6,7 +6,11 @@ hash: ddc18a4dda3b1a2af821f100024464d6
 annum:
     year: 2010
     month: 12
-hostname: google-styleguide.googlecode.com
+url-parts:
+    scheme: http
+    host: google-styleguide.googlecode.com
+    path: /svn/trunk/xmlstyle.html
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: 7a3e084dbdef1b515d834ee9f7f2b63b
 annum:
     year: 2014
     month: 12
-hostname: garrickvanburen.com
+url-parts:
+    scheme: https
+    host: garrickvanburen.com
+    path: /
+    query:
+        p: "6904"
 ---
 
 

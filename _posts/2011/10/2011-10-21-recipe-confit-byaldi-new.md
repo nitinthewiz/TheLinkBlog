@@ -6,7 +6,11 @@ hash: a1fd59f6500705c5392b9b3fb79e2f0b
 annum:
     year: 2011
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2007/06/13/dining/131rrex.html
+
 ---
 
 Ratatouille

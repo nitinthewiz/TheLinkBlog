@@ -6,7 +6,11 @@ hash: 1fd2a4006c80e208b193c2d2aaa4802e
 annum:
     year: 2014
     month: 12
-hostname: blog.nahurst.com
+url-parts:
+    scheme: http
+    host: blog.nahurst.com
+    path: /visual-guide-to-nosql-systems
+
 ---
 
 

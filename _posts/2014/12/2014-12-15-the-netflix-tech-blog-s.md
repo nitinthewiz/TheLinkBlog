@@ -6,7 +6,11 @@ hash: ea36b7d25f074c1dbea535bcd6a31db3
 annum:
     year: 2014
     month: 12
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2014/12/introducing-atlas-netflixs-primary.html
+
 ---
 
 

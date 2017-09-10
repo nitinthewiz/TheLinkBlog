@@ -6,7 +6,11 @@ hash: 71642f1f2a742ef47c1e9361b3c1704c
 annum:
     year: 2013
     month: 08
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /70463645
+
 ---
 
 Gorgeous timelapse video of Iceland.

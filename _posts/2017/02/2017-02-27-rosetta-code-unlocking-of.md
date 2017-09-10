@@ -6,7 +6,11 @@ hash: b9eff51f7cc0bb664429c8045eb2a08c
 annum:
     year: 2017
     month: 02
-hostname: medium.freecodecamp.com
+url-parts:
+    scheme: https
+    host: medium.freecodecamp.com
+    path: /rosetta-code-unlocking-the-mysteries-of-the-programming-languages-that-power-our-world-300b787d8401
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7b3b64c1a3f8e81dafeb13ba01d62d85
 annum:
     year: 2011
     month: 03
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2011/03/14/technical-web-typography-guidelines-and-techniques/
+
 ---
 
 

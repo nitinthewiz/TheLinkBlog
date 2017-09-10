@@ -6,7 +6,11 @@ hash: 668f908b14b791f0f1238c9b3edc888c
 annum:
     year: 2009
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2009/11/25/419-dow-jones-sale-price-of-fin-solutions-shockingly-low-13-5-million-on-14/
+
 ---
 
 Yesterday the news came out that Dow Jones (NYSE: NWS), as part of its continued string of divestitures, had sold off its Online Financial Solutions business to Interactive Data Corp. The OFS assets were formerly part of MarketWatch Licensing Services, before DJ bought MarketWatch in 2005. Most of the parts sold came in from MarketWatchs 2003 $103 million acquisition of Pinnacor.

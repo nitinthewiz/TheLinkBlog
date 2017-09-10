@@ -6,7 +6,11 @@ hash: 67df7ccdb1cd5ae8464a5f1aadb93b73
 annum:
     year: 2015
     month: 01
-hostname: www.brendangregg.com
+url-parts:
+    scheme: http
+    host: www.brendangregg.com
+    path: /blog/2015-01-20/working-at-netflix.html
+
 ---
 
 

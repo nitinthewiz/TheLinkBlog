@@ -6,7 +6,11 @@ hash: c9d354b3db5f0955174d16bc1b4d263b
 annum:
     year: 2008
     month: 01
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/01/01/zed-shaw-puts-the-smack-down-on-the-rails-community/
+
 ---
 
 Wow, you dont see rants like this every day. Zed Shaw, who created Mongrel, a library and web server that just about everyone uses to serve rails applications, is basically a God in the Rails community. In a post today called Rails Is A Ghetto he tears into a number of leading Rails developers, the community in general, and a number of startups (and Google). 

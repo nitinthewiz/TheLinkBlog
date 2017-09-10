@@ -6,7 +6,11 @@ hash: 3486e9fa58bf0e50dd72e64d6039ac8d
 annum:
     year: 2016
     month: 07
-hostname: techcrunch.com
+url-parts:
+    scheme: https
+    host: techcrunch.com
+    path: /2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/amp/
+
 ---
 
 There are lots of stories about the formation of AWS, but this much we know: 10 years ago, Amazon Web Services, the cloud Infrastructure as a Service arm of Amazon.com, was launched with little

@@ -6,7 +6,11 @@ hash: 9eda35bdcffded0337980fc3ac824482
 annum:
     year: 2007
     month: 04
-hostname: www.barbarajoosse.com
+url-parts:
+    scheme: http
+    host: www.barbarajoosse.com
+    path: /
+
 ---
 
 Childrens book author.

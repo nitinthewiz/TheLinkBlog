@@ -6,7 +6,11 @@ hash: 19bc3666f7c49a90cb62457212686e8c
 annum:
     year: 2013
     month: 05
-hostname: info.cern.ch
+url-parts:
+    scheme: http
+    host: info.cern.ch
+    path: /hypertext/WWW/TheProject.html
+
 ---
 
 To commemorate that occasion, the very first website is now back online at its original URL.

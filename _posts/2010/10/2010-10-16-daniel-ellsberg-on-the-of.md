@@ -6,7 +6,11 @@ hash: e70572897daebf4b22cf9cc5892bedda
 annum:
     year: 2010
     month: 10
-hostname: motherjones.com
+url-parts:
+    scheme: http
+    host: motherjones.com
+    path: /kevin-drum/2010/02/daniel-ellsberg-limitations-knowledge
+
 ---
 
 

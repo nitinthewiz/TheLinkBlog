@@ -6,7 +6,11 @@ hash: ac46b77ae2b93efe6d12aa5bff45983d
 annum:
     year: 2016
     month: 07
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/
+
 ---
 
 

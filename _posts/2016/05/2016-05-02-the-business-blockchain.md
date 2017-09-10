@@ -6,7 +6,11 @@ hash: de173e58b6c7cac14095295c3e5f8683
 annum:
     year: 2016
     month: 05
-hostname: avc.com
+url-parts:
+    scheme: http
+    host: avc.com
+    path: /2016/05/the-business-blockchain/
+
 ---
 
 I

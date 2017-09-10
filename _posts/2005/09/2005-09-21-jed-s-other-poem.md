@@ -6,7 +6,11 @@ hash: 8febae4afd706b7ebf64707e6469ca46
 annum:
     year: 2005
     month: 09
-hostname: www.stewdio.org
+url-parts:
+    scheme: http
+    host: www.stewdio.org
+    path: /jed/
+
 ---
 
 Totally whacky Apple ][ music video

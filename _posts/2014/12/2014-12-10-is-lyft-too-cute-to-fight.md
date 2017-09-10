@@ -6,7 +6,11 @@ hash: 6cb4690d05b54f1c7661038e78eb4046
 annum:
     year: 2014
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2014/12/11/style/is-lyft-too-cute-to-fight-uber.html
+
 ---
 
 Lyft, the ride-sharing service, comes up with fuzzy, hokey ideas when all most customers want is a quick, safe ride.

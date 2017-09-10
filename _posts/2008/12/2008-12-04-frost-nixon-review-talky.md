@@ -6,7 +6,11 @@ hash: 3e90b7b58d773f6e733cbc368201d004
 annum:
     year: 2008
     month: 12
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /2008/12/04/frostnixon-review-talky-w_n_148337.html
+
 ---
 
 "No holds barred," Richard Nixon urges to David Frost as the two prepare to sit down for a series of interviews in 1977.

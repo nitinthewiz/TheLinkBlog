@@ -6,7 +6,11 @@ hash: 571dc6e7d0546322257f809a3de10646
 annum:
     year: 2011
     month: 08
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2011/08/11/endorsement/
+
 ---
 
 Wow, that is one way to put it... And sadly likely true.

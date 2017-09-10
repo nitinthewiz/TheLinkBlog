@@ -6,7 +6,11 @@ hash: 929685e74cff97e081346739129bc512
 annum:
     year: 2011
     month: 05
-hostname: emilybellwether.wordpress.com
+url-parts:
+    scheme: http
+    host: emilybellwether.wordpress.com
+    path: /2011/05/02/real-time-all-the-time-why-every-news-organisation-has-to-be-live/
+
 ---
 
 

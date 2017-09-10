@@ -6,7 +6,11 @@ hash: 96f1938488917d6734f24d9350d9a29b
 annum:
     year: 2012
     month: 04
-hostname: imp.bluelinescreative.com
+url-parts:
+    scheme: http
+    host: imp.bluelinescreative.com
+    path: /happiness/
+
 ---
 
 Paul created this and sets the values via Tweets. He's very erratic.  <blockquote> Graph of Paul's happiness level from his Tweets using a hashtag. </blockquote> 

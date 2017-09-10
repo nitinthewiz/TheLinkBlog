@@ -6,7 +6,11 @@ hash: 346528ef6564cd305ca9bccaf725be36
 annum:
     year: 2013
     month: 04
-hostname: www.webmonkey.com
+url-parts:
+    scheme: http
+    host: www.webmonkey.com
+    path: /2013/04/yahoo-shutters-upcoming-archive-team-saves-the-day/
+
 ---
 
 Upcoming.orgs creator, Andy Biao, posted his thoughts on the official demise of Upcoming.org, noting that he was most upset about the data being lost. In Yahoos typical fuck-off-and-die style, writes Biao, theyre (shutting) it with 11 days notice, no on-site announcement, and no way to back up past events.  The Archive Team has already saved data from the demise of huge sites like Geocities and Friendster, and the group is currently working to backup Posterous, Formspring and now Upcoming.org.

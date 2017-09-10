@@ -6,7 +6,11 @@ hash: 7efb8fd61a06ae8cd574c3aa81d963ab
 annum:
     year: 2012
     month: 08
-hostname: www.infoq.com
+url-parts:
+    scheme: http
+    host: www.infoq.com
+    path: /presentations/Simple-Made-Easy
+
 ---
 
 

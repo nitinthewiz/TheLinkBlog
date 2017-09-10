@@ -6,7 +6,11 @@ hash: 920405c09a1fd016b2d85c03abcf6eec
 annum:
     year: 2016
     month: 10
-hostname: www.electoral-vote.com
+url-parts:
+    scheme: http
+    host: www.electoral-vote.com
+    path: /
+
 ---
 
 

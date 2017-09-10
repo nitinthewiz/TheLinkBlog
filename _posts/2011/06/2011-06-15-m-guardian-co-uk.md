@@ -6,7 +6,13 @@ hash: e479493291c9f4aedec7834a9551d1fc
 annum:
     year: 2011
     month: 06
-hostname: m.guardian.co.uk
+url-parts:
+    scheme: http
+    host: m.guardian.co.uk
+    path: /technology/2011/jun/12/google-personalisation-internet-data-filtering
+    query:
+        cat: "technology"
+        type: "article"
 ---
 
 

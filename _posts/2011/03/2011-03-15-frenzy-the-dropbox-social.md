@@ -6,7 +6,11 @@ hash: 835cd4e50f29f692bd876fbc68c55579
 annum:
     year: 2011
     month: 03
-hostname: frenzyapp.com
+url-parts:
+    scheme: http
+    host: frenzyapp.com
+    path: /
+
 ---
 
 Frenzy uses Dropbox to store your feed items and keep everything in sync.

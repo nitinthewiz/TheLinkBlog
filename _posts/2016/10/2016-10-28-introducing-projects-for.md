@@ -6,7 +6,11 @@ hash: 1edc6ce0bb2b435f0301e22d89746e18
 annum:
     year: 2016
     month: 10
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2272-introducing-projects-for-organizations
+
 ---
 
 

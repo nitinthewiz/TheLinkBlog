@@ -6,7 +6,11 @@ hash: acf35dd216ebde70cd88537555a9e29c
 annum:
     year: 2011
     month: 05
-hostname: thisismynext.com
+url-parts:
+    scheme: http
+    host: thisismynext.com
+    path: /2011/05/12/google-android-skyhook-lawsuit-motorola-samsung/
+
 ---
 
 

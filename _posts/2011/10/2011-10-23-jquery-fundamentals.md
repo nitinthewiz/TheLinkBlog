@@ -6,7 +6,11 @@ hash: b71f102ea5364af5cee086224c3d8522
 annum:
     year: 2011
     month: 10
-hostname: jqfundamentals.com
+url-parts:
+    scheme: http
+    host: jqfundamentals.com
+    path: /
+
 ---
 
 

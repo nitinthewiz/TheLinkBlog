@@ -6,7 +6,11 @@ hash: e0af9d8ef47f7df6fc84ee0d44de6916
 annum:
     year: 2015
     month: 07
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news-feed/north-americas-first-public-natural-swimming-pool-to-open-in-north-minneapolis
+
 ---
 
 

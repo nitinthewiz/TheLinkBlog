@@ -6,7 +6,11 @@ hash: d5b34e4aad8299de9917476456531822
 annum:
     year: 2011
     month: 08
-hostname: madeforpeople.net
+url-parts:
+    scheme: http
+    host: madeforpeople.net
+    path: /2010/12/divergence-an-omnifocus-theme.html
+
 ---
 
 

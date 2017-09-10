@@ -6,7 +6,11 @@ hash: 344f0df447f9749cf75377c589c6917c
 annum:
     year: 2015
     month: 04
-hostname: www.zuora.com
+url-parts:
+    scheme: https
+    host: www.zuora.com
+    path: /
+
 ---
 
 

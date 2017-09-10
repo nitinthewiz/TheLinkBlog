@@ -6,7 +6,11 @@ hash: ae0275f8978e21b3dfd4fd5ad11ca533
 annum:
     year: 2010
     month: 01
-hostname: thebestcamera.com
+url-parts:
+    scheme: http
+    host: thebestcamera.com
+    path: /nsj
+
 ---
 
 

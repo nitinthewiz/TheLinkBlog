@@ -6,7 +6,12 @@ hash: 04264bb37be8f91eb6c34c300400dfdc
 annum:
     year: 2011
     month: 08
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: http
+    host: www.washingtonpost.com
+    path: /business/economy/origins-of-the-debt-showdown/2011/08/03/gIQA9uqIzI_print.html
+    query:
+        hpid: "z1"
 ---
 
 

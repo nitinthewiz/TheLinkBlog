@@ -6,7 +6,11 @@ hash: 6260c72cac7a021ee8dcab2c0e6769a6
 annum:
     year: 2006
     month: 12
-hostname: www.theregister.co.uk
+url-parts:
+    scheme: http
+    host: www.theregister.co.uk
+    path: /2006/12/17/ajax_prototype_tutorial/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 6471102340b9dfa7c6015a307dbc2b73
 annum:
     year: 2014
     month: 03
-hostname: simplicitybliss.com
+url-parts:
+    scheme: http
+    host: simplicitybliss.com
+    path: /blog/weekly-review-habits
+
 ---
 
 My Weekly Review as per the below checklist is short and effective, unless I skipped it the week before which then requires some more time to catch-up.

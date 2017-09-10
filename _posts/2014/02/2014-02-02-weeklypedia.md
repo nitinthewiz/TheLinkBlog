@@ -6,7 +6,11 @@ hash: 1014b41cc314704472e0f8bcb198d31c
 annum:
     year: 2014
     month: 02
-hostname: weekly.hatnote.com
+url-parts:
+    scheme: http
+    host: weekly.hatnote.com
+    path: /
+
 ---
 
 

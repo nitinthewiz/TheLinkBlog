@@ -6,7 +6,11 @@ hash: 80b90b654af661386748d9d65635deb6
 annum:
     year: 2017
     month: 08
-hostname: krebsonsecurity.com
+url-parts:
+    scheme: https
+    host: krebsonsecurity.com
+    path: /2017/08/twitter-bots-use-likes-rts-for-intimidation/
+
 ---
 
 Just another article that makes me really question why I bother with Twitter. Some layer of Twitter is a constant war of botnet's pretending to be people and influence people. Yuck.

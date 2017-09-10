@@ -6,7 +6,11 @@ hash: 4d88b4c73486767c2281fb741b59349a
 annum:
     year: 2007
     month: 12
-hostname: fakesteve.blogspot.com
+url-parts:
+    scheme: http
+    host: fakesteve.blogspot.com
+    path: /2007/12/this-is-not-official-iphone-app-but-i.html
+
 ---
 
 Much love to Mike for the link. To all the ladies who are using this application, I say this: Namaste. I honor the place where my genius and your sacred yoni become one.

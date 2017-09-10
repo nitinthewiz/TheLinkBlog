@@ -6,7 +6,11 @@ hash: d3dd717d7456df86297f03647e6c31f3
 annum:
     year: 2014
     month: 11
-hostname: blog.sokolenko.me
+url-parts:
+    scheme: http
+    host: blog.sokolenko.me
+    path: /2014/11/javavm-options-production.html
+
 ---
 
 This post is a cheatsheet with enumeration of options, which should be always used to configure Java Virtual Machine for Web-oriented server applications in production or production-like environments.

@@ -6,7 +6,11 @@ hash: 83a2e17a263b150d6de2bc62bbb21269
 annum:
     year: 2012
     month: 10
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2012/08/15/entrepreneur-2-entrepreneur-matt-bauer-on-ending-1/
+
 ---
 
 

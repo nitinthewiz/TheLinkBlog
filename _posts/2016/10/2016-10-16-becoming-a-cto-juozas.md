@@ -6,7 +6,11 @@ hash: 0ee009b41cec809660707bfbe3bd995c
 annum:
     year: 2016
     month: 10
-hostname: juokaz.com
+url-parts:
+    scheme: https
+    host: juokaz.com
+    path: /blog/becoming-a-cto
+
 ---
 
 

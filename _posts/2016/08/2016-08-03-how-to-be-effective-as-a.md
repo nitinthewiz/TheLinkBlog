@@ -6,7 +6,11 @@ hash: ac358f636e0b60a9b90fd8fd841b8abe
 annum:
     year: 2016
     month: 08
-hostname: www.rajiv.com
+url-parts:
+    scheme: https
+    host: www.rajiv.com
+    path: /blog/2016/08/02/how-to-be-effective-as-a-cto/
+
 ---
 
 A CTO’s job combines Culture, Technology, and Operations. Each of the three is necessary; a field of knowledge, experimentation, and learning in itself; and interdependent with the other two. To be successful as a CTO, you need to work on and continually master all three areas.

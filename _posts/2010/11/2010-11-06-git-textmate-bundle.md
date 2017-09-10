@@ -6,7 +6,11 @@ hash: 2f6a9249d67b6ed756fee7b4673453b7
 annum:
     year: 2010
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /jcf/git-tmbundle
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 1903657be0983317b1223cf5b8161464
 annum:
     year: 2012
     month: 02
-hostname: mikegrouchy.com
+url-parts:
+    scheme: http
+    host: mikegrouchy.com
+    path: /blog/zsh-is-your-friend.html
+
 ---
 
 I don’t know if you know this, but ZShell is your friend, you might not know it yet, but its true. I know what you are thinking , “whats wrong with Bash?”, nothing, except its not Zsh.

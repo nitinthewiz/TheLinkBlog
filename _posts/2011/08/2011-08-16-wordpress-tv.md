@@ -6,7 +6,11 @@ hash: 82405083b1e9abfb445533b8823e75b8
 annum:
     year: 2011
     month: 08
-hostname: wordpress.tv
+url-parts:
+    scheme: http
+    host: wordpress.tv
+    path: /2011/08/14/matt-mullenweg-state-of-the-word-2011/
+
 ---
 
 

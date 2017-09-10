@@ -6,7 +6,11 @@ hash: 1d909002f7d7b53340b64ff042deed67
 annum:
     year: 2006
     month: 02
-hostname: handbrake.fr
+url-parts:
+    scheme: http
+    host: handbrake.fr
+    path: /
+
 ---
 
 

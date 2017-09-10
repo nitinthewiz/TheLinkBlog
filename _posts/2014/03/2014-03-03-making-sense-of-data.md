@@ -6,7 +6,11 @@ hash: cc904d2259dfc168b05170f930dbab67
 annum:
     year: 2014
     month: 03
-hostname: datasense.withgoogle.com
+url-parts:
+    scheme: https
+    host: datasense.withgoogle.com
+    path: /course
+
 ---
 
 This self-paced, online course is intended for anyone who wants to learn more about how to structure, visualize, and manipulate data. This includes student, educators, researchers, journalists, and small business owners.

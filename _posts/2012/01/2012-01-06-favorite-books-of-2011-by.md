@@ -6,7 +6,11 @@ hash: 7678c8c6a5fe6e73333da9c9e7ab3a94
 annum:
     year: 2012
     month: 01
-hostname: www.recursion.org
+url-parts:
+    scheme: http
+    host: www.recursion.org
+    path: /2012/1/6/favorite-books-of-2011
+
 ---
 
 New blog post: My favorite books of 2011 

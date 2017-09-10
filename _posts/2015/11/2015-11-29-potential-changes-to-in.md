@@ -6,7 +6,11 @@ hash: e22bb2f0a36a04c2af31d4e60e8f9a6e
 annum:
     year: 2015
     month: 11
-hostname: groups.google.com
+url-parts:
+    scheme: https
+    host: groups.google.com
+    path: /a/chromium.org/forum/m/
+
 ---
 
 Cookies are a bit of a rough edge on the web's security model. They don't respect the same origin policy, and the disconnect between their persistence model and that of the rest of the platform causes no end of teeth-gnashing and hair-pulling among developers and auditors alike. We're planning a few changes to bring things into something more closely resembling alignment.

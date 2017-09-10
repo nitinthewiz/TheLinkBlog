@@ -6,7 +6,13 @@ hash: 30585d3d59ec8a34356a0ad1b9bd2556
 annum:
     year: 2011
     month: 09
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "kYIpDmuMFpw"
+        feature: "share"
 ---
 
 Rep. Jefferson Smith (D-OR) is great and right. His TEDx talk: Priceless politics:   #rootstrikers

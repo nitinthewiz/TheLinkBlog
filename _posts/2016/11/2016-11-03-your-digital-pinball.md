@@ -6,7 +6,11 @@ hash: a3d7cccefd23d519d992161a10170de9
 annum:
     year: 2016
     month: 11
-hostname: blog.codinghorror.com
+url-parts:
+    scheme: https
+    host: blog.codinghorror.com
+    path: /your-digital-pinball-machine/
+
 ---
 
 

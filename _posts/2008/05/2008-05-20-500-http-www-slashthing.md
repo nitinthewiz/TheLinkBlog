@@ -6,7 +6,11 @@ hash: 25095d2ab8df71b3e80ce22e39a11184
 annum:
     year: 2008
     month: 05
-hostname: www.slashthing.com
+url-parts:
+    scheme: http
+    host: www.slashthing.com
+    path: /new-ipod-classic-160g/
+
 ---
 
 New iPod Classic 160G 

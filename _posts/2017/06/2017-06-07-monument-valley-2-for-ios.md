@@ -6,7 +6,11 @@ hash: 56da89c2ee931b735db434dc3a834d51
 annum:
     year: 2017
     month: 06
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /monument-valley-2/
+
 ---
 
 Tyler and I have been playing Monument Valley 2. Actually he's already completed it. It’s a great followup to the first one.

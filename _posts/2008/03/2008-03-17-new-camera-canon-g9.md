@@ -6,7 +6,11 @@ hash: 478a2180307a6296841a1acfe1f60392
 annum:
     year: 2008
     month: 03
-hostname: panographic.wordpress.com
+url-parts:
+    scheme: http
+    host: panographic.wordpress.com
+    path: /2008/03/17/new-camera-canon-powershot-g9/
+
 ---
 
   

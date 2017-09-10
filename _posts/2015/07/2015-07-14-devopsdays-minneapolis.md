@@ -6,7 +6,13 @@ hash: 8a1dffd9c8db11b7ab13a51a5323d6b3
 annum:
     year: 2015
     month: 07
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "LNJkVw93yTU"
+        feature: "youtu.be"
 ---
 
 http://www.devopsdays.org/events/2015-minneapolis/proposals/DevOps%20The%20Missing%20Pieces/

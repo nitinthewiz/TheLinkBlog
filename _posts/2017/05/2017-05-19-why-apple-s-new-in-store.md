@@ -6,7 +6,13 @@ hash: 7772e6732516599cb7e7d71556f1b5f2
 annum:
     year: 2017
     month: 05
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/why-apples-new-in-store-experience-aims-fuel-everyone-angela-ahrendts
+    query:
+        trk: "v-feed"
+        lipi: "urn:li:page:d_flagship3_feed;0OyLxAsWaae/L9iUhGGHpg=="
 ---
 
 Apple has continued to buck trends in retail. Their network of stores is an evolving asset that they are using to better connect with customers. The cynic in me wonders when Apple will start hiring barista's and serving high-end macchiato's in their stores as part of this community -- but it’s great to see this evolution.

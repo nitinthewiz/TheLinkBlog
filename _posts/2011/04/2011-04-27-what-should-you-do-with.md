@@ -6,7 +6,11 @@ hash: 2fc195f1d8cc097753f8be47915dac02
 annum:
     year: 2011
     month: 04
-hostname: www.bothsidesofthetable.com
+url-parts:
+    scheme: http
+    host: www.bothsidesofthetable.com
+    path: /2011/04/25/what-should-you-do-with-your-crappy-little-services-business/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a7b6eced0ae15ebea581c2480015f515
 annum:
     year: 2014
     month: 11
-hostname: tomoconnor.eu
+url-parts:
+    scheme: http
+    host: tomoconnor.eu
+    path: /blogish/getting-started-ansible/
+
 ---
 
 

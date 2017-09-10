@@ -6,7 +6,11 @@ hash: 359cb8019b77a91c46ee74d88644d5b7
 annum:
     year: 2012
     month: 03
-hostname: craig.is
+url-parts:
+    scheme: http
+    host: craig.is
+    path: /making/rainbows
+
 ---
 
 I'm suspect of syntax highlighters in JavaScript, but this one looks pretty good.

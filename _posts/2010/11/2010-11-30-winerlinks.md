@@ -6,7 +6,11 @@ hash: 2fbe545fe308a64d1506e1575e820e22
 annum:
     year: 2010
     month: 11
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /plugins/winerlinks/
+
 ---
 
 WinerLinks adds paragraph-level permalinks to your posts or pages.

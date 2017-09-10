@@ -6,7 +6,11 @@ hash: 14cb697f8852614393d134a8ecf78bc3
 annum:
     year: 2015
     month: 12
-hostname: blog.codinghorror.com
+url-parts:
+    scheme: http
+    host: blog.codinghorror.com
+    path: /getting-the-most-out-of-png/
+
 ---
 
 When it comes to image formats on the internet, it's generally a three-way tie between JPEG, GIF, and PNG. Deciding which image format to use is relatively straightforward; you choose lossy JPEG when

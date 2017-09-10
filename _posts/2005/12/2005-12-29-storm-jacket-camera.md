@@ -6,7 +6,11 @@ hash: c60b49c9a74202665a2d653e3b31850d
 annum:
     year: 2005
     month: 12
-hostname: www.stormjacket.com
+url-parts:
+    scheme: http
+    host: www.stormjacket.com
+    path: /products.html
+
 ---
 
 

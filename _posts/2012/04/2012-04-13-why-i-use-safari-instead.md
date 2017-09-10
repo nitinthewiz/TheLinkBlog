@@ -6,7 +6,11 @@ hash: 84fdb554d03aa117cabf7b9b51c27505
 annum:
     year: 2012
     month: 04
-hostname: www.jwz.org
+url-parts:
+    scheme: http
+    host: www.jwz.org
+    path: /blog/2012/04/why-i-use-safari-instead-of-firefox/
+
 ---
 
 

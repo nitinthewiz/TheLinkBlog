@@ -6,7 +6,11 @@ hash: d1cd0b214f7e0ca063b9424eba9ece05
 annum:
     year: 2006
     month: 12
-hostname: www.cogmap.com
+url-parts:
+    scheme: http
+    host: www.cogmap.com
+    path: /
+
 ---
 
 

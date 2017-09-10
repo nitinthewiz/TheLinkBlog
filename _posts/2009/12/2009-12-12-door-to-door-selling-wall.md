@@ -6,7 +6,11 @@ hash: e4093073a844479eb14e51445d2cb746
 annum:
     year: 2009
     month: 12
-hostname: www.prnewswire.com
+url-parts:
+    scheme: http
+    host: www.prnewswire.com
+    path: /news-releases/door-to-door-selling-moves-wall-to-wall-79068592.html
+
 ---
 
 In the future, mark and Alvenda will introduce innovations that allow Facebook users to socially share the mark experience through their newsfeeds, ...

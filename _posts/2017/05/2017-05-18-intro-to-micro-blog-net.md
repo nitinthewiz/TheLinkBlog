@@ -6,7 +6,11 @@ hash: 690f0914b88c30e2b59050b59c2d1b6b
 annum:
     year: 2017
     month: 05
-hostname: noahread.net
+url-parts:
+    scheme: https
+    host: noahread.net
+    path: /blog/intro-to-micro-blog
+
 ---
 
 One of my favorite things about what Manton and team are doing is that Micro.blog can be a vibrant community but all the members own their own content.

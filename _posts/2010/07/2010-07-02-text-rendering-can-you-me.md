@@ -6,7 +6,11 @@ hash: f39ef03f3de6c59bd7ef3125284a93b5
 annum:
     year: 2010
     month: 07
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/text-rendering-optimizelegibility-can-you-read-me-now
+
 ---
 
 text-rendering: optimizeLegibility;. 

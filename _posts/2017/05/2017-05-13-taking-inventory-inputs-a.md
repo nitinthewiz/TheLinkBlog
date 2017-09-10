@@ -6,7 +6,11 @@ hash: bbf3f3f0ec1c8de3c6b4bb1bce071a37
 annum:
     year: 2017
     month: 05
-hostname: anniemueller.com
+url-parts:
+    scheme: http
+    host: anniemueller.com
+    path: /2017/03/13/taking-inventory-inputs-and-outputs/
+
 ---
 
 

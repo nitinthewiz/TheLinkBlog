@@ -6,7 +6,11 @@ hash: 4d9db25fdab07dd969ac4e7d6743bccc
 annum:
     year: 2011
     month: 11
-hostname: shape.method.ac
+url-parts:
+    scheme: http
+    host: shape.method.ac
+    path: /
+
 ---
 
 

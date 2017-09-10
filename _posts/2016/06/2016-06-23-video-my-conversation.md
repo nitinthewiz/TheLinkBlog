@@ -6,7 +6,11 @@ hash: b8014281b8718207f38cb2f06e926329
 annum:
     year: 2016
     month: 06
-hostname: www.theplayerstribune.com
+url-parts:
+    scheme: http
+    host: www.theplayerstribune.com
+    path: /2016-6-22-video-derek-jeter-president-obama-conversation/
+
 ---
 
 Earlier this month, I had the incredible opportunity to sit down for a conversation with President Obama at the White House in the Roosevelt Room. This isn

@@ -6,7 +6,12 @@ hash: 2b3ccdf0058a4162de2d0e13e3221a69
 annum:
     year: 2015
     month: 04
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/sps-commerce-announces-new-era-of-intuitive-agile-analytics-for-omnichannel-retail-2015-04-28
+    query:
+        siteid: "nbsh"
 ---
 
 

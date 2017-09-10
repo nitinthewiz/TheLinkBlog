@@ -6,7 +6,11 @@ hash: be14966d6768ef1daf218758d859b0af
 annum:
     year: 2013
     month: 12
-hostname: piwik.org
+url-parts:
+    scheme: http
+    host: piwik.org
+    path: /blog/2013/12/piwik-2-0-release-announced-biggest-best-release-yet/
+
 ---
 
 RT @piwik: Piwik 2.0 release announced: Biggest and best release yet!: Piwik, the world’s leading free and open source we... 

@@ -6,7 +6,11 @@ hash: fb4c55af5fc01d6a86d8d727039b73eb
 annum:
     year: 2008
     month: 05
-hostname: www.slashthing.com
+url-parts:
+    scheme: http
+    host: www.slashthing.com
+    path: /themes-the-worst-of-the-wordpress-ecosystem/
+
 ---
 
 Themes: The Worst of the WordPress Ecosystem 

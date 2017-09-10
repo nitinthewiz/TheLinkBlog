@@ -6,7 +6,11 @@ hash: c33314abee81fffa9c8f09a2419aa003
 annum:
     year: 2009
     month: 10
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /5mbbqhj
+
 ---
 
 Let's win this! 

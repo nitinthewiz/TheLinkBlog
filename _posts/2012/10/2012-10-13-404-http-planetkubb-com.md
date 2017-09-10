@@ -6,7 +6,11 @@ hash: e5366f0623bcf239208ae1204c9573ec
 annum:
     year: 2012
     month: 10
-hostname: planetkubb.com
+url-parts:
+    scheme: http
+    host: planetkubb.com
+    path: /post/announcing-planet-kubb-network/
+
 ---
 
 Planet Kubb: Announcing Planet Kubb Network!  #kubb

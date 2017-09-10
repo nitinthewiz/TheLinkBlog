@@ -6,7 +6,11 @@ hash: 9bd1d78c6cbd830c7f516344fb09ac4a
 annum:
     year: 2013
     month: 02
-hostname: wikiworks.com
+url-parts:
+    scheme: http
+    host: wikiworks.com
+    path: /blog/2013/02/06/data-is-data/
+
 ---
 
 Data is data. 

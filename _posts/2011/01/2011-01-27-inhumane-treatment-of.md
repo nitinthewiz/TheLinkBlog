@@ -6,7 +6,11 @@ hash: 3de28eb7505246a22edd1a416bb48933
 annum:
     year: 2011
     month: 01
-hostname: blog.amnestyusa.org
+url-parts:
+    scheme: http
+    host: blog.amnestyusa.org
+    path: /us/inhumane-treatment-of-wikileaks-soldier-bradley-manning/
+
 ---
 
 

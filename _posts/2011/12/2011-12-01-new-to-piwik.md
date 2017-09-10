@@ -6,7 +6,11 @@ hash: 553438419c2ec8f1600116ec0bd39ef6
 annum:
     year: 2011
     month: 12
-hostname: piwik.org
+url-parts:
+    scheme: http
+    host: piwik.org
+    path: /faq/new-to-piwik/
+
 ---
 
 New FAQ: Tips to setup Piwik to track high traffic websites (millions of pages per month)... 

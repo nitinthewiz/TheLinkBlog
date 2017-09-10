@@ -6,7 +6,13 @@ hash: de09975195c55d35f4a43de5ac9f7065
 annum:
     year: 2011
     month: 06
-hostname: www.mtecresults.com
+url-parts:
+    scheme: http
+    host: www.mtecresults.com
+    path: /runner/show
+    query:
+        rid: "4741"
+        race: "351"
 ---
 
 

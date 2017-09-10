@@ -6,7 +6,11 @@ hash: ddb75db795bb23988a653e487b386cc3
 annum:
     year: 2011
     month: 02
-hostname: www.mnxsolutions.com
+url-parts:
+    scheme: http
+    host: www.mnxsolutions.com
+    path: /security/two-factor-ssh-with-google-authenticator.html
+
 ---
 
 You can use this existing implementation and Google Authenticator application with SSH via an included PAM in the Google Authenticator open source application.

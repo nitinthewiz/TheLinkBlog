@@ -6,7 +6,11 @@ hash: cfa67f5efd49c47ada7deb9066afe234
 annum:
     year: 2017
     month: 03
-hostname: stallman.org
+url-parts:
+    scheme: https
+    host: stallman.org
+    path: /uber.html
+
 ---
 
 

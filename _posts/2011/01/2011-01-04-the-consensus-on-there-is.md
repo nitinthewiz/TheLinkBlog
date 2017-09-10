@@ -6,7 +6,11 @@ hash: 689745fb481a9b922ac894ee138b3dfe
 annum:
     year: 2011
     month: 01
-hostname: blogs.spjnetwork.org
+url-parts:
+    scheme: http
+    host: blogs.spjnetwork.org
+    path: /president/2010/12/02/the-consensus-on-wikileaks-there-is-no-consensus-but-consider-the-ethics/
+
 ---
 
 Unbelievably, the President of the Society of Prof'l Journalists makes the same error re: WikiLeaks dumping 250,000 cables

@@ -6,7 +6,11 @@ hash: abab6d4dbebb5d831f46c1bd2e0590bc
 annum:
     year: 2007
     month: 10
-hostname: lorelle.wordpress.com
+url-parts:
+    scheme: http
+    host: lorelle.wordpress.com
+    path: /2007/09/10/protecting-your-wordpress-blog/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9f5dd06cdfcf5d725bebd88242e903da
 annum:
     year: 2011
     month: 04
-hostname: www.lighterra.com
+url-parts:
+    scheme: http
+    host: www.lighterra.com
+    path: /papers/modernmicroprocessors/
+
 ---
 
 WARNING: This article is meant to be informal and fun! Okay, so you're a CS graduate and you did a hardware course as part of your degree, but perhaps that was a few years ago now and you haven't

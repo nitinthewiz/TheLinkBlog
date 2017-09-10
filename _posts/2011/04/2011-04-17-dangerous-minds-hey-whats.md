@@ -6,7 +6,11 @@ hash: cbcf2f49328676b354776d10b7a8f69c
 annum:
     year: 2011
     month: 04
-hostname: www.dangerousminds.net
+url-parts:
+    scheme: http
+    host: www.dangerousminds.net
+    path: /comments/hey_facebook_whats_so_wrong_about_a_pic_of_two_men_kissing/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 09ef322f256468add4bf7b19e2b2d895
 annum:
     year: 2016
     month: 09
-hostname: www.astramael.com
+url-parts:
+    scheme: http
+    host: www.astramael.com
+    path: /5
+
 ---
 
 35mm is an established standard for general photography. It was natural for Apple to target roughly that focal length in 2007, but since then the iPhone camera has mostly featured even wider lenses.

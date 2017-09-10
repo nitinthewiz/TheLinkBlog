@@ -6,7 +6,11 @@ hash: e7d06bdb0f2c508351bc793296c9fc46
 annum:
     year: 2008
     month: 12
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2008/12/13/awesome-battery-charger-with-total-crap-ui/
+
 ---
 
 

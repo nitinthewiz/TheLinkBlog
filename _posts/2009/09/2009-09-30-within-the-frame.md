@@ -6,7 +6,11 @@ hash: b3184b3819f94acbf3aeffd1c2a73642
 annum:
     year: 2009
     month: 09
-hostname: www.nickpotter.net
+url-parts:
+    scheme: http
+    host: www.nickpotter.net
+    path: /archive/2009/09/within-the-frame
+
 ---
 
 

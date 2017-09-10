@@ -6,7 +6,11 @@ hash: c30f21dec05a42063c50b2620e1e1b01
 annum:
     year: 2012
     month: 11
-hostname: www.tcdailyplanet.net
+url-parts:
+    scheme: http
+    host: www.tcdailyplanet.net
+    path: /news/2012/11/23/think-locally-eat-globally-world-street-kitchen-arrives-lyn-lake
+
 ---
 
 Cant wait to visit!

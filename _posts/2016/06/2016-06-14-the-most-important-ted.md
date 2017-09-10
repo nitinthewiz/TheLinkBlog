@@ -6,7 +6,11 @@ hash: fe805009b3cbc8112704ec7d4453fa82
 annum:
     year: 2016
     month: 06
-hostname: www.subtraction.com
+url-parts:
+    scheme: https
+    host: www.subtraction.com
+    path: /2016/06/13/the-most-important-ted-talk-ever/
+
 ---
 
 is a blog about design, technology and culture written by Khoi Vinh, and has been more or less continuously published since December 2000 in New York City. Khoi is currently Principal Designer at

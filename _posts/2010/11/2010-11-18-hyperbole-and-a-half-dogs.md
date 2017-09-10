@@ -6,7 +6,11 @@ hash: be3ce9f2d5eceb309be832772a708ea9
 annum:
     year: 2010
     month: 11
-hostname: hyperboleandahalf.blogspot.com
+url-parts:
+    scheme: http
+    host: hyperboleandahalf.blogspot.com
+    path: /2010/11/dogs-dont-understand-basic-concepts.html
+
 ---
 
 

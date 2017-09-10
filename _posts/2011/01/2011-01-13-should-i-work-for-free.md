@@ -6,7 +6,11 @@ hash: 61b9ecffbf93e2d5bdf1edb44e89765d
 annum:
     year: 2011
     month: 01
-hostname: jhische.com
+url-parts:
+    scheme: http
+    host: jhische.com
+    path: /workforfree.html
+
 ---
 
 

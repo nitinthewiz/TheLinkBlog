@@ -6,7 +6,11 @@ hash: 53f09ff2aae2fd4211c2c62e6a5a6e94
 annum:
     year: 2015
     month: 07
-hostname: growthalytics.com
+url-parts:
+    scheme: http
+    host: growthalytics.com
+    path: /programming/2015/07/19/setting-up-your-own-blog/
+
 ---
 
 Get a free, beautiful, open-source blog up and running in an hour

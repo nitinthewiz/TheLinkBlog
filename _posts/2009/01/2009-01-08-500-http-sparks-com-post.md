@@ -6,7 +6,11 @@ hash: 539969357ecfdee8cd4ea10416efcf26
 annum:
     year: 2009
     month: 01
-hostname: sparks.thingelstad.com
+url-parts:
+    scheme: http
+    host: sparks.thingelstad.com
+    path: /post/69230225/tried-to-sign-up-for-a-trial-subscription-to-jpg
+
 ---
 
 @lbm Trying to trial JPG but CDS is all messed up. FYI! 

@@ -6,7 +6,12 @@ hash: 89e69a25af4ea6c70d29299c2532d827
 annum:
     year: 2011
     month: 08
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /business/features/2011/09/europe-201109
+    query:
+        currentPage: "all"
 ---
 
 With Greece and Ireland in economic shreds, while Portugal, Spain, and perhaps even Italy head south, only one nation can save Europe from financial Armageddon: a highly reluctant Germany. The ironies—like the fact that bankers from Düsseldorf were the ultimate patsies in Wall Street’s con game—pil

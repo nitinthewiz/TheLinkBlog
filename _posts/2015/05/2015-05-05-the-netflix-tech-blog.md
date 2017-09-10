@@ -6,7 +6,12 @@ hash: 55578e9eccb0ebe1eebd74eb342b1c9e
 annum:
     year: 2015
     month: 05
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2015/05/introducing-fido-automated-security.html
+    query:
+        m: "1"
 ---
 
 

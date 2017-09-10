@@ -6,7 +6,11 @@ hash: d8820f2ca9642cede2da37b44a3b66ea
 annum:
     year: 2009
     month: 12
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /dishwashers-and-how-google-consumes-its-own-tail-2009-12
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0b82e3ebf486ed6bcfe0341aa9586f1a
 annum:
     year: 2007
     month: 09
-hostname: www.newsgator.com
+url-parts:
+    scheme: http
+    host: www.newsgator.com
+    path: /Individuals/NetNewsWire/Default.aspx
+
 ---
 
 Looking for an easy-to-use RSS and Atom reader for your Mac? You've found it! The "Eddy" award-winning NetNewsWire has a familiar three-paned interface and can fetch and display news from thousands of different websites and weblogs.

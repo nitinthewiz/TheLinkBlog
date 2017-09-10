@@ -6,7 +6,11 @@ hash: 649d653eee9bd109862087bd1dc14023
 annum:
     year: 2009
     month: 11
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /news/0911/09110603canoneos7dreview.asp
+
 ---
 
 

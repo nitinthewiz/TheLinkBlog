@@ -6,7 +6,11 @@ hash: 4c5dae6ec1aa06b58d2de7a1a140f5bf
 annum:
     year: 2015
     month: 06
-hostname: www.nooctothorpe.com
+url-parts:
+    scheme: http
+    host: www.nooctothorpe.com
+    path: /blog/2015/5/27/finally
+
 ---
 
 

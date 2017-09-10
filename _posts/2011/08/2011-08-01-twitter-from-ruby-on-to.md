@@ -6,7 +6,11 @@ hash: 18b9d89de522969315c5c01070f02448
 annum:
     year: 2011
     month: 08
-hostname: ontwik.com
+url-parts:
+    scheme: http
+    host: ontwik.com
+    path: /rails/oreilly-oscon-java-2011-raffi-krikorian-twitter-from-ruby-on-rails-to-the-jvm/
+
 ---
 
 

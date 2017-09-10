@@ -6,7 +6,11 @@ hash: 6476c22ae5e57d929d5d9b0be8db499f
 annum:
     year: 2017
     month: 01
-hostname: m.startribune.com
+url-parts:
+    scheme: http
+    host: m.startribune.com
+    path: /broadband-competitor-us-internet-to-expand-into-southwest-minneapolis/411704936/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c682277cc950c4bf9d0383540db511d1
 annum:
     year: 2017
     month: 03
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /ios/workflow-1-7-1-brings-new-icon-glyphs-run-workflow-action/
+
 ---
 
 

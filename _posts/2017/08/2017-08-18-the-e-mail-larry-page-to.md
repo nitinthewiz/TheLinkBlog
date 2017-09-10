@@ -6,7 +6,11 @@ hash: cb70aad952c4315fba7b25d04d3777e7
 annum:
     year: 2017
     month: 08
-hostname: www.economist.com
+url-parts:
+    scheme: https
+    host: www.economist.com
+    path: /news/international/21726276-last-week-newspaper-said-alphabets-boss-should-write-detailed-ringing-rebuttal
+
 ---
 
 The Economist with a very well done piece on the James Damore Google Manifesto situation.

@@ -6,7 +6,11 @@ hash: 160b662102115fde42258c76473cc2e0
 annum:
     year: 2011
     month: 03
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/03/chartwell-the-infographics-font
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7f72d8303b4206fdea4a3ed6f729ee6b
 annum:
     year: 2007
     month: 05
-hostname: developers.google.com
+url-parts:
+    scheme: https
+    host: developers.google.com
+    path: /gears/
+
 ---
 
 

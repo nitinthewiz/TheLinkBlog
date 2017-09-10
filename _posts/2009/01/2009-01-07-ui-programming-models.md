@@ -6,7 +6,11 @@ hash: e83a7cc2aa1a737fea59a0999a6971d4
 annum:
     year: 2009
     month: 01
-hostname: blog.rajasekharan.com
+url-parts:
+    scheme: http
+    host: blog.rajasekharan.com
+    path: /2009/01/06/ui-programming-models/
+
 ---
 
 I found this excellent post Toward a better UI programing model with pointers to various UI programming models.

@@ -6,7 +6,11 @@ hash: 88cbb3a3fd98373170d6caa58c3aca39
 annum:
     year: 2007
     month: 01
-hostname: tapestry.apache.org
+url-parts:
+    scheme: http
+    host: tapestry.apache.org
+    path: /
+
 ---
 
 Tapestry is an open-source framework for creating dynamic, robust, highly scalable web applications in Java.

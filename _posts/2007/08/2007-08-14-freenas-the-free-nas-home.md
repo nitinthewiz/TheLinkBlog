@@ -6,7 +6,11 @@ hash: f5a082699bc71cf65537296aeab6a812
 annum:
     year: 2007
     month: 08
-hostname: www.freenas.org
+url-parts:
+    scheme: http
+    host: www.freenas.org
+    path: /
+
 ---
 
 

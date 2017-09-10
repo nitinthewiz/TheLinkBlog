@@ -6,7 +6,11 @@ hash: be85ef0843e034882dae78d14e611a4e
 annum:
     year: 2016
     month: 04
-hostname: securosis.com
+url-parts:
+    scheme: https
+    host: securosis.com
+    path: /mobile/how-imessage-distributes-security-to-block-phantom-devices/full
+
 ---
 
 Last Friday I spent some time in a discussion with senior members of Apple

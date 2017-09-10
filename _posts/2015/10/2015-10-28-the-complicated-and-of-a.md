@@ -6,7 +6,11 @@ hash: 5d9f3050ba9c78a233c2bd10582b052b
 annum:
     year: 2015
     month: 10
-hostname: boingboing.net
+url-parts:
+    scheme: http
+    host: boingboing.net
+    path: /2015/10/28/the-complicated-psychology-and.html
+
 ---
 
 

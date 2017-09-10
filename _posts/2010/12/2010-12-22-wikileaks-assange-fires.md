@@ -6,7 +6,11 @@ hash: 96dd54f7e06a87c7881c953eb096b3df
 annum:
     year: 2010
     month: 12
-hostname: news.yahoo.com
+url-parts:
+    scheme: http
+    host: news.yahoo.com
+    path: /blogs/cutline/wikileaks-assange-fires-back-guardian-competitor-20101221-070416-841.html
+
 ---
 
 This really makes me question Assange's judgment  And no, it's the first time I have felt that way.

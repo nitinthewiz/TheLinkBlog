@@ -6,7 +6,11 @@ hash: cedf77e15ae27f21f0505d450ef6aa65
 annum:
     year: 2010
     month: 06
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /news/2010/06/thelonious/
+
 ---
 
 RT @wordpress: Introducing WordPress 3.0, Thelonious. What are you waiting for? 

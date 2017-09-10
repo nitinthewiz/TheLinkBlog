@@ -6,7 +6,11 @@ hash: 7a685cd450575c682931817d5ed1518a
 annum:
     year: 2011
     month: 01
-hostname: www.cogmap.com
+url-parts:
+    scheme: http
+    host: www.cogmap.com
+    path: /blog/2011/01/26/how-to-build-an-incubator-that-wins/
+
 ---
 
 There has been much talk on the periphery of my vision about building more incubators. Some people say to build 500. Some people say to build one in Baltimore.

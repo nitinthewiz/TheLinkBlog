@@ -6,7 +6,11 @@ hash: 5f6e6c623821735c88531a66d6237670
 annum:
     year: 2011
     month: 12
-hostname: www.ecsspert.com
+url-parts:
+    scheme: http
+    host: www.ecsspert.com
+    path: /css3-logos/
+
 ---
 
 

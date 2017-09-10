@@ -6,7 +6,11 @@ hash: 8528be8f5d55d1159a4218ddeef44b40
 annum:
     year: 2012
     month: 08
-hostname: tent.io
+url-parts:
+    scheme: http
+    host: tent.io
+    path: /blog/introducing-tent
+
 ---
 
 

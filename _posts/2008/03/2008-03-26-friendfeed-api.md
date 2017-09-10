@@ -6,7 +6,11 @@ hash: 83064817d69d2af4b885000d80f20cd0
 annum:
     year: 2008
     month: 03
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/friendfeed-api/wiki/ApiDocumentation
+
 ---
 
 Comments

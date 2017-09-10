@@ -6,7 +6,11 @@ hash: 37306de2b36c650434f908fc481e0794
 annum:
     year: 2017
     month: 03
-hostname: minimalmac.com
+url-parts:
+    scheme: http
+    host: minimalmac.com
+    path: /post/64089282642/the-battery-game
+
 ---
 
 

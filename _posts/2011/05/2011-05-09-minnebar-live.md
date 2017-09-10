@@ -6,7 +6,11 @@ hash: 7d58edff9ee3c73ac32150e0513588f0
 annum:
     year: 2011
     month: 05
-hostname: theuptake.org
+url-parts:
+    scheme: http
+    host: theuptake.org
+    path: /live-video-post/minnebar-live/
+
 ---
 
 RT @uptakemn: If you missed any of the #minnebar sessions in the theater, we have on demand video playback here.

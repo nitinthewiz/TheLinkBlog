@@ -6,7 +6,11 @@ hash: c552b60be9526faf95f8a7fdc263b334
 annum:
     year: 2015
     month: 11
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/compute/dynamic-github-actions-with-aws-lambda/
+
 ---
 
 Tim Wagner, AWS Lambda General Manager Will Gaul, AWS Lambda Software Developer GitHub webhooks allow you to easily generate notifications whenever certain actions occur. One built-in webhook is

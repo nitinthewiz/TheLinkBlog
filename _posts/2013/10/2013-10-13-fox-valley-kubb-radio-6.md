@@ -6,7 +6,11 @@ hash: bf3ae026d61552bf7feb074aa40ecd62
 annum:
     year: 2013
     month: 10
-hostname: www.blogtalkradio.com
+url-parts:
+    scheme: http
+    host: www.blogtalkradio.com
+    path: /fvk/2013/10/14/fox-valley-kubb-radio-episode-6-planet-kubb
+
 ---
 
 Planet Kubb will be guests on @FoxValleyKubb #Kubb show in 1 hour! 

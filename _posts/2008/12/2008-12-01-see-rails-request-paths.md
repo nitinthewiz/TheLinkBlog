@@ -6,7 +6,11 @@ hash: e6f847b89e71bd71d811b57b7d9a197f
 annum:
     year: 2008
     month: 12
-hostname: pragdave.blogs.pragprog.com
+url-parts:
+    scheme: http
+    host: pragdave.blogs.pragprog.com
+    path: /pragdave/2008/11/trivial-request-logging-for-rails.html
+
 ---
 
 During our sale, we had one particular request that came in and wedged the application: every time it hit, the mongrel process size zoomed steadily up to 500Mb, so we had to kill it. But finding out which request was doing this was tricky. The log files didn't help—with the amount of traffic we were getting, it was a small needle and a large haystack.

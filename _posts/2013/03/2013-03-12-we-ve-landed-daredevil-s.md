@@ -6,7 +6,12 @@ hash: df37b86fec6a83ad7054eefcc936043f
 annum:
     year: 2013
     month: 03
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "Ry-ofJHatGs"
 ---
 
 Holy crap!

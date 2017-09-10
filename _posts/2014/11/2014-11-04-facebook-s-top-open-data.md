@@ -6,7 +6,11 @@ hash: 0507a0074e9ca52a06f4fd131e42a86b
 annum:
     year: 2014
     month: 11
-hostname: research.facebook.com
+url-parts:
+    scheme: https
+    host: research.facebook.com
+    path: /blog/1522692927972019/facebook-s-top-open-data-problems/
+
 ---
 
 

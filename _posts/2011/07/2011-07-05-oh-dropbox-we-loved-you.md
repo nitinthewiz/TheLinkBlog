@@ -6,7 +6,12 @@ hash: 6916f556b30b5946eddcfd336ce20fb8
 annum:
     year: 2011
     month: 07
-hostname: www.rolandschorr.com
+url-parts:
+    scheme: http
+    host: www.rolandschorr.com
+    path: /blogs/index.php/oh-dropbox-we-loved-you
+    query:
+        blog: "6"
 ---
 
 

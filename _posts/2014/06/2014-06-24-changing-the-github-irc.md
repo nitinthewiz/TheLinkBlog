@@ -6,7 +6,11 @@ hash: ec0bd255f7287ec24ff9c80db571b8cc
 annum:
     year: 2014
     month: 06
-hostname: akrabat.com
+url-parts:
+    scheme: http
+    host: akrabat.com
+    path: /computing/changing-the-github-irc-hooks-notification-events/
+
 ---
 
 Super useful command to make the IRC web hook in GitHub syndicate issues and issue comments.

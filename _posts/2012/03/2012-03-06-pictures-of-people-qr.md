@@ -6,7 +6,11 @@ hash: 0a039b2e378942418c3a474de2c39117
 annum:
     year: 2012
     month: 03
-hostname: picturesofpeoplescanningqrcodes.tumblr.com
+url-parts:
+    scheme: http
+    host: picturesofpeoplescanningqrcodes.tumblr.com
+    path: /
+
 ---
 
 "No posts yet."

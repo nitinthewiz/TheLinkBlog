@@ -6,7 +6,11 @@ hash: c6579b2fc48bbe464b0a06c81923b2cb
 annum:
     year: 2012
     month: 05
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2012/5/21/pinterest-architecture-update-18-million-visitors-10x-growth.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4b62b282d1cb5d9f6c687783d576c200
 annum:
     year: 2007
     month: 10
-hostname: weblog.infoworld.com
+url-parts:
+    scheme: http
+    host: weblog.infoworld.com
+    path: /yager/archives/2007/10/take_me_home_le.html
+
 ---
 
 Finally, a PC Unix that everyone can love. OS X Leopard is a triumph of customer-focused engineering

@@ -6,7 +6,11 @@ hash: e410c6ba7f7419524f88469a44643f31
 annum:
     year: 2007
     month: 03
-hostname: www.dougscripts.com
+url-parts:
+    scheme: http
+    host: www.dougscripts.com
+    path: /itunes/
+
 ---
 
 Download 425 (and counting) free user-contributed AppleScripts for Apple's iTunes that will make maintaining your digital music collection easier and more fun!

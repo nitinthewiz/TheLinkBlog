@@ -6,7 +6,11 @@ hash: abbee601aee4fb4f5c91e727761b8963
 annum:
     year: 2011
     month: 01
-hostname: battellemedia.com
+url-parts:
+    scheme: http
+    host: battellemedia.com
+    path: /archives/2010/10/identity_and_the_independent_web_.php
+
 ---
 
 

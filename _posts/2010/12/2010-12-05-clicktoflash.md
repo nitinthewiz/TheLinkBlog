@@ -6,7 +6,11 @@ hash: 3c1409862af790af4246794527550846
 annum:
     year: 2010
     month: 12
-hostname: clicktoflash.com
+url-parts:
+    scheme: http
+    host: clicktoflash.com
+    path: /
+
 ---
 
 

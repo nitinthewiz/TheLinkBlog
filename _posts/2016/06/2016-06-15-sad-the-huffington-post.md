@@ -6,7 +6,11 @@ hash: 9aec914957a3e17ba8d1b58ce8fc38ee
 annum:
     year: 2016
     month: 06
-hostname: highline.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: highline.huffingtonpost.com
+    path: /articles/en/sad/
+
 ---
 
 

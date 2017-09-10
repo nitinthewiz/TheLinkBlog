@@ -6,7 +6,11 @@ hash: 8d410359d93016dda96a46a809f6ff0e
 annum:
     year: 2015
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/
+
 ---
 
 

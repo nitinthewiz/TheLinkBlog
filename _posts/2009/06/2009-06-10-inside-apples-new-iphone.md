@@ -6,7 +6,11 @@ hash: ebd23de0899a674cad6fb3d500df343d
 annum:
     year: 2009
     month: 06
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2009/06/10/inside_apples_new_iphone_3g_s_hardware/
+
 ---
 
 Although unannounced, the iPhone 3GS uses a Samsung SoC: Cortex A8 and PowerVR SGX... 

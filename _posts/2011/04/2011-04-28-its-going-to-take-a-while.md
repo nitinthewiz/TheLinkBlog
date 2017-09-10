@@ -6,7 +6,11 @@ hash: 290867f8eabd7f586551d6d403346181
 annum:
     year: 2011
     month: 04
-hostname: nprfreshair.tumblr.com
+url-parts:
+    scheme: http
+    host: nprfreshair.tumblr.com
+    path: /post/4931415362/nobody-tells-this-to-people-who-are-beginners-i
+
 ---
 
 

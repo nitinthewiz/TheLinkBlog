@@ -6,7 +6,11 @@ hash: 31784bb7c2d19577f7e8659b09c3e548
 annum:
     year: 2011
     month: 02
-hostname: opinionator.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: opinionator.blogs.nytimes.com
+    path: /2011/02/01/a-food-manifesto-for-the-future/
+
 ---
 
 Bravo to @MarkBittman's manifesto for the future (of food)!  Yes, to some form of Home Ec making a come back!

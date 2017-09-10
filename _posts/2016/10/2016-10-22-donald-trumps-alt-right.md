@@ -6,7 +6,11 @@ hash: e2cbfb13e1d6c989c842f7adc73bf8e0
 annum:
     year: 2016
     month: 10
-hostname: www.nationalreview.com
+url-parts:
+    scheme: http
+    host: www.nationalreview.com
+    path: /article/441319/donald-trump-alt-right-internet-abuse-never-trump-movement
+
 ---
 
 

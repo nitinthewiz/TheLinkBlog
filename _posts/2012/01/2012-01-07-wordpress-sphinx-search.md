@@ -6,7 +6,11 @@ hash: 5584455fd3296dfa45944448188d13bf
 annum:
     year: 2012
     month: 01
-hostname: wordpress.org
+url-parts:
+    scheme: https
+    host: wordpress.org
+    path: /plugins/wordpress-sphinx-plugin/
+
 ---
 
 WordPress Sphinx Search Plugin allows to use Sphinx Search Server power to enable ultra-fast and feature-rich search on WordPress-based websites.

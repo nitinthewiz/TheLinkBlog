@@ -6,7 +6,11 @@ hash: 52fe978a666f89d9fff67f5aa6359e35
 annum:
     year: 2011
     month: 09
-hostname: blogs.scientificamerican.com
+url-parts:
+    scheme: http
+    host: blogs.scientificamerican.com
+    path: /observations/2011/09/15/time-on-the-brain-how-you-are-always-living-in-the-past-and-other-quirks-of-perception/
+
 ---
 
 

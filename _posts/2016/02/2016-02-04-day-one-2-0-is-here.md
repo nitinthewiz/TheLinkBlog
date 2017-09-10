@@ -6,7 +6,11 @@ hash: 6485cc5d669c02d4746864f266d96266
 annum:
     year: 2016
     month: 02
-hostname: thesweetsetup.com
+url-parts:
+    scheme: http
+    host: thesweetsetup.com
+    path: /day-one-2-0-is-here/
+
 ---
 
 Day One 2 is a set of new apps for iOS and Mac. Rebuilt from the ground up, the plethora of features that made Day One so great are still present.

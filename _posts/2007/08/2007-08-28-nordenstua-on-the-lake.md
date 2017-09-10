@@ -6,7 +6,11 @@ hash: 876d812b9d4f07c00f2833a24d350f2d
 annum:
     year: 2007
     month: 08
-hostname: www.nordenstua.com
+url-parts:
+    scheme: http
+    host: www.nordenstua.com
+    path: /index.html
+
 ---
 
 scandinavian designed cottages • conservation development

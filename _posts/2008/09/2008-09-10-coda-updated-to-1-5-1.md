@@ -6,7 +6,11 @@ hash: 17eda1d5ce8ac15e7688220703fa9918
 annum:
     year: 2008
     month: 09
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/09/10/coda-updated-to-1-5-1/
+
 ---
 
 Filed under: Software, Internet Tools

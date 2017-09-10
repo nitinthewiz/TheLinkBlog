@@ -6,7 +6,11 @@ hash: 52032367ff3de776820852870c18759d
 annum:
     year: 2008
     month: 05
-hostname: ww35.appletvsource.com
+url-parts:
+    scheme: http
+    host: ww35.appletvsource.com
+    path: /content/view/613/
+
 ---
 
 It's been a long time coming but the feature you'd been requesting for is here.

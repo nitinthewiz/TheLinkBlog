@@ -6,7 +6,11 @@ hash: 1d0c6d48e6c8108eced17b6f0f9d4aa8
 annum:
     year: 2014
     month: 11
-hostname: vilkeliskis.com
+url-parts:
+    scheme: http
+    host: vilkeliskis.com
+    path: /blog/2014/11/10/infrastructure_for_data_streams.html
+
 ---
 
 

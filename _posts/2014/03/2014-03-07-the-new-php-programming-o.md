@@ -6,7 +6,11 @@ hash: fd4a9759fb201f25334e632f2d06f8d6
 annum:
     year: 2014
     month: 03
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2014/03/the-new-php.html
+
 ---
 
 The "People's Language" is improving!

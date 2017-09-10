@@ -6,7 +6,11 @@ hash: 393dbb86400469a96dfa2213372ced75
 annum:
     year: 2011
     month: 02
-hostname: hive.slate.com
+url-parts:
+    scheme: http
+    host: hive.slate.com
+    path: /hive/time-to-trim/article/slimming-the-future
+
 ---
 
 Nothing contrarian about it. Slate is getting into crowdsourcing. Column:  Example: 

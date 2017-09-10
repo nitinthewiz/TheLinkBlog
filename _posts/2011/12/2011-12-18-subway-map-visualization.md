@@ -6,7 +6,11 @@ hash: b7bd78f5f93285981884aa7f32dba34f
 annum:
     year: 2011
     month: 12
-hostname: kalyani.com
+url-parts:
+    scheme: http
+    host: kalyani.com
+    path: /2010/10/subway-map-visualization-jquery-plugin/
+
 ---
 
 With these goals in mind, I started creating my jQuery plugin. A few days of concentrated effort later, I had a working subwayMap plugin and am quite pleased with the result. You can download the plugin below and documentation follows in this post. I hope you will give the plugin a try and find it useful.

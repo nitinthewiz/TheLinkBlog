@@ -6,7 +6,11 @@ hash: 8031b30068bfe1296ee0e8d5dcd6cdd7
 annum:
     year: 2013
     month: 06
-hostname: events.umn.edu
+url-parts:
+    scheme: https
+    host: events.umn.edu
+    path: /027700
+
 ---
 
 There should have been more classes like this when I was in college. :-)

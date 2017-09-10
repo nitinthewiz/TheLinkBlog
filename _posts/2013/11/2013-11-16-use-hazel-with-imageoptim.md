@@ -6,7 +6,11 @@ hash: 6c374cfbbcbedd088689da28cb256598
 annum:
     year: 2013
     month: 11
-hostname: wordius.com
+url-parts:
+    scheme: http
+    host: wordius.com
+    path: /use-hazel-with-imageoptim-to-automate-your-image-processing-workflow/
+
 ---
 
 All images uploaded to this site are compressed in ImageOptim  free, open-source software for the Mac  after being put through Photoshops Save for web routine. But I decided some time ago that that part of my workflow could be speeded up by using Hazel, a handy little utility for the Mac.

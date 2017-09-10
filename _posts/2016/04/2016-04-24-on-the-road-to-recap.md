@@ -6,7 +6,11 @@ hash: 55dbd9094b4eed23296904c2464011f6
 annum:
     year: 2016
     month: 04
-hostname: abovethecrowd.com
+url-parts:
+    scheme: http
+    host: abovethecrowd.com
+    path: /2016/04/21/on-the-road-to-recap/
+
 ---
 
 April 21, 2016: In February of last year, Fortune magazine writers Erin Griffith and Dan Primack declared 2015 

@@ -6,7 +6,11 @@ hash: 55560101d75d80c358124b453eaaa9b0
 annum:
     year: 2013
     month: 12
-hostname: aws.typepad.com
+url-parts:
+    scheme: http
+    host: aws.typepad.com
+    path: /aws/2013/12/vm-import-export-for-linux.html
+
 ---
 
 RT @awscloud: Announcing VM Import for Linux: RHEL, Ubuntu, CentOS, and Debian VMs, welcome to Amazon #EC2! 

@@ -6,7 +6,11 @@ hash: 439301d659849f3996d09b4fdbe945f7
 annum:
     year: 2012
     month: 11
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /infocus/2012/11/election-night-2012-reactions-in-photos/100401/
+
 ---
 
 An amazing collection of photos showing the contrasts of winning and losing.

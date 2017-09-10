@@ -6,7 +6,11 @@ hash: ff46818d23625474bf330305ba242550
 annum:
     year: 2016
     month: 12
-hostname: www.elidedbranches.com
+url-parts:
+    scheme: http
+    host: www.elidedbranches.com
+    path: /2016/11/building-and-motivating-engineering.html
+
 ---
 
 

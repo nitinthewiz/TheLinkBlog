@@ -6,7 +6,11 @@ hash: 15492942358d3f14d1b172e4ea386bcb
 annum:
     year: 2012
     month: 03
-hostname: www.bradburyscoffee.com
+url-parts:
+    scheme: http
+    host: www.bradburyscoffee.com
+    path: /
+
 ---
 
 Coffee shop in Madison recommended by Greg from Urban Bean and also recommended by @chrismpls.

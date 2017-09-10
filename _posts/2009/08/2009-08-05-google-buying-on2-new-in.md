@@ -6,7 +6,11 @@ hash: d8dd89cbc17caf15eca03ff74f6885d1
 annum:
     year: 2009
     month: 08
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/google-buying-on2-new-twist-in-the-hope-for-open-video
+
 ---
 
 

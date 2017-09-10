@@ -6,7 +6,11 @@ hash: 12d831a3cef207e9381e2d268626805b
 annum:
     year: 2017
     month: 09
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /police-husband-s-kidnapping-ransom-was-a-ploy-to-take-a-break-from-wife/442505553/
+
 ---
 
 This cracks me up in so many ways. $140 fake ransom? 🤷🏼‍♂️

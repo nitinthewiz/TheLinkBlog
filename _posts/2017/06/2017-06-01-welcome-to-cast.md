@@ -6,7 +6,11 @@ hash: c23a88cc77f701c317a205d7be022b79
 annum:
     year: 2017
     month: 06
-hostname: tryca.st
+url-parts:
+    scheme: https
+    host: tryca.st
+    path: /
+
 ---
 
 This has to be one of the easiest ways to create your own podcast.

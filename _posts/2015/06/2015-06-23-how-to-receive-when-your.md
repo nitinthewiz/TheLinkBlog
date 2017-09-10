@@ -6,7 +6,11 @@ hash: 427db64f8426c6e1814709871036c4a0
 annum:
     year: 2015
     month: 06
-hostname: blogs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: blogs.aws.amazon.com
+    path: /security/post/Tx3PSPQSN8374D/How-to-Receive-Notifications-When-Your-AWS-Account-s-Root-Access-Keys-Are-Used
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f2cd5108b3dbf326c8eea3b20a82f840
 annum:
     year: 2009
     month: 10
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/10650
+
 ---
 
 I haven't been able to lay my hands on one of Openmoko's cute WikiReader devices yet, but given my 10-year-old son Tristan's proclivity for reading Wikipedia over nearly everything else there is to do on the Internet, I may be checking one out in person for a Christmas present.

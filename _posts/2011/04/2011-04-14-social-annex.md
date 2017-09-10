@@ -6,7 +6,11 @@ hash: 9ea4003ade227578a52fbca99210cb80
 annum:
     year: 2011
     month: 04
-hostname: www.socialannex.com
+url-parts:
+    scheme: http
+    host: www.socialannex.com
+    path: /public/
+
 ---
 
 

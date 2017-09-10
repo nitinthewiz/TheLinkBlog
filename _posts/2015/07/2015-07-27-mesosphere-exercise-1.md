@@ -6,7 +6,11 @@ hash: 25510c9b6f2f96233aa9eb46d489df7f
 annum:
     year: 2015
     month: 07
-hostname: open.mesosphere.com
+url-parts:
+    scheme: http
+    host: open.mesosphere.com
+    path: /intro-course/ex1.html
+
 ---
 
 Mesos allows you to create a highly-available and scalable cluster on your existing hardware.

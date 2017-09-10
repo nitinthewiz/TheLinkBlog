@@ -6,7 +6,11 @@ hash: 7f6fdcf99adfe6b04b741afe124bb5b0
 annum:
     year: 2010
     month: 11
-hostname: givemesomethingtoread.com
+url-parts:
+    scheme: http
+    host: givemesomethingtoread.com
+    path: /post/1660934095
+
 ---
 
 This was my first full year at the helm of Give Me Something To Read, and to mark it, I’ve compiled this list of the best articles and essays I posted through 2010 (limited to those that were actually published in 2010). Best, obviously, is subjective, and what this list comprises is a selection of my favourites and reader favourites (as judged by the number of notes they got on Tumblr). Enjoy! (Hint: Open this in your browser, each link has a read later button next to it.)

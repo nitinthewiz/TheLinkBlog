@@ -6,7 +6,11 @@ hash: a6e331794cbcc04dec720b615b18036f
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/03/news-corp-finds-god-but-not-linkedin/
+
 ---
 
 News Corp has acquired New York based religious community site Beliefnet, according to a report at FishbowlNY.

@@ -6,7 +6,11 @@ hash: 00c116676a15f383235c39fe7038a91b
 annum:
     year: 2015
     month: 07
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /we-build-vend/defining-a-high-performance-team-it-s-not-just-about-structure-9417150b659d
+
 ---
 
 Recently I’ve had a bit of an epiphany about teams — the best teams, the high performing teams. How are they defined? Ho…

@@ -6,7 +6,11 @@ hash: 703b1c3be7178a75f459f8a5da444cdd
 annum:
     year: 2008
     month: 06
-hostname: db.tidbits.com
+url-parts:
+    scheme: http
+    host: db.tidbits.com
+    path: /article/9669
+
 ---
 
 We all know about vanity domain names - www dot yourname here dot com, org, net, info, or otherwise. The Internet authority that oversees domain names is about to let you get a little more top heavy with your vanity, if you have deep enough pockets.

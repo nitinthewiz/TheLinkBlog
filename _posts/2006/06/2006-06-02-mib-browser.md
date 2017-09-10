@@ -6,7 +6,11 @@ hash: 1e5e535b23adf7b292ebe79c4e1c5fd8
 annum:
     year: 2006
     month: 06
-hostname: www.ireasoning.com
+url-parts:
+    scheme: http
+    host: www.ireasoning.com
+    path: /mibbrowser.shtml
+
 ---
 
 

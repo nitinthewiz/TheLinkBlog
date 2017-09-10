@@ -6,7 +6,11 @@ hash: 6e678c65b63ff099d90ba8c48a03128d
 annum:
     year: 2015
     month: 10
-hostname: securosis.com
+url-parts:
+    scheme: https
+    host: securosis.com
+    path: /blog/building-security-into-devops-security-integration-points
+
 ---
 
 A couple housekeeping items before I begin today

@@ -6,7 +6,11 @@ hash: 34590675178fde2d6c8f5228773492f1
 annum:
     year: 2008
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2008/04/09/419-industry-moves-economist-ceo-leaving-replaced-by-ex-online-boss/
+
 ---
 
 The Economist Group CEO Helen Alexander is leaving the publisher after 23 years to become an adviser to private equity house Bain Capital. Her replacement, from July 15, will be Andrew Rashbass, a former MD of Economist.com who joined as CIO from DMGT's Associated Newspapers in 1997, the same year Alexander became CEO, The Times said.

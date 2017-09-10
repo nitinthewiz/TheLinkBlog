@@ -6,7 +6,11 @@ hash: 0cb0d2d802d08b6d0e273fa1192e8cf0
 annum:
     year: 2011
     month: 02
-hostname: www.rollingstone.com
+url-parts:
+    scheme: http
+    host: www.rollingstone.com
+    path: /politics/news/why-isnt-wall-street-in-jail-20110216
+
 ---
 
 

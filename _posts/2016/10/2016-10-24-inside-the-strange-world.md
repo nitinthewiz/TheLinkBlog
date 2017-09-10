@@ -6,7 +6,11 @@ hash: 90352ac0313caded957aa1290d108780
 annum:
     year: 2016
     month: 10
-hostname: www.buzzfeed.com
+url-parts:
+    scheme: https
+    host: www.buzzfeed.com
+    path: /jamesball/heres-what-i-learned-about-julian-assange
+
 ---
 
 The WikiLeaks founder is out to settle a score with Hillary Clinton and reassert himself as a player on the world stage, says BuzzFeed News special correspondent James Ball, who worked for Assange at WikiLeaks.

@@ -6,7 +6,11 @@ hash: 3853823a4b0db616d0ec3793055d3adb
 annum:
     year: 2008
     month: 03
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/3/eu-to-clear-google-doubleclick-on-tuesday--about-time-
+
 ---
 
 After a year's worth of ludicrous scrutiny, the Google-DoubleClick deal will finally clear its last regulatory hurdle next week, the FT says. The EU is reportedly set to clear the deal on Tuesday, about a month ahead of schedule.

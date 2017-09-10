@@ -6,7 +6,11 @@ hash: 38945b301e07af7cad22c21d03967ff0
 annum:
     year: 2011
     month: 08
-hostname: yannesposito.com
+url-parts:
+    scheme: http
+    host: yannesposito.com
+    path: /Scratch/en/blog/Learn-Vim-Progressively/
+
 ---
 
 

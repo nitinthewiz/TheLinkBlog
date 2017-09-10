@@ -6,7 +6,11 @@ hash: 93c21ffbb90bbb7fe827fce2828352b0
 annum:
     year: 2007
     month: 03
-hostname: www.startupschool.org
+url-parts:
+    scheme: http
+    host: www.startupschool.org
+    path: /
+
 ---
 
 

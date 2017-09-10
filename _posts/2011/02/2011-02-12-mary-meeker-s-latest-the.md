@@ -6,7 +6,12 @@ hash: 18eccfd3eed47b4f10f330a95e649ce9
 annum:
     year: 2011
     month: 02
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /mary-meeker-matt-murphy-2011-2
+    query:
+        op: "1"
 ---
 
 

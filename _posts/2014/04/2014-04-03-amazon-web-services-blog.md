@@ -6,7 +6,11 @@ hash: 2fb74b63032ce8b6518901497d898a79
 annum:
     year: 2014
     month: 04
-hostname: aws.typepad.com
+url-parts:
+    scheme: http
+    host: aws.typepad.com
+    path: /aws/2014/04/use-oracle-goldengate-with-amazon-rds-for-oracle-database.html
+
 ---
 
 

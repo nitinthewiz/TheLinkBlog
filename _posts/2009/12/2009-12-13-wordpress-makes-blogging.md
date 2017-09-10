@@ -6,7 +6,11 @@ hash: 9b557cdd18bf3dd88a5516469a0e5505
 annum:
     year: 2009
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/12/12/wordpress-integrates-with-twitter-api/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: bad39808c18ecca972f0ac2e02c91a8b
 annum:
     year: 2011
     month: 08
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/08/10/mac-101-capture-your-signature-using-os-x-lions-preview-app/
+
 ---
 
 

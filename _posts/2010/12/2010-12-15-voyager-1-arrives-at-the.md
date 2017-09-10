@@ -6,7 +6,11 @@ hash: d0f9de3861ac94a2bad3c07ee672d062
 annum:
     year: 2010
     month: 12
-hostname: www.popsci.com
+url-parts:
+    scheme: http
+    host: www.popsci.com
+    path: /technology/article/2010-12/voyager-1-arrives-outward-reaches-solar-wind-prepares-interstellar-space
+
 ---
 
 The Heliosphere, Annotated  NASA/JPLIt is the furthest-flung manmade object ever

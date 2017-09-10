@@ -6,7 +6,11 @@ hash: 1405df119e612f3e6ce01ffb9b7d615d
 annum:
     year: 2016
     month: 08
-hostname: www.catehuston.com
+url-parts:
+    scheme: http
+    host: www.catehuston.com
+    path: /blog/2014/07/28/the-day-i-leave-the-tech-industry/
+
 ---
 
 Credit: Flickr / Fred Seibert I know that this will happen, that one day I will have had enough, and I will leave. It

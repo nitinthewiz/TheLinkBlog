@@ -6,7 +6,11 @@ hash: a597084dfea2a93b2523beb4378c3a36
 annum:
     year: 2009
     month: 11
-hostname: www.mcsweeneys.net
+url-parts:
+    scheme: http
+    host: www.mcsweeneys.net
+    path: /articles/imagining-u2s-next-stage
+
 ---
 
 In celebration of getting U2 tickets for next summer, I'm sharing this humorous read

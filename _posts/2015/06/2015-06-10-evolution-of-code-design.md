@@ -6,7 +6,11 @@ hash: da076f5aeb067e6e5764809b6bb23cb5
 annum:
     year: 2015
     month: 06
-hostname: www.infoq.com
+url-parts:
+    scheme: http
+    host: www.infoq.com
+    path: /presentations/Evolution-of-Code-Design-at-Facebook
+
 ---
 
 

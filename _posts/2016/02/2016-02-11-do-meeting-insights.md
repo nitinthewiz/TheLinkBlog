@@ -6,7 +6,11 @@ hash: ec25bb90ead041ee9465a4f0bf3f7bd2
 annum:
     year: 2016
     month: 02
-hostname: do.com
+url-parts:
+    scheme: https
+    host: do.com
+    path: /insights/personal
+
 ---
 
 Weekly Meeting insights for You Know how you are spending time. The summary tells you about hours and energy you're spending in meetings, along with personalized advice on how to be more productive.

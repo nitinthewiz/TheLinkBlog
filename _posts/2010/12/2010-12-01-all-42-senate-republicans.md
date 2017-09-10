@@ -6,7 +6,11 @@ hash: 5274976f12d3a1dedf3c71bce6985da9
 annum:
     year: 2010
     month: 12
-hostname: www.washingtonmonthly.com
+url-parts:
+    scheme: http
+    host: www.washingtonmonthly.com
+    path: /archives/individual/2010_12/026869.php
+
 ---
 
 Wow.

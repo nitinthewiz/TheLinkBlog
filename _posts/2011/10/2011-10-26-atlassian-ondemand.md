@@ -6,7 +6,11 @@ hash: e2ed0d8d468b93bf6893e0cee4179f66
 annum:
     year: 2011
     month: 10
-hostname: www.atlassian.com
+url-parts:
+    scheme: http
+    host: www.atlassian.com
+    path: /software/ondemand/overview
+
 ---
 
 Here's the full scoop on @atlasian 's move to the cloud with OnDemand  #Jira

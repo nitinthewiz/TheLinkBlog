@@ -6,7 +6,11 @@ hash: 0f25d2cf91e3877cc02ee97526ba2725
 annum:
     year: 2012
     month: 01
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /plugins/front-end-upload/
+
 ---
 
 

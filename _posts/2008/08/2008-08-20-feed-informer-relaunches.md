@@ -6,7 +6,11 @@ hash: 12e5e9b28c34c99095896f1540acb5ec
 annum:
     year: 2008
     month: 08
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/feedinformer_relaunches_its_al.php
+
 ---
 
 

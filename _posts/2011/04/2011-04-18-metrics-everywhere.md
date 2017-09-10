@@ -6,7 +6,11 @@ hash: b8375add40e8b094d9188bb3bdb5681c
 annum:
     year: 2011
     month: 04
-hostname: codahale.com
+url-parts:
+    scheme: http
+    host: codahale.com
+    path: /codeconf-2011-04-09-metrics-metrics-everywhere.pdf
+
 ---
 
 Presentation on how Yammer creates metrics that matter.

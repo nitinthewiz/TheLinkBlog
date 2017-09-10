@@ -6,7 +6,11 @@ hash: f6dcac404822223e4246053266b59f73
 annum:
     year: 2017
     month: 03
-hostname: www.hyperledger.org
+url-parts:
+    scheme: https
+    host: www.hyperledger.org
+    path: /
+
 ---
 
 

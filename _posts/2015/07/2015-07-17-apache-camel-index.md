@@ -6,7 +6,11 @@ hash: c0f8779ff44ad3b014231fa4b700204d
 annum:
     year: 2015
     month: 07
-hostname: camel.apache.org
+url-parts:
+    scheme: http
+    host: camel.apache.org
+    path: /
+
 ---
 
 

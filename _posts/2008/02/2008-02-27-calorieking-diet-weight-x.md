@@ -6,7 +6,11 @@ hash: b7dc2e645fd6094715e761ea44d151be
 annum:
     year: 2008
     month: 02
-hostname: www.calorieking.com
+url-parts:
+    scheme: http
+    host: www.calorieking.com
+    path: /software/ckdietdiarymac.php
+
 ---
 
 The CalorieKing Nutrition and Exercise Manager for Mac OS X is a powerful food and exercise diary coupled with America's largest food database.

@@ -6,7 +6,11 @@ hash: 1c7d0a73f8a1c61896b1f893b8f7fcfb
 annum:
     year: 2012
     month: 06
-hostname: hivelogic.com
+url-parts:
+    scheme: http
+    host: hivelogic.com
+    path: /articles/how-to-record-a-podcast-with-people-in-multiple-locations/
+
 ---
 
 I record my audio. John records his audio. We talk to each other using Skype or iChat or the telephone (but it doesnt matter how we talk to each other because were not recording the actual conversation, just our own side). John then zips and uploads his audio which I then download and drop into a track in SoundStudio 3 (GarageBand would also work just fine).

@@ -6,7 +6,12 @@ hash: 22789b4a4bd9ae2753f78c3789592a16
 annum:
     year: 2009
     month: 10
-hostname: thebloggess.com
+url-parts:
+    scheme: http
+    host: thebloggess.com
+    path: /
+    query:
+        p: "4528"
 ---
 
 Conversation between me and twitter, who is kind of an asshole:

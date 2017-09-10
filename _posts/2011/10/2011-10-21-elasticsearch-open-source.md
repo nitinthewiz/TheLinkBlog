@@ -6,7 +6,11 @@ hash: 5384764a16fab767ebcbc17d87758a24
 annum:
     year: 2011
     month: 10
-hostname: www.elasticsearch.org
+url-parts:
+    scheme: http
+    host: www.elasticsearch.org
+    path: /
+
 ---
 
 ElasticSearch looks awesome! Real-time, schema-less search with a REST API. Someone should write a Heroku addon for it. 

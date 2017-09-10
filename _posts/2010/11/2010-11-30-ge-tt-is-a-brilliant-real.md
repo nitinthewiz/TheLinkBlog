@@ -6,7 +6,11 @@ hash: 5bf5f5538dbb1effc6ddc858b1e3fdb8
 annum:
     year: 2010
     month: 11
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5701666/gett-is-a-brilliant-real%2Btime-file%2Bsharing-pipe-no-add%2Bons-required
+
 ---
 
 Handy tool.

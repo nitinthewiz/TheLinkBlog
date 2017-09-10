@@ -6,7 +6,11 @@ hash: 4e9615584c8d9376acf235bc71bfe3f8
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/11/30/winerlinksAndOutliners.html
+
 ---
 
 

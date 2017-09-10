@@ -6,7 +6,11 @@ hash: 870eb981f27c094c17efa48fa3b731a7
 annum:
     year: 2011
     month: 02
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/02/noteslate
+
 ---
 
 

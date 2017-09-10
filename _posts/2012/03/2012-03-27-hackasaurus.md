@@ -6,7 +6,11 @@ hash: 77f7fb6065b4d0a6338a66ef0ead99aa
 annum:
     year: 2012
     month: 03
-hostname: goggles.webmaker.org
+url-parts:
+    scheme: https
+    host: goggles.webmaker.org
+    path: /en-US/goggles/
+
 ---
 
 Great to see Mozilla continuing to push open efforts like this.

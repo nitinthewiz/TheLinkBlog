@@ -6,7 +6,11 @@ hash: 73d41bc45493574e6ffff4dfc408a3d3
 annum:
     year: 2007
     month: 01
-hostname: arsecandle.org
+url-parts:
+    scheme: http
+    host: arsecandle.org
+    path: /twadget/
+
 ---
 
 

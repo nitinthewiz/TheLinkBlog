@@ -6,7 +6,11 @@ hash: 57238ecd3a77581d74cb460121bfae98
 annum:
     year: 2009
     month: 03
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /americas-cio-vivek-kundra-must-go-2009-3
+
 ---
 
 Comments

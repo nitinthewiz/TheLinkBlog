@@ -6,7 +6,11 @@ hash: 70925a428b62295db74cf7d073d62d8b
 annum:
     year: 2013
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2013/04/26/wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can-you/
+
 ---
 
 The Wikimedia Foundations first major new project in 7 years is now feeding the biggest project in that stable, Wikipedia itself. But anyone can take structured data from Wikidata, due to its open license.

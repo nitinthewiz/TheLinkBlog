@@ -6,7 +6,11 @@ hash: 190e78745b136daa65d5243a3c0ac7ee
 annum:
     year: 2008
     month: 02
-hostname: www.technologytattoo.com
+url-parts:
+    scheme: http
+    host: www.technologytattoo.com
+    path: /
+
 ---
 
 

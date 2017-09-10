@@ -6,7 +6,11 @@ hash: 6a759cedfdb301c9eff898480b205796
 annum:
     year: 2013
     month: 05
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/omnipresence-document-syncing-ships-this-week
+
 ---
 
 I like that this can run on my own server. May be my replacement for Dropbox.

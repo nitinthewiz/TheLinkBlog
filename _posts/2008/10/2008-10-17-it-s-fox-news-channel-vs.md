@@ -6,7 +6,11 @@ hash: 976979332f3cc7d5d8f15455fd2d7e92
 annum:
     year: 2008
     month: 10
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2008/10/16/632959/-It-s-FOX-News-Channel-vs-The-Middle-Class
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: ecf6db98b6bbaf1f1ce5436adb8cb0c7
 annum:
     year: 2009
     month: 10
-hostname: bits.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: bits.blogs.nytimes.com
+    path: /2009/10/12/the-webs-inventor-regrets-one-small-thing/
+    query:
+        ref: "technology"
 ---
 
 Steve Lohr, interviewing Tim Berners-Lee:

@@ -6,7 +6,11 @@ hash: c87018d4d0616c394e5b2be57cf8beba
 annum:
     year: 2015
     month: 09
-hostname: www.bbc.com
+url-parts:
+    scheme: http
+    host: www.bbc.com
+    path: /future/story/20150402-the-worst-place-on-earth
+
 ---
 
 

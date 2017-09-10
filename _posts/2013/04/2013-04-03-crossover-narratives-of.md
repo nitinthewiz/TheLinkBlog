@@ -6,7 +6,11 @@ hash: 97c8c717092b7fe9d21d02b262650278
 annum:
     year: 2013
     month: 04
-hostname: ir.uiowa.edu
+url-parts:
+    scheme: http
+    host: ir.uiowa.edu
+    path: /etd/2904/
+
 ---
 
 Our friend Eric's dissertation. Interesting topic.

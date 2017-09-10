@@ -6,7 +6,11 @@ hash: bb9db2864c00d805cf8c4218ad4550b2
 annum:
     year: 2012
     month: 04
-hostname: inventwithpython.com
+url-parts:
+    scheme: http
+    host: inventwithpython.com
+    path: /blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/
+
 ---
 
 This tutorial is short. To figure out bugs in your code, you might put in print statements/print() calls to display the value of variables. Dont do this. Use the Python logging module.

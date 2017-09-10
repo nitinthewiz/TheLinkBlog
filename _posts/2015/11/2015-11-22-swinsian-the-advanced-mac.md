@@ -6,7 +6,11 @@ hash: 3ffc33f6c720bac0a886bf4838f4a4b9
 annum:
     year: 2015
     month: 11
-hostname: swinsian.com
+url-parts:
+    scheme: http
+    host: swinsian.com
+    path: /
+
 ---
 
 Swinsian is a sophisticated music player for Mac OS X with wide format support, folder watching and advanced tag editing and designed to be responsive even with the largest libraries.

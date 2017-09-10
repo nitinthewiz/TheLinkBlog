@@ -6,7 +6,11 @@ hash: f40b2fa9e7761ad7cd47ee277b79dbe8
 annum:
     year: 2017
     month: 05
-hostname: www.usingomnifocus.com
+url-parts:
+    scheme: http
+    host: www.usingomnifocus.com
+    path: /2017/05/on-time-blocking/
+
 ---
 
 

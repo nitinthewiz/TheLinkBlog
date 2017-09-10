@@ -6,7 +6,11 @@ hash: ba00fab08d8ec00432c647998221ee99
 annum:
     year: 2011
     month: 02
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /tech-policy/2011/02/black-ops-how-hbgary-wrote-backdoors-and-rootkits-for-the-government/
+
 ---
 
 

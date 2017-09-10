@@ -6,7 +6,12 @@ hash: 1a8f6aa5022f9e3aeaa407e6e99604db
 annum:
     year: 2011
     month: 08
-hostname: twopcharts.com
+url-parts:
+    scheme: http
+    host: twopcharts.com
+    path: /howlongontwitter
+    query:
+        user: "thingles"
 ---
 
 Jamie Thingelstad has been on Twitter longer than 99.98% of all other Twitter users.

@@ -6,7 +6,12 @@ hash: 1d2a7a3518499226af432a8a2868da5e
 annum:
     year: 2011
     month: 09
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/09/04/opinion/sunday/jobs-will-follow-a-strengthening-of-the-middle-class.html
+    query:
+        pagewanted: "all"
 ---
 
 Look back over the last hundred years and you’ll see the

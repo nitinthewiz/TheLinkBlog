@@ -6,7 +6,11 @@ hash: 0329dc2de843ba22d55172f5f3427060
 annum:
     year: 2016
     month: 08
-hostname: githubengineering.com
+url-parts:
+    scheme: http
+    host: githubengineering.com
+    path: /gh-ost-github-s-online-migration-tool-for-mysql/
+
 ---
 
 gh-ost has been developed at GitHub in recent months to answer a problem we faced with ongoing, continuous production changes requiring modifications to MySQL tables. gh-ost changes the existing online table migration paradigm by providing a low impact, controllable, auditable, operations friendly solution.

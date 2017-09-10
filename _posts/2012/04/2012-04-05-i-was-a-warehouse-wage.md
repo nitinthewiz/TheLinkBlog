@@ -6,7 +6,11 @@ hash: 8168c85fb6517140f1c854ef7a219cba
 annum:
     year: 2012
     month: 04
-hostname: www.motherjones.com
+url-parts:
+    scheme: http
+    host: www.motherjones.com
+    path: /politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor
+
 ---
 
 This is a really compelling article that makes me think twice about what is behind all the commerce sites online.

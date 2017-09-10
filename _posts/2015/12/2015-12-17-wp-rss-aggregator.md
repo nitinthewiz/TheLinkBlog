@@ -6,7 +6,11 @@ hash: e1f657a9acc5a6220f8107764379c72b
 annum:
     year: 2015
     month: 12
-hostname: www.wprssaggregator.com
+url-parts:
+    scheme: http
+    host: www.wprssaggregator.com
+    path: /
+
 ---
 
 WP RSS Aggregator lets you create a feed reader/aggregator on your WordPress site.

@@ -6,7 +6,12 @@ hash: 698e834d2c1178ddb847ee63475eccc1
 annum:
     year: 2011
     month: 01
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /business/112734159.html
+    query:
+        elr: "KArksLckD8EQDUoaEyqyP4O:DW3ckUiD3aPc:_Yyc:aUvDEhiaE3miUsZ"
 ---
 
 

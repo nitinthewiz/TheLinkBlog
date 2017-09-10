@@ -6,7 +6,11 @@ hash: 667f02967166f63591d776ffc86d51ec
 annum:
     year: 2011
     month: 08
-hostname: www.startuplessonslearned.com
+url-parts:
+    scheme: http
+    host: www.startuplessonslearned.com
+    path: /2011/08/winter-is-coming.html
+
 ---
 
 Lessons Learned: Winter is coming: 

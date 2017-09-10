@@ -6,7 +6,11 @@ hash: 9d521e3f0f4154f2d13d4b626ea6adb3
 annum:
     year: 2012
     month: 02
-hostname: gilesbowkett.blogspot.com
+url-parts:
+    scheme: http
+    host: gilesbowkett.blogspot.com
+    path: /
+
 ---
 
 

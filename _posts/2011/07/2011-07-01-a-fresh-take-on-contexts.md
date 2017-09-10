@@ -6,7 +6,11 @@ hash: 6cf22b1cf6eb26fb6b8db27835d14f7e
 annum:
     year: 2011
     month: 07
-hostname: simplicityisbliss.com
+url-parts:
+    scheme: http
+    host: simplicityisbliss.com
+    path: /2011/06/30/a-fresh-take-on-contexts/
+
 ---
 
 

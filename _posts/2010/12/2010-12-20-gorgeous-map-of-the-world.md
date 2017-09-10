@@ -6,7 +6,13 @@ hash: 36d9480a49dc9720f336d17e305dd48a
 annum:
     year: 2010
     month: 12
-hostname: www.facebook.com
+url-parts:
+    scheme: https
+    host: www.facebook.com
+    path: /note.php
+    query:
+        note_id: "469716398919"
+        id: "9445547199"
 ---
 
 

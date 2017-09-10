@@ -6,7 +6,11 @@ hash: b111ed0ea3137c717f5ec31dce80ede4
 annum:
     year: 2012
     month: 04
-hostname: dealbook.nytimes.com
+url-parts:
+    scheme: http
+    host: dealbook.nytimes.com
+    path: /2012/04/09/facebook-buys-instagram-for-1-billion/
+
 ---
 
 Of course.

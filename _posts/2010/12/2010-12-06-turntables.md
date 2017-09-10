@@ -6,7 +6,11 @@ hash: 2510142fd478975570b5159c40d7a6ca
 annum:
     year: 2010
     month: 12
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2010/12/06/turntables/
+
 ---
 
 

@@ -6,7 +6,13 @@ hash: b46496b860b049ce41bc9124d8709881
 annum:
     year: 2005
     month: 12
-hostname: www.batteryjunction.com
+url-parts:
+    scheme: http
+    host: www.batteryjunction.com
+    path: /index.asp
+    query:
+        PageAction: "VIEWPROD"
+        ProdID: "994"
 ---
 
 

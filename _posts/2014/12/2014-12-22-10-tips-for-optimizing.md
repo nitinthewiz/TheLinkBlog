@@ -6,7 +6,11 @@ hash: 50965c8f9cf9b5ebaf24143bfd41582f
 annum:
     year: 2014
     month: 12
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2014/4/30/10-tips-for-optimizing-nginx-and-php-fpm-for-high-traffic-si.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: da9c5f4c5818aa3c8f90ba81c6eb7be9
 annum:
     year: 2016
     month: 07
-hostname: www.appleworld.today
+url-parts:
+    scheme: http
+    host: www.appleworld.today
+    path: /blog/2016/7/5/how-to-set-up-relationships-using-siri-on-your-ios-device
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9da36b664d2889117ec06029cfabc88e
 annum:
     year: 2009
     month: 10
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/stories/2009/10/26/daily27.html
+
 ---
 
 Cargill Inc. on Wednesday said it donated $58.2 million this year to charitable causes, a 24 percent increase from the previous year.

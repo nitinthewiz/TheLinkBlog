@@ -6,7 +6,11 @@ hash: 43bfedaeeebf5af04fdcf7bda11bc892
 annum:
     year: 2010
     month: 10
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /post/553380723/episode-0-2-2-sammy-js-with-aaron-quint
+
 ---
 
 

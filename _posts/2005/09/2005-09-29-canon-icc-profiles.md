@@ -6,7 +6,11 @@ hash: 20065c992363e3a4f83b25c7fd8c868f
 annum:
     year: 2005
     month: 09
-hostname: www.wandb.com
+url-parts:
+    scheme: http
+    host: www.wandb.com
+    path: /icc.htm
+
 ---
 
 Variety of ICC profiles for different photo paper and Canon printers.

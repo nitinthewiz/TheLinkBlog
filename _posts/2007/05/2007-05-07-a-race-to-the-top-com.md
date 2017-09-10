@@ -6,7 +6,11 @@ hash: 181ef50f90c603f23f93546c75ea0a74
 annum:
     year: 2007
     month: 05
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /node/9116969
+
 ---
 
 Why Rupert Murdoch would make a decent owner of the Wall Street Journal

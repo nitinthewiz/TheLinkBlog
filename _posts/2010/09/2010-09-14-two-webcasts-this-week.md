@@ -6,7 +6,11 @@ hash: 1d41c3594e9a2026ebd3d9f460823cad
 annum:
     year: 2010
     month: 09
-hostname: www.opscode.com
+url-parts:
+    scheme: http
+    host: www.opscode.com
+    path: /blog/2010/09/13/two-webcasts-this-week-get-you-cooking-with-chef/
+
 ---
 
 Signing up! “@opscode: Two webcasts this week get you cooking with Chef! -  #chef #opscode #devops”

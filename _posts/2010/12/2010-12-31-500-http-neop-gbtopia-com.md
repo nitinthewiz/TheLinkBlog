@@ -6,7 +6,12 @@ hash: 5a22ec7cdf9e9f2c3d13ae2eff7f6e0d
 annum:
     year: 2010
     month: 12
-hostname: neop.gbtopia.com
+url-parts:
+    scheme: http
+    host: neop.gbtopia.com
+    path: /
+    query:
+        p: "108"
 ---
 
 New version of Postalicious has Pinboard support: 

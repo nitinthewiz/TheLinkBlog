@@ -6,7 +6,11 @@ hash: 526ba370f5e5d72e40fadb7ff75ac695
 annum:
     year: 2011
     month: 05
-hostname: philip.greenspun.com
+url-parts:
+    scheme: http
+    host: philip.greenspun.com
+    path: /wireless/playbook
+
 ---
 
 Not useful as a computer; too light to serve as a doorstop.

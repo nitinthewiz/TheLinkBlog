@@ -6,7 +6,11 @@ hash: 35bdd0a14c28005f94aa341eac31d83c
 annum:
     year: 2011
     month: 07
-hostname: www.ascii-art.de
+url-parts:
+    scheme: http
+    host: www.ascii-art.de
+    path: /ascii/
+
 ---
 
 This is the main and name-giving part of this website: my collection of Ascii Art pictures by various artists.

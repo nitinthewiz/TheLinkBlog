@@ -6,7 +6,13 @@ hash: 27f08bea5b760cba6148c28d0782fab2
 annum:
     year: 2014
     month: 11
-hostname: www.kare11.com
+url-parts:
+    scheme: http
+    host: www.kare11.com
+    path: /video/default.aspx
+    query:
+        bctid: "1281860035001"
+        odyssey: "mod|newswell|text|FRONTPAGE|featured"
 ---
 
 We were on TV! 

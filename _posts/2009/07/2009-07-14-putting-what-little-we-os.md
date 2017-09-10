@@ -6,7 +6,11 @@ hash: f55af197d0063dcedd952801470c8b13
 annum:
     year: 2009
     month: 07
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2009/07/chrome_os_context
+
 ---
 
 It has seemed obvious for some time that Google would someday release a PC OS. I became convinced after they released Android: if they’re creating and giving away a free OS for phones, why not PCs, too? But I expected that Google’s eventual PC OS was going to be an expanded meant-for-a-bigger-screen version of Android — sort of the inverse of what Apple did for the iPhone. Apple took a PC OS and whittled it down to a fundamental core, then built new handheld-specific UI libraries and APIs on top. The hypothetical PC version of Android I’m imagining would have entailed1 taking the core of the mobile Android OS and creating new meant-for-a-PC libraries and APIs on top.

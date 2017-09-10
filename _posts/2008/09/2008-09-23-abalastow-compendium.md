@@ -6,7 +6,14 @@ hash: 3a59bf620f5ed75ca01f08d29c394eff
 annum:
     year: 2008
     month: 09
-hostname: www.google.com
+url-parts:
+    scheme: http
+    host: www.google.com
+    path: /search
+    query:
+        hl: "en"
+        q: "Abalastow Compendium"
+        btnG: "Search"
 ---
 
 Doing pretty good in @dcgrigsby's SEO test. 2nd only to umn.edu URL. 

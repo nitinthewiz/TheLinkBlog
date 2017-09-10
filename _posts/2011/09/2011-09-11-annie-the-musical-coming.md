@@ -6,7 +6,11 @@ hash: 0a71d90468cc6c1bbcf6f44509f9f6cd
 annum:
     year: 2011
     month: 09
-hostname: www.anniethemusical.com
+url-parts:
+    scheme: http
+    host: www.anniethemusical.com
+    path: /
+
 ---
 
 

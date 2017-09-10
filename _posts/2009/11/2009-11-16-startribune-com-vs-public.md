@@ -6,7 +6,11 @@ hash: 68ff060e2eeb162790583722838a9286
 annum:
     year: 2009
     month: 11
-hostname: www.thedeets.com
+url-parts:
+    scheme: http
+    host: www.thedeets.com
+    path: /2009/11/16/startribune-com-vs-minnesota-public-radios-website/
+
 ---
 
 The StarTribune smeared a story about Minnesota Public Radio over 4 auto-refreshing pages on Sunday night that included stats comparing the number of page views and unique visitors of minnesota.publicradio.org, startribune.com, and minnpost.com. 

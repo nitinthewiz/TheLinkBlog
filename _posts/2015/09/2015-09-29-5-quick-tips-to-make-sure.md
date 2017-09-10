@@ -6,7 +6,11 @@ hash: 189d59648498f47632414baebe72898f
 annum:
     year: 2015
     month: 09
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2015/9/5-quick-tips-to-make-sure-your-presentation-doesnt-suck
+
 ---
 
 I recently was asked to give a presentation on how to make a presentation. I tried to keep it simple and came down to these five points:1. Never Turn Your Back to the AudienceIt can be scary standing&hellip;

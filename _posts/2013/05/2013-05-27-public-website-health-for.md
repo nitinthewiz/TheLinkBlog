@@ -6,7 +6,11 @@ hash: 430a56584c718fd9e674d7392c80ad31
 annum:
     year: 2013
     month: 05
-hostname: status.wikimedia.org
+url-parts:
+    scheme: http
+    host: status.wikimedia.org
+    path: /
+
 ---
 
 Performance and availability for Wikimedia Foundation services.

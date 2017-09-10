@@ -6,7 +6,11 @@ hash: a84306efb012d1fa0889f912f0a0e526
 annum:
     year: 2015
     month: 04
-hostname: www.talkingquickly.co.uk
+url-parts:
+    scheme: http
+    host: www.talkingquickly.co.uk
+    path: /2015/04/what-id-tell-myself-about-startups/
+
 ---
 
 Blog by Ben Dixon, Ruby on Rails Developer, about rails, devops, docker, climbing and startups

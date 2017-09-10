@@ -6,7 +6,11 @@ hash: b1e4b3ef72a3565defcd2bbc0aec1332
 annum:
     year: 2011
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/05/26/senator-al-franken-asks-ios-developers-to-provide-clear-and-und/
+
 ---
 
 Following up on requests he made to Apple and Google in his hearing on mobile privacy earlier this month, US Senator Al Franken wrote a letter to the companies' respective CEOs asking them to require all software sold through the App Store and Android App Market to provide consumers with "clear and understandable privacy policies."

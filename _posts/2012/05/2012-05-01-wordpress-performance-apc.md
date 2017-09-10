@@ -6,7 +6,11 @@ hash: bdde7f182c5ed4873125b13df44d9d57
 annum:
     year: 2012
     month: 05
-hostname: www.garron.me
+url-parts:
+    scheme: http
+    host: www.garron.me
+    path: /en/linux/apache-vs-nginx-php-fpm-varnish-apc-wordpress-performance.html
+
 ---
 
 I like to try to squeeze every drop of power from a server before upgrading it. Usually this is achievable tweaking configuration of the server.

@@ -6,7 +6,11 @@ hash: 8bf6f82c82ca69f516e620eb33dd7695
 annum:
     year: 2011
     month: 05
-hostname: blog.jazzychad.net
+url-parts:
+    scheme: http
+    host: blog.jazzychad.net
+    path: /2011/05/02/startups-are-hard.html
+
 ---
 
 

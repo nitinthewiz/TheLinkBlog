@@ -6,7 +6,11 @@ hash: eeacbda62aefb6506a4e1948c74715f9
 annum:
     year: 2012
     month: 02
-hostname: doeswhat.com
+url-parts:
+    scheme: http
+    host: doeswhat.com
+    path: /2012/02/06/interview-with-leah-culver-grove-io/
+
 ---
 
 Grove.io is a service that provides private hosted IRC, plus more, for as little as $10/month. I interviewed Leah Culver, Grove.io founder to find out more. This interview is the forty seventh in a series of DW interviews. Big thank you to Leah for the interview!

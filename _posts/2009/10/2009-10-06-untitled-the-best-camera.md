@@ -6,7 +6,11 @@ hash: 18b1e84083d3ffbdfb6b4acd762c8e04
 annum:
     year: 2009
     month: 10
-hostname: thebestcamera.com
+url-parts:
+    scheme: http
+    host: thebestcamera.com
+    path: /M4P
+
 ---
 
  Fireplace at Trillium Cottage in WI.

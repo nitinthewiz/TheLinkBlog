@@ -6,7 +6,11 @@ hash: dfa42f58721c2f13a2eb3f562abebac4
 annum:
     year: 2007
     month: 06
-hostname: slashdot.org
+url-parts:
+    scheme: http
+    host: slashdot.org
+    path: /articles/06/10/30/0329258.shtml
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f59af7b3585020e892b057a65d1a3c3e
 annum:
     year: 2017
     month: 02
-hostname: www.myurbancycle.com
+url-parts:
+    scheme: http
+    host: www.myurbancycle.com
+    path: /
+
 ---
 
 Urban Cycle is a cycle and fitness training studio based in South Minneapolis, MN founded by Joshua Segal. Our emphasis is on a holistic approach to health through proper movement, healthy eating, mental wellbeing, and chiropractic care. 

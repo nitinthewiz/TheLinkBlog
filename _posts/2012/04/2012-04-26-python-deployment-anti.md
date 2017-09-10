@@ -6,7 +6,11 @@ hash: 4e94863d355fbe320696d84865853a6f
 annum:
     year: 2012
     month: 04
-hostname: hynek.me
+url-parts:
+    scheme: https
+    host: hynek.me
+    path: /articles/python-deployment-anti-patterns/
+
 ---
 
 

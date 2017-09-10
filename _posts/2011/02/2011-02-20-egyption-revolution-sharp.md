@@ -6,7 +6,11 @@ hash: c1d57dcc2157644f47f29280ace93e90
 annum:
     year: 2011
     month: 02
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /20015417
+
 ---
 
 Amazing footage from Egypt by Duncan Sharp of SkyNews 

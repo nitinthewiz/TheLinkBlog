@@ -6,7 +6,11 @@ hash: 39f3d2a302eb21da00c57a56a8a21977
 annum:
     year: 2008
     month: 03
-hostname: www.cogmap.com
+url-parts:
+    scheme: http
+    host: www.cogmap.com
+    path: /blog/2008/03/26/cogmap-21-openid-support-newsfeeds-xml-apis/
+
 ---
 
 This evening we did another code release with several relatively minor but very cool additions:

@@ -6,7 +6,11 @@ hash: b86d498748bbc9653bdf9601bef7be5b
 annum:
     year: 2013
     month: 06
-hostname: allthingsd.com
+url-parts:
+    scheme: http
+    host: allthingsd.com
+    path: /20130603/zynga-to-lay-off-520-employees-18-percent-of-staff-and-shutter-new-york-and-la-offices/
+
 ---
 
 Just keeps getting worse.

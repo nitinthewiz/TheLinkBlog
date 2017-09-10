@@ -6,7 +6,11 @@ hash: d8f0f98151e772c020dbbaa60106f0ae
 annum:
     year: 2012
     month: 10
-hostname: www.limesurvey.org
+url-parts:
+    scheme: http
+    host: www.limesurvey.org
+    path: /
+
 ---
 
 LimeSurvey basically contains everything you need for doing nearly every survey with grace.

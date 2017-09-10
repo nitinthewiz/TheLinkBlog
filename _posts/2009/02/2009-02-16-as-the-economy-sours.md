@@ -6,7 +6,11 @@ hash: ed7b07375132fbfd4ab63d268659ed94
 annum:
     year: 2009
     month: 02
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/02/14/as-the-economy-sours-linkedins-popularity-grows/
+
 ---
 
 

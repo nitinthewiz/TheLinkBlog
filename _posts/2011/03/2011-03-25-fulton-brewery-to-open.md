@@ -6,7 +6,11 @@ hash: 083c20a8358b5872e5f5ab1090127631
 annum:
     year: 2011
     month: 03
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/morning_roundup/2011/03/fulton-brewery-to-open-near-target-field.html
+
 ---
 
 Great, local beer.

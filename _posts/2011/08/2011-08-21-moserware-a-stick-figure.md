@@ -6,7 +6,11 @@ hash: dc2eeb9a43dd0035f5d16b4999e020ce
 annum:
     year: 2011
     month: 08
-hostname: www.moserware.com
+url-parts:
+    scheme: http
+    host: www.moserware.com
+    path: /2009/09/stick-figure-guide-to-advanced.html
+
 ---
 
 

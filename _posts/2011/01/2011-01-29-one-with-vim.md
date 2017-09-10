@@ -6,7 +6,11 @@ hash: 1de0f68e9f6018ffec8a7586f0e7589d
 annum:
     year: 2011
     month: 01
-hostname: invisibletheory.com
+url-parts:
+    scheme: http
+    host: invisibletheory.com
+    path: /2011/01/27/one-with-vim/
+
 ---
 
 

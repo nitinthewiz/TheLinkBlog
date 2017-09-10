@@ -6,7 +6,11 @@ hash: fba3acc5a6c2575b5a54f57f964523ea
 annum:
     year: 2011
     month: 08
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /features/dornquast082411.aspx
+
 ---
 
 

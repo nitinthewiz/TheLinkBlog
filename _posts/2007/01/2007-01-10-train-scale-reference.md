@@ -6,7 +6,11 @@ hash: 8e0393f1174086586ae85c9ef64a95a3
 annum:
     year: 2007
     month: 01
-hostname: www.walthers.com
+url-parts:
+    scheme: http
+    host: www.walthers.com
+    path: /exec/page/set_scales
+
 ---
 
 

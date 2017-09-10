@@ -6,7 +6,11 @@ hash: 0afed1d681bb4e83e1ea4ec3f4a5f85d
 annum:
     year: 2006
     month: 01
-hostname: blog.devstone.com
+url-parts:
+    scheme: http
+    host: blog.devstone.com
+    path: /aaron/archive/2005/03/03/476.aspx
+
 ---
 
 .Text extension

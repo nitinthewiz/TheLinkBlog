@@ -6,7 +6,11 @@ hash: 6dbcc8536721045af1c90ba3b249aca6
 annum:
     year: 2007
     month: 05
-hostname: www.calcars.org
+url-parts:
+    scheme: http
+    host: www.calcars.org
+    path: /index.html
+
 ---
 
 CalCars is a non-profit startup formed by entrepreneurs, engineers, environmentalists and consumers. Our projects tackle national security, jobs and global warming -- at the same time.

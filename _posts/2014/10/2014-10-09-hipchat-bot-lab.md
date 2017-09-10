@@ -6,7 +6,11 @@ hash: ad07cfbd4d4331a46158a8df3f0070fe
 annum:
     year: 2014
     month: 10
-hostname: botlab.hipch.at
+url-parts:
+    scheme: http
+    host: botlab.hipch.at
+    path: /
+
 ---
 
 

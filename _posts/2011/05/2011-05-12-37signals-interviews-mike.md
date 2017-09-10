@@ -6,7 +6,11 @@ hash: c64e819b8896fc388a2eea2053a9e458
 annum:
     year: 2011
     month: 05
-hostname: 37signals.com
+url-parts:
+    scheme: http
+    host: 37signals.com
+    path: /svn/posts/2845-exit-interview-newsvines-mike-davidson
+
 ---
 
 

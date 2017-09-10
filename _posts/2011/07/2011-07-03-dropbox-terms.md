@@ -6,7 +6,11 @@ hash: 6de940373ec1ea7f8682e8c13ab3265a
 annum:
     year: 2011
     month: 07
-hostname: blog.agilebits.com
+url-parts:
+    scheme: http
+    host: blog.agilebits.com
+    path: /2011/07/dropbox-terms/
+
 ---
 
 

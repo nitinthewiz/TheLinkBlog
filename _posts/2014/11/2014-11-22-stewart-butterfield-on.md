@@ -6,7 +6,11 @@ hash: 0a4c1daf6369f7cee32d546e3ae36e3e
 annum:
     year: 2014
     month: 11
-hostname: www.technologyreview.com
+url-parts:
+    scheme: http
+    host: www.technologyreview.com
+    path: /news/532606/three-questions-with-slacks-ceo/
+
 ---
 
 

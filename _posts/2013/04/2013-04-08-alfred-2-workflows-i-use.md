@@ -6,7 +6,11 @@ hash: 6873fe91435738f231823fbf007a5fa9
 annum:
     year: 2013
     month: 04
-hostname: www.macdrifter.com
+url-parts:
+    scheme: http
+    host: www.macdrifter.com
+    path: /2013/04/alfred-2-workflows-i-use.html
+
 ---
 
 I'm slowly making the move from LaunchBar to Alfred 2. I've found a number of creative and highly useful workflows to smooth my transition.

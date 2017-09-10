@@ -6,7 +6,11 @@ hash: e3df5babf4f1091d444eae792b056382
 annum:
     year: 2015
     month: 01
-hostname: gitmsp.org
+url-parts:
+    scheme: http
+    host: gitmsp.org
+    path: /professional-spotlight-shivani-khanna/
+
 ---
 
 

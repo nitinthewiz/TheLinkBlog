@@ -6,7 +6,11 @@ hash: b37cb944ef3e25090a3908a81716c594
 annum:
     year: 2011
     month: 02
-hostname: www.toofishes.net
+url-parts:
+    scheme: http
+    host: www.toofishes.net
+    path: /blog/why-i-do-my-resume-latex/
+
 ---
 
 

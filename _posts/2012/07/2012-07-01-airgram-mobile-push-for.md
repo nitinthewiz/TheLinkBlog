@@ -6,7 +6,11 @@ hash: c2c71f0775e5c968ab1e0b8e6c89097f
 annum:
     year: 2012
     month: 07
-hostname: airgramapp.com
+url-parts:
+    scheme: http
+    host: airgramapp.com
+    path: /
+
 ---
 
 

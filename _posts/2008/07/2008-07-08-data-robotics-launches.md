@@ -6,7 +6,11 @@ hash: 19ee3affc22391e1b5f9de802e79b09a
 annum:
     year: 2008
     month: 07
-hostname: photoshopnews.com
+url-parts:
+    scheme: http
+    host: photoshopnews.com
+    path: /2008/07/08/data-robotics-launches-second-generation-drobo/
+
 ---
 
  

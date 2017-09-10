@@ -6,7 +6,11 @@ hash: 0fd5b1115c628da025cdac1537ea895e
 annum:
     year: 2011
     month: 07
-hostname: chipwillis.blogspot.com
+url-parts:
+    scheme: http
+    host: chipwillis.blogspot.com
+    path: /
+
 ---
 
 

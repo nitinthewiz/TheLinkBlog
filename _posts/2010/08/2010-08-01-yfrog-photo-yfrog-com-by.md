@@ -6,7 +6,11 @@ hash: b820012f15ad37e8ff2269ad66113c15
 annum:
     year: 2010
     month: 08
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /13lz9fj
+
 ---
 
 Cooking corn outside tonight, NOT on the grill. Thank you induction burner!  

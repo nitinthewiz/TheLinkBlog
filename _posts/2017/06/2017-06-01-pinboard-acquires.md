@@ -6,7 +6,11 @@ hash: 383f5c2a0501d723ac0da73c70fcdef4
 annum:
     year: 2017
     month: 06
-hostname: blog.pinboard.in
+url-parts:
+    scheme: https
+    host: blog.pinboard.in
+    path: /2017/06/pinboard_acquires_delicious/
+
 ---
 
 Pinboard has always been a scrappy little 1-person 'solopreneur' company. It’s founder has built a solid small business. Delicious was the first big website for bookmarks. It was, at various times, worth millions of dollars. Now Pinboard still stands, and is growing slowly but consistently. And Delicious is now owned by Pinboard. It all comes full circle.

@@ -6,7 +6,11 @@ hash: 821c9d16c2f64e3ef861b83e889b5b25
 annum:
     year: 2011
     month: 01
-hostname: soukie.net
+url-parts:
+    scheme: http
+    host: soukie.net
+    path: /degradable-html5-audio-and-video-plugin/
+
 ---
 
 

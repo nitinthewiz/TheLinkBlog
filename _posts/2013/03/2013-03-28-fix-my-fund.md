@@ -6,7 +6,11 @@ hash: fa4aedcfc6e0ee72c13f7ef15de7cf2c
 annum:
     year: 2013
     month: 03
-hostname: www.fixmyfund.com
+url-parts:
+    scheme: http
+    host: www.fixmyfund.com
+    path: /
+
 ---
 
 This site is to inform fund shareholders about activism efforts in closed-end funds and related securities. We will provide links to activism news, shareholder letters, proxy filings, and other material so that shareholders will have better access to information about highlighted companies they may own.

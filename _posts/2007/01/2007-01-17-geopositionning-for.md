@@ -6,7 +6,11 @@ hash: 5e58166c2fc7c41b60600e4248d793e8
 annum:
     year: 2007
     month: 01
-hostname: miracles.heaven.fr
+url-parts:
+    scheme: http
+    host: miracles.heaven.fr
+    path: /post_geoposition/
+
 ---
 
 this plugin allow to associate geographical coordinates to a post

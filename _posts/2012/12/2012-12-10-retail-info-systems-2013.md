@@ -6,7 +6,11 @@ hash: df29c190450e657f9b742dea37d2f66c
 annum:
     year: 2012
     month: 12
-hostname: risnews.edgl.com
+url-parts:
+    scheme: http
+    host: risnews.edgl.com
+    path: /retail-trends/2013-Review---Outlook83548
+
 ---
 
 In just one year, social commerce has pivoted its focus from e-commerce transactions on social networks to a new kind of social network in which users are connected by their interests (Interest Graphs) rather than friendships. User generated curation, or collections, is the basis for connecting everyone in the interest graph.

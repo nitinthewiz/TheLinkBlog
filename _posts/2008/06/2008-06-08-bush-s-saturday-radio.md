@@ -6,7 +6,11 @@ hash: 061627f4e5380bc1c11d9eb364f1f21b
 annum:
     year: 2008
     month: 06
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2008/06/07/531782/-Bush-s-Saturday-Radio-Address
+
 ---
 
 Congress will soon vote on legislation to fund our troops serving on the front lines of the war on terror.

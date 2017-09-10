@@ -6,7 +6,11 @@ hash: 82bceb536f3367c1894cb3651064d758
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /48in
+
 ---
 
 At the MN Thunder v. Burnley FC game! 

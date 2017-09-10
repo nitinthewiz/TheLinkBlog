@@ -6,7 +6,11 @@ hash: 538d563b038b43723deb69cb45409b1d
 annum:
     year: 2008
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/11/24/handbrake-0-9-3-adds-universal-input/
+
 ---
 
 Filed under: Video, Open Source

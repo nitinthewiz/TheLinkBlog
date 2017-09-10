@@ -6,7 +6,11 @@ hash: a3ab7dafd8b19ba4720d508d4758a88e
 annum:
     year: 2017
     month: 04
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: https
+    host: mobile.nytimes.com
+    path: /2017/04/15/business/retail-industry.html
+
 ---
 
 

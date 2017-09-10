@@ -6,7 +6,11 @@ hash: ccb44b04cf39c4e65aa14bcb7cbfe23c
 annum:
     year: 2010
     month: 08
-hostname: audio.sxsw.com
+url-parts:
+    scheme: http
+    host: audio.sxsw.com
+    path: /2010/podcasts/031410i_OnlineAdvertisingLosingtheRacetotheBottom.mp3
+
 ---
 
 Worth a re-link: hour-long MP3 audio of yours truly and Jim Coudal speaking at SXSW earlier this year.

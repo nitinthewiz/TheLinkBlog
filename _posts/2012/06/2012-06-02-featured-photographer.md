@@ -6,7 +6,11 @@ hash: f5e97e9dea6898471070c5a6f44fe03c
 annum:
     year: 2012
     month: 06
-hostname: www.birdwatchingdaily.com
+url-parts:
+    scheme: http
+    host: www.birdwatchingdaily.com
+    path: /en/Online%20Extras/Featured%20Photographer/2012/06/Layne%20Kennedy.aspx
+
 ---
 
 Nice excerpt of some of Layne's photos in BirdWatching magazine.

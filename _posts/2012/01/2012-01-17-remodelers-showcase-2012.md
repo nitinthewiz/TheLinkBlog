@@ -6,7 +6,12 @@ hash: bceccfc3f8c323b3cc34a7d69a446b9a
 annum:
     year: 2012
     month: 01
-hostname: www.quartersawndesignbuild.com
+url-parts:
+    scheme: http
+    host: www.quartersawndesignbuild.com
+    path: /whatnot/
+    query:
+        p: "998"
 ---
 
 Remodelers Showcase: Spring 2012 Preview

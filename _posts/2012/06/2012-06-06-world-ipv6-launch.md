@@ -6,7 +6,11 @@ hash: 445946ed4ae8e372e1721793d8a99cf0
 annum:
     year: 2012
     month: 06
-hostname: www.worldipv6launch.org
+url-parts:
+    scheme: http
+    host: www.worldipv6launch.org
+    path: /
+
 ---
 
 All of my websites are already IPv6 ready. Sadly, I can't confirm that 100% since none of my common Internet access points are IPv6 capable.

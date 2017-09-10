@@ -6,7 +6,11 @@ hash: 4bdea4641076aa7a5a2a3e835694aaaa
 annum:
     year: 2016
     month: 06
-hostname: typesetinthefuture.com
+url-parts:
+    scheme: https
+    host: typesetinthefuture.com
+    path: /2016/06/19/bladerunner/
+
 ---
 
 After studying Alien in intimate detail, it

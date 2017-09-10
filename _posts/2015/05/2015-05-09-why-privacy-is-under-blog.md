@@ -6,7 +6,11 @@ hash: 4cc809186428954ce49b15518223456b
 annum:
     year: 2015
     month: 05
-hostname: blog.protonmail.ch
+url-parts:
+    scheme: https
+    host: blog.protonmail.ch
+    path: /privacy-under-attack/
+
 ---
 
 

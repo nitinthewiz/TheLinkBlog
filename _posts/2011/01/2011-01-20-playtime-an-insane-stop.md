@@ -6,7 +6,11 @@ hash: 0d5546fdb6265e6a7e05ad9005c5de02
 annum:
     year: 2011
     month: 01
-hostname: blog.planet5d.com
+url-parts:
+    scheme: http
+    host: blog.planet5d.com
+    path: /2011/01/playtime-an-insane-stop-motion-and-live-action-canon-eos-5d-mark-ii-movie/
+
 ---
 
 

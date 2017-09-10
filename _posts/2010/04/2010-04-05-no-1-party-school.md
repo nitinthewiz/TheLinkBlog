@@ -6,7 +6,11 @@ hash: afc84db02ab4740dc8a717993f1e587b
 annum:
     year: 2010
     month: 04
-hostname: thisamericaninfographic.tumblr.com
+url-parts:
+    scheme: http
+    host: thisamericaninfographic.tumblr.com
+    path: /396-1-party-school/
+
 ---
 
 Thank goodness I found some time to do some more infographics! This is one of the episodes that first inspired me to start making graphics based on each program. This episode shows what This American Life is best out- telling some really great stories while relating it to the big picture, as well as including some great statistics.

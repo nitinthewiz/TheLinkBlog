@@ -6,7 +6,12 @@ hash: ae0a76cb2db8b47a6ddb83996b6f8b6f
 annum:
     year: 2017
     month: 05
-hostname: www.kickstarter.com
+url-parts:
+    scheme: https
+    host: www.kickstarter.com
+    path: /projects/871405126/1160007775
+    query:
+        token: "1f87b430"
 ---
 
 <blockquote>Build mechanical computers powered by marbles to solve logic puzzles. Escape planet Eniac and discover how computers "think".</blockquote> This isn't a live project yet but it sure looks cool! I’m hoping the author launches it! I’m looking forward to being a backer!

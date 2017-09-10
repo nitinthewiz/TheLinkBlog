@@ -6,7 +6,11 @@ hash: 083cfb23c445ca6e0de9db05d2dd49e3
 annum:
     year: 2017
     month: 03
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /guides/some-of-the-best-email-newsletters/
+
 ---
 
 

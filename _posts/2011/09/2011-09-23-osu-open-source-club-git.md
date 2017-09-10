@@ -6,7 +6,12 @@ hash: cd2648e0bbe772b2fedaecbeed8374ca
 annum:
     year: 2011
     month: 09
-hostname: opensource.cse.ohio-state.edu
+url-parts:
+    scheme: http
+    host: opensource.cse.ohio-state.edu
+    path: /git/yanovich/phenny.git/tree
+    query:
+        f: "modules"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 95ca28adc927be3a68686cd0618130b3
 annum:
     year: 2009
     month: 05
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/garricks-sxsw-2009-showcasing-artists-picks
+
 ---
 
 5 Stars

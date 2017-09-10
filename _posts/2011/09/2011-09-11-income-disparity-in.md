@@ -6,7 +6,12 @@ hash: f1c7805a3d2c0e17e42f5d47f84b420f
 annum:
     year: 2011
     month: 09
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /imagepages/2011/09/04/opinion/04reich-graphic.html
+    query:
+        ref: "sunday"
 ---
 
 Each one of these charts tells an entire story.

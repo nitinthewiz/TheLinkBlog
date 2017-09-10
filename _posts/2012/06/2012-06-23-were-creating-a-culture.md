@@ -6,7 +6,11 @@ hash: 2989b7b95ed432c7d12d6473b67597ec
 annum:
     year: 2012
     month: 06
-hostname: joekraus.com
+url-parts:
+    scheme: http
+    host: joekraus.com
+    path: /were-creating-a-culture-of-distraction
+
 ---
 
 

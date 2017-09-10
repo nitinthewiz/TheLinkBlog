@@ -6,7 +6,11 @@ hash: ef069c11cb9eb5552a952ef6a2b0e5d0
 annum:
     year: 2012
     month: 07
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:Semantic_Extra_Special_Properties
+
 ---
 
 The Semantic Extra Special Properties extension, when used with Semantic MediaWiki, adds some extra special properties to all content pages in the wiki.

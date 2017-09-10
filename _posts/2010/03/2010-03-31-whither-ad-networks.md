@@ -6,7 +6,11 @@ hash: 5c7a8e33191291c5f95e20d78404a303
 annum:
     year: 2010
     month: 03
-hostname: www.cogmap.com
+url-parts:
+    scheme: http
+    host: www.cogmap.com
+    path: /blog/2010/03/30/whither-ad-networks/
+
 ---
 
 http://www.flickr.com/photos/nickbilton/2709378784/

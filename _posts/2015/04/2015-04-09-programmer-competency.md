@@ -6,7 +6,11 @@ hash: 9074751ec26dd3c03ca089cb48283a2f
 annum:
     year: 2015
     month: 04
-hostname: sijinjoseph.com
+url-parts:
+    scheme: http
+    host: sijinjoseph.com
+    path: /programmer-competency-matrix/
+
 ---
 
 

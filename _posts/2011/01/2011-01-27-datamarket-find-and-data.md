@@ -6,7 +6,11 @@ hash: 04e582c89801ff1e2154272c5a3cdbff
 annum:
     year: 2011
     month: 01
-hostname: datamarket.com
+url-parts:
+    scheme: https
+    host: datamarket.com
+    path: /
+
 ---
 
 

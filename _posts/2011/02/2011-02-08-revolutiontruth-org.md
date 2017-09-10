@@ -6,7 +6,11 @@ hash: 9594b56449509a439d04d47de3f95a1c
 annum:
     year: 2011
     month: 02
-hostname: revolutiontruth.org
+url-parts:
+    scheme: http
+    host: revolutiontruth.org
+    path: /home
+
 ---
 
 

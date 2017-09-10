@@ -6,7 +6,11 @@ hash: d206a36c7888ed8b462d943638129793
 annum:
     year: 2013
     month: 05
-hostname: feedwrangler.net
+url-parts:
+    scheme: http
+    host: feedwrangler.net
+    path: /welcome.html
+
 ---
 
 Seriously considering this service. I've been using self-hosted Fever and it works well, but this looks positive and if given the choice I'd prefer to not have to host everything myself.

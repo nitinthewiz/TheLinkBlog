@@ -6,7 +6,11 @@ hash: 68b3299f8ee033cb10895bdef6a26c85
 annum:
     year: 2011
     month: 02
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/02/03/shouldWeTrustBillKeller.html
+
 ---
 
 

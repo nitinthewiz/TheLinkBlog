@@ -6,7 +6,11 @@ hash: 7fb4f563750bf1cdbb8a91e83e45d171
 annum:
     year: 2011
     month: 03
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:SemanticSignup
+
 ---
 
 

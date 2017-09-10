@@ -6,7 +6,11 @@ hash: 90ee87dba8c2c391de3c287c1f1ee584
 annum:
     year: 2011
     month: 08
-hostname: www.barracuda.com
+url-parts:
+    scheme: https
+    host: www.barracuda.com
+    path: /homepage
+
 ---
 
 

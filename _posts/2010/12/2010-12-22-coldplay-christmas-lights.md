@@ -6,7 +6,12 @@ hash: e5c9f676f14a1c9d1a8bb0153851611e
 annum:
     year: 2010
     month: 12
-hostname: www.coldplay.com
+url-parts:
+    scheme: http
+    host: www.coldplay.com
+    path: /newsdetail.php
+    query:
+        id: "688"
 ---
 
 

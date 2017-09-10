@@ -6,7 +6,12 @@ hash: b933c936b11cfd152827ea769b07f1ff
 annum:
     year: 2007
     month: 07
-hostname: www.npr.org
+url-parts:
+    scheme: http
+    host: www.npr.org
+    path: /templates/story/story.php
+    query:
+        storyId: "12205388"
 ---
 
 Members of the Senate Judiciary Committee on Tuesday pounded Attorney General Alberto Gonzales with questions on the firings of U.S. attorneys, secret domestic eavesdropping and other contentious issues.

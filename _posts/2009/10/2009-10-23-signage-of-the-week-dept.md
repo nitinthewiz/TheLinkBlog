@@ -6,7 +6,11 @@ hash: 789b91cc663344b0521851dca517484e
 annum:
     year: 2009
     month: 10
-hostname: www.dvorak.org
+url-parts:
+    scheme: http
+    host: www.dvorak.org
+    path: /blog/2009/10/22/signage-of-the-week-dept/
+
 ---
 
 

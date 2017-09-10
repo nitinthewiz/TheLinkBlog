@@ -6,7 +6,11 @@ hash: 2e019b55677f16bdddcdd39674e85529
 annum:
     year: 2011
     month: 01
-hostname: www.elpais.com
+url-parts:
+    scheme: http
+    host: www.elpais.com
+    path: /articulo/english/Why/PAIS/chose/to/publish/the/leaks/elpepueng/20101223elpeng_3/Ten
+
 ---
 
 I agree with @davidisen. This must be added to any review of best Wikileaks posts. Why EL PAÍS chose to publish the leaks: 

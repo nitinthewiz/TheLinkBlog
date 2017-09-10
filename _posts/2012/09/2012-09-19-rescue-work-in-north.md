@@ -6,7 +6,11 @@ hash: 3f89b911e06fb7897faedf3fae304936
 annum:
     year: 2012
     month: 09
-hostname: www.northernlightsiceland.com
+url-parts:
+    scheme: http
+    host: www.northernlightsiceland.com
+    path: /rescue-work-in-north-iceland/
+
 ---
 
 Farmers digging stranded sheep out of the snow in Iceland? Yep.

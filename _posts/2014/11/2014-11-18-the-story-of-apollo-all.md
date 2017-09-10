@@ -6,7 +6,11 @@ hash: 4e52c2075bb278261e69b4f49c8d5cc6
 annum:
     year: 2014
     month: 11
-hostname: www.allthingsdistributed.com
+url-parts:
+    scheme: http
+    host: www.allthingsdistributed.com
+    path: /2014/11/apollo-amazon-deployment-engine.html
+
 ---
 
 

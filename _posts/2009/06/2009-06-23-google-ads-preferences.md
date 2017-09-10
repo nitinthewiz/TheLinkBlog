@@ -6,7 +6,11 @@ hash: f4c74ee306b0284c113d65435506941e
 annum:
     year: 2009
     month: 06
-hostname: www.google.com
+url-parts:
+    scheme: http
+    host: www.google.com
+    path: /ads/preferences/view
+
 ---
 
 See what Google thinks of you

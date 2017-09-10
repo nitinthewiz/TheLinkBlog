@@ -6,7 +6,11 @@ hash: 746090860fa060d5032e12a65075b5c7
 annum:
     year: 2015
     month: 04
-hostname: stackoverflow.com
+url-parts:
+    scheme: http
+    host: stackoverflow.com
+    path: /research/developer-survey-2015
+
 ---
 
 

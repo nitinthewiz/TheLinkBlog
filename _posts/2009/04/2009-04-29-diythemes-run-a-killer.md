@@ -6,7 +6,11 @@ hash: 2ca4d810c34c7be4cff36c4d1fc40a47
 annum:
     year: 2009
     month: 04
-hostname: diythemes.com
+url-parts:
+    scheme: http
+    host: diythemes.com
+    path: /
+
 ---
 
 Impressed with the WordPress Thesis theme.  Thanks to @KevinMuldoon for the tip!

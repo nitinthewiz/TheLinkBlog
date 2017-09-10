@@ -6,7 +6,11 @@ hash: 3eed60eab288712220d891e708018383
 annum:
     year: 2016
     month: 05
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/feature-services-group/
+
 ---
 
 11 May/16 in Announcements, Features Evolving the 

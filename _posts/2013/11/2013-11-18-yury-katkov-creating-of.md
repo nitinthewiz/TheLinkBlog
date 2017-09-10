@@ -6,7 +6,12 @@ hash: aa61b8177ca067af6f0756de3cff21e2
 annum:
     year: 2013
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "uFF23pfZvb4"
 ---
 
  my talk at SMWCon Fall 2013. Standards! SMW! Demon hunters!

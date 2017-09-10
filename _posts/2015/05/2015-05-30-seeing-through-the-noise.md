@@ -6,7 +6,11 @@ hash: bb8d257456178287f333ab013d03817a
 annum:
     year: 2015
     month: 05
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /129291428
+
 ---
 
 Keynote given at the Ideas City conference, 28 May 2015, NYC.

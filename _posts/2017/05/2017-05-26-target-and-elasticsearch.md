@@ -6,7 +6,11 @@ hash: 9ab01697ce142825642f5b763853f9eb
 annum:
     year: 2017
     month: 05
-hostname: 
+url-parts:
+    scheme: http
+    host: 
+    path: //target.github.io
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: 1b31b048b6f5366defd781b7dc17335e
 annum:
     year: 2008
     month: 05
-hostname: news.ycombinator.com
+url-parts:
+    scheme: https
+    host: news.ycombinator.com
+    path: /item
+    query:
+        id: "182872"
 ---
 
 Comments

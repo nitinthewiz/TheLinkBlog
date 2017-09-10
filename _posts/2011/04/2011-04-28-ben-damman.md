@@ -6,7 +6,11 @@ hash: 560f79529a76362bc93216ce572c0932
 annum:
     year: 2011
     month: 04
-hostname: www.linkedin.com
+url-parts:
+    scheme: http
+    host: www.linkedin.com
+    path: /in/bendamman
+
 ---
 
 Volunteer CTO for Project Skyway.

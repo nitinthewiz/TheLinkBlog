@@ -6,7 +6,11 @@ hash: bf5c0bbba70941142d8044e2c1e64a1d
 annum:
     year: 2012
     month: 02
-hostname: www.thecoolhunter.net
+url-parts:
+    scheme: http
+    host: www.thecoolhunter.net
+    path: /article/detail/1957/amazing-places-to-experience-around-the-globe-part-1
+
 ---
 
 

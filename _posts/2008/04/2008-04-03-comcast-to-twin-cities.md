@@ -6,7 +6,11 @@ hash: 74caad491a79a4f579c41e27f6e41f6f
 annum:
     year: 2008
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/04/02/comcast-docsis3-0-wideband/
+
 ---
 
 Comcast, the largest cable company in the US announced today that it is going to start selling a 50 megabits per second (down) connection in Minnesotas Twin Cities region. The connection with 5 megabits/second upstream capability is based on DOCSIS 3.0 technology and will cost $150 a month. Cablevision, Surewest and Verizon have been offering similar high-speed yet very expensive connections for a while now.

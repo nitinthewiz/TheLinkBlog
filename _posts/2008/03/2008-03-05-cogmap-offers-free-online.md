@@ -6,7 +6,11 @@ hash: 1a39f60b8571b6b4503273bcc90e3435
 annum:
     year: 2008
     month: 03
-hostname: www.cogmap.com
+url-parts:
+    scheme: http
+    host: www.cogmap.com
+    path: /blog/2008/03/04/cogmap-offers-free-online-organization-charting-with-private-sharing-capabilities/
+
 ---
 
 Cogmap offers free online organization charting with private sharing capabilities

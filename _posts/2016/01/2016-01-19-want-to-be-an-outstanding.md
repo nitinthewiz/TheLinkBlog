@@ -6,7 +6,11 @@ hash: 4667b0f8577230ef856f57ebfa714434
 annum:
     year: 2016
     month: 01
-hostname: hbr.org
+url-parts:
+    scheme: https
+    host: hbr.org
+    path: /2016/01/want-to-be-an-outstanding-leader-keep-a-journal
+
 ---
 
 Research has documented that outstanding leaders take time to reflect. Their success depends on the ability to access their unique perspective and bring it to their decisions and sense-making every day.

@@ -6,7 +6,11 @@ hash: 56c6f251fe68db07479f7ca11312553c
 annum:
     year: 2015
     month: 06
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /sps-commerce-lands-at-no-1-on-top-workplaces-list-of-large-companies/307168321/
+
 ---
 
 “Our CEO and our chief technology officer were just geeking out about it. They were so excited,” said executive assistant Stephanie Braegelman. “We like to have fun here.”

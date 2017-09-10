@@ -6,7 +6,13 @@ hash: 7f310f8e2909c4233fe416bdf912f3c1
 annum:
     year: 2010
     month: 01
-hostname: thingelstad.com
+url-parts:
+    scheme: http
+    host: thingelstad.com
+    path: /high-resolution-album-art-3/
+    query:
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Blog Post: High Resolution Album Art #3 

@@ -6,7 +6,11 @@ hash: bcf613dc9bed3d6de7f21e65a0ecec58
 annum:
     year: 2010
     month: 12
-hostname: www.atomicdata.com
+url-parts:
+    scheme: http
+    host: www.atomicdata.com
+    path: /
+
 ---
 
 

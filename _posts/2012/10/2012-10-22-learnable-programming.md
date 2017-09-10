@@ -6,7 +6,11 @@ hash: 09f1389be2d38a5823c7d40d6358be2c
 annum:
     year: 2012
     month: 10
-hostname: worrydream.com
+url-parts:
+    scheme: http
+    host: worrydream.com
+    path: /LearnableProgramming/
+
 ---
 
 How do we get people to understand programming? We change programming. We turn it into something that's understandable by people.

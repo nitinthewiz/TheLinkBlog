@@ -6,7 +6,11 @@ hash: 1f30dca7e136960207a2a067d8955e9a
 annum:
     year: 2010
     month: 12
-hostname: articles.latimes.com
+url-parts:
+    scheme: http
+    host: articles.latimes.com
+    path: /2010/dec/13/opinion/la-oe-haymetdickson-oceans-20101213
+
 ---
 
 

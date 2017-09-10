@@ -6,7 +6,11 @@ hash: 66bea13c8cf24f43ee83ebbbaf0f8f60
 annum:
     year: 2012
     month: 04
-hostname: cocomsp.com
+url-parts:
+    scheme: http
+    host: cocomsp.com
+    path: /designthinking/
+
 ---
 
 Design Thinking, or "d.thinking" as it's affectionately known, was put on the map by the d.school at Stanford University. Now you and your organization can learn this innovative methodology through immersion at CoCo coworking and collaborative space in Minneapolis.

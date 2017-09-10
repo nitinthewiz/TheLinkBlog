@@ -6,7 +6,11 @@ hash: 7b10ece9145384c6ce81616b6437c805
 annum:
     year: 2015
     month: 08
-hostname: welshheritagefarm.com
+url-parts:
+    scheme: http
+    host: welshheritagefarm.com
+    path: /index.html
+
 ---
 
 

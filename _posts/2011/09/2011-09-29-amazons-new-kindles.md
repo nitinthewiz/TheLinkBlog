@@ -6,7 +6,11 @@ hash: a2c0f607b8608cc01a4d525ec5eb9b96
 annum:
     year: 2011
     month: 09
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2011/09/amazons_new_kindles
+
 ---
 
 

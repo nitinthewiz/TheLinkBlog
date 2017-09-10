@@ -6,7 +6,11 @@ hash: cf1cd546b5dc7a099cfdcc09611e191b
 annum:
     year: 2007
     month: 01
-hostname: twitterrific.com
+url-parts:
+    scheme: http
+    host: twitterrific.com
+    path: /ios
+
 ---
 
 Twitterrific is a fun little application that lets you both read and publish posts or "tweets" to the Twitter community website. The application's user interface is clean, concise and designed to take up a minimum of real estate on your Mac's desktop.

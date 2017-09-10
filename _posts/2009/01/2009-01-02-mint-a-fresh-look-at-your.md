@@ -6,7 +6,11 @@ hash: 14c8ae1211f0e63c729eebf8ce641722
 annum:
     year: 2009
     month: 01
-hostname: www.haveamint.com
+url-parts:
+    scheme: http
+    host: www.haveamint.com
+    path: /
+
 ---
 
 Just setup Mint () on my site to see if it really is that much better than other packages.

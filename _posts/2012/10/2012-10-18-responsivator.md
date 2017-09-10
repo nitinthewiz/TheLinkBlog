@@ -6,7 +6,11 @@ hash: 1e16b96b4a70d44ece6c91d0682375be
 annum:
     year: 2012
     month: 10
-hostname: dfcb.github.io
+url-parts:
+    scheme: http
+    host: dfcb.github.io
+    path: /Responsivator/
+
 ---
 
 Useful.

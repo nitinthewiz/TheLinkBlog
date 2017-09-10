@@ -6,7 +6,11 @@ hash: 99b67847fb826b08f4d9fe069db97966
 annum:
     year: 2016
     month: 10
-hostname: www.theguardian.com
+url-parts:
+    scheme: https
+    host: www.theguardian.com
+    path: /media/2016/oct/13/liberal-media-bias-working-class-americans
+
 ---
 
 Last March, my 71-year-old grandmother, Betty, waited in line for three hours to caucus for Bernie Sanders. The wait to be able to cast her first-ever vote in a primary election was punishing, but

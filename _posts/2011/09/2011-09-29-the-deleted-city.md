@@ -6,7 +6,11 @@ hash: cfcf94f6dd4ad5cf95b0b43f6024c0c8
 annum:
     year: 2011
     month: 09
-hostname: deletedcity.net
+url-parts:
+    scheme: http
+    host: deletedcity.net
+    path: /
+
 ---
 
 

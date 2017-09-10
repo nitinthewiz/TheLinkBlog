@@ -6,7 +6,11 @@ hash: 332b59748928960c3904e2a5c4abfd7e
 annum:
     year: 2011
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/wikipedias_big_mobile_plans_have_begun.php
+
 ---
 
 Exciting. Hope the mobile view becomes a core part of MediaWiki too, not just Wikipedia.

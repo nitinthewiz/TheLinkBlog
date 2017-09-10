@@ -6,7 +6,11 @@ hash: 0188ba9e9c11d058f1e836054c199de3
 annum:
     year: 2015
     month: 09
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/20140127024740-21564708-how-to-see-and-manage-your-organization-s-culture
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d0f0bfd318dbd50aa45d7a21733745a4
 annum:
     year: 2007
     month: 05
-hostname: theclimategroup.org
+url-parts:
+    scheme: http
+    host: theclimategroup.org
+    path: /
+
 ---
 
 Our mission is to catalyze business and government leadership on climate change in order to put the world on track for a low carbon economy.

@@ -6,7 +6,11 @@ hash: 7a7edd2e4eb6300e4e7ae5e41e4421be
 annum:
     year: 2017
     month: 05
-hostname: xkcd.com
+url-parts:
+    scheme: https
+    host: xkcd.com
+    path: /1838/
+
 ---
 
 "Just stir the pile until they start looking right."

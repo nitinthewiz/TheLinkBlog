@@ -6,7 +6,11 @@ hash: ae7536200ad31c673e442a654fe91aca
 annum:
     year: 2011
     month: 04
-hostname: www.8bitalpha.com
+url-parts:
+    scheme: http
+    host: www.8bitalpha.com
+    path: /
+
 ---
 
 

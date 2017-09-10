@@ -6,7 +6,11 @@ hash: 2b9d439ac690d2d214f4743cf8ad69f9
 annum:
     year: 2014
     month: 11
-hostname: enterprise.travis-ci.com
+url-parts:
+    scheme: https
+    host: enterprise.travis-ci.com
+    path: /
+
 ---
 
 

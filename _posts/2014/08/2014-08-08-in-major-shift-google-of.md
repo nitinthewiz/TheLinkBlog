@@ -6,7 +6,11 @@ hash: 30e11a2c193201a7fc03b27ce0385895
 annum:
     year: 2014
     month: 08
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /security/2014/08/in-major-shift-google-boosts-search-rankings-of-https-protected-sites/
+
 ---
 
 In a shift aimed at fostering wider use of encryption on the Web, Google is tweaking its search engine to favor sites that use HTTPS to protect end users' privacy and security.

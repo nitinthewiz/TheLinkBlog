@@ -6,7 +6,11 @@ hash: f216e8a6ac567074c602c2b161397135
 annum:
     year: 2015
     month: 11
-hostname: theintercept.com
+url-parts:
+    scheme: https
+    host: theintercept.com
+    path: /2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/
+
 ---
 
 LAST MONTH, I met Edward Snowden in a hotel in central Moscow, just blocks away from Red Square. It was the first time we

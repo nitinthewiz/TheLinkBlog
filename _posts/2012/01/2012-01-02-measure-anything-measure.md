@@ -6,7 +6,11 @@ hash: 03fc1ef815b2f8df7b9f70b5dddfb815
 annum:
     year: 2012
     month: 01
-hostname: codeascraft.com
+url-parts:
+    scheme: http
+    host: codeascraft.com
+    path: /2011/02/15/measure-anything-measure-everything/
+
 ---
 
 

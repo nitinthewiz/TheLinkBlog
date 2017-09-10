@@ -6,7 +6,13 @@ hash: 92f95fab6815b5c80aac5fa49591b576
 annum:
     year: 2007
     month: 03
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "6gmP4nk0EOE"
+        eurl: "http://aunraza.com/2007/02/12/web-20-with-music/"
 ---
 
 Web 2.0 ... The Machine is Us/ing Us

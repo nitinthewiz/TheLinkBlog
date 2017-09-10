@@ -6,7 +6,11 @@ hash: 1c727f2db6650fa7dcfc6184e84144db
 annum:
     year: 2011
     month: 05
-hostname: elliotjaystocks.com
+url-parts:
+    scheme: http
+    host: elliotjaystocks.com
+    path: /blog/using-textexpander-to-conquer-email/
+
 ---
 
 

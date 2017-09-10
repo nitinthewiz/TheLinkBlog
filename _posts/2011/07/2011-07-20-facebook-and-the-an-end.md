@@ -6,7 +6,11 @@ hash: 74ab3ba663ac7a1712b5b513a8a6e825
 annum:
     year: 2011
     month: 07
-hostname: nymag.com
+url-parts:
+    scheme: http
+    host: nymag.com
+    path: /daily/intel/2011/07/paul_ford_facebook_and_the_epiphanator_an_end_to_endings.html
+
 ---
 
 

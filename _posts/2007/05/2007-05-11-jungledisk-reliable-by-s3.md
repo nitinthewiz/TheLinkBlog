@@ -6,7 +6,11 @@ hash: cd24479142bb075bcd91e21a3791d86e
 annum:
     year: 2007
     month: 05
-hostname: www.jungledisk.com
+url-parts:
+    scheme: https
+    host: www.jungledisk.com
+    path: /
+
 ---
 
 Jungle Disk is an application that lets you store files and backup data securely to Amazon.com's S3  Storage Service.

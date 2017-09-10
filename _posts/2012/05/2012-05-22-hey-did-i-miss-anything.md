@@ -6,7 +6,11 @@ hash: c5afc68543e8e9c805300e61fed111b0
 annum:
     year: 2012
     month: 05
-hostname: danharmon.tumblr.com
+url-parts:
+    scheme: http
+    host: danharmon.tumblr.com
+    path: /post/23339272200/hey-did-i-miss-anything
+
 ---
 
 Worth a bookmark just for that excerpt. :-)

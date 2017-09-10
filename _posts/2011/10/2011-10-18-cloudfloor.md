@@ -6,7 +6,11 @@ hash: 4afc1590ba9274942aec3d70f5f5779e
 annum:
     year: 2011
     month: 10
-hostname: cloudfloordns.com
+url-parts:
+    scheme: http
+    host: cloudfloordns.com
+    path: /
+
 ---
 
 

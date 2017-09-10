@@ -6,7 +6,11 @@ hash: f3177d135ad79f663d1a1c230c28d915
 annum:
     year: 2011
     month: 01
-hostname: textmateuser.com
+url-parts:
+    scheme: http
+    host: textmateuser.com
+    path: /
+
 ---
 
 

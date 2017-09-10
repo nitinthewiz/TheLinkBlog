@@ -6,7 +6,11 @@ hash: b6debff215ed64e26887e6585f0e20dd
 annum:
     year: 2010
     month: 12
-hostname: netarchitecture.org
+url-parts:
+    scheme: https
+    host: netarchitecture.org
+    path: /2010/12/the-fccs-open-internet-rules--stronger-than-you-think/
+
 ---
 
 

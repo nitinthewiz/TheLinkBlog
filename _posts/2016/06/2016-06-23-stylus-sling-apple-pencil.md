@@ -6,7 +6,11 @@ hash: d8243c755c44f0695118c7859ce97335
 annum:
     year: 2016
     month: 06
-hostname: www.stylussling.com
+url-parts:
+    scheme: http
+    host: www.stylussling.com
+    path: /
+
 ---
 
 "} From the coffee shop to the conference room.

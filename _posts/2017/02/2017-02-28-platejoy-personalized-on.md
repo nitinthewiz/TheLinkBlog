@@ -6,7 +6,11 @@ hash: a867f84792115c01b19a7a0546db3306
 annum:
     year: 2017
     month: 02
-hostname: www.platejoy.com
+url-parts:
+    scheme: https
+    host: www.platejoy.com
+    path: /
+
 ---
 
 

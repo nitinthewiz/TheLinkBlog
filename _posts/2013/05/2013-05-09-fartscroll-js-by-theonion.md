@@ -6,7 +6,11 @@ hash: d4c6c4df1462a1773288872ade089ae0
 annum:
     year: 2013
     month: 05
-hostname: theonion.github.io
+url-parts:
+    scheme: http
+    host: theonion.github.io
+    path: /fartscroll.js/
+
 ---
 
 Hilarious.

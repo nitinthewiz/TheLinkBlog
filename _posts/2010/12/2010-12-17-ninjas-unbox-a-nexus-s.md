@@ -6,7 +6,11 @@ hash: 2126069611f832b2463faff7180495bf
 annum:
     year: 2010
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /user/ninjaunboxing2
+
 ---
 
 Requires Flash, but its worth it.

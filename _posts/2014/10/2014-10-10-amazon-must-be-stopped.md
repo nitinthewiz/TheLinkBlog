@@ -6,7 +6,11 @@ hash: b1d34ac2383871802085efabff5d2ddc
 annum:
     year: 2014
     month: 10
-hostname: www.newrepublic.com
+url-parts:
+    scheme: http
+    host: www.newrepublic.com
+    path: /article/119769/amazons-monopoly-must-be-broken-radical-plan-tech-giant
+
 ---
 
 It's too big. It's cannibalizing the economy. It's time for a radical plan.

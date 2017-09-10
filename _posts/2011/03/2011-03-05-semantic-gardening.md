@@ -6,7 +6,11 @@ hash: 4e4d911cfca1f7a11e61aa810f31480a
 annum:
     year: 2011
     month: 03
-hostname: ww10.smwplus.com
+url-parts:
+    scheme: http
+    host: ww10.smwplus.com
+    path: /index.php/Help:Semantic_Gardening_extension
+
 ---
 
 

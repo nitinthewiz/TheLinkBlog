@@ -6,7 +6,11 @@ hash: e114ef4f94b3ad34508b6219ffa9eb48
 annum:
     year: 2012
     month: 02
-hostname: veganyumyum.com
+url-parts:
+    scheme: http
+    host: veganyumyum.com
+    path: /2008/02/easy-weekend-pancakes/
+
 ---
 
 Silver Dollar pancakes are the best, in my personal opinion. They’re just like regular pancakes, but they’re small, about three inches in diameter. They’re tiny enough to roll up and eat in one bite. They cook quickly, they’re easy to flip, easy to eat, and very easy on the eyes. If you’ve never made them before, give them a shot; you’ll never go back to big ones again.

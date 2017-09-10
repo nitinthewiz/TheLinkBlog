@@ -6,7 +6,11 @@ hash: 76043894cf4fc1f45ef554aa999cb26d
 annum:
     year: 2017
     month: 03
-hostname: zenhabits.net
+url-parts:
+    scheme: https
+    host: zenhabits.net
+    path: /massive-gtd-resource-list/
+
 ---
 
 

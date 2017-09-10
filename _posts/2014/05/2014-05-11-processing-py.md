@@ -6,7 +6,11 @@ hash: ac21af6a102d5962442bd2908bb59cbf
 annum:
     year: 2014
     month: 05
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /jdf/processing.py
+
 ---
 
 Write Processing sketches in Python.

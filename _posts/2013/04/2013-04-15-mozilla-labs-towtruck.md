@@ -6,7 +6,11 @@ hash: 09c6a91aad7d4d772cad186b1558ca50
 annum:
     year: 2013
     month: 04
-hostname: togetherjs.com
+url-parts:
+    scheme: https
+    host: togetherjs.com
+    path: /
+
 ---
 
 Interesting project.

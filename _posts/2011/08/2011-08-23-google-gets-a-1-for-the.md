@@ -6,7 +6,11 @@ hash: 0f3f4620a0b431bea3d4725e8c34c594
 annum:
     year: 2011
     month: 08
-hostname: www.barracudalabs.com
+url-parts:
+    scheme: http
+    host: www.barracudalabs.com
+    path: /wordpress/index.php/2011/07/21/google-gets-a-1-for-browser-security-3/
+
 ---
 
 

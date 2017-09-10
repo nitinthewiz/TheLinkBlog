@@ -6,7 +6,11 @@ hash: 713e8a5459119e747721445fa9db9e56
 annum:
     year: 2008
     month: 11
-hostname: www.bloggingpro.com
+url-parts:
+    scheme: http
+    host: www.bloggingpro.com
+    path: /archives/2008/11/22/wordpress-plugin-wp-tuner/
+
 ---
 
 We all love WordPress, but sometimes it can get just really, really slow. And no matter how we look for the cause, sometimes theres just no way to figure out whats been giving your WordPress installation the hiccups. Thank goodness somebody came up with WP-Tuner.

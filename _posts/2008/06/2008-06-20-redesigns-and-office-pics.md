@@ -6,7 +6,11 @@ hash: d088bc165ddb2cca6a4cff270f64bbb9
 annum:
     year: 2008
     month: 06
-hostname: www.slicehost.com
+url-parts:
+    scheme: http
+    host: www.slicehost.com
+    path: /articles/2008/6/20/site-redesigns-and-office-photos
+
 ---
 
 The facelift continues! Pickled Onion rolled out newly designed versions of his world famous articles site and our network status page. We think you’ll find them more inline with the main site’s look and feel.

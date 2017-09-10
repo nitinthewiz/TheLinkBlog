@@ -6,7 +6,11 @@ hash: b9016ac3ab5a961cf1cec61af446064e
 annum:
     year: 2011
     month: 05
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /cloud/2011/05/4-ways-to-build-your-own-dropbox.php
+
 ---
 
 SparkleShare looks perfect. I want a DIY Dropbox replacement. Will have to keep an eye on this project.

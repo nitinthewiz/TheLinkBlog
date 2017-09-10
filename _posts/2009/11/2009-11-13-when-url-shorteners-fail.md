@@ -6,7 +6,11 @@ hash: d4a3e75336d43c0ce2adc57259b4dc48
 annum:
     year: 2009
     month: 11
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /09/11/when-url-shorteners-fail
+
 ---
 
 URL shorteners still suck, but several URL shortening services have agreed to hand over the keys to 301Works in the event that a URL shortening company goes under. 301Works will be administered by Internet Archive.

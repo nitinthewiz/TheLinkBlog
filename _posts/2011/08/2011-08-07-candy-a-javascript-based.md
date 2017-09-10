@@ -6,7 +6,11 @@ hash: a6fc8f8dfcc9b3cdd57a373784f2842b
 annum:
     year: 2011
     month: 08
-hostname: amiadogroup.github.com
+url-parts:
+    scheme: http
+    host: amiadogroup.github.com
+    path: /candy/
+
 ---
 
 

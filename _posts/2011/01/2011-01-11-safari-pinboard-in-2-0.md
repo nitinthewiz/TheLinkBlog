@@ -6,7 +6,11 @@ hash: b0a18b639a17173fb5a95a68595c1c07
 annum:
     year: 2011
     month: 01
-hostname: www.chipwreck.de
+url-parts:
+    scheme: http
+    host: www.chipwreck.de
+    path: /blog/2011/01/11/safari-pinboard-in-extension-2-0/
+
 ---
 
 Safari pinboard.in extension 2.0 with new features.

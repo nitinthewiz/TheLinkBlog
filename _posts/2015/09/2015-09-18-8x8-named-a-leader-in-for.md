@@ -6,7 +6,12 @@ hash: ba0c09fbad8a8c190e3d621f37284e11
 annum:
     year: 2015
     month: 09
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/8x8-named-a-leader-in-gartner-magic-quadrant-for-unified-communications-as-a-service-worldwide-for-fourth-consecutive-year-2015-09-08
+    query:
+        siteid: "nbsh"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 6b6343c8ae2e6c2187a18642f1cbb9e2
 annum:
     year: 2010
     month: 11
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/skype_50_beta_for_mac_arrivesbut_wheres_facebook.php
+
 ---
 
 Last month, Skype introduced Skype 5.0 for Windows users, bringing Facebook integration, multi-user video chat and a cleaned up user interface. Today, the company released Skype 5.0 for Mac in beta, bringing many of the same features to all of you anxiously waiting Mac users.

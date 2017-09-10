@@ -6,7 +6,11 @@ hash: 1fa98bf4d2af218c32fea1769a99f2cb
 annum:
     year: 2011
     month: 03
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /extend/plugins/delicious-xml-importer/changelog/
+
 ---
 
 

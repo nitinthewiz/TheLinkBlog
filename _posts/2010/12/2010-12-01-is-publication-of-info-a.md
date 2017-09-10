@@ -6,7 +6,11 @@ hash: cd9a470decc40f9f0d7ceba5add5cac1
 annum:
     year: 2010
     month: 12
-hostname: fas.org
+url-parts:
+    scheme: http
+    host: fas.org
+    path: /blogs/secrecy/2010/09/public_class
+
 ---
 
 3 interesting news pieces on #WikiLeaks & the First Amendment

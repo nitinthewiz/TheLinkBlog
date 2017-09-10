@@ -6,7 +6,11 @@ hash: 282da0e50c9b173df1aefaebdb5d7f0e
 annum:
     year: 2017
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/ios-11-the-macstories-overview/
+
 ---
 
 Great roundup of all the great new things in iOS 11.

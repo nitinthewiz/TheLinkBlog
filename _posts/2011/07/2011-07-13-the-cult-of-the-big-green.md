@@ -6,7 +6,13 @@ hash: c87bb2dcb19ce41c08c70b4f30afa054
 annum:
     year: 2011
     month: 07
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/07/13/dining/the-cult-of-the-big-green-egg-united-tastes.html
+    query:
+        _r: "1"
+        pagewanted: "all?src=tptw"
 ---
 
 

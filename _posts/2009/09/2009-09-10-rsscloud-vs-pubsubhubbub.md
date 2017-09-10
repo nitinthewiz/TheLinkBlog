@@ -6,7 +6,11 @@ hash: a411c5d4dda43fa390413333ff9e048f
 annum:
     year: 2009
     month: 09
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/09/09/rsscloud-vs-pubsubhubbub-why-the-fat-pings-win/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3eafdb07464944e58742cd930237622a
 annum:
     year: 2015
     month: 05
-hostname: blogs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: blogs.aws.amazon.com
+    path: /security/post/Tx351Y7DW3OJUP5/Test-Your-Roles-Access-Policies-Using-the-AWS-Identity-and-Access-Management-Pol
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 00f50d9020af98112acf9ada11401648
 annum:
     year: 2010
     month: 12
-hostname: mkruzeniski.posterous.com
+url-parts:
+    scheme: http
+    host: mkruzeniski.posterous.com
+    path: /bye.html
+
 ---
 
 

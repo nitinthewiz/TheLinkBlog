@@ -6,7 +6,11 @@ hash: 35511cb7f024cc543dcdcfb0d3cfaf2d
 annum:
     year: 2017
     month: 06
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /pages/list-printers-which-do-or-do-not-display-tracking-dots
+
 ---
 
 Turns out your printer is making it possible to track you as well? Where is the ethics in tech!

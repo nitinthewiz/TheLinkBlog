@@ -6,7 +6,11 @@ hash: d2c388f0893190b190334dff41ec7faa
 annum:
     year: 2017
     month: 07
-hostname: blog.coinbase.com
+url-parts:
+    scheme: https
+    host: blog.coinbase.com
+    path: /what-is-a-bitcoin-fork-cba07fe73ef1
+
 ---
 
 This seems pretty horrible for the BTC world -- very confusing to anyone not closely involved in the process.

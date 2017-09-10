@@ -6,7 +6,11 @@ hash: 6b4b6ec109ed0f4decfe4a06141b9236
 annum:
     year: 2014
     month: 11
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /secure-messaging-scorecard
+
 ---
 
 

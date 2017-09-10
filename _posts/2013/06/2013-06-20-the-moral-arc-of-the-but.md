@@ -6,7 +6,11 @@ hash: 17cf12ab2f6f0d2cb573c8821eb19523
 annum:
     year: 2013
     month: 06
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /larry-brilliant-md/post_4834_b_3360016.html
+
 ---
 
 Skoll Global Threats Fund president Larry Brilliant was the commencement speaker at the Harvard School of Public Health's commencement yesterday. Here's the text of his speech as prepared for delivery

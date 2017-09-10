@@ -6,7 +6,11 @@ hash: 13fc4252693a1ab139a6cbe6b278c8cf
 annum:
     year: 2006
     month: 07
-hostname: esvn.umputun.com
+url-parts:
+    scheme: http
+    host: esvn.umputun.com
+    path: /
+
 ---
 
 a GUI frontend to the Subversion revision system

@@ -6,7 +6,11 @@ hash: b8221147697b1c6cc6860a9b6f86f8c0
 annum:
     year: 2012
     month: 06
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /data/2012/06/day-life-nice-ride-bikes
+
 ---
 
 

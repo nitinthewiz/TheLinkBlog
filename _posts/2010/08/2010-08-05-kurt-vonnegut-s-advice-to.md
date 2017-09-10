@@ -6,7 +6,11 @@ hash: 078b519590769261d523c7f6c2c03e9e
 annum:
     year: 2010
     month: 08
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/08/kurt-vonneguts-advice-to-young-writers
+
 ---
 
 "Don't use semicolons. They stand for absolutely nothing. They are transvestite hermaphrodites. They are just a way of showing off. To show that you have been to college."

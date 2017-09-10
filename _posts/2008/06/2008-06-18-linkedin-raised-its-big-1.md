@@ -6,7 +6,11 @@ hash: 7ee10478a4bd945ff8438f5b2b6de95e
 annum:
     year: 2008
     month: 06
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/06/17/419-linkedin-raised-its-big-round-53-million-from-bain-1-billion-valuation/
+
 ---
 
 LinkedIn has closed its big round, which it had been working on for a while now in the midst of fielding some acquisition offers from strategics: it has received $53 million in funding, primarily from Bain Capital Ventures, the Boston-based PE firm. Other investors in the round include Sequoia Capital, Greylock Partners and Bessemer Venture Partners. 

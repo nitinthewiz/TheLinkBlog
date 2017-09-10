@@ -6,7 +6,11 @@ hash: 0e833921fe2643b2fb4682ef51ded88b
 annum:
     year: 2017
     month: 08
-hostname: www.spscommerce.com
+url-parts:
+    scheme: http
+    host: www.spscommerce.com
+    path: /blog/hack-the-heat-minneapolis-spsa/
+
 ---
 
 I **love** 💙 that we can host this great event for high school students to learn and build!

@@ -6,7 +6,11 @@ hash: 1416a121a663fd9da15ad0ab08b902d5
 annum:
     year: 2016
     month: 11
-hostname: www.kickstarter.com
+url-parts:
+    scheme: https
+    host: www.kickstarter.com
+    path: /projects/504632459/james-burke-connections-app
+
 ---
 
 

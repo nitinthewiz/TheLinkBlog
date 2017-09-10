@@ -6,7 +6,11 @@ hash: e88f92eed69cafa1d1589e76bb4ee47e
 annum:
     year: 2012
     month: 05
-hostname: www.allthingsdistributed.com
+url-parts:
+    scheme: http
+    host: www.allthingsdistributed.com
+    path: /2012/05/cloudfront-dynamic-content-support.html
+
 ---
 
 Today Amazon CloudFront has taken another major step forward in ease of use. It now supports delivery of entire websites containing both static objects and dynamic content. With these features CloudFront makes it as simple as possible for customers to use CloudFront to speed up delivery of their entire dynamic website running in Amazon EC2/ELB (or third-party origins), without needing to worry about which URLs should point to CloudFront and which ones should go directly to the origin.

@@ -6,7 +6,11 @@ hash: 355e8fbed60e60889edec021033ad97c
 annum:
     year: 2015
     month: 04
-hostname: blog.sanebox.com
+url-parts:
+    scheme: http
+    host: blog.sanebox.com
+    path: /post/117196895625/implement-these-10-email-hacks-today-for-a-more
+
 ---
 
 

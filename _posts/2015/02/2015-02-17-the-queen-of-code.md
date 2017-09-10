@@ -6,7 +6,11 @@ hash: eb8c4c8e25955f656072d6ff1f1e8022
 annum:
     year: 2015
     month: 02
-hostname: fivethirtyeight.com
+url-parts:
+    scheme: http
+    host: fivethirtyeight.com
+    path: /features/the-queen-of-code/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a7151fb512cae5359cfa3e7b04e61a9b
 annum:
     year: 2010
     month: 11
-hostname: ux.stackexchange.com
+url-parts:
+    scheme: http
+    host: ux.stackexchange.com
+    path: /
+
 ---
 
 

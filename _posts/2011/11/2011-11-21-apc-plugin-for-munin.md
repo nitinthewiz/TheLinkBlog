@@ -6,7 +6,11 @@ hash: b74da4c5dc080e3e11270598c6ff6c3a
 annum:
     year: 2011
     month: 11
-hostname: tjstein.com
+url-parts:
+    scheme: http
+    host: tjstein.com
+    path: /2010/05/apc-plugin-for-munin/
+
 ---
 
 

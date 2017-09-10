@@ -6,7 +6,11 @@ hash: 74585b3494a2e8f81909ddebced7f8dc
 annum:
     year: 2017
     month: 06
-hostname: jacquesmattheij.com
+url-parts:
+    scheme: https
+    host: jacquesmattheij.com
+    path: /sorting-lego-many-questions-and-this-is-what-the-result-looks-like
+
 ---
 
 This is awesome, and you should look at [parts 1](https://jacquesmattheij.com/sorting-two-metric-tons-of-lego) and [2](https://jacquesmattheij.com/sorting-lego-the-software-side) as well. Everything about this is great.

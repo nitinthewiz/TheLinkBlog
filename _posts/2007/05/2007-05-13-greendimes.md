@@ -6,7 +6,11 @@ hash: e6eb1d94b8b309ae2c848962717ffbcf
 annum:
     year: 2007
     month: 05
-hostname: www.greendimes.com
+url-parts:
+    scheme: http
+    host: www.greendimes.com
+    path: /
+
 ---
 
 Stop Junk Mail Now | Plant Trees | Save the Planet

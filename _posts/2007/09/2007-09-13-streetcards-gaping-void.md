@@ -6,7 +6,11 @@ hash: 082aec06f197e4890cd016d0c7809b2e
 annum:
     year: 2007
     month: 09
-hostname: gapingvoid.streetcards.com
+url-parts:
+    scheme: http
+    host: gapingvoid.streetcards.com
+    path: /
+
 ---
 
 "blog cards" - printed bizcards with a Hugh MacLeod cartoon on front, your personal details on the back.

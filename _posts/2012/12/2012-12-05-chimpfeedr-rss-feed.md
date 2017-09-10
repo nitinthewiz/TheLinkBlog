@@ -6,7 +6,11 @@ hash: c37ce99b38bcc425dbe11265926ca00c
 annum:
     year: 2012
     month: 12
-hostname: chimpfeedr.com
+url-parts:
+    scheme: http
+    host: chimpfeedr.com
+    path: /
+
 ---
 
 Interesting, essentially this is a planet feed builder.

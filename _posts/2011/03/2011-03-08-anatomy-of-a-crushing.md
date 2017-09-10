@@ -6,7 +6,11 @@ hash: 75ad73084aa8046c3418dd2cc7ba3825
 annum:
     year: 2011
     month: 03
-hostname: blog.pinboard.in
+url-parts:
+    scheme: http
+    host: blog.pinboard.in
+    path: /2011/03/anatomy_of_a_crushing/
+
 ---
 
 A technical writeup of December's great Delicious stampede, as seen from the Pinboard servers.

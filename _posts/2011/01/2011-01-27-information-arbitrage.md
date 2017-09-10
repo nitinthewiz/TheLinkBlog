@@ -6,7 +6,11 @@ hash: 729e4112c9e21474bc2fb4e30dbf8bb8
 annum:
     year: 2011
     month: 01
-hostname: informationarbitrage.com
+url-parts:
+    scheme: http
+    host: informationarbitrage.com
+    path: /post/2953984660/failing-well
+
 ---
 
 

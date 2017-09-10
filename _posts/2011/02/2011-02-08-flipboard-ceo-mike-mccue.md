@@ -6,7 +6,11 @@ hash: 6e1b9081926f6879ae7307d26f82d31f
 annum:
     year: 2011
     month: 02
-hostname: latimesblogs.latimes.com
+url-parts:
+    scheme: http
+    host: latimesblogs.latimes.com
+    path: /technology/2010/12/flipboards-mike-mccue-online-journalism-is-being-contaminated-by-www.html
+
 ---
 
 

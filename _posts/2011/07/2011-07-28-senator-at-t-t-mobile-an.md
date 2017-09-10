@@ -6,7 +6,11 @@ hash: c18a2ccf15724b6e9b73baf21d778d6a
 annum:
     year: 2011
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /tech-policy/news/2011/07/senator-attt-mobile-merger-an-unreasonable-risk-to-the-economy.ars
+
 ---
 
 

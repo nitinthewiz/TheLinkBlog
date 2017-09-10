@@ -6,7 +6,11 @@ hash: 9ccb1f1ec3797321bff340521f0d452b
 annum:
     year: 2015
     month: 03
-hostname: www.elkospeedway.com
+url-parts:
+    scheme: http
+    host: www.elkospeedway.com
+    path: /
+
 ---
 
 

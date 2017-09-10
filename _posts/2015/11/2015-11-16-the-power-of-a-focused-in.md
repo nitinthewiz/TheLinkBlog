@@ -6,7 +6,11 @@ hash: 29f6b6a4067a02a7000f9a8716bcdc09
 annum:
     year: 2015
     month: 11
-hostname: thefocuscourse.com
+url-parts:
+    scheme: https
+    host: thefocuscourse.com
+    path: /
+
 ---
 
 The Focus Course is all about doing your best creative work without sacrificing the balance between your work and personal life. It's a 40-day, action-centric class where you learn about the

@@ -6,7 +6,11 @@ hash: 763b46b58273d8bb2479f50803be1ea4
 annum:
     year: 2009
     month: 10
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2009/10/life-with-ted---micromanaging.html
+
 ---
 
 I've been interested in having a better handle on my electrical consumption for a long time. Our family regularly goes through 1100-1200 kWh a month, and it's been frustrating that I couldn't really get a grip on where or when the power was really being used.  I want to get my power usage under control for three reasons:

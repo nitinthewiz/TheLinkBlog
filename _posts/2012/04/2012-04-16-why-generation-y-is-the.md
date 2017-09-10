@@ -6,7 +6,11 @@ hash: f3c36d86c26053cd32b652ec7ec7b1a1
 annum:
     year: 2012
     month: 04
-hostname: www.placemakers.com
+url-parts:
+    scheme: http
+    host: www.placemakers.com
+    path: /2012/04/09/generation-ys-great-migration/
+
 ---
 
 

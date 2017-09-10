@@ -6,7 +6,11 @@ hash: 808199960a13943829d9bbcf05dd5d4f
 annum:
     year: 2007
     month: 01
-hostname: www.istockphoto.com
+url-parts:
+    scheme: http
+    host: www.istockphoto.com
+    path: /
+
 ---
 
 iStockphoto is the world's preeminent collection of member-generated royalty-free images, at the world's best prices. There are no subscription fees or extra costs. Just the best Stock Photography, Vector illustrations, and Flash files online, at prices f

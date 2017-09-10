@@ -6,7 +6,11 @@ hash: 1a138ab80fd49b457192519397090a5a
 annum:
     year: 2011
     month: 02
-hostname: paulbuchheit.blogspot.com
+url-parts:
+    scheme: http
+    host: paulbuchheit.blogspot.com
+    path: /2011/02/two-paths-to-success.html
+
 ---
 
 

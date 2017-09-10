@@ -6,7 +6,11 @@ hash: 4df0453105aa7e3762c8190ccf41c47f
 annum:
     year: 2011
     month: 10
-hostname: shitthatsirisays.tumblr.com
+url-parts:
+    scheme: http
+    host: shitthatsirisays.tumblr.com
+    path: /
+
 ---
 
 

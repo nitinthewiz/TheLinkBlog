@@ -6,7 +6,11 @@ hash: b6992f42004a675ee802cbcfc7988a63
 annum:
     year: 2014
     month: 06
-hostname: www.mediawiki.org
+url-parts:
+    scheme: https
+    host: www.mediawiki.org
+    path: /wiki/Release_Management_RFP/2014/Mark_y_Markus_LLC
+
 ---
 
 Clicking submit on MyM's response to the new RFP  

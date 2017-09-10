@@ -6,7 +6,11 @@ hash: f1072fd6fb03d1e91396a1bee89eee76
 annum:
     year: 2010
     month: 10
-hostname: beautifulpixels.com
+url-parts:
+    scheme: https
+    host: beautifulpixels.com
+    path: /iphone/iphone-4-wallpapers/
+
 ---
 
 

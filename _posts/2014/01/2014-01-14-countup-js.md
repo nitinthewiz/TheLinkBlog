@@ -6,7 +6,11 @@ hash: d4777793865552dad7dc9dab3e720c10
 annum:
     year: 2014
     month: 01
-hostname: inorganik.github.io
+url-parts:
+    scheme: http
+    host: inorganik.github.io
+    path: /countUp.js/
+
 ---
 
 countUp.js is a dependency-free, lightweight JavaScript "class" that can be used to quickly create animations that display numerical data in a more interesting way.

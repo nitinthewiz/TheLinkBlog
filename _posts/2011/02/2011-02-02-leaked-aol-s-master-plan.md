@@ -6,7 +6,12 @@ hash: a4ba082994446a1817a5c0eaa0d64d13
 annum:
     year: 2011
     month: 02
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /the-aol-way
+    query:
+        op: "1"
 ---
 
 Your assignment this week is to study with a cool eye "The AOL Way," a leaked plan for how to profit from editorial work.

@@ -6,7 +6,11 @@ hash: c6582d87ee9837778590a51fec69e9cd
 annum:
     year: 2012
     month: 01
-hostname: www.catb.org
+url-parts:
+    scheme: http
+    host: www.catb.org
+    path: /~esr/writings/taoup/
+
 ---
 
 The Art of Unix Programming

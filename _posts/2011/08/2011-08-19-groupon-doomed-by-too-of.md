@@ -6,7 +6,11 @@ hash: ad26672e60593bb9cb56f86232248a1c
 annum:
     year: 2011
     month: 08
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /cs/2011/08/groupon_doomed_by_too_much_of.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d0d5e85cfad84c0f53a6cc892b1c0219
 annum:
     year: 2009
     month: 12
-hostname: imgur.com
+url-parts:
+    scheme: http
+    host: imgur.com
+    path: /zP5fa
+
 ---
 
 Worth reading: Words from Amusing Ourselves to Death

@@ -6,7 +6,11 @@ hash: 1e9b4d16e084fb259084444566d86ebf
 annum:
     year: 2013
     month: 07
-hostname: practicaltypography.com
+url-parts:
+    scheme: http
+    host: practicaltypography.com
+    path: /
+
 ---
 
 

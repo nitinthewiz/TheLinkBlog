@@ -6,7 +6,11 @@ hash: c241ced2e4fcb81c8deda64ad54c8bd7
 annum:
     year: 2010
     month: 11
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5690919/drink-water-before-a-meal-to-reduce-hunger-seriously
+
 ---
 
 

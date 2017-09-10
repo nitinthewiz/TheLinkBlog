@@ -6,7 +6,11 @@ hash: a58427bf6586949a943dd00836e4ebf1
 annum:
     year: 2015
     month: 03
-hostname: blog.dataloop.io
+url-parts:
+    scheme: http
+    host: blog.dataloop.io
+    path: /2015/03/18/using-monitoring-dashboards-to-change-behaviour/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3958ccc1ba98829bf2c8656509dc4df7
 annum:
     year: 2012
     month: 07
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/User:Badon
+
 ---
 
 

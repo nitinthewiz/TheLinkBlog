@@ -6,7 +6,11 @@ hash: ef6b481055d29f4f9140a89cf2241e33
 annum:
     year: 2010
     month: 08
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2010/08/26/enstratus-goes-global-80-percent-of-new-cloud-customers-from-outside-u-s/
+
 ---
 
 By Dan Haugen, The Line

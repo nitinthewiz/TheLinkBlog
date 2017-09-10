@@ -6,7 +6,12 @@ hash: 6a88c8ed96b3c93819b5188700c6ebcd
 annum:
     year: 2011
     month: 08
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /reporting/2011/08/15/110815fa_fact_lizza
+    query:
+        currentPage: "all"
 ---
 
 

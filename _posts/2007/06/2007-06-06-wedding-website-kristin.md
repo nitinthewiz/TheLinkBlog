@@ -6,7 +6,12 @@ hash: c95870d4f4346e9b656551ea88d33e98
 annum:
     year: 2007
     month: 06
-hostname: www.ewedding.com
+url-parts:
+    scheme: http
+    host: www.ewedding.com
+    path: /v30/main.php
+    query:
+        a: "kristinanddanette"
 ---
 
 Thanks for coming to our wedding website! We have included lots of information on our wedding here, and hope that you have fun surfing through the pages.

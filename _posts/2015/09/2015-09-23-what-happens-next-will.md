@@ -6,7 +6,11 @@ hash: eb1c89b36be08054c24d20ece897b2d4
 annum:
     year: 2015
     month: 09
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /talks/what_happens_next_will_amaze_you.htm
+
 ---
 
 As technical people, technical solutions will always come first. They're appealing because we can implement them ourselves, without having to convince a vendor, judge, lawmaker, or voter. Ad Blocking…

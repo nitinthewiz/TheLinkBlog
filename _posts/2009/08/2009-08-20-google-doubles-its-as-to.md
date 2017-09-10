@@ -6,7 +6,11 @@ hash: ae6cc3e15ded7ac8fcfe5ef71fbbe5fc
 annum:
     year: 2009
     month: 08
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/08/19/google-doubles-its-cartographers-as-maps-continues-to-go-wiki-style/
+
 ---
 
 

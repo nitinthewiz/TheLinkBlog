@@ -6,7 +6,11 @@ hash: 2b9aef4a130f28da8aa229407e953881
 annum:
     year: 2013
     month: 05
-hostname: erleuchtet.org
+url-parts:
+    scheme: http
+    host: erleuchtet.org
+    path: /2011/06/white-one.html
+
 ---
 
 white one is my first 4k intro and my first serious demoscene production (as far as something like that can be serious). I'm new to C coding and to sizecoding in particular, so there were a lot of things to be learned which I'll try to summarize here.

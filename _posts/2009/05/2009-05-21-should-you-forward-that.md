@@ -6,7 +6,11 @@ hash: 7bd622a7c9c9e80085d1a544e9594acd
 annum:
     year: 2009
     month: 05
-hostname: thenextweb.com
+url-parts:
+    scheme: http
+    host: thenextweb.com
+    path: /2009/05/18/email/
+
 ---
 
 

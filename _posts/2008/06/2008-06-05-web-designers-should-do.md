@@ -6,7 +6,11 @@ hash: bea890d09214c8e8b90f42c39c263360
 annum:
     year: 2008
     month: 06
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/1066-web-designers-should-do-their-own-htmlcss
+
 ---
 
 The web is a world of constraints, the materials of HTML and CSS flex and give in ways that encourage particular styles. And being able to understand and bend within that scope is what makes a design feel native. Designers who work directly with the materials rather than through simulated environments like Photoshop are at a distinct advantage for making that happen.

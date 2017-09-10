@@ -6,7 +6,11 @@ hash: cc1ee9d623a4f7bb6a5409793ea795a6
 annum:
     year: 2015
     month: 11
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/every-company-is-a-learning-company
+
 ---
 
 

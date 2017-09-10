@@ -6,7 +6,11 @@ hash: 2047c01726d3bca97a73e082c70a44d2
 annum:
     year: 2010
     month: 12
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2010/12/breaking-news-eff-victory-appeals-court-holds
+
 ---
 
 Good news!

@@ -6,7 +6,12 @@ hash: 8cb1b2d51880dc2a2572393df0ba47f6
 annum:
     year: 2010
     month: 08
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/stories/2010/08/30/daily4.html
+    query:
+        ana: "from_rss"
 ---
 
 Capella Education Co. was the only Minnesota company to make Fortune magazine's list of the 100 fastest-growing companies.

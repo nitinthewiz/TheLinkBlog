@@ -6,7 +6,11 @@ hash: b3fb25b54aee31954a3b877de9d3da48
 annum:
     year: 2010
     month: 11
-hostname: pressthink.org
+url-parts:
+    scheme: http
+    host: pressthink.org
+    path: /2010/11/the-view-from-nowhere-questions-and-answers/
+
 ---
 
 

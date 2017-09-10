@@ -6,7 +6,11 @@ hash: f4e27ba2c6b6806a4a793e468696f773
 annum:
     year: 2005
     month: 08
-hostname: www.odyclub.com
+url-parts:
+    scheme: http
+    host: www.odyclub.com
+    path: /
+
 ---
 
 Honda Odyssey Online Community

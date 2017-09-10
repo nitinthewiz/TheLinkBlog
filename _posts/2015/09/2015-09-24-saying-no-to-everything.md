@@ -6,7 +6,11 @@ hash: f92782407fdcd81f93aae71a3ada28f1
 annum:
     year: 2015
     month: 09
-hostname: sivers.org
+url-parts:
+    scheme: https
+    host: sivers.org
+    path: /no2
+
 ---
 
 2015-09-23 Steven Pressfield had called himself an author for years, but he’d never actually finished a book. He just went through life feeling smug, feeling better than those regular…

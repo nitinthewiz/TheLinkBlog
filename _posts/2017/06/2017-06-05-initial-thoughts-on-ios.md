@@ -6,7 +6,11 @@ hash: f82a9a59ffe7271ed5d812b293345fa6
 annum:
     year: 2017
     month: 06
-hostname: www.macsparky.com
+url-parts:
+    scheme: https
+    host: www.macsparky.com
+    path: /blog/2017/6/initial-thoughts-on-ios-11-ipad-improvements
+
 ---
 
 A lot here for people that do more intensive work on their iPad.

@@ -6,7 +6,11 @@ hash: 7b6729d9a26987550aab0c7b78b8f927
 annum:
     year: 2010
     month: 07
-hostname: bobulate.com
+url-parts:
+    scheme: http
+    host: bobulate.com
+    path: /post/849121521
+
 ---
 
 As you think you travel,as you love, you attract.

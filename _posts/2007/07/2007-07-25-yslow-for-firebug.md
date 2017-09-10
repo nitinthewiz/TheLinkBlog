@@ -6,7 +6,11 @@ hash: e0ef18d76bef70ddf281bdfecb0137f8
 annum:
     year: 2007
     month: 07
-hostname: developer.yahoo.com
+url-parts:
+    scheme: http
+    host: developer.yahoo.com
+    path: /yslow/
+
 ---
 
 YSlow analyzes web pages and tells you why they're slow based on the rules for high performance web sites. YSlow is a Firefox add-on integrated with the popular Firebug web development tool.

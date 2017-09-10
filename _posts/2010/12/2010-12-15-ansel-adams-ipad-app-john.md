@@ -6,7 +6,12 @@ hash: f4ff504f00c65272b7c8498da87308fb
 annum:
     year: 2010
     month: 12
-hostname: www.johnpaulcaponigro.com
+url-parts:
+    scheme: http
+    host: www.johnpaulcaponigro.com
+    path: /blog/
+    query:
+        p: "4503"
 ---
 
 20 great quotes from photographer Ansel Adams.  #togquote

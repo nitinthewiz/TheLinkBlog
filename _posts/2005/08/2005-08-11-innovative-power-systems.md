@@ -6,7 +6,11 @@ hash: d05fcef51eac5094990cef971068ee3f
 annum:
     year: 2005
     month: 08
-hostname: ips-solar.com
+url-parts:
+    scheme: http
+    host: ips-solar.com
+    path: 
+
 ---
 
 Minneapolis Solar Contractor

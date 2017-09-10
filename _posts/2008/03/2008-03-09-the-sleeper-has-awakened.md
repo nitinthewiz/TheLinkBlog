@@ -6,7 +6,11 @@ hash: 9f2fb8eb1bdd660304c8423e4d29604d
 annum:
     year: 2008
     month: 03
-hostname: paulolstad.blogspot.com
+url-parts:
+    scheme: http
+    host: paulolstad.blogspot.com
+    path: /2008/03/sleeper-has-awoken.html
+
 ---
 
 "Without change something sleeps inside us, and seldom awakens." That's one of my favorite lines and certainly applicable to my situation.  It's hard to believe that I've been at MarketWatch.com for almost 8 months!  What a ride it’s been…and well worth it I’d say. I’ve made the leap from not only a new company but an entirely new industry. From Healthcare to Financial News is quite a change I’d say. 

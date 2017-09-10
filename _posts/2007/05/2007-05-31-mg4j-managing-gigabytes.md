@@ -6,7 +6,11 @@ hash: 8c0faeaf289c097e6393fbd09bce08e7
 annum:
     year: 2007
     month: 05
-hostname: mg4j.dsi.unimi.it
+url-parts:
+    scheme: http
+    host: mg4j.dsi.unimi.it
+    path: /
+
 ---
 
 MG4J (Managing Gigabytes for Java) is a free full-text search engine for large document collections written in Java. As a by-product, it offers several general-purpose optimised classes, including fast & compact mutable strings, bit-level I/O, (possibly s

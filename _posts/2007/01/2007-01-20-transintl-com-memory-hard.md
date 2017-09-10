@@ -6,7 +6,11 @@ hash: 96e0437f48ea8fc76c83c5a10e47d21e
 annum:
     year: 2007
     month: 01
-hostname: www.transintl.com
+url-parts:
+    scheme: http
+    host: www.transintl.com
+    path: /
+
 ---
 
 

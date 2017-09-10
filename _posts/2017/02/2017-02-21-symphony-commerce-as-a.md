@@ -6,7 +6,11 @@ hash: 90ce3203a7e5cc3b66b168cf5b409ef7
 annum:
     year: 2017
     month: 02
-hostname: www.symphonycommerce.com
+url-parts:
+    scheme: https
+    host: www.symphonycommerce.com
+    path: /
+
 ---
 
 

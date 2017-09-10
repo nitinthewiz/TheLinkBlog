@@ -6,7 +6,12 @@ hash: d7d64cfbad8bacc9a59ccce333bdca9e
 annum:
     year: 2015
     month: 08
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "0SroCjwkSFc"
 ---
 
 Second Annual IBM Research Cognitive Computing Colloquium keynote by Jeff Hawking, co-founder of Numenta.

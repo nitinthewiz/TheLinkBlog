@@ -6,7 +6,11 @@ hash: 2c85cf7c62f10f723d86b49e154946ab
 annum:
     year: 2005
     month: 10
-hostname: micro.magnet.fsu.edu
+url-parts:
+    scheme: http
+    host: micro.magnet.fsu.edu
+    path: /primer/java/scienceopticsu/powersof10/index.html
+
 ---
 
 The Universe Within - Interactive Java Tutorial

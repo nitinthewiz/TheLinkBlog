@@ -6,7 +6,11 @@ hash: ff3e9ac95114837dfa0da3f0c63bf946
 annum:
     year: 2013
     month: 05
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/Yellpedia.com
+
 ---
 
 Congratulations to Yellpedia, the Semantic #MediaWiki #wiki of the month for May 2013 

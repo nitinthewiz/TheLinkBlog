@@ -6,7 +6,11 @@ hash: e71d7245d960eca3b913bc2714a2028e
 annum:
     year: 2015
     month: 05
-hostname: githubengineering.com
+url-parts:
+    scheme: http
+    host: githubengineering.com
+    path: /using-mysql-performance-schema-for-workload-analysis/
+
 ---
 
 

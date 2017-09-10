@@ -6,7 +6,11 @@ hash: e7b1e864f8999e29e17d3ed9cafbe49f
 annum:
     year: 2012
     month: 02
-hostname: intertwingly.net
+url-parts:
+    scheme: http
+    host: intertwingly.net
+    path: /code/venus/docs/index.html
+
 ---
 
 Planet Venus is an awesome ‘river of news’ feed reader. It downloads news feeds published by web sites and aggregates their content together into a single combined feed, latest news first.

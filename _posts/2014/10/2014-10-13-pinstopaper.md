@@ -6,7 +6,11 @@ hash: 5cfbeff2f410e91876237ee878acb7f4
 annum:
     year: 2014
     month: 10
-hostname: pinstopaper.schallert.io
+url-parts:
+    scheme: https
+    host: pinstopaper.schallert.io
+    path: /
+
 ---
 
 <blockquote>

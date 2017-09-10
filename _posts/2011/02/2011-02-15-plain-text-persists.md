@@ -6,7 +6,11 @@ hash: 8eae28475c7d3e490a34d62124d5c521
 annum:
     year: 2011
     month: 02
-hostname: garrickvanburen.com
+url-parts:
+    scheme: https
+    host: garrickvanburen.com
+    path: /archive/plain-text-persists/
+
 ---
 
 Relying on these application files for our precious words is a mistake. Standards and preferences change. What your computer can understand today, it may not tomorrow.

@@ -6,7 +6,11 @@ hash: 12d7baa7ca1f05d069c6db9b6d55090c
 annum:
     year: 2014
     month: 02
-hostname: www.duosecurity.com
+url-parts:
+    scheme: https
+    host: www.duosecurity.com
+    path: /
+
 ---
 
 

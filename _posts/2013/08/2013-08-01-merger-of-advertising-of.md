@@ -6,7 +6,11 @@ hash: f0d5d9a05b5334867331dabe9b37ab90
 annum:
     year: 2013
     month: 08
-hostname: www.theonion.com
+url-parts:
+    scheme: http
+    host: www.theonion.com
+    path: /articles/merger-of-advertising-giants-brings-together-large%2C33296/
+
 ---
 
 With thousands of employees and billions of dollars of assets between them, the consolidation of Omnicom and Publicis will create an intimidating workforce of 135,000 utterly talentless men and women who are not marketable in any industry other than their own and whose jobs add zero value to society at large,

@@ -6,7 +6,11 @@ hash: 108f8fd98876c0b198486cabe759a64e
 annum:
     year: 2007
     month: 06
-hostname: www.wind-sail.com
+url-parts:
+    scheme: http
+    host: www.wind-sail.com
+    path: /
+
 ---
 
 

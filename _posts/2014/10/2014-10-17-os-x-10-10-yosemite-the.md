@@ -6,7 +6,11 @@ hash: 422afbf3ced42df417416fd34f58ee70
 annum:
     year: 2014
     month: 10
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/2014/10/os-x-10-10/
+
 ---
 
 For the first time in forever, the Mac could be noticed by someone.

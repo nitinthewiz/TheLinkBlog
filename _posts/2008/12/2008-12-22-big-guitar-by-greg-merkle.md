@@ -6,7 +6,11 @@ hash: ce1da0bdf6f711dd85e65e0c10bc598d
 annum:
     year: 2008
     month: 12
-hostname: itunes.apple.com
+url-parts:
+    scheme: https
+    host: itunes.apple.com
+    path: /us/album/big-guitar/id300082508
+
 ---
 
 My friend @gergle got his first album on iTunes -- it's really great. Get it here (iTMS link)

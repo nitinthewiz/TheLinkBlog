@@ -6,7 +6,11 @@ hash: 4b11c3334bb04f415bf69ccc13090d63
 annum:
     year: 2013
     month: 04
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /retweetgarrick
+
 ---
 
 

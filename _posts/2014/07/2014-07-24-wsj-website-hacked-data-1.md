@@ -6,7 +6,11 @@ hash: 3c9cf1082fc3c8873b4d3e16bab417cd
 annum:
     year: 2014
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /security/2014/07/wsj-website-hacked-data-offered-for-sale-for-1-bitcoin/
+
 ---
 
 Same hacker attacked BBC, Vice websites, offered user databases for sale.

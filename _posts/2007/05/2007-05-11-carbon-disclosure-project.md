@@ -6,7 +6,11 @@ hash: c737df363c2244f120a81b08eee09ce6
 annum:
     year: 2007
     month: 05
-hostname: www.cdp.net
+url-parts:
+    scheme: https
+    host: www.cdp.net
+    path: /en-US/Pages/HomePage.aspx
+
 ---
 
 The Carbon Disclosure Project (CDP) provides a secretariat for the world's largest institutional investor collaboration on the business implications of climate change. CDP represents an efficient process whereby many institutional investors collectively s

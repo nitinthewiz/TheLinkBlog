@@ -6,7 +6,11 @@ hash: defddac121e322642fa49679023c187a
 annum:
     year: 2012
     month: 11
-hostname: symbolset.com
+url-parts:
+    scheme: https
+    host: symbolset.com
+    path: /
+
 ---
 
 Symbolsets are semantic symbol fonts. They work in modern browsers and anywhere OpenType features are supported.

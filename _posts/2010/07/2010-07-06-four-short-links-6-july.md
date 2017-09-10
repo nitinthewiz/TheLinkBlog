@@ -6,7 +6,11 @@ hash: 51543aa9b44c6da6573824f66a444379
 annum:
     year: 2010
     month: 07
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2010/07/four-short-links-6-july-2010.html
+
 ---
 
 

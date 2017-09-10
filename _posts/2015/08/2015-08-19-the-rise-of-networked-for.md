@@ -6,7 +6,11 @@ hash: bfff604a59acb6af6303fa080889738e
 annum:
     year: 2015
     month: 08
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2015/08/the-rise-of-networked-platforms-for-physical-world-services.html
+
 ---
 
 Request an invitation to Next:Economy, our event aiming to shed light on the transformation in the nature of work now being driven by algorithms, big data, robotics, and the on-demand economy. One of…

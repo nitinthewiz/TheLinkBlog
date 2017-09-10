@@ -6,7 +6,11 @@ hash: 99effa73153ad0b5f50c7116ecf1a86e
 annum:
     year: 2010
     month: 12
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/12/08/why_teens_dont_and_wont_tweet
+
 ---
 
 

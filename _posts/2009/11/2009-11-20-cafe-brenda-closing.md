@@ -6,7 +6,11 @@ hash: 62abd5a310489c180c7c4826a0a0f87d
 annum:
     year: 2009
     month: 11
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/stories/2009/11/16/daily51.html
+
 ---
 
 Cafe Brenda, a vegetarian-themed restaurant in the Warehouse District for the past 23 years, is closing.

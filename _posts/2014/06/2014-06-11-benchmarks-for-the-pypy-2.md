@@ -6,7 +6,11 @@ hash: 918b647ddaf4b2471965d61d4669bed1
 annum:
     year: 2014
     month: 06
-hostname: uwsgi-docs.readthedocs.org
+url-parts:
+    scheme: http
+    host: uwsgi-docs.readthedocs.org
+    path: /en/latest/PyPy_benchmarks.html
+
 ---
 
 "you can safely punch the face of people ranting on the slowness of Python threads without knowing the context." 

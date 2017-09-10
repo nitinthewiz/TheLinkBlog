@@ -6,7 +6,11 @@ hash: 922cbf55fa6e911b95ff30509675aef8
 annum:
     year: 2007
     month: 02
-hostname: users.design.ucla.edu
+url-parts:
+    scheme: http
+    host: users.design.ucla.edu
+    path: /~akoblin/work/faa/Documentationl2.html
+
 ---
 
 

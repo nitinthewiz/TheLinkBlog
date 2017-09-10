@@ -6,7 +6,11 @@ hash: 3fd40f1e778af4447b9faacddecf53b8
 annum:
     year: 2009
     month: 01
-hostname: ma.tt
+url-parts:
+    scheme: http
+    host: ma.tt
+    path: /2009/01/top-emailers-2008-etc/
+
 ---
 
 As an update to last year’s post:

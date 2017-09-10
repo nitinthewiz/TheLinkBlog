@@ -6,7 +6,11 @@ hash: 71324830d1f2ea7be5147ce848057634
 annum:
     year: 2015
     month: 09
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news/biz-buzzes/coming-soon-milkjam
+
 ---
 
 

@@ -6,7 +6,14 @@ hash: 290ce2ffa0c788d13b6d172226f9e77b
 annum:
     year: 2011
     month: 03
-hostname: www.aviationweek.com
+url-parts:
+    scheme: http
+    host: www.aviationweek.com
+    path: /aw/generic/story_channel.jsp
+    query:
+        channel: "comm"
+        id: "news/avd/2011/03/30/11.xml"
+        headline: "Airline Facebook Apps, Will Others Follow"
 ---
 
 

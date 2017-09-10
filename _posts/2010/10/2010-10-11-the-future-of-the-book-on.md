@@ -6,7 +6,11 @@ hash: 3b3b4738f45145be9e61660ce7dd0301
 annum:
     year: 2010
     month: 10
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /15142335
+
 ---
 
 The Future of the Book 

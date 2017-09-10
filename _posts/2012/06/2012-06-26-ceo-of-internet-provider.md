@@ -6,7 +6,11 @@ hash: 88fcfa2cb576687e8060c42cc5817c94
 annum:
     year: 2012
     month: 06
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/andygreenberg/2012/06/22/ceo-of-internet-provider-sonic-net-we-delete-user-logs-after-two-weeks-your-internet-provider-should-too/
+
 ---
 
 

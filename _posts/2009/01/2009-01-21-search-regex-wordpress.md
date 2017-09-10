@@ -6,7 +6,11 @@ hash: b7e9c5bedd98d8d263ed0a01912ee538
 annum:
     year: 2009
     month: 01
-hostname: urbangiraffe.com
+url-parts:
+    scheme: http
+    host: urbangiraffe.com
+    path: /plugins/search-regex/
+
 ---
 
 @mthomps Get the Search Regex plugin to find "bad stuff" in posts. 

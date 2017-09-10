@@ -6,7 +6,12 @@ hash: e8a0367a76cdc41463b2b45b5a4c7172
 annum:
     year: 2010
     month: 12
-hostname: archive.wired.com
+url-parts:
+    scheme: http
+    host: archive.wired.com
+    path: /entertainment/theweb/magazine/17-09/ff_craigslist
+    query:
+        currentPage: "all"
 ---
 
 

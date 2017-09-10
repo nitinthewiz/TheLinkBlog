@@ -6,7 +6,12 @@ hash: 940c2a754b8505a10fc2771a959f32a6
 annum:
     year: 2012
     month: 01
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2011/02/14/the-information
+    query:
+        printable: "true"
 ---
 
 

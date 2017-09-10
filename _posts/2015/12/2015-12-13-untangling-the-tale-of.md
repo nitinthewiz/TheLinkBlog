@@ -6,7 +6,11 @@ hash: 4da9fc8b5684e9209dddc91712e03786
 annum:
     year: 2015
     month: 12
-hostname: blog.stephenwolfram.com
+url-parts:
+    scheme: http
+    host: blog.stephenwolfram.com
+    path: /2015/12/untangling-the-tale-of-ada-lovelace/
+
 ---
 
 Ada Lovelace was born 200 years ago today. To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.

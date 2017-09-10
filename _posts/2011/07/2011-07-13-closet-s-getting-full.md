@@ -6,7 +6,11 @@ hash: f12484a3cfdef8119bff372c7ac6b9f4
 annum:
     year: 2011
     month: 07
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2011/07/13/closets-getting-full/
+
 ---
 
 It pains me to acknowledge Michele Bachmann's existence twice in a fortnight but this is too amusing to ignore.

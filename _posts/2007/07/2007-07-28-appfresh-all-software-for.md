@@ -6,7 +6,11 @@ hash: f8a59445e5299ec61f8534ce5cd1a3c3
 annum:
     year: 2007
     month: 07
-hostname: metaquark.de
+url-parts:
+    scheme: http
+    host: metaquark.de
+    path: /appfresh/mac
+
 ---
 
 AppFresh helps you to keep all applications (third-party and Apple), widgets, preference panes and application plugins on your Mac up to date, from one place.

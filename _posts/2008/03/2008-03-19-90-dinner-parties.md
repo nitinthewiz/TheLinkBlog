@@ -6,7 +6,11 @@ hash: e3f6e977b78c066e2914560213c2dbda
 annum:
     year: 2008
     month: 03
-hostname: stuffwhitepeoplelike.wordpress.com
+url-parts:
+    scheme: http
+    host: stuffwhitepeoplelike.wordpress.com
+    path: /2008/03/18/88-dinner-parties/
+
 ---
 
 Though many would have you believe that white people come of age at Summer Camp, it’s simply not the truth.  Immediately following graduation but prior to renovating a house, white people take their first step from childhood to maturity by hosting a successful dinner party.

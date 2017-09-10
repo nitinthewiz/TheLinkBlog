@@ -6,7 +6,11 @@ hash: 7c27f9d649693493c9ff84ecd7dcc636
 annum:
     year: 2012
     month: 01
-hostname: www.therestartpage.com
+url-parts:
+    scheme: http
+    host: www.therestartpage.com
+    path: /
+
 ---
 
 The Restart Page

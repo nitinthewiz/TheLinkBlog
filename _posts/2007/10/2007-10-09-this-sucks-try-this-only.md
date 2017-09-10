@@ -6,7 +6,11 @@ hash: 60db9d22b2b0c4813bc8762840e1444d
 annum:
     year: 2007
     month: 10
-hostname: jasonhare.com
+url-parts:
+    scheme: http
+    host: jasonhare.com
+    path: /2006/09/18/this-suckstry-this-only-in-america-volume-2/
+
 ---
 
 And so begins what will hopefully be a continuing series between myself and Jeff, and perhaps some of my other favorite bloggers:  This Sucks!…Try This.  You know what I’m talking about.  You eat or smell something awful, and just have to share it wit

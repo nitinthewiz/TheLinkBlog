@@ -6,7 +6,11 @@ hash: 12cb60b1609af7862556cd21071f087a
 annum:
     year: 2010
     month: 12
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /the-fewest-keystrokes-wins-in-vim/
+
 ---
 
 

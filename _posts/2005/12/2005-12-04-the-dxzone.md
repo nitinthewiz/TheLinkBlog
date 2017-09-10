@@ -6,7 +6,11 @@ hash: 4811d59a6ed08e21b5b3fe89c1296b64
 annum:
     year: 2005
     month: 12
-hostname: www.dxzone.com
+url-parts:
+    scheme: http
+    host: www.dxzone.com
+    path: /
+
 ---
 
 DX Radio Guide

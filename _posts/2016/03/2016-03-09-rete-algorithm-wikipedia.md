@@ -6,7 +6,11 @@ hash: 23d8b41762f9480d737750dd28abba61
 annum:
     year: 2016
     month: 03
-hostname: en.wikipedia.org
+url-parts:
+    scheme: https
+    host: en.wikipedia.org
+    path: /wiki/Rete_algorithm
+
 ---
 
 The Rete algorithm is a pattern matching algorithm for implementing production rule systems. It is used to determine which of the system's rules should fire based on its data store.

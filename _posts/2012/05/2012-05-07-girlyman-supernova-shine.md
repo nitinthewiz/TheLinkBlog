@@ -6,7 +6,11 @@ hash: 2a04e8c07ab5c68e1920a91340ad7bea
 annum:
     year: 2012
     month: 05
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /michael-bialas/girlyman-shines-bright-on_b_1491123.html
+
 ---
 
 

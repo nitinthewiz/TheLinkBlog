@@ -6,7 +6,11 @@ hash: 812b973fea4de2786410c9706665553f
 annum:
     year: 2015
     month: 04
-hostname: redmonk.com
+url-parts:
+    scheme: http
+    host: redmonk.com
+    path: /dberkholz/2015/04/02/quantifying-configuration-management-communities/
+
 ---
 
 

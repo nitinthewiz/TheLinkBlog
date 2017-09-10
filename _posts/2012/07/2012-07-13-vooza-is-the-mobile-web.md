@@ -6,7 +6,11 @@ hash: c0e7d84ed757e17d2bf10e10cf21bc9d
 annum:
     year: 2012
     month: 07
-hostname: vooza.com
+url-parts:
+    scheme: http
+    host: vooza.com
+    path: /
+
 ---
 
 If you just read the words to this, you might buy it.  <blockquote> A mobile web app launching Summer 2012 </blockquote> 

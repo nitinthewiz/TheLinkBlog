@@ -6,7 +6,11 @@ hash: 430092c4ed8d89adc695bdee16132e43
 annum:
     year: 2011
     month: 11
-hostname: www.dataversity.net
+url-parts:
+    scheme: http
+    host: www.dataversity.net
+    path: /archives/6362
+
 ---
 
 join my @dataversity webinar on how @wordnik migrated to #mongodb #nosql 

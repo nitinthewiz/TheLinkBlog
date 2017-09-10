@@ -6,7 +6,11 @@ hash: cc165b6babf65e8279874bd10c999819
 annum:
     year: 2008
     month: 11
-hostname: useqwitter.com
+url-parts:
+    scheme: http
+    host: useqwitter.com
+    path: /
+
 ---
 
 

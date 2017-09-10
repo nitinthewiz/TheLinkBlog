@@ -6,7 +6,11 @@ hash: 47a049691eea551493f6dd96c8e60697
 annum:
     year: 2017
     month: 08
-hostname: thesystemsthinker.com
+url-parts:
+    scheme: https
+    host: thesystemsthinker.com
+    path: /moving-from-blame-to-accountability/
+
 ---
 
 

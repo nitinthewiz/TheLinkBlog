@@ -6,7 +6,11 @@ hash: 3a57ee1c55dcfa118f31740d4e414075
 annum:
     year: 2014
     month: 03
-hostname: www.getbatterybox.com
+url-parts:
+    scheme: http
+    host: www.getbatterybox.com
+    path: /
+
 ---
 
 Impressive! 

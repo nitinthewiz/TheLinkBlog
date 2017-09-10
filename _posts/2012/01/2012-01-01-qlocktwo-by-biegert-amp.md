@@ -6,7 +6,11 @@ hash: 3cc0b54592384eb24333d02e3e3fdbda
 annum:
     year: 2012
     month: 01
-hostname: qlocktwo.com
+url-parts:
+    scheme: http
+    host: qlocktwo.com
+    path: /
+
 ---
 
 btw, that clock was the QlockTwo : 

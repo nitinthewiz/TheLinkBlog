@@ -6,7 +6,11 @@ hash: ae065747348fbd7ed5089928e9461f0c
 annum:
     year: 2011
     month: 05
-hostname: paidcontent.org
+url-parts:
+    scheme: http
+    host: paidcontent.org
+    path: /article/419-disqus-raises-10-million-for-its-commenting-system/
+
 ---
 
 

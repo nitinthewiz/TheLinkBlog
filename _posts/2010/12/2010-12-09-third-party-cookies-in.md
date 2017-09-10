@@ -6,7 +6,11 @@ hash: 127e78d3e1396c04447b94a91c48616f
 annum:
     year: 2010
     month: 12
-hostname: squeeville.com
+url-parts:
+    scheme: http
+    host: squeeville.com
+    path: /2010/02/03/third-party-cookies-in-safari-internet-explorer/
+
 ---
 
 

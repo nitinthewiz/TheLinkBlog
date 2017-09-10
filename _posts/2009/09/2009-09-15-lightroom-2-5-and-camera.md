@@ -6,7 +6,11 @@ hash: 06446aced5778b8fce790eea46583411
 annum:
     year: 2009
     month: 09
-hostname: blogs.adobe.com
+url-parts:
+    scheme: http
+    host: blogs.adobe.com
+    path: /lightroomjournal/2009/09/lightroom_25_and_camera_raw_55.html
+
 ---
 
 Lightroom 2.5 and Camera Raw 5.5 are now available as final releases on Adobe.com and through the update mechanisms available in Photoshop CS4 and Lightroom 2.  These updates include camera support for the following models:

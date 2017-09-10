@@ -6,7 +6,11 @@ hash: dcd3917b2415921cf018fde0a6e95701
 annum:
     year: 2015
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/aws-lambda-update-production-status-and-a-focus-on-mobile-apps/
+
 ---
 
 Lambda is now ready for production workloads

@@ -6,7 +6,11 @@ hash: 9a6652986a6821b700b9d46c27f71714
 annum:
     year: 2005
     month: 10
-hostname: www.planetdan.net
+url-parts:
+    scheme: http
+    host: www.planetdan.net
+    path: /pics/misc/georgie.htm
+
 ---
 
 Shockwave animation of Dubya falling forever.

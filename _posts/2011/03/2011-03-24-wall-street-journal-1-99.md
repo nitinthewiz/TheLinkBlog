@@ -6,7 +6,11 @@ hash: 593b57a0178645543f48a4bed6128101
 annum:
     year: 2011
     month: 03
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2011/03/23/wall-street-journal-launches-1-99-single-issue-downloads-within-apple-ipad-app/
+
 ---
 
 The Wall Street Journal will start selling single-issue digital versions of its morning paper...

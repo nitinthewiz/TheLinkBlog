@@ -6,7 +6,11 @@ hash: d6c8112f0bfb59c3c769adb06da5567e
 annum:
     year: 2015
     month: 05
-hostname: www.mollywatt.com
+url-parts:
+    scheme: http
+    host: www.mollywatt.com
+    path: /blog/entry/my-apple-watch-after-5-days
+
 ---
 
 Having known about the Apple Watch for some time and knowing lots of my friends were planning to buy one, I was sceptical as my needs are quite different to that of those of the sighted and hearing. I have to rely on specific accessible features.Howe

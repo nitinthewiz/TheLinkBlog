@@ -6,7 +6,11 @@ hash: c1615c0ac7da106d407c6b9f185cd0d3
 annum:
     year: 2017
     month: 05
-hostname: www.thoughtworks.com
+url-parts:
+    scheme: https
+    host: www.thoughtworks.com
+    path: /insights/blog/platform-tech-strategy-three-layers
+
 ---
 
 

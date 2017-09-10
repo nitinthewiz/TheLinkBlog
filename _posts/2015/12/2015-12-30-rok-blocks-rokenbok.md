@@ -6,7 +6,11 @@ hash: 9b2e784c175dca32e20abefb527625df
 annum:
     year: 2015
     month: 12
-hostname: rokenbokeducation.org
+url-parts:
+    scheme: https
+    host: rokenbokeducation.org
+    path: /shop/rok-blocks
+
 ---
 
 ROK Blocks give young builders a chance to construct their own knowledge, explore their creativity and develop spatial reasoning skills.

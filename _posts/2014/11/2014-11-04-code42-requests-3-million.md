@@ -6,7 +6,12 @@ hash: e22235b27a863ebef7f234ba5405f356
 annum:
     year: 2014
     month: 11
-hostname: m.bizjournals.com
+url-parts:
+    scheme: http
+    host: m.bizjournals.com
+    path: /twincities/news/2014/11/03/code42-requests-3-million-from-state-for-new.html
+    query:
+        r: "full"
 ---
 
 The fast-growing software company is seeking aid from the state of Minnesota to help pay for its expansion and relocation in Minneapolis.

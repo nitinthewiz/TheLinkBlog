@@ -6,7 +6,11 @@ hash: a405507d7bff8c972f3fcb1db133de18
 annum:
     year: 2012
     month: 08
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2012/07/30/iced-coffee-with-aeropress
+
 ---
 
 Marco has the right approach here.

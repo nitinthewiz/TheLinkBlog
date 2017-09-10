@@ -6,7 +6,11 @@ hash: f5771cdcd9077d58284d2e44d900a7c8
 annum:
     year: 2005
     month: 10
-hostname: www.atlassian.com
+url-parts:
+    scheme: https
+    host: www.atlassian.com
+    path: /software/confluence/
+
 ---
 
 Enterprise Wiki

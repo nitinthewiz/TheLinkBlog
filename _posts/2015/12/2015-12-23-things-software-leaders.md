@@ -6,7 +6,11 @@ hash: 74c3f5abba360d5693a90ced95a62508
 annum:
     year: 2015
     month: 12
-hostname: ben.gracewood.nz
+url-parts:
+    scheme: http
+    host: ben.gracewood.nz
+    path: /2015/12/things-software-leaders-should-know/
+
 ---
 
 If you have people things and tech things on your to-do list, put the people things first on the list.

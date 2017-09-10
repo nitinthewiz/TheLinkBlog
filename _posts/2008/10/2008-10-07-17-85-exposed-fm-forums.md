@@ -6,7 +6,11 @@ hash: 0d85015d4e1ae827274b53a2b90510e0
 annum:
     year: 2008
     month: 10
-hostname: www.fredmiranda.com
+url-parts:
+    scheme: http
+    host: www.fredmiranda.com
+    path: /forum/topic/694090
+
 ---
 
 Fred Miranda takes apart a 17-85 IS lens. Lots of rings.

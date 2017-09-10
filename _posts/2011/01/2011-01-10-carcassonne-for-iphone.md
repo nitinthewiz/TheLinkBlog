@@ -6,7 +6,11 @@ hash: 1fca74db4692f735a2319f1340eda628
 annum:
     year: 2011
     month: 01
-hostname: carcassonneapp.com
+url-parts:
+    scheme: http
+    host: carcassonneapp.com
+    path: /
+
 ---
 
 

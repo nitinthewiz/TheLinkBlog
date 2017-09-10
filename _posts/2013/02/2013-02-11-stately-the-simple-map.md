@@ -6,7 +6,11 @@ hash: bc6dd2979ad582438abfa36f0a627cc3
 annum:
     year: 2013
     month: 02
-hostname: intridea.github.io
+url-parts:
+    scheme: http
+    host: intridea.github.io
+    path: /stately/
+
 ---
 
 Stately is a symbol font that makes it easy to create a map of the United States using only HTML and CSS. Each state can be styled independently with CSS for making simple visualizations. And since it's a font, it scales bigger and smaller while staying sharp as a tack.

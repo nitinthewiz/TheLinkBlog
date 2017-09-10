@@ -6,7 +6,11 @@ hash: 6738258f814b6c40fca7e86284cdd721
 annum:
     year: 2016
     month: 11
-hostname: codeascraft.com
+url-parts:
+    scheme: https
+    host: codeascraft.com
+    path: /2016/10/16/code-slush-holidays/
+
 ---
 
 

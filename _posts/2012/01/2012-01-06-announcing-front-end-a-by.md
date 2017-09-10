@@ -6,7 +6,11 @@ hash: 056295184c2be290537c593f653b5ce1
 annum:
     year: 2012
     month: 01
-hostname: mondaybynoon.com
+url-parts:
+    scheme: http
+    host: mondaybynoon.com
+    path: /20120102/announcing-front-end-upload-wordpress-plugin/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 552184d4472a2bf75d9c1e8ddb3067fe
 annum:
     year: 2017
     month: 08
-hostname: chris.bolin.co
+url-parts:
+    scheme: https
+    host: chris.bolin.co
+    path: /offline/
+
 ---
 
 This made me giggle. I like the trick as a way to make a point! 

@@ -6,7 +6,11 @@ hash: 751b2b77b55dc816bfba4d92e69fa941
 annum:
     year: 2014
     month: 01
-hostname: regex.alf.nu
+url-parts:
+    scheme: http
+    host: regex.alf.nu
+    path: /
+
 ---
 
 Awesome!

@@ -6,7 +6,12 @@ hash: 37514ae42ec2dbcd07acaee4ed593ec5
 annum:
     year: 2009
     month: 07
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /news/0907/09071602canon24tsereview.asp
+    query:
+        from: "rss"
 ---
 
 

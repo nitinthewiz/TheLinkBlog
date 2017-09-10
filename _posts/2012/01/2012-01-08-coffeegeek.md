@@ -6,7 +6,11 @@ hash: 429f09fa45413c9841ea4253cabc400e
 annum:
     year: 2012
     month: 01
-hostname: coffeegeek.com
+url-parts:
+    scheme: http
+    host: coffeegeek.com
+    path: /
+
 ---
 
 News, Reviews, Opinion and Community for Coffee and Espresso

@@ -6,7 +6,11 @@ hash: 34a5e91b977e91d10d96fa87ce876288
 annum:
     year: 2013
     month: 03
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /tosher/Mediawiker
+
 ---
 
 Sublime Text 2 plugin: Mediawiker - adds possibility to create and edit pages on Mediawiki based sites.

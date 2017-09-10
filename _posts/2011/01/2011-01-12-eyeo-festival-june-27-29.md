@@ -6,7 +6,11 @@ hash: 8f04abb1d928b993e7b68dda18c1780b
 annum:
     year: 2011
     month: 01
-hostname: www.eyeofestival.com
+url-parts:
+    scheme: http
+    host: www.eyeofestival.com
+    path: /
+
 ---
 
 In Minneapolis:) RT @infosthetics: Wow. All my heroes will be speaking at the same event in June:  (RT @golan)

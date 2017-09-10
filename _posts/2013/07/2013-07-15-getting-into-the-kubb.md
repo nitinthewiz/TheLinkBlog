@@ -6,7 +6,11 @@ hash: 533cc7326d452846669970eccc31be8d
 annum:
     year: 2013
     month: 07
-hostname: www.leadertelegram.com
+url-parts:
+    scheme: http
+    host: www.leadertelegram.com
+    path: /news/front_page/article_2c73aa72-ec31-11e2-994d-0019bb2963f4.html
+
 ---
 
 Nice writeup about the US National Kubb championship.

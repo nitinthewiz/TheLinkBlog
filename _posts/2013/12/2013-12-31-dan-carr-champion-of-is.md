@@ -6,7 +6,11 @@ hash: 35546f8709c14e656106c0df065e0910
 annum:
     year: 2013
     month: 12
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /business/237829461.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 770fcbef6250a29b9312ecef9deda1fd
 annum:
     year: 2016
     month: 07
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /Microsoft/api-guidelines/blob/master/Guidelines.md
+
 ---
 
 The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface. To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.

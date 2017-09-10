@@ -6,7 +6,11 @@ hash: 72a48218bba55d06a84724f78fc27103
 annum:
     year: 2015
     month: 09
-hostname: brooksreview.net
+url-parts:
+    scheme: https
+    host: brooksreview.net
+    path: /2015/09/content-blocker-test/
+
 ---
 
 

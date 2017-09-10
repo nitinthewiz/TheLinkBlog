@@ -6,7 +6,11 @@ hash: 8871c01a8843ce4bce0d0d3d26989e12
 annum:
     year: 2011
     month: 08
-hostname: www.theworldisraw.com
+url-parts:
+    scheme: http
+    host: www.theworldisraw.com
+    path: /how-to-use-wordpress-to-kill-facebook/
+
 ---
 
 Post-WCSD epiphany: How to use WordPress to Kill Facebook: . "You must account for yourself & your privacy." #wcsf

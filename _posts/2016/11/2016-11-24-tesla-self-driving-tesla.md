@@ -6,7 +6,12 @@ hash: 8428ce6f77afc181ded929a3abd71809
 annum:
     year: 2016
     month: 11
-hostname: www.tesla.com
+url-parts:
+    scheme: https
+    host: www.tesla.com
+    path: /videos/autopilot-self-driving-hardware-neighborhood-long
+    query:
+        redirect: "no"
 ---
 
 

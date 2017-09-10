@@ -6,7 +6,11 @@ hash: 7106d4121425995ba3481be4ccf1bcaa
 annum:
     year: 2011
     month: 08
-hostname: madebyevan.com
+url-parts:
+    scheme: http
+    host: madebyevan.com
+    path: /webgl-water/
+
 ---
 
 

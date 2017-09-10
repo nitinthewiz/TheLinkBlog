@@ -6,7 +6,11 @@ hash: df854bf6581c3394d193f2340c798660
 annum:
     year: 2009
     month: 07
-hostname: www.buzzmachine.com
+url-parts:
+    scheme: http
+    host: www.buzzmachine.com
+    path: /2009/07/04/journalistic-narcissism/
+
 ---
 
 At the Aspen Ideas Festival this week, Andrew Sullivan said, “Journalism has become too much about journalists.” True. It’s not just that newspapers are covering their own dem...

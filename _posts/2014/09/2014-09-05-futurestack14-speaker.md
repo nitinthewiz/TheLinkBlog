@@ -6,7 +6,12 @@ hash: 9c56c07582f2826bcb49df929efd3452
 annum:
     year: 2014
     month: 09
-hostname: blog.newrelic.com
+url-parts:
+    scheme: http
+    host: blog.newrelic.com
+    path: /2014/09/05/fs14-speaker-daniel-schauenberg-etsy
+    query:
+        mpc: "SM-TWIT-generic-EN-Blog-NRBlog-FS14DanielSchauenberg"
 ---
 
 Etsy’s Infrastructure Toolsmith @mrtazz really loves graphs. Preview his #FS14 talk on "Data Driven Monitoring" 

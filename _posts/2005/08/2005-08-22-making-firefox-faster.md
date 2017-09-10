@@ -6,7 +6,11 @@ hash: 718abc2926a4c7c1735ca782a1ebcd9c
 annum:
     year: 2005
     month: 08
-hostname: www.linuxgazette.com
+url-parts:
+    scheme: http
+    host: www.linuxgazette.com
+    path: /node/9802
+
 ---
 
 Tips to make Firefox even faster.

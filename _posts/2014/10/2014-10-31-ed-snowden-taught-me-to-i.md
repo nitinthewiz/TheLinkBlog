@@ -6,7 +6,11 @@ hash: 5e8beaa142f18f6deaebe05795119426
 annum:
     year: 2014
     month: 10
-hostname: firstlook.org
+url-parts:
+    scheme: https
+    host: firstlook.org
+    path: /theintercept/2014/10/28/smuggling-snowden-secrets/
+
 ---
 
 "Micah," the email read, "I'm a friend. I need to get information securely to Laura Poitras."

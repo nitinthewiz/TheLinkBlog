@@ -6,7 +6,11 @@ hash: e623340785b9d2170e2f7e34e9bb57aa
 annum:
     year: 2014
     month: 11
-hostname: www.quora.com
+url-parts:
+    scheme: http
+    host: www.quora.com
+    path: /What-is-the-engineering-interview-process-like-at-Stripe
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b48b676105054ef1e937fbbdd40b8c7a
 annum:
     year: 2013
     month: 07
-hostname: plus.google.com
+url-parts:
+    scheme: https
+    host: plus.google.com
+    path: /%2BScobleizer/posts/SEzDPDsqonF
+
 ---
 
 How do you grab that data back? +SocialSafe

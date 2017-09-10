@@ -6,7 +6,11 @@ hash: 7a06b122ff83b4a676dc57a1bba89a41
 annum:
     year: 2006
     month: 07
-hostname: www.darronschall.com
+url-parts:
+    scheme: http
+    host: www.darronschall.com
+    path: /weblog/archives/000202.cfm
+
 ---
 
 

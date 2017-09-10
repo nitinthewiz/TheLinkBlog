@@ -6,7 +6,11 @@ hash: af2f8211ccaa5f8e889095f44685ec4d
 annum:
     year: 2010
     month: 01
-hostname: www.poynter.org
+url-parts:
+    scheme: http
+    host: www.poynter.org
+    path: /latest-news/mediawire/100452/survey-fox-the-only-tv-news-outlet-that-more-people-say-they-trust-than-distrust/
+
 ---
 
 Public Policy Polling

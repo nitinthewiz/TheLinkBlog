@@ -6,7 +6,11 @@ hash: 4609fc5ab496e1b60fa4e748530d8816
 annum:
     year: 2005
     month: 12
-hostname: www.dotcom-monitor.com
+url-parts:
+    scheme: https
+    host: www.dotcom-monitor.com
+    path: /
+
 ---
 
 External Web Site Monitoring and Website Network Monitoring

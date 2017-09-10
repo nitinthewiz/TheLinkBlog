@@ -6,7 +6,11 @@ hash: fba039703368602857197a80be390519
 annum:
     year: 2015
     month: 12
-hostname: thenextweb.com
+url-parts:
+    scheme: http
+    host: thenextweb.com
+    path: /apple/2015/12/03/qa-apples-craig-federighi-talks-open-source-swift-objective-c-and-the-next-20-years-of-development/
+
 ---
 
 Apple has a lot of open source efforts, but none as big or important as Swift. In announcing Swift as an open source project at WWDC earlier this year, Apple’s Senior Vice President of Software Craig Federighi said it would be the language we use for the next 20 years.

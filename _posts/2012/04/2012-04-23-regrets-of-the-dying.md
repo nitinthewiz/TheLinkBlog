@@ -6,7 +6,11 @@ hash: 88850337314b4ae380e72edb1e591a7a
 annum:
     year: 2012
     month: 04
-hostname: bronnieware.com
+url-parts:
+    scheme: http
+    host: bronnieware.com
+    path: /Regrets-of-the-Dying.html
+
 ---
 
 That is all that remains in the final weeks, love and relationships.

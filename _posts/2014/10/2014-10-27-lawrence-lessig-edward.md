@@ -6,7 +6,12 @@ hash: 05014ca44e6cf2f507940f45746fb619
 annum:
     year: 2014
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "o_Sr96TFQQE"
 ---
 
 HLS Professor Lawrence Lessig interviewed Edward Snowden at Harvard Law School on Oct. 20.

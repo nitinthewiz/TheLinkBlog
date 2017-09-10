@@ -6,7 +6,12 @@ hash: 964ad643bbaf8b059cd73d1d22252eb5
 annum:
     year: 2011
     month: 08
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "qdeSjUYSwCk"
 ---
 
 @cemerdem speaks to over 300 attendees at the kick-off party hosted at @CoCoMSP in the Mpls #BrainExchange   ^RR

@@ -6,7 +6,11 @@ hash: 5abd33ecf83bf2a1cb41ff4252ff7c60
 annum:
     year: 2012
     month: 04
-hostname: agentzh.org
+url-parts:
+    scheme: http
+    host: agentzh.org
+    path: /misc/slides/libdrizzle-lua-nginx.pdf
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 65174a901f3aee60cfba70d24fe7e0b9
 annum:
     year: 2013
     month: 01
-hostname: perceptionistruth.com
+url-parts:
+    scheme: http
+    host: perceptionistruth.com
+    path: /2010/08/custom-logwatch-script-for-ngircd/
+
 ---
 
 

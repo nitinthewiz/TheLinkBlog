@@ -6,7 +6,12 @@ hash: 035d765aeac6250549455cb684a50cc1
 annum:
     year: 2011
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "gtuz5OmOh_M"
 ---
 
 Apple Inc. CEO Steve Jobs presents his proposal for a new Apple Campus to the Cupertino City Council. This presentation was recorded Tuesday, June 7, 2011 at the Cupertino Community Hall.

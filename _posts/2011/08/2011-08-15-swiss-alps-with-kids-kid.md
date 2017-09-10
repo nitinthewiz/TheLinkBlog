@@ -6,7 +6,11 @@ hash: 13b3ac24b8db34b15e5f22b15146ca5b
 annum:
     year: 2011
     month: 08
-hostname: www.ciaobambino.com
+url-parts:
+    scheme: http
+    host: www.ciaobambino.com
+    path: /ciaobambinoblog/index.php/2011/08/kid-friendly-hiking-on-childrens-adventure-trail-murren-switzerland/
+
 ---
 
 It’s easy to set off with babies and toddlers in carriers or backpacks — more challenging is motivating school-age kids to go for any consequential distance. Fortunately, our Swiss friends have thought through this and have taken the time to add kid-friendly treats on the trail.

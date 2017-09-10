@@ -6,7 +6,11 @@ hash: f0f68dd84c879e375a5908f443fcdc0b
 annum:
     year: 2011
     month: 02
-hostname: www.citypages.com
+url-parts:
+    scheme: http
+    host: www.citypages.com
+    path: /2011-02-23/news/inside-the-multimillion-dollar-essay-scoring-business/full/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0313e2bc3d9d75bca9e40834cce7d8e6
 annum:
     year: 2010
     month: 10
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/10/is-this-what-they-meant-by-dancing-about-architecture
+
 ---
 
 Last Saturday, the IAC building in Chelsea became the screen for a giant video art project.

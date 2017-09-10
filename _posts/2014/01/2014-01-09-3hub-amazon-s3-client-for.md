@@ -6,7 +6,11 @@ hash: d315098bdf9d525d6b16bde12e59aefe
 annum:
     year: 2014
     month: 01
-hostname: www.3hubapp.com
+url-parts:
+    scheme: http
+    host: www.3hubapp.com
+    path: /
+
 ---
 
 

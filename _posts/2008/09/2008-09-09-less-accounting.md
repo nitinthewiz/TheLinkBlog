@@ -6,7 +6,11 @@ hash: 1fada3d6838ed83ec4f0431e02cd2995
 annum:
     year: 2008
     month: 09
-hostname: lessaccounting.com
+url-parts:
+    scheme: http
+    host: lessaccounting.com
+    path: /
+
 ---
 
 

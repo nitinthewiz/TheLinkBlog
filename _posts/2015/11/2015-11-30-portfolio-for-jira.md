@@ -6,7 +6,11 @@ hash: ec8f65eccac88d28187d40e51b088913
 annum:
     year: 2015
     month: 11
-hostname: blogs.atlassian.com
+url-parts:
+    scheme: http
+    host: blogs.atlassian.com
+    path: /2015/11/portfolio-for-jira-project-managers-edition/
+
 ---
 
 This is part three of Portfolio for JIRA’s “across the team” series. Last time, we talked about development managers and how they can use Portfolio for JIRA to master the art of capacity planning, see team capacity on the roadmap, and get clear on status and progress. So in this edition, I’m going to show you how project and program managers can use Portfolio for JIRA to accurately plan across projects and teams.

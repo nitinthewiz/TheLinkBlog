@@ -6,7 +6,11 @@ hash: 32f7ecdce34dcc2d6ce6fd46923ffdd6
 annum:
     year: 2008
     month: 03
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gadgets/2008/03/past-present-future-file-systems/
+
 ---
 
 This article will start off by defining what a file system is and what it does. Then we'll take a look back at the history of how various file systems evolved and why new ones were introduced. Finally we'll take a brief glance into our temporal vortex and see how file systems might change in the future. We'll start by looking at the file systems of the past, then we'll look at file systems used by individual operating systems before looking at what the future may hold.

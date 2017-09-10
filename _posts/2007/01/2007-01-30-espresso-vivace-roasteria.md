@@ -6,7 +6,11 @@ hash: d2b4b98cc9379d2c362fa0cf1aad8f7c
 annum:
     year: 2007
     month: 01
-hostname: www.espressovivace.com
+url-parts:
+    scheme: http
+    host: www.espressovivace.com
+    path: /blends.html
+
 ---
 
 Our coffees are slowly roasted to develop a sweet caramel nature in the cup. Because of the high extraction potential of espresso machines, our roasting process is tuned to develop coffee flavors to the fullest--then quickly stopped before the oils can "s

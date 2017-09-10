@@ -6,7 +6,12 @@ hash: 64b8b39321a6d7616faa10a3941a6583
 annum:
     year: 2016
     month: 06
-hostname: queue.acm.org
+url-parts:
+    scheme: http
+    host: queue.acm.org
+    path: /detail.cfm
+    query:
+        id: "2953944"
 ---
 
 Distributed Computing 

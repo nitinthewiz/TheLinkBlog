@@ -6,7 +6,11 @@ hash: 78a15bdff23892df16739813f3ad8c4d
 annum:
     year: 2016
     month: 10
-hostname: stallmanism.wikidot.com
+url-parts:
+    scheme: http
+    host: stallmanism.wikidot.com
+    path: /
+
 ---
 
 

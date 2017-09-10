@@ -6,7 +6,11 @@ hash: cd2878b908d48f3e64504fe59c3a024a
 annum:
     year: 2016
     month: 06
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /thetalkshow/2016/06/17/ep-158
+
 ---
 
 

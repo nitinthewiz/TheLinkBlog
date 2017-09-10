@@ -6,7 +6,11 @@ hash: 4231248bc04695e0db480c8c0c3c2ad3
 annum:
     year: 2013
     month: 07
-hostname: www.youneedabudget.com
+url-parts:
+    scheme: http
+    host: www.youneedabudget.com
+    path: /blog/2013/if-youre-the-frugal-type-this-budget-might-cause-your-brain-to-explode/
+
 ---
 
 Interesting read with the comments.

@@ -6,7 +6,11 @@ hash: 879ea718ecae97f371e4518fd4f78126
 annum:
     year: 2015
     month: 03
-hostname: atomicdelights.com
+url-parts:
+    scheme: http
+    host: atomicdelights.com
+    path: /blog/a-glimpse-at-how-the-apple-watch-is-made
+
 ---
 
 

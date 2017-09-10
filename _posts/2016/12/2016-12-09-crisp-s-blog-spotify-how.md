@@ -6,7 +6,11 @@ hash: a51a834745bdf1a7235d034cd38e51da
 annum:
     year: 2016
     month: 12
-hostname: blog.crisp.se
+url-parts:
+    scheme: http
+    host: blog.crisp.se
+    path: /2016/06/08/henrikkniberg/spotify-rhythm
+
 ---
 
 

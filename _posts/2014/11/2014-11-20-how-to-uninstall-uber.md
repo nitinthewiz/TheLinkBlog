@@ -6,7 +6,12 @@ hash: c6cd18110813dc6fb2c5ab1e3f38aaf7
 annum:
     year: 2014
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2014/11/19/how-to-uninstall-uber/
+    query:
+        ncid: "rss_truncated"
 ---
 
 

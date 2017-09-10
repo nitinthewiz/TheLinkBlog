@@ -6,7 +6,11 @@ hash: bd37eaa795998fa732accfc2989a69b6
 annum:
     year: 2005
     month: 12
-hostname: www.monsterrccentral.com
+url-parts:
+    scheme: http
+    host: www.monsterrccentral.com
+    path: /rcvideos/
+
 ---
 
 

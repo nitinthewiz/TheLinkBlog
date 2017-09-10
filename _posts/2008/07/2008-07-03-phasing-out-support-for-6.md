@@ -6,7 +6,11 @@ hash: 2e4b3445b2d5c8a2920db0c3b5ca64e8
 annum:
     year: 2008
     month: 07
-hostname: 37signals.blogs.com
+url-parts:
+    scheme: http
+    host: 37signals.blogs.com
+    path: /products/2008/07/basecamp-phasin.html
+
 ---
 
 On August 15th, 2008 we will begin phasing out support for Internet Explorer 6 across all 37signals products. In order to continue using the products without any hiccups, Internet Explorer 6 users should upgrade to a newer browser:

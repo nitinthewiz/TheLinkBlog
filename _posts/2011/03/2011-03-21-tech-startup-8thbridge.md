@@ -6,7 +6,11 @@ hash: ac4f62eac40e50e05ebe9cddb7d8857d
 annum:
     year: 2011
     month: 03
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/blog/in_private/2011/03/tech-startup-8thbridge-raises-10m.html
+
 ---
 
 Social e-commerce startup 8thBridge Inc., which helps businesses set up storefronts within Facebook, has raised $10 million in venture capital.

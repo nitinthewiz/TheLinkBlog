@@ -6,7 +6,11 @@ hash: 136d2606a0634e2984f809b436b02ec9
 annum:
     year: 2011
     month: 05
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /bitly/data_hacks
+
 ---
 
 Command line utilities for data analysis

@@ -6,7 +6,13 @@ hash: 5cadf04861b9ef786ea358fe15b2cc91
 annum:
     year: 2010
     month: 12
-hostname: thehill.com
+url-parts:
+    scheme: http
+    host: thehill.com
+    path: /blogs/hillicon-valley/technology/133199-justice-department-weighs-charges-against-wikileaks
+    query:
+        tmpl: "component"
+        print: "1"
 ---
 
 A preview of tomorrow's House Judiciary Committee hearing on #Wikileaks from @theHill: 

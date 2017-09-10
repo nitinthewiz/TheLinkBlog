@@ -6,7 +6,11 @@ hash: 94d3f708f33d82b3e7bd745d2da09ff9
 annum:
     year: 2009
     month: 09
-hostname: mac.finerthingsin.com
+url-parts:
+    scheme: http
+    host: mac.finerthingsin.com
+    path: /post/186286818
+
 ---
 
 Small copy changes like this, to action words (imperatives) instead of confirmations like ‘OK’ are a great way to make UIs more readable and quickly understood. Nice to see Apple making small changes like this.

@@ -6,7 +6,11 @@ hash: 15396b41116bc57e34dd01f2c08d1568
 annum:
     year: 2011
     month: 02
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /super-nginx-killer-build-of-nginx-build-for-luajit-plus/
+
 ---
 
 Ezra Zygmuntowicz, Engine Yard founder now at VMWare, has released a killer build of nginx that bundles seventeen popular nginx modules as well as Luajit, a just-in-time compiler for Lua.

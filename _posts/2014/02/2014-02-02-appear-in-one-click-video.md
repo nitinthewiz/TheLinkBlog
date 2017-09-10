@@ -6,7 +6,11 @@ hash: cb9c834c5339649a62e3a2f7cf5e520e
 annum:
     year: 2014
     month: 02
-hostname: appear.in
+url-parts:
+    scheme: https
+    host: appear.in
+    path: /
+
 ---
 
 

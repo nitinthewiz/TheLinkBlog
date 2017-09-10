@@ -6,7 +6,11 @@ hash: c8b25f253f510cb87ee6c7ae5632c636
 annum:
     year: 2014
     month: 03
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /bunch-lets-use-python-dict-like-object/
+
 ---
 
 

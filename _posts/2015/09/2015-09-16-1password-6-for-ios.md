@@ -6,7 +6,11 @@ hash: 3f0a59a08b922556ba42cf022c30c534
 annum:
     year: 2015
     month: 09
-hostname: blog.agilebits.com
+url-parts:
+    scheme: https
+    host: blog.agilebits.com
+    path: /2015/09/16/1password-6-for-ios-the-extreme-makeover-edition-is-here/
+
 ---
 
 

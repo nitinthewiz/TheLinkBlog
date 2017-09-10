@@ -6,7 +6,11 @@ hash: dea4a92aa362884aa614ae7ef7f8b159
 annum:
     year: 2010
     month: 12
-hostname: safariextensions.tumblr.com
+url-parts:
+    scheme: http
+    host: safariextensions.tumblr.com
+    path: /post/698140225/post-javascript-blacklist-06-14-10
+
 ---
 
 

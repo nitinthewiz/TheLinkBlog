@@ -6,7 +6,11 @@ hash: f0804d9d7cb2190951ce884768058d6f
 annum:
     year: 2007
     month: 03
-hostname: www.electricsheep.org
+url-parts:
+    scheme: http
+    host: www.electricsheep.org
+    path: /
+
 ---
 
 Electric Sheep is a free, open source screen saver run by thousands of people all over the world. It can be installed on any ordinary PC or Mac. When these computers "sleep", the screen saver comes on and the computers communicate with each other by the i

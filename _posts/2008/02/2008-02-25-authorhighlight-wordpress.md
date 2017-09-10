@@ -6,7 +6,11 @@ hash: df1eb02bc8591886e15857f55618f708
 annum:
     year: 2008
     month: 02
-hostname: dev.wp-plugins.org
+url-parts:
+    scheme: http
+    host: dev.wp-plugins.org
+    path: /wiki/AuthorHighlight
+
 ---
 
 Author Highlight is a plugin that prints out a user-specified class attribute if the comment is made by the specified author. It is useful if you would like to apply a different style to comments made by yourself.

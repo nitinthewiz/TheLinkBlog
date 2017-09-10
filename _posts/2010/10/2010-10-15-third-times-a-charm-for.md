@@ -6,7 +6,11 @@ hash: d75b4c8ba9600ca4a0a66aa671bbabf5
 annum:
     year: 2010
     month: 10
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2010/10/15/wordcamp-msp-minnesota/
+
 ---
 
 

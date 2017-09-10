@@ -6,7 +6,11 @@ hash: 56ec346d9f505848fb558544cf355394
 annum:
     year: 2012
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2012/04/30/how-and-why-you-should-do-data-journalism/
+
 ---
 
 

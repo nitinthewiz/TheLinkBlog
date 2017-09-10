@@ -6,7 +6,11 @@ hash: b96fae920450e7db747ca9ca9a84bd6f
 annum:
     year: 2011
     month: 08
-hostname: crookedtimber.org
+url-parts:
+    scheme: http
+    host: crookedtimber.org
+    path: /2011/07/30/text-editors-in-the-lord-of-the-rings/
+
 ---
 
 Prompted by a passing thought about TextMate, I thought I’d make a comprehensive, accurate, unbiased, and irrefutable survey of text editors by way of comparison to locations in The Lord of the Rings.

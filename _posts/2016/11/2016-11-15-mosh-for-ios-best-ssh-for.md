@@ -6,7 +6,11 @@ hash: 492c99205e8eed9536646819383bbc1e
 annum:
     year: 2016
     month: 11
-hostname: www.blink.sh
+url-parts:
+    scheme: http
+    host: www.blink.sh
+    path: /
+
 ---
 
 

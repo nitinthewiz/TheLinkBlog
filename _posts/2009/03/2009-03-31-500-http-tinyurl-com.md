@@ -6,7 +6,11 @@ hash: 047993540ae04a470f4bda05e63aa8e8
 annum:
     year: 2009
     month: 03
-hostname: tinyurl.com
+url-parts:
+    scheme: http
+    host: tinyurl.com
+    path: /cx485y
+
 ---
 
 Blog Post: Flight Control - Great iPhone Game 

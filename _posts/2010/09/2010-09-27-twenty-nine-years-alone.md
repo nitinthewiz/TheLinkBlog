@@ -6,7 +6,11 @@ hash: 1850b5003fa79c3b5088689001c609ab
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/twenty-nine-years-alone
+
 ---
 
 Robert King spent 29 years in prison in solitary confinement for a crime for which he was later cleared.

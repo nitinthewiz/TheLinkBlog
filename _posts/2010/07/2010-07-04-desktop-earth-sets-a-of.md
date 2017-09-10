@@ -6,7 +6,11 @@ hash: 50b8894808d6150ca85883090020c8f6
 annum:
     year: 2010
     month: 07
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5579327/desktop-earth-sets-a-rotating-picture-of-the-earth-as-your-windows-wallpaper
+
 ---
 
 

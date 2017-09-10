@@ -6,7 +6,13 @@ hash: 8cd922e53feadce428df314dcec69265
 annum:
     year: 2014
     month: 02
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /glogin
+    query:
+        mobile: "1"
+        URI: "http://mobile.nytimes.com/2014/02/05/us/chinese-implicated-in-agricultural-espionage-efforts.html?hp&_r=0&referrer="
 ---
 
 Designer Seed Thought to Be Latest Target by Chinese -  

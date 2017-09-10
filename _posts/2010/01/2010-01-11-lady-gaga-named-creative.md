@@ -6,7 +6,11 @@ hash: 5abde7bf246fa58c1a0d45f3ae47c7ca
 annum:
     year: 2010
     month: 01
-hostname: www.aphotoeditor.com
+url-parts:
+    scheme: http
+    host: www.aphotoeditor.com
+    path: /2010/01/08/lady-gaga-named-creative-director-at-polaroid/
+
 ---
 
 No, I am not f-ing with you.

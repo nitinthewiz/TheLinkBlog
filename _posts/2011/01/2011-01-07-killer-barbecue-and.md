@@ -6,7 +6,11 @@ hash: d42b5ceda2f606e4228193c5d22ca0f6
 annum:
     year: 2011
     month: 01
-hostname: amazingribs.com
+url-parts:
+    scheme: http
+    host: amazingribs.com
+    path: /recipes/index.html
+
 ---
 
 

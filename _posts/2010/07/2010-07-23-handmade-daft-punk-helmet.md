@@ -6,7 +6,11 @@ hash: cb2ee7817d542487be415be48e801495
 annum:
     year: 2010
     month: 07
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2010/07/23/handmade-daft-punk-helmet-produces-some-stunning-photo-ops/
+
 ---
 
 Guy makes his own Daft Punk helmet.  It only took 17 months, but damn is that cool:  

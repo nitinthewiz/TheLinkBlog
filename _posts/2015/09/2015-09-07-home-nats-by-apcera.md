@@ -6,7 +6,11 @@ hash: e8f1f5479b79895e32080852f55492d9
 annum:
     year: 2015
     month: 09
-hostname: nats.io
+url-parts:
+    scheme: http
+    host: nats.io
+    path: /
+
 ---
 
 

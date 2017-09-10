@@ -6,7 +6,11 @@ hash: ca1e6357399774951eed4628d69eb84b
 annum:
     year: 2010
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /
+
 ---
 
 

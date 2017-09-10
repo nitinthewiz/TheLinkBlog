@@ -6,7 +6,11 @@ hash: cf33dc7f09bdf72d01bbb8acdfc580c3
 annum:
     year: 2011
     month: 09
-hostname: tympanus.net
+url-parts:
+    scheme: http
+    host: tympanus.net
+    path: /codrops/2011/08/30/automatic-image-montage/
+
 ---
 
 

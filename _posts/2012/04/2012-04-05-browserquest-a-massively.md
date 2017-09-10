@@ -6,7 +6,11 @@ hash: 42a329a186d2a23584c39a456abdcffc
 annum:
     year: 2012
     month: 04
-hostname: hacks.mozilla.org
+url-parts:
+    scheme: https
+    host: hacks.mozilla.org
+    path: /2012/03/browserquest/
+
 ---
 
 BrowserQuest is a tribute to classic video-games with a multiplayer twist. You play as a young warrior driven by the thrill of adventure. No princess to save here, just a dangerous world filled with treasures to discover. And its all done in glorious HTML5 and JavaScript.

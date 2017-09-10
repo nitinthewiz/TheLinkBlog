@@ -6,7 +6,11 @@ hash: d0ab17203a1d9d1fdec5835fd405151d
 annum:
     year: 2011
     month: 09
-hostname: www.jqplot.com
+url-parts:
+    scheme: http
+    host: www.jqplot.com
+    path: /index.php
+
 ---
 
 jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features

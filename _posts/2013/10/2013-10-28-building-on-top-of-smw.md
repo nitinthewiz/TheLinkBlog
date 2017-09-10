@@ -6,7 +6,11 @@ hash: 67e6ee03ec2752adae4fdfa9f097cecf
 annum:
     year: 2013
     month: 10
-hostname: jeroendedauw.github.io
+url-parts:
+    scheme: http
+    host: jeroendedauw.github.io
+    path: /slides/smwcon/2013fall/arch/
+
 ---
 
 The slides from my SMW architecture presentation can be found at  #SMWCon

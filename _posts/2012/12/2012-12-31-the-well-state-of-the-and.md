@@ -6,7 +6,11 @@ hash: 0b70764970ed229163b2df5d613a47be
 annum:
     year: 2012
     month: 12
-hostname: www.well.com
+url-parts:
+    scheme: http
+    host: www.well.com
+    path: /conf/inkwell.vue/topics/459/State-of-the-World-2013-Bruce-St-page01.html
+
 ---
 
 

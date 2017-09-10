@@ -6,7 +6,11 @@ hash: 41df17ce87d0a8423b0b7455bf8bfb73
 annum:
     year: 2017
     month: 08
-hostname: blog.rolemodelsoftware.com
+url-parts:
+    scheme: https
+    host: blog.rolemodelsoftware.com
+    path: /ready-to-farm-for-software-talent-48bda240eca0
+
 ---
 
 This has to be a component of any technology team that needs to grow and scale over time.

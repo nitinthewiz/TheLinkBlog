@@ -6,7 +6,11 @@ hash: 14eed90c54d583cd9c6e5a6bd0657d6a
 annum:
     year: 2013
     month: 01
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /49743214
+
 ---
 
 Amazing video footage taken underwater with a RED.

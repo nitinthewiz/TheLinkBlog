@@ -6,7 +6,11 @@ hash: f9cb7ca536b738c8774a7157cf351f45
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2007/12/11/419-cnbccom-and-microsoft-partner-on-ad-sales-and-content-syndication/
+
 ---
 
 

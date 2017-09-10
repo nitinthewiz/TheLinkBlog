@@ -6,7 +6,11 @@ hash: 1d7268df9ffeec45b1063c9fb48cb41a
 annum:
     year: 2010
     month: 12
-hostname: www.clear.com
+url-parts:
+    scheme: http
+    host: www.clear.com
+    path: /
+
 ---
 
 

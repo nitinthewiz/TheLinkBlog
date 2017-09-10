@@ -6,7 +6,12 @@ hash: 856e5c4b4c2e415a47cc04fc3448e374
 annum:
     year: 2010
     month: 07
-hostname: things.thingelstad.com
+url-parts:
+    scheme: http
+    host: things.thingelstad.com
+    path: /
+    query:
+        tag: "prime-rib"
 ---
 
 What I did today - 

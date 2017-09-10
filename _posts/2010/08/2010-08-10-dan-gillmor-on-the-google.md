@@ -6,7 +6,11 @@ hash: 2892a807818b639c244ac3dab770f34a
 annum:
     year: 2010
     month: 08
-hostname: www.salon.com
+url-parts:
+    scheme: http
+    host: www.salon.com
+    path: /2010/08/09/google_verizon_deal/
+
 ---
 
 Dan Gillmor:

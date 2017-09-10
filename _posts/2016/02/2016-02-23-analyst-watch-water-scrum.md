@@ -6,7 +6,11 @@ hash: 39460f01646d618a9e7b6aecb10258e2
 annum:
     year: 2016
     month: 02
-hostname: sdtimes.com
+url-parts:
+    scheme: http
+    host: sdtimes.com
+    path: /analyst-watch-water-scrum-fall-is-the-reality-of-agile/2/
+
 ---
 
 One way to drive the point home is to ask the project’s management a simple question: “Do you want the technology to help us adapt quickly to threats and opportunities?” If the answer is yes, then tune the approach to favor discovery and action over planning and execution.

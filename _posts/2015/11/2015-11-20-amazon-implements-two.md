@@ -6,7 +6,11 @@ hash: edd98a55bb7ca46d103e8936f29ae213
 annum:
     year: 2015
     month: 11
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2015/11/amazon-implements-two-step-authentication/
+
 ---
 
 November 19, 2015 7:05 AM PT Welcome to the party, Amazon. The retail giant

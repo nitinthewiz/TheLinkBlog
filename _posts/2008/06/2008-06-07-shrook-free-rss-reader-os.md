@@ -6,7 +6,11 @@ hash: 94450534acc05488ca39e329171cf49b
 annum:
     year: 2008
     month: 06
-hostname: www.utsire.com
+url-parts:
+    scheme: http
+    host: www.utsire.com
+    path: /shrook/
+
 ---
 
 

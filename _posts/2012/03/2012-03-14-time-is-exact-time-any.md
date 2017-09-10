@@ -6,7 +6,11 @@ hash: 3d02d05e295658aa517f0fcdf9f2b1d2
 annum:
     year: 2012
     month: 03
-hostname: time.is
+url-parts:
+    scheme: http
+    host: time.is
+    path: /
+
 ---
 
 

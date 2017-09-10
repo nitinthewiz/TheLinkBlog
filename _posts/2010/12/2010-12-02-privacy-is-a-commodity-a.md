@@ -6,7 +6,11 @@ hash: c463de9ff2a127d0806d89bfb6da931b
 annum:
     year: 2010
     month: 12
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /socialmediagroup/defrag-final-5813786
+
 ---
 
 

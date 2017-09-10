@@ -6,7 +6,11 @@ hash: 4bc192cf152335f4181323aa45d3255d
 annum:
     year: 2011
     month: 06
-hostname: cdixon.org
+url-parts:
+    scheme: http
+    host: cdixon.org
+    path: /2011/06/19/foundermarket-fit/
+
 ---
 
 

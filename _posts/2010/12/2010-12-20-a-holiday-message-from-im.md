@@ -6,7 +6,11 @@ hash: e76da4565a049a86cbaec17aa36f7654
 annum:
     year: 2010
     month: 12
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/
+
 ---
 
 Ricky Gervais:

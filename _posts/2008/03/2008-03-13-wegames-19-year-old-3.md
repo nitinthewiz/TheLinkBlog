@@ -6,7 +6,11 @@ hash: 988e8b1a8311579f37ea5f88f81f0619
 annum:
     year: 2008
     month: 03
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/03/12/wegames-19-year-old-founder-raises-3-million-financing/
+
 ---
 
 San Francisco based WeGame, a YouTube for gamers (although it is much more than that) seems to be off to a solid start.  Since launching last month, founder Jared Kim says 7,000 videos have been uploaded to the site, and 13% of users are uploading videos. The other 87% are there to watch game videos like this one from Guitar Hero:

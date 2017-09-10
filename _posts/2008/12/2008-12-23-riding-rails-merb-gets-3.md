@@ -6,7 +6,11 @@ hash: 9eff7f8aa0cea206f15f43e19493bdcf
 annum:
     year: 2008
     month: 12
-hostname: weblog.rubyonrails.org
+url-parts:
+    scheme: http
+    host: weblog.rubyonrails.org
+    path: /2008/12/23/merb-gets-merged-into-rails-3/
+
 ---
 
 Wow - Merb merging into Rails 3! That's news!

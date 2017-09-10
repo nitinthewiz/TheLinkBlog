@@ -6,7 +6,11 @@ hash: bec826acf9f5ce0f1ab9b714b7d75b0d
 annum:
     year: 2017
     month: 05
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2354-protect-your-organization-s-repositories-with-new-security-settings
+
 ---
 
 

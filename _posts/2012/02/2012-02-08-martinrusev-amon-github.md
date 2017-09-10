@@ -6,7 +6,11 @@ hash: b312c92d3a1ee1ff77cc7e3e5ee7df66
 annum:
     year: 2012
     month: 02
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /martinrusev/amon
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 21714ca81b46405e8ec20766892f108c
 annum:
     year: 2011
     month: 05
-hostname: corte.si
+url-parts:
+    scheme: http
+    host: corte.si
+    path: /posts/security/openfeint-udid-deanonymization/index.html
+
 ---
 
 

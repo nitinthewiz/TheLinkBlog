@@ -6,7 +6,11 @@ hash: 5dc16cc908e2bf8137e617eed1c3352b
 annum:
     year: 2012
     month: 06
-hostname: dealbook.nytimes.com
+url-parts:
+    scheme: http
+    host: dealbook.nytimes.com
+    path: /2012/06/28/jpmorgan-trading-loss-may-reach-9-billion/
+
 ---
 
 It blows me away that a bank can lose $9 billion dollars so easily.

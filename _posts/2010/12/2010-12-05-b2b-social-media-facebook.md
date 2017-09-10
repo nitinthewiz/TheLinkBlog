@@ -6,7 +6,11 @@ hash: 2d9e1a735f6de6f800a85ba954afdf97
 annum:
     year: 2010
     month: 12
-hostname: www.suppliesguys.com
+url-parts:
+    scheme: http
+    host: www.suppliesguys.com
+    path: /Blog/Peripheral-Visions/b2b-social-media-marketing-facebook-for-business-part-3
+
 ---
 
 

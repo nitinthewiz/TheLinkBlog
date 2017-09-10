@@ -6,7 +6,11 @@ hash: 266e38bc9566edb30a64da4472df9c05
 annum:
     year: 2012
     month: 12
-hostname: kenhub.github.io
+url-parts:
+    scheme: http
+    host: kenhub.github.io
+    path: /giraffe/
+
 ---
 
 Graphite is powerful, but most front ends rather suck. This one looks a bit better.

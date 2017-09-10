@@ -6,7 +6,11 @@ hash: 232bd587e65fc17f55ae93ee57c13168
 annum:
     year: 2011
     month: 01
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2011/01/03/video-nosql-comparison
+
 ---
 
 Jesse Wolgamott presented at Lone Star Ruby Conference on four major NoSQL databases: CouchDB, MongoDB, RavenDB and SimpleDB. We've covered various comparisons before, such as one by Adrian Cockcroft. And of course there's our own article on the subject: "Is the Relational Database Doomed?" But if you'd rather kick back and watch a conference presentation, then this is for you. It has the benefit of including RavenDB in the comparison, which we haven't covered before.

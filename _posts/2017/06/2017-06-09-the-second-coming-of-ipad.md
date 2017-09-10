@@ -6,7 +6,11 @@ hash: 35bf04c363ec636f93a300c779d1cf13
 annum:
     year: 2017
     month: 06
-hostname: www.buzzfeed.com
+url-parts:
+    scheme: https
+    host: www.buzzfeed.com
+    path: /johnpaczkowski/the-second-coming-of-ipad
+
 ---
 
 I’m extremely confident that there will be a time when most people (probably not all) at work will be using tablets, probably iPads. I think Apple is playing a long game here and I am enjoying being part of it.

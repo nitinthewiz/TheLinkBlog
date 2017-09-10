@@ -6,7 +6,11 @@ hash: 19305b4cbb1f7b6d8f890203a806bec0
 annum:
     year: 2007
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/12/03/cha-ching-hits-1-2-1/
+
 ---
 
 Filed under: Software, Software Update

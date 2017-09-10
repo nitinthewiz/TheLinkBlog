@@ -6,7 +6,11 @@ hash: 9b0cabd49ab5a56fa9f64f6bac90de76
 annum:
     year: 2011
     month: 08
-hostname: www.webosnation.com
+url-parts:
+    scheme: http
+    host: www.webosnation.com
+    path: /opinion-touchpad-better-work-design
+
 ---
 
 

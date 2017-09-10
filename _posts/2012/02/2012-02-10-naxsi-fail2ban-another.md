@@ -6,7 +6,12 @@ hash: a2ece23f96c4badf4c957c429fb7fde0
 annum:
     year: 2012
     month: 02
-hostname: blog.memze.ro
+url-parts:
+    scheme: http
+    host: blog.memze.ro
+    path: /
+    query:
+        p: "28"
 ---
 
 #naxsi + #fail2ban = win ! 

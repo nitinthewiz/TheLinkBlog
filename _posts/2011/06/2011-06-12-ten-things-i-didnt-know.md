@@ -6,7 +6,11 @@ hash: 13cf7c9bad625e5c9a0d0ba8f27b0e93
 annum:
     year: 2011
     month: 06
-hostname: slowping.com
+url-parts:
+    scheme: http
+    host: slowping.com
+    path: /2011/ten-things-i-didnt-know-about-mongodb/
+
 ---
 
 Anyways, this post is about 10 things I learned at the MongoDB conference that surprised me. While some of them are limitations, I remain very impressed with the project and encourage you to check it out.

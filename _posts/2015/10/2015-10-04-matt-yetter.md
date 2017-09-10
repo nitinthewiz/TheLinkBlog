@@ -6,7 +6,11 @@ hash: 445f76f99caba9a0486983260ec08ece
 annum:
     year: 2015
     month: 10
-hostname: www.mattyetter.com
+url-parts:
+    scheme: http
+    host: www.mattyetter.com
+    path: /
+
 ---
 
 Matt Yetter plays classic slide and old time country blues on his National guitar with harmonica rack. The joy in his solo performance doubles as his audience, young and old responds with toe&hellip;

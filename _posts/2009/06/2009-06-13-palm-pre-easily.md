@@ -6,7 +6,11 @@ hash: a70cd2589011b3adc10660c49a21a108
 annum:
     year: 2009
     month: 06
-hostname: blog.steventroughtonsmith.com
+url-parts:
+    scheme: http
+    host: blog.steventroughtonsmith.com
+    path: /2009/06/wwdcpalm-pre-rollercoaster-week.html
+
 ---
 
 Steven Troughton-Smith:

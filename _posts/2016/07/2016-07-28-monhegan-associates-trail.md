@@ -6,7 +6,11 @@ hash: 14e93de48b6a564e7ff2d1018eb12457
 annum:
     year: 2016
     month: 07
-hostname: monheganassociates.org
+url-parts:
+    scheme: http
+    host: monheganassociates.org
+    path: /wp-content/uploads/2016/05/2016TRAILMAP.pdf
+
 ---
 
 

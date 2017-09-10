@@ -6,7 +6,11 @@ hash: 8a9680d9ede2b9fb63d950a0301d714c
 annum:
     year: 2017
     month: 06
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2016/8/23/the-always-on-architecture-moving-beyond-legacy-disaster-rec.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c97e6c5c4a72cdf7bda69f7873fc45ed
 annum:
     year: 2016
     month: 08
-hostname: www.blackhat.com
+url-parts:
+    scheme: https
+    host: www.blackhat.com
+    path: /docs/us-16/materials/us-16-Mandt-Demystifying-The-Secure-Enclave-Processor.pdf
+
 ---
 
 

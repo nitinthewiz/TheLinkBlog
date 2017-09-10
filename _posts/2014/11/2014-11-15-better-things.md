@@ -6,7 +6,11 @@ hash: 4269c7ec726ccc62722d24d28e8bd816
 annum:
     year: 2014
     month: 11
-hostname: patrickrhone.com
+url-parts:
+    scheme: http
+    host: patrickrhone.com
+    path: /2014/11/14/better-things/
+
 ---
 
 

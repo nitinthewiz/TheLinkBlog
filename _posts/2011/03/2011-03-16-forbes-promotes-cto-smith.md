@@ -6,7 +6,11 @@ hash: ae30cfbafb4f74018f7cffbf8d380622
 annum:
     year: 2011
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2011/03/17/419-forbes-promotes-cto-michael-smith-as-digital-head/
+
 ---
 
 Its a good day to name a chief digital officer. Hours after Gannett (NYSE: GCI) named David Payne as its new CDO, Forbes Media says it promoting Michael Smith from chief technology officer to its first chief digital officer.

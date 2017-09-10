@@ -6,7 +6,11 @@ hash: eafb78fec34c67cde2a18e780114a306
 annum:
     year: 2017
     month: 08
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /2017/08/02/quantify-everything-with-exist-dot-io-custom-tracking/
+
 ---
 
 

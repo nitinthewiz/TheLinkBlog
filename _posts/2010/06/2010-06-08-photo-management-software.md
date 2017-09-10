@@ -6,7 +6,11 @@ hash: 5f7d8a09a5c30bf33903a3ee9bf62e56
 annum:
     year: 2010
     month: 06
-hostname: www.adobe.com
+url-parts:
+    scheme: http
+    host: www.adobe.com
+    path: /products/photoshoplightroom/
+
 ---
 
 LR3 released!  BOO YEAH! /via @paddlefish

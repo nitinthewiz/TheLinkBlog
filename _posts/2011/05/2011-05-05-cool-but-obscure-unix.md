@@ -6,7 +6,11 @@ hash: 320e29b46406c6b76dadb58692c9bdff
 annum:
     year: 2011
     month: 05
-hostname: kkovacs.eu
+url-parts:
+    scheme: http
+    host: kkovacs.eu
+    path: /cool-but-obscure-unix-tools
+
 ---
 
 

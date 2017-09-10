@@ -6,7 +6,11 @@ hash: edf12d4adaa52358d7c86e07332ca1b2
 annum:
     year: 2013
     month: 03
-hostname: buzzmachine.com
+url-parts:
+    scheme: http
+    host: buzzmachine.com
+    path: /2013/03/08/hyperlocal-cooties/
+
 ---
 
 A network of semantically connecting wikis. That interests me...

@@ -6,7 +6,11 @@ hash: 8508ac71c280823f280f0317e48142dc
 annum:
     year: 2012
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /mgan59/python-pinboard
+
 ---
 
 A Python module to access Pinboard.in via its API.

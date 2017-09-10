@@ -6,7 +6,11 @@ hash: 3ba2a35a26a40b7ab29cc20c7eef33d8
 annum:
     year: 2010
     month: 01
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2010/01/06/appzapper-a-great-big-upgrade-for-a-small-utility/
+
 ---
 
 Filed under: Software, Cool tools

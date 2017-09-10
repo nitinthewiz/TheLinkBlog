@@ -6,7 +6,11 @@ hash: dfc1fcc21c647b892d3b516ec3c72d2a
 annum:
     year: 2011
     month: 08
-hostname: semantic.gs
+url-parts:
+    scheme: http
+    host: semantic.gs
+    path: /
+
 ---
 
 

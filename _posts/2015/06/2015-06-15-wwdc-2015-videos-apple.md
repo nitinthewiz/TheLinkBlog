@@ -6,7 +6,12 @@ hash: 465acb4c233dc939879f7796d303ca20
 annum:
     year: 2015
     month: 06
-hostname: developer.apple.com
+url-parts:
+    scheme: https
+    host: developer.apple.com
+    path: /videos/wwdc/2015/
+    query:
+        id: "804"
 ---
 
 

@@ -6,7 +6,11 @@ hash: f8406ac72e36fb496136ee138b22810e
 annum:
     year: 2008
     month: 03
-hostname: www.chrisjordan.com
+url-parts:
+    scheme: http
+    host: www.chrisjordan.com
+    path: /current_set2.php
+
 ---
 
 

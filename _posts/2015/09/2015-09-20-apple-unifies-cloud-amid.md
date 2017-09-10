@@ -6,7 +6,11 @@ hash: 19bf4f51b9260d31d818398798e76dd8
 annum:
     year: 2015
     month: 09
-hostname: www.theinformation.com
+url-parts:
+    scheme: https
+    host: www.theinformation.com
+    path: /apple-unifies-cloud-services-platform-amid-open-source-push
+
 ---
 
 Like other tech companies that run Web services, Apple has long relied on open source software. But unlike most others, Apple has largely done so secretly, hampering its hiring and causing other…

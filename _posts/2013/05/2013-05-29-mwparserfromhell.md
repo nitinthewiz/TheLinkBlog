@@ -6,7 +6,11 @@ hash: c4e89e4a709517f3b4d435b6dc8f27a1
 annum:
     year: 2013
     month: 05
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /earwig/mwparserfromhell
+
 ---
 
 Super awesome to find this. Alternative to using Semantic Forms API to dig into template contents. Can also handle multiple occurring templates!

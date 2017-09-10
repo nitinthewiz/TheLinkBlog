@@ -6,7 +6,11 @@ hash: 3dd8e057d84fa80eede98a105dc9dce5
 annum:
     year: 2011
     month: 03
-hostname: smwforum.ontoprise.com
+url-parts:
+    scheme: http
+    host: smwforum.ontoprise.com
+    path: /smwforum/index.php/Help:Semantic_Gardening_extension
+
 ---
 
 

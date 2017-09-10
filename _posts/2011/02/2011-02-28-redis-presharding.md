@@ -6,7 +6,11 @@ hash: 37e5439d75899198b5b3adee799080d8
 annum:
     year: 2011
     month: 02
-hostname: antirez.com
+url-parts:
+    scheme: http
+    host: antirez.com
+    path: /post/redis-presharding.html
+
 ---
 
 

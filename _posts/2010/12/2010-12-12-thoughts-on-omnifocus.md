@@ -6,7 +6,11 @@ hash: bbbea9a01e037d6ade0681df52b57589
 annum:
     year: 2010
     month: 12
-hostname: johnny.chadda.se
+url-parts:
+    scheme: http
+    host: johnny.chadda.se
+    path: /article/thoughts-on-omnifocus/
+
 ---
 
 New Article: Thoughts on OmniFocus 

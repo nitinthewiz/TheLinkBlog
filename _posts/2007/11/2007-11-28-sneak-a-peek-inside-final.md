@@ -6,7 +6,11 @@ hash: c24f56fe6546635a286b2127be00ab11
 annum:
     year: 2007
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/11/28/sneak-a-peek-inside-final-cut-express-4/
+
 ---
 
 Filed under: Multimedia, Software, Video

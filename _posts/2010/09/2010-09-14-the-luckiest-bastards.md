@@ -6,7 +6,11 @@ hash: 40eb144cdb289cea52fd44c1f6c5e8c1
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/the-luckiest-bastards-alive
+
 ---
 
 Made my palms sweaty. (Some of these people — the train dodgers in particular — really put the dumb in dumb luck.)

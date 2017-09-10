@@ -6,7 +6,13 @@ hash: 771b975a418370d74cdc68e21a873049
 annum:
     year: 2007
     month: 08
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /extend/ideas/topic.php
+    query:
+        id: "33"
+        replies: "26"
 ---
 
 

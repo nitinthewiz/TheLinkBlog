@@ -6,7 +6,11 @@ hash: 67e536584ddc1913efb59ea1a9c5dcf0
 annum:
     year: 2017
     month: 08
-hostname: thomasbarker.com
+url-parts:
+    scheme: https
+    host: thomasbarker.com
+    path: /16/03/blockchains-determinism-monads-agents-and-functional-reactive-programming
+
 ---
 
 

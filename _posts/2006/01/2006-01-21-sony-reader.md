@@ -6,7 +6,12 @@ hash: 34064cf36e42f0ac8fe524d12fbeccf2
 annum:
     year: 2006
     month: 01
-hostname: ebookstore.sony.com
+url-parts:
+    scheme: http
+    host: ebookstore.sony.com
+    path: /downpage/index_b.html
+    query:
+        sref: "reader"
 ---
 
 

@@ -6,7 +6,11 @@ hash: b36d202aaf13f6cbc115d8686de9dede
 annum:
     year: 2010
     month: 12
-hostname: www.npr.org
+url-parts:
+    scheme: http
+    host: www.npr.org
+    path: /2009/10/10/113692571/frankencamera-a-giant-leap-for-digital-photos
+
 ---
 
 

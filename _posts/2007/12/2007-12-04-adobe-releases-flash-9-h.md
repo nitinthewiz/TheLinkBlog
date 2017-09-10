@@ -6,7 +6,11 @@ hash: c02154aae52803dc7fd3eb82ef3b51fe
 annum:
     year: 2007
     month: 12
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2007/12/04/adobe_releases_flash_player_9_with_h264_video_support/
+
 ---
 
 Adobe today announced the immediate availability of Adobe Flash Player 9...

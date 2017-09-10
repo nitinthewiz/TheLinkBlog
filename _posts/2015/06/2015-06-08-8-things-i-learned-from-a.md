@@ -6,7 +6,11 @@ hash: b4518c4e927522d685235787adf52619
 annum:
     year: 2015
     month: 06
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /blog/apple_watch
+
 ---
 
 

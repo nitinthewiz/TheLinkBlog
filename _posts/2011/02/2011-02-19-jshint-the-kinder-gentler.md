@@ -6,7 +6,11 @@ hash: 5e29794ceca30ccd1f6511fa5f730968
 annum:
     year: 2011
     month: 02
-hostname: www.jshint.com
+url-parts:
+    scheme: http
+    host: www.jshint.com
+    path: /
+
 ---
 
 

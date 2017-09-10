@@ -6,7 +6,11 @@ hash: bbbce189c4d136f511a88203c01e01b8
 annum:
     year: 2011
     month: 04
-hostname: www.davidlachapelle.com
+url-parts:
+    scheme: http
+    host: www.davidlachapelle.com
+    path: /
+
 ---
 
 

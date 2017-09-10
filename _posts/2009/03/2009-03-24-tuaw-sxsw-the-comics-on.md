@@ -6,7 +6,11 @@ hash: 8f6f30fe4dc26e356bd7f024a90ca264
 annum:
     year: 2009
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/03/23/tuaw-sxsw-the-comics-on-handhelds-panel/
+
 ---
 
 Filed under: Multimedia, iPhone, iPod touch, SXSW

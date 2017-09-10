@@ -6,7 +6,11 @@ hash: 0923cf668816b4c32de87a2f0b98bbd3
 annum:
     year: 2015
     month: 10
-hostname: s3.amazonaws.com
+url-parts:
+    scheme: https
+    host: s3.amazonaws.com
+    path: /AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf
+
 ---
 
 

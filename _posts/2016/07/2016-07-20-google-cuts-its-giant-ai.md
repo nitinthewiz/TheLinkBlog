@@ -6,7 +6,14 @@ hash: 985e7a2b7eb12cbd1a9c563cf7971207
 annum:
     year: 2016
     month: 07
-hostname: www.bloomberg.com
+url-parts:
+    scheme: http
+    host: www.bloomberg.com
+    path: /news/articles/2016-07-19/google-cuts-its-giant-electricity-bill-with-deepmind-powered-ai
+    query:
+        goal: "0_997ed6f472-53782d9637-154258569"
+        mc_cid: "53782d9637"
+        mc_eid: "4d3d000a11"
 ---
 
 

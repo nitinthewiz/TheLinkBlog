@@ -6,7 +6,11 @@ hash: a200ab9824fec0c7a558a549c89908ad
 annum:
     year: 2011
     month: 08
-hostname: www.blurb.com
+url-parts:
+    scheme: http
+    host: www.blurb.com
+    path: /bookstore/detail/2417251
+
 ---
 
 A collection of the creative efforts of a group of photographers creating images in one of Layne Kennedy's 72HOURS themed workshops conducted through the (MPC) Minneapolis Photo Center in Minneapolis, Minnesota.

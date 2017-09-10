@@ -6,7 +6,11 @@ hash: 6beb59936894ee8ecafa6748d7a6fcdc
 annum:
     year: 2016
     month: 05
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2016/04/30/JSON-Schema-funnies
+
 ---
 
 If it looks like a document, use XML. If it looks like an object, use JSON. It’s that simple. The essential difference isn’t simplicity/complexity or compact/verbose or typed/text, it’s ordered-by-default or not

@@ -6,7 +6,11 @@ hash: 72efd8a28429d4b7f5900ba6eac00a74
 annum:
     year: 2011
     month: 04
-hostname: jacquesmattheij.com
+url-parts:
+    scheme: http
+    host: jacquesmattheij.com
+    path: /My+list+of+ideas+for+when+you+are+looking+for+inspiration
+
 ---
 
 

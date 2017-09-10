@@ -6,7 +6,11 @@ hash: d3df180bc1343f717e8b96156460eb0b
 annum:
     year: 2015
     month: 07
-hostname: www.sqlstyle.guide
+url-parts:
+    scheme: http
+    host: www.sqlstyle.guide
+    path: /
+
 ---
 
 A consistent code style guide for SQL to ensure legible and maintainable projects

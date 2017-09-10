@@ -6,7 +6,11 @@ hash: 08fbaf691078e5a446f1ccc5fc0de9a0
 annum:
     year: 2015
     month: 05
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2015/05/08/overcast-apple-watch-redesign
+
 ---
 
 

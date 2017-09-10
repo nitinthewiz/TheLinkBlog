@@ -6,7 +6,11 @@ hash: f54722073fee9f8ecd72ac7ebb098346
 annum:
     year: 2005
     month: 08
-hostname: kaos.to
+url-parts:
+    scheme: http
+    host: kaos.to
+    path: /blog/archives/2005/07/15/armor-your-palace-securing-your-home-and-network/
+
 ---
 
 Article on protecting your home network.

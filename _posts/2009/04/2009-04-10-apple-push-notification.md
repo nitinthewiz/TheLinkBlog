@@ -6,7 +6,11 @@ hash: 6fd48d92d8569866ac6c4bdb972e293d
 annum:
     year: 2009
     month: 04
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /push-notification-servers-open
+
 ---
 
 Apple told developers today that their Push Notification servers were ready for testing.  Those developers whose application hope to operate behind the scenes will need to use this service to notify users of new information.  From Apple:

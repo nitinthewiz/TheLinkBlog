@@ -6,7 +6,11 @@ hash: cb88d6fa3fb58dba579e841a3b1a484c
 annum:
     year: 2011
     month: 02
-hostname: minecraft.net
+url-parts:
+    scheme: https
+    host: minecraft.net
+    path: /
+
 ---
 
 Minecraft is a game about placing blocks to build anything you can imagine.

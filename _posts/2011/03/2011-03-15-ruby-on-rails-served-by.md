@@ -6,7 +6,11 @@ hash: 05299e471a09f834a4d1b500f3827274
 annum:
     year: 2011
     month: 03
-hostname: tech.tomgoren.com
+url-parts:
+    scheme: http
+    host: tech.tomgoren.com
+    path: /archives/245
+
 ---
 
 

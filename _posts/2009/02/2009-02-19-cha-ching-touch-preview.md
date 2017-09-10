@@ -6,7 +6,11 @@ hash: 7acbb67481e0983abffd58a43f9b9382
 annum:
     year: 2009
     month: 02
-hostname: www.midnightapps.com
+url-parts:
+    scheme: http
+    host: www.midnightapps.com
+    path: /blog/archives/2009/02/18/wwwmidnightappscomchachingtouch/
+
 ---
 
 http://www.midnightapps.com/chachingtouch is now live.

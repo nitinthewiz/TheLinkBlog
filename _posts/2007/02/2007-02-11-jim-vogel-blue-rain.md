@@ -6,7 +6,11 @@ hash: ac735220e717d26ffb4a21bfb7634d3d
 annum:
     year: 2007
     month: 02
-hostname: blueraingallery.com
+url-parts:
+    scheme: http
+    host: blueraingallery.com
+    path: /artists/jim_vogel/0
+
 ---
 
 

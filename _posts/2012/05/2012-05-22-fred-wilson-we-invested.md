@@ -6,7 +6,11 @@ hash: f5dc9c43f39e31525a8ab7d2bd00b96c
 annum:
     year: 2012
     month: 05
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2012/05/21/fred-wilson-duckduckgo-reddit-hacker-news/
+
 ---
 
 Consider this a hedge in the Union Square Ventures portfolio. Smart move.  <blockquote> DuckDuckGo has seen incredible growth in the past few months, and it doubled traffic from 500,000 searches a day in December 2011 to 1 million searches a day by mid-February. Union Square Ventures is one of the few investors in the search engine. </blockquote> 

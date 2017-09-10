@@ -6,7 +6,11 @@ hash: 949ae08344108d68eb061310f7a52703
 annum:
     year: 2017
     month: 05
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /linked/1password-adds-travel-mode-feature-for-added-security-while-traveling/
+
 ---
 
 

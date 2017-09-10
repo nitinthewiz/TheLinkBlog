@@ -6,7 +6,12 @@ hash: dc9aae56768d9b28d69e37211ffa738d
 annum:
     year: 2008
     month: 01
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "M0ODskdEPnQ"
 ---
 
 See http://BumpTop.com for more information. BumpTop aims to enrich the desktop metaphor with expressive, lightweight techniques found in the real world.

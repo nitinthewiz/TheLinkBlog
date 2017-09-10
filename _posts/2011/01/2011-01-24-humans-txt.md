@@ -6,7 +6,11 @@ hash: 6881e9b2bc09258c5e5007dc79d8dea6
 annum:
     year: 2011
     month: 01
-hostname: humanstxt.org
+url-parts:
+    scheme: http
+    host: humanstxt.org
+    path: /
+
 ---
 
 A TXT file that contains the information about the different people who have contributed to the web building.

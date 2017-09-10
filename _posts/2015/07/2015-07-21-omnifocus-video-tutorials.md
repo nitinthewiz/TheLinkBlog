@@ -6,7 +6,11 @@ hash: 27dbe8753955361623321fcc00f830c6
 annum:
     year: 2015
     month: 07
-hostname: learnomnifocus.com
+url-parts:
+    scheme: https
+    host: learnomnifocus.com
+    path: /
+
 ---
 
 Live a fulfilling & productive life with some help from OmniFocus. Articles, videos and webinars.

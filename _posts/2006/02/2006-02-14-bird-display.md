@@ -6,7 +6,11 @@ hash: ee88d063cc9072894eed0cce75e290e0
 annum:
     year: 2006
     month: 02
-hostname: www.parasolgarden.com
+url-parts:
+    scheme: http
+    host: www.parasolgarden.com
+    path: /displays.asp
+
 ---
 
 

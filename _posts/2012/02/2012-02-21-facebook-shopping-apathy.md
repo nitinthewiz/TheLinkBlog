@@ -6,7 +6,11 @@ hash: 6a9dcc765ce09142ed489d1bb7d5dbd3
 annum:
     year: 2012
     month: 02
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/ciocentral/2012/02/17/facebook-shopping-apathy-smart-plays-on-f-commerce/
+
 ---
 
 Bloomberg published an article today about the poor performance of Facebook Storefronts and how retailers are closing them amid “apathy.” It was one more article in a series of articles downplaying the value of Facebook to retailers. The Bloomberg article and others like it were correct to say Facebook stores have not sold millions of orders. However, they failed to articulate what the REAL opportunity is for social commerce.

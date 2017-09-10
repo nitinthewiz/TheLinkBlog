@@ -6,7 +6,11 @@ hash: f40a3c003259c3568aa9643ad4812f3a
 annum:
     year: 2006
     month: 01
-hostname: www.yellowicon.com
+url-parts:
+    scheme: http
+    host: www.yellowicon.com
+    path: /
+
 ---
 
 Quality freeware icons

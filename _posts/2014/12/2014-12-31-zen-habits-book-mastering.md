@@ -6,7 +6,11 @@ hash: cf26521b14d903a6aaedce0024a287ce
 annum:
     year: 2014
     month: 12
-hostname: zenhabitsbook.com
+url-parts:
+    scheme: http
+    host: zenhabitsbook.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 08bd15c35043f46f60748b4fd861c0b9
 annum:
     year: 2011
     month: 01
-hostname: paulstamatiou.com
+url-parts:
+    scheme: http
+    host: paulstamatiou.com
+    path: /how-to-wordpress-to-jekyll
+
 ---
 
 

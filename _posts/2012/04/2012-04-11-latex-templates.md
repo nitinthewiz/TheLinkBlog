@@ -6,7 +6,11 @@ hash: e1a9566d10b7f3ec15d820169e7ef224
 annum:
     year: 2012
     month: 04
-hostname: www.latextemplates.com
+url-parts:
+    scheme: http
+    host: www.latextemplates.com
+    path: /
+
 ---
 
 

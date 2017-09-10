@@ -6,7 +6,11 @@ hash: eee708667da84c7489b46320ae9ae12d
 annum:
     year: 2012
     month: 04
-hostname: blog.typekit.com
+url-parts:
+    scheme: http
+    host: blog.typekit.com
+    path: /2012/04/26/updates-to-pageview-measuring/
+
 ---
 
 "Yet another tracking pixel."  Garrick

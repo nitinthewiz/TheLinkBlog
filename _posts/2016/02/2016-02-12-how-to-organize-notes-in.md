@@ -6,7 +6,11 @@ hash: 5dcd0384d6f6dabcc55273481515f4f5
 annum:
     year: 2016
     month: 02
-hostname: thesweetsetup.com
+url-parts:
+    scheme: http
+    host: thesweetsetup.com
+    path: /how-to-organize-notes-with-folders-in-notes-app-for-mac/
+
 ---
 
 I had no idea that you could nest folders in Notes on the Mac. Nice hint.

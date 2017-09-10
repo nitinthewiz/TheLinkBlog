@@ -6,7 +6,11 @@ hash: bdd42d566ed0e610df6054c0efd2b02c
 annum:
     year: 2011
     month: 01
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2011/1/14/tweaking-omnifocus-project-template-applescript.html
+
 ---
 
 

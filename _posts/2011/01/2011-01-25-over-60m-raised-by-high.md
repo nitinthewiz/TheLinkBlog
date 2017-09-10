@@ -6,7 +6,11 @@ hash: 72bd09e85177e933b56620fed4f0f372
 annum:
     year: 2011
     month: 01
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/01/25/minnesota-high-tech-fundraising-2010/
+
 ---
 
 Despite a year’s worth of articles bemoaning the condition of U.S. venture capital investing (see here and here and here), venture capital firms invested $21.8 billion nationally in 2010 (3,277 total investments), according to the National Venture Capital Association & PwC’s annual MoneyTree report.

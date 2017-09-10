@@ -6,7 +6,11 @@ hash: 450bb93bfd9e210e4db088adea152e0e
 annum:
     year: 2010
     month: 11
-hostname: devour.com
+url-parts:
+    scheme: http
+    host: devour.com
+    path: /video/a-life-on-facebook/
+
 ---
 
 

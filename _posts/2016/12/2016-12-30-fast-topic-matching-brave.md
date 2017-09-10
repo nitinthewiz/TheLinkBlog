@@ -6,7 +6,11 @@ hash: 4574fb37a6603cfbe2f42e60f6f22077
 annum:
     year: 2016
     month: 12
-hostname: bravenewgeek.com
+url-parts:
+    scheme: http
+    host: bravenewgeek.com
+    path: /fast-topic-matching/
+
 ---
 
 

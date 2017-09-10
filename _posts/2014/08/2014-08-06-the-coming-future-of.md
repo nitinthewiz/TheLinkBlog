@@ -6,7 +6,11 @@ hash: e6196ff9d1fbbebeb65ddb97fa925663
 annum:
     year: 2014
     month: 08
-hostname: www.standalone-sysadmin.com
+url-parts:
+    scheme: http
+    host: www.standalone-sysadmin.com
+    path: /blog/2012/03/the-coming-future-of-system-administration/
+
 ---
 
 The Coming Future of System Administration - interesting read in regards to sysadmin stuffs #sysadmin 

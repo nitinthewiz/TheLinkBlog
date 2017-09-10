@@ -6,7 +6,11 @@ hash: b10f5a7f2b6ed5d8cb7cedb5953661d2
 annum:
     year: 2009
     month: 02
-hostname: photographers-toolbox.com
+url-parts:
+    scheme: http
+    host: photographers-toolbox.com
+    path: /blog/2009/02/lrblog/
+
 ---
 
 

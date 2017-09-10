@@ -6,7 +6,11 @@ hash: 474c772c61fc4254dab628cdfdb2671a
 annum:
     year: 2011
     month: 07
-hostname: blog.steveklabnik.com
+url-parts:
+    scheme: http
+    host: blog.steveklabnik.com
+    path: /2011/07/03/nobody-understands-rest-or-http.html
+
 ---
 
 

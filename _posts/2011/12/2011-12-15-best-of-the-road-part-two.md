@@ -6,7 +6,11 @@ hash: 88a995ad1e5c29a0584ed929365613dd
 annum:
     year: 2011
     month: 12
-hostname: smallerthanaredwood.com
+url-parts:
+    scheme: http
+    host: smallerthanaredwood.com
+    path: /best-of-the-road-part-two/
+
 ---
 
 Best Of The Road – Part Two:

@@ -6,7 +6,11 @@ hash: 5209e864029387b2242cf74d4b92a46d
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/10/omnifocus-for-iphone-will-be-location-aware/
+
 ---
 
 Filed under: Software, WWDC, iPhone

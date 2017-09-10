@@ -6,7 +6,11 @@ hash: bfcc511b4d0e14e48bf5b34782639907
 annum:
     year: 2011
     month: 07
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/html5slides/
+
 ---
 
 

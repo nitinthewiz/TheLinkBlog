@@ -6,7 +6,11 @@ hash: d98417e7c4e60f7ee36a745c088b2d96
 annum:
     year: 2011
     month: 10
-hostname: agendasapp.com
+url-parts:
+    scheme: http
+    host: agendasapp.com
+    path: /
+
 ---
 
 

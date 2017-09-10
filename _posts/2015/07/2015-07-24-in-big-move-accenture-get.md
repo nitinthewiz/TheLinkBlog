@@ -6,7 +6,11 @@ hash: f42fb5bff9853e9770f267197475e3c4
 annum:
     year: 2015
     month: 07
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: http
+    host: www.washingtonpost.com
+    path: /blogs/on-leadership/wp/2015/07/21/in-big-move-accenture-will-get-rid-of-annual-performance-reviews-and-rankings/
+
 ---
 
 The firm tells The Washington Post that it will abandon its old system for all 330,000 employees, starting in September.

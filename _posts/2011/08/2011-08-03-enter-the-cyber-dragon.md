@@ -6,7 +6,12 @@ hash: f0e0938370ffef5b42a30a2ae834ac68
 annum:
     year: 2011
     month: 08
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /culture/features/2011/09/chinese-hacking-201109
+    query:
+        printable: "true"
 ---
 
 

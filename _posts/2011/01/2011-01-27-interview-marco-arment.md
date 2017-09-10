@@ -6,7 +6,11 @@ hash: 5da72fe49bc29b4ac3616f5559891e49
 annum:
     year: 2011
     month: 01
-hostname: www.randsinrepose.com
+url-parts:
+    scheme: http
+    host: www.randsinrepose.com
+    path: /archives/2011/01/25/interview_marco_arment.html
+
 ---
 
 

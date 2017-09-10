@@ -6,7 +6,15 @@ hash: 044c1b61eedddff7cb8869ec2a61bb26
 annum:
     year: 2010
     month: 06
-hostname: dashes.com
+url-parts:
+    scheme: http
+    host: dashes.com
+    path: /anil/2010/06/three-weeks-in-three-videos.html
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: AnilDash (Anil Dash)"
+        utm_content: "Google Reader"
 ---
 
 Anil Dash's Ignite NY talk on "defending the indefensible" -- recommended: 

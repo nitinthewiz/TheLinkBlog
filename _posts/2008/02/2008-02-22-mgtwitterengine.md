@@ -6,7 +6,11 @@ hash: 7245d5556225b5d7f66fd7fdb24bdfc4
 annum:
     year: 2008
     month: 02
-hostname: mjtsai.com
+url-parts:
+    scheme: http
+    host: mjtsai.com
+    path: /blog/2008/02/22/mgtwitterengine/
+
 ---
 
 Matt Gemmell:

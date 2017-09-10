@@ -6,7 +6,11 @@ hash: 6a5295ee64800bc61804cdd26fc3a6bb
 annum:
     year: 2016
     month: 03
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2016/03/03/the-one-list-you-must-have-but-that-i-hope-youll-never-use/
+
 ---
 
 I knew my wallet was being stolen as it was happening, but was strangely powerless to stop it.

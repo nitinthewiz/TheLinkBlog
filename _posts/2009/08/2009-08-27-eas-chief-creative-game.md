@@ -6,7 +6,11 @@ hash: 4ac80977f0a3c006aea59d3d3f5eb8c4
 annum:
     year: 2009
     month: 08
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/08/26/eas-chief-creative-officer-describes-game-industrys-re-engineering/
+
 ---
 
 The world of video games is changing and the companies involved in it have to adapt to a broader and less hardcore market, said Rich Hilleman, the chief creative officer of Electronic Arts.

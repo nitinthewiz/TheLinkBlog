@@ -6,7 +6,11 @@ hash: 7604a754309d7a6a718a6e25be97747a
 annum:
     year: 2008
     month: 09
-hostname: www.mellowjohnnys.com
+url-parts:
+    scheme: http
+    host: www.mellowjohnnys.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 8af65bae9db03d46098e48af5bf70e04
 annum:
     year: 2010
     month: 08
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /j346xj
+
 ---
 
 Lunch at @chefshack1 today!  

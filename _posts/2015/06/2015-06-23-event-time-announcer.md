@@ -6,7 +6,11 @@ hash: 17e809f9d6756bfd13ec8434e0c53f70
 annum:
     year: 2015
     month: 06
-hostname: www.timeanddate.com
+url-parts:
+    scheme: http
+    host: www.timeanddate.com
+    path: /worldclock/fixedform.html
+
 ---
 
 Let the world know when your webcast, webinar, or chat will begin or when to tune in to a TV show, concert, or game.

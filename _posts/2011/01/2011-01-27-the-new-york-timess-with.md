@@ -6,7 +6,13 @@ hash: 4484987f44ba16a9ea9b56fe39f2c5eb
 annum:
     year: 2011
     month: 01
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/01/30/magazine/30Wikileaks-t.html
+    query:
+        _r: "2"
+        pagewanted: "all"
 ---
 
 

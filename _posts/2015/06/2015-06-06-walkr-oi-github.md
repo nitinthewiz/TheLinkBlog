@@ -6,7 +6,11 @@ hash: 126637ebe1292982ccf71b4e596ffcaf
 annum:
     year: 2015
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /walkr/oi
+
 ---
 
 python library for writing long running processes with a cli interface

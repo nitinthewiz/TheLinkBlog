@@ -6,7 +6,12 @@ hash: 42792b1edffb675846c7b082565c7353
 annum:
     year: 2013
     month: 04
-hostname: natebird.com
+url-parts:
+    scheme: http
+    host: natebird.com
+    path: /
+    query:
+        p: "382"
 ---
 
 Recap of my experience at Minnebar 8 last weekend:    #minnebar

@@ -6,7 +6,11 @@ hash: 5ab11cbed4bf35f33fe460ed16861117
 annum:
     year: 2016
     month: 07
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2016/06/30/7-gtd-helped-us-get-far/
+
 ---
 
 So what does that look like in our day-to-day work?  What tangible evidence can you see of the benefits of GTD at Next Action Associates?

@@ -6,7 +6,12 @@ hash: e3b8930ba3e5c16be92a32e3948ae45c
 annum:
     year: 2010
     month: 12
-hostname: city-journal.org
+url-parts:
+    scheme: http
+    host: city-journal.org
+    path: /printable.php
+    query:
+        id: "6602"
 ---
 
 

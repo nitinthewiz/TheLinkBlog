@@ -6,7 +6,11 @@ hash: 7e69af2996fdb9a6e8f721db21e25848
 annum:
     year: 2008
     month: 04
-hostname: www.gapingvoid.com
+url-parts:
+    scheme: http
+    host: www.gapingvoid.com
+    path: /Moveable_Type/archives/004480.html
+
 ---
 
 

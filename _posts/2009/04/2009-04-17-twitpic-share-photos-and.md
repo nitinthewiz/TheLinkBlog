@@ -6,7 +6,11 @@ hash: 4eeaaf2ba9ba3dd62af11a34e0c724a4
 annum:
     year: 2009
     month: 04
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /3hebb
+
 ---
 
 Big Green Egg is in action turning whole tenderloin into magic.  

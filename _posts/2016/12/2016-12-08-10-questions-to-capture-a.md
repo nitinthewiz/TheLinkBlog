@@ -6,7 +6,11 @@ hash: 896928fafbca5cf7c606102ebd512842
 annum:
     year: 2016
     month: 12
-hostname: dayoneapp.com
+url-parts:
+    scheme: http
+    host: dayoneapp.com
+    path: /2016/12/10-questions-to-capture-the-year-in-your-journal/
+
 ---
 
 

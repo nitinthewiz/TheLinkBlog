@@ -6,7 +6,11 @@ hash: 4f133c1bf7496d868754416aaad03e04
 annum:
     year: 2016
     month: 01
-hostname: www.youneedabudget.com
+url-parts:
+    scheme: http
+    host: www.youneedabudget.com
+    path: /learn/guide/transition-guide
+
 ---
 
 Coming from YNAB 4? Here’s what’s new, improved, and different. And awesome.

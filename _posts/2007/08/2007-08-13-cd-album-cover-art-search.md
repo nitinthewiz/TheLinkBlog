@@ -6,7 +6,11 @@ hash: 947cb0b1b333537249a10c5f37e96bcc
 annum:
     year: 2007
     month: 08
-hostname: www.slothradio.com
+url-parts:
+    scheme: http
+    host: www.slothradio.com
+    path: /covers/
+
 ---
 
 

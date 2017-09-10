@@ -6,7 +6,11 @@ hash: b21100414a1dca5127113e86459be95d
 annum:
     year: 2017
     month: 05
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /comics/believe
+
 ---
 
 

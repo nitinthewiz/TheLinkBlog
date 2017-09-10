@@ -6,7 +6,11 @@ hash: 535a76f822b5e3eca089e1acedd36309
 annum:
     year: 2008
     month: 02
-hostname: www.the-acap.org
+url-parts:
+    scheme: http
+    host: www.the-acap.org
+    path: /
+
 ---
 
 

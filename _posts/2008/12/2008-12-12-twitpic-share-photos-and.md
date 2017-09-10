@@ -6,7 +6,11 @@ hash: a2d3c7b56da1baabad9f45363cc516d8
 annum:
     year: 2008
     month: 12
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /s8f3
+
 ---
 
 Dogs suck. 

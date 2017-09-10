@@ -6,7 +6,11 @@ hash: da190b1623f84aeb70a4df7eedf2924f
 annum:
     year: 2014
     month: 01
-hostname: landscape.io
+url-parts:
+    scheme: https
+    host: landscape.io
+    path: /news/pyflakes-pep8-and-mccabe-complexity-now-supported
+
 ---
 
 Exciting news - Landscape now includes support for PEP8, PyFlakes and McCabe Complexity. Read more: 

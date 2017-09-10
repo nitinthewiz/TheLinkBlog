@@ -6,7 +6,11 @@ hash: 9647078e54a95636b31488dd3e3db69d
 annum:
     year: 2015
     month: 10
-hostname: sixcolors.com
+url-parts:
+    scheme: http
+    host: sixcolors.com
+    path: /post/2015/10/wi-fi-calling-now-available-on-att-iphones/
+
 ---
 
 October 8, 2015 11:56 AM PT The good news is that AT&amp;T and the FCC seem to have finally finished whatever spat discussions they&#x2019;ve been having, and iPhone users on the carrier can now&hellip;

@@ -6,7 +6,11 @@ hash: 246836250e1d0b22794a26f54ad0c60b
 annum:
     year: 2012
     month: 10
-hostname: www.insidefacebook.com
+url-parts:
+    scheme: http
+    host: www.insidefacebook.com
+    path: /2012/10/08/facebook-tests-collections-with-want-and-collect-buttons-for-retailers-news-feed-posts/
+
 ---
 
 When users browse a collection, there are linksdirecting users to buy the items from the retailers website. It is possible there will be a way todistinguish alreadypurchased items from a users products list.Collection posts also include native Facebook features such as Like, share, and comment.

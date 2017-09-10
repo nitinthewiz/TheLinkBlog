@@ -6,7 +6,11 @@ hash: 30646f64fce90cd344b101bbc4c69d9b
 annum:
     year: 2016
     month: 10
-hostname: www.atlantamagazine.com
+url-parts:
+    scheme: http
+    host: www.atlantamagazine.com
+    path: /great-reads/how-the-big-green-egg-became-a-phenomenon/
+
 ---
 
 

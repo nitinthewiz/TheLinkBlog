@@ -6,7 +6,11 @@ hash: 2e5073472d61c710dc48f4ac96c21040
 annum:
     year: 2011
     month: 05
-hostname: www.guernicamag.com
+url-parts:
+    scheme: http
+    host: www.guernicamag.com
+    path: /daily/noam_chomsky_my_reaction_to_os/
+
 ---
 
 

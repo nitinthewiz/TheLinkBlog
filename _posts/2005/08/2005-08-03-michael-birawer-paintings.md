@@ -6,7 +6,11 @@ hash: c84b3a337a7ab4cc10f30680f8d68be3
 annum:
     year: 2005
     month: 08
-hostname: www.michaelbirawer.com
+url-parts:
+    scheme: http
+    host: www.michaelbirawer.com
+    path: /home.html
+
 ---
 
 

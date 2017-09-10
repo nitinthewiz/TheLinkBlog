@@ -6,7 +6,11 @@ hash: 9bb744b36716c7564ad53675c0bc0bf0
 annum:
     year: 2010
     month: 08
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /insideminnpost/2010/08/26/20873/minnpost_now_publishing_full_articles_in_rss_feeds
+
 ---
 
 My note, published on @MinnPost: MinnPost now publishing full articles in RSS feeds: 

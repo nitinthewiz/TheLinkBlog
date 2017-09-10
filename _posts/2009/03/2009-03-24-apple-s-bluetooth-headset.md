@@ -6,7 +6,11 @@ hash: 4ec32b55c829121c3aee693bd145442f
 annum:
     year: 2009
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/03/23/apples-bluetooth-headset-gets-the-axe/
+
 ---
 
 Filed under: Accessories, Hardware, iPhone, Apple History

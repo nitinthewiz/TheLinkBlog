@@ -6,7 +6,11 @@ hash: 148fa1ce585cedadb05b476ba9b8b760
 annum:
     year: 2010
     month: 12
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /3wpjh0j
+
 ---
 
 View from the balcony of New Standards Holiday Show.  

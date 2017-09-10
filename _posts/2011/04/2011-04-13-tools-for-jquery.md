@@ -6,7 +6,11 @@ hash: 70b5c774ee1ab9a60f3ba29375290f97
 annum:
     year: 2011
     month: 04
-hostname: addyosmani.com
+url-parts:
+    scheme: http
+    host: addyosmani.com
+    path: /blog/tools-for-jquery-application-architecture-the-printable-chart/
+
 ---
 
 Today I would like to add a new entry to my on-going series on Large Scale Application development with jQuery – printable tools for application architecture charts.

@@ -6,7 +6,11 @@ hash: 5af1c684696bf4a637344bbf0636bdbe
 annum:
     year: 2015
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/ec2-container-service-ready-for-production-use/
+
 ---
 
 I am happy to be able to announce that Amazon ECS is now generally available! We have added some powerful new features including support for long-running applications, a shiny new Amazon ECS Console, and CloudTrail integration. We are also making Amazon ECS available in the Asia Pacific (Tokyo) region.

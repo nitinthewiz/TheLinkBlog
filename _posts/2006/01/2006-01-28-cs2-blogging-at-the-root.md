@@ -6,7 +6,11 @@ hash: 785e8d6dbeac6de03582a2be37185a74
 annum:
     year: 2006
     month: 01
-hostname: danbartels.com
+url-parts:
+    scheme: http
+    host: danbartels.com
+    path: /blog/b/danb/archive/2005/12/27/1138.aspx
+
 ---
 
 

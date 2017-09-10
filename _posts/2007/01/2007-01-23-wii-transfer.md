@@ -6,7 +6,11 @@ hash: 528eb2d25b8fb734aa7f54263d404987
 annum:
     year: 2007
     month: 01
-hostname: www.riverfold.com
+url-parts:
+    scheme: http
+    host: www.riverfold.com
+    path: /software/wiitransfer/
+
 ---
 
 

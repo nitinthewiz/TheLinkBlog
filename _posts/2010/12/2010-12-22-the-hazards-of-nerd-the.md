@@ -6,7 +6,11 @@ hash: 2d345b08930d79b3d3bd9144635929a7
 annum:
     year: 2010
     month: 12
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/
+
 ---
 
 

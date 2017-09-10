@@ -6,7 +6,11 @@ hash: d18f2c1422844fe591c84666790f2a89
 annum:
     year: 2007
     month: 12
-hostname: www.problogger.net
+url-parts:
+    scheme: http
+    host: www.problogger.net
+    path: /archives/2007/12/09/blogging-vs-social-networking/
+
 ---
 
 Hugh McLeod writes:

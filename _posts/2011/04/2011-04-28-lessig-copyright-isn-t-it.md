@@ -6,7 +6,11 @@ hash: 423d4f5dd76eb8c5f43229cfd87aa8af
 annum:
     year: 2011
     month: 04
-hostname: motherboard.tv
+url-parts:
+    scheme: http
+    host: motherboard.tv
+    path: /2011/4/25/lessig-copyright-isn-t-just-hurting-creativity-it-s-killing-science-video--2
+
 ---
 
 

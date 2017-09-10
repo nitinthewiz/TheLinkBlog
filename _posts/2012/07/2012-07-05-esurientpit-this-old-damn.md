@@ -6,7 +6,11 @@ hash: f9e4449826b0e798004d6e91540be593
 annum:
     year: 2012
     month: 07
-hostname: esurientpit.blogspot.com
+url-parts:
+    scheme: http
+    host: esurientpit.blogspot.com
+    path: /
+
 ---
 
 Blog from the awesome McClain Looney about remodeling his house.

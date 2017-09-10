@@ -6,7 +6,11 @@ hash: 9b18b6c891198b04ac6ed6ff45f29174
 annum:
     year: 2010
     month: 12
-hostname: kernest.com
+url-parts:
+    scheme: http
+    host: kernest.com
+    path: /styles/for-jamie
+
 ---
 
 

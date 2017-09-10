@@ -6,7 +6,11 @@ hash: 92933db98346272a28c95e0f1e1ba541
 annum:
     year: 2015
     month: 03
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: http
+    host: www.washingtonpost.com
+    path: /news/energy-environment/wp/2015/03/16/the-melting-of-antarctica-was-already-really-bad-it-just-got-worse/
+
 ---
 
 A new study suggests that a key glacier of East Antarctica is melting from beneath.

@@ -6,7 +6,11 @@ hash: 1e8069323cb67d3a050574f214e64abf
 annum:
     year: 2011
     month: 08
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/2119/quicklogin-plugin-for-wordpress
+
 ---
 
 

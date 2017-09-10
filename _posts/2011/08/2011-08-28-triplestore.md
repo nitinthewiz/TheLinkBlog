@@ -6,7 +6,11 @@ hash: 851ebd981b61284e64d63f9d02f73656
 annum:
     year: 2011
     month: 08
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Triplestore
+
 ---
 
 Much like a relational database, one stores information in a triplestore and retrieves it via a query language. Unlike a relational database, a triplestore is optimized for the storage and retrieval of many short statements called triples, in the form of subject-predicate-object, like "Bob is 35" or "Bob knows Fred".

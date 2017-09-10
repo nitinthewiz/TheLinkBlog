@@ -6,7 +6,11 @@ hash: ee166a74f2b169344b0201c6f3081a60
 annum:
     year: 2012
     month: 11
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /commentisfree/2012/nov/07/big-media-failure-fourth-estate-election
+
 ---
 
 If media organizations want to know why they are struggling they should be thinking about this type of coverage more.

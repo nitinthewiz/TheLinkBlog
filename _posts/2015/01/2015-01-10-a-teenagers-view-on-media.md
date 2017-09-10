@@ -6,7 +6,11 @@ hash: 79ce23362b7f17bf8da96970dfed0661
 annum:
     year: 2015
     month: 01
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /backchannel/a-teenagers-view-on-social-media-1df945c09ac6
+
 ---
 
 

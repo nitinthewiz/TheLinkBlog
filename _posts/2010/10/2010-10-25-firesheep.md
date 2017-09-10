@@ -6,7 +6,11 @@ hash: 87cd4f5d631a01cb5eef706eec931bd7
 annum:
     year: 2010
     month: 10
-hostname: codebutler.com
+url-parts:
+    scheme: http
+    host: codebutler.com
+    path: /firesheep
+
 ---
 
 Fascinating, frightening free Firefox extension from Eric Butler — lets you hijack (“sidejack”, to be technical) accounts on popular services like Facebook and Twitter by capturing unencrypted session cookies sent over the local network.

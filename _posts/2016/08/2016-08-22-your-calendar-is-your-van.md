@@ -6,7 +6,11 @@ hash: 7792b136f76cd42d2dbbb44aefdf16d5
 annum:
     year: 2016
     month: 08
-hostname: garrickvanburen.com
+url-parts:
+    scheme: https
+    host: garrickvanburen.com
+    path: /your-calendar-is-your-humanity/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7f37578e8730f486c2688a0c4a8316cd
 annum:
     year: 2010
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/11/23/419-propublica-takes-press-out-for-a-spin/
+
 ---
 
 ProPublica is going public today as the latest customer of Press+, the payment platform from Journalism Online.The investigative nonprofit is the most high-profile addition so far from a recent grant by The John S. and James L. Knight Foundation designed to encourage its grantees to try new methods of raising money. 

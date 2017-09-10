@@ -6,7 +6,11 @@ hash: b43f2eb5fa4396f06ec63035e7893742
 annum:
     year: 2011
     month: 03
-hostname: inessential.com
+url-parts:
+    scheme: http
+    host: inessential.com
+    path: /2011/03/16/a_plea_for_baked_weblogs
+
 ---
 
 

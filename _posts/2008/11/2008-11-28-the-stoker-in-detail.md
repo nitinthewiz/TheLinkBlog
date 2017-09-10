@@ -6,7 +6,11 @@ hash: 8411219379e0978456fbf45c6b487ca9
 annum:
     year: 2008
     month: 11
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2006/12/09/the-stoker-in-detail/
+
 ---
 
 

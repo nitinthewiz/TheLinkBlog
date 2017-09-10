@@ -6,7 +6,11 @@ hash: 8c1da1d069aff52d51624693ecd45d0b
 annum:
     year: 2012
     month: 05
-hostname: www.kiva.org
+url-parts:
+    scheme: http
+    host: www.kiva.org
+    path: /annualreport
+
 ---
 
 

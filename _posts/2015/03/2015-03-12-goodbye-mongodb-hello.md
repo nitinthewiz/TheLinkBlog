@@ -6,7 +6,11 @@ hash: 1945d7827741f88fd868b77595a0a069
 annum:
     year: 2015
     month: 03
-hostname: developer.olery.com
+url-parts:
+    scheme: http
+    host: developer.olery.com
+    path: /blog/goodbye-mongodb-hello-postgresql/
+
 ---
 
 

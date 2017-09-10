@@ -6,7 +6,11 @@ hash: 01669d4e0d6d05a49cb6bd6ea0b9bc86
 annum:
     year: 2012
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /vjeux/soulver.js
+
 ---
 
 I like Soulver on my Mac. This is a cool implementation that would allow me to run my own instance on my own server.

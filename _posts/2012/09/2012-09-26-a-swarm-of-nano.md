@@ -6,7 +6,12 @@ hash: c8bd797de816e4cab963229fccdfd8d1
 annum:
     year: 2012
     month: 09
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "YQIMGV5vtd4"
 ---
 
 Crazy stuff these little quadrotors are doing.

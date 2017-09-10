@@ -6,7 +6,11 @@ hash: 3e32680bf58d6c55611457807c97b2df
 annum:
     year: 2015
     month: 07
-hostname: werve.net
+url-parts:
+    scheme: http
+    host: werve.net
+    path: /articles/running-effective-retrospectives/
+
 ---
 
 

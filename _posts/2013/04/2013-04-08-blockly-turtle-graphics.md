@@ -6,7 +6,11 @@ hash: fd8b358d88273b4852928ff0a8d73e7b
 annum:
     year: 2013
     month: 04
-hostname: blockly-demo.appspot.com
+url-parts:
+    scheme: http
+    host: blockly-demo.appspot.com
+    path: /static/apps/turtle/en.html
+
 ---
 
 

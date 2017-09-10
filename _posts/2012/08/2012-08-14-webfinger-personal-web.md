@@ -6,7 +6,11 @@ hash: 045b9207b88c0ee890da870b225188e9
 annum:
     year: 2012
     month: 08
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/webfinger/
+
 ---
 
 WebFinger is about making email addresses more valuable, by letting people attach public metadata to them.

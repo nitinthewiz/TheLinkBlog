@@ -6,7 +6,11 @@ hash: 9c984fc742814b1a8dcf419966103216
 annum:
     year: 2011
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /FRiCKLE/ngx_cache_purge/
+
 ---
 
 nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.

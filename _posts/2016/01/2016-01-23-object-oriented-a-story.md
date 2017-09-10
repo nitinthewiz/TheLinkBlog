@@ -6,7 +6,11 @@ hash: 60f62c8db810455ce1500a108294fde1
 annum:
     year: 2016
     month: 01
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@brianwill/object-oriented-programming-a-personal-disaster-1b044c2383ab
+
 ---
 
 Over my whole programming experience, I've gone back and forth on the question of object-oriented programming, yay or nay. In this last year, though, I've finally settled conclusively in the nay column, and this is my attempt to articulate exactly why. 

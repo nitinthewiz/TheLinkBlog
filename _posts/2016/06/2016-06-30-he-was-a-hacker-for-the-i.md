@@ -6,7 +6,11 @@ hash: 21423802555637887a418708ba8d1f7f
 annum:
     year: 2016
     month: 06
-hostname: theintercept.com
+url-parts:
+    scheme: https
+    host: theintercept.com
+    path: /2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/
+
 ---
 
 he message arrived at night and consisted of three words: 

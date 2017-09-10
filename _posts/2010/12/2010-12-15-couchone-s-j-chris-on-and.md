@@ -6,7 +6,11 @@ hash: 214d3c8e802be7081cd5a451ad255716
 annum:
     year: 2010
     month: 12
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/12/14/j-chris-anderson-interview
+
 ---
 
 

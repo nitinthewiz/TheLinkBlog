@@ -6,7 +6,11 @@ hash: 5d0e9a3e2a57f9627c3b1322a581b8ed
 annum:
     year: 2014
     month: 01
-hostname: safehammad.com
+url-parts:
+    scheme: http
+    host: safehammad.com
+    path: /downloads/python-idioms-2014-01-16.pdf
+
 ---
 
 

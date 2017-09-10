@@ -6,7 +6,12 @@ hash: 45dc0116b929b711f3c1eea8a8c5b853
 annum:
     year: 2009
     month: 12
-hostname: www.cs.umn.edu
+url-parts:
+    scheme: http
+    host: www.cs.umn.edu
+    path: /news/news.php
+    query:
+        id: "935"
 ---
 
 Professor John Riedl was recently named fellow of ACM for his contributions to recommender systems and to social and collaborative computing. The ACM Fellows Program recognizes ACM members who have contributed substantially to the mission of the ACM. Fellows serve as colleagues who help guide and lead members of the ACM.

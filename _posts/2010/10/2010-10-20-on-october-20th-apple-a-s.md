@@ -6,7 +6,11 @@ hash: 226249c8b483a136a312f29ec43fd644
 annum:
     year: 2010
     month: 10
-hostname: twitter.com
+url-parts:
+    scheme: http
+    host: twitter.com
+    path: /siracusa/statuses/27250539100
+
 ---
 
 My thought exactly... RT @siracusa: *cough* 

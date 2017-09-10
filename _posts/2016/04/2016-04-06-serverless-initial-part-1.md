@@ -6,7 +6,11 @@ hash: 7615a2b96973324953a26253094bcf1f
 annum:
     year: 2016
     month: 04
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@PaulDJohnston/serverless-initial-learnings-part-1-fa0dca6c189a
+
 ---
 
 There are both good and bad things with serverless… 

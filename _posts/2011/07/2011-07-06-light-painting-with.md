@@ -6,7 +6,11 @@ hash: 40480a7c3194fb0aee8054b1167d9e22
 annum:
     year: 2011
     month: 07
-hostname: thisiscolossal.com
+url-parts:
+    scheme: http
+    host: thisiscolossal.com
+    path: /2011/07/light-painting-with-roomba-vacuum-cleaners/
+
 ---
 
 

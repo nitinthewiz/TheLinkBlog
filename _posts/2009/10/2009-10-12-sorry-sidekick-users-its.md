@@ -6,7 +6,11 @@ hash: 235313b287e9c98f83c2f8671c35533d
 annum:
     year: 2009
     month: 10
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/10/12/sorry-sidekick-users-its-probably-time-to-say-a-permanent-buh-bye-to-all-your-contacts-calendar-entries-and-photographs/
+
 ---
 
 

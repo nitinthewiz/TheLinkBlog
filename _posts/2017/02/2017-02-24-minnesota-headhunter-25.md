@@ -6,7 +6,11 @@ hash: bb1a46dd9388ee03c92ec2c198a2f2d1
 annum:
     year: 2017
     month: 02
-hostname: www.mnheadhunter.com
+url-parts:
+    scheme: http
+    host: www.mnheadhunter.com
+    path: /mh/2017/02/recap-minnedemo-25.html
+
 ---
 
 I really enjoyed the variety of demos and beginning to end one of the best sets we have had.

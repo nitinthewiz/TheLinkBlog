@@ -6,7 +6,11 @@ hash: e1261065f677c42c1645cfa4512ded8c
 annum:
     year: 2017
     month: 05
-hostname: www.appleworld.today
+url-parts:
+    scheme: https
+    host: www.appleworld.today
+    path: /blog/2017/5/25/wemo-will-support-apples-homekit
+
 ---
 
 

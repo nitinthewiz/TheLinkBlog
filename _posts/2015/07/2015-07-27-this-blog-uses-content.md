@@ -6,7 +6,11 @@ hash: a6c9a85e4c5412efc512dcb2dc432040
 annum:
     year: 2015
     month: 07
-hostname: zyan.scripts.mit.edu
+url-parts:
+    scheme: https
+    host: zyan.scripts.mit.edu
+    path: /blog/this-blog-uses-content-security-policy/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 30fbc7616016d7a491fe4b9a50a8a1dc
 annum:
     year: 2013
     month: 08
-hostname: sethgodin.typepad.com
+url-parts:
+    scheme: http
+    host: sethgodin.typepad.com
+    path: /seths_blog/2013/08/words-are-hooks-words-are-levers.html
+
 ---
 
 "Words are hooks, words are levers" just read.. 

@@ -6,7 +6,11 @@ hash: 2f0d3268198292223bf0f5a1c6c51aaf
 annum:
     year: 2011
     month: 01
-hostname: digitalintelligencetoday.com
+url-parts:
+    scheme: http
+    host: digitalintelligencetoday.com
+    path: /a-year-in-social-commerce-infographic/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d81e7a77f363446ffc16b0b2c6eee2e4
 annum:
     year: 2012
     month: 02
-hostname: www.theverge.com
+url-parts:
+    scheme: http
+    host: www.theverge.com
+    path: /2012/2/6/2775190/honeywell-goes-after-nests-learning-thermostat-for-patent-infringement
+
 ---
 
 

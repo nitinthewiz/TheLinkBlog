@@ -6,7 +6,11 @@ hash: 99ec7e7781c5919664f92dfff14d7800
 annum:
     year: 2009
     month: 04
-hostname: www.scripting.com
+url-parts:
+    scheme: http
+    host: www.scripting.com
+    path: /stories/2009/04/18/citiField.html
+
 ---
 
 I had the priviledge of going to the new Mets ballpark in NY last night. The Mets won in an uncharacteristically elegant way. Bottom of the ninth, bases loaded, Luis Castillo hits a bullet deep in the pocket betw short and third. The Brewers shortstop makes the play, but it's hit too fast and makes him turn too far. Castillo beats the throw at first and the runner scores from third. The team, excited at the thrilling finish, runs on the field and piles on the baserunners. 

@@ -6,7 +6,11 @@ hash: b1eb46b9847a45949c8534e240e06935
 annum:
     year: 2012
     month: 12
-hostname: stats.wikimedia.org
+url-parts:
+    scheme: http
+    host: stats.wikimedia.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d3e4e9aa8273a4a6df3d7da5db3bd509
 annum:
     year: 2015
     month: 05
-hostname: www.theawl.com
+url-parts:
+    scheme: http
+    host: www.theawl.com
+    path: /2015/05/what-could-go-wrong
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ebbd76afbeb5737e7cf895e8472ec221
 annum:
     year: 2017
     month: 03
-hostname: www.mcsweeneys.net
+url-parts:
+    scheme: https
+    host: www.mcsweeneys.net
+    path: /articles/my-fully-optimized-life-allows-me-ample-time-to-optimize-yours
+
 ---
 
 I’m a firm believer in Tim Ferriss’ 4-Hour Workweek™ principles, so I batch my email communication into fifteen minutes on Monday mornings. To make this even more efficient, I reply using one of six standard templates that I crafted for this purpose. I have not personally responded to an email in nine years.

@@ -6,7 +6,11 @@ hash: 7cfa9278dac160a644e22ad22af6b451
 annum:
     year: 2015
     month: 05
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /reviews/apple-watch-review/
+
 ---
 
 The following is a brief record of events over the entirety of Sunday May 3, and Monday May 4, 2015.

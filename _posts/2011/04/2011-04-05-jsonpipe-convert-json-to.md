@@ -6,7 +6,11 @@ hash: 19b771899e2d70771c9b02a3c61716dd
 annum:
     year: 2011
     month: 04
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /post/4363724820/jsonpipe-convert-json-to-a-unix-friendly-line-based-form
+
 ---
 
 Get your bash on and grep json like a star. :-)

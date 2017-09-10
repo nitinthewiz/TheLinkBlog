@@ -6,7 +6,11 @@ hash: 07578741294fe38516cabf23453f43f5
 annum:
     year: 2016
     month: 04
-hostname: brave.com
+url-parts:
+    scheme: https
+    host: brave.com
+    path: /
+
 ---
 
 The new Brave browser automatically blocks ads and trackers, making it faster and safer than your current browser. Soon, micropayments and better ads will give users and publishers a better deal.

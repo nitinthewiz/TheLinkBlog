@@ -6,7 +6,11 @@ hash: 0ef6eec71251dcfaef65c7ad6154a673
 annum:
     year: 2015
     month: 05
-hostname: jimromenesko.com
+url-parts:
+    scheme: http
+    host: jimromenesko.com
+    path: /2015/05/23/former-usa-today-ad-exec-says-killing-the-print-edition-would-be-a-friggin-travesty/
+
 ---
 
 

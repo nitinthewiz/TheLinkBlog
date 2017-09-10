@@ -6,7 +6,11 @@ hash: 8f48afc4febb809441940a4d0bb2eb47
 annum:
     year: 2010
     month: 11
-hostname: www.foodandwine.com
+url-parts:
+    scheme: http
+    host: www.foodandwine.com
+    path: /articles/the-worlds-best-chocolate
+
 ---
 
 

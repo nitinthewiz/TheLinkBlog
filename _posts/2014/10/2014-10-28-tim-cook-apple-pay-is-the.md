@@ -6,7 +6,11 @@ hash: 61a28ea3bf5b9d3c7adcc8dbb7e12543
 annum:
     year: 2014
     month: 10
-hostname: www.theverge.com
+url-parts:
+    scheme: http
+    host: www.theverge.com
+    path: /2014/10/27/7082013/tim-cook-says-that-apple-pay-is-already-the-leader-in-contactless-payments
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d2c84d223579e2e96608e40ba001e0d2
 annum:
     year: 2015
     month: 09
-hostname: canisbos.com
+url-parts:
+    scheme: http
+    host: canisbos.com
+    path: /directlinks
+
 ---
 
 Download DirectLinks This extension circumvents certain techniques used by Google and Facebook to track link clicks. When you click a link in Google search results, Google uses JavaScript to replace…

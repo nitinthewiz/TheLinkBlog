@@ -6,7 +6,11 @@ hash: 5738631d08e392e113ab32500f3266a0
 annum:
     year: 2010
     month: 08
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /282y1oj
+
 ---
 
 @PhilipHotchkiss Would be awesome to be hanging out at Pebble! Long time, Wow! Us and @MaciekG at the Lodge  

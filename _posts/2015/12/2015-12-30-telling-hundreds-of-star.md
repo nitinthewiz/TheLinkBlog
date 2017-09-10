@@ -6,7 +6,11 @@ hash: a9a3469b9238dbde0525065e4fd4a4db
 annum:
     year: 2015
     month: 12
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /telling-hundreds-of-stories-star-tribune-photos-of-the-year/360960701/
+
 ---
 
 Our staff photographers have gathered their favorite images from the past year.

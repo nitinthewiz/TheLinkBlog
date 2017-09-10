@@ -6,7 +6,11 @@ hash: 3685b2ed11a91b22567a2da435664969
 annum:
     year: 2011
     month: 01
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2011/01/24/facebook-credits-out-of-beta/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 24df7d2a503946e78481c6ea3efda8ac
 annum:
     year: 2012
     month: 05
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/relationship/151729525.html
+
 ---
 
 If you can have a discussion, or even utter coherent sentences, with another person while your spinning  your doing it wrong.

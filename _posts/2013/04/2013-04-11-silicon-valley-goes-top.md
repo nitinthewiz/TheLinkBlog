@@ -6,7 +6,11 @@ hash: f93dcd1a97e7e6817b77a070c0ebca86
 annum:
     year: 2013
     month: 04
-hostname: www.businessweek.com
+url-parts:
+    scheme: http
+    host: www.businessweek.com
+    path: /articles/2013-04-10/silicon-valley-goes-hollywood-top-coders-can-now-get-agents
+
 ---
 
 Pack it up. Go home. It's all done now.

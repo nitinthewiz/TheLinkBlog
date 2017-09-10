@@ -6,7 +6,11 @@ hash: a1fcf9b3de1156a4fa8e03630c900d42
 annum:
     year: 2015
     month: 07
-hostname: tonsky.me
+url-parts:
+    scheme: http
+    host: tonsky.me
+    path: /blog/streams/
+
 ---
 
 Introducing concept of Streams, aiming to fix most of email-as-a-medium flaws

@@ -6,7 +6,11 @@ hash: 17465c608c1ae54f8e25afaa9a800ff6
 annum:
     year: 2011
     month: 02
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /treesaver-javascript-library-for-creating-column-and-pag/
+
 ---
 
 Treesaver from Filipe Fortes is a new JavaScript framework for creating magazine-style layouts using standards-compliant HTML and CSS. Weighing in at just 25KB, Treesavers feature set is impressive providing support for grid and column layouts, custom UIs, repeating content, cover pages, figures and illustrations, and analytics.

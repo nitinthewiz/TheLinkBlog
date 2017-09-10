@@ -6,7 +6,11 @@ hash: 4cb39d3b45d27a5a6007c5417d4041a9
 annum:
     year: 2008
     month: 07
-hostname: www.dizzypigbbq.com
+url-parts:
+    scheme: http
+    host: www.dizzypigbbq.com
+    path: /recipesRibs.html
+
 ---
 
 Good recipe with nice photos for making ribs on the Big Green Egg.

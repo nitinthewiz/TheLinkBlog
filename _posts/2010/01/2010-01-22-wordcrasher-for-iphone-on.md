@@ -6,7 +6,12 @@ hash: e4e9acf6516034bb64101924fab41b9a
 annum:
     year: 2010
     month: 01
-hostname: itunes.apple.com
+url-parts:
+    scheme: https
+    host: itunes.apple.com
+    path: /us/app/wordcrasher/id346537793
+    query:
+        mt: "8"
 ---
 
 Word Crasher is a great iPhone word game. Awesome game play!

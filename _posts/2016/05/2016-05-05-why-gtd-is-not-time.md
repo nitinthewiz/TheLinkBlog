@@ -6,7 +6,11 @@ hash: 8927368f6092acdbea548ea27b3c3d00
 annum:
     year: 2016
     month: 05
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2016/05/05/gtd-not-time-management/
+
 ---
 
 At some point when meeting new people, once we

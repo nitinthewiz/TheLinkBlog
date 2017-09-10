@@ -6,7 +6,11 @@ hash: f40ac02ef3e6efd12c9b04b2c11979ae
 annum:
     year: 2013
     month: 11
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:PCR_GUI_Inserts
+
 ---
 
 This could come in handy at some point.

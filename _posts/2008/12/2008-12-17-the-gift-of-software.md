@@ -6,7 +6,11 @@ hash: 199aa739eb6056d812d867e59224db8c
 annum:
     year: 2008
     month: 12
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/659/the-gift-of-software
+
 ---
 
 The holidays are upon us, and if you’re anything like me, you’ve put off buying gifts for your friends and loved ones until almost the last minute!

@@ -6,7 +6,11 @@ hash: 94d0929ca2519e57b60885a652f5a808
 annum:
     year: 2011
     month: 07
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /comics/wwddd
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 54d4c7f3f6a632d1b91cea7d5dcf03e1
 annum:
     year: 2014
     month: 04
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: https
+    host: semantic-mediawiki.org
+    path: /wiki/Semantic_MediaWiki_1.9.2
+
 ---
 
 Semantic MediaWiki 1.9.2 has been released! 

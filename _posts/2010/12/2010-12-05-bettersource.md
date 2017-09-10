@@ -6,7 +6,11 @@ hash: 68af08b42595bc4365aabf0895e4f4ce
 annum:
     year: 2010
     month: 12
-hostname: www.awarepixel.com
+url-parts:
+    scheme: http
+    host: www.awarepixel.com
+    path: /safari/bettersource/
+
 ---
 
 

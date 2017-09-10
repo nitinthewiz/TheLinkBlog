@@ -6,7 +6,11 @@ hash: 77a4519148fc2822d651d0f7c36c8584
 annum:
     year: 2012
     month: 03
-hostname: www.dollarshaveclub.com
+url-parts:
+    scheme: http
+    host: www.dollarshaveclub.com
+    path: 
+
 ---
 
 

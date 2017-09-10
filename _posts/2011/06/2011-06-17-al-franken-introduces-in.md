@@ -6,7 +6,11 @@ hash: eaaba271cde0c5636f1b3da4f8109f91
 annum:
     year: 2011
     month: 06
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-al-franken-introduces-first-location-privacy-bill-in-senate/
+
 ---
 
 More good work from Franken!

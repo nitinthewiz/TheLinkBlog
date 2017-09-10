@@ -6,7 +6,11 @@ hash: 99f6bca33636bf7057187a02a0f01071
 annum:
     year: 2017
     month: 07
-hostname: www.literatureandlatte.com
+url-parts:
+    scheme: http
+    host: www.literatureandlatte.com
+    path: /scapple.php
+
 ---
 
 Ran into this application and was intrigued. It seems like the easiest tool to make [Wardley Maps](http://www.wardleymaps.com) that I've seen.

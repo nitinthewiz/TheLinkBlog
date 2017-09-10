@@ -6,7 +6,11 @@ hash: 160eb9bab629d0d5458d5bc4c89d6a63
 annum:
     year: 2010
     month: 01
-hostname: vqphoto.com
+url-parts:
+    scheme: http
+    host: vqphoto.com
+    path: /2010/nude-art-issues/
+
 ---
 
 Photographing the Nude Workshop with Doug Beasley. 2 days. 5 models. 1,668 photos. Time to edit down! 

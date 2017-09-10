@@ -6,7 +6,11 @@ hash: fa3c6aace8c96eada03d113ac49ef77a
 annum:
     year: 2016
     month: 06
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /talks/sase_panel.htm
+
 ---
 
 Idle Words 

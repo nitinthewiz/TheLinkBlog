@@ -6,7 +6,12 @@ hash: 803afda20c7df6d678c43fca5fcc72bf
 annum:
     year: 2012
     month: 04
-hostname: www.somethingofthatilk.com
+url-parts:
+    scheme: http
+    host: www.somethingofthatilk.com
+    path: /index.php
+    query:
+        id: "400"
 ---
 
 Truly LOL funny.

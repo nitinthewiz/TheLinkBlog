@@ -6,7 +6,12 @@ hash: 77a5fea5d0e35044eebdd6ffedda3d73
 annum:
     year: 2010
     month: 03
-hostname: things.thingelstad.com
+url-parts:
+    scheme: http
+    host: things.thingelstad.com
+    path: /
+    query:
+        p: "154556608"
 ---
 
 Thing:: Spin Art 

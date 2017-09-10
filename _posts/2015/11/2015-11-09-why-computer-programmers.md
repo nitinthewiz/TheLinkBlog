@@ -6,7 +6,11 @@ hash: f36e9c5f9a23c4a069997839bd046652
 annum:
     year: 2015
     month: 11
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/
+
 ---
 
 I

@@ -6,7 +6,11 @@ hash: 3068ac32e48b934495f0f15e1e7e96d6
 annum:
     year: 2008
     month: 04
-hostname: www.draconis.com
+url-parts:
+    scheme: http
+    host: www.draconis.com
+    path: /blog/2008/04/23/5-simple-ways-to-keep-up-with-the-rails-community/
+
 ---
 
 Update: There are some great suggestions in the comments as well.

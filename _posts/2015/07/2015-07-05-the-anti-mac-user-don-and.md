@@ -6,7 +6,11 @@ hash: 98bbc5f6b3e5efddc7c8b5a959b58b16
 annum:
     year: 2015
     month: 07
-hostname: www.nngroup.com
+url-parts:
+    scheme: http
+    host: www.nngroup.com
+    path: /articles/anti-mac-interface/
+
 ---
 
 We reverse all of the core design principles behind the Macintosh human interface guidelines to arrive at the characteristics of the Internet desktop.

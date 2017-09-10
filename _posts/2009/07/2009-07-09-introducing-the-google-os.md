@@ -6,7 +6,11 @@ hash: a9af04046d35c203856e1b4e137e1a9c
 annum:
     year: 2009
     month: 07
-hostname: googleblog.blogspot.com
+url-parts:
+    scheme: http
+    host: googleblog.blogspot.com
+    path: /2009/07/introducing-google-chrome-os.html
+
 ---
 
 It's been an exciting nine months since we launched the Google Chrome browser. Already, over 30 million people use it regularly. We designed Google Chrome for people who live...

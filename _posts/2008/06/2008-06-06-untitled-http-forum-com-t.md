@@ -6,7 +6,13 @@ hash: 2b360cf6df525b931289e4e60613014f
 annum:
     year: 2008
     month: 06
-hostname: forum.parallels.com
+url-parts:
+    scheme: http
+    host: forum.parallels.com
+    path: /showthread.php
+    query:
+        t: "21247"
+        page: "4"
 ---
 
 Parallels build 5604 forum link. 

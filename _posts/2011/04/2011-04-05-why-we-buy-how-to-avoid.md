@@ -6,7 +6,11 @@ hash: 2475efa4ebe6308161be43b7276212fa
 annum:
     year: 2011
     month: 04
-hostname: www.spring.org.uk
+url-parts:
+    scheme: http
+    host: www.spring.org.uk
+    path: /2011/03/why-we-buy-how-to-avoid-10-costly-cognitive-biases.php
+
 ---
 
 

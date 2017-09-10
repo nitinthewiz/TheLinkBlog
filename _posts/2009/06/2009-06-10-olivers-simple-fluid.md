@@ -6,7 +6,11 @@ hash: b381446799f1f4501ec957b6e69ae8d0
 annum:
     year: 2009
     month: 06
-hostname: nerget.com
+url-parts:
+    scheme: http
+    host: nerget.com
+    path: /fluidSim/
+
 ---
 
 Fluid dynamics simulator written in JavaScript. Great demo of the new JavaScript engine in Safari 4.0 — runs about 20 times faster than it did in Safari 3.0. (Via Neven Mrgan.)

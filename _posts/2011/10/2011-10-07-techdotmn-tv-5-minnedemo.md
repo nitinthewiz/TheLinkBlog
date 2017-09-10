@@ -6,7 +6,11 @@ hash: fb1444e84acaeedaa5791023985689b2
 annum:
     year: 2011
     month: 10
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/10/07/techdotmn-tv-5-minnedemo/
+
 ---
 
 

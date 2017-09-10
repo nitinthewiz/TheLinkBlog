@@ -6,7 +6,11 @@ hash: f4d8c832f958bb9b7e5e5732b3c68f46
 annum:
     year: 2011
     month: 05
-hostname: www.informationarchitects.jp
+url-parts:
+    scheme: http
+    host: www.informationarchitects.jp
+    path: /en/business-class-news/
+
 ---
 
 

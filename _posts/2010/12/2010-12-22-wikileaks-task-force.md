@@ -6,7 +6,11 @@ hash: cb9019e0ac08dca72edc8703f33055da
 annum:
     year: 2010
     month: 12
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /world/2010/dec/22/cia-wikileaks-taskforce-wtf
+
 ---
 
 You cant make this shit up:

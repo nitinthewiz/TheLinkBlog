@@ -6,7 +6,11 @@ hash: 4f9d270b5a416abc5d0296e33addeda1
 annum:
     year: 2010
     month: 02
-hostname: www.aphotoeditor.com
+url-parts:
+    scheme: http
+    host: www.aphotoeditor.com
+    path: /2010/02/01/ipad-therefore-iwant-probably-why-idunno/
+
 ---
 
 Some people are complaining because it doesn’t have a camera in it. Spoiled techno-babies, all of them. Just because something is technically possible, it doesn’t mean it has to be done. It’s technically possible to build an egg whisk that makes phonecalls, an MP3 player that dispenses capers or a car with a bread windscreen. Humankind will continue to prosper in their absence. Not everything needs a 15-megapixel lens stuck on the back, like a little glass anus. Give these ingrates a camera and they’d whine that it didn’t have a second camera built into it. What are you taking photographs of anyway? Your camera collection?

@@ -6,7 +6,11 @@ hash: f71be2aa0c0bdadba2af628b334f9cd9
 annum:
     year: 2010
     month: 12
-hostname: www.greatschools.org
+url-parts:
+    scheme: http
+    host: www.greatschools.org
+    path: /minnesota/minneapolis/1289-Burroughs-Elementary-School/
+
 ---
 
 Burroughs Elementary School, located in Minneapolis, Minnesota, serves grades K-5 in the Minneapolis Public School District. It is among the few public elementary schools in Minnesota to receive a distinguished GreatSchools Rating of 9 out of 10.

@@ -6,7 +6,11 @@ hash: 6db784d07460c99900f63c5692232fee
 annum:
     year: 2010
     month: 02
-hostname: blog.llvm.org
+url-parts:
+    scheme: http
+    host: blog.llvm.org
+    path: /2010/02/clang-successfully-self-hosts.html
+
 ---
 
 Doug Gregor of the LLVM project:

@@ -6,7 +6,11 @@ hash: 28c37f4de8d9ab9e48d7783c51248b12
 annum:
     year: 2012
     month: 01
-hostname: www.walkscore.com
+url-parts:
+    scheme: http
+    host: www.walkscore.com
+    path: /score/5237-morgan-ave-s-minneapolis-mn-55419
+
 ---
 
 

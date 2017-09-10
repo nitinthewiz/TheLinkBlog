@@ -6,7 +6,11 @@ hash: 7797763e5648bfb1283993fcdb20d5ef
 annum:
     year: 2017
     month: 06
-hostname: puppet.com
+url-parts:
+    scheme: https
+    host: puppet.com
+    path: /resources/whitepaper/state-of-devops-report
+
 ---
 
 Very good annual read on trends in the DevOps world.

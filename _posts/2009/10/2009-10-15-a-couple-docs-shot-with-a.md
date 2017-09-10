@@ -6,7 +6,11 @@ hash: f02dc5f325a2b58b3cfc2caa71f2ea92
 annum:
     year: 2009
     month: 10
-hostname: www.aphotoeditor.com
+url-parts:
+    scheme: http
+    host: www.aphotoeditor.com
+    path: /2009/10/14/a-couple-docs-shot-with-a-stills-camera/
+
 ---
 
 Photographers are doing some amazing things shooting video with the Canon 5D Mark II. Here are a couple that I saw that made me go “wow” when I heard they were shot on a stills camera. I have no idea how they will hold up on a 50″plasma TV, but who’s got time to watch TV anymore. It’s worth noting that both involve some serious hardships to shoot.

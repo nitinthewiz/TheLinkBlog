@@ -6,7 +6,11 @@ hash: 341e30e5278561e595e83f9eac1dda87
 annum:
     year: 2012
     month: 11
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gaming/2012/11/canada-gets-pared-down-wii-mini-for-100-on-dec-7/
+
 ---
 
 Ugh, I'd buy one of these if they sold it in the US!

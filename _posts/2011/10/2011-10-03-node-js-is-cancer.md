@@ -6,7 +6,11 @@ hash: b02ac96c132c6fce00401f1012f64f3c
 annum:
     year: 2011
     month: 10
-hostname: teddziuba.com
+url-parts:
+    scheme: http
+    host: teddziuba.com
+    path: /2011/10/node-js-is-cancer.html
+
 ---
 
 

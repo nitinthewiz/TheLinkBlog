@@ -6,7 +6,11 @@ hash: b6d6cd6408b24898e4708e244b82b5a2
 annum:
     year: 2008
     month: 03
-hostname: scobleizer.com
+url-parts:
+    scheme: http
+    host: scobleizer.com
+    path: /2008/03/20/vc-admits-he-hates-boring-powerpoints/
+
 ---
 
 The coolest new product I saw at the Under the Radar conference was SlideRocket. It wasn’t just me, either. They won best of show overall as rated by both the judges as well as the audience. In this video you’ll hear me talking with Mitch Grasso, CEO of SlideRocket.

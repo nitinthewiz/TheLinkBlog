@@ -6,7 +6,11 @@ hash: 8cb56c52c272521b93f9596d2fdb470a
 annum:
     year: 2012
     month: 10
-hostname: dilbert.com
+url-parts:
+    scheme: http
+    host: dilbert.com
+    path: /strips/comic/2012-10-21/
+
 ---
 
 

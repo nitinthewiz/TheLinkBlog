@@ -6,7 +6,11 @@ hash: efa543139980e500110eb2a4d8d79069
 annum:
     year: 2010
     month: 10
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5661351/how-do-you-relate-to-your-desk
+
 ---
 
        Filmmaker Aaron Trinder visits the desks of a handful of creative workers to get a look at their workspaces and discuss how they relate to that space. The result is this excellent six-minute video.More »      

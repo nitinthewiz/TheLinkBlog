@@ -6,7 +6,11 @@ hash: e5295542826862e3ba0a9940f28a198c
 annum:
     year: 2012
     month: 07
-hostname: steverandytantra.com
+url-parts:
+    scheme: http
+    host: steverandytantra.com
+    path: /thoughts/three-months-with-sublime-text-2
+
 ---
 
 

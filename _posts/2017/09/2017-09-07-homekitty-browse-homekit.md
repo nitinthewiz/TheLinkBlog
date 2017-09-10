@@ -6,7 +6,11 @@ hash: c6790c46c28f597aa957897c744a1e1c
 annum:
     year: 2017
     month: 09
-hostname: homekitty.world
+url-parts:
+    scheme: https
+    host: homekitty.world
+    path: /
+
 ---
 
 Website to crowdsource HomeKit compatible devices. 💡

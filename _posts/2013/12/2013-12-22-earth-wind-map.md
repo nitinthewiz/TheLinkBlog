@@ -6,7 +6,11 @@ hash: 2001fc08855accbc2c2d76f8ba09d7fc
 annum:
     year: 2013
     month: 12
-hostname: earth.nullschool.net
+url-parts:
+    scheme: http
+    host: earth.nullschool.net
+    path: /
+
 ---
 
 Amazing visual. Zoom into to see the detail.

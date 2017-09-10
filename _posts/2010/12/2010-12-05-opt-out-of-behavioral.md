@@ -6,7 +6,11 @@ hash: cbc68fd67fb5795217fada1f63fbe03a
 annum:
     year: 2010
     month: 12
-hostname: www.networkadvertising.org
+url-parts:
+    scheme: http
+    host: www.networkadvertising.org
+    path: /choices/
+
 ---
 
 

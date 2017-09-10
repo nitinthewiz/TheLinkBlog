@@ -6,7 +6,11 @@ hash: 3b54e74eeab14b2f3d444730da98c751
 annum:
     year: 2012
     month: 02
-hostname: www.gracias-madre.com
+url-parts:
+    scheme: http
+    host: www.gracias-madre.com
+    path: /web/
+
 ---
 
 

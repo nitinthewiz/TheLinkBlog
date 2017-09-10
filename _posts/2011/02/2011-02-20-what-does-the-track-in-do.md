@@ -6,7 +6,11 @@ hash: 7e8b2724a2f14591bdf0396479cee69b
 annum:
     year: 2011
     month: 02
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2011/02/what-does-track-do-not-track-mean
+
 ---
 
 

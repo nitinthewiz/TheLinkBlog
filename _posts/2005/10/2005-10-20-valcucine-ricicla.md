@@ -6,7 +6,11 @@ hash: 0ea526e6f2133f6f83ce5652562e0311
 annum:
     year: 2005
     month: 10
-hostname: www.valcucinena.com
+url-parts:
+    scheme: http
+    host: www.valcucinena.com
+    path: /VCRicicla.html
+
 ---
 
 

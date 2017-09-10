@@ -6,7 +6,11 @@ hash: 4e97fccbf3dfa055e730996f74a02ba0
 annum:
     year: 2010
     month: 12
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2010/12/internet-explorer-9-to-ship-with-new-privacy-features-to-combat-tracking/
+
 ---
 
 

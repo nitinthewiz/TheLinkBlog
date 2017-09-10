@@ -6,7 +6,11 @@ hash: d2f0fde42da22ff9f12fa70b4bd73299
 annum:
     year: 2011
     month: 02
-hostname: www.getchef.com
+url-parts:
+    scheme: https
+    host: www.getchef.com
+    path: /support/
+
 ---
 
 Building a fully automated Java Web Stack with @Opscode Chef on #EC2  #opschef #aws

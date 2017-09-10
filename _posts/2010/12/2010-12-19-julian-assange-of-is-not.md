@@ -6,7 +6,12 @@ hash: a869605a683248f07c94993566592c92
 annum:
     year: 2010
     month: 12
-hostname: www.swissinfo.ch
+url-parts:
+    scheme: http
+    host: www.swissinfo.ch
+    path: /eng/politics/WikiLeaks_founder_not_welcome_at_Davos_forum.html
+    query:
+        cid: "29063564"
 ---
 
 RT @evgenymorozov: Shocking: WikiLeaks founder not welcome at Davos forum 

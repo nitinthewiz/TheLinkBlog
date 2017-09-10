@@ -6,7 +6,12 @@ hash: 5ee9d11b77ce987c9a69b56e248f1464
 annum:
     year: 2006
     month: 04
-hostname: zip-code-boundaries.com
+url-parts:
+    scheme: http
+    host: zip-code-boundaries.com
+    path: /index.html
+    query:
+        zip: "55343"
 ---
 
 

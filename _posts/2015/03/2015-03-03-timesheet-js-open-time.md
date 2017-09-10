@@ -6,7 +6,11 @@ hash: 895c8fdf929c0031bd93d2100ee90ca1
 annum:
     year: 2015
     month: 03
-hostname: sbstjn.github.io
+url-parts:
+    scheme: http
+    host: sbstjn.github.io
+    path: /timesheet.js/
+
 ---
 
 

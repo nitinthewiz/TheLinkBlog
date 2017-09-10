@@ -6,7 +6,11 @@ hash: da58667347e7dc16ce7d140283d01ab4
 annum:
     year: 2016
     month: 11
-hostname: michaelmoore.com
+url-parts:
+    scheme: http
+    host: michaelmoore.com
+    path: /trumpwillwin/
+
 ---
 
 

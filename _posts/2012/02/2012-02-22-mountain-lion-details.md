@@ -6,7 +6,11 @@ hash: 0401724b02230ff2c7d81477c24a6cf9
 annum:
     year: 2012
     month: 02
-hostname: www.macworld.com
+url-parts:
+    scheme: http
+    host: www.macworld.com
+    path: /article/1165496/ten_exciting_system_changes_in_mountain_lion.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 2959cb7c07bd5a91d46bfbe53687593f
 annum:
     year: 2005
     month: 11
-hostname: firewood.com
+url-parts:
+    scheme: http
+    host: firewood.com
+    path: 
+
 ---
 
 Where I get my firewood from. It's amazing that a local, small company owns this domain.

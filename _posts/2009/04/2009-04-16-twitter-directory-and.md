@@ -6,7 +6,11 @@ hash: b2cafec1f1644d95ec6729c4c435c1cb
 annum:
     year: 2009
     month: 04
-hostname: wefollow.com
+url-parts:
+    scheme: http
+    host: wefollow.com
+    path: 
+
 ---
 
 Following the herd to  twitter directory tagged  #entrepreneur #tech #fun

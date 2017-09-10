@@ -6,7 +6,11 @@ hash: 82b1cd9a476a8650d5b367e91efd081c
 annum:
     year: 2013
     month: 03
-hostname: www.automatic.com
+url-parts:
+    scheme: https
+    host: www.automatic.com
+    path: /
+
 ---
 
 This looks kind of interesting!

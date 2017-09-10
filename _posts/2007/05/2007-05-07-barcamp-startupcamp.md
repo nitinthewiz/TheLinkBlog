@@ -6,7 +6,11 @@ hash: 479d0f0bafac64edfa907f633e18c637
 annum:
     year: 2007
     month: 05
-hostname: barcamp.org
+url-parts:
+    scheme: http
+    host: barcamp.org
+    path: /StartupCamp
+
 ---
 
 Startup Camp is Minneapolis-St. Paul's own day-long startup bootcamp.

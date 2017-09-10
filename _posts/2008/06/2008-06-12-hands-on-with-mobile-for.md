@@ -6,7 +6,11 @@ hash: 30f12d2e55efaa2780117f11673220ce
 annum:
     year: 2008
     month: 06
-hostname: www.macdailynews.com
+url-parts:
+    scheme: http
+    host: www.macdailynews.com
+    path: /index.php/weblog/comments/hands_on_with_mobile_twitterrific_for_apple_iphone/
+
 ---
 
 Iconfactory's Craig Hockenberry has made no secret of the fact that he has been working on an iPhone version...

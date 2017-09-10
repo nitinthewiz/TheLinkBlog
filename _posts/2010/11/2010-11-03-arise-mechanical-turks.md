@@ -6,7 +6,11 @@ hash: 7f22273390cfaa270468bbbb950163a6
 annum:
     year: 2010
     month: 11
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/arise-mechanical-turks-arise
+
 ---
 
 

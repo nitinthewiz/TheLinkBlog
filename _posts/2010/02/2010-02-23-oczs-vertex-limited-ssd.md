@@ -8,7 +8,11 @@ hash: 3151efebde7ff01aa0f792841abfff6a
 annum:
     year: 2010
     month: 02
-hostname: www.anandtech.com
+url-parts:
+    scheme: http
+    host: www.anandtech.com
+    path: /show/2944
+
 ---
 
 Short version summary of current state of SSDs: read this recent Anandtech piece: 

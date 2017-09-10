@@ -6,7 +6,11 @@ hash: 1fbaf9dc389433cefebe075a6bc61138
 annum:
     year: 2007
     month: 12
-hostname: signalvnoise.com
+url-parts:
+    scheme: http
+    host: signalvnoise.com
+    path: /posts/751-seed-almost-sold-out
+
 ---
 
 Along with Jim Coudal of Coudal Partners and Carlos Segura of Segura Inc. and T.26, were again presenting a one-day conference on design, entrepreneurship and inspiration on Chicagos IIT Campus. The date is Friday, January 18th.

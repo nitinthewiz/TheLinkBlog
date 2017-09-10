@@ -6,7 +6,11 @@ hash: 4ac6cfacb8b682d3ae92d5fc8cac3612
 annum:
     year: 2013
     month: 12
-hostname: cranked.io
+url-parts:
+    scheme: http
+    host: cranked.io
+    path: /
+
 ---
 
 Cranked is a self hosted RSS reader that separates the wheat from the chaff and floats articles most worthy of your attention right to the top at your command.

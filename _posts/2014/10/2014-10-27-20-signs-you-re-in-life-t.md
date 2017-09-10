@@ -6,7 +6,11 @@ hash: b99a699c51a3ad22cdc385efef3caca6
 annum:
     year: 2014
     month: 10
-hostname: www.lifehack.org
+url-parts:
+    scheme: http
+    host: www.lifehack.org
+    path: /articles/communication/20-signs-youre-succeeding-life-even-you-dont-feel-you-are.html
+
 ---
 
 Do you feel like a failure sometimes? Don't worry, here are 20 signs that you are probably succeeding a lot more than you think you are.

@@ -6,7 +6,13 @@ hash: bd26421e49cb73c14b8ac64bbacf7134
 annum:
     year: 2010
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/12/05/us/politics/05states.html
+    query:
+        nl: "todaysheadlines"
+        emc: "a2"
 ---
 
 

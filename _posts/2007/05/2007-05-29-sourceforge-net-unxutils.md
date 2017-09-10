@@ -6,7 +6,11 @@ hash: feba0939bd7342c30e7d7c561adc52a5
 annum:
     year: 2007
     month: 05
-hostname: sourceforge.net
+url-parts:
+    scheme: http
+    host: sourceforge.net
+    path: /projects/unxutils
+
 ---
 
 

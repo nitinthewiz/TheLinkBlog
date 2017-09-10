@@ -6,7 +6,13 @@ hash: e9c4fe4e8ebe5051dba1cf951a9b916d
 annum:
     year: 2006
     month: 02
-hostname: www.eagletreesystems.com
+url-parts:
+    scheme: http
+    host: www.eagletreesystems.com
+    path: /index.php
+    query:
+        route: "product/category"
+        path: "63_70"
 ---
 
 

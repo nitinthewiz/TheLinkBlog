@@ -6,7 +6,11 @@ hash: 8b3d581b71b19202550bd8451f50944c
 annum:
     year: 2015
     month: 02
-hostname: www.modeloff.com
+url-parts:
+    scheme: http
+    host: www.modeloff.com
+    path: /
+
 ---
 
 

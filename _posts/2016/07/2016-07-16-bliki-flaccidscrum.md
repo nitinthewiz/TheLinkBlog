@@ -6,7 +6,11 @@ hash: f4b307a523fb0d5c2b914b48d488664a
 annum:
     year: 2016
     month: 07
-hostname: martinfowler.com
+url-parts:
+    scheme: http
+    host: martinfowler.com
+    path: /bliki/FlaccidScrum.html
+
 ---
 
 agile

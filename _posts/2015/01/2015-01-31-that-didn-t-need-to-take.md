@@ -6,7 +6,11 @@ hash: 700d343cd2bfafa8ff8ab7cfbe68065c
 annum:
     year: 2015
     month: 01
-hostname: www.feld.com
+url-parts:
+    scheme: http
+    host: www.feld.com
+    path: /archives/2015/01/didnt-need-take-hour.html
+
 ---
 
 Over time, I’ve come up with some approaches to deal with this massively over-scheduled life in order to stay sane. Here are a few of them.

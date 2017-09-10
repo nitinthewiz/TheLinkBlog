@@ -6,7 +6,11 @@ hash: 5e6c8ffdec39808bacf274846a6c01c2
 annum:
     year: 2008
     month: 03
-hostname: www.grouplens.org
+url-parts:
+    scheme: http
+    host: www.grouplens.org
+    path: /node/207
+
 ---
 
 Newsweek has an article that argues that Web 3.0 is going to be all about injecting the experts back into the information production and dissemination process. I think they've gotten the big picture badly wrong, but the saddest quote in the article is about why one of the 'experts' they interview thinks this change will come about:

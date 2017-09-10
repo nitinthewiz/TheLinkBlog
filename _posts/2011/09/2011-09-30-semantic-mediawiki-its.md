@@ -6,7 +6,11 @@ hash: b2eee8ddba6f533bbbef0d1c95fe5855
 annum:
     year: 2011
     month: 09
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/Semantic_MediaWiki_celebrates_its_6th_anniversary
+
 ---
 
 Semantic MediaWiki celebrates its 6th anniversary! See the news item →  #SemanticMW #SMW #awesome

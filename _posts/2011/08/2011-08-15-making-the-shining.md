@@ -6,7 +6,11 @@ hash: 49cf6b3cf92f9e2fd95656ad9e7df609
 annum:
     year: 2011
     month: 08
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/08/making-the-shining
+
 ---
 
 

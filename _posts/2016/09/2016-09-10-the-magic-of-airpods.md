@@ -6,7 +6,11 @@ hash: 3a98deb490c3f9a1948f8cdfaf4b7c46
 annum:
     year: 2016
     month: 09
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2016/09/the-magic-of-airpods/
+
 ---
 
 Let me start with an admission: I

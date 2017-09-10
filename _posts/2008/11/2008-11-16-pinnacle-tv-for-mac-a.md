@@ -6,7 +6,11 @@ hash: d5facd3db10e4b7acaa2b60410b53b6f
 annum:
     year: 2008
     month: 11
-hostname: iconnectdots.com
+url-parts:
+    scheme: http
+    host: iconnectdots.com
+    path: /2008/11/pinnacle-tv-for-mac-a-great-gift.html
+
 ---
 
 In this down economy, people have been asking me (since I have a reputation as a gadget freak) what would be great gifts for this holiday season and would be ones with "a high geek factor and a low price."

@@ -6,7 +6,11 @@ hash: aac79e640e771d11370aa85a85af691e
 annum:
     year: 2012
     month: 02
-hostname: www.drummerman.net
+url-parts:
+    scheme: http
+    host: www.drummerman.net
+    path: /shining/duality.html
+
 ---
 
 The concept of doubles has always had a hold on the collective imagination of mankind. The good twin/evil twin scenario, Jekyll and Hyde, Doppelgangers - there's something inherently disturbing and fascinating about the idea that there can be duplicates of something, or that one thing can be two conflicting entities at once. 

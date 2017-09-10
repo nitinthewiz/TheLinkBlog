@@ -6,7 +6,11 @@ hash: e24d460702030bbf3e14744107f19ee7
 annum:
     year: 2009
     month: 07
-hostname: www.tdfblog.com
+url-parts:
+    scheme: http
+    host: www.tdfblog.com
+    path: /2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
+
 ---
 
 If you're interested in the Tour de France, but you don't really get what's going on all the time, this is the post for you.

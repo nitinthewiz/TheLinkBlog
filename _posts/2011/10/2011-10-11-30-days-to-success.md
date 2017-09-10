@@ -6,7 +6,11 @@ hash: cccc999a601549cbd8b65818b483af14
 annum:
     year: 2011
     month: 10
-hostname: www.stevepavlina.com
+url-parts:
+    scheme: http
+    host: www.stevepavlina.com
+    path: /blog/2005/04/30-days-to-success/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b85fcaef51e05adb5bcb168647401967
 annum:
     year: 2012
     month: 01
-hostname: simpledesktops.com
+url-parts:
+    scheme: http
+    host: simpledesktops.com
+    path: /
+
 ---
 
 A collection of wallpapers curated by Tom Watson designed to make your computer beautiful without distraction.

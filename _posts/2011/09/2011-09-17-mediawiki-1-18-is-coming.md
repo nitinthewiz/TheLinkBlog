@@ -6,7 +6,11 @@ hash: 67c0c457a0ca823ef0a9007bb5fd05d1
 annum:
     year: 2011
     month: 09
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2011/09/16/mediawiki118iscomin/
+
 ---
 
 Update coming...

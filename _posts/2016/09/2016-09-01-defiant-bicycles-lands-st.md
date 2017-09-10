@@ -6,7 +6,11 @@ hash: 6db6078c66b25e6f5511f926692f4439
 annum:
     year: 2016
     month: 09
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/news/2016/08/26/defiant-bicycles-lands-cash-for-electric-fat-tire.html
+
 ---
 
 

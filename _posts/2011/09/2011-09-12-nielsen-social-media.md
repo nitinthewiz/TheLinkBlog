@@ -6,7 +6,11 @@ hash: 7122602c417eda53d49bce5439b957ed
 annum:
     year: 2011
     month: 09
-hostname: blog.nielsen.com
+url-parts:
+    scheme: http
+    host: blog.nielsen.com
+    path: /nielsenwire/social/
+
 ---
 
 Astounding Facebook domination of our time. Nielsen: Social Media Report 

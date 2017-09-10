@@ -6,7 +6,11 @@ hash: cb4c25b05586b6d6ee8c4ffe7ae38cad
 annum:
     year: 2005
     month: 12
-hostname: www.videolan.org
+url-parts:
+    scheme: http
+    host: www.videolan.org
+    path: /vlc/
+
 ---
 
 

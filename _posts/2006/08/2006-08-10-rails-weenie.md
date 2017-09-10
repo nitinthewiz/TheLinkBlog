@@ -6,7 +6,11 @@ hash: 3b3cc7e8b1a9bfe9172f749c9bff97cf
 annum:
     year: 2006
     month: 08
-hostname: rails.techno-weenie.net
+url-parts:
+    scheme: http
+    host: rails.techno-weenie.net
+    path: /
+
 ---
 
 find answers to your Ruby on Rails questions

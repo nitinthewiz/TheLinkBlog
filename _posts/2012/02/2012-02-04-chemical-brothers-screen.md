@@ -6,7 +6,11 @@ hash: f54cb8311da938248571a3e40fc41f63
 annum:
     year: 2012
     month: 02
-hostname: www.urb.com
+url-parts:
+    scheme: http
+    host: www.urb.com
+    path: /2012/02/02/chemical-brothers-screen-live-show-extravaganza-for-u-s-audiences/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 33298a4958e5da304ef693c4008dcd4a
 annum:
     year: 2011
     month: 06
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /21043675
+
 ---
 
 A lot of people missed my talk so I recorded it in my office as soon as I got home from Austin. It covers mainly moderation tips and ideas for building tools for more effective moderation.

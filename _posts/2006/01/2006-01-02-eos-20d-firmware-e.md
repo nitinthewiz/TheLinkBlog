@@ -6,7 +6,11 @@ hash: 789eb87f98e05b3e2e06a85a0cbcfedb
 annum:
     year: 2006
     month: 01
-hostname: web.canon.jp
+url-parts:
+    scheme: http
+    host: web.canon.jp
+    path: /Imaging/eos20d/eos20d_firmware-e.html
+
 ---
 
 Canon 20D Firmware Update 2.0.3

@@ -6,7 +6,11 @@ hash: 635ec6c0bea7f4f99bbb4a6688db2224
 annum:
     year: 2011
     month: 04
-hostname: www.sympa.org
+url-parts:
+    scheme: http
+    host: www.sympa.org
+    path: /
+
 ---
 
 

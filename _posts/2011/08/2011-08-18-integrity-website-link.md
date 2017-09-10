@@ -6,7 +6,11 @@ hash: dac80213a6556823bfe18c5520b481cb
 annum:
     year: 2011
     month: 08
-hostname: peacockmedia.co.uk
+url-parts:
+    scheme: http
+    host: peacockmedia.co.uk
+    path: /integrity/
+
 ---
 
 

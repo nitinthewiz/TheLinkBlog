@@ -6,7 +6,11 @@ hash: 1994959c0bc9dfe7d6a281903786d2f0
 annum:
     year: 2012
     month: 01
-hostname: gun.io
+url-parts:
+    scheme: https
+    host: gun.io
+    path: /
+
 ---
 
 Gun.io is a place for talented hackers to hire each other for small tasks. This isn't an ordinary job site.

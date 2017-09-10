@@ -6,7 +6,11 @@ hash: d750d79379a4aae8ab7b6fd20fc95c05
 annum:
     year: 2009
     month: 08
-hostname: www.washingtonmonthly.com
+url-parts:
+    scheme: http
+    host: www.washingtonmonthly.com
+    path: /archives/individual/2009_08/019423.php
+
 ---
 
 Anti-health-care-reform activist, reportedly injured in a fight at a town hall meeting last week, is collecting donations to pay his medical bills because he was recently laid off and lost his health insurance.

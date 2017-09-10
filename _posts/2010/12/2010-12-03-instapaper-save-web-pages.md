@@ -6,7 +6,11 @@ hash: 20044e8224d2a6cc19820793900f5bbb
 annum:
     year: 2010
     month: 12
-hostname: www.instapaper.com
+url-parts:
+    scheme: https
+    host: www.instapaper.com
+    path: /
+
 ---
 
 RT @PinboardIN: RT @instapaper: Do you use Pinboard.in? There's something new here you might want to see:

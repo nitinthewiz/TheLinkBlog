@@ -6,7 +6,11 @@ hash: 97cb97b7ac3966cd48917154108fea32
 annum:
     year: 2008
     month: 03
-hostname: garyvaynerchuk.com
+url-parts:
+    scheme: http
+    host: garyvaynerchuk.com
+    path: /2008/03/28/legacy-is-greater-than-currency/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9061667df717985470db218a38045539
 annum:
     year: 2017
     month: 01
-hostname: www.mwpvl.com
+url-parts:
+    scheme: http
+    host: www.mwpvl.com
+    path: /html/amazon_com.html
+
 ---
 
 

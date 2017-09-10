@@ -6,7 +6,11 @@ hash: f1deb06a48723eec9c8075fb17fa2f55
 annum:
     year: 2012
     month: 04
-hostname: opinionator.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: opinionator.blogs.nytimes.com
+    path: /2012/03/27/the-right-to-sell-kids-junk/
+
 ---
 
 Its been reported that kids see an average of 5,500 food ads on television every year (sounds low, when you think about it), nearly all peddling junk. (They may also see Apple commercials, but not of the fruit kind.) Worse are the online advergames that distract kids with entertainment while immersing them in a product-driven environment.

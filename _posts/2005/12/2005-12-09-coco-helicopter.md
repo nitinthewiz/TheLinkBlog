@@ -6,7 +6,12 @@ hash: 06d6126b49792504e7a173cb13e14cf7
 annum:
     year: 2005
     month: 12
-hostname: www.helidirect.com
+url-parts:
+    scheme: http
+    host: www.helidirect.com
+    path: /product_info.php
+    query:
+        products_id: "594"
 ---
 
 

@@ -6,7 +6,11 @@ hash: b575911a479825c02e5262263cb0833a
 annum:
     year: 2011
     month: 09
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /media/pda/2011/sep/15/techcrunch-arrington-startups
+
 ---
 
 Second- and third-place companies too.

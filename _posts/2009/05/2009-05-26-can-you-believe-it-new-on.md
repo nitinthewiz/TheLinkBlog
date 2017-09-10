@@ -6,7 +6,11 @@ hash: 48787891007368cc174e479eb30bbaab
 annum:
     year: 2009
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/05/25/can-you-believe-it-new-yorker-cover-done-on-iphone-app/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b7a68ddb95dacacb9f50ce06957b4bdf
 annum:
     year: 2012
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /zachstronaut/stop-sopa
+
 ---
 
 Venting my frustration with SOPA creatively. Here's a free option I made to black out your homepage on Jan 18. 

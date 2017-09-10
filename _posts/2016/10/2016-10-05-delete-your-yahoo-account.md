@@ -6,7 +6,11 @@ hash: c5f29b4cf194262de8444e7de241914a
 annum:
     year: 2016
     month: 10
-hostname: theintercept.com
+url-parts:
+    scheme: https
+    host: theintercept.com
+    path: /2016/10/04/delete-your-yahoo-account/
+
 ---
 
 There

@@ -6,7 +6,11 @@ hash: 76178056a2510f957b935aa40ab94089
 annum:
     year: 2008
     month: 11
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /kpeg
+
 ---
 
 Loved this painting. Now ours.  

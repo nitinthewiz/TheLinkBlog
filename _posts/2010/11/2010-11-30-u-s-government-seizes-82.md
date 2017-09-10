@@ -6,7 +6,11 @@ hash: 71fdde5514a3807ee69b037c5511213a
 annum:
     year: 2010
     month: 11
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2010/11/us-government-seizes-82-websites-draconian-future
+
 ---
 
 

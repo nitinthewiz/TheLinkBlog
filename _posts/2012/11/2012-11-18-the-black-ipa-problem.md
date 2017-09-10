@@ -6,7 +6,11 @@ hash: 42a19357c5dcc2aa74dae9e29301365d
 annum:
     year: 2012
     month: 11
-hostname: www.beerscribe.com
+url-parts:
+    scheme: http
+    host: www.beerscribe.com
+    path: /2010/09/01/the-black-ipa-problem/
+
 ---
 
 I had never heard of this style of beer until Dobbie mentioned it.

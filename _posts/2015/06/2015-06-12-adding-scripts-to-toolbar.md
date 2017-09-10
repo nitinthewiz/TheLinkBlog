@@ -6,7 +6,11 @@ hash: 3155f1a9d2165a6317f8fbf875980c89
 annum:
     year: 2015
     month: 06
-hostname: simplicitybliss.com
+url-parts:
+    scheme: http
+    host: simplicitybliss.com
+    path: /blog/adding-scripts-to-omnifocus-toolbar
+
 ---
 
 Adding Scripts to OmniFocus' Toolbar

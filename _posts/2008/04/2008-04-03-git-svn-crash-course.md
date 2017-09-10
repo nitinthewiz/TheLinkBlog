@@ -6,7 +6,11 @@ hash: a4c91e85e9cfddebf540b15d11dac1d6
 annum:
     year: 2008
     month: 04
-hostname: git.or.cz
+url-parts:
+    scheme: http
+    host: git.or.cz
+    path: /course/svn.html
+
 ---
 
 Welcome to the Git version control system! Here we will briefly introduce you to Git usage based on your current Subversion knowledge. You will need the latest Git installed; There is also a potentially useful tutorial in the Git documentation.

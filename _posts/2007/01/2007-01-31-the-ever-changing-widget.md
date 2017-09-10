@@ -6,7 +6,12 @@ hash: 876e88154794ee97d57f63c70851761e
 annum:
     year: 2007
     month: 01
-hostname: widgets.yahoo.net
+url-parts:
+    scheme: http
+    host: widgets.yahoo.net
+    path: /blog/
+    query:
+        p: "16"
 ---
 
 The Ever-Changing Widget Landscape

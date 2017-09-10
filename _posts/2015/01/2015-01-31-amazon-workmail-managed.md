@@ -6,7 +6,11 @@ hash: 8c433c7015decf2f55056c908ba92173
 annum:
     year: 2015
     month: 01
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/amazon-workmail-managed-email-and-calendaring-in-the-aws-cloud/
+
 ---
 
 

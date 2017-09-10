@@ -6,7 +6,11 @@ hash: a4b438c1847c307b621b024a9b96d7b5
 annum:
     year: 2017
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /oarriaga/face_classification
+
 ---
 
 Remember this technology every time you interact with a digital advertising display in a store.

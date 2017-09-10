@@ -6,7 +6,11 @@ hash: 33dd317ae2e983e6d829f71be4250ac1
 annum:
     year: 2011
     month: 02
-hostname: core77.com
+url-parts:
+    scheme: http
+    host: core77.com
+    path: /blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp
+
 ---
 
 I fear the future of our technologies, but not for the usual reasons. For me, the future would bring forth solutions to our needs and wants, design that provides value in a sustainable and responsible manner. Technology that is relevant and appropriate. But what I see developing seems driven by greed and profit, resulting in restrictive business plans and attempts to enforce proprietary constraints on activity by corporate empires.

@@ -6,7 +6,11 @@ hash: 321b3f76895d2353bde585356fc81b18
 annum:
     year: 2015
     month: 04
-hostname: www.formassembly.com
+url-parts:
+    scheme: http
+    host: www.formassembly.com
+    path: /blog/web-form-design/
+
 ---
 
 Bad practices in web form design will irritate your respondents and lower your conversion rate. Bad practices make for a confusing and unfriendly web form.

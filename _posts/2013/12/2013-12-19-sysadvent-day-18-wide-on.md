@@ -6,7 +6,11 @@ hash: 6b85560a312f14237b30a535a9c29542
 annum:
     year: 2013
     month: 12
-hostname: sysadvent.blogspot.com
+url-parts:
+    scheme: http
+    host: sysadvent.blogspot.com
+    path: /2013/12/day-18-wide-columns-shaggy-yaks-hbase.html
+
 ---
 
 I'm honored to write for @sysadvent. Thanks: @sascha_d for suggesting; @cwebber for organizing; @sdmouton for editing 

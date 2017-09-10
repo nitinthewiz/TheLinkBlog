@@ -6,7 +6,11 @@ hash: 857a78a8b15708df5a6f387e78a7394a
 annum:
     year: 2015
     month: 04
-hostname: m.imore.com
+url-parts:
+    scheme: http
+    host: m.imore.com
+    path: /how-use-photos-os-x-ultimate-guide
+
 ---
 
 

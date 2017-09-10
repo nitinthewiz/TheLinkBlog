@@ -6,7 +6,11 @@ hash: e1c45fe9099d1b7cef24d3240ba9f258
 annum:
     year: 2017
     month: 05
-hostname: www.manton.org
+url-parts:
+    scheme: http
+    host: www.manton.org
+    path: /2017/05/first-week-of-json-feed.html
+
 ---
 
 

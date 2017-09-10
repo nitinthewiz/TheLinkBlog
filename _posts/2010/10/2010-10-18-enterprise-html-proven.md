@@ -6,7 +6,11 @@ hash: 6f898f4af61b80e25e443db065c8d619
 annum:
     year: 2010
     month: 10
-hostname: enterprise-html.com
+url-parts:
+    scheme: http
+    host: enterprise-html.com
+    path: /
+
 ---
 
 Don’t miss the companion sites for Enterprise CSS and JavaScript.

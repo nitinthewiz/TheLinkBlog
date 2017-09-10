@@ -6,7 +6,11 @@ hash: e53ccbb8427ca9a0abf0480cc8bcbc59
 annum:
     year: 2008
     month: 02
-hostname: www.cnet.com
+url-parts:
+    scheme: http
+    host: www.cnet.com
+    path: /8301-13772_3-9877823-52.html
+
 ---
 
 Botanicalls has figured out a way to get plants to Twitter when they need to be watered.

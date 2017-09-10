@@ -7,7 +7,14 @@ hash: fdca0db18614dddf02129cb08f1aedb4
 annum:
     year: 2010
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "9X_ZWkjiTe0"
+        playnext_from: "TL"
+        videos: "C4Hvh2qEZEw"
 ---
 
 if you love classical music, and you want to see an inspired performance of one of Chopin's greatest concertos 

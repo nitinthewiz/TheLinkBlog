@@ -6,7 +6,11 @@ hash: 325ef4eaaeff11fc251d59351837cd1c
 annum:
     year: 2011
     month: 05
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2011/05/16/seduction/
+
 ---
 
 "writing" "books"

@@ -6,7 +6,11 @@ hash: de2217ff0b022a8de6f0f2d7f148bb20
 annum:
     year: 2008
     month: 07
-hostname: 37signals.blogs.com
+url-parts:
+    scheme: http
+    host: 37signals.blogs.com
+    path: /products/2008/07/one-of-our-favo.html
+
 ---
 
 One way we love to use Backpack is for "how to" pages that guide us through confusing tech waters. These tutorial pages mean we don't have to waste time relearning processes from scratch. Some examples:

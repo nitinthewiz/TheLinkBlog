@@ -6,7 +6,11 @@ hash: fd0f4070cf99622e3508b0cf91e68b28
 annum:
     year: 2006
     month: 09
-hostname: trac-hacks.org
+url-parts:
+    scheme: http
+    host: trac-hacks.org
+    path: /
+
 ---
 
 The purpose of TracHacks is to provide free Subversion hosting for community created Trac hacks.

@@ -6,7 +6,11 @@ hash: 68610a901403684cd30607ea321bea7b
 annum:
     year: 2014
     month: 08
-hostname: www.ansible.com
+url-parts:
+    scheme: http
+    host: www.ansible.com
+    path: /resources
+
 ---
 
 Watch our video to get up to speed quickly on Ansible 

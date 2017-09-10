@@ -6,7 +6,11 @@ hash: e0c6baa7280f2c9cbb625743a9ed9b6e
 annum:
     year: 2006
     month: 03
-hostname: codebetter.com
+url-parts:
+    scheme: http
+    host: codebetter.com
+    path: /files/43/community_server_add-ons/entry141468.aspx
+
 ---
 
 

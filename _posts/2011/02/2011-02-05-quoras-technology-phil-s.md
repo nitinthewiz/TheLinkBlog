@@ -6,7 +6,11 @@ hash: 9a16c15f6e3a2aa2a4c7b733c84205ca
 annum:
     year: 2011
     month: 02
-hostname: www.bigfastblog.com
+url-parts:
+    scheme: http
+    host: www.bigfastblog.com
+    path: /quoras-technology-examined
+
 ---
 
 

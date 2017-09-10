@@ -6,7 +6,11 @@ hash: c1f0fda1c27e223a8d4442991f496476
 annum:
     year: 2010
     month: 12
-hostname: magazine.good.is
+url-parts:
+    scheme: http
+    host: magazine.good.is
+    path: /articles/americans-are-horribly-misinformed-about-who-has-money
+
 ---
 
 Americans are horribly misinformed about who has money.

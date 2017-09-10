@@ -6,7 +6,11 @@ hash: e6fd96ff7b2518b83c366cf4e663beca
 annum:
     year: 2006
     month: 01
-hostname: www.digitalmediaminute.com
+url-parts:
+    scheme: http
+    host: www.digitalmediaminute.com
+    path: /article/1487/setting-up-a-sftp-server-on-windows
+
 ---
 
 

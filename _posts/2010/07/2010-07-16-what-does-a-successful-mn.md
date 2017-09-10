@@ -6,7 +6,11 @@ hash: 2debb324cb1147949843b85feb470409
 annum:
     year: 2010
     month: 07
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/what-does-a-successful-mn-tech-firm-look-like
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: e159c0a3e769c9d0eb40fc28fd805ac9
 annum:
     year: 2007
     month: 12
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2007/12/03/pleo-unboxing-er-hatching-photos-and-video/
+
 ---
 
 Filed under: Features, Robots

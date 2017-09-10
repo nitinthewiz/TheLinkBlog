@@ -6,7 +6,11 @@ hash: 022c3e51e91f9c35205caec7b4112b0d
 annum:
     year: 2011
     month: 04
-hostname: log.maniacalrage.net
+url-parts:
+    scheme: http
+    host: log.maniacalrage.net
+    path: /post/4934647157/fuck-you-tiny-wings
+
 ---
 
 

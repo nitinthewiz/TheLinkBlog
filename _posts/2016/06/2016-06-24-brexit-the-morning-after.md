@@ -6,7 +6,11 @@ hash: d98ffa0c1ed4b0d39070d1c67ca7b61a
 annum:
     year: 2016
     month: 06
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: http
+    host: mobile.nytimes.com
+    path: /blogs/krugman/2016/06/24/brexit-the-morning-after/
+
 ---
 
 Well, that was pretty awesome 

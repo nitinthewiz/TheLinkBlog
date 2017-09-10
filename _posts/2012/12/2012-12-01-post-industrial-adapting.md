@@ -6,7 +6,11 @@ hash: 9c459bb17a65ae6d3f9a67bf15371821
 annum:
     year: 2012
     month: 12
-hostname: towcenter.org
+url-parts:
+    scheme: http
+    host: towcenter.org
+    path: /research/post-industrial-journalism/
+
 ---
 
 

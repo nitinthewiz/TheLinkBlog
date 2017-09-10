@@ -6,7 +6,11 @@ hash: fc38137f0d1e441ef4f6470c468fd85c
 annum:
     year: 2007
     month: 04
-hostname: www.versus.com
+url-parts:
+    scheme: http
+    host: www.versus.com
+    path: /cyclysm/
+
 ---
 
 Cycing coverage on Vs.

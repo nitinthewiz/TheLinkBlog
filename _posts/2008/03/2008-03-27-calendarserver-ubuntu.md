@@ -6,7 +6,11 @@ hash: f52ab629c6e9f519baaa8a25e5e1c98f
 annum:
     year: 2008
     month: 03
-hostname: wiki.ubuntu.com
+url-parts:
+    scheme: https
+    host: wiki.ubuntu.com
+    path: /CalendarServer
+
 ---
 
 This page explains how to install Apple's [WWW] Darwin Calendar Server (also called DCS, and the basis for their iCal Server) on Ubuntu Gutsy.

@@ -6,7 +6,11 @@ hash: 0d8da1b7ab3676559a53f610140ab823
 annum:
     year: 2011
     month: 11
-hostname: www.collegehumor.com
+url-parts:
+    scheme: http
+    host: www.collegehumor.com
+    path: /video/6648229/siri-argument
+
 ---
 
 Husband and Wife argument using Siri

@@ -6,7 +6,11 @@ hash: 92535767e548b06f088f311fdbc18758
 annum:
     year: 2008
     month: 08
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /local/south/26318674.html
+
 ---
 
 This is so tragic. "Loaded, unlocked handgun: Girl, 6, kills brother, 3" 

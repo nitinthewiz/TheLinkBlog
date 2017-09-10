@@ -6,7 +6,11 @@ hash: 5e717a6b949cbf1ac3cfbcea89dc6bce
 annum:
     year: 2010
     month: 08
-hostname: lessig.blip.tv
+url-parts:
+    scheme: http
+    host: lessig.blip.tv
+    path: /file/3945764/
+
 ---
 
 This new talk from Larry Lessig (@lessig) is worth watching. Great stuff. 

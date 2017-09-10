@@ -6,7 +6,11 @@ hash: a65db98899ad064fa19f5afe285ed045
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4u5v
+
 ---
 
 Ribs are progressing well! Another 90 minutes on.  

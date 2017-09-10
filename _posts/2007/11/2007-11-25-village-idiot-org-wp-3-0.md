@@ -6,7 +6,11 @@ hash: 81ef53007fe0b6580386dda6dede094a
 annum:
     year: 2007
     month: 11
-hostname: www.village-idiot.org
+url-parts:
+    scheme: http
+    host: www.village-idiot.org
+    path: /archives/2007/04/24/wp-deadbolt-3/
+
 ---
 
 

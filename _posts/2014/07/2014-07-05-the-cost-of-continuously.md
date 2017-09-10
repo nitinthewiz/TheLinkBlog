@@ -6,7 +6,11 @@ hash: cc0a705c1c975cfda1222b641fca5960
 annum:
     year: 2014
     month: 07
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /2014/07/the-cost-of-continuously-checking-email/
+
 ---
 
 The Cost of Continuously Checking Email: by @RonFriedman @HarvardBiz 

@@ -6,7 +6,11 @@ hash: 199ca5b3c44838e11fa472fab2ab0ff7
 annum:
     year: 2008
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/03/06/iphone-sdk-what-you-need-to-know/
+
 ---
 
 Filed under: Other Events, Developer, iPhone

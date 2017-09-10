@@ -6,7 +6,12 @@ hash: 744b311c800a4a3caddc6cd710767d93
 annum:
     year: 2011
     month: 08
-hostname: www.slate.com
+url-parts:
+    scheme: http
+    host: www.slate.com
+    path: /
+    query:
+        id: "2302429"
 ---
 
 Network analysis can uncover your personal details even if you choose to hide them.

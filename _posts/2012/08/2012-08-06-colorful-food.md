@@ -6,7 +6,11 @@ hash: db5bbb08259a3c5bd7a0997c6b63a09a
 annum:
     year: 2012
     month: 08
-hostname: www.amazon.com
+url-parts:
+    scheme: http
+    host: www.amazon.com
+    path: /Colorful-Food-Mindy-Brueggemann/dp/0985567600
+
 ---
 
 Mindy was an awesome designer at BigCharts back in the day and she just published a book! How awesome is that!

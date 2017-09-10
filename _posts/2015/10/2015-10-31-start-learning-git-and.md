@@ -6,7 +6,11 @@ hash: 87b3b893dbc3babe086c2d8ade243792
 annum:
     year: 2015
     month: 10
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2083-start-learning-git-and-github-today-with-self-paced-training
+
 ---
 
 Can't wait for the next live course to get started with Git and GitHub? If so, we have an on-demand training option designed just for you. GitHub for Developers is a self-paced course that distills

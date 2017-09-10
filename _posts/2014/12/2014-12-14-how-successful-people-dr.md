@@ -6,7 +6,11 @@ hash: 88e6ff1b7b640d624b2abbd257032b5c
 annum:
     year: 2014
     month: 12
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/20140805002649-50578967-how-successful-people-stay-calm
+
 ---
 
 

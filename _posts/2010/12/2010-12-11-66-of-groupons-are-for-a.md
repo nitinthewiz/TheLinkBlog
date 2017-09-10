@@ -6,7 +6,11 @@ hash: ed99e52076f1958928458942af74c9c0
 annum:
     year: 2010
     month: 12
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /chart-of-the-day-groupon-promotions-2010-12
+
 ---
 
 Groupon is a runaway success, generating revenue at $2 billion annual run rate. But is it sustainable?

@@ -6,7 +6,12 @@ hash: 349db7c57a00d33f2303004dacde4ff7
 annum:
     year: 2008
     month: 02
-hostname: forums.macrumors.com
+url-parts:
+    scheme: http
+    host: forums.macrumors.com
+    path: /showthread.php
+    query:
+        t: "289823"
 ---
 
 

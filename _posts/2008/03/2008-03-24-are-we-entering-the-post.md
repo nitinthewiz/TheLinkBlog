@@ -6,7 +6,11 @@ hash: 2b2c0cafc2098fc97094fd672273a223
 annum:
     year: 2008
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2008/03/24/are-we-entering-the-post-reader-era/
+
 ---
 
 Were certainly fans of RSS (and Atom) feeds here at WWD; our own full content goes out, weve reviewed plenty of feed readers, and we recognize feeds as one of the underlying technologies that is driving plenty of innovation. But we also know that this firehose of information poses problems, notably the feel that youre spending all your time reading feeds. Perhaps the time has come for the next generation of technologies to displace feeds, by giving us smarter ways to find the info we really need.

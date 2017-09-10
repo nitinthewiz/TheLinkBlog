@@ -6,7 +6,11 @@ hash: eee712b311b3368c7598c0c683165d70
 annum:
     year: 2015
     month: 04
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@rubyghetto/the-code-is-just-the-symptom-c77f43b29320
+
 ---
 
 Since leaving SocialChorus I have been doing the thing that I am good at, or more particularly, that thing I am good at …

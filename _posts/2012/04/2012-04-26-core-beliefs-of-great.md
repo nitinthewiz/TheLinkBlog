@@ -6,7 +6,11 @@ hash: fdf00fc564f03c58d213b06a89897e30
 annum:
     year: 2012
     month: 04
-hostname: www.inc.com
+url-parts:
+    scheme: http
+    host: www.inc.com
+    path: /geoffrey-james/8-core-beliefs-of-extraordinary-bosses.html
+
 ---
 
 The best managers have a fundamentally different understanding of workplace, company, and team dynamics. See what they get right.

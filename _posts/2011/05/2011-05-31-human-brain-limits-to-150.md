@@ -6,7 +6,12 @@ hash: e152beaf2cddfae95a864271d8ec3589
 annum:
     year: 2011
     month: 05
-hostname: www.technologyreview.com
+url-parts:
+    scheme: http
+    host: www.technologyreview.com
+    path: /blog/arxiv/26824/
+    query:
+        p1: "Blogs"
 ---
 
 The number of people we can truly be friends with is constant, regardless of social networking services like Twitter, according to a new study of the network.

@@ -6,7 +6,11 @@ hash: da98187a43b4e76606b87ce469a36833
 annum:
     year: 2011
     month: 11
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/omnifocus_is_now_on_speaking_terms/
+
 ---
 
 I have a new friend named Siri:

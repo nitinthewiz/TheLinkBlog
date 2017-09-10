@@ -6,7 +6,11 @@ hash: a587c348572c1f6e89a7e1a2f64c02b1
 annum:
     year: 2012
     month: 12
-hostname: crowdfunding.piwik.org
+url-parts:
+    scheme: http
+    host: crowdfunding.piwik.org
+    path: /analytics-maps-world-country-city-region/
+
 ---
 
 I'm a user and fan of Piwik. I put some dollars behind this.

@@ -6,7 +6,11 @@ hash: da7d16009a2fd2372d0c7a0ebb3b449c
 annum:
     year: 2012
     month: 05
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Ludwig_von_Mises
+
 ---
 
 von Mises is mentioned in Rory Sutherland's talk "Perspective is everything" and referenced as an influential thinker on the psychology of economics. Mentioned as a related thinker to Kahneman.

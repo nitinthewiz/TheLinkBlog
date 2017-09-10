@@ -6,7 +6,11 @@ hash: c5131de1fda133f8b58a334581c7735a
 annum:
     year: 2015
     month: 06
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: http
+    host: www.washingtonpost.com
+    path: /posteverything/wp/2015/05/15/take-off-that-fitbit-exercise-alone-wont-make-you-lose-weight/
+
 ---
 
 The idea that our obesity epidemic is caused by sedentary lifestyles has spread widely over the past few decades, spurring a multibillion-dollar industry that pitches gadgets and gimmicks promising to walk, run and kickbox you to a slim figure. But those pitches are based on a myth. Physical activity has a multitude of health benefits — it reduces the risk of heart disease, Type 2 diabetes, high blood pressure and possibly even cancer — but weight loss is not one of them.

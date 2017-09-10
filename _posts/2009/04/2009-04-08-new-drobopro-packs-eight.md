@@ -6,7 +6,11 @@ hash: 10e6987b5b3b89afdaf9c6d36749198a
 annum:
     year: 2009
     month: 04
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /drobo-pro-8-bay
+
 ---
 
 Some people love them (easy to configure RAID storage).  Other people hate them (speed, reliability issues).  Either way, Drobo is bringing multi-drive network attached storage to the masses.  We've covered Drobo and Droboshare and DroboApps before. 

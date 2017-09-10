@@ -6,7 +6,11 @@ hash: 2dcbb3c6f0c0628db36e354dc48a67e5
 annum:
     year: 2012
     month: 06
-hostname: speckyboy.com
+url-parts:
+    scheme: http
+    host: speckyboy.com
+    path: /2012/02/29/40-examples-of-brilliant-responsive-website-layouts/
+
 ---
 
 Some nice examples of well done responsive website designs.

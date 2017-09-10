@@ -6,7 +6,11 @@ hash: a6ab23d882cf47a1271120cea60bce7c
 annum:
     year: 2011
     month: 08
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /67ykpa
+
 ---
 
 A classic, along the lines of what Android phones looked like before and after the iPhone. For dessert, here’s another look at the pre-iPhone Android.

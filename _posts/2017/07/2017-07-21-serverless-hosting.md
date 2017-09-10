@@ -6,7 +6,11 @@ hash: 870f05303a7a359d99e6ac92cebad2a1
 annum:
     year: 2017
     month: 07
-hostname: headmelted.com
+url-parts:
+    scheme: https
+    host: headmelted.com
+    path: /serverless-showdown-4a771ca561d2
+
 ---
 
 Nice overview of serverless (cloud function) offerings from various providers.

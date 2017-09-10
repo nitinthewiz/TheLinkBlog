@@ -6,7 +6,11 @@ hash: 3deef735b83cee6d20726a6855bf9f55
 annum:
     year: 2012
     month: 05
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/frank_warren_half_a_million_secrets
+
 ---
 
 I'm a fan of PostSecret.

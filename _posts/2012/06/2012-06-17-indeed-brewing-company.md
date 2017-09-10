@@ -6,7 +6,11 @@ hash: 4a0b66916622529eff3accc8bd53022e
 annum:
     year: 2012
     month: 06
-hostname: www.indeedbrewing.com
+url-parts:
+    scheme: http
+    host: www.indeedbrewing.com
+    path: /community/blog/
+
 ---
 
 Another local brewery joining the renaissance of brewing here in Minneapolis.

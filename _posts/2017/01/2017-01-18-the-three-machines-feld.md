@@ -6,7 +6,11 @@ hash: 522f90057878d13da38e0c4698c76375
 annum:
     year: 2017
     month: 01
-hostname: www.feld.com
+url-parts:
+    scheme: http
+    host: www.feld.com
+    path: /archives/2017/01/the-three-machines.html
+
 ---
 
 The three machines are: (1) the Product machine, (2) the Customer machine, and (3) the Company machine.

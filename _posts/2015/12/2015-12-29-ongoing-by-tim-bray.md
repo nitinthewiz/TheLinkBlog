@@ -6,7 +6,11 @@ hash: 53fa5cfe4b71971751a1c122281983bb
 annum:
     year: 2015
     month: 12
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2015/12/28/Mobile-Theses
+
 ---
 
 This is in re­sponse to 16 mo­bile the­ses by Bene­dict Evans of An­dreesen Horow­itz, a firm that’s cen­tral to Bay Area VC cul­ture. I think the the­ses are about half wrong.

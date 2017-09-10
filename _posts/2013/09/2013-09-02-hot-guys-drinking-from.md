@@ -6,7 +6,11 @@ hash: 6496f9fbccded99e19c312a05e93f633
 annum:
     year: 2013
     month: 09
-hostname: hotguysdrinkingfrommugs.tumblr.com
+url-parts:
+    scheme: http
+    host: hotguysdrinkingfrommugs.tumblr.com
+    path: /post/60114740127/bigboxcar-mugshot-monday-rapala-largemouth
+
 ---
 
 Just got reblogged by a Tumblr called "Hot Guys Drinking From Mugs". Crossing that off the Bucket List. #blush 

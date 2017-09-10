@@ -6,7 +6,11 @@ hash: cc892eddae7069507e0189880bb1dee3
 annum:
     year: 2016
     month: 06
-hostname: www.kpcb.com
+url-parts:
+    scheme: http
+    host: www.kpcb.com
+    path: /blog/2016-internet-trends-report
+
 ---
 
 2016 edition of Mary Meeker’s annual Internet Trends

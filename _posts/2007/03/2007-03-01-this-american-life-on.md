@@ -6,7 +6,11 @@ hash: a0aff2aab16d283125048b9899cb8671
 annum:
     year: 2007
     month: 03
-hostname: www.sho.com
+url-parts:
+    scheme: http
+    host: www.sho.com
+    path: /sho/this-american-life/home
+
 ---
 
 

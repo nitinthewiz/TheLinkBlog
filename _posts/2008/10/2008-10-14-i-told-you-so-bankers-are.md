@@ -6,7 +6,11 @@ hash: e704ac1b49630317d86b221445fbc792
 annum:
     year: 2008
     month: 10
-hostname: www.timesonline.co.uk
+url-parts:
+    scheme: http
+    host: www.timesonline.co.uk
+    path: /tol/money/article4938008.ece
+
 ---
 
 Nassim Taleb interview in the Times.

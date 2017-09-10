@@ -6,7 +6,11 @@ hash: cbdcbcda9c4e653a7e15bf1a7bba12b5
 annum:
     year: 2010
     month: 12
-hostname: en.blog.wordpress.com
+url-parts:
+    scheme: http
+    host: en.blog.wordpress.com
+    path: /2010/12/09/better-tagging-with-p2/
+
 ---
 
 Our group collaboration WordPress theme, P2, now w/ auto-complete for tags and users - makes notifications a snap: 

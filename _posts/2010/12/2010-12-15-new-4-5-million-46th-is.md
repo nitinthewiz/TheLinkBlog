@@ -6,7 +6,11 @@ hash: 39321f4cc1ba54365ff7de7dbdc233d9
 annum:
     year: 2010
     month: 12
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /devnews/brtstation121510.aspx
+
 ---
 
 New $4.5 million 46th Street Transit Station is all about making speedy connections @thelinemag

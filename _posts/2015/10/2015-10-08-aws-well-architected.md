@@ -6,7 +6,11 @@ hash: 808bb6e2d1f813267f985e1b4a696a3f
 annum:
     year: 2015
     month: 10
-hostname: d0.awsstatic.com
+url-parts:
+    scheme: http
+    host: d0.awsstatic.com
+    path: /whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
 ---
 
 

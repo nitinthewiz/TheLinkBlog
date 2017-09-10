@@ -6,7 +6,11 @@ hash: 58f1cf8c153975a4e07a525022217ecc
 annum:
     year: 2012
     month: 05
-hostname: blog.bigdinosaur.org
+url-parts:
+    scheme: http
+    host: blog.bigdinosaur.org
+    path: /mediawiki-on-nginx/
+
 ---
 
 Really thorough and complete guide on configuring nginx for MediaWiki. The internal directives that he uses were completely new to me. I'm going to update my config to have a similar lockdown.

@@ -6,7 +6,11 @@ hash: 1543b506776e007f0a6b635abda1d02c
 annum:
     year: 2008
     month: 02
-hostname: www.ladyada.net
+url-parts:
+    scheme: http
+    host: www.ladyada.net
+    path: /wiki/laserinfo/settings
+
 ---
 
 

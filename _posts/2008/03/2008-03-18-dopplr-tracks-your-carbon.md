@@ -6,7 +6,12 @@ hash: 96a867c22c8c690a7388122d291351ce
 annum:
     year: 2008
     month: 03
-hostname: cubicgarden.com
+url-parts:
+    scheme: http
+    host: cubicgarden.com
+    path: /cubicgarden/science/
+    query:
+        permalink: "Dopplr-tracks-your-Carbon-Footprint.html"
 ---
 
 

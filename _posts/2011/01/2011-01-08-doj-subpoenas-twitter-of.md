@@ -6,7 +6,11 @@ hash: dd1a470330efcef64faac84ac24fb5f7
 annum:
     year: 2011
     month: 01
-hostname: www.salon.com
+url-parts:
+    scheme: http
+    host: www.salon.com
+    path: /2011/01/08/twitter_2/
+
 ---
 
 

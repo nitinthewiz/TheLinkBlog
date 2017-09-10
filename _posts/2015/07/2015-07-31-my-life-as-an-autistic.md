@@ -6,7 +6,11 @@ hash: 2bdb02f47b24dff8a8d5902d60070ff4
 annum:
     year: 2015
     month: 07
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2015/07/31/autistic-wikipedia-life/
+
 ---
 
 

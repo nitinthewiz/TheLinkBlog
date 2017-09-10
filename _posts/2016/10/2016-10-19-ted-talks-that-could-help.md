@@ -6,7 +6,12 @@ hash: d9729cfcf20f2cc633f4e9f5b2117f1f
 annum:
     year: 2016
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /ted-talks-that-could-help-you-become-more-productive-2016-8/
+    query:
+        r: "UK"
 ---
 
 

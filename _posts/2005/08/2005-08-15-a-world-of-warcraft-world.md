@@ -6,7 +6,11 @@ hash: d9001f9cd4d5ec008e2a401da20524c1
 annum:
     year: 2005
     month: 08
-hostname: www.pointlesswasteoftime.com
+url-parts:
+    scheme: http
+    host: www.pointlesswasteoftime.com
+    path: /games/wowworld.html
+
 ---
 
 Tongue-in-cheek writeup on multiplayer games and the downfall of society.

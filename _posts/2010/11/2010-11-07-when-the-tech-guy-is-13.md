@@ -6,7 +6,11 @@ hash: 4213b33e223fc3e6214ee3c8cea12e2e
 annum:
     year: 2010
     month: 11
-hostname: boss.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: boss.blogs.nytimes.com
+    path: /2010/11/03/when-the-tech-guy-is-12-or-even-10/
+
 ---
 
 

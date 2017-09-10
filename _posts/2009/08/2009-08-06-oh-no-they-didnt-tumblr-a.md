@@ -6,7 +6,11 @@ hash: d64ff88d54de8f8ee6c555131217adf0
 annum:
     year: 2009
     month: 08
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/08/05/oh-no-they-didnt-tumblr-launches-a-tumbleupon-toolbar/
+
 ---
 
 

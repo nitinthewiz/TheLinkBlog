@@ -6,7 +6,11 @@ hash: 0ec9a99670bba0d78a0987ff464b8268
 annum:
     year: 2009
     month: 03
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
+
 ---
 
 More online newspapers are certainly talking about building up the pay-wall around their web content these days, but next week, the Twin Cities' StarTribune.com will begin what it's tentatively calling an "experiment" in offering certain stories to print readers first. 

@@ -6,7 +6,11 @@ hash: ab675138e03dff124eb42a207c3735a1
 annum:
     year: 2011
     month: 02
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/11993
+
 ---
 
 

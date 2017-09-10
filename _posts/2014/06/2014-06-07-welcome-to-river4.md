@@ -6,7 +6,11 @@ hash: 3f0fad7f778315e8bbf514d2d0631147
 annum:
     year: 2014
     month: 06
-hostname: river4.smallpict.com
+url-parts:
+    scheme: http
+    host: river4.smallpict.com
+    path: /2014/06/04/welcomeToRiver4.html
+
 ---
 
 

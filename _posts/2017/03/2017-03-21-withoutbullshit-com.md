@@ -6,7 +6,11 @@ hash: 9e7b75d9d4943b78b67b32f5904cd626
 annum:
     year: 2017
     month: 03
-hostname: withoutbullshit.com
+url-parts:
+    scheme: https
+    host: withoutbullshit.com
+    path: /blog/uber-president-jeff-jones-quits-ceo-travis-kalanick-ignores-toxic-context
+
 ---
 
 

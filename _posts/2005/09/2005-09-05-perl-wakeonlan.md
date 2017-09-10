@@ -6,7 +6,11 @@ hash: e5fab8ba8f48a651f6d6d3fe3f453bbb
 annum:
     year: 2005
     month: 09
-hostname: gsd.di.uminho.pt
+url-parts:
+    scheme: http
+    host: gsd.di.uminho.pt
+    path: /jpo/software/wakeonlan/
+
 ---
 
 Implementation of WakeOnLAN in Perl.

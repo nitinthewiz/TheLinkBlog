@@ -6,7 +6,11 @@ hash: 34635accbfd6d38c628ed6db0a7342fe
 annum:
     year: 2008
     month: 06
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/6/nyt-timespeople-social-network
+
 ---
 
 The latest New York Times (NYT) digital feature: TimesPeople, a social network for Times users. Good news: You'd have to look pretty hard to find similarities between it and Facebook or MySpace.

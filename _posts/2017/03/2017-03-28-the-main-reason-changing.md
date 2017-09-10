@@ -6,7 +6,11 @@ hash: 0acb43a1f2ef32d67022019ef5cafad7
 annum:
     year: 2017
     month: 03
-hostname: zenhabits.net
+url-parts:
+    scheme: https
+    host: zenhabits.net
+    path: /main/
+
 ---
 
 

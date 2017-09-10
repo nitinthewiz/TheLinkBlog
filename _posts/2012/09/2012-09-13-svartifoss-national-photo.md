@@ -6,7 +6,11 @@ hash: d40b3f2634b8c7ea40652504e668d61e
 annum:
     year: 2012
     month: 09
-hostname: photography.nationalgeographic.com
+url-parts:
+    scheme: http
+    host: photography.nationalgeographic.com
+    path: /photography/photo-of-the-day/svartifoss-waterfall-iceland/
+
 ---
 
 Amazing looking waterfall with very cool lava columns. Need to put this on the list for the 2nd visit.

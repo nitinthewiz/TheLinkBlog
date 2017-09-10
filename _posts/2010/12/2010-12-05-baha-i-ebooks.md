@@ -6,7 +6,11 @@ hash: 8a57126a09923b52f1f9db168a50bd0c
 annum:
     year: 2010
     month: 12
-hostname: www.bahaiebooks.net
+url-parts:
+    scheme: http
+    host: www.bahaiebooks.net
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 99433859e9b34c6d0bffdd95500cc51a
 annum:
     year: 2012
     month: 04
-hostname: 10fastfingers.com
+url-parts:
+    scheme: http
+    host: 10fastfingers.com
+    path: /typing-test/english
+
 ---
 
 

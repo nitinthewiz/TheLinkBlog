@@ -6,7 +6,11 @@ hash: dd4eb8dce6315afd17400b3368db201f
 annum:
     year: 2012
     month: 08
-hostname: contentsmagazine.com
+url-parts:
+    scheme: http
+    host: contentsmagazine.com
+    path: /articles/our-new-shrines/
+
 ---
 
 And then I realize that they dont have a product. They dont have a shrine. They have a Facebook page.

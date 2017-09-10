@@ -6,7 +6,11 @@ hash: ea5c8ae17b11c596c83278cd4dd63a0e
 annum:
     year: 2017
     month: 08
-hostname: www.code42.com
+url-parts:
+    scheme: https
+    host: www.code42.com
+    path: /news-releases/code42-focus-business/
+
 ---
 
 I’m not surprised to see Code42 (Minneapolis company!) exit the home market. I am a little surprised that they aren't doing anything for those users other than a referral relationship to Carbonite. I would have thought they could have provided a much softer transition for these home users that didn’t require them to effectively start over.

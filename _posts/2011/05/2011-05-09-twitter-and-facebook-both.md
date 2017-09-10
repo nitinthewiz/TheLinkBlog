@@ -6,7 +6,11 @@ hash: c69baff63e8da4d172610f18b361a99c
 annum:
     year: 2011
     month: 05
-hostname: www.staynalive.com
+url-parts:
+    scheme: http
+    host: www.staynalive.com
+    path: /2011/05/twitter-and-facebook-both-quietly-kill.html
+
 ---
 
 

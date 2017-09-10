@@ -6,7 +6,11 @@ hash: 1363efb330d7b3975f3a782f9927a53f
 annum:
     year: 2017
     month: 05
-hostname: theawl.com
+url-parts:
+    scheme: https
+    host: theawl.com
+    path: /every-color-of-cardigan-mister-rogers-wore-from-1979-2001-83c1faba2677
+
 ---
 
 This is the kind of project that makes me ❤️ the Internet.

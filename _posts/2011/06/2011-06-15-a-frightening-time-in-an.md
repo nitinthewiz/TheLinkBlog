@@ -6,7 +6,11 @@ hash: fbc04ffbc78d9868da7b5856a899d8e4
 annum:
     year: 2011
     month: 06
-hostname: www.nybooks.com
+url-parts:
+    scheme: http
+    host: www.nybooks.com
+    path: /blogs/nyrblog/2011/jun/13/david-foster-wallace-russia-interview/
+
 ---
 
 

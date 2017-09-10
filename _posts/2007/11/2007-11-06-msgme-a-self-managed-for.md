@@ -6,7 +6,11 @@ hash: 64912ac8e769c41c476c34ea5ef44ae0
 annum:
     year: 2007
     month: 11
-hostname: www.msgme.com
+url-parts:
+    scheme: http
+    host: www.msgme.com
+    path: /
+
 ---
 
 

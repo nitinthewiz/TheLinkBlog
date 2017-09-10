@@ -6,7 +6,11 @@ hash: 4990ffe03cce58b30c6addeb4e332556
 annum:
     year: 2011
     month: 06
-hostname: www.thycotic.com
+url-parts:
+    scheme: http
+    host: www.thycotic.com
+    path: /products_secretserver_overview.html
+
 ---
 
 With Secret Server password management software, you and your colleagues can control access to critical enterprise passwords in one centralized, web-based repository. Our password management software offers permissioned users secure access to passwords and other privileged information.

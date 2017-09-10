@@ -6,7 +6,11 @@ hash: 05669f387a6b8cc4c6ad4525d09a32bc
 annum:
     year: 2006
     month: 05
-hostname: www.mastersav.com
+url-parts:
+    scheme: http
+    host: www.mastersav.com
+    path: /tivo_zipper.html
+
 ---
 
 

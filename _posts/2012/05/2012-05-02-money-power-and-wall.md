@@ -6,7 +6,11 @@ hash: c4290eb8c647a0cb6a5af7bd106b5c9a
 annum:
     year: 2012
     month: 05
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/money-power-wall-street/
+
 ---
 
 

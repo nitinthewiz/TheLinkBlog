@@ -6,7 +6,11 @@ hash: d777fe63d85b3bbd6e568a99c430a885
 annum:
     year: 2013
     month: 03
-hostname: www.speirs.org
+url-parts:
+    scheme: http
+    host: www.speirs.org
+    path: /blog/2013/3/4/beyond-consumption-vs-creation.html
+
 ---
 
 This completely fits the bill for what device I reach for to get some stuff done.

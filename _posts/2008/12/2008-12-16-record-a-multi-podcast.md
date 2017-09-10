@@ -6,7 +6,11 @@ hash: 9025af1f3fdb2db4bd69186b315d4002
 annum:
     year: 2008
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/12/16/record-a-multi-participant-podcast-with-garageband/
+
 ---
 
 Filed under: Multimedia, Podcasting

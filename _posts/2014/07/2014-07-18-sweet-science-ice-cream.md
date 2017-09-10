@@ -6,7 +6,11 @@ hash: db7d8ce1a4b2d386d93e999d416900da
 annum:
     year: 2014
     month: 07
-hostname: www.sweetscienceicecream.com
+url-parts:
+    scheme: http
+    host: www.sweetscienceicecream.com
+    path: /
+
 ---
 
 Crazy good ice cream. Wow.

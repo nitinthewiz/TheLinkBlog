@@ -6,7 +6,11 @@ hash: f7014ea32c2fcbd152fc04b136765b52
 annum:
     year: 2008
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
+
 ---
 
 Talk about being dumb on the smallest of things: Fox Business Network has lost its battle for the domain name www.foxbusinessnetwork.com, because it did not register its trade marks early enough. Of course it owns FoxBusiness.com, so not a huge loss in the scheme of things.

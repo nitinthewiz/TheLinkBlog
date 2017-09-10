@@ -6,7 +6,11 @@ hash: d1440a09bd0921f0c684e2311f477afe
 annum:
     year: 2011
     month: 01
-hostname: simplicitybliss.com
+url-parts:
+    scheme: http
+    host: simplicitybliss.com
+    path: /05/defining-and-managing-contexts-in-omnifocus/
+
 ---
 
 Not sure how to put contexts to use in your workflow? @Simplicitybliss has some great advice here:

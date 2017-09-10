@@ -6,7 +6,11 @@ hash: 0f1646732fd21f08e6f36b1c5380665e
 annum:
     year: 2008
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/05/20/ghostreader-1-5-text-to-audiobook/
+
 ---
 
 Filed under: Software

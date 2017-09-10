@@ -6,7 +6,11 @@ hash: 85b1ce95ca299f2f935c05ff89528529
 annum:
     year: 2009
     month: 04
-hostname: waxy.org
+url-parts:
+    scheme: http
+    host: waxy.org
+    path: /2009/04/all_things_digital_and_transparency_in_online_journalism/
+
 ---
 
 Thoughtful piece by Andy Baio on the linking/re-blogging practices at AllThingsD, including some spot-on criticism from Merlin Mann, and a few comments from yours truly.

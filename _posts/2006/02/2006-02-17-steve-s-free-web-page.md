@@ -6,7 +6,11 @@ hash: 8ce58737fb48e0b639a190ee0a432bca
 annum:
     year: 2006
     month: 02
-hostname: www.steves-templates.com
+url-parts:
+    scheme: http
+    host: www.steves-templates.com
+    path: /
+
 ---
 
 

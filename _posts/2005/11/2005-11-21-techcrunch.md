@@ -6,7 +6,11 @@ hash: 9e561e9761e9db9cf028e74652cf52d0
 annum:
     year: 2005
     month: 11
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /
+
 ---
 
 Web 2.0 news

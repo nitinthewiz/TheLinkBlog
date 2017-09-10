@@ -6,7 +6,11 @@ hash: c8331e1203b17fbf02f85dd0545407a7
 annum:
     year: 2011
     month: 01
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2011/01/14/419-huffpos-coleman-well-double-revenues-again-this-year/
+
 ---
 
 As it looks to repeat its ad sales successes from 2010, The Huffington Post is adding a dozen ad sales people to its roster. In an interview with paidContent, Greg Coleman, president and chief revenue officer, declined to go into sales figures, but did confirm that the company did reach profitability last year, adding that he made good on his goal to double the news aggregators revenues. Were putting plans and people in place that should allow us to double our revenues this year as well, Coleman said. Part of the plan includes still more ad sales hiring and getting advertisers to commit to year-long ads tied to social media. 

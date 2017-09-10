@@ -6,7 +6,11 @@ hash: cf45f81e4d2f286ed24a4245c5712e76
 annum:
     year: 2012
     month: 01
-hostname: www.sopastrike.com
+url-parts:
+    scheme: http
+    host: www.sopastrike.com
+    path: /numbers
+
 ---
 
 

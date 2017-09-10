@@ -6,7 +6,11 @@ hash: 553357534c505ac3d4c9b672eb79c016
 annum:
     year: 2016
     month: 12
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@swardley/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5
+
 ---
 
 

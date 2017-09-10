@@ -6,7 +6,11 @@ hash: f993a09891f38f5791ef78ceb19ce44e
 annum:
     year: 2010
     month: 12
-hostname: moinmo.in
+url-parts:
+    scheme: http
+    host: moinmo.in
+    path: /
+
 ---
 
 

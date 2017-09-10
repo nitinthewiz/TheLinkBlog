@@ -6,7 +6,11 @@ hash: 1de5f810d0b07585300c38c630f2924a
 annum:
     year: 2012
     month: 02
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /how-to-make-a-killer-timeline-app-for-facebook-retail_b78781
+
 ---
 
 Social commerce shouldnt replicate what already exists in other retail channels, says Wade Gerten, founder and chief executive officer of 8thBridge.

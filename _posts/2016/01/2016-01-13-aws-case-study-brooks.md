@@ -6,7 +6,12 @@ hash: ccb87d79baa798209b9dbb48d8f5ae20
 annum:
     year: 2016
     month: 01
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /solutions/case-studies/brooks-brothers/
+    query:
+        sc_campaign: "case_study"
 ---
 
 Using AWS to deploy and operate our SAP environments, we can be more nimble, which opens up many more possibilities for our business. We can get new initiatives to production faster, and if some

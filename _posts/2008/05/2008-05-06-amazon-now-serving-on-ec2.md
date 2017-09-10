@@ -6,7 +6,11 @@ hash: 9498cad9331d65b926e8d2b51197a3f7
 annum:
     year: 2008
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/05/05/amazon-opensolaris-on-ec2/
+
 ---
 
 During our on-stage chat at Startup Camp, Sun Microsystems CEO Jonathan Schwartz hinted at some big news involving Amazon and its web services. Today, the company officially announced:

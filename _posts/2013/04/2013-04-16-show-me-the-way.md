@@ -6,7 +6,11 @@ hash: bb65da618e7220dc22dcdda07f9e61b6
 annum:
     year: 2013
     month: 04
-hostname: osmlab.github.io
+url-parts:
+    scheme: http
+    host: osmlab.github.io
+    path: /show-me-the-way/
+
 ---
 
 

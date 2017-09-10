@@ -6,7 +6,11 @@ hash: d7659def1321651938bb75e613a38203
 annum:
     year: 2008
     month: 12
-hostname: mac-host.com
+url-parts:
+    scheme: http
+    host: mac-host.com
+    path: /slidingdoor/
+
 ---
 
 

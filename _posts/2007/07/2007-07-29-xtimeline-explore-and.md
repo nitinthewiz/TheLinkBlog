@@ -6,7 +6,11 @@ hash: 3500ca149f72102f7f365390d7b997d7
 annum:
     year: 2007
     month: 07
-hostname: xtimeline.com
+url-parts:
+    scheme: http
+    host: xtimeline.com
+    path: /index.aspx
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 79af001bd7dce5061759320fe50df274
 annum:
     year: 2014
     month: 11
-hostname: bridgetkromhout.github.io
+url-parts:
+    scheme: http
+    host: bridgetkromhout.github.io
+    path: /blog/2014/11/03/the-first-rule-of-devops-club/
+
 ---
 
 

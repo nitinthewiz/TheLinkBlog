@@ -6,7 +6,11 @@ hash: 71074553dedf8e2a20809a53f54485d4
 annum:
     year: 2010
     month: 12
-hostname: www.ventureblog.com
+url-parts:
+    scheme: http
+    host: www.ventureblog.com
+    path: /2010/01/facebook-twitter-and-pg.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 03ae0cd2c41bb0c9955ed46a553fd090
 annum:
     year: 2005
     month: 08
-hostname: theater.stevejenkins.com
+url-parts:
+    scheme: http
+    host: theater.stevejenkins.com
+    path: /gallery/complete/
+
 ---
 
 insane home theater setup

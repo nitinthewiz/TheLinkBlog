@@ -6,7 +6,11 @@ hash: 8d058046307a34f87724e17fcea9289f
 annum:
     year: 2010
     month: 11
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /
+
 ---
 
 

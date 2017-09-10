@@ -6,7 +6,11 @@ hash: 23ec0126b933ff8999028824bf1f755c
 annum:
     year: 2011
     month: 12
-hostname: www.elezea.com
+url-parts:
+    scheme: http
+    host: www.elezea.com
+    path: /2011/12/facebook-ads-and-you/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: e0d0282a9da74656d450fd350dd6d640
 annum:
     year: 2011
     month: 02
-hostname: www.fastcodesign.com
+url-parts:
+    scheme: http
+    host: www.fastcodesign.com
+    path: /1663247/google-opens-up-infographic-tools-for-everyones-use
+
 ---
 
 

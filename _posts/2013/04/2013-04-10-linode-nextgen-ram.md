@@ -6,7 +6,11 @@ hash: e97db73bedb21e74afe77ab79cd0d294
 annum:
     year: 2013
     month: 04
-hostname: blog.linode.com
+url-parts:
+    scheme: https
+    host: blog.linode.com
+    path: /2013/04/09/linode-nextgen-ram-upgrade/
+
 ---
 
 Linode continues to be awesome.

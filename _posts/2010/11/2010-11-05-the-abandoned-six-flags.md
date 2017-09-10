@@ -6,7 +6,11 @@ hash: ad018309f3efa829f7a8f2f4b814e055
 annum:
     year: 2010
     month: 11
-hostname: laughingsquid.com
+url-parts:
+    scheme: http
+    host: laughingsquid.com
+    path: /a-post-apocalyptic-tour-of-the-abandoned-six-flags-in-new-orleans/
+
 ---
 
 Creepy video by Teddy Smith, touring the abandoned Six Flags New Orleans, destroyed by Hurricane Katrina five years ago. (So nice to watch full-screen HD video without my MacBook Pro’s fan kicking in.)

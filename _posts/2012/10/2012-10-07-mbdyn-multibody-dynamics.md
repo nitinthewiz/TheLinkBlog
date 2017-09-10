@@ -6,7 +6,11 @@ hash: 97c5ff4558c3709458de61bf68f54739
 annum:
     year: 2012
     month: 10
-hostname: www.mbdyn.org
+url-parts:
+    scheme: https
+    host: www.mbdyn.org
+    path: /
+
 ---
 
 MBDyn allows to simulate the behavior of heterogeneous mechanical, aeroservoelastic systems based on first principles equations.

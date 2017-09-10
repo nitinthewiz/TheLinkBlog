@@ -6,7 +6,11 @@ hash: 52ac1e0817f7bf80eaab8b4970a5a8f8
 annum:
     year: 2007
     month: 12
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2007/12/25/426218/-Delete-My-Bleeping-Account-Facebook
+
 ---
 
 I just cancelled a few accounts on various social networking services. For one, I never used them. For another, the intrusive (and possibly illegal) nature of Facebook's "Beacon" service - as well as the difficulty of opting out of it - had me alarmed at how far the next venture by the next site might go. I wanted out, once and for all.

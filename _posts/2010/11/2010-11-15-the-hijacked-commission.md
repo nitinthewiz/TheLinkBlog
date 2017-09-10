@@ -6,7 +6,13 @@ hash: 583aba87be9500702b2f3dfef6f7e293
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/12/opinion/12krugman.html
+    query:
+        partner: "rssnyt"
+        emc: "rss"
 ---
 
 Matters become clearer once you reach the section on tax reform. The goals of reform, as Mr. Bowles and Mr. Simpson see them, are presented in the form of seven bullet points. “Lower Rates” is the first point; “Reduce the Deficit” is the seventh.        

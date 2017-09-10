@@ -6,7 +6,11 @@ hash: 00851850a7f7db68f80c4ebf20ea46ad
 annum:
     year: 2008
     month: 04
-hostname: weblog.rubyonrails.org
+url-parts:
+    scheme: http
+    host: weblog.rubyonrails.org
+    path: /2008/4/11/passenger-mod_rails-for-apache-launches/
+
 ---
 
 The guys at Phusion has finally wrapped up Passenger, their mod_rails-like module for Apache. Its looking like a great, easy solution for people who want a more PHP-like deployment story. Just dump your files in a directory setup with a vhost and off you go. Touch tmp/restart.txt and the application is restarted. Doesnt get much simpler than that.

@@ -6,7 +6,12 @@ hash: 23cda480119b611d8ccade9f86da4dfb
 annum:
     year: 2016
     month: 03
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "qNTIo45bOu0"
 ---
 
 A conversation with actor and director Kevin Spacey about his acclaimed performance in the series House of Cards and the theatricality of American politics in this election year.

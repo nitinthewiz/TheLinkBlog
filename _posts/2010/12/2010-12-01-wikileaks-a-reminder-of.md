@@ -6,7 +6,11 @@ hash: 6e9ba74eca51c69dccda4aac577ad7fa
 annum:
     year: 2010
     month: 12
-hostname: www.npr.org
+url-parts:
+    scheme: http
+    host: www.npr.org
+    path: /2010/11/30/131687812/wikileaks-a-reminder-of-the-pentagon-papers
+
 ---
 
 3 interesting news pieces on #WikiLeaks & the First Amendment

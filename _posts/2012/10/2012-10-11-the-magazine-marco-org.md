@@ -6,7 +6,11 @@ hash: 156cce5f628a74b911d8c19d31a06456
 annum:
     year: 2012
     month: 10
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2012/10/11/the-magazine
+
 ---
 
 This sounds interesting. I think I'll give it a try.

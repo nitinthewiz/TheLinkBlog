@@ -6,7 +6,13 @@ hash: 0c13e3ff937e588ab08dfab224d71bdb
 annum:
     year: 2011
     month: 04
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/04/17/magazine/mag-17Sugar-t.html
+    query:
+        _r: "3"
+        pagewanted: "all"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 01bd3f1cf64fe257535d00d5c203e689
 annum:
     year: 2017
     month: 03
-hostname: omni-automation.com
+url-parts:
+    scheme: https
+    host: omni-automation.com
+    path: /
+
 ---
 
 

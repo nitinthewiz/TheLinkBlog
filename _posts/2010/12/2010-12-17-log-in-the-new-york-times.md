@@ -6,7 +6,14 @@ hash: ad1b8b18a415e3c9e2e18ecdd96ea690
 annum:
     year: 2010
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/12/17/opinion/17krugman.html
+    query:
+        _r: "3"
+        partner: "rssnyt"
+        emc: "rss"
 ---
 
  (Wall Street Whitewash)

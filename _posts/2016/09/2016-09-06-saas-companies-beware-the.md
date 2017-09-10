@@ -6,7 +6,11 @@ hash: dc5fa3948cd92e0df3e37f71b36c9320
 annum:
     year: 2016
     month: 09
-hostname: seekingwisdom.io
+url-parts:
+    scheme: https
+    host: seekingwisdom.io
+    path: /saas-companies-beware-the-slow-ramp-of-death-3edcc1b6444a
+
 ---
 
 The gem is an interview I did of Gail Goodman at the Momentum Summit here at MIT in Cambridge back in 2010.

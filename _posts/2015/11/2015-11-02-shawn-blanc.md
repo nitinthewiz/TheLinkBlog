@@ -6,7 +6,11 @@ hash: 2531157c8308cefe6f3faadc86624287
 annum:
     year: 2015
     month: 11
-hostname: shawnblanc.net
+url-parts:
+    scheme: https
+    host: shawnblanc.net
+    path: /2014/10/little-things/
+
 ---
 
 Let

@@ -6,7 +6,11 @@ hash: 075a7c16706f057251b70d0f0d179087
 annum:
     year: 2015
     month: 08
-hostname: blog.kaspersky.com
+url-parts:
+    scheme: https
+    host: blog.kaspersky.com
+    path: /blackhat-jeep-cherokee-hack-explained
+
 ---
 
 

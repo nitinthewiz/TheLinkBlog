@@ -6,7 +6,11 @@ hash: b90eba374fc80434db0279436ec25106
 annum:
     year: 2012
     month: 02
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /thomaserickson/personal-information-ecologies-erickson
+
 ---
 
 Personal information ecologies, a keynote for the PIM workshop at CSCW:  via @slideshare

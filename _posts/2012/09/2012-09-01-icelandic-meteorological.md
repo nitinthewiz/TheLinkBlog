@@ -6,7 +6,11 @@ hash: 4eb276861386df30df737fae814bf417
 annum:
     year: 2012
     month: 09
-hostname: en.vedur.is
+url-parts:
+    scheme: http
+    host: en.vedur.is
+    path: /weather/forecasts/areas/
+
 ---
 
 

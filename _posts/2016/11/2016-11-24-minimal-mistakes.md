@@ -6,7 +6,11 @@ hash: c204fae126cb700271a03efd23817680
 annum:
     year: 2016
     month: 11
-hostname: mmistakes.github.io
+url-parts:
+    scheme: https
+    host: mmistakes.github.io
+    path: /minimal-mistakes/
+
 ---
 
 

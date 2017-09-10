@@ -6,7 +6,11 @@ hash: d0ec854b918531e689789c583b32c436
 annum:
     year: 2014
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /Netflix/s3mper
+
 ---
 
 

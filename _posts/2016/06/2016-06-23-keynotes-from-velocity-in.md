@@ -6,7 +6,11 @@ hash: 7324169b65b314452a6258c7fde93b83
 annum:
     year: 2016
     month: 06
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/keynotes-from-velocity-santa-clara-2016
+
 ---
 
 Velocity keynote stage (source: O'Reilly Conference via Flickr). Experts from across the web operations and performance worlds are co

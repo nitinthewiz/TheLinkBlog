@@ -6,7 +6,11 @@ hash: 131d52fab2587444af4d59a745076cea
 annum:
     year: 2016
     month: 09
-hostname: imgur.com
+url-parts:
+    scheme: http
+    host: imgur.com
+    path: /gallery/yXtHi
+
 ---
 
 Album with topic of No Topic uploaded by Bones55. 80 hi-res, textless posters

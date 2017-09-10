@@ -6,7 +6,11 @@ hash: 420dbaf0c697739fe520b6ee3817bfcc
 annum:
     year: 2012
     month: 04
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /business/news/2012/04/beware-of-ipv6-security-goblins-ietf-warns.ars
+
 ---
 
 Important to keep in mind. I was happily running iptables on my hosts but didn't consider running ip6tables and I'm advertising IPv6 addresses.

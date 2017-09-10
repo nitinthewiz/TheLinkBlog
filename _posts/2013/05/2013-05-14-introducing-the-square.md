@@ -6,7 +6,11 @@ hash: 9a0645f68e927265160e62d0ca6f51ca
 annum:
     year: 2013
     month: 05
-hostname: squareup.com
+url-parts:
+    scheme: https
+    host: squareup.com
+    path: /stand
+
 ---
 
 An ipad in a stylish case still looks like ass on top of a cash drawer

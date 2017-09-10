@@ -6,7 +6,11 @@ hash: c63712fe9fd4648d1dfc8a465a8892b5
 annum:
     year: 2016
     month: 03
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /guides/our-guide-to-iced-and-cold-brew-coffees/
+
 ---
 
 Below is our guide to the hows and whys of making two kinds of cold coffee: Iced and cold brewed.

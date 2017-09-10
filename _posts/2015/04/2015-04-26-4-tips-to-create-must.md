@@ -6,7 +6,12 @@ hash: 72909b7e3326024da2d4319e066d7c5f
 annum:
     year: 2015
     month: 04
-hostname: www.thinkadvisor.com
+url-parts:
+    scheme: http
+    host: www.thinkadvisor.com
+    path: /2015/04/06/4-tips-to-create-must-read-client-emails
+    query:
+        page_all: "1"
 ---
 
 

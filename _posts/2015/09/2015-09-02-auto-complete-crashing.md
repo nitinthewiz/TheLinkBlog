@@ -6,7 +6,11 @@ hash: 048a5b4b2bda1d9e901d8a75dcd4f171
 annum:
     year: 2015
     month: 09
-hostname: supportcenter.spscommerce.com
+url-parts:
+    scheme: https
+    host: supportcenter.spscommerce.com
+    path: /spscommerce/topics/auto-complete-crashing
+
 ---
 
 When we receive multi-store POs from Bed Bath and Beyond we really have no other choice but to Auto-complete the ASNs into the drafts folder. 

@@ -6,7 +6,11 @@ hash: a1f472698601eca6b8d076b55f7b96cb
 annum:
     year: 2009
     month: 11
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2009/11/03/wcco-walks-the-wire/
+
 ---
 
 At their latest Bloginar gathering WCCO-TV previewed The Wire, a site that will allow users to see a story develop over time. It also allows staffers and users to interact and contribute to stories as they do develop. I had a chance to sit down with WCCO’s Director of New Media, John Daenzer to talk more about what WCCO hopes to accomplish with The Wire and to get a pre-launch walk-through of the service.

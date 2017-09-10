@@ -6,7 +6,11 @@ hash: 4b820985cdf4d74b97612f506ed4d846
 annum:
     year: 2012
     month: 03
-hostname: www.nodepression.com
+url-parts:
+    scheme: http
+    host: www.nodepression.com
+    path: /profiles/blogs/interview-aoife-o-donovan-of-crooked-still-shares-memories-while
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 1aab16bbaa156cec61950bf312ccbc1d
 annum:
     year: 2010
     month: 07
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/07/not-your-fathers-style-manual
+
 ---
 
 The Chicago Manual of Style addresses some recent questions about citation, grammar, and even fashion.

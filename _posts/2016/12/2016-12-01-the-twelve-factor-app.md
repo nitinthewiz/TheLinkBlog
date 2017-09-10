@@ -6,7 +6,11 @@ hash: 3c4ee2506a662fcc4e7c4eca2c841d8c
 annum:
     year: 2016
     month: 12
-hostname: 12factor.net
+url-parts:
+    scheme: https
+    host: 12factor.net
+    path: /
+
 ---
 
 

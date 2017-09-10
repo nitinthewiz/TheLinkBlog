@@ -6,7 +6,11 @@ hash: 380d5cb5466cdf5e45ba7775367889ea
 annum:
     year: 2010
     month: 12
-hostname: helpx.adobe.com
+url-parts:
+    scheme: http
+    host: helpx.adobe.com
+    path: /flash.html
+
 ---
 
 

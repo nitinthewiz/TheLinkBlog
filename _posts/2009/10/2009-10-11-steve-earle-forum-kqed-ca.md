@@ -6,7 +6,11 @@ hash: bd78b9cfa3871c18a293201914926e43
 annum:
     year: 2009
     month: 10
-hostname: www.kqed.org
+url-parts:
+    scheme: http
+    host: www.kqed.org
+    path: /a/forum/R910021000
+
 ---
 
 Just listened to Steve Earle's appearance on KQED's Forum. Great interview. 

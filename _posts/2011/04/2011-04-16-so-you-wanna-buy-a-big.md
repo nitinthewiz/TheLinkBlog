@@ -6,7 +6,11 @@ hash: ebfb4b21c541cfd6202e1501679d151b
 annum:
     year: 2011
     month: 04
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2006/05/25/so-you-wanna-buy-a-big-green-egg/
+
 ---
 
 

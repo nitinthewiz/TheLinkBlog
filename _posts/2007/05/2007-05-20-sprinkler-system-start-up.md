@@ -6,7 +6,11 @@ hash: 1a5e4c6f60a9e955e75702c097f87228
 annum:
     year: 2007
     month: 05
-hostname: www.pioneermidwest.com
+url-parts:
+    scheme: http
+    host: www.pioneermidwest.com
+    path: /irr/insman/startup.htm
+
 ---
 
 steps to start your sprinkler system in the Spring.

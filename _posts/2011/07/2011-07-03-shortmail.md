@@ -6,7 +6,11 @@ hash: 2c353b17b0cffa2f719f605a7a63781d
 annum:
     year: 2011
     month: 07
-hostname: shortmail.com
+url-parts:
+    scheme: http
+    host: shortmail.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b549673055fa9b4fda1fd3f7cfecc22e
 annum:
     year: 2007
     month: 12
-hostname: pragdave.blogs.pragprog.com
+url-parts:
+    scheme: http
+    host: pragdave.blogs.pragprog.com
+    path: /pragdave/2007/12/ruby-19right-fo.html
+
 ---
 
 As is becoming a tradition, Matz announced the next major release of Ruby on Christmas day. 

@@ -6,7 +6,11 @@ hash: 02d6cbd7dcb7f2d6c6f270ee6a867177
 annum:
     year: 2007
     month: 11
-hostname: appleinsider.com
+url-parts:
+    scheme: http
+    host: appleinsider.com
+    path: /articles/07/11/26/early_iphone_sdk_t_mobile_iphone_unlock_in_itunes_more
+
 ---
 
 Apple may not be waiting to get developers started on writing programs for the iPhone.  Also, the first official unlock method for the iPhone is active  and only requires iTunes -- plus the right phone ID -- to work.

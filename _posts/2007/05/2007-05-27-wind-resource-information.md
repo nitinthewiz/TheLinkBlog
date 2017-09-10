@@ -6,7 +6,11 @@ hash: 13210cd49da9c0cce7d1ff74695e5cc4
 annum:
     year: 2007
     month: 05
-hostname: rredc.nrel.gov
+url-parts:
+    scheme: http
+    host: rredc.nrel.gov
+    path: /wind/
+
 ---
 
 

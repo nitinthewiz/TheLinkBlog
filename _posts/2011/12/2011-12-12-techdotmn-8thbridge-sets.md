@@ -6,7 +6,11 @@ hash: 920545655edf74d678ba72e7014fa9a5
 annum:
     year: 2011
     month: 12
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/12/12/8thbridge-san-francisco-martin-wesley/
+
 ---
 
 8thBridge sets up San Fran office

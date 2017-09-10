@@ -6,7 +6,11 @@ hash: 0003e559e8ef87fff83bad94c372a66b
 annum:
     year: 2006
     month: 12
-hostname: productblogarchive.37signals.com
+url-parts:
+    scheme: http
+    host: productblogarchive.37signals.com
+    path: /products/backpack/
+
 ---
 
 

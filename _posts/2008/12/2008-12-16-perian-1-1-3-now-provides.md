@@ -6,7 +6,11 @@ hash: 451873aed5cb8caa7dbc33ecc4350760
 annum:
     year: 2008
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/12/16/perian-1-1-3-now-available-provides-lots-of-fixes/
+
 ---
 
 Filed under: Multimedia, Software, Freeware

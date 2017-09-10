@@ -6,7 +6,11 @@ hash: 7c6f85f4fa7b9c55b9a3ff5bf5893d5b
 annum:
     year: 2012
     month: 12
-hostname: 500px.com
+url-parts:
+    scheme: http
+    host: 500px.com
+    path: /lucasgilman/stories/63869/land-rover-story-challenge
+
 ---
 
 I got to spend an afternoon with Lucas in Iceland as he was wrapping up his trip there. He had done a workshop with Layne Kennedy. Great photos.

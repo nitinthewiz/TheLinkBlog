@@ -6,7 +6,11 @@ hash: 1ef953f7421f551bf23e29adaa68d977
 annum:
     year: 2011
     month: 01
-hostname: www.roughtype.com
+url-parts:
+    scheme: http
+    host: www.roughtype.com
+    path: /archives/2011/01/the_like_bribe.php
+
 ---
 
 

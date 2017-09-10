@@ -6,7 +6,11 @@ hash: cbe821fc8db8f3323184a4a28d7bb063
 annum:
     year: 2012
     month: 04
-hostname: blueimp.github.io
+url-parts:
+    scheme: http
+    host: blueimp.github.io
+    path: /jQuery-File-Upload/
+
 ---
 
 File Upload widget with multiple file selection, drag&drop support, progress bars and preview images for jQuery.

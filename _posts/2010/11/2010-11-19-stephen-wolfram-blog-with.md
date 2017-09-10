@@ -6,7 +6,11 @@ hash: 1991a4e7b05ea8944d320c3b826de20a
 annum:
     year: 2010
     month: 11
-hostname: blog.stephenwolfram.com
+url-parts:
+    scheme: http
+    host: blog.stephenwolfram.com
+    path: /2010/11/programming-with-natural-language-is-actually-going-to-work/
+
 ---
 
 

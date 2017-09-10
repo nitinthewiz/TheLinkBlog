@@ -6,7 +6,11 @@ hash: 47e44a7f718f71be27c7dfeb86bc7699
 annum:
     year: 2011
     month: 01
-hostname: wely.com
+url-parts:
+    scheme: http
+    host: wely.com
+    path: /
+
 ---
 
 Sunday morning, tuned into Ely, MN for Pathways with Ray Nargis. 

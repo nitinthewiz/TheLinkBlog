@@ -6,7 +6,11 @@ hash: 974b3301a8e5c9cff0775eb9051bc9f8
 annum:
     year: 2011
     month: 05
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /features/bigpixgrigsby052511.aspx
+
 ---
 
 

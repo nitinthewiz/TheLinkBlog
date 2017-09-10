@@ -6,7 +6,11 @@ hash: 3772286c86a7b72accc0dacc80e3e2dd
 annum:
     year: 2015
     month: 07
-hostname: www.scientificamerican.com
+url-parts:
+    scheme: http
+    host: www.scientificamerican.com
+    path: /article/xerox-parc-materials-scientists-print-two-thirds-of-a-battery-in-1-go/
+
 ---
 
 <blockquote>

@@ -6,7 +6,11 @@ hash: e959dd524fc785a2e30e49b18261f09c
 annum:
     year: 2010
     month: 12
-hostname: www.niemanlab.org
+url-parts:
+    scheme: http
+    host: www.niemanlab.org
+    path: /2010/12/steve-brill-2011-will-bring-ebook-battles-paywall-successes-and-a-new-model-for-long-form-articles/
+
 ---
 
 Steven Brill shares his thoughts on what 2011 will bring for journalism 

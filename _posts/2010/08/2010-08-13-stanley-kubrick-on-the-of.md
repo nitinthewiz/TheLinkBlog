@@ -6,7 +6,11 @@ hash: 44714fc433acc0aeb211044654fb5869
 annum:
     year: 2010
     month: 08
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /artanddesign/2010/aug/11/dmitri-kasterine-best-shot-photography
+
 ---
 
 Great photo by Dmitri Kasterine. (Be sure to click it to show the whole thing; the web page defaults to showing just a small crop of it.)

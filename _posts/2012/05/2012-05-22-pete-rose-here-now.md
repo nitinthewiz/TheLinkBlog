@@ -6,7 +6,12 @@ hash: 096eed2581c7e3fa0b2a03410decbc9c
 annum:
     year: 2012
     month: 05
-hostname: espn.go.com
+url-parts:
+    scheme: http
+    host: espn.go.com
+    path: /video/clip
+    query:
+        id: "7925114"
 ---
 
 Heartbreaking 8-minute short film on Pete Roses day to day life, selling autographs and baseball memorabilia.

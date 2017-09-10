@@ -6,7 +6,11 @@ hash: daa16b38427bade3759bf67f21eef4fa
 annum:
     year: 2011
     month: 01
-hostname: 99u.com
+url-parts:
+    scheme: http
+    host: 99u.com
+    path: /articles/6973/francis-ford-coppola-on-risk-money-craft-collaboration
+
 ---
 
 

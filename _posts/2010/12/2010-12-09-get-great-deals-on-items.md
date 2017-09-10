@@ -6,7 +6,11 @@ hash: 1c5801990f50bd0b67eef22e218ba374
 annum:
     year: 2010
     month: 12
-hostname: shop.ebay.com
+url-parts:
+    scheme: http
+    host: shop.ebay.com
+    path: /electronicfrontierfoundation/m.html
+
 ---
 
 Get EFF #defcon 18 t-shirts and a signed poster on eBay! 

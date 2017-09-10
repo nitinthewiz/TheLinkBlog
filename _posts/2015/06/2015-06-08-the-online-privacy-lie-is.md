@@ -6,7 +6,11 @@ hash: 745745e4ae281c5cd3fac41c1379fb65
 annum:
     year: 2015
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2015/06/06/the-online-privacy-lie-is-unraveling/
+
 ---
 
 

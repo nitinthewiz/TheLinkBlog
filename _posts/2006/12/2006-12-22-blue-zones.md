@@ -6,7 +6,11 @@ hash: 759011a2eb6c30f5b55384e2900ed32f
 annum:
     year: 2006
     month: 12
-hostname: www.bluezones.com
+url-parts:
+    scheme: http
+    host: www.bluezones.com
+    path: /
+
 ---
 
 Live Longer, Better. We’re exploring the four parts of the world experts call Blue Zones—places where people live the longest, healthiest lives.

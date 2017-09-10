@@ -6,7 +6,12 @@ hash: ff942b425210fdd17e1db2d105e3fd30
 annum:
     year: 2012
     month: 01
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "1_kwxzU4wL4"
 ---
 
 Ferrari pulled several of their race cars from various ages out of storage, flew them around the world and filmed them running through the streets of Rome , Rio , New York , Hong Kong, Honolulu and Monaco . No computer graphics these are the original cars on the original streets.

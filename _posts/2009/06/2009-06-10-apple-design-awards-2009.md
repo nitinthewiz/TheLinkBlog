@@ -6,7 +6,11 @@ hash: f85c83d49bde4f1677061d14116a62dd
 annum:
     year: 2009
     month: 06
-hostname: www.macworld.com
+url-parts:
+    scheme: http
+    host: www.macworld.com
+    path: /article/141078/2009/06/apple_design_awards.html
+
 ---
 
 This year’s winners include Billings, Things, and Tweetie.

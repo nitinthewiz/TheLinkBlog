@@ -6,7 +6,11 @@ hash: f4dee684f49ea794097382eaf42f6ebb
 annum:
     year: 2015
     month: 09
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2015/09/27/opinion/sunday/stop-googling-lets-talk.html
+
 ---
 
 COLLEGE students tell me they know how to look someone in the eye and type on their phones at the same time, their split attention undetected. They say it&#x2019;s a skill they mastered in middle&hellip;

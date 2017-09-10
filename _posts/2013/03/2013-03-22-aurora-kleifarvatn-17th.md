@@ -6,7 +6,11 @@ hash: 328f08785371e618bf66a2d5882e17bb
 annum:
     year: 2013
     month: 03
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /62124710
+
 ---
 
 Great video of the recent northern lights spectacular over Iceland.

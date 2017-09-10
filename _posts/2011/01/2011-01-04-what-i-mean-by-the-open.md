@@ -6,7 +6,11 @@ hash: 08971b37870adde1e6be439058427fa8
 annum:
     year: 2011
     month: 01
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/01/04/whatIMeanByTheOpenWeb.html
+
 ---
 
 

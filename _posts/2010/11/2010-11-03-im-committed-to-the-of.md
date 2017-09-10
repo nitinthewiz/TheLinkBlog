@@ -6,7 +6,11 @@ hash: 7f8dbc07e71491d46d45bd931134a571
 annum:
     year: 2010
     month: 11
-hostname: pressthink.org
+url-parts:
+    scheme: http
+    host: pressthink.org
+    path: /2010/11/im-committed-to-the-destruction-of-the-old-media-guard-abc-news-and-andrew-breitbart/
+
 ---
 
 

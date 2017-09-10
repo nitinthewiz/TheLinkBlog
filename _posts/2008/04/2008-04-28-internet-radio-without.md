@@ -6,7 +6,11 @@ hash: 923be4cf60d4369035a230781cbb4f0a
 annum:
     year: 2008
     month: 04
-hostname: www.appletvhacks.net
+url-parts:
+    scheme: http
+    host: www.appletvhacks.net
+    path: /2008/04/28/internet-radio-without-hacking/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 29a1ff54960371fda9d5d2b60f00590b
 annum:
     year: 2013
     month: 04
-hostname: www.scribd.com
+url-parts:
+    scheme: http
+    host: www.scribd.com
+    path: /doc/137629166/Ecomom-Post-Mortem
+
 ---
 
 

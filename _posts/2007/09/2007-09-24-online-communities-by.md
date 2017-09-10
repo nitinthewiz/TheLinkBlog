@@ -6,7 +6,11 @@ hash: 4821ba17032573071cab4cfa263cf092
 annum:
     year: 2007
     month: 09
-hostname: xkcd.com
+url-parts:
+    scheme: http
+    host: xkcd.com
+    path: /256/
+
 ---
 
 Online Communities

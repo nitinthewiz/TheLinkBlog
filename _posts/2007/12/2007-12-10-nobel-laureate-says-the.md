@@ -6,7 +6,11 @@ hash: 513e2ff3b3933a9aad0806276f65d538
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/09/nobel-laureate-says-the-internet-makes-us-dumb-we-say-meh/
+
 ---
 
 Newly awarded Nobel Prize winner Doris Lessing has used her acceptance speech to tell the world that the internet makes us dumb.

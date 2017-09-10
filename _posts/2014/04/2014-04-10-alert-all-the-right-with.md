@@ -6,7 +6,11 @@ hash: 679aa90aa280393881cf700090eec27c
 annum:
     year: 2014
     month: 04
-hostname: blog.pagerduty.com
+url-parts:
+    scheme: http
+    host: blog.pagerduty.com
+    path: /2014/04/alert-all-the-right-people-with-multi-user-alerting/
+
 ---
 
 Yay! Waited forever for this! -- @pagerduty "We launched Multi-User Alerting. Notify up to 10 people at a time.  "

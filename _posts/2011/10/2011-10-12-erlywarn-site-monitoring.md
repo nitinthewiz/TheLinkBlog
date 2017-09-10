@@ -6,7 +6,11 @@ hash: 2ef52dfc6e1b902651cf8ad3dcb95f94
 annum:
     year: 2011
     month: 10
-hostname: erlywarn.com
+url-parts:
+    scheme: http
+    host: erlywarn.com
+    path: /
+
 ---
 
 Get instant notification when your website is responding unusually. Minimize your downtime by acting on early warning signs such as sudden changes in response behavior.

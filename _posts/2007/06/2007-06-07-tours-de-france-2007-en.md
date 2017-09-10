@@ -6,7 +6,11 @@ hash: 0e61a45fd06cec11f22b29b342ba91d2
 annum:
     year: 2007
     month: 06
-hostname: www.letour.fr
+url-parts:
+    scheme: http
+    host: www.letour.fr
+    path: /2007/TDF/presentation/fr/parcours_flash.html
+
 ---
 
 Interactive course map.

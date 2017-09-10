@@ -6,7 +6,11 @@ hash: af21e09626abbc3ec8980d8da2266e87
 annum:
     year: 2012
     month: 06
-hostname: www.elkriverrv.com
+url-parts:
+    scheme: http
+    host: www.elkriverrv.com
+    path: /
+
 ---
 
 

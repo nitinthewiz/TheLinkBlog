@@ -6,7 +6,11 @@ hash: 277a87ff32eb6608ac8e0dc0b18981fc
 annum:
     year: 2009
     month: 03
-hostname: tourdefarmmn.com
+url-parts:
+    scheme: http
+    host: tourdefarmmn.com
+    path: /
+
 ---
 
 

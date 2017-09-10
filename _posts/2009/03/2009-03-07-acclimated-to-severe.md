@@ -6,7 +6,11 @@ hash: 34fe0f3f98ab7da98b93b1ec5a3dbea1
 annum:
     year: 2009
     month: 03
-hostname: blogs.law.harvard.edu
+url-parts:
+    scheme: http
+    host: blogs.law.harvard.edu
+    path: /philg/2009/03/05/stock-market-down-425-percent-not-a-front-page-story/
+
 ---
 
 Philip Greenspun:

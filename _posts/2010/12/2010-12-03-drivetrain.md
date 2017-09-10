@@ -6,7 +6,11 @@ hash: 6db6d328398f79ec0752cbe9dc9b4240
 annum:
     year: 2010
     month: 12
-hostname: www.drivetrainagency.com
+url-parts:
+    scheme: http
+    host: www.drivetrainagency.com
+    path: 
+
 ---
 
 Very fun evening at Pizza Luce for the Drivetrain Agency event. Thanks @dcgrigsby!

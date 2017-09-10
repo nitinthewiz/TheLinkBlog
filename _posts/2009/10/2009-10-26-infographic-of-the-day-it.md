@@ -6,7 +6,11 @@ hash: c9e2b720e390d1b114f81d1910633ace
 annum:
     year: 2009
     month: 10
-hostname: www.fastcompany.com
+url-parts:
+    scheme: http
+    host: www.fastcompany.com
+    path: /blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
+
 ---
 
 This map shows exactly where are the most remote places in the world. 

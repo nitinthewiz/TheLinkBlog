@@ -6,7 +6,11 @@ hash: 6814cac285b4976c43632afbf6f27d91
 annum:
     year: 2008
     month: 01
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/646-jason-fried-discusses-highrise-red-flag-words-opinionated-companies-and-benevolent-dictators
+
 ---
 
 Jason Fried was recently interviewed on John Jantsch’s Duct Tape Marketing Podcast.

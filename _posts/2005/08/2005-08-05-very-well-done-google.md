@@ -6,7 +6,13 @@ hash: 68d776d1eacaff06c12b2f774745def2
 annum:
     year: 2005
     month: 08
-hostname: www.sueandpaul.com
+url-parts:
+    scheme: http
+    host: www.sueandpaul.com
+    path: /gmapPedometer/
+    query:
+        centerX: "-71.42"
+        centerY: "41.83"
 ---
 
 Super cool interactive example of Google Maps

@@ -6,7 +6,11 @@ hash: df80eb0218ed1b9e4af2862a4e837602
 annum:
     year: 2012
     month: 01
-hostname: cobook.co
+url-parts:
+    scheme: https
+    host: cobook.co
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 8b936332c14af85a65b8bfb4a41ba2cc
 annum:
     year: 2008
     month: 12
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /posts/1497-getting-real-and-design
+
 ---
 
 Ive only known one method for approaching a Design project. There are many variations out there, but it can essentially be broken down into 4 steps: Discover, Plan, Design/Develop, and Deploy. It didnt matter where I workedagency or internal design departmentthese were the steps, and I didnt question them.

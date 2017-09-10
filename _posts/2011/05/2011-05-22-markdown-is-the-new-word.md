@@ -6,7 +6,11 @@ hash: efd58e14ab48b1093395a69d8d966ef9
 annum:
     year: 2011
     month: 05
-hostname: forkbombr.net
+url-parts:
+    scheme: http
+    host: forkbombr.net
+    path: /markdown-new-word51/
+
 ---
 
 

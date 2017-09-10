@@ -6,7 +6,11 @@ hash: 16b79fcb9a7d5d1021d30954301f31eb
 annum:
     year: 2014
     month: 06
-hostname: keybase.io
+url-parts:
+    scheme: https
+    host: keybase.io
+    path: /docs/command_line/code_signing
+
 ---
 
 This is a very cool new feature. I really like what Keybase.io is working on with encryption and validating identity.

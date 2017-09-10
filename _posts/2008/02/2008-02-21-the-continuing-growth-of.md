@@ -6,7 +6,11 @@ hash: 9b24b6c32fa7a2c00732970052b17baf
 annum:
     year: 2008
     month: 02
-hostname: www.nevillehobson.com
+url-parts:
+    scheme: http
+    host: www.nevillehobson.com
+    path: /2008/02/21/the-continuing-growth-of-twitter/
+
 ---
 
 

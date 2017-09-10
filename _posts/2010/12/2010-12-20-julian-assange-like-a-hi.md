@@ -6,7 +6,11 @@ hash: e424ab343234f00bc3bc37a361762d63
 annum:
     year: 2010
     month: 12
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /media/2010/dec/19/assange-high-tech-terrorist-biden
+
 ---
 
 Vice Pres. Biden calls Assange a "high-tech terrorist" -  well, investigative journalism *is* terrorizing world leaders.

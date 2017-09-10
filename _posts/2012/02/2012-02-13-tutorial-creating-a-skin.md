@@ -6,7 +6,11 @@ hash: 74afc82ab6734f6e17c3d7ce6d971ffe
 annum:
     year: 2012
     month: 02
-hostname: blog.redwerks.org
+url-parts:
+    scheme: http
+    host: blog.redwerks.org
+    path: /2012/02/08/mediawiki-skinning-tutorial/
+
 ---
 
 This tutorial details the creation of a custom skin for MediaWiki. The skin is packaged up into a directory you can drop into a MediaWiki installation and require_once() to install just as any other extension.

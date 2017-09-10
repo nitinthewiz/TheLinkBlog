@@ -6,7 +6,11 @@ hash: 381aaa9c9c75217c3b0d7685d08f2931
 annum:
     year: 2008
     month: 08
-hostname: cameradojo.com
+url-parts:
+    scheme: http
+    host: cameradojo.com
+    path: /2008/08/04/geo-tagging-comes-to-nikon-cameras/
+
 ---
 
 Wolverine Data  announces the most advanced GPS geographical tag accessory for your Nikon D200, D300, D2Hs, D2Xs, D3 or Fujifilm S5 Pro Photo!

@@ -6,7 +6,11 @@ hash: 171e8f8f3037a332483683d574c70a58
 annum:
     year: 2017
     month: 06
-hostname: letsencrypt.org
+url-parts:
+    scheme: https
+    host: letsencrypt.org
+    path: /2017/06/28/hundred-million-certs.html
+
 ---
 
 I’m a big fan of Let's Encrypt and I’m very happy to see it being adopted as widely as it has been. Amazing success story and what a great mission. Let's Encrypt is a major milestone to a completely encrypted web. Also worth reading the [EFF writeup on this milestone](https://www.eff.org/deeplinks/2017/06/lets-encrypt-has-issued-100-million-certificates).

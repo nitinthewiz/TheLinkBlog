@@ -6,7 +6,12 @@ hash: 9a8fb069f779923659ea3c9e4bd30600
 annum:
     year: 2012
     month: 03
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2012/03/14/opinion/why-i-am-leaving-goldman-sachs.html
+    query:
+        _r: "2"
 ---
 
 "Find yourself sitting in a seat where your job is to trade any illiquid, opaque product with a three-letter acronym."

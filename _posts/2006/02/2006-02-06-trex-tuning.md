@@ -6,7 +6,11 @@ hash: 65763d7f96c3cbfdd872c62ce82e401e
 annum:
     year: 2006
     month: 02
-hostname: www.helituning.com
+url-parts:
+    scheme: http
+    host: www.helituning.com
+    path: 
+
 ---
 
 Information and Reviews for the Align T-Rex 450X

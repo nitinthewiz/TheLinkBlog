@@ -6,7 +6,11 @@ hash: 5570d61eea83b2a41ecb4eeb169897a1
 annum:
     year: 2012
     month: 02
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/five-minute_workshop_videos/
+
 ---
 
 

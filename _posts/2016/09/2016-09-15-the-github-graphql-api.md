@@ -6,7 +6,11 @@ hash: d9457ea0fba660a5011e8671f44f212c
 annum:
     year: 2016
     month: 09
-hostname: githubengineering.com
+url-parts:
+    scheme: http
+    host: githubengineering.com
+    path: /the-github-graphql-api/
+
 ---
 
 GitHub announced a public API one month after the site launched. We

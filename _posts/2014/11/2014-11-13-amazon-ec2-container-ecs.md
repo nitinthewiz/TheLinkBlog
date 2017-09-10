@@ -6,7 +6,11 @@ hash: e7cf80a0c207d64ecb8d933587ac3c34
 annum:
     year: 2014
     month: 11
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/cloud-container-management/
+
 ---
 
 

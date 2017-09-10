@@ -6,7 +6,11 @@ hash: 3dcca4101ca86e24b190080f1ed887c8
 annum:
     year: 2012
     month: 02
-hostname: www.collativelearning.com
+url-parts:
+    scheme: http
+    host: www.collativelearning.com
+    path: /the%20shining.html
+
 ---
 
 

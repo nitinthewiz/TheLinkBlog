@@ -6,7 +6,11 @@ hash: c10cea25ca06744fa85664a471e57a75
 annum:
     year: 2011
     month: 10
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /business/news/2011/10/when-clever-goes-wrong-how-etsy-overcame-poor-architectural-choices.ars
+
 ---
 
 

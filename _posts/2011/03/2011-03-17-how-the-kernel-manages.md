@@ -6,7 +6,11 @@ hash: 98bcc428b75940284bea4c6de235f218
 annum:
     year: 2011
     month: 03
-hostname: duartes.org
+url-parts:
+    scheme: http
+    host: duartes.org
+    path: /gustavo/blog/post/how-the-kernel-manages-your-memory
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 59f50679bf1044ff3948eb2219afe532
 annum:
     year: 2016
     month: 02
-hostname: www.buzzfeed.com
+url-parts:
+    scheme: http
+    host: www.buzzfeed.com
+    path: /benrosen/how-to-snapchat-like-the-teens
+
 ---
 
 I don't understand Snapchat even a little. 

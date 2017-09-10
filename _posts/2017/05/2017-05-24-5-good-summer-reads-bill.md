@@ -6,7 +6,12 @@ hash: 2014722d1e42fd8c1b2502a498b891ba
 annum:
     year: 2017
     month: 05
-hostname: www.gatesnotes.com
+url-parts:
+    scheme: https
+    host: www.gatesnotes.com
+    path: /About-Bill-Gates/Summer-Books-2017
+    query:
+        WT.mc_id: "05_24_2017_10_SummerBooks2017_BG-TW_"
 ---
 
 

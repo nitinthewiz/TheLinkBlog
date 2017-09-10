@@ -6,7 +6,11 @@ hash: b84d9da6c52a645f2485bf2cde783448
 annum:
     year: 2009
     month: 05
-hostname: benschwarz.github.com
+url-parts:
+    scheme: http
+    host: benschwarz.github.com
+    path: /passenger-stack/
+
 ---
 
 Passenger stack is a collection of scripts for Marcus Crafter’s ‘Sprinkle’ tool, it allows you provision a standard Ruby on Rails / Rack server running Ruby Enterprise, Apache with Passenger, MySQL / Postgres and Memcached.

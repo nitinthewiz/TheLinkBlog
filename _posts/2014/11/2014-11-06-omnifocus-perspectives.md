@@ -6,7 +6,11 @@ hash: bd042407c0b9eb3a9b90620a67e0112d
 annum:
     year: 2014
     month: 11
-hostname: simplicitybliss.com
+url-parts:
+    scheme: http
+    host: simplicitybliss.com
+    path: /blog/omnifocus-perspectives-redux-people-meetings
+
 ---
 
 

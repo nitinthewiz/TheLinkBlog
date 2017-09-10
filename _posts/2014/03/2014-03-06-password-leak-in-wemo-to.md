@@ -6,7 +6,11 @@ hash: 82b3afb694aa3ef1fe3156ede945bcac
 annum:
     year: 2014
     month: 03
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /security/2014/02/password-leak-in-wemo-devices-makes-home-appliances-susceptible-to-hijacks/
+
 ---
 
 I have one of these and like it a lot. Glad to see that patches have been applied already. However, it highlights a brand new security vector that needs to be considered.

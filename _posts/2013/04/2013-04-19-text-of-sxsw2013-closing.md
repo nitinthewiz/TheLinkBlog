@@ -6,7 +6,11 @@ hash: adc3ce735368c0ade7560766cc126849
 annum:
     year: 2013
     month: 04
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2013/04/text-of-sxsw2013-closing-remarks-by-bruce-sterling/
+
 ---
 
 

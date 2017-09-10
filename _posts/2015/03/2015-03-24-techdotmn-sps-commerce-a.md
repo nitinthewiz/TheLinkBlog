@@ -6,7 +6,11 @@ hash: 74d7298cd29dc49c90173211aea815a0
 annum:
     year: 2015
     month: 03
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2015/03/24/sps-commerce-ceo-archie-black-wants-a-billion-dollar-saas-company/
+
 ---
 
 Minneapolis enterprise supply chain SaaS company SPS Commerce isn’t a flash in the pan hyped-up consumer app you’ll read about on TechCrunch or consistently find around shallows of social media.

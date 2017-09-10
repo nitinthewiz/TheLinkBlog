@@ -6,7 +6,11 @@ hash: 404a0765a45b7ad305bb8f7ca5e3566f
 annum:
     year: 2010
     month: 12
-hostname: www.kickstarter.com
+url-parts:
+    scheme: https
+    host: www.kickstarter.com
+    path: /
+
 ---
 
 

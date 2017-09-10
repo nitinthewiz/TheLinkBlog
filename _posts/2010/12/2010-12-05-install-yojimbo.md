@@ -6,7 +6,11 @@ hash: 412e3c6ec982b756fe335522d7157561
 annum:
     year: 2010
     month: 12
-hostname: www.barebones.com
+url-parts:
+    scheme: http
+    host: www.barebones.com
+    path: /support/yojimbo/install_bookmarklets.html
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: 9a839ad5296e441288dc60bfaf82c287
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/25/business/25netflix.html
+    query:
+        _r: "3"
 ---
 
 Might have to finally check this out for 2nd gen Apple TV. NYTimes: Netflix’s Move Onto the Web Stirs Rivalries 

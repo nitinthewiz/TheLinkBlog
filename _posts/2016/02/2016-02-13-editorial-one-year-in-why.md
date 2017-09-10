@@ -6,7 +6,11 @@ hash: 9b5715c65e65298f2565cfdbd5cdef5c
 annum:
     year: 2016
     month: 02
-hostname: www.hodinkee.com
+url-parts:
+    scheme: http
+    host: www.hodinkee.com
+    path: /articles/why-jack-forsters-cant-take-off-the-apple-watch
+
 ---
 
 It’s almost improbably well done, and it shows a willingness to think creatively that ought to be heeded by the luxury watch industry – and it also suggests to me that underestimating its impact, and Apple, is dangerous.

@@ -6,7 +6,11 @@ hash: 2627629d41652c1691f9f47d3be24648
 annum:
     year: 2014
     month: 03
-hostname: blog.hipchat.com
+url-parts:
+    scheme: http
+    host: blog.hipchat.com
+    path: /2014/03/18/hipchat-1-to-1-video-and-screen-sharing-now-in-beta/
+
 ---
 
 Take chat to the next level with HipChat 1-to-1 video and screen sharing. Check out our free beta now - 

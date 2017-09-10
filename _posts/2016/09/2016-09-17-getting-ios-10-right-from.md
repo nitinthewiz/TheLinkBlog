@@ -6,7 +6,11 @@ hash: 70e3e56d25b1be6991cadb533895744b
 annum:
     year: 2016
     month: 09
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2016/09/getting-ios-10-right-from-the-start/
+
 ---
 
 With iOS 10, I’ve needed to train myself to do things in an entirely different way.

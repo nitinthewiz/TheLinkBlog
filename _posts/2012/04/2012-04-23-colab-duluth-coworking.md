@@ -6,7 +6,11 @@ hash: 5871df2595c9188b5163b0d484e350c0
 annum:
     year: 2012
     month: 04
-hostname: colabduluth.com
+url-parts:
+    scheme: http
+    host: colabduluth.com
+    path: /
+
 ---
 
 CoLab is a very personal passion of the fine folks at 3five Design. The vision is to create a new kind of work environment. One of collaboration, creative inspiration and mutual success.

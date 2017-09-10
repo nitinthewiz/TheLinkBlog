@@ -6,7 +6,11 @@ hash: beb95869609c5dcfce4480ca230fc9bd
 annum:
     year: 2010
     month: 12
-hostname: patch.com
+url-parts:
+    scheme: http
+    host: patch.com
+    path: /southwestminneapolis/new-46th-street-metro-transit-hub-offers-improved-options-for-southwest-commuters
+
 ---
 
 Patch's Amy Finch takes a look at new 46th Street Metro Transit station, how it fits into newfangled transit plans

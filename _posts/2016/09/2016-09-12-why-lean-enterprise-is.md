@@ -6,7 +6,11 @@ hash: dbf9d46f0caa44c7cc8bbd9c52b5283c
 annum:
     year: 2016
     month: 09
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /featured-insights/why-lean-enterprise-transformation-is-hard-ede266e1c973
+
 ---
 
 By Dan McClureEveryone knows that big cross-organizational change is difficult. However, not all organizational transformation is the same. This is particularly true for businesses looking to become

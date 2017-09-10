@@ -6,7 +6,11 @@ hash: 3535daf6832ca0a391bc49547b898d8f
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/09/join-tuaw-on-irc/
+
 ---
 
 Filed under: WWDC

@@ -6,7 +6,11 @@ hash: d9a03f6bdfd2341cd699bf1e8f81843a
 annum:
     year: 2011
     month: 06
-hostname: www.adagio.com
+url-parts:
+    scheme: http
+    host: www.adagio.com
+    path: /gifts/tea_of_the_month_club.html
+
 ---
 
 

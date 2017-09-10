@@ -6,7 +6,11 @@ hash: 762a682b8c50cb1a318261283a6a339d
 annum:
     year: 2011
     month: 03
-hostname: dev.davidsoergel.com
+url-parts:
+    scheme: http
+    host: dev.davidsoergel.com
+    path: /2011/03/11/visualizing-a-todo-list-with-treemaps/
+
 ---
 
 Just read an interesting article by David Soergel about using treemaps to visualize his OmniFocus lists: 

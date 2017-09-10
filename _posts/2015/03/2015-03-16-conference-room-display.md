@@ -6,7 +6,11 @@ hash: 54692f9dd5aa445a6e3e016f4acc4ef8
 annum:
     year: 2015
     month: 03
-hostname: www.speirs.org
+url-parts:
+    scheme: http
+    host: www.speirs.org
+    path: /blog/2015/3/13/conference-room-display-on-appletv
+
 ---
 
 

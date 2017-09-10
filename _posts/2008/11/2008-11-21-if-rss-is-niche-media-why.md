@@ -6,7 +6,11 @@ hash: 4270535627ee3926752143d4514e3974
 annum:
     year: 2008
     month: 11
-hostname: www.emarketer.com
+url-parts:
+    scheme: http
+    host: www.emarketer.com
+    path: /Article/RSS-Niche-Media-Why-Use-It/1006732
+
 ---
 
 

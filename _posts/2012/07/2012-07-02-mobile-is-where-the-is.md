@@ -6,7 +6,11 @@ hash: a96dd76439a772dd6263d33244749957
 annum:
     year: 2012
     month: 07
-hostname: avc.com
+url-parts:
+    scheme: http
+    host: avc.com
+    path: /2012/07/mobile-is-where-the-growth-is/
+
 ---
 
 We have seen this in our portfolio too. From board meeting to board meeting, we are seeing a similar pattern. Web is flattish. But mobile is growing like a weed.

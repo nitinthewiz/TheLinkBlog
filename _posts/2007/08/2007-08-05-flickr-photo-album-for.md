@@ -6,7 +6,11 @@ hash: 79c050137c65480f6d7d90259b07e5db
 annum:
     year: 2007
     month: 08
-hostname: tantannoodles.com
+url-parts:
+    scheme: http
+    host: tantannoodles.com
+    path: /toolkit/photo-album/
+
 ---
 
 The WordPress Flickr Photo Album plugin will pull in your Flickr photosets and display them as albums on your WordPress site. There is a pretty simple template provided, but you can customize the templates 100% to match the look and feel of your own site.

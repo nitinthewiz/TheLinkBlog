@@ -6,7 +6,12 @@ hash: b047027d814df123a84fbeba522052df
 annum:
     year: 2012
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "iCo6up6Kftc"
 ---
 
 My talk on Semantic Result Formats 1.8 from last #SMWCon is now online!  #MediaWiki @SemanticMW

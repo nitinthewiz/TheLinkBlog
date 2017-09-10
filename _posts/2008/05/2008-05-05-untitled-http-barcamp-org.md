@@ -6,7 +6,11 @@ hash: 7d587febeb5364a1011c0696c0942f79
 annum:
     year: 2008
     month: 05
-hostname: barcamp.org
+url-parts:
+    scheme: http
+    host: barcamp.org
+    path: /w/page/403871/MinneBarSessions
+
 ---
 
 Couldn't resist. Volunteered to do a @minnebar session. Power WordPress. Preamble to MinneWordCamp. 

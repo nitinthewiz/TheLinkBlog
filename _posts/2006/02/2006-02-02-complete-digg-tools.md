@@ -6,7 +6,11 @@ hash: 8306d37ec08461fab616929133666888
 annum:
     year: 2006
     month: 02
-hostname: www.quickonlinetips.com
+url-parts:
+    scheme: http
+    host: www.quickonlinetips.com
+    path: /archives/2005/09/complete-digg-tools-collection/
+
 ---
 
 

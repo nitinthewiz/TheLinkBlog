@@ -6,7 +6,11 @@ hash: ea18b93371a0c9a06812038a8bebf1af
 annum:
     year: 2013
     month: 05
-hostname: marketingland.com
+url-parts:
+    scheme: http
+    host: marketingland.com
+    path: /pew-the-average-teenager-has-425-4-facebook-friends-44847
+
 ---
 
 67% of teens use daily.

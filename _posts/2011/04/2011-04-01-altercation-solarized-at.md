@@ -6,7 +6,11 @@ hash: b758b1cad96034aa5bbcf31d8ee04d68
 annum:
     year: 2011
     month: 04
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /altercation/solarized
+
 ---
 
 precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes

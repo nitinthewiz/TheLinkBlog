@@ -6,7 +6,11 @@ hash: 8f9ebc2c65038b2c219863933242b209
 annum:
     year: 2006
     month: 01
-hostname: prototypejs.org
+url-parts:
+    scheme: http
+    host: prototypejs.org
+    path: /
+
 ---
 
 Class-style OO, AJAX, and more

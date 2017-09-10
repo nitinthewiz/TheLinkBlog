@@ -6,7 +6,11 @@ hash: c33ad29e4e58d73c9d8569a07277a903
 annum:
     year: 2016
     month: 12
-hostname: www.propublica.org
+url-parts:
+    scheme: https
+    host: www.propublica.org
+    path: /article/how-to-leak-to-propublica
+
 ---
 
 

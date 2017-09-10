@@ -6,7 +6,11 @@ hash: 7eac0865761ccdb119587f257a4192cd
 annum:
     year: 2007
     month: 03
-hostname: lightroom-news.com
+url-parts:
+    scheme: http
+    host: lightroom-news.com
+    path: /2007/03/23/gps-metadata-in-lightroom-and-google-maps/
+
 ---
 
 Here is a hidden feature that has been around in Lightroom since Beta 2, but is one that I only found out about it recently thanks to a recent story on John Nack’s Adobe blog. Basically, if you have GPS metadata embeded in an image file, Lightroom will

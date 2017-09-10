@@ -6,7 +6,11 @@ hash: c77d4a1be50ec6286523453b49bc4f03
 annum:
     year: 2008
     month: 03
-hostname: www.appletvhacks.net
+url-parts:
+    scheme: http
+    host: www.appletvhacks.net
+    path: /2008/03/04/creating-patchstick-for-apple-tv-take-2-under-windows/
+
 ---
 
 

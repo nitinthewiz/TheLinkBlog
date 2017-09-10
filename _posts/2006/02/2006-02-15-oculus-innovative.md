@@ -6,7 +6,11 @@ hash: 33f31a6bdd3196b71ce58aac94af6c8f
 annum:
     year: 2006
     month: 02
-hostname: www.oculusinfo.com
+url-parts:
+    scheme: http
+    host: www.oculusinfo.com
+    path: /
+
 ---
 
 Visualization consulting organization

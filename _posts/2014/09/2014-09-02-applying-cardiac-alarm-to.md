@@ -6,7 +6,11 @@ hash: 0037ad54f030f0f8a1415ee39dccaa90
 annum:
     year: 2014
     month: 09
-hostname: fractio.nl
+url-parts:
+    scheme: http
+    host: fractio.nl
+    path: /2014/08/26/cardiac-alarms-and-ops/
+
 ---
 
 Very real problem.

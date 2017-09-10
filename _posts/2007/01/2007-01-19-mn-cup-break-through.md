@@ -6,7 +6,11 @@ hash: 568759e026d6ee8f133b842579dbfe15
 annum:
     year: 2007
     month: 01
-hostname: www.breakthroughideas.org
+url-parts:
+    scheme: http
+    host: www.breakthroughideas.org
+    path: /
+
 ---
 
 The Minnesota Cup is an annual, statewide competition, that seeks out aspiring entrepreneurs and their breakthrough ideas. We are looking for the next great entrepreneurial success story in our state.

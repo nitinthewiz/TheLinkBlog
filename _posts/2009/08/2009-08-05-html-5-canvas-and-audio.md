@@ -6,7 +6,11 @@ hash: 08efe87d0f13d60d16751cfd8a8adf50
 annum:
     year: 2009
     month: 08
-hostname: 9elements.com
+url-parts:
+    scheme: http
+    host: 9elements.com
+    path: /io/projects/html5/canvas/
+
 ---
 
 Fabulous HTML 5 demo using the new canvas and audio elements (and using the aforelinked Modernizr library.)

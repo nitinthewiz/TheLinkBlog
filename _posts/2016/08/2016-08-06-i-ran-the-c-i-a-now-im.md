@@ -6,7 +6,12 @@ hash: f7909c9a8da7739b0c48a6e688942b88
 annum:
     year: 2016
     month: 08
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: http
+    host: mobile.nytimes.com
+    path: /2016/08/05/opinion/campaign-stops/i-ran-the-cia-now-im-endorsing-hillary-clinton.html
+    query:
+        _r: "3"
 ---
 
 

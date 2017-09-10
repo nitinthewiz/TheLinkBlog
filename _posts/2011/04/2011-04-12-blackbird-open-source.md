@@ -6,7 +6,11 @@ hash: b962a4e86593a6098e44a4b3ea1e0789
 annum:
     year: 2011
     month: 04
-hostname: www.gscottolson.com
+url-parts:
+    scheme: http
+    host: www.gscottolson.com
+    path: /blackbirdjs/
+
 ---
 
 

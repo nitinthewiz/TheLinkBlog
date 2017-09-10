@@ -6,7 +6,11 @@ hash: 9c8236e7cff489e736f46187b4127ded
 annum:
     year: 2011
     month: 09
-hostname: bhorowitz.com
+url-parts:
+    scheme: http
+    host: bhorowitz.com
+    path: /2011/09/02/ridiculously-transparent/
+
 ---
 
 

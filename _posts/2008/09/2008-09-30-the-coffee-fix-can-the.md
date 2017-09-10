@@ -6,7 +6,12 @@ hash: 26c2f86857fc309eb2805f2cde0ae6f6
 annum:
     year: 2008
     month: 09
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /gadgets/miscellaneous/magazine/16-08/mf_clover
+    query:
+        currentPage: "all"
 ---
 
 

@@ -6,7 +6,11 @@ hash: fa54f4f6394c78799be525ab458afa7d
 annum:
     year: 2011
     month: 08
-hostname: www.boston.com
+url-parts:
+    scheme: http
+    host: www.boston.com
+    path: /bigpicture/2011/08/london_riots_update.html
+
 ---
 
 Wow

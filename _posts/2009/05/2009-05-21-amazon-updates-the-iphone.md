@@ -6,7 +6,11 @@ hash: 16b7802a2deb61a8ed6f7922ff09ee7b
 annum:
     year: 2009
     month: 05
-hostname: www.techcrunch.com
+url-parts:
+    scheme: http
+    host: www.techcrunch.com
+    path: /2009/05/20/amazon-updates-the-kindle-app-to-be-more-iphone-ified/
+
 ---
 
 Now supports tap-to-turn-page and screen rotation. (The rotation feature has a nice extra: you can disable auto-rotation for times when you don’t want it, like when you’re lying on your side).

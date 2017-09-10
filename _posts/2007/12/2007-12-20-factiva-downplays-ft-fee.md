@@ -6,7 +6,11 @@ hash: 87c95d0ccebf9895d85dcd2003163ea8
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2007/12/19/419-to-get-the-full-ftcom-factiva-users-must-decide-on-a-second-subscriptio/
+
 ---
 
 Factiva customers who want continued total access to the FT.com will have to pay for a second, separate subscription, reports our sister site PC:UK. The change is part of the FT's decision to give casual readers free access to 30 articles per month. The new structure takes affect in April, when users of paid aggregation services like Factiva, Alacra, LexisNexus and others will have to pay for the FT Content License. Subscription prices start at $3,796 (1,990) for corporations that want access for 10 or more employees; the price decreases as the number of users increases. By comparison, premium individual subscriptions are $299 and $398 (includes print edition). 

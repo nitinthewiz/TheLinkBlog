@@ -6,7 +6,11 @@ hash: ea2a258fbded59519fc1f09880c1a05f
 annum:
     year: 2011
     month: 05
-hostname: www.kickstarter.com
+url-parts:
+    scheme: http
+    host: www.kickstarter.com
+    path: /projects/375616979/poems-on-the-big-screen-motionpoems
+
 ---
 
 Check out this Kickstarter campaign for Motion Poems.  Very cool way to think about poetry.   via @kickstarter

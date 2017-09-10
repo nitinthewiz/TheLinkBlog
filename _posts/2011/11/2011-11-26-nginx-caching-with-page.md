@@ -6,7 +6,11 @@ hash: f262d105bec222a7b95e603347b19205
 annum:
     year: 2011
     month: 11
-hostname: groups.drupal.org
+url-parts:
+    scheme: http
+    host: groups.drupal.org
+    path: /node/125094
+
 ---
 
 

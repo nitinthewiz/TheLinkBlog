@@ -6,7 +6,11 @@ hash: 8eda36bf299d0672e32014ce271dec0f
 annum:
     year: 2011
     month: 01
-hostname: www.sequelpro.com
+url-parts:
+    scheme: http
+    host: www.sequelpro.com
+    path: /
+
 ---
 
 

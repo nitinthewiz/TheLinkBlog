@@ -6,7 +6,11 @@ hash: 85161074ef7d175a879342734bfb3814
 annum:
     year: 2011
     month: 01
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/01/18/pleaseSeeInsideJob.html
+
 ---
 
 

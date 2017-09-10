@@ -6,7 +6,11 @@ hash: 4c97c3b6b3fce971739464ad33468e96
 annum:
     year: 2010
     month: 12
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /iphone-app-download-traffic-is-2x-what-it-was-last-christmas-says-tap-tap-revenge-maker-2010-12
+
 ---
 
 Dan Frommer:

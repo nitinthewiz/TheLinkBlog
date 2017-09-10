@@ -6,7 +6,11 @@ hash: 97c5f434b51efb112f3cc5b7176ec78d
 annum:
     year: 2014
     month: 11
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /security/2014/10/facebook-offers-hidden-service-to-tor-users/
+
 ---
 
 

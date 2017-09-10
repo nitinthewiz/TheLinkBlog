@@ -6,7 +6,11 @@ hash: 481b2cf331db8924bde01897260a6cce
 annum:
     year: 2011
     month: 08
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/08/personal-style
+
 ---
 
 The seventh episode of Put This On covers personal style...for which they interviewed Gay Talese.

@@ -6,7 +6,11 @@ hash: 879a016d614331c0d279eb2b36b1b029
 annum:
     year: 2013
     month: 01
-hostname: actualfacebookgraphsearches.tumblr.com
+url-parts:
+    scheme: http
+    host: actualfacebookgraphsearches.tumblr.com
+    path: /
+
 ---
 
 Disturbing.

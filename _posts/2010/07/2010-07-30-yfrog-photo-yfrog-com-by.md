@@ -6,7 +6,11 @@ hash: 01e69b0efff52007ee18047a607cd8be
 annum:
     year: 2010
     month: 07
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /20k7gp
+
 ---
 
 @kcase Not available yet?  

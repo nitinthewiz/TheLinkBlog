@@ -6,7 +6,11 @@ hash: 81034e46509a9b96fcf74ffb491516d2
 annum:
     year: 2010
     month: 10
-hostname: www.wely.com
+url-parts:
+    scheme: http
+    host: www.wely.com
+    path: /
+
 ---
 
 It's Sunday. It's 9am. Time for Pathways with Ray Nargis on WELY.  Good morning Ely, MN!

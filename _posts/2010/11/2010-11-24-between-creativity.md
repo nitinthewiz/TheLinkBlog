@@ -6,7 +6,11 @@ hash: b48fea1ca601f71696064342eeb60ca3
 annum:
     year: 2010
     month: 11
-hostname: www.josephrueter.com
+url-parts:
+    scheme: http
+    host: www.josephrueter.com
+    path: 
+
 ---
 
 I've been burst blogging (a number of posts at a time) at  and would digg hearing your thoughts, if any.

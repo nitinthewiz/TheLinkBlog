@@ -6,7 +6,11 @@ hash: f700322f8b97cc09f4414b83a9efd524
 annum:
     year: 2011
     month: 07
-hostname: www.petapixel.com
+url-parts:
+    scheme: http
+    host: www.petapixel.com
+    path: /2011/07/28/portraits-of-dogs-as-they-shake-off-water/
+
 ---
 
 Cool...

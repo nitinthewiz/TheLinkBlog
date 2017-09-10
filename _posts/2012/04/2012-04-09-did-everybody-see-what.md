@@ -6,7 +6,11 @@ hash: 95e51c8619f41886bff15f95511837a4
 annum:
     year: 2012
     month: 04
-hostname: blog.42floors.com
+url-parts:
+    scheme: http
+    host: blog.42floors.com
+    path: /did-everybody-see-what-just-happened-the-pendulum-has-swung
+
 ---
 
 No business plans, not even pitch decks this time. One 2-1/2 minute pitch and a quick follow up meeting. Seven figure seed rounds that can be closed within days and oversubscribed 2x to 3x. Founders with no experience fundraising and no pre-existing networks, making connections with top tier guys. It was really a sight to see.

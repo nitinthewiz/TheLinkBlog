@@ -6,7 +6,11 @@ hash: a83524885a9b691bcd12c04bc77ab3c6
 annum:
     year: 2010
     month: 09
-hostname: calnewport.com
+url-parts:
+    scheme: http
+    host: calnewport.com
+    path: /blog/2010/09/10/the-danger-of-the-dream-job-delusion/
+
 ---
 
 

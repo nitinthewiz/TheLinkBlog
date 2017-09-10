@@ -6,7 +6,11 @@ hash: 89fda7aebefb09a92ceec65d9674ef52
 annum:
     year: 2008
     month: 12
-hostname: signalvnoise.com
+url-parts:
+    scheme: http
+    host: signalvnoise.com
+    path: /posts/1481-showing-the-difference-between-a-19-and-22-suitcase
+
 ---
 
 What size rolling luggage to buy? Shopping at Amazon, it feels like a shot in the dark.

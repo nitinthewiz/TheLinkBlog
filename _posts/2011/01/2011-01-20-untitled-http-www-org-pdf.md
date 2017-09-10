@@ -6,7 +6,11 @@ hash: 063d978550c5e165b69c4168652def60
 annum:
     year: 2011
     month: 01
-hostname: www.publicintegrity.org
+url-parts:
+    scheme: http
+    host: www.publicintegrity.org
+    path: /assets/pdf/PearlManuscript.pdf
+
 ---
 
 An exhaustive account of the kidnapping and murder of reporter Danny Pearl was published today  Years of work behind it.

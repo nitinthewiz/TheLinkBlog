@@ -6,7 +6,11 @@ hash: 7756f7459f399eec364b1ea73fea5683
 annum:
     year: 2011
     month: 01
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/1594/instapaper-keyboard-shortcut
+
 ---
 
 Use FastScripts to create a keyboard-shortcut of your choice for @Instapaper's "Read Later" in Safari: 

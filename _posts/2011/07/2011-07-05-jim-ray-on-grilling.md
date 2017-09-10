@@ -6,7 +6,11 @@ hash: 09ae2b17caf9c53781f899bfa671b3b5
 annum:
     year: 2011
     month: 07
-hostname: saltandfat.com
+url-parts:
+    scheme: http
+    host: saltandfat.com
+    path: /post/657214062/burgers
+
 ---
 
 

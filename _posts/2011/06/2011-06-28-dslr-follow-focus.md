@@ -6,7 +6,11 @@ hash: 05bae3c53aaf2bad477362b843e1936e
 annum:
     year: 2011
     month: 06
-hostname: www.dslrsolutions.net
+url-parts:
+    scheme: http
+    host: www.dslrsolutions.net
+    path: /dslr-follow-focus
+
 ---
 
 The DSLR Follow Focus eliminates the awkward perpendicular hand position required to turn a focus or zoom ring, giving the user much finer adjustment than could be achieved without such a device. The DSLR Follow Focus also works great for precise macro focusing and is equally at home on a zoom ring.

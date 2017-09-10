@@ -6,7 +6,12 @@ hash: 73c5f5e97518f7486c795d3f6a7fc763
 annum:
     year: 2008
     month: 03
-hostname: gravatar.wordpress.com
+url-parts:
+    scheme: http
+    host: gravatar.wordpress.com
+    path: /
+    query:
+        p: "47"
 ---
 
 Howdy everyone!  It’s been an exciting few months for us since we’ve taken on the role of helping Gravatar grow.  We’ve been doing a lot of work to get those gears turning, and set things up for some serious forward motion.

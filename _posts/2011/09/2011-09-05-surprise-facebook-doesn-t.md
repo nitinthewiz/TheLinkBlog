@@ -6,7 +6,11 @@ hash: dc777f6804d6b75c0a6686926f0b4b79
 annum:
     year: 2011
     month: 09
-hostname: www.jwz.org
+url-parts:
+    scheme: http
+    host: www.jwz.org
+    path: /blog/2011/09/surprise-facebook-doesnt-like-privacy-countermeasures/
+
 ---
 
 If it hadn't occurred to you yet that Facebook cares far more about the "Like" buttons that you don't click than about the ones that you do -- there you go

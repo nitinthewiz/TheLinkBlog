@@ -6,7 +6,11 @@ hash: 03c8b398e20dae58daa75daece6fada3
 annum:
     year: 2010
     month: 07
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /node/19898
+
 ---
 
 

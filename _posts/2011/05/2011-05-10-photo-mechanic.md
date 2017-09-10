@@ -6,7 +6,11 @@ hash: d047f4b7557cae6b1b8eca3d193a20ce
 annum:
     year: 2011
     month: 05
-hostname: www.camerabits.com
+url-parts:
+    scheme: http
+    host: www.camerabits.com
+    path: /mobile_device/PhotoMechanic.html
+
 ---
 
 

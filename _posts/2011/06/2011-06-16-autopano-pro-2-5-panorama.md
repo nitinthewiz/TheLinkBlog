@@ -6,7 +6,11 @@ hash: 6736f51e8f1284cf20ffa5b16f01b626
 annum:
     year: 2011
     month: 06
-hostname: www.kolor.com
+url-parts:
+    scheme: http
+    host: www.kolor.com
+    path: /panorama-software-autopano-pro.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b14f5c5b89d812eb730c8f1377adabd8
 annum:
     year: 2011
     month: 07
-hostname: www.adogopethotels.com
+url-parts:
+    scheme: http
+    host: www.adogopethotels.com
+    path: /
+
 ---
 
 ADOGO Pet Hotel is the premier dog hotel and daycare facility in the Twin Cites. From overnight boarding and dog daycare to professional grooming, training, door-to-door shuttle service, and more, you'll find ADOGO's got it all!

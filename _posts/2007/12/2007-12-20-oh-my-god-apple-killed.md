@@ -6,7 +6,11 @@ hash: ea8ffdc40554666dbc1c7d245c712bad
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/20/oh-my-god-apple-killed-thinksecret-those-bastards/
+
 ---
 
 Apple and Apple blog Think Secret have settled their long running legal dispute over leaked Apple secrets, and under the deal Think Secret will cease operation.

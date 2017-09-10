@@ -6,7 +6,11 @@ hash: 3277a76c40ace41b47797fb3de5d1f85
 annum:
     year: 2016
     month: 02
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@jeffsussna/design-as-operations-operations-as-design-cef585c65312
+
 ---
 
 I just finished reading Thomas Wendt’s wonderful book, Design for Dasein. I recommend it to anyone who practices, or just is interested in, experience design. Wendt’s ideas have profound implications for rethinking and improving our approach to designing experiences. They also have profound implications for how we think about DevOps, and its relationship to design, and how that relationship impacts the nature and purpose of digital business.

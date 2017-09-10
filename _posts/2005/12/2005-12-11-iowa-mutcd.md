@@ -6,7 +6,11 @@ hash: 0839f6a053ca08154f4d19f8e4f9855b
 annum:
     year: 2005
     month: 12
-hostname: www.ctre.iastate.edu
+url-parts:
+    scheme: http
+    host: www.ctre.iastate.edu
+    path: /pubs/itcd/
+
 ---
 
 Iowa Traffic Control Devices and Pavement Markings

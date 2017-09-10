@@ -6,7 +6,12 @@ hash: dc1ea9c5e7b51f45c33a926d7f51bd64
 annum:
     year: 2010
     month: 12
-hostname: www.familyfinds.com
+url-parts:
+    scheme: http
+    host: www.familyfinds.com
+    path: /los-angeles
+    query:
+        flow: "first-visit"
 ---
 
 

@@ -6,7 +6,11 @@ hash: c0ee824c1a01d596ea78772b6dbf47c8
 annum:
     year: 2011
     month: 01
-hostname: developers.google.com
+url-parts:
+    scheme: https
+    host: developers.google.com
+    path: /prediction/
+
 ---
 
 The Prediction API enables you to make your smart apps even smarter. The API accesses Google's machine learning algorithms to analyze your historic data and predict likely future outcomes.

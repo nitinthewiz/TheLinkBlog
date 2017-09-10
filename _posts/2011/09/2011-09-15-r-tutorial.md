@@ -6,7 +6,11 @@ hash: 0e4b427b3ff8ea27a9e63c7a0644944f
 annum:
     year: 2011
     month: 09
-hostname: www.mayin.org
+url-parts:
+    scheme: http
+    host: www.mayin.org
+    path: /ajayshah/KB/R/tutorial.R
+
 ---
 
 I use this `tutorial program' for teaching R. Ana Nelson used her neat roux program to create a prettyprinted terminal session of running tutorial.

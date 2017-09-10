@@ -6,7 +6,11 @@ hash: 53bf28a818b53e8a8bdfc83f40a8553c
 annum:
     year: 2014
     month: 12
-hostname: www.usingomnifocus.com
+url-parts:
+    scheme: http
+    host: www.usingomnifocus.com
+    path: /
+
 ---
 
 

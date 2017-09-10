@@ -6,7 +6,11 @@ hash: 2dc431d47f5d5ec8fe1cd538a2a1166e
 annum:
     year: 2011
     month: 01
-hostname: meyerweb.com
+url-parts:
+    scheme: http
+    host: meyerweb.com
+    path: /eric/thoughts/2011/01/03/reset-revisited/
+
 ---
 
 Eric Meyer revisits his classic CSS Reset 

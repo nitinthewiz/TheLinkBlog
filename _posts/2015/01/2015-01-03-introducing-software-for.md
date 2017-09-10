@@ -6,7 +6,11 @@ hash: da6fab254656528f6d4d452ff886d207
 annum:
     year: 2015
     month: 01
-hostname: softwareforgood.com
+url-parts:
+    scheme: http
+    host: softwareforgood.com
+    path: /introducing-software-for-good-gbc/
+
 ---
 
 

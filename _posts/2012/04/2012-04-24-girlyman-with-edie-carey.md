@@ -6,7 +6,11 @@ hash: b28f5f10d20ffe6060a8ee6998d408b3
 annum:
     year: 2012
     month: 04
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2012/04/23/girlyman-with-edie-carey-at-city-winery/
+
 ---
 
 Hadar's writeup on the Girlyman show that we saw during our NYC trip.

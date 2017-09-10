@@ -6,7 +6,11 @@ hash: d84b0413a52720ed52b6f97ffcc4e6d4
 annum:
     year: 2008
     month: 02
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/2/panther-express-closes-16-million-series-b
+
 ---
 
 Content delivery network Panther Express has closed a $15.75 million Series B funding round, led by Index Ventures. Gold Hill Capital and previous investor Greylock Partners also chipped in.

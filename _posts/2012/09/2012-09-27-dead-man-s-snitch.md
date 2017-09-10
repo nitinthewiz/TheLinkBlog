@@ -6,7 +6,11 @@ hash: b03c1fc686f5e7b776613c8f8c1511bf
 annum:
     year: 2012
     month: 09
-hostname: deadmanssnitch.com
+url-parts:
+    scheme: https
+    host: deadmanssnitch.com
+    path: /
+
 ---
 
 Brilliant!

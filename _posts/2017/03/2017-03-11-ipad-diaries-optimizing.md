@@ -6,7 +6,11 @@ hash: 354f7dfe139ac2dfbde79870b6dd60af
 annum:
     year: 2017
     month: 03
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /ios/ipad-diaries-optimizing-apple-notes/
+
 ---
 
 

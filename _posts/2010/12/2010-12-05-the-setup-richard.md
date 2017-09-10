@@ -6,7 +6,11 @@ hash: 3519a0cbac07447525b6b143aabf6619
 annum:
     year: 2010
     month: 12
-hostname: richard.stallman.usesthis.com
+url-parts:
+    scheme: http
+    host: richard.stallman.usesthis.com
+    path: /
+
 ---
 
 

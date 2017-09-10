@@ -6,7 +6,11 @@ hash: 8565ae6206cceaaf216335e8cb3132c1
 annum:
     year: 2013
     month: 04
-hostname: ralsina.me
+url-parts:
+    scheme: http
+    host: ralsina.me
+    path: /weblog/posts/BB779.html
+
 ---
 
 Mako looks like a much better option for templating rawdog.

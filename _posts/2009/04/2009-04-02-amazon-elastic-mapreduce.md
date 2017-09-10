@@ -6,7 +6,11 @@ hash: 0d59414cccf20b3b6429b948312dbdab
 annum:
     year: 2009
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /elasticmapreduce/
+
 ---
 
 Amazon Elastic MapReduce looks interesting.  Opens up some new solution paths!

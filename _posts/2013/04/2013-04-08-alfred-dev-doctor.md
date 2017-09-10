@@ -6,7 +6,11 @@ hash: 42c38c4f7b7145fe473829262bff75a9
 annum:
     year: 2013
     month: 04
-hostname: wemakeawesomesh.it
+url-parts:
+    scheme: http
+    host: wemakeawesomesh.it
+    path: /alfred-dev-doctor/
+
 ---
 
 Wow, very cool Alfred 2 workflow.

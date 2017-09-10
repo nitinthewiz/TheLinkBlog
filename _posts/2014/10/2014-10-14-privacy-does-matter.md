@@ -6,7 +6,11 @@ hash: 7bf27d330598e1b96a9fa51c2f7faee1
 annum:
     year: 2014
     month: 10
-hostname: iconnectdots.com
+url-parts:
+    scheme: http
+    host: iconnectdots.com
+    path: /2014/10/privacy-does-matter.html
+
 ---
 
 Glenn Greenwald was one of the first reporters to see — and write about — the Edward Snowden files, with their revelations about the United States' extensive surveillance of private citizens. In th...

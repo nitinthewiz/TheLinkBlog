@@ -6,7 +6,11 @@ hash: 713a744df3c92c40c163a7518825f6b1
 annum:
     year: 2016
     month: 08
-hostname: glyph.twistedmatrix.com
+url-parts:
+    scheme: https
+    host: glyph.twistedmatrix.com
+    path: /2016/08/attrs.html
+
 ---
 
 Do you write programs in Python? You should be using attrs. Why, you ask? Don

@@ -6,7 +6,11 @@ hash: b0f5bc2e9dc92936f141276133276f8b
 annum:
     year: 2017
     month: 07
-hostname: www.fastcodesign.com
+url-parts:
+    scheme: https
+    host: www.fastcodesign.com
+    path: /90132364/nest-founder-i-wake-up-in-cold-sweats-thinking-what-did-we-bring-to-the-world
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d20e70d2561d47826ea56ade0f419614
 annum:
     year: 2013
     month: 01
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2013/01/antarctic-irc-how-nasas-flying-lab-stays-connected/
+
 ---
 
 How awesome to see IRC playing a role in this.

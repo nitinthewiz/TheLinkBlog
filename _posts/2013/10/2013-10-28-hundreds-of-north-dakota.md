@@ -6,7 +6,11 @@ hash: ccf422534d6c5b2d21ccf1142392625f
 annum:
     year: 2013
     month: 10
-hostname: kstp.com
+url-parts:
+    scheme: http
+    host: kstp.com
+    path: /article/stories/s3200731.shtml
+
 ---
 
 Oh wait, oil companies are screwing up the environment and not telling anyone about it? Say it isn't so!

@@ -6,7 +6,11 @@ hash: ccd09ee266aee4db573c19fad3fc9871
 annum:
     year: 2012
     month: 04
-hostname: brookelynne.tumblr.com
+url-parts:
+    scheme: http
+    host: brookelynne.tumblr.com
+    path: /
+
 ---
 
 New website for Brooke Lynne. Brooke Lynne is one of the models that I photographed in the Photographing the Nude workshop by Doug Beasley.

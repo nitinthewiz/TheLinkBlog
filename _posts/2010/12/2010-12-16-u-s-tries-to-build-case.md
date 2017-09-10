@@ -6,7 +6,11 @@ hash: 0653d885d842b99d0cc6c17916b956d4
 annum:
     year: 2010
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/12/16/world/16wiki.html
+
 ---
 
 Federal prosecutors, seeking to build a case against the WikiLeaks leader Julian Assange for his role in a huge dissemination of classified government documents, are looking for evidence of any collusion in his early contacts with an Army intelligence analyst suspected of leaking the information

@@ -6,7 +6,11 @@ hash: d15dce1b7d09668fcb45e0e5cef6181b
 annum:
     year: 2009
     month: 02
-hostname: www.todayandtomorrow.net
+url-parts:
+    scheme: http
+    host: www.todayandtomorrow.net
+    path: /2009/01/28/the-web-design-sketchbook/
+
 ---
 
 The Web Design Sketchbook by Hyper Interaktiv has 45 pages with a normal browser window and 15 with web ad formats. A must have for every …

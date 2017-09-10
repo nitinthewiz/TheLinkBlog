@@ -6,7 +6,11 @@ hash: b7dd60a94a8e493360cc3b5978236173
 annum:
     year: 2012
     month: 06
-hostname: stevebuttry.wordpress.com
+url-parts:
+    scheme: http
+    host: stevebuttry.wordpress.com
+    path: /2012/06/03/my-gettysbury-oration-a-vision-for-journalism-that-can-long-endure/
+
 ---
 
 

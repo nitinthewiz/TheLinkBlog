@@ -6,7 +6,11 @@ hash: b11f8d1624ad8cb93f5bcb8356486802
 annum:
     year: 2007
     month: 10
-hostname: www.o0o.it
+url-parts:
+    scheme: http
+    host: www.o0o.it
+    path: /pro/
+
 ---
 
 

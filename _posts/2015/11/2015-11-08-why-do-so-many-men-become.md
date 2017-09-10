@@ -6,7 +6,11 @@ hash: 958aa3bf6d6821fb294f82c264976f19
 annum:
     year: 2015
     month: 11
-hostname: hbr.org
+url-parts:
+    scheme: https
+    host: hbr.org
+    path: /2013/08/why-do-so-many-incompetent-men
+
 ---
 
 There are three popular explanations for the clear under-representation of women in management, namely: (1) they are not capable; (2) they are not interested; (3) they are both interested and capable

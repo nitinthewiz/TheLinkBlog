@@ -6,7 +6,13 @@ hash: b653742fdc51fa4c60a89d3f51348632
 annum:
     year: 2006
     month: 12
-hostname: www.reconnector.com
+url-parts:
+    scheme: http
+    host: www.reconnector.com
+    path: /index.php
+    query:
+        action: "showProduct"
+        productId: "34"
 ---
 
 Reconnector connects automatically to the correct file server and mounts the chosen volumes at startup.

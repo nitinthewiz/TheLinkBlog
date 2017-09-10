@@ -6,7 +6,11 @@ hash: ba3fd85ff5f7bbe8158c2dab19bd72af
 annum:
     year: 2015
     month: 06
-hostname: githubengineering.com
+url-parts:
+    scheme: http
+    host: githubengineering.com
+    path: /exception-monitoring-and-response/
+
 ---
 
 

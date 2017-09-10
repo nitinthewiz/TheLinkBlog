@@ -6,7 +6,11 @@ hash: f83384515cac79fee8298bfbf23e651f
 annum:
     year: 2009
     month: 04
-hostname: www.cacti.net
+url-parts:
+    scheme: http
+    host: www.cacti.net
+    path: /
+
 ---
 
 You could spend a nearly infinite amount of time goofing around with Cacti. 

@@ -6,7 +6,11 @@ hash: 25cf2d07d38c62adb5f13e6e352aa68d
 annum:
     year: 2014
     month: 10
-hostname: blog.cleancoder.com
+url-parts:
+    scheme: http
+    host: blog.cleancoder.com
+    path: /uncle-bob/2014/06/20/MyLawn.html
+
 ---
 
 

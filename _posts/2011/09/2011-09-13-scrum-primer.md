@@ -6,7 +6,11 @@ hash: 074723828e24d554b011ea236434beaf
 annum:
     year: 2011
     month: 09
-hostname: assets.scrumfoundation.com
+url-parts:
+    scheme: http
+    host: assets.scrumfoundation.com
+    path: /downloads/1/scrumprimer121.pdf
+
 ---
 
 

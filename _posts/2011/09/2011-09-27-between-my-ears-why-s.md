@@ -6,7 +6,11 @@ hash: 3e5bde65c3f78d02fca817780ce0e075
 annum:
     year: 2011
     month: 09
-hostname: andothernoise.blogspot.com
+url-parts:
+    scheme: http
+    host: andothernoise.blogspot.com
+    path: /2011/09/why-facebooks-frictionless-sharing.html
+
 ---
 
 

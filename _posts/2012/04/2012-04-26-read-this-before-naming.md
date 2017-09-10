@@ -6,7 +6,11 @@ hash: f40eae342e97bca5e2eaf56ed1fcfdfe
 annum:
     year: 2012
     month: 04
-hostname: thenextweb.com
+url-parts:
+    scheme: http
+    host: thenextweb.com
+    path: /entrepreneur/2012/04/22/before-naming-your-startup-read-this/
+
 ---
 
 

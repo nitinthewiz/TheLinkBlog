@@ -6,7 +6,11 @@ hash: b663085f00f9b307a128d83151f2225c
 annum:
     year: 2015
     month: 09
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2051-protected-branches-and-required-status-checks
+
 ---
 
 Over the next few weeks we’ll be rolling out a new feature called Protected Branches which gives repository administrators the ability to disable force pushes to specific branches.

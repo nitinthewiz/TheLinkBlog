@@ -6,7 +6,11 @@ hash: acf754974456768409a6f25605487388
 annum:
     year: 2014
     month: 05
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2014/05/07/sps-commerce-omnichannel-a-big-vision/
+
 ---
 
 SPS Commerce' Omnichannel - A Big Vision  CC: @SPS_Commerce @thingles @Schwegman #SPSOmnichannel

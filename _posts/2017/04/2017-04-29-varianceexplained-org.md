@@ -6,7 +6,11 @@ hash: 15f32249dbef264963c7a2b229a02414
 annum:
     year: 2017
     month: 04
-hostname: varianceexplained.org
+url-parts:
+    scheme: http
+    host: varianceexplained.org
+    path: /r/tidytext-gender-plots/
+
 ---
 
 

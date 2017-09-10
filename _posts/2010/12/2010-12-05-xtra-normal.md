@@ -6,7 +6,11 @@ hash: d5f2b0d212f99e4ec683dbce45c7cbc6
 annum:
     year: 2010
     month: 12
-hostname: thecollegeshop.com
+url-parts:
+    scheme: https
+    host: thecollegeshop.com
+    path: /
+
 ---
 
 

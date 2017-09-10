@@ -6,7 +6,11 @@ hash: 91079c3baf460350ed8c6b9ab9640607
 annum:
     year: 2015
     month: 05
-hostname: lg.io
+url-parts:
+    scheme: http
+    host: lg.io
+    path: /2015/05/16/the-future-is-now-and-its-using-aws-lambda.html
+
 ---
 
 

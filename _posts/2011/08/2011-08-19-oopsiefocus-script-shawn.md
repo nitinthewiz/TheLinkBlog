@@ -6,7 +6,11 @@ hash: 2ea6bbaa78c483dd9f79f81c4d348c26
 annum:
     year: 2011
     month: 08
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2011/06/oopsiefocus/
+
 ---
 
 

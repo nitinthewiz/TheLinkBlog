@@ -6,7 +6,11 @@ hash: 31fd98f4ade6f9221a0fccb4ff8b2813
 annum:
     year: 2010
     month: 11
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/11/zenyattas-last-race
+
 ---
 
 With a record of 19-0, Zenyatta was a favorite to win the Breeders' Cup Classic. As her jockey eased her into the top of the stretch, she was dead last. Right where she wanted to be.

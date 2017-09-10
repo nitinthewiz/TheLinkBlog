@@ -6,7 +6,12 @@ hash: d749f7068395cec243cb5ca1380989fb
 annum:
     year: 2016
     month: 01
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /cio/2015/12/30/lawrence-lessig-how-technology-policy-will-evolve/
+    query:
+        mod: "WSJ_TechWSJD_NeedToKnow"
 ---
 
 CIO Journal asked Prof. Lessig for his thoughts on how technology policy, which is at multiple critical junctures around the world, can and should evolve. Privacy, surveillance, and international governance of the Internet and telecommunications networks will approach milestones in 2016, with implications for business and beyond.

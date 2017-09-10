@@ -6,7 +6,11 @@ hash: 40fafad5ea529c746cb9aafe39c7fd28
 annum:
     year: 2011
     month: 08
-hostname: www.fastcompany.com
+url-parts:
+    scheme: http
+    host: www.fastcompany.com
+    path: /1774825/ticketmaster-unveils-seat-tagging-on-facebook
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 94bee0b1621a10c0e051b26de8bc6891
 annum:
     year: 2005
     month: 11
-hostname: www.dd-wrt.com
+url-parts:
+    scheme: http
+    host: www.dd-wrt.com
+    path: /
+
 ---
 
 Replace the LinkSys cruft with much better stuff.

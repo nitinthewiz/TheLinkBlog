@@ -6,7 +6,11 @@ hash: 9dcac88bf22608e14bcf2ec7db352bff
 annum:
     year: 2007
     month: 12
-hostname: ricksegal.typepad.com
+url-parts:
+    scheme: http
+    host: ricksegal.typepad.com
+    path: /pmv/2007/12/kindle-as-the-a.html
+
 ---
 
 You've all been on plane trips and know the drill:

@@ -6,7 +6,11 @@ hash: ffb682931f894c3961381898e8f9bcaf
 annum:
     year: 2016
     month: 12
-hostname: mjtsai.com
+url-parts:
+    scheme: http
+    host: mjtsai.com
+    path: /blog/2016/12/19/macos-10-12-2-ssh-starts-asking-for-id_rsa-passphrase/
+
 ---
 
 

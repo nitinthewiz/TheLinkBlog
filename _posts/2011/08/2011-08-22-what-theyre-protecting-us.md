@@ -6,7 +6,11 @@ hash: 1394686c06ebd84efdbf4cad7b55a8fe
 annum:
     year: 2011
     month: 08
-hostname: dashes.com
+url-parts:
+    scheme: http
+    host: dashes.com
+    path: /anil/2011/08/what-theyre-protecting-us-from.html
+
 ---
 
 

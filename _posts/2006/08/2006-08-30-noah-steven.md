@@ -6,7 +6,11 @@ hash: 1e4197077288d6e0a83a43e046694a01
 annum:
     year: 2006
     month: 08
-hostname: noahsteven.blogspot.com
+url-parts:
+    scheme: http
+    host: noahsteven.blogspot.com
+    path: /
+
 ---
 
 

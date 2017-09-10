@@ -6,7 +6,11 @@ hash: cf20279308f02c56c47c2ff76340a0df
 annum:
     year: 2013
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2013/04/first-website-ever-goes-back-online-on-the-open-webs-20th-birthday/
+
 ---
 
 What a 20 years.

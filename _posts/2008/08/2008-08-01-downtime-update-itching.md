@@ -6,7 +6,11 @@ hash: 2303088f5ae0635e287276274ec02d88
 annum:
     year: 2008
     month: 08
-hostname: blog.cullect.com
+url-parts:
+    scheme: http
+    host: blog.cullect.com
+    path: /archive/downtime-update-itching-for-the-green-light
+
 ---
 
 Quick Side-note: Until this downtime, I had no idea how much I use Cullect to remember the URLs of my favorite news sources for me. In my head, they’re all rolled up in a reading list.

@@ -6,7 +6,11 @@ hash: 696bc456e7259c46240c709395c388b8
 annum:
     year: 2011
     month: 02
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /schwartz/2011/02/how-are-you-feeling.html
+
 ---
 
 How Are You Feeling? 

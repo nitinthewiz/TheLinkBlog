@@ -6,7 +6,11 @@ hash: e383ca2056be306e69333025ea9b138e
 annum:
     year: 2011
     month: 06
-hostname: www.mouseriverflood2011.net
+url-parts:
+    scheme: http
+    host: www.mouseriverflood2011.net
+    path: /index.php
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5b0f50e9b0d1ffd9dec5b3136fa7ef02
 annum:
     year: 2011
     month: 01
-hostname: prezi.com
+url-parts:
+    scheme: http
+    host: prezi.com
+    path: /
+
 ---
 
 Create astonishing presentations live and on the web

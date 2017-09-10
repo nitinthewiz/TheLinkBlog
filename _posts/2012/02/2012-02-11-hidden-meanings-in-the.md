@@ -6,7 +6,11 @@ hash: 66a6f1ce3c294ce72c3a93e42130e115
 annum:
     year: 2012
     month: 02
-hostname: www.drummerman.net
+url-parts:
+    scheme: http
+    host: www.drummerman.net
+    path: /shining/essays.html
+
 ---
 
 Fans found it surprising in 1980 when Kubrick turned out a movie that was apparently no more than a horror film. The action took place at the Overlook Hotel in Colorado, where the winter caretaker, a chilling Jack Nicholson, became progressively madder and tried to murder his wife and his telepathic son.

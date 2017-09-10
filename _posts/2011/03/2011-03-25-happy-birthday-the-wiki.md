@@ -6,7 +6,11 @@ hash: 00333623c5a3a69610a48aabb05eb2fd
 annum:
     year: 2011
     month: 03
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /cloud/2011/03/happy-birthday---the-wiki-cele.php
+
 ---
 
 The wiki turns16 today. How far it has come since that day 16 years ago when Ward Cunningham created a Web page that anyone could edit.

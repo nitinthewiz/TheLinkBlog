@@ -6,7 +6,11 @@ hash: 3f289b07fe1315c880cb7e3ef01c62b0
 annum:
     year: 2015
     month: 10
-hostname: jupyter.org
+url-parts:
+    scheme: http
+    host: jupyter.org
+    path: /
+
 ---
 
 Evolved from the IPython Project Follow @ProjectJupyter Jupyter coLaboratory IPython Project

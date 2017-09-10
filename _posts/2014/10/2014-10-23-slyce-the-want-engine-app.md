@@ -6,7 +6,11 @@ hash: 7c4f2215d693b345736598889886ec5a
 annum:
     year: 2014
     month: 10
-hostname: www.marketwired.com
+url-parts:
+    scheme: http
+    host: www.marketwired.com
+    path: /press-release/slyce-the-want-engine-acquires-mobile-app-agency-drivetrain-appoints-prominent-cto-drive-tsx-venture-slc-1959422.htm
+
 ---
 
 That sure is a lot of detail in a press release.

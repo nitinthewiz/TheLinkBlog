@@ -6,7 +6,12 @@ hash: 3df74cc3b06f9b62d6916b26b94f3bf4
 annum:
     year: 2014
     month: 08
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "pqeJFYwnkjE"
 ---
 
 #TechnicalDebt Metaphor explained by @WardCunningham 

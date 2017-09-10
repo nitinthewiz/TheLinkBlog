@@ -6,7 +6,11 @@ hash: ac43482d2cf56874ca1fa37e5eb5068a
 annum:
     year: 2011
     month: 12
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /33366824
+
 ---
 
 Illuminate hope and joy for your family and friends. Give to CaringBridge today to brighten the world for families everywhere. Donate today at www.CaringBridge.org/donate.

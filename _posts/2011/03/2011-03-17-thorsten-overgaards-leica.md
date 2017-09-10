@@ -6,7 +6,11 @@ hash: 02e2701f2954d71afa8e823278d6ae6b
 annum:
     year: 2011
     month: 03
-hostname: www.overgaard.dk
+url-parts:
+    scheme: http
+    host: www.overgaard.dk
+    path: /leica-M9-digital-rangefinder-camera.html
+
 ---
 
 

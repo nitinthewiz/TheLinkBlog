@@ -6,7 +6,11 @@ hash: d81c60858a19a08c7293f6d2aff88f35
 annum:
     year: 2011
     month: 08
-hostname: www.zephoria.org
+url-parts:
+    scheme: http
+    host: www.zephoria.org
+    path: /thoughts/archives/2011/08/04/real-names.html
+
 ---
 
 

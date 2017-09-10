@@ -6,7 +6,11 @@ hash: 331db6bbc065ab5998cd60e50e5c7ed7
 annum:
     year: 2013
     month: 01
-hostname: basecamp.com
+url-parts:
+    scheme: https
+    host: basecamp.com
+    path: /breeze
+
 ---
 
 This is an idea that Garrick and I had discussed and even put on 100 Startup Ideas. Kudos to 37Signals for seeing the opportunity and doing it.

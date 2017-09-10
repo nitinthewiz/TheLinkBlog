@@ -6,7 +6,11 @@ hash: 12b5cc16506c1823be01aa8d3ed75a20
 annum:
     year: 2017
     month: 08
-hostname: remysharp.com
+url-parts:
+    scheme: https
+    host: remysharp.com
+    path: /2017/08/14/me-on-react-an-old-dog
+
 ---
 
 Writeup on diving into a React framework. I’m still trying to understand in my mind where reactive frameworks are better than others? Mobile? Certain domains? Everything?

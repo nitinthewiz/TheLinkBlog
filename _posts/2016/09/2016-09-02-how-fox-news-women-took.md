@@ -6,7 +6,11 @@ hash: 7fd7fed257210ef4eb42feea54b67a0d
 annum:
     year: 2016
     month: 09
-hostname: nymag.com
+url-parts:
+    scheme: http
+    host: nymag.com
+    path: /daily/intelligencer/2016/09/how-fox-news-women-took-down-roger-ailes.html
+
 ---
 
 

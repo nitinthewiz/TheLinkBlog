@@ -6,7 +6,11 @@ hash: 0de8e3d2f8a3d92f7f7fbb44be6c049b
 annum:
     year: 2014
     month: 11
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /the-physics-arxiv-blog/when-a-machine-learning-algorithm-studied-fine-art-paintings-it-saw-things-art-historians-had-never-b8e4e7bf7d3e
+
 ---
 
 Artificial intelligence reveals previously unrecognised influences between great artists

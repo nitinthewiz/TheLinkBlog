@@ -6,7 +6,11 @@ hash: a85c1ed8fd86a9692218eab994616b7b
 annum:
     year: 2006
     month: 11
-hostname: www.openwebdesign.org
+url-parts:
+    scheme: http
+    host: www.openwebdesign.org
+    path: /
+
 ---
 
 Open Web Design is a community of designers and site owners sharing free web design templates as well as web design information. Helping to make the internet a prettier place!

@@ -6,7 +6,11 @@ hash: e7ab7dfc17567c672ba3a4cf8951d32a
 annum:
     year: 2010
     month: 09
-hostname: www.phoboslab.org
+url-parts:
+    scheme: http
+    host: www.phoboslab.org
+    path: /biolab/
+
 ---
 
 Fabulous jump-run-shoot platform game by Dominic Szablewski — pure HTML5 and JavaScript, no Flash, no plugins. Super fun.

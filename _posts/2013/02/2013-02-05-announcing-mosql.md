@@ -6,7 +6,11 @@ hash: c7c1528bfd3f44554d996a938c0c2c5a
 annum:
     year: 2013
     month: 02
-hostname: stripe.com
+url-parts:
+    scheme: https
+    host: stripe.com
+    path: /blog/announcing-mosql
+
 ---
 
 Interesting tool.

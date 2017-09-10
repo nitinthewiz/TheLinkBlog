@@ -6,7 +6,11 @@ hash: 2f374aebb2d289e64dea3d57a72bd2c2
 annum:
     year: 2008
     month: 01
-hostname: senduit.com
+url-parts:
+    scheme: http
+    host: senduit.com
+    path: /
+
 ---
 
 

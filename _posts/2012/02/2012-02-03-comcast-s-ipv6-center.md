@@ -6,7 +6,11 @@ hash: c01043b8cbfc4eeec6225dc75a65ad74
 annum:
     year: 2012
     month: 02
-hostname: xfinity.comcast.net
+url-parts:
+    scheme: http
+    host: xfinity.comcast.net
+    path: /
+
 ---
 
 This site has the latest information about Comcast's IPv6-related work, and is regularly updated as our IPv6 deployment continues.

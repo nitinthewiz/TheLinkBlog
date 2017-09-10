@@ -6,7 +6,11 @@ hash: 86473f269b47eb4fe910313f81408dd6
 annum:
     year: 2007
     month: 01
-hostname: homepower.com
+url-parts:
+    scheme: http
+    host: homepower.com
+    path: /digital/
+
 ---
 
 

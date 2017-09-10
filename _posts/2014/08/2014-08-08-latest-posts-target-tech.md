@@ -6,7 +6,11 @@ hash: ae67b9556e41d1dcda5b9d50fb34e304
 annum:
     year: 2014
     month: 08
-hostname: target.github.io
+url-parts:
+    scheme: http
+    host: target.github.io
+    path: 
+
 ---
 
 The @Target Tech blog is here!  

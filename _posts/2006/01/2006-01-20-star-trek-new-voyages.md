@@ -6,7 +6,11 @@ hash: 92e87d3a37397ea9d31d94acd74cc050
 annum:
     year: 2006
     month: 01
-hostname: www.startreknewvoyages.com
+url-parts:
+    scheme: http
+    host: www.startreknewvoyages.com
+    path: /
+
 ---
 
 

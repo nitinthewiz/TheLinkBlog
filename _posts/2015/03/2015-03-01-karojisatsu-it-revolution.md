@@ -6,7 +6,11 @@ hash: 33b14794a97bfd50b1c0a1e780aaebb2
 annum:
     year: 2015
     month: 03
-hostname: itrevolution.com
+url-parts:
+    scheme: http
+    host: itrevolution.com
+    path: /karojisatsu/
+
 ---
 
 

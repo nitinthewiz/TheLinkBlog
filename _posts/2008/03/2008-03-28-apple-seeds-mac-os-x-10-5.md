@@ -6,7 +6,11 @@ hash: 78b6567652894d20b7bb7360506de57f
 annum:
     year: 2008
     month: 03
-hostname: www.macdailynews.com
+url-parts:
+    scheme: http
+    host: www.macdailynews.com
+    path: /index.php/weblog/comments/apple_seeds_mac_os_x_1053_update_to_developers/
+
 ---
 
 Apple Inc. this week began testing Mac OS X 10.5.3 Update, a third maintenance and security update...

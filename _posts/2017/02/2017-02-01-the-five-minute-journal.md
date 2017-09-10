@@ -6,7 +6,11 @@ hash: eb0b628069f86ffcb934e3191de09559
 annum:
     year: 2017
     month: 02
-hostname: www.intelligentchange.com
+url-parts:
+    scheme: https
+    host: www.intelligentchange.com
+    path: /products/the-five-minute-journal
+
 ---
 
 The simplest thing you can do to start your day happy

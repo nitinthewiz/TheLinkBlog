@@ -6,7 +6,11 @@ hash: f4410c9e3349d6802250aa57d53ee7ad
 annum:
     year: 2015
     month: 10
-hostname: www.steelpasswordmanager.org
+url-parts:
+    scheme: http
+    host: www.steelpasswordmanager.org
+    path: /
+
 ---
 
 Password management belongs to the command line. Deep into the Unix heartland, the shell. With Steel your passwords are safe. Steel uses AES encryption in CFB mode with 256 bit keys. Steel is simple,&hellip;

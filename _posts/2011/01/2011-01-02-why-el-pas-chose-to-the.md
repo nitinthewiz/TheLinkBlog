@@ -6,7 +6,11 @@ hash: 1900e0fc710b411d9d3f23cb2cea624e
 annum:
     year: 2011
     month: 01
-hostname: elpais.com
+url-parts:
+    scheme: http
+    host: elpais.com
+    path: /elpais/2010/12/23/inenglish/1293085243_850210.html
+
 ---
 
 I agree with @davidisen. This must be added to any review of best WikiLeaks posts. Why EL PAS chose to publish the leaks:

@@ -6,7 +6,11 @@ hash: dd3d2df8142d735a0f95c73d33f7aeab
 annum:
     year: 2012
     month: 10
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /8thbridge-graphite-new-features_b101773
+
 ---
 
 Social commerce firm 8thBridge released new features for its 8thBridge Graphite social commerce platform Wednesday, including a shopping experience that mirrors Pinterest.

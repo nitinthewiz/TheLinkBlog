@@ -6,7 +6,11 @@ hash: 039dc141953356a9f511b0ff9c4def40
 annum:
     year: 2011
     month: 07
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2011/07/16/installing-crashplan-on-a-pogoplug-pro/
+
 ---
 
 PogoPlug Pro is an amazing device (coupled with an amazing service). CrashPlan is an amazing piece of software (and also provides a fee-based amazing service). I’ve had both for a while and think very highly of them.

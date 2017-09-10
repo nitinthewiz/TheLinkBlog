@@ -6,7 +6,11 @@ hash: 178b4066f8a5801040839994e8f47d92
 annum:
     year: 2013
     month: 01
-hostname: pxldot.com
+url-parts:
+    scheme: http
+    host: pxldot.com
+    path: /projects/
+
 ---
 
 I've used projects in a template folder like this before. This script automates the instantiation of them. Pretty neat.

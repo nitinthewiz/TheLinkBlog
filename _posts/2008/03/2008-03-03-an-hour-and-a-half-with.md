@@ -6,7 +6,12 @@ hash: 9b35e8c2f3f259eea645900b8205bdd1
 annum:
     year: 2008
     month: 03
-hostname: blog.pmarca.com
+url-parts:
+    scheme: http
+    host: blog.pmarca.com
+    path: /
+    query:
+        p: "1160"
 ---
 
 

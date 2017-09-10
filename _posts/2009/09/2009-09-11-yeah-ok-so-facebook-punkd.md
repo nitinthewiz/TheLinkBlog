@@ -6,7 +6,11 @@ hash: 4162bc9c4d9bf87a3f37e61bea0235af
 annum:
     year: 2009
     month: 09
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/09/10/yeah-ok-so-facebook-punkd-us/
+
 ---
 
 So we’ve had our fun with Facebook over the years (Why We’re Suing Facebook For $25 Million In Statutory Damages, Republican PR Director Calls Facebook’s Randi Zuckerberg “totally full of sh*t”, Randi Threatens a Bar Bouncer). But in general these things are supposed to flow one way – we mess with them, they take it gracefully.

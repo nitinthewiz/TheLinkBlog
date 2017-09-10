@@ -6,7 +6,14 @@ hash: cb0fece93227346fc181c51040465ec3
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/27/opinion/27herbert.html
+    query:
+        _r: "1"
+        src: "me"
+        ref: "general"
 ---
 
 

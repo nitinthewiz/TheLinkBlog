@@ -6,7 +6,11 @@ hash: d33c829004322d803233bedc87425a6d
 annum:
     year: 2015
     month: 07
-hostname: www.beerconnoisseur.com
+url-parts:
+    scheme: http
+    host: www.beerconnoisseur.com
+    path: /users/garrick-van-buren
+
 ---
 
 

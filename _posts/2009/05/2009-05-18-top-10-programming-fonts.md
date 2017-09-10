@@ -6,7 +6,11 @@ hash: 66061473f5e246ae6b06e59e4f0262fd
 annum:
     year: 2009
     month: 05
-hostname: mjtsai.com
+url-parts:
+    scheme: http
+    host: mjtsai.com
+    path: /blog/2009/05/17/top-10-programming-fonts/
+
 ---
 
 Dan Benjamin:

@@ -6,7 +6,11 @@ hash: 7873434df1769cc03c51616adddf6b10
 annum:
     year: 2012
     month: 11
-hostname: archive.org
+url-parts:
+    scheme: https
+    host: archive.org
+    path: /details/omni-magazine
+
 ---
 
 Holy crap! Nearly every issue of OMNI magazine scanned into a PDF. I treasured OMNI when I was a kid.

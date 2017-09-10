@@ -6,7 +6,11 @@ hash: 67089ca3939233dbb4dd85a2e7c92c08
 annum:
     year: 2015
     month: 11
-hostname: www.boatsandbluegrass.com
+url-parts:
+    scheme: http
+    host: www.boatsandbluegrass.com
+    path: /
+
 ---
 
 

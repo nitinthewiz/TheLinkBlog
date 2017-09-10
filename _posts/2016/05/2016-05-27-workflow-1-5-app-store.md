@@ -6,7 +6,11 @@ hash: 9e6002e7a01a5daacfdb8b04deb3d810
 annum:
     year: 2016
     month: 05
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /reviews/workflow-1-5-app-store-automation-trello-and-ulysses-actions-audio-metadata-safari-view-controller-and-more/
+
 ---
 
 In seven years of MacStories, few iOS apps fundamentally changed how I get work done as much as Workflow. Pythonista, Editorial, and Tweetbot are in that list, but Workflow, with its ongoing

@@ -6,7 +6,11 @@ hash: 3e725e29a50ee4720cc563e4dd730d18
 annum:
     year: 2017
     month: 07
-hostname: sloanreview.mit.edu
+url-parts:
+    scheme: http
+    host: sloanreview.mit.edu
+    path: /article/the-critical-difference-between-complex-and-complicated/
+
 ---
 
 Good article on understanding the **type** of problem you are dealing with so that you approach the solution from the right way. 

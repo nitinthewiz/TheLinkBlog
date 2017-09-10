@@ -6,7 +6,12 @@ hash: e6db5eefb82e43ddf1c2d08190b9b18e
 annum:
     year: 2011
     month: 01
-hostname: www.eventburn.com
+url-parts:
+    scheme: http
+    host: www.eventburn.com
+    path: 
+    query:
+        fof: "Y"
 ---
 
 The event/burn I created to track Big Green Egg stuff.

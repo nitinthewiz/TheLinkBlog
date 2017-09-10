@@ -6,7 +6,11 @@ hash: 79174ab58ebf4345222e78021980123f
 annum:
     year: 2009
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/03/25/firstlook-weathercal-1-0/
+
 ---
 
 Filed under: Software, First Look

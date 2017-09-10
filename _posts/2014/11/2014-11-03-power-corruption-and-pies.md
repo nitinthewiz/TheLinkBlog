@@ -6,7 +6,11 @@ hash: 7ebcb269bec23bc2e42d9a7458e30091
 annum:
     year: 2014
     month: 11
-hostname: www.powercorruptionandpies.com
+url-parts:
+    scheme: http
+    host: www.powercorruptionandpies.com
+    path: /
+
 ---
 
 PCP is a new project by Chef Michelle Gayer. Four different seasonal pies available on Monday afternoons in November and December at Hola Arepa.

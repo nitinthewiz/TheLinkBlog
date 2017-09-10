@@ -6,7 +6,11 @@ hash: 78671a4f1fce39939aecee60c13d36e7
 annum:
     year: 2011
     month: 04
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/04/29/declaring-love-with-the-mac-os-x-finder/
+
 ---
 
 

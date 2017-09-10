@@ -6,7 +6,11 @@ hash: 7ba957b4785962caa076c37099d148bc
 annum:
     year: 2017
     month: 04
-hostname: www.appleworld.today
+url-parts:
+    scheme: https
+    host: www.appleworld.today
+    path: /blog/2017/4/7/a-quick-look-at-apples-clips-for-ios-devices-and-some-helpful-hints
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: 5db5ee24f8568e7fbc95134dbe00d437
 annum:
     year: 2012
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /playlist
+    query:
+        list: "PLwtfwT1GnUQRaLki-YcF-_n8ndayi--W5"
 ---
 
 It would be really fun to go to a SMWCon at some point and meet all the people building these great extensions.

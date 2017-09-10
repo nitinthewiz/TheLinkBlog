@@ -6,7 +6,11 @@ hash: 3a56ea9f66b17c569bc8fc49c763d840
 annum:
     year: 2015
     month: 04
-hostname: technical.openmobilealliance.org
+url-parts:
+    scheme: http
+    host: technical.openmobilealliance.org
+    path: /Technical/technical-information/release-program/current-releases/oma-lightweightm2m-v1-0
+
 ---
 
 

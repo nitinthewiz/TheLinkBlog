@@ -6,7 +6,11 @@ hash: 0b735b5a50466b6a7446c842ffc27226
 annum:
     year: 2015
     month: 10
-hostname: lindaeliasen.com
+url-parts:
+    scheme: http
+    host: lindaeliasen.com
+    path: /version-history/2015/9/28/on-quitting
+
 ---
 
 21 months ago I moved from Brooklyn, NY to San Francisco, CA. When Dropbox offered me a job,&#xA0;my eyes got all wide with excitement for adventures and opportunity, so I said yes.I'm still figuring&hellip;

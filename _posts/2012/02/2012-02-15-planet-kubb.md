@@ -6,7 +6,11 @@ hash: 2d729965e204589ba843dc9117d1604e
 annum:
     year: 2012
     month: 02
-hostname: planetkubb.com
+url-parts:
+    scheme: http
+    host: planetkubb.com
+    path: /
+
 ---
 
 Planet feed of all things Kubb on the Internet.

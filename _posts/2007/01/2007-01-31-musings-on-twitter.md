@@ -6,7 +6,11 @@ hash: ae092b64d8363dd70a8ae67a6673f034
 annum:
     year: 2007
     month: 01
-hostname: meish.org
+url-parts:
+    scheme: http
+    host: meish.org
+    path: /index.html
+
 ---
 
 So, Ive been using (?) Twitter for a few months now, and Ive noticed a few things about it which I thought might be worth trying to crystalise into a post. Lets see how this goes.

@@ -6,7 +6,12 @@ hash: 20c0c5a5fab82aaa1ae5cda0d1a09297
 annum:
     year: 2008
     month: 10
-hostname: www.teehanlax.com
+url-parts:
+    scheme: http
+    host: www.teehanlax.com
+    path: /blog/
+    query:
+        p: "447"
 ---
 
 

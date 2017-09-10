@@ -6,7 +6,11 @@ hash: f2d72138eb5c1e1cbe96d490fed1502a
 annum:
     year: 2012
     month: 02
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:FeaturedFeeds
+
 ---
 
 FeaturedFeeds is an extension that creates daily feeds (Atom or RSS) of wiki's featured content (ranging from Featured Articles to Media of the Day). The feeds are added to site's main page and are available via the API.

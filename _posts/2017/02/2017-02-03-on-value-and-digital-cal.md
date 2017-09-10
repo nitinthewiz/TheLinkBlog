@@ -6,7 +6,11 @@ hash: a2e001e647d90d1a16ef9288b7dbfc6b
 annum:
     year: 2017
     month: 02
-hostname: calnewport.com
+url-parts:
+    scheme: http
+    host: calnewport.com
+    path: /blog/2017/01/28/on-value-and-digital-minimalism/
+
 ---
 
 The core idea of digital minimalism is to be more intentional about technology in your life. Digital minimalists carefully curate these technologies to best support things they value.

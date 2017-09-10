@@ -6,7 +6,11 @@ hash: dad717f1ebd1081a686186e36b526c0c
 annum:
     year: 2011
     month: 02
-hostname: dry.ly
+url-parts:
+    scheme: http
+    host: dry.ly
+    path: /2011/02/21/coffeescript--processingjs--crazy-delicious/
+
 ---
 
 Want to create cool visuals using CoffeeScript and Processing.js? Excellent, me too. Read on.

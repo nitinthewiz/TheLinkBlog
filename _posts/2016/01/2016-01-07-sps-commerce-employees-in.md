@@ -6,7 +6,12 @@ hash: 17a691b22788dd77f72e73e020a917a9
 annum:
     year: 2016
     month: 01
-hostname: news.investors.com
+url-parts:
+    scheme: http
+    host: news.investors.com
+    path: /photopopup.aspx
+    query:
+        path: "IT11-SPSC-010816-newscom.jpg"
 ---
 
 SPS Commerce employees gather in a meeting room the company aptly calls "the Cloud." Hey, that's me on the right side of the table.

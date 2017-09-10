@@ -6,7 +6,11 @@ hash: af1812336cb07c8cf68bc39d83a8c4d1
 annum:
     year: 2015
     month: 02
-hostname: www.gartner.com
+url-parts:
+    scheme: https
+    host: www.gartner.com
+    path: /doc/2873017/procurement-managers-guide-negotiating-amazon
+
 ---
 
 AWS has a disciplined approach to negotiating enterprise agreements and discounts. We provide best practices for procuring these services.

@@ -6,7 +6,11 @@ hash: 7767e9f4830c3c2ab19b7a315ef19258
 annum:
     year: 2017
     month: 03
-hostname: dev.to
+url-parts:
+    scheme: https
+    host: dev.to
+    path: /thiht/shell-scripts-matter
+
 ---
 
 

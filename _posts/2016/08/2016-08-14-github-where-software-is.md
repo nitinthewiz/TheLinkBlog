@@ -6,7 +6,11 @@ hash: cec55a5f1f8aaf3f6c9325e0b6156d6e
 annum:
     year: 2016
     month: 08
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /arielf/weight-loss/blob/master/README.md
+
 ---
 
 The chart was generated from the data file weight.2015.csv by the script date-weight.r in this git repository. It requires R and ggplot2. In the following I'll describe the thought process, some

@@ -6,7 +6,11 @@ hash: 1e2ad3c541c72d8f2e609c512ec4d8fb
 annum:
     year: 2011
     month: 10
-hostname: www.veganforum.com
+url-parts:
+    scheme: http
+    host: www.veganforum.com
+    path: /forums/showthread.php
+    query:
 ---
 
 

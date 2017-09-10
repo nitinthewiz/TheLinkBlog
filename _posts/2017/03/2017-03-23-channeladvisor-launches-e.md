@@ -6,7 +6,12 @@ hash: ec701f7ce595d5ea5758d27006c1cf9c
 annum:
     year: 2017
     month: 03
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/channeladvisor-launches-its-next-generation-e-commerce-platform-in-latest-release-2017-03-21
+    query:
+        siteid: "nbsh"
 ---
 
 

@@ -6,7 +6,11 @@ hash: cf7e39d2ff74cb439c0f1b0c2b1a43e9
 annum:
     year: 2015
     month: 04
-hostname: www.sumologic.com
+url-parts:
+    scheme: https
+    host: www.sumologic.com
+    path: /2015/04/01/chef-log-management-and-reporting-w-sumo-logic/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f433e111d1f33f468ab2c58d9241eb36
 annum:
     year: 2016
     month: 12
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2016/12/01/J2119-Validator
+
 ---
 
 

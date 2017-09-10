@@ -6,7 +6,11 @@ hash: 4c7cb50c3198ae964ba6171b5e8484ec
 annum:
     year: 2010
     month: 06
-hostname: www.dannypatterson.com
+url-parts:
+    scheme: http
+    host: www.dannypatterson.com
+    path: /presentations/FlashDevelopmentWithinFacebook.zip
+
 ---
 
 RT @dannypatterson: Here are a few code snippets that I showed in my FlashBelt presentation yesterday: .

@@ -6,7 +6,11 @@ hash: 32ef0341cdc761b4ea1bebd06a0e5066
 annum:
     year: 2017
     month: 05
-hostname: www.myndnow.com
+url-parts:
+    scheme: http
+    host: www.myndnow.com
+    path: /news/minot-news/teacher-celebrates-50-years/706123336
+
 ---
 
 

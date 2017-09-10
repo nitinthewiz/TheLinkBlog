@@ -6,7 +6,11 @@ hash: 1e3c373b2eefa7a89eca5d2d1bb93418
 annum:
     year: 2008
     month: 05
-hostname: googlemapsapi.blogspot.com
+url-parts:
+    scheme: http
+    host: googlemapsapi.blogspot.com
+    path: /2008/05/introducing-google-maps-api-for-flash.html
+
 ---
 
 Posted by Mike Jones, Maps API Team

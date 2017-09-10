@@ -6,7 +6,12 @@ hash: 3b935dde31da128b407e216e496869f7
 annum:
     year: 2008
     month: 03
-hostname: www.cederman.com
+url-parts:
+    scheme: http
+    host: www.cederman.com
+    path: /
+    query:
+        p: "30"
 ---
 
 

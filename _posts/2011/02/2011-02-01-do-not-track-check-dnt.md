@@ -6,7 +6,11 @@ hash: 44f9122d439fd39ba108f5e036ab70c4
 annum:
     year: 2011
     month: 02
-hostname: myuseragentinfo.appspot.com
+url-parts:
+    scheme: http
+    host: myuseragentinfo.appspot.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 2f0a988b078be9fec288c679a7cd876b
 annum:
     year: 2012
     month: 02
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /politics/statelocal/140229353.html
+
 ---
 
 The Minnesota Senate voted overwhelmingly on Thursday to allow gun owners to use deadly force virtually anywhere they feel threatened -- a step that would dramatically expand gun rights.

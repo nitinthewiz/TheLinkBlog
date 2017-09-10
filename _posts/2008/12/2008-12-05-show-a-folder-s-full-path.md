@@ -6,7 +6,11 @@ hash: e065fbf4215daae274b7b815614b948e
 annum:
     year: 2008
     month: 12
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5102717/show-a-folders-full-path-in-finders-title-bar
+
 ---
 
 By default Mac OS X's Finder displays only the current folder name in its title bar, but if you'd like a little more detail, The Unofficial Apple Weblog details how to enable path view in Finder to...

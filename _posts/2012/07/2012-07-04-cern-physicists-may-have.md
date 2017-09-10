@@ -6,7 +6,11 @@ hash: 189b4385b0e72a074c62491f7fe87188
 annum:
     year: 2012
     month: 07
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html
+
 ---
 
 I don't pretend to understand the significance of the Higgs but assuming this discovery holds this is pretty amazing.

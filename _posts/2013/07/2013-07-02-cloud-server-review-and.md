@@ -6,7 +6,11 @@ hash: c38d8e459fc39e4c336e230146b9c1d1
 annum:
     year: 2013
     month: 07
-hostname: remcobron.com
+url-parts:
+    scheme: http
+    host: remcobron.com
+    path: /cloud-server-review-and-comparison-amazon-aws-ec2-vs-linode-vs-digitalocean/
+
 ---
 
 Glad to see Linode still performing well.  <blockquote> But the winner without any doubt is Linode. Their 8 core server really rocks in this case. </blockquote> 

@@ -6,7 +6,11 @@ hash: f995a7bd823488bb0e7ab26a58939e94
 annum:
     year: 2017
     month: 05
-hostname: www.dark-clouds.com
+url-parts:
+    scheme: https
+    host: www.dark-clouds.com
+    path: /2017/03/93535/
+
 ---
 
 

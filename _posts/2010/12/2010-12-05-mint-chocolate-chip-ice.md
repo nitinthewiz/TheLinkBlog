@@ -6,7 +6,11 @@ hash: 8034bdf68d70ed4afe1a01186dbb097c
 annum:
     year: 2010
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /recipes/8911/Mint-Chocolate-Chip-Ice-Cream.html
+
 ---
 
 

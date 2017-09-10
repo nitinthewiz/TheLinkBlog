@@ -6,7 +6,11 @@ hash: 7bfd1dbdf205d9f3c0e5e50ed07ee04b
 annum:
     year: 2008
     month: 02
-hostname: hostingfu.com
+url-parts:
+    scheme: http
+    host: hostingfu.com
+    path: /article/server-monitoring-cacti-serverstats
+
 ---
 
 

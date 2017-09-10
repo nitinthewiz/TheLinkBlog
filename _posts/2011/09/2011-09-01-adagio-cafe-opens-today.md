@@ -6,7 +6,11 @@ hash: 28178e99bbecc2b5a896530ac109b57e
 annum:
     year: 2011
     month: 09
-hostname: southwestminneapolis.patch.com
+url-parts:
+    scheme: http
+    host: southwestminneapolis.patch.com
+    path: /articles/adagio-cafe-opens-today-at-50th-and-penn
+
 ---
 
 Couple blocks from my house. Happy to see it open!

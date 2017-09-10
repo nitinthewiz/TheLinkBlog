@@ -6,7 +6,11 @@ hash: 445f2fdaa309052c5d649222f54d5b4e
 annum:
     year: 2011
     month: 04
-hostname: sunlightfoundation.com
+url-parts:
+    scheme: http
+    host: sunlightfoundation.com
+    path: /blog/2011/03/31/budget-technopocalypse-deepens-transparency-sites-will-go-dark-in-a-few-months/
+
 ---
 
 

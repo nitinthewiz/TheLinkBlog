@@ -6,7 +6,11 @@ hash: eab0b9b96ecdf22dcdfad5a8ce099701
 annum:
     year: 2013
     month: 04
-hostname: mathieu.fenniak.net
+url-parts:
+    scheme: https
+    host: mathieu.fenniak.net
+    path: /the-api-checklist/
+
 ---
 
 This is a good list.

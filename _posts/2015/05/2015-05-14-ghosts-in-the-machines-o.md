@@ -6,7 +6,11 @@ hash: ea86cb3e6b2f373c29dd18482df0d62f
 annum:
     year: 2015
     month: 05
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2015/05/ghosts-in-the-machines.html
+
 ---
 
 

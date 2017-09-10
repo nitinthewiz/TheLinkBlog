@@ -6,7 +6,11 @@ hash: 6a90db6e7fc778b2487a11bc2912b4c9
 annum:
     year: 2010
     month: 10
-hostname: bobulate.com
+url-parts:
+    scheme: http
+    host: bobulate.com
+    path: /post/1251478603
+
 ---
 
 Expert versus beginner: Have you ever noticed that you can remember perfectly well what someone said to you, but you don’t remember exactly what words she used? … Most of the time, we aren’t interested in mere wording; we are interested in what was said, that is, meaning, the subject matter. Our indifference to wording is a symptom of our expertise. Only beginners needs to pay attention to words and their order. Expertise opens up the possibility of real communication.

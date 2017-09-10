@@ -6,7 +6,11 @@ hash: 0e0dbfa1c53de741770122608e1b6a29
 annum:
     year: 2008
     month: 12
-hostname: blog.macromates.com
+url-parts:
+    scheme: http
+    host: blog.macromates.com
+    path: /2008/git-bundle/
+
 ---
 
 

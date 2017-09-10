@@ -6,7 +6,11 @@ hash: 645db88993b488485732af5583ba215c
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/03/wikileaksOnTheRun.html
+
 ---
 
 

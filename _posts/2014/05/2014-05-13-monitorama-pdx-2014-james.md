@@ -6,7 +6,11 @@ hash: 285c0972aae0feb2774363449f9043b1
 annum:
     year: 2014
     month: 05
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /95066828
+
 ---
 
 Yes! You can now watch James Mickens' talk from #monitorama, and you'll want to, because he's awesomely hilarious:  

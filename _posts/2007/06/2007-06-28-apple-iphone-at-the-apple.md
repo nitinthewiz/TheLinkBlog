@@ -6,7 +6,11 @@ hash: d57aaeade9f745928dfa1520e25ae41a
 annum:
     year: 2007
     month: 06
-hostname: www.apple.com
+url-parts:
+    scheme: http
+    host: www.apple.com
+    path: /retail/iphone/
+
 ---
 
 check availability of iPhone in apple stores.

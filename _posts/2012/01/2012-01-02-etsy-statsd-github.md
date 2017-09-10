@@ -6,7 +6,11 @@ hash: 2f2efcceb4b507d67d569cb6d52378e9
 annum:
     year: 2012
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /etsy/statsd
+
 ---
 
 

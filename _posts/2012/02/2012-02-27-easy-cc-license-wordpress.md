@@ -6,7 +6,11 @@ hash: 923877727231276e5f2386219a747545
 annum:
     year: 2012
     month: 02
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /plugins/easy-cc-license/stats/
+
 ---
 
 An easy to use shortcode for inserting a Creative Commons license image or license block to your posts or pages.

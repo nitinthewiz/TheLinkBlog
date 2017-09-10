@@ -6,7 +6,11 @@ hash: 05e01a7173ec71fcb47d5d33e4133515
 annum:
     year: 2017
     month: 05
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /production-ready/premortems-the-art-of-negative-visualization-583081559ea1
+
 ---
 
 

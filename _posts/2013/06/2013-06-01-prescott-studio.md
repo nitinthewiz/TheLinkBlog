@@ -6,7 +6,11 @@ hash: e36e63eb574339d522754d5d053b9024
 annum:
     year: 2013
     month: 06
-hostname: prescottstudio.com
+url-parts:
+    scheme: http
+    host: prescottstudio.com
+    path: /
+
 ---
 
 Was super excited to meet Fredrick Prescott at the Edina Art Fair this year. We have his elephant sculpture in our back yard. We bought it in Sedona when we were on our long road trip. Very nice guy!

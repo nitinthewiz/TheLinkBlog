@@ -6,7 +6,11 @@ hash: 24e97a843346a0bd241e89cd60508faa
 annum:
     year: 2011
     month: 10
-hostname: timekiwi.com
+url-parts:
+    scheme: http
+    host: timekiwi.com
+    path: /
+
 ---
 
 

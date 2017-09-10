@@ -6,7 +6,11 @@ hash: a1bf58f4072b333cfb593f7d1466490b
 annum:
     year: 2015
     month: 06
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2015/06/03/where-did-dornquast-go-an-interview-with-code42s-interim-ceo-mitch-coopet/
+
 ---
 
 As one of three original founders with 15 years invested into the business, the news was shocking — to think that the leader at one of Minnesota’s most prominent tech companies was suddenly gone without explanation.

@@ -6,7 +6,11 @@ hash: 0668a622b5d00c3621d3a0e32709dd0f
 annum:
     year: 2015
     month: 10
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2015/10/28/apple-phil-schiller-mac/
+
 ---
 
 Inside Apple's perfectionism machine by Lance Ulanoff Inside Apple's perfectionism machine by Lanc

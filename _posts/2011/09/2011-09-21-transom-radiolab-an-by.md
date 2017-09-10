@@ -6,7 +6,12 @@ hash: a93d93d7d9b9957d90ddae373a6c3285
 annum:
     year: 2011
     month: 09
-hostname: transom.org
+url-parts:
+    scheme: http
+    host: transom.org
+    path: /
+    query:
+        p: "20139"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 6e9a3f6f8029b4ac86b42e4ef78755a3
 annum:
     year: 2017
     month: 06
-hostname: tracking.feedpress.it
+url-parts:
+    scheme: http
+    host: tracking.feedpress.it
+    path: /link/980/5948803
+
 ---
 
 I use Calendly in a similar way to how Kati describes in this post. It’s been a great service for me!

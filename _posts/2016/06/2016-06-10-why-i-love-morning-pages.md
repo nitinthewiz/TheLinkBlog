@@ -6,7 +6,11 @@ hash: 95340404656573561b56720cc75859f3
 annum:
     year: 2016
     month: 06
-hostname: www.myproductivemac.com
+url-parts:
+    scheme: http
+    host: www.myproductivemac.com
+    path: /blog/why-i-love-morning-pages662016
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 732e1b612408539e10b980960ca61bbc
 annum:
     year: 2007
     month: 05
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /applications/omnigraffle/extras/
+
 ---
 
 

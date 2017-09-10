@@ -6,7 +6,11 @@ hash: 07b5f232f456754c8aaaea90986c0e05
 annum:
     year: 2011
     month: 05
-hostname: m.wired.com
+url-parts:
+    scheme: http
+    host: m.wired.com
+    path: /dangerroom/2011/05/secret-patriot-act/
+
 ---
 
 

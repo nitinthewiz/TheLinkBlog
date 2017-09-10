@@ -6,7 +6,11 @@ hash: 4ed4d1feb3208559222f805a69131295
 annum:
     year: 2008
     month: 03
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/913-question-your-work
+
 ---
 
 A slide from my South by Southwest presentation:

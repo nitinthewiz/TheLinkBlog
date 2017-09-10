@@ -6,7 +6,11 @@ hash: 7d532bf5098249b9ffd5e04026cf9a83
 annum:
     year: 2010
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2010/12/14/simcity-deluxe-for-ipad-out-today/
+
 ---
 
 SimCity! yeah!

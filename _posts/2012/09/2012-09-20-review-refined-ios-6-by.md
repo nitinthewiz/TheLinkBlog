@@ -6,7 +6,11 @@ hash: 128339c0a9cf35437806bbaf4ce0d0a8
 annum:
     year: 2012
     month: 09
-hostname: www.macworld.com
+url-parts:
+    scheme: http
+    host: www.macworld.com
+    path: /article/2010065/review-refined-ios-6-highlighted-by-stunning-maps-overhaul.html
+
 ---
 
 Very thorough and detailed review of iOS 6.  <blockquote>  </blockquote> 

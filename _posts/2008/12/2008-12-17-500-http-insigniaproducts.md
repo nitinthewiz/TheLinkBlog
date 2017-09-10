@@ -6,7 +6,11 @@ hash: 87e8f9ca62e8af20d216a016f61a93cf
 annum:
     year: 2008
     month: 12
-hostname: insigniaproducts.com
+url-parts:
+    scheme: http
+    host: insigniaproducts.com
+    path: /products/digital-cameras.html
+
 ---
 
 Anyone have one of these Insignia HD camera's  and have an idea how it would compare to a Flip Mino HD?

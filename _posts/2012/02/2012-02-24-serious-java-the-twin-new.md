@@ -6,7 +6,11 @@ hash: f3bf8a9a2eb62c89dc7b4c29e1d39cbf
 annum:
     year: 2012
     month: 02
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /business/2012/02/serious-java-twin-cities-new-generation-artisan-coffee-shops
+
 ---
 
 Minneapolis and artisan coffee, hurrah! 

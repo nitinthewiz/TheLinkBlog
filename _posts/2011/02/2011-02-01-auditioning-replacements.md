@@ -6,7 +6,11 @@ hash: 09fa141790d2a43e23791cb29deb35ca
 annum:
     year: 2011
     month: 02
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/02/auditioning-replacements-for-the-moon
+
 ---
 
 This video shows what various planets (Jupiter, Mars, etc.) would look like in the night sky if they orbited the Earth at the same distance as the Moon.

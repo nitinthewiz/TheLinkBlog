@@ -6,7 +6,11 @@ hash: 48d5891caf572de1c1cef8bb009a44db
 annum:
     year: 2014
     month: 03
-hostname: www.salon.com
+url-parts:
+    scheme: http
+    host: www.salon.com
+    path: /2014/02/27/i_lost_my_dad_to_fox_news_how_a_generation_was_captured_by_thrashing_hysteria/
+
 ---
 
 They still think of themselves as the silent majority, when in reality they are a wounded and thrashing legacy of white hegemony.

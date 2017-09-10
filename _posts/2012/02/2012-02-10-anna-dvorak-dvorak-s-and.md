@@ -6,7 +6,11 @@ hash: 0784c50cadb25ecff85829b98943c10d
 annum:
     year: 2012
     month: 02
-hostname: www.annadvorak.com
+url-parts:
+    scheme: http
+    host: www.annadvorak.com
+    path: /
+
 ---
 
 

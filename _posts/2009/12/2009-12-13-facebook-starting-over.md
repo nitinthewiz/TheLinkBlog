@@ -6,7 +6,11 @@ hash: 89a96ad149c288c7bbcc560b72dc6ba1
 annum:
     year: 2009
     month: 12
-hostname: mediactive.com
+url-parts:
+    scheme: http
+    host: mediactive.com
+    path: /2009/12/12/facebook-starting-over/
+
 ---
 
 Like many other people, I have a Facebook account. One reason is to keep track of what’s happening in the planet’s largest social network, including what application developers and users are doing there.

@@ -6,7 +6,11 @@ hash: f33f42fe71164e3d1c96436f814bc382
 annum:
     year: 2015
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /rstephens/status/595589747197612034
+
 ---
 
 “The James Beard awards are getting swankier every year.”

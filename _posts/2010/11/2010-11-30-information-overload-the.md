@@ -6,7 +6,12 @@ hash: 123e85734302548dee1ab93250005912
 annum:
     year: 2010
     month: 11
-hostname: www.boston.com
+url-parts:
+    scheme: http
+    host: www.boston.com
+    path: /bostonglobe/ideas/articles/2010/11/28/information_overload_the_early_years/
+    query:
+        page: "full"
 ---
 
 

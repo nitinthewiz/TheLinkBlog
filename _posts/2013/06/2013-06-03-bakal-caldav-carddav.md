@@ -6,7 +6,11 @@ hash: eca7da709d9b9028f9b0b4bb900abfa5
 annum:
     year: 2013
     month: 06
-hostname: baikal-server.com
+url-parts:
+    scheme: http
+    host: baikal-server.com
+    path: /
+
 ---
 
 Looks interesting and I like the idea of running this on my own so I'm not stuck with built in services. However, I'm going to wait to try this for now.

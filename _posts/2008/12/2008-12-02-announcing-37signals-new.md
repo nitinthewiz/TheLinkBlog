@@ -6,7 +6,11 @@ hash: 3de29af032484ee9156bb1905e4e9eed
 annum:
     year: 2008
     month: 12
-hostname: productblogarchive.37signals.com
+url-parts:
+    scheme: http
+    host: productblogarchive.37signals.com
+    path: /products/2008/12/announcing-37signals-new-book-deal-.html
+
 ---
 
 We're writing a new book that follows up on Getting Real and we're pleased to announce that we just signed a deal with Crown Publishing! Read all about it over at Signal vs. Noise.

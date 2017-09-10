@@ -6,7 +6,11 @@ hash: 774da9acd8d507b20ede37c9e8911d30
 annum:
     year: 2014
     month: 12
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /omnifocus
+
 ---
 
 

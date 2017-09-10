@@ -6,7 +6,11 @@ hash: 27597cb2a58320987a1dce6daee8a128
 annum:
     year: 2014
     month: 02
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /2013/10/31/coffee-snob-photos_n_4177849.html
+
 ---
 
 Here are 11 things only a #coffee snob would understand. #4 made us cry with laughter:  via @HuffPostTaste

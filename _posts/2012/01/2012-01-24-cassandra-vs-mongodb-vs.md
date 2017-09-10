@@ -6,7 +6,11 @@ hash: 8ee84e066ff7e74c164f2edc4955ace7
 annum:
     year: 2012
     month: 01
-hostname: kkovacs.eu
+url-parts:
+    scheme: http
+    host: kkovacs.eu
+    path: /cassandra-vs-mongodb-vs-couchdb-vs-redis
+
 ---
 
 This NoSQL comparison list is rather handy: 

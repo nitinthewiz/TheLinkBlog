@@ -6,7 +6,11 @@ hash: 6483ec4babd117e8b5d4f37c24f66132
 annum:
     year: 2016
     month: 10
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /roundups/exploring-the-imessage-app-store-one-month-later-our-favorite-stickers-and-imessage-apps/
+
 ---
 
 It was clear before iOS 10 launched that sticker packs and iMessage apps were going to be big. The only question was 

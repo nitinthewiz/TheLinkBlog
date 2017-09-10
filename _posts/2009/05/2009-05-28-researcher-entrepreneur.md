@@ -6,7 +6,11 @@ hash: 631ecb62524420519d388c309aac4c31
 annum:
     year: 2009
     month: 05
-hostname: www.paidcontent.org
+url-parts:
+    scheme: http
+    host: www.paidcontent.org
+    path: /entry/419-entrepreneurs-researchers-try-to-save-journalism-with-circlabs-jv/
+
 ---
 
 Can a new tech service that packages online news with social media features and a multi-tiered payment system (including subscriptions and micro-payments) save journalism?

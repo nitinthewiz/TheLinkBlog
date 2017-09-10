@@ -6,7 +6,11 @@ hash: 563a11149814fe3876be425ed23af4e5
 annum:
     year: 2005
     month: 12
-hostname: geography.about.com
+url-parts:
+    scheme: http
+    host: geography.about.com
+    path: /library/weekly/aa120699a.htm
+
 ---
 
 

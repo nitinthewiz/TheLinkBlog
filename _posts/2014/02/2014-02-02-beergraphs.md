@@ -6,7 +6,11 @@ hash: ddd981b86ddc1277f66f948555c62def
 annum:
     year: 2014
     month: 02
-hostname: www.beergraphs.com
+url-parts:
+    scheme: http
+    host: www.beergraphs.com
+    path: /
+
 ---
 
 

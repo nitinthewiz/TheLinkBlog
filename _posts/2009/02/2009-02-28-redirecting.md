@@ -6,7 +6,11 @@ hash: f2f1b58f55f5e410cd2f07332aaf97f2
 annum:
     year: 2009
     month: 02
-hostname: tinyurl.com
+url-parts:
+    scheme: http
+    host: tinyurl.com
+    path: /bpvx5q
+
 ---
 
 Blog Post: Photographing the Overnight Website Challenge 

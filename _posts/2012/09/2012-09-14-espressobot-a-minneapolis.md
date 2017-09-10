@@ -6,7 +6,11 @@ hash: 5a42c590355679d38d856524b5f6c9e1
 annum:
     year: 2012
     month: 09
-hostname: samglover.net
+url-parts:
+    scheme: http
+    host: samglover.net
+    path: 
+
 ---
 
 This looks fun!

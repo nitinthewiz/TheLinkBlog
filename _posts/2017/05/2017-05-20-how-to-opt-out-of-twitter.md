@@ -6,7 +6,11 @@ hash: 6a2c1133a0f01f4169bdf4fdc1faf8a9
 annum:
     year: 2017
     month: 05
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2017/05/how-opt-out-twitters-new-privacy-settings
+
 ---
 
 Contrary to the inviting “Sounds good” button to accept the new policy and get to tweeting, the changes Twitter has made around user tracking and data personalization do not sound good for user privacy. For example, the company will now record and store non-EU users’ off-Twitter web browsing history for up to 30 days, up from 10 days in the previous policy.

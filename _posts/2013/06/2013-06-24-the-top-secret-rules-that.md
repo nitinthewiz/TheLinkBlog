@@ -6,7 +6,11 @@ hash: 499bb92790ce6deef7c38ff330c1bd24
 annum:
     year: 2013
     month: 06
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /world/2013/jun/20/fisa-court-nsa-without-warrant
+
 ---
 
 Fisa court submissions show broad scope of procedures governing NSA's surveillance of Americans' communication

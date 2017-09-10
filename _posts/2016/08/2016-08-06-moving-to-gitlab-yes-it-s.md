@@ -6,7 +6,11 @@ hash: 157178db6bd45e180e8891fba8a2b790
 annum:
     year: 2016
     month: 08
-hostname: about.gitlab.com
+url-parts:
+    scheme: https
+    host: about.gitlab.com
+    path: /2016/08/04/moving-to-gitlab-yes-its-worth-it/
+
 ---
 
 

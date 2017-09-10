@@ -6,7 +6,11 @@ hash: fa552d003076db4294b29e5cd830577e
 annum:
     year: 2008
     month: 04
-hostname: weblogs.asp.net
+url-parts:
+    scheme: http
+    host: weblogs.asp.net
+    path: /jeff/twitter-and-more-disconnection
+
 ---
 
 It's weird how bloggers, gossip types and

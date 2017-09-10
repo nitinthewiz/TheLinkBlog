@@ -6,7 +6,11 @@ hash: aab4983eba7265f643dc7d70b946794b
 annum:
     year: 2011
     month: 10
-hostname: hackerhub.org
+url-parts:
+    scheme: http
+    host: hackerhub.org
+    path: /
+
 ---
 
 Hackerhub enables you to publish content online, but unlike other platforms we dont want to know anything about you. There is no registration at all, just your content, under your control.

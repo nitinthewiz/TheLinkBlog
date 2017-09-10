@@ -6,7 +6,11 @@ hash: 4285bb8a0876578ad645a19f77d360b6
 annum:
     year: 2014
     month: 12
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /andrewgaul/are-we-consistent-yet
+
 ---
 
  Eventual consistency of object stores

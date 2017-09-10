@@ -6,7 +6,11 @@ hash: 4a11222bdfad700efbab02a36bd91ec0
 annum:
     year: 2005
     month: 12
-hostname: bitrazor.com
+url-parts:
+    scheme: http
+    host: bitrazor.com
+    path: /tc/doc/index.php
+
 ---
 
 

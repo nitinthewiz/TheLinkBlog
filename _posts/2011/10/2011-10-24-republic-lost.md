@@ -6,7 +6,11 @@ hash: 55bae7ab393e0c49ac7e3fa276e04def
 annum:
     year: 2011
     month: 10
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /31009503
+
 ---
 
 Larry Lessig

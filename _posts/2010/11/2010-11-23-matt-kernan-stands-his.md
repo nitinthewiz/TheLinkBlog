@@ -6,7 +6,11 @@ hash: 9adbb161cbcca2f902a8d42e1a6a894f
 annum:
     year: 2010
     month: 11
-hostname: noblasters.com
+url-parts:
+    scheme: http
+    host: noblasters.com
+    path: /post/1650102322/my-tsa-encounter/
+
 ---
 
 

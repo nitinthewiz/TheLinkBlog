@@ -6,7 +6,11 @@ hash: 2ae5095b5a7ca301c32dfa2e1ddc15d3
 annum:
     year: 2010
     month: 09
-hostname: www.woothemes.com
+url-parts:
+    scheme: http
+    host: www.woothemes.com
+    path: /2010/09/sidebar-manager-now-your-sharpest-tool-in-the-shed/
+
 ---
 
 We’re ecstatic to launch the latest addition to the WooFramework – Sidebar Manager.

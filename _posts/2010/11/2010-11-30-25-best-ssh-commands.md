@@ -6,7 +6,11 @@ hash: d140c006b5c4bba633bc1f0cf2f1be91
 annum:
     year: 2010
     month: 11
-hostname: blog.urfix.com
+url-parts:
+    scheme: http
+    host: blog.urfix.com
+    path: /25-ssh-commands-tricks/
+
 ---
 
 SSH is an awesome powerful tool, there are unlimited possibility when it comes to SSH, heres the top Voted SSH commands.

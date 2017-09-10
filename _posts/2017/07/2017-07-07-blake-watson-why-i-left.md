@@ -6,7 +6,11 @@ hash: cef8aae957ec1b95ac40d519a25f031d
 annum:
     year: 2017
     month: 07
-hostname: www.blakewatson.com
+url-parts:
+    scheme: https
+    host: www.blakewatson.com
+    path: /journal/why-i-left-facebook/
+
 ---
 
 A personal write up from yet another person disconnecting from Facebook. Worthwhile to read why people decide it's time to **opt-out** or something so pervasive. *I've been Facebook free since 2013.*

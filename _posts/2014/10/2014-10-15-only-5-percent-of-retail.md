@@ -6,7 +6,12 @@ hash: ee0c0e8e595a68d1c5fecb1531bb1ca7
 annum:
     year: 2014
     month: 10
-hostname: investors.spscommerce.com
+url-parts:
+    scheme: http
+    host: investors.spscommerce.com
+    path: /releasedetail.cfm
+    query:
+        ReleaseID: "876323"
 ---
 
 

@@ -6,7 +6,11 @@ hash: eee30fcf88a1422155066d6e18069b5d
 annum:
     year: 2009
     month: 11
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /posts/1999-i-have-seen-so-many-young-entrepreneurs-and
+
 ---
 
 I have seen so many young entrepreneurs and intelligent, experienced engineers come through the door with great products that will change the way people and businesses function and most of them fail. They fail because the mentality towards what a business should be and how it should be run is different now. Years ago when you opened a business you had fixed costs and you hustled each month to cover bills and grow so that you could do more than just cover bills soon. Technology is not an industry, in my opinion, it is a tool that is used to make an industry more efficient and effective now I know this means that the production of these tools is an industry, but how many companies today really create tools and how many create cool crap that is dead in 6 months?

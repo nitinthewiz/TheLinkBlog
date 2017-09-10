@@ -6,7 +6,11 @@ hash: ea4ce5cb90d25594b3eeec19b63b2f04
 annum:
     year: 2010
     month: 12
-hostname: info.org.il
+url-parts:
+    scheme: http
+    host: info.org.il
+    path: /english/wikileaks/
+
 ---
 
 Where are the Wikileaks mirrors? by country.  Germany leads by a mile.

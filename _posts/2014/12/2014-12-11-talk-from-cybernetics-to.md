@@ -6,7 +6,11 @@ hash: da3a4e202df72e73675214aeeed2c357
 annum:
     year: 2014
     month: 12
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /album/3137515/video/114017635
+
 ---
 
 From Cybernetics To DevOps and Beyond - Jeff Sussna Talk from day 1 of the 2014 devopsdays in Belgium http://www.slideshare.net/ingineeringit/from-cybernetics-to-devops-and-beyond

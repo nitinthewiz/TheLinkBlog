@@ -6,7 +6,11 @@ hash: ced7d110a139dccdf1fa487f28a1a376
 annum:
     year: 2016
     month: 07
-hostname: mesosphere.com
+url-parts:
+    scheme: https
+    host: mesosphere.com
+    path: /blog/2016/07/20/serverless-computing-dcos-galactic-fog/
+
 ---
 
 Mainframe, server, virtual machine, cloud instance, container 

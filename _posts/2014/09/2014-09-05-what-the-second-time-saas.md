@@ -6,7 +6,11 @@ hash: ccb89e8354afbacc0adfed4547dd103a
 annum:
     year: 2014
     month: 09
-hostname: saastr.com
+url-parts:
+    scheme: http
+    host: saastr.com
+    path: /2014/09/04/what-the-second-time-saas-ceos-are-doing/
+
 ---
 
 So I thought Id assemble a list of what the Second Timers are doing this time.  You may not be able to do all of these yourself, as the Second Times also generally have access to tons of capital on Day 0.  You probably dont.  Thats OK.  Next one.

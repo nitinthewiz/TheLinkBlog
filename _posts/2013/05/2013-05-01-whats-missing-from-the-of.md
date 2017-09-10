@@ -6,7 +6,11 @@ hash: ab2a91146116f081533514dc37aa47bd
 annum:
     year: 2013
     month: 05
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2013/05/01/of-wikipedia-categories-and-sexism/
+
 ---
 
 Its not always the case, but in this instance the system worked. Filipacchi saw something on Wikipedia that she thought was wrong. She drew attention to it. Now its being discussed and fixed. Thats how Wikipedia works.

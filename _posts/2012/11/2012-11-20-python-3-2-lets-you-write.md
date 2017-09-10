@@ -6,7 +6,11 @@ hash: e4432bc9fce008686ced48f1d90f49ff
 annum:
     year: 2012
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2012/11/19/python-3-2-lets-you-write-python-on-the-iphone/
+
 ---
 
 

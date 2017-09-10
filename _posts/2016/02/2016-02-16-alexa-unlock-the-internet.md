@@ -6,7 +6,11 @@ hash: 4cf54bf65961fd1695f9c3c3f36af43d
 annum:
     year: 2016
     month: 02
-hostname: 500ish.com
+url-parts:
+    scheme: https
+    host: 500ish.com
+    path: /alexa-5f7924bffcf3
+
 ---
 
 In fact, I think Echo makes it very clear that Apple (and to a lesser extent, Google) dropped a ball here. This is exactly how Siri should exist in your home. And this is what that orb thing Google made a few years back should have been.

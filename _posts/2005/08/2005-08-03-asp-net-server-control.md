@@ -6,7 +6,11 @@ hash: e8eb6ffa6c0ee7869092c10df4f1bb44
 annum:
     year: 2005
     month: 08
-hostname: aspnet.4guysfromrolla.com
+url-parts:
+    scheme: http
+    host: aspnet.4guysfromrolla.com
+    path: /articles/102903-1.aspx
+
 ---
 
 customizable tool for integrating RSS into your site

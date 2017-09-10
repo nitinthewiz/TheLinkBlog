@@ -6,7 +6,11 @@ hash: 62149da278784451ca1f62ed6a14392a
 annum:
     year: 2009
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/lazyfeed_1st_independent_rss_aggregator_declares_s.php
+
 ---
 
 Hot new RSS reader LazyFeed just announced that it intends to implement support for RSSCloud, the real-time element in RSS that WordPress turned on for millions of blogs today.  Perhaps already more hip to the real time web than any other RSS aggregator on the market, LazyFeed is a very logical place to see RSSCloud in action.

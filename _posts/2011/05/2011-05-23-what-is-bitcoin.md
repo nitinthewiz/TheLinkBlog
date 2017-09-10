@@ -6,7 +6,11 @@ hash: aef9e11a5b1851e3dd566833bed3ad83
 annum:
     year: 2011
     month: 05
-hostname: www.weusecoins.com
+url-parts:
+    scheme: http
+    host: www.weusecoins.com
+    path: /
+
 ---
 
 

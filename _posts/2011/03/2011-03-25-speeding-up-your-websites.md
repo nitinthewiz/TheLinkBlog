@@ -6,7 +6,11 @@ hash: 7d6d687ccb024fc7101526cb45c6f2f2
 annum:
     year: 2011
     month: 03
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2011/03/23/speeding-up-your-websites-database/
+
 ---
 
 

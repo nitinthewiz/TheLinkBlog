@@ -6,7 +6,11 @@ hash: d74621a78095d04098850d000961fccd
 annum:
     year: 2012
     month: 04
-hostname: www.nasa.gov
+url-parts:
+    scheme: http
+    host: www.nasa.gov
+    path: /topics/earth/features/tx-wind-farm.html
+
 ---
 
 

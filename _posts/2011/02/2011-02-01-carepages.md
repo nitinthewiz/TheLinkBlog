@@ -6,7 +6,11 @@ hash: 0f0ea88323da9d006406b5ca6f23be85
 annum:
     year: 2011
     month: 02
-hostname: www.carepages.com
+url-parts:
+    scheme: https
+    host: www.carepages.com
+    path: /
+
 ---
 
 CarePages websites are free patient blogs that connect friends and family during a health challenge

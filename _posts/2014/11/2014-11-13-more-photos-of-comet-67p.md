@@ -6,7 +6,11 @@ hash: 35ffca6e617ebdcf227e6401eb5e859c
 annum:
     year: 2014
     month: 11
-hostname: www.flickr.com
+url-parts:
+    scheme: https
+    host: www.flickr.com
+    path: /photos/europeanspaceagency/sets/72157638315605535/
+
 ---
 
 

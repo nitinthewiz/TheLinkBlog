@@ -6,7 +6,11 @@ hash: 60e5a4abb2423de04aa723fdb54d4303
 annum:
     year: 2014
     month: 12
-hostname: www.nybooks.com
+url-parts:
+    scheme: http
+    host: www.nybooks.com
+    path: /articles/archives/2010/feb/11/the-chess-master-and-the-computer/
+
 ---
 
 

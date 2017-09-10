@@ -6,7 +6,11 @@ hash: 287ccaeb02831f7fb8b1daa28079361a
 annum:
     year: 2011
     month: 10
-hostname: www.troyhunt.com
+url-parts:
+    scheme: http
+    host: www.troyhunt.com
+    path: /2011/10/secret-ios-business-what-you-dont-know.html
+
 ---
 
 

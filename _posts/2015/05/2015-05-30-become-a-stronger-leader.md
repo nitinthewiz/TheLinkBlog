@@ -6,7 +6,11 @@ hash: b5ab5640f849f9ad6590371ac95d7b39
 annum:
     year: 2015
     month: 05
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /become-a-stronger-leader-by-asking-yourself-these-three-1707550666
+
 ---
 
 What am I not saying that needs to be said?

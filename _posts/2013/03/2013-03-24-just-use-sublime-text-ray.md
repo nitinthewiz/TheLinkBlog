@@ -6,7 +6,11 @@ hash: b8a09c0f4379e5ede9d4f60d51f5ff8d
 annum:
     year: 2013
     month: 03
-hostname: delvarworld.github.io
+url-parts:
+    scheme: http
+    host: delvarworld.github.io
+    path: /blog/2013/03/16/just-use-sublime-text/
+
 ---
 
 Not sure if this was intended to be funny, but it made me laugh several times. I use Sublime Text on my Mac, and vim when I'm in ssh on a server.

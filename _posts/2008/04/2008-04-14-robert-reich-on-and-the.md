@@ -6,7 +6,11 @@ hash: f9d8beca69600374a4f0d00983f6ce4d
 annum:
     year: 2008
     month: 04
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2008/04/14/495360/-Robert-Reich-on-Bitterness-and-the-Press
+
 ---
 
 In response to the fuss over whether it was elitist of Barack Obama to observe that some people are bitter that their jobs have been eliminated and replaced, former Clinton labor secretary Robert Reich writes:

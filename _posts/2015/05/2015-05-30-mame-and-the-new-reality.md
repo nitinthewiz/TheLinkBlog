@@ -6,7 +6,11 @@ hash: c5005ba564e94fb2e6b22f7f0ca1e1be
 annum:
     year: 2015
     month: 05
-hostname: ascii.textfiles.com
+url-parts:
+    scheme: http
+    host: ascii.textfiles.com
+    path: /archives/4641
+
 ---
 
 

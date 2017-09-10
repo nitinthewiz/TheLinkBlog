@@ -6,7 +6,11 @@ hash: 94c7c217c469272367ceafd25e13efa7
 annum:
     year: 2014
     month: 02
-hostname: yuji.wordpress.com
+url-parts:
+    scheme: http
+    host: yuji.wordpress.com
+    path: /2011/06/22/python-imaplib-imap-example-with-gmail/
+
 ---
 
 

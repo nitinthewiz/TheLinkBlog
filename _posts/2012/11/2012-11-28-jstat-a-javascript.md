@@ -6,7 +6,11 @@ hash: 61570b4c4476ff9cb67887340f9a0171
 annum:
     year: 2012
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /jstat/jstat
+
 ---
 
 jStat is a statistical library written in JavaScript that allows you to perform advanced statistical operations without the need of a dedicated statistical language (i.e. MATLAB or R).

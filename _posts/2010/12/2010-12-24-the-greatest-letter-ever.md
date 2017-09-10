@@ -6,7 +6,11 @@ hash: 06d9983c9c6eddca0ce655c660f43c55
 annum:
     year: 2010
     month: 12
-hostname: deadspin.com
+url-parts:
+    scheme: http
+    host: deadspin.com
+    path: /5716038/the-greatest-letter-ever-printed-on-nfl-team-letterhead
+
 ---
 
 I don’t want to spoil a damn thing about this. Just read.

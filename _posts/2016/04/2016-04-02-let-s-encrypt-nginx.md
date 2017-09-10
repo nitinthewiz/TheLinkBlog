@@ -6,7 +6,11 @@ hash: cd1e78fb43c8b433e59f8fc1da460c44
 annum:
     year: 2016
     month: 04
-hostname: letsecure.me
+url-parts:
+    scheme: https
+    host: letsecure.me
+    path: /secure-web-deployment-with-lets-encrypt-and-nginx/
+
 ---
 
 State of the art secure web deployment.

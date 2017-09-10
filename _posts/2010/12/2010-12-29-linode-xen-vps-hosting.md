@@ -6,7 +6,11 @@ hash: e6934a4a3a4da42ba43fed779a0dafb9
 annum:
     year: 2010
     month: 12
-hostname: www.linode.com
+url-parts:
+    scheme: https
+    host: www.linode.com
+    path: /
+
 ---
 
 

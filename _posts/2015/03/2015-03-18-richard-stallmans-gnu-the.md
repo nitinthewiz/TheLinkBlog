@@ -6,7 +6,11 @@ hash: f1942f28567430aa021bb36365a635ba
 annum:
     year: 2015
     month: 03
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /business/currency/the-gnu-manifesto-turns-thirty
+
 ---
 
 

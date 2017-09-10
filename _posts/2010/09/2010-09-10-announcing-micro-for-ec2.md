@@ -6,7 +6,11 @@ hash: 0984c824125f5834767fcc33e0a694f5
 annum:
     year: 2010
     month: 09
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /about-aws/whats-new/2010/09/09/announcing-micro-instances-for-amazon-ec2/
+
 ---
 
 If your curious, here is Amazon's Micro announcement.  /cc @tkeekley

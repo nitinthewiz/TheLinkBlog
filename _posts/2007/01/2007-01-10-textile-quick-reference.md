@@ -6,7 +6,11 @@ hash: 4b004a6c2037f89bf5057e9a073a0daa
 annum:
     year: 2007
     month: 01
-hostname: hobix.com
+url-parts:
+    scheme: http
+    host: hobix.com
+    path: /
+    query:
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4ae3b9a7c9a5de531c87485efbe1a495
 annum:
     year: 2013
     month: 01
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gadgets/2013/01/app-downloads-smash-records-1-76-billion-in-one-week-during-the-holidays/
+
 ---
 
 That's a crazy big number.

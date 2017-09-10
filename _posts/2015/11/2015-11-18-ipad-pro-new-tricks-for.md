@@ -6,7 +6,11 @@ hash: 1a94cf136fee82a98844440fb8c5661c
 annum:
     year: 2015
     month: 11
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2015/11/ipad-pro-new-tricks-for-old-dogs/
+
 ---
 
 Like a whole lot of people in my profession, I

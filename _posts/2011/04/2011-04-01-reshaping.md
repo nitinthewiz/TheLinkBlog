@@ -6,7 +6,11 @@ hash: 91a534a7239478d0d593417697af2d30
 annum:
     year: 2011
     month: 04
-hostname: www.tbray.org
+url-parts:
+    scheme: http
+    host: www.tbray.org
+    path: /ongoing/When/201x/2011/04/01/Straight-Right
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 67d364b5364c20b9ae0a45edf2f7b88b
 annum:
     year: 2007
     month: 01
-hostname: stage6.divx.com
+url-parts:
+    scheme: http
+    host: stage6.divx.com
+    path: /G4TV/show_video/1031613
+
 ---
 
 Fake commercial of PS3 v. Wii taken after "I'm a Mac" commercials.

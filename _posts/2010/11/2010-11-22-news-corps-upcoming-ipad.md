@@ -6,7 +6,11 @@ hash: bcf20d0e52bfd2623fde5e685ae34051
 annum:
     year: 2010
     month: 11
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2010/11/the_daily_and_recurring_subscription_billing
+
 ---
 
 

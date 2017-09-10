@@ -6,7 +6,11 @@ hash: 005b1bfe379dd617213b89a7ae3253b3
 annum:
     year: 2009
     month: 05
-hostname: www.google.com
+url-parts:
+    scheme: http
+    host: www.google.com
+    path: /reader/bundle/user%2F08141827436068576664%2Fbundle%2FEditor%20and%20Publisher
+
 ---
 
 Editor and Publisher

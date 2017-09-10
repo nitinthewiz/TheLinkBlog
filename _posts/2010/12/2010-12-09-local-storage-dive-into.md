@@ -6,7 +6,11 @@ hash: 94005110571fa193fbf87131eedb1eb7
 annum:
     year: 2010
     month: 12
-hostname: diveintohtml5.info
+url-parts:
+    scheme: http
+    host: diveintohtml5.info
+    path: /storage.html
+
 ---
 
 

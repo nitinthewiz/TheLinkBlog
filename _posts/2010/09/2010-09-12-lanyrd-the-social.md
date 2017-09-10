@@ -6,7 +6,11 @@ hash: 90f7c1419d4689d4304296cd70fae0fc
 annum:
     year: 2010
     month: 09
-hostname: lanyrd.com
+url-parts:
+    scheme: http
+    host: lanyrd.com
+    path: /
+
 ---
 
 Speaking of Dopplr, Simon Willison and Natalie Downe have launched Lanyrd, which is sort of like Dopplr but focused on one very specific thing: conferences. Interesting. See more on their weblog.

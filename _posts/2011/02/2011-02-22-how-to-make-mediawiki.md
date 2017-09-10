@@ -6,7 +6,11 @@ hash: 941abc0370e3e818b5558426b7405493
 annum:
     year: 2011
     month: 02
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/User:Aaron_Schulz/How_to_make_MediaWiki_fast
+
 ---
 
 Nice recipe for making MediaWiki faster.

@@ -6,7 +6,12 @@ hash: b020b7c6bfdcc5c4b6f751b4ebf6821e
 annum:
     year: 2010
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "8r1CZTLk-Gk"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 2704d2bf445915ecf4c2150a1ae5f457
 annum:
     year: 2011
     month: 09
-hostname: christopherlobay.com
+url-parts:
+    scheme: http
+    host: christopherlobay.com
+    path: /
+
 ---
 
 

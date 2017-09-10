@@ -6,7 +6,11 @@ hash: f01eb81a5f86b6df0ad46deb2f51fff5
 annum:
     year: 2012
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
+
 ---
 
 I cut my teeth on HyperCard in junior high school. I did my high school humanities final project in HyperCard. I really wish HyperCard was on the iPad.

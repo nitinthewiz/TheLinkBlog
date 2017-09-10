@@ -6,7 +6,11 @@ hash: e2d25443f2c1fe2f7b86995b1e734584
 annum:
     year: 2008
     month: 07
-hostname: ma.tt
+url-parts:
+    scheme: http
+    host: ma.tt
+    path: /2008/07/iphone-native-wordpress-client/
+
 ---
 
 We’re doing an iPhone-native WordPress client, check out the screencast here. It will work for both .com and .org, be available FREE from the App Store, and best of all it’s going to be completely Open Source, which

@@ -6,7 +6,11 @@ hash: 88c7c2763524e189d03ad8e078fb0475
 annum:
     year: 2013
     month: 03
-hostname: geekmonkey.org
+url-parts:
+    scheme: http
+    host: geekmonkey.org
+    path: /articles/46-automatically-create-annotations-for-your-feeds-in-piwik
+
 ---
 
 Great idea!

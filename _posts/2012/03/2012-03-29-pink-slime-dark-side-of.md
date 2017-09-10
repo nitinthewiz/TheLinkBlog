@@ -6,7 +6,11 @@ hash: b520c41d714cced2e89a0b19a6727296
 annum:
     year: 2012
     month: 03
-hostname: NoBull.MikeCallicrate.com
+url-parts:
+    scheme: http
+    host: NoBull.MikeCallicrate.com
+    path: /2012/03/28/pink-slime-dark-side-of-industrial-food-system-exposed/
+
 ---
 
 

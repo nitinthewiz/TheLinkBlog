@@ -6,7 +6,11 @@ hash: ee8eed440f4544483eeb438c4e644906
 annum:
     year: 2007
     month: 12
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2007/12/27/426663/-The-Rich-Are-Different
+
 ---
 
 Michelle Leder at footnoted.org specializes in reading company reports and looking for those little special treats given to those folks who have their feet at the top of the corporate ladder.

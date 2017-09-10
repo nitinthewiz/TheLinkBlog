@@ -6,7 +6,11 @@ hash: e6bb1703df0e4c9980f3987635d0fe61
 annum:
     year: 2013
     month: 05
-hostname: leopard.in.ua
+url-parts:
+    scheme: http
+    host: leopard.in.ua
+    path: /2013/01/04/chef-solo-getting-started-part-1/
+
 ---
 
 

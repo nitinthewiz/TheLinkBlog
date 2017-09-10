@@ -6,7 +6,11 @@ hash: 524a0251f6581a5e1a900850b0c19a3b
 annum:
     year: 2011
     month: 06
-hostname: www.lamy.com
+url-parts:
+    scheme: http
+    host: www.lamy.com
+    path: /eng/b2c/safari/017
+
 ---
 
 In sturdy ABS plastic, matt charcoal. Characteristic front section.

@@ -6,7 +6,11 @@ hash: cd034ee736504acadcddc28592f14ef9
 annum:
     year: 2013
     month: 03
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /54415810
+
 ---
 
 The timelapse of the northern lights is incredible.

@@ -6,7 +6,11 @@ hash: ab0be48bdf55d83d6b089fc1d5daccec
 annum:
     year: 2011
     month: 08
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Style_guide
+
 ---
 
 Brandon Harris is currently working on a MediaWiki interface style guide.

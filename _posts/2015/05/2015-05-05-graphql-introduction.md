@@ -6,7 +6,11 @@ hash: 8c1e8304e252f607b6814d7c613d53a5
 annum:
     year: 2015
     month: 05
-hostname: facebook.github.io
+url-parts:
+    scheme: https
+    host: facebook.github.io
+    path: /react/blog/2015/05/01/graphql-introduction.html
+
 ---
 
 

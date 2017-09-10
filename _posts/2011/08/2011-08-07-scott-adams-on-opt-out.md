@@ -6,7 +6,11 @@ hash: ff3fa02154f1dc227bba3393ae6592f6
 annum:
     year: 2011
     month: 08
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/scott-adams-on-opt-out
+
 ---
 
 

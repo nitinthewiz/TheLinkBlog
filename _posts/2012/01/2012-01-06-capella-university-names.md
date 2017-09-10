@@ -6,7 +6,14 @@ hash: a55fe976f5e010e06266c49a6df1ac88
 annum:
     year: 2012
     month: 01
-hostname: investors.capellaeducation.com
+url-parts:
+    scheme: http
+    host: investors.capellaeducation.com
+    path: /phoenix.zhtml
+    query:
+        c: "189886"
+        p: "irol-newsArticle"
+        ID: "1645244"
 ---
 
 Capella Education Company a provider of online post-secondary education, primarily through its wholly owned subsidiary Capella University, today announced that Scott Kinney has been named Capella University president. Previously, Kinney was president of West Education Group at Thomson Reuters Corporation. Additionally, Capella University’s interim president Deborah Bushway, PhD, will become vice president for Academic Innovation.

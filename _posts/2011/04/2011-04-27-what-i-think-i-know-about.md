@@ -6,7 +6,11 @@ hash: bd0551af9807d424b0ae05c17c4942e3
 annum:
     year: 2011
     month: 04
-hostname: pressthink.org
+url-parts:
+    scheme: http
+    host: pressthink.org
+    path: /2011/04/what-i-think-i-know-about-journalism/
+
 ---
 
 

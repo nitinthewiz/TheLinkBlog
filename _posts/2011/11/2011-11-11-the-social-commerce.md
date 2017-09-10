@@ -6,7 +6,11 @@ hash: 2a4d7fe9181e810058d13265b02d1786
 annum:
     year: 2011
     month: 11
-hostname: socialcommercetoday.com
+url-parts:
+    scheme: http
+    host: socialcommercetoday.com
+    path: /the-social-commerce-timeline-new-infographic-released-download/
+
 ---
 
 To promote their upcoming Corporate Social Commerce Summit (March 13/14, 2012 Boston) Useful Social Media have gleaned Social Commerce Today and Social Media Influence for factoids to put together a slick Social Commerce Timeline infographic, and here it is.

@@ -6,7 +6,11 @@ hash: 1c932bbb2cbb8dbf93c838770f4e1933
 annum:
     year: 2014
     month: 08
-hostname: challengerdesignsllc.com
+url-parts:
+    scheme: http
+    host: challengerdesignsllc.com
+    path: /grill-carts
+
 ---
 
 

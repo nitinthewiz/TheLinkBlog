@@ -6,7 +6,11 @@ hash: 5103eb09b5d81b3b9be5d9762e1bb77d
 annum:
     year: 2010
     month: 12
-hostname: www.moontoast.com
+url-parts:
+    scheme: http
+    host: www.moontoast.com
+    path: /
+
 ---
 
 

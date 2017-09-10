@@ -6,7 +6,11 @@ hash: dd71d30103950bd35cd8d86f3beae283
 annum:
     year: 2008
     month: 03
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/protoflow-coverflow-for-prototype
+
 ---
 
 Obaid Ahmed has written a coverflow-like component on top of Prototype and Script.aculo.us called ProtoFlow.

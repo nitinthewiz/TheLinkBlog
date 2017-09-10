@@ -6,7 +6,11 @@ hash: 902f2220ffe6e4fd2a058b2e99ee0e8b
 annum:
     year: 2011
     month: 05
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2011/5/12/omnioutliner-for-ipad-review.html
+
 ---
 
 

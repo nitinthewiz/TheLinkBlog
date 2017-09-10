@@ -6,7 +6,11 @@ hash: c793e695abd291e79521e15a6d9d3019
 annum:
     year: 2017
     month: 08
-hostname: mesosphere.com
+url-parts:
+    scheme: https
+    host: mesosphere.com
+    path: /blog/docker-vs-kubernetes-vs-apache-mesos/
+
 ---
 
 

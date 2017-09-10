@@ -6,7 +6,12 @@ hash: aace17546d5d953eb39b4dbe93e7421f
 annum:
     year: 2017
     month: 02
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/my-minnedemo-experience-continuation-feeling-alienated-lanice-sims
+    query:
+        trk: "v-feed"
 ---
 
 I attended with my best friend who is also a black female, and we both shared similar feelings that our existence at this event wasn’t acknowledged. On several occasions, we were intentionally ignored.

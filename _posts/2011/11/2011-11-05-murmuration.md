@@ -6,7 +6,11 @@ hash: 4cf0f6fc717303d6b662879dd4adbf62
 annum:
     year: 2011
     month: 11
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /31158841
+
 ---
 
 Murmuration

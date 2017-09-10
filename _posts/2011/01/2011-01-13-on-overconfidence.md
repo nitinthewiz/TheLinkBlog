@@ -6,7 +6,11 @@ hash: 7ca8165e93701597d18d0b84b537baca
 annum:
     year: 2011
     month: 01
-hostname: seedmagazine.com
+url-parts:
+    scheme: http
+    host: seedmagazine.com
+    path: /content/article/on_overconfidence/
+
 ---
 
 

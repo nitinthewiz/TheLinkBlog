@@ -6,7 +6,11 @@ hash: e0dd0b2f3bf0057256d7e45f7d5d361d
 annum:
     year: 2011
     month: 06
-hostname: www.fcp.co
+url-parts:
+    scheme: http
+    host: www.fcp.co
+    path: /dslr/canon/283-24-canon-5ds-have-a-go-at-doing-a-homemade-matrix-timeslice-effect
+
 ---
 
 If we could get 24 Canon 5Ds together then we would have a go at this too. Yes it's been done many times before; what is interesting though is how they did it.

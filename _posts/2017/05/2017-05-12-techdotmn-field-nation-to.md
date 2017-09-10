@@ -6,7 +6,11 @@ hash: 4f99df65475f0298e1afd925b057427a
 annum:
     year: 2017
     month: 05
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2017/05/11/field-nation-plans-to-double-minneapolis-hq-at-baker-center/
+
 ---
 
 Venture-back Field Nation is planning to move headquarters from one part of Minneapolis to the other, according to EVP Teri Calderon.

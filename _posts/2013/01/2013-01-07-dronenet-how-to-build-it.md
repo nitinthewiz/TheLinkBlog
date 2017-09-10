@@ -6,7 +6,11 @@ hash: f46195f87ebb2dcd19547b1dfb5c8eba
 annum:
     year: 2013
     month: 01
-hostname: globalguerrillas.typepad.com
+url-parts:
+    scheme: http
+    host: globalguerrillas.typepad.com
+    path: /globalguerrillas/2013/01/dronenet-how-to-build-it.html
+
 ---
 
 How do you build a global delivery network that can handle billions of drones? 

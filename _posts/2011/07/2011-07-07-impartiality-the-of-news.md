@@ -6,7 +6,13 @@ hash: c0806fcedaa48a443b3c3f26dcfe50c9
 annum:
     year: 2011
     month: 07
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /node/18904112
+    query:
+        fsrc: "rss"
+        story_id: "18904112"
 ---
 
 The Economist: In the internet age, transparency may count for more than objectivity  Pretty good summary of that argument.

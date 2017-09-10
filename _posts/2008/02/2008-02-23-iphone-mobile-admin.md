@@ -6,7 +6,11 @@ hash: a9a92558b83e5e32246b93b1505ff9dd
 annum:
     year: 2008
     month: 02
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /plugins/mobileadmin/
+
 ---
 
 

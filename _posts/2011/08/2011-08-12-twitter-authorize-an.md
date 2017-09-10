@@ -6,7 +6,12 @@ hash: 961ce00bdbfad13917e2250822c6daac
 annum:
     year: 2011
     month: 08
-hostname: twitter.com
+url-parts:
+    scheme: http
+    host: twitter.com
+    path: /oauth/authenticate
+    query:
+        oauth_token: "YkL4kUOcIDUtlcDKljOheif2SImXn0ADpLUyKNQqk"
 ---
 
 Check out my shelves on Goodreads: 

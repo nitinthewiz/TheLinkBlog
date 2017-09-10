@@ -6,7 +6,11 @@ hash: 98a437303f9932a43980cfbbeb645dc5
 annum:
     year: 2011
     month: 10
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:Approved_Revs
+
 ---
 
 Approved Revs is an extension that lets administrators mark a certain revision of a page as "approved". The approved revision is the one displayed when users view the page at its main URL.

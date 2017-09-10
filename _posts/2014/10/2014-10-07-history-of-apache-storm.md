@@ -6,7 +6,11 @@ hash: d0acfc6950865a14ec205ea4603c84f5
 annum:
     year: 2014
     month: 10
-hostname: nathanmarz.com
+url-parts:
+    scheme: http
+    host: nathanmarz.com
+    path: /blog/history-of-apache-storm-and-lessons-learned.html
+
 ---
 
 

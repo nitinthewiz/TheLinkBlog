@@ -6,7 +6,11 @@ hash: 7428d86a54fd8a87c0809d69cc8e5611
 annum:
     year: 2010
     month: 09
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2010/09/20/macspeech-gets-upgraded-to-dragon-naturally-speaking-2/
+
 ---
 
 

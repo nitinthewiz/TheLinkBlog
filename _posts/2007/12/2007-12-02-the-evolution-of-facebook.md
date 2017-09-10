@@ -6,7 +6,11 @@ hash: 0143824ae2e186a4775ff60c537bc1fc
 annum:
     year: 2007
     month: 12
-hostname: bits.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: bits.blogs.nytimes.com
+    path: /2007/11/29/the-evolution-of-facebooks-beacon/
+
 ---
 
 

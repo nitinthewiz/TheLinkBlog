@@ -6,7 +6,11 @@ hash: 15c5425e56831da86fbc27a202264387
 annum:
     year: 2011
     month: 04
-hostname: www.43folders.com
+url-parts:
+    scheme: http
+    host: www.43folders.com
+    path: /2011/04/22/cranking
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f8cec3b99b09631e8633de05c4a6796c
 annum:
     year: 2017
     month: 08
-hostname: www.dabeaz.com
+url-parts:
+    scheme: http
+    host: www.dabeaz.com
+    path: /ply/
+
 ---
 
 

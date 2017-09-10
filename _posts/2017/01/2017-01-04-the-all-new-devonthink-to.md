@@ -6,7 +6,11 @@ hash: abac99e59273563632fb4fe0716d2ec8
 annum:
     year: 2017
     month: 01
-hostname: www.macdrifter.com
+url-parts:
+    scheme: http
+    host: www.macdrifter.com
+    path: /2016/09/the-all-new-devonthink-to-go-for-ios.html
+
 ---
 
 DEVONthink for iOS is a full featured, secure document manager with terrific capture tools and a really powerful PDF editing option. It supports simultaneous sync with several different services and adds encryption on top. I like it better than Evernote, Apple Notes, or OneNote. It costs $15. Buy the IAP to get better sync and PDF editing. It's changed how I use my mobile devices.

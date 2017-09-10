@@ -6,7 +6,12 @@ hash: adc27b06a82d30ac28c628d498edf56d
 annum:
     year: 2011
     month: 03
-hostname: m.vanityfair.com
+url-parts:
+    scheme: http
+    host: m.vanityfair.com
+    path: /business/features/2011/04/jack-dorsey-201104
+    query:
+        printable: "true"
 ---
 
 

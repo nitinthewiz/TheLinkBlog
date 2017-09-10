@@ -6,7 +6,11 @@ hash: 57bc6ec31411e412d22da8319df5737e
 annum:
     year: 2006
     month: 11
-hostname: www.graffletopia.com
+url-parts:
+    scheme: https
+    host: www.graffletopia.com
+    path: /
+
 ---
 
 

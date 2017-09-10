@@ -6,7 +6,11 @@ hash: cfc2f67f052306acdfa3853bbcde3887
 annum:
     year: 2008
     month: 08
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /399983/remove-your-macs-hard-drive-from-the-desktop
+
 ---
 
 Mac users who like to keep their workspace free of shortcuts and folders will love this "oh, duh!" tip for removing your hard drive from the Desktop. In Finder's Preferences pane, in the General tab,...

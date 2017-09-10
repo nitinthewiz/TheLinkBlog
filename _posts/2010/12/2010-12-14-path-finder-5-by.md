@@ -6,7 +6,11 @@ hash: f2ff73af50124c40ba2a8b4658454bd3
 annum:
     year: 2010
     month: 12
-hostname: www.cocoatech.com
+url-parts:
+    scheme: http
+    host: www.cocoatech.com
+    path: /
+
 ---
 
 

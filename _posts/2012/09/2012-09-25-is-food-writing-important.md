@@ -6,7 +6,11 @@ hash: 2b5871a86d41949ea943493d59072bb4
 annum:
     year: 2012
     month: 09
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /michael-ruhlman/is-food-writing-important_b_1903689.html
+
 ---
 
 Cooking and telling stories. That's what makes us human.

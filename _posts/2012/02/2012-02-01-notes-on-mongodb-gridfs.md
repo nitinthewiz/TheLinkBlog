@@ -6,7 +6,11 @@ hash: 644bcda10213384e016c746e3b1a0f61
 annum:
     year: 2012
     month: 02
-hostname: blog.viktorpetersson.com
+url-parts:
+    scheme: http
+    host: blog.viktorpetersson.com
+    path: /post/92729957389/notes-on-mongodb-gridfs-and-sharding-in-the-cloud
+
 ---
 
 

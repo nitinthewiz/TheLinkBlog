@@ -6,7 +6,11 @@ hash: 58f851b97b085c3d5f153e887bd315a0
 annum:
     year: 2015
     month: 10
-hostname: blogs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: blogs.aws.amazon.com
+    path: /security/post/Tx3MVARAUBQYVVM/Learn-About-the-Rest-of-the-Security-and-Compliance-Track-Sessions-Being-Offered
+
 ---
 
 Previously, I mentioned that the re:Invent 2015 Security &amp; Compliance track sessions had been announced, and I also discussed the&#xA0;AWS Identity and Access Management (IAM) sessions that will&hellip;

@@ -6,7 +6,11 @@ hash: 63deaedc72d370ae1896bd5ee8036ed1
 annum:
     year: 2015
     month: 05
-hostname: officeofbenbarry.com
+url-parts:
+    scheme: http
+    host: officeofbenbarry.com
+    path: /project/facebooks-little-red-book
+
 ---
 
 

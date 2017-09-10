@@ -6,7 +6,11 @@ hash: fcfc33888ce0b553b04850f11778188c
 annum:
     year: 2013
     month: 06
-hostname: tumblr.tastefullyoffensive.com
+url-parts:
+    scheme: http
+    host: tumblr.tastefullyoffensive.com
+    path: /post/52637308693/facebooks-new-privacy-options
+
 ---
 
 Brilliant. :-)

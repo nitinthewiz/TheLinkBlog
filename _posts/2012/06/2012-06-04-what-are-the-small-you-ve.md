@@ -6,7 +6,11 @@ hash: 156d70e70e1ee7c047743d41ebd45115
 annum:
     year: 2012
     month: 06
-hostname: www.reddit.com
+url-parts:
+    scheme: http
+    host: www.reddit.com
+    path: /r/Fitness/comments/pbjk1/what_are_the_small_lifestyle_changes_youve_made/
+
 ---
 
 I don't mean things like "I started a completely new diet and bla bla bla", I mean small things.

@@ -6,7 +6,11 @@ hash: bf86ea29a036a6a5f321a4728f6a27f9
 annum:
     year: 2011
     month: 07
-hostname: hardware.slashdot.org
+url-parts:
+    scheme: http
+    host: hardware.slashdot.org
+    path: /story/11/07/02/0515218/Dropbox-TOS-Includes-Broad-Copyright-License
+
 ---
 
 

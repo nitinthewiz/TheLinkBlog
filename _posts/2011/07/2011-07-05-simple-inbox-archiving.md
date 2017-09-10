@@ -6,7 +6,11 @@ hash: d0a3e6421c7ce7f5b25d3ee655653847
 annum:
     year: 2011
     month: 07
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2007/07/simple_inbox_sweeper
+
 ---
 
 

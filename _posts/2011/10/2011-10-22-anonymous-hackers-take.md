@@ -6,7 +6,11 @@ hash: dcbabc47b065e1803a828eb0d752f7cd
 annum:
     year: 2011
     month: 10
-hostname: www.securitynewsdaily.com
+url-parts:
+    scheme: http
+    host: www.securitynewsdaily.com
+    path: /anonymous-hackers-child-porn-sites-1260/
+
 ---
 
 

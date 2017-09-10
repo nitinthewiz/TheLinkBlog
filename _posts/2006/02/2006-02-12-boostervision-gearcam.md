@@ -6,7 +6,14 @@ hash: 8a81f44dc63020867f330370a92cbd07
 annum:
     year: 2006
     month: 02
-hostname: www.buydomains.com
+url-parts:
+    scheme: http
+    host: www.buydomains.com
+    path: /lander/boosterworks.com
+    query:
+        domain: "boosterworks.com"
+        traffic_id: "TDFS-OO-BDLander"
+        traffic_type: "tdfs"
 ---
 
 

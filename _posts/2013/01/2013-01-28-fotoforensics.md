@@ -6,7 +6,11 @@ hash: d1acb447a3aeaef13f13e9b388fa2039
 annum:
     year: 2013
     month: 01
-hostname: fotoforensics.com
+url-parts:
+    scheme: http
+    host: fotoforensics.com
+    path: /
+
 ---
 
 

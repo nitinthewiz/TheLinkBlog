@@ -6,7 +6,11 @@ hash: c04ed6573622742d6398da20145569dc
 annum:
     year: 2012
     month: 01
-hostname: codahale.com
+url-parts:
+    scheme: http
+    host: codahale.com
+    path: /how-to-safely-store-a-password/
+
 ---
 
 Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt. Use bcrypt.

@@ -6,7 +6,11 @@ hash: a64164f9005810e819ab05225210e526
 annum:
     year: 2006
     month: 02
-hostname: textorizer.whatfettle.com
+url-parts:
+    scheme: http
+    host: textorizer.whatfettle.com
+    path: /
+
 ---
 
 vectorise a picture using text strings

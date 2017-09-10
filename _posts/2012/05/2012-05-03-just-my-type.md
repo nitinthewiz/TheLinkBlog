@@ -6,7 +6,11 @@ hash: 6549bcb6d6ef65c7d6be70b2982ffa3f
 annum:
     year: 2012
     month: 05
-hostname: justmytype.co
+url-parts:
+    scheme: http
+    host: justmytype.co
+    path: /
+
 ---
 
 Collection of font pairings.

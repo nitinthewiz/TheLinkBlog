@@ -6,7 +6,11 @@ hash: a20d9691830157d44ead563b15c03c18
 annum:
     year: 2015
     month: 12
-hostname: blog.jenkster.com
+url-parts:
+    scheme: http
+    host: blog.jenkster.com
+    path: /2015/12/what-is-functional-programming.html
+
 ---
 
 This is my take on what functional programming really is, in a way that will make sense to a jobbing programmer just trying to Get Stuff Done.

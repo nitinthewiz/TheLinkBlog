@@ -6,7 +6,11 @@ hash: 69047cc8e15aeb2e8113dd0302137ee7
 annum:
     year: 2013
     month: 03
-hostname: postgres-bits.herokuapp.com
+url-parts:
+    scheme: http
+    host: postgres-bits.herokuapp.com
+    path: /
+
 ---
 
 Nice overview of some differntiating features of Postgres.

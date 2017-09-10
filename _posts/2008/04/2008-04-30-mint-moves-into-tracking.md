@@ -6,7 +6,11 @@ hash: 6df2c46bfeb3e5933ae047807beaddb7
 annum:
     year: 2008
     month: 04
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/04/29/mint-moves-into-investment-tracking/
+
 ---
 
 Silicon Valley-based startup Mint, which provides a service that lets users manage their checking, savings and credit card accounts online, will launch a new product on May 6 that lets users track virtually any type of investment account as well. Users will now be able to manage all of their financial assets on the Mint site. With this change, Mint says, 6,500 US financial institutions: 2,520 banks, 1,621 credit cards, and 2,381 investment accounts are supported. 

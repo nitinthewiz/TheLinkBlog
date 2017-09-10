@@ -6,7 +6,11 @@ hash: 0bf144faebae42c53eb854f31fc84cde
 annum:
     year: 2007
     month: 04
-hostname: verselogic.net
+url-parts:
+    scheme: http
+    host: verselogic.net
+    path: /projects/wordpress/wordpress-openid-plugin/
+
 ---
 
 The wpopenid plugin lets visitors to a Wordpress blog quickly register, login, and leave comments using their OpenID Identity.

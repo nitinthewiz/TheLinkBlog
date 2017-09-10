@@ -6,7 +6,11 @@ hash: bfa2db0ec4d43af99d6a91c2017695d8
 annum:
     year: 2017
     month: 06
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/inclusive-technology-tech-stack/
+
 ---
 
 Interesting writeup of tooling that PagerDuty uses to support a diverse and inclusive workplace. This also falls in the category of improvements that everyone benefits from.

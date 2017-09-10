@@ -6,7 +6,11 @@ hash: 9616c981c36a8797dc35b6bb6d0103e2
 annum:
     year: 2010
     month: 12
-hostname: blog.bemoko.com
+url-parts:
+    scheme: http
+    host: blog.bemoko.com
+    path: /blog/2008/02/21/top-10-mediawiki-content-management-extensions/
+
 ---
 
 

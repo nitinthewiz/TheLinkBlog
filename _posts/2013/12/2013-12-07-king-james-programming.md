@@ -6,7 +6,11 @@ hash: db3063510a55688e13dbdefb46bd53ef
 annum:
     year: 2013
     month: 12
-hostname: kingjamesprogramming.tumblr.com
+url-parts:
+    scheme: http
+    host: kingjamesprogramming.tumblr.com
+    path: /
+
 ---
 
 Brilliant.

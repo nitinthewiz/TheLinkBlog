@@ -6,7 +6,11 @@ hash: d3f942b572b72bb238de57fe85e73bd2
 annum:
     year: 2008
     month: 02
-hostname: www.everypoet.com
+url-parts:
+    scheme: http
+    host: www.everypoet.com
+    path: /absurdities/elements/
+
 ---
 
 Click an element from the list to the left or the Periodic Table below to read original poems about, inspired by, reminiscent of or otherwise related to that element.

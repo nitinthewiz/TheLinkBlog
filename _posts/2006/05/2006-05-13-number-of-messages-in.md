@@ -6,7 +6,11 @@ hash: f2f71ae5cf3cacbe40451c1430def2d7
 annum:
     year: 2006
     month: 05
-hostname: www.microsoft.com
+url-parts:
+    scheme: http
+    host: www.microsoft.com
+    path: /technet/scriptcenter/resources/officetips/mar05/tips0310.mspx
+
 ---
 
 

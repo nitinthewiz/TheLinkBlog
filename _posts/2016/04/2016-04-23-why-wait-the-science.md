@@ -6,7 +6,11 @@ hash: 093151b11384564da033437ff7f0cfc7
 annum:
     year: 2016
     month: 04
-hostname: www.psychologicalscience.org
+url-parts:
+    scheme: https
+    host: www.psychologicalscience.org
+    path: /index.php/publications/observer/2013/april-13/why-wait-the-science-behind-procrastination.html
+
 ---
 
 Believe it or not, the Internet did not give rise to procrastination. People have struggled with habitual hesitation going back to ancient civilizations. The Greek poet Hesiod, writing around 800

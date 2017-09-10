@@ -6,7 +6,11 @@ hash: 7c2c6be2494a5d6e1d8d551865a4c795
 annum:
     year: 2015
     month: 11
-hostname: letsencrypt.org
+url-parts:
+    scheme: https
+    host: letsencrypt.org
+    path: //2015/11/09/why-90-days.html
+
 ---
 
 We

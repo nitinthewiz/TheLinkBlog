@@ -6,7 +6,11 @@ hash: 963000796f17848dc9e005ebac5e315b
 annum:
     year: 2015
     month: 11
-hostname: blog.sanebox.com
+url-parts:
+    scheme: http
+    host: blog.sanebox.com
+    path: /2015/09/24/sanebox-email-follow-up-reminders/
+
 ---
 
 

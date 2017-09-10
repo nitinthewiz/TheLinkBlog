@@ -6,7 +6,11 @@ hash: e38a4952cbb438dc7790e0812c91b2e7
 annum:
     year: 2010
     month: 12
-hostname: help.ubuntu.com
+url-parts:
+    scheme: https
+    host: help.ubuntu.com
+    path: /community/AutomaticSecurityUpdates
+
 ---
 
 

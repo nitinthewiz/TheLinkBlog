@@ -6,7 +6,11 @@ hash: da7d5d936929b79c0653b4c27360fff0
 annum:
     year: 2008
     month: 04
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/iphone-webkit-goodness-3d-css-transforms-and-ontouch-events
+
 ---
 
 Apple is secretive. I normally don't mind so much, as they always come through on yet another cool Mac product. If I could know one thing though, it wouldn't be when the next Macbook Pro is coming out, or when we will see the 3G iPhone. Instead, I wish I knew the attentions in the battle of "what can we develop with on the iPhone".

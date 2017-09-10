@@ -6,7 +6,11 @@ hash: 18cd298ad3c2b10a0e112995b2297408
 annum:
     year: 2010
     month: 12
-hostname: www.couch.io
+url-parts:
+    scheme: http
+    host: www.couch.io
+    path: /case-studies
+
 ---
 
 

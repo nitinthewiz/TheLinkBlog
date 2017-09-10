@@ -6,7 +6,12 @@ hash: 6c223dff23813f6776a47b0dd51f7911
 annum:
     year: 2011
     month: 12
-hostname: www.zapiks.fr
+url-parts:
+    scheme: http
+    host: www.zapiks.fr
+    path: /share/player.swf
+    query:
+        file: "50284"
 ---
 
 Dude tumbles forever down snow after tipping his sled.

@@ -6,7 +6,11 @@ hash: 58509442b87d47f62b1470d14477cc02
 annum:
     year: 2008
     month: 04
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/987-are-you-sure-you-want-to-be-in-san-francisco
+
 ---
 
 Techies, VCs, and the press are always swooning over the glory of the Bay area. This is where all the excitement, the money, and the people are, they say. And that’s true to the extent that your great big idea fits the current cultural mold of that environment.

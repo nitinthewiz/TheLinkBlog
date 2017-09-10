@@ -6,7 +6,11 @@ hash: 7ce10e091e7e9957d3669753cad94cc2
 annum:
     year: 2010
     month: 12
-hostname: mobileopportunity.blogspot.com
+url-parts:
+    scheme: http
+    host: mobileopportunity.blogspot.com
+    path: /2010/10/whats-really-wrong-with-blackberry-and.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4ced3f3a7792eb65d8a2ff916b22118c
 annum:
     year: 2009
     month: 03
-hostname: db.tidbits.com
+url-parts:
+    scheme: http
+    host: db.tidbits.com
+    path: /article/10147
+
 ---
 
 No, it doesn't do grep. Long-time developer Bare Bones Software has branched out from feature-rich applications like BBEdit and Mailsmith with the $10 WeatherCal, a System Preference pane that has a single purpose in life: to populate iCal with weather forecasts so you can better plan for upcoming local events and trips to far-off spots.

@@ -6,7 +6,15 @@ hash: 088730623a27ebdb6d3ed11da43b7e66
 annum:
     year: 2011
     month: 09
-hostname: accounts.google.com
+url-parts:
+    scheme: https
+    host: accounts.google.com
+    path: /ServiceLogin
+    query:
+        service: "wise"
+        passive: "true"
+        go: "true"
+        continue: "https://docs.google.com/document/d/17oqfHHkO48fVFY3sPQqkoCuqFnQOWe4fxRxXJ-lUglg/edit?hl=en_US&pref=2&pli=1"
 ---
 
 I asked fanfic users for a list of feature requests. Hours later, a 24 page impeccably organized collaborative spec: 

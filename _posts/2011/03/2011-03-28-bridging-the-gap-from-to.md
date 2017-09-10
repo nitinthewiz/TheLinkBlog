@@ -6,7 +6,11 @@ hash: ac5faac9616d28910a9d4b090abda2a4
 annum:
     year: 2011
     month: 03
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /business/118272929.html
+
 ---
 
 Minneapolis start-up 8thBridge is expanding its pioneering efforts to bringing e-commerce to Facebook and other social media sites.

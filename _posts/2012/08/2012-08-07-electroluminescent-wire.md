@@ -6,7 +6,11 @@ hash: b569ec5b46dea535defb1c7cc1bc4311
 annum:
     year: 2012
     month: 08
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Electroluminescent_wire
+
 ---
 
 Electroluminescent wire (often abbreviated to EL wire) is a thin copper wire coated in a phosphor which glows when an alternating current is applied to it.

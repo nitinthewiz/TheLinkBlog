@@ -6,7 +6,11 @@ hash: 3e6cb2cbecc80acf254d383d520f8e22
 annum:
     year: 2012
     month: 06
-hostname: www.mtholyoke.edu
+url-parts:
+    scheme: http
+    host: www.mtholyoke.edu
+    path: /~larso20e/example1.html
+
 ---
 
 Great old school web page about Kubb.

@@ -6,7 +6,11 @@ hash: 21bfb533ddba59fd54046e01efd5c0b8
 annum:
     year: 2014
     month: 12
-hostname: blog.travis-ci.com
+url-parts:
+    scheme: http
+    host: blog.travis-ci.com
+    path: /2014-12-22-instance-pudding/
+
 ---
 
 

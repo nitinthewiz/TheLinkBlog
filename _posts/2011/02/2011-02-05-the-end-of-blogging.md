@@ -6,7 +6,11 @@ hash: 9c38fac9b5732ab6360be384dca89ec4
 annum:
     year: 2011
     month: 02
-hostname: observer.com
+url-parts:
+    scheme: http
+    host: observer.com
+    path: /2011/02/the-end-of-blogging/
+
 ---
 
 Bullshit.

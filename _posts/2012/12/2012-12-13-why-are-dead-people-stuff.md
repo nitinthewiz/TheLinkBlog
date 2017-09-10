@@ -6,7 +6,11 @@ hash: 5019533fbca31bdf9a0bc50355454b4b
 annum:
     year: 2012
     month: 12
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2012/12/11/why-are-dead-people-liking-stuff-on-facebook
+
 ---
 
 A Facebook spokesman says the likes from dead people can happen if an account doesnt get memorialized (meaning someone informs Facebook that the account-holder has died). If nobody tells Facebook that the account-holder is dead, Facebook just keeps operating on the assumption the person is alive.

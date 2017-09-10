@@ -6,7 +6,11 @@ hash: ab433dd42d5ef08294b6ded3b47bc707
 annum:
     year: 2015
     month: 05
-hostname: benlog.com
+url-parts:
+    scheme: http
+    host: benlog.com
+    path: /2015/05/23/the-responsibility-we-have-as-software-engineers/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 15599552e32af49c65dc3f9ac16d03ac
 annum:
     year: 2005
     month: 08
-hostname: www.siennaclub.org
+url-parts:
+    scheme: http
+    host: www.siennaclub.org
+    path: /
+
 ---
 
 Toyota Sienna owners forum

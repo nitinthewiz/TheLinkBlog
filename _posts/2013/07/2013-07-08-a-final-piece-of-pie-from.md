@@ -6,7 +6,11 @@ hash: 6c1c7f35587f1ee76234cb30f255e41f
 annum:
     year: 2013
     month: 07
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/taste/213609451.html
+
 ---
 
 Sad to see Peter's closing it's doors. One of the photos in the slides shows me and friends having a final lunch. Nice quote from my friend Nick.

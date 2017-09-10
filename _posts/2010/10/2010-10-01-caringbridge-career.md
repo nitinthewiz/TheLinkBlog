@@ -6,7 +6,11 @@ hash: 726b9dc63f8aad750f68bc8ff508647a
 annum:
     year: 2010
     month: 10
-hostname: www.caringbridge.org
+url-parts:
+    scheme: http
+    host: www.caringbridge.org
+    path: /careers
+
 ---
 
 Interested in working at a wonderful #mpls based #nonprofit? Check out @CaringBridge opportunities! 

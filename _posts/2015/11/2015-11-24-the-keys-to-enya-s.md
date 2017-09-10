@@ -6,7 +6,11 @@ hash: 6d6bd7085508188345ea5e01adb5f5d9
 annum:
     year: 2015
     month: 11
-hostname: www.buzzfeed.com
+url-parts:
+    scheme: http
+    host: www.buzzfeed.com
+    path: /annehelenpetersen/the-keys-to-enyas-kingdom
+
 ---
 
 Over the course of three decades and with 80 million records sold, Enya has morphed into more than musician: She’s her own adjective. What makes her music — and the mysterious woman behind it — appealing to so many? Anne Helen Petersen visits the reclusive singer in Ireland.

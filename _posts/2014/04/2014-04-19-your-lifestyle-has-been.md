@@ -6,7 +6,11 @@ hash: 1dd741526e09627a9eebc59508360bc9
 annum:
     year: 2014
     month: 04
-hostname: www.raptitude.com
+url-parts:
+    scheme: http
+    host: www.raptitude.com
+    path: /2010/07/your-lifestyle-has-already-been-designed/
+
 ---
 
 Your Lifestyle Has Already Been Designed  depressing but accurate.

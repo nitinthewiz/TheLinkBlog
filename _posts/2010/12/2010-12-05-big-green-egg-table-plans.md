@@ -6,7 +6,11 @@ hash: 1d964d88b2f5f4534409ff1bab6700e7
 annum:
     year: 2010
     month: 12
-hostname: nakedwhiz.com
+url-parts:
+    scheme: http
+    host: nakedwhiz.com
+    path: /tableplans/tableplans.htm
+
 ---
 
 

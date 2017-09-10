@@ -6,7 +6,15 @@ hash: 6840dbd843371f55d4a97d431ba1b93d
 annum:
     year: 2005
     month: 10
-hostname: addons.mozilla.org
+url-parts:
+    scheme: https
+    host: addons.mozilla.org
+    path: /en-US/firefox/addon/cruisecontrol-monitor/
+    query:
+        category: "Developer%20Tools"
+        application: "firefox"
+        numpg: "10"
+        id: "896"
 ---
 
 Firefox extension to monitor all builds.

@@ -6,7 +6,11 @@ hash: 19cf1a432e72df7131b4ea0750c91b46
 annum:
     year: 2008
     month: 01
-hostname: www.unpossible.com
+url-parts:
+    scheme: http
+    host: www.unpossible.com
+    path: /2008/01/02/dan-in-the-new-year-focus-on-flow/
+
 ---
 
 I’ve been reflecting on how I spend my time and I’ve concluded that the structure of my day isn’t conducive to flow.

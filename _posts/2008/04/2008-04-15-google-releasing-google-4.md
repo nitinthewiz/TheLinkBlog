@@ -6,7 +6,11 @@ hash: eb504df909e347506ebd162f4c7c2c51
 annum:
     year: 2008
     month: 04
-hostname: www.gearthblog.com
+url-parts:
+    scheme: http
+    host: www.gearthblog.com
+    path: /blog/archives/2008/04/google_releasing_google_earth_43_to.html
+
 ---
 
 Today Google will be releasing a new version of Google Earth: Version 4.3.

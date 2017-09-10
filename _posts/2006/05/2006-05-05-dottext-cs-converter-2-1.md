@@ -6,7 +6,11 @@ hash: 3ad78c675c1b7282a5a7ca277c2c7081
 annum:
     year: 2006
     month: 05
-hostname: www.kevinharder.com
+url-parts:
+    scheme: http
+    host: www.kevinharder.com
+    path: /blogs/kevin/archive/2005/03/24/333.aspx
+
 ---
 
 

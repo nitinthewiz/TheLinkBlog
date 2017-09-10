@@ -6,7 +6,11 @@ hash: aa0e0228413f045e441afb5b7b0f2d8f
 annum:
     year: 2013
     month: 12
-hostname: benhomie.com
+url-parts:
+    scheme: http
+    host: benhomie.com
+    path: /2013/cranked-rss-reader-and-why-i-built-it/
+
 ---
 
 RT @crankedapp: Hello. Just wrote a piece on why I built Cranked → 

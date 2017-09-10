@@ -6,7 +6,11 @@ hash: 791ef1bd931cc5215f1980513bf26375
 annum:
     year: 2015
     month: 11
-hostname: julesjacobs.github.io
+url-parts:
+    scheme: http
+    host: julesjacobs.github.io
+    path: /2015/08/17/bayesian-scoring-of-ratings.html
+
 ---
 
 Evan Miller wrote a great article How Not To Sort By Average Rating. He shows that simple formulas like score = upvotes - downvotes or score = upvotes / (upvotes + downvotes) don

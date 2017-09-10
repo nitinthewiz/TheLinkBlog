@@ -6,7 +6,11 @@ hash: db2dba4d486c58b397c84e7d1e6f865f
 annum:
     year: 2009
     month: 10
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2009/10/20/10-useful-wordpress-hacks-for-advanced-themes/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 355f95324b9c68cd6f0cabd9f9936b7e
 annum:
     year: 2011
     month: 02
-hostname: www.novelr.com
+url-parts:
+    scheme: http
+    host: www.novelr.com
+    path: /2011/02/27/rich-indie-writer
+
 ---
 
 

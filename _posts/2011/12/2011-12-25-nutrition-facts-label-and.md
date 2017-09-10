@@ -6,7 +6,11 @@ hash: e9c539cf51dd91cbd1008fa346890396
 annum:
     year: 2011
     month: 12
-hostname: www.fda.gov
+url-parts:
+    scheme: http
+    host: www.fda.gov
+    path: /Food/ResourcesForYou/Consumers/NFLPM/ucm274593.htm
+
 ---
 
 

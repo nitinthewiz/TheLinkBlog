@@ -6,7 +6,12 @@ hash: 481535f57699cf03115a2ad273d1f9ab
 annum:
     year: 2012
     month: 05
-hostname: www.spotterswiki.com
+url-parts:
+    scheme: http
+    host: www.spotterswiki.com
+    path: /index.php
+    query:
+        title: "Minneapolis-St._Paul_International_Airport"
 ---
 
 Wiki that highlights some good places to watch planes at MSP.

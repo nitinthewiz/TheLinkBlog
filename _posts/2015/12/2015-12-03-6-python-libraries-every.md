@@ -6,7 +6,11 @@ hash: 59fde171bc443d84e09fbeb6252c892d
 annum:
     year: 2015
     month: 12
-hostname: www.infoworld.com
+url-parts:
+    scheme: http
+    host: www.infoworld.com
+    path: /article/3008915/application-development/6-python-libraries-every-programmer-will-love.html
+
 ---
 
 Here are six Python libraries that provide quick fixes to immediate problems, but can also be used as the underpinnings for bigger projects.

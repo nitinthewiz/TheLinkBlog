@@ -6,7 +6,11 @@ hash: a1c60c80e4bff92bc16fa81ad215b62f
 annum:
     year: 2013
     month: 07
-hostname: suegardner.org
+url-parts:
+    scheme: http
+    host: suegardner.org
+    path: /2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/
+
 ---
 
 The internet is evolving into a private-sector space that is primarily accountable to corporate shareholders rather than citizens. Its constantly trying to sell you stuff. It does whatever it wants with your personal information. And as it begins to be regulated or to regulate itself, it often happens in a clumsy and harmful way, hurting the internets ability to function for the benefit of the public.

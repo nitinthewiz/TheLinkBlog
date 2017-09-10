@@ -6,7 +6,11 @@ hash: f5a7ae3289a6f58108ae51f9d0154913
 annum:
     year: 2014
     month: 04
-hostname: www.fastcodesign.com
+url-parts:
+    scheme: http
+    host: www.fastcodesign.com
+    path: /3028471/google-ventures-your-design-team-needs-a-war-room-heres-how-to-set-one-up
+
 ---
 
 

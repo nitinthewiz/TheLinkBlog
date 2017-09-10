@@ -6,7 +6,14 @@ hash: f8df6fd283845cfaf210bd7061e7226f
 annum:
     year: 2014
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        feature: "youtu.be"
+        v: "tMpsMt7ETi8"
+        app: "desktop"
 ---
 
 

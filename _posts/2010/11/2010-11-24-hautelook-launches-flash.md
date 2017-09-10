@@ -6,7 +6,11 @@ hash: ebdce7b812109c86790d40095f47866f
 annum:
     year: 2010
     month: 11
-hostname: www.internetretailer.com
+url-parts:
+    scheme: http
+    host: www.internetretailer.com
+    path: /interstitial-ad/
+
 ---
 
 

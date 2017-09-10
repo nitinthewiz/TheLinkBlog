@@ -6,7 +6,11 @@ hash: c3e1fa7280c98c465daa09b5ca90bb35
 annum:
     year: 2010
     month: 10
-hostname: bobulate.com
+url-parts:
+    scheme: http
+    host: bobulate.com
+    path: /post/1236412283
+
 ---
 
 

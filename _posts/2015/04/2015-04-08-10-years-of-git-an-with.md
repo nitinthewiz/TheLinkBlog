@@ -6,7 +6,11 @@ hash: 65836f6d643f39cf4f7d950cd8c0992f
 annum:
     year: 2015
     month: 04
-hostname: www.linux.com
+url-parts:
+    scheme: http
+    host: www.linux.com
+    path: /news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a3bc39bcead2e36c9af479456a1433b6
 annum:
     year: 2011
     month: 10
-hostname: www.kalzumeus.com
+url-parts:
+    scheme: http
+    host: www.kalzumeus.com
+    path: /2011/10/28/dont-call-yourself-a-programmer
+
 ---
 
 

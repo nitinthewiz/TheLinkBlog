@@ -6,7 +6,11 @@ hash: 91e1fb5d29cdb41131470beb2160db62
 annum:
     year: 2010
     month: 10
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /mqn8lp
+
 ---
 
 @PhilipHotchkiss why does Klout need to post to my Facebook wall?    Don't want to give that permission.

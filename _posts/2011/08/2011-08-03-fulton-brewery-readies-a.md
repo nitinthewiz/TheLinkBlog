@@ -6,7 +6,14 @@ hash: 19dbcf6a534166b9735e719c51150eb7
 annum:
     year: 2011
     month: 08
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /innovationnews/fultonbrewery.aspx
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: TheLineMedia (The Line Media)"
 ---
 
 

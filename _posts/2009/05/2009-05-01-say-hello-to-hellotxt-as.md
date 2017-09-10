@@ -6,7 +6,11 @@ hash: 87038c59e1c76d89202560aeecb1cd1f
 annum:
     year: 2009
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /collaboration/say-hello-to-hellotxt-as-status-update-service-space-heats-up/
+
 ---
 
 Written by Eric Berlin.

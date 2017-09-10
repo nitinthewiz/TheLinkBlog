@@ -6,7 +6,11 @@ hash: c1b6610acb42a76f830691efdd9543a1
 annum:
     year: 2016
     month: 04
-hostname: neovintage.org
+url-parts:
+    scheme: http
+    host: neovintage.org
+    path: /2016/01/24/a-methodology-for-retiring-products/
+
 ---
 
 24 Jan 2016 One of the biggest challenges I see product managers face in their career is killing features and products. Much of the product management literature and psyche on the web is spent

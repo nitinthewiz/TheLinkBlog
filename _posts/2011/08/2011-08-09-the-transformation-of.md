@@ -6,7 +6,12 @@ hash: 78e29583ad7f920725002a58f39c9451
 annum:
     year: 2011
     month: 08
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2011/08/15/leap-of-faith-4
+    query:
+        currentPage: "all"
 ---
 
 

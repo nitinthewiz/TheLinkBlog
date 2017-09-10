@@ -6,7 +6,11 @@ hash: e8c495dceb07f1d39f96b820914e0655
 annum:
     year: 2009
     month: 10
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5387890/declutter-and-purge-your-kitchen-to-the-necessities-the-checklist
+
 ---
 
 Design weblog Hello Kitchen's kitchen-decluttering checklist provides a quick, easy guide to tackling the large chore of cleaning and decluttering your kitchenhelping you purge what you don't need and keep around your must-haves.

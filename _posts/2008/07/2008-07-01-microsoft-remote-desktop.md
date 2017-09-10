@@ -6,7 +6,11 @@ hash: b767f38850e8935de391ecb0612e06fa
 annum:
     year: 2008
     month: 07
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/07/01/microsoft-remote-desktop-connection-2-now-available/
+
 ---
 
 Filed under: Software

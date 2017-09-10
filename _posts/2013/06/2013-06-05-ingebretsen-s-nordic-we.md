@@ -6,7 +6,11 @@ hash: 7b4bf053e78e6f1c58f00d2f578f79ff
 annum:
     year: 2013
     month: 06
-hostname: ingebretsens.wordpress.com
+url-parts:
+    scheme: http
+    host: ingebretsens.wordpress.com
+    path: /2013/06/04/we-have-mn-made-kubb-sets-whats-kubb-you-ask/
+
 ---
 
 This is great to see!

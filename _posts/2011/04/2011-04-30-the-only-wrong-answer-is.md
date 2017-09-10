@@ -6,7 +6,11 @@ hash: c7532bb3d7fa86874fd8e351b6d55c06
 annum:
     year: 2011
     month: 04
-hostname: www.geekwire.com
+url-parts:
+    scheme: http
+    host: www.geekwire.com
+    path: /2011/wrong-answer-5050-calculating-cofounder-equity-split
+
 ---
 
 

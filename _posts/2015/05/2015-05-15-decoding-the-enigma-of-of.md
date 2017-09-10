@@ -6,7 +6,14 @@ hash: a3416458219c4391329b7c4d35206236
 annum:
     year: 2015
     month: 05
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2015/05/17/business/decoding-the-enigma-of-satoshi-nakamoto-and-the-birth-of-bitcoin.html
+    query:
+        partner: "rss"
+        emc: "rss"
+        _r: "0"
 ---
 
 

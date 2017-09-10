@@ -6,7 +6,11 @@ hash: 5c864e6fec0c0e46bc327faaac1c4ea5
 annum:
     year: 2009
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/05/07/beta-5-of-iphone-os-3-downloadable/
+
 ---
 
 Filed under: Beta Beat, iPhone, SDK

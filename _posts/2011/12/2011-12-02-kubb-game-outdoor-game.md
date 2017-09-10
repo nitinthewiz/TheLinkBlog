@@ -6,7 +6,11 @@ hash: aad26ec0e94587c616e610fa5deb3920
 annum:
     year: 2011
     month: 12
-hostname: www.outdoorgameplayers.com
+url-parts:
+    scheme: http
+    host: www.outdoorgameplayers.com
+    path: /outdoor-games-list/kubb-game/
+
 ---
 
 

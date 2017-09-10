@@ -6,7 +6,12 @@ hash: 2282fae1d19b54eb263b3de5c5a940d0
 annum:
     year: 2011
     month: 10
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /online/blogs/books/2011/10/is-self-knowledge-overrated.html
+    query:
+        currentPage: "all"
 ---
 
 Jonah Lehrer, writing for The New Yorker on Daniel Kahneman’s new book, Thinking, Fast and Slow:

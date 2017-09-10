@@ -6,7 +6,11 @@ hash: 78863807a5af1e44a96ff88136c03f26
 annum:
     year: 2007
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/12/05/john-welchs-guide-to-snmp-on-leopard/
+
 ---
 
 

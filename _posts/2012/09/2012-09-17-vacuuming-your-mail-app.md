@@ -6,7 +6,11 @@ hash: bc2faeb5bb2ae6cade15fa6d52c7c276
 annum:
     year: 2012
     month: 09
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: //2012/09/15/vacuuming-your-mail-app-index-still-works-wonders/
+
 ---
 
 Great tip for keeping Mail.app running tip-top.

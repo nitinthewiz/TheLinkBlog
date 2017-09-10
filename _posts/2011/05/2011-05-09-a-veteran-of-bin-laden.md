@@ -6,7 +6,13 @@ hash: e904bc53872ab2f9188deca66fb149b9
 annum:
     year: 2011
     month: 05
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /politics/features/2011/05/navy-seal-team-six-excerpt-201105
+    query:
+        printable: "true"
+        currentPage: "all"
 ---
 
 

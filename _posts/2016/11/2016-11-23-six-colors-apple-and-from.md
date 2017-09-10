@@ -6,7 +6,11 @@ hash: 40d2ee1f2183a758f2cd97dabc32c3be
 annum:
     year: 2016
     month: 11
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /
+
 ---
 
 

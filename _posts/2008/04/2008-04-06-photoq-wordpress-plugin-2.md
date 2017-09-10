@@ -6,7 +6,11 @@ hash: ab45c4eddeb15aadf9b9f151bec21914
 annum:
     year: 2008
     month: 04
-hostname: www.whoismanu.com
+url-parts:
+    scheme: http
+    host: www.whoismanu.com
+    path: /blog/2008/03/photoq-wordpress-photoblog-plugin-v12-ready-for-wordpress-25/
+
 ---
 
 

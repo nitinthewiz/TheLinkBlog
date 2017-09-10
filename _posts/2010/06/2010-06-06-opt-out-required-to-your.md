@@ -6,7 +6,11 @@ hash: 86ea60d69718c6bdb55fa2ff3a3d3ad4
 annum:
     year: 2010
     month: 06
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2010/06/opt-out-required-prevent-your-yahoo-mail-contacts
+
 ---
 
 

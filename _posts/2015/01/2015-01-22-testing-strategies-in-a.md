@@ -6,7 +6,11 @@ hash: 2cbf7d965383dde186fe2215e4098fda
 annum:
     year: 2015
     month: 01
-hostname: martinfowler.com
+url-parts:
+    scheme: http
+    host: martinfowler.com
+    path: /articles/microservice-testing/
+
 ---
 
 The microservice architectural style presents challenges for

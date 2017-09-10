@@ -6,7 +6,11 @@ hash: a6cdc825a1b36dbd863becd8f2c03b3d
 annum:
     year: 2010
     month: 12
-hostname: www.panic.com
+url-parts:
+    scheme: http
+    host: www.panic.com
+    path: /blog/coda-notes-for-safari-now-available/
+
 ---
 
 

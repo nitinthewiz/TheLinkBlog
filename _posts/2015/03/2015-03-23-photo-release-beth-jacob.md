@@ -6,7 +6,12 @@ hash: 7fef94c6e72986e31df4bd42570a9c7c
 annum:
     year: 2015
     month: 03
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/photo-release----beth-jacob-joins-sps-commerce-as-chief-customer-success-officer-2015-03-23
+    query:
+        siteid: "nbsh"
 ---
 
 SPS Commerce, Inc. a leader in retail cloud services, announced that Beth Jacob has joined the organization's executive team as Chief Customer Success Officer. In this new position, she will define and manage the global customer strategy for all products. Beth brings strong leadership experience in global operations, technology strategy and worldwide expansion.

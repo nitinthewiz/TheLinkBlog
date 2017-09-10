@@ -6,7 +6,13 @@ hash: 428b7d5924b9152112c4f14ce058533b
 annum:
     year: 2011
     month: 10
-hostname: www.cbsnews.com
+url-parts:
+    scheme: http
+    host: www.cbsnews.com
+    path: /video/watch/
+    query:
+        id: "7383158n"
+        tag: "contentBody"
 ---
 
 Mountain climber Alex Honnold seems to defy gravity, scaling sheer, steep rock faces with no rope and apparently no fear.

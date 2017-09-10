@@ -6,7 +6,11 @@ hash: cd274a8d00394a9813d7efb984f1dcf7
 annum:
     year: 2005
     month: 08
-hostname: interfacelift.com
+url-parts:
+    scheme: http
+    host: interfacelift.com
+    path: /wallpaper/
+
 ---
 
 High-Resolution Wallpaper

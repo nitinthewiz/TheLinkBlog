@@ -6,7 +6,11 @@ hash: 902b667f6528da72f1ca860ac66d8ee9
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/10/macheist-bundle-extended-with-vectordesigner-more/
+
 ---
 
 Filed under: Software

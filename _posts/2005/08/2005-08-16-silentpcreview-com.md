@@ -6,7 +6,11 @@ hash: d7d220c0119e397aa7de96a2d16640d9
 annum:
     year: 2005
     month: 08
-hostname: www.silentpcreview.com
+url-parts:
+    scheme: http
+    host: www.silentpcreview.com
+    path: /
+
 ---
 
 Everything about Silent / Quiet Computers

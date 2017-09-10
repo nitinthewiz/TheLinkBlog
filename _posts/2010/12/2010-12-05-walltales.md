@@ -6,7 +6,11 @@ hash: 846a822e5535f0f081ac516de50516cb
 annum:
     year: 2010
     month: 12
-hostname: walltales.org
+url-parts:
+    scheme: http
+    host: walltales.org
+    path: /
+
 ---
 
 

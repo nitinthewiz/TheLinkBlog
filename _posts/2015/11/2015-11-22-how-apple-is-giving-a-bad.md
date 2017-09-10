@@ -6,7 +6,11 @@ hash: cfa4a8ff83983e9a9d185146ec552226
 annum:
     year: 2015
     month: 11
-hostname: www.fastcodesign.com
+url-parts:
+    scheme: http
+    host: www.fastcodesign.com
+    path: /3053406/how-apple-is-giving-design-a-bad-name
+
 ---
 
 For years, Apple followed user-centered design principles. Then something went wrong.

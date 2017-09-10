@@ -6,7 +6,11 @@ hash: 12d1ee5de46b46d64bd6d6109f0d490e
 annum:
     year: 2015
     month: 02
-hostname: www.hellolumio.com
+url-parts:
+    scheme: http
+    host: www.hellolumio.com
+    path: /shop
+
 ---
 
 

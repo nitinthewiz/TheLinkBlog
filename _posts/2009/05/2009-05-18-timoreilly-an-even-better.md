@@ -6,7 +6,11 @@ hash: 75e909890359291b63c326e164b2946d
 annum:
     year: 2009
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: http
+    host: twitter.com
+    path: /timoreilly/statuses/1833092662
+
 ---
 
 timoreilly: An even better picture of Space Shuttle Atlantis during solar transit: http://bit.ly/O1Xkv

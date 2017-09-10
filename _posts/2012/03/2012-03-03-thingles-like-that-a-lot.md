@@ -6,7 +6,11 @@ hash: 8926cfc7792a12b5f563f8221585cab0
 annum:
     year: 2012
     month: 03
-hostname: t.co
+url-parts:
+    scheme: http
+    host: t.co
+    path: /z8PMCpKp
+
 ---
 
 

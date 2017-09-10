@@ -6,7 +6,11 @@ hash: d1be27ad1e7ee443517ec2486a3d13f8
 annum:
     year: 2008
     month: 05
-hostname: elasticdog.com
+url-parts:
+    scheme: http
+    host: elasticdog.com
+    path: /2008/02/howto-install-wordpress-on-nginx/
+
 ---
 
 Nice step-by-step directions on running WordPress with Nginx.

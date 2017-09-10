@@ -6,7 +6,11 @@ hash: 6511386553f74af0d096aa20cde5148f
 annum:
     year: 2015
     month: 06
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /news/daily-comment/a-papal-message-that-spares-no-one-climate-change-encyclical
+
 ---
 
 

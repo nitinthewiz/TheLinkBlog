@@ -6,7 +6,11 @@ hash: ed46b0104ad3a9e3639c65f5fbb399b8
 annum:
     year: 2013
     month: 04
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /nikipore/alfred-python
+
 ---
 
 

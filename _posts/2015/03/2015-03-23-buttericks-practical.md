@@ -6,7 +6,11 @@ hash: 07e6ba2425870233ffb2af9a31eb43d9
 annum:
     year: 2015
     month: 03
-hostname: practicaltypography.com
+url-parts:
+    scheme: http
+    host: practicaltypography.com
+    path: /billionaires-typewriter.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 20fc0fc41da86828b2880256603be496
 annum:
     year: 2006
     month: 02
-hostname: rc.runryder.com
+url-parts:
+    scheme: http
+    host: rc.runryder.com
+    path: /helicopter/f94p1/
+
 ---
 
 

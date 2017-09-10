@@ -6,7 +6,12 @@ hash: 321f7435acc40b94dcfce7334a564176
 annum:
     year: 2008
     month: 10
-hostname: weblogtoolscollection.com
+url-parts:
+    scheme: http
+    host: weblogtoolscollection.com
+    path: /
+    query:
+        p: "4273"
 ---
 
 Child themes are a trend which appears to be gaining traction everywhere you look. Theme authors such as Ian Stewart, Justin Tadlock and Darren Hoyt are just a few of the influential people pushing this concept. In order to try and grasp an understanding of child themes, I interviewed Ian Stewart of Themeshaper.com. His responses were so long, this interview will end up being published in two parts. Here is part 1.

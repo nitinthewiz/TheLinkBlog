@@ -6,7 +6,11 @@ hash: 993ad3007b84f832e74239abfb5e5ef6
 annum:
     year: 2014
     month: 07
-hostname: redsymbol.net
+url-parts:
+    scheme: http
+    host: redsymbol.net
+    path: /articles/unofficial-bash-strict-mode/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 323425511912ef60a93934bfc0c600e3
 annum:
     year: 2010
     month: 12
-hostname: pressthink.org
+url-parts:
+    scheme: http
+    host: pressthink.org
+    path: /2010/11/building-a-better-explainer-nyu-and-propublica-will-collaborate-and-share-what-they-learn/
+
 ---
 
 

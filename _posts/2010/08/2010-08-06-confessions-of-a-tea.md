@@ -6,7 +6,11 @@ hash: e5c69b06333b9d4f79e21926f7bc741d
 annum:
     year: 2010
     month: 08
-hostname: motherjones.com
+url-parts:
+    scheme: http
+    host: motherjones.com
+    path: /politics/2010/08/bob-inglis-tea-party-casualty
+
 ---
 
 Fascinating piece by David Corn for Mother Jones, on Bob Inglis, a very conservative South Carolina Republican who lost the primary election to a “Tea Party” candidate. Why? Because Inglis is not insane:

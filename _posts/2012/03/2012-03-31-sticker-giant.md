@@ -6,7 +6,11 @@ hash: dc1f886987c7ea57c8564e9766cdbef3
 annum:
     year: 2012
     month: 03
-hostname: www.stickergiant.com
+url-parts:
+    scheme: http
+    host: www.stickergiant.com
+    path: /
+
 ---
 
 Custom sticker printing.

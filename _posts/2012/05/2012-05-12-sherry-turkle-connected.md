@@ -6,7 +6,11 @@ hash: 01db6371a8b7041caa871822d80cc265
 annum:
     year: 2012
     month: 05
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/sherry_turkle_alone_together
+
 ---
 
 Turkle's new book looks interesting and I feel a lot of truth in her points in this video.

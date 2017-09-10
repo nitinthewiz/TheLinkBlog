@@ -6,7 +6,12 @@ hash: 5737c5ef3ddbaaac2adb7042194a71d7
 annum:
     year: 2010
     month: 03
-hostname: www.pheedcontent.com
+url-parts:
+    scheme: http
+    host: www.pheedcontent.com
+    path: /click.phdo
+    query:
+        i: "20e66efca2ae95978cfb46017a538055"
 ---
 
   

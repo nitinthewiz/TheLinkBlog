@@ -6,7 +6,11 @@ hash: c897f2b0b258fc95ff483d2b44e2a36c
 annum:
     year: 2008
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/05/01/atandt-offers-free-wifi-for-iphone-users/
+
 ---
 
 Filed under: Deals, iPhone

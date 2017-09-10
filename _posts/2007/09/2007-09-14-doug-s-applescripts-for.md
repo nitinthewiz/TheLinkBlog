@@ -6,7 +6,11 @@ hash: 4e70aeaba1a7133867584b81c4608753
 annum:
     year: 2007
     month: 09
-hostname: dougscripts.com
+url-parts:
+    scheme: http
+    host: dougscripts.com
+    path: /itunes/itinfo/info01.php
+
 ---
 
 

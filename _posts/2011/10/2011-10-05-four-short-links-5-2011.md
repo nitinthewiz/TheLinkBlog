@@ -6,7 +6,11 @@ hash: 1ff6fe73a18c30032641f5bd72ed941d
 annum:
     year: 2011
     month: 10
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2011/10/four-short-links-5-october-201-1.html
+
 ---
 
 

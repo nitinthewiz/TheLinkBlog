@@ -6,7 +6,11 @@ hash: fecd76cf65eb84802025c4bba9bb128e
 annum:
     year: 2008
     month: 03
-hostname: www.bartelme.at
+url-parts:
+    scheme: http
+    host: www.bartelme.at
+    path: /journal/archive/wallpaper_devkit/
+
 ---
 
 

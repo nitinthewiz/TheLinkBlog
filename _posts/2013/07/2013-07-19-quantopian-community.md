@@ -6,7 +6,11 @@ hash: dbe6cce91cf3c5ce51402ff8fae48437
 annum:
     year: 2013
     month: 07
-hostname: www.quantopian.com
+url-parts:
+    scheme: https
+    host: www.quantopian.com
+    path: /
+
 ---
 
 We provide tools and infrastructure for you to learn, create, test, and trade your algorithmic strategies - while protecting your intellectual property. Your algorithms are yours and kept private.

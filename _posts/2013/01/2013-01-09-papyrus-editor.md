@@ -6,7 +6,11 @@ hash: 7193a30a7825de40b887026df4c63dca
 annum:
     year: 2013
     month: 01
-hostname: papyruseditor.com
+url-parts:
+    scheme: http
+    host: papyruseditor.com
+    path: /
+
 ---
 
 A simple way to create ebooks

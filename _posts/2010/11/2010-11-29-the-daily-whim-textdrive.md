@@ -6,7 +6,11 @@ hash: 83a8433e28351bd52ae48327408beb0a
 annum:
     year: 2010
     month: 11
-hostname: photodude.com
+url-parts:
+    scheme: http
+    host: photodude.com
+    path: /2004/06/01/textdrive-or-how-to-raise-40000-in-4-days
+
 ---
 
 

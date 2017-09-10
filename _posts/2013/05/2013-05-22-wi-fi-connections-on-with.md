@@ -6,7 +6,11 @@ hash: 1834139f4b1efe040f26798eed067722
 annum:
     year: 2013
     month: 05
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2013/05/21/aebs-wifi-downgrade
+
 ---
 
 I've been having this issue occasionally from my MacBook Pro at home. :-\

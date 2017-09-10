@@ -6,7 +6,11 @@ hash: 9d39be5227d65cad3c0e7b27e8deb3bb
 annum:
     year: 2015
     month: 08
-hostname: www.logicmonitor.com
+url-parts:
+    scheme: http
+    host: www.logicmonitor.com
+    path: /blog/2015/08/19/design-dynamics-of-delightful-dashboards/
+
 ---
 
 

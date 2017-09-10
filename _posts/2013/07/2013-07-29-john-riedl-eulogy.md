@@ -6,7 +6,11 @@ hash: 60daf53962cbd519f5d8b494e8fac674
 annum:
     year: 2013
     month: 07
-hostname: www.caringbridge.org
+url-parts:
+    scheme: http
+    host: www.caringbridge.org
+    path: /visit/%2A/journal
+
 ---
 
 Beautiful farewell written by John's three kids.

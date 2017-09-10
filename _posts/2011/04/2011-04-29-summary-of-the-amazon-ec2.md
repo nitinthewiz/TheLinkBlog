@@ -6,7 +6,11 @@ hash: 4769d55b9941bb8d0d82d3fb853495b8
 annum:
     year: 2011
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /message/65648/
+
 ---
 
 

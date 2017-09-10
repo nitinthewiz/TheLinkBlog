@@ -6,7 +6,12 @@ hash: eced7e08e54ffb47e342a9ba8bc9ed5a
 annum:
     year: 2016
     month: 08
-hostname: nickytests.blogspot.co.uk
+url-parts:
+    scheme: http
+    host: nickytests.blogspot.co.uk
+    path: /2016/08/protecting-time.html
+    query:
+        m: "1"
 ---
 
 Last night I attended a software testing meet-up

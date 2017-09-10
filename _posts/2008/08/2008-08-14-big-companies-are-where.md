@@ -6,7 +6,11 @@ hash: 820f4ef46e9219e1df426fe9bfd625e3
 annum:
     year: 2008
     month: 08
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/1197-big-companies-are-where-startups-go-to-die
+
 ---
 
 Farhad Manjoo (who wrote a cover story on 37signals for Salon.com a few years back) is now writing for Slate. This time he wonders about the Google Black Hole.

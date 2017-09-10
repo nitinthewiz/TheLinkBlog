@@ -6,7 +6,11 @@ hash: 6fd5fa69a3c44eb91da46f35c6bd7093
 annum:
     year: 2017
     month: 05
-hostname: www.hodinkee.com
+url-parts:
+    scheme: https
+    host: www.hodinkee.com
+    path: /articles/marc-newson-hourglass-limited-edition-for-hodinkee
+
 ---
 
 

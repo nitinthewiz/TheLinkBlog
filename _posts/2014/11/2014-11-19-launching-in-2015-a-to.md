@@ -6,7 +6,11 @@ hash: 24200a3db4c92dab7a9fb01d77c281df
 annum:
     year: 2014
     month: 11
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2014/11/certificate-authority-encrypt-entire-web
+
 ---
 
 Today EFF is pleased to announce Let’s Encrypt, a new certificate authority (CA) initiative that we have put together with Mozilla, Cisco, Akamai, IdenTrust, and researchers at the University of Michigan that aims to clear the remaining roadblocks to transition the Web from HTTP to HTTPS.

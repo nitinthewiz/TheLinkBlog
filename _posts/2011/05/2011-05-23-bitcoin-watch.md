@@ -6,7 +6,11 @@ hash: 6330bf66e98ddfe54fcf8c49b1615469
 annum:
     year: 2011
     month: 05
-hostname: bitcoinwatch.com
+url-parts:
+    scheme: http
+    host: bitcoinwatch.com
+    path: /
+
 ---
 
 

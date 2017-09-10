@@ -6,7 +6,11 @@ hash: 371892dcfdd4732bb15fe9a90526d358
 annum:
     year: 2009
     month: 03
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/751/marsedit-meets-tumblr
+
 ---
 
 Many of you have been waiting patiently for MarsEdit 2.3, featuring support for Tumblr. Today, I’m happy to release a public beta with these updates. Please feel free to download and give it a try! I would also value your feedback on what I’ve done so far.

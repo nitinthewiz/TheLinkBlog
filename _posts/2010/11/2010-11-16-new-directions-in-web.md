@@ -6,7 +6,11 @@ hash: c65729bb27e5e77526ae8eee4dd0e0a6
 annum:
     year: 2010
     month: 11
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2010/11/new-directions-in-web-architec.html
+
 ---
 
 In 2005, Jesse James Garrett at Adaptive Path published the seminal blog "Ajax: A New Approach to Web Applications" and ushered in new age of web architecture.  Ajax meant using the possibilities latent in JavaScript (specifically, the XMLHttpRequest object) so that a web page could contact the server asynchronously and request new data.

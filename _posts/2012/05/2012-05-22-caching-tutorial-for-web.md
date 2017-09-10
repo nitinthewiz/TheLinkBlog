@@ -6,7 +6,11 @@ hash: 5b50c013c55cc0cdf4473097145da872
 annum:
     year: 2012
     month: 05
-hostname: www.mnot.net
+url-parts:
+    scheme: https
+    host: www.mnot.net
+    path: /cache_docs/
+
 ---
 
 Thorough writeup on the various forms of caching to make websites optimal.

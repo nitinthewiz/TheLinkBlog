@@ -6,7 +6,11 @@ hash: 2f4eb2950219af361fcf40e2ddd4730f
 annum:
     year: 2011
     month: 07
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/datacenter/40-under-forty-alumni.html
+
 ---
 
 

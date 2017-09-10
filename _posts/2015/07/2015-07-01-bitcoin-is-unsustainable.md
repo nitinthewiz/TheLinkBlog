@@ -6,7 +6,11 @@ hash: c119a7404811cc5fad1772ef647dfd15
 annum:
     year: 2015
     month: 07
-hostname: motherboard.vice.com
+url-parts:
+    scheme: http
+    host: motherboard.vice.com
+    path: /read/bitcoin-is-unsustainable
+
 ---
 
 

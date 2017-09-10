@@ -6,7 +6,11 @@ hash: 9a018849f1d10e82e8a1f21beba3903f
 annum:
     year: 2011
     month: 10
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/10/05/apple-shows-off-iphone-4s-camera-with-new-gallery/
+
 ---
 
 The 8 MP camera is one of several new hardware features present in the iPhone 4S. It's a significant upgrade that'll entice many shutterbugs to drop their current phone and switch to Apple's latest handset.

@@ -6,7 +6,12 @@ hash: c76d5bea442eb398055e4dd5b91ca2b7
 annum:
     year: 2011
     month: 10
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /reporting/2011/10/03/111003fa_fact_gawande
+    query:
+        currentPage: "all"
 ---
 
 

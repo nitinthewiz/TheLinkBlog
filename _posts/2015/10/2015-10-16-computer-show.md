@@ -6,7 +6,11 @@ hash: 56c3ff5166a681a3f8b2df453f873a64
 annum:
     year: 2015
     month: 10
-hostname: computer.show
+url-parts:
+    scheme: http
+    host: computer.show
+    path: 
+
 ---
 
 * * * * * * * * * * * * * * *************************************************** ***************************************************

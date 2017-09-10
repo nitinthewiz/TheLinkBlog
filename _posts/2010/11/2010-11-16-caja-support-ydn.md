@@ -6,7 +6,11 @@ hash: 7bf7ad63199ddc3cddfe237871169427
 annum:
     year: 2010
     month: 11
-hostname: gamesnet.yahoo.com
+url-parts:
+    scheme: https
+    host: gamesnet.yahoo.com
+    path: 
+
 ---
 
 

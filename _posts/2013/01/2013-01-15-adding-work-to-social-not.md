@@ -6,7 +6,11 @@ hash: 5aa2a325f93b51f90f980bc6c2c5e348
 annum:
     year: 2013
     month: 01
-hostname: redmonk.com
+url-parts:
+    scheme: http
+    host: redmonk.com
+    path: /dberkholz/2013/01/11/adding-work-to-social-not-social-to-work-irc-chatops-and-hubot/
+
 ---
 
 

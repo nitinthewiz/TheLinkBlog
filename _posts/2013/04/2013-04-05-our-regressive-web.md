@@ -6,7 +6,11 @@ hash: a4d109a5b8e2818a5339abb3739566dc
 annum:
     year: 2013
     month: 04
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /future-tech-future-market/7b1a7ddb6ffe
+
 ---
 
 This article is very on point and I agree with a lot of it. It's the "Master Switch" push coming again to control content.

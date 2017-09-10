@@ -6,7 +6,11 @@ hash: cc813c60279e2c7d5f94ff8a0996375b
 annum:
     year: 2016
     month: 12
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@taramann/learning-to-just-be-a-person-a69c1a852fcb
+
 ---
 
 

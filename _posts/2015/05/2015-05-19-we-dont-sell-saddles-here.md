@@ -6,7 +6,11 @@ hash: 25ff166d9947641147b4a0efccea11e8
 annum:
     year: 2015
     month: 05
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@stewart/we-dont-sell-saddles-here-4c59524d650d
+
 ---
 
 

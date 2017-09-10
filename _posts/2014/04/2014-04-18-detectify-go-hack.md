@@ -6,7 +6,11 @@ hash: c955ec04b1a728a2e7733da1a7fa083c
 annum:
     year: 2014
     month: 04
-hostname: detectify.com
+url-parts:
+    scheme: https
+    host: detectify.com
+    path: /
+
 ---
 
 Detectify is a SaaS based website security scanner that will help you stay safe. We audit your sites security so you can focus on web development.

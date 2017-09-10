@@ -6,7 +6,11 @@ hash: c25e0e6806ae0071c20ad226f329a9b0
 annum:
     year: 2011
     month: 02
-hostname: www.aodk.net
+url-parts:
+    scheme: http
+    host: www.aodk.net
+    path: /bok_config.php
+
 ---
 
 

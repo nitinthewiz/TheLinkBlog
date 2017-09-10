@@ -6,7 +6,11 @@ hash: bba9441fd8c87a65ece68ad6c549ad96
 annum:
     year: 2005
     month: 10
-hostname: www.odyclub.com
+url-parts:
+    scheme: http
+    host: www.odyclub.com
+    path: /forums/11-audio-video-security-navigation/24842-dvd-2005-nav-display-yes.html
+
 ---
 
 Mod your Odyssey to show the DVD on the Nav display in front.

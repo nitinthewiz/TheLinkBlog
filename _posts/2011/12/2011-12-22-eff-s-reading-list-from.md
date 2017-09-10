@@ -6,7 +6,11 @@ hash: 6e22c42d15083f20a480754e4e3faff7
 annum:
     year: 2011
     month: 12
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2011/12/books-list-2011
+
 ---
 
 We’ve compiled a list of notable books from the past year that stuck out to us. Even if we don’t necessarily endorse the arguments being made in them, we’ve included them for adding some valuable insight on conversations surrounding our issues and the work that we do.

@@ -6,7 +6,11 @@ hash: 52683601fdff589bb56f9c1d7ad705c8
 annum:
     year: 2014
     month: 11
-hostname: www.allthingsdistributed.com
+url-parts:
+    scheme: http
+    host: www.allthingsdistributed.com
+    path: /2014/11/amazon-ec2-container-service.html
+
 ---
 
 

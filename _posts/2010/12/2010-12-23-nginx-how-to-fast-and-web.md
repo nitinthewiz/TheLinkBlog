@@ -6,7 +6,11 @@ hash: 2a61faae90e49ba56101d8753641df07
 annum:
     year: 2010
     month: 12
-hostname: calomel.org
+url-parts:
+    scheme: https
+    host: calomel.org
+    path: /nginx.html
+
 ---
 
 

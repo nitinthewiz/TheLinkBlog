@@ -6,7 +6,11 @@ hash: c094b0990cc19b8b7c16eeeeef295ffa
 annum:
     year: 2011
     month: 01
-hostname: patch.com
+url-parts:
+    scheme: http
+    host: patch.com
+    path: /southwestminneapolis/my-2011-food-resolutions-with-a-local-twist
+
 ---
 
 Patch's Marsha Trainer makes some local food choices for 2011. We all could use more sustainability and good wine!

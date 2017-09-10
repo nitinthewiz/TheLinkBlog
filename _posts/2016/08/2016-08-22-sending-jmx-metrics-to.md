@@ -6,7 +6,11 @@ hash: 053bc6b61d6495ff5a5a0c7ee3d0c84d
 annum:
     year: 2016
     month: 08
-hostname: engineering.mayvenn.com
+url-parts:
+    scheme: http
+    host: engineering.mayvenn.com
+    path: /2016/08/21/Sending-JMX-Metrics-To-Sumo-Logic-Unified-Metrics/
+
 ---
 
  short walkthrough of how we started sending our JMX metrics to the new Sumo Logic Metrics solution.

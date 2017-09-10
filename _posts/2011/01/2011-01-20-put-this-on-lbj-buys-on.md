@@ -6,7 +6,11 @@ hash: 930a2f6196abe41e6f84f2381382542a
 annum:
     year: 2011
     month: 01
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /18864216
+
 ---
 
 Jesse Thorn:

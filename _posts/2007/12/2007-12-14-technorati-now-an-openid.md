@@ -6,7 +6,11 @@ hash: f23f77318effc4449d0049dcdeb25e29
 annum:
     year: 2007
     month: 12
-hostname: www.centernetworks.com
+url-parts:
+    scheme: http
+    host: www.centernetworks.com
+    path: /technorati-openid-authentication-provider/
+
 ---
 
 Technorati has announced that the account you setup on Technorati can now be used as an OpenID provider. Ian demonstrates how to use your Technorati profile to authenticate a blog on Google's Blogger service.

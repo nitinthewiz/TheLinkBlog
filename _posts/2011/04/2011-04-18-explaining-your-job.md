@@ -6,7 +6,11 @@ hash: 633ac0f16030663fc145e2e7236a1ee1
 annum:
     year: 2011
     month: 04
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2011/04/17/explain-your-job
+
 ---
 
 

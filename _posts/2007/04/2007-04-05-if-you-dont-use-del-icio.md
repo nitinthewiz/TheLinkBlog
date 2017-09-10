@@ -6,7 +6,11 @@ hash: 02bb7838859ef66c77fd46f4aad0b235
 annum:
     year: 2007
     month: 04
-hostname: www.techcrunch.com
+url-parts:
+    scheme: http
+    host: www.techcrunch.com
+    path: /2007/04/05/if-you-dont-use-delicious-you-will-now/
+
 ---
 
 Social bookmarking service Del.icio.us has one of the more popular Firefox Add-ons, but until recently it didn’t sync with your account and bring bookmarks and tags to the browser. A few months ago they quietly released a new version that basically take

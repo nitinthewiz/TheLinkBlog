@@ -6,7 +6,11 @@ hash: 95733df119bb1e34d60f56d24e12facc
 annum:
     year: 2011
     month: 07
-hostname: carlidavidson.photoshelter.com
+url-parts:
+    scheme: http
+    host: carlidavidson.photoshelter.com
+    path: /gallery/Shake/G0000s_trsF9CDFI/
+
 ---
 
 Portraits of dogs shaking water off.

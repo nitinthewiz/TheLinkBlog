@@ -6,7 +6,11 @@ hash: 889eef8117346b4f5afeacd6e6a88763
 annum:
     year: 2011
     month: 09
-hostname: mxcl.github.com
+url-parts:
+    scheme: http
+    host: mxcl.github.com
+    path: /homebrew/
+
 ---
 
 

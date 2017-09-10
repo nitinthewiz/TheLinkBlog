@@ -6,7 +6,11 @@ hash: edea323e9d432e3925fe9d5243f3db35
 annum:
     year: 2007
     month: 05
-hostname: www.tapesntapes.com
+url-parts:
+    scheme: http
+    host: www.tapesntapes.com
+    path: /
+
 ---
 
 

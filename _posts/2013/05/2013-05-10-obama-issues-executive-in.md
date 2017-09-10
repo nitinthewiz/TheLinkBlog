@@ -6,7 +6,11 @@ hash: 77b2c045db5ae678b087dea2d73ae243
 annum:
     year: 2013
     month: 05
-hostname: creativecommons.org
+url-parts:
+    scheme: http
+    host: creativecommons.org
+    path: /weblog/entry/38269
+
 ---
 
 I would love to see this data brought into a wide range of projects, many of them powered by Semantic MediaWiki!

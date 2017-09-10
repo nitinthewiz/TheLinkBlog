@@ -6,7 +6,11 @@ hash: 316ecf8b50ecbc73824f41004f8f6975
 annum:
     year: 2007
     month: 04
-hostname: www.sightspeed.com
+url-parts:
+    scheme: http
+    host: www.sightspeed.com
+    path: /
+
 ---
 
 World's Best Video Chat, Video Mail, and Video Conferencing Services

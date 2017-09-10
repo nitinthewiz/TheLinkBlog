@@ -6,7 +6,11 @@ hash: 8de96c8375c0953d33942cd879e652f2
 annum:
     year: 2009
     month: 05
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4kou6
+
 ---
 
 Forgot the picture of the brisket.  

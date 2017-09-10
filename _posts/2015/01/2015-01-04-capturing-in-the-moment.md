@@ -6,7 +6,11 @@ hash: 962c9e61b446cfda58d22430f51fe8c3
 annum:
     year: 2015
     month: 01
-hostname: inside.omnifocus.com
+url-parts:
+    scheme: http
+    host: inside.omnifocus.com
+    path: /Sven-Fechner
+
 ---
 
 

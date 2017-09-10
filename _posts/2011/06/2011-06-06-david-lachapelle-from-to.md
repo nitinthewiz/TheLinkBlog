@@ -6,7 +6,13 @@ hash: ae1374e8d35def2ab6ebf50a11ff3e5e
 annum:
     year: 2011
     month: 06
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/05/29/fashion/david-lachapelle-from-photographer-to-artist.html
+    query:
+        _r: "1"
+        pagewanted: "print"
 ---
 
 He was hired by Andy Warhol. He fired Madonna. He photographed Pamela Anderson and Lady Gaga and also Hillary Clinton, and made a star of the transgender apparition Amanda Lepore.

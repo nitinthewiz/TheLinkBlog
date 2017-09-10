@@ -6,7 +6,11 @@ hash: ea7951a16374714a19f0b6b1a3c46a80
 annum:
     year: 2012
     month: 01
-hostname: thecolbertreport.cc.com
+url-parts:
+    scheme: http
+    host: thecolbertreport.cc.com
+    path: /the-colbert-report-videos/406796/january-24-2012/grim-colberty-tales-with-maurice-sendak-pt--1
+
 ---
 
 Stop everything you are doing. Watch Colbert interview Maurice Sendak. What happens 6mins in alone makes it worth it.

@@ -6,7 +6,11 @@ hash: 93e5b6b4a1899fa0b963ebe88990dd03
 annum:
     year: 2015
     month: 12
-hostname: www.vox.com
+url-parts:
+    scheme: http
+    host: www.vox.com
+    path: /2015/11/20/9757186/netflix-video-rental-store
+
 ---
 
 I spent 25 years of my life in an industry that no longer exists. Maybe I'm not the most ambitious guy. But that time has provided me with an up-close look at not just how the industry is changing but how people's tastes, and the culture those tastes create, have changed with it.

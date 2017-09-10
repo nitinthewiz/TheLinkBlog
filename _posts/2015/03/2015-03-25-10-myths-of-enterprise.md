@@ -6,7 +6,11 @@ hash: 7de5e24499cc8c52838236e9f2084abf
 annum:
     year: 2015
     month: 03
-hostname: www.paypal-engineering.com
+url-parts:
+    scheme: https
+    host: www.paypal-engineering.com
+    path: /2014/12/10/10-myths-of-enterprise-python/
+
 ---
 
 

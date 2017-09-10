@@ -6,7 +6,11 @@ hash: acd5a1515ecb737d3771fd349ee6847e
 annum:
     year: 2016
     month: 02
-hostname: keybase.io
+url-parts:
+    scheme: https
+    host: keybase.io
+    path: /introducing-the-keybase-filesystem
+
 ---
 
 Alpha releases of the Keybase app are starting to come with a cryptographically secure file mount. It is brand new. And very different.

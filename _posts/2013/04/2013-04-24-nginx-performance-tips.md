@@ -6,7 +6,11 @@ hash: 8c1c952a691cfc2658ad40e92f918036
 annum:
     year: 2013
     month: 04
-hostname: blog.maxcdn.com
+url-parts:
+    scheme: http
+    host: blog.maxcdn.com
+    path: /blogredirect/nginx-performance-tips-with-the-google-pagespeed-team/
+
 ---
 
 Today, wed like to share a few lessons weve learned while testing the ngx_pagespeed module developed by the Googles PageSpeed team.

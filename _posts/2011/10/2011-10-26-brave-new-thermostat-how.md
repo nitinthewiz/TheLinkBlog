@@ -6,7 +6,11 @@ hash: af0f8145738cdcad4fe73e550dccc551
 annum:
     year: 2011
     month: 10
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /gadgetlab/2011/10/nest_thermostat/all/1
+
 ---
 
 

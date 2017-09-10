@@ -6,7 +6,11 @@ hash: 33165968cb7baade81260f80beeb5d3e
 annum:
     year: 2011
     month: 03
-hostname: simplicitybliss.com
+url-parts:
+    scheme: http
+    host: simplicitybliss.com
+    path: /30/woocons-the-ultimate-omnifocus-perspective-icons/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: cf95f0d5ef7997cc918b02f25428d330
 annum:
     year: 2010
     month: 12
-hostname: www.ft.com
+url-parts:
+    scheme: http
+    host: www.ft.com
+    path: /cms/s/2/21553438-fcda-11df-ae2d-00144feab49a.html
+
 ---
 
 

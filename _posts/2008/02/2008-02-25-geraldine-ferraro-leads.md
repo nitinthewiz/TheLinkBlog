@@ -6,7 +6,11 @@ hash: e0ebd609f7e201850f49cfe7ab553623
 annum:
     year: 2008
     month: 02
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2008/02/25/geraldine-ferraro-leads-the-way/
+
 ---
 
 I rarely read the editorials in The New York Times. The regular contributors are mostly predictable, and spew venom rather than articulate thoughts. I religiously read the lead-ins in the daily email summary. They typically make me laugh. I don’t know whether the author picks the particular sentence or paragraph, or the editors do (I suspect it’s the editors).

@@ -6,7 +6,11 @@ hash: 19d861b158d3afcb396b44a2f7a49b14
 annum:
     year: 2011
     month: 10
-hostname: www.planetizen.com
+url-parts:
+    scheme: http
+    host: www.planetizen.com
+    path: /node/51910
+
 ---
 
 

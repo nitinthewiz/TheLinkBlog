@@ -6,7 +6,11 @@ hash: a80f47d1d6c4c18360f28fd1a1022cd2
 annum:
     year: 2012
     month: 04
-hostname: blog.linode.com
+url-parts:
+    scheme: https
+    host: blog.linode.com
+    path: /2012/04/26/ubuntu-12-04-lts-precise-pangolin/
+
 ---
 
 

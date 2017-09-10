@@ -6,7 +6,11 @@ hash: b9544f1e950e664ee447d923f47ed831
 annum:
     year: 2016
     month: 09
-hostname: applehelpwriter.com
+url-parts:
+    scheme: http
+    host: applehelpwriter.com
+    path: /2016/07/28/revealing-dropboxs-dirty-little-security-hack/
+
 ---
 
 

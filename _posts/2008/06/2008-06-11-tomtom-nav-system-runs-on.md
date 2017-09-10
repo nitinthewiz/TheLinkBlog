@@ -6,7 +6,11 @@ hash: 6b43eb3f7035230ad4572a6ecae2681f
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/11/tomtom-nav-system-runs-on-the-iphone-already/
+
 ---
 
 

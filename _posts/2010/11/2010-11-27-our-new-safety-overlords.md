@@ -6,7 +6,11 @@ hash: 470eca2d905a64f5ca3ed7d155eaac86
 annum:
     year: 2010
     month: 11
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /national/archive/2010/11/our-new-safety-overlords/67079/
+
 ---
 
 Citizens like the person in this video who refuse to acquiesce to TSA abuse and who publicize it deserve immense credit: 

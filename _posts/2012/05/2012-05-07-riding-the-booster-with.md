@@ -6,7 +6,12 @@ hash: ccdb3a0615969a0975b69cab3edfdbff
 annum:
     year: 2012
     month: 05
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "2aCOyOvOw5c"
 ---
 
 Very cool video, amazing perspective on space shuttle lift off.

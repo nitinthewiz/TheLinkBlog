@@ -6,7 +6,11 @@ hash: e42ee5d566fde39574b0e39c31ba8b01
 annum:
     year: 2009
     month: 04
-hostname: www.newsless.org
+url-parts:
+    scheme: http
+    host: www.newsless.org
+    path: /2009/03/there-is-only-us/
+
 ---
 
 As panic over the fate of journalism in America reaches a fever pitch, I’m dismayed how much of it continues in this ‘us’ vs. ‘them’ dichotomy that I thought had ended with the ‘who’s a journalist’ wars. I’m still reading criticisms of bloggers who don’t do any original reporting, or reporters whose work doesn’t match their professed standards of objectivity. In my darker moments, I’ll confess to thinking sinister thoughts about cable news personalities who engorge the public with an endless stream of trivia.

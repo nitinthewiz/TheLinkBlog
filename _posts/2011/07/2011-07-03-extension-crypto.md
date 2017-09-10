@@ -6,7 +6,11 @@ hash: 44e55d20ae6b1b71d39290106c59ad5e
 annum:
     year: 2011
     month: 07
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:Crypto
+
 ---
 
 Encrypts portions of text inside a wiki page. For use when you want to add things like passwords and only have them viewable by people of a certain group.

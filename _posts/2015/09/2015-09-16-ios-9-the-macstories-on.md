@@ -6,7 +6,11 @@ hash: 54d1dbcf45998af836baf0301075997c
 annum:
     year: 2015
     month: 09
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/ios-9-review/
+
 ---
 
 

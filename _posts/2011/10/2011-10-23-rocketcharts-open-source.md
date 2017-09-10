@@ -6,7 +6,11 @@ hash: e67c041c3c4e2c5deddfb273be233fed
 annum:
     year: 2011
     month: 10
-hostname: blog.chasegale.com
+url-parts:
+    scheme: http
+    host: blog.chasegale.com
+    path: /introducing-rocketcharts-open-source-html5-financialstatistical-charts/
+
 ---
 
 

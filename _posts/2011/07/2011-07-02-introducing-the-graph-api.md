@@ -6,7 +6,11 @@ hash: a0156635ebfe56e3291a23a033d9edbb
 annum:
     year: 2011
     month: 07
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /blog/post/517/
+
 ---
 
 

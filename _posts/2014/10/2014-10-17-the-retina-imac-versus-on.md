@@ -6,7 +6,11 @@ hash: 31ad3c62d9658bf0cdc8c09ffb6fb824
 annum:
     year: 2014
     month: 10
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2014/10/16/retina-imac-vs-mac-pro
+
 ---
 
 Amazing performance in the new iMac.

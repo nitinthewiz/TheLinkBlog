@@ -6,7 +6,11 @@ hash: 09c3a5e6c95a9e77aa882d505f524f3a
 annum:
     year: 2013
     month: 01
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news/news/transit-use-up-in-2012
+
 ---
 
 Good to see. The assumption is that this is related to long-term hard economic times and people opting for cheaper transit. It may also have to do with more people moving back into the city.

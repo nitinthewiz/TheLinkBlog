@@ -6,7 +6,11 @@ hash: 4e3df398069956c4240668280adfe802
 annum:
     year: 2012
     month: 02
-hostname: nvie.com
+url-parts:
+    scheme: http
+    host: nvie.com
+    path: /posts/introducing-times/
+
 ---
 
 Meet Times, a very small Python library to deal with conversions from universal to local timezones and vice versa. It’s focused on simplicity and opinionated about what is good practice.

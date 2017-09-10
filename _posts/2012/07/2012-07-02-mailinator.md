@@ -6,7 +6,11 @@ hash: d787e8420d07b8b35d6195aa5b98cde3
 annum:
     year: 2012
     month: 07
-hostname: mailinator.com
+url-parts:
+    scheme: http
+    host: mailinator.com
+    path: /index.jsp
+
 ---
 
 Awesome way to get email with a disposable email address and no registration required.  <blockquote>  </blockquote> 

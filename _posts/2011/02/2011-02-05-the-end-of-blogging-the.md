@@ -6,7 +6,11 @@ hash: 836fda4bcc65776113dc8ebda500c688
 annum:
     year: 2011
     month: 02
-hostname: www.observer.com
+url-parts:
+    scheme: http
+    host: www.observer.com
+    path: /2011/tech/end-blogging
+
 ---
 
 

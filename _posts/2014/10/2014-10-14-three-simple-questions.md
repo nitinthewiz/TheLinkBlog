@@ -6,7 +6,11 @@ hash: 8f2d3892062525b29b5b1509d5567804
 annum:
     year: 2014
     month: 10
-hostname: www.coffeebaconbooks.com
+url-parts:
+    scheme: http
+    host: www.coffeebaconbooks.com
+    path: /three-simple-questions/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 510512331e738587c7c5ebb6b93dd98d
 annum:
     year: 2009
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/06/04/google-opens-up-internal-speed-tool-to-the-public/
+
 ---
 
 One of the most fundamental reasons for Google’s success is the site’s speed — search queries typically take a fraction of a second, and most of the company’s other services are usually very snappy as well (save for Gmail, which occasionally bogs down).  Part of this speed can be attributed to the company’s obsession with minimalist design and its vast server farms, but you can be sure there’s no shortage of optimization that’s going on to make sure pages load as quickly as possible on the front end, too.

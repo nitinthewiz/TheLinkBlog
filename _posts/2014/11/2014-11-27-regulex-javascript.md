@@ -6,7 +6,11 @@ hash: c4199e9abf6d53d9a5c8b4b43eee4711
 annum:
     year: 2014
     month: 11
-hostname: jex.im
+url-parts:
+    scheme: http
+    host: jex.im
+    path: /regulex/
+
 ---
 
 

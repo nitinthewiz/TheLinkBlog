@@ -6,7 +6,12 @@ hash: 1ddf9a477db4adde0fbc12007d9a863a
 annum:
     year: 2014
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "nNHsA4WIFvc"
 ---
 
 One of my favorite shows. Will be very interesting to see what they do with this.

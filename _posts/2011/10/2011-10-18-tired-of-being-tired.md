@@ -6,7 +6,11 @@ hash: 0e9cb98900700303b6ff57d50c38ac89
 annum:
     year: 2011
     month: 10
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /tired/
+
 ---
 
 It’s tough being tired all day. I’ve had days like this, when I’m struggling through the day and don’t have the energy to tackle anything that matters.

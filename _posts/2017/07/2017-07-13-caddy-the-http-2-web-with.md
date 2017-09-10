@@ -6,7 +6,11 @@ hash: 2dcf74eca910104022d554471db0f554
 annum:
     year: 2017
     month: 07
-hostname: caddyserver.com
+url-parts:
+    scheme: https
+    host: caddyserver.com
+    path: /
+
 ---
 
 I hadn't heard of this web server but it looks fabulous! Every feature looks great and it looks super simple to run. I’m trying to not run any of my own infrastructure, but apps like this make it compelling and really easy if you do.

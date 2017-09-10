@@ -6,7 +6,11 @@ hash: f9b483d2750720086ddde79c1bd4df6e
 annum:
     year: 2008
     month: 11
-hostname: www.experian.com
+url-parts:
+    scheme: http
+    host: www.experian.com
+    path: /blogs/marketing-forward/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d261cbd2487893e46a7f084671258a1e
 annum:
     year: 2006
     month: 03
-hostname: www.slingmedia.com
+url-parts:
+    scheme: http
+    host: www.slingmedia.com
+    path: /
+
 ---
 
 

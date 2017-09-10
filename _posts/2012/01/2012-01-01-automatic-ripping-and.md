@@ -6,7 +6,11 @@ hash: a47f3655e34964bd158652f176b0ed91
 annum:
     year: 2012
     month: 01
-hostname: tech.jeffri.es
+url-parts:
+    scheme: http
+    host: tech.jeffri.es
+    path: /2010/09/automatic-ripping-and-saving-email-attachments-with-postfix/
+
 ---
 
 

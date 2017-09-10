@@ -6,7 +6,11 @@ hash: 2f808b96ccc617c5995b18fc9cd891d3
 annum:
     year: 2010
     month: 12
-hostname: gizmodo.com
+url-parts:
+    scheme: http
+    host: gizmodo.com
+    path: /5485401/greatest-swag-in-the-history-of-swagginess-the-canon-lens-thermos
+
 ---
 
 

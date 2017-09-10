@@ -6,7 +6,11 @@ hash: 6fc125ea5c2b30dcec3f88a1980ad07b
 annum:
     year: 2007
     month: 12
-hostname: www.problogger.net
+url-parts:
+    scheme: http
+    host: www.problogger.net
+    path: /archives/2007/12/28/improve-your-blog-by-showing-up/
+
 ---
 
 Today Seth Godin (top blogger and author of many books including The Dip) tells us (in his usual succinct style) what he did in 2007 to improve his blog the most.

@@ -6,7 +6,11 @@ hash: 131aa21207d7b26689cff94bf4b699ad
 annum:
     year: 2014
     month: 01
-hostname: soundcloud.com
+url-parts:
+    scheme: http
+    host: soundcloud.com
+    path: /otisgibbs/sets/thanks-for-giving-a-damn-with
+
 ---
 
 Brian Henneman talks about Uncle Tupelo's final gig, Coffee Creek, meeting Doug Sahm and more on this week's show. 

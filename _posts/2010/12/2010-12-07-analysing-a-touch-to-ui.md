@@ -6,7 +6,11 @@ hash: 6170334ba9fbc4b3c20676bcee38fb39
 annum:
     year: 2010
     month: 12
-hostname: ikennd.ac
+url-parts:
+    scheme: http
+    host: ikennd.ac
+    path: //blog/2010/12/analysing-a-touch-to-desktop-ui-port-using-fitts-law-reeder
+
 ---
 
 

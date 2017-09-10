@@ -6,7 +6,11 @@ hash: 2bc46bf01f0fe6565ba075190255d3ae
 annum:
     year: 2008
     month: 04
-hostname: internetjogging.com
+url-parts:
+    scheme: http
+    host: internetjogging.com
+    path: /2008/04/17/23/
+
 ---
 
 Naturally I have combined these three “to-dos” into one. Below is a quick tutorial on harnessing the power of Fluid’s new thumbnail plugin to create a simple Muxtape application with sweet coverflow previews of the featured mixes. Video after the ju

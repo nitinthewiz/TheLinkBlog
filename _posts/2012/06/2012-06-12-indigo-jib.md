@@ -6,7 +6,11 @@ hash: e1eb84fc0d7e0a75aa2fa797e98b417b
 annum:
     year: 2012
     month: 06
-hostname: www.indisystem.com
+url-parts:
+    scheme: http
+    host: www.indisystem.com
+    path: /indigo-jib/
+
 ---
 
 My friend Dennys got this jib and really likes it. The sample video he took is pretty incredible.

@@ -6,7 +6,11 @@ hash: 92d463726a40e4d41693c83a73c4e377
 annum:
     year: 2013
     month: 07
-hostname: www.wtip.org
+url-parts:
+    scheme: http
+    host: www.wtip.org
+    path: /drupal/content/behind-work-joshua-lindstrom-fika-coffee
+
 ---
 
 Fika Coffee is a small, independent artisanal coffee roasting business in Grand Marais, Minnesota. Owner Joshua Lindstrom roasts small batches of sustainable coffee beans for local distribution. In this edition of WTIP's ongoing series, Behind the Work, producer Carah Thomas spends time with Josh at his home-based business near Grand Marais. 

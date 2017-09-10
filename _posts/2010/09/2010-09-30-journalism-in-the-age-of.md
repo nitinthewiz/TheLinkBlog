@@ -6,7 +6,11 @@ hash: 002c36655bdde332d98e1f437df9c6c8
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/journalism-in-the-age-of-data
+
 ---
 
 A 50-minute documentary on information visualization and its use in journalism.

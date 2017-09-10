@@ -6,7 +6,11 @@ hash: ab30bb3e4d83242d608a4f244e00b4b6
 annum:
     year: 2011
     month: 05
-hostname: www.raspberrypi.org
+url-parts:
+    scheme: http
+    host: www.raspberrypi.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0f2a23b41f9c21d73baf4e3a3767bbd6
 annum:
     year: 2015
     month: 01
-hostname: dspace.mit.edu
+url-parts:
+    scheme: http
+    host: dspace.mit.edu
+    path: /bitstream/handle/1721.1/5731/AIM-514.pdf
+
 ---
 
 

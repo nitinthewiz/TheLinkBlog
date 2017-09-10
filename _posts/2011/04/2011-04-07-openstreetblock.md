@@ -6,7 +6,11 @@ hash: d9e06229003706ae3637d261598b9dda
 annum:
     year: 2011
     month: 04
-hostname: transit.frumin.net
+url-parts:
+    scheme: http
+    host: transit.frumin.net
+    path: /openstreetblock/
+
 ---
 
 OpenStreetBlock is a web service for turning a given lat/lon coordinate into a textual description of the actual city block to which the coordinate points using OpenStreetMap data.

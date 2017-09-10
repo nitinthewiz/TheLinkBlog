@@ -6,7 +6,11 @@ hash: 8138c9eef2009d401144c24442b93a7c
 annum:
     year: 2005
     month: 08
-hostname: www.phoebeanddave.net
+url-parts:
+    scheme: http
+    host: www.phoebeanddave.net
+    path: /tbd_hd_jbwr.php
+
 ---
 
 Great wedding speech written by Jim Bernard to hitch his friends.

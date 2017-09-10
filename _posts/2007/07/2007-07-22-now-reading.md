@@ -6,7 +6,11 @@ hash: 99bea7c2461da99913558c21049ee625
 annum:
     year: 2007
     month: 07
-hostname: robm.me.uk
+url-parts:
+    scheme: http
+    host: robm.me.uk
+    path: /projects/plugins/wordpress/now-reading
+
 ---
 
 Now Reading is an expansive WordPress plugin which allows you to maintain a virtual library of books.

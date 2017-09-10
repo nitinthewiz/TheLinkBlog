@@ -6,7 +6,11 @@ hash: 1b52435d27b39e91d375a759c8abb5d3
 annum:
     year: 2017
     month: 09
-hostname: talkingpointsmemo.com
+url-parts:
+    scheme: http
+    host: talkingpointsmemo.com
+    path: /edblog/a-serf-on-googles-farm
+
 ---
 
 Interesting (worrisome?) read from a publisher on how they think of their relationship to Google. 

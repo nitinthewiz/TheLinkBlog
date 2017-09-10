@@ -6,7 +6,11 @@ hash: e295e3e2dbab9d65d249100a601f5e1b
 annum:
     year: 2010
     month: 10
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/top-9-things-i-want-in-a-blog-engine
+
 ---
 
 

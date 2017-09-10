@@ -6,7 +6,11 @@ hash: 45c1030239d24b5b459e2f553543719f
 annum:
     year: 2011
     month: 08
-hostname: topics.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: topics.blogs.nytimes.com
+    path: /2009/04/30/a-magic-wand-for-espresso/
+
 ---
 
 Twist uses a standard carbon dioxide cartridge to force water through the filter basket – the 9 bar pressure comes entirely from the cartridge, which is regulated by a sophisticated mechanism hidden in the handle. Squeeze the trigger and a perfectly dosed espresso streams out of the spouts, a 30-second extraction with a rich crema.

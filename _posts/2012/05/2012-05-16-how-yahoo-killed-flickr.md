@@ -6,7 +6,11 @@ hash: 39cecbffa053aa8d26ad834893b6bddc
 annum:
     year: 2012
     month: 05
-hostname: gizmodo.com
+url-parts:
+    scheme: http
+    host: gizmodo.com
+    path: /5910223/how-yahoo-killed-flickr-and-lost-the-internet
+
 ---
 
 A good article that is begun with a ridiculous and dumb assertion about code making people rich.

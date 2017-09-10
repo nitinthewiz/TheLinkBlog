@@ -6,7 +6,11 @@ hash: f2f718f4aaf592a820a8748191c02f4c
 annum:
     year: 2013
     month: 07
-hostname: skift.com
+url-parts:
+    scheme: http
+    host: skift.com
+    path: /2013/03/19/breaking-bbc-confirms-sale-of-lonely-planet-to-u-s-billionaire/
+
 ---
 
 Today BBC Worldwide officials and representatives of U.S. billionaire Brad Kelley announced the sale of Lonely Planet to a company controlled by Kelley for AUS$75 million (51.5 million).

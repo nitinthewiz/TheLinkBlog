@@ -6,7 +6,11 @@ hash: 5ac9a676bb1e38516e3459db869e1fa1
 annum:
     year: 2011
     month: 07
-hostname: www.reuters.com
+url-parts:
+    scheme: http
+    host: www.reuters.com
+    path: /article/2011/07/16/us-newscorp-notw-brooks-idUSTRE76F0O420110716
+
 ---
 
 Oh, man. You gotta read what it was like to work at News of the World.  "Abandon hope, all ye who enter."

@@ -6,7 +6,11 @@ hash: 668af6d5a648c06b438296430945c7d9
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/31/daveDoesPodcast.html
+
 ---
 
 These days I do a weekly podcast with Jay Rosen called Rebooting the News. Years ago I did my own called Morning Coffee Notes.  

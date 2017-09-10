@@ -6,7 +6,11 @@ hash: 519b0e4e8319deeaedd37aecdcc39b05
 annum:
     year: 2011
     month: 03
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Affero_General_Public_License
+
 ---
 
 The Free Software Foundation has recommended that the GNU AGPLv3 be considered for any software that will commonly be run over a network. The Open Source Initiative approved the GNU AGPLv3 as an open source license in March 2008 after Funambol submitted it for consideration.

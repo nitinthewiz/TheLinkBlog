@@ -6,7 +6,11 @@ hash: 87284dddab5e931e8b8313b7f1ffcdcf
 annum:
     year: 2017
     month: 04
-hostname: kubbon.com
+url-parts:
+    scheme: http
+    host: kubbon.com
+    path: /2017/04/14/the-neighbor-rule/
+
 ---
 
 

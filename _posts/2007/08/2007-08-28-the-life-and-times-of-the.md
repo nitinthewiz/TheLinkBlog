@@ -6,7 +6,11 @@ hash: 48ccac591743a31f632eb2bc53e5373a
 annum:
     year: 2007
     month: 08
-hostname: bikingbrady.blogspot.com
+url-parts:
+    scheme: http
+    host: bikingbrady.blogspot.com
+    path: /2007/08/2007-gut-check.html
+
 ---
 
 

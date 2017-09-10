@@ -6,7 +6,11 @@ hash: 006d1e0ea9b199fca68c644ca9083b14
 annum:
     year: 2009
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/06/16/tweetdeck-for-iphone-go-for-launch-tonight/
+
 ---
 
 Filed under: Odds and ends, Internet Tools, iPhone, App Store, iPod touch

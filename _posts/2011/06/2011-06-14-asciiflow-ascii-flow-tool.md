@@ -6,7 +6,11 @@ hash: d70101200c658adc51fa01448075fa98
 annum:
     year: 2011
     month: 06
-hostname: www.asciiflow.com
+url-parts:
+    scheme: http
+    host: www.asciiflow.com
+    path: /
+
 ---
 
 

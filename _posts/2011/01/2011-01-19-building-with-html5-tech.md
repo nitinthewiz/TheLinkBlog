@@ -6,7 +6,11 @@ hash: 86c5c435aadbf6c09a1e07673fe64e90
 annum:
     year: 2011
     month: 01
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /blog/post/448/
+
 ---
 
 HTML5 (HTML, JavaScript and CSS) is really pushing forward what's possible inside of your Web browser, blurring the line between Web and native apps.  We have high hopes for HTML5 and have already begun to use it in our products.  We hope HTML5 will help developers everywhere address one significant engineering challenge we face daily:  the need to support different platforms across the Web, desktop and mobile devices.  Imagine if you could build your app once and have it scale across all of these platforms using nothing more than HTML, JavaScript and CSS.  That is the promise of the Web and promise we are working to meet.

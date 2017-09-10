@@ -6,7 +6,11 @@ hash: 7390a6155d7f781e52579d1792dacdc2
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
+
 ---
 
 CNBC.com will syndicate news stories and video on Yahoo (NSDQ: YHOO) Finance, reflecting the cable news channel's push to broaden the online reach for its content. In addition to its U.S. coverage, the deal is CNBC's first global agreement and includes content produced by its CNBC Asia and CNBC Europe units. Yahoo Finance will have access to segments from the cable channel's programming, such as Mad Money with Jim Cramer and Fast Money.

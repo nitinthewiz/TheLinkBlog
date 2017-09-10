@@ -6,7 +6,11 @@ hash: f181fa1df093901869b38bd6ce21aa10
 annum:
     year: 2012
     month: 05
-hostname: www.eventbrite.com
+url-parts:
+    scheme: https
+    host: www.eventbrite.com
+    path: /e/kidscodecamp-minneapolis-tickets-3042364795
+
 ---
 
 This is a great idea and hope to see more of it.

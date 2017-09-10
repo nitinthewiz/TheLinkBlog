@@ -6,7 +6,11 @@ hash: 53c41c5460372fddb62b3cbcd4cf25c8
 annum:
     year: 2008
     month: 07
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2008/07/30/cst-mlr/
+
 ---
 
 CentralStandardTech, a site tended by Minnesota geek Luke Francl (yes, that Luke from Minnebar and Minnedemo fame), is one I frequent to stay appraised of all things tech in our State and is in my #1 folder of feeds in my RSS reader.

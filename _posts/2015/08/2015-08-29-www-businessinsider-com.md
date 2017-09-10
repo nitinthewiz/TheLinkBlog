@@ -6,7 +6,11 @@ hash: 39fb369c9be42e736eda7564b8c3dd87
 annum:
     year: 2015
     month: 08
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /vmware-ceo-pat-gelsinger-how-tech-companies-abuse-workers-2015-8
+
 ---
 
 

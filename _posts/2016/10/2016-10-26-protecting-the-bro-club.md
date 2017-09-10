@@ -6,7 +6,11 @@ hash: 37bda03c0508a15c7ce8612b3a808fe6
 annum:
     year: 2016
     month: 10
-hostname: modelviewculture.com
+url-parts:
+    scheme: https
+    host: modelviewculture.com
+    path: /pieces/protecting-the-bro-club-sacrificing-women-keeping-the-bullies-at-tech-companies
+
 ---
 
 

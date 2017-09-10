@@ -6,7 +6,11 @@ hash: 4361a4f484a7c18127ead1b160eddecf
 annum:
     year: 2011
     month: 10
-hostname: www.unlimitednovelty.com
+url-parts:
+    scheme: http
+    host: www.unlimitednovelty.com
+    path: /2011/10/nodejs-has-jumped-shark.html
+
 ---
 
 Node.js has jumped the shark

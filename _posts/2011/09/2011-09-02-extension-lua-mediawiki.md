@@ -6,7 +6,11 @@ hash: 07625bd10311f71bbda43e1c74b06fd3
 annum:
     year: 2011
     month: 09
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:Lua
+
 ---
 
 

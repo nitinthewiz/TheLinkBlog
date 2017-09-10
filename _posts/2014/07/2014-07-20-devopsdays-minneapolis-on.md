@@ -6,7 +6,11 @@ hash: f64abebd2d0c636ef31e617120c1f3db
 annum:
     year: 2014
     month: 07
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /101193187
+
 ---
 
 Whoo! The awesome keynote for #devopsdays from @sascha_d  

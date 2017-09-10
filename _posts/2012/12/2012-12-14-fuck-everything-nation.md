@@ -6,7 +6,11 @@ hash: e08a611b404524623eb5b40f95dc8842
 annum:
     year: 2012
     month: 12
-hostname: www.theonion.com
+url-parts:
+    scheme: http
+    host: www.theonion.com
+    path: /articles/fuck-everything-nation-reports%2C30743/
+
 ---
 
 Pretty much captures it.

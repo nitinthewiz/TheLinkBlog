@@ -6,7 +6,11 @@ hash: a66575dd51e3b11456efbb9699de1fd2
 annum:
     year: 2015
     month: 04
-hostname: healthysleep.med.harvard.edu
+url-parts:
+    scheme: http
+    host: healthysleep.med.harvard.edu
+    path: /
+
 ---
 
 

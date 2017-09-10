@@ -6,7 +6,11 @@ hash: 7b6bdcadf03392221979b5a4945ddead
 annum:
     year: 2010
     month: 11
-hostname: avc.com
+url-parts:
+    scheme: http
+    host: avc.com
+    path: /2010/11/web2-interview-with-john-and-john/
+
 ---
 
 This was a lot of fun. I got to share the stage with John Doerr, someone I've admired and respected for many years, and John Heilemann, who never ceases to entertain and educate me.

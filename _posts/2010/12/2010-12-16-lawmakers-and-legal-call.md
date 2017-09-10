@@ -6,7 +6,11 @@ hash: f52d6b0667a4ab715ad23a558a9e6c4f
 annum:
     year: 2010
     month: 12
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2010/12/lawmakers-and-legal-experts-call-for-restraint
+
 ---
 
 Major themes of congressional hearing on #wikileaks: free speech, excessive secrecy, restraint  #WLHearing

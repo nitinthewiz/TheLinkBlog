@@ -6,7 +6,11 @@ hash: 5283b46f674cb477e0044ca90f0df362
 annum:
     year: 2010
     month: 12
-hostname: bylr.net
+url-parts:
+    scheme: http
+    host: bylr.net
+    path: /files/omnifocus/
+
 ---
 
 

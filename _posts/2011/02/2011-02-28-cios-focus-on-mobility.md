@@ -6,7 +6,11 @@ hash: d63018fc7807e7a8b24893d1e045c3d3
 annum:
     year: 2011
     month: 02
-hostname: blog.tridentcap.com
+url-parts:
+    scheme: http
+    host: blog.tridentcap.com
+    path: /2011/02/cios-focus-on-mobility-cloud-computing-security-and-innovation.html
+
 ---
 
 

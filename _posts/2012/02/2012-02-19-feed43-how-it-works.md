@@ -6,7 +6,11 @@ hash: 94a7e1a17e5038e70cb6162e5845f7cd
 annum:
     year: 2012
     month: 02
-hostname: www.feed43.com
+url-parts:
+    scheme: http
+    host: www.feed43.com
+    path: /how-it-works.html
+
 ---
 
 

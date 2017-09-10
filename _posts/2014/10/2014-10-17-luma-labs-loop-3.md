@@ -6,7 +6,11 @@ hash: 311eaa857863dadf671c1919f4f4e377
 annum:
     year: 2014
     month: 10
-hostname: www.luma-labs.com
+url-parts:
+    scheme: http
+    host: www.luma-labs.com
+    path: /pages/loop
+
 ---
 
 We’ve combined our trademark shoulder leather pad and our quick adjust sliders from the Cinch with an all new offset camera mount. The result is the most stable carry a sling can provide.

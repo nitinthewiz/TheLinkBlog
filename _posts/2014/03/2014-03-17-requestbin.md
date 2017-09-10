@@ -6,7 +6,11 @@ hash: 63e4f187a8e9cf521356349c927d59cd
 annum:
     year: 2014
     month: 03
-hostname: requestb.in
+url-parts:
+    scheme: http
+    host: requestb.in
+    path: /
+
 ---
 
 RequestBin gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way.

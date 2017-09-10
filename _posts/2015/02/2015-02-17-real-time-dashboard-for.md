@@ -6,7 +6,11 @@ hash: e0071812701289bca405c7f440bbf8e0
 annum:
     year: 2015
     month: 02
-hostname: flowingdata.com
+url-parts:
+    scheme: http
+    host: flowingdata.com
+    path: /2015/02/16/real-time-dashboard-for-office-plumbing/
+
 ---
 
 

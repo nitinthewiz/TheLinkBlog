@@ -6,7 +6,11 @@ hash: 5a1b6ef15a2f7daa0062851feb32ffbf
 annum:
     year: 2010
     month: 09
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /mvaw0p
+
 ---
 
 After several hours of work from the installers I'm back in business with home audio!  

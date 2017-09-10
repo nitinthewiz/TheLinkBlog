@@ -6,7 +6,11 @@ hash: c5f3fb472c38815ab8dfb4db91e55048
 annum:
     year: 2012
     month: 09
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /26880424
+
 ---
 
 This is a compilation of my best timelapses taken during my month in Iceland. 

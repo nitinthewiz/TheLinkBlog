@@ -6,7 +6,11 @@ hash: e1792dbd01a2ce7ffb18a481dbbbcd64
 annum:
     year: 2017
     month: 04
-hostname: hbr.org
+url-parts:
+    scheme: https
+    host: hbr.org
+    path: /2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
+
 ---
 
 Overall, our results showed that, while real-world social networks were positively associated with overall well-being, the use of Facebook was negatively associated with overall well-being. These results were particularly strong for mental health; most measures of Facebook use in one year predicted a decrease in mental health in a later year. We found consistently that both liking others’ content and clicking links significantly predicted a subsequent reduction in self-reported physical health, mental health, and life satisfaction.

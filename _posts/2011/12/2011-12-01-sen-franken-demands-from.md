@@ -6,7 +6,11 @@ hash: c7cce05ea177090f253f3d4a5a320780
 annum:
     year: 2011
     month: 12
-hostname: www.alfranken.com
+url-parts:
+    scheme: http
+    host: www.alfranken.com
+    path: /2011/12/01/ars-technica-sen-franken-demands-answers-from-carrier-iq-suggests-phone-snooping-violates-federal-law/
+
 ---
 
 Happy to see our Senator pursuing this.

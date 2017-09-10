@@ -6,7 +6,11 @@ hash: 8322b7199ee8ea86f3082ca22711bf8f
 annum:
     year: 2013
     month: 04
-hostname: www.ivanteoh.com
+url-parts:
+    scheme: http
+    host: www.ivanteoh.com
+    path: /posts/176-d3-tutorial-scale-graph/
+
 ---
 
 This tutorial were going to create a basic dot graph with scalable y-axis. It is adapted from one of the examples in D3, dot.html.

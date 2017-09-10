@@ -6,7 +6,11 @@ hash: 801fe2f89f34796edfc36f40185df9b8
 annum:
     year: 2010
     month: 10
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2010/10/device-update-analyzing-the-pu.html
+
 ---
 
 In a recent article in the Financial Times, HarperCollins Publishers announced that it had sold more ebook copies than hardcover copies of Laura Lippman's latest thriller "I'd Know You Anywhere."

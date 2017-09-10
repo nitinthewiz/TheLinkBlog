@@ -6,7 +6,11 @@ hash: bb53da232030edc56d39f3412f0ef779
 annum:
     year: 2017
     month: 05
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/shadowing-customer-support/
+
 ---
 
 

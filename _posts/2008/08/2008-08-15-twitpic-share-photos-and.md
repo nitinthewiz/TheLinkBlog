@@ -6,7 +6,11 @@ hash: ebf35783774e69eaa6bf67f9f0cc4cdf
 annum:
     year: 2008
     month: 08
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /7ps8
+
 ---
 
 Coloring books for Mazie  

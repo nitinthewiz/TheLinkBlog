@@ -6,7 +6,11 @@ hash: 4ce2f5299139dfd232d8461aa3ad10b6
 annum:
     year: 2013
     month: 06
-hostname: www.danpink.com
+url-parts:
+    scheme: http
+    host: www.danpink.com
+    path: /2013/05/the-6-essential-lessons-of-a-satisfying-productive-career/
+
 ---
 
 

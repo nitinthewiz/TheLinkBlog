@@ -6,7 +6,11 @@ hash: 84744a053855935342dafa5acda6413f
 annum:
     year: 2015
     month: 06
-hostname: www.williamhertling.com
+url-parts:
+    scheme: http
+    host: www.williamhertling.com
+    path: /books/
+
 ---
 
 

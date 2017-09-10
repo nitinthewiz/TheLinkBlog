@@ -6,7 +6,13 @@ hash: af8d751ba432172f4ccc8f1f424edbec
 annum:
     year: 2010
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "H7QVITAWdBQ"
+        has_verified: "1"
 ---
 
 Dangerously Funny Trailer "Microsoft .NET vs Java" This Is For You IT Tech Geeks Out There...A Little Nerd Humor. (by Dylin Prestly)

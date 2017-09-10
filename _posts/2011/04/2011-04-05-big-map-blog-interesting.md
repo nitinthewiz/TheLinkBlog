@@ -6,7 +6,11 @@ hash: 6edd0abaed1b43c224651ba2ca56e6dc
 annum:
     year: 2011
     month: 04
-hostname: www.bigmapblog.com
+url-parts:
+    scheme: http
+    host: www.bigmapblog.com
+    path: /
+
 ---
 
 

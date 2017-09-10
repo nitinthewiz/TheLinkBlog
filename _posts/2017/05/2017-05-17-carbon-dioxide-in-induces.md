@@ -6,7 +6,11 @@ hash: 0750eb26672b23bd188116771c934cff
 annum:
     year: 2017
     month: 05
-hostname: www.ncbi.nlm.nih.gov
+url-parts:
+    scheme: https
+    host: www.ncbi.nlm.nih.gov
+    path: /pubmed/28228348
+
 ---
 
 You gotta be kidding me! I love my charged water (no flavor, no sugar, just water). 

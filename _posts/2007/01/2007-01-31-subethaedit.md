@@ -6,7 +6,11 @@ hash: e63b7181a549bbbda057185001375791
 annum:
     year: 2007
     month: 01
-hostname: www.codingmonkeys.de
+url-parts:
+    scheme: http
+    host: www.codingmonkeys.de
+    path: /subethaedit/index.html
+
 ---
 
 SubEthaEdit is a powerful and lean text editor. And it's the only collaborative one you can actually use. By combining the ease of Bonjour with the world's best text collaboration engine, it makes working together not only possible but even fun…

@@ -6,7 +6,11 @@ hash: b0412e8c38637dfd6bfc57a237f5e525
 annum:
     year: 2014
     month: 12
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/creatingflow2
+
 ---
 
 

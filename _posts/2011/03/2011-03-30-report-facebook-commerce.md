@@ -6,7 +6,11 @@ hash: adaee7c62c4080e6a70d23a4d28b3630
 annum:
     year: 2011
     month: 03
-hostname: www.allfacebook.com
+url-parts:
+    scheme: http
+    host: www.allfacebook.com
+    path: /report-facebook-commerce-will-rise-sixfold-by-2015-2011-03
+
 ---
 
 

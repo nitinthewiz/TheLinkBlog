@@ -6,7 +6,11 @@ hash: 4e6363e13cb9f69d5fb923ee3e06695f
 annum:
     year: 2011
     month: 10
-hostname: www.rocketcharts.com
+url-parts:
+    scheme: http
+    host: www.rocketcharts.com
+    path: /
+
 ---
 
 

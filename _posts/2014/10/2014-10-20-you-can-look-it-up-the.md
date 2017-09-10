@@ -6,7 +6,11 @@ hash: 707c6984d517ea184db1f81fa0bde0b9
 annum:
     year: 2014
     month: 10
-hostname: www.thedailybeast.com
+url-parts:
+    scheme: http
+    host: www.thedailybeast.com
+    path: /articles/2014/10/19/you-can-look-it-up-the-wikipedia-story.html
+
 ---
 
 In an excerpt from his new book, ‘The Innovators,’ Walter Isaacson recounts the improbable story of the online encyclopedia that has proven its detractors wrong time and again.

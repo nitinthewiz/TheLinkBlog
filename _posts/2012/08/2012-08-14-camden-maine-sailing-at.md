@@ -6,7 +6,11 @@ hash: b0d4d35ffb1bb2276b72b2a15ac7e7fb
 annum:
     year: 2012
     month: 08
-hostname: www.maineschooners.com
+url-parts:
+    scheme: http
+    host: www.maineschooners.com
+    path: /
+
 ---
 
 Schooner tour we booked for our trip in Camden. Recommended by Paul.

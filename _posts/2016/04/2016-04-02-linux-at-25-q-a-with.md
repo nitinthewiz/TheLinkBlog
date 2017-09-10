@@ -6,7 +6,11 @@ hash: 1b51faeec35b7a5b816ff18cbf3ada51
 annum:
     year: 2016
     month: 04
-hostname: spectrum.ieee.org
+url-parts:
+    scheme: http
+    host: spectrum.ieee.org
+    path: /computing/software/linux-at-25-qa-with-linus-torvalds
+
 ---
 
 The creator of the open-source operating system talks about its past, present, and future.

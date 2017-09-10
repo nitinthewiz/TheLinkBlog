@@ -6,7 +6,11 @@ hash: 516b15f74084a1b54af5c42a88f72880
 annum:
     year: 2015
     month: 04
-hostname: boltons.readthedocs.org
+url-parts:
+    scheme: https
+    host: boltons.readthedocs.org
+    path: /en/latest/
+
 ---
 
 Boltons is a set of pure-Python utilities in the same spirit as — and yet conspicuously missing from — the the standard library

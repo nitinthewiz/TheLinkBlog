@@ -6,7 +6,12 @@ hash: 05c24468769dcc8bfca8c9064b08860e
 annum:
     year: 2013
     month: 08
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "8sY-qwEYjs0"
 ---
 
 Great talk "What You're Really Meant to Do" 

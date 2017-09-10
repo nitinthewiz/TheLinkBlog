@@ -6,7 +6,11 @@ hash: 8d73257e3ce6ab741da6c75a3f3ca28b
 annum:
     year: 2010
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /collaboration/gantt-pert-or-task-calendar-which-scheduling-model-is-best-for-your-project/
+
 ---
 
 With a new year comes new projects, and with new projects comes plans to execute them. These plans may work — or not. The key is to find the right model, or combination of models, that can help you schedule your projects more effectively. Here are three of the more common models.

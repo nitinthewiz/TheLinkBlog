@@ -6,7 +6,11 @@ hash: f4240734980fe3c568de7a7fae5d741a
 annum:
     year: 2010
     month: 08
-hostname: www.dslrnewsshooter.com
+url-parts:
+    scheme: http
+    host: www.dslrnewsshooter.com
+    path: /2010/08/24/the-naked-truth-a-5dmkii-report-by-afps-ed-jones-on-the-first-3d-porn-movie/
+
 ---
 
 There’s rarely any planning when I shoot video – the fleeting nature of the news and feature stories I cover doesn’t tend to allow for it. That was certainly the case when I wound up on the set of a 3D porn movie recently. 

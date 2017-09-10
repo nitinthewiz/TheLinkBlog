@@ -6,7 +6,11 @@ hash: e15e80c516bafb0d1aac0639bfa3619f
 annum:
     year: 2007
     month: 12
-hostname: www.ccpdt.org
+url-parts:
+    scheme: http
+    host: www.ccpdt.org
+    path: /
+
 ---
 
 Has listings of certified trainers by state

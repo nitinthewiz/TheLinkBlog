@@ -6,7 +6,11 @@ hash: 2ebf539c3218dc7e5725ebd182e8cc8c
 annum:
     year: 2014
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2014/06/26/man-runs-telnet-bbs-on-an-apple-iie-using-raspberry-pi-because/
+
 ---
 
 Man runs Telnet BBS on an Apple IIe using Raspberry Pi because he can 

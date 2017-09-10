@@ -6,7 +6,11 @@ hash: 4c35e9f5b2dd5703d8f111aeee990240
 annum:
     year: 2010
     month: 11
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2010/11/09/mike-derheim-ceo-sierra-bravo-nerdery-interactive-labs/
+
 ---
 
 By Mike Derheim, Sierra Bravo / Nerdery Interactive Labs

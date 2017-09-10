@@ -6,7 +6,11 @@ hash: a210902a355e5c3cf1c853f959207742
 annum:
     year: 2017
     month: 09
-hostname: www.inc.com
+url-parts:
+    scheme: https
+    host: www.inc.com
+    path: /justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html
+
 ---
 
 Love and strongly agree with the directness of this message that Musk sent to the Tesla team.

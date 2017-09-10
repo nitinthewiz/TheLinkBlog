@@ -6,7 +6,11 @@ hash: 04292b39fe82ad159ec7b0206a3a5ebf
 annum:
     year: 2015
     month: 04
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/usman_riaz_and_preston_reed_a_young_guitarist_meets_his_hero
+
 ---
 
 Amazing. 

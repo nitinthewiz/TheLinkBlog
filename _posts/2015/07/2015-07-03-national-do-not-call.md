@@ -6,7 +6,11 @@ hash: 9e330b20d3208a76edb0290e9c84dd03
 annum:
     year: 2015
     month: 07
-hostname: donotcall.gov
+url-parts:
+    scheme: https
+    host: donotcall.gov
+    path: /
+
 ---
 
 

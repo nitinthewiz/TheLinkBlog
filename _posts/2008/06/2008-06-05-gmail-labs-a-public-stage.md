@@ -6,7 +6,11 @@ hash: 603e0e082b73cbfa15eec9859fa6bcdc
 annum:
     year: 2008
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/06/05/gmail-labs-a-public-stage-for-googlers-20-time/
+
 ---
 
 Google invited members of the press to its main campus in Mountain View today to unveil Gmail Labs.

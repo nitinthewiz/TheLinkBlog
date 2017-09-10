@@ -6,7 +6,11 @@ hash: cce192784938221d5b3ed6e8be155a8d
 annum:
     year: 2012
     month: 11
-hostname: wallofaweso.me
+url-parts:
+    scheme: http
+    host: wallofaweso.me
+    path: /
+
 ---
 
 This idea has been done a few ways, but the email centric model being used here is interesting and fits with existing email workflow really easily.

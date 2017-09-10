@@ -6,7 +6,11 @@ hash: 204cfa3571dc49047c9d07f2aaa61cc9
 annum:
     year: 2012
     month: 09
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2012/09/17/fox-5-new-york-gets-suckered-by-iphone-5-concept-video/
+
 ---
 
 Laser keyboard? duh!

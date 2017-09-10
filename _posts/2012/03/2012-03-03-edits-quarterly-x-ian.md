@@ -6,7 +6,11 @@ hash: 642989e89d2207a747453fcff4f5fd7f
 annum:
     year: 2012
     month: 03
-hostname: editsquarterly.com
+url-parts:
+    scheme: http
+    host: editsquarterly.com
+    path: /
+
 ---
 
 

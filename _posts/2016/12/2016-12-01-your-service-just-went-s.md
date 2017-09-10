@@ -6,7 +6,11 @@ hash: 288d4d01b064ebc324fffb628e2706fa
 annum:
     year: 2016
     month: 12
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/your-service-just-went-down-heres-what-you-do-next
+
 ---
 
 

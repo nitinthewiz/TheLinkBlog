@@ -6,7 +6,11 @@ hash: eeb943d55597237c3ff5a48bb1c183a8
 annum:
     year: 2009
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2009/11/29/android-app-developers-not-happy/
+
 ---
 
 IMPORTANT POINTSThe design of the Android Marketplace makes it difficult for apps to be noticed.

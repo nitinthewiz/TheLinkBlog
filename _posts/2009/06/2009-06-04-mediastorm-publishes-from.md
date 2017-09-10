@@ -6,7 +6,12 @@ hash: abcb6a0d35fa27ec5c5c05e53bb22b4d
 annum:
     year: 2009
     month: 06
-hostname: mediastorm.org
+url-parts:
+    scheme: http
+    host: mediastorm.org
+    path: /blog/
+    query:
+        p: "1044"
 ---
 
 

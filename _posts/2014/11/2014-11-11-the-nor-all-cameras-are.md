@@ -6,7 +6,11 @@ hash: 1ce8354b30b11e8ed3523768692011f9
 annum:
     year: 2014
     month: 11
-hostname: shorttermmemoryloss.com
+url-parts:
+    scheme: http
+    host: shorttermmemoryloss.com
+    path: /nor/2014/11/07/all-cameras-are-police-cameras/
+
 ---
 
 

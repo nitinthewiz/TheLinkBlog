@@ -6,7 +6,11 @@ hash: 0222b68809583b7e9cec3ffdbc3043b6
 annum:
     year: 2012
     month: 10
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Manual:%24wgResponsiveImages
+
 ---
 
 I went searching to see what plans if any MediaWiki had for High-DPI images. Low and behold, 1.21 (not released) adds a setting for this! Nice!

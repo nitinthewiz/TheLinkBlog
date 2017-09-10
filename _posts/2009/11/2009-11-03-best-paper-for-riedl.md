@@ -6,7 +6,12 @@ hash: ffe87af9729cdd06aa90f5cd0917591e
 annum:
     year: 2009
     month: 11
-hostname: www.cs.umn.edu
+url-parts:
+    scheme: http
+    host: www.cs.umn.edu
+    path: /news/news.php
+    query:
+        id: "911"
 ---
 
 

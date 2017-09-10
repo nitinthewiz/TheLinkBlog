@@ -6,7 +6,12 @@ hash: 48a78a327e26d9717531623cbd54294d
 annum:
     year: 2005
     month: 12
-hostname: www.corel.com
+url-parts:
+    scheme: http
+    host: www.corel.com
+    path: /corel/pages/index.jsp
+    query:
+        pgid: "12800164"
 ---
 
 

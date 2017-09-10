@@ -6,7 +6,11 @@ hash: fca2b6953dbc570445fe5fce305fa66c
 annum:
     year: 2017
     month: 01
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /target-makes-big-push-into-soccer-marketing/411148435/
+
 ---
 
 Minnesota United coach Adrian Heath, left and Sporting Director Manny Lagos. In a multipronged partnership, Target will announce Thursday that it has signed a three-year deal to be an official partner of Major League Soccer; will be a major sponsor of the local team, whose players will soon sport the company’s trademark bullseye on its jerseys, and will be the official retailer for U.S. Youth Soccer.

@@ -6,7 +6,11 @@ hash: 23a2142b38b460b33730834b33f2d305
 annum:
     year: 2010
     month: 12
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2010/12/breaking-news-eff-victory-appeals-court-holds
+
 ---
 
 Breaking News on EFF Victory: Appeals Court Holds that Email Privacy Protected by Fourth Amendment 

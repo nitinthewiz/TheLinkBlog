@@ -6,7 +6,11 @@ hash: 8463c6858d5aa01b07531bffcb70ccf0
 annum:
     year: 2016
     month: 01
-hostname: gtdforcios.com
+url-parts:
+    scheme: http
+    host: gtdforcios.com
+    path: /2015/12/31/dont-make-new-years-resolutions/
+
 ---
 
 Don’t make New Year’s Resolutions. Do a Year-End Review instead.

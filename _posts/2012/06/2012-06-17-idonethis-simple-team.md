@@ -6,7 +6,11 @@ hash: 2728ee5acda3192a875f40e127c51323
 annum:
     year: 2012
     month: 06
-hostname: idonethis.com
+url-parts:
+    scheme: https
+    host: idonethis.com
+    path: //
+
 ---
 
 Reply to an evening email reminder with what you did that day. The next day, get a digest with what everyone on the team got done.

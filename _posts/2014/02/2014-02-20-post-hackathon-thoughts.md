@@ -6,7 +6,11 @@ hash: 2d5d6aa0cc25875e9eb1fb1d4552e100
 annum:
     year: 2014
     month: 02
-hostname: wikiworks.com
+url-parts:
+    scheme: http
+    host: wikiworks.com
+    path: /blog/2014/02/20/post-hackathon-thoughts/
+
 ---
 
 Thoughts on the first-ever enterprise MediaWiki hackathon: 

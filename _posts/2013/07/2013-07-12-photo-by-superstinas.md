@@ -6,7 +6,11 @@ hash: 79ee4dae0ce3d938b8b20b3eba9c3942
 annum:
     year: 2013
     month: 07
-hostname: instagram.com
+url-parts:
+    scheme: http
+    host: instagram.com
+    path: /p/bq1Pdsgs5t/
+
 ---
 
 Hittade mini-kubb på lilla loppisen i Vibble :) TAGET! :D #loppis #kubb #vibble #gotland @ Vibble ICA 

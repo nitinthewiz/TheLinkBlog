@@ -6,7 +6,11 @@ hash: 99a22c6d3c8a0dbb5df91b2af4968e78
 annum:
     year: 2009
     month: 05
-hostname: diametunim.com
+url-parts:
+    scheme: http
+    host: diametunim.com
+    path: /shashi/nyc_subways/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4844abb7a9d4a029190cbababa209ebf
 annum:
     year: 2010
     month: 11
-hostname: www.8thBridge.com
+url-parts:
+    scheme: http
+    host: www.8thBridge.com
+    path: /our-blog/going-beyond-the-inbox-with-social-commerce/
+
 ---
 
 RT @Alvenda: Going Beyond the Inbox with Social Commerce 

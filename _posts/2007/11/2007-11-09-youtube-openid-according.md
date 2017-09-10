@@ -6,7 +6,12 @@ hash: 58b624e823b605d19011e89d3852bff8
 annum:
     year: 2007
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "xcmY8Pk-qEk"
 ---
 
 A short video explaining OpenID, brought to you by myVidoop.com

@@ -6,7 +6,11 @@ hash: 8253c01f5d16d4a760e7488ff1a3f286
 annum:
     year: 2009
     month: 12
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /t4vlk
+
 ---
 
 Lusting over new espresso machine.   

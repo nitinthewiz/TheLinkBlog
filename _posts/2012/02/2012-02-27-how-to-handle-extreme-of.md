@@ -6,7 +6,11 @@ hash: f6e3c746c0b57815335321a4cf6be29e
 annum:
     year: 2012
     month: 02
-hostname: forum.piwik.org
+url-parts:
+    scheme: http
+    host: forum.piwik.org
+    path: /read.php
+    query:
 ---
 
 How to handle extreme peaks of traffic with Piwik? Presentation 

@@ -6,7 +6,11 @@ hash: 11cdd7d4a5830f54c288e315b64f187f
 annum:
     year: 2010
     month: 11
-hostname: www.git-tower.com
+url-parts:
+    scheme: http
+    host: www.git-tower.com
+    path: /
+
 ---
 
 

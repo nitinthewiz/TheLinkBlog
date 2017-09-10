@@ -6,7 +6,11 @@ hash: 53674b26a542fec9b6659eccb5bce1b0
 annum:
     year: 2014
     month: 12
-hostname: dropcases.com
+url-parts:
+    scheme: http
+    host: dropcases.com
+    path: /
+
 ---
 
 German made cases for Dropcam cameras

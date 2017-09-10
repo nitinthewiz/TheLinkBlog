@@ -6,7 +6,11 @@ hash: eb9b3359a121cc19729001da7a389fa8
 annum:
     year: 2006
     month: 03
-hostname: www.optoutprescreen.com
+url-parts:
+    scheme: https
+    host: www.optoutprescreen.com
+    path: /
+
 ---
 
 

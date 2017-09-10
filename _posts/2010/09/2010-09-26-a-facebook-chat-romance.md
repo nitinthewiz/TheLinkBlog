@@ -6,7 +6,11 @@ hash: 2faad3a929fdc6c70af583733b0ec839
 annum:
     year: 2010
     month: 09
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /watch-a-facebook-chat-romance-that-wasnt_b19407
+
 ---
 
 This morning I stumbled upon a little clip that shows how some peoples chat messages really happen.  While chat has become a tool for flirting and romance in general, sometimes things just dont work out the way they should.  Check out the entertaining Facebook chat clip below.

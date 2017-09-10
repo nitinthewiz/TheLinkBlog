@@ -6,7 +6,11 @@ hash: f92d6f752039ce091ba63f6641e8f8a7
 annum:
     year: 2010
     month: 12
-hostname: minnesotabusiness.com
+url-parts:
+    scheme: http
+    host: minnesotabusiness.com
+    path: /minnesota-business-encyclopedia-2010
+
 ---
 
 A look at 142 of the most notable people, places, companies, topics and trends affecting the greater Minnesota business community this year.

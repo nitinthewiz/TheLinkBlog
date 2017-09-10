@@ -6,7 +6,11 @@ hash: 013ebce5db4cb19ee0c7803fef17a563
 annum:
     year: 2009
     month: 08
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2009/09/17/snow-leopard-sales-roaring-outsell-tiger-and-leopard-upgrades/
+
 ---
 
 A few readers have mentioned that their Snow Leopard shipments have been locked in and are still expected to arrive on August 28th.  They can no longer make changes to the order.

@@ -6,7 +6,11 @@ hash: 15f989003b1e464c8714335f6de6c548
 annum:
     year: 2008
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/06/12/facebook-no-longer-the-second-largest-social-network/
+
 ---
 
 It was sort of inevitable given Facebooks monster growth over the last few years, but April 2008 was the milestone: Facebook officially caught up to MySpace in terms of unique monthly worldwide visitors, according to data released by Comscore and shown above. Both services are attracting around 115 million people to their respective sites each month.

@@ -6,7 +6,11 @@ hash: 4dcaeba3900cf712eb5f371acdcf0128
 annum:
     year: 2014
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2014/10/15/arts/television/pbss-how-we-got-to-now-with-steven-johnson.html
+
 ---
 
 This looks like a good show to watch.

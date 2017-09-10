@@ -6,7 +6,11 @@ hash: 98741d62dafa46e1a4412c8327b71fea
 annum:
     year: 2010
     month: 10
-hostname: konstellations.kernest.com
+url-parts:
+    scheme: http
+    host: konstellations.kernest.com
+    path: 
+
 ---
 
 I signed up last night! -- Introducing Kernest Konstellations  (via @kernest)

@@ -6,7 +6,11 @@ hash: 89d1414cbd2535b3f5d618cc5f6c4bbd
 annum:
     year: 2017
     month: 06
-hostname: blog.intercom.com
+url-parts:
+    scheme: https
+    host: blog.intercom.com
+    path: /what-to-do-when-your-startup-needs-program-management/
+
 ---
 
 This is an interesting topic and good article. On top of it though it is from Intercom and I have been immensely impressed with their product. The driver, approver, contributor and informed (DACI) is an interesting model I hadn't seen before.

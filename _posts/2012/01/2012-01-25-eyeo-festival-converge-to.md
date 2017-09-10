@@ -6,7 +6,11 @@ hash: 63893bda6a399d5fcf7d41734767028c
 annum:
     year: 2012
     month: 01
-hostname: eyeofestival.com
+url-parts:
+    scheme: http
+    host: eyeofestival.com
+    path: /
+
 ---
 
 Expect lectures, conversations and workshops with some of the most fascinating minds and makers today.

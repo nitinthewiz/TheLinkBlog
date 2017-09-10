@@ -6,7 +6,11 @@ hash: 364e300d4b9c8c66f839937cc37ee3ab
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /43ko
+
 ---
 
 Playing with Mazie. 

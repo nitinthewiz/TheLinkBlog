@@ -6,7 +6,11 @@ hash: 0f51360d6abdc03895457e28fbc33f2c
 annum:
     year: 2012
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /bartaz/impress.js
+
 ---
 
 It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.

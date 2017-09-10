@@ -6,7 +6,11 @@ hash: 12f32a10f1cb9ea77300212b158b064b
 annum:
     year: 2011
     month: 04
-hostname: www.gyford.com
+url-parts:
+    scheme: http
+    host: www.gyford.com
+    path: /phil/writing/2011/04/13/pepys-presentation.php
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 403a0d7793d176f5de598eefe3188190
 annum:
     year: 2010
     month: 01
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /news-corps-sky-news-is-making-every-journalist-a-twitter-convert-2010-1
+
 ---
 
 

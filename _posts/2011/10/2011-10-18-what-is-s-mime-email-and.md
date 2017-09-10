@@ -6,7 +6,11 @@ hash: 5b0d3c9b20f30aa353e10b987756dfdb
 annum:
     year: 2011
     month: 10
-hostname: www.justinrummel.com
+url-parts:
+    scheme: http
+    host: www.justinrummel.com
+    path: /what-is-smime-email-and-why-should-i-be-using-it/
+
 ---
 
 

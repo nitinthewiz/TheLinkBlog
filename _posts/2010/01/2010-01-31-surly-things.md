@@ -6,7 +6,14 @@ hash: d6e39eee4699cefb467cc69fbc6b2ca3
 annum:
     year: 2010
     month: 01
-hostname: things.thingelstad.com
+url-parts:
+    scheme: http
+    host: things.thingelstad.com
+    path: /
+    query:
+        p: "154556602"
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Thing: Surly: 

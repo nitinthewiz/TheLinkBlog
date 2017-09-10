@@ -6,7 +6,11 @@ hash: 70e4d5e8c3116423a86b79c9871e5085
 annum:
     year: 2007
     month: 12
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /arts-culture/2007/12/guatemala-no-paradise-women-and-girls
+
 ---
 
 At a time when the most fortunate of us are preparing for holiday vacations, a new documentary reveals Guatemala as a hot spot of another sort  for serial killers of women and girls.

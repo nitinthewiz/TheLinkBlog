@@ -6,7 +6,11 @@ hash: a47fee896e7fbe0b27192732909fdf84
 annum:
     year: 2006
     month: 09
-hostname: online.wsj.com
+url-parts:
+    scheme: http
+    host: online.wsj.com
+    path: /public/page/news-career-jobs.html
+
 ---
 
 What's the difference between a professional and an executive's resume? For starters, executive presentations can be longer.

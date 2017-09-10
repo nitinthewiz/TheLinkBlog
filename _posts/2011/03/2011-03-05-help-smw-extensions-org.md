@@ -6,7 +6,11 @@ hash: 74becffbfee05014456410100c254ba7
 annum:
     year: 2011
     month: 03
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/Help:SMW_extensions
+
 ---
 
 

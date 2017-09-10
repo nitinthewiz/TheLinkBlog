@@ -6,7 +6,12 @@ hash: 81a59257dfa444fcffb925969daf2407
 annum:
     year: 2013
     month: 04
-hostname: news.ycombinator.com
+url-parts:
+    scheme: https
+    host: news.ycombinator.com
+    path: /item
+    query:
+        id: "5630618"
 ---
 
 Very insightful comment (and slightly less insightful replies) about the root of burnout. It makes a lot of sense and should be obvious, but isn't at all. I can easily see how this would be backed up by many of the neuro books I've read.

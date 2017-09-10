@@ -6,7 +6,11 @@ hash: be2f1331f1595dad90ef5e3914078fde
 annum:
     year: 2007
     month: 02
-hostname: islayer.com
+url-parts:
+    scheme: http
+    host: islayer.com
+    path: /apps/ilovelamp/
+
 ---
 
 Bring the 60s to your dashboard with I Love Lamp, a lava lamp widget.

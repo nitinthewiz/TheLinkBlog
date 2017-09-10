@@ -6,7 +6,12 @@ hash: 24e52f125de978efdf96b5f1e39f179d
 annum:
     year: 2016
     month: 03
-hostname: blogs.microsoft.com
+url-parts:
+    scheme: http
+    host: blogs.microsoft.com
+    path: /
+    query:
+        p: "67248"
 ---
 
 Today I’m excited to announce our plans to bring SQL Server to Linux as well.

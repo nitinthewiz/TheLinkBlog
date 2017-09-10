@@ -6,7 +6,11 @@ hash: 13406c16ba3f510afb2b5494023e3f82
 annum:
     year: 2011
     month: 10
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /entertainment/archive/2011/10/margin-call-a-financial-crisis-film-thats-on-the-money/247116/
+
 ---
 
 Chandor's film is less a portrait

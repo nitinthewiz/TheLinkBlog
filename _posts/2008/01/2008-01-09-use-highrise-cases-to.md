@@ -6,7 +6,11 @@ hash: ea1350dce2023cd4d007563b30c4303d
 annum:
     year: 2008
     month: 01
-hostname: 37signals.blogs.com
+url-parts:
+    scheme: http
+    host: 37signals.blogs.com
+    path: /products/2008/01/use-highrise-ca.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 81d2e487db96b9126ce5fe728342208b
 annum:
     year: 2011
     month: 12
-hostname: www.osqa.net
+url-parts:
+    scheme: http
+    host: www.osqa.net
+    path: /
+
 ---
 
 

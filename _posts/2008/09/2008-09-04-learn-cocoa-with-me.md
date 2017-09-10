@@ -6,7 +6,11 @@ hash: e37f581fc3c70f1743ac56ab60e3fbaa
 annum:
     year: 2008
     month: 09
-hostname: www.clarkware.com
+url-parts:
+    scheme: http
+    host: www.clarkware.com
+    path: /cgi/blosxom/2008/09/04
+
 ---
 
 

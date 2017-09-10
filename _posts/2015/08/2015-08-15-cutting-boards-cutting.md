@@ -6,7 +6,11 @@ hash: 728853f2a18ca6f700a82e7af3509b62
 annum:
     year: 2015
     month: 08
-hostname: www.larchwoodcanada.com
+url-parts:
+    scheme: http
+    host: www.larchwoodcanada.com
+    path: /
+
 ---
 
 Larch Wood Enterprises Inc. specializes in end grain cutting boards and our craftspeople also love to do custom work such as butcher block or chopping block. Larch Wood is located in East…

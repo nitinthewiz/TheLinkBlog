@@ -6,7 +6,12 @@ hash: fb47a4c754daa3756c30fbadd41cdabc
 annum:
     year: 2008
     month: 11
-hostname: www.portfolio.com
+url-parts:
+    scheme: http
+    host: www.portfolio.com
+    path: /news-markets/national-news/portfolio/2008/11/11/The-End-of-Wall-Streets-Boom
+    query:
+        print: "true"
 ---
 
 

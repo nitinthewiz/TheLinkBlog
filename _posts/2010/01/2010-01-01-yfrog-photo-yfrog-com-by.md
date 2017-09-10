@@ -6,7 +6,11 @@ hash: cd7539fcf321e71d5ec1daebc82640df
 annum:
     year: 2010
     month: 01
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4adboyj
+
 ---
 
 Forgot to include picture. Steaks readying for sear. #biggreenegg 

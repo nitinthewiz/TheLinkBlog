@@ -6,7 +6,11 @@ hash: fc8a866592d1ca413fc4b7f4479dffaa
 annum:
     year: 2009
     month: 02
-hostname: appleinsider.com
+url-parts:
+    scheme: http
+    host: appleinsider.com
+    path: /articles/09/02/25/apple_to_further_polish_leopard_with_10_5_7_update
+
 ---
 
 Apple this week is believed to have tapped its vast developer community to begin testing Mac OS X 10.5.7, a sizable maintenance and security update to the company's Leopard operating system with a particular focus on syncing improvements.

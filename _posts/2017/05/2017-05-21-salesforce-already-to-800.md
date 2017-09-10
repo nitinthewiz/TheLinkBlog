@@ -6,7 +6,11 @@ hash: fe690c87a0ee22d839fb1bddb7613be5
 annum:
     year: 2017
     month: 05
-hostname: www.indystar.com
+url-parts:
+    scheme: http
+    host: www.indystar.com
+    path: /story/money/2017/05/20/salesforce-already-committed-hiring-800-indianapolis-plans-add-500-apprentices/333525001/
+
 ---
 
 

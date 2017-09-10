@@ -6,7 +6,11 @@ hash: 0f7ec55dbe23a307071fe50209d33bf1
 annum:
     year: 2009
     month: 08
-hostname: adactio.com
+url-parts:
+    scheme: http
+    host: adactio.com
+    path: /journal/1600/
+
 ---
 
 Inside the troubled mind of HTML5.

@@ -6,7 +6,11 @@ hash: 75e5392455ca462b3f1b6b6617287529
 annum:
     year: 2011
     month: 09
-hostname: bhorowitz.com
+url-parts:
+    scheme: http
+    host: bhorowitz.com
+    path: /2011/09/08/the-big-data-conundrum/
+
 ---
 
 

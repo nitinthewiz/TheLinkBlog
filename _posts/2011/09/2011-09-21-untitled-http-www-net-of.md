@@ -6,7 +6,11 @@ hash: f9604cab8baa40be0bf82d7324f8339c
 annum:
     year: 2011
     month: 09
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /jiaxinwang/facets-of-applied-smw
+
 ---
 
 My Tutorial slides at #SMWCon Fall 2011 Berlin: Facets of Applied Semantic MediaWiki 

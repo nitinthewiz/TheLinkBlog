@@ -6,7 +6,11 @@ hash: 02711b5289ba0c2473a68a34f1e70a33
 annum:
     year: 2013
     month: 01
-hostname: openweathermap.org
+url-parts:
+    scheme: http
+    host: openweathermap.org
+    path: /Maps
+
 ---
 
 Crowd sourced weather data from personally ran collection stations. Makes a lot of sense.

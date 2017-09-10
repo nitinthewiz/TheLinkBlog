@@ -6,7 +6,11 @@ hash: a9edd84990f172f62993349dd5e7699b
 annum:
     year: 2016
     month: 09
-hostname: cse.umn.edu
+url-parts:
+    scheme: https
+    host: cse.umn.edu
+    path: /news-feature/milinda-rambel-stone-growing-security-needs/
+
 ---
 
 

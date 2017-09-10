@@ -6,7 +6,11 @@ hash: 3af5a46464e1b06543601c61a3bcc935
 annum:
     year: 2011
     month: 03
-hostname: www.scientificamerican.com
+url-parts:
+    scheme: http
+    host: www.scientificamerican.com
+    path: /article/fukushima-core/
+
 ---
 
 RT @PhilipHotchkiss: Nuclear Experts Explain Worst-Case Scenario at Fukushima Power Plant: Scientific ... -  via @sciam

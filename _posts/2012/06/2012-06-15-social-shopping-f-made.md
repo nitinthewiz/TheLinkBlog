@@ -6,7 +6,11 @@ hash: 4df85e72a216b87553cdcb253296df68
 annum:
     year: 2012
     month: 06
-hostname: www.smallbiztechnology.com
+url-parts:
+    scheme: http
+    host: www.smallbiztechnology.com
+    path: /archive/2012/06/social-shopping-f-commerce-made-simple-with-graphite-from-8thbridge.html/
+
 ---
 
 While this roll-out might have been a failure, its too early (only two years since) to proclaim success or failure with anything. The truth is, as Facebook nears a billion users worldwide, thats just too juicy a number to ignore. What 8thBridge has done is create a system called Graphite that brings the stores to the people, not the other way around, but do it without creating another cluttered interface full of icons, ads, and other things that will go ignored. They make it seamless, easy to use, and most importantly, make it sharable. 8thBridge recognized the simple fact that people on Facebook are there to express themselves and feel important.

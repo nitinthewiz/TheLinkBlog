@@ -6,7 +6,11 @@ hash: 0d3ed46b6dd44322538c78c581f5f3c0
 annum:
     year: 2011
     month: 11
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /business/features/2011/11/michael-lewis-201111
+
 ---
 
 

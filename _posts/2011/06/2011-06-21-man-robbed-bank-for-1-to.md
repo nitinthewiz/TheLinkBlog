@@ -6,7 +6,11 @@ hash: aa00fc1b91362773595bdb5bdb8b56c5
 annum:
     year: 2011
     month: 06
-hostname: www.9news.com
+url-parts:
+    scheme: http
+    host: www.9news.com
+    path: /news/sidetracks/204061/337/Man-robbed-bank-for-1-to-cover-jail-health-care
+
 ---
 
 That's one way to get healthcare. :-/

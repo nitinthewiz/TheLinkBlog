@@ -6,7 +6,11 @@ hash: 5640212a7f56e947bc806ecb6d0a1436
 annum:
     year: 2008
     month: 02
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/2/wordpress-founder-25-percent-of-blogs-are-spam
+
 ---
 
 At the Future of Web Apps conference, WordPress founder Matt Mullenweg boasts that his blogging service powers more than 2.5 million blogs, CNet's Caroline McCarthy reports. But he says the company has also deleted more than 800,000 "splogs," or spam blogs, too.

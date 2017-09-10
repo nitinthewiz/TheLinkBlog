@@ -6,7 +6,11 @@ hash: 216f82321af359143a2722edf8eb8d30
 annum:
     year: 2017
     month: 06
-hostname: ifpickleball.org
+url-parts:
+    scheme: http
+    host: ifpickleball.org
+    path: /
+
 ---
 
 Had never heard of this game! Looks like a great summer game to play outside!

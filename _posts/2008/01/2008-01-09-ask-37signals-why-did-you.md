@@ -6,7 +6,11 @@ hash: b24b4b01031492e2dd395a14663b4bb2
 annum:
     year: 2008
     month: 01
-hostname: signalvnoise.com
+url-parts:
+    scheme: http
+    host: signalvnoise.com
+    path: /posts/772-ask-37signals-why-did-you-restart-highrise
+
 ---
 
 

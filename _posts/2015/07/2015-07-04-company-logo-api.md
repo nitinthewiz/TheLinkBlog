@@ -6,7 +6,11 @@ hash: b35afc565f0f8b1db6cd373439bc9825
 annum:
     year: 2015
     month: 07
-hostname: blog.clearbit.com
+url-parts:
+    scheme: http
+    host: blog.clearbit.com
+    path: /logo
+
 ---
 
 Clearbit provides Business Intelligence APIs

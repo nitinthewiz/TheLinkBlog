@@ -6,7 +6,11 @@ hash: 59c7f65af75d608171432c6607051164
 annum:
     year: 2017
     month: 05
-hostname: open.dgraph.io
+url-parts:
+    scheme: https
+    host: open.dgraph.io
+    path: /post/badger/
+
 ---
 
 We have built an efficient and persistent log structured merge (LSM) tree based key-value store, natively in Go language. It is based upon WiscKey paper included in USENIX FAST 2016. This design is highly SSD-optimized and separates keys from values to minimize I/O amplification; leveraging both the sequential and the random performance of SSDs.

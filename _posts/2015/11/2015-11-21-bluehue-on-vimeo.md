@@ -6,7 +6,11 @@ hash: 6a0a58fc63000cfc8e12fd3e370a4495
 annum:
     year: 2015
     month: 11
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /134002940
+
 ---
 
 A short film about the joys of year round naked swimming in the mountain lakes of Snowdonia, N.Wales. Filmed, produced and swam by Natasha Brooks.

@@ -6,7 +6,11 @@ hash: 5d05910360fe6bdab99e2aec6fe68af7
 annum:
     year: 2011
     month: 12
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:SubPageList
+
 ---
 
 MediaWiki 

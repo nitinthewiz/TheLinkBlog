@@ -6,7 +6,11 @@ hash: 71b4bab22bbb53b843ddf733f1991a6a
 annum:
     year: 2010
     month: 07
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/07/16/areWordpressThemesNecessar.html
+
 ---
 
 An interesting question has come up in the Wordpress community. 

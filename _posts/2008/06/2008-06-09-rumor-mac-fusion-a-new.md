@@ -6,7 +6,11 @@ hash: dca1a139f835b6691b01151b969a9b9a
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/08/rumor-mac-fusion-a-new-developer-mac/
+
 ---
 
 Filed under: Rumors, Apple

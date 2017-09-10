@@ -6,7 +6,11 @@ hash: 60c9c42637ac01cce6da8fa14a2e3f33
 annum:
     year: 2010
     month: 09
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/11590
+    query:
 ---
 
 With Apple's release of the iBooks app and the iBookstore, EPUB-formatted ebooks have become increasingly prevalent. Surprisingly, though, there aren't many good ways to read an EPUB other than iBooks, especially if all you want is a quick look on your Mac.

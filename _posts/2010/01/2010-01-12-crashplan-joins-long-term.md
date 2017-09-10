@@ -6,7 +6,11 @@ hash: ecf7a24e8f700400517a0416fe471228
 annum:
     year: 2010
     month: 01
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/10909
+
 ---
 
 We're pleased to welcome Code42 Software, makers of the backup software CrashPlan, to the coterie of long-term TidBITS sponsors. Backup software is one of those topics near and dear to our hearts, since a solid backup strategy has prevented us from losing essential data (not to mention untold hours of work) on numerous occasions over the last 20 years.

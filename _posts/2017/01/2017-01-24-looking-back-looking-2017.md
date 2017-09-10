@@ -6,7 +6,11 @@ hash: 90408778b4ffc8e92588f2e61aeab762
 annum:
     year: 2017
     month: 01
-hostname: www.omnigroup.com
+url-parts:
+    scheme: https
+    host: www.omnigroup.com
+    path: /blog/looking-back-looking-ahead-2017-edition
+
 ---
 
 

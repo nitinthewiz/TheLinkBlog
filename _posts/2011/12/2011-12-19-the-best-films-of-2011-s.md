@@ -6,7 +6,11 @@ hash: dd1d31fb419afe1fbfea380aa94b491e
 annum:
     year: 2011
     month: 12
-hostname: www.rogerebert.com
+url-parts:
+    scheme: http
+    host: www.rogerebert.com
+    path: /rogers-journal/the-best-films-of-2011
+
 ---
 
 Making lists is not my favorite occupation. They inevitably inspire only reader complaints. Not once have I ever heard from a reader that my list was just fine, and they liked it. Yet an annual Best Ten list is apparently a statutory obligation for movie critics.

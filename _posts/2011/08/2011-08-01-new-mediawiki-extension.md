@@ -6,7 +6,11 @@ hash: e62f09cad6ab6c52c429c5763e67810e
 annum:
     year: 2011
     month: 08
-hostname: blog.bn2vs.com
+url-parts:
+    scheme: http
+    host: blog.bn2vs.com
+    path: /2011/07/30/new-mediawiki-extension-semantic-watchlist/
+
 ---
 
 Nice new SMW extension. Going to add this to the book club wiki so people get emails about meeting location or date changes.

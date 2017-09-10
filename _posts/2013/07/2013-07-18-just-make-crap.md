@@ -6,7 +6,11 @@ hash: 048d87df69c28fec9aa1f466fcb39fad
 annum:
     year: 2013
     month: 07
-hostname: just.makecrap.com
+url-parts:
+    scheme: http
+    host: just.makecrap.com
+    path: /
+
 ---
 
 Great idea, but the kerning is a little off on the type. :-P

@@ -7,7 +7,13 @@ hash: 102d8b63f88aaced55ebf335ea4570a3
 annum:
     year: 2010
     month: 07
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "-bvmEYxEYiA"
+        feature: "youtu.be"
 ---
 
 Slow-motion lightning strike recorded at 9000 frames per second – pure awe 

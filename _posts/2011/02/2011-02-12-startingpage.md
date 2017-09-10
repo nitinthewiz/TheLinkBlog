@@ -6,7 +6,11 @@ hash: c24873ea343d386ae171885e5d9e266e
 annum:
     year: 2011
     month: 02
-hostname: startpage.com
+url-parts:
+    scheme: https
+    host: startpage.com
+    path: /
+
 ---
 
 On Startingpage the privacy of Ixquick is combined with the Web search results from Google. The combination of these two features is what makes Startingpage so special. You can continue using the Web results from the world's most popular search engine but now under the privacy protection of Ixquick, the world's most private search engine.

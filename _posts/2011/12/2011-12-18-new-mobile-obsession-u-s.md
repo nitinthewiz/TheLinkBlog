@@ -6,7 +6,11 @@ hash: e9da12ab16ff4129d0ac46d46308ca65
 annum:
     year: 2011
     month: 12
-hostname: www.nielsen.com
+url-parts:
+    scheme: http
+    host: www.nielsen.com
+    path: /us/en/insights/news/2011/new-mobile-obsession-u-s-teens-triple-data-usage.html
+
 ---
 
 Teen Texting

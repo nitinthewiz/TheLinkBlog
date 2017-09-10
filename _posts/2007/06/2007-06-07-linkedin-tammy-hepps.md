@@ -6,7 +6,12 @@ hash: 9b028197c16404dcfb491b5b5d38fa00
 annum:
     year: 2007
     month: 06
-hostname: www.linkedin.com
+url-parts:
+    scheme: http
+    host: www.linkedin.com
+    path: /profile
+    query:
+        key: "6084937"
 ---
 
 

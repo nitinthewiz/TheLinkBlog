@@ -6,7 +6,11 @@ hash: 30e09f3334004a2c4c24e0fe75173fec
 annum:
     year: 2007
     month: 12
-hostname: simpable.com
+url-parts:
+    scheme: http
+    host: simpable.com
+    path: /technology/greener-grass/
+
 ---
 
 A couple of weeks ago, I acquired a new MacBook Pro. The old saying goes, "The grass is always greener on the other side". However, I was unaware of just how green it could be. 

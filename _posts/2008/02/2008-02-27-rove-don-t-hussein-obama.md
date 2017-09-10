@@ -6,7 +6,11 @@ hash: e41f3cabd390ed22426d2150548c6686
 annum:
     year: 2008
     month: 02
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2008/02/27/465114/-Rove-don-t-Hussein-Obama
+
 ---
 
 Interesting:

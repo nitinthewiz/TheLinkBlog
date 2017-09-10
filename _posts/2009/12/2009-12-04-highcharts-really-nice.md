@@ -6,7 +6,11 @@ hash: 24e4db909e8df5f47c68284c5ec38436
 annum:
     year: 2009
     month: 12
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/highcharts-really-nice-charting-api
+
 ---
 
 We all want better and better charting libraries. Dojo has some good stuff, Protovis is a good option, and there are many many more (put your favourite below!).

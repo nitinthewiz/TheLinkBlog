@@ -6,7 +6,11 @@ hash: a8722355c84fd544d2158b01885596c5
 annum:
     year: 2011
     month: 03
-hostname: blog.tridentcap.com
+url-parts:
+    scheme: http
+    host: blog.tridentcap.com
+    path: /2011/03/social-commerce-and-our-investment-in-8thbridge.html
+
 ---
 
 News about 8thBridge!

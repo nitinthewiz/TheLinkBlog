@@ -6,7 +6,11 @@ hash: 36b00d2060bdb3a32c862946fe842ccb
 annum:
     year: 2010
     month: 06
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/06/15/openvbx/
+
 ---
 
 

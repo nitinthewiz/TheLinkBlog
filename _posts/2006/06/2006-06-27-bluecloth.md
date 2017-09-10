@@ -6,7 +6,11 @@ hash: 1aba714bcee5639a5271817adda9eea8
 annum:
     year: 2006
     month: 06
-hostname: deveiate.org
+url-parts:
+    scheme: http
+    host: deveiate.org
+    path: /projects/BlueCloth
+
 ---
 
 Ruby implementation of Markdown

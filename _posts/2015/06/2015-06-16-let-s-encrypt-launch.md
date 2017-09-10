@@ -6,7 +6,11 @@ hash: db809e10d4ffa3e609e6cd8636f889a1
 annum:
     year: 2015
     month: 06
-hostname: letsencrypt.org
+url-parts:
+    scheme: https
+    host: letsencrypt.org
+    path: //2015/06/16/lets-encrypt-launch-schedule.html
+
 ---
 
 Let’s Encrypt has reached a point where we’re ready to announce our launch schedule.

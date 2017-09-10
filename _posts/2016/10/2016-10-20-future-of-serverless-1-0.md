@@ -6,7 +6,11 @@ hash: deb8f9274ecd1d4f778a6464155c3ab8
 annum:
     year: 2016
     month: 10
-hostname: serverless.com
+url-parts:
+    scheme: https
+    host: serverless.com
+    path: /blog/serverless-post-1.0/
+
 ---
 
 

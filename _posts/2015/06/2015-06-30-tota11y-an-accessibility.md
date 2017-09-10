@@ -6,7 +6,11 @@ hash: 57b1a9c4c224ec1e3bdb479dbabbf4e4
 annum:
     year: 2015
     month: 06
-hostname: khan.github.io
+url-parts:
+    scheme: http
+    host: khan.github.io
+    path: /tota11y/
+
 ---
 
 tota11y helps visualize how your site performs with assistive technologies

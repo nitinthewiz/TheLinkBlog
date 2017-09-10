@@ -6,7 +6,11 @@ hash: f32811e1dea457d93712b7277ae3261c
 annum:
     year: 2008
     month: 10
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /imac-macbook-dock
+
 ---
 
 

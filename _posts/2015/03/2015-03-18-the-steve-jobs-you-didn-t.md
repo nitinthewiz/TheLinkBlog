@@ -6,7 +6,11 @@ hash: c0b6c565c497e08e70fb3db207948694
 annum:
     year: 2015
     month: 03
-hostname: www.fastcompany.com
+url-parts:
+    scheme: http
+    host: www.fastcompany.com
+    path: /3042432/the-steve-jobs-you-didnt-know-kind-patient-and-human
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0903c64ad90fc1994d409c4afab7b2cf
 annum:
     year: 2010
     month: 12
-hostname: explainer.net
+url-parts:
+    scheme: http
+    host: explainer.net
+    path: 
+
 ---
 
 From the programmer-journalists at Northwestern: a "context management system."  Same puzzles  is onto.

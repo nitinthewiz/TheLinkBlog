@@ -6,7 +6,11 @@ hash: 797e11c3cadf6437eb7fc5fdcd1c8a53
 annum:
     year: 2014
     month: 01
-hostname: launchbylunch.com
+url-parts:
+    scheme: https
+    host: launchbylunch.com
+    path: /posts/2014/Jan/29/aws-tips/
+
 ---
 
 

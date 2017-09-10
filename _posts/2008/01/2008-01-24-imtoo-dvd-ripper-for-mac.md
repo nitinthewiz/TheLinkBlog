@@ -6,7 +6,11 @@ hash: 0dcf30360172fbc026766149c6008880
 annum:
     year: 2008
     month: 01
-hostname: www.imtoo.com
+url-parts:
+    scheme: http
+    host: www.imtoo.com
+    path: /dvd-ripper-mac.html
+
 ---
 
 ImTOO DVD Ripper for Mac is versatile Mac DVD ripper software to rip DVD on Mac, can rip DVD to all popular video files on Mac OS X fast and easy. The Mac DVD ripper software ripping DVD on Mac, can rip DVD to MPEG, rip DVD to AVI on Mac OS X with great D

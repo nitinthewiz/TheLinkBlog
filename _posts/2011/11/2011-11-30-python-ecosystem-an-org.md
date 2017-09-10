@@ -6,7 +6,11 @@ hash: 72d5707b616407b7f3416dd6162cd842
 annum:
     year: 2011
     month: 11
-hostname: mirnazim.org
+url-parts:
+    scheme: http
+    host: mirnazim.org
+    path: /writings/python-ecosystem-introduction/
+
 ---
 
 

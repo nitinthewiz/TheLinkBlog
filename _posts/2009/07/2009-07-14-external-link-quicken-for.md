@@ -6,7 +6,11 @@ hash: 0ab5516d762a30e2f78f272e729ccfef
 annum:
     year: 2009
     month: 07
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/10405
+
 ---
 
 Intuit has announced that the release date for the Mac-compatible version of their flagship product, Quicken Financial Life, has been pushed back to February 2010. The company had originally announced plans for an updated Mac version at Macworld Expo in January 2008. While customers are bound to be disappointed by the lengthy wait, Intuit says the delay results from efforts to better satisfy Mac users after receiving substantial feedback from beta testing. 

@@ -6,7 +6,11 @@ hash: 80dedd390b7eacbf71ea29026385e728
 annum:
     year: 2012
     month: 05
-hostname: serverfault.com
+url-parts:
+    scheme: http
+    host: serverfault.com
+    path: /questions/361421/dump-nginx-config-from-running-process
+
 ---
 
 

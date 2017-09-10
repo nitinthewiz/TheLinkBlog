@@ -6,7 +6,11 @@ hash: 0cd16b329533def3113ec2ef54cbaeb5
 annum:
     year: 2016
     month: 12
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/new-aws-personal-health-dashboard-status-you-can-relate-to/
+
 ---
 
 

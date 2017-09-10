@@ -6,7 +6,11 @@ hash: b751dde1c3286ff9a7bc4f0545da6d41
 annum:
     year: 2012
     month: 10
-hostname: cgcookie.com
+url-parts:
+    scheme: http
+    host: cgcookie.com
+    path: /blender/2012/09/20/creating-realistic-grass-in-blender/
+
 ---
 
 This blender tutorial is meant to teach you how to create and add grass to whatever scene you need, by showing you a simple and fast technique.

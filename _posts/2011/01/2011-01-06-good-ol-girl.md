@@ -6,7 +6,11 @@ hash: 073b096c2b9a12a7f69efe85a381b3df
 annum:
     year: 2011
     month: 01
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /magazine/archive/2011/01/good-ol-girl/308348/
+
 ---
 
 

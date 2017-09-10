@@ -6,7 +6,12 @@ hash: b14fb015614f84cc949a2ccf40713971
 annum:
     year: 2008
     month: 05
-hostname: www.dd-wrt.com
+url-parts:
+    scheme: http
+    host: www.dd-wrt.com
+    path: /phpBB2/viewtopic.php
+    query:
+        t: "21959"
 ---
 
 

@@ -6,7 +6,11 @@ hash: e350d071130ebf92ee5b6252cb2a700d
 annum:
     year: 2010
     month: 12
-hostname: www.svb.com
+url-parts:
+    scheme: http
+    host: www.svb.com
+    path: /winedivision
+
 ---
 
 Welcome to SVBwines.com, providing access to the winery clients of Silicon Valley Bank's Premium Wine Division. For access, please contact your SVB Relationship Manager.

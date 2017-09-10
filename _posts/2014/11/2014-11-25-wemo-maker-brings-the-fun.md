@@ -6,7 +6,12 @@ hash: 1a54308b9bd6689db7593b9dc5a4e8bc
 annum:
     year: 2014
     month: 11
-hostname: m.tuaw.com
+url-parts:
+    scheme: http
+    host: m.tuaw.com
+    path: /2014/11/24/wemo-maker-brings-the-fun-of-experimentation-to-ios/
+    query:
+        ncid: "rss_truncated"
 ---
 
 

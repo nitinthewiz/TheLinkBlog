@@ -6,7 +6,11 @@ hash: 8cb2c210db49f35d0b55440b6b470984
 annum:
     year: 2010
     month: 12
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /politics/archive/2010/12/peter-orszag-the-shoe-that-didnt-drop/67869/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9ed31a141e92ca38d4d2f22154cdfcea
 annum:
     year: 2008
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/03/03/ineedflix/
+
 ---
 
 Filed under: Freeware, Internet Tools

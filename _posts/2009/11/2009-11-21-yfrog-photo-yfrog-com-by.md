@@ -6,7 +6,11 @@ hash: 1720df9508b72807900ac6c571ca70fd
 annum:
     year: 2009
     month: 11
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4glh2j
+
 ---
 
 Dessert coming together. Yum!  

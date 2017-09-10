@@ -6,7 +6,11 @@ hash: f6995b89b0d26dd143c5213ea2084d42
 annum:
     year: 2012
     month: 12
-hostname: wikistats.wmflabs.org
+url-parts:
+    scheme: http
+    host: wikistats.wmflabs.org
+    path: /wikimedias_html.php
+
 ---
 
 Shows all Wikimedia projects in a table with current statistics.

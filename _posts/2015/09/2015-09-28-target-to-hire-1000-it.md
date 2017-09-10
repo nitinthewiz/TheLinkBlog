@@ -6,7 +6,11 @@ hash: 3828d5879c342ae0c326547bc4334434
 annum:
     year: 2015
     month: 09
-hostname: www.mprnews.org
+url-parts:
+    scheme: http
+    host: www.mprnews.org
+    path: /story/2015/09/21/target-hiring
+
 ---
 
 Target plans to cut back on outsourcing and hire 1,000 information technology workers.

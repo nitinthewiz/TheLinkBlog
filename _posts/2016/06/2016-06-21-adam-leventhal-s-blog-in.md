@@ -6,7 +6,11 @@ hash: 8b9564cc8876d22532ae86501ba4992f
 annum:
     year: 2016
     month: 06
-hostname: dtrace.org
+url-parts:
+    scheme: http
+    host: dtrace.org
+    path: /blogs/ahl/2016/06/19/apfs-part1/
+
 ---
 
 

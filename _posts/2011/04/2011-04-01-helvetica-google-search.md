@@ -6,7 +6,12 @@ hash: cfd7ea71d4bdf60e68c89b2afcf462fc
 annum:
     year: 2011
     month: 04
-hostname: www.google.com
+url-parts:
+    scheme: http
+    host: www.google.com
+    path: /search
+    query:
+        q: "helvetica"
 ---
 
 Perhaps the best Easter Egg ever.

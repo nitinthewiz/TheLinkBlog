@@ -6,7 +6,11 @@ hash: fc5dd6bbe63e3962a26cf3b18200cbf3
 annum:
     year: 2008
     month: 08
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /6u07
+
 ---
 
 Started soaking wood chips for tomorrows brisket. Half hickory and half black cherry wood.  

@@ -6,7 +6,11 @@ hash: 215c6009fb6ccd84c320f6e39781a0a8
 annum:
     year: 2015
     month: 10
-hostname: www.omnigroup.com
+url-parts:
+    scheme: https
+    host: www.omnigroup.com
+    path: /blog/hello-omniplan-3
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 85d995d672f526253ef7e507a0b2e0e6
 annum:
     year: 2008
     month: 04
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /news/2008/04/upcoming-wordcamps/
+
 ---
 
 WordCamps are my favorite events to go to because theres something about the core WordPress community that attracts smart folks with good philosophies that are fun to hang out with. In this post Ive collated the upcoming WordCamps we know about, including the one in San Francisco. Hopefully there will be one nearby so you can meet other WordPressers in your area.

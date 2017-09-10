@@ -6,7 +6,12 @@ hash: 6d24a9a8e05af6ab71427b14a44212cb
 annum:
     year: 2008
     month: 02
-hostname: www.activewin.com
+url-parts:
+    scheme: http
+    host: www.activewin.com
+    path: /awin/comments.asp
+    query:
+        HeadlineIndex: "42744"
 ---
 
 Following reports by users of problems resulting from new Vista Service Pack (SP) 1 installation prerequisite update – which Microsoft pushed out via Windows Update last week — Microsoft has halted availability of those prerequisites.

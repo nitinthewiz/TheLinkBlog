@@ -6,7 +6,11 @@ hash: a4d83ff677284ad6e0e7f0dc3915602a
 annum:
     year: 2009
     month: 04
-hostname: www.facebook.com
+url-parts:
+    scheme: http
+    host: www.facebook.com
+    path: /common/browser.php
+
 ---
 
 Use Geni and Facebook? The new Geni Facebook app is really well done. 

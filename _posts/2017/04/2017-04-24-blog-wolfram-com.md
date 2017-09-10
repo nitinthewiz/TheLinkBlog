@@ -6,7 +6,11 @@ hash: 955791965366b85c33d474dae21c069b
 annum:
     year: 2017
     month: 04
-hostname: blog.wolfram.com
+url-parts:
+    scheme: http
+    host: blog.wolfram.com
+    path: /2017/04/20/launching-the-wolfram-data-repository-data-publishing-that-really-works/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 45999cb7bdb35da0f1e9eac967283af7
 annum:
     year: 2013
     month: 12
-hostname: feedly.com
+url-parts:
+    scheme: http
+    host: feedly.com
+    path: /k/JuS4Th
+
 ---
 
 Beautiful winter photos of Ukraine mountains... "Beauty of The Winter Carpathians | English Russia"  

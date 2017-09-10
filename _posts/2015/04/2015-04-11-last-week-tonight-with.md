@@ -6,7 +6,12 @@ hash: 47208e85176e2b68dbed4e91747a999c
 annum:
     year: 2015
     month: 04
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "XEVlyP4_11M"
 ---
 
 There are very few government checks on what America’s sweeping surveillance programs are capable of doing. John Oliver sits down with Edward Snowden to discuss the NSA, the balance between privacy and security, and dick-pics.

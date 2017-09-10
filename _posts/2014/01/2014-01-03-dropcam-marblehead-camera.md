@@ -6,7 +6,11 @@ hash: 1b4364e3d5c6a99d95dde0ff82dabac2
 annum:
     year: 2014
     month: 01
-hostname: www.dropcam.com
+url-parts:
+    scheme: https
+    host: www.dropcam.com
+    path: /p/MhdRoofTop
+
 ---
 
 Weather & Ocean camera, mounted on a rooftop above Preston Beach, Marblehead.

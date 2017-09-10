@@ -6,7 +6,11 @@ hash: db7a430b83545fc7b7755e4c474f6203
 annum:
     year: 2010
     month: 10
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Land_Speed_Record_(album)
+
 ---
 
 ♫ Listened to Hüsker Dü, Land Speed Record, while reviewing a legal doc. Went surprisingly well together. :-) 

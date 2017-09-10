@@ -6,7 +6,11 @@ hash: 9938fc40c00578147e5645d45dc24589
 annum:
     year: 2005
     month: 08
-hostname: www.infrant.com
+url-parts:
+    scheme: http
+    host: www.infrant.com
+    path: /
+
 ---
 
 Cheap NAS systems over 1TB

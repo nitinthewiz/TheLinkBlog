@@ -6,7 +6,11 @@ hash: 3fca2b9950a1f7167f0bf344fbe40ddd
 annum:
     year: 2007
     month: 02
-hostname: www.joyent.com
+url-parts:
+    scheme: http
+    host: www.joyent.com
+    path: /blog/a-brief-update-with-some-numbers-for-hardware-load-balanced-mongrels/
+
 ---
 
 

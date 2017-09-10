@@ -6,7 +6,11 @@ hash: f20284c78d8fe698230f68ce522a3390
 annum:
     year: 2016
     month: 11
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/why-im-considering-bear-as-a-notes-app-replacement/
+
 ---
 
 

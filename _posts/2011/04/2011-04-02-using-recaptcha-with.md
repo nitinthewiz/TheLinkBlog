@@ -6,7 +6,11 @@ hash: 4e1d4416a6c12b67b91953edafd79fe7
 annum:
     year: 2011
     month: 04
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /apis/recaptcha/docs/mediawiki.html
+
 ---
 
 The reCAPTCHA MediaWiki plugin uses a CAPTCHA to prevent spam.

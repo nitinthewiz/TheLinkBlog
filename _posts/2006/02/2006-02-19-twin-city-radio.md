@@ -6,7 +6,11 @@ hash: add8e15887fd81918ce7877db0416144
 annum:
     year: 2006
     month: 02
-hostname: www.tcrconline.com
+url-parts:
+    scheme: http
+    host: www.tcrconline.com
+    path: /
+
 ---
 
 

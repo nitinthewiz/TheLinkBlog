@@ -6,7 +6,11 @@ hash: 47fbdde0ddd21c4fb8afb94139c856cf
 annum:
     year: 2005
     month: 09
-hostname: www.chariotcarriers.com
+url-parts:
+    scheme: http
+    host: www.chariotcarriers.com
+    path: /html_english/sidecarrier.htm
+
 ---
 
 Interesting side option for bringing child on the bike.

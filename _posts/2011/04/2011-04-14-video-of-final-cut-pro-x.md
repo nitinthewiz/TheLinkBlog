@@ -6,7 +6,11 @@ hash: 6a2d9d6215265f3fbae6b98596e6cbd9
 annum:
     year: 2011
     month: 04
-hostname: www.macrumors.com
+url-parts:
+    scheme: http
+    host: www.macrumors.com
+    path: /2011/04/13/video-of-final-cut-pro-x-introduction-now-available/
+
 ---
 
 

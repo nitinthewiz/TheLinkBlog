@@ -6,7 +6,11 @@ hash: 250428b55b00d832e85868dca7c1cd85
 annum:
     year: 2010
     month: 10
-hostname: www.quora.com
+url-parts:
+    scheme: http
+    host: www.quora.com
+    path: /Jamie-Thingelstad
+
 ---
 
 I finally spent some quality time on Quora. I like it. You can find me at .

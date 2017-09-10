@@ -6,7 +6,11 @@ hash: 3177652e7a1a4808cc303cb58246cbf3
 annum:
     year: 2015
     month: 01
-hostname: blog.fogcreek.com
+url-parts:
+    scheme: http
+    host: blog.fogcreek.com
+    path: /increase-defect-detection-with-our-code-review-checklist-example/
+
 ---
 
 

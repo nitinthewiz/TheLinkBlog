@@ -6,7 +6,11 @@ hash: ea4b1f3afbbb8c8ca6735d72d4597535
 annum:
     year: 2008
     month: 09
-hostname: lightroom-news.com
+url-parts:
+    scheme: http
+    host: lightroom-news.com
+    path: /2008/09/01/lrenfuse-v300-announced/
+
 ---
 
 Timothy Armes has announced that LR/Enfuse version 3.00 is finally here.

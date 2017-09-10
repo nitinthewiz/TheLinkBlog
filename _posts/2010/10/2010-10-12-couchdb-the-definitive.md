@@ -6,7 +6,11 @@ hash: 1197dd894d725f140fdbebb9236abca8
 annum:
     year: 2010
     month: 10
-hostname: guide.couchdb.org
+url-parts:
+    scheme: http
+    host: guide.couchdb.org
+    path: /
+
 ---
 
 

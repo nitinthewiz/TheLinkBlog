@@ -6,7 +6,11 @@ hash: b2b32a2b5ed378fd68fbae764782dbf3
 annum:
     year: 2009
     month: 11
-hostname: thesocietypages.org
+url-parts:
+    scheme: http
+    host: thesocietypages.org
+    path: /socimages/2009/11/05/support-for-same-sex-marriage-by-age-and-state/
+
 ---
 
 Sociological Images encourages people to exercise and develop their sociological imaginations with discussions of compelling visuals that span the breadth of sociological inquiry.

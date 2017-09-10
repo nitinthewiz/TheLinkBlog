@@ -6,7 +6,12 @@ hash: fad486893f72f4d15af6af35b4a97b80
 annum:
     year: 2015
     month: 07
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "Wt5Psj0v97g"
 ---
 
 

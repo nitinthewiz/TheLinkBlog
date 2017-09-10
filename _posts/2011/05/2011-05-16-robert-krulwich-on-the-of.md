@@ -6,7 +6,11 @@ hash: 61480f6ce0842ff08991446e15d96cc8
 annum:
     year: 2011
     month: 05
-hostname: blogs.discovermagazine.com
+url-parts:
+    scheme: http
+    host: blogs.discovermagazine.com
+    path: /notrocketscience/2011/05/12/%E2%80%9Cthere-are-some-people-who-don%E2%80%99t-wait-%E2%80%9D-robert-krulwich-on-the-future-of-journalism/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 57336dc7cf75e4f994aeaa4179040b6c
 annum:
     year: 2011
     month: 08
-hostname: radiosilenceapp.com
+url-parts:
+    scheme: http
+    host: radiosilenceapp.com
+    path: /
+
 ---
 
 

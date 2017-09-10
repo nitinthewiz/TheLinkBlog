@@ -6,7 +6,11 @@ hash: 70dfec4109fc48c8a8b88037ccc38b09
 annum:
     year: 2009
     month: 08
-hostname: hivelogic.com
+url-parts:
+    scheme: http
+    host: hivelogic.com
+    path: /articles/playgrounder/
+
 ---
 
 

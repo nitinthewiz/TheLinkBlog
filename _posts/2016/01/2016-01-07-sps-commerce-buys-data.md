@@ -6,7 +6,11 @@ hash: 355cfc148d4bc7a94fb6005e44afd6bc
 annum:
     year: 2016
     month: 01
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /sps-commerce-buys-canadian-data-analytics-firm/364399231/
+
 ---
 
 SPS Commerce Inc. said Wednesday it bought ToolBox Solutions, a Canadian data analytics firm, for about $23 million in cash and stock.

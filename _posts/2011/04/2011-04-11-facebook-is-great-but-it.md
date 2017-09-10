@@ -6,7 +6,11 @@ hash: 5b10106a548753c7356a29a8bd8e01ed
 annum:
     year: 2011
     month: 04
-hostname: www.netwitsthinktank.com
+url-parts:
+    scheme: http
+    host: www.netwitsthinktank.com
+    path: /online-fundraising/facebook-is-great-but-does-it-really-work-for-fundraising.htm
+
 ---
 
 

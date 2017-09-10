@@ -6,7 +6,11 @@ hash: 77a12062cf2127537f9e1be1ac90b268
 annum:
     year: 2011
     month: 06
-hostname: shortlogic.tumblr.com
+url-parts:
+    scheme: http
+    host: shortlogic.tumblr.com
+    path: /post/6142108636/groupon-ipo-pass-on-this-deal
+
 ---
 
 At the moment, it’s costing them $1.43 to make $1, and it doesn’t look like it’s getting any cheaper.

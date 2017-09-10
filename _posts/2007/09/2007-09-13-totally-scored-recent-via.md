@@ -6,7 +6,11 @@ hash: 03219d7037bb10571d3daacc53fb5fea
 annum:
     year: 2007
     month: 09
-hostname: www.totallyscored.com
+url-parts:
+    scheme: http
+    host: www.totallyscored.com
+    path: /
+
 ---
 
 Totally Scored exists to make it easy to track your favorite sports or teams using any RSS reader by subscribing to the feed. You can customize the display so that you only see the results you are interested in. Whenever a game ends, the final score will

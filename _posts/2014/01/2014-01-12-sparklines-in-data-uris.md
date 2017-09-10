@@ -6,7 +6,11 @@ hash: 24e3904d66a45fc1199effecc2e66540
 annum:
     year: 2014
     month: 01
-hostname: bitworking.org
+url-parts:
+    scheme: http
+    host: bitworking.org
+    path: /news/Sparklines_in_data_URIs_in_Python
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0e99565f3424d6933828073ae463a192
 annum:
     year: 2010
     month: 11
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2010/11/a-darwinian-theory-of-beauty.html
+
 ---
 
 I love this TED talk by Denis Dutton of Arts & Letters Daily fame.  He uses evolution to explain beauty, and it's illustrated in the same style (by the same person) as the RSA talks.  I'm particularly drawn to the scientific approach to art, a crossover that positively reeks of the kind of cross-discipline thinking that I encounter at Sci Foo.  I'm putting together the program for Kiwi Foo, and I hope to have the same fertile intersection of ideas.

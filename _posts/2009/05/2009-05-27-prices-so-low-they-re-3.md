@@ -6,7 +6,11 @@ hash: f4ad7fa3629858740ddac94fa66a0088
 annum:
     year: 2009
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/05/27/prices-so-low-theyre-practically-insane-panic-3-day-sale-is-o/
+
 ---
 
 Filed under: Internet Tools, Deals

@@ -6,7 +6,11 @@ hash: f39c86db76e150842a41768f33801cb7
 annum:
     year: 2012
     month: 10
-hostname: www.buzzfeed.com
+url-parts:
+    scheme: http
+    host: www.buzzfeed.com
+    path: /miniusanotnormal/25-places-that-look-not-normal-but-are-actually-r-7lct
+
 ---
 
 Note that three of these are in Iceland.

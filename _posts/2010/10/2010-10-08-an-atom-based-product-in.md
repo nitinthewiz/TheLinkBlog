@@ -6,7 +6,11 @@ hash: 1aaf6692bbc3b56643cc46c9b854f093
 annum:
     year: 2010
     month: 10
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /blogs/babbage/2010/10/small-scale_production
+
 ---
 
 Glenn Fleishman, writing for The Economist, on the Glif project’s remarkable success at Kickstarter.

@@ -6,7 +6,11 @@ hash: 56554d8ccdfbb53e93d5bc784683c683
 annum:
     year: 2013
     month: 10
-hostname: travis-ci.org
+url-parts:
+    scheme: https
+    host: travis-ci.org
+    path: /wikimedia/mediawiki-extensions-Wikibase/builds
+
 ---
 
 It's over 1000 Wikibase builds on @TravisCI!  #Wikidata #MediaWiki #ContinuousIntergarion

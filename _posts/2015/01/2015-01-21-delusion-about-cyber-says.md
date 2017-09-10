@@ -6,7 +6,11 @@ hash: 8d5889fb9458205e6b3a79d6b112b302
 annum:
     year: 2015
     month: 01
-hostname: www.computerweekly.com
+url-parts:
+    scheme: http
+    host: www.computerweekly.com
+    path: /news/2240238466/Delusion-about-cyber-security-growing-says-Cisco-report
+
 ---
 
 The quote alone is possibly all you need to read:

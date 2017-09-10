@@ -6,7 +6,11 @@ hash: 3c86edb054a45532722856d5fd31fa65
 annum:
     year: 2017
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/macos-high-sierra-brings-current-improvement-future-developments/
+
 ---
 
 Nice recap of updates coming in the awkwardly named macOS High Sierra.

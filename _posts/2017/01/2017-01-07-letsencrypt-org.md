@@ -6,7 +6,11 @@ hash: 11edf06e69c9278713434fbfdf331f23
 annum:
     year: 2017
     month: 01
-hostname: letsencrypt.org
+url-parts:
+    scheme: https
+    host: letsencrypt.org
+    path: //2017/01/06/le-2016-in-review.html
+
 ---
 
 Our first full year as a live CA was an exciting one. I’m incredibly proud of what our team and community accomplished during 2016. I’d like to share some thoughts about how we’ve changed, what we’ve accomplished, and what we’ve learned.

@@ -6,7 +6,11 @@ hash: 22e42792f52391b065d9ab76dbd70ca2
 annum:
     year: 2013
     month: 03
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /the-feds-are-here-or-aliasing-for-those-tight-spots/
+
 ---
 
 Oh my.

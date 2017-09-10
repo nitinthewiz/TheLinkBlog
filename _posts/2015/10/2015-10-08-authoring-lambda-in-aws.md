@@ -6,7 +6,11 @@ hash: f6b4493ec336142dccf9306bc7c453e7
 annum:
     year: 2015
     month: 10
-hostname: docs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: docs.aws.amazon.com
+    path: /lambda/latest/dg/python-lambda.html
+
 ---
 
 AWS

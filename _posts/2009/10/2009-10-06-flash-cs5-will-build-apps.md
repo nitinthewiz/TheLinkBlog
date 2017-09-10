@@ -6,7 +6,11 @@ hash: 1ec5f12b0362440695206cc1bf307ada
 annum:
     year: 2009
     month: 10
-hostname: blogs.adobe.com
+url-parts:
+    scheme: http
+    host: blogs.adobe.com
+    path: /jnack/2009/10/use_flash_to_build_native_iphone_apps.html
+
 ---
 
 John Nack:

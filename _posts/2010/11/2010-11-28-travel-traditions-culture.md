@@ -6,7 +6,11 @@ hash: c132efe4d84944fbe8a3d425a94bf913
 annum:
     year: 2010
     month: 11
-hostname: mitchellkphotos.com
+url-parts:
+    scheme: http
+    host: mitchellkphotos.com
+    path: /
+
 ---
 
 My new website is finaly up! 

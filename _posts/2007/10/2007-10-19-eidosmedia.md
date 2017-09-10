@@ -6,7 +6,11 @@ hash: c87e3b6cf6a7fbea996f3234dee7975d
 annum:
     year: 2007
     month: 10
-hostname: www.eidosmedia.com
+url-parts:
+    scheme: http
+    host: www.eidosmedia.com
+    path: /
+
 ---
 
 

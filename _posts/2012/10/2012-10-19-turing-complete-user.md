@@ -6,7 +6,11 @@ hash: d35de14b28321801be6b5fccf1855c39
 annum:
     year: 2012
     month: 10
-hostname: contemporary-home-computing.org
+url-parts:
+    scheme: http
+    host: contemporary-home-computing.org
+    path: /turing-complete-user/
+
 ---
 
 

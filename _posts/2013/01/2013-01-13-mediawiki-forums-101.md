@@ -6,7 +6,11 @@ hash: 2aaf2ebe3a15e790039bec62533a716b
 annum:
     year: 2013
     month: 01
-hostname: ww2.mwusers.com
+url-parts:
+    scheme: http
+    host: ww2.mwusers.com
+    path: /forums/content.php
+    query:
 ---
 
 Very helpful post to explain how to setup new protection levels inside MediaWiki.

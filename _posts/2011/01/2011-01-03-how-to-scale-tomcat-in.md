@@ -6,7 +6,11 @@ hash: 10313e57c90d81752d248828198d0794
 annum:
     year: 2011
     month: 01
-hostname: www.tomcatexpert.com
+url-parts:
+    scheme: http
+    host: www.tomcatexpert.com
+    path: /blog/2010/06/04/how-scale-tomcat-cloud-rabbitmq-and-jmx
+
 ---
 
 Good post on how to manage Tomcat instances in cloud:

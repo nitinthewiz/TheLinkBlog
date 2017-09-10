@@ -6,7 +6,11 @@ hash: b05e04c52c1b1109bc636c3c25b49fd9
 annum:
     year: 2010
     month: 12
-hostname: www.elenco.com
+url-parts:
+    scheme: http
+    host: www.elenco.com
+    path: /product/productlist/snap_circuits&amp
+
 ---
 
 I got Mazie a 300 project Snap Circuit toy for Christmas and it's awesome. Tons of accessories for it.

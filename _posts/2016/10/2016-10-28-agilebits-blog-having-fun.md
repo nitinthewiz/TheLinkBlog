@@ -6,7 +6,11 @@ hash: b9ea7e3923c4d6c81a3950d265791373
 annum:
     year: 2016
     month: 10
-hostname: blog.agilebits.com
+url-parts:
+    scheme: https
+    host: blog.agilebits.com
+    path: /2016/10/28/having-fun-with-touch-id-and-the-touch-bar-in-1password/
+
 ---
 
 

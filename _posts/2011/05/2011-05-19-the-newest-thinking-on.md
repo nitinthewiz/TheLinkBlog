@@ -6,7 +6,11 @@ hash: 3828258c5462c05b79c8a9a3515a4dbc
 annum:
     year: 2011
     month: 05
-hostname: www.twistimage.com
+url-parts:
+    scheme: http
+    host: www.twistimage.com
+    path: /blog/archives/the-newest-thinking-on-new-media/
+
 ---
 
 OK, my last tweet was too cryptic. Watch this video conversation between @jayrosen_nyu & @cshirky about new media: 

@@ -6,7 +6,11 @@ hash: 44c8b6fcfb627602ccffdec172b6ad5c
 annum:
     year: 2016
     month: 08
-hostname: people.omnigroup.com
+url-parts:
+    scheme: http
+    host: people.omnigroup.com
+    path: /kc/editorial-template-project-workflow.html
+
 ---
 
 OmniFocus Workflow for Editorial

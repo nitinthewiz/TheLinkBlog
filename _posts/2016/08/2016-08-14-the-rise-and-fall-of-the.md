@@ -6,7 +6,11 @@ hash: dc64f30951a9553b1bc2de7b85f1fc7d
 annum:
     year: 2016
     month: 08
-hostname: www.minnpost.com
+url-parts:
+    scheme: https
+    host: www.minnpost.com
+    path: /business/2016/08/rise-and-fall-gopher-protocol
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3744567d30436368b1940d40df4f63cc
 annum:
     year: 2012
     month: 05
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /comics/tesla
+
 ---
 
 Great comic from the Oatmeal.

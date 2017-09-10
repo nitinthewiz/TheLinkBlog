@@ -6,7 +6,11 @@ hash: 52ed265cc19593f484879d3ce55fe44f
 annum:
     year: 2007
     month: 09
-hostname: www.jasondunn.com
+url-parts:
+    scheme: http
+    host: www.jasondunn.com
+    path: /albumart/index.html
+
 ---
 
 

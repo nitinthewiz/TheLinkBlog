@@ -6,7 +6,11 @@ hash: 813d2eeae7cd072ff56ea04bc9bada8b
 annum:
     year: 2015
     month: 10
-hostname: blog.ingineering.it
+url-parts:
+    scheme: http
+    host: blog.ingineering.it
+    path: /post/131687591759/revisiting-empathy
+
 ---
 
 

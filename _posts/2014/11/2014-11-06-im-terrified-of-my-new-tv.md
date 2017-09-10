@@ -6,7 +6,11 @@ hash: a1b9ba9c7aec243a9a1dbf9382408a3f
 annum:
     year: 2014
     month: 11
-hostname: www.brennancenter.org
+url-parts:
+    scheme: http
+    host: www.brennancenter.org
+    path: /analysis/im-terrified-my-new-tv-why-im-scared-turn-thing
+
 ---
 
 

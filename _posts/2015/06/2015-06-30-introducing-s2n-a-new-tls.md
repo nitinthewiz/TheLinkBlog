@@ -6,7 +6,11 @@ hash: c451985df5c2ad779c53ab92f33a6309
 annum:
     year: 2015
     month: 06
-hostname: blogs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: blogs.aws.amazon.com
+    path: /security/post/TxCKZM94ST1S6Y/Introducing-s2n-a-New-Open-Source-TLS-Implementation
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f2a07acc658e077fc4691d46a7420e5d
 annum:
     year: 2011
     month: 12
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2011/12/19/how-twitter-stores-250-million-tweets-a-day-using-mysql.html
+
 ---
 
 

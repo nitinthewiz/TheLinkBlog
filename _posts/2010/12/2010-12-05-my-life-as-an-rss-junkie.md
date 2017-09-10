@@ -6,7 +6,11 @@ hash: 796ecb5310fbe9a9c238fd032a9e9865
 annum:
     year: 2010
     month: 12
-hostname: medialoper.com
+url-parts:
+    scheme: http
+    host: medialoper.com
+    path: /columns/thats-what-i-like/my-life-as-an-rss-junkie/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4d3ee8ce6d288b422299dedc3af03c60
 annum:
     year: 2008
     month: 01
-hostname: www.slate.com
+url-parts:
+    scheme: http
+    host: www.slate.com
+    path: /articles/news_and_politics/politics/2008/01/a_computer_reads_the_state_of_the_union.html
+
 ---
 
 

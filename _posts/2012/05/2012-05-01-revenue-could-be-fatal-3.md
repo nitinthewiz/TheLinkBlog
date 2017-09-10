@@ -6,7 +6,11 @@ hash: 422e88c5cd038188ac926815e530d3c6
 annum:
     year: 2012
     month: 05
-hostname: blog.uservoice.com
+url-parts:
+    scheme: https
+    host: blog.uservoice.com
+    path: /revenue-could-be-fatal-3-reasons-your-startup-should-consider-waiting/
+
 ---
 
 

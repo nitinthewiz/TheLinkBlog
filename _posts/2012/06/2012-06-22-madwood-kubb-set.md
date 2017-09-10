@@ -6,7 +6,11 @@ hash: e25c73c02a55c636bead17c477f699d9
 annum:
     year: 2012
     month: 06
-hostname: madwood.us
+url-parts:
+    scheme: http
+    host: madwood.us
+    path: /Kubb
+
 ---
 
 

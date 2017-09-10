@@ -6,7 +6,11 @@ hash: 4deb3c466565541a84b6795c5e05b8c0
 annum:
     year: 2007
     month: 12
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/ajax-cross-domain-script
+
 ---
 
 Bart Van der Donck has released his script to do Ajax Cross Domain scripting. You download the ACD.js script and then you can do things like this hello world:

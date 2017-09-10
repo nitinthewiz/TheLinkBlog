@@ -6,7 +6,11 @@ hash: 20f16be3529e3fd69c9318b0db7e3a23
 annum:
     year: 2008
     month: 03
-hostname: www.expandrive.com
+url-parts:
+    scheme: http
+    host: www.expandrive.com
+    path: /
+
 ---
 
 ExpanDrive gives you perfectly transparent access to open, edit, and save files with your favorite programs, even when those files are half a world away. Transparent means that you dont even notice youre operating on remote filesthey act like the

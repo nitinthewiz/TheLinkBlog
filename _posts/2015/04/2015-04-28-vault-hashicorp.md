@@ -6,7 +6,11 @@ hash: 1ae2574ae3188b2349f7f04e6053d2c8
 annum:
     year: 2015
     month: 04
-hostname: hashicorp.com
+url-parts:
+    scheme: https
+    host: hashicorp.com
+    path: /blog/vault.html
+
 ---
 
 

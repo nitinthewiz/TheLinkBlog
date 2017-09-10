@@ -6,7 +6,11 @@ hash: 10597679710d52798628c93b3b1a9f93
 annum:
     year: 2007
     month: 01
-hostname: www.dallasartsrevue.com
+url-parts:
+    scheme: http
+    host: www.dallasartsrevue.com
+    path: /resources/How-to-Photo-Art.shtml
+
 ---
 
 

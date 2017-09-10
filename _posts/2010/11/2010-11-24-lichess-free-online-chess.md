@@ -6,7 +6,11 @@ hash: 150b7a4bab247296cb9acf70f55dba2f
 annum:
     year: 2010
     month: 11
-hostname: lichess.org
+url-parts:
+    scheme: http
+    host: lichess.org
+    path: /
+
 ---
 
 

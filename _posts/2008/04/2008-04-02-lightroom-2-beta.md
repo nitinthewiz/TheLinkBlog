@@ -6,7 +6,11 @@ hash: fab1a2df20f45a241e5815a62c9c257d
 annum:
     year: 2008
     month: 04
-hostname: blogs.adobe.com
+url-parts:
+    scheme: http
+    host: blogs.adobe.com
+    path: /lightroomjournal/2008/04/lightroom_2_beta_available.html
+
 ---
 
 Version 2 of Lightroom is now available as a public beta, allowing the the photographic community to provide feedback on  new features and workflow enhancements.  It's hard to believe that Lightroom 1.0 was released just over a year ago and Lightroom 1.1 shortly thereafter.  It really feels like the beta process never stopped and we've received a ton of great feedback through the feature request submissions, customer conversations, forum discussions, tradeshows and targeted customer visits. We're glad to continue the process by releasing this version before it's final to get your opinions on our progress.  This is different from the previous Lightroom beta in that we'll be targeting feedback on new enhancements and aiming to release the final version sooner than we did in the previous year-long beta.   I've provided a few key notes below but I strongly recommend reading the entire Release Notes document available on Labs.adobe.com.

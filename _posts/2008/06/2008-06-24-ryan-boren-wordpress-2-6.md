@@ -6,7 +6,12 @@ hash: cd4cc6f0eb64c9c163e952129f25639a
 annum:
     year: 2008
     month: 06
-hostname: boren.nu
+url-parts:
+    scheme: http
+    host: boren.nu
+    path: /
+    query:
+        p: "1554"
 ---
 
 The features we slated for 2.6 have been in the repository for awhile now, so we’re going to start our beta cycle in preparation for a mid-July release.  Get Beta 1 here.  2.6 isn’t a big release like 2.5 was, but it has a few new features for you.

@@ -6,7 +6,11 @@ hash: 6841861897a8b8559fc8a19717e7ac15
 annum:
     year: 2011
     month: 12
-hostname: www.sparql.pro
+url-parts:
+    scheme: http
+    host: www.sparql.pro
+    path: /wiki/Main_Page
+
 ---
 
 - a Semantic MediaWiki directory of semantic web resources:  (via @LinkedWiki)

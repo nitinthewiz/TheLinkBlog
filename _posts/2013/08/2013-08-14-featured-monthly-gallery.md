@@ -6,7 +6,11 @@ hash: d55594c4c70f0961a2a58be2ffc17fe5
 annum:
     year: 2013
     month: 08
-hostname: www.billarmstrong.photography
+url-parts:
+    scheme: http
+    host: www.billarmstrong.photography
+    path: /Other/Featured-Monthly-Gallery/30496618_WptrQP
+
 ---
 
 Amazing Iceland photos.

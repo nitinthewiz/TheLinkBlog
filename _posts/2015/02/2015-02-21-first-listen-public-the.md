@@ -6,7 +6,11 @@ hash: 583536267a9e3f98bfc0687b148b8fe6
 annum:
     year: 2015
     month: 02
-hostname: www.npr.org
+url-parts:
+    scheme: http
+    host: www.npr.org
+    path: /2015/02/15/385549238/first-listen-public-service-broadcasting-the-race-for-space
+
 ---
 
 

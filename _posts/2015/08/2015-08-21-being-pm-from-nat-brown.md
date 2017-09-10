@@ -6,7 +6,11 @@ hash: 997ccd517a35f9fbb32e5515e8b21a39
 annum:
     year: 2015
     month: 08
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /natbro/timelines/611337333711843330
+
 ---
 
 great @ckindel tweet storm about role of PM.

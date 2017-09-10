@@ -6,7 +6,11 @@ hash: 325d4e33cebf550018fa3a7a3f385740
 annum:
     year: 2010
     month: 11
-hostname: blog.planet5d.com
+url-parts:
+    scheme: http
+    host: blog.planet5d.com
+    path: /2010/11/more-canon-eos-5d-mark-ii-aerial-flying-with-quadrocopter/
+
 ---
 
 

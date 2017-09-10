@@ -6,7 +6,11 @@ hash: 02f65d519f2715f2bbdb29a2f506aa68
 annum:
     year: 2007
     month: 11
-hostname: googlereader.blogspot.com
+url-parts:
+    scheme: http
+    host: googlereader.blogspot.com
+    path: /2007/11/attack-of-interns-recommendations-and.html
+
 ---
 
 One of the great things about Reader, and feed readers in general, is that they let you follow sites much more efficiently than you could just by visiting them directly. This means that once you get into the flow of it, you can subscribe and keep track of many more sites than before. The problem then becomes: what should you subscribe to? For example, there are millions of blogs, and while a few are well known, there are many more interesting (micro) niche blogs that would be great to subscribe to, if only you could find them.

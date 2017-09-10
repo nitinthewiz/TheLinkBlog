@@ -6,7 +6,11 @@ hash: e2a91b6f3517ee370a6e85a28ddc544b
 annum:
     year: 2017
     month: 05
-hostname: blog.agilebits.com
+url-parts:
+    scheme: https
+    host: blog.agilebits.com
+    path: /2017/05/18/introducing-travel-mode-protect-your-data-when-crossing-borders/
+
 ---
 
 

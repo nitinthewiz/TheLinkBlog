@@ -6,7 +6,11 @@ hash: 75f800e4ca28d98bfcfd753e675cef6e
 annum:
     year: 2012
     month: 02
-hostname: www.kennethreitz.org
+url-parts:
+    scheme: http
+    host: www.kennethreitz.org
+    path: /xcode-gcc-and-homebrew/
+
 ---
 
 

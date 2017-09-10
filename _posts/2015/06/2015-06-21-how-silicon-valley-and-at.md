@@ -6,7 +6,11 @@ hash: 19791119cb4ee751c680488082940281
 annum:
     year: 2015
     month: 06
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /business/2015/06/how-silicon-valley-and-wall-street-arrived-at-a-new-gold-rush-called-bitcoin/
+
 ---
 
 A new book, Digital Gold, explores all of Bitcoin's big players across the globe.

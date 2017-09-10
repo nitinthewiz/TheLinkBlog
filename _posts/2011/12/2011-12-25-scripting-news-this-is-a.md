@@ -6,7 +6,11 @@ hash: 5cf8a56a7ef7b2783209f6c4d65e1e0b
 annum:
     year: 2011
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/12/24/facebookfreeZone.html
+
 ---
 
 

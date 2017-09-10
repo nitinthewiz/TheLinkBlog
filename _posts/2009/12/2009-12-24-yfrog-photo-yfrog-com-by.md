@@ -6,7 +6,11 @@ hash: ffeb4e972408e8d40c889187c6094778
 annum:
     year: 2009
     month: 12
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /68bzdj
+
 ---
 
 Enjoying a glass of @surlybrewing Darkness courtesy of @krees23. Yum! Merry Christmas! 

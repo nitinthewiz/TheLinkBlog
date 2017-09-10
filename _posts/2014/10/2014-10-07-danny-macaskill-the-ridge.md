@@ -6,7 +6,12 @@ hash: d7140abc29025c067713bab243bd5a33
 annum:
     year: 2014
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "xQ_IQS3VKjA"
 ---
 
 TheRidge is the brand new film from Danny Macaskill... For the first time in one of his films Danny climbs aboard a mountain bike and returns to his native home of the Isle of Skye in Scotland to take on a death-defying ride along the notorious Cuillin Ridgeline.

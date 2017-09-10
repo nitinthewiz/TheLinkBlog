@@ -6,7 +6,11 @@ hash: 0eacb644b051aa4363fa917db50e06e4
 annum:
     year: 2015
     month: 07
-hostname: techpinions.com
+url-parts:
+    scheme: https
+    host: techpinions.com
+    path: /the-state-of-apple-watch-satisfaction/41126
+
 ---
 
 A lot has been written about the Apple Watch. A lot will continue to be written about the Apple Watch. Apple has positioned it as their most personal product

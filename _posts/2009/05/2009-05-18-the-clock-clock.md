@@ -6,7 +6,11 @@ hash: becf839a87d29f247a0991ee94428f5e
 annum:
     year: 2009
     month: 05
-hostname: www.todayandtomorrow.net
+url-parts:
+    scheme: http
+    host: www.todayandtomorrow.net
+    path: /2009/05/18/the-clock-clock/
+
 ---
 
 “The Clock Clock” by Humans Since 1982 is a digital clock made from 24 analogue ones. Those 24 aren’t real clocks anymore like you can see in the video. But still nice.

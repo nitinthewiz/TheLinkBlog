@@ -6,7 +6,11 @@ hash: 3e323f91c04faf464e7664d346da5b54
 annum:
     year: 2012
     month: 09
-hostname: www.markbernstein.org
+url-parts:
+    scheme: http
+    host: www.markbernstein.org
+    path: /NeoVictorian.html
+
 ---
 
 I propose NeoVictorian Computing which, drawing on elements of contemporary culture, might succeed in restoring creative integrity, beauty, and independence to the craft of software.

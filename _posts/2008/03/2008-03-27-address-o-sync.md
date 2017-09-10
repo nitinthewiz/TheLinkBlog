@@ -6,7 +6,11 @@ hash: 9d39e3a39d73243abbcf727b85382112
 annum:
     year: 2008
     month: 03
-hostname: www.slamslash.com
+url-parts:
+    scheme: http
+    host: www.slamslash.com
+    path: /address-o-sync/
+
 ---
 
 

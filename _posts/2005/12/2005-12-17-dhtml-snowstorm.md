@@ -6,7 +6,11 @@ hash: cc14d7fa5e70086a3aeecfc6a392bf2f
 annum:
     year: 2005
     month: 12
-hostname: www.schillmania.com
+url-parts:
+    scheme: http
+    host: www.schillmania.com
+    path: /projects/snowstorm/
+
 ---
 
 Javascript snow effect using PNG with GIF fallback

@@ -6,7 +6,11 @@ hash: 2cea53eb94b9e32bed7de808b3359dba
 annum:
     year: 2009
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /the-nyt-has-more-comment-moderators-than-huffpo-has-reporters-2009-10
+
 ---
 
 

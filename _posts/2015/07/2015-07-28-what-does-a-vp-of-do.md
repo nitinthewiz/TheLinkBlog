@@ -6,7 +6,11 @@ hash: 02b37b57cb312b9a3f5988f63ccc03c4
 annum:
     year: 2015
     month: 07
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@raffi/what-does-a-vp-of-engineering-do-again-553817fbbf2a
+
 ---
 
 “You mean you’re like an engineer-whisperer?”

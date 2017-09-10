@@ -6,7 +6,12 @@ hash: d8e1eaa77559b8d36b3327752dab21ba
 annum:
     year: 2014
     month: 02
-hostname: www.dropbox.com
+url-parts:
+    scheme: https
+    host: www.dropbox.com
+    path: /login
+    query:
+        cont: "https://www.dropbox.com/arbitration_optout"
 ---
 
 Direct link to @Dropbox opt-out: 

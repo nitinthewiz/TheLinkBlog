@@ -6,7 +6,11 @@ hash: e00e8526b3089374ecbf13d38b1632a8
 annum:
     year: 2009
     month: 08
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2009/08/24/webkit-mobil/
+
 ---
 
 There are a lot of brave souls out there making mobile browsers, hoping to gain traction with the phone makers. But most of them are fighting a losing battle, for the mobile browser war is increasingly being fought between two camps —  the Webkit-based browsers camp, which includes Safari on the iPhone, the Google Android Browser, the Palm browser and the Nokia browser; and the Opera camp.

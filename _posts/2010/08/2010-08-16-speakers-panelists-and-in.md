@@ -6,7 +6,11 @@ hash: cdda50f982e68a68d93980afb9640c99
 annum:
     year: 2010
     month: 08
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2010/08/16/speakers-panelists-participants-and-prizes-rolling-in-for-startup-weekend-twin-cities/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b2e474fe8accaf6e2df45e5a45c05483
 annum:
     year: 2010
     month: 07
-hostname: www.twilio.com
+url-parts:
+    scheme: http
+    host: www.twilio.com
+    path: /blog/2010/07/twilio-open-sources-stashboard-the-status-dashboard.html
+
 ---
 
 Some of you may have noticed Twilio's shiny new API Status page at http://status.twilio.com.We're excited to announce that Twilio finally has a modern status page and not only that, we open source it! Yup, you too can download the code and host your own SaaS or API status page. Learn more at http://www.stashboard.org.

@@ -6,7 +6,11 @@ hash: ffad843ba0275bfc2bfe7151a14fa00b
 annum:
     year: 2012
     month: 09
-hostname: alistapart.com
+url-parts:
+    scheme: http
+    host: alistapart.com
+    path: /article/mo-pixels-mo-problems
+
 ---
 
 A good article reviewing the approaches for dealing with different device pixel densities. I've been reading through this to "retina optimize" some of my websites.

@@ -6,7 +6,11 @@ hash: 1dd9b887fd2c995062e2662eb7f0ddfa
 annum:
     year: 2011
     month: 08
-hostname: www.geekchichq.com
+url-parts:
+    scheme: http
+    host: www.geekchichq.com
+    path: /
+
 ---
 
 

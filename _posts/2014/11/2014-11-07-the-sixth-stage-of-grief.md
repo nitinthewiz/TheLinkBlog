@@ -6,7 +6,11 @@ hash: 3868fb77ec89c059a068215d4af58a10
 annum:
     year: 2014
     month: 11
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /message/networks-without-networks-7644933a3100
+
 ---
 
 Or: Networks without networks

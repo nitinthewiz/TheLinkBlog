@@ -6,7 +6,11 @@ hash: e4b1afc1f0085cc685b340ed44856427
 annum:
     year: 2016
     month: 08
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2016/08/is_donald_trump_actually_trying_to_win
+
 ---
 
 Nate Silver, 

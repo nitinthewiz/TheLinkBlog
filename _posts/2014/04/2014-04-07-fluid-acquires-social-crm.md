@@ -6,7 +6,11 @@ hash: 720cc39ab4e8e77e910c075ff0468c42
 annum:
     year: 2014
     month: 04
-hostname: www.fluid.com
+url-parts:
+    scheme: http
+    host: www.fluid.com
+    path: /news/fluid-acquires-social-crm-platform-8thbridge
+
 ---
 
 Big announcement today. 

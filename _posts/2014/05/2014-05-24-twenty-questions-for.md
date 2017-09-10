@@ -6,7 +6,12 @@ hash: 6236ff2b158346891a505c5af69567b4
 annum:
     year: 2014
     month: 05
-hostname: www.informit.com
+url-parts:
+    scheme: http
+    host: www.informit.com
+    path: /articles/article.aspx
+    query:
+        p: "2213858"
 ---
 
 

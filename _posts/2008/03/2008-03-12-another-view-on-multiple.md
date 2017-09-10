@@ -6,7 +6,11 @@ hash: 2e887e59e1b05ce014b7900017f5c2ba
 annum:
     year: 2008
     month: 03
-hostname: blogs.oreilly.com
+url-parts:
+    scheme: http
+    host: blogs.oreilly.com
+    path: /lightroom/2008/03/another-view-on-multiple-catal.html
+
 ---
 
 Multiple catalogs can be a good way to segment large image libraries, especially with diverse content.

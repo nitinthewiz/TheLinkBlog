@@ -6,7 +6,11 @@ hash: f25fcab70a0a869cd6f23cf18d632608
 annum:
     year: 2012
     month: 01
-hostname: imageoptim.com
+url-parts:
+    scheme: https
+    host: imageoptim.com
+    path: /
+
 ---
 
 Critical tool to use before putting images on your website.

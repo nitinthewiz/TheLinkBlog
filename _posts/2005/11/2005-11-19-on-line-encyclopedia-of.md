@@ -6,7 +6,11 @@ hash: cc488ab37384c6742c3428042a120dee
 annum:
     year: 2005
     month: 11
-hostname: www.research.att.com
+url-parts:
+    scheme: http
+    host: www.research.att.com
+    path: /~njas/sequences/
+
 ---
 
 Huge library of integer sequences.

@@ -6,7 +6,11 @@ hash: 374918a0b484392a50fe6c9932cdeb6d
 annum:
     year: 2012
     month: 06
-hostname: jarthurscoffee.com
+url-parts:
+    scheme: http
+    host: jarthurscoffee.com
+    path: /
+
 ---
 
 Looks like a great reinvigorated coffee option in Roseville.

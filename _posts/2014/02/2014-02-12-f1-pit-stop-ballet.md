@@ -6,7 +6,11 @@ hash: 299c47ae1f7b24ade36bba45d9485d93
 annum:
     year: 2014
     month: 02
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /14/02/f1-pit-stop-ballet
+
 ---
 
 

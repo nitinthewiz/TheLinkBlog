@@ -6,7 +6,11 @@ hash: 18383e3dad1650e3de9dbe9bd38c1c02
 annum:
     year: 2013
     month: 06
-hostname: 99u.com
+url-parts:
+    scheme: http
+    host: 99u.com
+    path: /book/manage-your-day-to-day-2
+
 ---
 
 Looks like a good read.

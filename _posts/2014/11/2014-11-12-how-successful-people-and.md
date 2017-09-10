@@ -6,7 +6,12 @@ hash: 2a223cad0bdc4767836c067c3835ab55
 annum:
     year: 2014
     month: 11
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /today/post/article/20141110142734-50578967-how-successful-people-stay-productive
+    query:
+        _mSplash: "1"
 ---
 
 TalentSmart has tested more than a million people and found that the upper echelons of top performance are filled with people who are high in emotional intelligence (90% of top performers, to be

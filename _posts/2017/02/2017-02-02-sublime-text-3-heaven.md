@@ -6,7 +6,11 @@ hash: 77e54202e2e4d857e64210aa53d7ae07
 annum:
     year: 2017
     month: 02
-hostname: www.kennethreitz.org
+url-parts:
+    scheme: https
+    host: www.kennethreitz.org
+    path: /essays/sublime-text-3-heaven
+
 ---
 
 I decided to revisit my editor configuration the other night, and experimented with every possible editor I could think of / imagine.

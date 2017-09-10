@@ -6,7 +6,11 @@ hash: 44f2afb547f3e67c71fe6574d0c883ee
 annum:
     year: 2005
     month: 12
-hostname: www.candlepowerforums.com
+url-parts:
+    scheme: http
+    host: www.candlepowerforums.com
+    path: /vb/showthread.php
+    query:
 ---
 
 

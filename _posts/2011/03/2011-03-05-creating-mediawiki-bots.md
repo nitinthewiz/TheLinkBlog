@@ -6,7 +6,11 @@ hash: b08f1ba5a33f737fa0f065c144549f2b
 annum:
     year: 2011
     month: 03
-hostname: wikisum.com
+url-parts:
+    scheme: http
+    host: wikisum.com
+    path: /w/User:Adam/Creating_MediaWiki_bots_in_PHP
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 050201dcfd11e8f81666be4341814f43
 annum:
     year: 2010
     month: 12
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /law/2010/07/26/pentagon-papers-ii-on-wikileaks-and-the-first-amendment/
+
 ---
 
 3 interesting news pieces on #WikiLeaks & the First Amendment

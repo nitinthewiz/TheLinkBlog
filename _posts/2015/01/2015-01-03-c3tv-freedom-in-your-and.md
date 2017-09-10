@@ -6,7 +6,11 @@ hash: a8fb65920059c89bcfe57e4be75cebc9
 annum:
     year: 2015
     month: 01
-hostname: media.ccc.de
+url-parts:
+    scheme: http
+    host: media.ccc.de
+    path: /browse/congress/2014/31c3_-_6123_-_en_-_saal_1_-_201412291130_-_freedom_in_your_computer_and_in_the_net_-_richard_stallman.html
+
 ---
 
 For freedom in your own computer, the software must be free. For freedom on the internet, we must organize against surveillance, censorship, SaaSS and the war against sharing.

@@ -6,7 +6,11 @@ hash: f13e1c734fe278cec084e684486317ac
 annum:
     year: 2011
     month: 09
-hostname: public.numair.com
+url-parts:
+    scheme: http
+    host: public.numair.com
+    path: /2011_fbfool.html
+
 ---
 
 

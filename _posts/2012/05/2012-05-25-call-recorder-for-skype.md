@@ -6,7 +6,11 @@ hash: 95833390abe703e2f45b90cf89d6d8d9
 annum:
     year: 2012
     month: 05
-hostname: www.ecamm.com
+url-parts:
+    scheme: http
+    host: www.ecamm.com
+    path: /mac/callrecorder/
+
 ---
 
 Call Recorder is an add-on for Skype to automatically transform your audio or video calls into movies.

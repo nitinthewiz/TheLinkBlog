@@ -6,7 +6,11 @@ hash: 92b5ee28aa208b9f157c93ed22011eb3
 annum:
     year: 2015
     month: 08
-hostname: www.novolume.co.uk
+url-parts:
+    scheme: http
+    host: www.novolume.co.uk
+    path: /blog/all-websites-look-the-same/
+
 ---
 
 

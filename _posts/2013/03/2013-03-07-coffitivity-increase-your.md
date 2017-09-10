@@ -6,7 +6,11 @@ hash: 3103c6923821ee94b3e4da9df1914b89
 annum:
     year: 2013
     month: 03
-hostname: www.coffitivity.com
+url-parts:
+    scheme: https
+    host: www.coffitivity.com
+    path: /
+
 ---
 
 

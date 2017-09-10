@@ -6,7 +6,11 @@ hash: 1eaffedfe335f650bf0deed7933aabf8
 annum:
     year: 2016
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /tschoffelen/vibe
+
 ---
 
 A tiny tool that allows you to see how you're doing with your OmniFocus tasks.

@@ -6,7 +6,11 @@ hash: 16afc3660b257f3504497d89879c293d
 annum:
     year: 2013
     month: 04
-hostname: www.cnet.com
+url-parts:
+    scheme: http
+    host: www.cnet.com
+    path: /8301-13578_3-57579958-38.html
+
 ---
 
 By a 5-8 vote, the House Rules committee rejected a bipartisan fix to the CISPA data-sharing bill that would have ensured companies' privacy promises -- including their terms of use and privacy policies -- remained valid and legally enforceable in the future.

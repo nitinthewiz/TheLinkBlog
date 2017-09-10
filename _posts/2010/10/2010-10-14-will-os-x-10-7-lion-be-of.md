@@ -6,7 +6,11 @@ hash: c38a36fa9f41c5a5c94e8cf823b8eb87
 annum:
     year: 2010
     month: 10
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2010/10/13/os-x-lion-10-7/
+
 ---
 
 

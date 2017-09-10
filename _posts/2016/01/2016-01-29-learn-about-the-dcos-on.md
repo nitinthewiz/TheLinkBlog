@@ -6,7 +6,11 @@ hash: 076d895b9c531323303f44260c69b5be
 annum:
     year: 2016
     month: 01
-hostname: mesosphere.com
+url-parts:
+    scheme: https
+    host: mesosphere.com
+    path: /blog/2016/01/29/new-and-improved-docs-site/
+
 ---
 
 Good documentation is important for any software product, no matter how simple or complex the technology is in practice. Mesosphere recently invested months revamping our documentation experience, and we’re proud to finally be able to share it with the world. It has never been easier to find the right information about how to install and run Apache Mesos, our Datacenter Operating System (DCOS) or anything in between.

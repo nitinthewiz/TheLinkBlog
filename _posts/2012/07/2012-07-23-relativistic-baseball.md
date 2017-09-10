@@ -6,7 +6,11 @@ hash: c1cbd3de4d86ae570a816f8f67bfb566
 annum:
     year: 2012
     month: 07
-hostname: what-if.xkcd.com
+url-parts:
+    scheme: http
+    host: what-if.xkcd.com
+    path: /1/
+
 ---
 
 Awesome new thing from xkcd creator.

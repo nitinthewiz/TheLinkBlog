@@ -6,7 +6,11 @@ hash: d2cd89cfee6685ff6dabfe09d5f41ff8
 annum:
     year: 2013
     month: 05
-hostname: coldcallmemaybe.tumblr.com
+url-parts:
+    scheme: http
+    host: coldcallmemaybe.tumblr.com
+    path: /
+
 ---
 
 Funny.

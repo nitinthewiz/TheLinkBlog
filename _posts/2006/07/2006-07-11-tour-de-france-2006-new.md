@@ -6,7 +6,11 @@ hash: 0ecc422d525e75b32d11d0f6fe2184ee
 annum:
     year: 2006
     month: 07
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /packages/html/sports/tdf2006/index.html
+
 ---
 
 

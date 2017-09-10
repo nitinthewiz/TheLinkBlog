@@ -6,7 +6,11 @@ hash: 0502454a65ab860ebf80efff0e1afa45
 annum:
     year: 2008
     month: 04
-hostname: www.howsoftwareisbuilt.com
+url-parts:
+    scheme: http
+    host: www.howsoftwareisbuilt.com
+    path: /2008/04/26/interview-with-leon-shklar-evp-media-technology-reuters/
+
 ---
 
 Interviewers: Scott Swigart and Sean Campbell  Interviewee: Leon Shklar  In this interview we talk with Leon Shklar - EVP of Media Technology for Reuters. In specific, we talk about:   Moving Reuters.com to an open source stack Choosing and supporting open source software Making code changes to open source packages Licenses and governance in open source projects The perception and reality of open source companies   (more)  Bookmark this: Del.icio.usdiggredditTechnoratiStumble UponBloglines

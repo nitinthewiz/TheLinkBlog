@@ -6,7 +6,11 @@ hash: 4d07df6786b356eccf0d29a69fe86d4c
 annum:
     year: 2010
     month: 11
-hostname: www.roubini.com
+url-parts:
+    scheme: http
+    host: www.roubini.com
+    path: /roubini-monitor/260055
+
 ---
 
 My Introduction to the new book by Chris Whalen "Inflated: How Money and Debt Built the American Dream" 

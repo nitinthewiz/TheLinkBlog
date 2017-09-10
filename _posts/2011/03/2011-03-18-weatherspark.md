@@ -6,7 +6,11 @@ hash: d2d70f05da114d99b7ff00c1c98731d3
 annum:
     year: 2011
     month: 03
-hostname: weatherspark.com
+url-parts:
+    scheme: http
+    host: weatherspark.com
+    path: /
+
 ---
 
 WeatherSpark is a new type of weather website, with interactive weather graphs that allow you to pan and zoom through the entire history of any weather station on earth.

@@ -6,7 +6,11 @@ hash: b120bc3f60d237511ace09cf968ee17b
 annum:
     year: 2011
     month: 07
-hostname: openwatch.net
+url-parts:
+    scheme: https
+    host: openwatch.net
+    path: /
+
 ---
 
 We need more of this.

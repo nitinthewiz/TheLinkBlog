@@ -6,7 +6,11 @@ hash: 38c134da02d5dab9c7e00d1829fdcaaf
 annum:
     year: 2015
     month: 10
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00
+
 ---
 
 After more than two years at Imgur, I’ve had to learn a lot about the principles behind writing highly-available (but not AP) fault-resilient systems. While occasionally some systems go down, it’s&hellip;

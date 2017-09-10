@@ -6,7 +6,11 @@ hash: d4a616303f45d8c26ba49332fe575573
 annum:
     year: 2016
     month: 11
-hostname: blogs.office.com
+url-parts:
+    scheme: https
+    host: blogs.office.com
+    path: /2016/11/02/introducing-microsoft-teams-the-chat-based-workspace-in-office-365/
+
 ---
 
 

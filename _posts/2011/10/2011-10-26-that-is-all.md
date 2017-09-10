@@ -6,7 +6,11 @@ hash: 866ae93778a138780efb56b0c6fb26a0
 annum:
     year: 2011
     month: 10
-hostname: www.funnyordie.com
+url-parts:
+    scheme: http
+    host: www.funnyordie.com
+    path: /videos/4cc168ca62/that-is-all
+
 ---
 
 Fabulous book trailer for John Hodgman’s That Is All, the finale in his trilogy of complete world knowledge.

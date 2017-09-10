@@ -6,7 +6,11 @@ hash: 1abf70447c6ef3cfb0abef059ec5aa6d
 annum:
     year: 2006
     month: 06
-hostname: www.lifehacker.com
+url-parts:
+    scheme: http
+    host: www.lifehacker.com
+    path: /
+
 ---
 
 

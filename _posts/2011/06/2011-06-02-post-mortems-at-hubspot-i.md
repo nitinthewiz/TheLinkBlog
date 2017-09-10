@@ -8,7 +8,11 @@ hash: 3328610cada97a555a79f01a11fe823b
 annum:
     year: 2011
     month: 06
-hostname: dev.hubspot.com
+url-parts:
+    scheme: http
+    host: dev.hubspot.com
+    path: /bid/64771/Post-Mortems-at-HubSpot-What-I-Learned-From-250-Whys
+
 ---
 
 I've seen this article from 4 tech shops, but this is the best version yet: What I Learned From 250 Whys http://t.co/BiliSbm v/ @HubSpotDev

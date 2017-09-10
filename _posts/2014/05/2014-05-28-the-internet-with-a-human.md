@@ -6,7 +6,11 @@ hash: bf91cb0067cdafb97553ec195630fc76
 annum:
     year: 2014
     month: 05
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /bt14.htm
+
 ---
 
 Maciej Cegłowski: "How do we build an Internet we're not ashamed of?" 

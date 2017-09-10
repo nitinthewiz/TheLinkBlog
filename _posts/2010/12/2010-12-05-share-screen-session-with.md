@@ -6,7 +6,12 @@ hash: cdccccb5d470cff372227ca88d48a74f
 annum:
     year: 2010
     month: 12
-hostname: ubuntuforums.org
+url-parts:
+    scheme: http
+    host: ubuntuforums.org
+    path: /showthread.php
+    query:
+        t: "299286"
 ---
 
 

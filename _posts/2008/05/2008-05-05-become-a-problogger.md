@@ -6,7 +6,11 @@ hash: 4cafdd85804055278820ca1472c3fd4e
 annum:
     year: 2008
     month: 05
-hostname: www.problogger.net
+url-parts:
+    scheme: http
+    host: www.problogger.net
+    path: /archives/2008/05/05/become-a-problogger-premium-sponsor/
+
 ---
 
 Do you have a product or service aimed at bloggers that youd like to be put in front of hundreds of thousands of bloggers?

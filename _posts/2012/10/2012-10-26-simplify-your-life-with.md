@@ -6,7 +6,11 @@ hash: ce2e9d574bfc6cf3edd1b9caedfc1e04
 annum:
     year: 2012
     month: 10
-hostname: nerderati.com
+url-parts:
+    scheme: http
+    host: nerderati.com
+    path: /2011/03/simplify-your-life-with-an-ssh-config-file/
+
 ---
 
 I can't wait to highlight to some of my nerdy friends that like to bug me for the alternative port that I run SSH on, that is also the one highlighted in this smart blog post.

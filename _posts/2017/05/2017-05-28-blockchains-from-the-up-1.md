@@ -6,7 +6,11 @@ hash: d162cfac8c608b20d2d7493544d684bf
 annum:
     year: 2017
     month: 05
-hostname: johnmathews.eu
+url-parts:
+    scheme: http
+    host: johnmathews.eu
+    path: /blockchain-introduction.html
+
 ---
 
 Using a scenario that begins with the exchange of apples for oranges, understand the essential concepts and advantages of blockchains.

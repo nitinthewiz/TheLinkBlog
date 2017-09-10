@@ -6,7 +6,11 @@ hash: 6850e0b6c4043f85a2360ac9f3d09496
 annum:
     year: 2009
     month: 08
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/wikimedia_celebrates_hewlett_grant.php
+
 ---
 
 The Wikimedia Foundation just emailed ReadWriteWeb to announce receipt of $500,000 in grant funding from The William and Flora Hewlett Foundation. The grant is a part of a $100 million dollar program to fund open education resources, and given Wikimedia's mission to encourage the growth, development and distribution of free, multilingual content, the Hewlett Foundation couldn't have chosen a better org. 

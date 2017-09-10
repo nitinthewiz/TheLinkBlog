@@ -6,7 +6,11 @@ hash: 43eea0578dd549c3199b231202bc0037
 annum:
     year: 2008
     month: 07
-hostname: www.cameralabs.com
+url-parts:
+    scheme: http
+    host: www.cameralabs.com
+    path: /reviews/Canon_WFT_E3A/video_review.shtml
+
 ---
 
 I'm trying to convince myself that I actually need a Canon WFT-E3. 

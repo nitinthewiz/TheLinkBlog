@@ -6,7 +6,11 @@ hash: 8ea321d88f3ce8355d5b787d99e479e1
 annum:
     year: 2006
     month: 04
-hostname: www.buzzpatrol.com
+url-parts:
+    scheme: http
+    host: www.buzzpatrol.com
+    path: /news/funny/firefox-and-retarded-browsers-004071.php
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5c8cb4ef350635944e8ca3fc59df641e
 annum:
     year: 2011
     month: 08
-hostname: visualnews.columnfivemedia.netdna-cdn.com
+url-parts:
+    scheme: http
+    host: visualnews.columnfivemedia.netdna-cdn.com
+    path: /wp-content/uploads/2011/06/orwell-huxley-world.png
+
 ---
 
 Orwell was right in some places, but Huxley nailed it on the head in America - 

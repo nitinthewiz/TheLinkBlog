@@ -6,7 +6,11 @@ hash: 3d16c11345f3d4ae1762e149f0114e86
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/24/noteToIndependentTechBlogg.html
+
 ---
 
 Can we? Not sure.

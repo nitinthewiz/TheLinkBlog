@@ -6,7 +6,11 @@ hash: 82acb54b30c59be039c8e7c80d04fdf1
 annum:
     year: 2011
     month: 11
-hostname: unixwiz.net
+url-parts:
+    scheme: http
+    host: unixwiz.net
+    path: /techtips/iguide-crypto-hashes.html
+
 ---
 
 

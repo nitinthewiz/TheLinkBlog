@@ -6,7 +6,11 @@ hash: c6ee5e281027d418f262370380bdd5d6
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/06/apple-releases-official-keynotes-podcast/
+
 ---
 
 

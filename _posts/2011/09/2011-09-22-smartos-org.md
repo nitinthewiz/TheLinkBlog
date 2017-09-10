@@ -6,7 +6,11 @@ hash: 5d759259660399f578d3a9da7782c303
 annum:
     year: 2011
     month: 09
-hostname: smartos.org
+url-parts:
+    scheme: http
+    host: smartos.org
+    path: /
+
 ---
 
 

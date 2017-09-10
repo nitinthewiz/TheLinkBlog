@@ -6,7 +6,11 @@ hash: 34baf47e1e7167f78b205f5b4397c167
 annum:
     year: 2012
     month: 05
-hostname: misener.org
+url-parts:
+    scheme: http
+    host: misener.org
+    path: /kickstarter-hides-failure/
+
 ---
 
 Survivor Bias being enforced by algorithm.

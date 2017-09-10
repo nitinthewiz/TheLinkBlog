@@ -6,7 +6,11 @@ hash: 8463bc1c12b3a1e60aceeba83578cc3f
 annum:
     year: 2015
     month: 07
-hostname: www.mgadams.com
+url-parts:
+    scheme: http
+    host: www.mgadams.com
+    path: /2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/
+
 ---
 
 

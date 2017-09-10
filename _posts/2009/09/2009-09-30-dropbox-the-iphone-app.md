@@ -6,7 +6,11 @@ hash: e650d2e8813f75e4165fdd2cf2455f1d
 annum:
     year: 2009
     month: 09
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/09/29/dropbox-the-iphone-app-has-dropped/
+
 ---
 
 

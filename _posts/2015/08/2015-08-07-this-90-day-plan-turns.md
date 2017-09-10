@@ -6,7 +6,11 @@ hash: 9631b734d14af27092191f8358da5733
 annum:
     year: 2015
     month: 08
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+
 ---
 
 There’s an all-too-common cycle in tech these days. Startup avoids management. Founder makes all the decisions. Startup gets traction. Hiring takes off. Management is suddenly needed. Founder…

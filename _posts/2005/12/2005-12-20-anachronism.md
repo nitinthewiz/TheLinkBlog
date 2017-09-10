@@ -6,7 +6,11 @@ hash: 4e62f484f09aca0fe68cf3ada5e452bc
 annum:
     year: 2005
     month: 12
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Anachronism_%28game%29
+
 ---
 
 Anachronism is a tabletop game with aspects of both miniatures and collectible card genres. The basis of the game is war between various historical characters.

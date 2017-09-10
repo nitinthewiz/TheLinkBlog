@@ -6,7 +6,15 @@ hash: fde3a0c97caec3c18582bb9f7b1be81d
 annum:
     year: 2006
     month: 02
-hostname: www.fuertecases.com
+url-parts:
+    scheme: http
+    host: www.fuertecases.com
+    path: /Merchant2/merchant.mvc
+    query:
+        Screen: "PROD"
+        Product_Code: "SE-D720"
+        Category_Code: "Case_Accessories"
+        Product_Count: "14"
 ---
 
 

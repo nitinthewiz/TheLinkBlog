@@ -6,7 +6,11 @@ hash: 311d19d7533708c3a3d940e8c14f27c1
 annum:
     year: 2015
     month: 12
-hostname: m.soundcloud.com
+url-parts:
+    scheme: https
+    host: m.soundcloud.com
+    path: /modernenterprise/designing-services-delivery-for-modern-enterprise-a-conversation-with-jeff-sussna
+
 ---
 
 In this episode I speak with jeff Sussna, a thought leader on DevOps, Design Thinking and Services Delivery for the modern enterprise

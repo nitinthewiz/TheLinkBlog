@@ -6,7 +6,11 @@ hash: 6561772195312d5bbb9222742495050d
 annum:
     year: 2007
     month: 11
-hostname: www.carbonrally.com
+url-parts:
+    scheme: http
+    host: www.carbonrally.com
+    path: 
+
 ---
 
 

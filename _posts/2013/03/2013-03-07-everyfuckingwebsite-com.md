@@ -6,7 +6,11 @@ hash: bf1fb9ec56bb852924b5cd0bbbbf0b77
 annum:
     year: 2013
     month: 03
-hostname: everyfuckingwebsite.com
+url-parts:
+    scheme: http
+    host: everyfuckingwebsite.com
+    path: /
+
 ---
 
 Hilarious!

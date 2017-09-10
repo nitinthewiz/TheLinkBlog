@@ -6,7 +6,11 @@ hash: 78e8ba261b2a7935774d2d2144b1c02c
 annum:
     year: 2010
     month: 06
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Data_URI_scheme
+
 ---
 
 Huh -- I had no idea about the data: URI scheme. Seems brilliant for small CSS images. 

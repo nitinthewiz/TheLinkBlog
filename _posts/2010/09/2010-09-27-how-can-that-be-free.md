@@ -6,7 +6,11 @@ hash: c6bd11d8e4dc83e3bcd525de9e890cec
 annum:
     year: 2010
     month: 09
-hostname: www.woothemes.com
+url-parts:
+    scheme: http
+    host: www.woothemes.com
+    path: /2010/09/how-can-that-be-free/
+
 ---
 
 A customizable and clean free theme.

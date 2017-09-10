@@ -6,7 +6,11 @@ hash: ec5ad40b3678db1a8e80cfe567647018
 annum:
     year: 2014
     month: 12
-hostname: www.bloomberg.com
+url-parts:
+    scheme: http
+    host: www.bloomberg.com
+    path: /dataview/2014-04-17/how-americans-die.html
+
 ---
 
 

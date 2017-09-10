@@ -6,7 +6,11 @@ hash: b174cbe7d6d0b89fac67f08ff02500a7
 annum:
     year: 2012
     month: 07
-hostname: www.cafeimports.com
+url-parts:
+    scheme: http
+    host: www.cafeimports.com
+    path: /joe.php
+
 ---
 
 I won a private coffee roasting class with Joe at the Matt Call Benefit. I can't wait to set this class up!

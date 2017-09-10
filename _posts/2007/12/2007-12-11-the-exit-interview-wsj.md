@@ -6,7 +6,11 @@ hash: 51ab431b754b6812c05da6e54b77de17
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2007/12/09/419-the-exit-interview-wsj-publisher-gordon-crovitz/
+
 ---
 
 

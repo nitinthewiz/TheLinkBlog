@@ -6,7 +6,11 @@ hash: a47951bee83a1494d358b3d271d4d884
 annum:
     year: 2008
     month: 11
-hostname: www.lessig.org
+url-parts:
+    scheme: http
+    host: www.lessig.org
+    path: /blog/2008/11/web_20_presentation.html
+
 ---
 
 

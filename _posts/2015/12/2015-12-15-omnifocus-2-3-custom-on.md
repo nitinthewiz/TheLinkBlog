@@ -6,7 +6,11 @@ hash: fc936b90a4f92c9e3779355103c4bda5
 annum:
     year: 2015
     month: 12
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /148837801
+
 ---
 
 With OmniFocus for Mac version 2.3, we get custom columns. This let's you see your data exactly how you want it. This short video walks you through how to set up and use this new feature.

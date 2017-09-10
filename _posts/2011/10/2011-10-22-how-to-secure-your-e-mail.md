@@ -6,7 +6,11 @@ hash: c7654515c19c52a25c5218bc88917c7f
 annum:
     year: 2011
     month: 10
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/guides/2011/10/secure-your-e-mail-under-mac-os-x-and-ios-5-with-smime.ars
+
 ---
 
 

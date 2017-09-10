@@ -6,7 +6,11 @@ hash: 864d426c35795c7fedce419f90d670d8
 annum:
     year: 2014
     month: 09
-hostname: www.datainnovation.org
+url-parts:
+    scheme: http
+    host: www.datainnovation.org
+    path: /2014/09/wikipedia-edits-reveal-americas-data-deserts/
+
 ---
 
 RT @traviskorte: I mapped Wikipedia edit rates by U.S county. The result is a nerd map that's not just population density in disguise 

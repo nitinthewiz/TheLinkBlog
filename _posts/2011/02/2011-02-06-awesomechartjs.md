@@ -6,7 +6,11 @@ hash: bf875d73895d5305db472bde8207cb93
 annum:
     year: 2011
     month: 02
-hostname: cyberpython.github.io
+url-parts:
+    scheme: http
+    host: cyberpython.github.io
+    path: /AwesomeChartJS/
+
 ---
 
 AwesomeChartJS is a simple Javascript library that can be used to create charts based on the HTML 5 canvas element.

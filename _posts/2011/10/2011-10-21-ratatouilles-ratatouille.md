@@ -6,7 +6,11 @@ hash: 39c1aae4940bbf9a883ab8ff87eed234
 annum:
     year: 2011
     month: 10
-hostname: smittenkitchen.com
+url-parts:
+    scheme: http
+    host: smittenkitchen.com
+    path: /2007/07/rat-a-too-ee-for-you-ee/
+
 ---
 
 

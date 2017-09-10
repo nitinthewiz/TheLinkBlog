@@ -6,7 +6,11 @@ hash: 5f21aa932b7053dc2cbecce905e84434
 annum:
     year: 2011
     month: 10
-hostname: devopsanywhere.blogspot.com
+url-parts:
+    scheme: http
+    host: devopsanywhere.blogspot.com
+    path: /2011/10/puppet-vs-chef-fight.html
+
 ---
 
 

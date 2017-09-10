@@ -6,7 +6,11 @@ hash: bf2d288ec334083c04166dad8ce7fe36
 annum:
     year: 2012
     month: 11
-hostname: www.macrumors.com
+url-parts:
+    scheme: http
+    host: www.macrumors.com
+    path: /2012/11/15/aaron-sorkins-steve-jobs-biopic-three-30-minute-scenes-taking-place-before-three-product-launches/
+
 ---
 
 Speaking from The Daily Beast's Hero Summit, Sorkin disclosed that the entire movie "is going to be 3 scenes, and take place in real-time." Further, each of the three 30-minute scenes will take place backstage before a major product launch.

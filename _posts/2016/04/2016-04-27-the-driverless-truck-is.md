@@ -6,7 +6,11 @@ hash: 07c78c4631060eccbf64009fb41ba7ef
 annum:
     year: 2016
     month: 04
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
+
 ---
 
 A convoy of self-driving trucks recently drove across Europe and arrived at the Port of Rotterdam. No technology will automate away more jobs 

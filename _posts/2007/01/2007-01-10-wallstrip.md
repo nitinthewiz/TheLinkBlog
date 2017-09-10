@@ -6,7 +6,11 @@ hash: 5e59ed717a4b05a17e89e3980c4a853b
 annum:
     year: 2007
     month: 01
-hostname: www.wallstrip.com
+url-parts:
+    scheme: http
+    host: www.wallstrip.com
+    path: /theshow/
+
 ---
 
 

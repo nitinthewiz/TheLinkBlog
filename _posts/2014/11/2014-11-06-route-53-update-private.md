@@ -6,7 +6,11 @@ hash: ca344339be0298d28ba7592433420cab
 annum:
     year: 2014
     month: 11
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/route-53-update-private-dns-more/
+
 ---
 
 

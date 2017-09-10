@@ -6,7 +6,11 @@ hash: 62221f880cf85924be157bdbef2b1726
 annum:
     year: 2015
     month: 01
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /message/how-paper-magazines-web-engineers-scaled-kim-kardashians-back-end-sfw-6367f8d37688
+
 ---
 
 Hosting that butt is an impressive feat. You can’t just put Kim Kardashian nudes on the Internet and walk away —that would be like putting up a tent in the middle of a hurricane. Your web server would melt. You need to plan.

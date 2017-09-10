@@ -6,7 +6,11 @@ hash: 26d6b9cd6c272317219eae423dbc3c2d
 annum:
     year: 2012
     month: 05
-hostname: code.google.com
+url-parts:
+    scheme: https
+    host: code.google.com
+    path: /p/google-refine/
+
 ---
 
 Google Refine is a power tool for working with messy data, cleaning it up, transforming it from one format into another, extending it with web services, and linking it to databases like Freebase.

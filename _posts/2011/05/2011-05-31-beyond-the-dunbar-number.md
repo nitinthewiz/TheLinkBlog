@@ -6,7 +6,11 @@ hash: c68bacd620b6a511dd44c3e9a289a434
 annum:
     year: 2011
     month: 05
-hostname: www.brainpickings.org
+url-parts:
+    scheme: http
+    host: www.brainpickings.org
+    path: /index.php/2010/03/02/dunbar-interview/
+
 ---
 
 New research confirms Dunbar's theory: We can only have 150 friends  Exclusive interview with Dunbar 

@@ -6,7 +6,11 @@ hash: 60521de59b98407306ff4cc5c6eb30c9
 annum:
     year: 2006
     month: 01
-hostname: virtualkarma.blogspot.com
+url-parts:
+    scheme: http
+    host: virtualkarma.blogspot.com
+    path: /2006/01/complete-list-of-web-20-applications.html
+
 ---
 
 

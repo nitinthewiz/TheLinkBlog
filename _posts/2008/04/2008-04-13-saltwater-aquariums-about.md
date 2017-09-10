@@ -6,7 +6,11 @@ hash: 2ea75c4f71700aedf54734ec78828a3b
 annum:
     year: 2008
     month: 04
-hostname: saltaquarium.about.com
+url-parts:
+    scheme: http
+    host: saltaquarium.about.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 2ffa476994f483af53f3d80a0fcf8b8b
 annum:
     year: 2005
     month: 12
-hostname: cricketforge.com
+url-parts:
+    scheme: http
+    host: cricketforge.com
+    path: /sept/id15.html
+
 ---
 
 

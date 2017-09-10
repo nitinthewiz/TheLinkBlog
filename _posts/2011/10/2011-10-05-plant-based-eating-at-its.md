@@ -6,7 +6,11 @@ hash: 135fce48ff02d033c13ef8b0b7b9557a
 annum:
     year: 2011
     month: 10
-hostname: foodsense.is
+url-parts:
+    scheme: http
+    host: foodsense.is
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4808892054cb9d00474b99fd99d198a1
 annum:
     year: 2011
     month: 01
-hostname: blog.ryanparman.com
+url-parts:
+    scheme: http
+    host: blog.ryanparman.com
+    path: 
+
 ---
 
 RT @Skyzyx: Import Delicious/Pinboard Bookmarks Into Spotlight for Mac OS X.

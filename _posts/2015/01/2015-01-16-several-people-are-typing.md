@@ -6,7 +6,11 @@ hash: ca0471136d514546911bba4164da656c
 annum:
     year: 2015
     month: 01
-hostname: slackhq.com
+url-parts:
+    scheme: http
+    host: slackhq.com
+    path: /post/107934093600/building-the-workplace-we-want
+
 ---
 
 

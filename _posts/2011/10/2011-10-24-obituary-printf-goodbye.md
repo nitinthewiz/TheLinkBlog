@@ -6,7 +6,11 @@ hash: f0fffc100b69d400037f2e23fb88bf47
 annum:
     year: 2011
     month: 10
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /blogs/babbage/2011/10/obituary-0
+
 ---
 
 Pure class from the Economist: printf("goodbye, Dennis");

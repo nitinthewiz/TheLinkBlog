@@ -6,7 +6,11 @@ hash: 92813ff20f52b35cbb636e9d0b79aae6
 annum:
     year: 2006
     month: 05
-hostname: justinram.wordpress.com
+url-parts:
+    scheme: http
+    host: justinram.wordpress.com
+    path: /2006/04/07/connecting-ruby-on-rails-to-microsoft-sql-server/
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: ab1cee2a00e9c07c507c8a8bacba9834
 annum:
     year: 2008
     month: 02
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /playlist
+    query:
+        list: "PLD19BCF9D57320E03"
 ---
 
 

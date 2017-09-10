@@ -6,7 +6,11 @@ hash: 561331c240b6620eea23321c48dce876
 annum:
     year: 2011
     month: 02
-hostname: ruby4kids.com
+url-parts:
+    scheme: http
+    host: ruby4kids.com
+    path: /ruby4kids
+
 ---
 
 

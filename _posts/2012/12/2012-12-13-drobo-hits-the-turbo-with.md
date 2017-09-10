@@ -6,7 +6,11 @@ hash: 9404fc4d30ba45152c2febb3dcd65423
 annum:
     year: 2012
     month: 12
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gadgets/2012/12/drobo-hits-the-turbo-boost-with-newly-launched-5n-home-nas/
+
 ---
 
 I had a FireWire Drobo back in the day and it was interesting but a total dog for performance. This model, with the revamped CPU, SSD for rapid caching and network based would fit really nice into my home network. Very interesting.

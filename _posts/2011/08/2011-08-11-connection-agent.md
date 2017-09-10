@@ -6,7 +6,11 @@ hash: f7634ee9d63d658c08eb94cfa5134e57
 annum:
     year: 2011
     month: 08
-hostname: brandimpact.wordpress.com
+url-parts:
+    scheme: http
+    host: brandimpact.wordpress.com
+    path: /2011/08/10/a-box-you-want-to-uncheck-on-linkedin/
+
 ---
 
 

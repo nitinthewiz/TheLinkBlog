@@ -6,7 +6,11 @@ hash: 627e7f44e8cef4bd8512f309c5fcf314
 annum:
     year: 2010
     month: 07
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2010/07/04/web-founding-fathers/
+
 ---
 
 

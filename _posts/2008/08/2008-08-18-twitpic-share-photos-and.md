@@ -6,7 +6,11 @@ hash: b94ef26c284d68106758aba1bcd6a3fb
 annum:
     year: 2008
     month: 08
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /843z
+
 ---
 
 Mazie loving the airport. 

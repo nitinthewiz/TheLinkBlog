@@ -6,7 +6,11 @@ hash: 991b53504bcaf8aa7a45b43a92b2aad2
 annum:
     year: 2008
     month: 06
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/06/12/oow-eew-ouch-yahoo/
+
 ---
 
 

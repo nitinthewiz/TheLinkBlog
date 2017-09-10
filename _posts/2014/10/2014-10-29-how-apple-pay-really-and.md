@@ -6,7 +6,11 @@ hash: 6ee887be74f24d75e379a1c181f22add
 annum:
     year: 2014
     month: 10
-hostname: www.kirklennon.com
+url-parts:
+    scheme: http
+    host: www.kirklennon.com
+    path: /a/applepay.html
+
 ---
 
 Clearing up misconceptions

@@ -6,7 +6,11 @@ hash: 8a60d3369484c196bc76ebbae2982161
 annum:
     year: 2010
     month: 07
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2010/07/05/slurp-digital-eyedropper-sucks-up-injects-information-wirelessl/
+
 ---
 
 

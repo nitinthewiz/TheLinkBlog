@@ -6,7 +6,11 @@ hash: 5255bb5dd41c4704b72686245792429f
 annum:
     year: 2009
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /start/2009/09/lazyfeed-implements-rsscloudpu.php
+
 ---
 
 In an email today, Lazyfeed cofounder and CEO Ethan Gahng informed us that the RSS reader is now supporting both RSSCloud and PubSubHubBub protocols, allowing for real-time integration of Wordpress, Blogger, Typepad, and Feedburner content.

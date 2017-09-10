@@ -6,7 +6,11 @@ hash: a0d932a25392103d5e559f5299d082a7
 annum:
     year: 2011
     month: 11
-hostname: scobleizer.com
+url-parts:
+    scheme: http
+    host: scobleizer.com
+    path: /2011/11/03/verb-wall-the-40-billion-mark-zuckerberg-is-leaving-on-the-table/
+
 ---
 
 Facebook "view[s] everything like a data roach motel": 

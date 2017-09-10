@@ -6,7 +6,11 @@ hash: f47a158d989c6dcac0176b312f0528c7
 annum:
     year: 2012
     month: 11
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /culture/2012/11/photos-chasing-ice-glaciers-melting
+
 ---
 
 I was on this beach!

@@ -6,7 +6,11 @@ hash: bcc2eb3416f77f77027a2c76c817ca64
 annum:
     year: 2012
     month: 03
-hostname: www.gamepolitics.com
+url-parts:
+    scheme: http
+    host: www.gamepolitics.com
+    path: /2012/03/29/report-anonymous-promises-shut-down-internet-march-31
+
 ---
 
 Anonymous seems to get attributed with potential threats more than they are real threats. This attack on root name servers is a known limitation on the web. I'm skeptical this is real, but the tactic makes sense.

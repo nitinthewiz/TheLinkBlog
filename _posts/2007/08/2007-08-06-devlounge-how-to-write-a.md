@@ -6,7 +6,11 @@ hash: 698c5631429287f2b6c29174573206b7
 annum:
     year: 2007
     month: 08
-hostname: www.devlounge.net
+url-parts:
+    scheme: http
+    host: www.devlounge.net
+    path: /extras/how-to-write-a-wordpress-plugin
+
 ---
 
 How to Write a Wordpress Plugin, written by Ronald Huereca is an extensive, twelve entry series on the process of creating your own Wordpress plugin.

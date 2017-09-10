@@ -6,7 +6,11 @@ hash: 60ac6e9103c2aa59bedfc2c007e7f5d2
 annum:
     year: 2011
     month: 07
-hostname: 37signals.com
+url-parts:
+    scheme: http
+    host: 37signals.com
+    path: /founderstories/slicehost
+
 ---
 
 Slicehost—a scrappy web company bootstrapped with $20,000—cashed out for big bucks in 2008. How did they do it? More importantly, was it worth it?

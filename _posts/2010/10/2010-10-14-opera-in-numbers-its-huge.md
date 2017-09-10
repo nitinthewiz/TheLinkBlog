@@ -6,7 +6,11 @@ hash: 5cbb5b77de0ca8029ed1123ccf1bc2a3
 annum:
     year: 2010
     month: 10
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2010/10/14/opera-in-numbers-its-pretty-huge/
+
 ---
 
 

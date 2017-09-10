@@ -6,7 +6,11 @@ hash: 6a37c315bd1b934e8bc6999c4be1c520
 annum:
     year: 2011
     month: 01
-hostname: longnow.org
+url-parts:
+    scheme: http
+    host: longnow.org
+    path: /essays/richard-feynman-connection-machine/
+
 ---
 
 One day when I was having lunch with Richard Feynman, I mentioned to him that I was planning to start a company to build a parallel computer with a million processors. His reaction was unequivocal, "That is positively the dopiest idea I ever heard." For Richard a crazy idea was an opportunity to either prove it wrong or prove it right. Either way, he was interested. By the end of lunch he had agreed to spend the summer working at the company.

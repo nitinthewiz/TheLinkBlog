@@ -6,7 +6,11 @@ hash: d017b4a8000612edb01cdd6a1987e371
 annum:
     year: 2014
     month: 11
-hostname: tyler.io
+url-parts:
+    scheme: http
+    host: tyler.io
+    path: /2014/11/my-omnifocus-habits-four-years-later/
+
 ---
 
 

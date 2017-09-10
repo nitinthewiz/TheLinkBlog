@@ -6,7 +6,12 @@ hash: d44888afcab1a6ed68c7d16f6522d7a4
 annum:
     year: 2015
     month: 06
-hostname: blog.dshr.org
+url-parts:
+    scheme: http
+    host: blog.dshr.org
+    path: /2015/06/brittle-systems.html
+    query:
+        m: "1"
 ---
 
 

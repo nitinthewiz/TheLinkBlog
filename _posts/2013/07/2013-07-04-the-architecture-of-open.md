@@ -6,7 +6,11 @@ hash: cc7e57bf7be1d68e3dffc27692512ced
 annum:
     year: 2013
     month: 07
-hostname: www.aosabook.org
+url-parts:
+    scheme: http
+    host: www.aosabook.org
+    path: /en/mediawiki.html
+
 ---
 
 So, from the start, the needs and actions of a constantly evolving community of Wikipedia participants have affected MediaWiki's development, and vice versa. The architecture of MediaWiki has been driven many times by initiatives started or requested by the community, such as the creation of Wikimedia Commons, or the Flagged Revisions feature. Developers made major architectural changes because the way that MediaWiki was used by Wikipedians made it necessar

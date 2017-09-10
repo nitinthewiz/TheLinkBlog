@@ -6,7 +6,11 @@ hash: 62ccb9f413f8e1d3928a4d172fa954c0
 annum:
     year: 2015
     month: 04
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2015/04/the-apple-watch/
+
 ---
 
 

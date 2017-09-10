@@ -6,7 +6,11 @@ hash: 7bb85053d1b36c255a8578378ab12688
 annum:
     year: 2011
     month: 12
-hostname: wikistream.wmflabs.org
+url-parts:
+    scheme: http
+    host: wikistream.wmflabs.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c65eeb62979edb52d36e521b6115fc23
 annum:
     year: 2010
     month: 12
-hostname: personas.media.mit.edu
+url-parts:
+    scheme: http
+    host: personas.media.mit.edu
+    path: /
+
 ---
 
 

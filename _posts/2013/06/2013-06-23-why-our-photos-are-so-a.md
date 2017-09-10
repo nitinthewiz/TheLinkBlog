@@ -6,7 +6,11 @@ hash: c2fd031f0cd0f6e11bcbd73493efff9a
 annum:
     year: 2013
     month: 06
-hostname: cjchilvers.com
+url-parts:
+    scheme: http
+    host: cjchilvers.com
+    path: /a-lesser-photographer/blog/2013/6/22/why-our-photos-are-so-forgettable
+
 ---
 
 People often think the technical aspects of their camera are hard. The f-stop, shutter, etc. No. This is the hard part - tell a story.

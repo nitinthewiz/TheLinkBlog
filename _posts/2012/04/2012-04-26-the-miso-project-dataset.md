@@ -6,7 +6,11 @@ hash: 4a1fe5240fe8c7e3d7c1d2e0d0d2b547
 annum:
     year: 2012
     month: 04
-hostname: misoproject.com
+url-parts:
+    scheme: http
+    host: misoproject.com
+    path: /dataset/
+
 ---
 
 Dataset is a JavaScript client-side data transformation and management library. Dataset makes managing client-side data easy by handling loading, parsing, sorting, querying & manipulating data from all sorts of sources.

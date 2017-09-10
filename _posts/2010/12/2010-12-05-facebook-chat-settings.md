@@ -6,7 +6,11 @@ hash: 14cef12c34f823719f55dd4cec61eb66
 annum:
     year: 2010
     month: 12
-hostname: www.facebook.com
+url-parts:
+    scheme: https
+    host: www.facebook.com
+    path: /sitetour/chat.php
+
 ---
 
 

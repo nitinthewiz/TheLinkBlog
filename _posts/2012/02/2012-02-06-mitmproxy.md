@@ -6,7 +6,11 @@ hash: a12fdd2b5b4bc3b643f1705dda441731
 annum:
     year: 2012
     month: 02
-hostname: mitmproxy.org
+url-parts:
+    scheme: http
+    host: mitmproxy.org
+    path: /
+
 ---
 
 mitmproxy is an SSL-capable man-in-the-middle HTTP proxy. It provides a console interface that allows traffic flows to be inspected and edited on the fly.

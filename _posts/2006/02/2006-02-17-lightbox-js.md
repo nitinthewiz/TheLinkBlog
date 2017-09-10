@@ -6,7 +6,11 @@ hash: 02889e96c28afc38610a2567f7ddeb47
 annum:
     year: 2006
     month: 02
-hostname: lokeshdhakar.com
+url-parts:
+    scheme: http
+    host: lokeshdhakar.com
+    path: /projects/lightbox/
+
 ---
 
 

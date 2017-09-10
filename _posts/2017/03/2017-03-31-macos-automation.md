@@ -6,7 +6,11 @@ hash: 462f138669fde91472669707f2d66ced
 annum:
     year: 2017
     month: 03
-hostname: macosxautomation.com
+url-parts:
+    scheme: http
+    host: macosxautomation.com
+    path: /
+
 ---
 
 

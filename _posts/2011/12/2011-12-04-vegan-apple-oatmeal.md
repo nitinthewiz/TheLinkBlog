@@ -6,7 +6,11 @@ hash: 1019d3d7f5db13b1b5e27849acace2d2
 annum:
     year: 2011
     month: 12
-hostname: www.5minutesformom.com
+url-parts:
+    scheme: http
+    host: www.5minutesformom.com
+    path: /38910/vegan-apple-oatmeal-muffins/
+
 ---
 
 

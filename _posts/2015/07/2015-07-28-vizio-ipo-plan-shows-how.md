@@ -6,7 +6,11 @@ hash: 6dcd6e7b60da32cea1c0b4dfa0cee435
 annum:
     year: 2015
     month: 07
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2015/07/24/vizio-ipo-inscape-acr/
+
 ---
 
 While the past few years have been tough for many TV makers (Panasonic, Pioneer, Toshiba, Sony, just to name a few), Vizio has continued to grow its business, a...

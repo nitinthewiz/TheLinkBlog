@@ -6,7 +6,11 @@ hash: 2760cbe97fda7e2692ec0c5bf6e35061
 annum:
     year: 2015
     month: 11
-hostname: www.recursion.org
+url-parts:
+    scheme: http
+    host: www.recursion.org
+    path: /2015/11/22/charles-babbage-perfectionist-engineer
+
 ---
 
 I recently finished Sydney Padua's entertaining and educational The Thrilling Adventures of Lovelace and Babbage. Several of the stories are available online, but the book is well put together (not to mention much easier to read than the web version) and includes a bunch of integrated source materials and illustrated footnotes.

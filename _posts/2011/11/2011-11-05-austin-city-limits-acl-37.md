@@ -6,7 +6,11 @@ hash: a33c5b923e96538efb4b883e13ba5dd0
 annum:
     year: 2011
     month: 11
-hostname: acltv.com
+url-parts:
+    scheme: http
+    host: acltv.com
+    path: /episode/season-37/the-decemberists-gillian-welch/
+
 ---
 
 

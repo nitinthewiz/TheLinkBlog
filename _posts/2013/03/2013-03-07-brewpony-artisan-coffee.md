@@ -6,7 +6,11 @@ hash: 81205628fd4ae36c71494aac73283672
 annum:
     year: 2013
     month: 03
-hostname: brewpony.com
+url-parts:
+    scheme: http
+    host: brewpony.com
+    path: /front/
+
 ---
 
 Were headquartered in Portland, OR, a city so fully of amazing coffee roasters that were lucky to experience these moments regularly

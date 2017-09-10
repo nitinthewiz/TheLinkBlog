@@ -6,7 +6,11 @@ hash: 8182c324f62658f3680bfcd30d8ff295
 annum:
     year: 2011
     month: 01
-hostname: www.creativityfuse.com
+url-parts:
+    scheme: http
+    host: www.creativityfuse.com
+    path: /2010/12/little-people-the-tiny-street-art-project-by-slinkachu/
+
 ---
 
 

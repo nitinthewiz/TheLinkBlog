@@ -6,7 +6,11 @@ hash: c920cb16bab9cdd03475842aebe04bf0
 annum:
     year: 2017
     month: 06
-hostname: www.ribbonfarm.com
+url-parts:
+    scheme: https
+    host: www.ribbonfarm.com
+    path: /2017/05/23/there-are-bots-look-around/
+
 ---
 
 The marketplace of ideas is now struggling with the increasing incidence of algorithmic manipulation and disinformation campaigns.

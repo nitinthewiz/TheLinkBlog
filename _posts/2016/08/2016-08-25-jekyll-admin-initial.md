@@ -6,7 +6,11 @@ hash: be44300941b920b46dd4b4cfcfd9faa8
 annum:
     year: 2016
     month: 08
-hostname: jekyllrb.com
+url-parts:
+    scheme: http
+    host: jekyllrb.com
+    path: /news/2016/08/24/jekyll-admin-initial-release/
+
 ---
 
 community Jekyll

@@ -6,7 +6,11 @@ hash: 738b8b468cc6570c40f4726a134e1919
 annum:
     year: 2014
     month: 09
-hostname: fractio.nl
+url-parts:
+    scheme: http
+    host: fractio.nl
+    path: /2014/09/19/not-a-promotion-a-career-change/
+
 ---
 
 Spot on.

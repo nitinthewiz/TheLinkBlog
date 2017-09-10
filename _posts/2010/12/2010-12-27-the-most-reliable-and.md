@@ -6,7 +6,11 @@ hash: 5eb29b397fd1d3605e59ae829867ab44
 annum:
     year: 2010
     month: 12
-hostname: royal.pingdom.com
+url-parts:
+    scheme: http
+    host: royal.pingdom.com
+    path: /2010/12/17/the-most-reliable-and-unreliable-blogging-services-2/
+
 ---
 
 Spoiler: Tumblr is unreliable.

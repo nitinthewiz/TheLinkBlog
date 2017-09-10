@@ -6,7 +6,11 @@ hash: 564f5f58b7bf0fcbb27516fdc794ca3c
 annum:
     year: 2011
     month: 03
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/speedtesting-qwests-heavy-duty-dsl
+
 ---
 
 After a decade with Speakeasy, I switched to Qwest for my DSL. 

@@ -6,7 +6,11 @@ hash: 32f2b97bee6603c574a4564bc822bfe8
 annum:
     year: 2015
     month: 09
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2015/09/google-2-billion-lines-codeand-one-place
+
 ---
 
 How big is Google? We can answer that question in terms of revenue or stock price or customers or, well, metaphysical influence. But that’s not all. Google is, among other things, a vast…

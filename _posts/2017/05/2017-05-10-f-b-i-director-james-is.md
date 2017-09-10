@@ -6,7 +6,12 @@ hash: c152e8f5065209686a8baf7f9999817c
 annum:
     year: 2017
     month: 05
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: https
+    host: mobile.nytimes.com
+    path: /2017/05/09/us/politics/james-comey-fired-fbi.html
+    query:
+        smprod: "nytcore-iphone"
 ---
 
 Mr. Comey, who is three years into a 10-year term at the helm of the F.B.I., learned from news reports that he had been fired while addressing bureau employees in Los Angeles. While Mr. Comey spoke, television screens in the background began flashing the news. In response to the reports, Mr. Comey laughed, saying that he thought it was a fairly funny prank.

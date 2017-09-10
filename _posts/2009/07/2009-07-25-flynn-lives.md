@@ -6,7 +6,11 @@ hash: 0e8bf2bfba2d4f167936e7a08085571b
 annum:
     year: 2009
     month: 07
-hostname: www.flynnlives.com
+url-parts:
+    scheme: http
+    host: www.flynnlives.com
+    path: /media/video/0xendgame.aspx
+
 ---
 
 HD trailer for the upcoming Tron Legacy. Phenomenal. I love it. (Thanks to Chris Carlozzi.)

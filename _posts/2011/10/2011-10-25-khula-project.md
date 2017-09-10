@@ -6,7 +6,11 @@ hash: 9b593da3f2e16b6244d22025ebd5b93a
 annum:
     year: 2011
     month: 10
-hostname: khulaproject.com
+url-parts:
+    scheme: http
+    host: khulaproject.com
+    path: /
+
 ---
 
 Human-readable privacy policies to simplify privacy and foster confident users.

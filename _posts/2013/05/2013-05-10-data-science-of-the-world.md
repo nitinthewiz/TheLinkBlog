@@ -6,7 +6,11 @@ hash: d11f66d1d46ae89b043f296cc37d01c7
 annum:
     year: 2013
     month: 05
-hostname: blog.stephenwolfram.com
+url-parts:
+    scheme: http
+    host: blog.stephenwolfram.com
+    path: /2013/04/data-science-of-the-facebook-world/
+
 ---
 
 More than a million people have now used our

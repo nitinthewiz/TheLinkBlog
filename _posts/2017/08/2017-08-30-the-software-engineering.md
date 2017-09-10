@@ -6,7 +6,11 @@ hash: f308b37e9d27f4afaa55bde658a2d5de
 annum:
     year: 2017
     month: 08
-hostname: erikbern.com
+url-parts:
+    scheme: https
+    host: erikbern.com
+    path: /2017/08/29/the-software-engineering-rule-of-3.html
+
 ---
 
 I've seen this play out. Early analysis of a problem starts a solution and you get too far in the solution before you realize your assumptions are wrong. While refactoring is cheaper these days, it’s still a good idea to stay on a whiteboard to make sure you understand the problem before writing out the solution.

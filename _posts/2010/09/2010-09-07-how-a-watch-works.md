@@ -6,7 +6,11 @@ hash: 90e429cecd6960d0a62ed4eb972e8877
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/how-a-watch-works
+
 ---
 
 From 1949, a video explanation of how the innards of a mechanical wristwatch function.

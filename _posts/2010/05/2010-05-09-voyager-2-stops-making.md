@@ -6,7 +6,11 @@ hash: 09b33814bceadc3049c11dc4c4d3b9c8
 annum:
     year: 2010
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /science/2010/05/voyager-2-stops-making-sense/
+
 ---
 
 Voyager 2, which has been traveling through the solar system since the late '70s, has suffered a data formatting glitch that is preventing NASA from interpreting the content of its scientific data transmissions.  Control and diagnostic transmissions are unaffected, which should enable the engineers at NASA's Jet Propulsion Laboratory to troubleshoot the problem, provided they're patientit currently takes nearly 13 hours for transmissions from Earth to catch up with the probe.  

@@ -6,7 +6,11 @@ hash: 2cacc740cd74c44ede29991a9ef8e06b
 annum:
     year: 2010
     month: 10
-hostname: blog.shop.org
+url-parts:
+    scheme: http
+    host: blog.shop.org
+    path: /2010/10/06/facebook-retail-101-exclusivity-creates-a-frenzy/
+
 ---
 
 Pop-up stores now popping up on @facebook - Jones Apparel's success story of sales & fans  (3 min video)

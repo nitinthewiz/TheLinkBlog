@@ -6,7 +6,11 @@ hash: 7e9be36aa22ac2f8eeb11f1a37b76917
 annum:
     year: 2011
     month: 09
-hostname: www.truth-out.org
+url-parts:
+    scheme: http
+    host: www.truth-out.org
+    path: /goodbye-all-reflections-gop-operative-who-left-cult/1314907779
+
 ---
 
 

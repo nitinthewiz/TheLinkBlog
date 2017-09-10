@@ -6,7 +6,14 @@ hash: c15b95029f06496b1526d20f04bb0e57
 annum:
     year: 2011
     month: 04
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2011/04/amygdala-farmville.html
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: oreilly/radar/atom (O'Reilly Radar)"
 ---
 
 

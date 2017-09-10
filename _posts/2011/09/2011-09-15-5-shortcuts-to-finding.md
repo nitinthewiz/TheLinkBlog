@@ -6,7 +6,11 @@ hash: 42f1d2cde0ff67b93098e4cb4fedf171
 annum:
     year: 2011
     month: 09
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /passion-webinar/
+
 ---
 
 Post written by Leo Babauta.

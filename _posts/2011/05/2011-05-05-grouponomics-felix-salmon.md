@@ -6,7 +6,11 @@ hash: c03d8f56b0d53a26c6b3770201f5c654
 annum:
     year: 2011
     month: 05
-hostname: blogs.reuters.com
+url-parts:
+    scheme: http
+    host: blogs.reuters.com
+    path: /felix-salmon/2011/05/04/grouponomics/
+
 ---
 
 Best thing I've read about Groupon. http://jr.ly/b5cj

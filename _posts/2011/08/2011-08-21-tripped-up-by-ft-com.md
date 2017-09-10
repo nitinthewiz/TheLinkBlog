@@ -6,7 +6,12 @@ hash: 4a103a60a0b423fda38b0a80b1e3517f
 annum:
     year: 2011
     month: 08
-hostname: www.ft.com
+url-parts:
+    scheme: http
+    host: www.ft.com
+    path: /cms/s/2b9dab2e-c817-11e0-9501-00144feabdc0,Authorised=false.html
+    query:
+        _i_location: "http://www.ft.com/cms/s/0/2b9dab2e-c817-11e0-9501-00144feabdc0.html"
 ---
 
 Jeff Sachs' oped in the FT  Globalisation has hit the unskilled hard & has proved a bonanza for the global super-rich

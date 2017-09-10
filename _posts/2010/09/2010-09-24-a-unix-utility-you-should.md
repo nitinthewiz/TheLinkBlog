@@ -6,7 +6,11 @@ hash: 6e81b3b8b4fca09080728a4da6a4f43d
 annum:
     year: 2010
     month: 09
-hostname: www.catonmat.net
+url-parts:
+    scheme: http
+    host: www.catonmat.net
+    path: /blog/unix-utilities-pipe-viewer/
+
 ---
 
 Hi all. I'm starting yet another article series here. This one is going to be about Unix utilities that you should know about. The articles will discuss one Unix program at a time. I'll try to write a good introduction to the tool and give as many examples as I ...

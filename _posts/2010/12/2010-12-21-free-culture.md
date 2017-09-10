@@ -6,7 +6,11 @@ hash: ae7b3e1ff88eaff607886847e5de9be7
 annum:
     year: 2010
     month: 12
-hostname: randomfoo.net
+url-parts:
+    scheme: http
+    host: randomfoo.net
+    path: /oscon/2002/lessig/free.html
+
 ---
 
 

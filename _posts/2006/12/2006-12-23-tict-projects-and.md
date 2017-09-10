@@ -6,7 +6,11 @@ hash: b23b11ee29558847c44c5443a613b265
 annum:
     year: 2006
     month: 12
-hostname: tict.ticalc.org
+url-parts:
+    scheme: http
+    host: tict.ticalc.org
+    path: /projects.html
+
 ---
 
 

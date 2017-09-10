@@ -6,7 +6,11 @@ hash: 6e772073a696d87d6222d4c07e80271f
 annum:
     year: 2011
     month: 03
-hostname: andrewspittle.net
+url-parts:
+    scheme: http
+    host: andrewspittle.net
+    path: /2011/01/14/link-blog-plugin/
+
 ---
 
 

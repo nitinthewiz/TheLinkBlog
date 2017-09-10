@@ -6,7 +6,11 @@ hash: 5acae77563d9223e5c03c836ef6c3da8
 annum:
     year: 2008
     month: 04
-hostname: weblog.rubyonrails.org
+url-parts:
+    scheme: http
+    host: weblog.rubyonrails.org
+    path: /2008/4/11/rails-premieres-on-github/
+
 ---
 
 GitHub has now officially launched and Rails is right there at the premiere. The Rails repository now lives at rails/rails and you can check it out with:

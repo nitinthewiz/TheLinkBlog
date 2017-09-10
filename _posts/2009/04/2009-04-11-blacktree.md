@@ -6,7 +6,11 @@ hash: 241344cae078d0a7cfdc3e77a0f29bef
 annum:
     year: 2009
     month: 04
-hostname: www.blacktree.com
+url-parts:
+    scheme: http
+    host: www.blacktree.com
+    path: /
+
 ---
 
 Quicksilver seems to be getting more unstable for me. I really, really hope this great piece of software lasts! 

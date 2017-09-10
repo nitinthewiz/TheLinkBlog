@@ -6,7 +6,11 @@ hash: a3079af53d610c9c442b6b40aa3e1124
 annum:
     year: 2011
     month: 10
-hostname: mobile.bloomberg.com
+url-parts:
+    scheme: http
+    host: mobile.bloomberg.com
+    path: /news/2011-10-02/koch-brothers-flout-law-getting-richer-with-secret-iran-sales.html
+
 ---
 
 

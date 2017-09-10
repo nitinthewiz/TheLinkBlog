@@ -6,7 +6,11 @@ hash: 4e69f2eb43c0da0bbfe5d378cc91a13a
 annum:
     year: 2014
     month: 11
-hostname: www.ansible.com
+url-parts:
+    scheme: http
+    host: www.ansible.com
+    path: /blog/ansible-1.8-now-released
+
 ---
 
 Ansible 1.8 is now available

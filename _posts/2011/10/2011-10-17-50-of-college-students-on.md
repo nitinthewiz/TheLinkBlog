@@ -6,7 +6,11 @@ hash: a802a8c5346782e373e1baf9df12f88e
 annum:
     year: 2011
     month: 10
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /facebook-students-survey_b62953
+
 ---
 
 

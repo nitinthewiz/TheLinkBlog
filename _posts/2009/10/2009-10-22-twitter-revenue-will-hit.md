@@ -6,7 +6,11 @@ hash: 3ce366d574151d73cbd381c8af1019bb
 annum:
     year: 2009
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /twitter-will-earn-4-million-this-year-2009-10
+
 ---
 
 

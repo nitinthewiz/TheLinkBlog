@@ -6,7 +6,11 @@ hash: 654d1b960b8e487e41a8cb5223f6c93b
 annum:
     year: 2013
     month: 03
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2013/02/howto-opt-out-databrokers-showing-your-targeted-advertisements-facebook
+
 ---
 
 Facebook has announced that its teaming up with four of the worlds largest corporate data brokers to enhance the ad experience for users. Datalogix, Epsilon, Acxiom, and BlueKai obtain information gathered about users through online means (such as through cookies when users surf the web) as well as through offline means (such as through loyalty cards at supermarkets and product warranty cards)1.  Through the new relationship with Facebook, companies will be able to display advertisements to Facebook users based on data that these data brokers have on individuals.

@@ -6,7 +6,11 @@ hash: 063b0f439544183105ea525c1ad7ab26
 annum:
     year: 2009
     month: 03
-hostname: simpable.com
+url-parts:
+    scheme: http
+    host: simpable.com
+    path: /code/spark/
+
 ---
 
 I finally got a chance to spend some time with the Spark View Engine by Louis DeJardin. While I am sure I am just scratching the surface on what you can be accomplished with it, I can say without a doubt I am already in love. 

@@ -6,7 +6,11 @@ hash: 1d24f6cb6dacb2d4cdfd44620beb03d9
 annum:
     year: 2009
     month: 02
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /articles/9557617581/canon5dmarkiireview
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: c56b2fc52ddd9eb97c96bde393de7110
 annum:
     year: 2010
     month: 12
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/taste/112618099.html
+    query:
+        elr: "KArks7PYDiaK7DUqEiaDUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUr"
 ---
 
 Our cup overfloweth! Beautiful words (& nice pic) in Rick Nelson's @startribune 2010 year in review: 

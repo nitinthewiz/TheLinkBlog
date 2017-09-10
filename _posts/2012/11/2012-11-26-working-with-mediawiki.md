@@ -6,7 +6,11 @@ hash: 8050230739ae6b2ba6aa7f6aa13c6b98
 annum:
     year: 2012
     month: 11
-hostname: workingwithmediawiki.com
+url-parts:
+    scheme: http
+    host: workingwithmediawiki.com
+    path: /
+
 ---
 
 Buying this.

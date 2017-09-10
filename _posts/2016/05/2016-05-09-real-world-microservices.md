@@ -6,7 +6,11 @@ hash: 9848b6209b36497468c7666a6c98235d
 annum:
     year: 2016
     month: 05
-hostname: blog.buoyant.io
+url-parts:
+    scheme: https
+    host: blog.buoyant.io
+    path: /2016/05/04/real-world-microservices-when-services-stop-playing-well-and-start-getting-real/
+
 ---
 
 Microservices allow engineering teams to move quickly to grow a product

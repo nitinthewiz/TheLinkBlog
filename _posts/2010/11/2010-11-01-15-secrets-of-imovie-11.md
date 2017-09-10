@@ -6,7 +6,11 @@ hash: b55e5552169e62eb6157e996f167e315
 annum:
     year: 2010
     month: 11
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/11712
+    query:
 ---
 
 Apple’s introduction of iMovie ’11 focused largely on the new Movie Trailers feature, audio editing improvements, and One-Step Effects for automating common editing operations. Those are just the highlights, however. Here are 15 features and bits of trivia you may not be aware of about the latest version of iMovie.

@@ -6,7 +6,11 @@ hash: d6306c218bbdfcc8844686f20d730082
 annum:
     year: 2008
     month: 12
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5102149/google-reader-simplifies-look-adds-features
+
 ---
 
 The Official Google Reader Blog announces a handful of changes to Google Reader today, most notably in the form of a visual refresh designed to bring a more streamlined look and feel to Google's...

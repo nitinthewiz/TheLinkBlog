@@ -6,7 +6,11 @@ hash: 37e3206d049517b53aa97bc448c911e0
 annum:
     year: 2013
     month: 03
-hostname: www.semantic-mediawiki.org
+url-parts:
+    scheme: https
+    host: www.semantic-mediawiki.org
+    path: /wiki/Help:Writing_Lua_modules
+
 ---
 
 

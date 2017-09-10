@@ -6,7 +6,11 @@ hash: dc124ccb7ad6224b9fc5a344fb45afce
 annum:
     year: 2015
     month: 11
-hostname: austinmann.com
+url-parts:
+    scheme: http
+    host: austinmann.com
+    path: /trek/iphone-6s-camera-review-switzerland
+
 ---
 
 Optical Image Stabilization (OIS) for video is hands down the most significant improvement in the iPhone 6s Plus camera upgrade. The 6 Plus has OIS for stills (mainly helpful with low-light photos),

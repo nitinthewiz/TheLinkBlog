@@ -6,7 +6,11 @@ hash: 0e95e266d5b2c0ea0549c73475bc0b02
 annum:
     year: 2010
     month: 07
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/07/rupert-murdoch-sees-all
+
 ---
 
 A fantastically entertaining story about a NY Post employee, short pants, and Rupert Murdoch's hidden camera in the cafeteria.

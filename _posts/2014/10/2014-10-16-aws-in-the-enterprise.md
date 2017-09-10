@@ -6,7 +6,11 @@ hash: 382a92621ae01ad7e7f6b4e647ec071f
 annum:
     year: 2014
     month: 10
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /aws-enterprise-collection/aws-in-the-enterprise-b1af6fb8946c
+
 ---
 
 September marked the end of my tenure as the CIO of Dow Jones. This month I am thrilled to start the next chapter of my career with Amazon Web Services as the Head of Enterprise Strategy.

@@ -6,7 +6,11 @@ hash: fcc692fa43d56b3c8910491c4f022ab3
 annum:
     year: 2016
     month: 03
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /underscorephil/dayonelib
+
 ---
 
 A Python library for creating DayOne entries.

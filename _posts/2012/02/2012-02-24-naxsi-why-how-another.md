@@ -6,7 +6,12 @@ hash: ac7cdeea2f9420a52aedc6b99b822881
 annum:
     year: 2012
     month: 02
-hostname: blog.memze.ro
+url-parts:
+    scheme: http
+    host: blog.memze.ro
+    path: /
+    query:
+        p: "39"
 ---
 
 #naxsi #nginx #waf manifesto ! 

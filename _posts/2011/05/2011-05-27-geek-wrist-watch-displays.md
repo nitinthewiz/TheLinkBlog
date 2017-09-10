@@ -6,7 +6,11 @@ hash: ab9133ddee726ea37aedd9500eaf4dc3
 annum:
     year: 2011
     month: 05
-hostname: laughingsquid.com
+url-parts:
+    scheme: http
+    host: laughingsquid.com
+    path: /geek-wrist-watch-displays-numbers-as-mathematical-notations/
+
 ---
 
 

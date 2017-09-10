@@ -6,7 +6,11 @@ hash: 0ceb694ab1d9a52fdc21af89c2f0c0a4
 annum:
     year: 2013
     month: 12
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /commentisfree/2013/dec/05/engineering-moral-effects-technology-impact
+
 ---
 
 This issue deserves so much more attention.

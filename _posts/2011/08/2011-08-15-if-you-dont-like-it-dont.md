@@ -6,7 +6,11 @@ hash: a0ac255a1ad44e9d1b28789c7ced179c
 annum:
     year: 2011
     month: 08
-hostname: socialmediacollective.org
+url-parts:
+    scheme: http
+    host: socialmediacollective.org
+    path: /2011/08/11/if-you-dont-like-it-dont-use-it-its-that-simple-orly/
+
 ---
 
 

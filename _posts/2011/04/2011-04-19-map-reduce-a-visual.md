@@ -6,7 +6,11 @@ hash: a66a259b583fb2cb62906489e8d24516
 annum:
     year: 2011
     month: 04
-hostname: ayende.com
+url-parts:
+    scheme: http
+    host: ayende.com
+    path: /Blog/archive/2010/03/14/map-reduce-ndash-a-visual-explanation.aspx
+
 ---
 
 

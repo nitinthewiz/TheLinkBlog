@@ -6,7 +6,11 @@ hash: b02aec4599ea069951c63d2d4310fa2f
 annum:
     year: 2015
     month: 01
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /article/The-one-cost-engineers-and-product-managers-dont-consider
+
 ---
 
 

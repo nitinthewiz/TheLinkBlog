@@ -6,7 +6,11 @@ hash: 0b6b45bbcc8e1415ee1df11f6930a082
 annum:
     year: 2010
     month: 02
-hostname: appleinsider.com
+url-parts:
+    scheme: http
+    host: appleinsider.com
+    path: /articles/10/02/06/unannounced_core_i7_apple_macbook_pro_benchmarks_surface
+
 ---
 
 A benchmark report for an unreleased Apple MacBook Pro sporting Intel's upcoming dual-core 2.66GHz Core i7 mobile processor was published online this week, suggesting a refresh to the professional notebook line may be imminent.

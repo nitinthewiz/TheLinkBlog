@@ -6,7 +6,11 @@ hash: 70bca9f493bbfbdab50a3f576ed72e59
 annum:
     year: 2017
     month: 08
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@benlesh/rxjs-observable-interop-with-promises-and-async-await-bebb05306875
+
 ---
 
 Reactive + Promises? Sounds fabulous together!

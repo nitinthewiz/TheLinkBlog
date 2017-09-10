@@ -6,7 +6,11 @@ hash: 12045e3fd4081d52fca9e0501947c7e4
 annum:
     year: 2012
     month: 04
-hostname: www.datamancer.net
+url-parts:
+    scheme: http
+    host: www.datamancer.net
+    path: /keyboards/ergo1/ergo1.htm
+
 ---
 
 This looks exceptionally cool.

@@ -6,7 +6,11 @@ hash: 891c9f378c3bd0fe0a3d64e8058d5f15
 annum:
     year: 2015
     month: 10
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news/news/soccer-stadium-goes-to-st-paul
+
 ---
 
 

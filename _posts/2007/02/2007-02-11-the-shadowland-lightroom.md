@@ -6,7 +6,11 @@ hash: d1306758a03d459e468de16060be2313
 annum:
     year: 2007
     month: 02
-hostname: photoshopnews.com
+url-parts:
+    scheme: http
+    host: photoshopnews.com
+    path: /2006/01/09/the-shadowlandlightroom-development-story/
+
 ---
 
 The development of Adobe Lightroom, code named Shadowland, was not something Adobe started after Apple announced Aperture. The Shadowland project has been going on for years.

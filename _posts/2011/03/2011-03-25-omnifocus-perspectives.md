@@ -6,7 +6,14 @@ hash: bf0a4e769caa1de5e4607070d5d7eb4f
 annum:
     year: 2011
     month: 03
-hostname: simplicityisbliss.com
+url-parts:
+    scheme: http
+    host: simplicityisbliss.com
+    path: /2011/03/21/omnifocus-perspectives-galore-basics-today-view/
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: TheBrooksReview (The Brooks Review)"
 ---
 
 

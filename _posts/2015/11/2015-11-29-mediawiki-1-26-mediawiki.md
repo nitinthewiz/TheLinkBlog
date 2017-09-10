@@ -6,7 +6,11 @@ hash: 1681d3a6510261c2dee59babe994c603
 annum:
     year: 2015
     month: 11
-hostname: www.mediawiki.org
+url-parts:
+    scheme: https
+    host: www.mediawiki.org
+    path: /wiki/MediaWiki_1.26
+
 ---
 
 MediaWiki 1.26 now released.

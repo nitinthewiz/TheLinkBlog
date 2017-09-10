@@ -6,7 +6,11 @@ hash: 6aa3e9f8e9574283d3b59da3dffcf14b
 annum:
     year: 2017
     month: 08
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /toddmotto/public-apis
+
 ---
 
 A collective list of public JSON APIs for use in web development.

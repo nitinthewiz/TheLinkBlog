@@ -6,7 +6,11 @@ hash: eae831be0ff5cc320d6dc8cca2badf93
 annum:
     year: 2008
     month: 11
-hostname: osx.iusethis.com
+url-parts:
+    scheme: http
+    host: osx.iusethis.com
+    path: /user/thingles
+
 ---
 
 @kirstinj No prob -- just go to .

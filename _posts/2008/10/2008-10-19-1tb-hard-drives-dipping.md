@@ -6,7 +6,11 @@ hash: f975c8e229ccca9a5db7b38735ba7e0e
 annum:
     year: 2008
     month: 10
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /1TB-HD-100
+
 ---
 
 

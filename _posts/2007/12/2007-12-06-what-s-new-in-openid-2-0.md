@@ -6,7 +6,11 @@ hash: b0306fd834e01ec1471cc856351587af
 annum:
     year: 2007
     month: 12
-hostname: www.windley.com
+url-parts:
+    scheme: http
+    host: www.windley.com
+    path: /archives/2007/12/whats_new_in_openid_20.shtml
+
 ---
 
 

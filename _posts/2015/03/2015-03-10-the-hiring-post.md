@@ -6,7 +6,11 @@ hash: 48a62a8c8ad3507682e3b83228d3574a
 annum:
     year: 2015
     month: 03
-hostname: sockpuppet.org
+url-parts:
+    scheme: http
+    host: sockpuppet.org
+    path: /blog/2015/03/06/the-hiring-post/
+
 ---
 
 

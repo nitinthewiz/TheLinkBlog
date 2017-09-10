@@ -6,7 +6,11 @@ hash: aba56a865893da8253560339b2445883
 annum:
     year: 2012
     month: 02
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /llorieri/extending-piwik-at-r7com
+
 ---
 
 How to handle extreme peaks of traffic with Piwik? Presentation 

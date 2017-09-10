@@ -6,7 +6,11 @@ hash: 2a912f4c3a7776d23be260c2d4eeedd8
 annum:
     year: 2011
     month: 08
-hostname: cartographer-app.com
+url-parts:
+    scheme: http
+    host: cartographer-app.com
+    path: /
+
 ---
 
 Wow, @ATastyPixel's Cartographer app is beautiful.  Create maps that are like art on your iPhone. 

@@ -6,7 +6,11 @@ hash: b62098f69e8e5ef3ee20ea8880462a75
 annum:
     year: 2014
     month: 11
-hostname: www.jimseven.com
+url-parts:
+    scheme: http
+    host: www.jimseven.com
+    path: /2014/04/30/reverse-engineering-espresso/
+
 ---
 
 James Hoffmann | Opinion

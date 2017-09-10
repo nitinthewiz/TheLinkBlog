@@ -6,7 +6,12 @@ hash: c8e1aebbfc0aeacf4a297deeeab7b952
 annum:
     year: 2012
     month: 07
-hostname: edinamn.gov
+url-parts:
+    scheme: http
+    host: edinamn.gov
+    path: /index.php
+    query:
+        section: "centennial-attractions"
 ---
 
 This putting course sounds like it would be a lot of fun. I bet there would be a good spot to play Kubb around here too.

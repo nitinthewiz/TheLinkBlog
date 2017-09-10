@@ -6,7 +6,11 @@ hash: 29c44e29243ad291f8ff6a25ed32dc2d
 annum:
     year: 2017
     month: 07
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: https
+    host: www.washingtonpost.com
+    path: /news/worldviews/wp/2017/07/02/afghanistans-all-girl-robotics-team-wont-be-allowed-to-come-the-u-s/
+
 ---
 
 *Terrible and despicable.* What a message to send to young women pursuing a dream with technology. 

@@ -6,7 +6,11 @@ hash: 059c8f115346af1870ca5935ad72f5ea
 annum:
     year: 2009
     month: 10
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /kyu4u
+
 ---
 
 Resisting the temptation to wear my Sorels this morning.  

@@ -6,7 +6,12 @@ hash: e010970f428bd5f59b766ca8f98f728b
 annum:
     year: 2016
     month: 11
-hostname: www.businessinsider.com.au
+url-parts:
+    scheme: http
+    host: www.businessinsider.com.au
+    path: /programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11
+    query:
+        r: "UK"
 ---
 
 

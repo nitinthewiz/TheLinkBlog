@@ -6,7 +6,11 @@ hash: bdf7eb9fe4098e731663d7462d13cfaf
 annum:
     year: 2011
     month: 12
-hostname: blogs.citypages.com
+url-parts:
+    scheme: http
+    host: blogs.citypages.com
+    path: /food/2011/12/top_10_coffeehouses_twin_cities.php
+
 ---
 
 

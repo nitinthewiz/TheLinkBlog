@@ -6,7 +6,11 @@ hash: d9dbe5c39c3fbd35248d899c23aae40e
 annum:
     year: 2012
     month: 12
-hostname: allthingsd.com
+url-parts:
+    scheme: http
+    host: allthingsd.com
+    path: /20121203/news-corp-shutters-the-daily-ipad-app/
+
 ---
 
 This isn't terribly surprising. Creating a new media brand is very difficult, even when you have the power of one of the largest media organizations behind it.

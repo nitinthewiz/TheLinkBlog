@@ -6,7 +6,11 @@ hash: 5cf94a9f5b927472a0b27e80795bd754
 annum:
     year: 2011
     month: 04
-hostname: www.larryjordan.biz
+url-parts:
+    scheme: http
+    host: www.larryjordan.biz
+    path: /app_bin/wordpress/archives/1452
+
 ---
 
 

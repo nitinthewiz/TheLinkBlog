@@ -6,7 +6,11 @@ hash: 0cca8de6c33ec8f329aa31a7bf4f5ba0
 annum:
     year: 2015
     month: 01
-hostname: www.rajiv.com
+url-parts:
+    scheme: https
+    host: www.rajiv.com
+    path: /blog/2015/01/27/cto-mind-map-culture-technology-operations/
+
 ---
 
 

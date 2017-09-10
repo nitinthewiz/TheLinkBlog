@@ -6,7 +6,11 @@ hash: 49d486c1e7f9f2730256408304c0bd84
 annum:
     year: 2015
     month: 11
-hostname: edge.org
+url-parts:
+    scheme: http
+    host: edge.org
+    path: /conversation/philip_tetlock-edge-master-class-2015-a-short-course-in-superforecasting-class-i
+
 ---
 
 Forecasting Tournaments: What We Discover When We Start Scoring Accuracy

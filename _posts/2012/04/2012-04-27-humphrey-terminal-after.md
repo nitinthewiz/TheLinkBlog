@@ -6,7 +6,11 @@ hash: 2019b435341c0bbd8b04dc1212baaac1
 annum:
     year: 2012
     month: 04
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /local/149210655.html
+
 ---
 
 How would you go about keeping a population of people willing to trade liberties for security? You would likely want to randomly spread news of potential threats, drive peoples fear reactions and remind them that they are constantly being threatened.

@@ -6,7 +6,11 @@ hash: 404d624e77fd4c57c8eec7df9106c9d9
 annum:
     year: 2010
     month: 11
-hostname: voices.washingtonpost.com
+url-parts:
+    scheme: http
+    host: voices.washingtonpost.com
+    path: /posttech/2010/11/the_house_subcommittee_for_com.html
+
 ---
 
 

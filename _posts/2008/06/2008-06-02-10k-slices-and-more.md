@@ -6,7 +6,11 @@ hash: 133bea000dce3e6abb88a5f15da964de
 annum:
     year: 2008
     month: 06
-hostname: www.slicehost.com
+url-parts:
+    scheme: http
+    host: www.slicehost.com
+    path: /articles/2008/6/2/10k-slices-and-more
+
 ---
 
 Slicehost's 2 year anniversary is approaching and it's been a wild ride. We are proud of how much we've grown and the incredible community that has sprung up around our service. Recently we passed the 10,000 slice milestone and decided to use the opportunity to share some interesting metrics.

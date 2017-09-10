@@ -6,7 +6,11 @@ hash: a64a2d81246a5583911b905ee72ccd87
 annum:
     year: 2011
     month: 03
-hostname: www.andrewault.net
+url-parts:
+    scheme: http
+    host: www.andrewault.net
+    path: /2010/05/17/securing-an-ubuntu-server/
+
 ---
 
 

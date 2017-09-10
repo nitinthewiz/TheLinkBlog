@@ -6,7 +6,11 @@ hash: 6b0f460987d0cce83587f27182ca254d
 annum:
     year: 2011
     month: 10
-hostname: reverendbayes.wordpress.com
+url-parts:
+    scheme: http
+    host: reverendbayes.wordpress.com
+    path: /2008/05/29/bayesian-theory-in-new-scientist/
+
 ---
 
 

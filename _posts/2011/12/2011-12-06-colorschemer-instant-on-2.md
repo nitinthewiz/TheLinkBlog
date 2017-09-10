@@ -6,7 +6,11 @@ hash: d90ed813520d682c9dabcbd9f1257d13
 annum:
     year: 2011
     month: 12
-hostname: www.colorschemer.com
+url-parts:
+    scheme: http
+    host: www.colorschemer.com
+    path: /osx_info.php
+
 ---
 
 

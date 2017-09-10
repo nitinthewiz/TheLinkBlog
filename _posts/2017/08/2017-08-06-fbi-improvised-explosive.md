@@ -6,7 +6,11 @@ hash: fdc283b9c8e1482fa3973a7980d36b96
 annum:
     year: 2017
     month: 08
-hostname: startribune.com
+url-parts:
+    scheme: http
+    host: startribune.com
+    path: /blast-investigated-at-bloomington-islamic-center/438715693/
+
 ---
 
 I just get more and more worried about us as a society. Terrible act of violence.

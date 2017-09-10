@@ -6,7 +6,11 @@ hash: e0ad24aeddac8949117750f96d5eef34
 annum:
     year: 2014
     month: 11
-hostname: ferd.ca
+url-parts:
+    scheme: http
+    host: ferd.ca
+    path: /queues-don-t-fix-overload.html
+
 ---
 
 

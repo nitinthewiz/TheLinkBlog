@@ -6,7 +6,11 @@ hash: c7dae6f5b07fafa3b7ef1cdd95ec9488
 annum:
     year: 2011
     month: 01
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2011/01/house-subcommitee-hearing-revives-data
+
 ---
 
 

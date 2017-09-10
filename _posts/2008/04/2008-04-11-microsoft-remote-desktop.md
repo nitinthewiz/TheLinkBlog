@@ -6,7 +6,12 @@ hash: d0f015426badd5f9be9dd8b18fc8c149
 annum:
     year: 2008
     month: 04
-hostname: www.activewin.com
+url-parts:
+    scheme: http
+    host: www.activewin.com
+    path: /awin/comments.asp
+    query:
+        HeadlineIndex: "43414"
 ---
 
 Remote Desktop Connection Client for Mac 2 lets you connect from your Macintosh computer to a Windows-based computer or to multiple Windows-based computers at the same time. After you have connected, you can work with applications and files on the Windows-based computer.

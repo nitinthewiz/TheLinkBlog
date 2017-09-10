@@ -6,7 +6,11 @@ hash: 1b6c04a3aa10e6bbcb588fa9f1714f1c
 annum:
     year: 2012
     month: 11
-hostname: www.flickr.com
+url-parts:
+    scheme: https
+    host: www.flickr.com
+    path: /photos/30835791@N07/sets/72157614241935013/detail/
+
 ---
 
 Some of these are downright spooky.

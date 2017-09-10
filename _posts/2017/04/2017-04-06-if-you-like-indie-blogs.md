@@ -6,7 +6,11 @@ hash: 6157356141d5f7f4290cccb999c8f3cb
 annum:
     year: 2017
     month: 04
-hostname: www.macdrifter.com
+url-parts:
+    scheme: http
+    host: www.macdrifter.com
+    path: /2017/04/if-you-like-indie-blogs-then-share-them.html
+
 ---
 
 

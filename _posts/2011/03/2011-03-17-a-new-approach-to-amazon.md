@@ -6,7 +6,11 @@ hash: d33c281d68e5d5073df8caa2c063105c
 annum:
     year: 2011
     month: 03
-hostname: aws.typepad.com
+url-parts:
+    scheme: http
+    host: aws.typepad.com
+    path: /aws/2011/03/new-approach-amazon-ec2-networking.html
+
 ---
 
 

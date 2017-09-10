@@ -6,7 +6,11 @@ hash: 4d21d16f9fe23f75ffc496ed464ab45d
 annum:
     year: 2009
     month: 07
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /news/2009/07/vote-for-2-9-media-features/
+
 ---
 
 Vote now for media features to be included in WordPress 2.9! 

@@ -6,7 +6,11 @@ hash: cad1a85d984d970749a11ecdedf3228f
 annum:
     year: 2015
     month: 11
-hostname: ow.ly
+url-parts:
+    scheme: http
+    host: ow.ly
+    path: /UR3Bu
+
 ---
 
 This is part three of Portfolio for JIRA

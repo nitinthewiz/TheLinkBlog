@@ -6,7 +6,11 @@ hash: 3c1a6ae2d6b01ddfc633badeec7afefa
 annum:
     year: 2015
     month: 10
-hostname: www.canonrumors.com
+url-parts:
+    scheme: http
+    host: www.canonrumors.com
+    path: /update-on-lightroom-2015-2-lightroom-6-2-release/
+
 ---
 
 By Canon Rumors | October 8, 2015 The Lightroom team wanted to let the community know that we&#x2019;re investigating some critical performance and crasher bugs, and will be issuing an update shortly&hellip;

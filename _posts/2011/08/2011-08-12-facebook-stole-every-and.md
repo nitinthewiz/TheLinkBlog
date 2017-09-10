@@ -6,7 +6,11 @@ hash: b72b9b76534cdcda4dba625b23e2fdbf
 annum:
     year: 2011
     month: 08
-hostname: m.bgr.com
+url-parts:
+    scheme: http
+    host: m.bgr.com
+    path: /2011/08/12/facebook-stole-every-contact-and-phone-number-in-your-phone-heres-how-to-undo-the-damage/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c25a8ab84a6d66220742470876f47ccb
 annum:
     year: 2014
     month: 02
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /linked/2014/02/28/dropbox-arbitration
+
 ---
 
 You absolutely should OptOut RT Opting Out of Dropbox’s Arbitration Clause:  (via @daringfireball)

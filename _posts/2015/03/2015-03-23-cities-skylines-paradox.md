@@ -6,7 +6,11 @@ hash: 43f60684616ef00309f60e6fb1d6989d
 annum:
     year: 2015
     month: 03
-hostname: www.citiesskylines.com
+url-parts:
+    scheme: http
+    host: www.citiesskylines.com
+    path: /
+
 ---
 
 

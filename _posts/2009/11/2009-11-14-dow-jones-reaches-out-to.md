@@ -6,7 +6,11 @@ hash: 4b42332aac8c356dad118423e2ccd68a
 annum:
     year: 2009
     month: 11
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-dow-jones-reaches-out-to-mckinsey-company-says-its-building-not-cutting/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 539cbbaeaa89efe5f9b0bd674cd50fb5
 annum:
     year: 2016
     month: 08
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/developer/preview-the-python-serverless-microframework-for-aws/
+
 ---
 
 Today the AWS Developer Tools team is excited to announce the preview of the Python Serverless Microframework for AWS.

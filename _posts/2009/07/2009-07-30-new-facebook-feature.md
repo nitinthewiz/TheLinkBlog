@@ -6,7 +6,11 @@ hash: 978a9050ed7a6d6cc8917edbc4cdea63
 annum:
     year: 2009
     month: 07
-hostname: mnteractive.com
+url-parts:
+    scheme: http
+    host: mnteractive.com
+    path: /archive/1363
+
 ---
 
 Dear Facebook:

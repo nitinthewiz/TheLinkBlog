@@ -6,7 +6,11 @@ hash: 3a0ff762080fdd51de56db42cf59de8f
 annum:
     year: 2011
     month: 10
-hostname: carrott.org
+url-parts:
+    scheme: http
+    host: carrott.org
+    path: /sleep
+
 ---
 
 

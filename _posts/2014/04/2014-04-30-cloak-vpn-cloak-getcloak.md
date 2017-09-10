@@ -6,7 +6,11 @@ hash: 3d9299628f5718a8c0afc76c7405b482
 annum:
     year: 2014
     month: 04
-hostname: www.GetCloak.com
+url-parts:
+    scheme: https
+    host: www.GetCloak.com
+    path: /
+
 ---
 
 I feel good knowing @GetCloak VPN keeps me safe on public Wi-Fi. 

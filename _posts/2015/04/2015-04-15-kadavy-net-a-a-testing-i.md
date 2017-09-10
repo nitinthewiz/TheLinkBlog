@@ -6,7 +6,11 @@ hash: 96cd902cfa608702c5c00ea91879aa2c
 annum:
     year: 2015
     month: 04
-hostname: kadavy.net
+url-parts:
+    scheme: http
+    host: kadavy.net
+    path: /blog/posts/aa-testing/
+
 ---
 
 There are few things wantrepreneurs (all due respect, I'm a recovering wantrepreneur myself) love to talk about more than running A/B tests. The belief seems

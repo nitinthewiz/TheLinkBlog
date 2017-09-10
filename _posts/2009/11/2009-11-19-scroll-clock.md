@@ -6,7 +6,11 @@ hash: 2f9463b5c3b7e57ccd32b7ccdff418ae
 annum:
     year: 2009
     month: 11
-hostname: toki-woki.net
+url-parts:
+    scheme: http
+    host: toki-woki.net
+    path: /p/scroll-clock/
+
 ---
 
 Nice JavaScript hack.

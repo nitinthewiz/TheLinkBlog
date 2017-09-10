@@ -6,7 +6,11 @@ hash: 57fbfe58f9edb9d5121def3f0ae00b90
 annum:
     year: 2010
     month: 10
-hostname: blog.planet5d.com
+url-parts:
+    scheme: http
+    host: blog.planet5d.com
+    path: /2010/10/canon-hdslrs-capture-crazy-monster-bike-jumps-into-a-pond/
+
 ---
 
 

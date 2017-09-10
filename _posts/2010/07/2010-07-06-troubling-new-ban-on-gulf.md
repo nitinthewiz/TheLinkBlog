@@ -6,7 +6,11 @@ hash: 0fb84fc51ff1aa6ad7e7648e0173429c
 annum:
     year: 2010
     month: 07
-hostname: www.aphotoeditor.com
+url-parts:
+    scheme: http
+    host: www.aphotoeditor.com
+    path: /2010/07/06/troubling-new-ban-on-photographers-covering-gulf-oil-spill/
+
 ---
 
 I’m surprised they didn’t mention homeland security as a reason for this new ban. That seems to be a de facto reason these days to prevent photographers from taking pictures of stuff.

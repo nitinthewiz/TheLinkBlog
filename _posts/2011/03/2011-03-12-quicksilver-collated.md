@@ -6,7 +6,11 @@ hash: 85f7cb23d58a3e96847deda7282c0011
 annum:
     year: 2011
     month: 03
-hostname: qsapp.com
+url-parts:
+    scheme: http
+    host: qsapp.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 8d083aaaedeee96f50ba6c7c3d291627
 annum:
     year: 2012
     month: 04
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /blog/beverage_options
+
 ---
 
 I always get Ginger Ale when I fly. :-)

@@ -6,7 +6,11 @@ hash: 4fc5c47cc20f1a98b72130bed9a4c146
 annum:
     year: 2015
     month: 11
-hostname: softwareengineeringdaily.com
+url-parts:
+    scheme: http
+    host: softwareengineeringdaily.com
+    path: /2015/11/17/machine-learning-and-technical-debt-with-d-sculley/
+
 ---
 
 http://traffic.libsyn.com/sedaily/Tech_Debt_Edited.mp3Podcast: Play in new window |

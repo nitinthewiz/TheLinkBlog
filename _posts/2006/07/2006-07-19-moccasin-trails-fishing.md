@@ -6,7 +6,11 @@ hash: b9a45d00c221ebe58b78656c8f1730bf
 annum:
     year: 2006
     month: 07
-hostname: www.moccasintrailsfishing.com
+url-parts:
+    scheme: http
+    host: www.moccasintrailsfishing.com
+    path: /
+
 ---
 
 We have a wide variety of exceptional fishing adventures available across Northern Ontario.

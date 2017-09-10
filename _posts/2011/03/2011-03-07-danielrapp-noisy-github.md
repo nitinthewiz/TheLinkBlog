@@ -6,7 +6,11 @@ hash: de1b4b7cc8ad438f107bc61faa2dffaa
 annum:
     year: 2011
     month: 03
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /DanielRapp/Noisy
+
 ---
 
 Cross this off my pending experiments list, someone made a jQuery noise generator: 

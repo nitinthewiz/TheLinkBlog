@@ -6,7 +6,11 @@ hash: bc256e1585a338273da601c3ec8cfed8
 annum:
     year: 2013
     month: 05
-hostname: dashes.com
+url-parts:
+    scheme: http
+    host: dashes.com
+    path: /anil/2013/05/zuckerberg-fwd-pac.html
+
 ---
 
 

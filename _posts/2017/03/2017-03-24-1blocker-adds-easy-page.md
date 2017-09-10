@@ -6,7 +6,11 @@ hash: 38e18bad7c8f3aa3eed72fe616a3f168
 annum:
     year: 2017
     month: 03
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/1blocker-adds-easy-page-element-hiding/
+
 ---
 
 

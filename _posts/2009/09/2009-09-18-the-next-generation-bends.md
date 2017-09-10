@@ -6,7 +6,11 @@ hash: e3e3e8a2e8083a3465d9c0aa980a2c6e
 annum:
     year: 2009
     month: 09
-hostname: 37signals.com
+url-parts:
+    scheme: http
+    host: 37signals.com
+    path: /svn/posts/1927-the-next-generation-bends-over
+
 ---
 
 Mint’s sale to Intuit really pissed me off.

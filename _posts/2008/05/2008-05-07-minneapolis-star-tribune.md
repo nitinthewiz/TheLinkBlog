@@ -6,7 +6,11 @@ hash: cdb8727fe6285d19a43be4be36d8d867
 annum:
     year: 2008
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/05/07/419-minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-investm/
+
 ---
 
 Going private isn't a form of immunity: Avista, the PE-fund that bought the Minneapolis Star-Tribune for $530 million in late 2006, has written down 75 percent of its original investment. The leverage fund only put up $100 million of its own cash, with the rest coming form financiers. A letter to the fund's investors, excerpted by the paper, sings a familiar song: "In the past year, the newspaper industry has suffered greater than expected declines in circulation and advertising revenue, particularly in print classified advertising." The letter also denied a NYP report saying the entity was on the brink of bankruptcy, though the firm has hired Blackstone to help it deal with its financial issues.

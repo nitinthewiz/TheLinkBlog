@@ -6,7 +6,12 @@ hash: 5740cd5a1f2439226201adf290b23800
 annum:
     year: 2012
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "qA39BiI_AgI"
 ---
 
 8thBridge Graphite allows your brand to quickly enable shopping experiences from marketing campaigns to on-site commerce.

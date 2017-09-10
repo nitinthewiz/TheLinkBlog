@@ -6,7 +6,11 @@ hash: e33d102cb453c9d5919af3b700d81991
 annum:
     year: 2010
     month: 02
-hostname: mazie.me
+url-parts:
+    scheme: http
+    host: mazie.me
+    path: /
+
 ---
 
 @PhilipHotchkiss Mazie is the winner for domain names, her blog is at . Tyler's site is .

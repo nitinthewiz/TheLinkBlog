@@ -6,7 +6,11 @@ hash: 4a6e8a11a020af822320b84f8898cc17
 annum:
     year: 2010
     month: 09
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2010/09/15/keep-your-mac-notebook-battery-in-good-shape/
+
 ---
 
 

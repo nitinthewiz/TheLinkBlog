@@ -6,7 +6,11 @@ hash: 5c638c7eb67c06977e1e9d58317d3f87
 annum:
     year: 2007
     month: 01
-hostname: www.zscale.org
+url-parts:
+    scheme: http
+    host: www.zscale.org
+    path: /articles/ballast.html
+
 ---
 
 In real life, railroad ties do not simply lay on a field of grass, or on plastic roadbed. Ballast is used to help keep railroad ties from moving over time, as well as to provide sufficient drainage, all in an effort to ensure a resilient and sturdy roadbe

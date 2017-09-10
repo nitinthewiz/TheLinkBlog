@@ -6,7 +6,11 @@ hash: 2021ad8249a583671f63d84ccf7fccea
 annum:
     year: 2012
     month: 06
-hostname: moargh.de
+url-parts:
+    scheme: http
+    host: moargh.de
+    path: /downloads/
+
 ---
 
 Some really nice, original looking WordPress themes.  <blockquote>  </blockquote> 

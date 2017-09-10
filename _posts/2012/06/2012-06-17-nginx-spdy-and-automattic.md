@@ -6,7 +6,11 @@ hash: 639c612e4606ea11a5a3001dff81a2db
 annum:
     year: 2012
     month: 06
-hostname: barry.wordpress.com
+url-parts:
+    scheme: http
+    host: barry.wordpress.com
+    path: /2012/06/16/nginx-spdy-and-automattic/
+
 ---
 
 At Automattic, we have used Nginx since 2008. Since then, it has made its way into almost every piece of our web infrastructure. We use it for load balancing, image serving (via MogileFS), serving static and dynamic web content, and caching. In fact, we have almost 1000 servers running Nginx today, serving over 100,000 requests per second.

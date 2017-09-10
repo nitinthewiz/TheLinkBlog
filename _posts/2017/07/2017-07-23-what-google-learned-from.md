@@ -6,7 +6,11 @@ hash: 9932e52da360747501a141506ceba926
 annum:
     year: 2017
     month: 07
-hostname: www.nytimes.com
+url-parts:
+    scheme: https
+    host: www.nytimes.com
+    path: /2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
+
 ---
 
 Long article that could use a TL;DR section but nothing hugely surprising here. Highlights the need for **dependability**, **structure and clarity**, **meaning**, **impact** and **psychological safety**.

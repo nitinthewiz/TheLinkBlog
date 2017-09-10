@@ -6,7 +6,11 @@ hash: fc65e647084eb6d4cb34212ef9eb54c5
 annum:
     year: 2015
     month: 07
-hostname: www.ietf.org
+url-parts:
+    scheme: https
+    host: www.ietf.org
+    path: /mail-archive/web/v6ops/current/msg22455.html
+
 ---
 
 

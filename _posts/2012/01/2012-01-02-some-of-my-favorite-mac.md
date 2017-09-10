@@ -6,7 +6,11 @@ hash: bffbf7f277a6c3c258a8abeb8436207b
 annum:
     year: 2012
     month: 01
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /2011/12/31/some-of-my-favorite-mac-apps-in-2011/
+
 ---
 
 

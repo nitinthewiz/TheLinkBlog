@@ -6,7 +6,11 @@ hash: 404c9c43e329dfd37de9d52f146d65bc
 annum:
     year: 2007
     month: 12
-hostname: www.codethinked.com
+url-parts:
+    scheme: http
+    host: www.codethinked.com
+    path: /the-programmer-dress-code
+
 ---
 
 What is it about programming, or computers in general, that makes people want to grow a beard, have long hair and dress like a slob?

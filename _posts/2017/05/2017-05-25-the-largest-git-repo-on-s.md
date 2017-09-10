@@ -6,7 +6,11 @@ hash: 66f2d80d83bfdd3387dd8d84677dfa3c
 annum:
     year: 2017
     month: 05
-hostname: blogs.msdn.microsoft.com
+url-parts:
+    scheme: https
+    host: blogs.msdn.microsoft.com
+    path: /bharry/2017/05/24/the-largest-git-repo-on-the-planet/
+
 ---
 
 

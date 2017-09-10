@@ -6,7 +6,11 @@ hash: cf0980c91f819f3b79618ceca12542a1
 annum:
     year: 2010
     month: 11
-hostname: blog.pinboard.in
+url-parts:
+    scheme: http
+    host: blog.pinboard.in
+    path: /153/
+
 ---
 
 Good writeup on proper web archiving.

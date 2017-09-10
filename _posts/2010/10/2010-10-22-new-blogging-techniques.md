@@ -6,7 +6,11 @@ hash: 78a05755b6e595b211179bff90cf3ebd
 annum:
     year: 2010
     month: 10
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/10/21/newBloggingTechniques.html
+
 ---
 
 What I call paragraph-level permalinks have made an appearance in Jay Rosen's blog, thanks to the innovative design work of Lauren Rabaino. 

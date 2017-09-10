@@ -6,7 +6,11 @@ hash: 01a7b95adc6c4d009e1c7e1b433dda17
 annum:
     year: 2011
     month: 04
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2011/04/13/things-i-cant-make-up/
+
 ---
 
 On account of a comedy show on Tuesday night and the fact that The Colbert Report was all over my intended topic (and did a much better job of the funny than I would have to boot), I am taking the easy way out for the moment. Enjoy one of the rare moments in which something so idiotic and unintentionally hilarious is said on Fox News that Stephen Colbert, a man who has built an entire media career around the ability to play it straight, can't help but break character and laugh his ass off on camera. 

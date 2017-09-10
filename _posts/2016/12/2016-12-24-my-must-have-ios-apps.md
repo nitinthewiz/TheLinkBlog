@@ -6,7 +6,11 @@ hash: ba5cbdadfe731a905b29f4f845aa1412
 annum:
     year: 2016
     month: 12
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /roundups/my-must-have-ios-apps-web-services-2016-edition/
+
 ---
 
 

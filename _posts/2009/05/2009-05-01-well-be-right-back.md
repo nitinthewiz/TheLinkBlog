@@ -6,7 +6,11 @@ hash: 16385def7712609ba38c5e000b7ffed3
 annum:
     year: 2009
     month: 05
-hostname: www.geni.com
+url-parts:
+    scheme: http
+    host: www.geni.com
+    path: /blog/well-be-right-back-1/
+
 ---
 
 UPDATE: We're back. Details of the new features will be posted soon.

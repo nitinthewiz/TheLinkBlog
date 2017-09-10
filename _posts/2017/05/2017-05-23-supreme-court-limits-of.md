@@ -6,7 +6,11 @@ hash: 002bdced30da8a9442ee6704b9ba65c3
 annum:
     year: 2017
     month: 05
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: https
+    host: www.washingtonpost.com
+    path: /politics/courts_law/supreme-court-makes-it-harder-for-patent-trolls-to-find-friendly-court/2017/05/22/7dba0426-3f20-11e7-adba-394ee67a7582_story.html
+
 ---
 
 This is a good thing. Patent trolls plague the tech industry and this should remove some of the gaming. There is still a long way to go on patent reform though. This line caught my eye though.

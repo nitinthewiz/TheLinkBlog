@@ -6,7 +6,11 @@ hash: 888041c711084b18744eaa3b4bdda30c
 annum:
     year: 2012
     month: 02
-hostname: regex.learncodethehardway.org
+url-parts:
+    scheme: http
+    host: regex.learncodethehardway.org
+    path: /book/
+
 ---
 
 

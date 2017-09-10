@@ -6,7 +6,11 @@ hash: 74d0325a1238a1db3a0bdcb7f3de0122
 annum:
     year: 2017
     month: 04
-hostname: www.webstock.org.nz
+url-parts:
+    scheme: http
+    host: www.webstock.org.nz
+    path: /talks/emoji-fun-profit/
+
 ---
 
 

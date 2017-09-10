@@ -6,7 +6,11 @@ hash: 12cd31b188fd77a7d86af01de99c0a4f
 annum:
     year: 2013
     month: 06
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/adamtanner/2013/06/19/theres-a-billion-reasons-not-to-give-stores-your-zip-code-ever/
+
 ---
 
 

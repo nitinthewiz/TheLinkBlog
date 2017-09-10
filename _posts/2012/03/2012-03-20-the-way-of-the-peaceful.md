@@ -6,7 +6,11 @@ hash: 25becf5dd19e6bda4a3f1ac6468d77ab
 annum:
     year: 2012
     month: 03
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /the-way/
+
 ---
 
 

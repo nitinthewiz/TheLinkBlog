@@ -6,7 +6,11 @@ hash: 78b09c46d622f2276ba4945a17eaead1
 annum:
     year: 2005
     month: 12
-hostname: cleardarksky.com
+url-parts:
+    scheme: http
+    host: cleardarksky.com
+    path: /c/ChnhssnMNkey.html
+    query:
 ---
 
 Observing conditions for home.

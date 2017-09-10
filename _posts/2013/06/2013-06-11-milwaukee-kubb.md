@@ -6,7 +6,11 @@ hash: 0b0b6d0ea9b49afb26abe1813a201b6f
 annum:
     year: 2013
     month: 06
-hostname: kubbmilwaukee.com
+url-parts:
+    scheme: http
+    host: kubbmilwaukee.com
+    path: /
+
 ---
 
 Another community Kubb site!

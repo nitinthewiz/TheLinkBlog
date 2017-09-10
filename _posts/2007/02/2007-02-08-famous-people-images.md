@@ -6,7 +6,11 @@ hash: b61147a86fef719c5942eab8b808d232
 annum:
     year: 2007
     month: 02
-hostname: www.kevo.net
+url-parts:
+    scheme: http
+    host: www.kevo.net
+    path: 
+
 ---
 
 

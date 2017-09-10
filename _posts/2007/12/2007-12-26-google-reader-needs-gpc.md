@@ -6,7 +6,12 @@ hash: 23223081c4321eb7d1fbd547a1687173
 annum:
     year: 2007
     month: 12
-hostname: scobleizer.com
+url-parts:
+    scheme: http
+    host: scobleizer.com
+    path: /
+    query:
+        p: "3948"
 ---
 
 Oh, man, is the Google Reader team under attack for its new social networking features.

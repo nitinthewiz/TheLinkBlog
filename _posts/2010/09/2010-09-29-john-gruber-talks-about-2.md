@@ -6,7 +6,11 @@ hash: 61ba375cb8f50b2aad546fbf29fdc544
 annum:
     year: 2010
     month: 09
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2010/09/29/john-gruber-talks-about-ios-at-web-2-0-conference/
+
 ---
 
 Web 2.0 Expo NY 2010: John Gruber, “Apple and the Open Web”                                  

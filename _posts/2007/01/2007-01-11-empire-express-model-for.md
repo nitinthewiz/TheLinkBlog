@@ -6,7 +6,11 @@ hash: 2335f83b5f3b57403e72cca30e5201cc
 annum:
     year: 2007
     month: 01
-hostname: www.haddonsoftware.com
+url-parts:
+    scheme: http
+    host: www.haddonsoftware.com
+    path: /emexinfo.html
+
 ---
 
 Empire Express harnesses the ease of use and power of the Macintosh so you can quickly, easily, and accurately design your model railroad empire.

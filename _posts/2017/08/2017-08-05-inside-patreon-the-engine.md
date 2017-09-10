@@ -6,7 +6,11 @@ hash: ee36e3759364449c7045cc70e03a755e
 annum:
     year: 2017
     month: 08
-hostname: www.theverge.com
+url-parts:
+    scheme: https
+    host: www.theverge.com
+    path: /2017/8/3/16084248/patreon-profile-jack-conte-crowdfunding-art-politics-culture
+
 ---
 
 

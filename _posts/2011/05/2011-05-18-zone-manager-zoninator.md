@@ -6,7 +6,11 @@ hash: eaf64d6e009e04914312694b77850904
 annum:
     year: 2011
     month: 05
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /extend/plugins/zoninator/
+
 ---
 
 Building CMS sites with WordPress ?  Check out @mjangda Zone Manager plugin -- really powerful: 

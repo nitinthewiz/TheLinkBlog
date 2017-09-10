@@ -6,7 +6,11 @@ hash: b881294540ea8046140d349b64f5edcf
 annum:
     year: 2013
     month: 08
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /jeff-bezos-on-how-innovation-happens-2013-8
+
 ---
 
 Jeff Bezos at his best: "Invention requires a long-term willingness to be misunderstood" It is lonely out there.

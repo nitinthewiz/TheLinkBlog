@@ -6,7 +6,11 @@ hash: 54f9028aa1b998e9091f8525f999fb92
 annum:
     year: 2014
     month: 10
-hostname: dollaraday.co
+url-parts:
+    scheme: https
+    host: dollaraday.co
+    path: /
+
 ---
 
 

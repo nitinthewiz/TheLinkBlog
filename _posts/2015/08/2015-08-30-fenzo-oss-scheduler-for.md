@@ -6,7 +6,12 @@ hash: eb5b260aed982986f2027ee644891421
 annum:
     year: 2015
     month: 08
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2015/08/fenzo-oss-scheduler-for-apache-mesos.html
+    query:
+        m: "1"
 ---
 
 Bringing Netflix to our millions of subscribers is no easy task. The product comprises dozens of services in our distributed environment, each of which is operating a critical component to the…

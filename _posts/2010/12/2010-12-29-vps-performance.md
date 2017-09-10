@@ -6,7 +6,11 @@ hash: 6755bde20d23e6c008256ac928bfb45f
 annum:
     year: 2010
     month: 12
-hostname: uggedal.com
+url-parts:
+    scheme: http
+    host: uggedal.com
+    path: /journal/vps-performance-comparison/
+
 ---
 
 

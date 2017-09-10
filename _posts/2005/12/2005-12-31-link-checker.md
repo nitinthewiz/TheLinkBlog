@@ -6,7 +6,11 @@ hash: cf016550e3b541a14c7bffb01ebafe54
 annum:
     year: 2005
     month: 12
-hostname: www.dotsw.com
+url-parts:
+    scheme: http
+    host: www.dotsw.com
+    path: /linkchecker.html
+
 ---
 
 

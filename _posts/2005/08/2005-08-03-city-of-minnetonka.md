@@ -6,7 +6,11 @@ hash: 647d9b82fca853a58341ef5354668e35
 annum:
     year: 2005
     month: 08
-hostname: eminnetonka.com
+url-parts:
+    scheme: http
+    host: eminnetonka.com
+    path: /
+
 ---
 
 

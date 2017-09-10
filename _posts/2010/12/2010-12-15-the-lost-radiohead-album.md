@@ -6,7 +6,11 @@ hash: dbd4570df579c0bde300129249cc43ff
 annum:
     year: 2010
     month: 12
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/12/the-lost-radiohead-album
+
 ---
 
 Cool.

@@ -6,7 +6,11 @@ hash: b86e41d930e7d38cdb27b6d51d18cfbe
 annum:
     year: 2010
     month: 12
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /international/archive/2010/12/how-wikileaks-just-set-back-democracy-in-zimbabwe/68598/
+
 ---
 
 If his political

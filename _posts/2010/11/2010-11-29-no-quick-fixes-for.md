@@ -6,7 +6,11 @@ hash: 0bdcfe6b12a98ccb7de1e1fde1fb265c
 annum:
     year: 2010
     month: 11
-hostname: online.wsj.com
+url-parts:
+    scheme: http
+    host: online.wsj.com
+    path: /news/articles/SB10001424052748704104104575622080860055498
+
 ---
 
 

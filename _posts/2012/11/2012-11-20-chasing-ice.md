@@ -6,7 +6,11 @@ hash: 8fcf1adf89e0805853d03605a16b7185
 annum:
     year: 2012
     month: 11
-hostname: www.chasingice.com
+url-parts:
+    scheme: http
+    host: www.chasingice.com
+    path: /
+
 ---
 
 I got tickets to go see this at the Uptown Theatre on December 12th.

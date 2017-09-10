@@ -6,7 +6,11 @@ hash: bc70d301028e401de64933ba0c28d5d8
 annum:
     year: 2014
     month: 02
-hostname: amsul.ca
+url-parts:
+    scheme: http
+    host: amsul.ca
+    path: /pickadate.js/
+
 ---
 
 A date picker that is fast and doesn't suck. Amazing.

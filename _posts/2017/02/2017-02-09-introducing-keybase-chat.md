@@ -6,7 +6,11 @@ hash: b9fb5e3615890337bf62cca64fd3aa30
 annum:
     year: 2017
     month: 02
-hostname: keybase.io
+url-parts:
+    scheme: https
+    host: keybase.io
+    path: /blog/keybase-chat
+
 ---
 
 Today we're launching an end-to-end encrypted chat built into Keybase. It's easier to use than other crypto apps. It's scriptable too.

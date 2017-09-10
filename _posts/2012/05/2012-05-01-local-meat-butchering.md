@@ -6,7 +6,11 @@ hash: a81f0f2299890cfc7a119b7e3d3257a5
 annum:
     year: 2012
     month: 05
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/bethhoffman/2012/05/01/local-meat-butchering-goes-nano/
+
 ---
 
 Two things however make this project a possible industry game changer. The first is the cost. The Jeffries say the grand total will be about $150,000  including the costly machinery. While they admit some of the cost savings are because the family owns the land, has done much of the labor and drew up the plans themselves, the fact remains all signs say the project will be built for a fraction of the USDAs estimate.

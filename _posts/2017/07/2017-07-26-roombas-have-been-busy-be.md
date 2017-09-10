@@ -6,7 +6,11 @@ hash: b59e3cfb17d5f72d34a592a1c912b683
 annum:
     year: 2017
     month: 07
-hostname: www.theverge.com
+url-parts:
+    scheme: https
+    host: www.theverge.com
+    path: /2017/7/24/16021610/irobot-roomba-homa-map-data-sale
+
 ---
 
 This is a great example of hidden garbage in terms of service. Nobody has ever bought a Roomba thinking that they would expose the layout of their home to iRobot for them to then do anything with, much less sell it.

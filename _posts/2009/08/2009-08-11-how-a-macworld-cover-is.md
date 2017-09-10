@@ -6,7 +6,11 @@ hash: 92e5d445e9fc1f6741c39df321629c4e
 annum:
     year: 2009
     month: 08
-hostname: peterbelanger.com
+url-parts:
+    scheme: http
+    host: peterbelanger.com
+    path: /posts/36-cover-creation
+
 ---
 
 Captivating time-lapse video from photographer Peter Belanger, showing the process for creating the cover of Macworld magazine.

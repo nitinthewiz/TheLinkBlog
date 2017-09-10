@@ -6,7 +6,11 @@ hash: 05743204e8099b3e2fcb7e3c42ed0e4a
 annum:
     year: 2012
     month: 06
-hostname: openstreetsmpls.com
+url-parts:
+    scheme: http
+    host: openstreetsmpls.com
+    path: /
+
 ---
 
 

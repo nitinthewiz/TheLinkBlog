@@ -6,7 +6,11 @@ hash: 2fddadd9aaed6f5c72ec33246b9b34a7
 annum:
     year: 2011
     month: 04
-hostname: cl.ly
+url-parts:
+    scheme: http
+    host: cl.ly
+    path: /5nAo
+
 ---
 
 

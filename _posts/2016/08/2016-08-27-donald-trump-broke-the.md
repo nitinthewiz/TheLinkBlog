@@ -6,7 +6,11 @@ hash: bb939e154e9737b0ca7d2e5cc6d93167
 annum:
     year: 2016
     month: 08
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /conservative-media-trump-drudge-coulter-2016-8
+
 ---
 
 AP/Reuters/iStock/Business Insider Sean Hannity, sitting comfortably in his air-conditioned New York studios on a hot August afternoon, was on a fiery rant. "Honestly, I am tempted to just say I

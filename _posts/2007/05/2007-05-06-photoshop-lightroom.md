@@ -6,7 +6,11 @@ hash: aa461eab6fa80ba554e86821b6fdc307
 annum:
     year: 2007
     month: 05
-hostname: www.lynda.com
+url-parts:
+    scheme: http
+    host: www.lynda.com
+    path: /Lightroom-tutorials/photoshop-essential-training/364-2.html
+
 ---
 
 Photoshop Lightroom is a powerful new photographic workflow application designed to help photographers expand their creative potential. Photoshop Lightroom Essential Training is all about using this revolutionary new tool to its full potential. One of the

@@ -6,7 +6,11 @@ hash: b94b003bf8b5fde2bb2b29d3711c655f
 annum:
     year: 2013
     month: 06
-hostname: appleinsider.com
+url-parts:
+    scheme: http
+    host: appleinsider.com
+    path: /articles/13/05/31/chicago-sun-times-axes-all-staff-photographers-offers-reporters-iphoneography-training
+
 ---
 
 Wow. And not a good wow.

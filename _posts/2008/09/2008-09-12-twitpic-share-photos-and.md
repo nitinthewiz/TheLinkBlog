@@ -6,7 +6,11 @@ hash: 7cd210c17f01326a5dcc04b5828f8dc5
 annum:
     year: 2008
     month: 09
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /b6wf
+
 ---
 
 This mornings coffee, with a scone, at Kew Gardens.  

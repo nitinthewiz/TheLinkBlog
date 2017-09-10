@@ -6,7 +6,11 @@ hash: 812b8aad90c3630d737cc67fea75d2af
 annum:
     year: 2013
     month: 06
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2013/06/the-ten-fastest-supercomputers-on-the-planet-in-pictures/
+
 ---
 
 Hot!

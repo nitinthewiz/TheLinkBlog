@@ -6,7 +6,11 @@ hash: aa27aae661cdd8785cc71adac91b2e96
 annum:
     year: 2007
     month: 12
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2007/12/sneak-peak-tomorrows-wall-street-journal-cover
+
 ---
 
 

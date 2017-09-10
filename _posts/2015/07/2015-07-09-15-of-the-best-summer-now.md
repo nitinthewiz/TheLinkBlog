@@ -6,7 +6,11 @@ hash: a3b19ebac906772cc6e6a1ad677053bc
 annum:
     year: 2015
     month: 07
-hostname: dailycoffeenews.com
+url-parts:
+    scheme: http
+    host: dailycoffeenews.com
+    path: /2015/07/08/15-of-the-best-summer-coffee-cocktails-being-sold-right-now/
+
 ---
 
 Anyone that's gone down the coffee rabbit hole has at some point chewed on the coffee/wine comparison. The barista/bartender comparison is another tried and true one, and in the past couple years, ...

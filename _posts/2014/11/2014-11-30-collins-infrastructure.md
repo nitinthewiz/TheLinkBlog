@@ -6,7 +6,11 @@ hash: dbd1702b2e436b9181a6492e27f6b5d6
 annum:
     year: 2014
     month: 11
-hostname: tumblr.github.io
+url-parts:
+    scheme: http
+    host: tumblr.github.io
+    path: /collins/
+
 ---
 
 Someone recently asked me to describe collins in a sentence. At Tumblr, it's the infrastructure source of truth and knowledge. Everything about Tumblr production environments is stored and encoded in Collins, and that data is used to drive all of our automation. Sometimes people refer to systems like this as a CMDB, or Configuration Management DataBase.

@@ -6,7 +6,11 @@ hash: 6f4b0f682635303f305ec04d58a793ce
 annum:
     year: 2015
     month: 02
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2015/02/06/seven-startup-videos-from-minnedemo-19/
+
 ---
 
 A strong turnout (~700) combined with a new venue for MinneDemo resulted in an an incredible evening at the Guthrie last night when these seven emerging startups demo’d their products

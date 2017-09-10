@@ -6,7 +6,11 @@ hash: 0030ff729ca65e60e43a66b4d78e83f0
 annum:
     year: 2011
     month: 12
-hostname: www.rei.com
+url-parts:
+    scheme: http
+    host: www.rei.com
+    path: /event/33237/session/41599
+
 ---
 
 PHOTOGRAPHING THE WILD-with Layne Kennedy

@@ -6,7 +6,11 @@ hash: 633b350b6daa908de7e7096f4bc2e28e
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/14/oneGreatThingAboutWikileak.html
+
 ---
 
 Amen.

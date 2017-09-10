@@ -6,7 +6,11 @@ hash: 6f14a818e5cd58cafc1821ff394968f0
 annum:
     year: 2011
     month: 08
-hostname: www.hulu.com
+url-parts:
+    scheme: http
+    host: www.hulu.com
+    path: /watch/268553/the-daily-show-with-jon-stewart-indecision-2012-ron-paul-and-the-top-tier
+
 ---
 
 Speaking of “nah nah, can’t hear you”, here’s Jon Stewart on the cable news channel’s treatment of Ron Paul in the nascent Republican primary race.

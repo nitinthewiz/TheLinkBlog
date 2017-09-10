@@ -6,7 +6,11 @@ hash: 7483f031fcf5c9a59521fd358f855c3d
 annum:
     year: 2016
     month: 09
-hostname: www.twincities.com
+url-parts:
+    scheme: http
+    host: www.twincities.com
+    path: /2016/09/23/suspect-in-st-paul-slaying-released-from-mental-health-hold/
+
 ---
 
 The suspect

@@ -6,7 +6,11 @@ hash: 6b35d04d99ac633de935e973e5a0971e
 annum:
     year: 2011
     month: 08
-hostname: help.ubuntu.com
+url-parts:
+    scheme: https
+    host: help.ubuntu.com
+    path: /community/InstallingSecurityTools
+
 ---
 
 The Ubuntu repositories contain several useful tools for maintaining a secure network and network administration. This page attempts to list the most popular and useful of these utilities, a brief description of them, and how to install them.

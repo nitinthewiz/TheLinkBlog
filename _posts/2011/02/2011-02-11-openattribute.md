@@ -6,7 +6,11 @@ hash: 226f3843a9e99300170313537480dcd2
 annum:
     year: 2011
     month: 02
-hostname: openattribute.com
+url-parts:
+    scheme: http
+    host: openattribute.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 96e3e919fe21755d6a7cd09119124769
 annum:
     year: 2011
     month: 01
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/01/01/theWorldIsSocialist.html
+
 ---
 
 

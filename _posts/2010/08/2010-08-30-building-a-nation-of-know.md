@@ -6,7 +6,11 @@ hash: b6da16b46defba2945449b4fd6cf0676
 annum:
     year: 2010
     month: 08
-hostname: opinionator.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: opinionator.blogs.nytimes.com
+    path: /2010/08/25/building-a-nation-of-know-nothings/
+
 ---
 
 Timothy Egan:

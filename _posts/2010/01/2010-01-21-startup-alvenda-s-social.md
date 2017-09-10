@@ -6,7 +6,11 @@ hash: b1051dd039a1605cfdf007d3f33437be
 annum:
     year: 2010
     month: 01
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /minnov8/2010/01/startup-alvendas-social-commerce-technology-bags-5-million-venture-capital
+
 ---
 
 Alvenda, an e-commerce software developer, is now busy hiring additional key employees at its offices at 12th and Marquette in downtown Minneapolis, ...

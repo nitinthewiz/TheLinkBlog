@@ -6,7 +6,12 @@ hash: 99749bf8110ac08e18f5c2a2370b65d8
 annum:
     year: 2005
     month: 12
-hostname: www.microsoft.com
+url-parts:
+    scheme: http
+    host: www.microsoft.com
+    path: /en-us/download/details.aspx
+    query:
+        id: "8802"
 ---
 
 Deal with RAW files natively in Windows.

@@ -6,7 +6,11 @@ hash: 03e0077ec2af5e4c26a8e64c80bf9afa
 annum:
     year: 2008
     month: 09
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /d9kp
+
 ---
 
 Wood pile pre-stacking. 

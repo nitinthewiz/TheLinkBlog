@@ -6,7 +6,11 @@ hash: dd020c030ef538319448c643bc92e462
 annum:
     year: 2009
     month: 02
-hostname: db.tidbits.com
+url-parts:
+    scheme: http
+    host: db.tidbits.com
+    path: /article/10052
+
 ---
 
 I'm one of those people who thought iMovie '08 was pretty okay. It advanced consumer video editing on the Mac in several ways, such as having live transitions and effects that don't require re-rendering clips and putting your entire video library at your fingers without opening old projects.

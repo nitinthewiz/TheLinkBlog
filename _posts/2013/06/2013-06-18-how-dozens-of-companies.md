@@ -6,7 +6,11 @@ hash: e413eeb72cebf3d8ccf494173f9c8075
 annum:
     year: 2013
     month: 06
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2013/06/third-party-resources-nsa-leaks
+
 ---
 
 

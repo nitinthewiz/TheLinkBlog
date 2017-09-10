@@ -6,7 +6,11 @@ hash: 47d4ffabb571ae0d0064aab94f33c350
 annum:
     year: 2010
     month: 12
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /blogs/babbage/2010/12/more_wikileaks
+
 ---
 
 

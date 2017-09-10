@@ -6,7 +6,11 @@ hash: 6a9a82a0def17c47d6400b312aa82d29
 annum:
     year: 2010
     month: 11
-hostname: www.roubini.com
+url-parts:
+    scheme: http
+    host: www.roubini.com
+    path: /strategy/view/139101.php
+
 ---
 
 Roubini Global Economics on the Irish Crisis and Bailout  

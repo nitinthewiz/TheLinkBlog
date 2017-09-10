@@ -6,7 +6,11 @@ hash: d3505261cebc227c2a7105e526420079
 annum:
     year: 2016
     month: 03
-hostname: a16z.com
+url-parts:
+    scheme: http
+    host: a16z.com
+    path: /2015/11/13/high-output-management/
+
 ---
 
 This is in part what made High Output Management so extraordinary. Andy Grove, who built himself from nothing to run Intel, stopped what he was doing to teach us his magic. And not through some ghostwriter either — Andy wrote this book himself. What an incredible gift.

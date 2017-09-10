@@ -6,7 +6,11 @@ hash: c707f447a36e2742aecd9b0a0ad10fea
 annum:
     year: 2010
     month: 12
-hostname: www.businessweek.com
+url-parts:
+    scheme: http
+    host: www.businessweek.com
+    path: /magazine/content/10_50/b4207078529793.htm
+
 ---
 
 

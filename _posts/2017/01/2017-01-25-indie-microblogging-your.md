@@ -6,7 +6,12 @@ hash: 8c73d718196c5ffdf543ef29406c8ec2
 annum:
     year: 2017
     month: 01
-hostname: www.kickstarter.com
+url-parts:
+    scheme: https
+    host: www.kickstarter.com
+    path: /projects/manton/indie-microblogging-owning-your-short-form-writing
+    query:
+        ref: "email"
 ---
 
 I'm writing a book about independent microblogging, and launching a publishing platform called Micro.blog.

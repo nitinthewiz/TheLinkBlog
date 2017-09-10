@@ -6,7 +6,11 @@ hash: cbe77f9946736a19934cc21509549516
 annum:
     year: 2012
     month: 02
-hostname: www.wisconsinkubb.com
+url-parts:
+    scheme: http
+    host: www.wisconsinkubb.com
+    path: /
+
 ---
 
 

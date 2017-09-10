@@ -6,7 +6,11 @@ hash: 466e8f13e6654caecc73b895280385d2
 annum:
     year: 2010
     month: 11
-hostname: www.scientificamerican.com
+url-parts:
+    scheme: http
+    host: www.scientificamerican.com
+    path: /article/long-live-the-web/
+
 ---
 
 

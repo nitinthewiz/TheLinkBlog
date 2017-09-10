@@ -6,7 +6,11 @@ hash: a4c6290ee5e5a6fb483d166232acad38
 annum:
     year: 2009
     month: 11
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/John_Muir
+
 ---
 
 Read up on John Muir on Wikipedia.  #wikiwednesday

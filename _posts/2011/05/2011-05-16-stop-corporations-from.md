@@ -6,7 +6,11 @@ hash: 87f04131ada6b120ec10a9da861141a3
 annum:
     year: 2011
     month: 05
-hostname: www.rootstrikers.org
+url-parts:
+    scheme: http
+    host: www.rootstrikers.org
+    path: /story/community-broadband/
+
 ---
 
 We need you for this. Please help. RT @fixcongress: Stop cable from stopping community broadband:  #rootstrikers”

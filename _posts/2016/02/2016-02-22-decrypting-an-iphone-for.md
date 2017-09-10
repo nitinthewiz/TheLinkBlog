@@ -6,7 +6,11 @@ hash: 9a05d1d592b4f4cd21fa86457ee1dc5d
 annum:
     year: 2016
     month: 02
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2016/02/decrypting_an_i.html
+
 ---
 
 Make no mistake; this is what a backdoor looks like. This is an existing vulnerability in iPhone security that could be exploited by anyone.

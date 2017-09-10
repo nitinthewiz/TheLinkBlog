@@ -6,7 +6,11 @@ hash: 148bc423430c4c28480b870aca6fb28d
 annum:
     year: 2014
     month: 11
-hostname: www.odbms.org
+url-parts:
+    scheme: http
+    host: www.odbms.org
+    path: /wp-content/uploads/2014/04/Building-Scalable-Big-Data-Infrastructure-Using-Open-Source-Software.pdf
+
 ---
 
 

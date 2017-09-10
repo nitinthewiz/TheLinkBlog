@@ -6,7 +6,11 @@ hash: 5342837fd3b63be5d05e2f89b7590787
 annum:
     year: 2010
     month: 06
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /1078esj
+
 ---
 
 Getting ready for 2 pianos at @dakotajazzclub 

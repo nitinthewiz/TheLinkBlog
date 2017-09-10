@@ -6,7 +6,11 @@ hash: 5b0efba2601d09b60a4ccdc25c8e3b82
 annum:
     year: 2010
     month: 07
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /mobile_me_calendar_uppgrade
+
 ---
 
 

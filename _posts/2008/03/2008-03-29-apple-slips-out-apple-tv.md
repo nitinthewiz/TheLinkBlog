@@ -6,7 +6,12 @@ hash: 877eca2433a6d0be9c2079b9238a18ce
 annum:
     year: 2008
     month: 03
-hostname: www.appleinsider.com
+url-parts:
+    scheme: http
+    host: www.appleinsider.com
+    path: /article.php
+    query:
+        id: "3907"
 ---
 
 Preparing the Apple TV's viewers for the weekend, Apple on Friday night patched its media hub to version 2.0.1.

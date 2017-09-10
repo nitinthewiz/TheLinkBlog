@@ -6,7 +6,11 @@ hash: 8f585bd1ffa3ae868231cb2acb6d4e78
 annum:
     year: 2016
     month: 05
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /reviews/the-9-7-ipad-pro-review/
+
 ---
 
 There

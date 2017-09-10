@@ -6,7 +6,11 @@ hash: e5636d8f37e9426590b3a4a4ea290232
 annum:
     year: 2017
     month: 05
-hostname: www.theverge.com
+url-parts:
+    scheme: https
+    host: www.theverge.com
+    path: /2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report
+
 ---
 
 

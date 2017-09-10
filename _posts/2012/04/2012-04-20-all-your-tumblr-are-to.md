@@ -6,7 +6,11 @@ hash: 7dcbc2ee2408cc5b5e91ee713550d390
 annum:
     year: 2012
     month: 04
-hostname: blogs.reuters.com
+url-parts:
+    scheme: http
+    host: blogs.reuters.com
+    path: /paulsmalera/2012/04/18/all-your-tumblr-are-belong-to-them/
+
 ---
 
 If all of this sounds like a grand plot to aggregate, sift and derive insight into social behavior from all sorts of data that unsuspecting users unwittingly upload  well, it is. But those are the trade-offs that users agree to when they sign up with social-media websites, right when they check that box agreeing to the terms of service.

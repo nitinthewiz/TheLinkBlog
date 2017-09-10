@@ -6,7 +6,11 @@ hash: b84a680e2a365db778597ebc7ee092db
 annum:
     year: 2005
     month: 08
-hostname: www.hatchtravel.blogspot.com
+url-parts:
+    scheme: http
+    host: www.hatchtravel.blogspot.com
+    path: /
+
 ---
 
 Liane and Chris's Honeymoon Blog

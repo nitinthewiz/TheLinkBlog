@@ -6,7 +6,11 @@ hash: d1784d79e8eb489baf4766f4a9a461e5
 annum:
     year: 2011
     month: 02
-hostname: luke.francl.org
+url-parts:
+    scheme: http
+    host: luke.francl.org
+    path: 
+
 ---
 
 Finally re-designed my home page (archaic I know, but I like my own piece of the web). What do you think? 

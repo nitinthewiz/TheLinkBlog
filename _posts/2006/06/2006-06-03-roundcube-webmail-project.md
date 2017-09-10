@@ -6,7 +6,11 @@ hash: 310baf32b188184a6bded5905154125c
 annum:
     year: 2006
     month: 06
-hostname: roundcube.net
+url-parts:
+    scheme: http
+    host: roundcube.net
+    path: /
+
 ---
 
 

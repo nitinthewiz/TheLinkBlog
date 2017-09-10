@@ -6,7 +6,11 @@ hash: ee5d6b007239e610f35fd03a839d6062
 annum:
     year: 2005
     month: 10
-hostname: www.humanonastick.com
+url-parts:
+    scheme: http
+    host: www.humanonastick.com
+    path: /magical.htm
+
 ---
 
 Tours of Minneapolis on Segway

@@ -6,7 +6,11 @@ hash: d3eb773957b3bc54c881096a1153809d
 annum:
     year: 2012
     month: 09
-hostname: photog.thingelstad.com
+url-parts:
+    scheme: http
+    host: photog.thingelstad.com
+    path: /waves-crashing/
+
 ---
 
 Waves Crashing - Photography and Sound by @thingles - take a moment & escape to Iceland - headphones on 

@@ -6,7 +6,11 @@ hash: b3b6772d03fa9ac47261e7f486fe7b7a
 annum:
     year: 2011
     month: 01
-hostname: talkingpointsmemo.com
+url-parts:
+    scheme: http
+    host: talkingpointsmemo.com
+    path: /dc/palin-aide-crosshairs-on-target-list-not-actually-gun-sights
+
 ---
 
 No comment needed.

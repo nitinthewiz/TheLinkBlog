@@ -6,7 +6,11 @@ hash: 2305180c602221035082640b5688fbdf
 annum:
     year: 2009
     month: 06
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /iPhone-mockup-3
+
 ---
 
 Another one we like...

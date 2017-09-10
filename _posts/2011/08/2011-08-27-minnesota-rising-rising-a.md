@@ -6,7 +6,11 @@ hash: 411eba0b9d53cf6fccee0c6df60a9c24
 annum:
     year: 2011
     month: 08
-hostname: www.minnesotarising.org
+url-parts:
+    scheme: http
+    host: www.minnesotarising.org
+    path: /p/minnesota-rising-2011-unconference.html
+
 ---
 
 Put 10/22 on the calendar for the @minnesotarising un/conference @cocomsp w/ @dkix et al -> 

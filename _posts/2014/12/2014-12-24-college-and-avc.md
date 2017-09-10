@@ -6,7 +6,11 @@ hash: 7149c2b0ea4dac826eae369c8c1842af
 annum:
     year: 2014
     month: 12
-hostname: avc.com
+url-parts:
+    scheme: http
+    host: avc.com
+    path: /2014/12/college-and-entrepreneurship/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 505bc33094882e995c2b00ecd971b738
 annum:
     year: 2015
     month: 02
-hostname: www.thoughtcrime.org
+url-parts:
+    scheme: http
+    host: www.thoughtcrime.org
+    path: /blog/gpg-and-me/
+
 ---
 
 

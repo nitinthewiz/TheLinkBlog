@@ -6,7 +6,11 @@ hash: 48d2e90069cd014b1d8f0d91975f98a2
 annum:
     year: 2010
     month: 12
-hostname: www.panic.com
+url-parts:
+    scheme: http
+    host: www.panic.com
+    path: /blog/panic-state-of-the-union/
+
 ---
 
 

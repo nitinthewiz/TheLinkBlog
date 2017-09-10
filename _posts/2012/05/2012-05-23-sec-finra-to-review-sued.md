@@ -6,7 +6,12 @@ hash: 93f17fa444b228f592a9e9bacde7bd76
 annum:
     year: 2012
     month: 05
-hostname: mobile.reuters.com
+url-parts:
+    scheme: http
+    host: mobile.reuters.com
+    path: /article/idUSBRE84L0PE20120523
+    query:
+        irpc: "932"
 ---
 
 

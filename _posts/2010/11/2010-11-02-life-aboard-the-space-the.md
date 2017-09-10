@@ -6,7 +6,11 @@ hash: 35a5ec66b6b0b4698aec7f6dac0cda13
 annum:
     year: 2010
     month: 11
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /science/2010/oct/24/international-space-station-nasa-astronauts/print
+
 ---
 
 

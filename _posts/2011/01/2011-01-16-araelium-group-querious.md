@@ -6,7 +6,11 @@ hash: 998309a496a41af31b9879b79c4ff6aa
 annum:
     year: 2011
     month: 01
-hostname: www.araelium.com
+url-parts:
+    scheme: http
+    host: www.araelium.com
+    path: /querious/
+
 ---
 
 

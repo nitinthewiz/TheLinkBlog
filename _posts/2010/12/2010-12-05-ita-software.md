@@ -6,7 +6,11 @@ hash: 4acdeefa4e3ad50908ab21983b40a68b
 annum:
     year: 2010
     month: 12
-hostname: www.itasoftware.com
+url-parts:
+    scheme: http
+    host: www.itasoftware.com
+    path: /
+
 ---
 
 

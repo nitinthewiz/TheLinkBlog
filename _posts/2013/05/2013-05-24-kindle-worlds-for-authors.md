@@ -6,7 +6,13 @@ hash: 3067bf5e779c21ee7639a265ba1cadda
 annum:
     year: 2013
     month: 05
-hostname: www.amazon.com
+url-parts:
+    scheme: http
+    host: www.amazon.com
+    path: /gp/feature.html/190-3534783-9508768
+    query:
+        ie: "UTF8"
+        docId: "1001197431"
 ---
 
 Right, that seems fair. Assholes.

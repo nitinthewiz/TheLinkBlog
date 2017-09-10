@@ -6,7 +6,11 @@ hash: aed56aac1c5003b9e07566e3d98c5a37
 annum:
     year: 2016
     month: 05
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2164-introducing-unlimited-private-repositories
+
 ---
 
 We couldn

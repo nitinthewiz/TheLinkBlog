@@ -6,7 +6,11 @@ hash: c0ac7482bf4814751e7012c953b15877
 annum:
     year: 2008
     month: 03
-hostname: robsanheim.com
+url-parts:
+    scheme: http
+    host: robsanheim.com
+    path: /2008/03/29/how-to-move-your-domains-off-godaddy/
+
 ---
 
 Comments

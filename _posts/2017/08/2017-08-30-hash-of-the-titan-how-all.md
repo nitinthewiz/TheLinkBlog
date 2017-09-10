@@ -6,7 +6,11 @@ hash: dbc8e650a3c88ffe75706e994f87000b
 annum:
     year: 2017
     month: 08
-hostname: www.theregister.co.uk
+url-parts:
+    scheme: https
+    host: www.theregister.co.uk
+    path: /2017/08/25/google_titan_security_silicon/
+
 ---
 
 You may remember that the Snowden docs showed that the NSA modifies silicon in some machines as it leaves the country. Looks like Google is actually defending against an attack at even that level.

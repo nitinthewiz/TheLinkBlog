@@ -6,7 +6,11 @@ hash: bb995e3d6a7e1402eed15b3976d40bc0
 annum:
     year: 2014
     month: 10
-hostname: redmonk.com
+url-parts:
+    scheme: http
+    host: redmonk.com
+    path: /jgovernor/2014/10/14/salesforce-and-the-new-bucket-of-bits-phoenix-ashes/
+
 ---
 
 

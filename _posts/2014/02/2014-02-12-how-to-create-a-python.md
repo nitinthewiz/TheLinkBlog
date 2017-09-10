@@ -6,7 +6,11 @@ hash: a01de2b0c9ac84739a7cd74c2e66c3a8
 annum:
     year: 2014
     month: 02
-hostname: pypix.com
+url-parts:
+    scheme: http
+    host: pypix.com
+    path: /python/create-python-library/
+
 ---
 
 

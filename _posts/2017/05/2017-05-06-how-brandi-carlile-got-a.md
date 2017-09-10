@@ -6,7 +6,11 @@ hash: 99caa085c99445d93932c309bad360c6
 annum:
     year: 2017
     month: 05
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: https
+    host: mobile.nytimes.com
+    path: /2017/05/03/arts/music/brandi-carlile-cover-stories-adele-obama.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 1aead224dc0d5f3343bc48427c186a88
 annum:
     year: 2013
     month: 05
-hostname: onstartups.com
+url-parts:
+    scheme: http
+    host: onstartups.com
+    path: /tabid/3339/bid/97052/How-To-Survive-a-Ground-Up-Rewrite-Without-Losing-Your-Sanity.aspx
+
 ---
 
 I've done several ground up rewrites of running systems, the largest was probably the launch of MarketWatch 2.0. They are hard, and require incredible stamina, but if done right can be transformational.

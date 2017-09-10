@@ -6,7 +6,11 @@ hash: ebb2a2851056d4f8aec070950074c6ca
 annum:
     year: 2008
     month: 05
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/04/30/new-relic-to-monitor-performance-of-rails-applications/
+
 ---
 
 New Relic is looking to capitalize on the growing number of Ruby on Rails application deployments, having recently raised $3.5M from Benchmark Capital for their Rails Performance Management (RPM) product.

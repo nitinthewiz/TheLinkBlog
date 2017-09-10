@@ -6,7 +6,11 @@ hash: f647277f54d87fea81a1d88fc26d56c2
 annum:
     year: 2009
     month: 07
-hostname: pinboard.in
+url-parts:
+    scheme: http
+    host: pinboard.in
+    path: /
+
 ---
 
 Remember when Delicious was simple and focused? So does Maciej Ceglowski. Pinboard, his new “antisocial” bookmarking site, hearkens back to Delicious’s early heyday. It even offers a way to import your bookmarks from Delicious.

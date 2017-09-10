@@ -6,7 +6,17 @@ hash: 76f0453df507db93b4f717a0d5f3f84d
 annum:
     year: 2006
     month: 01
-hostname: stevemorse.org
+url-parts:
+    scheme: http
+    host: stevemorse.org
+    path: /jcal/latlon.php
+    query:
+        time: "1137531847967"
+        address: "5457+Maple+Ridge+Ct"
+        city: "Minnetonka"
+        state: "mn"
+        zip: "55343"
+        country: "US"
 ---
 
 

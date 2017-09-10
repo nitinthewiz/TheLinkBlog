@@ -6,7 +6,11 @@ hash: 80e1fbb76d54cf075c7a66849d341154
 annum:
     year: 2016
     month: 01
-hostname: www.psychologytoday.com
+url-parts:
+    scheme: https
+    host: www.psychologytoday.com
+    path: /blog/feeling-it/201601/3-things-extraordinary-leaders-do
+
 ---
 
 However, research suggests that these efforts, while appreciated, do not address more effective drivers of long-term well-being. Instead, leaders should be mindful about giving their employees three things.

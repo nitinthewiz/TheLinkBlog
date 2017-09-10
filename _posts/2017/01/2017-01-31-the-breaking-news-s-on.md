@@ -6,7 +6,11 @@ hash: 9d5a831fe1c956b16eeb29e1fdb8c591
 annum:
     year: 2017
     month: 01
-hostname: www.wnyc.org
+url-parts:
+    scheme: http
+    host: www.wnyc.org
+    path: /story/breaking-news-consumers-handbook-pdf/
+
 ---
 
 

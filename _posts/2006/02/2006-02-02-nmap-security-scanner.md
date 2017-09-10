@@ -6,7 +6,11 @@ hash: f9f712840490fd7afec95dcfebb7ad55
 annum:
     year: 2006
     month: 02
-hostname: nmap.org
+url-parts:
+    scheme: http
+    host: nmap.org
+    path: /download.html
+
 ---
 
 

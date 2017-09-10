@@ -6,7 +6,11 @@ hash: d96fe19aeab0cc16617ab8591e043d2a
 annum:
     year: 2011
     month: 09
-hostname: phabricator.org
+url-parts:
+    scheme: http
+    host: phabricator.org
+    path: /
+
 ---
 
 

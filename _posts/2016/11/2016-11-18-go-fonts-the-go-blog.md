@@ -6,7 +6,11 @@ hash: f671808b401c84db731700248276b011
 annum:
     year: 2016
     month: 11
-hostname: blog.golang.org
+url-parts:
+    scheme: https
+    host: blog.golang.org
+    path: /go-fonts
+
 ---
 
 

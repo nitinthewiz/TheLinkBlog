@@ -6,7 +6,11 @@ hash: 344b58ee1f8660d4eca2cf837caad707
 annum:
     year: 2011
     month: 07
-hostname: sunflowerprojects.org
+url-parts:
+    scheme: http
+    host: sunflowerprojects.org
+    path: /Main_Page
+
 ---
 
 Sunflower Projects is a non for profit organization dedicated to promoting and making information about the Bahá'í Faith more widely available online. We strive to operate our projects on the principles of transparency and open collaboration between volunteers.

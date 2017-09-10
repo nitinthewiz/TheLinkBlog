@@ -6,7 +6,11 @@ hash: 75199c42caf4c6043539c571bbebd44a
 annum:
     year: 2016
     month: 04
-hostname: status.cloud.google.com
+url-parts:
+    scheme: https
+    host: status.cloud.google.com
+    path: /incident/compute/16007
+    query:
 ---
 
 On Monday, 11 April, 2016, Google Compute Engine instances in all regions lost external connectivity for a total of 18 minutes, from 19:09 to 19:27 Pacific Time.

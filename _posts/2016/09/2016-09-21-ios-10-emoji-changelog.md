@@ -6,7 +6,11 @@ hash: b905496fa3ad110499c07002fa8b25b0
 annum:
     year: 2016
     month: 09
-hostname: blog.emojipedia.org
+url-parts:
+    scheme: http
+    host: blog.emojipedia.org
+    path: /ios-10-emoji-changelog/
+
 ---
 
 Apple today will release iOS 10 which contains the first major emoji update for iPhone users of 2016. Notable additions include more active female roles, single parent families, and a rainbow flag

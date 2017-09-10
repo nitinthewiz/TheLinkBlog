@@ -6,7 +6,11 @@ hash: d6af77f8feab9ad710025b530c14a268
 annum:
     year: 2011
     month: 03
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /lendleapp/status/49919939456409601
+
 ---
 
 Lame.

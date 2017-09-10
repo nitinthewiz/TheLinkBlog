@@ -6,7 +6,11 @@ hash: 195be35f0e2405c5cdffb85575207cca
 annum:
     year: 2015
     month: 06
-hostname: www.jasq.org
+url-parts:
+    scheme: http
+    host: www.jasq.org
+    path: /just-another-scala-quant/inverting-binary-trees-considered-harmful
+
 ---
 
 This person does seem way smarter than me, though.

@@ -6,7 +6,11 @@ hash: 53a956acddfbf67b8857561e2b83ca5a
 annum:
     year: 2010
     month: 12
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/taste/112618099.html
+
 ---
 
 Good list of notable happenings in the Twin Cities foodie scene from 2010.

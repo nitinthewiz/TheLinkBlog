@@ -6,7 +6,11 @@ hash: bc7f695de188914ae903d92421b641fe
 annum:
     year: 2007
     month: 05
-hostname: rredc.nrel.gov
+url-parts:
+    scheme: http
+    host: rredc.nrel.gov
+    path: /
+
 ---
 
 Welcome to the Renewable Resource Data Center (RReDC). The RReDC is supported by the National Center for Photovoltaics (NCPV) and managed by the Department of Energy's Office of Energy Efficiency and Renewable Energy. The RReDC is maintained by the Electr

@@ -6,7 +6,11 @@ hash: 5f056fe05657a900433fcfde39125473
 annum:
     year: 2012
     month: 07
-hostname: www.tty1.net
+url-parts:
+    scheme: http
+    host: www.tty1.net
+    path: /blog/2011/sieve-tutorial_en.html
+
 ---
 
 Nice overview of Sieve features with good examples.

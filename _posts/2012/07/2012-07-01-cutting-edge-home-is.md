@@ -6,7 +6,11 @@ hash: c48e985b241afc734a39f056694d774a
 annum:
     year: 2012
     month: 07
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/homegarden/160869005.html
+
 ---
 
 

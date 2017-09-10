@@ -6,7 +6,11 @@ hash: 7ea2653767c37cdfa9e45ba6c08fab16
 annum:
     year: 2015
     month: 03
-hostname: fortune.com
+url-parts:
+    scheme: http
+    host: fortune.com
+    path: /2015/03/26/tim-cook/
+
 ---
 
 Since replacing the legendary Steve Jobs, Cook has led the iBehemoth to even greater financial success. Along the way he’s changed the culture of the company—and found his public voice as a leader.

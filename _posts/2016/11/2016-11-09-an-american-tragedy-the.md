@@ -6,7 +6,11 @@ hash: 811ffa1fd83ea6847dc4f2df3a2d6499
 annum:
     year: 2016
     month: 11
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /news/news-desk/an-american-tragedy-donald-trump
+
 ---
 
 

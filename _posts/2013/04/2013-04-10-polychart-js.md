@@ -6,7 +6,11 @@ hash: 0f45dc3e4940d339f42b2f0f7f079d28
 annum:
     year: 2013
     month: 04
-hostname: www.polychartjs.com
+url-parts:
+    scheme: http
+    host: www.polychartjs.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0a397d10e512a2d6d3f077050094b3a9
 annum:
     year: 2012
     month: 12
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /2012/12/nine-ways-successful-people-de/
+
 ---
 
 Nine scientifically-proven strategies for defeating stress whenever it strikes.

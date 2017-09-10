@@ -6,7 +6,11 @@ hash: dc7341b13196620b5ed070b9f9b0b469
 annum:
     year: 2017
     month: 08
-hostname: treyhunner.com
+url-parts:
+    scheme: http
+    host: treyhunner.com
+    path: /2017/07/craft-your-python-like-poetry/
+
 ---
 
 

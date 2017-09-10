@@ -6,7 +6,11 @@ hash: 3bcfcf56f8dfd1c70d632f32e9ad2673
 annum:
     year: 2008
     month: 05
-hostname: graemethickins.typepad.com
+url-parts:
+    scheme: http
+    host: graemethickins.typepad.com
+    path: /graeme_blogs_here/2008/05/minnebar-08-roc.html
+
 ---
 
 The third annual Minnebar unconference, Minnesota's own Barcamp event, definitely was the place to be for the local Internet developer/entrepreneur community yesterday. (That was an understatement.) The t-shirt we all got, below, says it all. 

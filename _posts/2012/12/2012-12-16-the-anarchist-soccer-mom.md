@@ -6,7 +6,11 @@ hash: 0d616c3311715fb5ada7060cdd76a234
 annum:
     year: 2012
     month: 12
-hostname: anarchistsoccermom.blogspot.com
+url-parts:
+    scheme: http
+    host: anarchistsoccermom.blogspot.com
+    path: /2012/12/thinking-unthinkable.html
+
 ---
 
 No one wants to send a 13-year old genius who loves Harry Potter and his snuggle animal collection to jail. But our society, with its stigma on mental illness and its broken healthcare system, does not provide us with other options. Then another tortured soul shoots up a fast food restaurant. A mall. A kindergarten classroom. And we wring our hands and say, Something must be done.

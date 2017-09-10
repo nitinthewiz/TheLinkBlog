@@ -6,7 +6,11 @@ hash: 5f3d04d39ba960157261361a5c9cdd9e
 annum:
     year: 2008
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/03/05/win-a-mac-mini-hosting-and-a-macbook-air/
+
 ---
 
 Filed under: Hardware, Mac mini

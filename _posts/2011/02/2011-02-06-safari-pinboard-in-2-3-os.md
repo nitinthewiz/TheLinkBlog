@@ -6,7 +6,11 @@ hash: 395906a947af34864e5d6dafd1b53dcd
 annum:
     year: 2011
     month: 02
-hostname: www.chipwreck.de
+url-parts:
+    scheme: http
+    host: www.chipwreck.de
+    path: /blog/2011/02/05/safari-pinboard-in-extension-2-3/
+
 ---
 
 RT @mario_fischer: Safari pinboard.in extension 2.3 (update) - with https now  via @mario_fischer #safari #extension

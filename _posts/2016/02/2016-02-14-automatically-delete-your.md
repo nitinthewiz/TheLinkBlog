@@ -6,7 +6,11 @@ hash: e844ac12bb9c4fbfeb874c5e3660ef35
 annum:
     year: 2016
     month: 02
-hostname: www.tweetdelete.net
+url-parts:
+    scheme: http
+    host: www.tweetdelete.net
+    path: /
+
 ---
 
 Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.

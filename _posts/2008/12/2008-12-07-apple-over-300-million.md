@@ -6,7 +6,11 @@ hash: 74bb0dc2766abdc578035b6ab0c77cf8
 annum:
     year: 2008
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/12/07/apple-over-300-million-iphone-apps-downloaded/
+
 ---
 
 Apple confirmed yesterday that over 300 million iPhone apps have been downloaded from the App Store, and also that the total number of available apps now tops 10,000. Rather than send out a press release, Apple chose to take out a pair of newspaper ads yesterday, one in the New York Times, the other in the Wall Street Journal. 

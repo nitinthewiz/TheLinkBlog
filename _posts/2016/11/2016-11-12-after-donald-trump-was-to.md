@@ -6,7 +6,11 @@ hash: 9841027dbfbe2280548f161691368562
 annum:
     year: 2016
     month: 11
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /hollywood/2016/11/aaron-sorkin-donald-trump-president-letter-daughter
+
 ---
 
 

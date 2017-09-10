@@ -6,7 +6,11 @@ hash: c735c9dc1e4df2d923e02689a7481700
 annum:
     year: 2009
     month: 04
-hostname: getsatisfaction.com
+url-parts:
+    scheme: http
+    host: getsatisfaction.com
+    path: /atebits/topics/growl_integration4
+
 ---
 
 @ktangen They are adding Growl.  I've also suggested AppleScript support. 

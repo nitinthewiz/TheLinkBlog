@@ -6,7 +6,11 @@ hash: 8b846b838e82292ffd15234424ea4dcd
 annum:
     year: 2011
     month: 12
-hostname: www.rogerebert.com
+url-parts:
+    scheme: http
+    host: www.rogerebert.com
+    path: /rogers-journal/ill-tell-you-why-movie-revenue-is-dropping
+
 ---
 
 I'll tell you why movie revenue is dropping

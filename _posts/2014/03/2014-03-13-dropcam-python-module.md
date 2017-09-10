@@ -6,7 +6,11 @@ hash: 44cf78cdaa5b6006aa6abd4d00f94182
 annum:
     year: 2014
     month: 03
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /rsgalloway/dropcam
+
 ---
 
 Unofficial Python API for Dropcam cameras.

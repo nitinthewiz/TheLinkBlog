@@ -6,7 +6,11 @@ hash: e3146a93c84b92e298923ce0fd02f9dd
 annum:
     year: 2012
     month: 08
-hostname: www.dyers.org
+url-parts:
+    scheme: http
+    host: www.dyers.org
+    path: /blog/archives/2007/09/10/make-your-own-kubb-set-for-dirt-cheap/
+
 ---
 
 The Kubb set that I am presenting here is not exactly standard, but the Kubb Governance Committee rarely travels all the way to a tiny beach town in Massachusetts to harass me about it.

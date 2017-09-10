@@ -6,7 +6,11 @@ hash: dcd027388fc99541339e7ec7aad00e2c
 annum:
     year: 2015
     month: 09
-hostname: krebsonsecurity.com
+url-parts:
+    scheme: http
+    host: krebsonsecurity.com
+    path: /2015/09/inside-target-corp-days-after-2013-breach/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: bc3835e2c6ae51928eff99af907771ee
 annum:
     year: 2015
     month: 05
-hostname: www.teslamotors.com
+url-parts:
+    scheme: http
+    host: www.teslamotors.com
+    path: /presskit/teslaenergy
+
 ---
 
 Learn more about Tesla, its mission, and the people behind Tesla Motors.

@@ -6,7 +6,11 @@ hash: f11845e921573dc3f6744b527d3f92a3
 annum:
     year: 2008
     month: 01
-hostname: railspikes.com
+url-parts:
+    scheme: http
+    host: railspikes.com
+    path: /2008/1/4/minneapolis-facebook-developer-garage
+
 ---
 
 A quick note for anyone in the Twin Cities and interested in the Facebook craze: Slantwise and Best Buy are sponsoring a developer garage here on January 15th.

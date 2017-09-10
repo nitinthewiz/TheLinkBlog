@@ -6,7 +6,11 @@ hash: 36deddcecbd95f4f5e39f2a7a43b6d46
 annum:
     year: 2010
     month: 12
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/kashmirhill/2010/11/30/history-sniffing-how-youporn-checks-what-other-porn-sites-youve-visited-and-ad-networks-test-the-quality-of-their-data/
+
 ---
 
 Checking the browser state of hyperlinks to map out where you have been.

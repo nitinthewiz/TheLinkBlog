@@ -6,7 +6,11 @@ hash: 043ed76f77001594f542faf67a94768e
 annum:
     year: 2007
     month: 09
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /index.php/talks/view/id/161
+
 ---
 
 Is the beloved paper dictionary doomed to extinction? When does a made-up word become real? And could you use "synecdochical" in a sentence, please? In this infectiously exuberant talk, leading lexicographer Erin McKean looks at the many ways in which tod

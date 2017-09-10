@@ -6,7 +6,12 @@ hash: db9c948d813c2f85620fd06a430212be
 annum:
     year: 2014
     month: 04
-hostname: whilefalse.blogspot.com
+url-parts:
+    scheme: http
+    host: whilefalse.blogspot.com
+    path: /2014/01/soa-and-team-structure.html
+    query:
+        m: "1"
 ---
 
 RT @jphenow: SOA and team structure:  interesting! Sounds familiar.

@@ -6,7 +6,12 @@ hash: c86c47e4c6f6da0a7e488559709d702f
 annum:
     year: 2015
     month: 07
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2015/07/java-in-flames.html
+    query:
+        m: "1"
 ---
 
 

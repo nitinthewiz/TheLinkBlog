@@ -6,7 +6,11 @@ hash: 7fda446b4551320d5e13329cd1552eda
 annum:
     year: 2009
     month: 07
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /vlc-video-lan-1
+
 ---
 
 It isn't just GMail.  Quicktime w/Perian alternative VideoLAN just came out of beta today.  VLC offers you a way to watch just about any video out there on the net.  It also a...

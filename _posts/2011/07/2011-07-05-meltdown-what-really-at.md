@@ -6,7 +6,11 @@ hash: f3e28e23f4330daee5ecbb076441e5b9
 annum:
     year: 2011
     month: 07
-hostname: www.theatlanticwire.com
+url-parts:
+    scheme: http
+    host: www.theatlanticwire.com
+    path: /global/2011/07/meltdown-what-really-happened-fukushima/39541/
+
 ---
 
 

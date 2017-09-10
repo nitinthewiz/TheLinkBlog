@@ -6,7 +6,11 @@ hash: 08b00a3473018e27c16d3dc851e046f4
 annum:
     year: 2017
     month: 03
-hostname: anniemueller.com
+url-parts:
+    scheme: http
+    host: anniemueller.com
+    path: /2017/03/23/the-power-of-simple-rules/
+
 ---
 
 

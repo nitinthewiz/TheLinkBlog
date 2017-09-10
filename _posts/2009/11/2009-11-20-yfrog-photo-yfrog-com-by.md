@@ -6,7 +6,11 @@ hash: ce1e75ac0a51c0b59bdc7d58b9f04a20
 annum:
     year: 2009
     month: 11
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /335brj
+
 ---
 
 Tenderloin 1: coffee rub.  

@@ -6,7 +6,11 @@ hash: 668b30f72ac98135b326d6f8240126d1
 annum:
     year: 2011
     month: 04
-hostname: elinchrom.com
+url-parts:
+    scheme: http
+    host: elinchrom.com
+    path: /
+
 ---
 
 

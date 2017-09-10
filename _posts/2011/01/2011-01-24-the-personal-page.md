@@ -6,7 +6,11 @@ hash: 4f88a336e5e95d0fb9403c7ed75399e6
 annum:
     year: 2011
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /weightshift/The-Personal-Page
+
 ---
 
 This simple one-page website is a way for people to have a very quick and easy personable website that aggregates your activity and positions a simple logo, a portrait and some description text in a nicely-formatted manner. 

@@ -6,7 +6,11 @@ hash: f27729d69fea80e2ac9ab2dd0a43cf41
 annum:
     year: 2015
     month: 03
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/this-is-what-impactful-engineering-leadership-looks-like/
+
 ---
 
 

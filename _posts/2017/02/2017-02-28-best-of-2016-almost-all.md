@@ -6,7 +6,11 @@ hash: d676d882f9fa5dfc6faf02c50f0331c7
 annum:
     year: 2017
     month: 02
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /2017/02/27/best-of-2016-ios-apps/
+
 ---
 
 

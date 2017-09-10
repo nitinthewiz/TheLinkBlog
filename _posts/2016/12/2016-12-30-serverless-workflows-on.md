@@ -6,7 +6,11 @@ hash: cef325d5ce7640735975a1789dde3101
 annum:
     year: 2016
     month: 12
-hostname: forrestbrazeal.com
+url-parts:
+    scheme: https
+    host: forrestbrazeal.com
+    path: /2016/12/29/serverless-workflows-on-aws-my-journey-from-swf-to-step-functions/
+
 ---
 
 

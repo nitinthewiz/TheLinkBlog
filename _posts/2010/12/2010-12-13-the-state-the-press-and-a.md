@@ -6,7 +6,11 @@ hash: bb853f7930c49f32a21709a0e0707940
 annum:
     year: 2010
     month: 12
-hostname: www.abc.net.au
+url-parts:
+    scheme: http
+    host: www.abc.net.au
+    path: /unleashed/42148.html
+
 ---
 
 ... @mpesce thinks the state and the new hyperconnected press hold a knife at each other's throats:  <--- Recommended.

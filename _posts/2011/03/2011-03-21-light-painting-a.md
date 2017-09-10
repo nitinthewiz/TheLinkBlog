@@ -6,7 +6,13 @@ hash: 224fff42fe8971b85cdc565613c259f3
 annum:
     year: 2011
     month: 03
-hostname: www.edwardtufte.com
+url-parts:
+    scheme: http
+    host: www.edwardtufte.com
+    path: /bboard/q-and-a-fetch-msg
+    query:
+        msg_id: "0003mX"
+        topic_id: "1"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3b6c21c642a97776d37acd8126b63470
 annum:
     year: 2012
     month: 09
-hostname: mnbloggerconference.com
+url-parts:
+    scheme: http
+    host: mnbloggerconference.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 2b92b6b6341eb558747caec4300505f2
 annum:
     year: 2016
     month: 12
-hostname: www.npr.org
+url-parts:
+    scheme: http
+    host: www.npr.org
+    path: /event/music/249016526/dessa-tiny-desk-concert
+
 ---
 
 

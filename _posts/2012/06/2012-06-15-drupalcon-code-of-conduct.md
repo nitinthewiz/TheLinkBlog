@@ -6,7 +6,11 @@ hash: 67102792dca409883c76111abc919575
 annum:
     year: 2012
     month: 06
-hostname: groups.drupal.org
+url-parts:
+    scheme: https
+    host: groups.drupal.org
+    path: /node/235308
+
 ---
 
 We've discussed creating something like this for Minnebar. I think it's a good idea.

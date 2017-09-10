@@ -6,7 +6,11 @@ hash: 5750afb22f1b5bac8ca989cc1d126894
 annum:
     year: 2013
     month: 05
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension_default_namespaces
+
 ---
 
 Learning a little too late that 100-199 is the user namespace area.

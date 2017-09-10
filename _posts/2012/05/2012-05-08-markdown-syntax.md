@@ -6,7 +6,11 @@ hash: 39090e3e893ed872417ca1a5d035825e
 annum:
     year: 2012
     month: 05
-hostname: scottboms.com
+url-parts:
+    scheme: http
+    host: scottboms.com
+    path: /downloads/documentation/markdown_cheatsheet.pdf
+
 ---
 
 

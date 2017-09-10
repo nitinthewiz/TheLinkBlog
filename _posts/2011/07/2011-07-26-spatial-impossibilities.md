@@ -6,7 +6,12 @@ hash: f2ac2507489dac90b0cb9ac3e7311c52
 annum:
     year: 2011
     month: 07
-hostname: quietube.com
+url-parts:
+    scheme: http
+    host: quietube.com
+    path: /v.php/http://www.youtube.com/watch
+    query:
+        v: "0sUIxXCCFWw"
 ---
 
 Mind-blowing. (Part two here.)

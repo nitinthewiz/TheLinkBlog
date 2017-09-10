@@ -6,7 +6,11 @@ hash: 3ad169c74fd96d4c5724bf95a316d1c0
 annum:
     year: 2015
     month: 04
-hostname: m.fastcompany.com
+url-parts:
+    scheme: http
+    host: m.fastcompany.com
+    path: /3044352/the-secrets-of-holacracy
+
 ---
 
 

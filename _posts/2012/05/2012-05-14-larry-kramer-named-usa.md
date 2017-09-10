@@ -6,7 +6,11 @@ hash: 2c83cadc7ee359dc3d62d3fa7fd5db27
 annum:
     year: 2012
     month: 05
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/larry-kramer-named-publisher-usa-today-2012-05-14
+
 ---
 
 

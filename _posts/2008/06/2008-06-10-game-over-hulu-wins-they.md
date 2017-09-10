@@ -6,7 +6,11 @@ hash: 670ffa6b6c958022402395e82ca28ed9
 annum:
     year: 2008
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/06/09/game-over-hulu-wins-they-have-the-daily-show-and-colbert/
+
 ---
 
 Ok, Ive been ridiculously hard on Hulu from the beginning. But that ends. Today. 

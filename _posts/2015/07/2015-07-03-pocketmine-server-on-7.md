@@ -6,7 +6,11 @@ hash: cccb6b42feee9ed0dfb18a8bad3f4fd8
 annum:
     year: 2015
     month: 07
-hostname: www.linode.com
+url-parts:
+    scheme: https
+    host: www.linode.com
+    path: /docs/applications/game-servers/pocketmine-server-on-debian-7
+
 ---
 
 A third party server for Minecraft Pocket Edition

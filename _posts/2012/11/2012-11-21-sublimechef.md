@@ -6,7 +6,11 @@ hash: e67ed124f887742d265091107c3e6f88
 annum:
     year: 2012
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /cabeca/SublimeChef
+
 ---
 
 A Sublime Text 2 Package for authoring Chef related files.

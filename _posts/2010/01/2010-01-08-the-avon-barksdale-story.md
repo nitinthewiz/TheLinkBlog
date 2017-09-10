@@ -6,7 +6,11 @@ hash: de063275b7fc67d3c84cbfc785510fbc
 annum:
     year: 2010
     month: 01
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/01/the-avon-barksdale-story
+
 ---
 
 Here's the trailer for The Avon Barksdale Story, a documentary about the real-life Baltimore gangster than inspired the Avon Barksdale character on The Wire.

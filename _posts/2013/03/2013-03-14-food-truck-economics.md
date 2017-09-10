@@ -6,7 +6,11 @@ hash: e6d76db30499d7d66bb3835744318228
 annum:
     year: 2013
     month: 03
-hostname: blog.priceonomics.com
+url-parts:
+    scheme: http
+    host: blog.priceonomics.com
+    path: /post/45352687467/food-truck-economics
+
 ---
 
 

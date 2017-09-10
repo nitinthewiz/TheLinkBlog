@@ -6,7 +6,11 @@ hash: f070e6d99c6f409eb538604bccca34dd
 annum:
     year: 2011
     month: 12
-hostname: www.fastcodesign.com
+url-parts:
+    scheme: http
+    host: www.fastcodesign.com
+    path: /1665414/designers-behind-facebook-timeline-5-lessons-for-creating-a-ui-with-soul
+
 ---
 
 Nick Felton and Joey Flynn say that when creating a page to tell someone's life story, you have to throw out the UI rulebook and study how people recount memories.

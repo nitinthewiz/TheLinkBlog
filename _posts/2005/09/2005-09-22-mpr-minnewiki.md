@@ -6,7 +6,11 @@ hash: 5d6977de93fb44a93ba5cc01a931a461
 annum:
     year: 2005
     month: 09
-hostname: minnewiki.publicradio.org
+url-parts:
+    scheme: http
+    host: minnewiki.publicradio.org
+    path: /index.php/Minnewiki_Home
+
 ---
 
 Minnesota Music Wiki hosted by MPR

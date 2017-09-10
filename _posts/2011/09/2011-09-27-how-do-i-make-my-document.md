@@ -6,7 +6,11 @@ hash: e04e012041e4fcfe7c33d7ae1ec37a42
 annum:
     year: 2011
     month: 09
-hostname: tex.stackexchange.com
+url-parts:
+    scheme: http
+    host: tex.stackexchange.com
+    path: /questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm
+
 ---
 
 

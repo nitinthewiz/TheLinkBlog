@@ -6,7 +6,11 @@ hash: 053bf162e1371e6af2207b36b5f07519
 annum:
     year: 2017
     month: 04
-hostname: www.logicmonitor.com
+url-parts:
+    scheme: https
+    host: www.logicmonitor.com
+    path: /blog/vast-opportunity-with-logicmonitor/
+
 ---
 
 

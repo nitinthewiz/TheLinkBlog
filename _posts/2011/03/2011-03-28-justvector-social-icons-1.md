@@ -6,7 +6,11 @@ hash: b5b537304b206f982d48dbe129d754a7
 annum:
     year: 2011
     month: 03
-hostname: www.alexpeattie.com
+url-parts:
+    scheme: http
+    host: www.alexpeattie.com
+    path: /projects/justvector_icons/
+
 ---
 
 These 100 monochrome social icons are designed with simplicity in mind. Provided in vector format, they are fully editable and scale smoothly. They are completely free, even for commercial use, redistribution or remixing (see License).

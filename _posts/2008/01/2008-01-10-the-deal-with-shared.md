@@ -6,7 +6,11 @@ hash: c5a43fe11621676e5b96c74981a86961
 annum:
     year: 2008
     month: 01
-hostname: david.heinemeierhansson.com
+url-parts:
+    scheme: http
+    host: david.heinemeierhansson.com
+    path: /posts/21-the-deal-with-shared-hosts
+
 ---
 
 Most Rails contributors are not big users of shared hosting and they tend to work on problems or enhancements that'll benefit their own usage of the framework. You don't have to have a degree in formal logic to deduce that work to improve life on shared hosting is not exactly a top priority for these people, myself included.

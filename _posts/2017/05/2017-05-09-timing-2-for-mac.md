@@ -6,7 +6,11 @@ hash: 0ea8e5157bd7faf4b6b1b59e65505805
 annum:
     year: 2017
     month: 05
-hostname: www.macsparky.com
+url-parts:
+    scheme: https
+    host: www.macsparky.com
+    path: /blog/2017/5/timing-2-for-mac
+
 ---
 
 

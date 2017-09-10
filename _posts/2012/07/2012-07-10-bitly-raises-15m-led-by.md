@@ -6,7 +6,11 @@ hash: 42de5448c8535ad8e33f4a3be7519033
 annum:
     year: 2012
     month: 07
-hostname: allthingsd.com
+url-parts:
+    scheme: http
+    host: allthingsd.com
+    path: /20120710/bitly-raises-15m-led-by-khosla-ventures/
+
 ---
 
 Congrats to Peter and team on closing this round of funding!

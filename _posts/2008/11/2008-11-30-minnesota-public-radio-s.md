@@ -6,7 +6,11 @@ hash: fcdc3e8cabeafb25f213d73e45777ae1
 annum:
     year: 2008
     month: 11
-hostname: fitzgeraldtheater.publicradio.org
+url-parts:
+    scheme: http
+    host: fitzgeraldtheater.publicradio.org
+    path: /events/
+
 ---
 
 Any Minneapolis people have ideas of how to get 2 tickets to the sold-out New Standards Show at the Fitz? Hoping. 

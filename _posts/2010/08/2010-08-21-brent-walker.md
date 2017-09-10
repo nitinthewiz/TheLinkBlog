@@ -6,7 +6,11 @@ hash: e680d29f5141ea2bfa01522e88724435
 annum:
     year: 2010
     month: 08
-hostname: artnudes.blogspot.com
+url-parts:
+    scheme: http
+    host: artnudes.blogspot.com
+    path: /2010/08/brent-walker.html
+
 ---
 
 

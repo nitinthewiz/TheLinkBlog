@@ -6,7 +6,11 @@ hash: da158d0dbc7be7bf49686491e2dc2a63
 annum:
     year: 2010
     month: 01
-hostname: bringmethenews.com
+url-parts:
+    scheme: http
+    host: bringmethenews.com
+    path: /stack/3215-co-working-sites-aim-to-give-twin-cities-telecommuters-a-better-connection
+
 ---
 
 Founded by long-time Twin Cities investigative journalist & television news anchor, Rick Kupchella, BringMeTheNews provides high-level filtration to the unending stream of local breaking stories and information

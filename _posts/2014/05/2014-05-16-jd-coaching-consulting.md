@@ -6,7 +6,11 @@ hash: a75d83c16f02a4bb5feb9fdb562888e5
 annum:
     year: 2014
     month: 05
-hostname: www.jodidavis.com
+url-parts:
+    scheme: http
+    host: www.jodidavis.com
+    path: /index.html
+
 ---
 
 

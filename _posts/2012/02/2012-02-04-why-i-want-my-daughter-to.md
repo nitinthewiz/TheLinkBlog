@@ -6,7 +6,11 @@ hash: 0c0108d7d4e0477fd584438e4f97bdd8
 annum:
     year: 2012
     month: 02
-hostname: offmygourd.wordpress.com
+url-parts:
+    scheme: http
+    host: offmygourd.wordpress.com
+    path: /2010/04/13/why-i-want-my-daughter-to-be-a-hacker/
+
 ---
 
 

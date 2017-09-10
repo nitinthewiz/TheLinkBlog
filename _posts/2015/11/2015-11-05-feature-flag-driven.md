@@ -6,7 +6,11 @@ hash: 41eb53ce1709c59cb752b56079c1de35
 annum:
     year: 2015
     month: 11
-hostname: blog.launchdarkly.com
+url-parts:
+    scheme: http
+    host: blog.launchdarkly.com
+    path: /feature-flag-driven-development/
+
 ---
 
 A typical afternoon It

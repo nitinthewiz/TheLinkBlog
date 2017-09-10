@@ -6,7 +6,11 @@ hash: 4d1137b4c473bccde68d49a728c4cfe1
 annum:
     year: 2009
     month: 05
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4ivb5
+
 ---
 
 Getting ready to put dry rub from @mrock911 on the 7.5 pound grass fed brisket. 

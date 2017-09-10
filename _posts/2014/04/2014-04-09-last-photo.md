@@ -6,7 +6,11 @@ hash: a5b4e6d3fd8e516ecc2bb21b178d3b7d
 annum:
     year: 2014
     month: 04
-hostname: launchcenterpro.com
+url-parts:
+    scheme: http
+    host: launchcenterpro.com
+    path: /yyh54l
+
 ---
 
 For @DayOneApp users, here’s a great action that creates a new entry and automatically attaches your last photo: 

@@ -6,7 +6,11 @@ hash: 2aa8c4f8c03ab0a3fb6e653ffecfc299
 annum:
     year: 2010
     month: 12
-hostname: getshopped.org
+url-parts:
+    scheme: http
+    host: getshopped.org
+    path: /plugins/instincts-newest-beta-release-groupdeals/
+
 ---
 
 

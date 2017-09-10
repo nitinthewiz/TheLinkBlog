@@ -6,7 +6,11 @@ hash: 5379a6f81db7fcfacc0edae8da8c35ff
 annum:
     year: 2015
     month: 03
-hostname: community.office365.com
+url-parts:
+    scheme: http
+    host: community.office365.com
+    path: /en-us/f/153/t/298682.aspx
+
 ---
 
 

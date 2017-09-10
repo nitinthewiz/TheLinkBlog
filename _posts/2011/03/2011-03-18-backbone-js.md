@@ -6,7 +6,11 @@ hash: adf17eb443f4417d98405095c62859d1
 annum:
     year: 2011
     month: 03
-hostname: documentcloud.github.com
+url-parts:
+    scheme: http
+    host: documentcloud.github.com
+    path: /backbone/
+
 ---
 
 Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.

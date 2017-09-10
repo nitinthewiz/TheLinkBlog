@@ -6,7 +6,11 @@ hash: b4f23a28d616d5da3f181d1eab6d7f1c
 annum:
     year: 2010
     month: 12
-hostname: www.orbicule.com
+url-parts:
+    scheme: http
+    host: www.orbicule.com
+    path: /incognito/
+
 ---
 
 Incognito is a Safari extension that prevents Google and Facebook from following you on the web.

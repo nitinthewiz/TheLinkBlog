@@ -6,7 +6,11 @@ hash: d11e9e82a42afd225365b4dcd287cc07
 annum:
     year: 2015
     month: 02
-hostname: ocs.bahai.us
+url-parts:
+    scheme: https
+    host: ocs.bahai.us
+    path: /ocs/
+
 ---
 
 

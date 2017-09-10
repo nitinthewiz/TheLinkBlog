@@ -6,7 +6,11 @@ hash: 8468142669158f6ccdbedb14d1b0f057
 annum:
     year: 2011
     month: 01
-hostname: thechangelog.com
+url-parts:
+    scheme: http
+    host: thechangelog.com
+    path: /rogue-a-lift-mongodb-query-dsl-from-foursquare/
+
 ---
 
 Foursquare just announced a really neat new framework: rogue. Foursquare uses Scala to power their website, along with the Lift framework. Theyve been pretty vocal about their usage of MongoDB as well. This project combines all of that together.

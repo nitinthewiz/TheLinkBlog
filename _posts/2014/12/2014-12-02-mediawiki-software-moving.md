@@ -6,7 +6,11 @@ hash: abc32c69a3c4386de0993ab35435ea19
 annum:
     year: 2014
     month: 12
-hostname: blog.blue-spice.org
+url-parts:
+    scheme: http
+    host: blog.blue-spice.org
+    path: /2014/12/01/mediawiki-software-moving-towards-the-future-part-1-of-3-skinning-mobile-dialogues/
+
 ---
 
 

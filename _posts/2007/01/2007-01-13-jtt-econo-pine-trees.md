@@ -6,7 +6,12 @@ hash: 960b28eec5b95b642150f40b45544916
 annum:
     year: 2007
     month: 01
-hostname: www.jttmicroscale.com
+url-parts:
+    scheme: http
+    host: www.jttmicroscale.com
+    path: /viewcategory.asp
+    query:
+        DirID: "140"
 ---
 
 

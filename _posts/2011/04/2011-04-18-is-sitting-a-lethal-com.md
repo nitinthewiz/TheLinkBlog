@@ -6,7 +6,14 @@ hash: ea28d33916df3fe7bf2a10b1da39305c
 annum:
     year: 2011
     month: 04
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/04/17/magazine/mag-17sitting-t.html
+    query:
+        _r: "1"
+        src: "me"
+        ref: "general"
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9dbadc852471914c04f8af4556de6ab9
 annum:
     year: 2012
     month: 06
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /2012/06/04/asus-rear-tweet_n_1567696.html
+
 ---
 
 Our industry seems to be getting worse, not better, regarding sexism.

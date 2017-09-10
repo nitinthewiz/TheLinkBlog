@@ -6,7 +6,11 @@ hash: 95f3ad3351c56215c84fcc82ef595916
 annum:
     year: 2014
     month: 05
-hostname: blog.heroku.com
+url-parts:
+    scheme: https
+    host: blog.heroku.com
+    path: /archives/2014/5/9/incident-response-at-heroku
+
 ---
 
 

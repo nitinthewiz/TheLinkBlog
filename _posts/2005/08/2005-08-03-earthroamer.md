@@ -6,7 +6,11 @@ hash: 51a230eb64f86dfde9ad5d6a0ea9ffb4
 annum:
     year: 2005
     month: 08
-hostname: earthroamer.com
+url-parts:
+    scheme: http
+    host: earthroamer.com
+    path: /
+
 ---
 
 Great ecofriendly adventure RV

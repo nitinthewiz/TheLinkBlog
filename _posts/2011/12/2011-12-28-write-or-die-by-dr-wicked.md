@@ -6,7 +6,11 @@ hash: b67d9edaa79ef32a41485ec09cfa20ec
 annum:
     year: 2011
     month: 12
-hostname: writeordie.com
+url-parts:
+    scheme: http
+    host: writeordie.com
+    path: /
+
 ---
 
 This sounds like something my friend Garrick would think of. :-)

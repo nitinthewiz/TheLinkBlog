@@ -6,7 +6,11 @@ hash: cd753258555a9d9d5c87463e1de672ed
 annum:
     year: 2010
     month: 08
-hostname: nymag.com
+url-parts:
+    scheme: http
+    host: nymag.com
+    path: /daily/intel/2010/08/ira_glass_likes_excess_and_gia.html
+
 ---
 
 What makes someone a New Yorker? 

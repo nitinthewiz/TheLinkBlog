@@ -6,7 +6,11 @@ hash: 342fb9d78773c3676a4e0ebd73a4910e
 annum:
     year: 2017
     month: 08
-hostname: www.forbes.com
+url-parts:
+    scheme: https
+    host: www.forbes.com
+    path: /sites/glennllopis/2014/01/20/7-ways-leaders-maintain-their-composure-in-difficult-times/
+
 ---
 
 

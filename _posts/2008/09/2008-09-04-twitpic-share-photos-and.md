@@ -6,7 +6,11 @@ hash: 9b4539eb37098a8e6b0516a0c223b2b8
 annum:
     year: 2008
     month: 09
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /a6co
+
 ---
 
 Lunch! 

@@ -6,7 +6,11 @@ hash: 6aa97ffd9c08d6f3e158c63923255de4
 annum:
     year: 2011
     month: 04
-hostname: www.nineteenmonths.com
+url-parts:
+    scheme: http
+    host: www.nineteenmonths.com
+    path: /
+
 ---
 
 Nineteen Months is an international collaborative news magazine using spirituality to inspire photographers/writers and in turn, inspire others.

@@ -6,7 +6,11 @@ hash: 8f604a7e3f705be381d68bcd7bf496f7
 annum:
     year: 2011
     month: 08
-hostname: www.pcworld.com
+url-parts:
+    scheme: http
+    host: www.pcworld.com
+    path: /article/222941/google_patents_google_doodles.html
+
 ---
 
 OMG

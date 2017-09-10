@@ -6,7 +6,12 @@ hash: 20b497770165a8216c70056a38cb762a
 annum:
     year: 2014
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2014/11/11/apple-pay-has-accounted-for-0-91-of-all-whole-foods-transaction/
+    query:
+        ncid: "rss_truncated"
 ---
 
 

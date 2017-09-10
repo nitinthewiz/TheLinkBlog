@@ -6,7 +6,11 @@ hash: 0da7c8f08c64fba23a334dd374e22202
 annum:
     year: 2012
     month: 11
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /posts/3307-im-hiring-a-personal-ios-prototyper
+
 ---
 
 (eye roll)

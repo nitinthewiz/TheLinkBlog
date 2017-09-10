@@ -6,7 +6,11 @@ hash: e5cc555a893ae59f311325e435e13636
 annum:
     year: 2017
     month: 03
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /reviews/interact-scratchpad-for-mac-takes-the-pain-out-of-adding-contacts/
+
 ---
 
 

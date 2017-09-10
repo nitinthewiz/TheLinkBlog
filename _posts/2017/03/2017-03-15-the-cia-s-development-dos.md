@@ -6,7 +6,11 @@ hash: b1733f4065dfc983dfee2fb7f4f229b1
 annum:
     year: 2017
     month: 03
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2017/03/the_cias_develo.html
+
 ---
 
 

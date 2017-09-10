@@ -6,7 +6,11 @@ hash: d2fa28407a2dcf11580ba377de6debf6
 annum:
     year: 2015
     month: 11
-hostname: vimeo.com
+url-parts:
+    scheme: https
+    host: vimeo.com
+    path: /95284690
+
 ---
 
 Pete Cheslock's lightning talk at Monitorama PDX 2014.

@@ -6,7 +6,11 @@ hash: 016d68081d06f4ee80833563ae0b2a6a
 annum:
     year: 2007
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/12/19/parallels-vs-vmware-benchmark-results/
+
 ---
 
 Filed under: Analysis / Opinion, OS, Switchers

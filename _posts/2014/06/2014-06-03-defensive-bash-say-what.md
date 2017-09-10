@@ -6,7 +6,11 @@ hash: 79b776b3745bd71ed02d6793600dceca
 annum:
     year: 2014
     month: 06
-hostname: www.kfirlavi.com
+url-parts:
+    scheme: http
+    host: www.kfirlavi.com
+    path: /blog/2012/11/14/defensive-bash-programming/
+
 ---
 
 

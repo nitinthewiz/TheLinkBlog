@@ -6,7 +6,11 @@ hash: d81fa5e46dd7caff7e4477d49cb3cf40
 annum:
     year: 2010
     month: 10
-hostname: www.cultofmac.com
+url-parts:
+    scheme: http
+    host: www.cultofmac.com
+    path: /john-sculley-on-steve-jobs-the-full-interview-transcript/63295
+
 ---
 
 A lengthy, fascinating, interview with Sculley by Leander Kahney. Tons of good stuff to quote, but I love this passage the most:

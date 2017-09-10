@@ -6,7 +6,11 @@ hash: 9f1bcdd55785e8b901acd6b60396900b
 annum:
     year: 2014
     month: 09
-hostname: austinmann.com
+url-parts:
+    scheme: http
+    host: austinmann.com
+    path: /trek/iphone-6-plus-camera-review-iceland
+
 ---
 
 

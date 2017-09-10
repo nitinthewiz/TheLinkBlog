@@ -6,7 +6,11 @@ hash: e2e9705af39a05e6d94ed9b0d2dc1fb3
 annum:
     year: 2014
     month: 10
-hostname: zachholman.com
+url-parts:
+    scheme: http
+    host: zachholman.com
+    path: /talk/move-fast-break-nothing/
+
 ---
 
 I've given a lot of talks and written a lot of blog posts about software development and teams and organizations. Probably one way to sum them all up is: more communication. I think companies&hellip;

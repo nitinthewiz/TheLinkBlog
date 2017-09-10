@@ -6,7 +6,11 @@ hash: 462e511e0fd682fb839f00ab1e960e39
 annum:
     year: 2012
     month: 06
-hostname: www.minneapolismn.gov
+url-parts:
+    scheme: http
+    host: www.minneapolismn.gov
+    path: /bicycles/WCMS1P-093558
+
 ---
 
 Great idea.

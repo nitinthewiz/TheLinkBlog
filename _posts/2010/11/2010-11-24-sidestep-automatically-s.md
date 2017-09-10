@@ -6,7 +6,11 @@ hash: 3a84c4a3bb2e6ed697264dd03b5e7db9
 annum:
     year: 2010
     month: 11
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5698447/sidestep-automatically-reroutes-your-macs-traffic-when-unsecured
+
 ---
 
 

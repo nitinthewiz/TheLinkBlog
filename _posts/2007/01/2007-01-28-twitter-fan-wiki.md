@@ -6,7 +6,11 @@ hash: efbcc6e669ae987902121e6e7b42c840
 annum:
     year: 2007
     month: 01
-hostname: twitter.pbworks.com
+url-parts:
+    scheme: http
+    host: twitter.pbworks.com
+    path: /
+
 ---
 
 

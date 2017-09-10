@@ -6,7 +6,11 @@ hash: 9280c3b169505b62e6c99894a66f2639
 annum:
     year: 2016
     month: 09
-hostname: stratechery.com
+url-parts:
+    scheme: https
+    host: stratechery.com
+    path: /2016/oracles-cloudy-future/
+
 ---
 
 

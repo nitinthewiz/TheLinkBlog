@@ -6,7 +6,11 @@ hash: c6917119e3ee4f1778689d561423d554
 annum:
     year: 2011
     month: 01
-hostname: apidocs.reallysimple.org
+url-parts:
+    scheme: http
+    host: apidocs.reallysimple.org
+    path: /
+
 ---
 
 

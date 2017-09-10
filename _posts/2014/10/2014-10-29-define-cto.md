@@ -6,7 +6,11 @@ hash: 4ef3e84ac1a579a049ed99e6629fb578
 annum:
     year: 2014
     month: 10
-hostname: blog.gregbrockman.com
+url-parts:
+    scheme: http
+    host: blog.gregbrockman.com
+    path: /figuring-out-the-cto-role-at-stripe
+
 ---
 
 

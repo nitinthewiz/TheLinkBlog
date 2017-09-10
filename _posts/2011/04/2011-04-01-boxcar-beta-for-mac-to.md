@@ -6,7 +6,11 @@ hash: 34384cb8fbe5ca1fa79c85319fdb69f2
 annum:
     year: 2011
     month: 04
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/03/31/boxcar-beta-for-mac-available-brings-notifications-to-mac/
+
 ---
 
 For Boxcar users this is really cool.

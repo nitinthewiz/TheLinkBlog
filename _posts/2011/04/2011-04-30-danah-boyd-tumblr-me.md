@@ -6,7 +6,11 @@ hash: 96295d1693743add0bae217bc1b56d25
 annum:
     year: 2011
     month: 04
-hostname: www.zephoria.org
+url-parts:
+    scheme: http
+    host: www.zephoria.org
+    path: /thoughts/archives/2011/04/27/tumblr-disappeared-me.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c580ab9c9c34b2dbe0afc80f1083f9e1
 annum:
     year: 2005
     month: 08
-hostname: bettersearch.g-blog.net
+url-parts:
+    scheme: http
+    host: bettersearch.g-blog.net
+    path: /
+
 ---
 
 A Firefox Extension For Enhancing Search Engines

@@ -6,7 +6,11 @@ hash: 6d47e4db132f9017b102a963968441c6
 annum:
     year: 2010
     month: 01
-hostname: truefilms.com
+url-parts:
+    scheme: http
+    host: truefilms.com
+    path: /2010/01/the-story-of-in
+
 ---
 
 Originally posted in True Films

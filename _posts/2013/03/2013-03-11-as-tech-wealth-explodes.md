@@ -6,7 +6,11 @@ hash: 7a1d922d9d60fe8a6b1b84a0fe20eab4
 annum:
     year: 2013
     month: 03
-hostname: talkingpointsmemo.com
+url-parts:
+    scheme: http
+    host: talkingpointsmemo.com
+    path: /news/as-tech-wealth-explodes-silicon-valley-poverty-spikes
+
 ---
 
 Simply put, while the ultra-rich are getting even richer, record numbers of Silicon Valley residents are slipping into poverty.

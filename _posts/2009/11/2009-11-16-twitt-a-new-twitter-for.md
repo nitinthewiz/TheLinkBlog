@@ -6,7 +6,11 @@ hash: 55363c117ace87b0b08e8a72ba035e13
 annum:
     year: 2009
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /collaboration/twitt-a-new-twitter-client-for-the-mac/
+
 ---
 
 I’m very happy in my choice of Twitter clients at the moment. Tweetie is my weapon of choice for the Mac desktop, and it has served faithfully since its release. Doesn’t hurt that it’s free, either (though ad-supported). But I’m always glad to try out new contenders to the throne, and that’s why Twitt caught my eye today.

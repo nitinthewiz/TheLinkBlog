@@ -6,7 +6,11 @@ hash: 6f8d51af43ff4eee171fca7d98bc94be
 annum:
     year: 2008
     month: 10
-hostname: www.slicehost.com
+url-parts:
+    scheme: http
+    host: www.slicehost.com
+    path: /articles/2008/10/1/summit-pics
+
 ---
 
 Jared recently posted his thoughts on the Slicehost Summit. Several great pictures are up, the result of him creeping around like a ninja snapping shots when we least expected it.

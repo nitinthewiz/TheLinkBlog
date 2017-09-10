@@ -6,7 +6,11 @@ hash: 406f53bed2eb23eeb2a8589920e9f2d6
 annum:
     year: 2011
     month: 04
-hostname: jacquesmattheij.com
+url-parts:
+    scheme: http
+    host: jacquesmattheij.com
+    path: /How+to+damage+your+brand+in+one+smooth+shot+Way+to+GoDaddy
+
 ---
 
 Reason #784 why you shouldn't do business with GoDaddy.

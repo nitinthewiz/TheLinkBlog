@@ -6,7 +6,11 @@ hash: 4baf0b2b61b1356415e8bca57c575cbf
 annum:
     year: 2017
     month: 05
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2017/05/17/storage-startup-vets-return-w-8-65m-series-a-for-atavium/
+
 ---
 
 Atavium’s revolutionary data management system gives its customers the ability to automate the lifecycle of their data, even before the data is created. Atavium will use this investment to build its engineering team and bring the product to market. 

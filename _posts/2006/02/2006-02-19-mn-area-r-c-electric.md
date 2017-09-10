@@ -6,7 +6,11 @@ hash: bb6ff58b612215d884c4371efc9b7f24
 annum:
     year: 2006
     month: 02
-hostname: www.marcee.org
+url-parts:
+    scheme: http
+    host: www.marcee.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 8524220e356fd62b52716d588c3ae07a
 annum:
     year: 2005
     month: 08
-hostname: www.treehugger.com
+url-parts:
+    scheme: http
+    host: www.treehugger.com
+    path: /
+
 ---
 
 Collection of environmentally friendly product reviews and news.

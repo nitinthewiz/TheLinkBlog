@@ -6,7 +6,11 @@ hash: f404da5f045002631c68777f7b4360f6
 annum:
     year: 2010
     month: 11
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /roubini-mars-moon-eurozone-2010-11
+
 ---
 
 There's not going to be anybody coming from Mars or the Moon to bailout the IMF or the Eurozone 

@@ -6,7 +6,11 @@ hash: 4b710829852a931443e7ce68a48a8bde
 annum:
     year: 2009
     month: 04
-hostname: sites.google.com
+url-parts:
+    scheme: http
+    host: sites.google.com
+    path: /a/snaplog.com/wiki/short_url
+
 ---
 
 I linked to Robert Spychala’s “Short URL Auto-Discovery” proposal just 10 days ago, but there’s been a lot of discussion and momentum since then, and Spychala has updated his proposal accordingly. I really like where the proposal stands now, recommending this HTML syntax:

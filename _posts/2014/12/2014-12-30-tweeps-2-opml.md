@@ -6,7 +6,11 @@ hash: 5f06650bbaff84552719766801ebc466
 annum:
     year: 2014
     month: 12
-hostname: tweeps2opml.appspot.com
+url-parts:
+    scheme: https
+    host: tweeps2opml.appspot.com
+    path: /
+
 ---
 
 This tool will find all of the RSS feeds that your Twitter friends provide and put them all into a single OPML file that you can then import into NewsBlur, The Old Reader, Feedly, Digg, etc.

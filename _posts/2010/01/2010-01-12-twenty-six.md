@@ -6,7 +6,11 @@ hash: ee6de6b338b9c99f9ee819c1d7b85834
 annum:
     year: 2010
     month: 01
-hostname: ma.tt
+url-parts:
+    scheme: http
+    host: ma.tt
+    path: /2010/01/twenty-six/
+
 ---
 
 Today is my birthday! It is also, if you write it the right way, a palindrome: 01-11-10. (Hat tip: Mike Adams.)

@@ -6,7 +6,12 @@ hash: 3e051cd493bd8b4306b45202f02748b9
 annum:
     year: 2016
     month: 03
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "IvUU8joBb1Q"
 ---
 
 Crazy marble machine that plays music. Need to watch to understand.

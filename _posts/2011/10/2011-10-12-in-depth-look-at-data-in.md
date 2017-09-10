@@ -6,7 +6,11 @@ hash: 3df82ec94098388a400a509bad9fb937
 annum:
     year: 2011
     month: 10
-hostname: blog.fiesta.cc
+url-parts:
+    scheme: http
+    host: blog.fiesta.cc
+    path: /post/11319522700/walkthrough-mongodb-data-modeling
+
 ---
 
 

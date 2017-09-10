@@ -6,7 +6,13 @@ hash: 00c4098b3a9dd8a21082043683e4e5e5
 annum:
     year: 2009
     month: 10
-hostname: www.poynter.org
+url-parts:
+    scheme: http
+    host: www.poynter.org
+    path: /column.asp
+    query:
+        id: "45"
+        aid: "171740"
 ---
 
 McKinsey: What Matters"The process will still require journalism and journalists, to smoke out the most difficult-to-report situations, to test glib assertions against the facts, to probe for the carefully contrived hoax," writes ProPublica editor Paul Steiger. "These are reporting activities that take a great deal of time, money, and skill."

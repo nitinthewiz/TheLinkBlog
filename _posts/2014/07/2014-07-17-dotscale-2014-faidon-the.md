@@ -6,7 +6,12 @@ hash: 1cf1dd3696c6adcc16192dd701b09ea1
 annum:
     year: 2014
     month: 07
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "646mJu5f2cQ"
 ---
 
 Faidon is the Principal Operations Engineer at Wikimedia

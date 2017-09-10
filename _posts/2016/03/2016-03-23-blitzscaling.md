@@ -6,7 +6,11 @@ hash: 30fa570509648d07bc1734495222d955
 annum:
     year: 2016
     month: 03
-hostname: hbr.org
+url-parts:
+    scheme: https
+    host: hbr.org
+    path: /2016/04/blitzscaling
+
 ---
 
 In this edited interview with Tim Sullivan, the editorial director of HBR Press, Hoffman talks about the challenges, risks, and payoffs of blitzscaling.

@@ -6,7 +6,11 @@ hash: 52718d8e3954473968e0a4a5fb173de4
 annum:
     year: 2008
     month: 04
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /posts/976-a-peek-at-inout-an-internal-app-at-37signals
+
 ---
 
 

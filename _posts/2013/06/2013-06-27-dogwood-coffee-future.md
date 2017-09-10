@@ -6,7 +6,11 @@ hash: 2ec559667a24b4188dd60a49e5028159
 annum:
     year: 2013
     month: 06
-hostname: urbanbeancoffee.com
+url-parts:
+    scheme: http
+    host: urbanbeancoffee.com
+    path: /events/2013/6/30/dogwood-coffee-future-coffee-tasting-event
+
 ---
 
 Good idea. Hope to see more of these.

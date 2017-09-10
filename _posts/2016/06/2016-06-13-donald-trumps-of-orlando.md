@@ -6,7 +6,12 @@ hash: 3f0f24c45d636c5d95ce9f24913225c4
 annum:
     year: 2016
     month: 06
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /news/daily-comment/donald-trumps-exploitation-of-orlando
+    query:
+        mbid: "social_facebook"
 ---
 
 In the rhetoric of Donald Trump, mendacity and cynicism compete for equal time. It is hard to say which prevailed today as the Republican Party standard-bearer, a man who pretends to the most

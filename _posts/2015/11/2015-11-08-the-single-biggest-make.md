@@ -6,7 +6,11 @@ hash: bf58c8a41f0c77271532f9fc6ad866fa
 annum:
     year: 2015
     month: 11
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
+
 ---
 
 Oops

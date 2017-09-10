@@ -6,7 +6,11 @@ hash: 945df829ab1cedc9336c77b578390313
 annum:
     year: 2015
     month: 09
-hostname: swagger.io
+url-parts:
+    scheme: http
+    host: swagger.io
+    path: /getting-started-with-the-amazon-swagger-importer/
+
 ---
 
 

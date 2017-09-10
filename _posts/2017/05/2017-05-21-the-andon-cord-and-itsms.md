@@ -6,7 +6,11 @@ hash: 3bcfad1b7288382c07234911a4ed4942
 annum:
     year: 2017
     month: 05
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@JonHall_/the-andon-cord-and-itsms-devops-challenge-78395393c56f
+
 ---
 
 This is Andon, automated: nothing gets to production if anything is going to break production.

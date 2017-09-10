@@ -6,7 +6,11 @@ hash: f6ca176b2277be4d872951adccc9fdc9
 annum:
     year: 2010
     month: 10
-hostname: www.thejohnnycashproject.com
+url-parts:
+    scheme: http
+    host: www.thejohnnycashproject.com
+    path: /
+
 ---
 
 

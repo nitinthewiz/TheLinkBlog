@@ -6,7 +6,11 @@ hash: 1d35067961979f032a002e9928bf0e0c
 annum:
     year: 2011
     month: 09
-hostname: inamidst.com
+url-parts:
+    scheme: http
+    host: inamidst.com
+    path: /phenny/
+
 ---
 
 

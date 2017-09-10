@@ -6,7 +6,11 @@ hash: 074f051dde7dd4ac50b338712b28c73c
 annum:
     year: 2015
     month: 12
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /2015/12/10/improve-your-communication-with-textexpander/
+
 ---
 
 TextExpander improves your communication. Add consistency and efficiency to your emails and messages, and prevent embarrassing errors.

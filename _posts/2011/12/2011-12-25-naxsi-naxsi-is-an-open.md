@@ -6,7 +6,11 @@ hash: ecc732e23986954ef76b5cbb34e307f2
 annum:
     year: 2011
     month: 12
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/naxsi/
+
 ---
 
 Naxsi is an open source, high performance, low rules maintenance, Web Application Firewall module for Nginx, the infamous web server and reverse-proxy.

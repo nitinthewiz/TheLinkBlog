@@ -6,7 +6,11 @@ hash: 4783bffb9d79092d04abec9f487de334
 annum:
     year: 2010
     month: 12
-hostname: bit.ly
+url-parts:
+    scheme: http
+    host: bit.ly
+    path: /JlNsJy
+
 ---
 
 

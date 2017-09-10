@@ -6,7 +6,11 @@ hash: 2910f7f687821216bd7ded42847ab00c
 annum:
     year: 2011
     month: 01
-hostname: www.suntimes.com
+url-parts:
+    scheme: http
+    host: www.suntimes.com
+    path: /technology/ihnatko/3187565-452/android-slate-ipad-apps-tablet.html
+
 ---
 
 

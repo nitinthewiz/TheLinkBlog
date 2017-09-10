@@ -6,7 +6,11 @@ hash: 19c06bef236757997a85b2a51645d1c2
 annum:
     year: 2011
     month: 05
-hostname: www.quora.com
+url-parts:
+    scheme: http
+    host: www.quora.com
+    path: /Whats-the-most-epic-photo-ever-taken
+
 ---
 
 

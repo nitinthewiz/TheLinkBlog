@@ -6,7 +6,11 @@ hash: b158c42215a5b9adaa11b917de64cf73
 annum:
     year: 2011
     month: 01
-hostname: m.theatlantic.com
+url-parts:
+    scheme: http
+    host: m.theatlantic.com
+    path: /magazine/print/2011/01/hard-core/8327/
+
 ---
 
 

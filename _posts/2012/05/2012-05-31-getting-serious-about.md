@@ -6,7 +6,11 @@ hash: a481a3db31d945e084dca7277293c2d0
 annum:
     year: 2012
     month: 05
-hostname: sethgodin.typepad.com
+url-parts:
+    scheme: http
+    host: sethgodin.typepad.com
+    path: /seths_blog/2012/05/getting-serious-about-experimentation.html
+
 ---
 
 Good reminder, particularly to not write off failures as experiments.

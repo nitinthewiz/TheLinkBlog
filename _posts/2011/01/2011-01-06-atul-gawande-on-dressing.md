@@ -6,7 +6,11 @@ hash: e1429bfa965b61573dcb3c9375150bff
 annum:
     year: 2011
     month: 01
-hostname: commonhealth.wbur.org
+url-parts:
+    scheme: http
+    host: commonhealth.wbur.org
+    path: /2011/01/atul-gawande-exercise
+
 ---
 
 Speaking of @Atul_Gawande, here he is talking about his fitness routine (and also payment reform in MA):

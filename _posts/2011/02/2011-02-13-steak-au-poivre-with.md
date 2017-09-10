@@ -6,7 +6,11 @@ hash: ad9fd10838889d80a2dfca060ff96681
 annum:
     year: 2011
     month: 02
-hostname: www.seriouseats.com
+url-parts:
+    scheme: http
+    host: www.seriouseats.com
+    path: /recipes/2011/02/the-secret-ingredient-black-pepper-steak.html
+
 ---
 
 Steak au Poivre.  I like the micro arugula here.  Truffle oil an interesting twist.

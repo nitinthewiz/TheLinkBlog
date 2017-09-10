@@ -6,7 +6,11 @@ hash: 02505d7a812526f6ab493c2b0722e8e9
 annum:
     year: 2017
     month: 03
-hostname: wiki.requarks.io
+url-parts:
+    scheme: https
+    host: wiki.requarks.io
+    path: /
+
 ---
 
 An open source, modern and powerful wiki app

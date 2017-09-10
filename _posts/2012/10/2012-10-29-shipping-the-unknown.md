@@ -6,7 +6,11 @@ hash: 4447b573e2d0a55d61a9e994ad687547
 annum:
     year: 2012
     month: 10
-hostname: sites.google.com
+url-parts:
+    scheme: https
+    host: sites.google.com
+    path: /site/twincitiespracticalagility/agile-day-twin-cities-2012/schedule/Shipping-the-Unknown
+
 ---
 
 My session for Agile Day Twin Cities 2012.

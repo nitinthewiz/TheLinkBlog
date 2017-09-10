@@ -6,7 +6,11 @@ hash: 34d4c76d32c8da439720132dda1904a6
 annum:
     year: 2011
     month: 07
-hostname: qed.princeton.edu
+url-parts:
+    scheme: http
+    host: qed.princeton.edu
+    path: /main/Template:Sparkline
+
 ---
 
 MediaWiki template to generate a sparkline.

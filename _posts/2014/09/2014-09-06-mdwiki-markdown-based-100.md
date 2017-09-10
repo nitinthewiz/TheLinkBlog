@@ -6,7 +6,11 @@ hash: 0a63c4a484f46cd6fb05201b47d77b42
 annum:
     year: 2014
     month: 09
-hostname: dynalon.github.io
+url-parts:
+    scheme: http
+    host: dynalon.github.io
+    path: /mdwiki/
+
 ---
 
 MDwiki is a CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client.

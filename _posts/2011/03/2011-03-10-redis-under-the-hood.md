@@ -6,7 +6,11 @@ hash: 2686748e65ba57127ba7bd6a58c9bf06
 annum:
     year: 2011
     month: 03
-hostname: pauladamsmith.com
+url-parts:
+    scheme: http
+    host: pauladamsmith.com
+    path: /articles/redis-under-the-hood.html
+
 ---
 
 

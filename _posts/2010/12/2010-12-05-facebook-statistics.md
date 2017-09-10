@@ -6,7 +6,12 @@ hash: c3f76d467dcd2c32489dee29b89eda53
 annum:
     year: 2010
     month: 12
-hostname: newsroom.fb.com
+url-parts:
+    scheme: http
+    host: newsroom.fb.com
+    path: /content/default.aspx
+    query:
+        NewsAreaId: "22"
 ---
 
 

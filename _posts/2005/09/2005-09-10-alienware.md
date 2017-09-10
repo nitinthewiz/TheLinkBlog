@@ -6,7 +6,11 @@ hash: 5dd5c30fe45e69bb04f755fbbe772444
 annum:
     year: 2005
     month: 09
-hostname: www.alienware.com
+url-parts:
+    scheme: http
+    host: www.alienware.com
+    path: /
+
 ---
 
 High-Performance Systems - Notebooks, Desktop PCs, Workstations, Peripherals

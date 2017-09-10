@@ -6,7 +6,11 @@ hash: f77807c8b915516d24ff44a16683699a
 annum:
     year: 2011
     month: 07
-hostname: www.grahamwatson.com
+url-parts:
+    scheme: http
+    host: www.grahamwatson.com
+    path: /
+
 ---
 
 

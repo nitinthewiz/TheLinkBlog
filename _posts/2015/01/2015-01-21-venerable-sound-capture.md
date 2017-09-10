@@ -6,7 +6,11 @@ hash: b0fdfb92c32bfaf4ff23816a97891284
 annum:
     year: 2015
     month: 01
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2015/01/20/venerable-sound-capture-app-audio-hijack-reimagined-for-v3
+
 ---
 
 

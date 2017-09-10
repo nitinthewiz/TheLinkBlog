@@ -6,7 +6,11 @@ hash: fe1541bb48a40563000e918b9cf25a70
 annum:
     year: 2009
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: http
+    host: twitter.com
+    path: /RRodakowski/statuses/1779846504
+
 ---
 
 Cool use of twitter's content (aggregated and enhanced to appeal to road racing fans): http://www.velotweets.com/

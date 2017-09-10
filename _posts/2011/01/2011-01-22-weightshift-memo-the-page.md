@@ -6,7 +6,11 @@ hash: b1479751e86f795387e80e46df9f2a10
 annum:
     year: 2011
     month: 01
-hostname: weightshift.com
+url-parts:
+    scheme: http
+    host: weightshift.com
+    path: /memo/the-personal-page
+
 ---
 
 

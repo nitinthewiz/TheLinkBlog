@@ -6,7 +6,11 @@ hash: d12c5caf9af5b33beff5b74364f9bbed
 annum:
     year: 2008
     month: 11
-hostname: adsenseforfeeds.blogspot.com
+url-parts:
+    scheme: http
+    host: adsenseforfeeds.blogspot.com
+    path: /
+
 ---
 
 

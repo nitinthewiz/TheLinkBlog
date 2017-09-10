@@ -6,7 +6,11 @@ hash: 7868eb6c038595e582c96b0183f8cd47
 annum:
     year: 2012
     month: 03
-hostname: backplanex.com
+url-parts:
+    scheme: http
+    host: backplanex.com
+    path: /
+
 ---
 
 Looks like a Javascript framework to allow multiple Javascript applications to communicate through a message mechanism in the web page.

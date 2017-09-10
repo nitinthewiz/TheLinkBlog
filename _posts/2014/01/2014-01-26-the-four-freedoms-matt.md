@@ -6,7 +6,11 @@ hash: 45623f54746e1afd8ba1217eb4a5cd60
 annum:
     year: 2014
     month: 01
-hostname: ma.tt
+url-parts:
+    scheme: http
+    host: ma.tt
+    path: /2014/01/four-freedoms/
+
 ---
 
 RT @hexmode: if you don’t control the software, the software controls you. 

@@ -6,7 +6,11 @@ hash: 6550bdb54dfccdadfd630e2c246d8634
 annum:
     year: 2011
     month: 03
-hostname: shitphotojournalistslike.tumblr.com
+url-parts:
+    scheme: http
+    host: shitphotojournalistslike.tumblr.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: e20236ddf725facb193e176b7c680062
 annum:
     year: 2010
     month: 09
-hostname: trailers.apple.com
+url-parts:
+    scheme: http
+    host: trailers.apple.com
+    path: /trailers/paramount/truegrit/
+
 ---
 
 The Coen Brothers’ remake of the classic Western, starring Jeff Bridges, Matt Damon, and Josh Brolin. Yes.

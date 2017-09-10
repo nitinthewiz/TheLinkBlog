@@ -6,7 +6,11 @@ hash: 7b2a7ae22f5dcb3771557ebe1ce81828
 annum:
     year: 2012
     month: 03
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2012/03/international-reactions-googles-new-privacy-policy
+
 ---
 
 

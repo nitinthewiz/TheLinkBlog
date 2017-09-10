@@ -6,7 +6,11 @@ hash: d1436a400f2a4dbaa4752287eb5fa7af
 annum:
     year: 2011
     month: 03
-hostname: www.mediawikiwidgets.org
+url-parts:
+    scheme: http
+    host: www.mediawikiwidgets.org
+    path: /Widgets_Catalog
+
 ---
 
 

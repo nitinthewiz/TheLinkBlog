@@ -6,7 +6,11 @@ hash: 10fff1db732c46f6dba83d09338bda34
 annum:
     year: 2009
     month: 07
-hostname: googlereader.blogspot.com
+url-parts:
+    scheme: http
+    host: googlereader.blogspot.com
+    path: /2009/07/following-liking-and-people-searching.html
+
 ---
 
 When we first started improving our sharing features, our goal was to make sharing as simple and flexible as the rest of Reader. Today, we're pleased to announce that we've made four improvements to give you more sharing control and help you easily find other people's publicly shared items within Reader.

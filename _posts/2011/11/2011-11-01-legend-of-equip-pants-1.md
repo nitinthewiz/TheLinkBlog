@@ -6,7 +6,11 @@ hash: be64b17b8b538cd3ae318394ed70cbeb
 annum:
     year: 2011
     month: 11
-hostname: www.zachstronaut.com
+url-parts:
+    scheme: http
+    host: www.zachstronaut.com
+    path: /projects/pants2/game.html
+
 ---
 
 

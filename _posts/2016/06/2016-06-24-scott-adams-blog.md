@@ -6,7 +6,11 @@ hash: 69a779db05ddf436d24152cfaf9067b0
 annum:
     year: 2016
     month: 06
-hostname: blog.dilbert.com
+url-parts:
+    scheme: http
+    host: blog.dilbert.com
+    path: /post/146361457021/the-humiliation-of-the-american-male-in-2016
+
 ---
 
 Perhaps the biggest unreported story of this presidential election is the humiliation of the American male. Unless I

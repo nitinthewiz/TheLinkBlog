@@ -6,7 +6,11 @@ hash: 9777c21df8892b89f6f86b780a758cfb
 annum:
     year: 2008
     month: 03
-hostname: publishing2.com
+url-parts:
+    scheme: http
+    host: publishing2.com
+    path: /2008/03/20/how-search-has-transformed-news-consumption-on-the-web/
+
 ---
 
 We all know that news consumption is no longer passive, whether it’s reader comments on a blog post or news article, or individuals starting a blog to have a voice of their own — the evidence is everywhere.

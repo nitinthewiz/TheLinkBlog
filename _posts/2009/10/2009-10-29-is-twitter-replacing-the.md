@@ -6,7 +6,11 @@ hash: e13180306d995c761b50b18014037916
 annum:
     year: 2009
     month: 10
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /collaboration/is-twitter-replacing-the-rss-reader/
+
 ---
 
 Last Friday, I was attending Portland’s weekly Beer and Blog event, and I stumbled across what later turned out to be an interesting trend. I had two separate, unrelated conversations about an hour apart with people working in the technology industry who once used RSS readers but had mostly abandoned them in favor of using Twitter to find news and interesting blog posts. I talked to a couple of other friends and posted the question on Twitter, which confirmed that many people are using Twitter as an RSS reader replacement.

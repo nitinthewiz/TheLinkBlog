@@ -6,7 +6,11 @@ hash: 5243b37594de552288c26e7d0f675eef
 annum:
     year: 2007
     month: 01
-hostname: www.farmtofork.net
+url-parts:
+    scheme: http
+    host: www.farmtofork.net
+    path: /
+
 ---
 
 

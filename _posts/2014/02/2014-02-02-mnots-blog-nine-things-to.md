@@ -6,7 +6,11 @@ hash: 3fb83d35135cd4599002a0cf319d0db8
 annum:
     year: 2014
     month: 02
-hostname: www.mnot.net
+url-parts:
+    scheme: https
+    host: www.mnot.net
+    path: /blog/2014/01/30/http2_expectations
+
 ---
 
 

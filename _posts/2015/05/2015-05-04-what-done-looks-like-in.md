@@ -6,7 +6,11 @@ hash: b5f60dbbea8d28788495260400f88192
 annum:
     year: 2015
     month: 05
-hostname: blogs.versionone.com
+url-parts:
+    scheme: http
+    host: blogs.versionone.com
+    path: /agile_management/2015/04/30/what-done-looks-like-in-devops/
+
 ---
 
 and the hooks for monitoring, performance evaluation and health checks are in as well.

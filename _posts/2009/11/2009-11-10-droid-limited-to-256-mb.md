@@ -6,7 +6,11 @@ hash: 149155ad6b2016103922935a6d3d0bb0
 annum:
     year: 2009
     month: 11
-hostname: androidandme.com
+url-parts:
+    scheme: http
+    host: androidandme.com
+    path: /2009/10/news/google-fails-to-address-app-storage-issue-with-droid-and-android-2-0/
+
 ---
 
 Taylor Wimberly:

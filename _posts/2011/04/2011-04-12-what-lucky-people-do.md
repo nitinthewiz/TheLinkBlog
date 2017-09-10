@@ -6,7 +6,11 @@ hash: cf124927d3c84a7e2d09d02d841fa080
 annum:
     year: 2011
     month: 04
-hostname: www.jonathanfields.com
+url-parts:
+    scheme: http
+    host: www.jonathanfields.com
+    path: /blog/what-lucky-people-do-differently/
+
 ---
 
 

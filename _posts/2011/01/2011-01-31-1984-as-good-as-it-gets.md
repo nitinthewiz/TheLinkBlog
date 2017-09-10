@@ -6,7 +6,11 @@ hash: 086a0e3703f478807430331e34ce793c
 annum:
     year: 2011
     month: 01
-hostname: www.adweek.com
+url-parts:
+    scheme: http
+    host: www.adweek.com
+    path: /news/advertising-branding/1984-good-it-gets-125608
+
 ---
 
 A single TV commercial redefined Super Bowl advertising. How was it made?

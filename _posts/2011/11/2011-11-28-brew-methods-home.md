@@ -6,7 +6,11 @@ hash: e59589219a3d5c4cd622a6d32107b449
 annum:
     year: 2011
     month: 11
-hostname: brewmethods.com
+url-parts:
+    scheme: http
+    host: brewmethods.com
+    path: /
+
 ---
 
 

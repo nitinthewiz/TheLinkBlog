@@ -6,7 +6,11 @@ hash: 5060c4e427e14cac8900ff6b2c3eef2a
 annum:
     year: 2008
     month: 02
-hostname: www.growthink.com
+url-parts:
+    scheme: http
+    host: www.growthink.com
+    path: /content/raising-capital-why-it-so-difficult
+
 ---
 
 

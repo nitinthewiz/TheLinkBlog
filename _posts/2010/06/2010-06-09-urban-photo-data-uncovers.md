@@ -6,7 +6,11 @@ hash: aa45b09cc4291380b14b225b86fbfa36
 annum:
     year: 2010
     month: 06
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/cool_local_places_without_tourists.php
+
 ---
 
 What parts of a city do locals know are interesting, but are off the beaten path of typical tourists?  Now that a growing amount of photography has been enriched with public data, questions like that are something we can tackle in new and interesting ways.  

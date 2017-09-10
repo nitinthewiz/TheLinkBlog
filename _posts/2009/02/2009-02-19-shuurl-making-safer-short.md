@@ -6,7 +6,11 @@ hash: 646e332ee5e6e337254f4a54e0a4bb94
 annum:
     year: 2009
     month: 02
-hostname: shuurl.com
+url-parts:
+    scheme: http
+    host: shuurl.com
+    path: /
+
 ---
 
 

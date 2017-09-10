@@ -6,7 +6,11 @@ hash: 8b7224714b5128455c5d1779fd214211
 annum:
     year: 2010
     month: 05
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5530727/wolframtones-generates-unique-midi-ringtones-for-your-cellphone
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 6bbeae518cb4bb8dce3beaa167a7f14e
 annum:
     year: 2011
     month: 02
-hostname: www.practicallyefficient.com
+url-parts:
+    scheme: http
+    host: www.practicallyefficient.com
+    path: /home/2011/02/01/learning-omnifocus
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5600fb36137bc6dd26035d01dc4b7a3f
 annum:
     year: 2012
     month: 04
-hostname: lab.hakim.se
+url-parts:
+    scheme: http
+    host: lab.hakim.se
+    path: /scroll-effects/
+
 ---
 
 Pretty crazy animations on lists all done in CSS.

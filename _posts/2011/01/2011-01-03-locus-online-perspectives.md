@@ -6,7 +6,13 @@ hash: fa7964dec05f0d25da525f25bc0c7680
 annum:
     year: 2011
     month: 01
-hostname: www.locusmag.com
+url-parts:
+    scheme: http
+    host: www.locusmag.com
+    path: /Perspectives/2011/01/cory-doctorow-net-neutrality-for-writers-its-all-about-the-leverage/
+    query:
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Perspective: Cory Doctorow:Net Neutrality for Writers: It’s All About the Leverage 

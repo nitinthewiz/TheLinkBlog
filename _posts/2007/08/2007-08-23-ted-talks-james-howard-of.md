@@ -6,7 +6,11 @@ hash: 3c6855dd3c04bcf459fb1cae875bda96
 annum:
     year: 2007
     month: 08
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/view/id/121
+
 ---
 
 In James Howard Kunstler's view, public spaces should be inspired centers of civic life -- the physical manifestation of the common good. Instead, he argues, what we have in America is a nation of places not worth caring about. Reengineering our cities wi

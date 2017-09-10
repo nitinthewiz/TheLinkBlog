@@ -6,7 +6,11 @@ hash: 6779176265f1707df53240bacbefda5e
 annum:
     year: 2014
     month: 08
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2014/08/05/sps-commerce-vp-says-marketing-has-been-transformed/
+
 ---
 
 It was a lively discussion, with panel members openly sharing their experiences navigating the new world of B2B marketing and the challenges they specifically have faced at their respective companies.

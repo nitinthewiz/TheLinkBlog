@@ -6,7 +6,11 @@ hash: 0519b3c026cd81210aea9b71e3f84208
 annum:
     year: 2015
     month: 06
-hostname: www.wsj.com
+url-parts:
+    scheme: http
+    host: www.wsj.com
+    path: /articles/is-uber-a-friend-or-foe-of-carnegie-mellon-in-robotics-1433084582
+
 ---
 
 Uber staffs new tech center with researchers poached from its collaborator on self-driving technology

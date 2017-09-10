@@ -6,7 +6,11 @@ hash: 16f0f6e6fa6859706b328bd63495c64f
 annum:
     year: 2013
     month: 06
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /tech-policy/2013/06/google-handed-over-years-of-e-mails-belonging-to-wikileaks-chatroom-admin/
+
 ---
 
 Google handed over years of e-mails belonging to WikiLeaks chatroom admin

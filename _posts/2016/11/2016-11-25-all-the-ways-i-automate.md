@@ -6,7 +6,11 @@ hash: fbbb8af3dc87996c0e70d6897cbc502c
 annum:
     year: 2016
     month: 11
-hostname: m.imore.com
+url-parts:
+    scheme: http
+    host: m.imore.com
+    path: /all-ways-i-automate
+
 ---
 
 

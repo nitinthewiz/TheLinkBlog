@@ -6,7 +6,11 @@ hash: e49164b41a8ccc25236939a753815269
 annum:
     year: 2010
     month: 08
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2010/08/12/delta-ticket-window/
+
 ---
 
 

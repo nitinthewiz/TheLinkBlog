@@ -6,7 +6,11 @@ hash: 5a69128e4f3bca831529be398dec89b1
 annum:
     year: 2010
     month: 12
-hostname: danielbachhuber.com
+url-parts:
+    scheme: http
+    host: danielbachhuber.com
+    path: /2010/10/25/liberation/
+
 ---
 
 

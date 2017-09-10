@@ -6,7 +6,11 @@ hash: 7277a52c5bf3dc7f6ea2045531780bd2
 annum:
     year: 2007
     month: 08
-hostname: eightface.com
+url-parts:
+    scheme: http
+    host: eightface.com
+    path: /wordpress/flickrrss/
+
 ---
 
 This plugin for WordPress allows you to display Flickr photos on your weblog. The plugin supports user, public and group photostreams. It’s easy to setup and configure via an options panel. It also has image cache support.

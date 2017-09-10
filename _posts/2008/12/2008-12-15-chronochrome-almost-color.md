@@ -6,7 +6,11 @@ hash: 32c4d3d6e2752667d007a250df6063e6
 annum:
     year: 2008
     month: 12
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2008/12/15/chronochrome-almost-resistor-color-code-time/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 8df06a5531fe8f6519b16b348ff83c10
 annum:
     year: 2010
     month: 09
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /0lqwzyj
+
 ---
 
 Mazie soccer game tonight!  

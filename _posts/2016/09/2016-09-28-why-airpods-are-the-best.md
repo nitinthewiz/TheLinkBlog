@@ -6,7 +6,11 @@ hash: 69f9098466b34c6673611e6d9bce783e
 annum:
     year: 2016
     month: 09
-hostname: www.fastcompany.com
+url-parts:
+    scheme: https
+    host: www.fastcompany.com
+    path: /3064105/why-airpods-are-the-best-place-for-siri-according-to-apple-veteran-bill-atkinson
+
 ---
 
 In the heat of the controversy about removing the analog headphone jack on the iPhone, Apple released a line of wireless headphones called AirPods. They seemed to represent Apple

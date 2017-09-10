@@ -6,7 +6,11 @@ hash: f6f5526e6d2e6e8529d36ea7649d6ffd
 annum:
     year: 2009
     month: 06
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5280484/the-minimalist-os-x-desktop
+
 ---
 
 Reader нawk's desktop is a blend of a simple wallpaper and nicely placed system stats—yielding a clean, minimalist look that gives you the information you want without a lot of clutter. 

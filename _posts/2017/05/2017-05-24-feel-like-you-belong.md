@@ -6,7 +6,11 @@ hash: 22d8c1e1fb57385accffdb5e44a7eab5
 annum:
     year: 2017
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /jessfraz/status/867488490237374465
+
 ---
 
 

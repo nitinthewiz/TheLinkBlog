@@ -6,7 +6,11 @@ hash: fae17a5732d412d81d344f99b8d396ab
 annum:
     year: 2015
     month: 06
-hostname: verdantlabs.com
+url-parts:
+    scheme: http
+    host: verdantlabs.com
+    path: /politics_of_professions/
+
 ---
 
 Most librarians are Democrats. Most farmers are Republicans. As a group, doctors are in the middle, though pediatricians lean left and urologists right.

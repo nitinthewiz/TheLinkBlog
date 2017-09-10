@@ -6,7 +6,11 @@ hash: 8dac2e3308b266b64eaea746bbc5ba05
 annum:
     year: 2007
     month: 01
-hostname: www.techsmith.com
+url-parts:
+    scheme: http
+    host: www.techsmith.com
+    path: /camtasia.asp
+
 ---
 
 Camtasia Studio is the complete professional solution for recording, editing and sharing high-quality screen video on the Web, CD-ROM and portable media players, including iPod.

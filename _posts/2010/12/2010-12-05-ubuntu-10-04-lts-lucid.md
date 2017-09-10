@@ -6,7 +6,11 @@ hash: 31e883c73ef05aced0f680cef5480140
 annum:
     year: 2010
     month: 12
-hostname: uec-images.ubuntu.com
+url-parts:
+    scheme: http
+    host: uec-images.ubuntu.com
+    path: /releases/lucid/release/
+
 ---
 
 

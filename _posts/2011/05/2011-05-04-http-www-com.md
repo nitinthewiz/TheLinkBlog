@@ -6,7 +6,11 @@ hash: e32d57f3747ae1f20a7ffc23115d3910
 annum:
     year: 2011
     month: 05
-hostname: www.spatulacityrecords.com
+url-parts:
+    scheme: http
+    host: www.spatulacityrecords.com
+    path: /
+
 ---
 
 

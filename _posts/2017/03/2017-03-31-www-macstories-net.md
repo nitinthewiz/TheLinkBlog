@@ -6,7 +6,11 @@ hash: 6c37a9a1d9ec45422c6cbbd8e683ea60
 annum:
     year: 2017
     month: 03
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/the-future-of-workflow/
+
 ---
 
 

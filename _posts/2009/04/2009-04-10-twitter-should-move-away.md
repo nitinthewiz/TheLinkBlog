@@ -6,7 +6,11 @@ hash: 67d43cf7c5dd75878d19d9137942b875
 annum:
     year: 2009
     month: 04
-hostname: pragdave.blogs.pragprog.com
+url-parts:
+    scheme: http
+    host: pragdave.blogs.pragprog.com
+    path: /pragdave/2009/04/twitter-should-move-away-from-ruby.html
+
 ---
 
 Oh dear. The chattering classes are at it, talking about how the Twitter folks are dissing Ruby by announcing the replacement of some Ruby code with Scala code.

@@ -6,7 +6,11 @@ hash: bb51c1d72d7db8cd104319c34eeca4dc
 annum:
     year: 2007
     month: 04
-hostname: www.livinghomes.net
+url-parts:
+    scheme: http
+    host: www.livinghomes.net
+    path: /tour.html
+
 ---
 
 Amazing tour of an energy efficient house.

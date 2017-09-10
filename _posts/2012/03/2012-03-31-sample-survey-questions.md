@@ -6,7 +6,11 @@ hash: ecc394f05a5d02b8b969ef97f79a7458
 annum:
     year: 2012
     month: 03
-hostname: www.constantcontact.com
+url-parts:
+    scheme: http
+    host: www.constantcontact.com
+    path: /aka/docs/pdf/survey_sample_qa_tips.pdf
+
 ---
 
 

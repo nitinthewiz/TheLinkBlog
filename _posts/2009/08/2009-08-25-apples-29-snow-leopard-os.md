@@ -6,7 +6,11 @@ hash: 1e02e593a1715132b16b8e5ed2bb213e
 annum:
     year: 2009
     month: 08
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/08/24/apples-29-snow-leopard-os-forgoes-wows-in-favor-of-customer-retention/
+
 ---
 
 Apple’s latest operating system ships on Friday. Snow Leopard, as its name implies, is a massive upgrade to the current OS, Leopard. Strategically, Apple’s goal for Snow Leopard isn’t to wow consumers with new applications, as it has with past OS upgrades. Instead, Snow Leopard makes Mac desktops and laptops faster and more reliable, and enables them to replace Windows PCs in Microsoft-centric workplaces by connecting to Microsoft’s Exchange server for email, calendars and contacts. Snow Leopard also takes advantage of recent enhancements to Intel’s CPU chips, most notably multi-core processing and 64-bit memory capability.

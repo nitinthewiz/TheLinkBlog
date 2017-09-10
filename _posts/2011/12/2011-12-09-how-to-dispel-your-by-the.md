@@ -6,7 +6,11 @@ hash: 31f78e0dee97c942d02e5f3f04a0ba24
 annum:
     year: 2011
     month: 12
-hostname: www.nybooks.com
+url-parts:
+    scheme: http
+    host: www.nybooks.com
+    path: /articles/archives/2011/dec/22/how-dispel-your-illusions/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ae44e3cd019ac280592a97eda2e92afd
 annum:
     year: 2007
     month: 02
-hostname: www.centernetworks.com
+url-parts:
+    scheme: http
+    host: www.centernetworks.com
+    path: /interview-with-traineo-ceo/
+
 ---
 
 I have written about traineo a few times on CenterNetworks, most recently I named it my favorite of all of the current fitness applications. It is a rock solid application using lots of Web 2.0 features and a great design that works for both men and women

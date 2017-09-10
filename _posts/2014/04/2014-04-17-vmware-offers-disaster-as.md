@@ -6,7 +6,11 @@ hash: 6db48453353099e91a061afaa1d4d83e
 annum:
     year: 2014
     month: 04
-hostname: www.informationweek.com
+url-parts:
+    scheme: http
+    host: www.informationweek.com
+    path: /cloud/infrastructure-as-a-service/vmware-offers-disaster-recovery-as-a-service/d/d-id/1204466
+
 ---
 
 Interesting model. Seems like partially a way to over-subscribe host memory and CPU.

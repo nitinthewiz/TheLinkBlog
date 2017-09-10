@@ -6,7 +6,11 @@ hash: b84a8a55dc822ef6a74971db2631d3dc
 annum:
     year: 2012
     month: 04
-hostname: www.motherjones.com
+url-parts:
+    scheme: http
+    host: www.motherjones.com
+    path: /environment/2010/05/population-growth-india-vatican
+
 ---
 
 

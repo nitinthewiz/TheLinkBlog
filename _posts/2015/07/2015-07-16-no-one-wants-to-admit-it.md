@@ -6,7 +6,11 @@ hash: 6494805e9a4277220f78b89bf6c76e84
 annum:
     year: 2015
     month: 07
-hostname: gawker.com
+url-parts:
+    scheme: http
+    host: gawker.com
+    path: /no-one-wants-to-admit-it-but-reddit-cant-be-saved-1717577917
+
 ---
 
 

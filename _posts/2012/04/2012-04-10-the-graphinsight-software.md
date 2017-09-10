@@ -6,7 +6,11 @@ hash: 41a80c4597a551096b83edccda5e0850
 annum:
     year: 2012
     month: 04
-hostname: www.graphinsight.com
+url-parts:
+    scheme: http
+    host: www.graphinsight.com
+    path: /
+
 ---
 
 GraphInsight is a visualization software that lets you explore graph data through high quality interactive representations.

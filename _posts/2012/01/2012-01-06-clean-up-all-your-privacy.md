@@ -6,7 +6,11 @@ hash: c8cc812a0d400f072dcf3b5a82bcf38e
 annum:
     year: 2012
     month: 01
-hostname: mypermissions.com
+url-parts:
+    scheme: http
+    host: mypermissions.com
+    path: 
+
 ---
 
 

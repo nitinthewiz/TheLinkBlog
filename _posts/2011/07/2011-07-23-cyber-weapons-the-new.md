@@ -6,7 +6,11 @@ hash: 8472a41b5ba16713768e8df75d1fb1d7
 annum:
     year: 2011
     month: 07
-hostname: www.businessweek.com
+url-parts:
+    scheme: http
+    host: www.businessweek.com
+    path: /printer/magazine/cyber-weapons-the-new-arms-race-07212011.html
+
 ---
 
 

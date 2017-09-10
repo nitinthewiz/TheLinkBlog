@@ -6,7 +6,11 @@ hash: e46e19e3eb26fd33b2cd768ab4be38f9
 annum:
     year: 2010
     month: 08
-hostname: blip.tv
+url-parts:
+    scheme: http
+    host: blip.tv
+    path: /lessig/of-by-4-in-18-minutes-3964693
+
 ---
 
 This new talk from Larry Lessig (@lessig) is worth watching. Great stuff.

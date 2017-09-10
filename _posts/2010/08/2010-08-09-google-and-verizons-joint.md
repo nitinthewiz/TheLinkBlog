@@ -6,7 +6,11 @@ hash: e9cb18093ebe46d0a110f829f64d9033
 annum:
     year: 2010
     month: 08
-hostname: googlepublicpolicy.blogspot.com
+url-parts:
+    scheme: http
+    host: googlepublicpolicy.blogspot.com
+    path: /2010/08/joint-policy-proposal-for-open-internet.html
+
 ---
 
 Just keep repeating the word “open”:

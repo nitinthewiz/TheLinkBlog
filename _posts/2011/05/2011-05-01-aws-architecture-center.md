@@ -6,7 +6,11 @@ hash: bf3cfecc404b388717e8e1decda6292c
 annum:
     year: 2011
     month: 05
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /architecture/
+
 ---
 
 

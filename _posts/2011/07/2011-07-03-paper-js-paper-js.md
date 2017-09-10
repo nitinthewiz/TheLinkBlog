@@ -6,7 +6,11 @@ hash: f1c04cea4cad67c7e173d95992e72d10
 annum:
     year: 2011
     month: 07
-hostname: paperjs.org
+url-parts:
+    scheme: http
+    host: paperjs.org
+    path: /
+
 ---
 
 

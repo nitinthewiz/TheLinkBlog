@@ -6,7 +6,11 @@ hash: faae37923e65fef97a455565cf66fff5
 annum:
     year: 2014
     month: 06
-hostname: devour.com
+url-parts:
+    scheme: http
+    host: devour.com
+    path: /video/delete-your-facebook/
+
 ---
 
 Delete Your Facebook. Amen.  

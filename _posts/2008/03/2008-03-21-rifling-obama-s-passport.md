@@ -6,7 +6,11 @@ hash: b483951384710f1b8eadb3d1103b509a
 annum:
     year: 2008
     month: 03
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2008/03/21/481215/-Rifling-Obama-s-passport-file
+
 ---
 
 

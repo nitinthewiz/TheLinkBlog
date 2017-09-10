@@ -6,7 +6,11 @@ hash: 108dac9bdec9a64dc7c44da3564c44d8
 annum:
     year: 2011
     month: 03
-hostname: www.outsideonline.com
+url-parts:
+    scheme: http
+    host: www.outsideonline.com
+    path: /outdoor-adventure/biking/city-biking/Rage-Against-Your-Machine.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 28865500beecd7776c06a95b1a2e3fee
 annum:
     year: 2011
     month: 01
-hostname: www.zeldman.com
+url-parts:
+    scheme: http
+    host: www.zeldman.com
+    path: /2011/01/17/we-didnt-stop-the-fire/
+
 ---
 
 

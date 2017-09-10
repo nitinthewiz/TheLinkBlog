@@ -6,7 +6,11 @@ hash: 3eb6c47a6546380336b9cef05f485720
 annum:
     year: 2010
     month: 11
-hostname: basicmaths.subtraction.com
+url-parts:
+    scheme: http
+    host: basicmaths.subtraction.com
+    path: /
+
 ---
 
 

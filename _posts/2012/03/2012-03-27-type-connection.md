@@ -6,7 +6,11 @@ hash: 0e2e9aeda71ab94cfdbde7551101d68b
 annum:
     year: 2012
     month: 03
-hostname: www.typeconnection.com
+url-parts:
+    scheme: http
+    host: www.typeconnection.com
+    path: /about.php
+
 ---
 
 Really odd, and a bit too complicated, but interesting concept.

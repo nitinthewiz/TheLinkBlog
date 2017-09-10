@@ -6,7 +6,11 @@ hash: 329df1a2dc8c0013da1ffe6f66473c60
 annum:
     year: 2007
     month: 05
-hostname: www.economist.com
+url-parts:
+    scheme: http
+    host: www.economist.com
+    path: /node/9120796
+
 ---
 
 Is there more to Rupert Murdoch's bid for Dow Jones than an old man's vanity?

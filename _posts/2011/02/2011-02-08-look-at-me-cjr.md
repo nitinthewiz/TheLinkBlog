@@ -6,7 +6,12 @@ hash: ef43540b68a06c03b951fead22205181
 annum:
     year: 2011
     month: 02
-hostname: www.cjr.org
+url-parts:
+    scheme: http
+    host: www.cjr.org
+    path: /cover_story/look_at_me.php
+    query:
+        page: "all"
 ---
 
 

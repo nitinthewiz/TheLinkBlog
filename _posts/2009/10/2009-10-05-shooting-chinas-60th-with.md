@@ -6,7 +6,11 @@ hash: 3d13d5d2818ce7a15832e98d9afd34b5
 annum:
     year: 2009
     month: 10
-hostname: www.dslrnewsshooter.com
+url-parts:
+    scheme: http
+    host: www.dslrnewsshooter.com
+    path: /2009/10/01/shooting-chinas-60th-anniversary-parade-with-the-7d-5dmkii-and-nikon-d700/
+
 ---
 
 

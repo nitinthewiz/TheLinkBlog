@@ -6,7 +6,11 @@ hash: eeaae5de5eabaa02ff728b500c6e5fa0
 annum:
     year: 2015
     month: 02
-hostname: keepachangelog.com
+url-parts:
+    scheme: http
+    host: keepachangelog.com
+    path: /
+
 ---
 
 

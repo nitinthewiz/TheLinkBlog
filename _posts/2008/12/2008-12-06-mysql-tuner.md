@@ -6,7 +6,11 @@ hash: 96d70ec7471f939ec34b4be5a0361d3d
 annum:
     year: 2008
     month: 12
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /major/MySQLTuner-perl
+
 ---
 
 MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. Within seconds, it will display statistics about your MySQL installation and the areas where it can be improved.

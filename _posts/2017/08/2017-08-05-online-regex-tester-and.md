@@ -6,7 +6,11 @@ hash: 31760270da2559a247a64a82b5848975
 annum:
     year: 2017
     month: 08
-hostname: regex101.com
+url-parts:
+    scheme: https
+    host: regex101.com
+    path: /
+
 ---
 
 

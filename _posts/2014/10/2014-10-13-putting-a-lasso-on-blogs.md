@@ -6,7 +6,11 @@ hash: a6fefdf80f2012f42344febbddb16cb3
 annum:
     year: 2014
     month: 10
-hostname: blogs.atlassian.com
+url-parts:
+    scheme: http
+    host: blogs.atlassian.com
+    path: /2014/10/salesforce-development-atlassian/
+
 ---
 
 With a small Salesforce development team serving multiple departments, supporting Atlassian's deployment can be complex. Thankfully, we have tools for that.

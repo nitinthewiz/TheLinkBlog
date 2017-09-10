@@ -6,7 +6,12 @@ hash: e0d590522ac2bc35475020288298fc3a
 annum:
     year: 2015
     month: 06
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /world/2015/jun/15/pope-francis-destruction-ecosystem-leaked-encyclical
+    query:
+        CMP: "share_btn_tw"
 ---
 
 

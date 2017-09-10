@@ -6,7 +6,11 @@ hash: 025dad73c243dace61cd248723cd29cf
 annum:
     year: 2015
     month: 09
-hostname: www.nature.com
+url-parts:
+    scheme: http
+    host: www.nature.com
+    path: /news/the-tiniest-lego-a-tale-of-nanoscale-motors-rotors-switches-and-pumps-1.18262
+
 ---
 
 

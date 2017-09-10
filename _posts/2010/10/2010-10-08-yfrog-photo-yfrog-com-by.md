@@ -6,7 +6,11 @@ hash: f694a6e2321793ad05ec1746e3735157
 annum:
     year: 2010
     month: 10
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /mjq98sj
+
 ---
 
 Definitely fall!  

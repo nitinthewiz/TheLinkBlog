@@ -6,7 +6,11 @@ hash: e4275ef46aca0d808f7a6114b928eb14
 annum:
     year: 2011
     month: 01
-hostname: perfectmarket.com
+url-parts:
+    scheme: http
+    host: perfectmarket.com
+    path: /
+
 ---
 
 

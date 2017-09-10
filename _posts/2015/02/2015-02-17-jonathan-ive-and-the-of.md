@@ -6,7 +6,11 @@ hash: 325126622178fef6ca2a0252619a1c23
 annum:
     year: 2015
     month: 02
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2015/02/23/shape-things-come
+
 ---
 
 

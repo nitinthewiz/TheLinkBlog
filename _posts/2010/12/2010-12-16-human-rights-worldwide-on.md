@@ -6,7 +6,11 @@ hash: 85f47307ce1f0654053292ee4e07226a
 annum:
     year: 2010
     month: 12
-hostname: advocacy.globalvoicesonline.org
+url-parts:
+    scheme: http
+    host: advocacy.globalvoicesonline.org
+    path: /2010/12/16/human-rights-organizations-worldwide-decry-attacks-on-freedom-of-expression/
+
 ---
 
 Human Rights Organizations Worldwide Decry Attacks on Freedom of Expression   #wikileaks #netfreedom

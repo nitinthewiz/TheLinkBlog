@@ -6,7 +6,12 @@ hash: 513e75364f9934679fb628b8aec07a5a
 annum:
     year: 2012
     month: 06
-hostname: sportsillustrated.cnn.com
+url-parts:
+    scheme: http
+    host: sportsillustrated.cnn.com
+    path: /multimedia/photo_gallery/1202/us.olympic.table.tennis.trials/content.1.html
+    query:
+        eref: "twitter_feed"
 ---
 
 Reminds me of the @tstmedia lounge come 5:30pm! “@si_photos: U.S. Olympic Table Tennis Trials ”

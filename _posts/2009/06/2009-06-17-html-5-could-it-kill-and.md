@@ -6,7 +6,11 @@ hash: 212df1f776e9c005c4945a2c655b06ef
 annum:
     year: 2009
     month: 06
-hostname: tech.yahoo.com
+url-parts:
+    scheme: http
+    host: tech.yahoo.com
+    path: /news/infoworld/20090616/tc_infoworld/79291
+
 ---
 
 Yes.

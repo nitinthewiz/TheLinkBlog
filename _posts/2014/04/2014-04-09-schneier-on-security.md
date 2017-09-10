@@ -6,7 +6,11 @@ hash: 626e625c33938b30f4f70ea772164e76
 annum:
     year: 2014
     month: 04
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2014/04/heartbleed.html
+
 ---
 
 "Catastrophic" is the right word. On the scale of 1 to 10, this is an 11.

@@ -6,7 +6,11 @@ hash: d7e018d2ca355f57c545f1b3124e7e77
 annum:
     year: 2008
     month: 09
-hostname: www.websota.com
+url-parts:
+    scheme: http
+    host: www.websota.com
+    path: /
+
 ---
 
 

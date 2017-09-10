@@ -6,7 +6,11 @@ hash: cb9151bbf807635c3701cbe4841e710c
 annum:
     year: 2006
     month: 06
-hostname: www.watermeters.com
+url-parts:
+    scheme: http
+    host: www.watermeters.com
+    path: /
+
 ---
 
 

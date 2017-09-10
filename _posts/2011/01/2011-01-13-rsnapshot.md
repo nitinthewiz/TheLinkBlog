@@ -6,7 +6,11 @@ hash: f297b1b7fbb3972f2e4c5bb3ed0b6aec
 annum:
     year: 2011
     month: 01
-hostname: www.rsnapshot.org
+url-parts:
+    scheme: http
+    host: www.rsnapshot.org
+    path: /
+
 ---
 
 rsnapshot is a filesystem snapshot utility for making backups of local and remote systems.

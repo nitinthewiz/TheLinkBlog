@@ -6,7 +6,11 @@ hash: af0b4e91599d8116eb1e77bd74df365d
 annum:
     year: 2010
     month: 08
-hostname: boingboing.net
+url-parts:
+    scheme: http
+    host: boingboing.net
+    path: /2010/07/27/world-beard-and-must.html
+
 ---
 
 

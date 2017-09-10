@@ -6,7 +6,11 @@ hash: a928803a3f99f5ebfbafec34dc34a512
 annum:
     year: 2015
     month: 05
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /apple-watch-review-2015-5
+
 ---
 
 A full review of the Apple Watch.

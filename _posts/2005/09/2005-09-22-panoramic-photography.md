@@ -6,7 +6,11 @@ hash: bf780f793acf061914a5083c26b6229f
 annum:
     year: 2005
     month: 09
-hostname: www.shutterbug.net
+url-parts:
+    scheme: http
+    host: www.shutterbug.net
+    path: /features/0705panoramic/index.html
+
 ---
 
 Shutterbug article on doing panoramic shots with your SLR.

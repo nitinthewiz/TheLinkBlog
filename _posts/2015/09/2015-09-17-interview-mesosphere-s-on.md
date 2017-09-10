@@ -6,7 +6,11 @@ hash: caea91989aac253f76027de4d2135808
 annum:
     year: 2015
     month: 09
-hostname: ostatic.com
+url-parts:
+    scheme: http
+    host: ostatic.com
+    path: /blog/interview-mesospheres-ben-hindman-on-the-need-for-a-data-center-os
+
 ---
 
 

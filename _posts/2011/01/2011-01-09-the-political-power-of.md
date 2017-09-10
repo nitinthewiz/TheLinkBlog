@@ -6,7 +6,11 @@ hash: 431d4f110ac595a227fb54ebe4df096b
 annum:
     year: 2011
     month: 01
-hostname: www.foreignaffairs.com
+url-parts:
+    scheme: http
+    host: www.foreignaffairs.com
+    path: /articles/67038/clay-shirky/the-political-power-of-social-media
+
 ---
 
 For realism about the Net as a force for change in unfree countries I recommend this Clay Shirky essay in Foreign Affairs 

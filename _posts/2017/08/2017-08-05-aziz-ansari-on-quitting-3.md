@@ -6,7 +6,11 @@ hash: fb5019391c556114e701697f7daf91c1
 annum:
     year: 2017
     month: 08
-hostname: www.gq.com
+url-parts:
+    scheme: http
+    host: www.gq.com
+    path: /story/aziz-ansari-gq-style-cover-story/amp
+
 ---
 
 

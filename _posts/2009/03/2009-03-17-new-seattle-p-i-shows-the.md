@@ -6,7 +6,11 @@ hash: b87388bbb3f7e8e62bc3f40ec26ce379
 annum:
     year: 2009
     month: 03
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /henry-blodget-new-seattle-p-i-shows-the-future-of-newspapers-2009-3
+
 ---
 
 

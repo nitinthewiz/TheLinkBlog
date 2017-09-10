@@ -6,7 +6,11 @@ hash: d3cbddb7256c53b6f596a5641439ea35
 annum:
     year: 2014
     month: 01
-hostname: www.meetup.com
+url-parts:
+    scheme: http
+    host: www.meetup.com
+    path: /DevOps-Minneapolis/events/159219722/
+
 ---
 
 I'm in! Anyone want to join?  Wed 1/15 @yost_cares @geekandi @DanielRedOak @pixelsnbits @maas_8128 @thingles @zwigno 

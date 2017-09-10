@@ -6,7 +6,11 @@ hash: 131cdb0f365d88572ac638eece4e1907
 annum:
     year: 2010
     month: 12
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /technology/2010/dec/21/keeping-email-address-secret-spambots
+
 ---
 
 Email secrecy won't save you from spam /by @doctorow

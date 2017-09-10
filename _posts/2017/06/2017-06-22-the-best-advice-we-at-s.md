@@ -6,7 +6,11 @@ hash: 468c368653bfe200ff84d31b68e638f7
 annum:
     year: 2017
     month: 06
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/
+
 ---
 
 There are a tremendous amount of good ideas in this article. Technology leaders should definitely read this. Need to pick three and run with them. Then another three… 👍🏻

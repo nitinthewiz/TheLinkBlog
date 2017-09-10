@@ -1,13 +1,18 @@
 ---
 title: "VisionPRO Touchscreen Universal Programmable Thermostats"
-date: 2011-08-05 04:38:27 +0000
-external-url: http://customer.honeywell.com/honeywell/ProductInfo.aspx/TH8110U1003
-hash: 4d53a9e9f15e029d96b1e8c6904a86ae
+date: 2011-08-05 05:38:27 +0000
+external-url: https://customer.honeywell.com/en-US/pages/product.aspx?cat=HonECC%20Catalog&pid=TH8110U1003/U
+hash: 4af20cd2ed9956b1fd1e8c20bcc1bc2e
 annum:
     year: 2011
     month: 08
-hostname: customer.honeywell.com
+url-parts:
+    scheme: https
+    host: customer.honeywell.com
+    path: /en-US/pages/product.aspx
+    query:
+        cat: "HonECC Catalog"
+        pid: "TH8110U1003/U"
 ---
 
-Premier White® Universal Programmable Thermostat with automatic/manual changeover, up to 1 Heat/1 Cool stages and R,RC,C,W,(O/B),Y,G,S1,S2 terminals for heating and cooling systems
-
+Premier White Universal Programmable Thermostat with automatic/manual changeover, up to 1 Heat/1 Cool stages and R,RC,C,W,(O/B),Y,G,S1,S2 terminals for heating and cooling systems

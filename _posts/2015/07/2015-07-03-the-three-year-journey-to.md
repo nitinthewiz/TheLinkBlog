@@ -6,7 +6,11 @@ hash: 6e1eeddf5c4ea9bdac54f2064c79744b
 annum:
     year: 2015
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/2015/06/the-three-year-journey-to-multitasking-and-resolution-independence-in-ios-9/
+
 ---
 
 Auto Layout, size classes, and the other features developers should be using now.

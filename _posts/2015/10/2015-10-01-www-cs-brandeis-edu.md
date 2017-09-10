@@ -6,7 +6,11 @@ hash: 2ea579e1e07f0dfd5666353df52b84d1
 annum:
     year: 2015
     month: 10
-hostname: www.cs.brandeis.edu
+url-parts:
+    scheme: http
+    host: www.cs.brandeis.edu
+    path: /~cs146a/handouts/papers/simon-complexity.pdf
+
 ---
 
 

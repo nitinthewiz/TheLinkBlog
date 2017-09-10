@@ -6,7 +6,19 @@ hash: a94a986f7f7c3b8807f6d6752de83abe
 annum:
     year: 2008
     month: 06
-hostname: maps.google.com
+url-parts:
+    scheme: http
+    host: maps.google.com
+    path: /maps
+    query:
+        f: "d"
+        hl: "en"
+        saddr: "San Diego, California"
+        daddr: "Sydney, Australia"
+        sll: "23.241346,-123.925781"
+        sspn: "70.527083,151.347656"
+        ie: "UTF8"
+        z: "2"
 ---
 
 Comments

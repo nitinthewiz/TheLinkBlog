@@ -6,7 +6,11 @@ hash: 61d8e2171d9a77d2720809fe661c2be4
 annum:
     year: 2011
     month: 12
-hostname: www.wikileaks.org
+url-parts:
+    scheme: http
+    host: www.wikileaks.org
+    path: /the-spyfiles.html
+
 ---
 
 Geezus...if the Nazis had had this capability..."Wikileaks - The Spy files" 

@@ -6,7 +6,11 @@ hash: 581efbf294396fe854f4c4a12fc8aeab
 annum:
     year: 2014
     month: 11
-hostname: ben.balter.com
+url-parts:
+    scheme: http
+    host: ben.balter.com
+    path: /2014/11/06/rules-of-communicating-at-github/
+
 ---
 
 Asynchronous communication through high-fidelity mediums like issues and chat eliminate the endemic 'you had to be there' aspect of most corporate workflows, and reduces the need for a dedicated management class to capture, collection, and shuttle information back and forth between business units.

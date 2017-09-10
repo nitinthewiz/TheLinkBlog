@@ -6,7 +6,11 @@ hash: c3e0f509b2aa7292a325e7f66833c5ae
 annum:
     year: 2010
     month: 01
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /3nzb8yj
+
 ---
 
 Car won't be this clean in 10 feet on the road. :-) 

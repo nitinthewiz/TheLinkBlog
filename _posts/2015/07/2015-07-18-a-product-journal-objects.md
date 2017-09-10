@@ -6,7 +6,11 @@ hash: a99120c8797fe36134d199551f521ceb
 annum:
     year: 2015
     month: 07
-hostname: www.ianbicking.org
+url-parts:
+    scheme: http
+    host: www.ianbicking.org
+    path: /blog/2015/07/product-journal-objects.html
+
 ---
 
 

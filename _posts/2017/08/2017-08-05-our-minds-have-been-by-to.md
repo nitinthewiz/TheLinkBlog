@@ -6,7 +6,11 @@ hash: 2be75c1f2b18db28cbf68447b5e6d4d1
 annum:
     year: 2017
     month: 08
-hostname: www.wired.com
+url-parts:
+    scheme: https
+    host: www.wired.com
+    path: /story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/
+
 ---
 
 Interesting read on the impact to people of the massive technology platform that we spend so much time in today.

@@ -6,7 +6,11 @@ hash: b771510d45cf63d90fb0ad5fe3d1eaff
 annum:
     year: 2009
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/05/11/things-1-1-things-touch-with-area-sync/
+
 ---
 
 Filed under: Software, Productivity, iPhone

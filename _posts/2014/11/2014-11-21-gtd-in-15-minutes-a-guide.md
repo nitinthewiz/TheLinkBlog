@@ -6,7 +6,11 @@ hash: d1ec9b069ec1550372714fa6f27f8228
 annum:
     year: 2014
     month: 11
-hostname: hamberg.no
+url-parts:
+    scheme: http
+    host: hamberg.no
+    path: /gtd/
+
 ---
 
 

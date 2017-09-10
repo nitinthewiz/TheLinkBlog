@@ -6,7 +6,11 @@ hash: d50e7e388e97ce2cd61f42b096343020
 annum:
     year: 2014
     month: 05
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2014/05/a-review-of-omnifocus-2-for-mac-2/
+
 ---
 
 

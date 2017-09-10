@@ -6,7 +6,11 @@ hash: b6283d24c07a297e2d92531255c8ac93
 annum:
     year: 2008
     month: 02
-hostname: www.cnet.com
+url-parts:
+    scheme: http
+    host: www.cnet.com
+    path: /8301-17939_109-9881104-2.html
+
 ---
 
 It's no secret we're Google Reader users here at Webware. We've got a Newbie's Guide for it, and wholly recommend it to folks who want a simple feed-reading experience. That said the product is not without its faults. Earlier today we got a pitch from a cool new service called Favorit that's definitely gunning to take some market share away from Google and other Web based RSS readers. The good news is that it's got a lot of things going for it that others do not.

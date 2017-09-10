@@ -6,7 +6,11 @@ hash: 44f5b754b3ca82b3da3820a60f270cdb
 annum:
     year: 2016
     month: 07
-hostname: gettingthingsdone.com
+url-parts:
+    scheme: http
+    host: gettingthingsdone.com
+    path: /fivesteps/
+
 ---
 
 About Meet David Global Par

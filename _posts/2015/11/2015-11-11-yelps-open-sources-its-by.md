@@ -6,7 +6,11 @@ hash: 48f25b8db9d41d55150a32f5cb04347f
 annum:
     year: 2015
     month: 11
-hostname: mesosphere.com
+url-parts:
+    scheme: https
+    host: mesosphere.com
+    path: /blog/2015/11/10/yelp-paasta-open-source/
+
 ---
 
 We

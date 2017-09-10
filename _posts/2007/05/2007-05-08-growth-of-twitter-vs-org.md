@@ -6,7 +6,11 @@ hash: f992978e957f3d0c4f7c7831e1c54db9
 annum:
     year: 2007
     month: 05
-hostname: www.kottke.org
+url-parts:
+    scheme: http
+    host: www.kottke.org
+    path: /07/05/growth-of-twitter-vs-blogger
+
 ---
 
 In mid-March, Andy Baio noted that Twitter uses publicly available sequential message IDs and employed Twitter co-founder Evan Williams' messages to graph the growth of the service over the first year of its existence. Williams co-founded Blogger back in

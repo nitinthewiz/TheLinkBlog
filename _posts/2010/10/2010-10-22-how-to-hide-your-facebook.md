@@ -6,7 +6,14 @@ hash: 62c0694db2923b354708917bed2bc084
 annum:
     year: 2010
     month: 10
-hostname: www.allfacebook.com
+url-parts:
+    scheme: http
+    host: www.allfacebook.com
+    path: /how-to-hide-your-facebook-application-activity-from-others-2010-10
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: allfacebook (Facebook Blog)"
 ---
 
 

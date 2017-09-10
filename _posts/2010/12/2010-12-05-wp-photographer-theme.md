@@ -6,7 +6,11 @@ hash: 3f609977cbef59f60285537322cffca8
 annum:
     year: 2010
     month: 12
-hostname: ww1.prophototheme.com
+url-parts:
+    scheme: http
+    host: ww1.prophototheme.com
+    path: 
+
 ---
 
 

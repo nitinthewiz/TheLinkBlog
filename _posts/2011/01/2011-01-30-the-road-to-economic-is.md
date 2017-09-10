@@ -6,7 +6,13 @@ hash: e5eef76c81d96a7fbc8ed105b37d44cb
 annum:
     year: 2011
     month: 01
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/01/16/magazine/16Europe-t.html
+    query:
+        pagewanted: "8"
+        _r: "2"
 ---
 
 

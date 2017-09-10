@@ -6,7 +6,11 @@ hash: 55d442403c4ec8c51d518dbcd19cbd91
 annum:
     year: 2010
     month: 12
-hostname: www.paulgraham.com
+url-parts:
+    scheme: http
+    host: www.paulgraham.com
+    path: /procrastination.html
+
 ---
 
 

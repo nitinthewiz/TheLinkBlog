@@ -6,7 +6,11 @@ hash: bf8ed98019a7ba92ec4c669b34dceb4b
 annum:
     year: 2009
     month: 03
-hostname: railspikes.com
+url-parts:
+    scheme: http
+    host: railspikes.com
+    path: /2009/3/30/10-cool-things-in-rails-23
+
 ---
 
 This was presented to the Ruby Users of Minnesota on March 30, 2009.

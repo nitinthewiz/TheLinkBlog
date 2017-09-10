@@ -6,7 +6,11 @@ hash: 4c5c86c39ae52cbc309047032c29409e
 annum:
     year: 2009
     month: 11
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/11/13/slowpokes-to-get-penalized-in-google-search-rankings/
+
 ---
 
 WebProNews dug up a pretty interesting nugget in an interview with Google’s Matt Cutts over the weekend at PubCon — there’s a faction of Googlers who are lobbying for site speed to be a factor in search rankings.

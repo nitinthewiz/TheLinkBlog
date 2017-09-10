@@ -6,7 +6,11 @@ hash: 5182dd590c7210b8d26d40176bf34798
 annum:
     year: 2005
     month: 08
-hostname: web.archive.org
+url-parts:
+    scheme: http
+    host: web.archive.org
+    path: /web/http://itc.conversationsnetwork.org/
+
 ---
 
 Audio clips from the 2004 Web 2.0 conference.

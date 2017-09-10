@@ -6,7 +6,11 @@ hash: 407febe89b16e6c209bccc33dd62498f
 annum:
     year: 2015
     month: 11
-hostname: goodjudgment.com
+url-parts:
+    scheme: http
+    host: goodjudgment.com
+    path: /
+
 ---
 
 Your path to better decisions starts here.

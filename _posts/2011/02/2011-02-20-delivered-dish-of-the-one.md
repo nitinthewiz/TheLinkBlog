@@ -6,7 +6,11 @@ hash: 3852c8ed61328a9d6d458d5e5643dcce
 annum:
     year: 2011
     month: 02
-hostname: onedish.wordpress.com
+url-parts:
+    scheme: http
+    host: onedish.wordpress.com
+    path: /dish-of-the-week-club/
+
 ---
 
 Members of my “Delivered Dish of the Week Club” receive regular delivery of tasty vegetarian dishes like the many chopped salads I feature on this blog. For a monthly fee, you get flavorful, healthful dishes full of fresh vegetables, whole grain and/or legumes, delivered to your home or office!

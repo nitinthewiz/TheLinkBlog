@@ -6,7 +6,12 @@ hash: 6109819a707c177a092c597707c33b3c
 annum:
     year: 2017
     month: 05
-hostname: www.mapbox.com
+url-parts:
+    scheme: https
+    host: www.mapbox.com
+    path: /blog/switch-to-ecs/
+    query:
+        __s: "eiq1imj6p7qywsjw9eqs"
 ---
 
 

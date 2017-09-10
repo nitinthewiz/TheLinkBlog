@@ -6,7 +6,11 @@ hash: 51e5a7e48c3db9656f4ccca23520b213
 annum:
     year: 2011
     month: 12
-hostname: www.craftcoffee.com
+url-parts:
+    scheme: http
+    host: www.craftcoffee.com
+    path: /
+
 ---
 
 

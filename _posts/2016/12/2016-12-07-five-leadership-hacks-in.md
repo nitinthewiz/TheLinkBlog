@@ -6,7 +6,11 @@ hash: ee55914ef60e2d33c94f2fb4e63489b4
 annum:
     year: 2016
     month: 12
-hostname: randsinrepose.com
+url-parts:
+    scheme: http
+    host: randsinrepose.com
+    path: /archives/five-leadership-hacks/
+
 ---
 
 With this definition in mind, I present five leadership hacks I regularly use. These are not practices designed to redefine your leadership philosophy. They are hacks. 

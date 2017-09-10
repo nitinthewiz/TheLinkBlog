@@ -6,7 +6,11 @@ hash: d8e3f558133f0bc58e734918ecb09f28
 annum:
     year: 2017
     month: 03
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /blog/2325-powerful-new-features-for-businesses-on-github-com
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f1d04be9a209db019a36941b634dbb18
 annum:
     year: 2006
     month: 04
-hostname: www.eloqua.com
+url-parts:
+    scheme: http
+    host: www.eloqua.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,13 @@ hash: c98490bd634df537a4ea0f5f5c079357
 annum:
     year: 2017
     month: 02
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/fresh-new-look-sps-toronto-danielle-kavanaugh
+    query:
+        trk: "v-feed"
+        lipi: "urn:li:page:d_flagship3_feed;ItUI/4EPJLvYIQlJXZM9Pg=="
 ---
 
 From a 13,000 square foot converted car dealership to a 17,000 square foot glorious open concept work environment in a class A building with the latest in technology trends and progressive design layout, SPS Commerce has given our most recent acquisition of ToolBox Solutions the upgrade of a lifetime, just 10 short months after acquisition.

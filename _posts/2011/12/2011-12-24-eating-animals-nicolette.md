@@ -6,7 +6,11 @@ hash: df3d29a6c54baf68a61c4d35f47787fc
 annum:
     year: 2011
     month: 12
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /health/archive/2011/12/eating-animals/250179/
+
 ---
 
 As Americans gather around holiday tables this year, many of us will be setting places for vegetarians and vegans. In some families, diverse diets co-exist peacefully. In others, well ... maybe there's a health-obsessed uncle who relishes warning that "Meat will kill you!" Or an idealistic college 

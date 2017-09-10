@@ -6,7 +6,11 @@ hash: 3c68f4dfe6347976135449630c3571ca
 annum:
     year: 2014
     month: 03
-hostname: source.opennews.org
+url-parts:
+    scheme: https
+    host: source.opennews.org
+    path: /en-US/articles/botmaking-primer/
+
 ---
 
 

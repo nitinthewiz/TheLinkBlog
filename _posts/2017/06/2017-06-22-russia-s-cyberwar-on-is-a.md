@@ -6,7 +6,11 @@ hash: 5b4fcf872c3b6168f6afa82b6f457386
 annum:
     year: 2017
     month: 06
-hostname: www.wired.com
+url-parts:
+    scheme: https
+    host: www.wired.com
+    path: /story/russian-hackers-attack-ukraine/
+
 ---
 
 Another article on the *vast* breadth of cyberattacks in Ukraine.

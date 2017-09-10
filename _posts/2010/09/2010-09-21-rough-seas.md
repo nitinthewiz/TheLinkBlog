@@ -6,7 +6,11 @@ hash: 6867b196017edf407a0880ee5913b8f6
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/rough-seas
+
 ---
 
 This is footage from a camera on board a cruise ship from when some rough weather hit.

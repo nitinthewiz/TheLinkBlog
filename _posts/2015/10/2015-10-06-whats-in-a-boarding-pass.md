@@ -6,7 +6,11 @@ hash: 5a0f9a45c03729f1782a8479a42427e7
 annum:
     year: 2015
     month: 10
-hostname: krebsonsecurity.com
+url-parts:
+    scheme: http
+    host: krebsonsecurity.com
+    path: /2015/10/whats-in-a-boarding-pass-barcode-a-lot/
+
 ---
 
 

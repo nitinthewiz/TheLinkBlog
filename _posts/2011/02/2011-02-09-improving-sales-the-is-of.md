@@ -6,7 +6,11 @@ hash: e59243bfede387c03fbb9be6cb91582a
 annum:
     year: 2011
     month: 02
-hostname: www.bothsidesofthetable.com
+url-parts:
+    scheme: http
+    host: www.bothsidesofthetable.com
+    path: /2011/02/05/improving-sales-the-excuse-departement-is-closed/
+
 ---
 
 

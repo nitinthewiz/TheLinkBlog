@@ -6,7 +6,11 @@ hash: dd7917730540e08756f9f3156f499b2c
 annum:
     year: 2012
     month: 05
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Gerrit/Advanced_usage
+
 ---
 
 This page describes the workflow for how MediaWiki core and extensions developers will use Git, git-review, and Gerrit.

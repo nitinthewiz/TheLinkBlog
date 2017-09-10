@@ -6,7 +6,11 @@ hash: f3c726210a6ec91f150e94b3541658db
 annum:
     year: 2011
     month: 03
-hostname: dubiousquality.blogspot.com
+url-parts:
+    scheme: http
+    host: dubiousquality.blogspot.com
+    path: /2011/03/new-kind-of-stripping.html
+
 ---
 
 

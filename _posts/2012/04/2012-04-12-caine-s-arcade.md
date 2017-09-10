@@ -6,7 +6,11 @@ hash: e3b3e8b146d922ee74f5e5a50cc53401
 annum:
     year: 2012
     month: 04
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /40000072
+
 ---
 
 A 9 year old boy - who built an elaborate cardboard arcade inside his dad's used auto part store - is about to have the best day of his life.

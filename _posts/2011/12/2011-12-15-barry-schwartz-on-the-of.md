@@ -6,7 +6,11 @@ hash: 2bcab47c07870f50505d210f3080d6c6
 annum:
     year: 2011
     month: 12
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/barry_schwartz_on_the_paradox_of_choice
+
 ---
 
 Barry Schwartz on the Paradox of Choice

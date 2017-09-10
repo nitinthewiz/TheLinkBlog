@@ -6,7 +6,11 @@ hash: f98996bd2e2dac4b3954cbb42b035987
 annum:
     year: 2010
     month: 09
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/09/09/ebyline-wants-to-create-an-itunes-for-journalism/
+
 ---
 
 

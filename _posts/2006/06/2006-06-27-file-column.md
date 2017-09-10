@@ -6,7 +6,11 @@ hash: 2a59baad2517563742d2837b923f85a0
 annum:
     year: 2006
     month: 06
-hostname: www.kanthak.net
+url-parts:
+    scheme: http
+    host: www.kanthak.net
+    path: /opensource/file_column/index.html
+
 ---
 
 Rails plug-in to help with image uploads.

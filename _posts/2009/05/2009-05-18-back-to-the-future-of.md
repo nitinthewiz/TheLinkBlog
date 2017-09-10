@@ -6,7 +6,11 @@ hash: 6cde0ee6b39c467be35eef87b6a859a4
 annum:
     year: 2009
     month: 05
-hostname: kernest.com
+url-parts:
+    scheme: http
+    host: kernest.com
+    path: /blog/archive/back-to-the-future-of-typography-presentation-notes
+
 ---
 
 I just talked with the UofMN’s Web Standards Workgroup about @font-face. Rather than load up a context-less, frozen, presentation, here are my notes.

@@ -6,7 +6,11 @@ hash: 0476c93b1df563f7df00dae2e10611ec
 annum:
     year: 2013
     month: 03
-hostname: www.boston.com
+url-parts:
+    scheme: http
+    host: www.boston.com
+    path: /bigpicture/2013/03/iditarod_trail_sled_dog_race_2_1.html
+
 ---
 
 Great photos! Love the tongues on those dogs!

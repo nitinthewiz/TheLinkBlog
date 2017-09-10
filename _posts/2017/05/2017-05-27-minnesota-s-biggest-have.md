@@ -6,7 +6,11 @@ hash: 2199c10891eeacff00c164c72d23434a
 annum:
     year: 2017
     month: 05
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /star-tribune-50-employers-seek-skilled-hands-minds/423210783/
+
 ---
 
 Minnesota's aging workforce has tightened the current job market near its "full potential," meaning nearly one job for every applicant. If trends continue, by mid-2018, there will be more jobs than people looking for them. 

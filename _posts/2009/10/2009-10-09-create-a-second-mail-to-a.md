@@ -6,7 +6,11 @@ hash: b07f0554430f66fc91ea6291c5e1331f
 annum:
     year: 2009
     month: 10
-hostname: mac.finerthingsin.com
+url-parts:
+    scheme: http
+    host: mac.finerthingsin.com
+    path: /post/207593339
+
 ---
 
 For some time, Mail has featured an awkwardly named File > New Viewer Window command (Command-Option-N). This opens a second, fully functional Mail window, complete with the ability to hide the sidebar (View > Hide Mailboxes, or Command-Shift-M) to cut down on visual clutter.

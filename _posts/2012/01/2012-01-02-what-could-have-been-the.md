@@ -6,7 +6,11 @@ hash: bf30820c8a9e7e2bfa2e66f1f93fe685
 annum:
     year: 2012
     month: 01
-hostname: web.law.duke.edu
+url-parts:
+    scheme: http
+    host: web.law.duke.edu
+    path: /cspd/publicdomainday/2012/pre-1976
+
 ---
 
 What would have been, but isn't, in the public domain today because of perpetual extensions.

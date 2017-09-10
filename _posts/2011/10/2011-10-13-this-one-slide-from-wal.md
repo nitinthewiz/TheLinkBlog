@@ -6,7 +6,11 @@ hash: aa10ff9a3c57554ad6dffe836f9499dd
 annum:
     year: 2011
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /this-one-slide-from-wal-mart-basically-says-it-all-2011-10
+
 ---
 
 

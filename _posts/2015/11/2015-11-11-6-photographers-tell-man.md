@@ -6,7 +6,12 @@ hash: 3f327d85e01698f307d53e5b5a13568f
 annum:
     year: 2015
     month: 11
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2015/11/10/canon-photographers-life-stories/
+    query:
+        utm_cid: "mash-com-Tw-main-link"
 ---
 
 Ever wondered if

@@ -6,7 +6,11 @@ hash: 536915a1363a6aca64924e3f06a7d4d7
 annum:
     year: 2011
     month: 01
-hostname: gitimmersion.com
+url-parts:
+    scheme: http
+    host: gitimmersion.com
+    path: /
+
 ---
 
 

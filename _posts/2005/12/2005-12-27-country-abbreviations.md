@@ -6,7 +6,11 @@ hash: e1ede037382a6f5a3e9bf9585ecbfd62
 annum:
     year: 2005
     month: 12
-hostname: sustainablesources.com
+url-parts:
+    scheme: http
+    host: sustainablesources.com
+    path: /resources/country-abbreviations/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 90d72f47e5e98d208b3cd25ca045de1e
 annum:
     year: 2015
     month: 05
-hostname: www.cjr.org
+url-parts:
+    scheme: http
+    host: www.cjr.org
+    path: /analysis/seymour_hersh_osama_bin_laden.php
+
 ---
 
 Seymour Hersh has done the public a great service by breathing life into questions surrounding the official narrative of the raid that killed Osama bin Laden. Yet instead of trying to build off the details of his story,...

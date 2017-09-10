@@ -6,7 +6,11 @@ hash: 3b2ca90dde3f82a8bac73ec112d347c0
 annum:
     year: 2010
     month: 01
-hostname: blog.typekit.com
+url-parts:
+    scheme: http
+    host: blog.typekit.com
+    path: /2010/01/21/typekit-supports-woff-in-firefox-3-6/
+
 ---
 
 Earlier today, the Mozilla Foundation released version 3.6 of Firefox. While that may sound like an incremental release, it represents a significant milestone in the ongoing story of fonts on the web. This marks the first browser to support the emerging Web Open Font Format, or WOFF.

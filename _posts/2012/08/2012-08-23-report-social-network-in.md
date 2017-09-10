@@ -6,7 +6,11 @@ hash: e98ea054369ade42fdca5093938d57c0
 annum:
     year: 2012
     month: 08
-hostname: royal.pingdom.com
+url-parts:
+    scheme: http
+    host: royal.pingdom.com
+    path: /2012/08/21/report-social-network-demographics-in-2012/
+
 ---
 
 

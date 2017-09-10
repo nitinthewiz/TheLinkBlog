@@ -6,7 +6,11 @@ hash: d5443b02ebdafa59a5f25d74a7d2c9f0
 annum:
     year: 2011
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/reviews/2011/07/mac-os-x-10-7.ars
+
 ---
 
 

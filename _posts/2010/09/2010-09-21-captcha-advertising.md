@@ -6,7 +6,11 @@ hash: d837bb4ee2db6ea6cc4b15933ae48784
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/captcha-advertising
+
 ---
 
 People need to pay attention to CAPTCHAs to complete all sorts of tasks on the web...so why not make the CAPTCHA an advertisement?

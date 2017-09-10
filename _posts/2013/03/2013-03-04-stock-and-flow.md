@@ -6,7 +6,11 @@ hash: 83f4fbcfb69c8cafc91066b892128e99
 annum:
     year: 2013
     month: 03
-hostname: snarkmarket.com
+url-parts:
+    scheme: http
+    host: snarkmarket.com
+    path: /2010/4890
+
 ---
 
 Insightful.

@@ -6,7 +6,11 @@ hash: 41a59105ecdde4567c555efcf3f548b0
 annum:
     year: 2014
     month: 11
-hostname: mobile.nytimes.com
+url-parts:
+    scheme: http
+    host: mobile.nytimes.com
+    path: /2014/10/17/opinion/the-dark-market-for-personal-data.html
+    query:
 ---
 
 

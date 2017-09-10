@@ -6,7 +6,11 @@ hash: bcb2e035c91a6263df7aa6c8ebfc4a20
 annum:
     year: 2006
     month: 12
-hostname: www.ggbs.de
+url-parts:
+    scheme: http
+    host: www.ggbs.de
+    path: /extensions/AddressbooksSynchronizer.html
+
 ---
 
 

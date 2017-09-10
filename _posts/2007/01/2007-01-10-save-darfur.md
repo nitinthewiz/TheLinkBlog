@@ -6,7 +6,11 @@ hash: 4a52fc484ffa8c450c07c4d9062ce475
 annum:
     year: 2007
     month: 01
-hostname: savedarfur.org
+url-parts:
+    scheme: http
+    host: savedarfur.org
+    path: /
+
 ---
 
 

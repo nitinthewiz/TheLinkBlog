@@ -6,7 +6,11 @@ hash: cb4b2316a519e29d36768eab1c1f621c
 annum:
     year: 2015
     month: 08
-hostname: mathiasbynens.be
+url-parts:
+    scheme: https
+    host: mathiasbynens.be
+    path: /demo/url-regex
+
 ---
 
 Amazes me this is so hard. 

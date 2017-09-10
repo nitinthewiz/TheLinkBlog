@@ -6,7 +6,11 @@ hash: 9541f596c14dd3bfc21dc9bc32dfc20b
 annum:
     year: 2015
     month: 05
-hostname: shopify.github.io
+url-parts:
+    scheme: https
+    host: shopify.github.io
+    path: /dashing/
+
 ---
 
 Dashing is a Sinatra based framework that lets you build beautiful dashboards.

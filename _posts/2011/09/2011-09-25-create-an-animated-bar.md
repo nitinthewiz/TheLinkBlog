@@ -6,7 +6,11 @@ hash: 73ef26deb60990bd590c0abaa58fabee
 annum:
     year: 2011
     month: 09
-hostname: coding.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: coding.smashingmagazine.com
+    path: /2011/09/23/create-an-animated-bar-graph-with-html-css-and-jquery/
+
 ---
 
 

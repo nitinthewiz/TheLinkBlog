@@ -6,7 +6,11 @@ hash: bc18341399f902b2819fc49a14b0da4d
 annum:
     year: 2010
     month: 08
-hostname: rjlipton.wordpress.com
+url-parts:
+    scheme: http
+    host: rjlipton.wordpress.com
+    path: /2010/08/08/a-proof-that-p-is-not-equal-to-np/
+
 ---
 
  

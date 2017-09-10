@@ -6,7 +6,11 @@ hash: 25e5d76c734cd2bfd6162bcf85852816
 annum:
     year: 2005
     month: 12
-hostname: www.backyardastronomy.com
+url-parts:
+    scheme: http
+    host: www.backyardastronomy.com
+    path: /
+
 ---
 
 Companion website to the book Backyard Astronomy

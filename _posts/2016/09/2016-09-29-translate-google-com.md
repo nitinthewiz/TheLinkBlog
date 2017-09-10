@@ -6,7 +6,12 @@ hash: b251b2f1bcbcddc667d017847abfedc6
 annum:
     year: 2016
     month: 09
-hostname: translate.google.com
+url-parts:
+    scheme: https
+    host: translate.google.com
+    path: /translate
+    query:
+        sl: "auto"
 ---
 
 

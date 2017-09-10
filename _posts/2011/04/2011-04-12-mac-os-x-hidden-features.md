@@ -6,7 +6,11 @@ hash: 143cf6892324894d87328b4369b5ce3a
 annum:
     year: 2011
     month: 04
-hostname: apple.stackexchange.com
+url-parts:
+    scheme: http
+    host: apple.stackexchange.com
+    path: /questions/400/mac-os-x-hidden-features-and-nice-tips-tricks
+
 ---
 
 

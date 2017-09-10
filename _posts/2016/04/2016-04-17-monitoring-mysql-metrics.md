@@ -6,7 +6,11 @@ hash: 36fe02a450be8b6d19c485864e1c68ba
 annum:
     year: 2016
     month: 04
-hostname: www.datadoghq.com
+url-parts:
+    scheme: https
+    host: www.datadoghq.com
+    path: /blog/monitoring-mysql-performance-metrics/
+
 ---
 
 This post is part 1 of a 3-part series about MySQL monitoring.

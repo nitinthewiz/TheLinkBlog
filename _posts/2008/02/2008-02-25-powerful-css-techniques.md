@@ -6,7 +6,11 @@ hash: 47427d7a75cb000d58b3d2d92e0031f8
 annum:
     year: 2008
     month: 02
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2008/02/21/powerful-css-techniques-for-effective-coding/
+
 ---
 
 Sometimes being a web-developer is just damn hard. Particularly coding is often responsible for slowing down our workflow, reducing the quality of our work and sleepless nights with pizza and coffee laying around the laptop. Reason: with a number of incom

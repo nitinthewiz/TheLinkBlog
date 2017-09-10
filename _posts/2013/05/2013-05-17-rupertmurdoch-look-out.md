@@ -6,7 +6,11 @@ hash: d5b22a31377002164c4a0a4c5f7ae406
 annum:
     year: 2013
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /rupertmurdoch/status/335186684922716160
+
 ---
 
 "crappy"

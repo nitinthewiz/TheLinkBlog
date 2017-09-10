@@ -6,7 +6,11 @@ hash: 80ec69902542fe9f92801756caef7984
 annum:
     year: 2014
     month: 03
-hostname: www.adn.com
+url-parts:
+    scheme: http
+    host: www.adn.com
+    path: /article/20140307/hold-tight-helmet-cam-footage-4-time-iditarod-champ-jeff-king
+
 ---
 
 Global warming? Nah.

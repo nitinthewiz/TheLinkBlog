@@ -6,7 +6,11 @@ hash: 6ec6d675cfd05888ba718b3d339dcba4
 annum:
     year: 2008
     month: 02
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /358786/turn-your-favorite-rss-feeds-into-a-newspaper-with-feedjournal
+
 ---
 
 Web application FeedJournal turns your RSS feed(s) of choice into a newspaper-formatted PDF. You can either enjoy the newspaper-ness of the electronic PDF on your computer, or you can print out the...

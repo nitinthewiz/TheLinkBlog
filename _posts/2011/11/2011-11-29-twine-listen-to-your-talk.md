@@ -6,7 +6,11 @@ hash: 46689ac24c8279696c9101ff9e67e94d
 annum:
     year: 2011
     month: 11
-hostname: www.kickstarter.com
+url-parts:
+    scheme: https
+    host: www.kickstarter.com
+    path: /projects/supermechanical/twine-listen-to-your-world-talk-to-the-internet
+
 ---
 
 

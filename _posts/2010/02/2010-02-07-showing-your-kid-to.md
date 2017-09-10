@@ -6,7 +6,13 @@ hash: 6e657bc33d5f7cdce8daf1585cfbdfb7
 annum:
     year: 2010
     month: 02
-hostname: thingelstad.com
+url-parts:
+    scheme: http
+    host: thingelstad.com
+    path: /showing-your-kid-to-program/
+    query:
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Blog Post: Showing Your Kid to Program 

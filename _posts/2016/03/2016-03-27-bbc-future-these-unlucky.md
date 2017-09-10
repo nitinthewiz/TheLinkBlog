@@ -6,7 +6,11 @@ hash: 0608012bc268bf3cb0d2f98546029fe9
 annum:
     year: 2016
     month: 03
-hostname: www.bbc.com
+url-parts:
+    scheme: http
+    host: www.bbc.com
+    path: /future/story/20160325-the-names-that-break-computer-systems
+
 ---
 
 Article totally missed the fact that null to a programmer is not a string and that a system that thinks "null" == null is true is broken in very serious ways. The author should have interviewed the infamous Ry4an Brase!

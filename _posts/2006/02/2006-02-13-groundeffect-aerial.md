@@ -6,7 +6,11 @@ hash: 91a592a49596a4a76786d1d4114ca004
 annum:
     year: 2006
     month: 02
-hostname: www.groundeffectimaging.com
+url-parts:
+    scheme: http
+    host: www.groundeffectimaging.com
+    path: /
+
 ---
 
 RC Helicopter aerial photography

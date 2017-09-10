@@ -6,7 +6,11 @@ hash: cae7ad91519ae7693e23d6cd34735cb6
 annum:
     year: 2014
     month: 12
-hostname: sslmate.com
+url-parts:
+    scheme: https
+    host: sslmate.com
+    path: /
+
 ---
 
 

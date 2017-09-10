@@ -6,7 +6,11 @@ hash: 016473013041c3e17ef6c474645c5257
 annum:
     year: 2010
     month: 10
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5670071/focusis-a-free-ebook-on-minimalism-and-killing-distractions
+
 ---
 
 Looks like a good read.

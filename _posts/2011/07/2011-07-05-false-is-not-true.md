@@ -6,7 +6,11 @@ hash: daf60140ca97fc6cb5d856b13cec11d9
 annum:
     year: 2011
     month: 07
-hostname: falseisnottrue.tumblr.com
+url-parts:
+    scheme: http
+    host: falseisnottrue.tumblr.com
+    path: /post/7197146965/social-networks-are-not-so-social-after-all
+
 ---
 
 

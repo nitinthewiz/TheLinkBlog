@@ -6,7 +6,11 @@ hash: 0fae7dd441b443ba06204175839a7d3a
 annum:
     year: 2015
     month: 01
-hostname: redmonk.com
+url-parts:
+    scheme: http
+    host: redmonk.com
+    path: /dberkholz/2015/01/12/cloud-outages-transparency-and-trust/
+
 ---
 
 The ongoing blips and bloops of public-cloud outages, whether planned or unplanned, continue to draw headlines and outrage. And rightly so, since downtime for those who use a single availability zo...

@@ -6,7 +6,11 @@ hash: 2f4453b265473a13677e1287b29b6aa9
 annum:
     year: 2011
     month: 03
-hostname: emoney.allthingsd.com
+url-parts:
+    scheme: http
+    host: emoney.allthingsd.com
+    path: /20110314/will-facebook-be-the-mall-of-the-future/
+
 ---
 
 Will Facebook Be the Mall of the Future? 

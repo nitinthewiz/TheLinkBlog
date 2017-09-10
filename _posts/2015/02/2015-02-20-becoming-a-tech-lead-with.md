@@ -6,7 +6,11 @@ hash: 747005ba78f7c5617eaa48142d76796b
 annum:
     year: 2015
     month: 02
-hostname: blog.fogcreek.com
+url-parts:
+    scheme: http
+    host: blog.fogcreek.com
+    path: /becoming-a-tech-lead-interview-with-pat-kua/
+
 ---
 
 

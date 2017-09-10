@@ -6,7 +6,11 @@ hash: 73a141fd0940c7a74aba1523990fc7d4
 annum:
     year: 2010
     month: 08
-hostname: www.androidcentral.com
+url-parts:
+    scheme: http
+    host: www.androidcentral.com
+    path: /google-pulls-easy-root-market
+
 ---
 
 Andrew Melnizek, for Android Central:

@@ -6,7 +6,11 @@ hash: 82bb6b551eca1c95a342cdb47ae15252
 annum:
     year: 2010
     month: 10
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2010/10/omnifocus/
+
 ---
 
 Thanks for writing up your thoughts on OmniFocus, Shawn! RT @shawnblancnet New: A Sledgehammer Called OmniFocus 

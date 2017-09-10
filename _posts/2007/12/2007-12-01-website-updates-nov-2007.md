@@ -6,7 +6,11 @@ hash: f18ed6f2936605acca6855e418460c5b
 annum:
     year: 2007
     month: 12
-hostname: www.thingelstad.com
+url-parts:
+    scheme: http
+    host: www.thingelstad.com
+    path: /2007/12/website-updates-nov-2007/
+
 ---
 
 I just finished a pretty long session or upgrades and improvements to thingelstad.com. Here are some new things to check out.

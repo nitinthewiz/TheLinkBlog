@@ -6,7 +6,11 @@ hash: aee864f877504b1d3711a1e524cf69af
 annum:
     year: 2010
     month: 12
-hostname: www.idquantique.com
+url-parts:
+    scheme: http
+    host: www.idquantique.com
+    path: /true-random-number-generator/products-overview.html
+
 ---
 
 

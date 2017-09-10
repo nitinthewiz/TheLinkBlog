@@ -6,7 +6,11 @@ hash: 4d03203ff41d1aa45dc5f92f9c2b6acb
 annum:
     year: 2012
     month: 12
-hostname: www.thecactusblossoms.com
+url-parts:
+    scheme: http
+    host: www.thecactusblossoms.com
+    path: /
+
 ---
 
 These two brothers sound like they have been time warped from 60 years ago making amazing, real country music. Love it.

@@ -6,7 +6,11 @@ hash: 90ca52480cfc9ae91b7df29c757e95d1
 annum:
     year: 2009
     month: 11
-hostname: gdgt.com
+url-parts:
+    scheme: http
+    host: gdgt.com
+    path: /google/chrome-os/download/
+
 ---
 
 For those that asked yesterday about Chrome OS on Parallels/Mac. Go here to download  then read 

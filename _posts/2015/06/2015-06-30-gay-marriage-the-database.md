@@ -6,7 +6,11 @@ hash: d2866a2a2f731ae52fb51fecf611c5bd
 annum:
     year: 2015
     month: 06
-hostname: qntm.org
+url-parts:
+    scheme: http
+    host: qntm.org
+    path: /gay
+
 ---
 
 

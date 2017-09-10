@@ -6,7 +6,11 @@ hash: 323faf304a52dcff0db87ddbefcd4a2b
 annum:
     year: 2016
     month: 03
-hostname: 1403.slantedhall.com
+url-parts:
+    scheme: https
+    host: 1403.slantedhall.com
+    path: /
+
 ---
 
 A practical monospaced typeface, inspired by the IBM 1403 mainframe line printer from the 1960s.

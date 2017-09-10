@@ -6,7 +6,11 @@ hash: 9a11a7e8166bb37895a786627cf64c40
 annum:
     year: 2013
     month: 03
-hostname: www.namecheap.com
+url-parts:
+    scheme: https
+    host: www.namecheap.com
+    path: /support/payment/bitcoin.aspx
+
 ---
 
 We're delighted to inform you that we now accept the Bitcoin payment method

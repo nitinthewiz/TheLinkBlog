@@ -6,7 +6,11 @@ hash: d51ce86138cf83b4a7277165f49aac94
 annum:
     year: 2012
     month: 05
-hostname: www.radiolab.org
+url-parts:
+    scheme: http
+    host: www.radiolab.org
+    path: /labpartners/
+
 ---
 
 This seems like the right way for RadioLab to engage members online. Give more depth to the already great content. The only thing missing is some way for me to indicate my "Lab Partner" status on my blog.

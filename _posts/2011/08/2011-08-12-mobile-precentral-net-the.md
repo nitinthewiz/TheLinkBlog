@@ -6,7 +6,11 @@ hash: d0e18d8353e91dff98a0d4250b54beec
 annum:
     year: 2011
     month: 08
-hostname: m.precentral.net
+url-parts:
+    scheme: http
+    host: m.precentral.net
+    path: /opinion-touchpad-better-work-design
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 27548da2985f92a9d40db4d8e21febbd
 annum:
     year: 2010
     month: 12
-hostname: www.ftc.gov
+url-parts:
+    scheme: http
+    host: www.ftc.gov
+    path: /news-events/press-releases/2010/12/ftc-staff-issues-privacy-report-offers-framework-consumers
+
 ---
 
 

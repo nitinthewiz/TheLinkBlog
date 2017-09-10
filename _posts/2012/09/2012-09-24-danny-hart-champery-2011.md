@@ -6,7 +6,12 @@ hash: c67b1091444f6664428a886ab9a89206
 annum:
     year: 2012
     month: 09
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "YfMQdFGTKAs"
 ---
 
 Ridiculous downhill mountain biking!

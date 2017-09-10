@@ -6,7 +6,11 @@ hash: f47035470fcfcba911832deb31e667d2
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/08/howProtobloggercomWorks.html
+
 ---
 
 Every day I push a bunch of links through Twitter. I have this process fairly well streamlined. I click on a bookmarklet, it grabs the headline and URL and shoots it to an app on one of my servers. It shortens the URL and then sends it to twitter.com, where it all appears in my status box. I edit it, and click the Tweet button and off it goes.

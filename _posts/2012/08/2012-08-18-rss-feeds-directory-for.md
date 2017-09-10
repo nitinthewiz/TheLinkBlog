@@ -6,7 +6,11 @@ hash: d9c948cd4f65fa72f086cea8b8738ad4
 annum:
     year: 2012
     month: 08
-hostname: www.labnol.org
+url-parts:
+    scheme: http
+    host: www.labnol.org
+    path: /internet/rss-feeds-directory/21242/
+
 ---
 
 

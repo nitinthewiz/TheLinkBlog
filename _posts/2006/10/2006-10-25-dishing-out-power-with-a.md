@@ -6,7 +6,12 @@ hash: 0db5bfb82a24a9eba13ac1f1f5ac7d1f
 annum:
     year: 2006
     month: 10
-hostname: news.com.com
+url-parts:
+    scheme: http
+    host: news.com.com
+    path: /Dishing+out+power+with+a+solar+engine/2100-1008_3-6129168.html
+    query:
+        tag: "nefd.lede"
 ---
 
 A company is trying to prove that a 19th-century design known as the sterling engine has a place in the emerging market for clean energy.

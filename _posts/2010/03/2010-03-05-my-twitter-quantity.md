@@ -6,7 +6,11 @@ hash: 19b92e0c95c692ace136fae4902f2523
 annum:
     year: 2010
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2010/03/04/my-twitter-quantity-experiment/
+
 ---
 
 I follow some very successful Twitter users and noticed they tweeted a lot, which inspired me to try the experiment Ill outline in this post.

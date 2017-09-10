@@ -6,7 +6,11 @@ hash: 8252272d2e13d302861e47ca3e6557a1
 annum:
     year: 2016
     month: 10
-hostname: www.usingomnifocus.com
+url-parts:
+    scheme: http
+    host: www.usingomnifocus.com
+    path: /2016/10/quick-entry-inbox-settings-for-os-x/
+
 ---
 
 An

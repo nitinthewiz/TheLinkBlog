@@ -6,7 +6,11 @@ hash: 9b788797d81b5c1f5bb94cc91e85e748
 annum:
     year: 2016
     month: 02
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /higher-thoughts/i-deleted-my-facebook-app-and-it-s-the-best-decision-i-ve-made-in-a-long-time-a64e56be0fd
+
 ---
 
 Lately I’ve been considering what’s important and useful as far as my digital world goes — particularly on my phone.

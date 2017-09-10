@@ -6,7 +6,11 @@ hash: 280889bef44fe687a0bfbd622dc041cb
 annum:
     year: 2007
     month: 01
-hostname: www.problogger.net
+url-parts:
+    scheme: http
+    host: www.problogger.net
+    path: /archives/2007/01/11/how-to-market-your-blog-in-2007/
+
 ---
 
 

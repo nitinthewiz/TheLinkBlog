@@ -6,7 +6,12 @@ hash: 08ef8335277aabf179dea81d5793de41
 annum:
     year: 2010
     month: 12
-hostname: transom.org
+url-parts:
+    scheme: http
+    host: transom.org
+    path: /
+    query:
+        p: "13808"
 ---
 
 The tricks of Planet Money (excellent):  #narrative

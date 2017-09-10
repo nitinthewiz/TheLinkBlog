@@ -6,7 +6,11 @@ hash: 3885f7415e720ff0732f25e1af2b3391
 annum:
     year: 2010
     month: 08
-hostname: www.lettersofnote.com
+url-parts:
+    scheme: http
+    host: www.lettersofnote.com
+    path: /2010/08/tiger-oil-memos.html
+
 ---
 
 Hilarious collection of memos from 1978 by Edward Mike Davis, the CEO and owner of the Tiger Oil Company in Houston. A personal favorite:

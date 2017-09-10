@@ -6,7 +6,11 @@ hash: e2644023bee37ed6fe0232879ca30562
 annum:
     year: 2008
     month: 11
-hostname: www.boston.com
+url-parts:
+    scheme: http
+    host: www.boston.com
+    path: /bigpicture/2008/09/the_singapore_grand_prix.html
+
 ---
 
 

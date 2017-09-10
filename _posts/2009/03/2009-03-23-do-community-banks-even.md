@@ -6,7 +6,11 @@ hash: 5065a74f7b51a0022b20f4143c253887
 annum:
     year: 2009
     month: 03
-hostname: findarticles.com
+url-parts:
+    scheme: http
+    host: findarticles.com
+    path: /p/articles/mi_hb4838/is_7_34/ai_n28937041
+
 ---
 
 

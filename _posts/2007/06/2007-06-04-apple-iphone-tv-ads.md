@@ -6,7 +6,11 @@ hash: d90c95cfcf4fffd02b32537e0baf74bd
 annum:
     year: 2007
     month: 06
-hostname: www.apple.com
+url-parts:
+    scheme: http
+    host: www.apple.com
+    path: /iphone/ads/
+
 ---
 
 

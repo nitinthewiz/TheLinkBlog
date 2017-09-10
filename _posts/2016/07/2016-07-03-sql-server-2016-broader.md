@@ -6,7 +6,11 @@ hash: 83e52709f583eff981ff2a1efb41f917
 annum:
     year: 2016
     month: 07
-hostname: blogs.technet.microsoft.com
+url-parts:
+    scheme: https
+    host: blogs.technet.microsoft.com
+    path: /dataplatforminsider/2016/06/29/sql-server-2016-broader-access-better-reporting-faster-analytics/
+
 ---
 
 We want to make it easier for businesses to use their data. Otherwise, what

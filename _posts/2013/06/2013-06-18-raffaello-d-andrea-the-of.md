@@ -6,7 +6,11 @@ hash: ac3bd48c435bd8df43ea5ac6dc67b69b
 annum:
     year: 2013
     month: 06
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters
+
 ---
 
 This is absolutely amazing stuff.

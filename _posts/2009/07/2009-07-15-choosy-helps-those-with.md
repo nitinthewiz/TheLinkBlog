@@ -6,7 +6,11 @@ hash: abf8fdb1aa634b17b4878bceff06082c
 annum:
     year: 2009
     month: 07
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/07/14/choosy-helps-those-with-browser-commitment-phobia/
+
 ---
 
 Filed under: Software, Internet Tools

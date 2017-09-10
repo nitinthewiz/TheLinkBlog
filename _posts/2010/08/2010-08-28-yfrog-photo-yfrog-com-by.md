@@ -6,7 +6,11 @@ hash: e90252ba017b14e7366e40499389784a
 annum:
     year: 2010
     month: 08
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /bdxyeej
+
 ---
 
 Beautiful night at Lake Harriet.  

@@ -6,7 +6,11 @@ hash: ad39e2db30fdc9b889a05c27c42bb235
 annum:
     year: 2012
     month: 03
-hostname: www.prevention.com
+url-parts:
+    scheme: http
+    host: www.prevention.com
+    path: /food/healthy-eating-tips/should-you-go-vegetarian-5-women-who-went-meatless
+
 ---
 
 These women went vegetarian for different reasons--and say doing so changed their lives, for the better. Could it change yours?

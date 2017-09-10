@@ -6,7 +6,11 @@ hash: a041298fe0e3e3ac3332c36d8d594d33
 annum:
     year: 2008
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/03/21/coming-soon-the-cisco-blade-server/
+
 ---
 
 The movement toward blade servers in the enterprise data center has been growing steadily for some time, backed by manufacturers like IBM and HP.  But expect to soon see networking giant Cisco Systems enter this market as well, setting themselves up for a tense battle with blade server manufacturers for control of the enterprise data center. 

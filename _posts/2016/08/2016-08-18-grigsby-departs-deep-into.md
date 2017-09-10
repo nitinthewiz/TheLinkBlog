@@ -6,7 +6,11 @@ hash: 3e3c4eafc4f8c2b02e89a8818f840023
 annum:
     year: 2016
     month: 08
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2016/08/17/dan-grigsby-bayes-and-company/
+
 ---
 
 Remember Deep Machine 

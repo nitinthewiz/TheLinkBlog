@@ -6,7 +6,12 @@ hash: 17206c2adcc98041b96acfc0578132b6
 annum:
     year: 2011
     month: 04
-hostname: blog.hunch.com
+url-parts:
+    scheme: http
+    host: blog.hunch.com
+    path: /
+    query:
+        p: "45344"
 ---
 
 

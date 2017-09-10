@@ -6,7 +6,11 @@ hash: 11a61c5b4a320621ee83776988709bb2
 annum:
     year: 2008
     month: 11
-hostname: www.organicvalley.coop
+url-parts:
+    scheme: http
+    host: www.organicvalley.coop
+    path: /about-us/invest/stock-prospectus/
+
 ---
 
 

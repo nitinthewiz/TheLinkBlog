@@ -6,7 +6,11 @@ hash: bcbb1d2770ed9cc4f4aafde906e53b9e
 annum:
     year: 2008
     month: 12
-hostname: getsatisfaction.com
+url-parts:
+    scheme: http
+    host: getsatisfaction.com
+    path: /benjaminragheb/topics/feedback_on_new_screenshots
+
 ---
 
 @fatwatch Yeah, I think. Not good for Twitter response. I posted in GetSatisfaction. 

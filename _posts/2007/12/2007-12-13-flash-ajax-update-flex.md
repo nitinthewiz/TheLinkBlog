@@ -6,7 +6,11 @@ hash: 12d18957db9a330382999acd7b07969c
 annum:
     year: 2007
     month: 12
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/ajax-in-flash-flex-livecycle-data-services-goes-open-source
+
 ---
 
 Flash (via Flex or AIR) allows developers to open connections to servers (binary sockets), much like XHR in Web applications. And, just as frameworks like DWR and JSON RPC allow for remoting objects via XHR, a number of frameworks allow for remoting objects in Flex. One of the most popular has been Flex LiveCycle Data Services, but it's also a commercial product with a big enough price tag to cause many developers to steer clear.

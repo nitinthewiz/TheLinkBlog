@@ -6,7 +6,11 @@ hash: d713a7fb7863603e6d949be51d2a6543
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/bouncing-baby-bombs
+
 ---
 
 This little guy is a newborn uncontrolled nuclear fisson reaction. You know, an atomic bomb.

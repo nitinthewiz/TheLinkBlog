@@ -6,7 +6,11 @@ hash: db43d17c39b5a40ed26ca48d10974797
 annum:
     year: 2006
     month: 01
-hostname: home.snafu.de
+url-parts:
+    scheme: http
+    host: home.snafu.de
+    path: /tilman/xenulink.html
+
 ---
 
 

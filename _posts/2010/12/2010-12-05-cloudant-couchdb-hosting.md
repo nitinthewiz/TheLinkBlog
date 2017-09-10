@@ -6,7 +6,11 @@ hash: b20e509ee3906bab583716cc03304af0
 annum:
     year: 2010
     month: 12
-hostname: cloudant.com
+url-parts:
+    scheme: https
+    host: cloudant.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 547fe735d01fcdf289df8bbfcb6ae3ee
 annum:
     year: 2010
     month: 10
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /ehlvukhj
+
 ---
 
 Rubbed pork shoulder.  

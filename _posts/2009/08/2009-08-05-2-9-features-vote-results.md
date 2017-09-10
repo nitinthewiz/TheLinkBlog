@@ -6,7 +6,11 @@ hash: 67d6bd130c663eb113bdc1fc55c62157
 annum:
     year: 2009
     month: 08
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /development/2009/07/2-9-vote-results/
+
 ---
 
 Earlier this month, over 3500 of you responded to our survey asking you to help us prioritize some of the media features that had been suggested for the 2.9 release. While the exact features for 2.9 have not been hammered out yet, as we continue to match up developers with features, we wanted to share the survey results and let you know what we’re thinking in terms of approach.

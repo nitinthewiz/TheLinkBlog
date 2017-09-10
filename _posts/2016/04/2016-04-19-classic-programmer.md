@@ -6,7 +6,11 @@ hash: f98f7373738a9137cf68a1d4787f5c9d
 annum:
     year: 2016
     month: 04
-hostname: classicprogrammerpaintings.tumblr.com
+url-parts:
+    scheme: http
+    host: classicprogrammerpaintings.tumblr.com
+    path: /
+
 ---
 
 Painters and Hackers: nothing in common whatsoever, but this are classical painters depictions of software engineering.

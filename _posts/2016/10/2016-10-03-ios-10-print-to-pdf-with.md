@@ -6,7 +6,11 @@ hash: e018b24aa80922085643afa82ccd29e8
 annum:
     year: 2016
     month: 10
-hostname: www.macobserver.com
+url-parts:
+    scheme: https
+    host: www.macobserver.com
+    path: /tips/how-to/ios-10-print-pdf/
+
 ---
 
 One of the new features in iOS is the ability to natively print to PDF, similar to what you can do with macOS. It

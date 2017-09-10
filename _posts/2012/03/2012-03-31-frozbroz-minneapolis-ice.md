@@ -6,7 +6,11 @@ hash: c3714e8e9cdda2bc4c134f472992da53
 annum:
     year: 2012
     month: 03
-hostname: frozbroz.com
+url-parts:
+    scheme: http
+    host: frozbroz.com
+    path: /
+
 ---
 
 These guys are crazy serious about there ice cream. Need to try it!

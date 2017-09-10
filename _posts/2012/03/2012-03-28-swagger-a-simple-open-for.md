@@ -6,7 +6,11 @@ hash: bb0a22459297de5b2146ae5d60066413
 annum:
     year: 2012
     month: 03
-hostname: developers.helloreverb.com
+url-parts:
+    scheme: https
+    host: developers.helloreverb.com
+    path: /swagger/
+
 ---
 
 I've met the CTO at Wordnik and Swagger is something they are pretty proud of. Might be worth implementing a Python version.

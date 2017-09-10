@@ -6,7 +6,11 @@ hash: 0b137dc67d6db71dce565420f38a9b79
 annum:
     year: 2011
     month: 08
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /entertainment/dining/128016213.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 22f71e97d76cf211fd703619fc32efcc
 annum:
     year: 2010
     month: 06
-hostname: www.iwalt.com
+url-parts:
+    scheme: http
+    host: www.iwalt.com
+    path: /weblog/2010/06/targeting-the-iphone-4-retina-display-with-css3-media-queries
+
 ---
 
 Walt Dickinson has more on targeting CSS specifically for double-pixel-density devices.

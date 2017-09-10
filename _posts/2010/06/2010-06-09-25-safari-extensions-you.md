@@ -6,7 +6,11 @@ hash: 8d1f8d99931e9c9e9c89cf1589f9835d
 annum:
     year: 2010
     month: 06
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /apple/25-safari-extensions-you-can-install-now/
+
 ---
 
 Apple’s new Safari 5 brings support for browser extensions, which the company plans to showcase on its own gallery in a few months. In the meantime, we’ve compiled a list of some of our favorites.

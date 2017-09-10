@@ -6,7 +6,11 @@ hash: f5909167427bc43eb61ac8d55d444410
 annum:
     year: 2011
     month: 02
-hostname: docs.codehaus.org
+url-parts:
+    scheme: http
+    host: docs.codehaus.org
+    path: /display/JETTY/Cometd%2B%28aka%2BBayeux%29
+
 ---
 
 Jetty includes a servlet implementation of the Bayeux protocol of the CometD project from the Dojo Foundation.

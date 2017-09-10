@@ -6,7 +6,11 @@ hash: b49002d90bd19e4d46be8d8a276c9fca
 annum:
     year: 2005
     month: 12
-hostname: www.duratrax.com
+url-parts:
+    scheme: http
+    host: www.duratrax.com
+    path: /chargers/dtxp4170.html
+
 ---
 
 

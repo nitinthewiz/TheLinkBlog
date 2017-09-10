@@ -6,7 +6,11 @@ hash: ac3ad1afabf7b5966839033ea27fa97e
 annum:
     year: 2012
     month: 07
-hostname: theagileadmin.com
+url-parts:
+    scheme: http
+    host: theagileadmin.com
+    path: /2012/07/07/velocity-2012-day-two/
+
 ---
 
 

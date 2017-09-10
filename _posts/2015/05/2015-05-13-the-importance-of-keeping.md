@@ -6,7 +6,11 @@ hash: 3def1560df8f90854361584782fc2b39
 annum:
     year: 2015
     month: 05
-hostname: blogs.psychcentral.com
+url-parts:
+    scheme: http
+    host: blogs.psychcentral.com
+    path: /everyday-creativity/2015/05/the-importance-of-keeping-a-notebook/
+
 ---
 
 

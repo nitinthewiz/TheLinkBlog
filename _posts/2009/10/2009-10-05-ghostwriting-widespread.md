@@ -6,7 +6,11 @@ hash: 2fdbecdf06b0ce6d333a19e813be4f5f
 annum:
     year: 2009
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2009/09/11/business/11ghost.html
+
 ---
 
 Among authors of 630 articles who responded anonymously to an online questionnaire created for the study, 7.8 percent acknowledged contributions to their articles by people whose work should have qualified them to be named as authors on the papers but who were not listed.

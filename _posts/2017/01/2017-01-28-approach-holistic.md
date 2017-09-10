@@ -6,7 +6,11 @@ hash: f74ee86cf39e787772c9788aad5a82b7
 annum:
     year: 2017
     month: 01
-hostname: holisticproductivity.net
+url-parts:
+    scheme: https
+    host: holisticproductivity.net
+    path: /approach/
+
 ---
 
 

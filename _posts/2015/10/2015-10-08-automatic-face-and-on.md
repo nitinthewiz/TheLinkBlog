@@ -6,7 +6,11 @@ hash: cbc2d50abf5c390a30f7b9fdcb55bf89
 annum:
     year: 2015
     month: 10
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2015/10/automatic_face_.html
+
 ---
 
 ID checks were a common response to the terrorist attacks of 9/11, but they'll soon be obsolete. You won't have to show your ID, because you'll be identified automatically. A security camera will&hellip;

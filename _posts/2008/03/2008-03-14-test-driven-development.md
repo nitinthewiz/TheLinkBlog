@@ -6,7 +6,11 @@ hash: 9d912b105ba73df73a539fee132cd65d
 annum:
     year: 2008
     month: 03
-hostname: whereslou.com
+url-parts:
+    scheme: http
+    host: whereslou.com
+    path: /2008/03/13/test-driven-development
+
 ---
 
 This is a post about what by now is a very old subject. At the place where I work test driven development was first introduced by some colleagues of mine who were also some of the first advocates at the office of the scrum methodologies. Doug Swisher and John Murphy if memory serves, though I apologize in advance if that’s not correct.

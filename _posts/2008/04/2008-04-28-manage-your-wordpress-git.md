@@ -6,7 +6,11 @@ hash: dd863bd28c7aad361ae4d06421871e43
 annum:
     year: 2008
     month: 04
-hostname: whereslou.com
+url-parts:
+    scheme: http
+    host: whereslou.com
+    path: /2008/04/27/manage-your-wordpress-source-code-with-git
+
 ---
 
 I was just thinking of posting an article about using ReSharper and MbUnit together, but before doing that I was going to make sure the source control of the blog was up to date. Then I thought, hey, why don’t I write about that instead.

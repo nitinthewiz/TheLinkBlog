@@ -6,7 +6,11 @@ hash: e110616f882290aa0dbbf1a4aabf9965
 annum:
     year: 2016
     month: 05
-hostname: fivethirtyeight.com
+url-parts:
+    scheme: http
+    host: fivethirtyeight.com
+    path: /features/men-are-sabotaging-the-online-reviews-of-tv-shows-aimed-at-women/
+
 ---
 
 We can quibble about where it stands in the TV canon, but 

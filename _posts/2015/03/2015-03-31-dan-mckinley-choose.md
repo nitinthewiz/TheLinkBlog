@@ -6,7 +6,11 @@ hash: d62993ee047ec4a51b11e986b22566b8
 annum:
     year: 2015
     month: 03
-hostname: mcfunley.com
+url-parts:
+    scheme: http
+    host: mcfunley.com
+    path: /choose-boring-technology
+
 ---
 
 

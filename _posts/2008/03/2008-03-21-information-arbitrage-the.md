@@ -6,7 +6,11 @@ hash: 6205a043ff88b81a790395b28b1329a1
 annum:
     year: 2008
     month: 03
-hostname: informationarbitrage.com
+url-parts:
+    scheme: http
+    host: informationarbitrage.com
+    path: /2008/03/the-bear-facts.html
+
 ---
 
 Well written article about the troubles that brought Bear Sterns down.

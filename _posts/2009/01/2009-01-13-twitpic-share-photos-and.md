@@ -6,7 +6,11 @@ hash: 99435488e42736ed100316fb92bd35d4
 annum:
     year: 2009
     month: 01
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /12fec
+
 ---
 
 Too cold to walk the dogs this morning. 

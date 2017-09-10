@@ -6,7 +6,11 @@ hash: acb61775b1eb3c86a04d42bef6abc409
 annum:
     year: 2009
     month: 02
-hostname: www.unpossible.com
+url-parts:
+    scheme: http
+    host: www.unpossible.com
+    path: /2009/02/24/announcing-iphone-pub-night/
+
 ---
 
 Modeled after Toronto’s popular Rails Pub Night, iPhone Pub Night is a meetup of iPhone hackers and would-be hackers at — as the name suggests — a pub.

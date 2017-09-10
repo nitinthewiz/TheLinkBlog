@@ -6,7 +6,11 @@ hash: acf903134e9437440cc3f49d099a13ba
 annum:
     year: 2015
     month: 12
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08
+
 ---
 
 The great trick of Sir Topham is to employ engines who essentially evoke the image of the New Soviet man in the service of a proto-capitalist, semi-feudal enterprise.

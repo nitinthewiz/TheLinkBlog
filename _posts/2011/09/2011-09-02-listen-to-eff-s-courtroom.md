@@ -6,7 +6,11 @@ hash: 2c267453ebc5731402633c65ae6cf353
 annum:
     year: 2011
     month: 09
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2011/09/listen-effs-courtroom-arguments-against
+
 ---
 
 Update:The court has just released video of the arguments: Jewel and Hepting.

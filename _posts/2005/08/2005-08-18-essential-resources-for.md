@@ -6,7 +6,11 @@ hash: 98fbb0fb385732f4a5dc8a8c138f8c64
 annum:
     year: 2005
     month: 08
-hostname: www.lifehack.org
+url-parts:
+    scheme: http
+    host: www.lifehack.org
+    path: /articles/lifehack/essential-resources-for-google-maps.html
+
 ---
 
 Great examples of extending GMaps.

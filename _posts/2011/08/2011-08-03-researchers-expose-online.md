@@ -6,7 +6,11 @@ hash: 54dc6c0f301555f59959dacba167ec95
 annum:
     year: 2011
     month: 08
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /epicenter/2011/07/undeletable-cookie
+
 ---
 
 Researchers at U.C. Berkeley have discovered that some of the net’s most popular sites are using a tracking service that can’t be evaded — even when users block cookies, turn off storage in Flash, or use browsers’ “incognito” functions.

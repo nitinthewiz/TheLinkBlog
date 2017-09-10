@@ -6,7 +6,11 @@ hash: 54a2eb071b25a69bcb87f44badc20885
 annum:
     year: 2008
     month: 02
-hostname: www.grouplens.org
+url-parts:
+    scheme: http
+    host: www.grouplens.org
+    path: /node/204
+
 ---
 
 

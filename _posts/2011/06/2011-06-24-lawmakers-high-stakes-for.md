@@ -6,7 +6,11 @@ hash: 0f3689aa1d81ad24a6b019bd9efac296
 annum:
     year: 2011
     month: 06
-hostname: southwestminneapolis.patch.com
+url-parts:
+    scheme: http
+    host: southwestminneapolis.patch.com
+    path: /articles/lawmakers-high-stakes-for-minneapolis-in-budget-battle
+
 ---
 
 Can't help but assume there are a lot of DFL voters in Minneapolis and St. Paul too.

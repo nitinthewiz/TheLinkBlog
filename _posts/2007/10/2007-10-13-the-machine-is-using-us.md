@@ -6,7 +6,11 @@ hash: 495da408e1f83daf99e4eefd6aac695a
 annum:
     year: 2007
     month: 10
-hostname: mediatedcultures.net
+url-parts:
+    scheme: http
+    host: mediatedcultures.net
+    path: /videos/the-machine-is-using-us-final-version/
+
 ---
 
 

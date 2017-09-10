@@ -6,7 +6,11 @@ hash: 5b43f9f2ada597936511ff683ad368d7
 annum:
     year: 2006
     month: 05
-hostname: flyspy.com
+url-parts:
+    scheme: http
+    host: flyspy.com
+    path: 
+
 ---
 
 

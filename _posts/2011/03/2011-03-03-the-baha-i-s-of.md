@@ -6,7 +6,11 @@ hash: c458702bf225348b42dd8737628e21c7
 annum:
     year: 2011
     month: 03
-hostname: mplsbahai.org
+url-parts:
+    scheme: http
+    host: mplsbahai.org
+    path: /
+
 ---
 
 

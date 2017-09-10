@@ -6,7 +6,11 @@ hash: 3a6352ed2fc523eb5009517c44736bcd
 annum:
     year: 2013
     month: 10
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2013/09/30/salesforce-is-a-platform-company-period/
+
 ---
 
 Instead, the company today hit a milestone of sorts, with 2 million apps downloaded and installed on its AppExchange, making it clear that Salesforce is now a platform provider more than anything else.

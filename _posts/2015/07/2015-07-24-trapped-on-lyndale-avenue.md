@@ -6,7 +6,11 @@ hash: 5272953a6007fd8d410485564f616f44
 annum:
     year: 2015
     month: 07
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news/biz-buzzes/trapped-on-lyndale-avenue
+
 ---
 
 

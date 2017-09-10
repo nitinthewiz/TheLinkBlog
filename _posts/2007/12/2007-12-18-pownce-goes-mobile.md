@@ -6,7 +6,11 @@ hash: 4359541f0392f9fd96e37b9e5d942946
 annum:
     year: 2007
     month: 12
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2007/12/17/pownce-goes-mobile/
+
 ---
 
 

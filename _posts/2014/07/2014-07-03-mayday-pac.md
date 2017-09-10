@@ -6,7 +6,11 @@ hash: d6cad30845636b7ed33c2e0f04963a23
 annum:
     year: 2014
     month: 07
-hostname: MAYDAY.US
+url-parts:
+    scheme: http
+    host: MAYDAY.US
+    path: /
+
 ---
 
 Money has corrupted our democracy. Can we fix it? Act now, join #MAYDAYUS -- let's try something new: 

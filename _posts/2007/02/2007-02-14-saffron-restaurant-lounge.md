@@ -6,7 +6,11 @@ hash: 6f8fb3c0e09d667b3da3b0326594e5fc
 annum:
     year: 2007
     month: 02
-hostname: www.saffronmpls.com
+url-parts:
+    scheme: http
+    host: www.saffronmpls.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0add19440a7131bbebbb3faae938b16e
 annum:
     year: 2017
     month: 08
-hostname: www.theguardian.com
+url-parts:
+    scheme: https
+    host: www.theguardian.com
+    path: /world/2017/jul/30/palantir-peter-thiel-cia-data-crime-police
+
 ---
 
 

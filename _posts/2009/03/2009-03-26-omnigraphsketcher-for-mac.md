@@ -6,7 +6,11 @@ hash: ad130e9e274d43a9ddbfbc6d583c63aa
 annum:
     year: 2009
     month: 03
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /products/omnigraphsketcher/
+
 ---
 
 OmniGraphSketcher looks really cool. 

@@ -6,7 +6,11 @@ hash: e2f04f25ee7b5e8c8a3b4cd0933afd8b
 annum:
     year: 2012
     month: 08
-hostname: thegood-one.com
+url-parts:
+    scheme: http
+    host: thegood-one.com
+    path: /
+
 ---
 
 The smoker that Mike got that isn't a Big Green Egg.

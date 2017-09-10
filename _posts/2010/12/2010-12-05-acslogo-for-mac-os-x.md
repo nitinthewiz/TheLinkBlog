@@ -6,7 +6,11 @@ hash: 85b08082c0a18dbbc01c701476002f09
 annum:
     year: 2010
     month: 12
-hostname: www.alancsmith.co.uk
+url-parts:
+    scheme: http
+    host: www.alancsmith.co.uk
+    path: /logo/
+
 ---
 
 

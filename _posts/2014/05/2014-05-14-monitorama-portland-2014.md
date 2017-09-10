@@ -6,7 +6,11 @@ hash: ae1d5ba7809357140c3367bedd40fdb0
 annum:
     year: 2014
     month: 05
-hostname: bridgetkromhout.com
+url-parts:
+    scheme: http
+    host: bridgetkromhout.com
+    path: /speaking/2014/monitorama-portland/
+
 ---
 
 My #monitorama video is up! I'm actually able to watch it without dying of embarrassment; I credit a friendly crowd. 

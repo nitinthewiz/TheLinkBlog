@@ -6,7 +6,11 @@ hash: 476c6b5f9065db38511ad4b95bb2caf0
 annum:
     year: 2012
     month: 10
-hostname: www.americanqueensteamboatcompany.com
+url-parts:
+    scheme: http
+    host: www.americanqueensteamboatcompany.com
+    path: /
+
 ---
 
 We saw this boat docked in Wabasha this weekend and it looked pretty cool. Might be a fun trip to take some time, going down the Mississippi.

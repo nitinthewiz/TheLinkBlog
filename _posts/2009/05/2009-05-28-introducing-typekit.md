@@ -6,7 +6,11 @@ hash: 5f04cd65b0abb9820c3a8a4b741ebed5
 annum:
     year: 2009
     month: 05
-hostname: blog.typekit.com
+url-parts:
+    scheme: http
+    host: blog.typekit.com
+    path: /2009/05/27/introducing-typekit/
+
 ---
 
 

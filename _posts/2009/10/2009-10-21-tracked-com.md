@@ -6,7 +6,11 @@ hash: 894ac784c754d490552f10f60f8ea0b5
 annum:
     year: 2009
     month: 10
-hostname: www.avc.com
+url-parts:
+    scheme: http
+    host: www.avc.com
+    path: /a_vc/2009/10/trackedcom.html
+
 ---
 
 One of my all-time great moments as a web user was the launch of Yahoo! Finance. It was everything I had ever wanted as an investor, at least as a public market investor. I could not believe that all of it was free and in one place. I was a loyal Yahoo! Finance user for the better part of ten years. Recently I've found myself using Google Finance a bit more. But rarely does a day go by when I don't find myself visiting a service like Yahoo! Finance or Google Finance.

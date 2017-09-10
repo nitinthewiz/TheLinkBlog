@@ -6,7 +6,11 @@ hash: f0768dce2e5c34490909f4fbafe83b98
 annum:
     year: 2010
     month: 03
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/stories/2010/03/29/daily12.html
+
 ---
 
 Sega Entertainment USA Inc. closed its Gameworks location at Block E in downtown Minneapolis on Monday as part of a broader corporate restructuring plan.

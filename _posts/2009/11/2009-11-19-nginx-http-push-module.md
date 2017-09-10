@@ -6,7 +6,11 @@ hash: 128f2668a4fac96b8e89714d4f69f475
 annum:
     year: 2009
     month: 11
-hostname: ajaxian.com
+url-parts:
+    scheme: http
+    host: ajaxian.com
+    path: /archives/nginx-http-push-module
+
 ---
 
 Even PHP developers can write web applications that use all sorts of fancy long-polling.

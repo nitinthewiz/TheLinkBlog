@@ -6,7 +6,11 @@ hash: 7236c4fd661c3bb5503ec38bb23c59a3
 annum:
     year: 2014
     month: 10
-hostname: www.ansible.com
+url-parts:
+    scheme: http
+    host: www.ansible.com
+    path: /blog/ansible-and-using-automation-to-assert-it-compliance
+
 ---
 
 Learn how to use ansible for IT compliance use cases, including periodic remediation, CIS, STIG, PCI, and others.  Learn about how to schedule ansible runs, use check mode (dry run) and how to integrate tests with ansible playbooks.

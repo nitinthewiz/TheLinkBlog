@@ -6,7 +6,11 @@ hash: 03b0c16d65dd5976ec196a0a8f4743ff
 annum:
     year: 2011
     month: 06
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5812578/the-coffee-lovers-guide-to-tea
+
 ---
 
 

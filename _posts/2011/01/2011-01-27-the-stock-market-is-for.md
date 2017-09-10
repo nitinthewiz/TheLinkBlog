@@ -6,7 +6,11 @@ hash: e9fabd3c2a709c133c335daa49a5b66b
 annum:
     year: 2011
     month: 01
-hostname: www.macleans.ca
+url-parts:
+    scheme: http
+    host: www.macleans.ca
+    path: /economy/business/the-stock-market-is-for-suckers/
+
 ---
 
 

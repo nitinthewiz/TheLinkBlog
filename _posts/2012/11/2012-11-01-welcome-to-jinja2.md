@@ -6,7 +6,11 @@ hash: 95cc048bd915d9b76afc74eb34e5a72b
 annum:
     year: 2012
     month: 11
-hostname: jinja.pocoo.org
+url-parts:
+    scheme: http
+    host: jinja.pocoo.org
+    path: /docs/latest/
+
 ---
 
 Lightweight Python templating library.  <blockquote> Jinja2 is a modern and designer friendly templating language for Python, modelled after Djangos templates. It is fast, widely used and secure with the optional sandboxed template execution environment. </blockquote> 

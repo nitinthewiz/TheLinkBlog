@@ -6,7 +6,11 @@ hash: f0d483d9114de27a2277555ffa84062b
 annum:
     year: 2013
     month: 06
-hostname: smokeindsbbq.com
+url-parts:
+    scheme: http
+    host: smokeindsbbq.com
+    path: /
+
 ---
 
 Had some pulled pork from him at the Edina Art Fair. Was great. Need to make a point to stop by their place when driving out by St. Cloud!

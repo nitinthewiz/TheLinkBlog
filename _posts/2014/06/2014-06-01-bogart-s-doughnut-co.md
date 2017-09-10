@@ -6,7 +6,11 @@ hash: 29f3833318ee083675cdd3acdcececf6
 annum:
     year: 2014
     month: 06
-hostname: www.bogartsdoughnutco.com
+url-parts:
+    scheme: http
+    host: www.bogartsdoughnutco.com
+    path: /
+
 ---
 
 

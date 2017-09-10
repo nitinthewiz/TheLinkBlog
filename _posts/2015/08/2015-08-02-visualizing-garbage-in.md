@@ -6,7 +6,11 @@ hash: f5f48db53b87524ae97ecb504a72fddb
 annum:
     year: 2015
     month: 08
-hostname: blog.codeship.com
+url-parts:
+    scheme: http
+    host: blog.codeship.com
+    path: /visualizing-garbage-collection-ruby-python/
+
 ---
 
 Are Ruby and Python implemented in a similar way internally? Let's compare how garbage collection works inside of each language.

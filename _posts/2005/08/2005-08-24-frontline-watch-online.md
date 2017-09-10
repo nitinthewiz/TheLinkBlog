@@ -6,7 +6,11 @@ hash: 247080e90b6282b12e12bdff8e94c5ab
 annum:
     year: 2005
     month: 08
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/view/
+
 ---
 
 Watch previous episodes of Frontline online.

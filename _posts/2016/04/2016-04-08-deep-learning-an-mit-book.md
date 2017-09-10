@@ -6,7 +6,11 @@ hash: 1200f39cf0582132bb309f126b512dca
 annum:
     year: 2016
     month: 04
-hostname: www.deeplearningbook.org
+url-parts:
+    scheme: http
+    host: www.deeplearningbook.org
+    path: /
+
 ---
 
 The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.

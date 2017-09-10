@@ -6,7 +6,11 @@ hash: 8511d066f92980e0ab974dad5db68ecd
 annum:
     year: 2013
     month: 06
-hostname: discussions.apple.com
+url-parts:
+    scheme: https
+    host: discussions.apple.com
+    path: /message/21005336
+
 ---
 
 This solved my terrible slowness, spinning beach ball issues with Calendar.

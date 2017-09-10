@@ -6,7 +6,11 @@ hash: 0e978711ef4377ba06883c5aaa28fb56
 annum:
     year: 2011
     month: 10
-hostname: plus.google.com
+url-parts:
+    scheme: https
+    host: plus.google.com
+    path: /%2BRipRowan/posts/eVeouesvaVX
+
 ---
 
 

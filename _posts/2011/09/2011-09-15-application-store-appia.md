@@ -6,7 +6,11 @@ hash: 3cec766f07aa21de032e962fba04329c
 annum:
     year: 2011
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /mobile/2011/09/application-store-appia-partne.php
+
 ---
 
 Third-party open application storefront Appia has been trying hard in the last several months to gain more consumer mind share. The company took a step towards that goal today, announcing a partnership with mobile distribution channel Zedge, a partnership that will bring Appia apps to users across the world.

@@ -6,7 +6,11 @@ hash: c4c66edad7e1b4d4ea2d0783f7236a54
 annum:
     year: 2015
     month: 11
-hostname: download.tensorflow.org
+url-parts:
+    scheme: http
+    host: download.tensorflow.org
+    path: /paper/whitepaper2015.pdf
+
 ---
 
 

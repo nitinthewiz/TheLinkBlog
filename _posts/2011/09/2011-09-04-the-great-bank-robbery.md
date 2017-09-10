@@ -6,7 +6,11 @@ hash: a4ac7488cd9c4a17ec1306d8c0b00f08
 annum:
     year: 2011
     month: 09
-hostname: www.project-syndicate.org
+url-parts:
+    scheme: http
+    host: www.project-syndicate.org
+    path: /commentary/taleb1/English
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 523f41653b1368288869e8c023111530
 annum:
     year: 2015
     month: 07
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996
+
 ---
 
 According to the Harvard Business Review, 41% of women working in tech eventually end up leaving the field (compared to …

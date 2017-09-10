@@ -6,7 +6,11 @@ hash: 96291a69bef047e4f28873e8047dd05e
 annum:
     year: 2014
     month: 02
-hostname: pypi.python.org
+url-parts:
+    scheme: https
+    host: pypi.python.org
+    path: /pypi/internetarchive
+
 ---
 
 

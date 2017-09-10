@@ -6,7 +6,11 @@ hash: 9bf6a238b3ebf36033a8116c456e8d6b
 annum:
     year: 2011
     month: 09
-hostname: incident57.com
+url-parts:
+    scheme: http
+    host: incident57.com
+    path: /less/
+
 ---
 
 {Less} extends CSS with variables, nested rules, operators and more. If you're still building websites without it, you're an idiot. This app makes it dead simple to use {Less} by automatically compiling *.less files into standard CSS.

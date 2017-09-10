@@ -6,7 +6,11 @@ hash: fe4b97fc747d11c437501721534f4f3f
 annum:
     year: 2014
     month: 01
-hostname: pixeldust.wikidot.com
+url-parts:
+    scheme: http
+    host: pixeldust.wikidot.com
+    path: /linode-setup%3adropbox
+
 ---
 
 Good init.d script to launch dropbox at system level.

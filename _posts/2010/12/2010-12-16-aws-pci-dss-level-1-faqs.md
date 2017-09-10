@@ -6,7 +6,12 @@ hash: 098adb0759c0f6d85e778d782d95c0ef
 annum:
     year: 2010
     month: 12
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /security/pci-dss-level-1-compliance-faqs/
+    query:
+        ref_: "pe_8050_17986660"
 ---
 
 The AWS core infrastructure and services listed below are PCI DSS 2.0 compliant. This compliance has been validated by an authorized independent Qualified Security Assessor.

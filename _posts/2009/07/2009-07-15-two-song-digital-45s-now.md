@@ -6,7 +6,11 @@ hash: 2ec1cc08f41740d9dcd4060063bc6cf4
 annum:
     year: 2009
     month: 07
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/07/14/two-song-digital-45s-now-available-in-itunes/
+
 ---
 
 Apple today added new "D45s" to the Music section in the iTunes Store. This package includes two songs, just like many of the old 45 RPM records back in the day.

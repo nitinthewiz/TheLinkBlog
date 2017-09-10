@@ -6,7 +6,11 @@ hash: f03f0080ea6a077aa1e5c5e464897338
 annum:
     year: 2012
     month: 05
-hostname: python3porting.com
+url-parts:
+    scheme: http
+    host: python3porting.com
+    path: /bookindex.html
+
 ---
 
 

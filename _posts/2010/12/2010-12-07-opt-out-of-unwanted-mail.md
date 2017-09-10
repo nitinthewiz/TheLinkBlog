@@ -6,7 +6,11 @@ hash: 7b46467691ae21c31ce739fa337c89a7
 annum:
     year: 2010
     month: 12
-hostname: www.catalogchoice.org
+url-parts:
+    scheme: https
+    host: www.catalogchoice.org
+    path: /about
+
 ---
 
 

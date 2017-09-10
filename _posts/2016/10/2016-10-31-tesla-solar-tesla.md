@@ -6,7 +6,11 @@ hash: bfea426dbb6db546b222bf37f7eb1741
 annum:
     year: 2016
     month: 10
-hostname: www.tesla.com
+url-parts:
+    scheme: https
+    host: www.tesla.com
+    path: /solar
+
 ---
 
 

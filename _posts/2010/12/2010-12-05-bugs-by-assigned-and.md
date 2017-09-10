@@ -6,7 +6,32 @@ hash: a8740b3190b2a956e8133aaed98f13de
 annum:
     year: 2010
     month: 12
-hostname: bugs2.alvenda.com
+url-parts:
+    scheme: http
+    host: bugs2.alvenda.com
+    path: /report.cgi
+    query:
+        x_axis_field: "bug_severity"
+        y_axis_field: "assigned_to"
+        query_format: "report-table"
+        short_desc_type: "allwordssubstr"
+        longdesc_type: "allwordssubstr"
+        bug_file_loc_type: "allwordssubstr"
+        bug_status: "NEW"
+        bug_status: "ASSIGNED"
+        bug_status: "REOPENED"
+        emailassigned_to1: "1"
+        emailtype1: "substring"
+        emailassigned_to2: "1"
+        emailreporter2: "1"
+        emailcc2: "1"
+        emailtype2: "substring"
+        bugidtype: "include"
+        chfieldto: "Now"
+        format: "table"
+        action: "wrap"
+        field0-0-0: "noop"
+        type0-0-0: "noop"
 ---
 
 

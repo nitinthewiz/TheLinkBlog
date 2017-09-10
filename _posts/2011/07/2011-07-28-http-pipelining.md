@@ -6,7 +6,11 @@ hash: e3a0c2f66cb702cc19921c1f0cd8ce9e
 annum:
     year: 2011
     month: 07
-hostname: www.blaze.io
+url-parts:
+    scheme: http
+    host: www.blaze.io
+    path: /mobile/http-pipelining-big-in-mobile/
+
 ---
 
 HTTP pipelining has been around for quite a while – since HTTP/1.1 was introduced. When using pipelining, an HTTP client may send multiple requests on the same connection, without waiting for the server to respond. Doing so practically eliminates the round-trip time (RTT) overhead of all but the first request, especially if the server responds quickly.

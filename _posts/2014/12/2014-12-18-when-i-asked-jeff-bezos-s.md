@@ -6,7 +6,11 @@ hash: b77431b3b08dd066e5081420bada37f4
 annum:
     year: 2014
     month: 12
-hostname: www.businessinsider.com.au
+url-parts:
+    scheme: http
+    host: www.businessinsider.com.au
+    path: /amazons-jeff-bezos-on-profits-failure-succession-big-bets-2014-12
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: cb8ef1ec1c809bc87d62758f1a0122a9
 annum:
     year: 2005
     month: 08
-hostname: www.mlunsold.com
+url-parts:
+    scheme: http
+    host: www.mlunsold.com
+    path: /
+
 ---
 
 Software to assist in astrophotography with a DSLR.

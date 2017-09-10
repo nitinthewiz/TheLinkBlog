@@ -6,7 +6,11 @@ hash: bf80ee7efcd2a53c256d45d0003c89d7
 annum:
     year: 2008
     month: 08
-hostname: delicioussafari.com
+url-parts:
+    scheme: http
+    host: delicioussafari.com
+    path: /
+
 ---
 
 Finally buying a license for DeliciousSafari. 

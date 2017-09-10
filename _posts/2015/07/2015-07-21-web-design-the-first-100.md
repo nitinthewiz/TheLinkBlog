@@ -6,7 +6,11 @@ hash: 869f00aa0f07c61d938a153665e1f85a
 annum:
     year: 2015
     month: 07
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /talks/web_design_first_100_years.htm
+
 ---
 
 

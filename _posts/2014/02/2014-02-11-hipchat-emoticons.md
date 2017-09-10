@@ -6,7 +6,11 @@ hash: a6c39a8acdaad612fba2ef9dcc75da1b
 annum:
     year: 2014
     month: 02
-hostname: hipchat-emoticons.nyh.name
+url-parts:
+    scheme: http
+    host: hipchat-emoticons.nyh.name
+    path: /
+
 ---
 
 A complete list of HipChat emoticons.

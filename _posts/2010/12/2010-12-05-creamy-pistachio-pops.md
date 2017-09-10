@@ -6,7 +6,11 @@ hash: 217dfda8680ca4c8f6bed4c2e45dd08f
 annum:
     year: 2010
     month: 12
-hostname: www.foodnetwork.com
+url-parts:
+    scheme: http
+    host: www.foodnetwork.com
+    path: /recipes/aarti-sequeira/creamy-pistachio-pops-recipe.html
+
 ---
 
 

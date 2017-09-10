@@ -6,7 +6,11 @@ hash: 35bdca2bb801cb08e21ab817b596294b
 annum:
     year: 2009
     month: 08
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2009/08/27/finally-facebook-3-0-for-the-iphone-is-here/
+
 ---
 
 The Facebook 3.0 iPhone application is finally available for download in the iTunes store. Though the app was submitted to Apple on Aug. 16, its release has been widely anticipated for months by iPhone users (especially Om).

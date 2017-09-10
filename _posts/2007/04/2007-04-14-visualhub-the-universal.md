@@ -6,7 +6,11 @@ hash: 65c8b7a632f53085322bc65fd1fa3fe8
 annum:
     year: 2007
     month: 04
-hostname: www.techspansion.com
+url-parts:
+    scheme: http
+    host: www.techspansion.com
+    path: /visualhub/
+
 ---
 
 

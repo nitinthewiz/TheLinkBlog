@@ -6,7 +6,11 @@ hash: fbba499c55a52c1c6e1ec9f537b792c9
 annum:
     year: 2016
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/ios-10-our-complete-overview/
+
 ---
 
 

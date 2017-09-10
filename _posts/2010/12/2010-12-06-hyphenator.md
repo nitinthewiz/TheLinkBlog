@@ -6,7 +6,11 @@ hash: 903d2a59eb3b234921b2a148aaae1d73
 annum:
     year: 2010
     month: 12
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/hyphenator/
+
 ---
 
 automatically hyphenates texts on websites if either the webdeveloper has included the script on the website or you use it as a bookmarklet on any site.

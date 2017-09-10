@@ -6,7 +6,11 @@ hash: 3eeacdef0ad0337599fd22b81812584f
 annum:
     year: 2017
     month: 06
-hostname: thenewstack.io
+url-parts:
+    scheme: https
+    host: thenewstack.io
+    path: /instagram-makes-smooth-move-python-3/
+
 ---
 
 Send this to the folks that highlight how Python, or any interpreted language really, just *cannot* scale.

@@ -6,7 +6,11 @@ hash: af9d19a2494fc53b079803bf5619032c
 annum:
     year: 2017
     month: 05
-hostname: tinyurl.com
+url-parts:
+    scheme: https
+    host: tinyurl.com
+    path: /l5w3ful
+
 ---
 
 

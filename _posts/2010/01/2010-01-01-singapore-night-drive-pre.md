@@ -6,7 +6,11 @@ hash: af1f7b505af9d2137a5435bf23c4ec43
 annum:
     year: 2010
     month: 01
-hostname: www.newsshooter.com
+url-parts:
+    scheme: http
+    host: www.newsshooter.com
+    path: /2009/12/16/singapore-night-drive-another-pre-production-1dmkiv-low-light-shoot/
+
 ---
 
 1DmkIV  Singapore night drive from Dan Chung on Vimeo.

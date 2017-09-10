@@ -6,7 +6,11 @@ hash: fea822079257941811dd89879647bf18
 annum:
     year: 2011
     month: 07
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /jpatokal/mediawiki-gateway
+
 ---
 
 A Ruby framework for MediaWiki API manipulation.

@@ -6,7 +6,11 @@ hash: d71e155afd7921ab955073802a78b12f
 annum:
     year: 2011
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /collaboration/the-email-game-wants-to-make-achieving-inbox-zero-fun/
+
 ---
 
 Lame that these only work with GMail. Where is generic IMAP support. :-(

@@ -6,7 +6,11 @@ hash: 60f8e32355b8815a450373cc569fdf76
 annum:
     year: 2012
     month: 03
-hostname: arandomurl.com
+url-parts:
+    scheme: http
+    host: arandomurl.com
+    path: /2012/03/27/pouchdb-is-couchdb-in-the-browser.html
+
 ---
 
 Seems a little crazy, and I question the longevity of CouchDB, but interesting.

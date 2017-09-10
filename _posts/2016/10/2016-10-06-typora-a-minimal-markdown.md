@@ -6,7 +6,11 @@ hash: 8bb30dbd900ba80a4787cd4fc503fe32
 annum:
     year: 2016
     month: 10
-hostname: www.typora.io
+url-parts:
+    scheme: http
+    host: www.typora.io
+    path: /
+
 ---
 
 Typora will give you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions.

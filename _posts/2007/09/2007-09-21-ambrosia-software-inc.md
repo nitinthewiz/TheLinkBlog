@@ -6,7 +6,11 @@ hash: 30c65dd0aa6cd2a94bfc5ecc701841b2
 annum:
     year: 2007
     month: 09
-hostname: www.ambrosiasw.com
+url-parts:
+    scheme: http
+    host: www.ambrosiasw.com
+    path: /utilities/iToner/
+
 ---
 
 iToner enables you to quickly transfer custom ringtones for your iPhone - without modifying, hacking or having to reset your iPhone. Simply drag and drop your MP3 or AAC audio files on iToner's window, click the Sync button, and you're done. Even better,

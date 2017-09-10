@@ -6,7 +6,11 @@ hash: 3f529e9a85a8221a56b3eb3a0b4944ac
 annum:
     year: 2014
     month: 11
-hostname: furbo.org
+url-parts:
+    scheme: http
+    host: furbo.org
+    path: /2014/11/20/a-day-with-apple-watch/
+
 ---
 
 

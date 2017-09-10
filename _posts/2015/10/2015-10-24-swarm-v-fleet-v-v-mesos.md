@@ -6,7 +6,11 @@ hash: 2069b39af13464aab9b3a824ca03e10e
 annum:
     year: 2015
     month: 10
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
+
 ---
 
 Buy Using Docker Early Release. Most software systems evolve over time. New features are added and old ones pruned. Fluctuating user demand means an efficient system must be able to quickly scale

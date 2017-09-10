@@ -6,7 +6,11 @@ hash: b4426a2d3615aa4538101e7afff37f9b
 annum:
     year: 2014
     month: 03
-hostname: obartunov.livejournal.com
+url-parts:
+    scheme: http
+    host: obartunov.livejournal.com
+    path: /177247.html
+
 ---
 
 Very cool development!

@@ -6,7 +6,11 @@ hash: 878e3a20831b7d0d58febffda84001fa
 annum:
     year: 2010
     month: 11
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5693011/vanilla-whitelists-your-cookies-in-google-chrome
+
 ---
 
 

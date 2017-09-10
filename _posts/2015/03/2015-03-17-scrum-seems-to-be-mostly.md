@@ -6,7 +6,11 @@ hash: a218b5a4ae39b5a0e404439321b0f298
 annum:
     year: 2015
     month: 03
-hostname: agileoverflow.com
+url-parts:
+    scheme: http
+    host: agileoverflow.com
+    path: /t/scrum-seems-to-be-mostly-about-having-better-alibis/47
+
 ---
 
 

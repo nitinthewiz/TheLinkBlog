@@ -6,7 +6,11 @@ hash: c86ced7e4525d66f015fb3c8814c6dae
 annum:
     year: 2010
     month: 01
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2010/01/01/namebench-google-dns/
+
 ---
 
 When Google launched its own DNS service last month, one of the main stated goals behind the project was speed. The problem is that most Internet users have no idea what a DNS server is, let alone how to configure one, or test how fast it is. But one Googler has taken it upon himself to create an easy tool for testing DNS and recommending what you use with his 20% time.

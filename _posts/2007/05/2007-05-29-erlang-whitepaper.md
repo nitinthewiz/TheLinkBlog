@@ -6,7 +6,11 @@ hash: 0871625c73b467d2faf62d9451b873f3
 annum:
     year: 2007
     month: 05
-hostname: www.erlang.org
+url-parts:
+    scheme: http
+    host: www.erlang.org
+    path: /white_paper.html
+
 ---
 
 Erlang is a programming language which has many features more commonly associated with an operating system than with a programming language: concurrent processes, scheduling, memory management, distribution, networking, etc.

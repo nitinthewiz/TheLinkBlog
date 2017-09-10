@@ -6,7 +6,12 @@ hash: 86a6664ac26e62cc0caee95fa8560330
 annum:
     year: 2005
     month: 08
-hostname: www.robgalbraith.com
+url-parts:
+    scheme: http
+    host: www.robgalbraith.com
+    path: /bins/multi_page.asp
+    query:
+        cid: "6007-6133"
 ---
 
 Benchmarks of CF to Computer transfer speeds.

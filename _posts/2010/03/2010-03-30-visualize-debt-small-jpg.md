@@ -6,7 +6,11 @@ hash: 7c3cc022018a10d7cc6c27e75dd5ae7e
 annum:
     year: 2010
     month: 03
-hostname: www.moonbattery.com
+url-parts:
+    scheme: http
+    host: www.moonbattery.com
+    path: /visualize-debt_small.jpg
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 40d74883ad19c20fd831b3db52fc4acf
 annum:
     year: 2015
     month: 08
-hostname: cloudonaut.io
+url-parts:
+    scheme: https
+    host: cloudonaut.io
+    path: /your-single-aws-account-is-a-serious-risk/
+
 ---
 
 

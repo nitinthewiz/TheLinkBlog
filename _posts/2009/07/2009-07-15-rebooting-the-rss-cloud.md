@@ -6,7 +6,11 @@ hash: 7658f2ff02cc471643126b01a1526523
 annum:
     year: 2009
     month: 07
-hostname: www.scripting.com
+url-parts:
+    scheme: http
+    host: www.scripting.com
+    path: /stories/2009/07/14/rebootingTheRssCloud.html
+
 ---
 
 In the early days of RSS, we had the idea that instantaneous updates would be the next step. That was 2001. It took a little longer than we thought, but now with "realtime" as...

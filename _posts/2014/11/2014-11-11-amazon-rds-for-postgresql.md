@@ -6,7 +6,11 @@ hash: fb4299ff0d8fe19e8c60b9d73d029f6f
 annum:
     year: 2014
     month: 11
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/rds-postgres-read-replicas/
+
 ---
 
 

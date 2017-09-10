@@ -6,7 +6,11 @@ hash: 4961c0cead66b59254824790056747b1
 annum:
     year: 2009
     month: 12
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /3lkexj
+
 ---
 
 New Years Eve grilling started. Big Green Egg getting warm. Porterhouse steaks from @clanceys tonight.  

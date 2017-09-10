@@ -6,7 +6,11 @@ hash: 5b41406f84e64548f2733ca704ee181c
 annum:
     year: 2009
     month: 06
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /MAcbook-pro-2009-battery
+
 ---
 
 "Battery technology simply doesn't evolve this fast." - Reviews of Apple's new MacBook Pros seem to indicate there are significant battery improvements.

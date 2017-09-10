@@ -6,7 +6,11 @@ hash: 1fca034de1f08ddc7261e0f416cde5c1
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/05/aFeatureRequestForBlogging.html
+
 ---
 
 I wrote a bunch of web content management tools in the mid-late 90s and early part of the last decade (we still don't have a name for it!) that turned into what we now think of blogging tools. The category that's led by WordPress, Typepad and Blogger (and Posterous and Tumblr and certainly others). 

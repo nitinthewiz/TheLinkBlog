@@ -6,7 +6,11 @@ hash: 0724aec4981db9dda522c604e2ce288c
 annum:
     year: 2015
     month: 11
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@bojzi/anatomy-of-a-large-angular-application-f098e5e36994
+
 ---
 
 How to design the architecture of an Angular application and not go insane in the processBuild it and they

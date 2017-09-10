@@ -6,7 +6,12 @@ hash: 9ca8243a8319ef5dbc2aa98ee426deb8
 annum:
     year: 2010
     month: 07
-hostname: www.apple.com
+url-parts:
+    scheme: http
+    host: www.apple.com
+    path: /safari/
+    query:
+        sr: "hotnews.rss"
 ---
 
 Apple today released Safari 5.0.1 and introduced the Safari Extensions Gallery. Extensions allow users to quickly add powerful new features to Safari — from toolbars that display live web feeds to sophisticated programs that filter web content. Users can download and install extensions either from the Safari Extensions Gallery or directly from a developer’s site.

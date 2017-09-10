@@ -6,7 +6,11 @@ hash: a7576c5d3a7e14ddce2b805a9a9f291a
 annum:
     year: 2009
     month: 04
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/poisonedwaters/
+
 ---
 
 I seriously love PBS's Frontline, but sometimes watching it makes me want to dig a bunker and never get out. 

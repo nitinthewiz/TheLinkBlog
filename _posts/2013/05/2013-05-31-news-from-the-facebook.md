@@ -6,7 +6,11 @@ hash: 680ace6f3c037ea4c33511f461144b26
 annum:
     year: 2013
     month: 05
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /ecosystem-8thbridge-conversocial-betapond_b118641
+
 ---
 
 Graphite 3 was released in beta Thursday for current 8thBridge customers, and its three pillars are Snapshots, Crowds, and Campaigns.

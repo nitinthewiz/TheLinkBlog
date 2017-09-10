@@ -6,7 +6,11 @@ hash: 7f5ff19d5e8ae613568dfcea5ed62428
 annum:
     year: 2014
     month: 12
-hostname: seedsofmindfulness.com
+url-parts:
+    scheme: http
+    host: seedsofmindfulness.com
+    path: /
+
 ---
 
 Mindfulness-Based Stress Reduction is designed for, and can be especially helpful to, those who experience: anxiety and depression, chronic pain and illness, cardiac disease, the demands of caregiving, life threatening illness, grief, spiritual emptiness and difficulty finding balance and peace in current life circumstances.

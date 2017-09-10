@@ -6,7 +6,11 @@ hash: 1a8ef9e03f7e0344ca663560ea966c61
 annum:
     year: 2010
     month: 07
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2010/07/30/news_corp-_considering_new_digital_news_venture_focused_on_ipad/
+
 ---
 
 News Corp. is seriously considering what could be a game change...

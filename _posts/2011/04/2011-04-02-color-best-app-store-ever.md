@@ -6,7 +6,11 @@ hash: 4d505b94a46b7221ba4b7d63af91dffd
 annum:
     year: 2011
     month: 04
-hostname: mike3k.posterous.com
+url-parts:
+    scheme: http
+    host: mike3k.posterous.com
+    path: /best-app-store-review-ever
+
 ---
 
 Review of color. Easter egg, notice the AT&T signal strength. 

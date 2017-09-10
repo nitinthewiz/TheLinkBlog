@@ -6,7 +6,11 @@ hash: 2a29adcf8b8c754df049e3bdc121daee
 annum:
     year: 2015
     month: 11
-hostname: www.coffeehunter.org
+url-parts:
+    scheme: http
+    host: www.coffeehunter.org
+    path: /flat-white-vs-latte/
+
 ---
 
 A flat white is not just a small latte. They are very different drinks. If you

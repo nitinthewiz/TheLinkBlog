@@ -6,7 +6,11 @@ hash: f1700a689155303eeec614190525a223
 annum:
     year: 2009
     month: 03
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/1632-where-do-you-turn-when-you-need-happy-birthday
+
 ---
 
 

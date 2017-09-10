@@ -6,7 +6,11 @@ hash: 51a8390eee9ec076e6ec81e7fda5d97d
 annum:
     year: 2011
     month: 01
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /media/2010/dec/07/wikileaks-under-attack-definitive-timeline
+
 ---
 
 WikiLeaks under attack: the definitive timeline. By @charlesarthur at The Guardian  Lists all the attempts to shut it down.

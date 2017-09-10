@@ -6,7 +6,11 @@ hash: 80135dc62c82ac936b135b5b7f9dd5e2
 annum:
     year: 2011
     month: 03
-hostname: xaviershay.github.com
+url-parts:
+    scheme: http
+    host: xaviershay.github.com
+    path: /tufte-graph/
+
 ---
 
 

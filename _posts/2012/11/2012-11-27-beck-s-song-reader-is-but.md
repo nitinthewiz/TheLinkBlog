@@ -6,7 +6,11 @@ hash: 22989e3e63683995500e49a32f6b9d55
 annum:
     year: 2012
     month: 11
-hostname: www.fastcompany.com
+url-parts:
+    scheme: http
+    host: www.fastcompany.com
+    path: /3002981/becks-song-reader-beautiful-you-cant-hear-it
+
 ---
 
 Jay Troop in this video is my former boss Kathy Yates' son. Very cool.

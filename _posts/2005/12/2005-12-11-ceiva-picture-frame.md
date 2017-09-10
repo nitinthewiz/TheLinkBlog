@@ -6,7 +6,11 @@ hash: 19d5fe8a3119ad2d21deb7153ef232ae
 annum:
     year: 2005
     month: 12
-hostname: www.heeltoe.com
+url-parts:
+    scheme: http
+    host: www.heeltoe.com
+    path: /software/ceiva/
+
 ---
 
 

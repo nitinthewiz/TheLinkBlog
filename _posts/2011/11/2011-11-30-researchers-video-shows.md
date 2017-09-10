@@ -6,7 +6,11 @@ hash: abc537a0827443630a5d5b87cedd61ea
 annum:
     year: 2011
     month: 11
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /threatlevel/2011/11/secret-software-logging-video/
+
 ---
 
 Oh. My. God. "Researcher’s Video Shows Secret Software on Millions of Phones Logging Everything" 

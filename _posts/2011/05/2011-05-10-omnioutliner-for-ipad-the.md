@@ -6,7 +6,11 @@ hash: 56017d5106e8ba5eaba1cae18ba188a6
 annum:
     year: 2011
     month: 05
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/entry/omnioutliner_for_ipad_first_screenshots/
+
 ---
 
 Did someone say they wanted screenshots of OmniOutliner for iPad? Here you go! 

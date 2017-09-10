@@ -6,7 +6,11 @@ hash: 46254f8b1f4d3c5fc569d740eb24c0ba
 annum:
     year: 2010
     month: 12
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/12/20/chaos-monkey-how-netflix-uses
+
 ---
 
 Brilliant.

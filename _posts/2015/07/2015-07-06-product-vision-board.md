@@ -6,7 +6,12 @@ hash: f4f77801f313645041e05afe0cc9f842
 annum:
     year: 2015
     month: 07
-hostname: blogs.atlassian.com
+url-parts:
+    scheme: http
+    host: blogs.atlassian.com
+    path: /2015/07/getting-roadmap-right-tips-and-tricks-from-our-planning-experts/
+    query:
+        utm_: "twitter"
 ---
 
 Techniques that help with defining, discussing and presenting a strategic product roadmap and how to translate it to an actionable plan in JIRA Portfolio.

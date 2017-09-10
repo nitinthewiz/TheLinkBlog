@@ -6,7 +6,11 @@ hash: 081af81cfab02e7719792763a9cb7aea
 annum:
     year: 2013
     month: 03
-hostname: smw.referata.com
+url-parts:
+    scheme: http
+    host: smw.referata.com
+    path: /wiki/Document_your_semantic_wiki
+
 ---
 
 

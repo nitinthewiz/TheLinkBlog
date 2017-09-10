@@ -6,7 +6,11 @@ hash: f4fb27e544e273032e04041b3d9e06a9
 annum:
     year: 2011
     month: 01
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /nation/114662824.html
+
 ---
 
 RT @StarTribune Say goodbye to that color-coded terror warning system. It's being phased out over the next 90 days. 

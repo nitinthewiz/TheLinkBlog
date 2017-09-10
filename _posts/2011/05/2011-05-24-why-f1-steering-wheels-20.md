@@ -6,7 +6,11 @@ hash: 58c36d77cec718a0562bead6389a89fa
 annum:
     year: 2011
     month: 05
-hostname: www.f1fanatic.co.uk
+url-parts:
+    scheme: http
+    host: www.f1fanatic.co.uk
+    path: /2011/04/22/steering-wheels/
+
 ---
 
 F1 steering wheels serve an obvious and important function. But F1 drivers use them to do much more than just point the car in the right direction.

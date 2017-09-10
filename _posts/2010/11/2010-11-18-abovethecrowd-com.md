@@ -6,7 +6,11 @@ hash: 7ef6d7e3448689d48e86e724e79feebd
 annum:
     year: 2010
     month: 11
-hostname: abovethecrowd.com
+url-parts:
+    scheme: http
+    host: abovethecrowd.com
+    path: /2010/11/15/silicon-valleys-ipo-anxiety/
+
 ---
 
 

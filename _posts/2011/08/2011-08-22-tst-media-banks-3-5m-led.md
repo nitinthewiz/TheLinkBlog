@@ -6,7 +6,11 @@ hash: 065db53272487c9827d9c8cb2f925335
 annum:
     year: 2011
     month: 08
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/08/22/tst-media-el-dorado-ventures/
+
 ---
 
 

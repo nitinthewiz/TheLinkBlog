@@ -6,7 +6,11 @@ hash: a929af70eb2bc4de7ae666e8a7fc0de2
 annum:
     year: 2010
     month: 11
-hostname: www.linotypefilm.com
+url-parts:
+    scheme: http
+    host: www.linotypefilm.com
+    path: 
+
 ---
 
 How does the Linotype fit in with new technology?

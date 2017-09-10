@@ -6,7 +6,11 @@ hash: fd0f1bf64963ac3e31388582dc6fd89a
 annum:
     year: 2010
     month: 10
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /social-shopping-facebook_b18910
+
 ---
 
 For a while now, social shopping has been heating up as the Next Big Thing on Facebook. Ive written recently about Amazons implementation of Facebook Connect, the launch of two new products from FatWallet, and even the fact that social shopping apps both won and placed in the recent Facebook Hackathon in Palo Alto.

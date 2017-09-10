@@ -6,7 +6,11 @@ hash: 47a3853e362e4ab676ede2eb9fe8e5ea
 annum:
     year: 2011
     month: 08
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: fb393375c9d0ed68563e466cf88442cc
 annum:
     year: 2015
     month: 07
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/growing-up-trans/
+
 ---
 
 

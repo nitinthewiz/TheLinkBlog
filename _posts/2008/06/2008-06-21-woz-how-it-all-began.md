@@ -6,7 +6,11 @@ hash: 415a968efc0e68b72912c6419ab5e996
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/21/woz-how-it-all-began/
+
 ---
 
 Filed under: The Woz

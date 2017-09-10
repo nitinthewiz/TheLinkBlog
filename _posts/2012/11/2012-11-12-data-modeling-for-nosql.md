@@ -6,7 +6,11 @@ hash: cebca5149fca1073f5200205ef4a51f6
 annum:
     year: 2012
     month: 11
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /fehguy/data-modeling-for-nosql
+
 ---
 
 I met Tony when he did due diligence on our company. Very smart guy. Good slides on modeling in Mongodb.

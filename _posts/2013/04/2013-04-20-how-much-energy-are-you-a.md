@@ -6,7 +6,11 @@ hash: 29d627fe9e31f4e5611599b90698d3f1
 annum:
     year: 2013
     month: 04
-hostname: burnenergyjournal.tumblr.com
+url-parts:
+    scheme: http
+    host: burnenergyjournal.tumblr.com
+    path: /post/46956488741/how-much-energy-are-you-using-heres-a-map
+
 ---
 
 map comparing per capita energy consumption, by country

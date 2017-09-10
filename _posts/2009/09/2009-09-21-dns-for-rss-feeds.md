@@ -6,7 +6,11 @@ hash: db90762f12ad0e05295f682b55fbdc5b
 annum:
     year: 2009
     month: 09
-hostname: www.scripting.com
+url-parts:
+    scheme: http
+    host: www.scripting.com
+    path: /stories/2009/09/20/dnsForRssFeeds.html
+
 ---
 
 Here is a Unix shell command that gets the address of my RSS feed: dig +short davewiner.supercloud.org TXT

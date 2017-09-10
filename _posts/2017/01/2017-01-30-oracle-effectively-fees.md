@@ -6,7 +6,11 @@ hash: 45ccce45d8674a48d45434fad9245bdb
 annum:
     year: 2017
     month: 01
-hostname: www.theregister.co.uk
+url-parts:
+    scheme: https
+    host: www.theregister.co.uk
+    path: /2017/01/30/oracle_effectively_doubles_licence_fees_to_run_in_aws/
+
 ---
 
 Oracle has changed the way it charges users to run its software in Amazon Web Services, effectively doubling the cost along the way.

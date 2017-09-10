@@ -6,7 +6,11 @@ hash: 656ae6a247ef28ea82f4a02184858f90
 annum:
     year: 2013
     month: 02
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /megamattron/SplinterNet
+
 ---
 
 Glad to see people working on software like this.

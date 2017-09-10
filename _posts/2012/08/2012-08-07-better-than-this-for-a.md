@@ -6,7 +6,11 @@ hash: a11624efda745d2bc3113f91f182dbf9
 annum:
     year: 2012
     month: 08
-hostname: www.pnhp.org
+url-parts:
+    scheme: http
+    host: www.pnhp.org
+    path: /news/2012/july/better-than-this
+
 ---
 
 Heartfelt article forwarded to me by my fiend Mike who is a Dr. himself and knows the author of this article.

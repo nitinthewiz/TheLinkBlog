@@ -6,7 +6,11 @@ hash: 88b1dd780112f1045295d4c18c9f5d16
 annum:
     year: 2007
     month: 12
-hostname: www.dailykos.com
+url-parts:
+    scheme: http
+    host: www.dailykos.com
+    path: /story/2007/12/20/424786/-Romney-I-invented-the-Internet
+
 ---
 
 No, not this time. But we do have a story line that's riper and more grounded in reality for the "serial exaggerator" narrative the campaign press used to love so much.

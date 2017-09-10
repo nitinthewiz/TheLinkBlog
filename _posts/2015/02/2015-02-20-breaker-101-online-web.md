@@ -6,7 +6,11 @@ hash: 382e3939315621b5b0f87e1422f14d4a
 annum:
     year: 2015
     month: 02
-hostname: breaker101.com
+url-parts:
+    scheme: https
+    host: breaker101.com
+    path: /
+
 ---
 
 

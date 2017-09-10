@@ -6,7 +6,11 @@ hash: d2a9d8f421de3afd1ce77da54accb201
 annum:
     year: 2012
     month: 10
-hostname: fullscalefalcon.com
+url-parts:
+    scheme: http
+    host: fullscalefalcon.com
+    path: /
+
 ---
 
 Wow.

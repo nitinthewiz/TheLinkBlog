@@ -6,7 +6,11 @@ hash: 34129e0fcc2520d244131318ea977398
 annum:
     year: 2007
     month: 09
-hostname: jeremy.zawodny.com
+url-parts:
+    scheme: http
+    host: jeremy.zawodny.com
+    path: /blog/archives/007641.html
+
 ---
 
 In an effort to replace my home backup server with Amazon's S3, I've been collecting a list of Amazon S3 compatible backup tools to look at. Here's what I've discovered, followed by my requirements.

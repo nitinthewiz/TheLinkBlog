@@ -6,7 +6,11 @@ hash: c3deff0a6fb9dcdbb47b1159b3d2a634
 annum:
     year: 2013
     month: 04
-hostname: stackoverflow.com
+url-parts:
+    scheme: http
+    host: stackoverflow.com
+    path: /questions/739654/understanding-python-decorators
+
 ---
 
 

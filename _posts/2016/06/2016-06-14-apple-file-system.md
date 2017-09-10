@@ -6,7 +6,11 @@ hash: 90866ae4e3cbedcf86dd9820089a391f
 annum:
     year: 2016
     month: 06
-hostname: developer.apple.com
+url-parts:
+    scheme: https
+    host: developer.apple.com
+    path: /library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/GeneralCharacteristics/GeneralCharacteristics.html
+
 ---
 
 Apple File System is a Next-Generation File System for Apple ProductsHFS+ and it

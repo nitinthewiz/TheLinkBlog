@@ -6,7 +6,11 @@ hash: e5af36ba546460d8be4cdff73d182d96
 annum:
     year: 2011
     month: 06
-hostname: www.bonkersworld.net
+url-parts:
+    scheme: http
+    host: www.bonkersworld.net
+    path: /2011/06/27/organizational-charts/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 558670077455a6af890848a2e75a08d7
 annum:
     year: 2010
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /27puka
+
 ---
 
 Trying to figure out if I want to partition this 6TB drive or just have one big volume.  

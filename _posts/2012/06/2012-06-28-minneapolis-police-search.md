@@ -6,7 +6,11 @@ hash: 0827abe2a65508fe77777a3378a21add
 annum:
     year: 2012
     month: 06
-hostname: bit.ly
+url-parts:
+    scheme: http
+    host: bit.ly
+    path: /1nAiMfh
+
 ---
 
 Glad to see they found a photo of the driver that did this. Now they just need to find him. Matt is a barista at Urban Bean Coffee.

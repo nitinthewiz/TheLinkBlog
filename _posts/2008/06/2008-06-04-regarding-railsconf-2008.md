@@ -6,7 +6,11 @@ hash: 52d74521c19801113307af2fc84e01ea
 annum:
     year: 2008
     month: 06
-hostname: hivelogic.com
+url-parts:
+    scheme: http
+    host: hivelogic.com
+    path: /articles/2008/06/regarding-railsconf-2008
+
 ---
 
 I had a great time at RailsConf this year. While I thought the talks were high quality, the highlight for me is getting to spend time meeting and talking to “Internet” friends I might only get to see once a year.

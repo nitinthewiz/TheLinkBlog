@@ -6,7 +6,11 @@ hash: c70efa762dbf6b1bca55ada5ad8811fc
 annum:
     year: 2012
     month: 04
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2012/04/clicky-keyboards/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ea59830e3bbf33d2afdeb0a0e4272834
 annum:
     year: 2017
     month: 03
-hostname: ewanvalentine.io
+url-parts:
+    scheme: http
+    host: ewanvalentine.io
+    path: /how-to-never-complete-anything/
+
 ---
 
 

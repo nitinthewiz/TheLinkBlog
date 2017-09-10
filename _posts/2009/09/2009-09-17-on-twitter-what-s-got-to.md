@@ -6,7 +6,11 @@ hash: 92860a5090b064e4615d7cd97bdcb9a2
 annum:
     year: 2009
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
+
 ---
 
 While it's unlikely that Twitter CEO Evan Williams was wearing a Dr. Evil costume when he delivered the news, he had the pleasure of announcing his company's $1 billion dollar valuation today at an all hands meeting. According to TechCrunch, the company has raised a $50 million dollar funding round and the money will be in the bank shortly. Given the fact that Twitter turned down an offer to be purchased by Facebook earlier in the year, it appears the two are about to tango.

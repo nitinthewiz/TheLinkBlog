@@ -6,7 +6,11 @@ hash: eab83619351162bb03dd019a116a7311
 annum:
     year: 2012
     month: 04
-hostname: garrickvanburen.com
+url-parts:
+    scheme: https
+    host: garrickvanburen.com
+    path: /archive/facebook-and-craigslist-feel-the-same/
+
 ---
 
 Brilliant observation by my friend Garrick.

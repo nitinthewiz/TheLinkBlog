@@ -6,7 +6,11 @@ hash: 3370f904f270790e7ddf575f27f6ee71
 annum:
     year: 2016
     month: 09
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2016/09/08/listening-to-your-commitments/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 1cd69764c92a1f81dbdcacc2bda6c6a6
 annum:
     year: 2012
     month: 02
-hostname: minnesotakubb.com
+url-parts:
+    scheme: http
+    host: minnesotakubb.com
+    path: /
+
 ---
 
 

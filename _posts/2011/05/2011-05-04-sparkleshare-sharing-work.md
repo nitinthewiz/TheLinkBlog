@@ -6,7 +6,11 @@ hash: dc5cc41b89985e10c77c5b9f82724e11
 annum:
     year: 2011
     month: 05
-hostname: sparkleshare.org
+url-parts:
+    scheme: http
+    host: sparkleshare.org
+    path: /
+
 ---
 
 SparkleShare is a syncing and collaboration tool that shines by its absence. It's designed to get out of your way, to make sharing documents and collaboration easier, and to make peers aware of what you are doing.

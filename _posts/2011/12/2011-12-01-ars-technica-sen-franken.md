@@ -6,7 +6,11 @@ hash: 1be06827cf040e50ebb0059e6f3770ab
 annum:
     year: 2011
     month: 12
-hostname: blog.alfranken.com
+url-parts:
+    scheme: http
+    host: blog.alfranken.com
+    path: /2011/12/01/ars-technica-sen-franken-demands-answers-from-carrier-iq-suggests-phone-snooping-violates-federal-law/
+
 ---
 
 Al demands answers from Carrier IQ, accused of secretly logging smartphone users' location & private info  @arstechnica

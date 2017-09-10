@@ -6,7 +6,11 @@ hash: d39872d2419d4dee6161ecc831075bca
 annum:
     year: 2015
     month: 07
-hostname: braythwayt.com
+url-parts:
+    scheme: http
+    host: braythwayt.com
+    path: /2015/07/11/so-long-reddit.html
+
 ---
 
 

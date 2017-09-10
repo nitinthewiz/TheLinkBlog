@@ -6,7 +6,11 @@ hash: 42b2a3b9817a7624e0520a91ee868fff
 annum:
     year: 2013
     month: 05
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/public-test-of-omnipresence-for-mac
+
 ---
 
 I opted into this test program and am trying it out. I would love to have the capabilities of Dropbox but be able to host the server side on my own server or any other server of my choice.

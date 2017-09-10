@@ -6,7 +6,11 @@ hash: b1867aa21b00a13a8396e2b553a34c54
 annum:
     year: 2015
     month: 11
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2015/11/the_ipad_pro
+
 ---
 
 First impressions last a lifetime, goes the adage. You

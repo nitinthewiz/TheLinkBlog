@@ -6,7 +6,11 @@ hash: 2e434cd7e71eb85bfce6cc717d904565
 annum:
     year: 2014
     month: 01
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /obama-declares-climate-change-is-a-fact-2014-1
+
 ---
 
 Obama says “Climate change is a fact” - reaction from scientists: “it's a shame the president even *has* to say that” 

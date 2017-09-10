@@ -6,7 +6,11 @@ hash: 41218fa67680966e22d515609f0a3306
 annum:
     year: 2012
     month: 07
-hostname: patch.com
+url-parts:
+    scheme: http
+    host: patch.com
+    path: /southwestminneapolis/find-mystery-history-and-theatrical-fun-aboard-linden049436444d
+
 ---
 
 A play on a moving streetcar? Cool idea.

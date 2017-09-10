@@ -6,7 +6,11 @@ hash: 24c08a3f162cebd031f3d3d053bdac18
 annum:
     year: 2017
     month: 09
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /fast-growing-code42-software-could-be-a-public-company-within-a-couple-years/441783683/
+
 ---
 
 Bold plans for local Twin Cities tech company Code42, makers of Crash Plan.

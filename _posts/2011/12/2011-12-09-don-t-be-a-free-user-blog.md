@@ -6,7 +6,11 @@ hash: 5501ec92f6c9243e5cebbda535ea0eac
 annum:
     year: 2011
     month: 12
-hostname: blog.pinboard.in
+url-parts:
+    scheme: http
+    host: blog.pinboard.in
+    path: /2011/12/don_t_be_a_free_user/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ab30a5e5296cb8c1f007ebaa1f3928cb
 annum:
     year: 2009
     month: 03
-hostname: tinyurl.com
+url-parts:
+    scheme: http
+    host: tinyurl.com
+    path: /cooax4
+
 ---
 
 Blog Post: Be Smarter, Calibrate your Thermometers 

@@ -6,7 +6,14 @@ hash: eb359618291f13eaf577667a0263f572
 annum:
     year: 2010
     month: 11
-hostname: www.roubini.com
+url-parts:
+    scheme: http
+    host: www.roubini.com
+    path: /roubini-monitor/260045/gordon_gekko_reborn__1987-2010
+    query:
+        utm_source: "Nouriel Roubini's EconoMonitor"
+        utm_medium: "twitter"
+        utm_campaign: "Feed: NourielRoubinisGlobalEconomonitor (Nouriel Roubini's Global EconoMonitor)"
 ---
 
 From Roubini's blog: Gordon Gekko Reborn: 1987-2010 

@@ -6,7 +6,11 @@ hash: aef2d72cf626ef37870e87acf0d58a09
 annum:
     year: 2009
     month: 05
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4x3kg
+
 ---
 
 Starting to work up three racks of ribs for Mothers Day dinner on Big Green Egg.  

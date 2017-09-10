@@ -6,7 +6,11 @@ hash: e26513cc5964ae3c079a59780d655986
 annum:
     year: 2013
     month: 04
-hostname: www.wikitrust.net
+url-parts:
+    scheme: http
+    host: www.wikitrust.net
+    path: /
+
 ---
 
 Interesting project.

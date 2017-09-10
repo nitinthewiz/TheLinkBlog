@@ -6,7 +6,11 @@ hash: b7bec3ba5350fe9b8ef69df9e4c3d840
 annum:
     year: 2011
     month: 04
-hostname: totalfinder.binaryage.com
+url-parts:
+    scheme: http
+    host: totalfinder.binaryage.com
+    path: /
+
 ---
 
 TotalFinder brings tabs to your native Finder and more!

@@ -6,7 +6,11 @@ hash: 66cfe65fcb857a29c12d80e3d0688c8d
 annum:
     year: 2011
     month: 02
-hostname: blog.gengo.com
+url-parts:
+    scheme: http
+    host: blog.gengo.com
+    path: /why-your-startup-needs-a-visual-dashboard/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9a125b99029f1c6051bffaedf9479673
 annum:
     year: 2014
     month: 12
-hostname: insidetv.ew.com
+url-parts:
+    scheme: http
+    host: insidetv.ew.com
+    path: /2014/11/06/sports-night-oral-history/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 13840371b20e22a87f010044ad4373fe
 annum:
     year: 2015
     month: 02
-hostname: mncompanionrabbit.org
+url-parts:
+    scheme: http
+    host: mncompanionrabbit.org
+    path: /
+
 ---
 
 

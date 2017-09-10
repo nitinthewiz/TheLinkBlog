@@ -6,7 +6,11 @@ hash: cfdac8ec237fe285cc12ca639cb4326b
 annum:
     year: 2011
     month: 09
-hostname: www.mayin.org
+url-parts:
+    scheme: http
+    host: www.mayin.org
+    path: /ajayshah/MISC/weightloss.html
+
 ---
 
 I have written an Sweave file which takes in data for your weight, and generates a pdf slideshow with some interesting results.

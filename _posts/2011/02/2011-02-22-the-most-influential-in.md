@@ -6,7 +6,11 @@ hash: 24b8808a299913ed5721948af3cd4f56
 annum:
     year: 2011
     month: 02
-hostname: www.fastcompany.com
+url-parts:
+    scheme: http
+    host: www.fastcompany.com
+    path: /3016973/women-in-tech-2011/the-most-influential-women-in-technology-2011-sona-mehring
+
 ---
 
 Before there was Facebook, MySpace, or Tumblr, there was CaringBridge, an online community that serves up free, easy-to-create websites for people dealing with health crises. CaringBridge was created in 1997 after friends of founder and computer scientist Sona Mehring had a premature baby.

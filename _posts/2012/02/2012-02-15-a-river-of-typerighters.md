@@ -6,7 +6,11 @@ hash: d62cfdc2e710688c8b84a3d58e06699d
 annum:
     year: 2012
     month: 02
-hostname: blog.typerighter.com
+url-parts:
+    scheme: http
+    host: blog.typerighter.com
+    path: /post/a-river-of-typerighters/
+
 ---
 
 He calls it “Typerighter River.” It currently includes the public feeds of Garrick van Buren, Patrick Rhone, and Jamie’s own Typerighter account.

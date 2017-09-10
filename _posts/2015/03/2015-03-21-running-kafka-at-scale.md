@@ -6,7 +6,11 @@ hash: dc2a8eba56cffce2b45ed470125a7b81
 annum:
     year: 2015
     month: 03
-hostname: engineering.linkedin.com
+url-parts:
+    scheme: https
+    host: engineering.linkedin.com
+    path: /kafka/running-kafka-scale
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 04058c79aff2caa283c1bca39409a993
 annum:
     year: 2008
     month: 05
-hostname: themes.barleyhut.com
+url-parts:
+    scheme: http
+    host: themes.barleyhut.com
+    path: /
+
 ---
 
 Nice well designed clean themes

@@ -6,7 +6,11 @@ hash: 95ea10ab56361fd5bdcf7ab02c449a19
 annum:
     year: 2011
     month: 12
-hostname: www.harrietbrewing.com
+url-parts:
+    scheme: http
+    host: www.harrietbrewing.com
+    path: /
+
 ---
 
 

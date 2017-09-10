@@ -6,7 +6,11 @@ hash: 69f6a4925885c2948dddb0442ea2cb29
 annum:
     year: 2012
     month: 10
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /yoavaviram/python-amazon-simple-product-api
+
 ---
 
 A simple Python wrapper for the Amazon.com Product Advertising API.

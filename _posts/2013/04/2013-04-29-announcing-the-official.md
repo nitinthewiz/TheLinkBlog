@@ -6,7 +6,11 @@ hash: c799395fcba4a6ea97b83d7e61ae488e
 annum:
     year: 2013
     month: 04
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2013/04/29/announcing-the-official-commons-app-for-ios-and-android/
+
 ---
 
 This is cool.

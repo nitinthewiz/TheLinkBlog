@@ -6,7 +6,11 @@ hash: 24f4746b9ae1c492443a81ebd8a6c09e
 annum:
     year: 2011
     month: 01
-hostname: www.betterprogramming.com
+url-parts:
+    scheme: http
+    host: www.betterprogramming.com
+    path: /niftyurls-a-django-powered-popurls-script.html
+
 ---
 
 

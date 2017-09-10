@@ -6,7 +6,11 @@ hash: 19b2147f0caaf83fef20170beeb5c802
 annum:
     year: 2016
     month: 08
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gadgets/2016/08/from-the-sweethome-the-solar-power-system-wed-get-for-ourselves/
+
 ---
 
 

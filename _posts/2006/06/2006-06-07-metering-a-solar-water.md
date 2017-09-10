@@ -6,7 +6,14 @@ hash: 1c97b9792097157191646603865f98b7
 annum:
     year: 2006
     month: 06
-hostname: chuck-wright.com
+url-parts:
+    scheme: http
+    host: chuck-wright.com
+    path: /wcs/index.php
+    query:
+        module: "ContentExpress"
+        func: "print"
+        ceid: "6"
 ---
 
 

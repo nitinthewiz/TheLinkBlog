@@ -6,7 +6,11 @@ hash: 8ce73d20786454163c89dc0d0bfc24ea
 annum:
     year: 2012
     month: 03
-hostname: openresty.org
+url-parts:
+    scheme: http
+    host: openresty.org
+    path: /download/agentzh-nginx-tutorials-en.html
+
 ---
 
 Closest thing to a book on nginx I've seen.

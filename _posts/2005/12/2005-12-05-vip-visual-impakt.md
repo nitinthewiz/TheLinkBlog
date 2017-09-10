@@ -6,7 +6,11 @@ hash: 46eb40abab264137155b69de462ea539
 annum:
     year: 2005
     month: 12
-hostname: www.vip-gallery.net
+url-parts:
+    scheme: http
+    host: www.vip-gallery.net
+    path: /
+
 ---
 
 Photography studio.

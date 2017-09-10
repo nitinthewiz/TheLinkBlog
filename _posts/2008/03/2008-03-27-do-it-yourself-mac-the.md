@@ -6,7 +6,11 @@ hash: e4f1ef2cd1ebb4b638166cc946bd5c79
 annum:
     year: 2008
     month: 03
-hostname: www.tnpi.net
+url-parts:
+    scheme: http
+    host: www.tnpi.net
+    path: /wiki/Do_It_Yourself_.Mac
+
 ---
 
 Many of the reasons I do not find .mac useful are the same reasons I encourage others to use it. My needs are different than the average computer user. This is not an "I hate .mac" article but rather an explanation of the motivation and methods I used to

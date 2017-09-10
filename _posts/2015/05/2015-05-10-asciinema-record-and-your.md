@@ -6,7 +6,11 @@ hash: e41a8f185543f182a957cc33ab99ac4c
 annum:
     year: 2015
     month: 05
-hostname: asciinema.org
+url-parts:
+    scheme: https
+    host: asciinema.org
+    path: /
+
 ---
 
 

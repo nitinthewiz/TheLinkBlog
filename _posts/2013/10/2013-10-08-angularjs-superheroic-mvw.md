@@ -6,7 +6,11 @@ hash: 23937730d76e5458d0995bec55789bde
 annum:
     year: 2013
     month: 10
-hostname: angularjs.org
+url-parts:
+    scheme: https
+    host: angularjs.org
+    path: /
+
 ---
 
 HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.

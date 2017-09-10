@@ -6,7 +6,12 @@ hash: 5703eca5c6abe002b1f2298722af795d
 annum:
     year: 2010
     month: 06
-hostname: www.kehlfamily.com
+url-parts:
+    scheme: http
+    host: www.kehlfamily.com
+    path: /
+    query:
+        p: "868"
 ---
 
 This past weekend my dad was in town and we decided to fire up some meatloaf sandwiches on the Egg.  The same sandwiches which won the heart of  Shane Chandler (aka Mr. I don’t like meatloaf).

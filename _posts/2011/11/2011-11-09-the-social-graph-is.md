@@ -6,7 +6,11 @@ hash: 8f38c465ee01b143c41e733fd34bd0a7
 annum:
     year: 2011
     month: 11
-hostname: blog.pinboard.in
+url-parts:
+    scheme: http
+    host: blog.pinboard.in
+    path: /2011/11/the_social_graph_is_neither/
+
 ---
 
 Published a rant on the "Social Graph" and why I think it's bogus: 

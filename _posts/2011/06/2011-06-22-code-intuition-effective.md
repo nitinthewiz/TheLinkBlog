@@ -6,7 +6,11 @@ hash: e11cd4a2e6b65007b66eb440b16e71a5
 annum:
     year: 2011
     month: 06
-hostname: codeintuition.net
+url-parts:
+    scheme: http
+    host: codeintuition.net
+    path: /post/6753096142/effective-use-of-omnifocus-keep-due-dates-sacred
+
 ---
 
 Why I keep due dates sacred in OmniFocus: 

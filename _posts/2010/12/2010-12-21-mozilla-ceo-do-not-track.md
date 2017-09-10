@@ -6,7 +6,11 @@ hash: a423cf0246ef45830fce35a80b44869b
 annum:
     year: 2010
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/12/20/419-mozilla-ceo-do-not-track-option-will-be-in-firefox-4/
+
 ---
 
 

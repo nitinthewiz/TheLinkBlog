@@ -6,7 +6,11 @@ hash: 47a09867f6fbf297025a0409eb7376cd
 annum:
     year: 2015
     month: 11
-hostname: blog.hipchat.com
+url-parts:
+    scheme: https
+    host: blog.hipchat.com
+    path: /2015/11/11/meekan-and-convergely-will-elevate-your-chat-game/
+
 ---
 
 Last week we announced our all-new integrations framework, HipChat Connect. Integrations powered by HipChat Connect are the most sophisticated on the market with abilities far beyond the

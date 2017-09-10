@@ -6,7 +6,12 @@ hash: 0bcbed0a692d9f8dcbc02d60e12e79ed
 annum:
     year: 2015
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "uwlAvsPvPfg"
 ---
 
 There's just something about businessmen that really makes you want to crush their heads, ya know?

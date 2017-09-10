@@ -6,7 +6,11 @@ hash: 220ed02d7636f568773f278f67ebe7ff
 annum:
     year: 2012
     month: 04
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /rfletcher/safari-json-formatter
+
 ---
 
 If you use Safari, and you ever look at raw JSON output, install this extension.

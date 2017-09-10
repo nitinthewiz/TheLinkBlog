@@ -6,7 +6,11 @@ hash: aa91411eedabe2466d64eba20ac69d54
 annum:
     year: 2006
     month: 10
-hostname: youneed2see.com
+url-parts:
+    scheme: http
+    host: youneed2see.com
+    path: /political/52/America:_From_Freedom_to_Fascism
+
 ---
 
 If you haven't yet seen the movie "America: From Freedom to Fascism", here is your chance to see the entire documentary, free.

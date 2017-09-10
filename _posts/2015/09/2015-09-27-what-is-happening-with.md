@@ -6,7 +6,11 @@ hash: 43655eb5f5e7fc57b05a3c1959116b45
 annum:
     year: 2015
     month: 09
-hostname: hexmode.com
+url-parts:
+    scheme: http
+    host: hexmode.com
+    path: /2015/09/what-is-happening-with-mediawiki/
+
 ---
 
 

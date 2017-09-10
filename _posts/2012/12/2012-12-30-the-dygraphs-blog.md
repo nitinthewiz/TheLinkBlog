@@ -6,7 +6,11 @@ hash: 14c63d7b9bbf9c8ac5e9108170689296
 annum:
     year: 2012
     month: 12
-hostname: blog.dygraphs.com
+url-parts:
+    scheme: http
+    host: blog.dygraphs.com
+    path: /
+
 ---
 
 All about the open source visualization library at dygraphs.com

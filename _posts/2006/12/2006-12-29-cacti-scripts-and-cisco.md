@@ -6,7 +6,11 @@ hash: cfcf78ab437b11bdc3c9c259ecbee2f8
 annum:
     year: 2006
     month: 12
-hostname: www.debianhelp.co.uk
+url-parts:
+    scheme: http
+    host: www.debianhelp.co.uk
+    path: /cactitemplates.htm
+
 ---
 
 I have collected these scripts from Cacti forum and i hope this would help users to check the templates they are looking for in cacti

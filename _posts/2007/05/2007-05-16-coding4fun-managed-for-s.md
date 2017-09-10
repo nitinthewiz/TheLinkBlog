@@ -6,7 +6,11 @@ hash: 705230042c7143faeb5607512769350b
 annum:
     year: 2007
     month: 05
-hostname: channel9.msdn.com
+url-parts:
+    scheme: http
+    host: channel9.msdn.com
+    path: /coding4fun/archive/2007/03/14/1879033.aspx
+
 ---
 
 In this article, Brian Peek demonstrates how to connect to and use the Nintendo Wiimote from C# and VB.NET. The final output is an easy-to-use managed API for the Wiimote that can be used in any managed application.

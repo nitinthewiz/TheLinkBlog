@@ -6,7 +6,11 @@ hash: f30558f99acad105cd3ef4e6ac122efe
 annum:
     year: 2008
     month: 04
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/04/13/mac-101-fine-tune-your-macs-volume/
+
 ---
 
 

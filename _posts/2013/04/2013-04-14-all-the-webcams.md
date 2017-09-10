@@ -6,7 +6,11 @@ hash: 6fc463115f29a5f09f435ccb77e4d15a
 annum:
     year: 2013
     month: 04
-hostname: cryptogasm.com
+url-parts:
+    scheme: https
+    host: cryptogasm.com
+    path: /2012/10/all-the-webcams/
+
 ---
 
 This article is exactly why I've never put a live webcam in my house.

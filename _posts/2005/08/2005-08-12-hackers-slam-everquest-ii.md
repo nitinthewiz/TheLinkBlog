@@ -6,7 +6,12 @@ hash: bd1f6fbf5c6b349e0239abf93ab2b642
 annum:
     year: 2005
     month: 08
-hostname: news.cnet.com
+url-parts:
+    scheme: http
+    host: news.cnet.com
+    path: /Hackers-slam-Everquest-II-economy/2100-1043_3-5829403.html
+    query:
+        tag: "nefd.top"
 ---
 
 Crazy happenings in the Everquest economy

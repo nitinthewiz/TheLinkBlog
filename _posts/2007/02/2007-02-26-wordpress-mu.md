@@ -6,7 +6,11 @@ hash: 7749e14034b4943175459923f11c1208
 annum:
     year: 2007
     month: 02
-hostname: mu.wordpress.org
+url-parts:
+    scheme: http
+    host: mu.wordpress.org
+    path: /
+
 ---
 
 WordPress MU, or multi-user, is designed to do exactly that. It is most famously used for WordPress.com where it serves tens of millions of hits on hundreds of thousands of blogs each day.

@@ -6,7 +6,11 @@ hash: c91981b432cbdae6845604d5faf1ef7c
 annum:
     year: 2011
     month: 01
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2011/01/twitter/
+
 ---
 
 Ryan Singel:

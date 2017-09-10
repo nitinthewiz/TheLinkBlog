@@ -6,7 +6,11 @@ hash: 10dedea38becc2fe3e7c6a538625532a
 annum:
     year: 2017
     month: 01
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /SemanticMediaWiki/SemanticScribunto/blob/master/docs/README.md
+
 ---
 
 Semantic Scribunto (a.k.a. SSC) is a Semantic Mediawiki extension to provide native support for the Scribunto extension.

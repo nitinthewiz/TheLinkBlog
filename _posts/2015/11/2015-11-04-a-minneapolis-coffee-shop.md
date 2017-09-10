@@ -6,7 +6,11 @@ hash: b841b94ac53244c676742631b91fea6c
 annum:
     year: 2015
     month: 11
-hostname: blog.improvonia.com
+url-parts:
+    scheme: http
+    host: blog.improvonia.com
+    path: /post/131923663098/a-minneapolis-coffee-shop-that-defies-convention
+
 ---
 
 Not everyone has a go-to coffee shop. A weekday or weekendsplurge on a Starbucks, an Einstein Brothers, or - if you are local toMinneapolis 

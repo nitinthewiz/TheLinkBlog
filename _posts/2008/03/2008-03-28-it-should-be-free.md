@@ -6,7 +6,11 @@ hash: ece12aba0739f13e1b9b694f0e490771
 annum:
     year: 2008
     month: 03
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/481/it-should-be-free
+
 ---
 
 I love several of the podcasts produced by Leo Laporte’s TWiT Network. He’s doing a great service to a variety of communities, and I particularly enjoy the MacBreak Weekly show, which features regulars such as Merlin Mann and Andy Ihnatko. The typical show includes a light-hearted roundup of the week’s (sometimes scarce) Mac news, and some regular features such as a weekly “picks” where show panelists are invited to share a Mac application or other product which they’ve found particularly valuable.

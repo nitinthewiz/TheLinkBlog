@@ -6,7 +6,11 @@ hash: 99a739f9262c561066036ede977f54fa
 annum:
     year: 2011
     month: 04
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2011/04/open-wireless-movement
+
 ---
 
 If you sometimes find yourself needing an open wireless network in order to check your email from a car, a street corner, or a park, you may have noticed that they're getting harder to find.

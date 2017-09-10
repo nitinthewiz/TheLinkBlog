@@ -6,7 +6,11 @@ hash: a44b384ae1ef56b418d30067dc287acc
 annum:
     year: 2014
     month: 11
-hostname: lessonslearned.org
+url-parts:
+    scheme: http
+    host: lessonslearned.org
+    path: /sniff
+
 ---
 
 

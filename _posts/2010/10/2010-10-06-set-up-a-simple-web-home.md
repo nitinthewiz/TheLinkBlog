@@ -6,7 +6,11 @@ hash: b386c7af6b395d6ae088abbb2f3bf456
 annum:
     year: 2010
     month: 10
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5657252/set-up-a-simple-web-streaming-home-surveillance-system
+
 ---
 
 

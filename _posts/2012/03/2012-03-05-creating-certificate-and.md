@@ -6,7 +6,11 @@ hash: 5b6b89d43f423451bf23ec5fa7e9344d
 annum:
     year: 2012
     month: 03
-hostname: www.tc.umn.edu
+url-parts:
+    scheme: http
+    host: www.tc.umn.edu
+    path: /~brams006/selfsign.html
+
 ---
 
 

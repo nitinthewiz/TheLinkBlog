@@ -6,7 +6,12 @@ hash: 0a67e97d22d40d55b49e8beba8b8bbf0
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/20/your-money/20wealth.html
+    query:
+        _r: "1"
 ---
 
 

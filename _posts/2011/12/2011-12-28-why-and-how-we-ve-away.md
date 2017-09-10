@@ -6,7 +6,11 @@ hash: 19ac6bbc1c17b41235809733a1c4b5d4
 annum:
     year: 2011
     month: 12
-hostname: blog.nestoria.co.uk
+url-parts:
+    scheme: http
+    host: blog.nestoria.co.uk
+    path: /why-and-how-weve-switched-away-from-google-ma
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0a5cfa4d29bbe2cb316dc61f5560e536
 annum:
     year: 2011
     month: 01
-hostname: cyclopath.org
+url-parts:
+    scheme: http
+    host: cyclopath.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: db15e721dd77de9fb1ae68f4ba8e39b2
 annum:
     year: 2011
     month: 02
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /local/north/115530234.html
+
 ---
 
 Already known for making audacious beers, Surly Brewing Co. unveiled bold plans Monday for a $20 million facility that would house a restaurant and beer garden, and could make it the biggest brewer in the state.

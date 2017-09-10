@@ -6,7 +6,11 @@ hash: d774c3935c26ce8f274e2154ca4a8025
 annum:
     year: 2012
     month: 02
-hostname: infovore.org
+url-parts:
+    scheme: http
+    host: infovore.org
+    path: /archives/2012/02/26/a-year-of-links/
+
 ---
 
 I thought it would be interesting to produce a kind of personal encylopedia: each volume cataloguing the links for a whole year. Given I first used Delicious in 2004, that makes for eight books to date.

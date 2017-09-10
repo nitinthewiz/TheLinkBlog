@@ -6,7 +6,11 @@ hash: aa3531973fef9eed856cf7059517d550
 annum:
     year: 2011
     month: 06
-hostname: www.cnet.com
+url-parts:
+    scheme: http
+    host: www.cnet.com
+    path: /8301-30976_1-20068778-10348864.html
+
 ---
 
 This Friday's Reporters' Roundtable is on a topic that vexes us all: why are end user license agreements and terms of service so long and convoluted?

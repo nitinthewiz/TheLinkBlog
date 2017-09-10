@@ -6,7 +6,11 @@ hash: 15143245e936fa19cc6c61378a408c12
 annum:
     year: 2005
     month: 11
-hostname: www.vraahojskole.dk
+url-parts:
+    scheme: http
+    host: www.vraahojskole.dk
+    path: /fotografi-analogt-og-digitalt-foto
+
 ---
 
 Artistic photography.

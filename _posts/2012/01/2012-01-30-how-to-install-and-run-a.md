@@ -6,7 +6,11 @@ hash: b3d1896d72038436deb1c890332b4f5a
 annum:
     year: 2012
     month: 01
-hostname: piwik.org
+url-parts:
+    scheme: http
+    host: piwik.org
+    path: /docs/how-to-secure-piwik/
+
 ---
 
 New Doc page, must read for SECurity Geeks!

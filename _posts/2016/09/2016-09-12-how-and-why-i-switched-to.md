@@ -6,7 +6,11 @@ hash: f4215618b34e01b6d949250e07718ae0
 annum:
     year: 2016
     month: 09
-hostname: log.liminastudio.com
+url-parts:
+    scheme: http
+    host: log.liminastudio.com
+    path: /programming/how-and-why-i-switched-from-jira-to-clubhouse
+
 ---
 
 My team of ~10-15 people had been using JIRA Cloud, the ticketing/project management system, for a few years, and I had grown to loath it (why?). Earlier this year I began considering alternatives in

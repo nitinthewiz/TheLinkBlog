@@ -6,7 +6,11 @@ hash: 10b577452eca6e75837d5da7c244fd74
 annum:
     year: 2016
     month: 02
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /reviews/heartwatch-2-review/
+
 ---
 
 Now in version 2.0, HeartWatch looks to be a more all-encompassing aggregator of your heart information. After spending some time with the newest version of the app, I can highly suggest HeartWatch – not only for its capabilities but also for its potential.

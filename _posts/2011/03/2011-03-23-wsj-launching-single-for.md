@@ -6,7 +6,11 @@ hash: 0d45eb39738e33c6bd313748e467511a
 annum:
     year: 2011
     month: 03
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-wsj-launching-single-issue-downloads-for-ipad/
+
 ---
 
 

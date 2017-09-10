@@ -6,7 +6,11 @@ hash: e5c51a4d53f5d4e77805a6a1a77a7379
 annum:
     year: 2008
     month: 05
-hostname: www.joelonsoftware.com
+url-parts:
+    scheme: http
+    host: www.joelonsoftware.com
+    path: /items/2008/05/01.html
+
 ---
 
 

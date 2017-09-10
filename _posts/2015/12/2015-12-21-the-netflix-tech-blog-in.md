@@ -6,7 +6,11 @@ hash: dde2e08bf23d191c3198f667dd8fd740
 annum:
     year: 2015
     month: 12
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2015/07/java-in-flames.html
+
 ---
 
 Java mixed-mode flame graphs provide a complete visualization of CPU usage and have just been made possible by a new JDK option: -XX:+PreserveFramePointer. We've been developing these at Netflix for everyday Java performance analysis as they can identify all CPU consumers and issues, including those that are hidden from other profilers.

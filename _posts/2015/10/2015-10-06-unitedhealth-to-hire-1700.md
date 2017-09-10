@@ -6,7 +6,11 @@ hash: 6bb2dceb7dc858cb3bcdec213c12bb18
 annum:
     year: 2015
     month: 10
-hostname: www.mprnews.org
+url-parts:
+    scheme: http
+    host: www.mprnews.org
+    path: /story/2015/10/05/unitedhealth-jobs
+
 ---
 
 UnitedHealth Group will be making a big hiring push in Minnesota. UnitedHealth, the nation's largest health insurer, said Monday it plans to hire about 1,700 employees over the next six months in the&hellip;

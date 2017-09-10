@@ -6,7 +6,11 @@ hash: fd4c1e6b92ffea8977fb44a5ee076949
 annum:
     year: 2012
     month: 10
-hostname: www.openwireless.org
+url-parts:
+    scheme: https
+    host: www.openwireless.org
+    path: /
+
 ---
 
 

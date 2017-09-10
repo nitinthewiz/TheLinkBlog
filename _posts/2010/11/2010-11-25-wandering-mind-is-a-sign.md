@@ -6,7 +6,12 @@ hash: af77d2997eb5bcbdbade2ab33bef6126
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/16/science/16tier.html
+    query:
+        _r: "1"
 ---
 
 

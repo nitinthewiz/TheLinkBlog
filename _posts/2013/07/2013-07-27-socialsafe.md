@@ -6,7 +6,11 @@ hash: 1bbd994f54c0119bc86c3d9852d8fd3a
 annum:
     year: 2013
     month: 07
-hostname: socialsafe.net
+url-parts:
+    scheme: http
+    host: socialsafe.net
+    path: /
+
 ---
 
 Interesting software to bring social things local to your machine where you can control and archive it.

@@ -6,7 +6,12 @@ hash: edeb0b8b10903f5fd7b6639b8922bc98
 annum:
     year: 2011
     month: 08
-hostname: www.cupertino.org
+url-parts:
+    scheme: http
+    host: www.cupertino.org
+    path: /index.aspx
+    query:
+        page: "1107"
 ---
 
 Gorgeous renderings. So utterly Apple-y.

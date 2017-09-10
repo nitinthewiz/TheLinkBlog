@@ -6,7 +6,11 @@ hash: e7b66e17e170f98aeb9657828a6bb559
 annum:
     year: 2012
     month: 11
-hostname: www.lindsredding.com
+url-parts:
+    scheme: http
+    host: www.lindsredding.com
+    path: /2012/03/11/a-overdue-lesson-in-perspective/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ca4e5cf5af0f82e306973a0712b0c889
 annum:
     year: 2014
     month: 10
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
+
 ---
 
 On the game’s 25th birthday, a devotee talks with creator Will Wright

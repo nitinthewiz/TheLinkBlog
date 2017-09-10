@@ -6,7 +6,11 @@ hash: 11616d755b821c289a4442b7acc9d4c9
 annum:
     year: 2005
     month: 08
-hostname: www.daddytypes.com
+url-parts:
+    scheme: http
+    host: www.daddytypes.com
+    path: /
+
 ---
 
 

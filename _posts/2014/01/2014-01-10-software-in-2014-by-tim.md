@@ -6,7 +6,11 @@ hash: 3cd6021ef12deb381903d2a44a981b55
 annum:
     year: 2014
     month: 01
-hostname: www.tbray.org
+url-parts:
+    scheme: http
+    host: www.tbray.org
+    path: /ongoing/When/201x/2014/01/01/Software-in-2014
+
 ---
 
 Were at an inflection point in the practice of constructing software. Our tools are good, our server developers are happy, but when it comes to building client-side software, we really dont know where were going or how to get there.

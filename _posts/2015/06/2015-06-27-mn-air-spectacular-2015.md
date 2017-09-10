@@ -6,7 +6,11 @@ hash: f6e58cd2a469419d8b962e9ac1adc782
 annum:
     year: 2015
     month: 06
-hostname: www.mnairspectacular.com
+url-parts:
+    scheme: http
+    host: www.mnairspectacular.com
+    path: /
+
 ---
 
 Mankato, MN. The airshow is a family-friendly event for all. Includes an exciting 2-day air performance and educational ground displays for kids & adults.

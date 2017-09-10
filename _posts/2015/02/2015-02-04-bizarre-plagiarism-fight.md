@@ -6,7 +6,11 @@ hash: 461a402ea3b07363ddfb9905b71bbeec
 annum:
     year: 2015
     month: 02
-hostname: internet.gawker.com
+url-parts:
+    scheme: http
+    host: internet.gawker.com
+    path: /bizarre-plagiarism-fight-erupts-after-two-people-take-e-1683552799
+
 ---
 
 The photo above was taken by Sarah Scurr on November 6, 2006, while Scurr was aboard a cruise ship near Chile's Northern Patagonian Ice Field. The photo below was taken by Marisol Ortiz Elfeldt on the same day, from the same ship, and looks nearly identical to Scurr's—a fact that recently led to a bizarre public row over accusations of plagiarism.

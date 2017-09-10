@@ -6,7 +6,11 @@ hash: 396e78e7bc25cec571475205331b7180
 annum:
     year: 2015
     month: 08
-hostname: quid.com
+url-parts:
+    scheme: http
+    host: quid.com
+    path: /
+
 ---
 
 

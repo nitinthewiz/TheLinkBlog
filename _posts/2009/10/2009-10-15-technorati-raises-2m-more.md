@@ -6,7 +6,11 @@ hash: 5189dce2c6b1fa58116e7b7e495ec23b
 annum:
     year: 2009
     month: 10
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/10/14/technorati-raises-2m-more/
+
 ---
 
 Blog search engine Technorati has raised $2 million in new funding from existing investors Draper Fisher Jurvetson, Mobius Venture Capital, and others. The San Francisco company has now raised more than $32 million.

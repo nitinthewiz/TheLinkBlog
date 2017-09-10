@@ -6,7 +6,11 @@ hash: fccec4c0ef158d6fdf4ba6cbb3ba2371
 annum:
     year: 2005
     month: 08
-hostname: www.ticalc.org
+url-parts:
+    scheme: http
+    host: www.ticalc.org
+    path: /archives/files/fileinfo/277/27767.html
+
 ---
 
 Your calculator can now play this classic game.

@@ -6,7 +6,11 @@ hash: 6663676197410ecde52d38b1ff9e496c
 annum:
     year: 2016
     month: 07
-hostname: americamagazine.org
+url-parts:
+    scheme: http
+    host: americamagazine.org
+    path: /issue/catholic-universities-and-blacklivesmatter
+
 ---
 
 When I was a young attorney in Chicago, I volunteered to teach anti-discrimination law to public housing residents facing relocation as part of the city

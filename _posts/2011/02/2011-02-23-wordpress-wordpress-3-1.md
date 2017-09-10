@@ -6,7 +6,11 @@ hash: e79c8eb1d0ac88e2a88d48cc0a5c3720
 annum:
     year: 2011
     month: 02
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /news/2011/02/threeone/
+
 ---
 
 RT @wordpress: Announcing WordPress 3.1: Internal linking, admin bar for quick editing access, post formats, and more! 

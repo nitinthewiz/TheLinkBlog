@@ -6,7 +6,11 @@ hash: 8e5aaa791367720fd4d9eb5d3d545cd8
 annum:
     year: 2015
     month: 11
-hostname: blog.getsentry.com
+url-parts:
+    scheme: http
+    host: blog.getsentry.com
+    path: /2015/11/04/sentry-hipchat-launched.html
+
 ---
 
 Sentry is more useful when notifications arrive exactly where you want them. That

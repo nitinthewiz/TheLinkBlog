@@ -6,7 +6,11 @@ hash: 80b662257c6c3b57afbd2a665168fc47
 annum:
     year: 2017
     month: 05
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /reviews/things-3-beauty-and-delight-in-a-task-manager/
+
 ---
 
 I’m a committed OmniFocus user but it's interesting to see what other task managers are doing. 

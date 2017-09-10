@@ -6,7 +6,11 @@ hash: 83796ae331aa7ccca536fe9a7ed14940
 annum:
     year: 2016
     month: 06
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /2016/06/22/a-new-email-trick-with-sanebox-spark-and-omnifocus/
+
 ---
 
 I

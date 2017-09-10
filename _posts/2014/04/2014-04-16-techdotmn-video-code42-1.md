@@ -6,7 +6,11 @@ hash: b6a55bf620a6ecdf86c2d6a1921e2aa4
 annum:
     year: 2014
     month: 04
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /i8h58
+
 ---
 
 Video: @code42 CEO @dornquast Interview [part 1]: 

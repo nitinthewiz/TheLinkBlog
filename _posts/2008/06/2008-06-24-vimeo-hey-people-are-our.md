@@ -6,7 +6,11 @@ hash: c4da831235587e12fc507e4bc4a098c4
 annum:
     year: 2008
     month: 06
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/6/vimeo-hey-people-are-watching-our-videos-
+
 ---
 
 Last month Barry Diller told investors that things were going swimingly at Vimeo, IAC's little video-sharing site. Not swimingly enough to consititute a real business -- the service is generating next to no revenues, Barry said -- but still, he was fond of it. He sort of talked about it as if it was a pet.

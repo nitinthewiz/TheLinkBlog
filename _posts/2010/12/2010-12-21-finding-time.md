@@ -6,7 +6,11 @@ hash: cef7f68f3bcd69a75ea1a71e8745b521
 annum:
     year: 2010
     month: 12
-hostname: www.orionmagazine.org
+url-parts:
+    scheme: http
+    host: www.orionmagazine.org
+    path: /index.php/articles/article/346/
+
 ---
 
 

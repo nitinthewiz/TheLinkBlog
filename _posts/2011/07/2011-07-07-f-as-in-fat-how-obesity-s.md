@@ -6,7 +6,11 @@ hash: d0f5ce24dcefd267236b4ac8703de22f
 annum:
     year: 2011
     month: 07
-hostname: www.healthyamericans.org
+url-parts:
+    scheme: http
+    host: www.healthyamericans.org
+    path: /report/88/
+
 ---
 
 1995: no state had >15% obesity. Today's report: 38 states >25% obesity. It is now a presidential level issue. 

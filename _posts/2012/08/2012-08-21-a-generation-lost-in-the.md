@@ -6,7 +6,12 @@ hash: 24f89de8f96b4b106547bc71dcaf4959
 annum:
     year: 2012
     month: 08
-hostname: queue.acm.org
+url-parts:
+    scheme: http
+    host: queue.acm.org
+    path: /detail.cfm
+    query:
+        id: "2349257"
 ---
 
 

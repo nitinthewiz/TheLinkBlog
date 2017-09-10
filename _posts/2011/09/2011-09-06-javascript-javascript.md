@@ -6,7 +6,11 @@ hash: 16faf172ba59f129ab0131aeb98de23e
 annum:
     year: 2011
     month: 09
-hostname: javascriptweblog.wordpress.com
+url-parts:
+    scheme: http
+    host: javascriptweblog.wordpress.com
+    path: /2010/09/27/the-secret-life-of-javascript-primitives/
+
 ---
 
 

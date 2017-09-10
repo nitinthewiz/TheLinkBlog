@@ -6,7 +6,11 @@ hash: b601518232b231f77676dae3be7b163e
 annum:
     year: 2012
     month: 08
-hostname: www.nbcolympics.com
+url-parts:
+    scheme: http
+    host: www.nbcolympics.com
+    path: /video/2012/top-nbc-moment-maroneys-vault.html
+
 ---
 
 Must-See Moment: Maroney's Amazing Vault 

@@ -6,7 +6,11 @@ hash: e8e4cf98cb6d93cc7b4b3c20b1e59862
 annum:
     year: 2010
     month: 07
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /13kqngj
+
 ---
 
 Looking forward to dinner.  

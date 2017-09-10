@@ -6,7 +6,11 @@ hash: 8071dcfe22eecda3173683be1aa2bd8e
 annum:
     year: 2017
     month: 07
-hostname: www.donotcall.gov
+url-parts:
+    scheme: https
+    host: www.donotcall.gov
+    path: /register/reg.aspx
+
 ---
 
 Make sure to register all your phone numbers here.

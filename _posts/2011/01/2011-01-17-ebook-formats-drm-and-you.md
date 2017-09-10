@@ -6,7 +6,11 @@ hash: b9d66307a615d80c0cb81f533490f254
 annum:
     year: 2011
     month: 01
-hostname: apprenticealf.wordpress.com
+url-parts:
+    scheme: http
+    host: apprenticealf.wordpress.com
+    path: /2011/01/13/ebooks-formats-drm-and-you-%E2%80%94-a-guide-for-the-perplexed/
+
 ---
 
 

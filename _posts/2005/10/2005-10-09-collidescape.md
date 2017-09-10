@@ -6,7 +6,11 @@ hash: 1a945b91df774c5c715b4b3ecdcefeae
 annum:
     year: 2005
     month: 10
-hostname: www.lfdcollidescape.com
+url-parts:
+    scheme: http
+    host: www.lfdcollidescape.com
+    path: /
+
 ---
 
 One way glass covering for privacy and bird safety.

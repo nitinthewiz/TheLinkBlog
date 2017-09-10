@@ -6,7 +6,11 @@ hash: 8a372cb6d626ef5627a3ad5bea859c42
 annum:
     year: 2011
     month: 12
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /blog/post/609/
+
 ---
 
 Introducing the Subscribe Button for Websites

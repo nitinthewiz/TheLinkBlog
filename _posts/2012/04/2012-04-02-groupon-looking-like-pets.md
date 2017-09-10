@@ -6,7 +6,11 @@ hash: ea7045cf3f8a9b04d34164f005ca3c1f
 annum:
     year: 2012
     month: 04
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/interesting-numbers-in-groupons-filing-2012-04-02
+
 ---
 
 Never been a fan of Groupon. Thinking I will be vindicated in that over the not too distant future.

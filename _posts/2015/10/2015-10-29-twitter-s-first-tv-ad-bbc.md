@@ -6,7 +6,11 @@ hash: b51a74b290077ca7549937f94090a60c
 annum:
     year: 2015
     month: 10
-hostname: www.bbc.com
+url-parts:
+    scheme: http
+    host: www.bbc.com
+    path: /news/technology-34668035
+
 ---
 
 Image copyright Twitter Image caption

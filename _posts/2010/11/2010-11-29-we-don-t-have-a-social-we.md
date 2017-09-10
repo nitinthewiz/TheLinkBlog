@@ -6,7 +6,11 @@ hash: 2b0d34ce0f7e5c822463eefcd0b842d9
 annum:
     year: 2010
     month: 11
-hostname: voices.washingtonpost.com
+url-parts:
+    scheme: http
+    host: voices.washingtonpost.com
+    path: /ezra-klein/2010/11/column_we_dont_have_a_social_s.html
+
 ---
 
 

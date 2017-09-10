@@ -6,7 +6,11 @@ hash: c644f5e76242c4a702f350ceff2b47b1
 annum:
     year: 2011
     month: 04
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /ideas-market/2011/04/05/the-montessori-mafia/
+
 ---
 
 

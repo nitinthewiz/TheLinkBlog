@@ -6,7 +6,11 @@ hash: 703dd3acac39a4ebdc3f68e23d992e1e
 annum:
     year: 2012
     month: 12
-hostname: inventwithpython.com
+url-parts:
+    scheme: http
+    host: inventwithpython.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,12 @@ hash: 78507465255d2cad3b639c559f1d2c07
 annum:
     year: 2011
     month: 01
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/01/09/us/politics/09giffords.html
+    query:
+        _r: "1"
 ---
 
 

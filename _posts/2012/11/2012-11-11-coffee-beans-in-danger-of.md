@@ -6,7 +6,11 @@ hash: 79ee175a896ebed2b710c4aea2a8fee5
 annum:
     year: 2012
     month: 11
-hostname: www.cbc.ca
+url-parts:
+    scheme: http
+    host: www.cbc.ca
+    path: /news/technology/coffee-beans-in-danger-of-extinction-1.1161456
+
 ---
 
 Uh oh.

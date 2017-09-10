@@ -6,7 +6,11 @@ hash: 4e11aa7dd868293df7b3dcdec6228ac9
 annum:
     year: 2012
     month: 01
-hostname: www.mcsweeneys.net
+url-parts:
+    scheme: http
+    host: www.mcsweeneys.net
+    path: /articles/in-which-i-fix-my-girlfriends-grandparents-wifi-and-am-hailed-as-a-conquering-hero
+
 ---
 
 

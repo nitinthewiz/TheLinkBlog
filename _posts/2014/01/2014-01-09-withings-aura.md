@@ -6,7 +6,11 @@ hash: 840da9ef3bec79288095c0b3adca7f2d
 annum:
     year: 2014
     month: 01
-hostname: www.withings.com
+url-parts:
+    scheme: http
+    host: www.withings.com
+    path: /us/aura/
+
 ---
 
 Withings Aura is a cleverly designed system that both monitors and positively impacts your sleep experience.

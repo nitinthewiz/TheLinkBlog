@@ -6,7 +6,11 @@ hash: 5d5f649cf143fedad7df74e35b652ce3
 annum:
     year: 2016
     month: 04
-hostname: blog.lusis.org
+url-parts:
+    scheme: http
+    host: blog.lusis.org
+    path: /blog/2016/04/17/review-site-reliability-engineering/
+
 ---
 
 This is a first for me. I

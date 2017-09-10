@@ -6,7 +6,11 @@ hash: 8aebea8f5214bd5ed053da9ead9fe750
 annum:
     year: 2016
     month: 04
-hostname: krebsonsecurity.com
+url-parts:
+    scheme: http
+    host: krebsonsecurity.com
+    path: /2016/04/fbi-2-3-billion-lost-to-ceo-email-scams/
+
 ---
 
 Amazing how effective this is. 

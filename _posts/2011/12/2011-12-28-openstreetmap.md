@@ -6,7 +6,11 @@ hash: b882f4ea63dae8366efbc4befb6e594a
 annum:
     year: 2011
     month: 12
-hostname: www.openstreetmap.org
+url-parts:
+    scheme: http
+    host: www.openstreetmap.org
+    path: /
+
 ---
 
 

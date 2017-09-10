@@ -6,7 +6,11 @@ hash: 1d10c76158e89260048686c44eeb6d3c
 annum:
     year: 2012
     month: 04
-hostname: loftresumes.com
+url-parts:
+    scheme: http
+    host: loftresumes.com
+    path: /
+
 ---
 
 Interesting service to create a beautifully typeset resume. On one hand it sounds like a really great idea, but I'm not convinced. As someone that sees a lot of resumes the reality is that these days they are usually presented in nearly unformatted text in some recruiting application. LinkedIn becomes a more readable resume. A paper resume is still key to bring with you to the interview though. But even then, I would worry that these resumes present something that the candidate is not. If you are someone that doesn't focus on design, but presents a gorgeously designed resume, it would seem odd. Since a resume is really the person, it feels like it would leave the person receiving it confused.

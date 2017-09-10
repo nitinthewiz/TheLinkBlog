@@ -6,7 +6,11 @@ hash: deb785bbe4f11d9bb101731a3f75019f
 annum:
     year: 2016
     month: 02
-hostname: qz.com
+url-parts:
+    scheme: http
+    host: qz.com
+    path: /609982/you-wont-be-happiest-until-you-turn-65-years-old/
+
 ---
 
 Will you ever be happy? The answer, it seems, is yes. Likely when you’re a bit older.

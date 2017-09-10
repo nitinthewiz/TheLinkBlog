@@ -6,7 +6,11 @@ hash: 8f93a1b9195b6bbf5ce81d733d1c1357
 annum:
     year: 2010
     month: 11
-hostname: www.projectskyway.com
+url-parts:
+    scheme: http
+    host: www.projectskyway.com
+    path: /project-skyway-inspires-entrepreneurs-at-startup-weekend-twin-cities-2/
+
 ---
 
 

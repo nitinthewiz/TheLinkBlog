@@ -6,7 +6,11 @@ hash: 2eed465f1b992308d37622a7dc54948c
 annum:
     year: 2011
     month: 05
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /hack/2011/05/run-linux-on-javascript.php
+
 ---
 
 Crazy cool.

@@ -6,7 +6,11 @@ hash: 65df6bad2139ac80f60cca260edebaeb
 annum:
     year: 2011
     month: 01
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /get-off-your-butt-16-ways-to-get-motivated-when-youre-in-a-slump/
+
 ---
 
 

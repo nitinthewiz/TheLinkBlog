@@ -6,7 +6,11 @@ hash: 7de5892d0c47c041344f0025b5f8a63c
 annum:
     year: 2009
     month: 12
-hostname: www.macworld.com
+url-parts:
+    scheme: http
+    host: www.macworld.com
+    path: /article/1145043/gemsoftheyear.html
+
 ---
 
 I use a bunch of these.

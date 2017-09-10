@@ -6,7 +6,11 @@ hash: 0e41448a5a2537b06c7e298110cf8673
 annum:
     year: 2006
     month: 05
-hostname: www.klein.com
+url-parts:
+    scheme: http
+    host: www.klein.com
+    path: /thermd/
+
 ---
 
 

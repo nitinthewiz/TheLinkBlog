@@ -6,7 +6,12 @@ hash: 675ecb83cc9d63d713a9a9f37888dca4
 annum:
     year: 2016
     month: 10
-hostname: dose.com
+url-parts:
+    scheme: https
+    host: dose.com
+    path: /dear-dudes-im-a-man-who-can-explain-rape-culture-to-you-6696f4b3e0a0
+    query:
+        source: "twitterShare-c290201347ab-1477698377"
 ---
 
 This week, Dose did a live stream called 

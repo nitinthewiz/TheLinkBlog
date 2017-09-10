@@ -6,7 +6,11 @@ hash: f8ab0e4548d123706d34fc63b3a80b30
 annum:
     year: 2009
     month: 04
-hostname: www.violet.net
+url-parts:
+    scheme: http
+    host: www.violet.net
+    path: /_nabaztag-the-first-rabbit-connected-to-the-internet.html
+
 ---
 
 Anyone else have a Nabaztag WiFi Rabbit? Mine is at thinglestag@things.violet.net if you want to connect. 

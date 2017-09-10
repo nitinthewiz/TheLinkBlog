@@ -6,7 +6,11 @@ hash: ffc684c8f53734d45f2fe6816451fde0
 annum:
     year: 2012
     month: 12
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /49753231
+
 ---
 
 Very cool video.

@@ -6,7 +6,11 @@ hash: ff51d1b00d72fe528aa62cdca3446d0f
 annum:
     year: 2014
     month: 12
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /jezhumble/status/540671651180851200
+
 ---
 
 

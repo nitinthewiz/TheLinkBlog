@@ -6,7 +6,11 @@ hash: 14bdb1068eadb5f2b5a893cb5ec3283d
 annum:
     year: 2008
     month: 12
-hostname: regex.info
+url-parts:
+    scheme: http
+    host: regex.info
+    path: /blog/2008-12-03/1016
+
 ---
 
 

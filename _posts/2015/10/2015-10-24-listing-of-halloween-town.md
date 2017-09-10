@@ -6,7 +6,11 @@ hash: 56a5d0bc993b4cbad67102b3e65b9382
 annum:
     year: 2015
     month: 10
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /news/notes/listing-of-halloween-parties-around-town
+
 ---
 
 The following highlights Halloween parties and other fall events in Southwest Minneapolis.

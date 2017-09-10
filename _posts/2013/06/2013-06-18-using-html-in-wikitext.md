@@ -6,7 +6,11 @@ hash: 6e547b973e627245917a092d50f5a2e4
 annum:
     year: 2013
     month: 06
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Help:HTML_in_wikitext
+
 ---
 
 

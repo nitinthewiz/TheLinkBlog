@@ -6,7 +6,11 @@ hash: efa2a7407c07728a762975116461b684
 annum:
     year: 2008
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
+
 ---
 
 The much-anticipated Wall Street Journal print redesign is launching tomorrow, as this long Newsweek story writes about, including positioning it as Rupert Murdoch's full frontal assault on the New York Times (NYSE: NYT). The series of editorial and design changes, which is more evolutionary than revolutionary, will include:

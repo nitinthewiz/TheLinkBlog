@@ -6,7 +6,11 @@ hash: a35a44ac815454a287fba15be3128934
 annum:
     year: 2017
     month: 08
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /antoinet/valora
+
 ---
 
 

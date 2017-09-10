@@ -6,7 +6,11 @@ hash: ff7ac728e7bbf22d351b5b5467d88d5c
 annum:
     year: 2011
     month: 06
-hostname: inessential.com
+url-parts:
+    scheme: http
+    host: inessential.com
+    path: /2011/06/15/what_we_talk_about_when_we_talk_about_rs
+
 ---
 
 

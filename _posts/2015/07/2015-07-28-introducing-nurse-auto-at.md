@@ -6,7 +6,11 @@ hash: b9de8192e3f4f0794ba610b199d9ccd7
 annum:
     year: 2015
     month: 07
-hostname: engineering.linkedin.com
+url-parts:
+    scheme: http
+    host: engineering.linkedin.com
+    path: /sre/introducing-nurse-auto-remediation-linkedin
+
 ---
 
 We're seeking intelligent problem solvers who are inspired and motivated to change the world.

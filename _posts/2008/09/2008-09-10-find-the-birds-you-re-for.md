@@ -6,7 +6,11 @@ hash: 55f7c044239b373bdad3da9ced541b04
 annum:
     year: 2008
     month: 09
-hostname: birdpost.com
+url-parts:
+    scheme: http
+    host: birdpost.com
+    path: /
+
 ---
 
 @PhilipHotchkiss Apparently others like it to.  is not loading right. :-)

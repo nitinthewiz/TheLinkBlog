@@ -6,7 +6,11 @@ hash: 2501f8aec3b2f487ca53f01a2c51088a
 annum:
     year: 2017
     month: 05
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/ios-11-ipad-wishes-and-concept-video/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 87fe137a4c3e384473f06970c713a321
 annum:
     year: 2017
     month: 03
-hostname: anniemueller.com
+url-parts:
+    scheme: http
+    host: anniemueller.com
+    path: /2017/03/24/simple-rules-continued/
+
 ---
 
 

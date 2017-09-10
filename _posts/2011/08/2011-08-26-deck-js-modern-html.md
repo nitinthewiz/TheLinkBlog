@@ -6,7 +6,11 @@ hash: 6cea6274e9b901bb87d878202b6b5849
 annum:
     year: 2011
     month: 08
-hostname: imakewebthings.github.com
+url-parts:
+    scheme: http
+    host: imakewebthings.github.com
+    path: /deck.js/
+
 ---
 
 

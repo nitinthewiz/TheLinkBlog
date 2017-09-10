@@ -6,7 +6,12 @@ hash: 24789d2e32db5522f4bf80bc6bfb9d95
 annum:
     year: 2010
     month: 12
-hostname: news.ycombinator.com
+url-parts:
+    scheme: https
+    host: news.ycombinator.com
+    path: /item
+    query:
+        id: "590993"
 ---
 
 

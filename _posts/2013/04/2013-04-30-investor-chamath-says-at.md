@@ -6,7 +6,11 @@ hash: 689df4221cfb14395edefc7f9c00f949
 annum:
     year: 2013
     month: 04
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2013/04/29/chamath-palihapitiya-disrupt/
+
 ---
 
 Palihapitiya was interviewed onstage at our Disrupt NY conference. He argued that in contrast to past decades, where tech entrepreneurs were inventing silicon chips, putting computers on every desktop, or wiring the world, were now rehashing ideas from 2003.

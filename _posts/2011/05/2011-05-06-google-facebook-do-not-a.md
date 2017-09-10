@@ -6,7 +6,11 @@ hash: 3ddfaf54ce8ac2475f1a6302179f105a
 annum:
     year: 2011
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /tech-policy/news/2011/05/google-facebook-fight-california-do-not-track-law.ars
+
 ---
 
 

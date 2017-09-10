@@ -6,7 +6,11 @@ hash: 97cfc2d9fb4b99576f0715c47707f9d5
 annum:
     year: 2008
     month: 05
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2008/05/26/cover-stream-yet-another-awesome-itunes-controller/
+
 ---
 
 These days it seems like iTunes controllers are a dime a dozen, and for the most part, that would be right. However, not all iTunes controllers are created equal, a principle perfectly demonstrated by Cover Stream, an awesome app from the people over at SNARB.TK. This awesome app takes all of the best features from a bunch of other iTunes controller apps and rolls those features into a streamlined, functional application that will make browsing your music a pleasure.

@@ -6,7 +6,11 @@ hash: 06351eb623c77c2670a8b156895b5dc3
 annum:
     year: 2013
     month: 03
-hostname: orange.biolab.si
+url-parts:
+    scheme: http
+    host: orange.biolab.si
+    path: /
+
 ---
 
 Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining. Packed with features for data analytics.

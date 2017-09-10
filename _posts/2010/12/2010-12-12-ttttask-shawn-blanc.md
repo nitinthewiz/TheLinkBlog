@@ -6,7 +6,11 @@ hash: 7d5be330bc910b45b0c4caa4ed23a33a
 annum:
     year: 2010
     month: 12
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2010/08/ttttask/
+
 ---
 
 

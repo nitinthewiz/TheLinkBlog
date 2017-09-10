@@ -6,7 +6,11 @@ hash: 77c22ed0852877236e73cc3b8883e2bd
 annum:
     year: 2008
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/05/07/one-to-watch-delish/
+
 ---
 
 I have a confession: even though I have a del.icio.us account with hundreds of bookmarks saved in it, I almost never look at it. Thats because the relentlessly textual presentation just doesnt click with me. A new OS X del.icio.us client, Delish (now in beta), just might change that for me. The key here is that it presents all of your links, tags, and bundles with graphical thumbnails, rather than as just another list. Indeed, the interface is almost exactly that of iPhoto, just transmuted to work with the site instead of with photos.

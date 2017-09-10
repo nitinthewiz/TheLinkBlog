@@ -6,7 +6,11 @@ hash: 50d1302073798b03ee5bd8f778ba72cc
 annum:
     year: 2012
     month: 07
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /local/west/162817346.html
+
 ---
 
 Ira is a friend of mine. Nice to see him in this article and taking a strong position. The rest of the article is infuriating and highlights how far society has to go on gay rights. Two quotes from mothers terming this discriminatory practice as "protecting" their kids saddens me.

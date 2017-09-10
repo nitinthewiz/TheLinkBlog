@@ -6,7 +6,12 @@ hash: b25edff5bcbe08429e37b7aed1307843
 annum:
     year: 2015
     month: 09
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/8x8-announces-new-integration-with-salesforce-for-enterprise-cloud-communications-2015-09-15
+    query:
+        siteid: "nbsh"
 ---
 
 

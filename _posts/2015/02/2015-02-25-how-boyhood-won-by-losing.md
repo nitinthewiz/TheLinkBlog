@@ -6,7 +6,11 @@ hash: e48f911e8bc8cf2bfda606ecc83e2374
 annum:
     year: 2015
     month: 02
-hostname: thedissolve.com
+url-parts:
+    scheme: http
+    host: thedissolve.com
+    path: /features/honorable-mentions/934-how-boyhood-won-by-losing/
+
 ---
 
 Birdman may have been a deserving winner, but not getting to see Linklater collect either the Best Picture or Best Director Oscar feels ...

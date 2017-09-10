@@ -6,7 +6,11 @@ hash: 013e5ef7a9b48c084e35d4d8156c704f
 annum:
     year: 2008
     month: 03
-hostname: pragdave.blogs.pragprog.com
+url-parts:
+    scheme: http
+    host: pragdave.blogs.pragprog.com
+    path: /pragdave/2008/03/the-language-in.html
+
 ---
 
 

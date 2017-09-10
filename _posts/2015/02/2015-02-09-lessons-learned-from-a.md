@@ -6,7 +6,11 @@ hash: 9ca347a6b74f1cdeab470dc6be255189
 annum:
     year: 2015
     month: 02
-hostname: blog.intercom.io
+url-parts:
+    scheme: http
+    host: blog.intercom.io
+    path: /how-we-build-software/
+
 ---
 
 

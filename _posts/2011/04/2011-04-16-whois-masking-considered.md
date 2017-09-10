@@ -6,7 +6,11 @@ hash: 250e54c45a0071a4456707c0f30a93e3
 annum:
     year: 2011
     month: 04
-hostname: www.circleid.com
+url-parts:
+    scheme: http
+    host: www.circleid.com
+    path: /posts/20081120_whois_masking_considered_harmful/
+
 ---
 
 Via iWantMyName’s FAQ on why they don’t offer a “domain privacy” service:

@@ -6,7 +6,11 @@ hash: 133a940e16ad59903d2c1502464c1fe3
 annum:
     year: 2015
     month: 10
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+
 ---
 
 

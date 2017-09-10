@@ -6,7 +6,11 @@ hash: db805b4ec0cfb020fd558b1f68be4583
 annum:
     year: 2013
     month: 09
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2013/09/06/us/nsa-foils-much-internet-encryption.html
+
 ---
 
 Amazing article.

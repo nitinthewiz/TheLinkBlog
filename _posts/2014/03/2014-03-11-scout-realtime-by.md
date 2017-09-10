@@ -6,7 +6,11 @@ hash: d010286a3d9c7444b1a8321af043a735
 annum:
     year: 2014
     month: 03
-hostname: scoutapp.github.io
+url-parts:
+    scheme: http
+    host: scoutapp.github.io
+    path: /scout_realtime/
+
 ---
 
 

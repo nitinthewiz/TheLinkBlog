@@ -6,7 +6,11 @@ hash: 5029bebcaf782f5be4b9672df8c34745
 annum:
     year: 2017
     month: 05
-hostname: wheregoes.com
+url-parts:
+    scheme: http
+    host: wheregoes.com
+    path: /
+
 ---
 
 WhereGoes does 1 thing: it takes a URL and shows you the entire path of redirects and meta-refreshes that leads to the final destination.

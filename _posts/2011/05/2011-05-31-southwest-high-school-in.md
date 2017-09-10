@@ -6,7 +6,11 @@ hash: bbb9ea9e60aeba17f029126e438a3f82
 annum:
     year: 2011
     month: 05
-hostname: southwestminneapolis.patch.com
+url-parts:
+    scheme: http
+    host: southwestminneapolis.patch.com
+    path: /articles/southwest-high-school-rated-best-high-school-in-minnesota-2
+
 ---
 
 Southwest High School was named the top Minnesota high school in the Washington Post's annual rankings.  

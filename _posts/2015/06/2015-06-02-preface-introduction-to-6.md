@@ -6,7 +6,11 @@ hash: a017fab88efbc9750cf160712e63c8fb
 annum:
     year: 2015
     month: 06
-hostname: work.thaslwanter.at
+url-parts:
+    scheme: http
+    host: work.thaslwanter.at
+    path: /Stats/html/
+
 ---
 
 

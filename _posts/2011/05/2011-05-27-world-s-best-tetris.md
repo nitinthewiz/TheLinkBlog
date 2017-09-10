@@ -6,7 +6,11 @@ hash: de6c4c23f4a4383ee71a07d455932e4b
 annum:
     year: 2011
     month: 05
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/05/worlds-best-tetris-player
+
 ---
 
 You think you're good at Tetris? Think again. Hell, you think you're good at anything? Think again, again! Tetris grandmaster Jin8 shows you how it's done:

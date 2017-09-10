@@ -6,7 +6,11 @@ hash: 38aab13deb44aa66b82ffc3d69cc5f5b
 annum:
     year: 2012
     month: 03
-hostname: meta.wikimedia.org
+url-parts:
+    scheme: http
+    host: meta.wikimedia.org
+    path: /wiki/Wikidata/Notes/ContentHandler
+
 ---
 
 Interesting proposal that is very similar to an idea I pondered around blogging engines.

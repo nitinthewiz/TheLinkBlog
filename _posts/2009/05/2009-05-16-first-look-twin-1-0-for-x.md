@@ -6,7 +6,11 @@ hash: e7f218770a160bc11a3283031894e938
 annum:
     year: 2009
     month: 05
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/05/15/first-look-twin-1-0-for-mac-os-x/
+
 ---
 
 Filed under: Software, Odds and ends, First Look

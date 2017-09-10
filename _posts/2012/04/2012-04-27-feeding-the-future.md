@@ -6,7 +6,11 @@ hash: 32f2f856933e3b0aa031072926babed0
 annum:
     year: 2012
     month: 04
-hostname: wilsonquarterly.com
+url-parts:
+    scheme: http
+    host: wilsonquarterly.com
+    path: /web-exclusive/slideshow-feeding-future
+
 ---
 
 

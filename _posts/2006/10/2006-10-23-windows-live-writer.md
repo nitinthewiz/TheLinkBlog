@@ -6,7 +6,11 @@ hash: 28e72a367275571d84fb474444b1f607
 annum:
     year: 2006
     month: 10
-hostname: windowslivewriter.spaces.live.com
+url-parts:
+    scheme: http
+    host: windowslivewriter.spaces.live.com
+    path: /blog/cns!D85741BB5E0BE8AA!174.entry
+
 ---
 
 Windows Live Writer is a desktop application that makes it easier to compose compelling blog posts using Windows Live Spaces or your current blog service.

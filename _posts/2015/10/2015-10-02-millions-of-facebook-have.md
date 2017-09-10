@@ -6,7 +6,11 @@ hash: 3fe6aa4410e55270e259e84f04d21505
 annum:
     year: 2015
     month: 10
-hostname: qz.com
+url-parts:
+    scheme: http
+    host: qz.com
+    path: /333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/
+
 ---
 
 It was in Indonesia three years ago that Helani Galpaya first noticed the anomaly. Indonesians surveyed by Galpaya told her that they didn’t use the internet. But in focus groups, they would talk&hellip;

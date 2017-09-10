@@ -6,7 +6,11 @@ hash: 95c6a2b94501c2e9e6af5e3a58030dcf
 annum:
     year: 2017
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /news/watchos-4-introduces-proactive-watch-face-streamlined-navigation-and-fresh-refinements/
+
 ---
 
 This looks interesting, but will have to be experienced. watchOS is definitely a fabulous place to put intelligence.

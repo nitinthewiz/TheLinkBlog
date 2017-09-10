@@ -6,7 +6,11 @@ hash: 9da1b88242e8b543338f9dacc1665899
 annum:
     year: 2006
     month: 01
-hostname: dean.edwards.name
+url-parts:
+    scheme: http
+    host: dean.edwards.name
+    path: /weblog/2005/12/js-tip1/
+
 ---
 
 

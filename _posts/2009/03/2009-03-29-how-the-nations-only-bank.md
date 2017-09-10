@@ -6,7 +6,11 @@ hash: 5794d3fdaa97cbc534dd498f95dc7402
 annum:
     year: 2009
     month: 03
-hostname: www.motherjones.com
+url-parts:
+    scheme: http
+    host: www.motherjones.com
+    path: /mojo/2009/03/how-nation%E2%80%99s-only-state-owned-bank-became-envy-wall-street
+
 ---
 
 The Bank of North Dakota is the only state-owned bank in America—what Republicans might call an idiosyncratic bastion of socialism. It also earned a record profit last year even as its private-sector corollaries lost billions. To be sure, it owes some

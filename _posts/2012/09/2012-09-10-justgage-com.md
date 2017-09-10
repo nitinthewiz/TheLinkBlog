@@ -6,7 +6,11 @@ hash: 0f9dee1c98724472c3626b572f1ced9e
 annum:
     year: 2012
     month: 09
-hostname: justgage.com
+url-parts:
+    scheme: http
+    host: justgage.com
+    path: /
+
 ---
 
 Handy little Javascript gage widgets. Great for dashboards.

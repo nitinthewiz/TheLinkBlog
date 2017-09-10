@@ -6,7 +6,11 @@ hash: bcf899dd515ca36f166ba8272dd9f18b
 annum:
     year: 2012
     month: 08
-hostname: me.usharbors.com
+url-parts:
+    scheme: http
+    host: me.usharbors.com
+    path: /monthly-tides/Maine-Midcoast/Port%20Clyde
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: dd8802b06201406d72640f52a29dbf17
 annum:
     year: 2015
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /deaghean/omnifocus-perspective-icons
+
 ---
 
 I've developed a set of icons that is specifically designed to work well with The Omni Group's OmniFocus 2 software. Feel free to use these icons for whatever you like.

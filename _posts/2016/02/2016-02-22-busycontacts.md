@@ -6,7 +6,11 @@ hash: 0faf6a670465eb9492d4f5bcac2d9afb
 annum:
     year: 2016
     month: 02
-hostname: www.busymac.com
+url-parts:
+    scheme: http
+    host: www.busymac.com
+    path: /busycontacts/
+
 ---
 
 BusyContacts is a contact manager for OS X that makes creating, finding, and managing contacts faster and more efficient.

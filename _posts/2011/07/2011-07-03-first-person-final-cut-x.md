@@ -6,7 +6,11 @@ hash: 696df4640bac7cd63ebe1a51a1002251
 annum:
     year: 2011
     month: 07
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/07/03/first-person-final-cut-pro-x-day-three-media-management/
+
 ---
 
 

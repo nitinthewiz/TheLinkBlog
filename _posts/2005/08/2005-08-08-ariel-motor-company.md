@@ -6,7 +6,11 @@ hash: af55d4ccca2e75f5102e59c8db11893b
 annum:
     year: 2005
     month: 08
-hostname: www.arielatom.com
+url-parts:
+    scheme: http
+    host: www.arielatom.com
+    path: /
+
 ---
 
 Whacky, out there car that looks quite cool.

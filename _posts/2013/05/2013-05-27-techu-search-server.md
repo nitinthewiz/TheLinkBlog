@@ -6,7 +6,11 @@ hash: 9924ef52e162407152fb656e8673f0fc
 annum:
     year: 2013
     month: 05
-hostname: georgepsarakis.github.io
+url-parts:
+    scheme: http
+    host: georgepsarakis.github.io
+    path: /techu-search-server/
+
 ---
 
 

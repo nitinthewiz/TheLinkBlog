@@ -6,7 +6,11 @@ hash: 9e53b95e4b72c42bd7228376fb2b1b97
 annum:
     year: 2010
     month: 08
-hostname: blog.twilio.com
+url-parts:
+    scheme: http
+    host: blog.twilio.com
+    path: /2010/08/how-to-port-your-212-landline-to-twilio-forward-to-your-mobile-phone.html
+
 ---
 
 I read a post today in the Wall Street Journal about how early adopters want to get 212 numbers, one of the earliest area codes in New York City, for their cell phones.  Across the United States there are regions where literally all numbers in an area code have been allocated.  As the logic goes, there is a vanity element to having an older number -- in the case of New York City that number begins with 212.

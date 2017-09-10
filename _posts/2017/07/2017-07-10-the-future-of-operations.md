@@ -6,7 +6,11 @@ hash: 6291ed7e0b8f4b5a9f8ccb061decc981
 annum:
     year: 2017
     month: 07
-hostname: blogs.forrester.com
+url-parts:
+    scheme: http
+    host: blogs.forrester.com
+    path: /robert_stroud/17-07-06-the_future_of_operations_a_developer
+
 ---
 
 Good article on the blurring that is occurring in traditional roles between what has been operations and development. 

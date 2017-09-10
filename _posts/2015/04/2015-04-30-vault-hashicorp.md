@@ -6,7 +6,11 @@ hash: 6e2f5c09720dcced96c6c7db669ce412
 annum:
     year: 2015
     month: 04
-hostname: www.hashicorp.com
+url-parts:
+    scheme: https
+    host: www.hashicorp.com
+    path: /blog/vault.html
+
 ---
 
 

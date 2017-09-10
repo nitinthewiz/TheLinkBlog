@@ -6,7 +6,11 @@ hash: 6b7feefa478cfa56ce40ccbc042de8bb
 annum:
     year: 2017
     month: 08
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /franklin-barbecue-a-meat-smoking-manifesto-by-aaron-franklin-and-jordan-mackay/
+
 ---
 
 I must have this book. Must! 🔥

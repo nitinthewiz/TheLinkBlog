@@ -6,7 +6,11 @@ hash: 9815f72d94e9b82aca46ac26bb5a549e
 annum:
     year: 2010
     month: 07
-hostname: searchengineland.com
+url-parts:
+    scheme: http
+    host: searchengineland.com
+    path: /google-takes-on-travel-sites-courts-ftc-action-with-ita-acquisition-45590
+
 ---
 
 Greg Sterling:

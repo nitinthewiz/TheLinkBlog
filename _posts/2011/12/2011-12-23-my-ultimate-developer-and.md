@@ -6,7 +6,11 @@ hash: 8fa7e85a6f1b8ede37b3646bb2166def
 annum:
     year: 2011
     month: 12
-hostname: carpeaqua.com
+url-parts:
+    scheme: http
+    host: carpeaqua.com
+    path: /2011/12/19/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2011-edition-/
+
 ---
 
 

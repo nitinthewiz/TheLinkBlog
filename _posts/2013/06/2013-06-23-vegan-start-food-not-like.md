@@ -6,7 +6,11 @@ hash: 5d83dea3aeed29060c263b0700826091
 annum:
     year: 2013
     month: 06
-hostname: veganstart.com
+url-parts:
+    scheme: http
+    host: veganstart.com
+    path: /
+
 ---
 
 

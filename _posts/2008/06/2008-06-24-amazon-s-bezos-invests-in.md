@@ -6,7 +6,11 @@ hash: 518b9ba686ab79b450cfeafd37b62d0e
 annum:
     year: 2008
     month: 06
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2008/06/24/amazons_bezos_invests_in_twitt
+
 ---
 
 Twitter just announced yet another sum of funding, this including money from Amazon.com founder Jeff Bezo's fund Bezos Expeditions.  The company says the money will be spent on building up its infrastructure and reliability to become the communications utility it needs to be before it can become profitable.

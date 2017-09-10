@@ -6,7 +6,11 @@ hash: 9c683310da15e0944b04bf64c8d1d030
 annum:
     year: 2007
     month: 12
-hostname: talkingbiznews.com
+url-parts:
+    scheme: http
+    host: talkingbiznews.com
+    path: /1/why-wsj-publisher-crovitz-bailed/
+
 ---
 
 

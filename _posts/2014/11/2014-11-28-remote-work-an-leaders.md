@@ -6,7 +6,11 @@ hash: ba47b30ddd314da01c6380972a10849e
 annum:
     year: 2014
     month: 11
-hostname: dec0de.me
+url-parts:
+    scheme: http
+    host: dec0de.me
+    path: /2014/11/remote/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a9232b3f8d5dfb54df698a7637d7ca93
 annum:
     year: 2011
     month: 04
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/04/23/minnebar-spring-2011/
+
 ---
 
 

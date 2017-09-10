@@ -6,7 +6,11 @@ hash: 72fb248f66a4112a5bf508ad689ecee7
 annum:
     year: 2005
     month: 09
-hostname: www.sonos.com
+url-parts:
+    scheme: http
+    host: www.sonos.com
+    path: /
+
 ---
 
 stream digital music wirelessly from PC to any speakers in your home

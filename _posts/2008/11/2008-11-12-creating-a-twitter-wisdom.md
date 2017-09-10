@@ -6,7 +6,11 @@ hash: cd51bbe9373ccc59cddd30a2a97ba820
 annum:
     year: 2008
     month: 11
-hostname: blueleafcreative.wordpress.com
+url-parts:
+    scheme: http
+    host: blueleafcreative.wordpress.com
+    path: /2008/11/10/creating-a-twitter-background/
+
 ---
 
 

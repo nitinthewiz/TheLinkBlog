@@ -6,7 +6,11 @@ hash: 43421d04340d21d40335d4ee61af44b1
 annum:
     year: 2012
     month: 10
-hostname: boingboing.net
+url-parts:
+    scheme: http
+    host: boingboing.net
+    path: /2012/04/13/how-to-blog.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f1bcfb7d5f2b68903e3bd75fc87234c6
 annum:
     year: 2012
     month: 04
-hostname: ipv6.chappell-family.com
+url-parts:
+    scheme: http
+    host: ipv6.chappell-family.com
+    path: /ipv6tcptest/
+
 ---
 
 /3), irrespective of your IPv6 provider or device operating system. See the default port list. So far over 5361 portscans of IPv6 hosts have been completed.

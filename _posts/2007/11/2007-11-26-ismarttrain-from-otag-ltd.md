@@ -6,7 +6,11 @@ hash: 194d4b175c771a4c552e82e258869850
 annum:
     year: 2007
     month: 11
-hostname: www.ismarttrain.com
+url-parts:
+    scheme: http
+    host: www.ismarttrain.com
+    path: /index.php
+
 ---
 
 iSMARTtrain is our training solution for Macintosh and Windows computers.

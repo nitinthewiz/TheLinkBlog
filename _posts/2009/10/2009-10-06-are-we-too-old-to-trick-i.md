@@ -6,7 +6,11 @@ hash: 19c400e7776869dcdfbf9804e51fade1
 annum:
     year: 2009
     month: 10
-hostname: www.kungfugrippe.com
+url-parts:
+    scheme: http
+    host: www.kungfugrippe.com
+    path: /post/204206094
+
 ---
 
 Are we too old to trick or treat? | Ask Metafilter [comment]

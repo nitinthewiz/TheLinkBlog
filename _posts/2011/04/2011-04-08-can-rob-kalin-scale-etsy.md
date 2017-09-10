@@ -6,7 +6,11 @@ hash: b82a1851887fcd88e89abd997cfd521f
 annum:
     year: 2011
     month: 04
-hostname: www.inc.com
+url-parts:
+    scheme: http
+    host: www.inc.com
+    path: /magazine/20110401/can-rob-kalin-scale-etsy_Printer_Friendly.html
+
 ---
 
 An army of 400,000 crafters has made Etsy a hot start-up: profitable, well capitalized, growing. Now founder Rob Kalin is looking for ways to make them successful.

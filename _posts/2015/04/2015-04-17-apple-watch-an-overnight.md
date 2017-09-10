@@ -6,7 +6,11 @@ hash: a84d5a5659c554cf08d097f42aac8b65
 annum:
     year: 2015
     month: 04
-hostname: carlhowe.com
+url-parts:
+    scheme: http
+    host: carlhowe.com
+    path: /blog/apple-watch-an-overnight-multi-billion-dollar-business/
+
 ---
 
 

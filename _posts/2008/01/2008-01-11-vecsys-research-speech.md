@@ -6,7 +6,11 @@ hash: 04b947995e1500ee668723bdb348f2a1
 annum:
     year: 2008
     month: 01
-hostname: www.vocapia.com
+url-parts:
+    scheme: http
+    host: www.vocapia.com
+    path: /
+
 ---
 
 Vecsys-Research develops speech processing technologies for multilingual, large vocabulary speech recognition (speech-to-text), automatic audio segmentation, language identification and speaker recognition. We also develop core speech recognizer engines f

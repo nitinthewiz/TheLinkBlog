@@ -6,7 +6,11 @@ hash: 12a022a71aa64f0a75c636e5452f47cd
 annum:
     year: 2011
     month: 09
-hostname: channel9.msdn.com
+url-parts:
+    scheme: http
+    host: channel9.msdn.com
+    path: /events/BUILD/BUILD2011/BPS-1004
+
 ---
 
 

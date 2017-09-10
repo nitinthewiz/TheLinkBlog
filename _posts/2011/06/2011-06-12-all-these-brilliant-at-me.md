@@ -6,7 +6,11 @@ hash: 152d1b4a317ab63f0cb1376d0378dfd8
 annum:
     year: 2011
     month: 06
-hostname: hueniverse.com
+url-parts:
+    scheme: http
+    host: hueniverse.com
+    path: /2010/11/all-these-brilliant-people-at-facebook-make-me-sad/
+
 ---
 
 This pretty much sums up how I feet about Facebook: . Couldn't have said it better.

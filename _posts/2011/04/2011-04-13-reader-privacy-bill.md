@@ -6,7 +6,11 @@ hash: d16fa6757b0fa972d0ef52a49d1db9de
 annum:
     year: 2011
     month: 04
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2011/04/reader-privacy-bill-passed-through-california
+
 ---
 
 Good!

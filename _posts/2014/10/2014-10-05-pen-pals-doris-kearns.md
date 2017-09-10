@@ -6,7 +6,11 @@ hash: cdbb97990b29c4459fd557472c59824e
 annum:
     year: 2014
     month: 10
-hostname: www.hopkinsartscenter.com
+url-parts:
+    scheme: http
+    host: www.hopkinsartscenter.com
+    path: /events/event/pen-pals-doris-kearns-goodwin/
+
 ---
 
 

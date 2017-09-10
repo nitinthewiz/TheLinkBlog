@@ -6,7 +6,11 @@ hash: 82f53b2c9dd75000b9c71ee5a0a446f1
 annum:
     year: 2015
     month: 07
-hostname: mdavidovich.com
+url-parts:
+    scheme: http
+    host: mdavidovich.com
+    path: /a-day-for-brutally-honest-review/
+
 ---
 
 July 1st. The perfect day to pause and to reflect on how this year is going.

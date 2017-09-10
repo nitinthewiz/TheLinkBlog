@@ -6,7 +6,11 @@ hash: acad165587657e9f1f1f26b9580b3d84
 annum:
     year: 2005
     month: 09
-hostname: www.luminous-landscape.com
+url-parts:
+    scheme: http
+    host: www.luminous-landscape.com
+    path: /tutorials/hdr.shtml
+
 ---
 
 How to work with HDR functions

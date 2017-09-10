@@ -6,7 +6,11 @@ hash: f4949632580eea727043dc28adda4a80
 annum:
     year: 2010
     month: 07
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/major_newspaper_chain_goes_open_source.php
+
 ---
 
 The argument over the utility of open source has one more voter in the yes camp. This time, it's the Journal Register Company, a U.S. newspaper chain with 170 publications. 

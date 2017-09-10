@@ -6,7 +6,11 @@ hash: ffd59fa4df7177463ffab56b66f909f4
 annum:
     year: 2011
     month: 10
-hostname: www.inc.com
+url-parts:
+    scheme: http
+    host: www.inc.com
+    path: /inc5000/list/metro/minneapolis
+
 ---
 
 

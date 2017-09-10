@@ -6,7 +6,11 @@ hash: d4a120971f81c4891d2d90bddd7ef084
 annum:
     year: 2011
     month: 01
-hostname: cloudfront-files-1.iwatchnews.org
+url-parts:
+    scheme: http
+    host: cloudfront-files-1.iwatchnews.org
+    path: /documents/pdfs/The_Pearl_Project.pdf
+
 ---
 
 An exhaustive account of the kidnapping and murder of reporter Danny Pearl

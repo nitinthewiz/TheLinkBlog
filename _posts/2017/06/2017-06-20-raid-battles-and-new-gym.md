@@ -6,7 +6,11 @@ hash: 1386e97fd9595f24daca25488f07e0fd
 annum:
     year: 2017
     month: 06
-hostname: pokemongolive.com
+url-parts:
+    scheme: http
+    host: pokemongolive.com
+    path: /en/post/raids
+
 ---
 
 I ignored Pokémon GO for a long time but my son was really into it. He wanted to progress levels and battle in gyms. I started helping him and then *I started getting into It!* It's fun to see Niantic doing a *massive* rethink of a such a critical part of the game. The changes will be welcome though as gym battles are ridiculously hard for new players coming into the game.

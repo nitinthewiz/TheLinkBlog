@@ -6,7 +6,11 @@ hash: 2b98f3a2b0307c69e40297d0743b8a2d
 annum:
     year: 2011
     month: 08
-hostname: thenounproject.com
+url-parts:
+    scheme: http
+    host: thenounproject.com
+    path: /
+
 ---
 
 

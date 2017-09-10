@@ -6,7 +6,11 @@ hash: 939f9a05abfb8c7600cfcca53cd189ef
 annum:
     year: 2008
     month: 02
-hostname: blog.linkedin.com
+url-parts:
+    scheme: http
+    host: blog.linkedin.com
+    path: /2008/02/24/linkedin-mobile-2/
+
 ---
 
 Well, this is the first time I'm blogging on our corporate blog and I've got to thank Mario for roping me into this. Today, I'd like to announce LinkedIn mobile for any Web enabled wireless phones that use the wireless application protocol (WAP). What that allows you to do is access LinkedIn from any mobile device ranging from your Blackberry to iPhone (more on that in just a second). 

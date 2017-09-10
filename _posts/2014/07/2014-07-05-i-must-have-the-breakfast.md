@@ -6,7 +6,11 @@ hash: d4c5555db2db70b1d6dcbeda08447194
 annum:
     year: 2014
     month: 07
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /corporate-intelligence/2014/06/25/i-must-have-the-breakfast-octopus-how-jeff-bezos-does-business/
+
 ---
 
 I must have the breakfast octopus.

@@ -6,7 +6,11 @@ hash: 9f4158d0f672fb8b700301d61dc7f128
 annum:
     year: 2009
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /09/09/javascript-nintendo-emulator
+
 ---
 
 This Javascript Nintendo emulator works amazingly well in Google Chrome. You can play Dr. Mario, Super Mario Bros., Tetris, The Legend of Zelda, etc.

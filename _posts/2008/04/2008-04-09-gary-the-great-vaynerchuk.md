@@ -6,7 +6,11 @@ hash: 992f9bedbd8011b12b8ee307d9976c3e
 annum:
     year: 2008
     month: 04
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/956-gary-the-great-vaynerchuk-sets-the-example-of-how-to-succeed-in-business-today
+
 ---
 
 Gary Vaynerchuk is a legend in the making.

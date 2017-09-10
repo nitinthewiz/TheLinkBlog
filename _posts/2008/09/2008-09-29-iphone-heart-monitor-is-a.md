@@ -6,7 +6,11 @@ hash: 5ed856408cf8f90b9faba791b098058f
 annum:
     year: 2008
     month: 09
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2008/09/29/iphone-heart-monitor-is-a-creative-way-to-use-iphone-sensors/
+
 ---
 
 

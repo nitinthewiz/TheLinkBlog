@@ -6,7 +6,11 @@ hash: 4d0dfab5e02a21a62500ff5475a6f684
 annum:
     year: 2015
     month: 03
-hostname: www.symmetrymagazine.org
+url-parts:
+    scheme: http
+    host: www.symmetrymagazine.org
+    path: /article/march-2015/inside-the-cern-control-centre
+
 ---
 
 If the accelerator complex is CERN’s nervous system, then the CCC is its brain. Let us take you on a tour of one of the most important rooms at CERN.

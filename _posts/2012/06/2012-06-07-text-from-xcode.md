@@ -6,7 +6,11 @@ hash: fea84eb304b7580e76a4a2d3e383fd73
 annum:
     year: 2012
     month: 06
-hostname: www.textfromxcode.com
+url-parts:
+    scheme: http
+    host: www.textfromxcode.com
+    path: /
+
 ---
 
 xcode has started sending me text messages. no, i don't know how.

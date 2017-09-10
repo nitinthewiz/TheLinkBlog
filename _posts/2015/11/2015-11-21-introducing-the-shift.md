@@ -6,7 +6,11 @@ hash: ac6f40285bc555ffc4139f899d2b277f
 annum:
     year: 2015
     month: 11
-hostname: blog.coinbase.com
+url-parts:
+    scheme: https
+    host: blog.coinbase.com
+    path: /2015/11/20/introducing-the-shift-card/
+
 ---
 
 Today, we

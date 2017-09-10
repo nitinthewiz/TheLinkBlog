@@ -6,7 +6,11 @@ hash: 345627cf703db8bdb21e34465778a379
 annum:
     year: 2016
     month: 12
-hostname: hackernoon.com
+url-parts:
+    scheme: https
+    host: hackernoon.com
+    path: /10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7
+
 ---
 
 

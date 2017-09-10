@@ -6,7 +6,11 @@ hash: aad26cb960e0c71f1a055eb8752d076b
 annum:
     year: 2012
     month: 10
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /posts/3264-automating-with-convention-introducing-sub
+
 ---
 
 This seems like a smart idea that many organizations could emulate.

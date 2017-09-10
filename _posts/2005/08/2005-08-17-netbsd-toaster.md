@@ -6,7 +6,11 @@ hash: b820c8ec3fef853649afdcd70c10134b
 annum:
     year: 2005
     month: 08
-hostname: www.embeddedarm.com
+url-parts:
+    scheme: http
+    host: www.embeddedarm.com
+    path: /software/arm-netbsd-toaster.php
+
 ---
 
 Finally, you can ping your toaster.

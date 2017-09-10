@@ -6,7 +6,11 @@ hash: f31e9ecb6ecb81c1fa57dc8d5ddfb8e2
 annum:
     year: 2013
     month: 02
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Professional_development_and_consulting
+
 ---
 
 This page is intended to help you find professional help with your wiki if you need it. The lists do not claim to be exhaustive. If you think you or your company should be listed on the page, you are welcome to add yourself.

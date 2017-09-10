@@ -6,7 +6,11 @@ hash: 9cc5241eca8abe2756d219d6dbf7d4d3
 annum:
     year: 2011
     month: 01
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /18554749
+
 ---
 
 Agree.  Beautiful. RT @dsearls Wow:  by @mindrelic Just. F***ing. Terrific.

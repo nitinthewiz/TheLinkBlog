@@ -6,7 +6,11 @@ hash: 2723fa8df105b84bad8b1885a53c5e5c
 annum:
     year: 2011
     month: 08
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2011/08/26/customer-reviews-and-social-commerce-platform-bazaarvoice-files-for-86m-ipo/
+
 ---
 
 Bazaarvoice has filed its S-1 with the SEC today. The company aims to raise as much as $86.25 million in its offering.

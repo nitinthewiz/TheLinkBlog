@@ -6,7 +6,11 @@ hash: a171b9896b5489c18c41bbd5bc9ec2ca
 annum:
     year: 2011
     month: 10
-hostname: thestallmandialogues.com
+url-parts:
+    scheme: http
+    host: thestallmandialogues.com
+    path: /
+
 ---
 
 

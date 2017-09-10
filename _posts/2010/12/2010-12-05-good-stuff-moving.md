@@ -6,7 +6,11 @@ hash: c7e1d88d61a0b22967f1013741693144
 annum:
     year: 2010
     month: 12
-hostname: goodstuffmoving.com
+url-parts:
+    scheme: http
+    host: goodstuffmoving.com
+    path: /
+
 ---
 
 

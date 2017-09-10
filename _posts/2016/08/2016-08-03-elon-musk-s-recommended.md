@@ -6,7 +6,11 @@ hash: e8208285b10c70a6c991e231656c3590
 annum:
     year: 2016
     month: 08
-hostname: www.canoneo.com
+url-parts:
+    scheme: http
+    host: www.canoneo.com
+    path: /list/5Mom4oSgF5NoHEWqj
+
 ---
 
 A list of books recommended by Elon Musk of Tesla and SpaceX

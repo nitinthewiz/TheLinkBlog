@@ -6,7 +6,11 @@ hash: e0edd467a73182a4f327a5185c6ae27b
 annum:
     year: 2011
     month: 05
-hostname: blog.tridentcap.com
+url-parts:
+    scheme: http
+    host: blog.tridentcap.com
+    path: /2011/04/mixed-results-during-1q11-for-our-saas-portfolio.html
+
 ---
 
 

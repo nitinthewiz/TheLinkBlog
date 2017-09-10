@@ -6,7 +6,11 @@ hash: ea22f2821a6c53efdb65c8b3a62f274b
 annum:
     year: 2011
     month: 05
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/your_content_your_copyright_twitpic_updates_terms.php
+
 ---
 
 Twitter photo-sharing service TwitPic has updated its terms of service to clear up any misunderstanding of who owns the pictures uploaded to the service. There have been controversies in the past year about media organizations using photos posted on TwitPic and not giving proper attribution or compensation to the original photographer. 

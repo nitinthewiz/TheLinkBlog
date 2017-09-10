@@ -6,7 +6,11 @@ hash: ff91d062439067868788c86d3141a9dd
 annum:
     year: 2008
     month: 04
-hostname: perspectives.mvdirona.com
+url-parts:
+    scheme: http
+    host: perspectives.mvdirona.com
+    path: /2008/04/22/1800MySQLServersWithTwoDBAs.aspx
+
 ---
 
 

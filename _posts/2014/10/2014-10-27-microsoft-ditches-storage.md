@@ -6,7 +6,11 @@ hash: c3973d689245355545b757693ab49d3c
 annum:
     year: 2014
     month: 10
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2014/10/microsoft-ditches-onedrive-storage-limits-entirely-for-office-365-users/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: e0640761a0438b487c6edb444a14453d
 annum:
     year: 2015
     month: 09
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /aws-enterprise-collection/part-3-in-the-enterprise-devops-series-why-you-should-run-what-you-build-c62f0990f4c3
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a80769898a7bcac305f70230bec6fe86
 annum:
     year: 2011
     month: 01
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2011/01/social-media-and-law-enforcement-who-gets-what
+
 ---
 
 When can law enforcement get your data from Facebook, Twitter, etc? New documents and surprising comparisons 

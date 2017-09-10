@@ -6,7 +6,11 @@ hash: 353be11b73849d57b52241888c7622e3
 annum:
     year: 2015
     month: 09
-hostname: blog.hipchat.com
+url-parts:
+    scheme: https
+    host: blog.hipchat.com
+    path: /2015/09/01/bring-all-the-news-to-you-with-rss-facebook-twitter-integrations/
+
 ---
 
 

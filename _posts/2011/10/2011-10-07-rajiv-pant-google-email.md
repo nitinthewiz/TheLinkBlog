@@ -6,7 +6,11 @@ hash: b86522618cfbb9f7f399b2279d5bba8b
 annum:
     year: 2011
     month: 10
-hostname: plus.google.com
+url-parts:
+    scheme: https
+    host: plus.google.com
+    path: /107443707510532643538/posts/Py4Ap4fz7PM
+
 ---
 
 Email Template For Respectfully Declining Unsolicited Requests to Meet from Vendors: Saying 'No' Politely 

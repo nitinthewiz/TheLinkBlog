@@ -6,7 +6,11 @@ hash: 445671a79a444e5508739bfcccb832f2
 annum:
     year: 2012
     month: 04
-hostname: www.neo.com
+url-parts:
+    scheme: http
+    host: www.neo.com
+    path: /nanoproduct/
+
 ---
 
 The Nanoproduct is a response to this. It's a two week engagement with our crack team, and its outcome is a live, production ready MVP that you can put in front of real customers. It's cheaper and faster than raising money and building a team, or hunting for that mythical coding co-founder.

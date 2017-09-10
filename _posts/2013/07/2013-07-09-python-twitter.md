@@ -6,7 +6,11 @@ hash: 0fb56c93335e257916dd84ede85795fd
 annum:
     year: 2013
     month: 07
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /bear/python-twitter
+
 ---
 
 This library provides a pure Python interface for the Twitter API.

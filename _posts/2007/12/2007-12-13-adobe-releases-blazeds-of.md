@@ -6,7 +6,11 @@ hash: 2d4dad16b0a75bfcd484ae17c93b7615
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/12/adobe-releases-blazeds-open-source-version-of-livecycle-data-services/
+
 ---
 
 One of the difficulties facing developers who want to create rich internet applications is HTMLs static nature, which requires that pages (unassisted by other scripting languages) must refresh in their entirety for any new information to load and appear. Technologies such as Ajax and Flash have been developed, at least in part, to overcome this limitation of HTML and facilitate the loading of new data onto a page without the requirement of a refresh. Many Web 2.0 companies have taken advantage of such technology in making their applications operate more seamlessly like desktop apps, but the technology still has quite a way to go. 

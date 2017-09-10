@@ -6,7 +6,11 @@ hash: 7334737ef7027b494adbcd1d9ca35d79
 annum:
     year: 2012
     month: 05
-hostname: www.tomscott.com
+url-parts:
+    scheme: http
+    host: www.tomscott.com
+    path: /klouchebag/
+
 ---
 
 This is Klouchebag  the standard for measuring asshattery online!

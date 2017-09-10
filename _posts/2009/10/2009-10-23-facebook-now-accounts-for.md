@@ -6,7 +6,11 @@ hash: a8410af78efbeeba1ac5e750dbb94e97
 annum:
     year: 2009
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /henry-blodget-facebook-accounts-for-1-in-4-internet-pageviews-2009-10
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 50b05c22d169007c6c19309d7f8a7afd
 annum:
     year: 2012
     month: 06
-hostname: thenextweb.com
+url-parts:
+    scheme: http
+    host: thenextweb.com
+    path: /insider/2012/06/06/linkedins-ios-app-collects-and-sends-names-emails-and-meeting-notes-from-your-calendar-back-in-plain-text/
+
 ---
 
 It's lame that we even have to worry about this type of behavior happening.  <blockquote> The LinkedIn mobile app for iOS devices collects fullmeetingnotes and details from your devices calendar and sends them back to the company, The Next Web has been informed. The information is gathered without explicit permission by a feature that allows users to access their calendar within the app. </blockquote> 

@@ -6,7 +6,11 @@ hash: 4814468353a05f61ce966f0fc0d0c02b
 annum:
     year: 2015
     month: 10
-hostname: blog.fugue.co
+url-parts:
+    scheme: https
+    host: blog.fugue.co
+    path: /2015-10-15-votebot.html
+
 ---
 
 

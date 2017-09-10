@@ -6,7 +6,11 @@ hash: a3a4a4f7d451017f1f026242ad8f21a0
 annum:
     year: 2009
     month: 02
-hostname: duncandavidson.com
+url-parts:
+    scheme: http
+    host: duncandavidson.com
+    path: /2009/02/lighting-up-toc-2009.html
+
 ---
 
 As an event photographer who has worked with lots of different stages, I’ve become quite comfortable working in low light environments. ISO 1600 and even ISO 3200 are my friends and I’ve become quite comfortable with them. The best of stages I’ve worked are lit up in a way that lets a me shoot at 1/250th at f/4.0 or even f/5.6 at ISO 1600. That’s nirvana. On the other hand, sometimes I walk into an event where even the most capable hardware can’t really save the day. Even my D700s can be left gasping for photons to work with to produce a compelling image.

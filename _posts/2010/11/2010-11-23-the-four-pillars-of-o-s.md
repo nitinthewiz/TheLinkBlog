@@ -6,7 +6,11 @@ hash: 01c3994e2b8f6693b3a94ea6226b1f57
 annum:
     year: 2010
     month: 11
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2010/11/oreilly-medias-it-strategy.html
+
 ---
 
 

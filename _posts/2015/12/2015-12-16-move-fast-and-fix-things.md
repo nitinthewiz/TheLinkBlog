@@ -6,7 +6,11 @@ hash: cb4c99af9f456cf8b22087fdf903cbeb
 annum:
     year: 2015
     month: 12
-hostname: githubengineering.com
+url-parts:
+    scheme: http
+    host: githubengineering.com
+    path: /move-fast/
+
 ---
 
 Anyone who has worked on a large enough codebase knows that technical debt is an inescapable reality: The more rapidly an application grows in size and complexity, the more technical debt is accrued.

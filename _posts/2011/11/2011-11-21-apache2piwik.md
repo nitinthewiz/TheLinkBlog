@@ -6,7 +6,11 @@ hash: 89c568fad820b593f65772034f073ac3
 annum:
     year: 2011
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /clearcode/Apache2Piwik
+
 ---
 
 Apache2Piwik is a script written in Python to enable exporting statistics from Apache logs to Piwik.

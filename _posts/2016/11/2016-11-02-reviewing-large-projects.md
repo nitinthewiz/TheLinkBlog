@@ -6,7 +6,11 @@ hash: d9c15b52917d3a14c24c6583bdcc47b8
 annum:
     year: 2016
     month: 11
-hostname: www.usingomnifocus.com
+url-parts:
+    scheme: http
+    host: www.usingomnifocus.com
+    path: /2016/11/reviewing-large-projects/
+
 ---
 
 One reason large projects can be difficult is that there are so many tasks. It becomes hard to quickly know what a most efficient or impactful next action might be.

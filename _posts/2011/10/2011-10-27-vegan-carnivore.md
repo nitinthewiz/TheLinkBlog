@@ -6,7 +6,11 @@ hash: 11b3875251ca047dcb912b48bba5caea
 annum:
     year: 2011
     month: 10
-hostname: topcultured.com
+url-parts:
+    scheme: http
+    host: topcultured.com
+    path: /wp-content/uploads/2010/06/pmToS.jpg
+
 ---
 
 

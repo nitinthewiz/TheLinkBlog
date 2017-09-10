@@ -6,7 +6,11 @@ hash: fd0abeca78f1e6cb2581dc88ad4147dc
 annum:
     year: 2011
     month: 10
-hostname: www.technewsdaily.com
+url-parts:
+    scheme: http
+    host: www.technewsdaily.com
+    path: /3316-anonymous-hackers-child-porn-sites.html
+
 ---
 
 

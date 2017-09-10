@@ -6,7 +6,11 @@ hash: 3d9be979c38f5765cc8c69e1c6fb0d72
 annum:
     year: 2011
     month: 11
-hostname: www.aaronpeters.nl
+url-parts:
+    scheme: http
+    host: www.aaronpeters.nl
+    path: /blog/why-loading-third-party-scripts-async-is-not-good-enough
+
 ---
 
 

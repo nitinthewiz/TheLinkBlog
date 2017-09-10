@@ -6,7 +6,11 @@ hash: d33dcb14be1000951e56a01fb8efae4a
 annum:
     year: 2009
     month: 07
-hostname: www.winnipegfreepress.com
+url-parts:
+    scheme: http
+    host: www.winnipegfreepress.com
+    path: /entertainment/music/festival-crowds-near-limit-50615062.html
+
 ---
 
 The Winnipeg Folk Festival wrapped up Sunday with a homecoming for Loreena McKennitt.

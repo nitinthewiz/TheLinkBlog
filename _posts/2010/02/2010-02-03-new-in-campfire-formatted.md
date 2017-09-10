@@ -6,7 +6,11 @@ hash: 9f6452c751902a261c79a3691de7061a
 annum:
     year: 2010
     month: 02
-hostname: productblogarchive.37signals.com
+url-parts:
+    scheme: http
+    host: productblogarchive.37signals.com
+    path: /products/2010/01/new-in-campfire-formatted-tweets.html
+
 ---
 
 We use Twitter a lot at 37signals. We post on Twitter, we read tweets, and share tweets. We often share these tweets with our co-workers in our Campfire rooms.

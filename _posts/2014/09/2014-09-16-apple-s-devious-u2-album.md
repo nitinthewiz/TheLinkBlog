@@ -6,7 +6,11 @@ hash: 04e755231830baea672fc09d8a5ef6e6
 annum:
     year: 2014
     month: 09
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2014/09/apples-devious-u2-album-giveaway-even-worse-spam/
+
 ---
 
 The stupidest article I have read in a while. 

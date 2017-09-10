@@ -6,7 +6,11 @@ hash: 6aa83b21b5993a38d8c1e7fb63fe9de5
 annum:
     year: 2008
     month: 04
-hostname: vanelsas.wordpress.com
+url-parts:
+    scheme: http
+    host: vanelsas.wordpress.com
+    path: /2008/04/09/statistics-on-friendfeed-usage-provide-interesting-insights/
+
 ---
 
 Over on his blog Alexander van Elsas has taken some time and wrung some FriendFeed usage stats. He says his reasons for doing this were fairly straightforward. He wanted to see if that actions of users are shared with others without intent, that is the person performing the action is intentionally sharing, the content that gets shared is usually less valuable.

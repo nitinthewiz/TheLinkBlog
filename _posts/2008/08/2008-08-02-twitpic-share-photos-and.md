@@ -6,7 +6,11 @@ hash: 7f857af9564d6d6d3c0151c53b8951fa
 annum:
     year: 2008
     month: 08
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /6bov
+
 ---
 
 Batting practice for Cleveland Indians. 

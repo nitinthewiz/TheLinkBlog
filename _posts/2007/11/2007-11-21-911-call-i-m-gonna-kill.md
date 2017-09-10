@@ -6,7 +6,11 @@ hash: 55c6b56d71422a8e555765532c526ff4
 annum:
     year: 2007
     month: 11
-hostname: www.cnn.com
+url-parts:
+    scheme: http
+    host: www.cnn.com
+    path: /video/
+
 ---
 
 CNN's Gary Tuchman reports on a Texan who shot and killed two men allegedly burglarizing a neighbor's home.

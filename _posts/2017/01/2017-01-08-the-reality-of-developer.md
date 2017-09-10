@@ -6,7 +6,11 @@ hash: 0181e1a59d02149894df9a0d4a0a0c2a
 annum:
     year: 2017
     month: 01
-hostname: www.kennethreitz.org
+url-parts:
+    scheme: https
+    host: www.kennethreitz.org
+    path: /essays/the-reality-of-developer-burnout
+
 ---
 
 So, I unfollowed everyone on Twitter. Every single person. I stopped paying attention to tech trends and reading hacker news. I went into publish-only mode. 

@@ -6,7 +6,11 @@ hash: 67062c28890dcfe6b7ee189015d67960
 annum:
     year: 2012
     month: 10
-hostname: mathematica.stackexchange.com
+url-parts:
+    scheme: http
+    host: mathematica.stackexchange.com
+    path: /questions/11350/xkcd-style-graphs
+
 ---
 
 Extremely awesome.

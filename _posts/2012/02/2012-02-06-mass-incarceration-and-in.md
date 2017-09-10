@@ -6,7 +6,12 @@ hash: 61aeb396845c7d6bbbf08a93597607f4
 annum:
     year: 2012
     month: 02
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2012/01/30/the-caging-of-america
+    query:
+        currentPage: "all"
 ---
 
 Six million people are under correctional supervision in the U.S.more than were in Stalins gulags.

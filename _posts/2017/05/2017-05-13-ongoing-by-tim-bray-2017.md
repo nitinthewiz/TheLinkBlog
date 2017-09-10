@@ -6,7 +6,11 @@ hash: c50914ec7978cd0581ff33382ca74ff7
 annum:
     year: 2017
     month: 05
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2017/04/15/Camera-News
+
 ---
 
 

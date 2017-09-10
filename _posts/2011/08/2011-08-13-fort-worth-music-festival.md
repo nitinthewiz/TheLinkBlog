@@ -6,7 +6,11 @@ hash: f2b3fc30d19947509ee5d7749980c1b4
 annum:
     year: 2011
     month: 08
-hostname: www.fwfest.com
+url-parts:
+    scheme: http
+    host: www.fwfest.com
+    path: /
+
 ---
 
 A two-day, all-ages music, art and culinary festival

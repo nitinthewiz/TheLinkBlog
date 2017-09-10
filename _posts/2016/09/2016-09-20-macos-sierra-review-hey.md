@@ -6,7 +6,11 @@ hash: 063849ee855c9b3c1f1d1f237f24e128
 annum:
     year: 2016
     month: 09
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2016/09/sierra-review/
+
 ---
 
 So that

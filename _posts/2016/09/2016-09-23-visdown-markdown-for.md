@@ -6,7 +6,11 @@ hash: f5ad797f34b26d7d31d7425554cc89ad
 annum:
     year: 2016
     month: 09
-hostname: visdown.amitkaps.com
+url-parts:
+    scheme: http
+    host: visdown.amitkaps.com
+    path: /
+
 ---
 
 

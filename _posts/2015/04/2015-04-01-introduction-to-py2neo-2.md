@@ -6,7 +6,11 @@ hash: b30fbab850d9fd1c48796ec8880bf539
 annum:
     year: 2015
     month: 04
-hostname: py2neo.org
+url-parts:
+    scheme: http
+    host: py2neo.org
+    path: /2.0/intro.html
+
 ---
 
 

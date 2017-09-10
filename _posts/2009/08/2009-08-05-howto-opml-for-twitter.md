@@ -6,7 +6,12 @@ hash: a3cb9817a1accbefe92119347ed36760
 annum:
     year: 2009
     month: 08
-hostname: rsscloud.org
+url-parts:
+    scheme: http
+    host: rsscloud.org
+    path: /twitterSubscriptionlists.html
+    query:
+        dsq: "13986607"
 ---
 
 

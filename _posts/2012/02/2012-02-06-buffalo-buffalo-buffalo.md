@@ -6,7 +6,11 @@ hash: 7b6a6b47e7943997c134de75f9a9b903
 annum:
     year: 2012
     month: 02
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo
+
 ---
 
 My new favorite Wikipedia page ever.

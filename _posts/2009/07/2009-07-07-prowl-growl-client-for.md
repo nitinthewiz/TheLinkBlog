@@ -6,7 +6,11 @@ hash: 078e62fdf26ede990c4db3e862aaae9e
 annum:
     year: 2009
     month: 07
-hostname: prowl.weks.net
+url-parts:
+    scheme: http
+    host: prowl.weks.net
+    path: /
+
 ---
 
 New $3 iPhone app by Zachary West:

@@ -6,7 +6,11 @@ hash: 2438acb687d1b5c99fb37bfc3b74f551
 annum:
     year: 2011
     month: 04
-hostname: blogs.law.harvard.edu
+url-parts:
+    scheme: http
+    host: blogs.law.harvard.edu
+    path: /doc/2011/04/02/a-sense-of-bewronging/
+
 ---
 
 “Social networks” are getting out of control. And I don’t mean their control. I mean your control and mine.

@@ -6,7 +6,11 @@ hash: 5be448badaa865334d1852f5f5815d9e
 annum:
     year: 2010
     month: 07
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/thesiss-next-opportunity-un-wordpress-itself
+
 ---
 
 A long running controversy in the WordPress community was resolved this week when the popular, commercial theme Thesis was re-licensed making it compatible with WordPress’s own GPL license. This re-licensing confirms WordPress themes and plugins must be released under the GPL. This is great news for the WordPress community for it reinforces the type of culture and ecosystem around the WordPress codebase it’s maintainers intended.

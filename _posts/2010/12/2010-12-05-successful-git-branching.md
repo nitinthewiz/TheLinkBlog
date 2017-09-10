@@ -6,7 +6,11 @@ hash: 458548f88efb5c11f19f099958d24fee
 annum:
     year: 2010
     month: 12
-hostname: nvie.com
+url-parts:
+    scheme: http
+    host: nvie.com
+    path: /posts/a-successful-git-branching-model/
+
 ---
 
 In this post I present the development model that Ive introduced for all of my projects (both at work and private) about a year ago, and which has turned out to be very successful. Ive been meaning to write about it for a while now, but Ive never really found the time to do so thoroughly, until now. I wont talk about any of the projects details, merely about the branching strategy and release management.

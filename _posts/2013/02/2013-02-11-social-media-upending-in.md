@@ -6,7 +6,11 @@ hash: e45c072460ddeef3c3a98a9de95c281b
 annum:
     year: 2013
     month: 02
-hostname: bits.blogs.nytimes.com
+url-parts:
+    scheme: http
+    host: bits.blogs.nytimes.com
+    path: /2012/10/14/seeking-privacy-in-a-networked-age/
+
 ---
 
 Over the course of the three-hour dinner, my friends posted seven photos on Path, sent six Twitter messages (five with photos), six photos on Instagram and two people checked in on Foursquare.

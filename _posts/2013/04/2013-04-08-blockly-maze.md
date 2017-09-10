@@ -6,7 +6,12 @@ hash: aa4a3bcfdc8acff701f1ed3d67707a49
 annum:
     year: 2013
     month: 04
-hostname: blockly-demo.appspot.com
+url-parts:
+    scheme: http
+    host: blockly-demo.appspot.com
+    path: /static/apps/maze/en.html
+    query:
+        level: "1"
 ---
 
 

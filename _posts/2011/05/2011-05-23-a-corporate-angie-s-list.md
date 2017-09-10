@@ -6,7 +6,11 @@ hash: 288890c69121baec647d6eebbeaae8cb
 annum:
     year: 2011
     month: 05
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /business/122373499.html
+
 ---
 
 A corporate 'Angie's List' could help small firms: The Itasca Project aims to introduce qualified smal... http://bit.ly/iZlLZH #Stribbiz

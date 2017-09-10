@@ -6,7 +6,11 @@ hash: 23cf85e6db4f76f222c721eba949844f
 annum:
     year: 2011
     month: 05
-hostname: marketplace.publicradio.org
+url-parts:
+    scheme: http
+    host: marketplace.publicradio.org
+    path: /display/web/2011/05/24/pm-twitpic-takes-pictures-literally/
+
 ---
 
 Twitpic makes a deal to sell the pictures you post to Twitter 

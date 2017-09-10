@@ -6,7 +6,11 @@ hash: 8bd25aa4e0ea269639020b18b76db1c2
 annum:
     year: 2014
     month: 11
-hostname: lizthedeveloper.com
+url-parts:
+    scheme: http
+    host: lizthedeveloper.com
+    path: /how-to-reward-skilled-coders-with-something-other-than-people-management
+
 ---
 
 You have awesome engineers, and they want to advance in their career. Their team is growing because of advancements they've made, and you want to recognize the work they've done with something. The...

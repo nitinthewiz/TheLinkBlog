@@ -6,7 +6,11 @@ hash: c0546478349d310488ee0c63aa98b982
 annum:
     year: 2007
     month: 09
-hostname: www.datacentres.com
+url-parts:
+    scheme: http
+    host: www.datacentres.com
+    path: /reports/dcgreen07.asp
+
 ---
 
 “It is almost certain that over the next 12 - 24 months a range of Data Centre related environmental standards and laws will be released in most developed countries.”

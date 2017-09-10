@@ -6,7 +6,11 @@ hash: 1cf6dd7e8a15ff4e15861c010b4504a1
 annum:
     year: 2008
     month: 12
-hostname: www.lessig.org
+url-parts:
+    scheme: http
+    host: www.lessig.org
+    path: /blog/2008/12/changegov_set_free.html
+
 ---
 
 Consistent with the values of any "open government," and with his strong leadership on "free debates" from the very start, the Obama team has modified the copyright notice on change.gov to embrace the freest CC license. 

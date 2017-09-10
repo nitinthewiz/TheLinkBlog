@@ -6,7 +6,11 @@ hash: d607dd5a5495c80b9a6e25d68432f2c9
 annum:
     year: 2012
     month: 10
-hostname: apod.nasa.gov
+url-parts:
+    scheme: http
+    host: apod.nasa.gov
+    path: /apod/ap121003.html
+
 ---
 
 Amazing Aurora image.

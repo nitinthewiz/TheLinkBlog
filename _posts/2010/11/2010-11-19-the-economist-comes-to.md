@@ -6,7 +6,11 @@ hash: 11437f5de153f2810f61631912fe9771
 annum:
     year: 2010
     month: 11
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2010/11/19/the-economist-iphone-ipad/
+
 ---
 
 The Economist is the latest major publication to arrive on the iPhone and iPad, bringing users a number of the publications top articles for free beginning every Thursday evening.

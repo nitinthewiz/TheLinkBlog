@@ -6,7 +6,11 @@ hash: 36b32ee9b7c21b0e17fe2a525aa9b112
 annum:
     year: 2008
     month: 01
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/01/07/the-truth-that-dare-not-speak-the-ces-keynote-sucked/
+
 ---
 
 Another year and another keynote speech at CES tops the headlines on Techmeme. The team over a CrunchGear did a good job under the circumstances live blogging Bill Gates and others from Microsoft as they spoke on stage, but its a speech no one is yet seriously telling the truth about.

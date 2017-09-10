@@ -6,7 +6,11 @@ hash: 9e28163e37a332096e516b5bf1f00dda
 annum:
     year: 2012
     month: 11
-hostname: www.elevationlab.com
+url-parts:
+    scheme: http
+    host: www.elevationlab.com
+    path: /products/lightning-adapter
+
 ---
 
 I got my Elevation Dock a couple of months before the iPhone 5. Looking forward to using it again with this adapter.

@@ -6,7 +6,11 @@ hash: 927e5ad0e2095a249e9d684441732838
 annum:
     year: 2009
     month: 12
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4ei0dbj
+
 ---
 
 Amazing new coffee rig from Santa. Mazzer grinder. Andreja Premium espresso machine. Giddy. 

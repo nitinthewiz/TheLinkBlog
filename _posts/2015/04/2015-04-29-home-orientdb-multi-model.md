@@ -6,7 +6,11 @@ hash: c3a2cbd5b6c63aee54af7a89b1f299ed
 annum:
     year: 2015
     month: 04
-hostname: orientdb.com
+url-parts:
+    scheme: http
+    host: orientdb.com
+    path: /
+
 ---
 
 

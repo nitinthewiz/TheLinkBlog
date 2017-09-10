@@ -6,7 +6,11 @@ hash: bd9d26fe5f772dff2476f2c2cf746957
 annum:
     year: 2015
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: http
+    host: www.macstories.net
+    path: /stories/initial-thoughts-on-ios-9s-ipad-multitasking-a-deep-transformation/
+
 ---
 
 Initial Thoughts on iOS 9's iPad Multitasking: A Deep Transformation

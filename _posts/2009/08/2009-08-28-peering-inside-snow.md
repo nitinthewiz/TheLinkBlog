@@ -6,7 +6,11 @@ hash: 3910e50e9e3135ef24e2986dd478bf15
 annum:
     year: 2009
     month: 08
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/10509
+
 ---
 
 From the beginning, Apple made it clear that Mac OS X 10.6 Snow Leopard was focused on improving the performance of the operating system and providing developers with new tools for harnessing the power of modern hardware and multiprocessor systems. The included security updates are no different, and for the most part are completely invisible to the user. 

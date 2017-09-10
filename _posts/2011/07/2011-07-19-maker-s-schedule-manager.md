@@ -6,7 +6,11 @@ hash: 73b4a394cc5dc6f635f8a7fd626c39aa
 annum:
     year: 2011
     month: 07
-hostname: www.paulgraham.com
+url-parts:
+    scheme: http
+    host: www.paulgraham.com
+    path: /makersschedule.html
+
 ---
 
 

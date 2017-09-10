@@ -6,7 +6,11 @@ hash: f1df3828b716d486f2046911b674e9db
 annum:
     year: 2011
     month: 11
-hostname: engineering.twitter.com
+url-parts:
+    scheme: http
+    host: engineering.twitter.com
+    path: /2011/08/finagle-protocol-agnostic-rpc-system.html
+
 ---
 
 

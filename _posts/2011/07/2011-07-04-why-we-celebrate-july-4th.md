@@ -6,7 +6,11 @@ hash: 3ca3a64e77c6fce798842c4a1ba0707a
 annum:
     year: 2011
     month: 07
-hostname: www.theuptake.org
+url-parts:
+    scheme: http
+    host: www.theuptake.org
+    path: /2011/07/04/why-we-celebrate-july-4th-2/
+
 ---
 
 Why We Celebrate July 4th. Powerful video: 

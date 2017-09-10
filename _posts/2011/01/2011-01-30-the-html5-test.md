@@ -6,7 +6,11 @@ hash: 64d40384330bc2c5fc464f4fb3d29ccc
 annum:
     year: 2011
     month: 01
-hostname: html5test.com
+url-parts:
+    scheme: http
+    host: html5test.com
+    path: /
+
 ---
 
 The HTML5 test score is only an indication of how well your browser supports the upcoming HTML5 standard and related specifications.

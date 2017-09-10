@@ -6,7 +6,11 @@ hash: 28349b264690dc6dd6df06c83d8a560d
 annum:
     year: 2011
     month: 07
-hostname: www.grantland.com
+url-parts:
+    scheme: http
+    host: www.grantland.com
+    path: /story/_/id/6766070/clear-eyes-full-hearts-lose
+
 ---
 
 

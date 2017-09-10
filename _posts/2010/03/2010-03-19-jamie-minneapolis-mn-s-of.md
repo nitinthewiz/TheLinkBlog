@@ -6,7 +6,11 @@ hash: 21a63fe79139e5172f4ac4e77328b45d
 annum:
     year: 2010
     month: 03
-hostname: www.goodreads.com
+url-parts:
+    scheme: http
+    host: www.goodreads.com
+    path: /review/show/94742339
+
 ---
 
 4 of 5 stars to Traffic by Tom Vanderbilt 

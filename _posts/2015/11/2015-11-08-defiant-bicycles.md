@@ -6,7 +6,11 @@ hash: 39c96dffff0ecf128162e41f2bc5ccc5
 annum:
     year: 2015
     month: 11
-hostname: defiantbicycles.com
+url-parts:
+    scheme: http
+    host: defiantbicycles.com
+    path: /
+
 ---
 
 

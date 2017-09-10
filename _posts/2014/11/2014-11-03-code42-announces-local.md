@@ -6,7 +6,11 @@ hash: 860919426c568514de03228f2b2f0e58
 annum:
     year: 2014
     month: 11
-hostname: www.mhta.org
+url-parts:
+    scheme: http
+    host: www.mhta.org
+    path: /code42-announces-local-expansion-plans/
+
 ---
 
 

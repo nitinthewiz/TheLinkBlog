@@ -6,7 +6,11 @@ hash: 86ffc97767d64ed6e028424ec0ddbe6b
 annum:
     year: 2007
     month: 01
-hostname: www.stockpickr.com
+url-parts:
+    scheme: http
+    host: www.stockpickr.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 04a915d22792484ba78958cd7a5f7343
 annum:
     year: 2009
     month: 09
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/09/09/twitter-reveals-one-more-branch-of-its-retention-strategy/
+
 ---
 
 Despite its massive growth, Twitter has always had a big user retention problem: most people who sign-up don’t get it.

@@ -6,7 +6,11 @@ hash: f218e583e48cc60e7baadfe30b89ae9d
 annum:
     year: 2013
     month: 10
-hostname: blog.kacinskas.eu
+url-parts:
+    scheme: http
+    host: blog.kacinskas.eu
+    path: /blog/2013/06/05/learning-angularjs-and-local-storage
+
 ---
 
 Yesterday, every body in our company got email with instructions to modify and insert new email signature. I saw how hard it is for some people to edit HTML :) So I decided to help and wrote tool to edit signature in more user frendly way.

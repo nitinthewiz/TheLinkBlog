@@ -6,7 +6,11 @@ hash: 312e89de29c28c434783206c46d49f5e
 annum:
     year: 2011
     month: 05
-hostname: www.merlinmann.com
+url-parts:
+    scheme: http
+    host: www.merlinmann.com
+    path: /better
+
 ---
 
 

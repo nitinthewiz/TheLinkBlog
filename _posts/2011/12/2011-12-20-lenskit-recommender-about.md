@@ -6,7 +6,11 @@ hash: a901e36b38e09694d575c981d2096789
 annum:
     year: 2011
     month: 12
-hostname: lenskit.org
+url-parts:
+    scheme: http
+    host: lenskit.org
+    path: /
+
 ---
 
 

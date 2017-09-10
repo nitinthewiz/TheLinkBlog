@@ -6,7 +6,11 @@ hash: 4924657995fac5b003d295f685eee269
 annum:
     year: 2016
     month: 06
-hostname: backchannel.com
+url-parts:
+    scheme: https
+    host: backchannel.com
+    path: /how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4e46fd499de88ba71749326dcb2dc9df
 annum:
     year: 2017
     month: 03
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/new-instance-size-flexibility-for-ec2-reserved-instances/
+
 ---
 
 

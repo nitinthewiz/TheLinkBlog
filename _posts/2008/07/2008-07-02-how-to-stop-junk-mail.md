@@ -6,7 +6,11 @@ hash: cb09e72296f439260351070704a720d4
 annum:
     year: 2008
     month: 07
-hostname: www.mattcutts.com
+url-parts:
+    scheme: https
+    host: www.mattcutts.com
+    path: /blog/stop-junk-mail/
+
 ---
 
 Ive been learning how to stop receiving junk mail, and I thought Id share what Ive learned.

@@ -6,7 +6,11 @@ hash: 5c2d0bf1dce67398c1867c1f7ff69429
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/17/apple-juicz-solar-charger-for-macbook-air/
+
 ---
 
 

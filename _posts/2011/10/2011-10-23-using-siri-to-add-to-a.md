@@ -6,7 +6,11 @@ hash: 81d8c4a49b8eb139758bcf4a9887102f
 annum:
     year: 2011
     month: 10
-hostname: shawnblanc.net
+url-parts:
+    scheme: http
+    host: shawnblanc.net
+    path: /2011/10/siri-and-shared-reminder-lists/
+
 ---
 
 

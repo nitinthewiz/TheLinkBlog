@@ -6,7 +6,11 @@ hash: 46289ea87cd3068f52fafb71b0ee42ad
 annum:
     year: 2009
     month: 03
-hostname: tinyurl.com
+url-parts:
+    scheme: http
+    host: tinyurl.com
+    path: /blw3sj
+
 ---
 
 Blog Post: First Try at Studio Photography 

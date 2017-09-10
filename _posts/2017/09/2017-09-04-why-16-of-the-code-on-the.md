@@ -6,7 +6,11 @@ hash: 91541b4de4b75d542503b99f6a32b07a
 annum:
     year: 2017
     month: 09
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@BenRegenspan/why-16-of-the-code-on-the-average-site-belongs-to-facebook-and-what-that-means-68956cd731be
+
 ---
 
 There are many reasons I believe that everyone should run content blockers in their browser. This article does a good job of highlighting some of those reasons.

@@ -6,7 +6,11 @@ hash: ae02eb874ca2f9d42e34a69befabd758
 annum:
     year: 2007
     month: 11
-hostname: 37signals.blogs.com
+url-parts:
+    scheme: http
+    host: 37signals.blogs.com
+    path: /products/2007/11/new-in-highrise.html
+
 ---
 
 Here's a new feature that will make editing and deleting Highrise notes and emails a lot faster: Inline editing.

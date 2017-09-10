@@ -6,7 +6,11 @@ hash: aaf5ee6091e2ebee69641756e65927c7
 annum:
     year: 2012
     month: 05
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2012/05/31/precision-decision/
+
 ---
 
 This reminds me a lot of my "Everyday Monte Carlo" idea.

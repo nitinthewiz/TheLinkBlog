@@ -6,7 +6,11 @@ hash: 39c95d8c28f0f85e5effa66aa073ab0e
 annum:
     year: 2007
     month: 01
-hostname: stores.ebay.com
+url-parts:
+    scheme: http
+    host: stores.ebay.com
+    path: /Itty-Bitty-Lines
+
 ---
 
 

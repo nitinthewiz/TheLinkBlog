@@ -6,7 +6,11 @@ hash: 79b0f556df8496e4de754003cf2cad31
 annum:
     year: 2011
     month: 12
-hostname: thepinkfloydexperience.net
+url-parts:
+    scheme: http
+    host: thepinkfloydexperience.net
+    path: /
+
 ---
 
 

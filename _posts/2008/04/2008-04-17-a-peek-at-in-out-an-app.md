@@ -6,7 +6,11 @@ hash: 135199da92f9dac2c1835f8bb82c23d5
 annum:
     year: 2008
     month: 04
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/976-a-peek-at-inout-an-internal-app-at-37signals
+
 ---
 
 For about the last year we’ve been using an internal app we developed called In/Out. This tool grew out of our need to keep track of what people are doing right now, plus the last few things people have completed.

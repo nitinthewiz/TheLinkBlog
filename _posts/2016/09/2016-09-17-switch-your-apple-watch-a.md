@@ -6,7 +6,11 @@ hash: f15ac42a8b99264b85637d48b94f133b
 annum:
     year: 2016
     month: 09
-hostname: support.apple.com
+url-parts:
+    scheme: https
+    host: support.apple.com
+    path: /en-us/HT205189
+
 ---
 
 If you want to use a new iPhone with your Apple Watch,

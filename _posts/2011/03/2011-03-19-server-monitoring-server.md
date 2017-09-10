@@ -6,7 +6,11 @@ hash: 8bd13601659339ea1d4231d8592bd6eb
 annum:
     year: 2011
     month: 03
-hostname: www.serverdensity.com
+url-parts:
+    scheme: http
+    host: www.serverdensity.com
+    path: /
+
 ---
 
 

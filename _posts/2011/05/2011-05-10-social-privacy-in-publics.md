@@ -6,7 +6,11 @@ hash: 217a829b8eb111a49e25fef1dc6ab65c
 annum:
     year: 2011
     month: 05
-hostname: www.danah.org
+url-parts:
+    scheme: http
+    host: www.danah.org
+    path: /papers/2011/SocialPrivacyPLSC-Draft.pdf
+
 ---
 
 Their practices in networked publics are shaped by their interpretation of  the social situation, their attitudes towards privacy and publicity, and their ability to  navigate the technological and social environment.

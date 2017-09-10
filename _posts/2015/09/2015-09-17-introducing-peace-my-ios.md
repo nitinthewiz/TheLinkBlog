@@ -6,7 +6,11 @@ hash: ca5eb74d2c1f9841ed8728c4df028fb3
 annum:
     year: 2015
     month: 09
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2015/09/16/peace-content-blocker
+
 ---
 
 Running the Ghostery browser add-on in my Mac browsers has been illuminating: I can’t believe how many trackers are on popular sites. I can’t believe how fast the web is without them.…

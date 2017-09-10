@@ -6,7 +6,11 @@ hash: 3c756fc7e1569414ba75e59160a0ba19
 annum:
     year: 2008
     month: 08
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/08/22/cyan-porting-myst-to-iphone/
+
 ---
 
 

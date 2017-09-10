@@ -6,7 +6,11 @@ hash: 00df71e22ee13337af7d93c1441d38ca
 annum:
     year: 2015
     month: 07
-hostname: www.mcsweeneys.net
+url-parts:
+    scheme: http
+    host: www.mcsweeneys.net
+    path: /articles/bay-area-to-standard-american-english-translator
+
 ---
 
 Bay Area: 

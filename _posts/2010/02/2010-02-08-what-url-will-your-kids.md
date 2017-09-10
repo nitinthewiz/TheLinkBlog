@@ -6,7 +6,13 @@ hash: 5802b59fe77260567ece3ea097a158f4
 annum:
     year: 2010
     month: 02
-hostname: thingelstad.com
+url-parts:
+    scheme: http
+    host: thingelstad.com
+    path: /domain-name-for-your-kids/
+    query:
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Blog Post: What URL will your kids blog be at? 

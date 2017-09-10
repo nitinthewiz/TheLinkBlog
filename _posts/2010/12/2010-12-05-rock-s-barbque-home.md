@@ -6,7 +6,11 @@ hash: 12b810652fcf8162a033d50e31b0d68b
 annum:
     year: 2010
     month: 12
-hostname: www.rocksbarbque.com
+url-parts:
+    scheme: https
+    host: www.rocksbarbque.com
+    path: /index.html
+
 ---
 
 

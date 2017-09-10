@@ -6,7 +6,11 @@ hash: d6c7161314e1999bca9010f34f1f3037
 annum:
     year: 2015
     month: 04
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2015/04/hire-like-google/
+
 ---
 
 

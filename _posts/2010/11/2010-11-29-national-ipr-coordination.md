@@ -6,7 +6,11 @@ hash: b85e5c3fad346da4c1d810e0bf6a93e6
 annum:
     year: 2010
     month: 11
-hostname: www.iprcenter.gov
+url-parts:
+    scheme: http
+    host: www.iprcenter.gov
+    path: 
+
 ---
 
 Had no idea there even was a thing like this...

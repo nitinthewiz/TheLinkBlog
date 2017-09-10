@@ -6,7 +6,11 @@ hash: 0ce35d2ba0ea647b3b92f74a2b25aea2
 annum:
     year: 2016
     month: 08
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/new-upload-aws-cost-usage-reports-to-redshift-and-quicksight/
+
 ---
 
 Many AWS customers have been asking us for a way to programmatically analyze their Cost and Usage Reports (read New 

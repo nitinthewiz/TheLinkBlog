@@ -6,7 +6,11 @@ hash: 578598c518aad37d91776cc8b2d934ad
 annum:
     year: 2017
     month: 01
-hostname: opensource.googleblog.com
+url-parts:
+    scheme: https
+    host: opensource.googleblog.com
+    path: /2017/01/grumpy-go-running-python.html
+
 ---
 
 

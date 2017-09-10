@@ -6,7 +6,11 @@ hash: fdba1dd86847290ee9041dcc2c7f4505
 annum:
     year: 2012
     month: 10
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/SMWCon_Fall_2012/New_features_in_Semantic_Result_Formats/Presentation
+
 ---
 
 There are some ridiculously nice and useful new formats here. Some of them will remove the need for p4chart extension.

@@ -6,7 +6,11 @@ hash: 45c665fa0d193faffafd9694048362a3
 annum:
     year: 2013
     month: 04
-hostname: rowansimpson.com
+url-parts:
+    scheme: http
+    host: rowansimpson.com
+    path: /2013/04/08/product-management/
+
 ---
 
 If you say you are a Software Developer or even a Development Manager, then most people working in technology will know what that means. But, Im not sure Ive ever heard a succinct definition of what makes a Product Manager. In fact, Im not even sure Ive heard a succinct definition of a product, in this context. I thought it might be useful to try and describe, at least as Ive experienced it, for those who might be interested in this sort of role.

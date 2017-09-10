@@ -6,7 +6,11 @@ hash: b2bc2e24111f324fe2704656cf169edc
 annum:
     year: 2016
     month: 03
-hostname: dadsroundtable.com
+url-parts:
+    scheme: http
+    host: dadsroundtable.com
+    path: /sports-2/2013/07/how-to-build-backyard-horseshoe-pits/
+
 ---
 
 First rule of building backyard horseshoe pits — they are backyard horseshoe pits, chill out.

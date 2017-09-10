@@ -6,7 +6,11 @@ hash: cd20bc7dc4ca71205e680e587b4314bb
 annum:
     year: 2008
     month: 03
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/03/06/omnigraffle-5-shipping-now/
+
 ---
 
 Filed under: Software, Graphic Design

@@ -6,7 +6,11 @@ hash: 9ef64b28eef1b3edf8ee73e93fd84915
 annum:
     year: 2009
     month: 05
-hostname: reader.thingelstad.com
+url-parts:
+    scheme: http
+    host: reader.thingelstad.com
+    path: /
+
 ---
 
 My Google Reader shared items are at  if your curious. If you share on Reader, add me.

@@ -6,7 +6,11 @@ hash: 3aeded94bfc9903e8621dd44c4a4c989
 annum:
     year: 2007
     month: 12
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2007/12/06/apple_ceo_steve_jobs_named_marketwatch_readers_choice_ceo_of_the_year_2007/
+
 ---
 
 MarketWatch readers have given an overwhelming thumbs up to Steve Jobs..

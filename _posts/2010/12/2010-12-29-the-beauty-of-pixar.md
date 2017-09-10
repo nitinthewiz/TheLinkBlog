@@ -6,7 +6,11 @@ hash: 8c6c9d4336074ebdd5940f5fe18a40d9
 annum:
     year: 2010
     month: 12
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/12/the-beauty-of-pixar
+
 ---
 
 A nice video tribute to Pixar that weaves together footage from all their films.

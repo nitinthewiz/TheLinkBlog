@@ -6,7 +6,11 @@ hash: e7c5b72fe1fe41b049debbd457c15f7d
 annum:
     year: 2014
     month: 11
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2014/11/10/better-time
+
 ---
 
 

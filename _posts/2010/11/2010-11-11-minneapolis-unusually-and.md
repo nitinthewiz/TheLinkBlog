@@ -6,7 +6,11 @@ hash: e0051a898276469ac4f60d3029055782
 annum:
     year: 2010
     month: 11
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2010/11/11/minneapolis-unusually-successful-and-respected-by-tech-insiders/
+
 ---
 
 Interactive map popup explains Minneapolis view (click for larger view)

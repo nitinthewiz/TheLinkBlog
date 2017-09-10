@@ -6,7 +6,11 @@ hash: 6123148259bdfe12d40c3252e3df5bb4
 annum:
     year: 2011
     month: 12
-hostname: www.annenberginnovationlab.org
+url-parts:
+    scheme: http
+    host: www.annenberginnovationlab.org
+    path: /OpenJournalism/overview
+
 ---
 
 The Case for Open Journalism Now is a hopeful yet pragmatic argument for journalisms future as a public good. It addresses a basic question of the digital age: with information flowing everywhere, how does journalism provide value? The answers lie in a new orienting idea for journalism that is transparent, responsive and enriched through vibrant two-way connections with a networked universe.

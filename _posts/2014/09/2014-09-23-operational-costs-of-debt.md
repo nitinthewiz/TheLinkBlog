@@ -6,7 +6,11 @@ hash: de7c9b9c7d622a4dd2b0d42a63218eb8
 annum:
     year: 2014
     month: 09
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /kka7/operational-costs-of-technical-debt
+
 ---
 
 

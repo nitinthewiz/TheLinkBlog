@@ -6,7 +6,11 @@ hash: 406d8681abc2b3576327b03e3255cb98
 annum:
     year: 2012
     month: 01
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /blog/post/605/
+
 ---
 
 how to localize timeline applications and open graph actions. 

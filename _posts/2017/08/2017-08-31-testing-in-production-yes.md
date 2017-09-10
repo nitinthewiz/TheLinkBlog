@@ -6,7 +6,11 @@ hash: 019642360cde401e11b9deda3faaa202
 annum:
     year: 2017
     month: 08
-hostname: opensource.com
+url-parts:
+    scheme: https
+    host: opensource.com
+    path: /article/17/8/testing-production
+
 ---
 
 ☺️ A ton of truth in this. I'd put everything in this in the bucket of being pragmatic.

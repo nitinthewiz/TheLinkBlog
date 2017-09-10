@@ -6,7 +6,11 @@ hash: 22e246c5b0966bb627f61b726b7ca0bc
 annum:
     year: 2012
     month: 01
-hostname: matt.might.net
+url-parts:
+    scheme: http
+    host: matt.might.net
+    path: /articles/programmers-resolutions/
+
 ---
 
 Go analog Programmers obsess over the discrete and the digital well past the point of diminishing returns. Thus, small investments in the analog yield comparatively large gains. Here's a starter list

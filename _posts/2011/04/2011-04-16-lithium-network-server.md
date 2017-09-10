@@ -6,7 +6,11 @@ hash: 1e3a3d4d756f07676d02c31aea5cf0ee
 annum:
     year: 2011
     month: 04
-hostname: lithium5.com
+url-parts:
+    scheme: http
+    host: lithium5.com
+    path: /
+
 ---
 
 

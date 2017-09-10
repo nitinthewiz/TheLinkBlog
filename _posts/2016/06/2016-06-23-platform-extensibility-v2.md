@@ -6,7 +6,11 @@ hash: b4434afaaafc3310ab26fae1c11fdbc2
 annum:
     year: 2016
     month: 06
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/new-api-endpoints-increase-platform-extensibility/
+
 ---
 
 22 Jun/16 The PagerDuty

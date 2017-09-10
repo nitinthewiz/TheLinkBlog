@@ -6,7 +6,11 @@ hash: fe7189699537979dbf6be912c6563a5a
 annum:
     year: 2012
     month: 01
-hostname: suratlozowick.com
+url-parts:
+    scheme: http
+    host: suratlozowick.com
+    path: /blog/2011/12/notational-velocity-developer-zachary-schneirov-interview/
+
 ---
 
 

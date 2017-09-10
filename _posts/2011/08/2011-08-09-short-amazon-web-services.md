@@ -6,7 +6,11 @@ hash: c3d5c1ae57b5a9f5c263b5193a1a363d
 annum:
     year: 2011
     month: 08
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /cloud/2011/08/short-amazon-web-services-outage.php
+
 ---
 
 Yep, saw this first hand. :-/

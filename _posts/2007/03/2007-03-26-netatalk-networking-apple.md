@@ -6,7 +6,11 @@ hash: a12423b24e1a4a6a549d230868a6ccc3
 annum:
     year: 2007
     month: 03
-hostname: netatalk.sourceforge.net
+url-parts:
+    scheme: http
+    host: netatalk.sourceforge.net
+    path: /
+
 ---
 
 Netatalk is a freely-available, kernel level implementation of the AppleTalk Protocol Suite, originally for BSD-derived systems. A *NIX/*BSD system running netatalk is capable of serving many macintosh clients simultaneously as an AppleTalk router, AppleS

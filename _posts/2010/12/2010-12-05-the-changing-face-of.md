@@ -6,7 +6,11 @@ hash: d5c2bb36aae57f86b53cdd45ee278408
 annum:
     year: 2010
     month: 12
-hostname: www.psfk.com
+url-parts:
+    scheme: http
+    host: www.psfk.com
+    path: /2010/09/the-changing-face-of-social-media-facebook-direct-airfares.html
+
 ---
 
 

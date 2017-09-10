@@ -6,7 +6,11 @@ hash: 7ac6b5b413c9486dae6527e3d76e592c
 annum:
     year: 2007
     month: 05
-hostname: claimid.com
+url-parts:
+    scheme: http
+    host: claimid.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 06a2cfdbdfb1d36df69eee44295d84a5
 annum:
     year: 2011
     month: 10
-hostname: www.43folders.com
+url-parts:
+    scheme: http
+    host: www.43folders.com
+    path: /2009/10/22/who-you-are
+
 ---
 
 Consequently, it's also about writing a book, fake self-help, the long road to developing expertise, and the ups and downs of repeatedly asking the world to tell you who you are.

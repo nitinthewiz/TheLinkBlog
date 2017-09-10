@@ -6,7 +6,11 @@ hash: 8a1de7e3d954fdcc02e66852ccfcf984
 annum:
     year: 2010
     month: 12
-hostname: apture.com
+url-parts:
+    scheme: http
+    host: apture.com
+    path: /extension/welcome/
+
 ---
 
 Welcome to Apture Highlights! – Apture -  via @Apture

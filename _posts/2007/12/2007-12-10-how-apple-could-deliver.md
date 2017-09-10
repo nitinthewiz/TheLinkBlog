@@ -6,7 +6,11 @@ hash: 441033a778c264b25b5341d68e1dd399
 annum:
     year: 2007
     month: 12
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2007/12/10/how_apple_could_deliver_workable_itunes_video_rentals/
+
 ---
 
 Apple is reportedly considering an expansion of its iTunes offerings to include video rentals...

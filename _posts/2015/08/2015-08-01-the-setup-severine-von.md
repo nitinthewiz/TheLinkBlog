@@ -6,7 +6,11 @@ hash: c6f47348606ef9b51124de6fb1679f63
 annum:
     year: 2015
     month: 08
-hostname: usesthis.com
+url-parts:
+    scheme: https
+    host: usesthis.com
+    path: /interviews/severine.von.tscharner.fleming/
+
 ---
 
 A collection of nerdy interviews asking people from all walks of life what they use to get the job done

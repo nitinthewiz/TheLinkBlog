@@ -6,7 +6,11 @@ hash: 34edc4f8c4aeac11ab2515d80ed835c9
 annum:
     year: 2010
     month: 11
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2010/11/22/security-theater/
+
 ---
 
 

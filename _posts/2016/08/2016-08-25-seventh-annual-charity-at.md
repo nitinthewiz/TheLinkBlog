@@ -6,7 +6,11 @@ hash: fa67b4d5c854918a405e1c26c9abbf06
 annum:
     year: 2016
     month: 08
-hostname: www.spscommerce.com
+url-parts:
+    scheme: http
+    host: www.spscommerce.com
+    path: /blog/seventh-annual-charity-auction-sps-continues-tradition-giving-back/
+
 ---
 
 With months of planning, a team of dedicated SPS volunteers and the generosity of all who made the event a success, SPS was able to collect $46,096 in proceeds, beating last year’s charity auction total by nearly $10,000.

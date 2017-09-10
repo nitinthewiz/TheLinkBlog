@@ -6,7 +6,11 @@ hash: 25d2e2ce80762ce1f7eeb8ead393e3ab
 annum:
     year: 2011
     month: 01
-hostname: www.charlierose.com
+url-parts:
+    scheme: http
+    host: www.charlierose.com
+    path: /view/interview/11404
+
 ---
 
 Jack Dorsey on Charlie Rose. 

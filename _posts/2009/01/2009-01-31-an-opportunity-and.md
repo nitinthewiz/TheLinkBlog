@@ -6,7 +6,11 @@ hash: 70b706e8849ddb830eca818e7d326ee9
 annum:
     year: 2009
     month: 01
-hostname: duncandavidson.com
+url-parts:
+    scheme: http
+    host: duncandavidson.com
+    path: /2009/01/opprotunity-obligation.html
+
 ---
 
 I shot my first gig as a professional photographer in 2005. It’s pretty hard at this point to believe that it’s been four years. In some ways, it seems like just a moment ago. After all, ten years ago I was at Sun working to get Tomcat and Ant released to the Apache Software Foundation. Twenty years ago, I was blundering through my first year of architecture school. In other ways, however, I look back at all that that’s happened since that first gig and I’m amazed it’s only been four years.

@@ -6,7 +6,11 @@ hash: 961b8ce7c85ed33d7c930ed39f66111f
 annum:
     year: 2011
     month: 02
-hostname: blogs.hbr.org
+url-parts:
+    scheme: http
+    host: blogs.hbr.org
+    path: /cs/2011/02/what_is_facebook_is_becoming.html
+
 ---
 
 Fascinating HBR piece: What Is Facebook, Really?  via @AddThis

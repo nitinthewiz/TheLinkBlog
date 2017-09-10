@@ -6,7 +6,11 @@ hash: ae31f0f06ede0e6d22bd4f92f1d57bbf
 annum:
     year: 2014
     month: 06
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /NASDAQOMX/status/473819407001460736/photo/1
+
 ---
 
 RT @NASDAQOMX: SPS Commerce rings the #NASDAQ Opening Bell! #dreamBIG @SPS_Commerce $SPSC @davidwicks 

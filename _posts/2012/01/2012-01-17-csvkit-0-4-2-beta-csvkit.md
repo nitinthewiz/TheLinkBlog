@@ -6,7 +6,11 @@ hash: 46f1d752cee4b7b3ffda10974f986756
 annum:
     year: 2012
     month: 01
-hostname: csvkit.readthedocs.org
+url-parts:
+    scheme: http
+    host: csvkit.readthedocs.org
+    path: /en/latest/index.html
+
 ---
 
 csvkit is a suite of utilities for converting to and working with CSV, the king of tabular file formats.

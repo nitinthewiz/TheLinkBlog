@@ -6,7 +6,11 @@ hash: 2ecb78e56ee8b2d16dd84b90476412b4
 annum:
     year: 2011
     month: 10
-hostname: slyoyster.hypervocal.com
+url-parts:
+    scheme: http
+    host: slyoyster.hypervocal.com
+    path: /cheap-thrills/2011/decades-old-calvin-and-hobbes-strip-succinctly-explains-occupy-wall-street-movement/
+
 ---
 
 

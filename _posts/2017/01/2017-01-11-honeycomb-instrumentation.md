@@ -6,7 +6,11 @@ hash: 5768361febe3e447a01c61c6bdc992aa
 annum:
     year: 2017
     month: 01
-hostname: honeycomb.io
+url-parts:
+    scheme: https
+    host: honeycomb.io
+    path: /blog/2017/01/instrumentation-the-first-four-things-you-measure/
+
 ---
 
 

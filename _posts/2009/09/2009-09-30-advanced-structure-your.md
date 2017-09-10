@@ -6,7 +6,11 @@ hash: 8ecfe64a9e715d074c0a33596738982c
 annum:
     year: 2009
     month: 09
-hostname: analytics.blogspot.com
+url-parts:
+    scheme: http
+    host: analytics.blogspot.com
+    path: /2009/09/advanced-structure-your-account-with.html
+
 ---
 
 Guest post by the team at E-Nor, a Google Analytics Authorized ConsultantFor the analytics ninjas out there, you know that data accuracy is probably one of the most challenging aspects of analytics across all solutions and platforms, and you learn to apply best practices and establish processes to improve data collection and reporting. But for the rest of us, how do we help marketers, business owners, and webmasters have confidence in their data? Analytics is all about clarity. It should help you see actionable statistics clearly and quickly. However, when you have a website structure with multiple domains and subdomains - which is often the case - sometimes things can get jumbled. For instance, you are a CMO or a Director of Marketing at the enterprise and you are responsible for the performance and ROI of a large number of web proprieties. You look at your analytics reports and you can't find your ecommerce data from site A, site B is referring traffic to itself (definitely not a good thing!), and conversion data from your marketing campaign microsite is no where to be found.This image sums up the feeling.No need to panic. This post aims to offer an approach to help you plan your Google Analytics accounts setup in a structured fashion to help with clarity. I hope that by following the approach and the technical steps, you will be able to collect and manage all your data, make more sense of it, and most importantly, ensure what you are reporting on, trending, dashboarding and analyzing is based on accurate data.There are two distinct sections of this post:

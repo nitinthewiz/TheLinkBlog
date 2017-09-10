@@ -6,7 +6,11 @@ hash: 70d9bad7b7a9bdab205d794968a20cc7
 annum:
     year: 2008
     month: 04
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/997-start-a-business-not-a-startup
+
 ---
 
 Startups can bring new ideas to market. They can give people a chance to change the world on their own terms. They can create something where nothing existed before. There is no doubt that they are exciting things to be a part of.

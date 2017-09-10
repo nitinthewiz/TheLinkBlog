@@ -6,7 +6,11 @@ hash: 58fa22f43f5942a14cc24b80bcdc99a7
 annum:
     year: 2011
     month: 06
-hostname: thefastertimes.com
+url-parts:
+    scheme: http
+    host: thefastertimes.com
+    path: /news/2011/06/16/aol-hell-an-aol-content-slave-speaks-out/
+
 ---
 
 

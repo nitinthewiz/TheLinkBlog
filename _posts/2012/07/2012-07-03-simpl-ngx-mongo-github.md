@@ -6,7 +6,11 @@ hash: 6402c8c0471363b3d955f44d470b50d7
 annum:
     year: 2012
     month: 07
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /simpl/ngx_mongo
+
 ---
 
 New module by Piotr Sikora: non-blocking upstream module for Nginx to connect to MongoDB 

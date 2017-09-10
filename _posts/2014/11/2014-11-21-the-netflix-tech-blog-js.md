@@ -6,7 +6,11 @@ hash: 6114f8c168e4e589d01b53e932d2a2ea
 annum:
     year: 2014
     month: 11
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2014/11/nodejs-in-flames.html
+
 ---
 
 

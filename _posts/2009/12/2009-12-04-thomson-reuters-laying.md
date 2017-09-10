@@ -6,7 +6,11 @@ hash: 73d770491939ae828fe33f83b77bc37e
 annum:
     year: 2009
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2009/12/04/419-thomson-reuters-laying-off-240-across-legal-publishing-division/
+
 ---
 
 Thomson Reuters (NYSE: TRI) is laying off 240 staffers at its legal publishing division, Dow Jones reported. The companys legal division includes research sites like West, FindLaw and Carswell, as well as attorney software provider Elite. The layoffs will be in North America.

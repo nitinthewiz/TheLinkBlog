@@ -6,7 +6,11 @@ hash: 76ddacdf1afa934c3addfb703facdda6
 annum:
     year: 2007
     month: 09
-hostname: www.fuzzlogic.com
+url-parts:
+    scheme: http
+    host: www.fuzzlogic.com
+    path: /flex/
+
 ---
 
 FLEX discography of US punk & hardcore

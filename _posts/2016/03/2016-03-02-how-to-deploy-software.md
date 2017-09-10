@@ -6,7 +6,11 @@ hash: 7ef5299c7f07a915e505d66cbaae6489
 annum:
     year: 2016
     month: 03
-hostname: zachholman.com
+url-parts:
+    scheme: https
+    host: zachholman.com
+    path: /posts/deploying-software
+
 ---
 
 Make your team’s deploys as boring as hell and stop stressing about it.

@@ -6,7 +6,11 @@ hash: 3c1cc9819d149569cd9c8e7605bd890a
 annum:
     year: 2010
     month: 12
-hostname: oxcreates.com
+url-parts:
+    scheme: http
+    host: oxcreates.com
+    path: /portfolio/case-study-race-across-america
+
 ---
 
 Case study on how he shot the Race Across America.

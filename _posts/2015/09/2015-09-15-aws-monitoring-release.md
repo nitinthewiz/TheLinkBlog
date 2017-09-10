@@ -6,7 +6,11 @@ hash: ca5d965b8261a7d37bd6a41e600e5967
 annum:
     year: 2015
     month: 09
-hostname: www.logicmonitor.com
+url-parts:
+    scheme: http
+    host: www.logicmonitor.com
+    path: /blog/2015/09/15/aws-monitoring-release/
+
 ---
 
 Today we announced the commercial release of our AWS monitoring! We’ve had it in use for some of our customers, and ourselves, for months, and it’s fabulous unique platform (if I do say…

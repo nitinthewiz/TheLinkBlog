@@ -6,7 +6,11 @@ hash: 6285b9fa8df44aa9944767777e1e5b50
 annum:
     year: 2012
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2012/05/07/journalism-dying-by-a-thousand-cuts-or-being-reinvented/
+
 ---
 
 

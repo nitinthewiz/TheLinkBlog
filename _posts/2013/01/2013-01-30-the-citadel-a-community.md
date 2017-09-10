@@ -6,7 +6,11 @@ hash: 28e7bec6e587388d1852860f7f35ee25
 annum:
     year: 2013
     month: 01
-hostname: iiicitadel.blogspot.com
+url-parts:
+    scheme: http
+    host: iiicitadel.blogspot.com
+    path: /
+
 ---
 
 ...of course this is in Idaho.

@@ -6,7 +6,11 @@ hash: afb138a3bac66507d4e43017ec2c3c2d
 annum:
     year: 2015
     month: 06
-hostname: blog.iancackett.com
+url-parts:
+    scheme: http
+    host: blog.iancackett.com
+    path: /2015/06/07/software-engineering/
+
 ---
 
 

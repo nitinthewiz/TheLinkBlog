@@ -6,7 +6,11 @@ hash: aa361a48fd36d342a0d6b2492e882df0
 annum:
     year: 2007
     month: 07
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2007/07/03/iphone-review/
+
 ---
 
 We've gone into serious detail here, so here's the review split into multiple parts. Trust us, it's a quick read. Enjoy!

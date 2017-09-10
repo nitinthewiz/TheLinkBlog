@@ -6,7 +6,11 @@ hash: 1e6a6379152aa347d7997ae1caee3700
 annum:
     year: 2007
     month: 04
-hostname: www.adobeforums.com
+url-parts:
+    scheme: http
+    host: www.adobeforums.com
+    path: /cgi-bin/webx/.3bc39c07/0
+
 ---
 
 Lightroom uses SQLite as a database. You could use the sqlite database browser to compact it.

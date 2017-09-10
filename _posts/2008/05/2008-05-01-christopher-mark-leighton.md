@@ -6,7 +6,11 @@ hash: 239f933815a2a04c1bbce879cc6e0210
 annum:
     year: 2008
     month: 05
-hostname: minigirl.typepad.com
+url-parts:
+    scheme: http
+    host: minigirl.typepad.com
+    path: /mini_girl/2008/05/christopher-m-1.html
+
 ---
 
 

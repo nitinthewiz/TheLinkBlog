@@ -6,7 +6,11 @@ hash: 4d4dfef413951fae6dbd1f3e72eb91fa
 annum:
     year: 2010
     month: 12
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
+
 ---
 
 For anyone who has, or was, a child :-)  A little break from WikiLeaks for things more awesome.

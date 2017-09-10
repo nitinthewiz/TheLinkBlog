@@ -6,7 +6,12 @@ hash: bda4dc05ff9decee41a018b3aa351aee
 annum:
     year: 2011
     month: 08
-hostname: www.thedailyshow.com
+url-parts:
+    scheme: http
+    host: www.thedailyshow.com
+    path: /watch/thu-august-18-2011/world-of-class-warfare---warren-buffett-vs--wealthy-conservatives
+    query:
+        xrs: "share_twitter"
 ---
 
 

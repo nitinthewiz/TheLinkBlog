@@ -6,7 +6,12 @@ hash: 86446971fa7551b4c5ec3e6c934d04ce
 annum:
     year: 2011
     month: 04
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /twitter-cofounder-noah-glass-2011-4
+    query:
+        op: "1"
 ---
 
 

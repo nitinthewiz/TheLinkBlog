@@ -6,7 +6,11 @@ hash: f6e67a10d2f1e821da9092c39713501c
 annum:
     year: 2016
     month: 09
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/are-you-intentionally-designing-your-leadership-relationships
+
 ---
 
 

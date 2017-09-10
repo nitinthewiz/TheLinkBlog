@@ -6,7 +6,11 @@ hash: df052657f204dcb814ee4d6eff02f18f
 annum:
     year: 2011
     month: 01
-hostname: usingomnifocus.com
+url-parts:
+    scheme: http
+    host: usingomnifocus.com
+    path: /ipad-vs-desktop-differences-between-clients-and-learning-curves-%E2%80%93-part-2-of-5/
+
 ---
 
 Part 2 of Differences between OmniFocus clients and Learning Curves now up: 

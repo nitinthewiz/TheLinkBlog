@@ -6,7 +6,11 @@ hash: 825bf72edff29a15936cede5fdc22076
 annum:
     year: 2008
     month: 03
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/
+
 ---
 
 If you are an entrepreneur seeking a moment of clarity, there is no better place to start than Sequoia Capitals Elements of Sustainable Companies. 

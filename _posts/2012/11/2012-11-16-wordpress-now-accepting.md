@@ -6,7 +6,11 @@ hash: 38178677db49d538cadbb8f2c41d3412
 annum:
     year: 2012
     month: 11
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /business/2012/11/wordpress-now-accepting-payment-in-bitcoin/
+
 ---
 
 Interesting to see WordPress using Bitcoin. Ry4an now has a place to spend his vast reserve! :-)

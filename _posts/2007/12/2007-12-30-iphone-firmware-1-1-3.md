@@ -6,7 +6,11 @@ hash: cf6754c092df616a0e4abb200898ccd9
 annum:
     year: 2007
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/12/30/iphone-firmware-1-1-3-breaks-unlocks/
+
 ---
 
 

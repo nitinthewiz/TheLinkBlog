@@ -6,7 +6,11 @@ hash: 485b8935e7466d91260c0511c5bb9137
 annum:
     year: 2012
     month: 06
-hostname: www.theverge.com
+url-parts:
+    scheme: http
+    host: www.theverge.com
+    path: /2012/6/13/3082329/ios-6-button-tilt-change-reflection
+
 ---
 
 In college a CSci professor of mine once asked the class "What would you do if you had infinite CPU cycles?". This is the answer.

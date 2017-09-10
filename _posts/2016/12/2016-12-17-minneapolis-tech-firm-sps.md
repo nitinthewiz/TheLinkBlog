@@ -6,7 +6,11 @@ hash: 2027b88b036e3e55fbb4e0492cff31a5
 annum:
     year: 2016
     month: 12
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /minneapolis-tech-firm-sps-commerce-gets-retailers-through-busiest-month-of-online-orders/407130226/
+
 ---
 
 The squiggly-line graphs on the monitors that line the fifth floor of SPS Commerce’s downtown Minneapolis headquarters provide a snapshot into the volumes of online shopping traffic in the final days of the holiday season.

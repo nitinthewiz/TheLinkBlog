@@ -6,7 +6,11 @@ hash: c15a02cbf95b67182eb3a4436473dbc7
 annum:
     year: 2015
     month: 12
-hostname: nautil.us
+url-parts:
+    scheme: http
+    host: nautil.us
+    path: /issue/31/stress/what-i-learned-from-losing-200-million
+
 ---
 
 The 2008 financial crisis taught me about the illusion of control, and how to give it up.

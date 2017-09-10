@@ -6,7 +6,11 @@ hash: 7065597da2303a94e8030197b85201a5
 annum:
     year: 2012
     month: 02
-hostname: regenerationmusicproject.com
+url-parts:
+    scheme: http
+    host: regenerationmusicproject.com
+    path: /
+
 ---
 
 

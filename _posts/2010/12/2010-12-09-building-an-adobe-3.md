@@ -6,7 +6,12 @@ hash: f4c8bed11b8139b1fadb67bdee0795b1
 annum:
     year: 2010
     month: 12
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "afMyH6CXiBc"
 ---
 
 Do you spend a couple hours a week filling in metadata? Save time with this helpful preset #tutorial! 

@@ -6,7 +6,11 @@ hash: 847d7560a29110beea02a93f0b2a52b3
 annum:
     year: 2010
     month: 12
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/blog/in_private/2010/10/what-minnesota-tech-scene-needs-a.html
+
 ---
 
 Yeah a Groupon-level success would make a big difference in MN (think future founders, new angel investors)  via @dfrankow

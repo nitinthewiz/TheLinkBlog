@@ -6,7 +6,11 @@ hash: fd3e17cb43358e463e372e67d6e821e4
 annum:
     year: 2015
     month: 06
-hostname: www.usatoday.com
+url-parts:
+    scheme: http
+    host: www.usatoday.com
+    path: /story/theoval/2015/06/26/white-house-rainbow-gay-marriage/29374471/
+
 ---
 
 The White House was lit up in rainbow colors Friday night to celebrate the Supreme Court's ruling on gay marriage

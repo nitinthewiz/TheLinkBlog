@@ -6,7 +6,11 @@ hash: f5c2d2fac1bfe2be30974795baa789f0
 annum:
     year: 2009
     month: 11
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/11/26/apple-documents-itunes-lp-and-itunes-extras-for-developers/
+
 ---
 
 Filed under: iTS, iTunes, Developer

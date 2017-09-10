@@ -6,7 +6,12 @@ hash: 93bce8f3b134ce9649040454ce9a4190
 annum:
     year: 2011
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "OTVE5iPMKLg"
 ---
 
 Why you shouldn't feel guilty about that coffee addiction.

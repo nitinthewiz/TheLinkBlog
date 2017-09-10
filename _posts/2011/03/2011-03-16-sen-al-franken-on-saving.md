@@ -6,7 +6,12 @@ hash: cbfda046bd537bb7a245a74fb9a5f4ed
 annum:
     year: 2011
     month: 03
-hostname: www.livestream.com
+url-parts:
+    scheme: http
+    host: www.livestream.com
+    path: /theuptake/video
+    query:
+        clipId: "pla_4cc380bc-71ef-4c6a-ab8e-360c3ba40cd2"
 ---
 
 

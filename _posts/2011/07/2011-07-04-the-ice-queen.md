@@ -6,7 +6,11 @@ hash: 1f1b04eb72dbeded4596c49604a926ea
 annum:
     year: 2011
     month: 07
-hostname: peasandthankyou.com
+url-parts:
+    scheme: http
+    host: peasandthankyou.com
+    path: /2011/07/03/the-ice-queen/
+
 ---
 
 

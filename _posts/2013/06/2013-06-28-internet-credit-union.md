@@ -6,7 +6,11 @@ hash: 0e8ddc708916929a079b1199bada4c65
 annum:
     year: 2013
     month: 06
-hostname: internetcreditunion.org
+url-parts:
+    scheme: https
+    host: internetcreditunion.org
+    path: /
+
 ---
 
 

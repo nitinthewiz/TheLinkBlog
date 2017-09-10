@@ -6,7 +6,11 @@ hash: 3bdaddb09c1cc6055ee1eed89e414021
 annum:
     year: 2011
     month: 10
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /30606785
+
 ---
 
 Here's a "fair" test between the iPhone 4S and the Canon 5D MK II. I made a little rig that allowed me to shoot both cameras at the same time side by side. All scenes are perfectly synced together so you can pause and scrutinize the frames! See photo of the makeshift rig in the photo area.

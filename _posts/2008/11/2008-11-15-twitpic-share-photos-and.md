@@ -6,7 +6,11 @@ hash: c88968087ef7d9e017d3edf8bf00b213
 annum:
     year: 2008
     month: 11
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /lwyd
+
 ---
 
 Bear pancake for Mazie this morning. 

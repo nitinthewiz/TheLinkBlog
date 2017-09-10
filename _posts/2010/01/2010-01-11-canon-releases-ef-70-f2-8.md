@@ -6,7 +6,11 @@ hash: 06256681b2b5ab5021064af8cb367ccb
 annum:
     year: 2010
     month: 01
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /articles/8783442410/canon70200isii
+
 ---
 
 

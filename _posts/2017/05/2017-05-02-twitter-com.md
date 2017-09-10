@@ -6,7 +6,11 @@ hash: 25b082fc638271e097f1ac8cc894c2d5
 annum:
     year: 2017
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /lemiorhan/status/859158123722010628
+
 ---
 
 

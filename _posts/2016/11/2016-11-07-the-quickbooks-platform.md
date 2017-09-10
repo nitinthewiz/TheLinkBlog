@@ -6,7 +6,11 @@ hash: 94ff1b840303a736b0c09f3ef30ce8c4
 annum:
     year: 2016
     month: 11
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2016/11/7/the-quickbooks-platform.html
+
 ---
 
 

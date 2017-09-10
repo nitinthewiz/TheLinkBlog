@@ -6,7 +6,11 @@ hash: 527a12c099d0fbfa8ae7020848e6612c
 annum:
     year: 2005
     month: 09
-hostname: www16.co.hennepin.mn.us
+url-parts:
+    scheme: http
+    host: www16.co.hennepin.mn.us
+    path: /pins/addrsrch.jsp
+
 ---
 
 Find property tax information based on address.

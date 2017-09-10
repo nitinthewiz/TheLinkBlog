@@ -6,7 +6,11 @@ hash: 1802f15b761e1fa6040f386a06e30c45
 annum:
     year: 2010
     month: 12
-hostname: chronicle.com
+url-parts:
+    scheme: http
+    host: chronicle.com
+    path: /article/Counting-on-Google-Books/125735/
+
 ---
 
 

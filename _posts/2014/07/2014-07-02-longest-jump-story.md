@@ -6,7 +6,11 @@ hash: dbdf4b4cf12f81fab6ff80712c023986
 annum:
     year: 2014
     month: 07
-hostname: gopro.com
+url-parts:
+    scheme: http
+    host: gopro.com
+    path: /videos/featured/longest-jump-story
+
 ---
 
 Guerlain Chicherit attempted to beat the record for longest car jump. The result was a record of a man confronting his own mortality and ultimately experiencing a moment of grace.

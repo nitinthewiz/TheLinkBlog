@@ -6,7 +6,11 @@ hash: f3a29e87c25548aa9e32579200832448
 annum:
     year: 2006
     month: 12
-hostname: www.healthengage.com
+url-parts:
+    scheme: http
+    host: www.healthengage.com
+    path: /home/
+
 ---
 
 Modular, platform-independent health data collection and management technology for ubiquitous and secure access, convenience, and ease of use in health data collection.

@@ -6,7 +6,11 @@ hash: 5f2cbdb26e0f3757e4823da489f02950
 annum:
     year: 2012
     month: 09
-hostname: www.franconia.org
+url-parts:
+    scheme: http
+    host: www.franconia.org
+    path: /
+
 ---
 
 Recommended by Garrick as a great place to visit.

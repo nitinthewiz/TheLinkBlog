@@ -6,7 +6,11 @@ hash: 3b185464bba588e7626cdaddcc91df89
 annum:
     year: 2012
     month: 06
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /34198426
+
 ---
 
 Amazing test video. Extremely stable aerial platform for video. This kind of thing being available at low costs is going to open up so many creative venues for people.

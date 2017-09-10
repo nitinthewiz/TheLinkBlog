@@ -6,7 +6,11 @@ hash: b596b9cb3aa1f6726a960329d29bbab8
 annum:
     year: 2012
     month: 02
-hostname: annadvorak.com
+url-parts:
+    scheme: http
+    host: annadvorak.com
+    path: /
+
 ---
 
 

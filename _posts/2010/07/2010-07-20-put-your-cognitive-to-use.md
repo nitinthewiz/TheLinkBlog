@@ -6,7 +6,11 @@ hash: 91d579cf3f29efb5cda3fa2474a96558
 annum:
     year: 2010
     month: 07
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5590940/put-your-cognitive-surplus-to-good-use
+
 ---
 
 Internet expert and author Clay Shirky's new book, Cognitive Surplus: Creativity and Generosity in a Connected Age, discusses how the internet enables us to use slivers of time our culture has historically spent watching television making truly incredible thingslike Wikipedia.More

@@ -6,7 +6,11 @@ hash: ceb38f9c2a61ad16a4802d29dadce5eb
 annum:
     year: 2005
     month: 08
-hostname: www.spiderlakelodge.com
+url-parts:
+    scheme: http
+    host: www.spiderlakelodge.com
+    path: /
+
 ---
 
 

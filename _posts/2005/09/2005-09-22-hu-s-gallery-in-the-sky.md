@@ -6,7 +6,11 @@ hash: dd74c512ba15ec428884e2c81b3be5c6
 annum:
     year: 2005
     month: 09
-hostname: www.hupix.net
+url-parts:
+    scheme: http
+    host: www.hupix.net
+    path: /
+
 ---
 
 Real photography done with a camera-phone.

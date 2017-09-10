@@ -6,7 +6,11 @@ hash: df929fce8fa17c2a7315630e2abc22c1
 annum:
     year: 2012
     month: 12
-hostname: www.lukew.com
+url-parts:
+    scheme: http
+    host: www.lukew.com
+    path: /ff/entry.asp
+    query:
 ---
 
 Time spent on mobile devices is outgrowing time spent on the desktop Web and starting to encroach on TV time as well. Why? Mobile is the new screen for entertainment in our lives.

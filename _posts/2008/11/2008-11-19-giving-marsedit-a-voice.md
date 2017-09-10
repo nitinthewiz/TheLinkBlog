@@ -6,7 +6,11 @@ hash: 8055cc78c53a1e50908701d98e6a567b
 annum:
     year: 2008
     month: 11
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/640/giving-marsedit-a-voice
+
 ---
 
 Peter Verkhovensky recently wished out loud on Twitter for a feature in MarsEdit. He wanted the application to play a sound when a post has been sent successfully to a blog, similar to how Mail can play a noise when sending a message.

@@ -6,7 +6,11 @@ hash: 08d4553608a666c09e0d4c3f7e2cbe3a
 annum:
     year: 2011
     month: 01
-hostname: www.dolby.com
+url-parts:
+    scheme: http
+    host: www.dolby.com
+    path: /us/en/consumer/setup/connection-guide/home-theater-speaker-guide/index.html
+
 ---
 
 

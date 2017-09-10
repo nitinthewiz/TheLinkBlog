@@ -6,7 +6,11 @@ hash: 475c486ce266ac0850ab2e03fccfb31a
 annum:
     year: 2016
     month: 04
-hostname: glyph.twistedmatrix.com
+url-parts:
+    scheme: https
+    host: glyph.twistedmatrix.com
+    path: /2016/04/email-isnt-the-problem.html
+
 ---
 
 I

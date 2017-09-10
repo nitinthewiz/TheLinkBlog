@@ -6,7 +6,11 @@ hash: 82ad2187836e66d08c60dc65af8e6252
 annum:
     year: 2010
     month: 12
-hostname: www.pixiq.com
+url-parts:
+    scheme: http
+    host: www.pixiq.com
+    path: /article/blackwhite-vs-color
+
 ---
 
 Advanced techniques on creating a true B&W "feeling" image instead of just greyscale.

@@ -6,7 +6,11 @@ hash: 9a235f33ee3f7a315ba3a0bf1722efc7
 annum:
     year: 2017
     month: 08
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@barmstrong/how-to-hire-executives-e2ee8e05cad3
+
 ---
 
 Good article describing how components of hiring an executive is different than other hiring teams do. Good how to.

@@ -6,7 +6,11 @@ hash: 5972b1be83062124b3bf5a88dfba62cb
 annum:
     year: 2012
     month: 11
-hostname: dashes.com
+url-parts:
+    scheme: http
+    host: dashes.com
+    path: /anil/2012/11/facebook-makes-it-official-you-have-no-say.html
+
 ---
 
 

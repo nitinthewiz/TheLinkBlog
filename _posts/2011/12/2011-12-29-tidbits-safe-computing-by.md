@@ -6,7 +6,11 @@ hash: 3743e13d67d9e8e20f951e2dd3e84cd2
 annum:
     year: 2011
     month: 12
-hostname: tidbits.com
+url-parts:
+    scheme: http
+    host: tidbits.com
+    path: /article/12693
+
 ---
 
 CameraTrace Tracks by Serial Number in Photos

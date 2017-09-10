@@ -6,7 +6,11 @@ hash: da09f4b8755e83196094827b2f2415ab
 annum:
     year: 2008
     month: 10
-hostname: www.macworld.com
+url-parts:
+    scheme: http
+    host: www.macworld.com
+    path: /article/60770/2007/10/ichatmulti.html
+
 ---
 
 

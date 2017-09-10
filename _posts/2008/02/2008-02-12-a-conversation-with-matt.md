@@ -6,7 +6,11 @@ hash: 8740b2772e5a6a7fc41793eca2a1445e
 annum:
     year: 2008
     month: 02
-hostname: developer.yahoo.com
+url-parts:
+    scheme: https
+    host: developer.yahoo.com
+    path: /blogs/ydn/conversation-matt-mullenweg-7302.html
+
 ---
 
 

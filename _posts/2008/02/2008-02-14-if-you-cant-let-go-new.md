@@ -6,7 +6,12 @@ hash: 82aced70b796465d3993a03f2b1ef5ce
 annum:
     year: 2008
     month: 02
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2008/02/14/fashion/14Cyber.html
+    query:
+        _r: "2"
 ---
 
 

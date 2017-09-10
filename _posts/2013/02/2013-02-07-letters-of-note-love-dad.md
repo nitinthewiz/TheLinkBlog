@@ -6,7 +6,11 @@ hash: 094f91edf60e2a0344a1356f2bf8505e
 annum:
     year: 2013
     month: 02
-hostname: www.lettersofnote.com
+url-parts:
+    scheme: http
+    host: www.lettersofnote.com
+    path: /2012/05/love-dad.html
+
 ---
 
 Just days before his 26-year-old son, Michael, got married, future-U.S. Pres Ronald Reagan sent him a letter of advice 

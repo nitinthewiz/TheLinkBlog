@@ -6,7 +6,12 @@ hash: 8fa4de148525d246394aba47b5246a0d
 annum:
     year: 2013
     month: 06
-hostname: news.ycombinator.com
+url-parts:
+    scheme: https
+    host: news.ycombinator.com
+    path: /item
+    query:
+        id: "5847189"
 ---
 
 

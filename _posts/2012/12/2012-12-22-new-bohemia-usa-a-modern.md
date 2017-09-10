@@ -6,7 +6,11 @@ hash: 0a29acdb2e920c2ba0d529859b7e24c7
 annum:
     year: 2012
     month: 12
-hostname: www.newbohemiausa.com
+url-parts:
+    scheme: http
+    host: www.newbohemiausa.com
+    path: /
+
 ---
 
 My friend Steve said this place is amazing. Must go.

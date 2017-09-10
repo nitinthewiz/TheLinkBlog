@@ -6,7 +6,11 @@ hash: 412fea15ff233a6b77a8bcfb5d0439de
 annum:
     year: 2011
     month: 09
-hostname: kevin.vanzonneveld.net
+url-parts:
+    scheme: http
+    host: kevin.vanzonneveld.net
+    path: /techblog/article/create_daemons_in_php/
+
 ---
 
 Everyone knows PHP can be used to create websites. But it can also be used to create desktop applications and commandline tools. And now with a class called System_Daemon, you can even create daemons using nothing but PHP. And did I mention it was easy?

@@ -6,7 +6,11 @@ hash: 4244fce8c1ca99ba768553b5c64e4f8b
 annum:
     year: 2011
     month: 09
-hostname: www.gliffy.com
+url-parts:
+    scheme: http
+    host: www.gliffy.com
+    path: /publish/2886461/
+
 ---
 
 

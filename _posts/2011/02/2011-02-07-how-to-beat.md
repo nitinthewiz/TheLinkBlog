@@ -6,7 +6,11 @@ hash: 70f4f40625bd5cf357dc66e00c7c01b4
 annum:
     year: 2011
     month: 02
-hostname: lesswrong.com
+url-parts:
+    scheme: http
+    host: lesswrong.com
+    path: /lw/3w3/how_to_beat_procrastination/
+
 ---
 
 

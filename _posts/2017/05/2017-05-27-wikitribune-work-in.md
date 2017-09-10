@@ -6,7 +6,11 @@ hash: 09bca5b218e01b9afa00df7f4603ac18
 annum:
     year: 2017
     month: 05
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /impossible/wikitribune-work-in-progress-5f5363ab5fd2
+
 ---
 
 

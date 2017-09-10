@@ -6,7 +6,11 @@ hash: f5cc683cc059f0e06b597f5488511824
 annum:
     year: 2006
     month: 05
-hostname: jrepository.engblom.org
+url-parts:
+    scheme: http
+    host: jrepository.engblom.org
+    path: /
+
 ---
 
 

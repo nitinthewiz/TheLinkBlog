@@ -6,7 +6,11 @@ hash: 1d621f174636f7fd8cd3de36bbc10736
 annum:
     year: 2012
     month: 07
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2012/06/turing-centenary-speech-new-aesthetic/
+
 ---
 
 

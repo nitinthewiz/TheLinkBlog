@@ -6,7 +6,11 @@ hash: c0c6db3261af7e304e01620ef3a2c66a
 annum:
     year: 2011
     month: 10
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /2011/october/facebook%E2%80%99s-hotel-california-cross-site-tracking-and-potential-impact-digital-privacy
+
 ---
 
 

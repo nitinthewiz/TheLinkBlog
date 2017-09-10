@@ -6,7 +6,11 @@ hash: b751531c812eb49e12025c41ff2fd536
 annum:
     year: 2012
     month: 02
-hostname: www.sharelatex.com
+url-parts:
+    scheme: https
+    host: www.sharelatex.com
+    path: /
+
 ---
 
 The Real Time LaTeX Collaborative Editor in Your Browser

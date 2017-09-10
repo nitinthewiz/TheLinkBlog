@@ -6,7 +6,11 @@ hash: 37636af7ed321a945e2d1922e1da0b25
 annum:
     year: 2010
     month: 12
-hostname: www.nicholson.com
+url-parts:
+    scheme: http
+    host: www.nicholson.com
+    path: /rhn/basic/
+
 ---
 
 

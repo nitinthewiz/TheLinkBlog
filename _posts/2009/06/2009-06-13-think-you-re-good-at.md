@@ -6,7 +6,11 @@ hash: 8061bf7a3cec600a54d3e52c2e4285ec
 annum:
     year: 2009
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/06/12/think-youre-good-at-flight-control/
+
 ---
 
 Filed under: Gaming, Odds and ends, App Store

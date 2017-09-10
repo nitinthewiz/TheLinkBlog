@@ -6,7 +6,12 @@ hash: f8ff2b964502766900df7fbdccb47958
 annum:
     year: 2012
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "-3dw09N5_Aw"
 ---
 
 Velocity 2012: John Rauser, "Investigating Anomalies"

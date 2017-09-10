@@ -6,7 +6,11 @@ hash: 8e43c65df9ecf9fc19021c1827519da7
 annum:
     year: 2014
     month: 11
-hostname: sailorproject.org
+url-parts:
+    scheme: http
+    host: sailorproject.org
+    path: /
+
 ---
 
 We will bring a powerful and light programming language to its full potential as the foundation of a fast, fully functional and simple to use web development framework.

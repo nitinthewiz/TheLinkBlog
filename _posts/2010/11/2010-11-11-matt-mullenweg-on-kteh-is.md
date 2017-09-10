@@ -6,7 +6,11 @@ hash: 728a06a1b54cccba2b8077e808375484
 annum:
     year: 2010
     month: 11
-hostname: vip.wordpress.com
+url-parts:
+    scheme: http
+    host: vip.wordpress.com
+    path: /2010/11/11/matt-mullenweg-kteh-this-is-us/
+
 ---
 
 

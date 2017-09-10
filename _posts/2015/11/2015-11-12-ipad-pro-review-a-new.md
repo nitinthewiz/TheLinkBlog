@@ -6,7 +6,11 @@ hash: ff7256a9e24afd142acdb35b470bd300
 annum:
     year: 2015
     month: 11
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/ipad-pro-review/
+
 ---
 
 For the past two years, I've been reconsidering my preconceptions on large screens. Back in 2013, I thought the iPad mini would always be the perfect iPad for me. After the technologically outdated

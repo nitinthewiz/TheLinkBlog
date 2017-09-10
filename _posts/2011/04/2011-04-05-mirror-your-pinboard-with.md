@@ -6,7 +6,14 @@ hash: c7afd8dab2ce13d54c40bd2c302754f9
 annum:
     year: 2011
     month: 04
-hostname: brettterpstra.com
+url-parts:
+    scheme: http
+    host: brettterpstra.com
+    path: /mirror-your-pinboard-bookmarks-with-openmeta-tags/
+    query:
+        utm_source: "feedburner"
+        utm_medium: "feed"
+        utm_campaign: "Feed: BrettTerpstra (Brett Terpstra)"
 ---
 
 

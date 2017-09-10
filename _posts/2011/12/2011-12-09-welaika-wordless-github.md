@@ -6,7 +6,11 @@ hash: 3438577aaf3f76e7cd51fc0e48a6d62a
 annum:
     year: 2011
     month: 12
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /welaika/wordless
+
 ---
 
 

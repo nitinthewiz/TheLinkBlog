@@ -6,7 +6,11 @@ hash: d4422e809d2d579a69691b5e127e6695
 annum:
     year: 2014
     month: 10
-hostname: ftp.arl.mil
+url-parts:
+    scheme: http
+    host: ftp.arl.mil
+    path: /mike/ping.html
+
 ---
 
 

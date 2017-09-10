@@ -6,7 +6,11 @@ hash: 18bba2eaae55431ffba1acb39a64921f
 annum:
     year: 2011
     month: 02
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /blog/post/470/
+
 ---
 
 We often hear from companies looking for guidance on maximizing their Facebook presence. To better meet each entitys needs, we introduced the Preferred Developer Consultant (PDC) program in December 2009 to connect companies and brands to the resources they need to build with Facebook products and technologies.

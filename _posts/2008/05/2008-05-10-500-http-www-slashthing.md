@@ -6,7 +6,11 @@ hash: 2f07efc5e25584a002c40f18c8ac9d7a
 annum:
     year: 2008
     month: 05
-hostname: www.slashthing.com
+url-parts:
+    scheme: http
+    host: www.slashthing.com
+    path: /power-wordpress-presentation-materials/
+
 ---
 
 Power WordPress Presentation Materials 

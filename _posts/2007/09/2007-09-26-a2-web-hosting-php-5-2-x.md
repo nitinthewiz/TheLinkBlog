@@ -6,7 +6,11 @@ hash: 5444583596cc48f826d2b52e0e7c87b3
 annum:
     year: 2007
     month: 09
-hostname: www.a2hosting.com
+url-parts:
+    scheme: http
+    host: www.a2hosting.com
+    path: /index.php
+
 ---
 
 A2 Hosting, Inc is a Linux based web hosting company focused on meeting and exceeding our customers' needs. Our range of services include affordable, developer friendly hosting for personal homepages up to full service solutions for businesses of all size

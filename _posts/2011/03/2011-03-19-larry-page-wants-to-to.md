@@ -6,7 +6,11 @@ hash: 878c6696ecd6209749ad860729d41e4f
 annum:
     year: 2011
     month: 03
-hostname: m.wired.com
+url-parts:
+    scheme: http
+    host: m.wired.com
+    path: /magazine/2011/03/mf_larrypage/all/1
+
 ---
 
 

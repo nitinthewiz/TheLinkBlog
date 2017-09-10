@@ -6,7 +6,11 @@ hash: a313ff173150831e8fa932edcbb40115
 annum:
     year: 2012
     month: 06
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:NumerAlpha
+
 ---
 
 This is an incremental tag... it counts how many tag you insert in the page source. You can reset the count at any moment or begin to a specified number.

@@ -6,7 +6,11 @@ hash: c63336031da5aa2cbe4fce5cc36188e3
 annum:
     year: 2012
     month: 08
-hostname: news.stkate.edu
+url-parts:
+    scheme: http
+    host: news.stkate.edu
+    path: /articles/kubb.html
+
 ---
 
 I've wanted to put an accelerometer in my batons since the moment I picked up a Kubb set.

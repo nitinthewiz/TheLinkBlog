@@ -7,7 +7,12 @@ hash: eb9d71ccce065b27326cf6e054a85ab5
 annum:
     year: 2010
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "BkkTSVVrPYk"
 ---
 
 cycling is a weird ass sport. 

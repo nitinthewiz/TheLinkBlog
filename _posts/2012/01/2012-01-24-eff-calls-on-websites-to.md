@@ -6,7 +6,11 @@ hash: 5365f8476fce663db8fdac0a1673b47e
 annum:
     year: 2012
     month: 01
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2012/01/eff-calls-websites-implement-https-part-data-privacy-day
+
 ---
 
 January 28th is Data Privacy Day, also known as International Privacy Day. To celebrate, EFF is calling on users to protect online privacy by in three ways: download HTTPS Everywhere to ensure you use HTTPS when possible; help us catalog sites that are using HTTPS by contributing to HTTPS Now; and, if you administer a site, commit to enabling HTTPS support in 2012.

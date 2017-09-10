@@ -6,7 +6,11 @@ hash: 12888cf785e07fce439575b54b43cf25
 annum:
     year: 2012
     month: 11
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gaming/2012/11/wii-u-teardown-shows-a-whole-lot-of-wirelessness/
+
 ---
 
 

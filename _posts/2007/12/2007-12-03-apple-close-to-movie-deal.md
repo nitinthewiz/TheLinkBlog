@@ -6,7 +6,11 @@ hash: bdfe2400e14fc2914748d21d8f51f44f
 annum:
     year: 2007
     month: 12
-hostname: appleinsider.com
+url-parts:
+    scheme: http
+    host: appleinsider.com
+    path: /articles/07/12/03/apple_close_to_movie_distribution_deal_with_fox_report
+
 ---
 
 NewsCorp's Twentieth Century Fox is close to striking a deal with Apple to offer digital copies of its major motion pictures through iTunes, according to one Wall Street analyst.

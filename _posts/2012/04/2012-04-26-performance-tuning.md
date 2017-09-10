@@ -6,7 +6,11 @@ hash: 54aefdea4e3b4ad515c3cadd4de29743
 annum:
     year: 2012
     month: 04
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Manual:Performance_tuning
+
 ---
 
 This page provides a quick overview of ways to improve the performance of MediaWiki.

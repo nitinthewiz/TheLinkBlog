@@ -6,7 +6,11 @@ hash: 33310b403c2f5f3b075bbb75a0057ecb
 annum:
     year: 2015
     month: 01
-hostname: www.theverge.com
+url-parts:
+    scheme: http
+    host: www.theverge.com
+    path: /2015/1/7/7508651/leap-second-2015-earths-rotation-slowing
+
 ---
 
 

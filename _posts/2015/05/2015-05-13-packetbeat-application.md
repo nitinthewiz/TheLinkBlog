@@ -6,7 +6,11 @@ hash: 339af258ceb77bd7bce798721a507e48
 annum:
     year: 2015
     month: 05
-hostname: packetbeat.com
+url-parts:
+    scheme: http
+    host: packetbeat.com
+    path: /
+
 ---
 
 Packetbeat is the Open Source solution for monitoring Distributed Applications. Think of it like a distributed real-time Wireshark with a lot more analytics features.

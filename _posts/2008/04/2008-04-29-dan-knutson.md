@@ -6,7 +6,11 @@ hash: 758ef9da94aad7130a5424d5c9ce9c34
 annum:
     year: 2008
     month: 04
-hostname: www.danknutson.com
+url-parts:
+    scheme: http
+    host: www.danknutson.com
+    path: /
+
 ---
 
 Possible contractor for design and IA work.

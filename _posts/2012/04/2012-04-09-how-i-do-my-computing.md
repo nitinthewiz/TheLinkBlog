@@ -6,7 +6,11 @@ hash: e0fe12765d4324ae150b328c4edd1b63
 annum:
     year: 2012
     month: 04
-hostname: stallman.org
+url-parts:
+    scheme: https
+    host: stallman.org
+    path: /stallman-computing.html
+
 ---
 
 

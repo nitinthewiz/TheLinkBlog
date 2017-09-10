@@ -6,7 +6,11 @@ hash: 7df7503e595ff8e3bd74f88914b63713
 annum:
     year: 2005
     month: 08
-hostname: www.ghostcycle.org
+url-parts:
+    scheme: http
+    host: www.ghostcycle.org
+    path: /
+
 ---
 
 Interesting website advocating bike safety in Seattle.

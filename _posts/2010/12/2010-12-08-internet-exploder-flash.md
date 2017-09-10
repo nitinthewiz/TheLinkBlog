@@ -6,7 +6,11 @@ hash: 0561821ed34d73bab048f451f17de85a
 annum:
     year: 2010
     month: 12
-hostname: dirtystylus.com
+url-parts:
+    scheme: http
+    host: dirtystylus.com
+    path: /2006/05/31/internet-exploder/
+
 ---
 
 

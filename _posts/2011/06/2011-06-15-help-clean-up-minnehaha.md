@@ -6,7 +6,11 @@ hash: 1dcbfe7198b91e1082a7947f18371d26
 annum:
     year: 2011
     month: 06
-hostname: southwestminneapolis.patch.com
+url-parts:
+    scheme: http
+    host: southwestminneapolis.patch.com
+    path: /articles/help-clean-up-minnehaha-creek
+
 ---
 
 

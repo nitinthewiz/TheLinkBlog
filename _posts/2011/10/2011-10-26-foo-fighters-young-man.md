@@ -6,7 +6,12 @@ hash: 07053a3c7ae71c223b2e2618a911298c
 annum:
     year: 2011
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "UBot1H_nRfw"
 ---
 
 Foo Fighters

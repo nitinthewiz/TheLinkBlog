@@ -6,7 +6,11 @@ hash: f01ca182e8a99ba6b2c4258078347509
 annum:
     year: 2010
     month: 07
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/07/there-is-bergkamp
+
 ---
 
 Congratulations to the Dutch for reaching the World Cup final. To celebrate, here's a great Dutch moment from a past World Cup...Dennis Bergkamp's epic goal vs. Argentina in the 1998 WC. Turn the speakers up...the sound is everything.

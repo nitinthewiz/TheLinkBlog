@@ -6,7 +6,11 @@ hash: e1f82f03b88ac7a83195e6e9ff383a6f
 annum:
     year: 2016
     month: 10
-hostname: rework.withgoogle.com
+url-parts:
+    scheme: https
+    host: rework.withgoogle.com
+    path: /blog/five-keys-to-a-successful-google-team/
+
 ---
 
 Pod. Work group. Committee. Autonomous collective. Whatever you call it, you’re part of one at Google and probably wherever you work: a team. So if we know what makes managers great, why don’t we know what makes a team great?

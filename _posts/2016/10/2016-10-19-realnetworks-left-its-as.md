@@ -6,7 +6,11 @@ hash: 13710c0439f37ddc4af94024792e5cce
 annum:
     year: 2016
     month: 10
-hostname: www.seattletimes.com
+url-parts:
+    scheme: http
+    host: www.seattletimes.com
+    path: /business/technology/realnetworks-left-its-mark-as-a-launchpad-for-tech-entrepreneurs/
+
 ---
 
 The early Seattle streaming pioneer is long past its heyday now, but it proved a good training ground for a generation of startup executives.

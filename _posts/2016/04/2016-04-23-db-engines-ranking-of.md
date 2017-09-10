@@ -6,7 +6,11 @@ hash: e51eecf1905b529398aa8763887f6c31
 annum:
     year: 2016
     month: 04
-hostname: db-engines.com
+url-parts:
+    scheme: http
+    host: db-engines.com
+    path: /en/ranking
+
 ---
 
 

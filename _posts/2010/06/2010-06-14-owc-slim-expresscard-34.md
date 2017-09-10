@@ -6,7 +6,11 @@ hash: 95b1c64615ace4c5f58da42b0c828267
 annum:
     year: 2010
     month: 06
-hostname: eshop.macsales.com
+url-parts:
+    scheme: http
+    host: eshop.macsales.com
+    path: /item/Other%20World%20Computing/EXP34SATA2F1/
+
 ---
 
 This OWC eSATA adapter seems to be a winner.  No drivers. Bootable. 64-bit happy. Paired with Lacie 4Big should be good.

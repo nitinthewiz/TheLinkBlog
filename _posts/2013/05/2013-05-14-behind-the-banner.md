@@ -6,7 +6,11 @@ hash: dd02542faa2160c043181300a9e96113
 annum:
     year: 2013
     month: 05
-hostname: cmsummit.com
+url-parts:
+    scheme: http
+    host: cmsummit.com
+    path: /behindthebanner/
+
 ---
 
 The entire ad placement network is one of the most complex computational systems on the planet. Behind The Banner is an attempt to understand the underlying interactions that define this ecosystem, and how they impact our daily use of the web.

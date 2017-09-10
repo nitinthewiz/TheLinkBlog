@@ -6,7 +6,11 @@ hash: d80c448249494014d972879355a8a016
 annum:
     year: 2013
     month: 06
-hostname: al3x.net
+url-parts:
+    scheme: https
+    host: al3x.net
+    path: /2013/05/23/letter-to-a-young-programmer.html
+
 ---
 
 Very good.

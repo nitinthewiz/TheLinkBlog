@@ -6,7 +6,11 @@ hash: 119e13c394210d8bcc14af7d7cc44308
 annum:
     year: 2011
     month: 11
-hostname: www.dataversity.net
+url-parts:
+    scheme: http
+    host: www.dataversity.net
+    path: /slides-a-case-study-of-nosql-adoption-what-drove-wordnik-non-relational/
+
 ---
 
 

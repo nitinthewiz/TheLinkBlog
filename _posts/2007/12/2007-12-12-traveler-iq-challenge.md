@@ -6,7 +6,11 @@ hash: 1f5eb207d62a77817d417204c759b751
 annum:
     year: 2007
     month: 12
-hostname: www.travelpod.com
+url-parts:
+    scheme: http
+    host: www.travelpod.com
+    path: /traveler-iq
+
 ---
 
 

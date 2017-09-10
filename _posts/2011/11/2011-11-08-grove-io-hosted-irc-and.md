@@ -6,7 +6,11 @@ hash: d82ea80d021c2a19588e14c69fc231f2
 annum:
     year: 2011
     month: 11
-hostname: grove.io
+url-parts:
+    scheme: https
+    host: grove.io
+    path: /
+
 ---
 
 Hosted IRC and so much more.

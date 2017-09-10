@@ -6,7 +6,11 @@ hash: 06ea96aabc3068157a5592d4c8f12d49
 annum:
     year: 2008
     month: 11
-hostname: chip.cuccio.us
+url-parts:
+    scheme: http
+    host: chip.cuccio.us
+    path: /
+
 ---
 
 Artisan of web / network / computer systems, father, husband - from southern Minnesota, USA

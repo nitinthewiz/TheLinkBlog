@@ -6,7 +6,11 @@ hash: 0584c4efdb1006cfcc2009f29e2a282f
 annum:
     year: 2011
     month: 05
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /talk/comment/2011/05/16/110516taco_talk_remnick
+
 ---
 
 

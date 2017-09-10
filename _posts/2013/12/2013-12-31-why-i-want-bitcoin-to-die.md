@@ -6,7 +6,11 @@ hash: 181a66056f349d13ce95c1e2730c664c
 annum:
     year: 2013
     month: 12
-hostname: www.antipope.org
+url-parts:
+    scheme: http
+    host: www.antipope.org
+    path: /charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html
+
 ---
 
 

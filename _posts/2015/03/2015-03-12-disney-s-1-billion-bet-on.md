@@ -6,7 +6,11 @@ hash: edc59f4086e8be5c69f3dd96f3f1e918
 annum:
     year: 2015
     month: 03
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2015/03/disney-magicband/
+
 ---
 
 

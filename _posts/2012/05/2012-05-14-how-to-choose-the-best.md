@@ -6,7 +6,11 @@ hash: 8131877374261df9077d037d891a52bd
 annum:
     year: 2012
     month: 05
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5909501/how-to-choose-the-best-chart-for-your-data
+
 ---
 
 Good article, worth it just for the hilarious header image.

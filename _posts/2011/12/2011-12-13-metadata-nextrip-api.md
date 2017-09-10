@@ -6,7 +6,11 @@ hash: 1941c18cb2fd341a7b6c63b583cc5007
 annum:
     year: 2011
     month: 12
-hostname: www.datafinder.org
+url-parts:
+    scheme: http
+    host: www.datafinder.org
+    path: /metadata/NexTripAPI.htm
+
 ---
 
 Developers: NexTrip API was posted to  on Friday. It's here: 

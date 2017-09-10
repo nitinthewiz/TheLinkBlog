@@ -6,7 +6,11 @@ hash: f845a649842e531b6fd7d251abb6c18b
 annum:
     year: 2010
     month: 12
-hostname: www.niemanlab.org
+url-parts:
+    scheme: http
+    host: www.niemanlab.org
+    path: /2010/12/dave-winer-theres-no-good-place-for-a-new-maginot-line-for-the-news/
+
 ---
 
 What both Groupon and local news organizations do:  by Dave Winer at @NiemanLab.

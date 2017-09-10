@@ -6,7 +6,11 @@ hash: 92153eca8cf10e3a984563320ae53397
 annum:
     year: 2014
     month: 09
-hostname: www.hodinkee.com
+url-parts:
+    scheme: http
+    host: www.hodinkee.com
+    path: /blog/hodinkee-apple-watch-review
+
 ---
 
 A Watch Guy's Thoughts On The Apple Watch After Seeing It In The Metal (Tons Of Live Photos)

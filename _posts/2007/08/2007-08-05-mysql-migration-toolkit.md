@@ -6,7 +6,11 @@ hash: cf825b0c6f8bc5e1a7cb488886253068
 annum:
     year: 2007
     month: 08
-hostname: www.mysql.com
+url-parts:
+    scheme: http
+    host: www.mysql.com
+    path: /products/tools/migration-toolkit/
+
 ---
 
 The MySQL Migration Toolkit is a powerful framework that enables you to quickly migrate your proprietary databases to MySQL. Using a Wizard-driven interface, the MySQL Migration Toolkit implements a proven methodology and walks you through the necessary s

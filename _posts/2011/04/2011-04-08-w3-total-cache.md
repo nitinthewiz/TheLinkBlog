@@ -6,7 +6,11 @@ hash: 7e30f8845c5eb9fcd7211286b9974044
 annum:
     year: 2011
     month: 04
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /extend/plugins/w3-total-cache/
+
 ---
 
 Easily optimize the speed and user experience of your site with caching: browser, page, object, database, minify and content delivery network support.

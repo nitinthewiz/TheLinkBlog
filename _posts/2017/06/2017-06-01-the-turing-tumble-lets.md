@@ -6,7 +6,11 @@ hash: cb2d8f28eb0d3cb80c4e210ef08c1b38
 annum:
     year: 2017
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: https
+    host: techcrunch.com
+    path: /2017/05/30/the-turing-tumble-lets-you-and-your-kids-build-real-mechanical-computers/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 549de1f0060dded6bc698e7e28bc56fb
 annum:
     year: 2005
     month: 08
-hostname: waiterrant.net
+url-parts:
+    scheme: http
+    host: waiterrant.net
+    path: /
+
 ---
 
 

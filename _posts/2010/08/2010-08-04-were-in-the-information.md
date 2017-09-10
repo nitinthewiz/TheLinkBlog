@@ -6,7 +6,11 @@ hash: a01c4906d069417b122fde9edbdbbf21
 annum:
     year: 2010
     month: 08
-hostname: stdout.be
+url-parts:
+    scheme: http
+    host: stdout.be
+    path: /2010/we-are-in-the-information-business/
+
 ---
 
 Great post, goes deep re: CMS: "Doing journalism with structured data, not narratives"  /via @suzanneyada, @danielbachhuber

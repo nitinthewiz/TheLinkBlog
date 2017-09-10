@@ -6,7 +6,11 @@ hash: dbc51d4bc9a8bc5e697022173809e519
 annum:
     year: 2009
     month: 06
-hostname: mjtsai.com
+url-parts:
+    scheme: http
+    host: mjtsai.com
+    path: /blog/2009/06/15/safari-4s-full-page-zoom/
+
 ---
 
 Pierre Igot:

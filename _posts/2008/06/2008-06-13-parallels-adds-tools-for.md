@@ -6,7 +6,11 @@ hash: 6bf3407e0896e8112b4caf67d64b5eba
 annum:
     year: 2008
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/06/12/parallels-adds-tools-for-linux-3d-for-windows/
+
 ---
 
 

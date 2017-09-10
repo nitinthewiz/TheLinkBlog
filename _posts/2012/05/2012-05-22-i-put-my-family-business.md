@@ -6,7 +6,11 @@ hash: 8ebca0b8a30e253d8ba5ec966f1e1c80
 annum:
     year: 2012
     month: 05
-hostname: www.thejournal.ie
+url-parts:
+    scheme: http
+    host: www.thejournal.ie
+    path: /readme/column-i-put-my-family-business-on-facebook-here%e2%80%99s-what-happened-455538-May2012/
+
 ---
 
 

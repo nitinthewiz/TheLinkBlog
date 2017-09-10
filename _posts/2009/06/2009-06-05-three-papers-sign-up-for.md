@@ -6,7 +6,12 @@ hash: 46278194a7dce8fb9dadb03379161b9d
 annum:
     year: 2009
     month: 06
-hostname: www.editorandpublisher.com
+url-parts:
+    scheme: http
+    host: www.editorandpublisher.com
+    path: /eandp/departments/syndicates/article_display.jsp
+    query:
+        vnu_content_id: "1003980515"
 ---
 
 Three daily newspapers have signed on with The Wall Street Journal Sunday to receive business-related syndicated content.

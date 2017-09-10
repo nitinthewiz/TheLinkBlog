@@ -6,7 +6,11 @@ hash: c4e8b549d6a8db5b899555b7afa58f7e
 annum:
     year: 2015
     month: 08
-hostname: www.speirs.org
+url-parts:
+    scheme: http
+    host: www.speirs.org
+    path: /blog/2015/8/25/the-apple-watch-at-work-and-play
+
 ---
 
 

@@ -6,7 +6,13 @@ hash: d0cd1428e08aa46c292d5e28b32a263c
 annum:
     year: 2009
     month: 10
-hostname: www.poynter.org
+url-parts:
+    scheme: http
+    host: www.poynter.org
+    path: /column.asp
+    query:
+        id: "45"
+        aid: "171731"
 ---
 
 Editor & Publisher

@@ -6,7 +6,11 @@ hash: 5960d6e6b6f5065e5e212e1e4bb77a20
 annum:
     year: 2011
     month: 04
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/04/11/toTheYoungBrilliantMinds.html
+
 ---
 
 

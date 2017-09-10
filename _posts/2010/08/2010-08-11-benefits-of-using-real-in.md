@@ -6,7 +6,11 @@ hash: 9fa52525bf2ba47060b722f11583ad05
 annum:
     year: 2010
     month: 08
-hostname: www.rajiv.com
+url-parts:
+    scheme: http
+    host: www.rajiv.com
+    path: /blog/2009/12/10/tech-ops-irc/
+
 ---
 
 Benefits of Using Real-Time Group Chat (IRC) in Technology Operations Management

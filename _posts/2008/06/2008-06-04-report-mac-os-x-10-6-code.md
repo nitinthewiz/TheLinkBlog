@@ -6,7 +6,11 @@ hash: 83a3f5f5d27c9cf4599d2e636647469e
 annum:
     year: 2008
     month: 06
-hostname: www.macdailynews.com
+url-parts:
+    scheme: http
+    host: www.macdailynews.com
+    path: /index.php/weblog/comments/report_mac_os_x_106_code_named_snow_leopard_and_will_be_intel_only/
+
 ---
 
 The next version of Mac OS X is code-named 'Snow Leopard,' and will indeed be Intel-only...

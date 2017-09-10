@@ -6,7 +6,11 @@ hash: 67fbb9714ad1416dffaaa04a7afa0ff2
 annum:
     year: 2007
     month: 12
-hostname: www.bloggingpro.com
+url-parts:
+    scheme: http
+    host: www.bloggingpro.com
+    path: /archives/2007/12/17/new-version-of-akismet/
+
 ---
 
 There is a new version of Akismet out today, and this time it looks like they are taking some cues from their competitors and users in adding new features:

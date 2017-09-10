@@ -6,7 +6,11 @@ hash: e3ec76f799d3614839277418b349f986
 annum:
     year: 2009
     month: 05
-hostname: www.lessig.org
+url-parts:
+    scheme: http
+    host: www.lessig.org
+    path: /blog/2009/05/rip_in_minneapolis_--_may_28.html
+
 ---
 
 From the latest RIP!: A Remix Manifesto screening: 

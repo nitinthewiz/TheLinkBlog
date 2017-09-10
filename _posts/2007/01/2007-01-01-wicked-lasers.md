@@ -6,7 +6,11 @@ hash: fdbfd062d1c65dc01d35ad593eb6548e
 annum:
     year: 2007
     month: 01
-hostname: www.wickedlasers.com
+url-parts:
+    scheme: http
+    host: www.wickedlasers.com
+    path: /
+
 ---
 
 Laser Pointers, Blue, Green & Red Lasers

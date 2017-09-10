@@ -6,7 +6,13 @@ hash: bd2c40b11ff24f1d1031ab375d1f103c
 annum:
     year: 2012
     month: 11
-hostname: planetkubb.com
+url-parts:
+    scheme: http
+    host: planetkubb.com
+    path: /post/announcing-the-planet-kubb-us-kubb-club-championship/
+    query:
+        pk_campaign: "planetkubb"
+        pk_kwd: "twitter"
 ---
 
 Planet Kubb: Announcing the Planet Kubb US Kubb Club Championship  #kubb

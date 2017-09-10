@@ -6,7 +6,11 @@ hash: 6cbac3398abb3b03fb0f21eacc87919a
 annum:
     year: 2010
     month: 12
-hostname: docs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: docs.aws.amazon.com
+    path: /AWSEC2/latest/UserGuide/index.html
+    query:
 ---
 
 Considering AWS EC2 Micro instances? Read this doc to understand the compute profile.

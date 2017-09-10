@@ -6,7 +6,11 @@ hash: e83541ea8407c4a933647a456d96467a
 annum:
     year: 2013
     month: 07
-hostname: tributary.io
+url-parts:
+    scheme: http
+    host: tributary.io
+    path: /
+
 ---
 
 Tributary is an experimental environment for rapidly prototyping visualization code. The environment provides several useful libraries, as well as a simple interface for live code editing. We call these shareable code examples inlets.

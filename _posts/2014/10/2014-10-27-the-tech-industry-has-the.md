@@ -6,7 +6,11 @@ hash: ee4553f6d81ea4722e3aaf9e823317b6
 annum:
     year: 2014
     month: 10
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /the-information-industry-is-at-a-fork-in-the-digital-road-2014-10
+
 ---
 
 IMAGINE that Apple had folded in the mid-1990s, as some predicted at the time.

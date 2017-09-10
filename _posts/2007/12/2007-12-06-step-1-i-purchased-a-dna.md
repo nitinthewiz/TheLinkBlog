@@ -6,7 +6,11 @@ hash: cedf237f45ba5b275a8803b3353e35a2
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/06/step-1-i-purchased-a-23andme-dna-test/
+
 ---
 
 Tonight I bit the bullet and bought a DNA test from 23andMes new Personal Genome Service. This wasnt an easy thing to do. Quite frankly I fear what may be disclosed to me after spitting in that plastic cup and sending it off for analysis.

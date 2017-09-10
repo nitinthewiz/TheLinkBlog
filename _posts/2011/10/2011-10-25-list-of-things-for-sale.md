@@ -6,7 +6,11 @@ hash: 232add4a7b557efe0ff00a43b3742ef4
 annum:
     year: 2011
     month: 10
-hostname: listofthingsforsale.com
+url-parts:
+    scheme: http
+    host: listofthingsforsale.com
+    path: /
+
 ---
 
 

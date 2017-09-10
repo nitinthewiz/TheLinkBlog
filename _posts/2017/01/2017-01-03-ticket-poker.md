@@ -6,7 +6,11 @@ hash: 8674860f0afe5d64b54c134f937be4c0
 annum:
     year: 2017
     month: 01
-hostname: www.ticket-poker.org
+url-parts:
+    scheme: https
+    host: www.ticket-poker.org
+    path: /
+
 ---
 
 This is an online tool to facilitate planning poker for development teams, especially remote or partially-remote teams.

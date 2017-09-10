@@ -6,7 +6,11 @@ hash: 821c5ae87bc6268821f508c1017252e9
 annum:
     year: 2011
     month: 12
-hostname: www.antipope.org
+url-parts:
+    scheme: http
+    host: www.antipope.org
+    path: /charlie/blog-static/2011/11/cutting-their-own-throats.html
+
 ---
 
 

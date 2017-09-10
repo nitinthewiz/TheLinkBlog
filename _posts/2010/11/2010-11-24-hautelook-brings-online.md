@@ -6,7 +6,11 @@ hash: f71cd542d9f0733404ee094a0fdd126f
 annum:
     year: 2010
     month: 11
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /hautelook-brings-online-sample-sales-to-facebook_b24244
+
 ---
 
 

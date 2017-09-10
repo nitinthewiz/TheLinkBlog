@@ -6,7 +6,11 @@ hash: 10d996f9790be5c2f6a210ed3eba7d2c
 annum:
     year: 2010
     month: 10
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2010/10/01/amazon-facebook-webstore/
+
 ---
 
 As individuals spend more and more time on Facebook, big brands looking to leverage that time are integrating more features and services into their Fan Pages.

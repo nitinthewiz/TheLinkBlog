@@ -6,7 +6,11 @@ hash: 92a3c059a97a86962f0bed49f8930238
 annum:
     year: 2007
     month: 12
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2007/12/04/419-beliefnet-being-bought-by-news-corp-reports-not-linkedin/
+
 ---
 
 Beliefnet, the NYC-based multi-faith community site which has been around since 1999 and has gone through Chapter 11 bankruptcy, has finally been bought. The buyer is News Corp...yes, the company has found faith, well, multi-faith, according to FishBowlNYC and since then also confirmed to us by sources. Beliefnet was launched in December 1999 and has been profitable since October 2002, according to the company...it raised a $7 million round from Softbank Capital in 2005. Lots more updates after the jump..

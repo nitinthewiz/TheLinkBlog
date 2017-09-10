@@ -6,7 +6,12 @@ hash: d6392015a7c8f82c35a8d7ccfef394de
 annum:
     year: 2005
     month: 08
-hostname: www.extremetech.com
+url-parts:
+    scheme: http
+    host: www.extremetech.com
+    path: /article2/0,1558,1854508,00.asp
+    query:
+        kc: "ETRSS02129TX1K0000532"
 ---
 
 More complete write-up on speeding up Firefox.

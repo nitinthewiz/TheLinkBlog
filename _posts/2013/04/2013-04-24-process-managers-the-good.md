@@ -6,7 +6,11 @@ hash: 59f6073ff083dda852ab7603142fb824
 annum:
     year: 2013
     month: 04
-hostname: blog.crocodoc.com
+url-parts:
+    scheme: http
+    host: blog.crocodoc.com
+    path: /post/48703468992/process-managers-the-good-the-bad-and-the-ugly
+
 ---
 
 I should probably use upstart more often.

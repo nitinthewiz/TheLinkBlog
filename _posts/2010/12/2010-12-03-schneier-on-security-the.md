@@ -6,7 +6,11 @@ hash: 78166c61e2f5db54a098f037e0cbd28d
 annum:
     year: 2010
     month: 12
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2010/12/close_the_washi.html
+
 ---
 
 

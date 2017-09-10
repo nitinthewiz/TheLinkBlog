@@ -6,7 +6,11 @@ hash: ba3efa75687740de15d3f8f6fcdcb80b
 annum:
     year: 2011
     month: 11
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /press/releases/privacy-loses-twitterwikileaks-records-battle
+
 ---
 
 Ruling Allows U.S. Government Warrantless Access to Users' Data

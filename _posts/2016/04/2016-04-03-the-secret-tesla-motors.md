@@ -6,7 +6,11 @@ hash: 0b4feceb986417f7236dc46aa91cc626
 annum:
     year: 2016
     month: 04
-hostname: www.teslamotors.com
+url-parts:
+    scheme: https
+    host: www.teslamotors.com
+    path: /blog/secret-tesla-motors-master-plan-just-between-you-and-me
+
 ---
 
 Build sports car

@@ -6,7 +6,11 @@ hash: 29e4a4aa73f73f8b827cbfbd7e5fcb31
 annum:
     year: 2010
     month: 02
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2010/02/09/twilio-adds-sms-text-support-to-its-phone-to-web-api/
+
 ---
 
 

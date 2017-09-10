@@ -6,7 +6,11 @@ hash: 373718c39925518de301bd2c8130d890
 annum:
     year: 2010
     month: 09
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-gordon-mcleod-resigns-as-president-wsj-digital-network/
+
 ---
 
 

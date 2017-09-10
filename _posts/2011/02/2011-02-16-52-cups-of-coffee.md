@@ -6,7 +6,11 @@ hash: 6244bfa221a45e6b185a0464cdb3a322
 annum:
     year: 2011
     month: 02
-hostname: www.52cups.com
+url-parts:
+    scheme: http
+    host: www.52cups.com
+    path: /
+
 ---
 
 52 Cups of Coffee  one girl's year-long experiment with caffeine and conversation  (via @kirstinbutler)

@@ -6,7 +6,11 @@ hash: 4dc366f5cd30bb9ca5da65eb9db1e2fe
 annum:
     year: 2011
     month: 06
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/06/30/optingoutOfGooglePlus.html
+
 ---
 
 

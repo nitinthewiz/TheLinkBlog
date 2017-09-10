@@ -6,7 +6,11 @@ hash: 6d9941fcfa52375368640e95d6e5cd15
 annum:
     year: 2014
     month: 06
-hostname: longurl.org
+url-parts:
+    scheme: http
+    host: longurl.org
+    path: /
+
 ---
 
 Avoid phishing, malware, and viruses by examining short URLs before visiting them. Find out where links really take you.

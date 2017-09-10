@@ -6,7 +6,11 @@ hash: 412751073339169a656736c0b701172f
 annum:
     year: 2011
     month: 05
-hostname: www.pioneerosis.com
+url-parts:
+    scheme: http
+    host: www.pioneerosis.com
+    path: /lighting-it-up-at-ignite-minneapolis
+
 ---
 
 

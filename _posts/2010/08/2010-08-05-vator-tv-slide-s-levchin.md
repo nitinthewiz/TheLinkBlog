@@ -6,7 +6,11 @@ hash: 5bdc0d8d4065dbd322492f9a52642336
 annum:
     year: 2010
     month: 08
-hostname: vator.tv
+url-parts:
+    scheme: http
+    host: vator.tv
+    path: /news/2008-04-14-slides-levchin-on-making-money-in-social-media
+
 ---
 
 Slide's Levchin on making money in social media

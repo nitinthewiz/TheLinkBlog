@@ -6,7 +6,11 @@ hash: 5b4b703ab731256af16ecc58c193cdb4
 annum:
     year: 2011
     month: 12
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /fehguy/running-mongodb-in-the-cloud
+
 ---
 
 Deck from #mongosv about how @wordnik runs mongodb in the cloud.  Now back to that down physical server 

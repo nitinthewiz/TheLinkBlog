@@ -6,7 +6,11 @@ hash: a592dcbb10fca1bbdd07f2fdb15bcfea
 annum:
     year: 2010
     month: 12
-hostname: www.cnn.com
+url-parts:
+    scheme: http
+    host: www.cnn.com
+    path: /2009/LIVING/07/09/eggheads.irpt/index.html
+
 ---
 
 

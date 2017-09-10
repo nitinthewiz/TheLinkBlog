@@ -6,7 +6,11 @@ hash: a1d39d28d4078c31bfa2395393fbc474
 annum:
     year: 2011
     month: 03
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/03/03/launch-mn-project-skyway/
+
 ---
 
 

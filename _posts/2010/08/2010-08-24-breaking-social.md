@@ -6,7 +6,11 @@ hash: 09f7fbf6a05675e64ffbd20ed2b8fba6
 annum:
     year: 2010
     month: 08
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2010/08/24/breaking-social-networking-interconnections/
+
 ---
 
 Many (most?) people post updates to multiple Social Networks. Rather than hand-picking which networks get which updates, most of the multi-network types (nearly all?) post the identical update to all networks, simultaneously, automatically.

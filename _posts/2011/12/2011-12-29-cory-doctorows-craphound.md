@@ -6,7 +6,12 @@ hash: 8c63cd2a7f43a47f20f138298f10c841
 annum:
     year: 2011
     month: 12
-hostname: craphound.com
+url-parts:
+    scheme: http
+    host: craphound.com
+    path: /
+    query:
+        p: "3817"
 ---
 
 The Coming War on General Purpose Computation

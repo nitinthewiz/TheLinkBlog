@@ -6,7 +6,11 @@ hash: e92abf9937d3ab3601602cc6ddfdfc6b
 annum:
     year: 2005
     month: 08
-hostname: www.paulgraham.com
+url-parts:
+    scheme: http
+    host: www.paulgraham.com
+    path: /opensource.html
+
 ---
 
 Paul Graham touches on another good topic

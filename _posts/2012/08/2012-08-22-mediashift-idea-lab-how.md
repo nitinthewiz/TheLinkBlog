@@ -6,7 +6,11 @@ hash: f73d272070bc97753fe8aea519f5c45c
 annum:
     year: 2012
     month: 08
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /idealab/2012/08/how-wikipedia-manages-sources-for-breaking-news232.html
+
 ---
 
 Only if you geek out on such things. How the volunteer editors at Wikipedia evaluate sources when there's breaking news 

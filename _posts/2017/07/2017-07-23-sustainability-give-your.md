@@ -6,7 +6,11 @@ hash: b35dfbe55fe5a7687cd5a07ec7b6232d
 annum:
     year: 2017
     month: 07
-hostname: www.amazon.com
+url-parts:
+    scheme: https
+    host: www.amazon.com
+    path: /p/feature/xde6cauvpfp66o2
+
 ---
 
 I had no idea that your old Amazon boxes can be filled with things you no longer need and mailed to a charitable organization!

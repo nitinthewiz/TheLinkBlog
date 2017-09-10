@@ -6,7 +6,11 @@ hash: 05ab882e5b295d1b2fb43e698a762474
 annum:
     year: 2010
     month: 12
-hostname: www.kickstarter.com
+url-parts:
+    scheme: http
+    host: www.kickstarter.com
+    path: /projects/1318318905/creative-commons-fantasy-portrait-marathon
+
 ---
 
 A @Kickstarter project to fund CC-licensed Fantasy Portraits continues to gain funding and grow in scope: 

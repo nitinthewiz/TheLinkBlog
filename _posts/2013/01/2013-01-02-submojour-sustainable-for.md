@@ -6,7 +6,11 @@ hash: c5ab58f488ce5883120c4726448e2058
 annum:
     year: 2013
     month: 01
-hostname: www.submojour.net
+url-parts:
+    scheme: http
+    host: www.submojour.net
+    path: /archives/989/table-of-contents/
+
 ---
 
 International research on 69 journalistic pure players and their business models

@@ -6,7 +6,11 @@ hash: c767ec57121994a355f23416d4f8dbce
 annum:
     year: 2017
     month: 04
-hostname: anna.vc
+url-parts:
+    scheme: http
+    host: anna.vc
+    path: /post/64187007171/how-to-be-productive
+
 ---
 
 

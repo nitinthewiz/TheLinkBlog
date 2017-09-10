@@ -6,7 +6,11 @@ hash: 624ae980aaf618c70b6f348ce7ccca95
 annum:
     year: 2010
     month: 01
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2010/01/21/moneytree-venture-capital-investment/
+
 ---
 
 Now that 2009 is over, we can add up the numbers on how much venture firms invested in startups during all of 2009 — and, well, it was a lot less than in the past. Over the course of the year, VCs invested a total of $17.7 billion in 2,795 deals, the lowest total since 1997, according to the MoneyTree Report from the National Venture Capital Association and PricewaterhouseCoopers.

@@ -6,7 +6,11 @@ hash: a95e5640e5dcfd5324cadd8021a7cefa
 annum:
     year: 2011
     month: 11
-hostname: techblog.netflix.com
+url-parts:
+    scheme: http
+    host: techblog.netflix.com
+    path: /2011/11/benchmarking-cassandra-scalability-on.html
+
 ---
 
 The Netflix Tech Blog: Benchmarking Cassandra Scalability on AWS - Over a million writes per second 

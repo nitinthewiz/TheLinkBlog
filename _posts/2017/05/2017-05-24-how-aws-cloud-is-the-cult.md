@@ -6,7 +6,11 @@ hash: 52e1abc461f4002c349441e8c8f9ec6f
 annum:
     year: 2017
     month: 05
-hostname: redmonk.com
+url-parts:
+    scheme: https
+    host: redmonk.com
+    path: /jgovernor/2017/05/23/how-aws-cloud-is-demolishing-the-cult-of-youth/
+
 ---
 
 

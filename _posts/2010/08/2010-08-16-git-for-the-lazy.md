@@ -6,7 +6,11 @@ hash: 1e2051994d6b172d5256fe33ac3a872d
 annum:
     year: 2010
     month: 08
-hostname: wiki.spheredev.org
+url-parts:
+    scheme: http
+    host: wiki.spheredev.org
+    path: /Git_for_the_lazy
+
 ---
 
 Nice intro/cheatsheet for Git.

@@ -6,7 +6,11 @@ hash: aed06843bc1b695862580a86e13cf050
 annum:
     year: 2009
     month: 10
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/delicious_new_flavors.php
+
 ---
 
 On the Delicious blog today, the social bookmarking site has announced a slew of enhancements in addition to the usual bug fixes for their most recent release.

@@ -6,7 +6,11 @@ hash: f8afde2732e5ac40bd03cced84ddccad
 annum:
     year: 2009
     month: 11
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /news-corp-digital-chief-we-could-block-google-in-months-2009-11
+
 ---
 
 

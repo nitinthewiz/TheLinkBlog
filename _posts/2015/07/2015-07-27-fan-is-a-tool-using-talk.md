@@ -6,7 +6,11 @@ hash: d3d64df1446437b28b7681a3cd33b190
 annum:
     year: 2015
     month: 07
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /talks/fan_is_a_tool_using_animal.htm
+
 ---
 
 

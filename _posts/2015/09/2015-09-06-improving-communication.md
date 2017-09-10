@@ -6,7 +6,11 @@ hash: d36358f39dc354d420fe3b5798f8148f
 annum:
     year: 2015
     month: 09
-hostname: blog.twitter.com
+url-parts:
+    scheme: https
+    host: blog.twitter.com
+    path: /2015/improving-communication-across-distributed-teams
+
 ---
 
 As a global company, Twitter has offices in numerous locations around the world. Optimizing collaboration and improving productivity between employees across offices is a challenge faced by many…

@@ -6,7 +6,11 @@ hash: 4eb7567cc354ea5c21b986318ff96298
 annum:
     year: 2011
     month: 12
-hostname: localwiki.org
+url-parts:
+    scheme: https
+    host: localwiki.org
+    path: /
+
 ---
 
 The open-content, open-source effort to share the world's local knowledge

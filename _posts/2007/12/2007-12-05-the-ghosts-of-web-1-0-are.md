@@ -6,7 +6,11 @@ hash: 8f9ad279a32b8256b8acafe742cf7e83
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/04/the-ghosts-of-web-10-are-being-acquired-allbusinesscom-sells-for-55-million/
+
 ---
 
 The ghosts of Web 1.0 have risen from the dead and are being acquired. Beliefnet was acquired by News Corp yesterday and now Dun & Bradstreet has acquired another Web 1.0 survivor, AllBusiness.com, for $55 million.

@@ -6,7 +6,11 @@ hash: edd3b4d03aeb585e8ea739680527cfea
 annum:
     year: 2008
     month: 04
-hostname: scr.sc
+url-parts:
+    scheme: http
+    host: scr.sc
+    path: /products/dropclock/
+
 ---
 
 DROPCLOCK IS AN AESTHETICALLY INTRIGUING MOTION CLOCK SCREENSAVER. EVERY MINUTE OF REAL TIME IS NUMERICALLY EXPRESSED WITH HEAVY HELVETICA DROPPING INTO WATER IN SUPER SLOW-MOTION.

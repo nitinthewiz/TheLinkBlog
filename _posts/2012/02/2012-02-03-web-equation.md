@@ -6,7 +6,12 @@ hash: c30eea3165eb42213894950a3adc8d42
 annum:
     year: 2012
     month: 02
-hostname: webdemo.myscript.com
+url-parts:
+    scheme: http
+    host: webdemo.myscript.com
+    path: /portal.html
+    query:
+        locale: "default"
 ---
 
 Write an equation in the yellow zone. 

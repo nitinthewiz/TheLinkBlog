@@ -6,7 +6,11 @@ hash: 82588fe1d91fcf11e58e00e15945bd12
 annum:
     year: 2008
     month: 10
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2008/10/25/canons-eos-5d-mark-ii-manages-multiple-lp-e6-battery-capacities/
+
 ---
 
 

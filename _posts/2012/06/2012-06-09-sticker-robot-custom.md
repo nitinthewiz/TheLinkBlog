@@ -6,7 +6,11 @@ hash: 9f68f19b4c6247af83b2dcc1c886c827
 annum:
     year: 2012
     month: 06
-hostname: stickerobot.com
+url-parts:
+    scheme: http
+    host: stickerobot.com
+    path: /
+
 ---
 
 

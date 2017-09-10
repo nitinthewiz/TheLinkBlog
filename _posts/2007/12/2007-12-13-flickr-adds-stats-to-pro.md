@@ -6,7 +6,11 @@ hash: 4b37037f9152624591dc9c62fd76f501
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/13/flickr-adds-stats-to-photo-pro-accounts/
+
 ---
 
 Flickr has provided an attractive place to show off your photos and get constructive feedback from the community. However, their advanced comment and tagging system leaves out the vast number of people that simply peruse the site. But today Flickr unlocked those stats for Pro users. 

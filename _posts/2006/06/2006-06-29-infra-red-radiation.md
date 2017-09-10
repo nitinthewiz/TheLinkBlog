@@ -6,7 +6,11 @@ hash: 44bc218963b0dc331a631747edeb1b9a
 annum:
     year: 2006
     month: 06
-hostname: www.weathershop.com
+url-parts:
+    scheme: http
+    host: www.weathershop.com
+    path: /davis_radshield.htm
+
 ---
 
 Protects your External Temperature Sensor or External Temperature/Humidity Sensor from solar radiation and other sources of radiated and reflected heat.

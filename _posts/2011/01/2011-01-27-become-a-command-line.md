@@ -6,7 +6,11 @@ hash: 24e78eabc4ca9d52c2e474039edc76ce
 annum:
     year: 2011
     month: 01
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5743814/become-a-command-line-ninja-with-these-time%2Bsaving-shortcuts
+
 ---
 
 

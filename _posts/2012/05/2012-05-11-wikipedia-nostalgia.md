@@ -6,7 +6,11 @@ hash: a29eaa8e244b27840e66af08c97eaa3a
 annum:
     year: 2012
     month: 05
-hostname: nostalgia.wikipedia.org
+url-parts:
+    scheme: http
+    host: nostalgia.wikipedia.org
+    path: /wiki/HomePage
+
 ---
 
 

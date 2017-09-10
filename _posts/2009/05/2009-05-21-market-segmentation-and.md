@@ -6,7 +6,11 @@ hash: 8ad2bb4e95f3c53e6ec77ebe8ab3dfba
 annum:
     year: 2009
     month: 05
-hostname: www.unpossible.com
+url-parts:
+    scheme: http
+    host: www.unpossible.com
+    path: /2009/05/19/market-segmentation-and-my-minneapolis-iphone-programming-class-on-june-13-14/
+
 ---
 
 I announced the beta for Mobile Orchard’s Beginning iPhone Workshop late in the evening one weeknight last month before going to bed. By the time I work up the next morning more than half the spots were spoken for, and by noon the class had sold out. People who hadn’t checked Twitter or their feed reader until lunchtime were out of luck and, much as I hated it, I had to turn people away.

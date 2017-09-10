@@ -6,7 +6,11 @@ hash: dcc17af06eb9b4766a86c457e8533f60
 annum:
     year: 2015
     month: 09
-hostname: www.bbc.com
+url-parts:
+    scheme: http
+    host: www.bbc.com
+    path: /news/world-europe-34105925
+
 ---
 
 Was about 1 mile away having dinner last night from where these protests happened. 

@@ -6,7 +6,11 @@ hash: 59430da3317d405eaf58476d4622204d
 annum:
     year: 2015
     month: 09
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/culture-controversy-amazon-decoded-rita-j-king
+
 ---
 
 

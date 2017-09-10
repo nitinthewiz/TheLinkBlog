@@ -6,7 +6,11 @@ hash: 0ce980d61cfe3db2633b1a327aa9ff6d
 annum:
     year: 2010
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/11/24/419-lonely-planets-digital-director-brough-leaving/
+
 ---
 
 Lonely Planets Melbourne-based digital director Kelly Brough is leaving after about 18 months in the role. Her exit was announced to staff Tuesday, but theres no word of a replacement yet.

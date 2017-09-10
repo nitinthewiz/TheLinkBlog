@@ -6,7 +6,11 @@ hash: 783f49cc2e4299593874dbd449400c95
 annum:
     year: 2007
     month: 07
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /video/2007/07/05/technology/1194817121833/iphone-the-musical.html
+
 ---
 
 

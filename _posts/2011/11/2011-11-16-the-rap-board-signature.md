@@ -6,7 +6,11 @@ hash: 32648a7fcb1ebe52e8412856baad6bff
 annum:
     year: 2011
     month: 11
-hostname: therapboard.com
+url-parts:
+    scheme: http
+    host: therapboard.com
+    path: /
+
 ---
 
 

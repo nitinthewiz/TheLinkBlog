@@ -6,7 +6,11 @@ hash: e24563e3bdd42ad074c2f15b3b42e9f0
 annum:
     year: 2011
     month: 05
-hostname: www.theawl.com
+url-parts:
+    scheme: http
+    host: www.theawl.com
+    path: /2011/05/wikipedia-and-the-death-of-the-expert
+
 ---
 
 For one thing, Wikipedia is forcing us to confront the paradox inherent in the idea of learners as "doers, not recipients." If learners are indeed doers and not recipients, from whom are they learning? From one another, it appears; same as it ever was.

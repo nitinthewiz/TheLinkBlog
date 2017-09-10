@@ -6,7 +6,11 @@ hash: a1fbaeaba505adf2d92fa4daa306bac4
 annum:
     year: 2011
     month: 04
-hostname: 30daysofbiking.com
+url-parts:
+    scheme: http
+    host: 30daysofbiking.com
+    path: /
+
 ---
 
 

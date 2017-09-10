@@ -6,7 +6,11 @@ hash: fac0cadc985297832decf964ec1a29a8
 annum:
     year: 2010
     month: 12
-hostname: wordpress.org
+url-parts:
+    scheme: http
+    host: wordpress.org
+    path: /support/topic/what-should-2011-hold-for-wordpress
+
 ---
 
 Questions/priorities for 2011? Weigh in!

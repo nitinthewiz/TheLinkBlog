@@ -6,7 +6,11 @@ hash: b5d0d105b6e5cb312b2d880bd6096fd3
 annum:
     year: 2012
     month: 04
-hostname: horicky.blogspot.com
+url-parts:
+    scheme: http
+    host: horicky.blogspot.com
+    path: /2012/04/mongodb-architecture.html
+
 ---
 
 Last Friday I was very lucky to meet with Jared Rosoff from 10gen in a technical conference and have a discussion about the technical architecture of MongoDb. I found the information is very useful and want to share with more people.

@@ -6,7 +6,11 @@ hash: f5f5bce0daf24bf84bf3d5af68187ec2
 annum:
     year: 2009
     month: 01
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /yg5z
+
 ---
 
 Smoking away! 

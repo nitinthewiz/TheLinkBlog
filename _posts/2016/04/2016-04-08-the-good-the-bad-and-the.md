@@ -6,7 +6,11 @@ hash: 37c96b38da0d015726bcf2f9c55175db
 annum:
     year: 2016
     month: 04
-hostname: ionutn.com
+url-parts:
+    scheme: http
+    host: ionutn.com
+    path: /the-good-bad-and-the-ugly-of-working-remote-after-5-years/
+
 ---
 
 My no.1 conclusion? This thing is not easy, at least not for me. However, it’s also incredibly rewarding, and, in the long run, I think that those rewards make it worth the effort.

@@ -6,7 +6,11 @@ hash: fd30deac13513fe93da5dd280ecde986
 annum:
     year: 2010
     month: 12
-hostname: developers.facebook.com
+url-parts:
+    scheme: https
+    host: developers.facebook.com
+    path: /live_status/
+
 ---
 
 Page that shows the current status of the Facebook platform.

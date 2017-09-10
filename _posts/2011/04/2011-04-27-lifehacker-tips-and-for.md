@@ -6,7 +6,11 @@ hash: 9731c979019a133d7cc88171881956f1
 annum:
     year: 2011
     month: 04
-hostname: m.lifehacker.com
+url-parts:
+    scheme: http
+    host: m.lifehacker.com
+    path: //5795945/when-doing-what-you-love-isnt-the-best-career-choice
+
 ---
 
 

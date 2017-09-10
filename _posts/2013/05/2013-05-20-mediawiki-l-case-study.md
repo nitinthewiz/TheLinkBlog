@@ -6,7 +6,11 @@ hash: 11f54abab1f102fe8c30482b2eb0349f
 annum:
     year: 2013
     month: 05
-hostname: lists.wikimedia.org
+url-parts:
+    scheme: https
+    host: lists.wikimedia.org
+    path: /pipermail/mediawiki-l/2013-May/041162.html
+
 ---
 
 The purpose of this thread is to give you an overview of how I went about

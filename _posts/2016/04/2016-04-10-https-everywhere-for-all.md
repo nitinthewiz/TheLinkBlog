@@ -6,7 +6,11 @@ hash: 7084b764da0f962832b368b347fd5346
 annum:
     year: 2016
     month: 04
-hostname: en.blog.wordpress.com
+url-parts:
+    scheme: https
+    host: en.blog.wordpress.com
+    path: /2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+
 ---
 
 This is a wonderful side benefit of the EFF and Let's Encrypt. Free encryption for millions of websites!

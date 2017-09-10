@@ -6,7 +6,11 @@ hash: d778f9bb74128e5a60e37bb35ff45fe2
 annum:
     year: 2011
     month: 07
-hostname: ejroundtheworld.blogspot.com
+url-parts:
+    scheme: http
+    host: ejroundtheworld.blogspot.com
+    path: /2011/06/violated-travelers-lost-faith-difficult.html
+
 ---
 
 

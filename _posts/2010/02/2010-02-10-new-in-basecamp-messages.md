@@ -6,7 +6,11 @@ hash: a8880cfc4a29e82a7b5e7f3fb1b21d91
 annum:
     year: 2010
     month: 02
-hostname: productblogarchive.37signals.com
+url-parts:
+    scheme: http
+    host: productblogarchive.37signals.com
+    path: /products/2010/02/new-in-basecamp-redesigned-messages-section.html
+
 ---
 
 We just launched a redesigned message section in Basecamp. The redesign brings current discussions to the top of the screen for easy discoverability and quick access. We also cleaned up the message design and added avatars to each message in the list.

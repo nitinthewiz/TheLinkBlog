@@ -6,7 +6,11 @@ hash: f11faa92b42bad34057b459755f44c92
 annum:
     year: 2009
     month: 08
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2009/08/14/twitter-used-to-control-botnet/
+
 ---
 
 Twitter might be revolutionizing social communication, but it’s also providing a handy way for hackers and virus makers to issue commands once their creations are out in the wild. Symantec has determined that a trojan horse called “Downloader.Sninfs” was using the @upd4te Twitter account to send obfuscated commands to infected machines. Twitter has since disabled the account in question.

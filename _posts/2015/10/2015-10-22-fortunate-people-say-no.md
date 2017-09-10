@@ -6,7 +6,11 @@ hash: 14687b300bf3cb3c8fc48f829247e590
 annum:
     year: 2015
     month: 10
-hostname: bogost.com
+url-parts:
+    scheme: http
+    host: bogost.com
+    path: /blog/fortunate_people_say_no/
+
 ---
 
 Creative People Say No is an article has been making the rounds this week, about how creativity demands focus and time and suffers when it

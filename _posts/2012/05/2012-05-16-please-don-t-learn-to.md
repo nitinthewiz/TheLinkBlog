@@ -6,7 +6,11 @@ hash: 3fbb49354a9a8e967e2d59238387ff08
 annum:
     year: 2012
     month: 05
-hostname: blog.codinghorror.com
+url-parts:
+    scheme: http
+    host: blog.codinghorror.com
+    path: /please-dont-learn-to-code
+
 ---
 
 10 PRINT "I AM MAYOR"

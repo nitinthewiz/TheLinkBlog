@@ -6,7 +6,11 @@ hash: 6b4fd5dc59c09137ed8d2e1776c8f68b
 annum:
     year: 2013
     month: 06
-hostname: semantic-mediawiki.org
+url-parts:
+    scheme: http
+    host: semantic-mediawiki.org
+    path: /wiki/WikiApiary
+
 ---
 
 Congratulations to WikiApiary, the Semantic #MediaWiki #wiki of the month for June 2013 

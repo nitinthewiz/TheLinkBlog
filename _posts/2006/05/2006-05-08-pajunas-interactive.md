@@ -6,7 +6,11 @@ hash: 4e00ca7b89df3a517e19e0deec9bb3bd
 annum:
     year: 2006
     month: 05
-hostname: www.pajunas.com
+url-parts:
+    scheme: http
+    host: www.pajunas.com
+    path: /
+
 ---
 
 

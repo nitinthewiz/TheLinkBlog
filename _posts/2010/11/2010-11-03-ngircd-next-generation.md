@@ -6,7 +6,11 @@ hash: 84228322ef14ff202f913734651a1186
 annum:
     year: 2010
     month: 11
-hostname: ngircd.barton.de
+url-parts:
+    scheme: http
+    host: ngircd.barton.de
+    path: /
+
 ---
 
 @mcatlin ngIRCd 

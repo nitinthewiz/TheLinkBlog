@@ -6,7 +6,11 @@ hash: d4aa765fff0a737bb587c6fe22e48a7a
 annum:
     year: 2011
     month: 04
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /humor/2011/04/25/110425sh_shouts_gillespie
+
 ---
 
 As you may be aware, GillespieFamily.com has recently made the difficult decision to erect a paywall for unlimited access to the Web site and all GillespieFamily.com apps that had previously been available for free.

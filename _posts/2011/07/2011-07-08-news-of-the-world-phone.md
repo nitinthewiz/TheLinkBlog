@@ -6,7 +6,11 @@ hash: f80c303a00d3ad2ed5091534fa8b6ac9
 annum:
     year: 2011
     month: 07
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /media/blog/2011/jul/08/news-of-the-world-phone-hacking-scandal
+
 ---
 
 If you're following the phone hacking scandal closely (and I am...) a sign that it's getting out of control for Murdoch: 

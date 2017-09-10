@@ -6,7 +6,11 @@ hash: 692a89e3082d6f13bc9da9a72e350035
 annum:
     year: 2015
     month: 11
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /Aperalta07/status/666344888124862464
+
 ---
 
 

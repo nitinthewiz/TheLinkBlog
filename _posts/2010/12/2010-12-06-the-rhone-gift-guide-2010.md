@@ -6,7 +6,11 @@ hash: 69aa49b015e301b7a7b8edc855405638
 annum:
     year: 2010
     month: 12
-hostname: patrickrhone.com
+url-parts:
+    scheme: http
+    host: patrickrhone.com
+    path: /2010/12/06/the-rhone-gift-guide-2010/
+
 ---
 
 I don’t think I have ever done an official gift guide before. That said, the thought recently occurred to me that, when I did do one, I wanted it to be a bit different and have a greater purpose than simply participating in the rampant consumerism of the season.

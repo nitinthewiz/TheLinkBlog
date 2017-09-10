@@ -6,7 +6,11 @@ hash: ca406ce957e227b908cfab0b834df8f9
 annum:
     year: 2011
     month: 11
-hostname: www.quora.com
+url-parts:
+    scheme: http
+    host: www.quora.com
+    path: /Is-there-a-better-alternative-to-the-5-star-rating-system
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: fff57c494446bb102e18406f0954ed02
 annum:
     year: 2010
     month: 02
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/jamie_oliver
+
 ---
 
 Greatest TED talk I've seen in ages:    This is exactly why I eat organic as much as possible.

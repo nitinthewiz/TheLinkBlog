@@ -6,7 +6,11 @@ hash: 28ad8354c3365b6893cca7ce7b21542e
 annum:
     year: 2016
     month: 02
-hostname: family.1password.com
+url-parts:
+    scheme: https
+    host: family.1password.com
+    path: /
+
 ---
 
 Meet the one password manager that’s ideal for your whole household.

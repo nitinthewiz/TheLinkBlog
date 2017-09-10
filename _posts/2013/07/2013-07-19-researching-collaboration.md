@@ -6,7 +6,11 @@ hash: 3490a63b77212b84464e44abfdf0fa99
 annum:
     year: 2013
     month: 07
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2013/07/18/researching-collaboration-better-world-john-riedl-1962-2013/
+
 ---
 
 So proud to be able to call John my friend.

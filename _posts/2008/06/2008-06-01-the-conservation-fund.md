@@ -6,7 +6,11 @@ hash: 9eb3c724590b14d5cb9ab3f7ebff23e8
 annum:
     year: 2008
     month: 06
-hostname: gozero.conservationfund.org
+url-parts:
+    scheme: https
+    host: gozero.conservationfund.org
+    path: /donate/info
+
 ---
 
 Donation page to buy carbon offsets.

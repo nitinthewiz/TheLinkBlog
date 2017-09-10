@@ -6,7 +6,11 @@ hash: e9a489cf39cc691d836b4c48e6122172
 annum:
     year: 2010
     month: 02
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /1dgd2dj
+
 ---
 
 Before bed Dora with @MazieThing and @tylerthing.  

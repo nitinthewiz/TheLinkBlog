@@ -6,7 +6,11 @@ hash: 5319f37bada66d897edab74b82743e3a
 annum:
     year: 2007
     month: 08
-hostname: www.koingosw.com
+url-parts:
+    scheme: http
+    host: www.koingosw.com
+    path: /products/swiftshare.php
+
 ---
 
 Sharing files across your local network just got easier! Swift Share allows the easy creation of both Windows and Macintosh share points. Take control of Mac OS X's built-in file servers and tweak them to perfection.

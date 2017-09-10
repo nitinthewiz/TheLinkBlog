@@ -6,7 +6,11 @@ hash: 0f2c90cbefbc053e9dd22ceee7f9847a
 annum:
     year: 2015
     month: 06
-hostname: maddin.io
+url-parts:
+    scheme: http
+    host: maddin.io
+    path: /gestimer/
+
 ---
 
 

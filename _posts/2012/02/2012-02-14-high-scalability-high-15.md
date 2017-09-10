@@ -6,7 +6,11 @@ hash: ca00e7cfae88355c2f74482da39a080b
 annum:
     year: 2012
     month: 02
-hostname: highscalability.com
+url-parts:
+    scheme: http
+    host: highscalability.com
+    path: /blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html
+
 ---
 
 Tumblr architecture  awesome stuff from @bmatheny and team!

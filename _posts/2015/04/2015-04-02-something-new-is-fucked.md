@@ -6,7 +6,11 @@ hash: 14c574bdf5532eb13153bc984dd4a6ec
 annum:
     year: 2015
     month: 04
-hostname: www.feld.com
+url-parts:
+    scheme: http
+    host: www.feld.com
+    path: /archives/2015/04/something-new-fucked-world-every-day.html
+
 ---
 
 

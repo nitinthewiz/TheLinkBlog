@@ -6,7 +6,11 @@ hash: 3eb7dae24e99da26fa99cacd078eff89
 annum:
     year: 2017
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: https
+    host: arstechnica.com
+    path: /security/2017/05/macron-campaign-team-used-honeypot-accounts-to-fake-out-fancy-bear/
+
 ---
 
 "We created false accounts, with false content, as traps," Macron campaign digital director Mounir Mahjoubi told the Times. "We did this massively, to create the obligation for them to verify, to determine whether it was a real account."

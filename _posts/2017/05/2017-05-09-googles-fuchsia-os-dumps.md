@@ -6,7 +6,11 @@ hash: 7944d288c512484294bf2882ca8edc1f
 annum:
     year: 2017
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: https
+    host: arstechnica.com
+    path: /gadgets/2017/05/googles-fuchsia-smartphone-os-dumps-linux-has-a-wild-new-ui/
+
 ---
 
 

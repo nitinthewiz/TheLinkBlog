@@ -6,7 +6,11 @@ hash: c7968da5bc5409b1aaa000e22f9c5c03
 annum:
     year: 2007
     month: 02
-hostname: www.raynersoftware.com
+url-parts:
+    scheme: http
+    host: www.raynersoftware.com
+    path: /ibatt/
+
 ---
 
 iBatt 2 is the most complete battery analyzer available for Mac laptops.

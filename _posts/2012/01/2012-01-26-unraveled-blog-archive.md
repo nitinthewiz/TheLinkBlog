@@ -6,7 +6,11 @@ hash: 154bfd994531ff4dc5b0b611d0a77f43
 annum:
     year: 2012
     month: 01
-hostname: blog.ravelry.com
+url-parts:
+    scheme: http
+    host: blog.ravelry.com
+    path: /2012/01/25/how-does-ravelry-make-money/
+
 ---
 
 A really terrific blog post by Ravelry to its users about how they keep the lights on: 

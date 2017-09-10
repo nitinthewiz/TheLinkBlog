@@ -6,7 +6,11 @@ hash: 584ef397f7af6be57737986008f63346
 annum:
     year: 2012
     month: 05
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/atul_gawande_how_do_we_heal_medicine
+
 ---
 
 Atul Gawande may be an alien dropped on the planet with ridiculous powers. I don't know that there is anything he can't do. Gawande for President.

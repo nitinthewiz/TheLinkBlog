@@ -6,7 +6,12 @@ hash: d6e27d16021cda861b57a622ca115870
 annum:
     year: 2008
     month: 07
-hostname: deimos3.apple.com
+url-parts:
+    scheme: http
+    host: deimos3.apple.com
+    path: /WebObjects/Core.woa/Browse/isc.upenn.edu.1316811421
+    query:
+        sr: "hotnews"
 ---
 
 Got a minute? Then you have time to enjoy a lecture from a faculty member at the School of Arts and Sciences at the University of Pennsylvania.  Speaking on a wide range of topics — from enthography to philosphy to music  — the lecturers offer insight, whimsy, and, above all, brevity.

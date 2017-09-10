@@ -6,7 +6,11 @@ hash: e2c85acd841f5322b142fefb80a1823d
 annum:
     year: 2015
     month: 03
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/custom-odbcjdbc-drivers-and-query-visualization-for-amazon-redshift/
+
 ---
 
 

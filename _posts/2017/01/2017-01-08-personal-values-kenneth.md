@@ -6,7 +6,11 @@ hash: 45a851fcd29fb496a30bf73803011417
 annum:
     year: 2017
     month: 01
-hostname: www.kennethreitz.org
+url-parts:
+    scheme: https
+    host: www.kennethreitz.org
+    path: /values
+
 ---
 
 

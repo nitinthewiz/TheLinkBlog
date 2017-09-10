@@ -6,7 +6,11 @@ hash: 85e969d912ef63f9e88d020c36ff4c27
 annum:
     year: 2011
     month: 08
-hostname: brookelynne.tumblr.com
+url-parts:
+    scheme: http
+    host: brookelynne.tumblr.com
+    path: /post/9060106989/brooke-lynne-chip-willis-chillin-in-the-car
+
 ---
 
 Brooke Lynne by Chip Willis. Chillin' in the car.

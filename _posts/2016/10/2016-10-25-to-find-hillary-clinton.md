@@ -6,7 +6,11 @@ hash: 33316516ca2bb52174d92213de88c46a
 annum:
     year: 2016
     month: 10
-hostname: boingboing.net
+url-parts:
+    scheme: http
+    host: boingboing.net
+    path: /2016/09/15/to-find-hillary-clinton-likabl.html
+
 ---
 
 

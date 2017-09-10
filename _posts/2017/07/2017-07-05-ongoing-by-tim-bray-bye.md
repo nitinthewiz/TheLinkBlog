@@ -6,7 +6,11 @@ hash: fbe64ae735e78ab0b44672065c4c68a0
 annum:
     year: 2017
     month: 07
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2017/06/24/Rune-Died
+
 ---
 
 A very nice and thoughtful write up from Tim Bray on his cat Rune that recently passed away. 

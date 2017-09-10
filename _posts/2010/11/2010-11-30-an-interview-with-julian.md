@@ -6,7 +6,11 @@ hash: 86fbfd565b52f96dcda74a5b7a3f9f4b
 annum:
     year: 2010
     month: 11
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
+
 ---
 
 In my assessment a must read, if you haven't yet: An Interview With WikiLeaks Julian Assange at Forbes

@@ -6,7 +6,11 @@ hash: 4084614eb44ce328b6adf7e607d870e3
 annum:
     year: 2014
     month: 06
-hostname: www.play-i.com
+url-parts:
+    scheme: https
+    host: www.play-i.com
+    path: /
+
 ---
 
 Very cool!

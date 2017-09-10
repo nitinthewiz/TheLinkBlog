@@ -6,7 +6,11 @@ hash: 02ecf2116a4e93229f565dc9752bab38
 annum:
     year: 2006
     month: 04
-hostname: dragonflyandamber.com
+url-parts:
+    scheme: http
+    host: dragonflyandamber.com
+    path: /Leandradrumm.htm
+
 ---
 
 Necklace, Tammy likes

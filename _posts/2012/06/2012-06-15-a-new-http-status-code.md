@@ -6,7 +6,11 @@ hash: c86e4afe2f51ec4a5713a4d87cb2f701
 annum:
     year: 2012
     month: 06
-hostname: www.tbray.org
+url-parts:
+    scheme: http
+    host: www.tbray.org
+    path: /tmp/draft-tbray-http-legally-restricted-status.html
+
 ---
 
 This seems like a good idea to me. Would be useful to tell people when censorship is occurring as well.

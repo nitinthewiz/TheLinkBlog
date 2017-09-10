@@ -6,7 +6,11 @@ hash: 1180ebae0f9ca21ba0a680d2a74f26a3
 annum:
     year: 2011
     month: 04
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/tomiogeron/2011/04/12/what-is-facebooks-future-as-an-e-commerce-platform/
+
 ---
 
 

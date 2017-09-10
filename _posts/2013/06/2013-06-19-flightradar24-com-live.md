@@ -6,7 +6,11 @@ hash: 70267f68e3aa6474ce288651545b8250
 annum:
     year: 2013
     month: 06
-hostname: www.flightradar24.com
+url-parts:
+    scheme: http
+    host: www.flightradar24.com
+    path: /
+
 ---
 
 Amazing to see applications like this just sitting on the web. It wasn't that long ago that something like this would have seemed nearly impossible to create.

@@ -6,7 +6,11 @@ hash: c6cae930b8f35662408d6cb91c455c50
 annum:
     year: 2012
     month: 09
-hostname: www.asianefficiency.com
+url-parts:
+    scheme: http
+    host: www.asianefficiency.com
+    path: /technology/integrating-1password-launchbar-superfast-logins/
+
 ---
 
 Great tip if you use these two utilities, which I do.

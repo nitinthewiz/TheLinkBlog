@@ -6,7 +6,11 @@ hash: ef3d95fe0f55e50faa212e9dfdf0556b
 annum:
     year: 2011
     month: 02
-hostname: www.yellowpagesoptout.com
+url-parts:
+    scheme: https
+    host: www.yellowpagesoptout.com
+    path: /
+
 ---
 
 

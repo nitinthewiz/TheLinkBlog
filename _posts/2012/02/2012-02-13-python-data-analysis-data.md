@@ -6,7 +6,11 @@ hash: acf475c4d1c88265f353194c0e56cb13
 annum:
     year: 2012
     month: 02
-hostname: pandas.pydata.org
+url-parts:
+    scheme: http
+    host: pandas.pydata.org
+    path: /
+
 ---
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.

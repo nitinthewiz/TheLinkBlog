@@ -6,7 +6,11 @@ hash: dc0231326d08d16375e79ca538f6d23a
 annum:
     year: 2008
     month: 11
-hostname: getshopped.org
+url-parts:
+    scheme: http
+    host: getshopped.org
+    path: /
+
 ---
 
 

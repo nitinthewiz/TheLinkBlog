@@ -6,7 +6,11 @@ hash: 126269f9016adab04218abcc371fb47e
 annum:
     year: 2010
     month: 12
-hostname: www.theaustralian.com.au
+url-parts:
+    scheme: http
+    host: www.theaustralian.com.au
+    path: /in-depth/wikileaks/dont-shoot-messenger-for-revealing-uncomfortable-truths/story-fn775xjq-1225967241332
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c3c1fe5a157cdd589d546b9b8c517f7e
 annum:
     year: 2013
     month: 09
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /blog/omnigraffle-6-is-here
+
 ---
 
 OmniGraffle 6 is here! 

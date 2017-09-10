@@ -6,7 +6,11 @@ hash: caa12a98b4d165e75782e5c74aa831fa
 annum:
     year: 2011
     month: 01
-hostname: notes.pinboard.in
+url-parts:
+    scheme: http
+    host: notes.pinboard.in
+    path: /u:thingles/52715794cb8e3ea34003
+
 ---
 
 

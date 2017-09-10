@@ -6,7 +6,11 @@ hash: 4b81a307922335d9a194b062ab0693ae
 annum:
     year: 2010
     month: 12
-hostname: annyas.com
+url-parts:
+    scheme: http
+    host: annyas.com
+    path: /screenshots/
+
 ---
 
 

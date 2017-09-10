@@ -6,7 +6,11 @@ hash: 104e4cfbde3c694fc946bee76b2823da
 annum:
     year: 2012
     month: 07
-hostname: www.att.com
+url-parts:
+    scheme: https
+    host: www.att.com
+    path: /ecpnioptout/InitiateCPNIForm.action
+
 ---
 
 More junk that people want to do with my data and are going to automatically include me in if I don't reply to a letter they send to my house.

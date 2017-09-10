@@ -6,7 +6,12 @@ hash: b98463f248f1dbefe427f62629bbd206
 annum:
     year: 2014
     month: 10
-hostname: m.youtube.com
+url-parts:
+    scheme: https
+    host: m.youtube.com
+    path: /watch
+    query:
+        v: "bo36MrBfTk4"
 ---
 
 

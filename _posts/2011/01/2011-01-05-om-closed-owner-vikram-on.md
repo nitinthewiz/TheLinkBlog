@@ -6,7 +6,11 @@ hash: e529415df5e98b08c0a66c740cff448d
 annum:
     year: 2011
     month: 01
-hostname: blogs.citypages.com
+url-parts:
+    scheme: http
+    host: blogs.citypages.com
+    path: /food/2011/01/om_closed_vikram_uppal.php
+
 ---
 
 Good.  Epic douche.  RT @Beenza: What goes around comes around. RT @citypages: OM Restaurant closed after bad NYE party 

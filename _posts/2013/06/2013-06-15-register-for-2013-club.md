@@ -6,7 +6,13 @@ hash: daecfc9fd7f95edd23d268bbac38f461
 annum:
     year: 2013
     month: 06
-hostname: planetkubb.com
+url-parts:
+    scheme: http
+    host: planetkubb.com
+    path: /post/register-for-2013-club-championship-now/
+    query:
+        pk_campaign: "planetkubb"
+        pk_kwd: "twitter"
 ---
 
 Planet Kubb: Register for 2013 Club Championship Now!  #kubb

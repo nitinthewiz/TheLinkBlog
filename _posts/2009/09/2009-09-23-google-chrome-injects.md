@@ -6,7 +6,11 @@ hash: c5f3ae26aedf1a780c53f26d6e7a7d08
 annum:
     year: 2009
     month: 09
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/google_launches_chrome_frame_internet_explorer_plugin.php
+
 ---
 
 Google just announced the launch of Chrome Frame, a new open-source project that will allow Chrome's rendering engine to run within Microsoft's Internet Explorer 6,7, and 8. This plugin, which is available now, will give developers the option to ask users if they would prefer to switch to the Chrome rendering and JavaScript engine. Users simply continue to use Internet Explorer and the switch will be completely seamless, with no noticeable changes to the user interface.

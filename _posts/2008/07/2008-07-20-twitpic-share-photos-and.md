@@ -6,7 +6,11 @@ hash: 7697e2f26a70599a2db00d9fa771f8a3
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4th0
+
 ---
 
 Smoker started. Ribs ready. 

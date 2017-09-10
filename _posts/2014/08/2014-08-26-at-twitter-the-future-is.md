@@ -6,7 +6,12 @@ hash: 632754b71546c4bcfd763e98e90726c7
 annum:
     year: 2014
     month: 08
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "vccZkELgEsU"
 ---
 
 #hackweek project: make the best/worst recruiting video of all time. Done.

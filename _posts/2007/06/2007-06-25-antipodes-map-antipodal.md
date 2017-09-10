@@ -6,7 +6,11 @@ hash: a165f56db78fc2ae5156dba30f578591
 annum:
     year: 2007
     month: 06
-hostname: www.antipodemap.com
+url-parts:
+    scheme: http
+    host: www.antipodemap.com
+    path: /
+
 ---
 
 

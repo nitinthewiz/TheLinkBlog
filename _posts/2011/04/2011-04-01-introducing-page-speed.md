@@ -6,7 +6,11 @@ hash: 729c60c15170842b111df95cc0e68df8
 annum:
     year: 2011
     month: 04
-hostname: googlewebmastercentral.blogspot.com
+url-parts:
+    scheme: http
+    host: googlewebmastercentral.blogspot.com
+    path: /2011/03/introducing-page-speed-online-with.html
+
 ---
 
 RT @mattcutts: Google releases free tool to help speed up websites:  <-- I scored 95/100! (WordPress powered)

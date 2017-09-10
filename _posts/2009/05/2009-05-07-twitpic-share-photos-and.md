@@ -6,7 +6,11 @@ hash: 31975d3a1d00d639488c01abe44acafe
 annum:
     year: 2009
     month: 05
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /4qr53
+
 ---
 
 I'll be a pro at the next #bsquad game with these awesome shoes.  

@@ -6,7 +6,11 @@ hash: fd42bfd4b2a88ec2e6188cd2d5b37f01
 annum:
     year: 2014
     month: 04
-hostname: filippo.io
+url-parts:
+    scheme: https
+    host: filippo.io
+    path: /Heartbleed/
+
 ---
 
 

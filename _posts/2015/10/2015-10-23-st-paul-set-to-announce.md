@@ -6,7 +6,11 @@ hash: dc60b89dd4f4914f2105405af01f1eb0
 annum:
     year: 2015
     month: 10
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /it-s-nearly-official-mls-coming-to-st-paul/336067031/
+
 ---
 
 

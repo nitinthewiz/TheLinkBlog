@@ -6,7 +6,11 @@ hash: 9bd0c1ca1f557d82d9fa0644b089d2bd
 annum:
     year: 2008
     month: 05
-hostname: blog.compete.com
+url-parts:
+    scheme: https
+    host: blog.compete.com
+    path: /2008/05/15/twitter-traffic-growth-usage-demographics/
+
 ---
 
 Twitter has made headlines for some amazingly powerful stuff lately; breaking the news of recent Chinas earthquake; partnering with MySpace for its data availability project; even helping a student get out of jail! All of these speak to the growing popularity of Twitter, and also help to explain its recent scaling issues. But how big is twitter, who uses it and how? 

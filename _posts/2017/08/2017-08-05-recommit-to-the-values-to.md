@@ -6,7 +6,11 @@ hash: 96dd252dcc52e824f756d0d8ba896c63
 annum:
     year: 2017
     month: 08
-hostname: www.coworker.org
+url-parts:
+    scheme: https
+    host: www.coworker.org
+    path: /petitions/recommit-to-etsy-s-values-and-support-the-etsy-community-for-the-long-term
+
 ---
 
 

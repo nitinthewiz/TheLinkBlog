@@ -6,7 +6,11 @@ hash: 63546fbbaae3a8994ce552f0db216533
 annum:
     year: 2015
     month: 09
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@mags/what-my-uterus-can-teach-you-about-being-a-tech-leader-4f6cd9bb4881
+
 ---
 
 

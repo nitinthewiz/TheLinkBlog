@@ -6,7 +6,11 @@ hash: 28956b41d08e3aeb8eebc4edc10682e1
 annum:
     year: 2015
     month: 09
-hostname: overcast.fm
+url-parts:
+    scheme: https
+    host: overcast.fm
+    path: /+I_rT72mY
+
 ---
 
 

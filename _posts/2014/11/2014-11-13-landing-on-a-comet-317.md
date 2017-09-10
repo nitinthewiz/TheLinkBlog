@@ -6,7 +6,12 @@ hash: 44adb0462f1464371834df056fd133de
 annum:
     year: 2014
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /interactive/2014/11/12/science/space/rosetta-philae-comet-landing.html
+    query:
+        _r: "1"
 ---
 
 The Rosetta spacecraft’s Philae lander is attempting to land on Comet 67P/Churyumov-Gerasimenko.

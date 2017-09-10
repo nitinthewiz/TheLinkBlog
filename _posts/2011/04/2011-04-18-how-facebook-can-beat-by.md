@@ -6,7 +6,11 @@ hash: 835e4f2cbdf9a9d92afc61adf2c1cdac
 annum:
     year: 2011
     month: 04
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2011/04/15/how-facebook-can-beat-groupon-by-making-deals-social/
+
 ---
 
 

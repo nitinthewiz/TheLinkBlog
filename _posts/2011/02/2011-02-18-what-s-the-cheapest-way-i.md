@@ -6,7 +6,11 @@ hash: 7a4d2ecfaf194c1a537775c7515dcba2
 annum:
     year: 2011
     month: 02
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /braublog/2011/02/whats-cheapest-way-i-can-watch-cable-only-twins
+
 ---
 
 This sucks.

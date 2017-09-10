@@ -6,7 +6,12 @@ hash: 94b2574757fc5705161eb9c3c322c3af
 annum:
     year: 2008
     month: 11
-hostname: www.ccheever.com
+url-parts:
+    scheme: http
+    host: www.ccheever.com
+    path: /blog/
+    query:
+        p: "10"
 ---
 
 

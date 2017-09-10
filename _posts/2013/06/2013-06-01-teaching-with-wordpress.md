@@ -6,7 +6,11 @@ hash: 695b31ec5daf2164975b986f7d481824
 annum:
     year: 2013
     month: 06
-hostname: www.woothemes.com
+url-parts:
+    scheme: http
+    host: www.woothemes.com
+    path: /2013/01/teaching-with-wordpress-just-got-easy/
+
 ---
 
 This could be the tool to start making some Planet Kubb courses.

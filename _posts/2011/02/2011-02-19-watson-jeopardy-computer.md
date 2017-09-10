@@ -6,7 +6,11 @@ hash: 26e0528099d750a3a645819189734b0c
 annum:
     year: 2011
     month: 02
-hostname: www.slate.com
+url-parts:
+    scheme: http
+    host: www.slate.com
+    path: /id/2284721/pagenum/all/
+
 ---
 
 

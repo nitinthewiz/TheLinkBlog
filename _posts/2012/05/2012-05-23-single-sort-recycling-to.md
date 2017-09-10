@@ -6,7 +6,15 @@ hash: 89bfaa0b2112c258e4f24559238ccca5
 annum:
     year: 2012
     month: 05
-hostname: www.southwestjournal.com
+url-parts:
+    scheme: http
+    host: www.southwestjournal.com
+    path: /index.php
+    query:
+        publication: "southwest"
+        page: "152"
+        story: "18479"
+        category: "63"
 ---
 
 Awesome news!

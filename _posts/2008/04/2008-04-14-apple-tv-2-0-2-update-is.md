@@ -6,7 +6,11 @@ hash: 7a539d0fa03b1097b952bda83d12d9d0
 annum:
     year: 2008
     month: 04
-hostname: appletvsource.com
+url-parts:
+    scheme: http
+    host: appletvsource.com
+    path: /content/view/607/
+
 ---
 
 Two weeks after Apple release the 2.0.1 update for the Apple TV, the company has released yet another update.  And just like the 2.0.1 update, nobody knows exactly what this update is for.

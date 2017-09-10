@@ -6,7 +6,11 @@ hash: fadcfb644702720f26adde4f43c781c0
 annum:
     year: 2010
     month: 12
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2010/12/ff_ai_flashtrading/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 1c9f43dffca38009e59a006c32e6f6d4
 annum:
     year: 2012
     month: 07
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2012/07/07/why-the-days-are-numbered-for-hadoop-as-we-know-it/
+
 ---
 
 Regardless of the conclusion of this article the links to various papers and projects are very worthwhile.

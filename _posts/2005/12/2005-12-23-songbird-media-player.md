@@ -6,7 +6,11 @@ hash: e3e639dfcb5717c450f8fc10b943ea10
 annum:
     year: 2005
     month: 12
-hostname: getsongbird.com
+url-parts:
+    scheme: http
+    host: getsongbird.com
+    path: 
+
 ---
 
 Open-source iTunes competitor.

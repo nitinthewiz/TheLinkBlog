@@ -6,7 +6,11 @@ hash: 177c68ca784dc55168d00d559444edc1
 annum:
     year: 2010
     month: 10
-hostname: stackoverflow.com
+url-parts:
+    scheme: http
+    host: stackoverflow.com
+    path: /questions/209170/how-much-does-it-cost-to-develop-an-iphone-application
+
 ---
 
 Craig Hockenberry makes the case that it can run at least a few hundred thousand dollars.

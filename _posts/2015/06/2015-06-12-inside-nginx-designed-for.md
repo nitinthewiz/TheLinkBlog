@@ -6,7 +6,11 @@ hash: 44da414395ad4b5244bcdcc1bca71eb1
 annum:
     year: 2015
     month: 06
-hostname: nginx.com
+url-parts:
+    scheme: http
+    host: nginx.com
+    path: /blog/inside-nginx-how-we-designed-for-performance-scale/
+
 ---
 
 Take a deep dive inside NGINX and learn why NGINX is perfectly suited for applications and servers that require high performance and scalability

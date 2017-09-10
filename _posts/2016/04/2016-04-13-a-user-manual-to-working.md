@@ -6,7 +6,11 @@ hash: 5b6279583d32c04aac8a258d3b3edc5b
 annum:
     year: 2016
     month: 04
-hostname: www.feld.com
+url-parts:
+    scheme: http
+    host: www.feld.com
+    path: /archives/2016/04/user-manual-working.html
+
 ---
 
 The simple idea is to write a user manual about how to work with you.

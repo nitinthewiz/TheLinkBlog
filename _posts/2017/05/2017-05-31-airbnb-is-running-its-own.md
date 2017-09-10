@@ -6,7 +6,12 @@ hash: dd468f67bc5edfbc723df46aa8bf3cd7
 annum:
     year: 2017
     month: 05
-hostname: techcrunch.com
+url-parts:
+    scheme: https
+    host: techcrunch.com
+    path: /2017/05/24/airbnb-is-running-its-own-internal-university-to-teach-data-science/
+    query:
+        ncid: "rss"
 ---
 
 Data University is Airbnb’s attempt to make its entire workforce more data literate. Traditional online programs like Coursera and Udacity just weren’t getting the job done because they were not tailored to Airbnb’s internal data and tools. So the company decided to design a bunch of courses of its own around three levels of instruction for different employee needs.

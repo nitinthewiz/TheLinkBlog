@@ -6,7 +6,11 @@ hash: 405de67f4f4cc5e3b959d6d51edd2983
 annum:
     year: 2011
     month: 09
-hostname: slipsum.com
+url-parts:
+    scheme: http
+    host: slipsum.com
+    path: /
+
 ---
 
 MOTHERFUCKING PLACEHOLDER TEXT MOTHERFUCKER!

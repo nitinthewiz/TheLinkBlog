@@ -6,7 +6,11 @@ hash: c22621add76d6c261ef239d462fc8379
 annum:
     year: 2017
     month: 05
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /ios/ipad-diaries-devonthinks-new-advanced-automation/
+
 ---
 
 

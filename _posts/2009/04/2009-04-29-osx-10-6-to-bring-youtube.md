@@ -6,7 +6,11 @@ hash: 025ea0eaad2810c129dba459d054096a
 annum:
     year: 2009
     month: 04
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2009/04/28/osx-106-to-bring-youtube-uploading/
+
 ---
 
 

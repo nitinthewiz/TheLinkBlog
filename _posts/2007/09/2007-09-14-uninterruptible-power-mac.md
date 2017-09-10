@@ -6,7 +6,11 @@ hash: 9edbf8646948ae8b4c37981657d7d838
 annum:
     year: 2007
     month: 09
-hostname: www.afp548.com
+url-parts:
+    scheme: http
+    host: www.afp548.com
+    path: /filemgmt_data/files/OSX_UPS_guide.pdf
+
 ---
 
 

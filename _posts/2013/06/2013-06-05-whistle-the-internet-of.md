@@ -6,7 +6,11 @@ hash: fc5057f543421e609beb6183d8771bbf
 annum:
     year: 2013
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2013/06/05/whistle-the-internet-of-everything-goes-to-the-dogs/
+
 ---
 
 OMG. Seriously?

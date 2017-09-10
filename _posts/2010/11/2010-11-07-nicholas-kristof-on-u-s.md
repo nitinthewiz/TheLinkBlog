@@ -6,7 +6,11 @@ hash: 14b4f8801cf03b383f21eec0b3eaa7bb
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/07/opinion/07kristof.html
+
 ---
 
 Nicholas Kristof argues that the U.S. is at the level of plutocratic banana republics:

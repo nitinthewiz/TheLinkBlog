@@ -6,7 +6,11 @@ hash: c9dace2ad8b98a41e2aab6963eb0abc2
 annum:
     year: 2012
     month: 05
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/brian_greene_why_is_our_universe_fine_tuned_for_life
+
 ---
 
 Exceptionally polished talk, even for TED. Fun though. I watch this and wonder if Brian Greene will be proven right. The idea at the end of a night sky dark as all the universe has expanded away is thought provoking, but incredibly depressing to consider.

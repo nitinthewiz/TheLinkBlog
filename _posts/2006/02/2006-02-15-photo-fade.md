@@ -6,7 +6,11 @@ hash: 6acf4c5e62102ccd08ec21ef74984826
 annum:
     year: 2006
     month: 02
-hostname: slayeroffice.com
+url-parts:
+    scheme: http
+    host: slayeroffice.com
+    path: /code/imageCrossFade/
+
 ---
 
 

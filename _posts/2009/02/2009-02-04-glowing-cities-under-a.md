@@ -6,7 +6,11 @@ hash: 60315a372fc548b9b7cc637bfe12725a
 annum:
     year: 2009
     month: 02
-hostname: www.todayandtomorrow.net
+url-parts:
+    scheme: http
+    host: www.todayandtomorrow.net
+    path: /2009/01/28/glowing-cities-under-a-nighttime-sky/
+
 ---
 
 This is an amazing timelapse video by James Leng.

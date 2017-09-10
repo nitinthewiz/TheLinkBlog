@@ -6,7 +6,11 @@ hash: 7b5c13aeec676085f0de0777302c2b8b
 annum:
     year: 2008
     month: 04
-hostname: 37signals.blogs.com
+url-parts:
+    scheme: http
+    host: 37signals.blogs.com
+    path: /products/2008/04/tips-for-gettin.html
+
 ---
 
 Just Another iPhone Blog recently posted "Tips and Tweaks Make 37signals Backpack A 'Must Have' iPhone Application." It discusses using iBackpack to make your Backpack pages look nice on your iPhone and also links to a Forum post that shows how to add a custom Backpack icon to your iPhone home screen.

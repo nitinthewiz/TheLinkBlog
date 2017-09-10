@@ -6,7 +6,11 @@ hash: 8e099ec9f97da5910d6a66962d255f3f
 annum:
     year: 2012
     month: 03
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2012/03/mr-linux/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f695dc5f3e63603457b54e87a5bd6853
 annum:
     year: 2017
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /ivoras/daisy
+
 ---
 
 I don't know that I really understand this situation but it makes my head spin a bit. 

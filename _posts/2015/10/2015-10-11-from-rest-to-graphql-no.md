@@ -6,7 +6,11 @@ hash: 69b00e4dda3dc06e585c2b7bc6bf1fc2
 annum:
     year: 2015
     month: 10
-hostname: blog.jacobwgillespie.com
+url-parts:
+    scheme: https
+    host: blog.jacobwgillespie.com
+    path: /from-rest-to-graphql-b4e95e94c26b
+
 ---
 
 Enter GraphQL. Using GraphQL to power our backend, we were able to provide the mobile client exactly what it needed for each request, with no additional bloat, and were able to optimize the database&hellip;

@@ -6,7 +6,11 @@ hash: 142a40b0486421d1481dd7bbdf77ff9e
 annum:
     year: 2005
     month: 10
-hostname: www.advancedaquariummpls.com
+url-parts:
+    scheme: http
+    host: www.advancedaquariummpls.com
+    path: /
+
 ---
 
 Custom Design, Build & Maintain Marine & Freshwater Aquaria

@@ -6,7 +6,12 @@ hash: df0cdace911844c139dce942a7ad23fa
 annum:
     year: 2017
     month: 04
-hostname: www.linkedin.com
+url-parts:
+    scheme: https
+    host: www.linkedin.com
+    path: /pulse/coders-arent-assembly-line-workers-david-max
+    query:
+        trk: "v-feed"
 ---
 
 

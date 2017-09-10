@@ -6,7 +6,11 @@ hash: 4515780e3b27768e166e519e9b1d413e
 annum:
     year: 2011
     month: 01
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/01/14/minnedemo-winter-2011/
+
 ---
 
 A New Level for #Minnedemo:  [videos]

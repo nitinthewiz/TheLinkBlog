@@ -6,7 +6,11 @@ hash: 0ab0f7c5348313dac011105cdaacdece
 annum:
     year: 2010
     month: 11
-hostname: www.tbray.org
+url-parts:
+    scheme: http
+    host: www.tbray.org
+    path: /ongoing/When/201x/2010/11/14/What-Android-Is
+
 ---
 
 

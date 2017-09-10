@@ -6,7 +6,11 @@ hash: 6376475d7ff0e42714cceea33c0ed6cc
 annum:
     year: 2007
     month: 12
-hostname: www.therawfeed.com
+url-parts:
+    scheme: http
+    host: www.therawfeed.com
+    path: 
+
 ---
 
 Cars are getting more computer systems, and those systems need to talk to each other. To manage this electronic chatter, BMW R&D is reportedly now using IP -- the same protocol used to move bits around on the Internet. Looking at it another way, each of these BMWs has its own private Internet inside. (props to Autoblog)

@@ -6,7 +6,11 @@ hash: 9fe6e4bb263c0f6045dad89899536567
 annum:
     year: 2010
     month: 07
-hostname: heavytable.com
+url-parts:
+    scheme: http
+    host: heavytable.com
+    path: /first-look-patisserie-46-in-kingfield-minneapolis/
+
 ---
 
 by James Norton on July 7, 2010

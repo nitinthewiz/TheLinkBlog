@@ -6,7 +6,11 @@ hash: 6a54643da0441ca9ff7f50033629c570
 annum:
     year: 2011
     month: 08
-hostname: www.gabrielweinberg.com
+url-parts:
+    scheme: http
+    host: www.gabrielweinberg.com
+    path: /blog/2011/08/how-duckduckgo-got-in-times-best-websites.html
+
 ---
 
 

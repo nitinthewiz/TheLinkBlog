@@ -6,7 +6,11 @@ hash: 2b1fd0a480113a89c2052ce73fdf0aa8
 annum:
     year: 2009
     month: 03
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /windows-vista-execs-solo-album-almost-as-good-as-vista-2009-3
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5e037b69774300a2b456ffdae4373c27
 annum:
     year: 2016
     month: 11
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2016/11/03/fine-art-renegotiating/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: b67a2186a90b89b879e28b277e507237
 annum:
     year: 2011
     month: 01
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2011/01/mozilla-leads-the-way-on-do-not-track
+
 ---
 
 

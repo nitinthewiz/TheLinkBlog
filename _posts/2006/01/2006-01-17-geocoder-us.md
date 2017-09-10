@@ -6,7 +6,11 @@ hash: 990281ea17bf68bc396219956d250ac1
 annum:
     year: 2006
     month: 01
-hostname: geocoder.us
+url-parts:
+    scheme: http
+    host: geocoder.us
+    path: /
+
 ---
 
 a free US address geocoder

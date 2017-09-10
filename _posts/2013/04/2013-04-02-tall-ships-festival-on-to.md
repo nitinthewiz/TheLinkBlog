@@ -6,7 +6,11 @@ hash: b174718f885ff60c0f5784a62b1afb81
 annum:
     year: 2013
     month: 04
-hostname: www.duluthnewstribune.com
+url-parts:
+    scheme: http
+    host: www.duluthnewstribune.com
+    path: /event/article/id/262975/
+
 ---
 
 

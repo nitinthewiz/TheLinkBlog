@@ -6,7 +6,11 @@ hash: 8b6290dc1c8e75c07b7da726e2d1446c
 annum:
     year: 2007
     month: 01
-hostname: www.thestorefinder.com
+url-parts:
+    scheme: http
+    host: www.thestorefinder.com
+    path: /rr/rr_lib_landscape.html
+
 ---
 
 This "electronic book" is written as a picture guide for people not familiar with model landscaping.

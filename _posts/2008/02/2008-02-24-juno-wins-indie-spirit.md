@@ -6,7 +6,11 @@ hash: f07fc847e92b9eae66c61ef6dc7e565b
 annum:
     year: 2008
     month: 02
-hostname: www.mprnews.org
+url-parts:
+    scheme: http
+    host: www.mprnews.org
+    path: /story/2008/02/24/spirit
+
 ---
 
 The teen pregnancy comedy "Juno"

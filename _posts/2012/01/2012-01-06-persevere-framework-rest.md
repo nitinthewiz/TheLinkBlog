@@ -6,7 +6,11 @@ hash: 2d96b919e9c2fb1345ff77338440728c
 annum:
     year: 2012
     month: 01
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/persevere-framework/
+
 ---
 
 Persevere is an open source set of tools for persistence and distributed computing using an intuitive standards-based JSON interfaces of HTTP REST, JSON-RPC, JSONPath, and REST Channels. The core of the Persevere project is the Persevere Server. The Persevere server includes a Persevere JavaScript client, but the standards-based interface is intended to be used with any framework or client.

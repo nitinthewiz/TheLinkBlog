@@ -6,7 +6,11 @@ hash: fe7933aa7284ee21a48c5be9d5650b9d
 annum:
     year: 2008
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/06/13/technorati-confirms-new-financing-says-new-business-focus-coming/
+
 ---
 
 Blog search engine Technorati, which was simultaneously pitching a sale through Montgomery & Co. as well as a new venture round, raised $7.5 million in a fourth round of financing according to a regulatory filing. Investors include Draper Fisher Jurvetson, Mobius Venture Capital and FG Incubation.

@@ -6,7 +6,11 @@ hash: 3ed5ae87e2482be683af0d021c0b6fef
 annum:
     year: 2008
     month: 11
-hostname: www.dnsomatic.com
+url-parts:
+    scheme: https
+    host: www.dnsomatic.com
+    path: /
+
 ---
 
 DNS-O-Matic () is pretty darn cool. Happy days!

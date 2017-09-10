@@ -6,7 +6,11 @@ hash: ffc6a2c505698f1e1af6df9e131194c2
 annum:
     year: 2009
     month: 03
-hostname: raanan.com
+url-parts:
+    scheme: http
+    host: raanan.com
+    path: /2009/03/10/p2-the-new-prologue/
+
 ---
 
 Since we are very distributed company here at Automattic, we use lots of online collaboration tools including IRC, Skype, blogs, and wikis.  The other big thing we’ve been using internally is a WordPress theme called Prologue that we developed last year.

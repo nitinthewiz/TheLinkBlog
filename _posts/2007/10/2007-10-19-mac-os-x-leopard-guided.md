@@ -6,7 +6,11 @@ hash: de1e5ec64152569a0c1d3952a4e455c8
 annum:
     year: 2007
     month: 10
-hostname: www.apple.com
+url-parts:
+    scheme: http
+    host: www.apple.com
+    path: /macosx/guidedtour/
+
 ---
 
 

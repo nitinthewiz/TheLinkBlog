@@ -6,7 +6,11 @@ hash: d9bf5bb355063fd41dc85d971f7b5fc1
 annum:
     year: 2014
     month: 03
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2014/02/28/board-service-every-board-needs-a-bit-of-maintenance/
+
 ---
 
 Good perspective to apply to boards and board committees. Makes me think about things we should do at minne.

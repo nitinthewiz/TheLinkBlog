@@ -6,7 +6,11 @@ hash: 6970bab6bca27b285804501ed4d6d549
 annum:
     year: 2013
     month: 04
-hostname: blog.pinboard.in
+url-parts:
+    scheme: http
+    host: blog.pinboard.in
+    path: /2013/04/the_matasano_crypto_challenges/
+
 ---
 
 Maciej runs Pinboard, and is extremely down to earth about tech... plus he writes in a direct good fashion. His insights around security are interesting.

@@ -6,7 +6,11 @@ hash: 159bccb1491fbfa119c2463a17c35b87
 annum:
     year: 2006
     month: 01
-hostname: www.win2pdf.com
+url-parts:
+    scheme: http
+    host: www.win2pdf.com
+    path: /
+
 ---
 
 Create PDF as easy as printing.

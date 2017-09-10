@@ -6,7 +6,11 @@ hash: 4112a70dddcd67acfe9d9efa7dc86111
 annum:
     year: 2016
     month: 02
-hostname: www.vox.com
+url-parts:
+    scheme: http
+    host: www.vox.com
+    path: /2016/2/22/11092704/gun-violence-facts
+
 ---
 
 The debate over gun regulation in the US seems intractable, but there is one fact that both sides can agree on: Mass shootings are just the tip of a very complicated problem. In this video we run though 18 charts that explain the state of gun violence in America.

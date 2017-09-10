@@ -6,7 +6,13 @@ hash: e75f8ab51f02cbc5fbd18795efd3bc73
 annum:
     year: 2011
     month: 09
-hostname: m.guardian.co.uk
+url-parts:
+    scheme: http
+    host: m.guardian.co.uk
+    path: /books/2011/sep/07/michael-moore-hated-man-america
+    query:
+        cat: "books"
+        type: "article"
 ---
 
 

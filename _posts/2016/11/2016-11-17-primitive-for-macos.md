@@ -6,7 +6,11 @@ hash: 780dcf4b84481f4c0d80ccf1b3ac5d6a
 annum:
     year: 2016
     month: 11
-hostname: primitive.lol
+url-parts:
+    scheme: https
+    host: primitive.lol
+    path: /
+
 ---
 
 

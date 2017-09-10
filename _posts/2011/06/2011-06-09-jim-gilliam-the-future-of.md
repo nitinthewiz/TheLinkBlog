@@ -6,7 +6,12 @@ hash: 4379df6b019b06a82b677e73d59aa2ef
 annum:
     year: 2011
     month: 06
-hostname: www.livestream.com
+url-parts:
+    scheme: http
+    host: www.livestream.com
+    path: /pdf2011/video
+    query:
+        clipId: "pla_8a026681-a944-4459-a735-6ff526f72b5a"
 ---
 
 

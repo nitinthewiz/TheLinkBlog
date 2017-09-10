@@ -6,7 +6,11 @@ hash: 1f048879edd223dc51e7547121a05831
 annum:
     year: 2007
     month: 05
-hostname: richardkmiller.com
+url-parts:
+    scheme: http
+    host: richardkmiller.com
+    path: /164/microid-plugin-for-wordpress
+
 ---
 
 I recently learned about MicroID, a microformat for verifying ownership of content on web pages, from a post on Phil Windleys blog. MicroID, which is a simple hash of an email address and a URL, can be used to claim ownership of a blog, a blog post, or

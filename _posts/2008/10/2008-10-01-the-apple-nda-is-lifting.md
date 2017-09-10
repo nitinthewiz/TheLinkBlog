@@ -6,7 +6,11 @@ hash: fbb0275b7d4f9bc7ca1d727e31a5d579
 annum:
     year: 2008
     month: 10
-hostname: pragdave.blogs.pragprog.com
+url-parts:
+    scheme: http
+    host: pragdave.blogs.pragprog.com
+    path: /pragdave/2008/10/the-apple-nda-i.html
+
 ---
 
 

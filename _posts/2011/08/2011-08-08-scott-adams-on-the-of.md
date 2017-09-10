@@ -6,7 +6,12 @@ hash: 8e8daf01abe36c984e982196596f85b1
 annum:
     year: 2011
     month: 08
-hostname: online.wsj.com
+url-parts:
+    scheme: http
+    host: online.wsj.com
+    path: /article/SB10001424053111903454504576486412642177904.html
+    query:
+        mod: "googlenews_wsj"
 ---
 
 

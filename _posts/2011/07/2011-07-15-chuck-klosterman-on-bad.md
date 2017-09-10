@@ -6,7 +6,11 @@ hash: 6917d8c2d4f49152c5674603e45cd7e5
 annum:
     year: 2011
     month: 07
-hostname: www.grantland.com
+url-parts:
+    scheme: http
+    host: www.grantland.com
+    path: /story/_/id/6763000/bad-decisions
+
 ---
 
 

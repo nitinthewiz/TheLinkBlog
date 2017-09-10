@@ -6,7 +6,11 @@ hash: ef0640274a7e54c4c3bf753cb49b8eaf
 annum:
     year: 2010
     month: 07
-hostname: lightroom-news.com
+url-parts:
+    scheme: http
+    host: lightroom-news.com
+    path: /2010/07/09/george-jardine-on-lightroom-3-workflow/
+
 ---
 
 Former Adobe Evangelist George Jardine has announced his new Lightroom 3 workflow and management video tutorials. George was the original Lightroom video guy from the early days of Lightroom and is both a gifted photographer and great educator. This course is 4 1/2 hours long, over 15 different videos, and dives deeply into the Library.

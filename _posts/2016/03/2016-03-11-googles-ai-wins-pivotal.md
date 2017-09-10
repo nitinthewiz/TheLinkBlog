@@ -6,7 +6,12 @@ hash: a5ab131d10ee83206a6a85a2c2193f61
 annum:
     year: 2016
     month: 03
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /2016/03/googles-ai-wins-pivotal-game-two-match-go-grandmaster/
+    query:
+        mbid: "social_twitter"
 ---
 
 After more than four hours of tight play and a rapid-fire endgame, Google’s artificially intelligent Go-playing computer system has won a second contest against grandmaster Lee Sedol, taking a two-games-to-none lead in their historic best-of-five match in downtown Seoul.

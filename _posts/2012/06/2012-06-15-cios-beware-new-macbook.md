@@ -6,7 +6,11 @@ hash: 1762b26c03297096e9b77c9b87c88fd6
 annum:
     year: 2012
     month: 06
-hostname: blogs.wsj.com
+url-parts:
+    scheme: http
+    host: blogs.wsj.com
+    path: /cio/2012/06/11/cios-beware-new-macbook-pro-will-be-a-bandwidth-hog/
+
 ---
 
 Dumbest article I've read all week. I think the same concern arose when people switched from Gopher to the Web. Idiotic.

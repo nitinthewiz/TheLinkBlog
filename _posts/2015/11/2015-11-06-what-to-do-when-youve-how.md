@@ -6,7 +6,11 @@ hash: 52127c37975ab1df959b3816a8e897c2
 annum:
     year: 2015
     month: 11
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2015/11/04/what-to-do-when-youve-stopped-doing-your-weekly-review-part-2/
+
 ---
 
 How to ensure your weekly review becomes habitual. Rumour has it that before he started writing each morning, Winston Churchill would drink a couple of bottles of Guinness and eat a steak pie.

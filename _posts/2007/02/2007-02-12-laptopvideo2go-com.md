@@ -6,7 +6,11 @@ hash: 13297d15db6200654121fd06788beb29
 annum:
     year: 2007
     month: 02
-hostname: www.laptopvideo2go.com
+url-parts:
+    scheme: http
+    host: www.laptopvideo2go.com
+    path: /
+
 ---
 
 Until recently, nVidia by default has not natively supported laptop GPUs with WHQL and beta drivers. This limitation is due only to the INF. Drivers supplied by manufacturers (Dell, Toshiba, etc.) are rarely updated and easily become outdated thus not sup

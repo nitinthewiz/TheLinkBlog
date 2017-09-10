@@ -6,7 +6,13 @@ hash: ebecdc2a4b0844f839554a27d602ef5c
 annum:
     year: 2014
     month: 01
-hostname: www.marketwatch.com
+url-parts:
+    scheme: http
+    host: www.marketwatch.com
+    path: /story/google-raises-some-privacy-issues-with-nest-buy-2014-01-13
+    query:
+        mod: "latestnewssocialflow"
+        link: "sfmw"
 ---
 
 @thingles MW wrote about this very topic:  

@@ -6,7 +6,11 @@ hash: 5da14d2991e8dcdcdf6bf4222ee771e2
 annum:
     year: 2006
     month: 02
-hostname: www.firstgiving.com
+url-parts:
+    scheme: http
+    host: www.firstgiving.com
+    path: 
+
 ---
 
 connecting supporters with causes

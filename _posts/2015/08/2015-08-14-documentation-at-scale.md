@@ -6,7 +6,11 @@ hash: a9bac1355c57730bd4e5b32bf7a847d4
 annum:
     year: 2015
     month: 08
-hostname: 250bpm.com
+url-parts:
+    scheme: http
+    host: 250bpm.com
+    path: /blog%3A58
+
 ---
 
 I've been thinking about documentation a lot recently. Namely, how to maintain internal documentation in a large-scale project where multiple teams are involved and whose lifetime is measured in…

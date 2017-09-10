@@ -6,7 +6,11 @@ hash: 27550874eb3110538dedcab69e21dca0
 annum:
     year: 2005
     month: 10
-hostname: www.meateatingleftist.com
+url-parts:
+    scheme: http
+    host: www.meateatingleftist.com
+    path: /
+
 ---
 
 

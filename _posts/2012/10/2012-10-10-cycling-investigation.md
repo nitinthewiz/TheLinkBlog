@@ -6,7 +6,11 @@ hash: a24a5959f948e581ba1e47e46c3bc0d5
 annum:
     year: 2012
     month: 10
-hostname: cyclinginvestigation.usada.org
+url-parts:
+    scheme: http
+    host: cyclinginvestigation.usada.org
+    path: /
+
 ---
 
 Sad day.

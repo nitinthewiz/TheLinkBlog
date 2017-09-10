@@ -6,7 +6,11 @@ hash: 356389437e9d9e01e0c3c16d831ce4b5
 annum:
     year: 2010
     month: 12
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/12/04/paypal_announces_it_will_no_longer_handle_wikileak
+
 ---
 
 In the latest in a series of blows to WikiLeaks, PayPal says it will no longer support money transfers to the whistleblower site.

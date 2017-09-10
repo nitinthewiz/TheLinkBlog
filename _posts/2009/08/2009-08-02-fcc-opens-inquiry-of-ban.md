@@ -6,7 +6,11 @@ hash: e0c9826f5c85bdbbcc0edab26e7c446e
 annum:
     year: 2009
     month: 08
-hostname: money.cnn.com
+url-parts:
+    scheme: http
+    host: money.cnn.com
+    path: /news/newsfeeds/articles/djf500/200907311912DOWJONESDJONLINE000919_FORTUNE5.htm
+
 ---
 
 Fawn Johnson and Amy Schatz, reporting for Dow Jones:

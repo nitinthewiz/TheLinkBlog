@@ -6,7 +6,11 @@ hash: d43c7b845f294955e8d1594576ca55aa
 annum:
     year: 2011
     month: 02
-hostname: seancoleman.net
+url-parts:
+    scheme: http
+    host: seancoleman.net
+    path: /why-37signals-is-falling-into-obsolescence
+
 ---
 
 

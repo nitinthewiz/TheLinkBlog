@@ -6,7 +6,11 @@ hash: 9e2227fbbf44b4d297bc7915c181385e
 annum:
     year: 2011
     month: 02
-hostname: maciekg.posterous.com
+url-parts:
+    scheme: http
+    host: maciekg.posterous.com
+    path: /christopher-mcdougall-are-we-born-to-run
+
 ---
 
 Christopher McDougall: Are we born to run? 

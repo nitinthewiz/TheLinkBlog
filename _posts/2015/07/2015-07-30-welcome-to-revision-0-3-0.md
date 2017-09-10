@@ -6,7 +6,11 @@ hash: 686cd3b35da26285495cb9239de601fc
 annum:
     year: 2015
     month: 07
-hostname: pythonhosted.org
+url-parts:
+    scheme: http
+    host: pythonhosted.org
+    path: /revscoring/
+
 ---
 
 

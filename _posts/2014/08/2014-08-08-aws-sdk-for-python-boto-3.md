@@ -6,7 +6,11 @@ hash: b6dcfdacdabe2e39272d737c479aae52
 annum:
     year: 2014
     month: 08
-hostname: aws.amazon.com
+url-parts:
+    scheme: http
+    host: aws.amazon.com
+    path: /blogs/aws/boto-python-3
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 527d2789219c787d1ba8b2085eea1b04
 annum:
     year: 2012
     month: 04
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /technology/archive/2012/04/how-big-data-is-changing-astronomy-again/255917/
+
 ---
 
 

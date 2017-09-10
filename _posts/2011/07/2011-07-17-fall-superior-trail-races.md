@@ -6,7 +6,11 @@ hash: f6b8069fac11ff69db756e7f18635bdc
 annum:
     year: 2011
     month: 07
-hostname: www.superiortrailrace.com
+url-parts:
+    scheme: http
+    host: www.superiortrailrace.com
+    path: /fall/index.html
+
 ---
 
 Marathon, 50 mile and 100 mile running races on the Superior Trail.

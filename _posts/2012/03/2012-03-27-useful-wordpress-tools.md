@@ -6,7 +6,11 @@ hash: fccfe8504822b454e3f995ec5e186ddf
 annum:
     year: 2012
     month: 03
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2012/03/22/useful-wordpress-tools-themes-plugins/
+
 ---
 
 

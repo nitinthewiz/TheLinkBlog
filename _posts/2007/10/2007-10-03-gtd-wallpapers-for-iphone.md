@@ -6,7 +6,11 @@ hash: 2634b0e55d6a1779c3d55cf02e7b09b8
 annum:
     year: 2007
     month: 10
-hostname: anabubula.com
+url-parts:
+    scheme: http
+    host: anabubula.com
+    path: /node/81
+
 ---
 
 GTD-wallpapers for iPhone

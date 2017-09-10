@@ -6,7 +6,11 @@ hash: 9dbad861404d6926c93a0e683fdf0611
 annum:
     year: 2013
     month: 04
-hostname: alignedleft.com
+url-parts:
+    scheme: http
+    host: alignedleft.com
+    path: /tutorials/d3/
+
 ---
 
 These tutorials have been expanded into a book, Interactive Data Visualization for the Web, published by OReilly in March 2013.

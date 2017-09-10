@@ -6,7 +6,11 @@ hash: 401bbe696e71590df07ac89e875979a3
 annum:
     year: 2010
     month: 12
-hostname: dribbble.com
+url-parts:
+    scheme: https
+    host: dribbble.com
+    path: /
+
 ---
 
 

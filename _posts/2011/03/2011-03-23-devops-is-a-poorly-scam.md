@@ -6,7 +6,11 @@ hash: e300406f7d9e60a6db06210358a03f31
 annum:
     year: 2011
     month: 03
-hostname: teddziuba.com
+url-parts:
+    scheme: http
+    host: teddziuba.com
+    path: /2011/03/devops-scam.html
+
 ---
 
 

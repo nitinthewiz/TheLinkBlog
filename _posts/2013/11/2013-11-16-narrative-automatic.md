@@ -6,7 +6,11 @@ hash: 3ae7e81d22b8013dac1b83164b390569
 annum:
     year: 2013
     month: 11
-hostname: getnarrative.com
+url-parts:
+    scheme: http
+    host: getnarrative.com
+    path: /
+
 ---
 
 A tiny, automatic camera and app that gives you a searchable and shareable photographic memory.

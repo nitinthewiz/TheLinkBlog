@@ -6,7 +6,11 @@ hash: 5c669e944cf605d2ed7e2a55583d2d56
 annum:
     year: 2014
     month: 01
-hostname: wikiapiary.com
+url-parts:
+    scheme: https
+    host: wikiapiary.com
+    path: /wiki/Special:Contributions/WikiTeam
+
 ---
 
 RT @_WikiTeam: A bot is adding info to @WikiApiary about available WikiTeam backups  Greaaat! This will do easier to find dumps! :-)

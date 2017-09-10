@@ -6,7 +6,11 @@ hash: 78b9b75e3b7cf83c5fd3c79a6fd0b6c6
 annum:
     year: 2015
     month: 03
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2014/02/05/us/chinese-implicated-in-agricultural-espionage-efforts.html
+    query:
 ---
 
 

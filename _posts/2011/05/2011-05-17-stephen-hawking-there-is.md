@@ -6,7 +6,11 @@ hash: c865e99dd0b80f7acfc610d96dbc722f
 annum:
     year: 2011
     month: 05
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /science/2011/may/15/stephen-hawking-interview-there-is-no-heaven
+
 ---
 
 In an exclusive interview with the Guardian, the cosmologist shares his thoughts on death, M-theory, human purpose and our chance existence

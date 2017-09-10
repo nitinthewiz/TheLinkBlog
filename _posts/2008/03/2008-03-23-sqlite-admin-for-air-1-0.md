@@ -6,7 +6,11 @@ hash: 6bd1a0402de1f92f09189020ae9b8301
 annum:
     year: 2008
     month: 03
-hostname: coenraets.org
+url-parts:
+    scheme: http
+    host: coenraets.org
+    path: /blog/2008/02/sqlite-admin-for-air-10/
+
 ---
 
 You can use this application to examine the structure of a database, create a new database or open an existing one, execute any type of SQL statement, etc.

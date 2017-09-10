@@ -6,7 +6,11 @@ hash: 7a63233f868d1018b256c8457c7c2717
 annum:
     year: 2010
     month: 07
-hostname: regex.info
+url-parts:
+    scheme: http
+    host: regex.info
+    path: /blog/lightroom-goodies/jpeg-quality
+
 ---
 
 Great research and analysis from Jeffrey Friedl. Must-read for any Lightroom user.

@@ -6,7 +6,11 @@ hash: 0bab294e1b30345c1abd38c229620c47
 annum:
     year: 2008
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: https
+    host: gigaom.com
+    path: /2008/03/27/419-wsj-staff-to-move-into-news-corp-hqs-online-model-set-for-now/
+
 ---
 
 The new Dow Jones (NYSE: NWS) CEO Les Hinton gave his first public interview to The Australian, and though no revelatory points, some reiteration of current policies, and a hint that various DJ units would be working more closely together with News Corp in the near future.

@@ -6,7 +6,12 @@ hash: 687a3e16cf8cd84adb8bd8a24ee1290f
 annum:
     year: 2010
     month: 12
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/12/19/magazine/19Urban_West-t.html
+    query:
+        _r: "1"
 ---
 
 

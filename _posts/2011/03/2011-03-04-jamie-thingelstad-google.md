@@ -6,7 +6,11 @@ hash: 681c88496afdff3f2c32566b2b7f5669
 annum:
     year: 2011
     month: 03
-hostname: plus.google.com
+url-parts:
+    scheme: https
+    host: plus.google.com
+    path: /%2BJamieThingelstad/about
+
 ---
 
 

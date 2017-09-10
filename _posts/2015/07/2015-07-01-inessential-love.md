@@ -6,7 +6,11 @@ hash: 6e019e9b06a1f408c85983c4962f9d7b
 annum:
     year: 2015
     month: 07
-hostname: inessential.com
+url-parts:
+    scheme: http
+    host: inessential.com
+    path: /2015/06/30/love
+
 ---
 
 Brent Simmons:

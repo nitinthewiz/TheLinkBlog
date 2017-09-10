@@ -6,7 +6,11 @@ hash: 06c0667c6826cdf71cffebd13dcdd100
 annum:
     year: 2008
     month: 11
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /nago
+
 ---
 
 Bunny pancakes this morning for Mazie! 

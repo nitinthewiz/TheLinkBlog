@@ -6,7 +6,11 @@ hash: f1b673713ed14d4d390e33ed85ee7f09
 annum:
     year: 2005
     month: 12
-hostname: www.universal-radio.com
+url-parts:
+    scheme: http
+    host: www.universal-radio.com
+    path: /catalog/widerxvr/0083.html
+
 ---
 
 Wideband Receiver

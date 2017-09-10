@@ -6,7 +6,11 @@ hash: 4b984920d421c029e70a554932be9833
 annum:
     year: 2008
     month: 05
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/05/19/clearcontexts-stab-at-making-email-more-manageable/
+
 ---
 
 It might not be as sexy as Xobni, but Outlook users who find that plugin useful should check out ClearContext Personal. It too intends to make email more manageable, albeit with a greater focus on projects than people (you wont find any attempt to turn email contacts into a social network here).

@@ -6,7 +6,11 @@ hash: 755f2b459d8f89fbab0203e31d8d4d78
 annum:
     year: 2012
     month: 01
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /apple/reviews/2012/01/is-lion-server-suitable-for-home-use-ars-investigates.ars
+
 ---
 
 

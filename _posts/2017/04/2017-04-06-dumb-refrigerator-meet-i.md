@@ -6,7 +6,11 @@ hash: 4eb8ec60c05c57674b1c3ea965b265ab
 annum:
     year: 2017
     month: 04
-hostname: www.appleworld.today
+url-parts:
+    scheme: https
+    host: www.appleworld.today
+    path: /blog/2017/4/6/dumb-refrigerator-meet-smarter-fridgecam
+
 ---
 
 

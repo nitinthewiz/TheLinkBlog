@@ -6,7 +6,11 @@ hash: 4f8841f4bca8d732f0d0b1c7d6bac6f6
 annum:
     year: 2012
     month: 05
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gaming/2012/05/catan-junior-brings-serious-board-game-strategy-to-tots/
+
 ---
 
 

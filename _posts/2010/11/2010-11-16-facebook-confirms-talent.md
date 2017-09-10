@@ -6,7 +6,11 @@ hash: e8be9b44ab16061d3c53c6eba29ea617
 annum:
     year: 2010
     month: 11
-hostname: www.insidefacebook.com
+url-parts:
+    scheme: http
+    host: www.insidefacebook.com
+    path: /2010/11/16/facebook-zenbe/
+
 ---
 
 Facebook confirmed that it hired three employees from messaging startup Zenbe in a small talent acquisition. They were part of the team working on the new Messages product Facebook launched yesterday, according to Zenbe.

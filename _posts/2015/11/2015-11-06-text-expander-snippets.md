@@ -6,7 +6,12 @@ hash: 280792cea1afc738f3fb1112e7ee9289
 annum:
     year: 2015
     month: 11
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2013/5/text-expander-snippets-date-and-time
+    query:
+        rq: "snippets"
 ---
 
 Here is another group of my TextExpander snippets. My date snippets fall in a few categories:ShortcutsWhy type August when "xm8" is faster?Date MathI don't remember when TextExpander added this

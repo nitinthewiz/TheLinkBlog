@@ -6,7 +6,11 @@ hash: 03e88552779b0da34975a183daff31c3
 annum:
     year: 2009
     month: 04
-hostname: www.apple.com
+url-parts:
+    scheme: http
+    host: www.apple.com
+    path: /macosx/technology/
+
 ---
 
 Love the use of Core Animation in Tweetie for the Mac. Makes it incredibly slick. 

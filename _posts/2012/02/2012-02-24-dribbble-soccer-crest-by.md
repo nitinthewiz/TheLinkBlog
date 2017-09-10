@@ -6,7 +6,11 @@ hash: d20a26c300aa85138a91f1110720e8da
 annum:
     year: 2012
     month: 02
-hostname: dribbble.com
+url-parts:
+    scheme: https
+    host: dribbble.com
+    path: /shots/442799-Soccer-Crest
+
 ---
 
 "Fresh take on the traditional soccer crest. @BrenniFresh: Augie Soccer Crest on @dribbble:

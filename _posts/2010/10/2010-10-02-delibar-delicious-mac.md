@@ -6,7 +6,11 @@ hash: 6c34329b683cebc3a7d74dc37eb66321
 annum:
     year: 2010
     month: 10
-hostname: www.delibarapp.com
+url-parts:
+    scheme: http
+    host: www.delibarapp.com
+    path: /
+
 ---
 
 

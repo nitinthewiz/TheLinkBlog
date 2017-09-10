@@ -6,7 +6,11 @@ hash: 0ea1c8ef4e5ccf090d5072550118f95b
 annum:
     year: 2006
     month: 04
-hostname: freenetproject.org
+url-parts:
+    scheme: http
+    host: freenetproject.org
+    path: /
+
 ---
 
 

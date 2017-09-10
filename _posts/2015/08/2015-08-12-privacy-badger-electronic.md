@@ -6,7 +6,11 @@ hash: f6178891b510016a953a3d2eb77204cc
 annum:
     year: 2015
     month: 08
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /privacybadger
+
 ---
 
 

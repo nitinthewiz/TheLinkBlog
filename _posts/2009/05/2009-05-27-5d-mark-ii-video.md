@@ -6,7 +6,11 @@ hash: a6d123b60502a1ec19313aa83a4f2ff7
 annum:
     year: 2009
     month: 05
-hostname: duncandavidson.com
+url-parts:
+    scheme: http
+    host: duncandavidson.com
+    path: /2009/05/5d-mark-ii-video-improvements.html
+
 ---
 
 Even though I'm almost exclusively shooting Nikon these days, I'm still watching developments in Canon land. Today's announcement of a firmware update that adds manual exposure control for shooting video with the 5D Mark II is a great one to see. 

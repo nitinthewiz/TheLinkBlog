@@ -6,7 +6,11 @@ hash: 0ad22e9623359377fd2194a3166bf0c6
 annum:
     year: 2007
     month: 12
-hostname: www.kevinjennings.com
+url-parts:
+    scheme: http
+    host: www.kevinjennings.com
+    path: /
+
 ---
 
 I arrived in Iowa late tonight to volunteer again for the Edwards campaign and was startled to find former Arkansas Gov. Mike Huckabee on TV telling me that the most important thing right now is not politics but to celebrate the birth of Christ (I am not making this up: thats a quote).

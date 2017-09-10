@@ -6,7 +6,11 @@ hash: 05ee386794d2d347ef4ace3c44ae21e3
 annum:
     year: 2009
     month: 07
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/07/30/wall-street-journal-creating-new-linkedin-killer-called-wsj-connect/
+
 ---
 
 The Wall Street Journal has long envied the success of professional social network LinkedIn and its 15 million or so monthly visitors (WSJ.com has just a third of that). In late 2008 they launched WSJ Community, a social network bolted onto the main WSJ site. That community is a ghost town - raise your hand if you’ve even heard of it, let alone visited it. At some point, they’ll likely shut it down as quietly as possible.

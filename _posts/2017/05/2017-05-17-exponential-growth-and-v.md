@@ -6,7 +6,11 @@ hash: 04248996b23bc6ac4a7c84dde9ec756c
 annum:
     year: 2017
     month: 05
-hostname: m.signalvnoise.com
+url-parts:
+    scheme: https
+    host: m.signalvnoise.com
+    path: /exponential-growth-devours-and-corrupts-c5562fbf131
+
 ---
 
 There is no higher God in Silicon Valley than growth. No sacrifice too big for its craving altar. As long as you keep your curve exponential, all your sins will be forgotten at the exit.

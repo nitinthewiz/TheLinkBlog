@@ -6,7 +6,11 @@ hash: b7435ce18d6c38f21d61fae778668b7b
 annum:
     year: 2012
     month: 03
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2012/03/24/entrepreneurs-should-not-buy-homes/
+
 ---
 
 Poor article about discounting one myth (home ownership) with another myth (build a startup and get rich).

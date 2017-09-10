@@ -6,7 +6,11 @@ hash: 01dae53ace6a0252a90e348995fb2dbd
 annum:
     year: 2017
     month: 07
-hostname: where.coraline.codes
+url-parts:
+    scheme: http
+    host: where.coraline.codes
+    path: /blog/my-year-at-github/
+
 ---
 
 GitHub has had many problems with diversity and inclusion. This article is worth reading for two reasons. Interesting to hear how some of the work that Coraline Ada Ehmke did related to this effort. Also this is an interesting read as a people manager. This situation doesn't seem like it was handled very well. 

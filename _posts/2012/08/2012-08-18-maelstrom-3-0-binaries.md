@@ -6,7 +6,11 @@ hash: 89091cac03ecb0507fb06dc760b79051
 annum:
     year: 2012
     month: 08
-hostname: www.libsdl.org
+url-parts:
+    scheme: http
+    host: www.libsdl.org
+    path: /projects/Maelstrom/binary.html
+
 ---
 
 Loved this game many years ago.

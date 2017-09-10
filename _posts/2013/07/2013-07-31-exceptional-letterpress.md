@@ -6,7 +6,11 @@ hash: fc6bfc31987c1b0134c07012339cc9ee
 annum:
     year: 2013
     month: 07
-hostname: www.tedlandau.com
+url-parts:
+    scheme: http
+    host: www.tedlandau.com
+    path: /slantedviewpoint/index.php/archives/2013/1219
+
 ---
 
 Once you begin to master these strategies, the next step is to realize that there are situations where the winning approach is to ignore the conventional wisdom and make an exception to the rule.

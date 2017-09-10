@@ -6,7 +6,11 @@ hash: 3bb4cf98a3de3ed5e28b6827bf815bcd
 annum:
     year: 2007
     month: 05
-hostname: discovermagazine.com
+url-parts:
+    scheme: http
+    host: discovermagazine.com
+    path: /twominutesorless
+
 ---
 
 

@@ -6,7 +6,13 @@ hash: 3bce970a580ce721a13eaabb497a8be7
 annum:
     year: 2009
     month: 04
-hostname: twincities.bizjournals.com
+url-parts:
+    scheme: http
+    host: twincities.bizjournals.com
+    path: /twincities/stories/2009/04/06/daily25.html
+    query:
+        ed: "2009-04-08"
+        ana: "e_du_pub"
 ---
 
 

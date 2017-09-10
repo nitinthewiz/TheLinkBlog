@@ -6,7 +6,11 @@ hash: d299c6373cf88712feadbe4443d35832
 annum:
     year: 2014
     month: 04
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /medium-long/15308056cfae
+
 ---
 
 Very good article that resonants strongly with me. A growing feeling of digital overload, where mobile is filling in all the gaps of analog with screens feels like a problem building.

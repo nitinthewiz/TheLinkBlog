@@ -6,7 +6,11 @@ hash: fe2ccd2975f845184b47ee00227fec3e
 annum:
     year: 2012
     month: 09
-hostname: www.popphoto.com
+url-parts:
+    scheme: http
+    host: www.popphoto.com
+    path: /news/2012/08/lost-camera-returned-to-owner-after-three-years-creek
+
 ---
 
 Fun story. Makes me feel good about my Sandisk Ultra cards.

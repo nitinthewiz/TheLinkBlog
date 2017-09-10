@@ -6,7 +6,11 @@ hash: d09beb5fb71d72e820a8951779cdc928
 annum:
     year: 2015
     month: 12
-hostname: cloud.google.com
+url-parts:
+    scheme: https
+    host: cloud.google.com
+    path: /docs/google-cloud-platform-for-aws-professionals
+
 ---
 
 Amazon and Google are among the top providers of cloud computing platforms. Each has invested in large data centers and reliable networks that deliver scalable compute, storage and database services. Both offer web services accessed through simple API endpoints that can rent infrastructure, store data, or create a network.

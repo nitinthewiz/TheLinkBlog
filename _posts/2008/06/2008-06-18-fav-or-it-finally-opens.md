@@ -6,7 +6,11 @@ hash: 372fd9cde43eb1e03471c2d93b65649c
 annum:
     year: 2008
     month: 06
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/06/17/favorit-finally-opens-beta-to-take-rss-and-commenting-mainstream/
+
 ---
 
 

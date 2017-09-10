@@ -6,7 +6,12 @@ hash: 59363951fccbdd32433b9518d3c67ceb
 annum:
     year: 2015
     month: 08
-hostname: boldpoker.net
+url-parts:
+    scheme: https
+    host: boldpoker.net
+    path: /
+    query:
+        ref: "daringfireball"
 ---
 
 Bold Poker is your personal poker dealer. Enhance your home game. Play more hands. Peek. To peek at your hole cards, cover them up using one hand. Dragging down on the cards will allow you (and only…

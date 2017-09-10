@@ -6,7 +6,11 @@ hash: e950d783149dacccbd23ddbac2dddbbd
 annum:
     year: 2010
     month: 12
-hostname: dpbestflow.org
+url-parts:
+    scheme: http
+    host: dpbestflow.org
+    path: /
+
 ---
 
 

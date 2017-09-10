@@ -6,7 +6,11 @@ hash: 7a5d23ef3d2819b92ea2a75da92b40dc
 annum:
     year: 2015
     month: 09
-hostname: en.blog.doodle.com
+url-parts:
+    scheme: http
+    host: en.blog.doodle.com
+    path: /2015/09/24/doodle-launches-new-calendar-integrations-for-outlook-com-and-office-365/
+
 ---
 
 

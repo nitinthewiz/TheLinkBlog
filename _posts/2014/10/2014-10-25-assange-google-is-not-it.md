@@ -6,7 +6,11 @@ hash: 1048bacc0befcafed1cb5394044278ea
 annum:
     year: 2014
     month: 10
-hostname: www.newsweek.com
+url-parts:
+    scheme: http
+    host: www.newsweek.com
+    path: /assange-google-not-what-it-seems-279447
+
 ---
 
 

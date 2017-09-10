@@ -6,7 +6,11 @@ hash: 95da88a48766124d5dcd3c6b4c63265f
 annum:
     year: 2008
     month: 06
-hostname: taosecurity.blogspot.com
+url-parts:
+    scheme: http
+    host: taosecurity.blogspot.com
+    path: /2008/06/verizon-business-report-speaks-volumes.html
+
 ---
 
 

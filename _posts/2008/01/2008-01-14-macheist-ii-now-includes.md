@@ -6,7 +6,11 @@ hash: 905d6d4875e9cd9deed1b25391b40423
 annum:
     year: 2008
     month: 01
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2008/01/14/macheist-ii-now-includes-snapz-pro-x/
+
 ---
 
 MacHeist II is shaping into another really great success this time around as they quickly approach their target of $100,000 for charity. The screenshot and video capture utility Snapz Pro X (a $69 program) was just recently added to the bundle, which seemed to cause a flurry of purchases.  I think in the next 24 hours or sooner we should see the bundle fully unlocked and Pixelmator also added to the package.  

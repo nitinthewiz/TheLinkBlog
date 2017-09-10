@@ -6,7 +6,11 @@ hash: 869cd28e77cbee51365007d3a52e3f86
 annum:
     year: 2008
     month: 06
-hostname: www.rainbowtreecare.com
+url-parts:
+    scheme: http
+    host: www.rainbowtreecare.com
+    path: /
+
 ---
 
 @jth Rainbow Tree Care. Best by far. 

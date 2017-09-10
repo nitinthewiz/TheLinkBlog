@@ -6,7 +6,11 @@ hash: c71de18045c701034fe485ba124a6f0b
 annum:
     year: 2007
     month: 06
-hostname: www.smileonmymac.com
+url-parts:
+    scheme: http
+    host: www.smileonmymac.com
+    path: /textexpander/index.html
+
 ---
 
 TextExpander saves you countless keystrokes with customized abbreviations for your frequently-used text strings and images.

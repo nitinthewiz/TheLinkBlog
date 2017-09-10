@@ -6,7 +6,11 @@ hash: 42c580e639d5e0ed8e1571ab92eccaa3
 annum:
     year: 2011
     month: 01
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /politics-policy/2011/01/commons-minneapolis-author-jay-walljasper-seeking-common-good-beyond-left-an
+
 ---
 
 

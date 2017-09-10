@@ -6,7 +6,11 @@ hash: 301ce0eb458d4fd0d86207db6b18a653
 annum:
     year: 2011
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /gadgets/news/2011/07/ethernet-how-does-it-work.ars
+
 ---
 
 how ethernet went from 3Mbps to over 100Gbps 

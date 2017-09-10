@@ -6,7 +6,11 @@ hash: 3917d1ef1c61f86d2b7439028329a5b8
 annum:
     year: 2011
     month: 03
-hostname: pinboard.in
+url-parts:
+    scheme: http
+    host: pinboard.in
+    path: /api
+
 ---
 
 Someone make a Pinboard2Wordpress plugin? RT @Pinboard Put up a draft page of API documentation here:   /cc @wordpress

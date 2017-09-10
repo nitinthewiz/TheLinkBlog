@@ -6,7 +6,11 @@ hash: 898227fef17c1e25341b7d6ae10d2757
 annum:
     year: 2012
     month: 03
-hostname: thesocietypages.org
+url-parts:
+    scheme: http
+    host: thesocietypages.org
+    path: /socimages/2012/03/27/atheist-intolerance-and-the-new-salience-of-religiosity/
+
 ---
 
 Atheists rank highest in "Disapprove if my child wanted to marry".

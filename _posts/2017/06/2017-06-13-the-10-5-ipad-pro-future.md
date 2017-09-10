@@ -6,7 +6,11 @@ hash: 5cc31e3db80fb3374095f2637bc50042
 annum:
     year: 2017
     month: 06
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /stories/the-10-5-ipad-pro-future-proof/
+
 ---
 
 If you want to talk iPad Frederico Viticci is the guy. Thorough writeup on the new 10.5" iPad Pro. Spoiler alert, he loves it. :-)

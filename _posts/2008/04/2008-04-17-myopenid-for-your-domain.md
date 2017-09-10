@@ -6,7 +6,11 @@ hash: a54534ba6300936a8dc47ad881cf2015
 annum:
     year: 2008
     month: 04
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2008/04/17/myopenid_for_your_domain
+
 ---
 
 OpenID, a technology that allows users to sign in to new supporting websites through a single trusted ID provider of their choice, is notoriously hard for non-developers to implement and in many cases use.   One of the biggest challenges may have been eliminated, however, by the recent release of a new service called MyOpenID for Domains.

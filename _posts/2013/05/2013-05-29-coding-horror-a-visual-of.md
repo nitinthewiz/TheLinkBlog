@@ -6,7 +6,11 @@ hash: b5590466fe8f578d22df360bd44cc87f
 annum:
     year: 2013
     month: 05
-hostname: blog.codinghorror.com
+url-parts:
+    scheme: http
+    host: blog.codinghorror.com
+    path: /a-visual-explanation-of-sql-joins
+
 ---
 
 Helpful.

@@ -6,7 +6,12 @@ hash: 7b0a0853d1302a18374be06e54af52c0
 annum:
     year: 2014
     month: 06
-hostname: www.ippawards.com
+url-parts:
+    scheme: http
+    host: www.ippawards.com
+    path: /
+    query:
+        project: "2014-winners"
 ---
 
 

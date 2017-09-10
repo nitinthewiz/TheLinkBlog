@@ -6,7 +6,11 @@ hash: 00192c47ae40b1e21001ec27e37ddb40
 annum:
     year: 2008
     month: 09
-hostname: www.red-sweater.com
+url-parts:
+    scheme: http
+    host: www.red-sweater.com
+    path: /blog/598/building-a-bigger-nerd-ranch
+
 ---
 
 When newcomers to programming on the Mac ask me for advice about getting started with Cocoa, I usually boil it down to three steps, depending on the amount of time and money they are prepared to put into the task:

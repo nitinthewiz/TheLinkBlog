@@ -6,7 +6,11 @@ hash: 49fac1307133b835382796866f8295b4
 annum:
     year: 2008
     month: 02
-hostname: www.hopelessgeek.com
+url-parts:
+    scheme: http
+    host: www.hopelessgeek.com
+    path: /2006/03/21/optimizing-a-vps-for-getting-dugg
+
 ---
 
 So after Mac Geekery had a few fleeting moments on Digg’s front page and pretty much killed the server for the rest of the day, I looked into what could be done on this setup to make things work a little better for getting hit.

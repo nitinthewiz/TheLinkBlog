@@ -6,7 +6,11 @@ hash: 61757d1ccb62ed048b2db0a2aae9401d
 annum:
     year: 2008
     month: 04
-hostname: vijaysblog.wordpress.com
+url-parts:
+    scheme: http
+    host: vijaysblog.wordpress.com
+    path: /2008/04/07/the-absolute-startup-essentials-part-i/
+
 ---
 
 

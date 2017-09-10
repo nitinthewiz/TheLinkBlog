@@ -6,7 +6,11 @@ hash: 14ce200828831a7ed34b37e487d77534
 annum:
     year: 2005
     month: 08
-hostname: www.fredmiranda.com
+url-parts:
+    scheme: http
+    host: www.fredmiranda.com
+    path: /forum/topic/261553/4
+
 ---
 
 Hot debate on a potential new Canon 50D model with full-frame sensor.

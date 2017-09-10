@@ -6,7 +6,11 @@ hash: 992fd58e408ca9cfcb4aa24a1da81396
 annum:
     year: 2011
     month: 09
-hostname: nfarina.com
+url-parts:
+    scheme: http
+    host: nfarina.com
+    path: /post/8239634061/ios-to-android
+
 ---
 
 

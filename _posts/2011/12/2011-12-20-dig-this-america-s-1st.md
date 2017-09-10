@@ -6,7 +6,11 @@ hash: 338f9b75ca86461e9ce1e1abdbcfb32c
 annum:
     year: 2011
     month: 12
-hostname: www.digthisvegas.com
+url-parts:
+    scheme: http
+    host: www.digthisvegas.com
+    path: /
+
 ---
 
 A few years ago I was thinking of "Earthmover Camp". Here it is... someone actually did it. :-)

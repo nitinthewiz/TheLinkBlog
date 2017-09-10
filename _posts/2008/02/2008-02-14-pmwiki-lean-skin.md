@@ -6,7 +6,11 @@ hash: 46f930524066d84a9f54d7f7e1ac614b
 annum:
     year: 2008
     month: 02
-hostname: www.pmwiki.org
+url-parts:
+    scheme: http
+    host: www.pmwiki.org
+    path: /wiki/Cookbook/LeanSkin
+
 ---
 
 

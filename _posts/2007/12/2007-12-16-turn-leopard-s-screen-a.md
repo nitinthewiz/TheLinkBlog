@@ -6,7 +6,11 @@ hash: 0959e35cfab0cafe70354661044c9359
 annum:
     year: 2007
     month: 12
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2007/12/15/turn-leopards-screen-sharing-into-a-better-apple-remote-desktop-lite/
+
 ---
 
 Today, Macworld's Rob Grifiths shows us how to turn Leopard's built-in Screen Sharing into a full-fledged screen sharing application - with a lot of he features that are sold in Apple Remote Desktop. It only takes a few lines of code in the terminal.

@@ -6,7 +6,11 @@ hash: 6739c9bf01b5dc63aad7f3b79eac8d45
 annum:
     year: 2011
     month: 11
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/The_Decemberists
+
 ---
 
 The Decemberists are an indie folk rock band from Portland, Oregon, United States, fronted by singer/songwriter Colin Meloy. The other members of the band are Chris Funk (guitar, multi-instrumentalist), Jenny Conlee (Hammond organ, accordion, melodica, piano, keyboards, harmonica), Nate Query (bass guitar, string bass), and John Moen (drums, backing vocals, melodica, guitar).

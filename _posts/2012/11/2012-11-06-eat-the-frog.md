@@ -6,7 +6,11 @@ hash: bbc55d509f268ac1a8b303bbd5b3c6f7
 annum:
     year: 2012
     month: 11
-hostname: home.earthlink.net
+url-parts:
+    scheme: http
+    host: home.earthlink.net
+    path: /~denmartin/etf.html
+
 ---
 
 Garrick used this term recently and I had no idea what it meant.

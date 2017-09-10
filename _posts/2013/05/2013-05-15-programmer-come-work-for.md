@@ -6,7 +6,11 @@ hash: 1754b8205a406266c804b484c7bf0ebf
 annum:
     year: 2013
     month: 05
-hostname: edu.mkrecny.com
+url-parts:
+    scheme: http
+    host: edu.mkrecny.com
+    path: /thoughts/programmer-come-work-for-us
+
 ---
 
 Nice.

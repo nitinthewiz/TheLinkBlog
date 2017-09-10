@@ -6,7 +6,11 @@ hash: 166bea3df0d6098ff00adbf8b52167bb
 annum:
     year: 2005
     month: 12
-hostname: www.maani.us
+url-parts:
+    scheme: http
+    host: www.maani.us
+    path: /xml_charts/index.php
+
 ---
 
 Flash charting library.

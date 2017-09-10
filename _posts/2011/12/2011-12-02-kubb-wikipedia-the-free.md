@@ -6,7 +6,11 @@ hash: 76d0485bd6995bebbf87c3b6b7e6d699
 annum:
     year: 2011
     month: 12
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Kubb
+
 ---
 
 

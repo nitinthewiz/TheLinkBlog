@@ -6,7 +6,11 @@ hash: e9995f677824ec0f0980e827ada280e8
 annum:
     year: 2009
     month: 03
-hostname: www.businessweek.com
+url-parts:
+    scheme: http
+    host: www.businessweek.com
+    path: /technology/content/mar2009/tc2009031_743025_page_2.htm
+
 ---
 
 Here’s the story behind the failed Facebook acquisition of Twitter.

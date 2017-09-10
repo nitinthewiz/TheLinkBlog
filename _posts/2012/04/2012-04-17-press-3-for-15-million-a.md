@@ -6,7 +6,11 @@ hash: 6d795cd637ae58daf5da4741f038ef98
 annum:
     year: 2012
     month: 04
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2012/04/16/twilio-company-culture/
+
 ---
 
 The Bessemer app allowed Lawson to dial a Twilio-connected number, which then played a touch-tone phone menu. According to Lawson, Deeter sent him a text message saying, We want to talk about the term sheet, please call this number. When he called in, the automated voice said, Press one for $5 million, press two for $10 million, press three for $15 million.

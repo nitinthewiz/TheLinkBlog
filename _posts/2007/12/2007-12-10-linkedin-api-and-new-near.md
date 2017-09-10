@@ -6,7 +6,11 @@ hash: 957c1131126f36d0b259e2a5159fad19
 annum:
     year: 2007
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2007/12/09/linkedin-api-and-new-homepage-drawing-near/
+
 ---
 
 LinkedIn, the social network for professionals, is trying to establish itself as a better destination with a stronger presence on the web. 

@@ -6,7 +6,11 @@ hash: 3ba4722b44af72594014a57473c63c00
 annum:
     year: 2017
     month: 05
-hostname: www.fastcompany.com
+url-parts:
+    scheme: https
+    host: www.fastcompany.com
+    path: /3046463/the-father-of-getting-things-done-youre-getting-me-all-wrong
+
 ---
 
 Productivity guru David Allen on Zen, doing nothing, and why some people need to “stop focusing on their goals and actually get shit done.”

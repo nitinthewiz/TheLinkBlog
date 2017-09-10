@@ -6,7 +6,11 @@ hash: 8d83bda54efe0c69d72ca8762da90880
 annum:
     year: 2014
     month: 12
-hostname: om.co
+url-parts:
+    scheme: http
+    host: om.co
+    path: /2014/11/26/technology-and-the-moral-dimension/
+
 ---
 
 

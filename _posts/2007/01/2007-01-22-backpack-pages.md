@@ -6,7 +6,11 @@ hash: fd0b3a8492967bb66c36610891c28231
 annum:
     year: 2007
     month: 01
-hostname: addons.mozilla.org
+url-parts:
+    scheme: https
+    host: addons.mozilla.org
+    path: /en-US/firefox/addon/backpack-pages/
+
 ---
 
 

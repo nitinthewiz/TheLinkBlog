@@ -6,7 +6,11 @@ hash: d602ca7f78c01a58a0bf65e56bfb63a9
 annum:
     year: 2015
     month: 09
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /2015/09/the_iphones_6s
+
 ---
 
 The pattern is pretty clear. In even-numbered years (2008, 2010, 2012, 2014) Apple releases all-new iPhone form factors: 3G, 4, 5, 6/6 Plus. In the subsequent years, they release “S”…

@@ -6,7 +6,11 @@ hash: baceaefc7a17ab80032879bae2c85cbc
 annum:
     year: 2008
     month: 10
-hostname: slideshowpro.net
+url-parts:
+    scheme: http
+    host: slideshowpro.net
+    path: /products/slideshowpro/slideshowpro_for_lightroom
+
 ---
 
 Really powerful slideshow module for Lightroom.

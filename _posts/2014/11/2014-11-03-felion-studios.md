@@ -6,7 +6,11 @@ hash: 3ffd537aed158f3c519a575e58867fb8
 annum:
     year: 2014
     month: 11
-hostname: www.felionstudios.com
+url-parts:
+    scheme: http
+    host: www.felionstudios.com
+    path: /
+
 ---
 
 custom cast iron, commercial projects, art &design

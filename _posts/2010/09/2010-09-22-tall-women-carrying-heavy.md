@@ -6,7 +6,11 @@ hash: 34582393c0e8e0042cef7a8948aef3f8
 annum:
     year: 2010
     month: 09
-hostname: www.colbertnation.com
+url-parts:
+    scheme: http
+    host: www.colbertnation.com
+    path: /the-colbert-report-videos/359744/september-21-2010/eric-schmidt
+
 ---
 
 Eric Schmidt on The Colbert Report last night. Worth it.

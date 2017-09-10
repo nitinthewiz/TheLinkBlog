@@ -6,7 +6,11 @@ hash: 9fa4c72d3461bb00a0c918e38bf55454
 annum:
     year: 2012
     month: 01
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2012/01/17/accel-leads-52-5m-round-in-cloud-based-data-storage-and-backup-company-code-42/
+
 ---
 
 Code 42 Software, a Minnesota-based online backup company for consumers, businesses and the enterprise, has raised $52.5 million in funding led by Accel Partners with participation from Split Rock Partners. This is the first major investment from Accel’s recently announced Big Data Fund, which is dedicated to funding infrastructure and application companies in “Big Data.” This is the first round of institutional investing for Code 42.

@@ -6,7 +6,11 @@ hash: 942e4d2d6a443712d54474c467ffedb1
 annum:
     year: 2015
     month: 11
-hostname: bit.ly
+url-parts:
+    scheme: http
+    host: bit.ly
+    path: /1PEp0Zn
+
 ---
 
 If you

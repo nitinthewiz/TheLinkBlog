@@ -6,7 +6,12 @@ hash: d4263672b575b7d0bf9bf165a54c9315
 annum:
     year: 2016
     month: 03
-hostname: www.faz.net
+url-parts:
+    scheme: http
+    host: www.faz.net
+    path: /aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616-p2.html
+    query:
+        printPagedArticle: "true"
 ---
 
 Governmental control is nothing compared to what Google is up to. The company is creating a wholly new genus of capitalism, a systemic coherent new logic of accumulation we should call surveillance capitalism. Is there nothing we can do?

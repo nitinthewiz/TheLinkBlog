@@ -6,7 +6,11 @@ hash: 4a02bc397d2c794eafb2a28d3a53e6fa
 annum:
     year: 2010
     month: 11
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2010/11/15/look-at-all-that-red/
+
 ---
 
 Among the dumbest of many dumb things passed off as intelligent commentary on Election Night 2010 was the constant emphasis on color changes on the big national Congressional district maps that all of the major networks kept on prominent display. Fox, CNN, and ABC (and probably others, but I can't watch everything at once) are in agreement, apparently, that viewers are 5 years old and thus best able to absorb the events of the evening through brightly-colored graphics. Look! Look at the blue turn into red. That means things are changing!

@@ -6,7 +6,11 @@ hash: 53a71b85852c078566a35185391c7211
 annum:
     year: 2017
     month: 08
-hostname: blog.ycombinator.com
+url-parts:
+    scheme: https
+    host: blog.ycombinator.com
+    path: /ycs-2017-summer-reading-list/
+
 ---
 
 Not necessarily an endorsement of Y Combinator, but I do like seeing what smart folks highlight as recommended reads.

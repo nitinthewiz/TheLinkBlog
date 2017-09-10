@@ -6,7 +6,11 @@ hash: 7b91a1705466bf80d48aef9cd58f4b10
 annum:
     year: 2007
     month: 01
-hostname: googlemapsapi.blogspot.com
+url-parts:
+    scheme: http
+    host: googlemapsapi.blogspot.com
+    path: /2007/01/get-more-traffic-to-your-maps-api-site.html
+
 ---
 
 

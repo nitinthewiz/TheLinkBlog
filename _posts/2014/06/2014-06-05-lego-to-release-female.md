@@ -6,7 +6,11 @@ hash: 33f3bfa40957e1fffcc525bbc100b7bc
 annum:
     year: 2014
     month: 06
-hostname: mentalfloss.com
+url-parts:
+    scheme: http
+    host: mentalfloss.com
+    path: /article/57127/lego-release-female-scientist-figurines
+
 ---
 
 Cool! LEGO To Release Female Scientist Figurines: 

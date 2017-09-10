@@ -6,7 +6,11 @@ hash: 34925b13e5f7621881bb25dc04d5c24f
 annum:
     year: 2016
     month: 09
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/3-reasons-to-stop-hating-one-on-one-meetings
+
 ---
 
 One-on-one meetings may be among the most important roles a manager can play. After all, what's a manager's job? To get results and to grow people. These meetings are a recurring forum for growing people.

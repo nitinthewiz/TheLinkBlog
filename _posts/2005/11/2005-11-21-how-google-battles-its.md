@@ -6,7 +6,11 @@ hash: 4c5c0d0d27a75faffa5f19a8bfae2d41
 annum:
     year: 2005
     month: 11
-hostname: www.tgdaily.com
+url-parts:
+    scheme: http
+    host: www.tgdaily.com
+    path: /trendwatch-features/21524-how-google-battles-its-increasing-power-consumption
+
 ---
 
 

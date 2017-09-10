@@ -6,7 +6,11 @@ hash: 088ca1ef06b03dc66d0a247ecd3121a5
 annum:
     year: 2008
     month: 05
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /2008/5/microsoft-s-zune-gets-video-store-more-social-features
+
 ---
 
 Want to buy those NBC episodes that you can't get on Apple's (AAPL) iTunes store anymore? Head over to Microsoft's (MSFT) new Zune TV store, which includes NBC (GE) episodes among the 800 TV shows it will begin selling today. Microsoft is also adding new social features to its MP3 players, like the ability to access real-time feeds of music your friends are listening to.

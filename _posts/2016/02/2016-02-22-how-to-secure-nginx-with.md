@@ -6,7 +6,11 @@ hash: eb16eb648ec0711c1956cb65796cc49f
 annum:
     year: 2016
     month: 02
-hostname: www.digitalocean.com
+url-parts:
+    scheme: https
+    host: www.digitalocean.com
+    path: /community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+
 ---
 
 In this tutorial, we will show you how to use Let's Encrypt to obtain a free SSL certificate and use it with Nginx on Ubuntu 14.04. We will also show you how to automatically renew your SSL certificate.

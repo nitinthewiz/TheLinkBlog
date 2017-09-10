@@ -6,7 +6,11 @@ hash: 3ea7750b31e6aedf7e54866ddcc15b7a
 annum:
     year: 2007
     month: 12
-hostname: macdailynews.com
+url-parts:
+    scheme: http
+    host: macdailynews.com
+    path: /2007/12/03/do_democrats_prefer_apple_macs/
+
 ---
 
 As MacDailyNews reported this weekend, Aliso Viejo, CA-based Net Applications announced November 2007...

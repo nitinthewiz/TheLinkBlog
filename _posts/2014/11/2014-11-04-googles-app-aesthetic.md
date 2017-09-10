@@ -6,7 +6,11 @@ hash: 688f9ac57a4ab727704e5723e991f164
 annum:
     year: 2014
     month: 11
-hostname: daringfireball.net
+url-parts:
+    scheme: http
+    host: daringfireball.net
+    path: /
+
 ---
 
 

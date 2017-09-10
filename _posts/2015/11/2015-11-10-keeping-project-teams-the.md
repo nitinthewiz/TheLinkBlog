@@ -6,7 +6,11 @@ hash: 8d92f9f68f596db802d01bb9f446a15f
 annum:
     year: 2015
     month: 11
-hostname: www.atlassian.com
+url-parts:
+    scheme: https
+    host: www.atlassian.com
+    path: /inside-atlassian/project-team-health-monitor
+
 ---
 
 We all start projects with the best of intentions.

@@ -6,7 +6,11 @@ hash: 2cefed3273e36f70ea1e17f345ec91e7
 annum:
     year: 2011
     month: 04
-hostname: www.rayninfo.co.uk
+url-parts:
+    scheme: http
+    host: www.rayninfo.co.uk
+    path: /tips/zshtips.html
+
 ---
 
 

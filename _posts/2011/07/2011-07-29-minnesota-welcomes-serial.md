@@ -6,7 +6,11 @@ hash: 21c8bb398cb870a314dca5fd10e7a974
 annum:
     year: 2011
     month: 07
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2011/07/29/john-tedesco/
+
 ---
 
 

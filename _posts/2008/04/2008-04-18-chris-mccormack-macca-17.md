@@ -6,7 +6,11 @@ hash: e9ee40798225474bf809dd91954faa7c
 annum:
     year: 2008
     month: 04
-hostname: iwilltri.com
+url-parts:
+    scheme: http
+    host: iwilltri.com
+    path: /2008/04/chris-mccormack-macca-conference-call-april-17-2008/
+
 ---
 
 For those that were not on the Chris McCormack - Macca call last night (April 17th, 08) here is my brief synopsis of it ( I was in the midst of packing for a wedding, uploading IMAZ pics, and eating some cookies so I missed some parts):

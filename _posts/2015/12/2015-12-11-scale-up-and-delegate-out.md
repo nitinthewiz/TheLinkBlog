@@ -6,7 +6,11 @@ hash: be74d709f821bedc85c76c5efdc5756f
 annum:
     year: 2015
     month: 12
-hostname: www.next-action.eu
+url-parts:
+    scheme: http
+    host: www.next-action.eu
+    path: /2014/12/10/scale-delegate-gtd/
+
 ---
 
 Scalability is the holy grail of good business practice–both for big companies looking to get bigger, and one-person bands just starting out.

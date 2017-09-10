@@ -6,7 +6,11 @@ hash: 3cea69e0e895833fcffe29eeb7d2ec0c
 annum:
     year: 2010
     month: 09
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2010/09/08/magento-mobile/
+
 ---
 
 

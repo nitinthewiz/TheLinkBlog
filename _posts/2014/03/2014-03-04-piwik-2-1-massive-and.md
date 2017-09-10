@@ -6,7 +6,11 @@ hash: 21b9dd502628e315e4d8512f88eb1e7e
 annum:
     year: 2014
     month: 03
-hostname: piwik.org
+url-parts:
+    scheme: http
+    host: piwik.org
+    path: /blog/2014/03/piwik-2-1-massive-performance-reliability-improvements/
+
 ---
 
 RT @piwik: Piwik 2.1 — Massive Performance and Reliability Improvements: We are very excited to announce the immediate av... 

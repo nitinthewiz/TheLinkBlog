@@ -6,7 +6,11 @@ hash: 990b4ee133ccb6faf8744563a0d1f525
 annum:
     year: 2016
     month: 04
-hostname: haveibeenpwned.com
+url-parts:
+    scheme: https
+    host: haveibeenpwned.com
+    path: /
+
 ---
 
 Check if you have an account that has been compromised in a data breach.

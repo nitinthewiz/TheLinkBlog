@@ -6,7 +6,11 @@ hash: cbfb43b22ef719313a8c282ad07c1520
 annum:
     year: 2011
     month: 05
-hostname: skitch.com
+url-parts:
+    scheme: https
+    host: skitch.com
+    path: /lukefrancl/r7ac7/minnebar-2011-wordle
+
 ---
 
 What MinneBar is about (by you): 

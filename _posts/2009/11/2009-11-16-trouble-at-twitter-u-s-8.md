@@ -6,7 +6,11 @@ hash: 337c878c88b64204be0203cb17f2342e
 annum:
     year: 2009
     month: 11
-hostname: www.techcrunch.com
+url-parts:
+    scheme: http
+    host: www.techcrunch.com
+    path: /2009/11/12/trouble-at-twitter-u-s-visitors-down-8-percent-in-october/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: db4580b3a8a5235123f447344c296f28
 annum:
     year: 2006
     month: 10
-hostname: uctv.canberra.edu.au
+url-parts:
+    scheme: http
+    host: uctv.canberra.edu.au
+    path: /clug/
+
 ---
 
 Canberra linux fans gathered to hack on MythTV. I took along some TV. Here's how my portable TV rebroadcasting kit works using Apple Mac Minis and open source apps.

@@ -6,7 +6,11 @@ hash: df4c07a692adf25c09aed91a98138102
 annum:
     year: 2011
     month: 01
-hostname: www.metafilter.com
+url-parts:
+    scheme: http
+    host: www.metafilter.com
+    path: /98485/A-Vacation-Spot-With-An-Afterglow
+
 ---
 
 This comment about Cherynobl gave me goosebumps:  @metafilter is still one of the treasures of the web.

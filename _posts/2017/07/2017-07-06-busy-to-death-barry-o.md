@@ -6,7 +6,11 @@ hash: 218011e2cafe4e101ec274b34489ef0d
 annum:
     year: 2017
     month: 07
-hostname: barryoreilly.com
+url-parts:
+    scheme: https
+    host: barryoreilly.com
+    path: /2017/05/31/busy-to-death/amp/
+
 ---
 
 Every word of this is awesome. I've gotten very crisp in how I manage my calendar. Some of what I do is in here, but also things to learn here. 

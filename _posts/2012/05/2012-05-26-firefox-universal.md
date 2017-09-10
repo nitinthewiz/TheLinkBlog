@@ -6,7 +6,11 @@ hash: e63c3b23ad52bac52bdb81fe28a63376
 annum:
     year: 2012
     month: 05
-hostname: www.fireuploader.com
+url-parts:
+    scheme: http
+    host: www.fireuploader.com
+    path: /
+
 ---
 
 

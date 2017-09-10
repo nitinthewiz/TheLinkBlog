@@ -6,7 +6,11 @@ hash: d6ab2a0857eb5a9beafbd987308404fe
 annum:
     year: 2011
     month: 09
-hostname: caterina.net
+url-parts:
+    scheme: http
+    host: caterina.net
+    path: /wp-archives/98
+
 ---
 
 So, to hell with all that noise. It’s just a big mass of envy, chatter and FOMO. Let’s get excited and make things.  

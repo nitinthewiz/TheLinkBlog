@@ -6,7 +6,11 @@ hash: d85259bac1204782caf7f14b42f733f5
 annum:
     year: 2008
     month: 02
-hostname: weblogtoolscollection.com
+url-parts:
+    scheme: http
+    host: weblogtoolscollection.com
+    path: /archives/2008/02/24/new-twist-on-premium-wordpress-themes/
+
 ---
 
 Small Potato of wpdesigner.com fame has come up with a new twist for Premium Themes. Now I try very hard to stay away from promoting premium themes because of their economic nature, especially if there is no direct advantage to my readers. But SP offered a large number of freebies for my readers and I had to pass them on to you.

@@ -6,7 +6,11 @@ hash: 29ebf0236abb00d7d1a76a9d7d61801b
 annum:
     year: 2017
     month: 08
-hostname: xkcd.com
+url-parts:
+    scheme: https
+    host: xkcd.com
+    path: /1880/
+
 ---
 
 I can personally attest that this is absolutely true!

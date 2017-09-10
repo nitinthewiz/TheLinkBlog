@@ -6,7 +6,12 @@ hash: c5a17a2cd82cb53ba2e3a49157414c9d
 annum:
     year: 2011
     month: 02
-hostname: archive.wired.com
+url-parts:
+    scheme: http
+    host: archive.wired.com
+    path: /techbiz/people/magazine/15-10/ff_allen
+    query:
+        currentPage: "all"
 ---
 
 I follow the Getting Things Done system. Yes, it's a cult (). The master says purge ToDo lists weekly. So today I will.  <blockquote> Humans have a problem with stuff. Allen defines stuff as anything we want or need to do. A tax form has the same status as a marriage proposal; a book to write is no different than a grocery list. It's all stuff. </blockquote> 

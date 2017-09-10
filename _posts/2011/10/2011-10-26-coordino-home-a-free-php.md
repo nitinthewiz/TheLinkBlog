@@ -6,7 +6,11 @@ hash: b47f9e6d94f36fed9dcf37439508a1cc
 annum:
     year: 2011
     month: 10
-hostname: www.coordino.com
+url-parts:
+    scheme: http
+    host: www.coordino.com
+    path: /
+
 ---
 
 Coordino allows you to create a question and answer system for you and your users to enjoy.

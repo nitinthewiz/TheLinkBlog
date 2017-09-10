@@ -6,7 +6,12 @@ hash: 3b13bd45e04e23fbeb828fd1acd1038b
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/28/opinion/28rich.html
+    query:
+        _r: "3"
 ---
 
 NYTimes: Still the Best Congress Money Can Buy 

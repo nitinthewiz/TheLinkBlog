@@ -6,7 +6,11 @@ hash: e7cbae447faf5a9c2ad7f9ecbc971a19
 annum:
     year: 2010
     month: 12
-hostname: www.luma-labs.com
+url-parts:
+    scheme: http
+    host: www.luma-labs.com
+    path: /loop
+
 ---
 
 

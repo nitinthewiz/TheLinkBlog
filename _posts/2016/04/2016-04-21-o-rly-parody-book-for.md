@@ -6,7 +6,11 @@ hash: f0e319381aee746ed476b1670660dd97
 annum:
     year: 2016
     month: 04
-hostname: dev.to
+url-parts:
+    scheme: http
+    host: dev.to
+    path: /rly
+
 ---
 
 Insult your co-workers with snarky O RLY parody book covers!

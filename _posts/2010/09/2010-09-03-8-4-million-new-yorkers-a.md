@@ -6,7 +6,11 @@ hash: f3f4e5915d3fd24a04cd4b5015530f02
 annum:
     year: 2010
     month: 09
-hostname: www.theonion.com
+url-parts:
+    scheme: http
+    host: www.theonion.com
+    path: /articles/84-million-new-yorkers-suddenly-realize-new-york-c%2C18003/
+
 ---
 
 Tuesday, every single resident of New York City decided to evacuate the famed metropolis, having simultaneously realized it was nothing more than a massive, trash-ridden hellhole that slowly sucks the life out of every one of its inhabitants.

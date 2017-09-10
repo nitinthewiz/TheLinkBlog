@@ -6,7 +6,11 @@ hash: ee9dd6fef0ad96d684d22e8b9c090c38
 annum:
     year: 2017
     month: 08
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /graphistry/pygraphistry
+
 ---
 
 The library produces some stunning graph visuals. It looks very useful for doing graph analysis. However, it doesn't seem to be a standalone thing but instead using the services of [Graphistry](https://www.graphistry.com/). 🤔

@@ -6,7 +6,11 @@ hash: 2774636281545afac7734465bbc6bce4
 annum:
     year: 2015
     month: 10
-hostname: blog.sanebox.com
+url-parts:
+    scheme: http
+    host: blog.sanebox.com
+    path: /2015/02/04/all-the-things-you-didnt-know-you-could-do-with/
+
 ---
 
 We recently found out that some of our customers (we won&#x2019;t point fingers) don&#x2019;t know about many of our awesome features. That made us sad, so we decided to write this post to right this&hellip;

@@ -6,7 +6,11 @@ hash: c51b4c37f589f6055d5491242cba5472
 annum:
     year: 2009
     month: 06
-hostname: venturebeat.com
+url-parts:
+    scheme: http
+    host: venturebeat.com
+    path: /2009/06/04/time-says-twitter-will-change-business/
+
 ---
 
 This week’s Time cover essay by Steven Johnson, “How Twitter Will Change the Way We Live,” doesn’t deliver on its title promise. Johnson recounts how he was at some important egghead conference, and — OMG! — people tweeted onto the big screen from outside the event. He told that same story about blogs in 2003.

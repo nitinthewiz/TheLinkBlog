@@ -6,7 +6,11 @@ hash: 1ef2bca3c7360e1b00018314a4674dcc
 annum:
     year: 2017
     month: 05
-hostname: daringfireball.net
+url-parts:
+    scheme: https
+    host: daringfireball.net
+    path: /2017/05/halide
+
 ---
 
 

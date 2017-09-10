@@ -6,7 +6,11 @@ hash: f81eb84bc4fb99433357548990cf2824
 annum:
     year: 2017
     month: 06
-hostname: www.bloomberg.com
+url-parts:
+    scheme: https
+    host: www.bloomberg.com
+    path: /news/articles/2017-05-31/apple-said-to-ready-siri-speaker-in-bid-to-rival-google-amazon
+
 ---
 
 

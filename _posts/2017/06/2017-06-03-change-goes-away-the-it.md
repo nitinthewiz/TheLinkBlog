@@ -6,7 +6,11 @@ hash: c44b452a428da4a5749521706590158a
 annum:
     year: 2017
     month: 06
-hostname: www.itskeptic.org
+url-parts:
+    scheme: http
+    host: www.itskeptic.org
+    path: /content/change-goes-away
+
 ---
 
 

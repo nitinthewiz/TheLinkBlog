@@ -6,7 +6,11 @@ hash: b69a35ec8b99e8b7afe8d4620a9c65f4
 annum:
     year: 2016
     month: 05
-hostname: m.signalvnoise.com
+url-parts:
+    scheme: https
+    host: m.signalvnoise.com
+    path: /eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5
+
 ---
 
 I

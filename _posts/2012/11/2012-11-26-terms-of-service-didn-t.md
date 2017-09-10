@@ -6,7 +6,11 @@ hash: 6c740e7c2220dce18e47ea18187b5fb0
 annum:
     year: 2012
     month: 11
-hostname: groups.google.com
+url-parts:
+    scheme: https
+    host: groups.google.com
+    path: /forum/m/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5d57e73a3746561bb915696867df07c0
 annum:
     year: 2008
     month: 08
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/SCART
+
 ---
 
 Plan to plug iPod into TV here in London is thwarted by confusing SCART connector! 

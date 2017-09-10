@@ -6,7 +6,11 @@ hash: 6be148dd846b11c21e8d144ba063048c
 annum:
     year: 2009
     month: 02
-hostname: www.rackspace.com
+url-parts:
+    scheme: http
+    host: www.rackspace.com
+    path: /cloud/vps/
+
 ---
 
 Last fall we eliminated the prepayment bonus when we lowered prices on bigger slices. Since then, theres been a steady stream of pleas in our suggestion box to reinstate it. Ask and ye shall receive  the bonus is back in effect! To get it, make a payment that is the greater of 6x your current monthly bill or $240.

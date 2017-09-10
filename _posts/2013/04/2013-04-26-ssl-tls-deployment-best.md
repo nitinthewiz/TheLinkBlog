@@ -6,7 +6,11 @@ hash: 182703e5f729ac8bceebb48d9b64367d
 annum:
     year: 2013
     month: 04
-hostname: www.ssllabs.com
+url-parts:
+    scheme: https
+    host: www.ssllabs.com
+    path: /downloads/SSL_TLS_Deployment_Best_Practices_1.1.pdf
+
 ---
 
 

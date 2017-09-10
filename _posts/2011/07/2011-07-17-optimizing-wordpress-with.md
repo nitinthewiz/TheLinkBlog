@@ -6,7 +6,11 @@ hash: 88f6eb24caec5e737c5b41bbcc3a3bce
 annum:
     year: 2011
     month: 07
-hostname: danielmiessler.com
+url-parts:
+    scheme: http
+    host: danielmiessler.com
+    path: /blog/optimizing-wordpress-with-nginx-varnish-w3-total-cache-amazon-s3-and-memcached
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 770e0e3eec5d9f31b69d0f2bce9b0b15
 annum:
     year: 2017
     month: 07
-hostname: www.macstories.net
+url-parts:
+    scheme: https
+    host: www.macstories.net
+    path: /reviews/omnigraffle-30-brings-the-power-of-its-macos-counterpart-to-ios/
+
 ---
 
 It’s great to see what OmniGroup is doing with there applications on iOS. They are innovating in user experience, capability and business model. If you are wondering how professional software will look in 10 years, look at OmniGroup. I’m also very excited about the launch of Omni Automation, their Javascript automation framework here. I can’t wait to see that appear in OmniFocus.

@@ -6,7 +6,11 @@ hash: 248a8fd9679fbc7f7b342b51b82bf061
 annum:
     year: 2010
     month: 02
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /32c5omj
+
 ---
 
 Hello World.   /via @tylerthing

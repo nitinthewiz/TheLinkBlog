@@ -6,7 +6,11 @@ hash: 06943c1a1aab343df1bb89a2b2bfe50c
 annum:
     year: 2007
     month: 09
-hostname: gapingvoid.com
+url-parts:
+    scheme: http
+    host: gapingvoid.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 515b60cb28f82d03b0c551cdfceb5fc6
 annum:
     year: 2010
     month: 12
-hostname: blog.executivebiz.com
+url-parts:
+    scheme: http
+    host: blog.executivebiz.com
+    path: /2010/12/fannie-mae-unix-engineer-gets-41-months-for-planting-logic-bomb/
+
 ---
 
 akwanas  laptop and other evidence revealed Makwana had transmitted the malware Oct. 24, 2008, which was intended to execute Jan. 31, 2009.

@@ -6,7 +6,11 @@ hash: c4f37a7439341a9d39dc50767492ea79
 annum:
     year: 2011
     month: 08
-hostname: agiliq.com
+url-parts:
+    scheme: http
+    host: agiliq.com
+    path: /newsletter/the-quick-website-launch-checklist/
+
 ---
 
 

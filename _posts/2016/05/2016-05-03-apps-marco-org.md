@@ -6,7 +6,11 @@ hash: 25459467172115c060d3e84351b87a35
 annum:
     year: 2016
     month: 05
-hostname: marco.org
+url-parts:
+    scheme: https
+    host: marco.org
+    path: /apps
+
 ---
 
 Apps My current apps for iOS and Mac. Traditional support is not offered, but I welcome feedback on Twitter at @marcoarment. Overcast for iPhone and iPad Overcast is a full-featured podcast player

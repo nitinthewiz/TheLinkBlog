@@ -6,7 +6,11 @@ hash: 31f3c4460f71a48294c844f7698afc67
 annum:
     year: 2012
     month: 10
-hostname: www.fancyhands.com
+url-parts:
+    scheme: https
+    host: www.fancyhands.com
+    path: /
+
 ---
 
 

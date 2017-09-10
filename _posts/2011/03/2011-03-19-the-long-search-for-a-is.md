@@ -6,7 +6,11 @@ hash: 8025fc84e18511d665275096742663bf
 annum:
     year: 2011
     month: 03
-hostname: mir.aculo.us
+url-parts:
+    scheme: http
+    host: mir.aculo.us
+    path: /2010/10/12/the-long-search-for-a-terminal-font-is-over/
+
 ---
 
 

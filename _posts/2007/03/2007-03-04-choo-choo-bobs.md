@@ -6,7 +6,11 @@ hash: cbf3cbcdb5f3dc47cf83ef18441292e0
 annum:
     year: 2007
     month: 03
-hostname: choochoobobs.com
+url-parts:
+    scheme: http
+    host: choochoobobs.com
+    path: /
+
 ---
 
 

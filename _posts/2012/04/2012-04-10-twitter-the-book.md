@@ -6,7 +6,11 @@ hash: f2e021fc098bbc3d72d4f1a979a7924f
 annum:
     year: 2012
     month: 04
-hostname: www.nickbilton.com
+url-parts:
+    scheme: http
+    host: www.nickbilton.com
+    path: /2012/04/10/twitter-the-book/
+
 ---
 
 Ive signed a deal with Penguin/Portfolio to write a book about Twitter. Ill keep this short as I dont want to spoil the ending. The book will chronicle the story of Twitter, from its inception to today, along with the business, societal and human aspects of the company.

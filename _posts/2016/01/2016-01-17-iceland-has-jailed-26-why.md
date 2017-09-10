@@ -6,7 +6,11 @@ hash: bb03cd326028946b1bbdb696f870881e
 annum:
     year: 2016
     month: 01
-hostname: www.independent.co.uk
+url-parts:
+    scheme: http
+    host: www.independent.co.uk
+    path: /voices/iceland-has-jailed-26-bankers-why-wont-we-a6735411.html
+
 ---
 
 There are many reasons to admire Iceland, but here is another one: it has just sentenced five senior bankers and one prominent investor to prison for crimes relating to the economic meltdown in 2008.

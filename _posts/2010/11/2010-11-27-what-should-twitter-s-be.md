@@ -6,7 +6,11 @@ hash: 77a0ec7322ba02f7abb2af4204047148
 annum:
     year: 2010
     month: 11
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/11/26/whatShouldTwittersVisionBe.html
+
 ---
 
 

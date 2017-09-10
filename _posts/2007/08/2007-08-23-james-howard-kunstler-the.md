@@ -6,7 +6,11 @@ hash: e94fe33fc8a3fcdd66dc664c12b292a4
 annum:
     year: 2007
     month: 08
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/james_howard_kunstler_dissects_suburbia
+
 ---
 
 In James Howard Kunstler's view, public spaces should be inspired centers of civic life -- the physical manifestation of the common good. Instead, he argues, what we have in America is a nation of places not worth caring about. Reengineering our cities wi

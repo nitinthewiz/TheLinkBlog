@@ -6,7 +6,11 @@ hash: 9ab11f07acfdcbeeab8e3f861cc891af
 annum:
     year: 2013
     month: 06
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /local/minneapolis/212748071.html
+
 ---
 
 One of the two fields that the B-Squad plays on each Wednesday night. Sinkhole right at the shortstop position. Right where I stand often.

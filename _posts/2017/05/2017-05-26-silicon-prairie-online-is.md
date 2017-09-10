@@ -6,7 +6,11 @@ hash: 234aa6a683b60eba8403a708ff4eb0db
 annum:
     year: 2017
     month: 05
-hostname: tech.mn
+url-parts:
+    scheme: http
+    host: tech.mn
+    path: /news/2017/05/26/silicon-prairie-online-is-a-minnesota-moonshot/
+
 ---
 
 I saw David give a talk on blockchain technology at Minnebar this year and it was very well done.

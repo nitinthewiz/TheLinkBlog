@@ -6,7 +6,11 @@ hash: c7b9e78236ba3ff277545af96711049a
 annum:
     year: 2011
     month: 10
-hostname: mobile.slate.com
+url-parts:
+    scheme: http
+    host: mobile.slate.com
+    path: /articles/business/branded/2011/10/tiger_woods_rolex_spokesman_why_did_the_prestigious_watch_brand_.html
+
 ---
 
 

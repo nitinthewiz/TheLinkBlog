@@ -6,7 +6,11 @@ hash: 038f508a7562ddbe56e1817db8da02c3
 annum:
     year: 2008
     month: 03
-hostname: www.magnetk.com
+url-parts:
+    scheme: http
+    host: www.magnetk.com
+    path: /expandrive
+
 ---
 
 ExpanDrive gives you perfectly transparent access to open, edit, and save files with your favorite programs, even when those files are half a world away. Transparent means that you don’t even notice you’re operating on remote files—they act like the

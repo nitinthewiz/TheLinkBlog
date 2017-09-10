@@ -6,7 +6,11 @@ hash: 314bc1019cae8966d1343198aaa92b6f
 annum:
     year: 2010
     month: 11
-hostname: www.f-secure.com
+url-parts:
+    scheme: http
+    host: www.f-secure.com
+    path: /en/web/labs_global/removal/safe-links
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: eb431bb2bf6db3a413f6eaeacfe59d18
 annum:
     year: 2015
     month: 09
-hostname: snapsnapsnap.photos
+url-parts:
+    scheme: http
+    host: snapsnapsnap.photos
+    path: /iphone-6s-camera-comparison/
+
 ---
 
 Lisa Bettany is cofounder of Camera  and MagiCam and has been named one of the top 10 most influential photographers on the web. She is passionate about sharing knowledge and inspiring others to&hellip;

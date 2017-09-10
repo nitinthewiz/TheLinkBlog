@@ -6,7 +6,11 @@ hash: 22a56c4e3af5a3fd4d8bad64dbc41e47
 annum:
     year: 2010
     month: 12
-hostname: www.minnpost.com
+url-parts:
+    scheme: http
+    host: www.minnpost.com
+    path: /cityscape/2010/12/frank-hornstein-sees-tougher-sledding-ahead-transit-and-land-use-reform
+
 ---
 
 

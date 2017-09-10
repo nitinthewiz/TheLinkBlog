@@ -6,7 +6,11 @@ hash: b34d1b9042ba2c69818e767de04258d8
 annum:
     year: 2011
     month: 08
-hostname: www.kaleidoscopeapp.com
+url-parts:
+    scheme: http
+    host: www.kaleidoscopeapp.com
+    path: /
+
 ---
 
 When you need to compare two text files to see, say, what edits have been made, there is no better tool then this: 

@@ -6,7 +6,11 @@ hash: d513e2fffea8a44065a29a3f35c374fc
 annum:
     year: 2012
     month: 03
-hostname: gawker.com
+url-parts:
+    scheme: http
+    host: gawker.com
+    path: /5891675/twitters-secret-history-as-the-worlds-worst-tech-or-media-business
+
 ---
 
 

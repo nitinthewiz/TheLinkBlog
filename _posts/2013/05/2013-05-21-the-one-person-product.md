@@ -6,7 +6,11 @@ hash: b007d78a3d61666c13bdfbd60cfb19c3
 annum:
     year: 2013
     month: 05
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2013/05/20/one-person-product
+
 ---
 
 Great writeup reflecting on Tumblr.

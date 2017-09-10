@@ -6,7 +6,11 @@ hash: ad332e2b7ed36b89cdb82c9441239d82
 annum:
     year: 2016
     month: 07
-hostname: www.kouroshdini.com
+url-parts:
+    scheme: http
+    host: www.kouroshdini.com
+    path: /2016/07/05/my-current-omnifocus-dashboard-recipe/
+
 ---
 
 Jul 5, 2016 |

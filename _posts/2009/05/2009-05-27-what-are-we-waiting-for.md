@@ -6,7 +6,11 @@ hash: 02939e068e29baada4f40a7f8b54cbf0
 annum:
     year: 2009
     month: 05
-hostname: kernest.com
+url-parts:
+    scheme: http
+    host: kernest.com
+    path: /blog/archive/what-are-we-waiting-for
+
 ---
 
 “Thus, as we consider integrating real fonts into our designs, we must navigate between browsers that support @font-face now (Safari), those that will do so soon (Opera, Chrome, Firefox), and the one that possibly never will (IE, with a dwindling but still overwhelming market share).”  - Jeffrey Zeldman

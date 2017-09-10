@@ -6,7 +6,11 @@ hash: 47db7591849a835baaa1b6a8e94319f1
 annum:
     year: 2007
     month: 01
-hostname: digital.othermusic.com
+url-parts:
+    scheme: http
+    host: digital.othermusic.com
+    path: /
+
 ---
 
 Online digital music store offering high quality mp3 digital downloads.

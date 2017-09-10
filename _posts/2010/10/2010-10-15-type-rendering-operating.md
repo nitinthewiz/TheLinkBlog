@@ -6,7 +6,11 @@ hash: 46d058f7a8bd0b744eb31dbee7395171
 annum:
     year: 2010
     month: 10
-hostname: blog.typekit.com
+url-parts:
+    scheme: http
+    host: blog.typekit.com
+    path: /2010/10/15/type-rendering-operating-systems/
+
 ---
 
 This is our second post in an ongoing series about type rendering on the web. Read the first and third posts.

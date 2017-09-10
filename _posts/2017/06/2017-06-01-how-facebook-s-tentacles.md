@@ -6,7 +6,11 @@ hash: fbce09b90495df0706a4a3dee01d8096
 annum:
     year: 2017
     month: 06
-hostname: www.bbc.com
+url-parts:
+    scheme: http
+    host: www.bbc.com
+    path: /news/business-39947942
+
 ---
 
 

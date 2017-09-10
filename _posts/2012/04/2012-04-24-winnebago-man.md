@@ -6,7 +6,13 @@ hash: 7068aa0451a9aae3a740909f6c7c86ca
 annum:
     year: 2012
     month: 04
-hostname: www.netflix.com
+url-parts:
+    scheme: https
+    host: www.netflix.com
+    path: /createNRM
+    query:
+        locale: "en-US"
+        next: "http://movies.netflix.com/WiMovie/Winnebago_Man/70115866?locale=en-US&noredir=true"
 ---
 
 The star of this movie is awesome, and totally reminds me of my friend Malibar!

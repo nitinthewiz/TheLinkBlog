@@ -6,7 +6,11 @@ hash: 98de86ee7f7297f464c4bac2b2d67a8c
 annum:
     year: 2010
     month: 12
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2010/12/19/netNeutralityIsHypocrisy.html
+
 ---
 
 Net neutrality is a concept that the tech industry rallies around, but it is hypocrisy. 

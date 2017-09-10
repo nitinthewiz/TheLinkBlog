@@ -6,7 +6,11 @@ hash: fb7de92974ea682bf2fb590d9451a565
 annum:
     year: 2010
     month: 11
-hostname: foodpress.com
+url-parts:
+    scheme: http
+    host: foodpress.com
+    path: /
+
 ---
 
 

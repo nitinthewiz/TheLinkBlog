@@ -6,7 +6,11 @@ hash: 5cdd5fd65b2b6ecbe2332d54bdcba6a8
 annum:
     year: 2011
     month: 12
-hostname: www.forbes.com
+url-parts:
+    scheme: http
+    host: www.forbes.com
+    path: /sites/stevedenning/2011/11/28/maximizing-shareholder-value-the-dumbest-idea-in-the-world/
+
 ---
 
 The Dumbest Idea in the World: Maximizing Shareholder Value

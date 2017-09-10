@@ -6,7 +6,11 @@ hash: 3d301e184e6abdda7185bb0558a58732
 annum:
     year: 2010
     month: 01
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2010/01/21/send-tweets-automatically-during-a-keynote-presentation-with-key/
+
 ---
 
 

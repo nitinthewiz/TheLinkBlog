@@ -6,7 +6,12 @@ hash: 1910677108d586683ac41fa32106886b
 annum:
     year: 2012
     month: 04
-hostname: bikes.oobrien.com
+url-parts:
+    scheme: http
+    host: bikes.oobrien.com
+    path: /
+    query:
+        city: "minneapolis"
 ---
 
 

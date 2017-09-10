@@ -6,7 +6,11 @@ hash: 966602f9d54941d0c0fe9bb88dece46f
 annum:
     year: 2015
     month: 08
-hostname: blogs.atlassian.com
+url-parts:
+    scheme: http
+    host: blogs.atlassian.com
+    path: /2015/07/shake-n-bake-recipe-realistic-roadmaps-jira-portfolio/
+
 ---
 
 This recipe is for the perfect roadmap. It’s data-driven, realistic, and it’ll give you the ability to combine agile and long-term planning, without the need for messy spreadsheets.…

@@ -6,7 +6,11 @@ hash: cde9914ede498c3554ddb02c8e5391f2
 annum:
     year: 2011
     month: 11
-hostname: www.imperialviolet.org
+url-parts:
+    scheme: http
+    host: www.imperialviolet.org
+    path: /2011/11/22/forwardsecret.html
+
 ---
 
 

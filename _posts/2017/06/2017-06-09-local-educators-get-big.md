@@ -6,7 +6,11 @@ hash: f8faff7e784d4a94034733d3dfb03d9d
 annum:
     year: 2017
     month: 06
-hostname: startribune.com
+url-parts:
+    scheme: http
+    host: startribune.com
+    path: /local-educators-get-big-response-on-kickstarter-for-computing-game/427314533/
+
 ---
 
 Fun writeup on Turing Tumble in the Star Tribune.

@@ -6,7 +6,12 @@ hash: 3cb7b79fb944a81482fdd3c4f41033b1
 annum:
     year: 2012
     month: 02
-hostname: blog.memze.ro
+url-parts:
+    scheme: http
+    host: blog.memze.ro
+    path: /
+    query:
+        p: "13"
 ---
 
 #naxsi config for #wordpress ? #naxsi config for #wordpress ! 

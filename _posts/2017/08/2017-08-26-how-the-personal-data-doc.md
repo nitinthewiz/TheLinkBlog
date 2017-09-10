@@ -6,7 +6,11 @@ hash: ebdb66e63ef5833b4724b6c081e532ef
 annum:
     year: 2017
     month: 08
-hostname: blogs.harvard.edu
+url-parts:
+    scheme: http
+    host: blogs.harvard.edu
+    path: /doc/2017/08/26/extraction-ends/
+
 ---
 
 Doc Searls thinking about the long term aspects of all the personal data collection on the web. I wish that I was as confident as he that even the biggest players on the web will pass over time. Plus got to learn a new word [epiphenomenal](https://en.wikipedia.org/wiki/Epiphenomenon).

@@ -6,7 +6,11 @@ hash: f143cde299ff33d99e140e609fc1c268
 annum:
     year: 2010
     month: 02
-hostname: tylerthing.com
+url-parts:
+    scheme: http
+    host: tylerthing.com
+    path: /
+
 ---
 
 @PhilipHotchkiss Mazie is the winner for domain names, her blog is at . Tyler's site is .

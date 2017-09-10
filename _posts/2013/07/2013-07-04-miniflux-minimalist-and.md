@@ -6,7 +6,11 @@ hash: a6c7c9bb7c62abb1d23e6ebee30cea9b
 annum:
     year: 2013
     month: 07
-hostname: miniflux.net
+url-parts:
+    scheme: http
+    host: miniflux.net
+    path: /
+
 ---
 
 This looks interesting.

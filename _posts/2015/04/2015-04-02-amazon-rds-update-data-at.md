@@ -6,7 +6,11 @@ hash: b957aae062e6161e65e60c6ad8056d0d
 annum:
     year: 2015
     month: 04
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /blogs/aws/amazon-rds-update-data-at-rest-encryption-using-aws-kms-keys/
+
 ---
 
 

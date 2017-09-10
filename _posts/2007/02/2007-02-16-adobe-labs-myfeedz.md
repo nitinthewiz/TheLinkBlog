@@ -6,7 +6,11 @@ hash: ec5ab1a0d30452a4dbffa2e50a822a9b
 annum:
     year: 2007
     month: 02
-hostname: labs.adobe.com
+url-parts:
+    scheme: http
+    host: labs.adobe.com
+    path: /technologies/myfeedz/
+
 ---
 
 myFeedz is a web application that finds what is important from the sea of information on the Internet and shows you what you need to read. It learns from your reading habits, and helps you keep up with your interests, by offering personalized content.

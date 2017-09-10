@@ -6,7 +6,11 @@ hash: 93ca9aa193743966d072d3b6d3b6b2c3
 annum:
     year: 2010
     month: 09
-hostname: marijn.haverbeke.nl
+url-parts:
+    scheme: http
+    host: marijn.haverbeke.nl
+    path: /js1k.html
+
 ---
 
 From Marijn Haverbeke, “a JavaScript platform game that fits in 1024 bytes”.

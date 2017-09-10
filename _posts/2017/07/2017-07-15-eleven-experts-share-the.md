@@ -6,7 +6,11 @@ hash: 874cf9154f89daa407ac08b41b76be1b
 annum:
     year: 2017
     month: 07
-hostname: scheduleu.org
+url-parts:
+    scheme: http
+    host: scheduleu.org
+    path: /2017/07/09/experts-share-the-secrets-of-scheduling-everything-in-your-calendar/
+
 ---
 
 Managing your calendar is an important task most of us. I was also excited to see my friend [Garrick Van Buren](https://garrickvanburen.com) in here! I've thought a lot about calendaring methods and tools. The one outcome I have so far is it is very personal and has to be appropriate for your demands. One size certainly does **not** fit all in this area.

@@ -6,7 +6,11 @@ hash: 2aa99e713112cb3b03a74c87b9a764ae
 annum:
     year: 2008
     month: 01
-hostname: www.gocomics.com
+url-parts:
+    scheme: http
+    host: www.gocomics.com
+    path: /doonesbury/2008/01/13/
+
 ---
 
 

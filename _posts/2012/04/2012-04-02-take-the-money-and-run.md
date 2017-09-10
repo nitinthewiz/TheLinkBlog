@@ -6,7 +6,11 @@ hash: 7a6da26c428e8162cb70b6c941941b73
 annum:
     year: 2012
     month: 04
-hostname: www.thisamericanlife.org
+url-parts:
+    scheme: http
+    host: www.thisamericanlife.org
+    path: /radio-archives/episode/461/take-the-money-and-run-for-office
+
 ---
 
 I've read Lessig's "Republic, Lost" which goes into great details on this topic. This show is a good primer. The direct quotes from congresspeople, the discussion of quotas, and the targets assigned by committees are pretty incredulous stuff.

@@ -6,7 +6,11 @@ hash: db62a7f41e55da751cc710583ff2537a
 annum:
     year: 2015
     month: 05
-hostname: www.ewg.org
+url-parts:
+    scheme: http
+    host: www.ewg.org
+    path: /2015sunscreen/report/executive-summary/
+
 ---
 
 

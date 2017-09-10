@@ -6,7 +6,11 @@ hash: de6fbe4bf9b6a14616285dfd2aa2245d
 annum:
     year: 2008
     month: 03
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/03/06/419-penthouse-to-file-for-250-million-ipo/
+
 ---
 
 Penthouse Media Group, the troubled adult media company, plans to file for a $250 million IPO, the company has announced. It says it plans to file the S-1 in Q2 of this year. "The net proceeds of the offering will be used primarily to discharge existing indebtedness. The size, nature and manner of the offering are subject to change."

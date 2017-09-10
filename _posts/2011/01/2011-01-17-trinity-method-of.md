@@ -6,7 +6,11 @@ hash: 0f5b4b84d30a6c9273d8316f4b15a975
 annum:
     year: 2011
     month: 01
-hostname: www.rajiv.com
+url-parts:
+    scheme: http
+    host: www.rajiv.com
+    path: /blog/2010/10/05/trinity-method/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 04f73b91de0bf3cb9380dd6ed036547f
 annum:
     year: 2013
     month: 03
-hostname: www.behind-the-enemy-lines.com
+url-parts:
+    scheme: http
+    host: www.behind-the-enemy-lines.com
+    path: /2011/03/uncovering-advertising-fraud-scheme.html
+
 ---
 
 

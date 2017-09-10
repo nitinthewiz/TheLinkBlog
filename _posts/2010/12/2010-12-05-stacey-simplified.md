@@ -6,7 +6,11 @@ hash: 0ad5a57ee5f5658fb2ad70021edd9615
 annum:
     year: 2010
     month: 12
-hostname: www.staceyapp.com
+url-parts:
+    scheme: http
+    host: www.staceyapp.com
+    path: /
+
 ---
 
 

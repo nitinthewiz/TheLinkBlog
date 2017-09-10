@@ -6,7 +6,11 @@ hash: a9ce28d47fc04c6277d304806e15a8bd
 annum:
     year: 2017
     month: 05
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /17/05/my-social-media-fast
+
 ---
 
 

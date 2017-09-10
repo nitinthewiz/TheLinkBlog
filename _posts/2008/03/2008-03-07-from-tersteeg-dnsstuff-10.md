@@ -6,7 +6,11 @@ hash: 548a445d7e267d57fde3ae9c1be1102d
 annum:
     year: 2008
     month: 03
-hostname: askchief.blogspot.com
+url-parts:
+    scheme: http
+    host: askchief.blogspot.com
+    path: /2008/01/dnsstuffcom-alternative-10-free-sites.html
+
 ---
 
 

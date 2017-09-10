@@ -6,7 +6,11 @@ hash: d02210363315e4c6379ae4d2323de211
 annum:
     year: 2011
     month: 09
-hostname: www.nikcub.com
+url-parts:
+    scheme: https
+    host: www.nikcub.com
+    path: /posts/logging-out-of-facebook-is-not-enough/
+
 ---
 
 

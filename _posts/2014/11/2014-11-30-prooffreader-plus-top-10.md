@@ -6,7 +6,11 @@ hash: 11dd2bc75b4e051fc8dd3c0e3dcb6d00
 annum:
     year: 2014
     month: 11
-hostname: prooffreaderplus.blogspot.com
+url-parts:
+    scheme: http
+    host: prooffreaderplus.blogspot.com
+    path: /2014/11/top-10-python-idioms-i-wished-id.html
+
 ---
 
 

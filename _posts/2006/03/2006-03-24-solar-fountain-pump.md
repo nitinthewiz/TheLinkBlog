@@ -6,7 +6,15 @@ hash: ad1a7f4918c7aeef79f7b0dae115d33e
 annum:
     year: 2006
     month: 03
-hostname: www.improvementscatalog.com
+url-parts:
+    scheme: http
+    host: www.improvementscatalog.com
+    path: /Parent.asp
+    query:
+        product: "268296x"
+        dept_id: "12100"
+        subdept_id: "12130"
+        merchant_id: "I5z7y6uTrBQ-y/7feGqU4nQxWiCLwkRZ*Q"
 ---
 
 

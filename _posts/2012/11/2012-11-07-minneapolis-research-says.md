@@ -6,7 +6,11 @@ hash: ec20a8aef949b3d17ec205e4ecf70329
 annum:
     year: 2012
     month: 11
-hostname: www.slate.com
+url-parts:
+    scheme: http
+    host: www.slate.com
+    path: /blogs/moneybox/2012/11/06/minneapolis_research_says_you_should_move_to_the_twin_cities.html
+
 ---
 
 All the great things about the Twin Cities.

@@ -6,7 +6,11 @@ hash: 0dece35143749bf974911a2dc8e96ace
 annum:
     year: 2015
     month: 07
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/speed-as-a-habit/
+
 ---
 
 All things being equal, speed will determine whether your company succeeds or not. Here's how to make it core to your culture.

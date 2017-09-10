@@ -6,7 +6,11 @@ hash: 15bdde643d46eeabc650c28b27843497
 annum:
     year: 2017
     month: 07
-hostname: opensourcefriday.com
+url-parts:
+    scheme: https
+    host: opensourcefriday.com
+    path: /
+
 ---
 
 Interesting concept. Like the idea and it's a better way to market this than I've seen before. Similar in many ways to "20% time". 

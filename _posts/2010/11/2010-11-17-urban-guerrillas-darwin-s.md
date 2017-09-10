@@ -6,7 +6,11 @@ hash: cdada5bdf2e1b37c50eef7da65d354a9
 annum:
     year: 2010
     month: 11
-hostname: archive.org
+url-parts:
+    scheme: https
+    host: archive.org
+    path: /details/UrbanGuerrillas-DarwinsTheoryOfPelvicRevolutionLp
+
 ---
 
 

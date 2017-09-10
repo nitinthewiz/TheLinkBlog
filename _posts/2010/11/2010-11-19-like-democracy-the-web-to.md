@@ -6,7 +6,11 @@ hash: c38cd5e615d726cc6d9b5c4f9937fd98
 annum:
     year: 2010
     month: 11
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2010/11/19/like-democracy-the-web-needs-to-be-defended-its-creator-says/
+
 ---
 
 

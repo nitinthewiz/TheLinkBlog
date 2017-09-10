@@ -6,7 +6,11 @@ hash: a0b1e85275bd29ad61001fed90bae67c
 annum:
     year: 2010
     month: 11
-hostname: www.mobilexweb.com
+url-parts:
+    scheme: http
+    host: www.mobilexweb.com
+    path: /blog/safari-ios-accelerometer-websockets-html5
+
 ---
 
 

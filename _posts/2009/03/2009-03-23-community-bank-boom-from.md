@@ -6,7 +6,11 @@ hash: 3d592d973ba5f037cafb7e5343bbd845
 annum:
     year: 2009
     month: 03
-hostname: www.cnn.com
+url-parts:
+    scheme: http
+    host: www.cnn.com
+    path: /video/
+
 ---
 
 

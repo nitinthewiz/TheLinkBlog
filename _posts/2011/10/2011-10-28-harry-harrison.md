@@ -6,7 +6,11 @@ hash: 9627c11b5cceb66e1e955294b993bc9d
 annum:
     year: 2011
     month: 10
-hostname: ha.reesun.me
+url-parts:
+    scheme: http
+    host: ha.reesun.me
+    path: /
+
 ---
 
 Cool site.

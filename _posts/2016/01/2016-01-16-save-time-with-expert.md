@@ -6,7 +6,11 @@ hash: a6a2061edb8e67435f81f5127251327b
 annum:
     year: 2016
     month: 01
-hostname: www.asianefficiency.com
+url-parts:
+    scheme: http
+    host: www.asianefficiency.com
+    path: /technology/save-time-with-expert-level-textexpander-snippets/
+
 ---
 
 This is a guest post by Helmut Hauser. He is a Lecturer (Assistant Professor) in Robotics at the University of Bristol (UK), a father of three little boys, and a productivity geek.

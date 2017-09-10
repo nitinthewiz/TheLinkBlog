@@ -6,7 +6,11 @@ hash: 71adefccbff06a2cc2d77ce6e7a6b2ef
 annum:
     year: 2012
     month: 03
-hostname: aoifeodonovan.com
+url-parts:
+    scheme: http
+    host: aoifeodonovan.com
+    path: /
+
 ---
 
 Unbelievable voice.

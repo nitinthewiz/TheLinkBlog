@@ -6,7 +6,11 @@ hash: 59729cd5187b35dcb4601db065ff487c
 annum:
     year: 2017
     month: 02
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /SimplGy/jekyll-timeline
+
 ---
 
 

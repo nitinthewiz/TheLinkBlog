@@ -6,7 +6,12 @@ hash: 6acbb2b58a27d17c12e8d1891dd754c3
 annum:
     year: 2011
     month: 04
-hostname: craphound.com
+url-parts:
+    scheme: http
+    host: craphound.com
+    path: /
+    query:
+        p: "3427"
 ---
 
 

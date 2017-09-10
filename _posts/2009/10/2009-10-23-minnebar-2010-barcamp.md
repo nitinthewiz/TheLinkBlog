@@ -6,7 +6,11 @@ hash: b098598dd1d5ee974dcadeec0da7afee
 annum:
     year: 2009
     month: 10
-hostname: minnebar.eventbrite.com
+url-parts:
+    scheme: http
+    host: minnebar.eventbrite.com
+    path: /
+
 ---
 
 RT @lof: Registration for @minnebar 2009 is up!  Free (as always) but there's a Community Supporter ticket for $20

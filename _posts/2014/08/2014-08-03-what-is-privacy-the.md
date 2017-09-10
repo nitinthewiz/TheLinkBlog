@@ -6,7 +6,11 @@ hash: fe6757a9793ffdd188e868c90a2ba335
 annum:
     year: 2014
     month: 08
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /message/what-is-privacy-5ed72c66aa86
+
 ---
 
 

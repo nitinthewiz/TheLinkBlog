@@ -6,7 +6,11 @@ hash: 5ac020668b24f24b64a7759a3add9761
 annum:
     year: 2007
     month: 04
-hostname: gizmodo.com
+url-parts:
+    scheme: http
+    host: gizmodo.com
+    path: /gadgets/photogps/
+
 ---
 
 

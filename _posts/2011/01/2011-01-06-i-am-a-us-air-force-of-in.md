@@ -6,7 +6,11 @@ hash: 1812c75b53bc0a5ec7b256732c758eaf
 annum:
     year: 2011
     month: 01
-hostname: crushingbastards.org
+url-parts:
+    scheme: http
+    host: crushingbastards.org
+    path: /blog/2011/01/04/i-am-a-us-air-force-intelligence-veteran-of-the-war-in-afghanistan-and-i-support-wikileaks/
+
 ---
 
 

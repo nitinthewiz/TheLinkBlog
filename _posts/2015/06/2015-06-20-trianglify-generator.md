@@ -6,7 +6,11 @@ hash: bc367fab6dd33a3202ffa8ec9cb639cd
 annum:
     year: 2015
     month: 06
-hostname: qrohlf.com
+url-parts:
+    scheme: http
+    host: qrohlf.com
+    path: /trianglify-generator/
+
 ---
 
 

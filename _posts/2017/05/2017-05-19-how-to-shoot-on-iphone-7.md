@@ -6,7 +6,11 @@ hash: fa40ef23371caebe1513f96a66828d04
 annum:
     year: 2017
     month: 05
-hostname: www.apple.com
+url-parts:
+    scheme: https
+    host: www.apple.com
+    path: /iphone/photography-how-to/
+
 ---
 
 

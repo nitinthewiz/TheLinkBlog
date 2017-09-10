@@ -6,7 +6,11 @@ hash: fa3de29c19b580ddb591bfeb0d6d06f9
 annum:
     year: 2013
     month: 07
-hostname: blog.hartleybrody.com
+url-parts:
+    scheme: http
+    host: blog.hartleybrody.com
+    path: /https-certificates/
+
 ---
 
 How was data protected? How can a client and server create a secure connection if someone was already listening in on the wire? What is a security certificate and why do I need to pay someone to get one?

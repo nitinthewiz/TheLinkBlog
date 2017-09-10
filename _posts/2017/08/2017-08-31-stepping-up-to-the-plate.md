@@ -6,7 +6,11 @@ hash: fb88cafba5b8df83a590656c1d6ee0b2
 annum:
     year: 2017
     month: 08
-hostname: www.pagerduty.com
+url-parts:
+    scheme: https
+    host: www.pagerduty.com
+    path: /blog/intern-insights-on-call-experience/
+
 ---
 
 Fun read especially for those that aren't aware of the incident response that happens in operations teams. I also like the reference to "the ball" in here. Operations teams always have a concept of someone having "the ball" (the problem). You have to manage who has the ball (sometimes balls!) in a very clear way.

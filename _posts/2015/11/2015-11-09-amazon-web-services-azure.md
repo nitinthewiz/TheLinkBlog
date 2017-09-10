@@ -6,7 +6,11 @@ hash: 2b0033e8160cfa992cefe5e7ef9c2512
 annum:
     year: 2015
     month: 11
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10
+
 ---
 
 What exactly are these companies selling? Who's buying it? And why is one company that wasn't even in enterprise technology a decade ago — Amazon — beating the pants off everyone else?

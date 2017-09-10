@@ -6,7 +6,11 @@ hash: ff165a2a563f8faeb7c268a02311ed18
 annum:
     year: 2007
     month: 09
-hostname: www.apcupsd.com
+url-parts:
+    scheme: http
+    host: www.apcupsd.com
+    path: /index.html
+
 ---
 
 Apcupsd can be used for power mangement and controlling most of APC's UPS models on Unix and Windows machines. Apcupsd works with most of APC's Smart-UPS models as well as most simple signalling models such a Back-UPS, and BackUPS-Office. During a power f

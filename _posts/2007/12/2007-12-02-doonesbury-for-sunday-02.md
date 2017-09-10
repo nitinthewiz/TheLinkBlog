@@ -6,7 +6,11 @@ hash: 7397bd2b48ee739861f5e4cd596761fe
 annum:
     year: 2007
     month: 12
-hostname: www.ucomics.com
+url-parts:
+    scheme: http
+    host: www.ucomics.com
+    path: /doonesbury/2007/12/02/
+
 ---
 
 

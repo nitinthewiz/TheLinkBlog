@@ -6,7 +6,11 @@ hash: e16e8bc484fb26c3d302abef32b366ef
 annum:
     year: 2010
     month: 07
-hostname: calnewport.com
+url-parts:
+    scheme: http
+    host: calnewport.com
+    path: /blog/2010/07/06/treat-your-mind-as-you-would-a-private-garden/
+
 ---
 
 

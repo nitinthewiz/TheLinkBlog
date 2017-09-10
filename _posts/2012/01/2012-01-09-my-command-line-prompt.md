@@ -6,7 +6,11 @@ hash: ffd25123842bce3be3d7aaf6470f0c13
 annum:
     year: 2012
     month: 01
-hostname: blog.peepcode.com
+url-parts:
+    scheme: http
+    host: blog.peepcode.com
+    path: /blog/2012/my-command-line-prompt
+
 ---
 
 

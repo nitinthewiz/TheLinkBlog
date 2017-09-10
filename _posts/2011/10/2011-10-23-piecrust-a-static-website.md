@@ -6,7 +6,11 @@ hash: 9c453e4d59ffb6cb6753cd2618d364f8
 annum:
     year: 2011
     month: 10
-hostname: bolt80.com
+url-parts:
+    scheme: http
+    host: bolt80.com
+    path: /piecrust/
+
 ---
 
 

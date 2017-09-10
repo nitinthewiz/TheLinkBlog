@@ -6,7 +6,11 @@ hash: 4bc89b20c5f5487123f4e9dd4b28c9fa
 annum:
     year: 2014
     month: 11
-hostname: blog.michaelsu.io
+url-parts:
+    scheme: http
+    host: blog.michaelsu.io
+    path: /announcing-prophet/
+
 ---
 
 Michael Su's blog

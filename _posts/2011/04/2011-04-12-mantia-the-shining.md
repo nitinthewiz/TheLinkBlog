@@ -6,7 +6,11 @@ hash: 7167e0fbff13ca1784258540b684264c
 annum:
     year: 2011
     month: 04
-hostname: mantia.me
+url-parts:
+    scheme: http
+    host: mantia.me
+    path: /wallpaper/the-shining/
+
 ---
 
 

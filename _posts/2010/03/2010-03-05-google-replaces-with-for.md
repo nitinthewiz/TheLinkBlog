@@ -6,7 +6,11 @@ hash: cab068276012a795d6ad9ce286980ef4
 annum:
     year: 2010
     month: 03
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5485540/google-replaces-searchwiki-with-stars-for-customized-search
+
 ---
 
 

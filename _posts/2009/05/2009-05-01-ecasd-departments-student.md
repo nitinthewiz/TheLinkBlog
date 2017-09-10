@@ -6,7 +6,11 @@ hash: 8b06a03eb4337df6c1dda0a30caeb8db
 annum:
     year: 2009
     month: 05
-hostname: www.ecasd.k12.wi.us
+url-parts:
+    scheme: http
+    host: www.ecasd.k12.wi.us
+    path: /departments/studentservices/specialeducation/assistive_tech/software/boardmaker/boardmaker_index.html
+
 ---
 
 Road Sign Bingo (PDF) - Print these bingo cards to work on road sign recognition   . Holiday Bingo (PDF) - Print these bingo cards to work on Holiday symbol ...

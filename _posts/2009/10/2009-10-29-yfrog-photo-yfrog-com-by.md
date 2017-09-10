@@ -6,7 +6,11 @@ hash: 6aa62b1c635176dee7a39c6b047790fc
 annum:
     year: 2009
     month: 10
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /b65poj
+
 ---
 
 Magic mouse (mice)! Thanks @ShawnBGP!  

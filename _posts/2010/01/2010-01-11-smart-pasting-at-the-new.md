@@ -6,7 +6,11 @@ hash: a303b652ec44b2dcfafe2d6624df8562
 annum:
     year: 2010
     month: 01
-hostname: signalvnoise.com
+url-parts:
+    scheme: http
+    host: signalvnoise.com
+    path: /posts/2087-smart-pasting-at-the-new-yorker-site
+
 ---
 
 

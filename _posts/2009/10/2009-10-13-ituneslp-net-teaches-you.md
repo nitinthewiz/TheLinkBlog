@@ -6,7 +6,11 @@ hash: b73373a79e6f9306775ee5a7e101cbd6
 annum:
     year: 2009
     month: 10
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5380731/ituneslpnet-teaches-you-to-create-lets-you-download-itunes-lps
+
 ---
 
 Web site iTunesLP.net details how to create albums in Apple's new iTunes LP format. The site also offers free downloads of iTunes LP albums that aren't already available in iTunes. 

@@ -6,7 +6,11 @@ hash: 9dc91c07fbad030baf2a492702a0b144
 annum:
     year: 2014
     month: 11
-hostname: www.practicallyefficient.com
+url-parts:
+    scheme: http
+    host: www.practicallyefficient.com
+    path: /2011/02/07/my-omnifocus-experiment-the-beginning-kinda/
+
 ---
 
 My OmniFocus experiment – the beginning (kinda) 

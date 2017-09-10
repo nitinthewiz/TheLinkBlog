@@ -6,7 +6,11 @@ hash: 61e446aedbafaaf0b1ac1616c390ec57
 annum:
     year: 2007
     month: 01
-hostname: www.ministeam.com
+url-parts:
+    scheme: http
+    host: www.ministeam.com
+    path: /acatalog/shop.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 9eb52030147c703c9104aa4f96bc8581
 annum:
     year: 2011
     month: 06
-hostname: www.ginandtacos.com
+url-parts:
+    scheme: http
+    host: www.ginandtacos.com
+    path: /2011/06/16/the-least-dangerous-branch/
+
 ---
 
 

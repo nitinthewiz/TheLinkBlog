@@ -6,7 +6,11 @@ hash: 0e624133fdb4c02c700108e03119cb1c
 annum:
     year: 2011
     month: 06
-hostname: opinionated-programmer.com
+url-parts:
+    scheme: http
+    host: opinionated-programmer.com
+    path: /2011/06/chef-solo-tutorial-managing-a-single-server-with-chef/
+
 ---
 
 

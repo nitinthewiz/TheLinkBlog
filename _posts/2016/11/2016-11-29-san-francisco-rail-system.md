@@ -6,7 +6,11 @@ hash: 158782831cd5b721320ee4fb03a41d6f
 annum:
     year: 2016
     month: 11
-hostname: krebsonsecurity.com
+url-parts:
+    scheme: https
+    host: krebsonsecurity.com
+    path: /2016/11/san-francisco-rail-system-hacker-hacked/
+
 ---
 
 

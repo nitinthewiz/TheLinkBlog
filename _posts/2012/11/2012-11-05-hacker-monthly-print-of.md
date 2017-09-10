@@ -6,7 +6,11 @@ hash: 11d533d0fb508e8bd32c45dfefe87f65
 annum:
     year: 2012
     month: 11
-hostname: hackermonthly.com
+url-parts:
+    scheme: http
+    host: hackermonthly.com
+    path: /
+
 ---
 
 Every month, thousands of programmers, startup founders and hackers read Hacker Monthly, the print magazine of Hacker News.

@@ -6,7 +6,11 @@ hash: ffa01c2759d3c16d14709a654e88db63
 annum:
     year: 2015
     month: 04
-hostname: socialite-lang.github.io
+url-parts:
+    scheme: http
+    host: socialite-lang.github.io
+    path: /
+
 ---
 
 Query language for large-scale graph analysis

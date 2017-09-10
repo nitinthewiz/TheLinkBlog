@@ -6,7 +6,11 @@ hash: 10eaa39227191d9f51340d05413ba307
 annum:
     year: 2012
     month: 02
-hostname: fora.tv
+url-parts:
+    scheme: http
+    host: fora.tv
+    path: /2012/01/17/How_Money_Corrupts_Congress_and_a_Plan_to_Stop_It
+
 ---
 
 How Money Corrupts Congress and a Plan to Stop It: A talk by Larry Lessig

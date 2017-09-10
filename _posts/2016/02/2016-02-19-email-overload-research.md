@@ -6,7 +6,11 @@ hash: 4243a6c60626d36cc4fed86a95f4d6cd
 annum:
     year: 2016
     month: 02
-hostname: blog.sanebox.com
+url-parts:
+    scheme: http
+    host: blog.sanebox.com
+    path: /2016/02/18/email-overload-research-statistics-sanebox/
+
 ---
 
 We’ve scoured the earth for studies on email overload and interruptions. Here’s what we found.

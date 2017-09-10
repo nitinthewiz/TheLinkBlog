@@ -6,7 +6,11 @@ hash: dfce6b8fb74a8134d70b27ac8827d273
 annum:
     year: 2012
     month: 12
-hostname: typographica.org
+url-parts:
+    scheme: http
+    host: typographica.org
+    path: /typeface-reviews/apple-color-emoji/
+
 ---
 
 Emoji FTW!

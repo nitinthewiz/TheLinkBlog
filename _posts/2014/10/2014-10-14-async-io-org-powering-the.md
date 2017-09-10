@@ -6,7 +6,11 @@ hash: d4d4eaa3eaf821d73b08218645cfd675
 annum:
     year: 2014
     month: 10
-hostname: async-io.org
+url-parts:
+    scheme: http
+    host: async-io.org
+    path: /
+
 ---
 
 Real Time Client Server Framework for the JVM, supporting WebSockets and Cross-Browser Fallbacks Support

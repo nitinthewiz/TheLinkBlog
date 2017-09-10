@@ -6,7 +6,11 @@ hash: 3f84f8b539d2be5378e791f2f81d1c6b
 annum:
     year: 2017
     month: 02
-hostname: www.goodnotesapp.com
+url-parts:
+    scheme: http
+    host: www.goodnotesapp.com
+    path: /
+
 ---
 
 Make your handwritten notes last forever.

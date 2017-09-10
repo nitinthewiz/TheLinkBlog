@@ -6,7 +6,11 @@ hash: 15086599e219dbd9593c5318b1da1aef
 annum:
     year: 2012
     month: 08
-hostname: blog.okfn.org
+url-parts:
+    scheme: http
+    host: blog.okfn.org
+    path: /2012/08/15/cc-license-version-4-0-helping-meet-the-needs-of-open-data-publishers-and-users/
+
 ---
 
 

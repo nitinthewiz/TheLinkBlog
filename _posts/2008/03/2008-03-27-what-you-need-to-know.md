@@ -6,7 +6,11 @@ hash: 772af16c2ba2fa1bbf6dc2345ace2d41
 annum:
     year: 2008
     month: 03
-hostname: lorelle.wordpress.com
+url-parts:
+    scheme: http
+    host: lorelle.wordpress.com
+    path: /2008/03/26/what-you-need-to-know-about-wordcamp-dallas/
+
 ---
 
 I and a couple hundred other WordPress and blogging enthusiasts are gathering outside of Dallas, Texas, for a foot stomping and roaring great time this Saturday and Sunday.

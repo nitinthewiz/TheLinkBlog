@@ -6,7 +6,11 @@ hash: b2dc2f9e11c13928936d0143ee884b3c
 annum:
     year: 2010
     month: 09
-hostname: www.dslrnewsshooter.com
+url-parts:
+    scheme: http
+    host: www.dslrnewsshooter.com
+    path: /2010/09/28/one-day-on-earth-project-needs-your-help/
+
 ---
 
 

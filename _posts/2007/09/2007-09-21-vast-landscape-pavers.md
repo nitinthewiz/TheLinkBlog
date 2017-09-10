@@ -6,7 +6,11 @@ hash: 770f09e4af7487fc9ae7ce77f18ab59f
 annum:
     year: 2007
     month: 09
-hostname: www.azek.com
+url-parts:
+    scheme: http
+    host: www.azek.com
+    path: /
+
 ---
 
 The VAST Composite Paver System is the smartest, most socially responsible landscape, permeable or deck paver alternative in the industry.

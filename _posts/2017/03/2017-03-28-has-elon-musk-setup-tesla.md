@@ -6,7 +6,11 @@ hash: c434cd9e6052e10b54760606329b33bc
 annum:
     year: 2017
     month: 03
-hostname: www.zerohedge.com
+url-parts:
+    scheme: http
+    host: www.zerohedge.com
+    path: /news/2017-03-27/has-elon-musk-setup-tesla-epic-fail-his-model-3-production-guidance-hint-yes
+
 ---
 
 

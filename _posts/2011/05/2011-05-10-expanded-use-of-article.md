@@ -6,7 +6,11 @@ hash: dd48430ad8b546a6ae309260d186d8d4
 annum:
     year: 2011
     month: 05
-hostname: blog.wikimedia.org
+url-parts:
+    scheme: http
+    host: blog.wikimedia.org
+    path: /2011/05/09/expanded-use-of-article-feedback-tool/
+
 ---
 
 

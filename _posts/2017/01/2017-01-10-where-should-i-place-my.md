@@ -6,7 +6,11 @@ hash: 4693ec11a447eb8aa8e7ff95a9a91a20
 annum:
     year: 2017
     month: 01
-hostname: support.eero.com
+url-parts:
+    scheme: https
+    host: support.eero.com
+    path: /hc/en-us/articles/207897393
+
 ---
 
 

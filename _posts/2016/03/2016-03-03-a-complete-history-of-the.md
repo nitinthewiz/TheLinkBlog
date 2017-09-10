@@ -6,7 +6,11 @@ hash: 5f664322663103c0f241ac181d1f51f8
 annum:
     year: 2016
     month: 03
-hostname: kitbashed.com
+url-parts:
+    scheme: http
+    host: kitbashed.com
+    path: /blog/a-complete-history-of-the-millennium-falcon
+
 ---
 
 The Millennium Falcon underwent a long and arduous number of conceptual iterations before its final iconic shape emerged; the one we now once again see blasting its way across the big screen. In fact it wasn't even known by its famous name until well into production, having up until then gone under the much mundane moniker: Pirate Ship.

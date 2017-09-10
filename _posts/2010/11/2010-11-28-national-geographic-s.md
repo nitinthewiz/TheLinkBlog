@@ -6,7 +6,11 @@ hash: f67dc8574ab63a37e6179fe424abfd71
 annum:
     year: 2010
     month: 11
-hostname: www.boston.com
+url-parts:
+    scheme: http
+    host: www.boston.com
+    path: /bigpicture/2010/11/national_geographics_photograp.html
+
 ---
 
 Wow. Amazing photos in the Nat'l Geographic Photo contest:  The judges have their work cut out for them.

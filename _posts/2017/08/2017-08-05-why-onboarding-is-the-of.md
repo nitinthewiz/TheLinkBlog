@@ -6,7 +6,11 @@ hash: 6ee4afb1f0b137f58d9eb5a0faa58523
 annum:
     year: 2017
     month: 08
-hostname: caseyaccidental.com
+url-parts:
+    scheme: http
+    host: caseyaccidental.com
+    path: /startup-onboarding
+
 ---
 
 Good ideas and thoughts on how you introduce users to a new product or service. Also good discussion of key metrics.

@@ -6,7 +6,11 @@ hash: c8c7f53b66c8b2f76d99f526a455b8e1
 annum:
     year: 2009
     month: 05
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /zune-review
+
 ---
 
 Gizmodo had a chance to take a look at the Zune.  Surprisingly, they really liked it, though none of its differentiating factors were available.

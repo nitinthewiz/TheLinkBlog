@@ -6,7 +6,11 @@ hash: ac75525bdab1de3740ea3febbdd47510
 annum:
     year: 2010
     month: 12
-hostname: notes.pinboard.in
+url-parts:
+    scheme: http
+    host: notes.pinboard.in
+    path: /u:thingles/c3f454047de094170825
+
 ---
 
 defaults write com.apple.iTunes allow-half-stars -bool TRUE

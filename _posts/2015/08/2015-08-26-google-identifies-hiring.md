@@ -6,7 +6,11 @@ hash: 5318cff8e3933f290ef246bb8b8271bf
 annum:
     year: 2015
     month: 08
-hostname: thehustle.co
+url-parts:
+    scheme: http
+    host: thehustle.co
+    path: /the-secret-google-interview-that-landed-me-a-job
+
 ---
 
 

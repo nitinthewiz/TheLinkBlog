@@ -6,7 +6,11 @@ hash: 4b0be41ca5adbb95f46fc1d7859c62ce
 annum:
     year: 2014
     month: 09
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /information-technology/2014/09/mailpile-enters-beta-its-like-gmail-but-you-run-it-on-your-own-computer/
+
 ---
 
 Been wondering when Mailpile would get to this point for a while. Interesting approach.

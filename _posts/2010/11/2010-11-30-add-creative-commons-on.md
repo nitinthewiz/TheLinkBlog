@@ -6,7 +6,11 @@ hash: 01bcc6b974a1e9239226adc6cac6fb81
 annum:
     year: 2010
     month: 11
-hostname: www.techsutram.com
+url-parts:
+    scheme: http
+    host: www.techsutram.com
+    path: /2009/05/facebook-add-creative-commons-badge-on.html
+
 ---
 
 A Facebook app to add creative commons badge to your profile. This seems so out of place. :-)

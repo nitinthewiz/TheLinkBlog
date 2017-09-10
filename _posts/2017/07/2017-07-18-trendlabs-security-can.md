@@ -6,7 +6,11 @@ hash: 702ead24210f2f36a65a354fe3ff3217
 annum:
     year: 2017
     month: 07
-hostname: blog.trendmicro.com
+url-parts:
+    scheme: https
+    host: blog.trendmicro.com
+    path: /trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/
+
 ---
 
 The general state of security in the Android ecosystem is really worrisome. While people can argue the other areas of mobile OS's with some debate, I don't know of anyone that suggests Android has a good position on security.

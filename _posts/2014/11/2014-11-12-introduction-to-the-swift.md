@@ -6,7 +6,12 @@ hash: 95710cbcf915fa4c64b96da19c65a9b5
 annum:
     year: 2014
     month: 11
-hostname: developer.apple.com
+url-parts:
+    scheme: http
+    host: developer.apple.com
+    path: /swift/blog/
+    query:
+        id: "18"
 ---
 
 

@@ -6,7 +6,11 @@ hash: e1dbe8b6a3bec862558d1a183fc96785
 annum:
     year: 2011
     month: 12
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /27177893
+
 ---
 
 Brian Warner, and engineer with Mozilla Labs, gave a brownbag presentation in which he introduced Bitcoin and covered how the Bitcoin protocol functions.

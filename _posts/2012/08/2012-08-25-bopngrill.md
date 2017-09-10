@@ -6,7 +6,11 @@ hash: fcca897106bfa3702974d6b35de3d44d
 annum:
     year: 2012
     month: 08
-hostname: bngrill.com
+url-parts:
+    scheme: http
+    host: bngrill.com
+    path: /
+
 ---
 
 

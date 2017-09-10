@@ -6,7 +6,11 @@ hash: b498694a7b310a8df7ce2f5c71579fe1
 annum:
     year: 2015
     month: 05
-hostname: www.damninteresting.com
+url-parts:
+    scheme: http
+    host: www.damninteresting.com
+    path: /who-wants-to-be-a-thousandaire/
+
 ---
 
 

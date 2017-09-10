@@ -6,7 +6,12 @@ hash: b8b3449362c4ef4f6fca7938f4b40ad4
 annum:
     year: 2015
     month: 10
-hostname: docs.aws.amazon.com
+url-parts:
+    scheme: http
+    host: docs.aws.amazon.com
+    path: /lambda/latest/dg/versioning-aliases.html
+    query:
+        adbsc: "social_20151030_54349696"
 ---
 
 Versioning allows you to better manage your in-production Lambda function code allowing you to publish one or more versions of your Lambda function. This enables you to work with different variations

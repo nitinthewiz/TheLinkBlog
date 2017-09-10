@@ -6,7 +6,11 @@ hash: a056249b523d3d059a691cb587bef3ca
 annum:
     year: 2011
     month: 07
-hostname: www.zdnet.com
+url-parts:
+    scheme: http
+    host: www.zdnet.com
+    path: /blog/feeds/ftc-says-yes-to-facebook-activity-inclusion-in-background-checks/3973
+
 ---
 
 I wonder if they also keep 7 years of my website.

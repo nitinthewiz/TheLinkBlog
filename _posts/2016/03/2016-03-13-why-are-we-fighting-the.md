@@ -6,7 +6,11 @@ hash: f4d770b4230daadad01190d499b0094f
 annum:
     year: 2016
     month: 03
-hostname: backchannel.com
+url-parts:
+    scheme: https
+    host: backchannel.com
+    path: /why-are-we-fighting-the-crypto-wars-again-b5310a423295
+
 ---
 
 The iPhone Crisis reignited a conflict that should have been settled in the 90s. The loser is our national security.

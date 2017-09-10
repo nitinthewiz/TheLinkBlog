@@ -6,7 +6,11 @@ hash: a6f3707dd6f5e22f9cf1efff5da68568
 annum:
     year: 2010
     month: 12
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5715909/vimeo-video-school-offers-free-tutorials-to-help-improve-your-video-skills
+
 ---
 
 

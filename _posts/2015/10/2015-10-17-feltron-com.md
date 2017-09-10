@@ -6,7 +6,11 @@ hash: 84dbe54db9cef1f6e9d7e25b314d5000
 annum:
     year: 2015
     month: 10
-hostname: feltron.com
+url-parts:
+    scheme: http
+    host: feltron.com
+    path: /far14.html
+
 ---
 
 

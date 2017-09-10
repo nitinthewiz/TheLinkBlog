@@ -6,7 +6,11 @@ hash: 9be2e5fd703b717c0c28f320e0e56d38
 annum:
     year: 2013
     month: 05
-hostname: clkoerner.com
+url-parts:
+    scheme: http
+    host: clkoerner.com
+    path: /2013/05/01/creating-a-navigable-list-of-property-values-in-semantic-mediawiki/
+
 ---
 
 Handy.

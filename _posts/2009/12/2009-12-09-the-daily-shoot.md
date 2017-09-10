@@ -6,7 +6,11 @@ hash: 5d760108f5cf0074bf90a4cf1e526553
 annum:
     year: 2009
     month: 12
-hostname: www.clarkware.com
+url-parts:
+    scheme: http
+    host: www.clarkware.com
+    path: /blog/2009/12/07/the-daily-shoot
+
 ---
 
 I love to make photographs, and yet I don't practice the craft and art of photography enough. Now and

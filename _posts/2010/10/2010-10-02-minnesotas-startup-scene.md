@@ -6,7 +6,11 @@ hash: 6f81c3389bf65364f9284b2b2eb6f9f5
 annum:
     year: 2010
     month: 10
-hostname: garrickvanburen.com
+url-parts:
+    scheme: http
+    host: garrickvanburen.com
+    path: /archive/minnesotas-startup-scene-in-twin-cities-business-magazine
+
 ---
 
 ‘Saving Innovation’ – Dan Haugen’s article on our vibrant meet-up scene and how it supports innovation & entrepreneurship was published in the October 2010 issue of Twin Cities Business Magazine.

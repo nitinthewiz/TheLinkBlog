@@ -6,7 +6,11 @@ hash: ced147c7280257efe38b5e293e8dd0a8
 annum:
     year: 2015
     month: 05
-hostname: danielbachhuber.com
+url-parts:
+    scheme: https
+    host: danielbachhuber.com
+    path: /2015/05/28/some-unsolicited-feedback-for-the-fields-project-from-my-time-with-the-rest-api-project/
+
 ---
 
 

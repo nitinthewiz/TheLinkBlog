@@ -6,7 +6,11 @@ hash: 25cacc291160e251eb612b2c504168af
 annum:
     year: 2015
     month: 02
-hostname: nginx.com
+url-parts:
+    scheme: http
+    host: nginx.com
+    path: /blog/microservices-at-netflix-architectural-best-practices/
+
 ---
 
 

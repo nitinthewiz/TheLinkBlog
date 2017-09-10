@@ -6,7 +6,11 @@ hash: 96ac57c38f5ed0bd0ec4e0af30d72703
 annum:
     year: 2012
     month: 04
-hostname: www.joshjames.com
+url-parts:
+    scheme: http
+    host: www.joshjames.com
+    path: /wp-content/uploads/2012/02/JJSR-34.jpg
+
 ---
 
 

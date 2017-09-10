@@ -6,7 +6,11 @@ hash: 30ca3d53334eabe9c3dd494416b449c5
 annum:
     year: 2011
     month: 01
-hostname: www.stltoday.com
+url-parts:
+    scheme: http
+    host: www.stltoday.com
+    path: /news/opinion/an-adult-conversation-about-the-nation-s-debt/article_2f63a988-60f1-565f-9469-0455cc1db500.html
+
 ---
 
 Let's have an adult conversation on the nation's debt

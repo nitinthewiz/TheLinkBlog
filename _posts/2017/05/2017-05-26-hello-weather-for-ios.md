@@ -6,7 +6,11 @@ hash: 6aa2267f255987054eef5ee342bcab93
 annum:
     year: 2017
     month: 05
-hostname: toolsandtoys.net
+url-parts:
+    scheme: http
+    host: toolsandtoys.net
+    path: /hello-weather-for-ios/
+
 ---
 
 I've been using Hello Weather for a while now and I really like it. The information is presented in a very intuitive way and easy to understand. Powerful enough, while not being difficult to use.

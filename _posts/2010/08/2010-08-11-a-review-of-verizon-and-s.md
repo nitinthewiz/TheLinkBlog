@@ -6,7 +6,11 @@ hash: 66595593d46e11350aa780eadc696939
 annum:
     year: 2010
     month: 08
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2010/08/google-verizon-netneutrality
+
 ---
 
 Efforts to protect net neutrality that involve government regulation have always faced one fundamental obstacle: the substantial danger that the regulators will cause more harm than good for the Internet.  The worst case scenario would be that, in allowing the FCC to regulate the Internet, we open the door for big business, Hollywood and the indecency police to exert even more influence on the Net than they do now.

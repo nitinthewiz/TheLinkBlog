@@ -6,7 +6,11 @@ hash: 9cfc9c26b854915e741917ba47e93f79
 annum:
     year: 2008
     month: 06
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /news/0806/08061002canon1000d.asp
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 5e92be825a89f7ab84c5c9d39e2e4c5b
 annum:
     year: 2015
     month: 03
-hostname: www.eff.org
+url-parts:
+    scheme: https
+    host: www.eff.org
+    path: /deeplinks/2015/03/way-forward-bruce-schneiers-new-book-data-and-goliath-explains-where-our-privacy
+
 ---
 
 

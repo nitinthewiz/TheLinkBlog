@@ -6,7 +6,11 @@ hash: 2c2b72d55cefd5d1f46503c532240b39
 annum:
     year: 2010
     month: 12
-hostname: directwebremoting.org
+url-parts:
+    scheme: http
+    host: directwebremoting.org
+    path: /dwr/index.html
+
 ---
 
 

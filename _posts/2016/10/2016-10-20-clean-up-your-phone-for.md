@@ -6,7 +6,11 @@ hash: 9c76696b91d34c32a402c038de57e13b
 annum:
     year: 2016
     month: 10
-hostname: timemanagementninja.com
+url-parts:
+    scheme: https
+    host: timemanagementninja.com
+    path: /2016/08/clean-up-your-phone-for-increased-productivity/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a93399953afa6ab9cd3e6fbbe553dd93
 annum:
     year: 2008
     month: 03
-hostname: raanan.com
+url-parts:
+    scheme: http
+    host: raanan.com
+    path: /2008/03/16/bears-stearn-news-role-of-economic-models-predictions/
+
 ---
 
 

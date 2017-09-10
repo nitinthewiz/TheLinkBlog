@@ -6,7 +6,11 @@ hash: 2d4e953d9591fbeefd8ced2a3e4bc927
 annum:
     year: 2005
     month: 11
-hostname: ww35.cczclan.com
+url-parts:
+    scheme: http
+    host: ww35.cczclan.com
+    path: /yp-55download.asp
+
 ---
 
 Firmware and such for the Yepp YP-T5 player.

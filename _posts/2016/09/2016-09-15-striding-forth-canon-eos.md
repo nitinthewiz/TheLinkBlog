@@ -6,7 +6,11 @@ hash: dbe512c798e914907c9f4fa1235f36a2
 annum:
     year: 2016
     month: 09
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /reviews/canon-eos-5d-mark-iv
+
 ---
 
 The Canon EOS 5D series is arguably one of the most

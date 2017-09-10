@@ -6,7 +6,11 @@ hash: d689d7c0955be78cc2673b26375eff92
 annum:
     year: 2011
     month: 04
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2011/04/gamification-purpose-marketing.html
+
 ---
 
 

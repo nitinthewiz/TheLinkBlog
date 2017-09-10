@@ -6,7 +6,11 @@ hash: 865b4cb876d13783b966bdb2c6ce4d48
 annum:
     year: 2011
     month: 01
-hostname: www.eventburn.com
+url-parts:
+    scheme: http
+    host: www.eventburn.com
+    path: /minnestar
+
 ---
 
 Minnedemo, burned:  #eventburn #minnedemo

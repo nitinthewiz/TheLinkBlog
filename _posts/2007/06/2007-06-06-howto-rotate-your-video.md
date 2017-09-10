@@ -6,7 +6,11 @@ hash: 09ceae21bee603916795a486c85a7637
 annum:
     year: 2007
     month: 06
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2007/04/11/howto-rotate-your-video-in-quicktime-pro/
+
 ---
 
 Today with so many of us using our digital cameras to shoot short video segments, it's especially easy to forget that we're dealing with videos and turn the camera on its side for a portrait orientation. Unfortunately, most video programs are not set up t

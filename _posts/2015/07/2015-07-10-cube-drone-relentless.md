@@ -6,7 +6,11 @@ hash: 653e9f1245180e6c598fc1a56a832905
 annum:
     year: 2015
     month: 07
-hostname: cube-drone.com
+url-parts:
+    scheme: http
+    host: cube-drone.com
+    path: /comics/c/relentless-persistence
+
 ---
 
 Comics about software development in a small Vancouver startup.

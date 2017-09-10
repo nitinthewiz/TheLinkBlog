@@ -6,7 +6,13 @@ hash: d562dbb9f24171a0de6e878400f985d4
 annum:
     year: 2015
     month: 06
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "ICzaxuCm49E"
+        feature: "youtu.be"
 ---
 
 See how SPS uses Logicmonitor to help support their internal IT team.

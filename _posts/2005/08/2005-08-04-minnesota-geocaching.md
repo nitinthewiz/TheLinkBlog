@@ -6,7 +6,11 @@ hash: 783c7163d99799c7ec81bd2556cb723e
 annum:
     year: 2005
     month: 08
-hostname: mngca.org
+url-parts:
+    scheme: http
+    host: mngca.org
+    path: /index.php
+
 ---
 
 Local geocaching resource

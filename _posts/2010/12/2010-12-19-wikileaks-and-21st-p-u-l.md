@@ -6,7 +6,11 @@ hash: 3dd3aff58b5917c4c333286a6a40e1d2
 annum:
     year: 2010
     month: 12
-hostname: pulsemedia.org
+url-parts:
+    scheme: http
+    host: pulsemedia.org
+    path: /2010/12/08/wikileaks-and-21st-century-statecraft/
+
 ---
 
 Wikileaks and the over-the-top hypocrisy of our State Department: Net freedom for thee but not for me  via @cshirky

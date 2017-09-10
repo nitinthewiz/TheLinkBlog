@@ -6,7 +6,11 @@ hash: 861bec6af94cf25f43063ac156136921
 annum:
     year: 2015
     month: 06
-hostname: spinroot.com
+url-parts:
+    scheme: http
+    host: spinroot.com
+    path: /p10/
+
 ---
 
 

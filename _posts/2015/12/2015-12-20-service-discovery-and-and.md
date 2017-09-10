@@ -6,7 +6,11 @@ hash: 11359acc1ae08a7f47dd29aa5a659fdb
 annum:
     year: 2015
     month: 12
-hostname: mesosphere.com
+url-parts:
+    scheme: https
+    host: mesosphere.com
+    path: /blog/2015/12/13/service-discovery-and-load-balancing-with-dcos-and-marathon-lb-part-2/
+
 ---
 
 Marathon-lb works by automatically generating configuration for HAProxy and then reloading HAProxy as needed. Marathon-lb generates the HAProxy configuration based on application data available from the Marathon REST API. It can also subscribe to the Marathon Event Bus for real-time updates. When an application starts, stops, relocates or has any change in health status, marathon-lb will automatically regenerate the HAProxy configuration and reload HAProxy.

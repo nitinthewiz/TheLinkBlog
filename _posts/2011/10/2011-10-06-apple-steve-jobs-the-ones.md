@@ -6,7 +6,13 @@ hash: c5f3df72f324096cf4c2215d2db239f3
 annum:
     year: 2011
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        feature: "player_embedded"
+        v: "8rwsuXHA7RA"
 ---
 
 It's times like these that I love how YouTube has it all.  Jobs narrates "The Crazy Ones" TV spot which never aired: 

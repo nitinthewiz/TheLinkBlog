@@ -6,7 +6,11 @@ hash: c6f9d85a56268a9059d6b3925373c11e
 annum:
     year: 2011
     month: 03
-hostname: www.time.com
+url-parts:
+    scheme: http
+    host: www.time.com
+    path: /time/printout/0,8816,2058114,00.html
+
 ---
 
 

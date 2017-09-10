@@ -6,7 +6,11 @@ hash: d9a77691cfb3ae8eb6b95239ced0dbdc
 annum:
     year: 2012
     month: 01
-hostname: www.ultimatephotoguide.com
+url-parts:
+    scheme: http
+    host: www.ultimatephotoguide.com
+    path: /
+
 ---
 
 Layne Kennedy demonstrates the technique of capturing motion in your photos by panning with a fall leaf and utilizing proper fall light. An Ultimate PhotoGuide (UPG) original video.

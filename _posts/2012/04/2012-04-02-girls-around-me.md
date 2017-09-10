@@ -6,7 +6,11 @@ hash: 2ae33c1ef55a2413c23b5ee6fa90dbac
 annum:
     year: 2012
     month: 04
-hostname: girlsaround.me
+url-parts:
+    scheme: http
+    host: girlsaround.me
+    path: /
+
 ---
 
 Ultimately this is just a mashup of social data jammed into an iPhone App. And, arguably while this is at best in poor taste, it does highlight privacy issues around social sharing.  <blockquote> Girls Around Me is a revolutionary new city scanner app than turns your town into a dating paradise! </blockquote> 

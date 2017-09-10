@@ -6,7 +6,11 @@ hash: 25f83570ec8fe5aaa61a93a44562460e
 annum:
     year: 2012
     month: 04
-hostname: www.prnewswire.com
+url-parts:
+    scheme: http
+    host: www.prnewswire.com
+    path: /news-releases/8thbridge-named-facebook-preferred-marketing-developer-148105465.html
+
 ---
 
 Good recognition for us.

@@ -6,7 +6,11 @@ hash: b875ca3bc99619e9ec086dfeadb6eabc
 annum:
     year: 2007
     month: 01
-hostname: www.rrtrack.com
+url-parts:
+    scheme: http
+    host: www.rrtrack.com
+    path: /
+
 ---
 
 RR-Track is the answer for all your toy or model train layout design headaches.

@@ -6,7 +6,11 @@ hash: bac7db1f796179091e16dd8483a009ff
 annum:
     year: 2011
     month: 02
-hostname: slowcop.com
+url-parts:
+    scheme: http
+    host: slowcop.com
+    path: /
+
 ---
 
 

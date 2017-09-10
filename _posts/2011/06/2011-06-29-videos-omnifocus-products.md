@@ -6,7 +6,11 @@ hash: 56828b1076ea5956bc6345b24991b295
 annum:
     year: 2011
     month: 06
-hostname: www.omnigroup.com
+url-parts:
+    scheme: http
+    host: www.omnigroup.com
+    path: /products/omnifocus/videos/
+
 ---
 
 

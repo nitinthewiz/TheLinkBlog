@@ -6,7 +6,11 @@ hash: a0da63e97014e6d6f0c2602a573ddb17
 annum:
     year: 2010
     month: 12
-hostname: www.getworksimple.com
+url-parts:
+    scheme: http
+    host: www.getworksimple.com
+    path: /
+
 ---
 
 WorkSimple provides executives, human resources, and employees with a modern approach to goal management, performance management, 360-degree reviews, and employee collaboration

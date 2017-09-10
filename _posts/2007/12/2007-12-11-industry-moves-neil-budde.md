@@ -6,7 +6,11 @@ hash: 88aeca64a25986865909d8ca37bd7859
 annum:
     year: 2007
     month: 12
-hostname: www.paidcontent.org
+url-parts:
+    scheme: http
+    host: www.paidcontent.org
+    path: /entry/419-industry-moves-neil-budde-leaving-yahoo-khemlani-expands-role-to-includ/
+
 ---
 
 Last week, when I checked with Neil Budde and inside Yahoo (NSDQ: YHOO) after Valleywag floated the idea that he was leaving, I was told that wasn't the case. But the situation changed following internal discussions about the Yahoo News vet's position on Scott Moore's new org chart???turns out there really wasn't one for his most recent role of editor-in-chief across news, sports and finance???and Budde, who contributed considerably to the improvements of the past few years, is on his way out. I'm told Moore wanted everything in each vertical to report up through the business side, not have a second track for editorial or to have editorial cross verticals. Budde, former publisher of WSJ.com, joined Yahoo in late 2004 as GM for news; he switched to the E-I-C role for the three verticals last January.

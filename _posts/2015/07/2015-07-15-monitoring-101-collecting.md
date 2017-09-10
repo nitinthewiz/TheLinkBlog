@@ -6,7 +6,11 @@ hash: 48ea5676c280bc218815857da0185cfa
 annum:
     year: 2015
     month: 07
-hostname: www.datadoghq.com
+url-parts:
+    scheme: https
+    host: www.datadoghq.com
+    path: /blog/monitoring-101-collecting-data/
+
 ---
 
 Collect and classify data so that you can receive meaningful, automated alerts about potential problems, and quickly get to the bottom of performance issues

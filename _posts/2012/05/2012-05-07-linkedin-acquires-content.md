@@ -6,7 +6,11 @@ hash: 8e16ae294de65599e56d6b5ef347c5d4
 annum:
     year: 2012
     month: 05
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2012/05/03/linkedin-acquires-professional-content-sharing-platform-slideshare-for-119m/
+
 ---
 
 All your slides are belong to us.

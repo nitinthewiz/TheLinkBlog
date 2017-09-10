@@ -6,7 +6,11 @@ hash: d32447c9d15ce4b109533de472d7fd05
 annum:
     year: 2012
     month: 02
-hostname: the-pastry-box-project.net
+url-parts:
+    scheme: https
+    host: the-pastry-box-project.net
+    path: /ben-ward/2012-february-24
+
 ---
 
 We must reject this. We must recover our sanity where 100 million users does not represent the goal criteria of every new service. We must recover the mindset where a service used by 10,000 users, or 1,000 users, or 100 users is *admired, respected, and praised* for its actual success.

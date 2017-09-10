@@ -6,7 +6,11 @@ hash: 5d7739699ed29ba0e2af6c34f367af21
 annum:
     year: 2011
     month: 04
-hostname: helveticons.ch
+url-parts:
+    scheme: http
+    host: helveticons.ch
+    path: /
+
 ---
 
 

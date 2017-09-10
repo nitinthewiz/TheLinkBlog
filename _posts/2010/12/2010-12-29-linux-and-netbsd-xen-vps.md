@@ -6,7 +6,11 @@ hash: 6bec964ed7e085b1afcea8b6076bc287
 annum:
     year: 2010
     month: 12
-hostname: prgmr.com
+url-parts:
+    scheme: http
+    host: prgmr.com
+    path: /xen/
+
 ---
 
 @tcollen Thanks for the info. Linode looks really solid. Going to try  to see what it's like.

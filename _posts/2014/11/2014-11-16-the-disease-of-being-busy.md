@@ -6,7 +6,11 @@ hash: 612c3ac42c48f400dcdea9c56f410b60
 annum:
     year: 2014
     month: 11
-hostname: onbeing.org
+url-parts:
+    scheme: http
+    host: onbeing.org
+    path: /blog/the-disease-of-being-busy/7023
+
 ---
 
 Our overscheduled lives leave little time for contemplation and reflection. How do we enable each other to pause and reflect together and ask how our hearts are doing?

@@ -6,7 +6,11 @@ hash: 63e4108647c7fdb3df195d6edb92eddf
 annum:
     year: 2013
     month: 06
-hostname: tylerneylon.com
+url-parts:
+    scheme: http
+    host: tylerneylon.com
+    path: /a/learn-lua/
+
 ---
 
 

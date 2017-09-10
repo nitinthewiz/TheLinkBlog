@@ -6,7 +6,11 @@ hash: cf2e381b27ecaf8e3f030859e884c9cb
 annum:
     year: 2006
     month: 04
-hostname: www.infoplease.com
+url-parts:
+    scheme: http
+    host: www.infoplease.com
+    path: /ipa/A0854968.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: df7192fbe0f2b6cb57513f3cba28e8d8
 annum:
     year: 2008
     month: 04
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/04/12/caffeine-control/
+
 ---
 
 Filed under: Freeware

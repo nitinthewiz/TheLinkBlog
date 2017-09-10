@@ -6,7 +6,11 @@ hash: fbc06ab6ba3a256650860522c9c51e5d
 annum:
     year: 2011
     month: 02
-hostname: devblog.bu.mp
+url-parts:
+    scheme: http
+    host: devblog.bu.mp
+    path: /how-we-use-redis-at-bump
+
 ---
 
 

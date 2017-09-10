@@ -6,7 +6,11 @@ hash: 87d941a43bb7026ef4594b4b3931b8c6
 annum:
     year: 2010
     month: 10
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /marcel/twurl
+
 ---
 
 i've decided to use twitter from the command line. 

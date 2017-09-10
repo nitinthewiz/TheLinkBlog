@@ -6,7 +6,11 @@ hash: 2b2c3f97457a58de38d62036e93b88d8
 annum:
     year: 2015
     month: 10
-hostname: oak.ctx.ly
+url-parts:
+    scheme: http
+    host: oak.ctx.ly
+    path: /r/3w3uj
+
 ---
 
 Nick Corbett is a Big Data Consultant for AWS Professional Services You might not know it, but a graph has changed your life. A bold claim perhaps, but companies such as Facebook, LinkedIn, and&hellip;

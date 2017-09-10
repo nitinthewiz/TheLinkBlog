@@ -6,7 +6,11 @@ hash: 1078ecd95a075d15f36ca75fa6ce65c7
 annum:
     year: 2011
     month: 06
-hostname: www.everythingisaremix.info
+url-parts:
+    scheme: http
+    host: www.everythingisaremix.info
+    path: /everything-is-a-remix-part-2/
+
 ---
 
 

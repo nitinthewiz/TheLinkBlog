@@ -6,7 +6,11 @@ hash: a31d012c05094247776343a3b65f33c7
 annum:
     year: 2011
     month: 01
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2011/01/05/quora-surge/
+
 ---
 
 Quora Explodes: we've been seeing this - rumormongering about it - here are the facts - 

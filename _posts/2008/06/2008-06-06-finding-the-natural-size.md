@@ -6,7 +6,11 @@ hash: 6668588362250cdc43264391135754fd
 annum:
     year: 2008
     month: 06
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/1068-finding-the-natural-size-for-your-company
+
 ---
 
 Popular perception holds that companies must always be growing or they’re dying. There’s either up or down, win or lose, success or failure. I think that’s a harmful dichotomy that leads to the death of perfectly viable companies in their quest for constant growth.

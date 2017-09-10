@@ -6,7 +6,11 @@ hash: 34d622af0a300becfb0312825633c55f
 annum:
     year: 2007
     month: 07
-hostname: www4.uwm.edu
+url-parts:
+    scheme: http
+    host: www4.uwm.edu
+    path: /FLL/linguistics/dialect/maps.html
+
 ---
 
 Below are the dialect maps, displaying what terms and pronunciations are used, and where they are used.

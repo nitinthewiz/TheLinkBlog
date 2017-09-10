@@ -6,7 +6,11 @@ hash: f37f294d8dfa3983b0553c3b22435c78
 annum:
     year: 2007
     month: 05
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/homefront/
+
 ---
 
 9/11 has indelibly altered America in ways that people are now starting to earnestly question: not only perpetual orange alerts, barricades and body frisks at the airport, but greater government scrutiny of people's records and electronic surveillance of

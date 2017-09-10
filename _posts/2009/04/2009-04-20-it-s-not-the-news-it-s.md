@@ -6,7 +6,11 @@ hash: bd6ec5ea9a48d75e677c263843d83ead
 annum:
     year: 2009
     month: 04
-hostname: recoveringjournalist.typepad.com
+url-parts:
+    scheme: http
+    host: recoveringjournalist.typepad.com
+    path: /recovering_journalist/2009/04/its-not-the-news-its-the-packaging.html
+
 ---
 
 Amid the news industry's crisis and the attendant fingerpointing over the causes, there is seemingly endless discussion these days of the pros and cons of things like micropayments, pay walls, aggregators, Google and the like. 

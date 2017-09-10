@@ -6,7 +6,12 @@ hash: cf9ce06c1f12203a0688c8dea969c91e
 annum:
     year: 2010
     month: 11
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /business/109216564.html
+    query:
+        elr: "KArksLckD8EQDUoaEyqyP4O:DW3ckUiD3aPc:_Yyc:aUvckD8EQDUZ"
 ---
 
 Congrats to my friend Jim! RT @bernardjim: I start a new job running digital at the Star Tribune next week! 

@@ -6,7 +6,11 @@ hash: 5ba3b6566cf2244d79a47604940953c3
 annum:
     year: 2013
     month: 09
-hostname: i.imgur.com
+url-parts:
+    scheme: http
+    host: i.imgur.com
+    path: /KVKLZqr.jpg
+
 ---
 
 @thingles @mattellsworth #theTREXlife 

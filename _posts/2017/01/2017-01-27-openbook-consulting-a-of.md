@@ -6,7 +6,11 @@ hash: d2669a9dbda1010630abd27f8c33d6e0
 annum:
     year: 2017
     month: 01
-hostname: consulting.openbooklearning.com
+url-parts:
+    scheme: https
+    host: consulting.openbooklearning.com
+    path: /surveys
+
 ---
 
 Thirty years of research in cognitive diversity, the processing and communications patterns of top-performing individuals, and 21st century behavioral science leads us to the touch points for how we capture, manage, and process information.

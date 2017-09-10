@@ -6,7 +6,11 @@ hash: 3f965375590b2f7623056024299e6b68
 annum:
     year: 2008
     month: 10
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2008/10/06/no-shame-left-in-politics/
+
 ---
 
 To be honest, there’s really little shame left in the country (world?) in general, but in politics, it’s effectively non-existent.

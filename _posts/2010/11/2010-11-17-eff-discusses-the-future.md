@@ -6,7 +6,11 @@ hash: b1192cc85b8ac8ed34f30da6763c8f10
 annum:
     year: 2010
     month: 11
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2010/11/future-privacy-internet-governance-forum
+
 ---
 
 EFF recently participated in the UN Internet Governance Forum (IGF) in Vilnius, Lithuania, advocating for the respect of citizens' fundamental rights online. The IGF is an experimental and influential multi-stakeholder policy forum convened by the United Nations Secretary General in 2006, where civil society, industry, the technical community, and decision makers discuss key aspects of Internet governance issues on an equal footing.  The informal nature of the IGF is designed to promote the full and frank exchange of ideas on important Internet policy issues without the knock-down-and-dragged-out conflicts that characterize other international fora where recommendations or binding treaties are made. This year, IGF brought together over 1,400 participants from around the world. Videos and  transcripts of all the official meetings are now online and make for interesting viewing.

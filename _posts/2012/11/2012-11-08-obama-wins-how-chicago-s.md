@@ -6,7 +6,11 @@ hash: 268f644161b38d417df093cca86d159c
 annum:
     year: 2012
     month: 11
-hostname: swampland.time.com
+url-parts:
+    scheme: http
+    host: swampland.time.com
+    path: /2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/
+
 ---
 
 The intersection of politics and data warehousing gets deeper and deeper.

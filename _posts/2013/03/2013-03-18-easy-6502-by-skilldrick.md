@@ -6,7 +6,11 @@ hash: 8d5a7431c5627ed8987fb872997e009d
 annum:
     year: 2013
     month: 03
-hostname: skilldrick.github.io
+url-parts:
+    scheme: http
+    host: skilldrick.github.io
+    path: /easy6502/
+
 ---
 
 Running a 6502 assembler simulator in Javascript? Yeah, that's cool.

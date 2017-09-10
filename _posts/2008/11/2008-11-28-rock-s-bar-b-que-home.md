@@ -6,7 +6,11 @@ hash: 4d44c9d3681d832576c1a7e3379c0753
 annum:
     year: 2008
     month: 11
-hostname: rocksbarbque.com
+url-parts:
+    scheme: http
+    host: rocksbarbque.com
+    path: /index.html
+
 ---
 
 

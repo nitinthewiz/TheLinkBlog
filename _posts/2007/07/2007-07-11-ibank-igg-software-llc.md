@@ -6,7 +6,11 @@ hash: be99d830f53eaa0b19f60f4e2831bbea
 annum:
     year: 2007
     month: 07
-hostname: www.iggsoftware.com
+url-parts:
+    scheme: http
+    host: www.iggsoftware.com
+    path: /ibank/index.php
+
 ---
 
 Tracking your finances can be a lot like cleaning the house: you really want it to get done, but sometimes you just dread doing it. Just like cleaning the house can be more enjoyable with good cleaning supplies and tools, tracking your money can be much e

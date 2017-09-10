@@ -6,7 +6,11 @@ hash: ceda29df813e7ff61be2e9ccbdb3ecc7
 annum:
     year: 2015
     month: 09
-hostname: www.dxo.com
+url-parts:
+    scheme: http
+    host: www.dxo.com
+    path: /us/dxo-one
+
 ---
 
 DxO ONE delivers impressive image quality in a small size, so you can capture life’s magic wherever you go.

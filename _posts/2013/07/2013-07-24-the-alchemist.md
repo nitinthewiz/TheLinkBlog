@@ -6,7 +6,11 @@ hash: 32810a22c9e4807561683e5634328eef
 annum:
     year: 2013
     month: 07
-hostname: alchemistbeer.com
+url-parts:
+    scheme: http
+    host: alchemistbeer.com
+    path: /about-us/
+
 ---
 
 I must find this beer.

@@ -6,7 +6,11 @@ hash: b3accf0cc6aaa62a820bf0a7d3fc5363
 annum:
     year: 2012
     month: 01
-hostname: wallbase.cc
+url-parts:
+    scheme: http
+    host: wallbase.cc
+    path: /home
+
 ---
 
 Computer wallpapers / wallbase.cc

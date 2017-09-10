@@ -6,7 +6,11 @@ hash: dcf17687bbcbc0665385db47e2b983de
 annum:
     year: 2013
     month: 10
-hostname: mappings.dbpedia.org
+url-parts:
+    scheme: http
+    host: mappings.dbpedia.org
+    path: /index.php/Main_Page
+
 ---
 
 .@anjeve presents #DBpedia mappings Wiki at #SMWCon  #wishiknewthisbefore

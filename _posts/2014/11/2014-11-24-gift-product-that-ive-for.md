@@ -6,7 +6,11 @@ hash: 8b90786b5790e28b8bf5ca63c404898b
 annum:
     year: 2014
     month: 11
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2013/12/12/gift-guide-actually-used-for-a-year
+
 ---
 
 

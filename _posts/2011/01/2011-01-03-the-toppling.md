@@ -6,7 +6,11 @@ hash: 490155507a20e102f4e887412023f824
 annum:
     year: 2011
     month: 01
-hostname: www.newyorker.com
+url-parts:
+    scheme: http
+    host: www.newyorker.com
+    path: /magazine/2011/01/10/the-toppling
+
 ---
 
 

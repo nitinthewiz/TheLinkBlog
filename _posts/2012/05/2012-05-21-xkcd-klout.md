@@ -6,7 +6,11 @@ hash: 3f41bd9aad89ea36e4d4fa278874dcc9
 annum:
     year: 2012
     month: 05
-hostname: xkcd.com
+url-parts:
+    scheme: http
+    host: xkcd.com
+    path: /1057/
+
 ---
 
 

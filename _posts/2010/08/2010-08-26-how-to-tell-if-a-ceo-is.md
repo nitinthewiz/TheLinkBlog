@@ -6,7 +6,11 @@ hash: 432c9650f18e94abcec91428171e49ec
 annum:
     year: 2010
     month: 08
-hostname: bobulate.com
+url-parts:
+    scheme: http
+    host: bobulate.com
+    path: /post/1013852157
+
 ---
 
 How to tell if a CEO is lying: The Economist summarizes a study from Stanford’s Graduate School of Business showing how to tell when a CEO is lying:

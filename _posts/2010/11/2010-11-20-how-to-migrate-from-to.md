@@ -6,7 +6,11 @@ hash: f666d29c247232480f543966d60b2349
 annum:
     year: 2010
     month: 11
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/11/20/textmate-to-vim
+
 ---
 
 

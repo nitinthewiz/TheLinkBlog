@@ -6,7 +6,12 @@ hash: 3a54af9d0516ffd19de280833ff64ed0
 annum:
     year: 2015
     month: 08
-hostname: robrhinehart.com
+url-parts:
+    scheme: http
+    host: robrhinehart.com
+    path: /
+    query:
+        p: "1331"
 ---
 
 The walls are buzzing. I know this because I have a magnet implanted in my hand and whenever I reach near an outlet I can feel them. I can feel fortresses of industry miles away burning prehistoric...

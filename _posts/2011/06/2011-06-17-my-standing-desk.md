@@ -6,7 +6,11 @@ hash: dbd3423a7a98d3b08d2222319e2ab881
 annum:
     year: 2011
     month: 06
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /stand/
+
 ---
 
 I really would like to try this but need a setup for it. Maybe just a little makeshift thing to try it.

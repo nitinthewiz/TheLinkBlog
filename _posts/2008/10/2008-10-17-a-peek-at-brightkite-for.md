@@ -6,7 +6,11 @@ hash: a0575dbace0a195f523218d64e5c666c
 annum:
     year: 2008
     month: 10
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/10/16/a-peek-at-brightkite-for-the-iphone/
+
 ---
 
 

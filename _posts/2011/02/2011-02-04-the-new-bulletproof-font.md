@@ -6,7 +6,11 @@ hash: a720d9d39ca6bf1c20eb0090af7aba0c
 annum:
     year: 2011
     month: 02
-hostname: www.fontspring.com
+url-parts:
+    scheme: http
+    host: www.fontspring.com
+    path: /blog/the-new-bulletproof-font-face-syntax
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3072a1351f14c54383bc85b5f4908371
 annum:
     year: 2011
     month: 09
-hostname: net.tutsplus.com
+url-parts:
+    scheme: http
+    host: net.tutsplus.com
+    path: /articles/web-roundups/20-javascript-frameworks-worth-checking-out/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: dadbb3e75093e7d6608b7db27712ef6f
 annum:
     year: 2010
     month: 01
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2009/12/24/the-font-game-for-iphone-is-fontastic-fun/
+
 ---
 
 

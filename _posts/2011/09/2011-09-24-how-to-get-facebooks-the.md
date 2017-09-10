@@ -6,7 +6,11 @@ hash: 6965b8c1b39ebe1a63667a8ed42aeae7
 annum:
     year: 2011
     month: 09
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /facebook-timeline-no-wait_b59878
+
 ---
 
 Yesterday Facebook announced the new profile, timeline, but the beta version doesnt wont come out until at least the end of this month, if not later, and you have to sign up for it in advance  but, theres a way to activate it right now, without the wait.

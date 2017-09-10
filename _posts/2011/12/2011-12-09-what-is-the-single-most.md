@@ -6,7 +6,11 @@ hash: f64aa2169773f58d44a1b90b5a19a7c8
 annum:
     year: 2011
     month: 12
-hostname: stackoverflow.com
+url-parts:
+    scheme: http
+    host: stackoverflow.com
+    path: /questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+
 ---
 
 

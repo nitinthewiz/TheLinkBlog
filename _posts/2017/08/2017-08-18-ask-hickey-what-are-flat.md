@@ -6,7 +6,11 @@ hash: 517c59b91e94d17b84413bccb088188e
 annum:
     year: 2017
     month: 08
-hostname: www.phillyvoice.com
+url-parts:
+    scheme: http
+    host: www.phillyvoice.com
+    path: /ask-hickey-what-are-flat-earthers-saying-about-mondays-eclipse/
+
 ---
 
 I hadn't ever considered the odd intersection of the Flat Earther folks and solar eclipses! 🌚🌝Maybe I'll tell the kids a giant serpent is covering the sun on Monday. 🙃

@@ -6,7 +6,11 @@ hash: 1ac681afd34e955541c1de74970db614
 annum:
     year: 2008
     month: 12
-hostname: houseoffaulkner.com
+url-parts:
+    scheme: http
+    host: houseoffaulkner.com
+    path: /
+    query:
 ---
 
 OMG... Hope to emulate this in a couple of hours.

@@ -6,7 +6,11 @@ hash: 1f7b6ee56113ac2597e45514d280f9b6
 annum:
     year: 2010
     month: 12
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/12/sword-tip-video-camera
+
 ---
 
 

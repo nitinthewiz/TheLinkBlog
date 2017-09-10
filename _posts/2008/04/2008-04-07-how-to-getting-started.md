@@ -6,7 +6,11 @@ hash: 3dd75b5728c0b7e1891d0dff57bc1f8b
 annum:
     year: 2008
     month: 04
-hostname: paulstamatiou.com
+url-parts:
+    scheme: http
+    host: paulstamatiou.com
+    path: /how-to-getting-started-with-amazon-ec2
+
 ---
 
 As the title of this article implies, this article is meant to be a beginners look into tinkering with EC2. Just because you will be able to host a page on EC2 at the end of this article does not mean you should start using it as your only server. Many

@@ -6,7 +6,11 @@ hash: 40653c90f4fa209131629f8c96823ad1
 annum:
     year: 2011
     month: 08
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: http
+    host: www.washingtonpost.com
+    path: /national/on-innovations/tech-community-are-we-mtv-or-ted/2011/08/18/gIQASfGsNJ_story.html
+
 ---
 
 

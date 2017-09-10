@@ -6,7 +6,11 @@ hash: 96ef9e86f54f6a6636cc1ce531fa2349
 annum:
     year: 2011
     month: 04
-hostname: mobile.salon.com
+url-parts:
+    scheme: http
+    host: mobile.salon.com
+    path: /news/politics/war_room/2011/04/21/global_empire_united_states_iraq_noam_chomsky
+
 ---
 
 

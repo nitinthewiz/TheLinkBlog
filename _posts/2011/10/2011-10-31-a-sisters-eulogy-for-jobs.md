@@ -6,7 +6,13 @@ hash: 775ec0a68b7498b4eba5c9f41da29d74
 annum:
     year: 2011
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html
+    query:
+        _r: "1"
+        pagewanted: "all"
 ---
 
 

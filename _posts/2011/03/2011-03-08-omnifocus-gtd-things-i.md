@@ -6,7 +6,11 @@ hash: 6d488223f199edaad56884382ed5b0ad
 annum:
     year: 2011
     month: 03
-hostname: andrewminer.tumblr.com
+url-parts:
+    scheme: http
+    host: andrewminer.tumblr.com
+    path: /omnifocus
+
 ---
 
 

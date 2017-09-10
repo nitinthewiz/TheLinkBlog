@@ -6,7 +6,11 @@ hash: 9e652f166ac7cfbaa615862772212bc1
 annum:
     year: 2015
     month: 07
-hostname: iterm2.com
+url-parts:
+    scheme: https
+    host: iterm2.com
+    path: /shell_integration.html
+
 ---
 
 iTerm2 is a replacement for Terminal and the successor to iTerm

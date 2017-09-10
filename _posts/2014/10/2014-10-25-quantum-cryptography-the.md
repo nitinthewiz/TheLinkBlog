@@ -6,7 +6,11 @@ hash: 9690a5d306c8f6ccc94f53bde8e5045f
 annum:
     year: 2014
     month: 10
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Quantum_cryptography
+
 ---
 
 

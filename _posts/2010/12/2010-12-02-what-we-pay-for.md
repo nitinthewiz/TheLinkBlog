@@ -6,7 +6,11 @@ hash: 56c48408e5bed83486fda0e13d65f269
 annum:
     year: 2010
     month: 12
-hostname: www.whatwepayfor.com
+url-parts:
+    scheme: http
+    host: www.whatwepayfor.com
+    path: /default.aspx
+
 ---
 
 

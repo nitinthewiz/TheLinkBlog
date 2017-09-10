@@ -6,7 +6,11 @@ hash: 8ef6b226aeee1d2f8e0b619f9b52d693
 annum:
     year: 2011
     month: 01
-hostname: www.macromedia.com
+url-parts:
+    scheme: http
+    host: www.macromedia.com
+    path: /support/documentation/en/flashplayer/help/settings_manager03.html
+
 ---
 
 Use this panel to specify the default storage settings for websites that you haven't yet visited.

@@ -6,7 +6,11 @@ hash: 0e847aa68d407186e2b030724c68b57f
 annum:
     year: 2014
     month: 03
-hostname: variancecharts.com
+url-parts:
+    scheme: https
+    host: variancecharts.com
+    path: /
+
 ---
 
 Gorgeous.

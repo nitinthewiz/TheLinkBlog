@@ -6,7 +6,11 @@ hash: c0345a3b90235acb2a904c147196a3f6
 annum:
     year: 2012
     month: 05
-hostname: coderetreat.org
+url-parts:
+    scheme: http
+    host: coderetreat.org
+    path: /
+
 ---
 
 This seems like a very cool concept!

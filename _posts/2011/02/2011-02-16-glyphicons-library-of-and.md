@@ -6,7 +6,11 @@ hash: 1272c4425243c91efb8bdbd798f9210b
 annum:
     year: 2011
     month: 02
-hostname: glyphicons.com
+url-parts:
+    scheme: http
+    host: glyphicons.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7832623e97c4103aa12dd8e0480225cb
 annum:
     year: 2011
     month: 10
-hostname: spark.umn.edu
+url-parts:
+    scheme: http
+    host: spark.umn.edu
+    path: /about.php
+
 ---
 
 For one week each year, the Spark Festival of Electronic Music and Arts gathers creators and performers of new media arts from around the world to the Twin Cities of Minneapolis/St. Paul, USA to showcase their work to the public.

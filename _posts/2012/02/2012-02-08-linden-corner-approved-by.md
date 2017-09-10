@@ -6,7 +6,11 @@ hash: 7bffd3c72acf54d0d0b120b907c03728
 annum:
     year: 2012
     month: 02
-hostname: patch.com
+url-parts:
+    scheme: http
+    host: patch.com
+    path: /southwestminneapolis/linden-corner-approved-by-planning-commission
+
 ---
 
 To noises of disgust from many in the standing-room-only crowd, the Minneapolis Planning Commission voted 6-1 Monday night to approve the controversial Linden Corner development.

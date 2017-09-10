@@ -6,7 +6,11 @@ hash: f79aa617424fbc67ae7b57782bd31f02
 annum:
     year: 2017
     month: 08
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/one-rubric-changed-boxs-engineering-performance-heres-how/
+
 ---
 
 Nice, direct advice for building out your culture. I’m not saying I agree with all of it, but it’s always enlightening to read these. Hat tip 🎩 to [@jkelly3](https://twitter.com/jkelly3) for this. 

@@ -6,7 +6,11 @@ hash: 20a4b8c1f203778047350195a8ded5e0
 annum:
     year: 2016
     month: 02
-hostname: www.huffingtonpost.com
+url-parts:
+    scheme: http
+    host: www.huffingtonpost.com
+    path: /entry/denver-cam-newton-sign-super-bowl-prediction_us_56b36182e4b08069c7a62db2
+
 ---
 
 Not exactly like Road Sign Math, but fun to see something else inspired by road signs! Thanks @tkeekley for the link.

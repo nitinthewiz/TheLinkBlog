@@ -6,7 +6,11 @@ hash: c670d9b264fdb06e78e88783362d468b
 annum:
     year: 2011
     month: 09
-hostname: nikcub-static02.appspot.com
+url-parts:
+    scheme: http
+    host: nikcub-static02.appspot.com
+    path: /logging-out-of-facebook-is-not-enough
+
 ---
 
 

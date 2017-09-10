@@ -6,7 +6,11 @@ hash: 912dc1ebc6d092a88895fa978863f8e6
 annum:
     year: 2016
     month: 10
-hostname: waitbutwhy.com
+url-parts:
+    scheme: http
+    host: waitbutwhy.com
+    path: /2016/10/100-blocks-day.html
+
 ---
 
 

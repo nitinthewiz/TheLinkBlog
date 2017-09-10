@@ -6,7 +6,11 @@ hash: faf4a7de7a09095b99adee1c09f1d957
 annum:
     year: 2009
     month: 08
-hostname: hivelogic.com
+url-parts:
+    scheme: http
+    host: hivelogic.com
+    path: /articles/teens-eat-34-teaspoons-of-sugar-a-day/
+
 ---
 
 Americans, and this probably means you, eat way too much sugar:

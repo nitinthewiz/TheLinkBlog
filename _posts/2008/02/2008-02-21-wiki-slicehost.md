@@ -6,7 +6,11 @@ hash: 57bc267d212f5697cf656b04ea7ee08f
 annum:
     year: 2008
     month: 02
-hostname: wiki.slicehost.com
+url-parts:
+    scheme: http
+    host: wiki.slicehost.com
+    path: /doku.php
+
 ---
 
 We love wikis. You’ll love this one too. It’s full of software tips and tricks, scripts and little nuggets that make your inner geek smile. We’re frequently uploading Slice specific scripts to automatically build and configure applications for you.

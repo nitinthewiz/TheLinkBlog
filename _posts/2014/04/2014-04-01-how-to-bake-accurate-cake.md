@@ -6,7 +6,11 @@ hash: ee943ccaebcac8251316416f841dc367
 annum:
     year: 2014
     month: 04
-hostname: www.waitwow.com
+url-parts:
+    scheme: http
+    host: www.waitwow.com
+    path: /make-scientifically-accurate-cake-planets/
+
 ---
 
 

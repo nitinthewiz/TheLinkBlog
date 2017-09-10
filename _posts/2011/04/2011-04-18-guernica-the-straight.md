@@ -6,7 +6,11 @@ hash: 10bb598ba8b5e2e56d301ab7a89118c7
 annum:
     year: 2011
     month: 04
-hostname: www.guernicamag.com
+url-parts:
+    scheme: http
+    host: www.guernicamag.com
+    path: /interviews/2530/simon_4_1_11/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: e159d7fbaede4e8c2927e4b657aac916
 annum:
     year: 2012
     month: 07
-hostname: www.blablameter.com
+url-parts:
+    scheme: http
+    host: www.blablameter.com
+    path: /
+
 ---
 
 PR-Experts, politicians, ad writers or scientists need to be strong here!

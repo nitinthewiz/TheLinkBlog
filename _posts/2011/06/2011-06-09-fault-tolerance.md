@@ -6,7 +6,11 @@ hash: 44fd386b44cf549456318650dfeabb9e
 annum:
     year: 2011
     month: 06
-hostname: browsertoolkit.com
+url-parts:
+    scheme: http
+    host: browsertoolkit.com
+    path: /fault-tolerance.png
+
 ---
 
 "How do I query the database?"

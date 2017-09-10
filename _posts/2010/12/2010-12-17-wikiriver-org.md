@@ -6,7 +6,11 @@ hash: 88295b7dcab9b74fab1363eef19e8b6e
 annum:
     year: 2010
     month: 12
-hostname: wikiriver.org
+url-parts:
+    scheme: http
+    host: wikiriver.org
+    path: /
+
 ---
 
 Realtime flow of articles related to wikileaks.

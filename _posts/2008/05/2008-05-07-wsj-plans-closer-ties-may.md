@@ -6,7 +6,11 @@ hash: cdaa01ad2a7daef95e93c762a102ceb4
 annum:
     year: 2008
     month: 05
-hostname: gigaom.com
+url-parts:
+    scheme: http
+    host: gigaom.com
+    path: /2008/05/07/419-wsj-plans-closer-ties-with-london-times-may-offer-business-tools/
+
 ---
 
 News Corp (NYSE: NWS) is planning closer integration between its new Wall Street Journal website and its existing News International publications in the UK. Times Online EIC Anne Spackman told me WSJ bosses flew to London today to meet her team: "It will be partly about tools, partly about deep linking to each other's content. Wall Street Journal is such a powerful brand." Away from just The Times, she suggested The Sun has plenty on common with The New York Post, too.

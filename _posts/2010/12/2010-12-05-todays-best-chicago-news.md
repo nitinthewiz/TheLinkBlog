@@ -6,7 +6,11 @@ hash: 76d49edc7760f934daea8476231825fc
 annum:
     year: 2010
     month: 12
-hostname: www.windycitizen.com
+url-parts:
+    scheme: http
+    host: www.windycitizen.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3aa1587a59fc8ca5c4981f98e25fd422
 annum:
     year: 2011
     month: 05
-hostname: sweble.org
+url-parts:
+    scheme: http
+    host: sweble.org
+    path: /
+
 ---
 
 

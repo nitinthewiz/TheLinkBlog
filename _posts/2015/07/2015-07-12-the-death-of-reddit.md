@@ -6,7 +6,11 @@ hash: 7dfdafd010f6f6feab3ddd8859176669
 annum:
     year: 2015
     month: 07
-hostname: www.chuqui.com
+url-parts:
+    scheme: http
+    host: www.chuqui.com
+    path: /2015/07/the-death-of-reddit/
+
 ---
 
 Two or three times a year I get asked why I don't use R…

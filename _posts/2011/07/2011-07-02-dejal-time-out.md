@@ -6,7 +6,11 @@ hash: 9741379b2c6855b4c7197888f14cb45f
 annum:
     year: 2011
     month: 07
-hostname: www.dejal.com
+url-parts:
+    scheme: http
+    host: www.dejal.com
+    path: /timeout/
+
 ---
 
 

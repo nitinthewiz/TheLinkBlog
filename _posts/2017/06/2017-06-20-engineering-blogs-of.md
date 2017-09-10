@@ -6,7 +6,11 @@ hash: f6b8498d315537301f06ec2216b7ea59
 annum:
     year: 2017
     month: 06
-hostname: www.cybrhome.com
+url-parts:
+    scheme: https
+    host: www.cybrhome.com
+    path: /topic/engineering-blogs-of-companies
+
 ---
 
 Good listing of the technology blogs of various companies.

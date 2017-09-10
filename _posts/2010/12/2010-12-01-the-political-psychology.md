@@ -6,7 +6,11 @@ hash: 8f265f55fdd40ce01e347f3bef224b5f
 annum:
     year: 2010
     month: 12
-hostname: voices.washingtonpost.com
+url-parts:
+    scheme: http
+    host: voices.washingtonpost.com
+    path: /ezra-klein/2010/11/motivated_skepticism_draft.html
+
 ---
 
 

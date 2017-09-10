@@ -6,7 +6,11 @@ hash: a8f33c9d7acecd16b7257b3d2a3b79a6
 annum:
     year: 2006
     month: 05
-hostname: solarbotics.com
+url-parts:
+    scheme: https
+    host: solarbotics.com
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c2b9f1c01a1473724ddf9688d8a0f78e
 annum:
     year: 2011
     month: 01
-hostname: agilebits.com
+url-parts:
+    scheme: https
+    host: agilebits.com
+    path: /easily-find-duplicate-passwords-in-your-logins/
+
 ---
 
 Tip: Create a smart folder of all logins that use a particular password, then change them at your convenience.

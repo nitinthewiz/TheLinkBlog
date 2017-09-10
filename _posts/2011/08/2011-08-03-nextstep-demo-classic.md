@@ -6,7 +6,11 @@ hash: a17030de7b09efb6f1a7c529d14c3004
 annum:
     year: 2011
     month: 08
-hostname: hivelogic.com
+url-parts:
+    scheme: http
+    host: hivelogic.com
+    path: /articles/classic-steve-jobs
+
 ---
 
 This demo of NeXTSTEP is classic Steve Jobs through and through.

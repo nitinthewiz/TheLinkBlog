@@ -6,7 +6,11 @@ hash: 953263609a3232039e8aae458a13bb64
 annum:
     year: 2011
     month: 07
-hostname: www.carbonfund.org
+url-parts:
+    scheme: http
+    host: www.carbonfund.org
+    path: /site/pages/carbon_calculators/category/Assumptions
+
 ---
 
 Carbonfund.org's Carbon Calculators use information from the U.S. Department of Energy's Energy Information Administration and other leading sources to develop an accurate assessment of carbon dioxide emissions emitted per energy type or use.

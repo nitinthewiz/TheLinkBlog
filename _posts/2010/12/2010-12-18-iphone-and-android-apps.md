@@ -6,7 +6,11 @@ hash: b2ab2353f3d51191b9135647830fa2d1
 annum:
     year: 2010
     month: 12
-hostname: online.wsj.com
+url-parts:
+    scheme: http
+    host: online.wsj.com
+    path: /news/articles/SB10001424052748704694004576020083703574602
+
 ---
 
 101 apps: 56 transmit device ID without awareness/consent. 47 transmit location. 5 sent age, gender & personal details

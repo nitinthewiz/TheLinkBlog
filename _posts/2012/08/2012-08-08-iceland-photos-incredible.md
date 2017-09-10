@@ -6,7 +6,11 @@ hash: c5d212374aeac091a8a848197995d639
 annum:
     year: 2012
     month: 08
-hostname: www.dailymail.co.uk
+url-parts:
+    scheme: http
+    host: www.dailymail.co.uk
+    path: /sciencetech/article-2143779/Iceland-photos-Incredible-aerial-pictures-reveal-countrys-volcanic-landscapes.html
+
 ---
 
 Can't wait to see Iceland in person in September.

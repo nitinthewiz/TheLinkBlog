@@ -6,7 +6,11 @@ hash: 6c487e995bb8f11d3c0d709f5aacea0c
 annum:
     year: 2009
     month: 12
-hostname: productblog.37signals.com
+url-parts:
+    scheme: http
+    host: productblog.37signals.com
+    path: /products/2009/12/37signals-id-whats-new.html
+
 ---
 
 37signals ID, our new single sign-in system is beginning to roll out to customers (starting with our Max and Premium plan customers). Over the next week we'll roll it out to more and more people. By the end of the week (around the 18th) we expect the upgrades to be rolled out to everyone.

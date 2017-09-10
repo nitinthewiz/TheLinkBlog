@@ -6,7 +6,11 @@ hash: 6005d0978fa97c4511773a942e45563c
 annum:
     year: 2010
     month: 12
-hostname: futureoftheinternet.org
+url-parts:
+    scheme: http
+    host: futureoftheinternet.org
+    path: /wikileaks-cable-faq
+
 ---
 
 

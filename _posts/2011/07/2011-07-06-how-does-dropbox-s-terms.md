@@ -6,7 +6,11 @@ hash: be563050505bc27b444b4e74f5127520
 annum:
     year: 2011
     month: 07
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /cloud/2011/07/how-does-dropboxs-tos-compare.php
+
 ---
 
  Last Friday, just before a holiday weekend in the U.S., Dropbox made a change to its Terms of Service. Part of the updated ToS gives Dropbox a license to use your data in ways critics believe can be interpreted too broadly. The line in question read: "You grant us (and those we work with to provide the Services) worldwide, non-exclusive, royalty-free, sublicenseable rights to use, copy, distribute, prepare derivative works (such as translations or format conversions) of, perform, or publicly display that stuff to the extent we think it necessary for the Service."

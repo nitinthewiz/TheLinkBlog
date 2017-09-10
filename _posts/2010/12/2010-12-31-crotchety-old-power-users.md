@@ -6,7 +6,11 @@ hash: 21855a6ae5bdec7eeced97ef4ce152d7
 annum:
     year: 2010
     month: 12
-hostname: releasecandidateone.com
+url-parts:
+    scheme: http
+    host: releasecandidateone.com
+    path: /236:crotchety_old_power_users
+
 ---
 
 

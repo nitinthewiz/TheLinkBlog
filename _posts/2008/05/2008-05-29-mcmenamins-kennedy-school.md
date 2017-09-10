@@ -6,7 +6,11 @@ hash: fd65dd58535e437f75fee3a70f02ce5e
 annum:
     year: 2008
     month: 05
-hostname: www.mcmenamins.com
+url-parts:
+    scheme: http
+    host: www.mcmenamins.com
+    path: /kennedyschool
+
 ---
 
 We are staying in the coolest hotel ever. 

@@ -6,7 +6,12 @@ hash: 0e82dda86dd8fcaa25003f979a3be750
 annum:
     year: 2012
     month: 10
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "A-H_DloZieI"
 ---
 
 Great video, wonderful images.

@@ -6,7 +6,11 @@ hash: 1433a56a901df3f9302776756e7eaed4
 annum:
     year: 2015
     month: 03
-hostname: dailymuse.net
+url-parts:
+    scheme: https
+    host: dailymuse.net
+    path: /
+
 ---
 
 <blockquote>

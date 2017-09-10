@@ -6,7 +6,11 @@ hash: afda9edc1878c07526dc1a46e03a01d6
 annum:
     year: 2011
     month: 01
-hostname: www.pcmag.com
+url-parts:
+    scheme: http
+    host: www.pcmag.com
+    path: /article2/0%2c2817%2c2374963%2c00.asp
+
 ---
 
 Wikipedia's 'Jimmy banner' raises $16M from 500,000+ people  (via PC Mag)

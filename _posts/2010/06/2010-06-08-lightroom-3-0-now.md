@@ -6,7 +6,11 @@ hash: e3d5854344497999050aff2bf08eab49
 annum:
     year: 2010
     month: 06
-hostname: blogs.adobe.com
+url-parts:
+    scheme: http
+    host: blogs.adobe.com
+    path: /lightroomjournal/2010/06/lightroom_30_now_available.html
+
 ---
 
 After a well attended public beta(600k+ downloads of the beta), the team is proud to provide the final version of Lightroom 3.0.  This release has received significant feedback via the beta forums and we released an additional beta release(Lightroom 3 beta 2) to ensure that we addressed the top issues and solidified a Lightroom 3.0 release that is ready for daily use.

@@ -6,7 +6,11 @@ hash: accd6fe100cbf0a9cf25194b6c017d9c
 annum:
     year: 2010
     month: 12
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /innovationnews/drivetrain120110.aspx
+
 ---
 
 Drivetrain's first press coverage -  - by the talented @DanHaugen

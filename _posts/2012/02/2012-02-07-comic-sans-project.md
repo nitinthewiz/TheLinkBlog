@@ -6,7 +6,11 @@ hash: 9b19e2b7d33c4ce22d1270871099dc2e
 annum:
     year: 2012
     month: 02
-hostname: comicsansproject.tumblr.com
+url-parts:
+    scheme: http
+    host: comicsansproject.tumblr.com
+    path: /
+
 ---
 
 WE ARE THE COMIC SANS DEFENDERS. WE FEAR NO FONTS AND WE WILL MAKE THE WHOLE WORLD COMIC SANS. BECAUSE HELVETICA IS SOOO 2011.

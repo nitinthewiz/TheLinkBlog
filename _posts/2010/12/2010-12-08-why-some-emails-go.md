@@ -6,7 +6,11 @@ hash: 98dc0f1edba64930a229833a0c2b3e7f
 annum:
     year: 2010
     month: 12
-hostname: theoatmeal.com
+url-parts:
+    scheme: http
+    host: theoatmeal.com
+    path: /comics/unanswered_email
+
 ---
 
 This one hits very close to home. :-/

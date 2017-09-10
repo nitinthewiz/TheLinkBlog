@@ -6,7 +6,11 @@ hash: ae9906796f5359427254bb52a8e4fd02
 annum:
     year: 2013
     month: 06
-hostname: www.indiegogo.com
+url-parts:
+    scheme: https
+    host: www.indiegogo.com
+    path: /projects/app-camp-for-girls
+
 ---
 
 I'm for anything encouraging more girls/women to pursue careers in software development.

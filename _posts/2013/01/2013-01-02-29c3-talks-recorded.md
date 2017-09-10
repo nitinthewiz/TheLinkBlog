@@ -6,7 +6,11 @@ hash: fb7d19823ac1583582efcc0bb220f6a7
 annum:
     year: 2013
     month: 01
-hostname: mirror.fem-net.de
+url-parts:
+    scheme: http
+    host: mirror.fem-net.de
+    path: /CCC/29C3/mp4-h264-HQ/
+
 ---
 
 

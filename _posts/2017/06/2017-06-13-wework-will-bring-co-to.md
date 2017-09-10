@@ -6,7 +6,11 @@ hash: 1dfe0884d4e5e326568d4fd117bfd2d9
 annum:
     year: 2017
     month: 06
-hostname: www.bizjournals.com
+url-parts:
+    scheme: http
+    host: www.bizjournals.com
+    path: /twincities/news/2017/06/12/wework-will-bring-co-working-space-to-minneapolis.html
+
 ---
 
 More co-working space coming to Minneapolis. CoCo is our local grown space. It will be interesting to see how this compares to what CoCo does.

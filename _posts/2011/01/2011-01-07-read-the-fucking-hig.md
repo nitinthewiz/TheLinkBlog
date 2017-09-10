@@ -6,7 +6,11 @@ hash: a10a4ea046b03530e16b80ff998c157a
 annum:
     year: 2011
     month: 01
-hostname: readthefuckinghig.tumblr.com
+url-parts:
+    scheme: http
+    host: readthefuckinghig.tumblr.com
+    path: /
+
 ---
 
 

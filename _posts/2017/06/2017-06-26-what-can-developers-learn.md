@@ -6,7 +6,11 @@ hash: 157a59edb9d348b9bcb7863cfd915302
 annum:
     year: 2017
     month: 06
-hostname: jvns.ca
+url-parts:
+    scheme: https
+    host: jvns.ca
+    path: /blog/2017/06/18/operate-your-software/
+
 ---
 
 Great blog post sharing insights that developers learn when supporting their systems in production. Honestly this seems like basic stuff, but it’s worth reading again and again.

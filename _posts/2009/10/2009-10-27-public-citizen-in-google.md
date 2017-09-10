@@ -6,7 +6,11 @@ hash: 8dcb2a2ecffda277ad33a1b48830f73b
 annum:
     year: 2009
     month: 10
-hostname: citizenvox.org
+url-parts:
+    scheme: http
+    host: citizenvox.org
+    path: /2009/10/21/in-google-we-trust-think-again/
+
 ---
 
 Joe Newman of Public Citizen:

@@ -6,7 +6,11 @@ hash: a7e11d2d053070e31b4a6b48129d1010
 annum:
     year: 2009
     month: 05
-hostname: gizmodo.com
+url-parts:
+    scheme: http
+    host: gizmodo.com
+    path: /5272228/zune-hd-hands-on-photos-and-video-tour
+
 ---
 
 Having just played with a prototype for a few minutes, I'm really impressed with the Zune HD. I've got a video, too, showing off how well the animations work.

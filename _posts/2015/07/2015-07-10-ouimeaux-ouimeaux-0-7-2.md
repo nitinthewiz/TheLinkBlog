@@ -6,7 +6,11 @@ hash: c49b74c619001f7ab246d1117c600995
 annum:
     year: 2015
     month: 07
-hostname: ouimeaux.readthedocs.org
+url-parts:
+    scheme: https
+    host: ouimeaux.readthedocs.org
+    path: /en/latest/readme.html
+
 ---
 
 Open source control for Belkin WeMo devices

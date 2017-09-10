@@ -6,7 +6,11 @@ hash: 9fd4cfb432c11e8062c02d288d5f49c5
 annum:
     year: 2017
     month: 05
-hostname: www.wired.com
+url-parts:
+    scheme: https
+    host: www.wired.com
+    path: /2017/05/rise-dungeon-master-gary-gygax-birth-dd/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: fb704dffae2fabc77cb9544d91c80240
 annum:
     year: 2008
     month: 08
-hostname: vimeo.com
+url-parts:
+    scheme: http
+    host: vimeo.com
+    path: /1494533
+
 ---
 
 Check out 3D Timeline of todays brisket at

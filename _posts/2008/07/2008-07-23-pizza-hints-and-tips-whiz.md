@@ -6,7 +6,11 @@ hash: 1c8f2e776707e38138aa52096ffa730e
 annum:
     year: 2008
     month: 07
-hostname: www.nakedwhiz.com
+url-parts:
+    scheme: http
+    host: www.nakedwhiz.com
+    path: /pizza.htm
+
 ---
 
 Good information on cooking pizza in the Big Green Egg

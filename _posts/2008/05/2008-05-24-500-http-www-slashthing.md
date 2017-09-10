@@ -6,7 +6,11 @@ hash: fa9eae9ff43c58b6f491c39be4e71f37
 annum:
     year: 2008
     month: 05
-hostname: www.slashthing.com
+url-parts:
+    scheme: http
+    host: www.slashthing.com
+    path: /sites-now-on-slicehost/
+
 ---
 
 Sites Now on Slicehost 

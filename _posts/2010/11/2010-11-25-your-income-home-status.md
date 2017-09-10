@@ -6,7 +6,11 @@ hash: 4c7a0001e3a1205afd3ab7d965614b10
 annum:
     year: 2010
     month: 11
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/your_income_home_ownership_parenthood_status_privacy_api.php
+
 ---
 
 Personal information aggregation service Rapleaf announced to its developers today that it now offers "lifestyle" information like home ownership status, occupation and income corresponding with any email or postal address in its database.

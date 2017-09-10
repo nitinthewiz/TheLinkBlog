@@ -6,7 +6,11 @@ hash: 73887f475aeb297a4e9b8e6a1e946154
 annum:
     year: 2017
     month: 05
-hostname: www.cnbc.com
+url-parts:
+    scheme: http
+    host: www.cnbc.com
+    path: /2017/05/09/news-corp-earnings-q3-2017.html
+
 ---
 
 Congrats to my former colleague Marc! News Corp. announced Marc Frons as its new chief technology officer on Monday. Frons had served as interim CTO since October 2016.

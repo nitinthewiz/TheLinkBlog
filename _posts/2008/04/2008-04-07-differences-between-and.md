@@ -6,7 +6,11 @@ hash: 2793630325592f93783bb7fc690a0b9e
 annum:
     year: 2008
     month: 04
-hostname: www.rockstarprogrammer.org
+url-parts:
+    scheme: http
+    host: www.rockstarprogrammer.org
+    path: /post/2008/apr/06/differences-between-mercurial-and-git/
+
 ---
 
 Comments

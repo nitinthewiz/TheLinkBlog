@@ -6,7 +6,11 @@ hash: 020ab71ccacf34c6fa196c0e11d77dc1
 annum:
     year: 2009
     month: 03
-hostname: www.readwriteweb.com
+url-parts:
+    scheme: http
+    host: www.readwriteweb.com
+    path: /archives/the_sorry_state_of_the_newspaper_industry_advertising_falls_16_precent.php
+
 ---
 
 

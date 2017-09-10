@@ -6,7 +6,11 @@ hash: ed8c9db33fd3681262a7dbf747a0f189
 annum:
     year: 2010
     month: 09
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2010/09/13/first-airplay-supported-av-reciever/
+
 ---
 
 

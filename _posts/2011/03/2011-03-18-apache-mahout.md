@@ -6,7 +6,11 @@ hash: 3f4d9455218e5d5b41d8f3000f86ed85
 annum:
     year: 2011
     month: 03
-hostname: mahout.apache.org
+url-parts:
+    scheme: http
+    host: mahout.apache.org
+    path: /
+
 ---
 
 Apache Mahout is a scalable machine learning library that supports large data sets

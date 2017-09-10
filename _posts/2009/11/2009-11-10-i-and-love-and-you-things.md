@@ -6,7 +6,14 @@ hash: f1775f026589edf5c3627ce953a8549a
 annum:
     year: 2009
     month: 11
-hostname: things.thingelstad.com
+url-parts:
+    scheme: http
+    host: things.thingelstad.com
+    path: /
+    query:
+        p: "154556595"
+        utm_source: "twitterfeed"
+        utm_medium: "twitter"
 ---
 
 Thing: I and Love and You: Simply great songs from the The Avett Brothers, I and Love and You. 

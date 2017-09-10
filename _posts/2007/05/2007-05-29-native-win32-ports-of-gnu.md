@@ -6,7 +6,11 @@ hash: 4655815c5804cc83b1ef3a123a9e47eb
 annum:
     year: 2007
     month: 05
-hostname: unxutils.sourceforge.net
+url-parts:
+    scheme: http
+    host: unxutils.sourceforge.net
+    path: /
+
 ---
 
 Here are some ports of common GNU utilities to native Win32. In this context, native means the executables do only depend on the Microsoft C-runtime (msvcrt.dll) and not an emulation layer like that provided by Cygwin tools.

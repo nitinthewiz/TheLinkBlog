@@ -6,7 +6,11 @@ hash: 7a4f4c0a0f3a05327e1fccc2377e820a
 annum:
     year: 2010
     month: 12
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2010/12/09/netflix-abc-disney-streaming-deal-will-bring-tv-all-you-can-eat/
+
 ---
 
 Netflix is rocking it!

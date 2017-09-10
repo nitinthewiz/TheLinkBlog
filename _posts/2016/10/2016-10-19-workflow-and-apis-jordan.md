@@ -6,7 +6,11 @@ hash: 81fe0ca96a77914f5ba2890f8cb73022
 annum:
     year: 2016
     month: 10
-hostname: www.jordanmerrick.com
+url-parts:
+    scheme: https
+    host: www.jordanmerrick.com
+    path: /posts/workflow-and-apis/
+
 ---
 
 

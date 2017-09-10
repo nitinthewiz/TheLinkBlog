@@ -6,7 +6,11 @@ hash: 2ce9151569b132e81c31d9c4bac3b218
 annum:
     year: 2013
     month: 06
-hostname: googlesystem.blogspot.com
+url-parts:
+    scheme: http
+    host: googlesystem.blogspot.com
+    path: /2013/06/google-mine.html
+
 ---
 
 At least they made this products intent obvious with its name.

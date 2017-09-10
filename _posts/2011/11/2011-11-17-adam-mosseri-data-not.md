@@ -6,7 +6,12 @@ hash: 49e0f30a5d7cd695ebc1b84db4ebbb8d
 annum:
     year: 2011
     month: 11
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "bKZiXAFeBeY"
 ---
 
 At Facebook, analytics play a critical role in informing design decisions, but internally there's a wariness of the idea of design by numbers.

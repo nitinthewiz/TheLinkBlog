@@ -6,7 +6,11 @@ hash: 7f058fb260061ced4268e7effbb15236
 annum:
     year: 2009
     month: 03
-hostname: www.reuters.com
+url-parts:
+    scheme: http
+    host: www.reuters.com
+    path: /article/technologyNews/idUSTRE52I3OK20090319
+
 ---
 
 It’s a good acquisition for Cisco, but I hope they let the Flip continue to be the Flip.

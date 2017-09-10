@@ -6,7 +6,11 @@ hash: 04333fb5c3de709f84c7dada4f4f0389
 annum:
     year: 2007
     month: 08
-hostname: blog.pixelbreaker.com
+url-parts:
+    scheme: http
+    host: blog.pixelbreaker.com
+    path: /polarclock
+
 ---
 
 

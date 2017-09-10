@@ -6,7 +6,11 @@ hash: 94f6dd6e617e2db1129e7ff30124aa41
 annum:
     year: 2012
     month: 07
-hostname: venturevillage.eu
+url-parts:
+    scheme: http
+    host: venturevillage.eu
+    path: /startup-hipster
+
 ---
 
 So, a new fusion personality formed: the Startup Hipster  or Stipster.Berlin is the undisputed world capital of Stipsters. Our cheap rents, our laughably good quality of life, our abundance of vegan cafes, our close proximity to the Club Mate factory, its all combined into the most fertile Stipster breeding ground seen since San Francisco or Tel Aviv.

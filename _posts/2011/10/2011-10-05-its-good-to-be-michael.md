@@ -6,7 +6,11 @@ hash: 438522e2923df73bc6b154cfe6f3c58a
 annum:
     year: 2011
     month: 10
-hostname: nymag.com
+url-parts:
+    scheme: http
+    host: nymag.com
+    path: /print/
+    query:
 ---
 
 

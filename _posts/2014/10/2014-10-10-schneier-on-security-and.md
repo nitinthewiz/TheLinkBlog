@@ -6,7 +6,11 @@ hash: 6ceb390456d2f8ce87c03e46e04cfab9
 annum:
     year: 2014
     month: 10
-hostname: www.schneier.com
+url-parts:
+    scheme: https
+    host: www.schneier.com
+    path: /blog/archives/2014/10/iphone_encrypti_1.html
+
 ---
 
 Ah, but that's the thing: You can't build a backdoor that only the good guys can walk through. Encryption protects against cybercriminals, industrial competitors, the Chinese secret police and the FBI. You're either vulnerable to eavesdropping by any of them, or you're secure from eavesdropping from all of them.

@@ -6,7 +6,11 @@ hash: 395860a22da3d99cfc87161568263274
 annum:
     year: 2008
     month: 06
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2008/06/04/any-joy-in-the-zune-division/
+
 ---
 
 It has arrived. The limited-edition (500-only) Joy Division Zune, carrying artwork derived from Factory Records design guru, Peter Savilles, Unknown Pleasures.

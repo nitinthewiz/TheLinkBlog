@@ -6,7 +6,11 @@ hash: 4fa48db02e72888f946db3cb754d22c0
 annum:
     year: 2015
     month: 05
-hostname: ma.ttias.be
+url-parts:
+    scheme: https
+    host: ma.ttias.be
+    path: /architecting-websites-http2-era/
+
 ---
 
 

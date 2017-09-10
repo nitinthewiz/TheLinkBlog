@@ -6,7 +6,12 @@ hash: bd0d02ee2c663c6feada455f29bc6105
 annum:
     year: 2013
     month: 05
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "pHmU0aNkENc"
 ---
 
 Sascha Bates' breakout presentation, "How to F*ck Up Your Configuration Management Adoption and Really Piss People Off in the Process", at ChefConf 2013.

@@ -6,7 +6,12 @@ hash: cd048421bf37d15431fa7ca2f97af92c
 annum:
     year: 2015
     month: 08
-hostname: dl.acm.org
+url-parts:
+    scheme: http
+    host: dl.acm.org
+    path: /citation.cfm
+    query:
+        doid: "2783258.2783354"
 ---
 
 Full Text: PDF Authors:

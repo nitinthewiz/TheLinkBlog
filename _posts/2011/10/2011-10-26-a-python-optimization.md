@@ -6,7 +6,12 @@ hash: 36112f5acfca8518f308e14deab2e442
 annum:
     year: 2011
     month: 10
-hostname: tech.dropbox.com
+url-parts:
+    scheme: http
+    host: tech.dropbox.com
+    path: /
+    query:
+        p: "89"
 ---
 
 One of my biggest projects during this internship was optimizing Python for dynamic page generation on the website. By the end of the summer, I optimized many of dropbox.com’s pages to render 5 times faster. This came with a fair share of challenges though, which I’d like to write about today:

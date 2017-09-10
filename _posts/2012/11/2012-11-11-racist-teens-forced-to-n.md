@@ -6,7 +6,11 @@ hash: e8f1ee1403c14f9e66cee304eec41402
 annum:
     year: 2012
     month: 11
-hostname: jezebel.com
+url-parts:
+    scheme: http
+    host: jezebel.com
+    path: /5958993/racist-teens-forced-to-answer-for-tweets-about-the-nigger-president
+
 ---
 
 Interesting story driven from hateful comments made on Twitter. Disturbing. (I dashed out the n word on purpose.)

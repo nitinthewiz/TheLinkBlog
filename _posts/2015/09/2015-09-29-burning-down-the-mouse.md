@@ -6,7 +6,11 @@ hash: 66da7762a49a45456de0570cd4c2eaa5
 annum:
     year: 2015
     month: 09
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /matter/burning-down-the-mouse-7113c261a8a5
+
 ---
 
 

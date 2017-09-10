@@ -6,7 +6,11 @@ hash: a06a4ab6f4b2d4ae23a5d22844c7002a
 annum:
     year: 2011
     month: 06
-hostname: tedchris.posterous.com
+url-parts:
+    scheme: http
+    host: tedchris.posterous.com
+    path: /help-create-an-email-charter
+
 ---
 
 To fix a 'commons' problem, a community needs to come together and agree new rules.  That's why it's time for an Email Charter. One that can reverse the escalating spiral of obligation and stress.

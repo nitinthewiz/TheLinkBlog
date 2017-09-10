@@ -6,7 +6,11 @@ hash: 6fda19aea8c539c0ea455fb935a9ba74
 annum:
     year: 2011
     month: 09
-hostname: 10k.aneventapart.com
+url-parts:
+    scheme: http
+    host: 10k.aneventapart.com
+    path: /Entry/Details/658
+
 ---
 
 I made a JavaScript + HTML5 canvas whiteboard in 10KB with some simple responsiveness. Mobile friendly.  

@@ -6,7 +6,11 @@ hash: 37d6ef1df5948378e1437cadf47fbfe1
 annum:
     year: 2012
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2012/12/05/techforward-wins-27m-in-lawsuit-against-best-buy-over-stolen-trade-secrets/
+
 ---
 
 Six weeks after the exchange of TechForwards proprietary information, Best Buy decided to end the relationship and start a similar program of its own, that of course closely resembled (basically copied) the startups procedures and format.

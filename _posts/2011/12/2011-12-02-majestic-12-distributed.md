@@ -6,7 +6,11 @@ hash: fa242a3b55d9f3ab90362f4076bab811
 annum:
     year: 2011
     month: 12
-hostname: www.majestic12.co.uk
+url-parts:
+    scheme: http
+    host: www.majestic12.co.uk
+    path: /
+
 ---
 
 

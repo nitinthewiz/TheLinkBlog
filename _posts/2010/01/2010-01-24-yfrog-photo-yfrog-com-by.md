@@ -6,7 +6,11 @@ hash: fdfbdd0d0a9527e2fd5f7112018a0bfd
 annum:
     year: 2010
     month: 01
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4gjczaj
+
 ---
 
 Pork shoulders from @mrock911 on the  Big Green Egg. #biggreenegg 

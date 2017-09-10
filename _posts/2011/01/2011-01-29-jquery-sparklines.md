@@ -6,7 +6,11 @@ hash: b20f7c9f32d1540d0cb35aa14cedc041
 annum:
     year: 2011
     month: 01
-hostname: omnipotent.net
+url-parts:
+    scheme: http
+    host: omnipotent.net
+    path: /jquery.sparkline/
+
 ---
 
 This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.

@@ -6,7 +6,11 @@ hash: ad1993487206d85b0bb4e9d742708439
 annum:
     year: 2008
     month: 10
-hostname: id8tion.com
+url-parts:
+    scheme: http
+    host: id8tion.com
+    path: /cmykthoughts/2008/09/10/i-hacked-itunes-genre-images-and-so-can-you/
+
 ---
 
 

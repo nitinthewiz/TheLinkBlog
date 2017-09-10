@@ -6,7 +6,11 @@ hash: 200061b03d9320b892dc114122c2b212
 annum:
     year: 2011
     month: 01
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/List_of_common_misconceptions
+
 ---
 
 

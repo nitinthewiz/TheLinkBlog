@@ -6,7 +6,11 @@ hash: bfd90087fbae6426004d7b808a7353cb
 annum:
     year: 2011
     month: 08
-hostname: brookelynne.tumblr.com
+url-parts:
+    scheme: http
+    host: brookelynne.tumblr.com
+    path: /post/9060106989
+
 ---
 
 Brooke Lynne - Chip Willis

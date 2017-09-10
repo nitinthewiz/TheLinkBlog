@@ -6,7 +6,11 @@ hash: 0979861dcb0823abd2f65e4f85e99a60
 annum:
     year: 2008
     month: 09
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /cujj
+
 ---
 
 @jasonfried  - Low washer fluid can be very important. I once almost lost the road on the highway because I was o ...

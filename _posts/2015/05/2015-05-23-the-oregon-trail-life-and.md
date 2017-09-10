@@ -6,7 +6,11 @@ hash: a80d328a17cec61f111c3a8ddaa4fca4
 annum:
     year: 2015
     month: 05
-hostname: socialmediaweek.org
+url-parts:
+    scheme: http
+    host: socialmediaweek.org
+    path: /blog/2015/04/oregon-trail-generation/
+
 ---
 
 

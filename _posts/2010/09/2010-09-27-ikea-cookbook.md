@@ -6,7 +6,11 @@ hash: b3e3f9b94f4570270d269016c4bb1b74
 annum:
     year: 2010
     month: 09
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/09/ikea-cookbook
+
 ---
 
 Ikea is coming out with a cookbook -- the name translates as "Homemade is Best" -- and the photography looks great.

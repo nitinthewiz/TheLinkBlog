@@ -6,7 +6,11 @@ hash: 75903530ec59e76405b13b0513b88d37
 annum:
     year: 2005
     month: 08
-hostname: earthquake.usgs.gov
+url-parts:
+    scheme: http
+    host: earthquake.usgs.gov
+    path: /
+
 ---
 
 See near realtime data of earthquake activity in the US.

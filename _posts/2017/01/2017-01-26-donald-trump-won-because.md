@@ -6,7 +6,11 @@ hash: 6c810ffb326c4213970d67605838dd24
 annum:
     year: 2017
     month: 01
-hostname: nymag.com
+url-parts:
+    scheme: http
+    host: nymag.com
+    path: /selectall/2016/11/donald-trump-won-because-of-facebook.html
+
 ---
 
 

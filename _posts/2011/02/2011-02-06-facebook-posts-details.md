@@ -6,7 +6,11 @@ hash: bc69293ce4194c72c47feaa1180fedc8
 annum:
     year: 2011
     month: 02
-hostname: www.insidesocialgames.com
+url-parts:
+    scheme: http
+    host: www.insidesocialgames.com
+    path: /2011/02/04/implementation-frictionless-payments-credits/
+
 ---
 
 Could something like Facebook's new Buy With Friends-  work for the @AppStore?

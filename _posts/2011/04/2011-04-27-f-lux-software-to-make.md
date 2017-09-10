@@ -6,7 +6,11 @@ hash: e050875068963bc84c54f7c1b93ab53b
 annum:
     year: 2011
     month: 04
-hostname: stereopsis.com
+url-parts:
+    scheme: http
+    host: stereopsis.com
+    path: /flux/
+
 ---
 
 F.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.

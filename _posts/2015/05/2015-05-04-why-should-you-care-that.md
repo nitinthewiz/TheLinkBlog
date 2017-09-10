@@ -6,7 +6,11 @@ hash: b11cbbf5dcdc3cb4cd3ef1f296713de9
 annum:
     year: 2015
     month: 05
-hostname: blog.liaison.com
+url-parts:
+    scheme: http
+    host: blog.liaison.com
+    path: /blog/why-should-you-care-that-we-built-our-dpaas-as-microservices/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 58d7e08d998412302ace4fbb6e3ee98d
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /5mns
+
 ---
 
 Checking into Moon Dance B&B. 

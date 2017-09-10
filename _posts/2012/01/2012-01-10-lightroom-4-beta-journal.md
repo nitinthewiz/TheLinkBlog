@@ -6,7 +6,11 @@ hash: 0dc074151395139a439a308754215d5e
 annum:
     year: 2012
     month: 01
-hostname: blogs.adobe.com
+url-parts:
+    scheme: http
+    host: blogs.adobe.com
+    path: /lightroomjournal/2012/01/lightroom-4-beta-resources.html
+
 ---
 
 LR Journal: Lightroom 4 beta resources 

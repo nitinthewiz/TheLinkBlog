@@ -6,7 +6,11 @@ hash: f08d6810fb4466f6d46b7c2e624e7dac
 annum:
     year: 2008
     month: 07
-hostname: www.minnelightroom.com
+url-parts:
+    scheme: http
+    host: www.minnelightroom.com
+    path: /
+
 ---
 
 @bjhess Hard to answer without more info. I [Love] Lightroom and am a big huge fan. Start a thread here? 

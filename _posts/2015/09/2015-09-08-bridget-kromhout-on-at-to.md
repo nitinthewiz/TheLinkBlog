@@ -6,7 +6,11 @@ hash: 6acf1fd99a3a7e9345ae978f5bfabab3
 annum:
     year: 2015
     month: 09
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /bridgetkromhout/status/638518484515733505
+
 ---
 
 

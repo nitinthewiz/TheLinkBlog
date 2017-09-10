@@ -6,7 +6,11 @@ hash: 344acb512ef030be78bb554bfc505cc1
 annum:
     year: 2011
     month: 04
-hostname: camererphoto.com
+url-parts:
+    scheme: http
+    host: camererphoto.com
+    path: /
+
 ---
 
 

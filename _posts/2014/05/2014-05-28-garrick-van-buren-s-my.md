@@ -6,7 +6,11 @@ hash: c4bb0f7641da3b51bcf97778d687deff
 annum:
     year: 2014
     month: 05
-hostname: mymorningroutine.com
+url-parts:
+    scheme: http
+    host: mymorningroutine.com
+    path: /garrick-van-buren/
+
 ---
 
 How do I spent the first 90min of each day? Here it is: 

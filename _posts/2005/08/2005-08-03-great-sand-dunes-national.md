@@ -6,7 +6,11 @@ hash: cc68e99cd85585492fb57a00c71c8190
 annum:
     year: 2005
     month: 08
-hostname: www.nps.gov
+url-parts:
+    scheme: http
+    host: www.nps.gov
+    path: /grsa/index.htm
+
 ---
 
 

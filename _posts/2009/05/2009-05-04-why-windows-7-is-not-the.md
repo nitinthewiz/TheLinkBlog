@@ -6,7 +6,11 @@ hash: cd5c0b52a2301036ab4a883cebdbef64
 annum:
     year: 2009
     month: 05
-hostname: blog.dustincurtis.com
+url-parts:
+    scheme: http
+    host: blog.dustincurtis.com
+    path: /day-8045-windows-7-is-not-the-answer
+
 ---
 
 Comments

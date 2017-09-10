@@ -6,7 +6,12 @@ hash: d709f4a90e97d3a87f5cb33cbcf5e366
 annum:
     year: 2010
     month: 06
-hostname: docs.google.com
+url-parts:
+    scheme: https
+    host: docs.google.com
+    path: /present/view
+    query:
+        id: "dgqq35hb_63fzv6n9g4"
 ---
 
 RT @dannypatterson: The slides to my FlashBelt session on Flash Development within Facebook are available here: .

@@ -6,7 +6,11 @@ hash: 462453870380b69758e61dd5f2c6db31
 annum:
     year: 2008
     month: 07
-hostname: www.macdailynews.com
+url-parts:
+    scheme: http
+    host: www.macdailynews.com
+    path: /index.php/weblog/comments/microsoft_releases_remote_desktop_connection_client_for_mac_2/
+
 ---
 
 Microsoft has finally released Remote Desktop Connection Client for Mac 2 after nearly a year in beta...

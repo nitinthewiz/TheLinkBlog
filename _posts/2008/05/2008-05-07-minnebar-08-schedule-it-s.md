@@ -6,7 +6,11 @@ hash: 8c62109bf0eb876ab93ba4a67de8fa94
 annum:
     year: 2008
     month: 05
-hostname: graemethickins.typepad.com
+url-parts:
+    scheme: http
+    host: graemethickins.typepad.com
+    path: /graeme_blogs_here/2008/05/minnebar-08-dra.html
+
 ---
 
 The program for our annual Minnesota Barcamp -- Minnebar -- was just released late yesterday. The event is being held Saturday, May 10, at the Coffman Union on the U of MN campus. Here's a look at where things are so far, and note that it's subject to change.

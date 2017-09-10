@@ -6,7 +6,11 @@ hash: 2573959c0775dba2a4c6d6b2e9eaafc5
 annum:
     year: 2015
     month: 06
-hostname: www.speirs.org
+url-parts:
+    scheme: http
+    host: www.speirs.org
+    path: /blog/2015/6/26/whats-new-in-itunes-u-30
+
 ---
 
 Here you go: “What’s new in iTunes U 3.0”

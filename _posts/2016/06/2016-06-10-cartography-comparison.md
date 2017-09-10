@@ -6,7 +6,11 @@ hash: fd36c4bc3a16f1e2f87e726d0bb39a6d
 annum:
     year: 2016
     month: 06
-hostname: www.justinobeirne.com
+url-parts:
+    scheme: http
+    host: www.justinobeirne.com
+    path: /essay/cartography-comparison
+
 ---
 
 

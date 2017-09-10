@@ -6,7 +6,11 @@ hash: ea75585b910a24467b10b5b5d205cf49
 annum:
     year: 2009
     month: 04
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /3dwyc
+
 ---
 
 Glowing pocket of @aeklund.  

@@ -6,7 +6,12 @@ hash: db85d2ec8b0992ea18e600cd3199a054
 annum:
     year: 2015
     month: 07
-hostname: engineering.quora.com
+url-parts:
+    scheme: http
+    host: engineering.quora.com
+    path: /Moving-Fast-With-High-Code-Quality
+    query:
+        share: "1"
 ---
 
 high-quality codebase boosts the long-term development speed by making iteration, collaboration, and maintenance easier.

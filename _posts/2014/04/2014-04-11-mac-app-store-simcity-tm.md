@@ -6,7 +6,12 @@ hash: 0698b584ce9305d2d7b1d40e0f11015f
 annum:
     year: 2014
     month: 04
-hostname: itunes.apple.com
+url-parts:
+    scheme: https
+    host: itunes.apple.com
+    path: /us/app/simcity-4-deluxe-edition/id804079949
+    query:
+        mt: "12"
 ---
 
 Whoa whoa whoa whoa. SimCity 4 — yes 4! — is in the Mac app store.

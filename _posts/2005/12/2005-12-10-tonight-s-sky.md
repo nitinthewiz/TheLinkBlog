@@ -6,7 +6,11 @@ hash: 89759550f5b99752c6e25a0f016ab7ec
 annum:
     year: 2005
     month: 12
-hostname: tonightssky.com
+url-parts:
+    scheme: http
+    host: tonightssky.com
+    path: /
+
 ---
 
 Site that will give you a listing of interesting objecs for your given location and evening.

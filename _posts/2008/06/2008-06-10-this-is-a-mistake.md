@@ -6,7 +6,11 @@ hash: f90cfc6083b2aa62fe5be4eacc7abc04
 annum:
     year: 2008
     month: 06
-hostname: avc.blogs.com
+url-parts:
+    scheme: http
+    host: avc.blogs.com
+    path: /a_vc/2008/06/this-is-a-mista.html
+
 ---
 
 Image via Wikipedia

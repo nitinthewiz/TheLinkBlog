@@ -6,7 +6,11 @@ hash: 661d0b5c9b41bec10504334983f6829a
 annum:
     year: 2006
     month: 02
-hostname: www.alesti.org
+url-parts:
+    scheme: http
+    host: www.alesti.org
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 29ff3790a457185b51a4b200487ee322
 annum:
     year: 2008
     month: 06
-hostname: leahculver.com
+url-parts:
+    scheme: http
+    host: leahculver.com
+    path: /2008/06/17/tiny-urls-based-on-pk/
+
 ---
 
 I’ve been wanting to make a short url for Pownce permalink pages for an upcoming project. Pownce note permalink pages on the website currently look like this: http://pownce.com/leahculver/notes/2477365/

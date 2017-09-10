@@ -6,7 +6,11 @@ hash: eba3e520d62ecef8aa786a463fe595e6
 annum:
     year: 2008
     month: 06
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2008/06/30/10-5-4-leopard-update-brings-fixes-prepares-for-mobileme/
+
 ---
 
 Apple today released Leopard update version 10.5.4. Today's update prepares the OS for the MobileMe Service.

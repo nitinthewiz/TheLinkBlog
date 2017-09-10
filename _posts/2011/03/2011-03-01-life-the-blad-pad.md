@@ -6,7 +6,11 @@ hash: 9e3d680bfcee15451fd931d3662050c2
 annum:
     year: 2011
     month: 03
-hostname: thebladpad.blogspot.com
+url-parts:
+    scheme: http
+    host: thebladpad.blogspot.com
+    path: /
+
 ---
 
 

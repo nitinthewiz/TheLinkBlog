@@ -6,7 +6,11 @@ hash: afad413dddc73fb7064e03af817d322d
 annum:
     year: 2010
     month: 12
-hostname: www.mountainboysleds.com
+url-parts:
+    scheme: http
+    host: www.mountainboysleds.com
+    path: /index.html
+
 ---
 
 

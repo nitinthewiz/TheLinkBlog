@@ -6,7 +6,11 @@ hash: 900bb7b12f60b09b455b7d42239699bd
 annum:
     year: 2011
     month: 02
-hostname: buzzmachine.com
+url-parts:
+    scheme: http
+    host: buzzmachine.com
+    path: /2011/02/18/the-privacy-industry-scare-and-sell/
+
 ---
 
 

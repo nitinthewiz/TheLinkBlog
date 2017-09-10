@@ -6,7 +6,11 @@ hash: 5aa50598ea07d1647f9024336ddde881
 annum:
     year: 2015
     month: 02
-hostname: fusion.net
+url-parts:
+    scheme: http
+    host: fusion.net
+    path: /story/50322/meet-the-tweet-deleters-people-who-are-making-their-twitter-histories-self-destruct/
+
 ---
 
 Like most media workers, Matthew Lazin-Ryder, a Vancouver-based producer with CBC Radio, spends a fair amount of time on Twitter. When he

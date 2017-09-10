@@ -6,7 +6,11 @@ hash: 8425dc0842229aeb5c4e6e795260c0eb
 annum:
     year: 2010
     month: 12
-hostname: randomfoo.net
+url-parts:
+    scheme: http
+    host: randomfoo.net
+    path: /oscon/2002/lessig/
+
 ---
 
 Over the past three years, Lessig has given more than 100 talks like the one captured here. On July 24, 2002, at the O.Reilly Open Source Conference he announced this would be one of his last.

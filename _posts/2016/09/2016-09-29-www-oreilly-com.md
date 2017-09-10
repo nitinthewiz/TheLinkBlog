@@ -6,7 +6,11 @@ hash: 33eb575b8c1a1eb83fa4152476e42671
 annum:
     year: 2016
     month: 09
-hostname: www.oreilly.com
+url-parts:
+    scheme: https
+    host: www.oreilly.com
+    path: /ideas/artificial-intelligence-making-a-human-connection
+
 ---
 
 

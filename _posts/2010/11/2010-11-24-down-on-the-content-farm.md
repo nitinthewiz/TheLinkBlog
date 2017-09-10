@@ -6,7 +6,11 @@ hash: 4004da00947607226ae70105a99bacb0
 annum:
     year: 2010
     month: 11
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /demand-media-2010-11
+
 ---
 
 

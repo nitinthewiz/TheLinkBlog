@@ -6,7 +6,11 @@ hash: d462971167d198342d696911bd39096a
 annum:
     year: 2005
     month: 12
-hostname: birds.audubon.org
+url-parts:
+    scheme: http
+    host: birds.audubon.org
+    path: /christmas-bird-count
+
 ---
 
 

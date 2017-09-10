@@ -6,7 +6,11 @@ hash: 4e593b1b09bf87dcafd31f4e185a1e2e
 annum:
     year: 2012
     month: 06
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /thingles/coco-liteplayer
+
 ---
 
 Little thing I hacked up to play with the LiteBrite at CoCoMSP.

@@ -6,7 +6,11 @@ hash: e8c42e6af2aae89ad50034cc0b9f3f74
 annum:
     year: 2011
     month: 10
-hostname: theamericanscholar.org
+url-parts:
+    scheme: http
+    host: theamericanscholar.org
+    path: /solitude-and-leadership/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 61253cc97f5b9fee3c0faec0761aa171
 annum:
     year: 2014
     month: 02
-hostname: continuousdelivery.com
+url-parts:
+    scheme: http
+    host: continuousdelivery.com
+    path: /2014/02/visualizations-of-continuous-delivery/
+
 ---
 
 Nhan Ngo, a QA engineer at Spotify, made four fabulous visualizations while reading Continuous Delivery.

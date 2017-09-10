@@ -6,7 +6,11 @@ hash: 1401578e5b183942c7edeebdaadf8da5
 annum:
     year: 2015
     month: 09
-hostname: strib.mn
+url-parts:
+    scheme: http
+    host: strib.mn
+    path: /1iOsnPr
+
 ---
 
 

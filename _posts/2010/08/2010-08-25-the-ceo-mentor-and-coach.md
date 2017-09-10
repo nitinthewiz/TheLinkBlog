@@ -6,7 +6,11 @@ hash: a042b859f6552b0a7549f3c7609649cc
 annum:
     year: 2010
     month: 08
-hostname: www.avc.com
+url-parts:
+    scheme: http
+    host: www.avc.com
+    path: /a_vc/2010/08/the-ceo-mentor-and-coach.html
+
 ---
 
 I've written about this topic before. I think many people with the ambition and the opportunity can become excellent CEOs. But it takes a lot of work and a commitment to self improvement. It is a very hard job. It is lonely. And it requires discipline and decisiveness. Most of these traits can be learned.

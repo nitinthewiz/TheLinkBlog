@@ -6,7 +6,11 @@ hash: 5b6e6d1102ee78231119913474a3165e
 annum:
     year: 2012
     month: 06
-hostname: www.addshoppers.com
+url-parts:
+    scheme: http
+    host: www.addshoppers.com
+    path: /
+
 ---
 
 AddShoppers is a free social commerce platform for retailers. Track shares to sales with just a few snippets of asynchronous javascript.

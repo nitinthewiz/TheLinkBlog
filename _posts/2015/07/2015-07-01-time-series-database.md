@@ -6,7 +6,11 @@ hash: e17ca0091b7165d9ea0a9aa505b5a861
 annum:
     year: 2015
     month: 07
-hostname: www.xaprb.com
+url-parts:
+    scheme: http
+    host: www.xaprb.com
+    path: /blog/2014/06/08/time-series-database-requirements/
+
 ---
 
 

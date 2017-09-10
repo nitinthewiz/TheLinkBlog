@@ -6,7 +6,11 @@ hash: 7c27f1edda8738bd5bf8a1a214377733
 annum:
     year: 2011
     month: 08
-hostname: ittybiz.com
+url-parts:
+    scheme: http
+    host: ittybiz.com
+    path: /death-threats-online/
+
 ---
 
 

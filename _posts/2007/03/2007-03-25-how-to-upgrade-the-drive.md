@@ -6,7 +6,11 @@ hash: dd7cf0117b82afca0f551afbadac437d
 annum:
     year: 2007
     month: 03
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/
+
 ---
 
 We decided to double the size of the HDD from 40 GB to 80 GB; we picked up a new 5400 RPM IDE laptop drive and went to town.

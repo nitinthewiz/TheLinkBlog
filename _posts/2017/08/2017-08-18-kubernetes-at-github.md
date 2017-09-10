@@ -6,7 +6,11 @@ hash: acce3029906b492d2de48c83a810f79b
 annum:
     year: 2017
     month: 08
-hostname: githubengineering.com
+url-parts:
+    scheme: https
+    host: githubengineering.com
+    path: /kubernetes-at-github/
+
 ---
 
 I find these overviews of how big organizations adopt large components of technology good reads. There are a lot of decisions to be made when you do this type of work and there is always something to be learned from others.

@@ -6,7 +6,13 @@ hash: 61a8e6ecf45111314bd329444c997f2f
 annum:
     year: 2011
     month: 02
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2011/02/07/world/07openleaks.html
+    query:
+        _r: "3"
+        pagewanted: "all"
 ---
 
 According to  Wikileaks is dead as an encrypted drop box, unable to operate because of defections and Assange's troubles.

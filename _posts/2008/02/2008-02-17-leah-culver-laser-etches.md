@@ -6,7 +6,11 @@ hash: 1450aed7a8102b0a4cda76d8f4cdc8db
 annum:
     year: 2008
     month: 02
-hostname: blip.tv
+url-parts:
+    scheme: http
+    host: blip.tv
+    path: /getv/leah-culver-laser-etches-her-macbook-pro-107802
+
 ---
 
 

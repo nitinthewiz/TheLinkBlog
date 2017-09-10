@@ -6,7 +6,11 @@ hash: 78e6eca876e5076533453c6c16093695
 annum:
     year: 2013
     month: 04
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim
+
 ---
 
 Ridiculously provoking and well done talk on Republic Lost.

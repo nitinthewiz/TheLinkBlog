@@ -6,7 +6,11 @@ hash: 08d1ad5676fff43488bd9fd7338c2d8c
 annum:
     year: 2008
     month: 03
-hostname: blogs.oreilly.com
+url-parts:
+    scheme: http
+    host: blogs.oreilly.com
+    path: /lightroom/2008/03/regulating-your-keywords.html
+
 ---
 
 One of the biggest problems with keywords is that there are so many synonyms in the English language. So how do you know that one specific keyword for one specific thing will always be the case? After all, if it's...

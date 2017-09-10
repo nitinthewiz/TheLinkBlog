@@ -6,7 +6,11 @@ hash: 2c60f81d07d5190fa9aca0a965e3dce8
 annum:
     year: 2010
     month: 06
-hostname: www.techmeme.com
+url-parts:
+    scheme: http
+    host: www.techmeme.com
+    path: /100611/p20
+
 ---
 
 

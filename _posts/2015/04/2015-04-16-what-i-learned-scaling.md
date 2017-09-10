@@ -6,7 +6,11 @@ hash: 936bf3693d29319469e5c9dee6b92313
 annum:
     year: 2015
     month: 04
-hostname: firstround.com
+url-parts:
+    scheme: http
+    host: firstround.com
+    path: /review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/
+
 ---
 
 Serial entrepreneur Tim Howes has grown several huge engineering teams from scratch. Here are the five area he focuses on to keep everything on track.

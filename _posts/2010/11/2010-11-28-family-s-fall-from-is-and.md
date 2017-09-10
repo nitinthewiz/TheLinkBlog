@@ -6,7 +6,11 @@ hash: 65a94c7a55886cf738c1b487f74dab79
 annum:
     year: 2010
     month: 11
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2010/11/26/business/26fall.html
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 7238d9fb2e432a92bb19313c16021ed4
 annum:
     year: 2012
     month: 08
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Extension:EmailToWiki
+
 ---
 
 Looks like a great extension to be able to create new content from various devices.

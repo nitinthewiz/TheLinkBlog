@@ -6,7 +6,11 @@ hash: 8a28249f5ea94e34d406712f2a1b7345
 annum:
     year: 2008
     month: 05
-hostname: www.myspace.com
+url-parts:
+    scheme: http
+    host: www.myspace.com
+    path: /theeblairstmugwumps
+
 ---
 
 Found this band today at a music event in Seattle. Totally whacky. Bought two albums. 

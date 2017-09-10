@@ -6,7 +6,11 @@ hash: e953a9e39aab7825af6cecfa9af29d82
 annum:
     year: 2010
     month: 01
-hostname: forrester.typepad.com
+url-parts:
+    scheme: http
+    host: forrester.typepad.com
+    path: /groundswell/2010/01/conversationalists-get-onto-the-ladder.html
+
 ---
 
 by Josh Bernoff

@@ -6,7 +6,11 @@ hash: 388034ea45759f2ee417bd330271952b
 annum:
     year: 2010
     month: 11
-hostname: tcbmag.blogs.com
+url-parts:
+    scheme: http
+    host: tcbmag.blogs.com
+    path: /generations/2010/11/gen-x-and-the-cloak-of-invisibility.html
+
 ---
 
 

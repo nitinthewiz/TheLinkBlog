@@ -6,7 +6,12 @@ hash: b2b58cd6cbdd6e58db54c9e44bc09215
 annum:
     year: 2015
     month: 05
-hostname: blogs.atlassian.com
+url-parts:
+    scheme: http
+    host: blogs.atlassian.com
+    path: /2015/04/jira-portfolio-fundamentals/
+    query:
+        utm_: "twitter"
 ---
 
 

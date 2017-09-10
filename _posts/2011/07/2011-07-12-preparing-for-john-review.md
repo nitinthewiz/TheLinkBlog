@@ -6,7 +6,12 @@ hash: d36c091bad7f51ea9b50c7180e47be4b
 annum:
     year: 2011
     month: 07
-hostname: www.youtube.com
+url-parts:
+    scheme: http
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "nhOG25fM8so"
 ---
 
 As Apple prepares to release their latest update to the Mac operating system, the Nerds among us are particularly excited about the upcoming publication of Ars Technica writer John Siracusa's traditionally epic review of the OS.

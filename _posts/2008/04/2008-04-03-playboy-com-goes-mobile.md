@@ -6,7 +6,11 @@ hash: eaf25fb19dcedebbbf5ce1d2d079de7d
 annum:
     year: 2008
     month: 04
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/04/02/playboycom-goes-mobile-with-iphone-compatible-version/
+
 ---
 
 Playboy, Americas favorite magazine (for the articles), just announced an iPhone version of the Playboy.com website. The site features an iPhone-esque UI and includes a HotorNot clone, a nightlife adviser, and Playboy Radio, an MP3-based online radio show. Check out CrunchGear for live coverage including the crowning of Miss Playboy Mobile. 

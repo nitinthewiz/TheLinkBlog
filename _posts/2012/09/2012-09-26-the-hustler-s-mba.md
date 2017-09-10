@@ -6,7 +6,11 @@ hash: 09cf3dd8ccc6291b696ce6c25cdf7360
 annum:
     year: 2012
     month: 09
-hostname: tynan.com
+url-parts:
+    scheme: http
+    host: tynan.com
+    path: /hustle
+
 ---
 
 As someone that didn't finish college I can read this with a little smugness. I went to college for 3 years, and while I didn't get the degree I did get immense benefit. Access to computers science labs, the Internet and fellow techies was key. These days that access is a lot easier to get.

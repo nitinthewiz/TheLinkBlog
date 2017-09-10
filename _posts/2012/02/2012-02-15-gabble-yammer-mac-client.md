@@ -6,7 +6,11 @@ hash: 40149b2622102707ee91d52d1302b4eb
 annum:
     year: 2012
     month: 02
-hostname: gabbleapp.com
+url-parts:
+    scheme: http
+    host: gabbleapp.com
+    path: 
+
 ---
 
 Yammer is great. So is Mac OS X. Wouldn't it be even greater if there was a native Yammer client for Mac OS X? Well now there is!

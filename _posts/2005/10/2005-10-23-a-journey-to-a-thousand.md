@@ -6,7 +6,11 @@ hash: fd94cb0f8abb5522a07836f74d3977f4
 annum:
     year: 2005
     month: 10
-hostname: www.nytimes.com
+url-parts:
+    scheme: http
+    host: www.nytimes.com
+    path: /2005/10/20/technology/circuits/20maps.html
+
 ---
 
 Google Maps Article Referencing Road Sign Math

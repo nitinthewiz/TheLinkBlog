@@ -6,7 +6,11 @@ hash: a821d1ae3de1b2cb870c0a4944feb1fd
 annum:
     year: 2011
     month: 09
-hostname: tympanus.net
+url-parts:
+    scheme: http
+    host: tympanus.net
+    path: /codrops/2011/09/12/elastislide-responsive-carousel/
+
 ---
 
 

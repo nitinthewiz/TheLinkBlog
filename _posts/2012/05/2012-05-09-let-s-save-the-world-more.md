@@ -6,7 +6,11 @@ hash: 04eaef49feda83a8c8f8ca5d98450a06
 annum:
     year: 2012
     month: 05
-hostname: twitter.com
+url-parts:
+    scheme: https
+    host: twitter.com
+    path: /wikidata/status/200203460308770816
+
 ---
 
 What a great quote!

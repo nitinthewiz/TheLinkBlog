@@ -6,7 +6,11 @@ hash: a89c7d03e01fadb48a987a53b1f4d159
 annum:
     year: 2011
     month: 07
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /tech-policy/news/2011/07/world-ipv6-day-is-so-last-month.ars
+
 ---
 
 

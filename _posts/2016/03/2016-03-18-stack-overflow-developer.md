@@ -6,7 +6,11 @@ hash: 36b554b598b67e5dbd977b640086a62d
 annum:
     year: 2016
     month: 03
-hostname: stackoverflow.com
+url-parts:
+    scheme: http
+    host: stackoverflow.com
+    path: /research/developer-survey-2016
+
 ---
 
 This year, over fifty thousand developers shared where they work, what they build, and who they are. You are about to read the results of the most comprehensive developer survey ever conducted.

@@ -6,7 +6,11 @@ hash: cf9ad6d49293e8f5364055c964255cc9
 annum:
     year: 2015
     month: 06
-hostname: www.googlesheepview.com
+url-parts:
+    scheme: http
+    host: www.googlesheepview.com
+    path: /
+
 ---
 
 

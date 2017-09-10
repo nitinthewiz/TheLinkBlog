@@ -6,7 +6,11 @@ hash: 6c10b094eb532d86ae019f8eb7eeab00
 annum:
     year: 2011
     month: 04
-hostname: petewarden.github.io
+url-parts:
+    scheme: http
+    host: petewarden.github.io
+    path: /iPhoneTracker/
+
 ---
 
 This open-source application maps the information that your iPhone is recording about your movements. It doesn't record anything itself, it only displays files that are already hidden on your computer.

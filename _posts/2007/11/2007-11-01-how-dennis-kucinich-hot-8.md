@@ -6,7 +6,11 @@ hash: 376c140e091530a3e1cafb6efb45edb7
 annum:
     year: 2007
     month: 11
-hostname: jezebel.com
+url-parts:
+    scheme: http
+    host: jezebel.com
+    path: /gossip/gauging-interest-rates/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes-317463.php
+
 ---
 
 Elizabeth Kucinich dishes to MSNBC today about how it exactly happened that she got engaged to neo-Nader presidential candidate Dennis Kucinich the second time they met.

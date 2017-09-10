@@ -6,7 +6,11 @@ hash: c76ae77da0883bdeb8658b44b1b99607
 annum:
     year: 2010
     month: 12
-hostname: www.vivobarefoot.com
+url-parts:
+    scheme: http
+    host: www.vivobarefoot.com
+    path: /uk
+
 ---
 
 

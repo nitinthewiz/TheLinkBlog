@@ -6,7 +6,11 @@ hash: 53618e068158ad51111a260823ef218a
 annum:
     year: 2005
     month: 12
-hostname: signalvnoise.com
+url-parts:
+    scheme: https
+    host: signalvnoise.com
+    path: /archives2/marketwatch_a_little_too_realtime.php
+
 ---
 
 

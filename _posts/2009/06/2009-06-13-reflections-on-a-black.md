@@ -6,7 +6,11 @@ hash: d51f8f84b63fc8df4322b52c04afaf2b
 annum:
     year: 2009
     month: 06
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2009/06/13/reflections-on-a-black-widow/
+
 ---
 
 

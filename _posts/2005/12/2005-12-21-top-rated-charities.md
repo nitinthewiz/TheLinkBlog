@@ -6,7 +6,11 @@ hash: 47d23d3e33c947c351b716c3f8c3963e
 annum:
     year: 2005
     month: 12
-hostname: www.charitywatch.org
+url-parts:
+    scheme: http
+    host: www.charitywatch.org
+    path: /toprated.html
+
 ---
 
 According to the American Institute of Philanthropy

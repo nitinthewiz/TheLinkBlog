@@ -6,7 +6,11 @@ hash: 75f74344540c105ea633ad8dac174240
 annum:
     year: 2009
     month: 06
-hostname: www.37signals.com
+url-parts:
+    scheme: http
+    host: www.37signals.com
+    path: /svn/posts/1768-i-dont-care-how-good-you-are-at-programming
+
 ---
 
 I don’t care how good you are at programming, finding bugs, whatever. If you’re rude, or if you speak poorly to people who don’t understand your… quirks…. you will wind up being shunted to the side. No one wants to work with someone who makes them feel beat down all the time, or someone who they simply can’t understand, or someone whose reaction to every issue is to start wailing about the end of the world.

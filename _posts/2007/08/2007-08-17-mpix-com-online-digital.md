@@ -6,7 +6,11 @@ hash: d94f6d5e526edbae0c37b97ecdaf8670
 annum:
     year: 2007
     month: 08
-hostname: www.mpix.net
+url-parts:
+    scheme: http
+    host: www.mpix.net
+    path: /
+
 ---
 
 

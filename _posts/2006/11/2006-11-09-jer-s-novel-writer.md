@@ -6,7 +6,11 @@ hash: 4124e235cefa646d33ef75334b1cfb83
 annum:
     year: 2006
     month: 11
-hostname: jerssoftwarehut.com
+url-parts:
+    scheme: http
+    host: jerssoftwarehut.com
+    path: /jers-novel-writer
+
 ---
 
 Jer's Novel Writer is a relatively simple word processor with extra features to support large creative writing projects.

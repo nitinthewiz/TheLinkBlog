@@ -6,7 +6,11 @@ hash: 536073084b02fa2d085126908af71fe9
 annum:
     year: 2006
     month: 07
-hostname: www.apcupsd.com
+url-parts:
+    scheme: http
+    host: www.apcupsd.com
+    path: /
+
 ---
 
 

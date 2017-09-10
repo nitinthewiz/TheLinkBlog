@@ -6,7 +6,11 @@ hash: ba2a5be1137db2b80e7ef8224586584d
 annum:
     year: 2015
     month: 01
-hostname: www.dadant.com
+url-parts:
+    scheme: http
+    host: www.dadant.com
+    path: /catalog/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c22e8784f452b0561bca7659dfcded5a
 annum:
     year: 2016
     month: 07
-hostname: sixcolors.com
+url-parts:
+    scheme: https
+    host: sixcolors.com
+    path: /post/2016/07/my-weather-station/
+
 ---
 
 

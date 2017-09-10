@@ -6,7 +6,11 @@ hash: 67c079fbe00916ccb143f9d758a54972
 annum:
     year: 2008
     month: 07
-hostname: db.tidbits.com
+url-parts:
+    scheme: http
+    host: db.tidbits.com
+    path: /article/9680
+
 ---
 
 You won't pay a 3G rate for a 2G iPhone with a new service plan, AT&T confirmed for me today. This should be good news to anyone looking to either sell their so-called 2G iPhone when they upgrade to an iPhone 3G, or for those looking to buy (or beg) the older iPhone model without paying a fee for bandwidth they can't use.

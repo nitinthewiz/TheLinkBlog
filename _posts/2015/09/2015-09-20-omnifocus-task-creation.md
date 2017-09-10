@@ -6,7 +6,11 @@ hash: 4a8be9f6fc4270d866d435efe1220d0b
 annum:
     year: 2015
     month: 09
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2013/5/omnifocus-task-creation-via-qr-code
+
 ---
 
 I recently received an email from reader Jonas Bergenudd with a really clever workflow. Jonas has things in his life that occasionally require replenishment, like batteries. So Jonas created stickers…

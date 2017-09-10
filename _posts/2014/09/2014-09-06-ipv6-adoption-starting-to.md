@@ -6,7 +6,11 @@ hash: 7dc1bd7f1b87ad5051c46661c0b1521d
 annum:
     year: 2014
     month: 09
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /business/2014/08/ipv6-adoption-starting-to-add-up-to-real-numbers-0-6-percent/
+
 ---
 
 Progress.

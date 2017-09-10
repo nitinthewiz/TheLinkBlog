@@ -6,7 +6,11 @@ hash: 93967fc989542db9aceaa30c2ad1295a
 annum:
     year: 2005
     month: 09
-hostname: www.billwadman.com
+url-parts:
+    scheme: http
+    host: www.billwadman.com
+    path: /photofolio/
+
 ---
 
 Interesting, flash-based photo slideshow tool for website.

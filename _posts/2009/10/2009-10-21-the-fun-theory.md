@@ -6,7 +6,11 @@ hash: ec6524bb7535a85729ff3dcae240beff
 annum:
     year: 2009
     month: 10
-hostname: radar.oreilly.com
+url-parts:
+    scheme: http
+    host: radar.oreilly.com
+    path: /2009/10/the-fun-theory.html
+
 ---
 
 In one of my favorite reads this last year,  Play:  How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul,  author Stuart Brown talks about play as “an un-realized power that can transform our social and economic lives.”   

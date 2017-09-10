@@ -6,7 +6,11 @@ hash: c63da0a8c2ea1593be7cc1640e5d07e8
 annum:
     year: 2011
     month: 10
-hostname: www.wired.com
+url-parts:
+    scheme: http
+    host: www.wired.com
+    path: /politics/security/commentary/securitymatters/2006/05/70886
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ef58dcbf2753d24925c0d9488ab7a8f1
 annum:
     year: 2012
     month: 11
-hostname: www.northerntrackersrrclub.com
+url-parts:
+    scheme: http
+    host: www.northerntrackersrrclub.com
+    path: /index.html
+
 ---
 
 The Northern Minnesota Railroad Heritage Association and its members are dedicated to discovering, preserving and presenting the heritage of the railroad industry in northern Minnesota.

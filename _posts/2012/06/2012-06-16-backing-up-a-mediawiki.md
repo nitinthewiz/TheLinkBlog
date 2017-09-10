@@ -6,7 +6,11 @@ hash: e321d1691fdbec6ca920681a86bea8d0
 annum:
     year: 2012
     month: 06
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Manual:Backing_up_a_wiki
+
 ---
 
 Invoking the dumpBackup.php via cron and storing the resulting XML some place safe seems like a good failsafe to making sure you don't lose your data.

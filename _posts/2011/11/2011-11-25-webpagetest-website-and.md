@@ -6,7 +6,11 @@ hash: 0347f2fdcbcf68016dfc3fa3fa695da7
 annum:
     year: 2011
     month: 11
-hostname: www.webpagetest.org
+url-parts:
+    scheme: http
+    host: www.webpagetest.org
+    path: /
+
 ---
 
 

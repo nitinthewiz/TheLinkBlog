@@ -6,7 +6,11 @@ hash: abfd6687e26878697746adc9e21de0d5
 annum:
     year: 2017
     month: 02
-hostname: xkcd.com
+url-parts:
+    scheme: https
+    host: xkcd.com
+    path: /1802/
+
 ---
 
 [*disables social networking accounts*]

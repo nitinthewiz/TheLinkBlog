@@ -6,7 +6,11 @@ hash: 97a2c07b8cc1a91f4294e57b5e27dbd2
 annum:
     year: 2017
     month: 05
-hostname: hbr.org
+url-parts:
+    scheme: https
+    host: hbr.org
+    path: /2015/03/the-5-biases-pushing-women-out-of-stem
+
 ---
 
 

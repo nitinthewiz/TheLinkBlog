@@ -6,7 +6,11 @@ hash: f94882c53885daba83df6ed2955090f5
 annum:
     year: 2008
     month: 03
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/03/20/linkedin-now-for-companies-2/
+
 ---
 
 LinkedIn, the boring social network that wont find you a date but may land you a job, is expanding beyond people profiles.

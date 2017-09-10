@@ -6,7 +6,11 @@ hash: cbc9af2afd7970ae41c4eff29da64a53
 annum:
     year: 2010
     month: 12
-hostname: www.deer-run.com
+url-parts:
+    scheme: http
+    host: www.deer-run.com
+    path: /~hal/Unix_Command-Line_Kung_Fu_%28SANS%29.pdf
+
 ---
 
 

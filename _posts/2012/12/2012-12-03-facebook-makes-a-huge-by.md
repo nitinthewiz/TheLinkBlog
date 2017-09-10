@@ -6,7 +6,11 @@ hash: caa379bf6cce2ef81a611d8bdfa00d0e
 annum:
     year: 2012
     month: 12
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2012/12/01/facebook-photo-sync-data/
+
 ---
 
 While you might not share all the photos you upload, Facebook can still pull out geolocation to help it figure out where you are now and what local business ads to show you.

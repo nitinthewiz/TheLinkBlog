@@ -6,7 +6,11 @@ hash: 051d590f84d2b703c3126e13101736c9
 annum:
     year: 2012
     month: 12
-hostname: www.slideshare.net
+url-parts:
+    scheme: http
+    host: www.slideshare.net
+    path: /danmil30/how-to-run-a-5-whys-with-humans-not-robots
+
 ---
 
 

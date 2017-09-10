@@ -6,7 +6,11 @@ hash: 4ce7df503b57cae234df96636a17c4da
 annum:
     year: 2012
     month: 08
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/taste/165662956.html
+
 ---
 
 Change has come to your neighborhood coffee shop. Maybe you've heard the names: Kopplin's, Dogwood, Angry Catfish, Urban Bean, Bull Run, Blue Ox.

@@ -6,7 +6,11 @@ hash: c22ea9d3197da0393a1e34dd6ec6d8da
 annum:
     year: 2011
     month: 05
-hostname: bellard.org
+url-parts:
+    scheme: http
+    host: bellard.org
+    path: /jslinux/
+
 ---
 
 Details on how it works are here http://bellard.org/jslinux/tech.html

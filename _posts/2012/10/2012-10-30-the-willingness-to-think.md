@@ -6,7 +6,11 @@ hash: 1137ae9a09fa52c1dc5f7714d2097c8b
 annum:
     year: 2012
     month: 10
-hostname: zenhabits.net
+url-parts:
+    scheme: http
+    host: zenhabits.net
+    path: /open-mind/
+
 ---
 
 I can summarize the most successful people Ive ever known with one trait: the willingness to challenge mainstream ideas.

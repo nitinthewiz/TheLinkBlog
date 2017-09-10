@@ -6,7 +6,11 @@ hash: 514188536c16779904b9dafe47c35828
 annum:
     year: 2013
     month: 06
-hostname: qz.com
+url-parts:
+    scheme: http
+    host: qz.com
+    path: /89019/29-of-the-worlds-largest-bike-sharing-programs-in-one-map/
+
 ---
 
 Very cool map and concept.

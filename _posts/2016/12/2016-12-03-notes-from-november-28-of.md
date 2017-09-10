@@ -6,7 +6,11 @@ hash: 54aecbe8be7b5c659bf829f6eba25f14
 annum:
     year: 2016
     month: 12
-hostname: sfbay.techsolidarity.org
+url-parts:
+    scheme: https
+    host: sfbay.techsolidarity.org
+    path: /2016/11/28/meeting_notes.htm
+
 ---
 
 

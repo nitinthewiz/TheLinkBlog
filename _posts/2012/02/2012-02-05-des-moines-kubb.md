@@ -6,7 +6,11 @@ hash: d336853037ad848f401b4a3b5c5b9ce5
 annum:
     year: 2012
     month: 02
-hostname: desmoineskubb.com
+url-parts:
+    scheme: http
+    host: desmoineskubb.com
+    path: /
+
 ---
 
 

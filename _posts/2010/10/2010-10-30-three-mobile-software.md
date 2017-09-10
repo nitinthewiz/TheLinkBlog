@@ -6,7 +6,11 @@ hash: e00a9eba94c45cbe488909a6b77fcd7c
 annum:
     year: 2010
     month: 10
-hostname: www.tbray.org
+url-parts:
+    scheme: http
+    host: www.tbray.org
+    path: /ongoing/When/201x/2010/10/30/Three-Android-Software-Rules
+
 ---
 
 

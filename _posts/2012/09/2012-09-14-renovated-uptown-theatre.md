@@ -6,7 +6,11 @@ hash: 76dd4b228622a9639e5f2295f28fba08
 annum:
     year: 2012
     month: 09
-hostname: www.kare11.com
+url-parts:
+    scheme: http
+    host: www.kare11.com
+    path: /story/local/2012/09/12/3748385/
+
 ---
 
 Looks like this will finally be an enjoyable theater to go to!

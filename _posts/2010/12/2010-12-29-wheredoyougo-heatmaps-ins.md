@@ -6,7 +6,11 @@ hash: 990a11506f909d2bda0590630ab80566
 annum:
     year: 2010
     month: 12
-hostname: lifehacker.com
+url-parts:
+    scheme: http
+    host: lifehacker.com
+    path: /5719872/wheredoyougo-heatmaps-foursquare-check%2Bins
+
 ---
 
 

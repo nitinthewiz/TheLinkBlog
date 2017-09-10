@@ -6,7 +6,12 @@ hash: 48990a00d32555aebc762321743e7af1
 annum:
     year: 2016
     month: 01
-hostname: www.youtube.com
+url-parts:
+    scheme: https
+    host: www.youtube.com
+    path: /watch
+    query:
+        v: "S6d1l_M1hx0"
 ---
 
 Professional Kayaker and GoPro Athlete Ben Brown packs his kayak and venture to the 66th parallel to explore its untapped potential.

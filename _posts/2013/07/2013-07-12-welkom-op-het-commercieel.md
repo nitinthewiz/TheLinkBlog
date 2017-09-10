@@ -6,7 +6,11 @@ hash: f7108bf37fb9636404a62512cdbae9b8
 annum:
     year: 2013
     month: 07
-hostname: pottelberg.com
+url-parts:
+    scheme: http
+    host: pottelberg.com
+    path: /
+
 ---
 
 “@ster_k: Wie van #petanque en #kubb houdt: dit weekend is #pottelberg #kortrijk speciaal voor jullie omgetoverd! ”

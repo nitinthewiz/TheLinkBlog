@@ -6,7 +6,11 @@ hash: bb24421720e9c43917933e8098717f9d
 annum:
     year: 2007
     month: 12
-hostname: hillcrestlabs.com
+url-parts:
+    scheme: http
+    host: hillcrestlabs.com
+    path: /products/freespace.php
+
 ---
 
 Hillcrest Labs patented Freespace motion control technology senses motion in three dimensions and precisely translates human motions into onscreen cursor movement.  When embedded in a handheld input device, Freespace allows consumers to simply point

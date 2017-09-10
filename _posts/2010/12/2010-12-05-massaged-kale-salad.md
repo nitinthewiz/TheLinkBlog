@@ -6,7 +6,11 @@ hash: 86fabcd3f00e8e3ae86b808dd9033662
 annum:
     year: 2010
     month: 12
-hostname: www.foodnetwork.com
+url-parts:
+    scheme: http
+    host: www.foodnetwork.com
+    path: /recipes/aarti-sequeira/massaged-kale-salad-recipe.html
+
 ---
 
 

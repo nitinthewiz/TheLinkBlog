@@ -6,7 +6,11 @@ hash: be9b241fd5abfe7a8ddbff9bc0dc3ab4
 annum:
     year: 2011
     month: 02
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /magazine/archive/2011/03/inside-the-secret-service/308390/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 833807b77be1936dec9af9248a925c40
 annum:
     year: 2008
     month: 02
-hostname: www.atlassian.com
+url-parts:
+    scheme: https
+    host: www.atlassian.com
+    path: /company/customers/case-studies/
+
 ---
 
 Around the world, people turn to The Wall Street Journal, MarketWatch.com, Barron's, and other Dow Jones print and digital publications for vital business and financial news and information. Inside the enterprise, Dow Jones employees turn to Confluence to

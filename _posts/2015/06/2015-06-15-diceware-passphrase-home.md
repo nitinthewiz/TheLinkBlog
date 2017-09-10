@@ -6,7 +6,11 @@ hash: 6aa4daba8fad874c279e6595028ce6dc
 annum:
     year: 2015
     month: 06
-hostname: world.std.com
+url-parts:
+    scheme: http
+    host: world.std.com
+    path: /~reinhold/diceware.html
+
 ---
 
 This page offers a better way to create a strong, yet easy to remember passphrase for use with encryption and security programs. Weak passwords and passphrases are one of the most common flaws in computer security.

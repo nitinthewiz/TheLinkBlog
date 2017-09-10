@@ -6,7 +6,11 @@ hash: 30bb40734f53f49cf53c7940ab31c0c5
 annum:
     year: 2012
     month: 02
-hostname: www.lettersofnote.com
+url-parts:
+    scheme: http
+    host: www.lettersofnote.com
+    path: /2012/02/i-love-my-wife-my-wife-is-dead.html
+
 ---
 
 

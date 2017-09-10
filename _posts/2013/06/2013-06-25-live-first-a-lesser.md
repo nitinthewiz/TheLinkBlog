@@ -6,7 +6,11 @@ hash: 21bfe582eb453534d0e25bdf69329263
 annum:
     year: 2013
     month: 06
-hostname: cjchilvers.com
+url-parts:
+    scheme: http
+    host: cjchilvers.com
+    path: /a-lesser-photographer/blog/2013/6/24/live-first-shoot-after
+
 ---
 
 This is why, when I do it right, I try to sit and take in a place for a few minutes before I photograph it. You need to be there. Not in your camera.

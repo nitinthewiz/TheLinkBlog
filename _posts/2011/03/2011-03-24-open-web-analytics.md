@@ -6,7 +6,11 @@ hash: 4084f91676ef6d684226952a60115e72
 annum:
     year: 2011
     month: 03
-hostname: www.openwebanalytics.com
+url-parts:
+    scheme: http
+    host: www.openwebanalytics.com
+    path: /
+
 ---
 
 

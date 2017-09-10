@@ -6,7 +6,12 @@ hash: c051c3242bc1be5ae1aa1b4a7db3ddde
 annum:
     year: 2014
     month: 02
-hostname: itunes.apple.com
+url-parts:
+    scheme: https
+    host: itunes.apple.com
+    path: /us/app/reporter-app/id779697486
+    query:
+        mt: "8"
 ---
 
 Nicholas Felton’s new Reporter app is out. 

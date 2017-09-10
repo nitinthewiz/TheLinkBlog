@@ -6,7 +6,11 @@ hash: 2e9e56cd36a10889d0245d2e4bdf8bcf
 annum:
     year: 2011
     month: 01
-hostname: www.donothingfor2minutes.com
+url-parts:
+    scheme: http
+    host: www.donothingfor2minutes.com
+    path: /
+
 ---
 
 Fun website.

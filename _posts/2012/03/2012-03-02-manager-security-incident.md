@@ -6,7 +6,11 @@ hash: 8d208acde94a4fcd97de9f843e4a3796
 annum:
     year: 2012
     month: 03
-hostname: status.linode.com
+url-parts:
+    scheme: http
+    host: status.linode.com
+    path: 
+
 ---
 
 This morning, an intruder accessed a web-based Linode customer service portal. Suspicious events prompted an immediate investigation and the compromised credentials used by this intruder were then restricted. All activity via the web portal is logged, and an exhaustive audit has provided the following:

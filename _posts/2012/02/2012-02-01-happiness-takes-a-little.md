@@ -6,7 +6,11 @@ hash: 84879dfb5008f2ed8a6b8a5a1ae7a86f
 annum:
     year: 2012
     month: 02
-hostname: thewirecutter.com
+url-parts:
+    scheme: http
+    host: thewirecutter.com
+    path: /2012/01/happiness-takes-a-little-magic/
+
 ---
 
 

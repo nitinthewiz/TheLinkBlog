@@ -6,7 +6,11 @@ hash: a201569e7d9fb1fdcb02be811702dd10
 annum:
     year: 2011
     month: 07
-hostname: www.copypastecharacter.com
+url-parts:
+    scheme: http
+    host: www.copypastecharacter.com
+    path: /
+
 ---
 
 

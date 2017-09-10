@@ -6,7 +6,11 @@ hash: 5d596ce9a952d6ff68277cdff8d9d7ac
 annum:
     year: 2015
     month: 01
-hostname: blog.fogus.me
+url-parts:
+    scheme: http
+    host: blog.fogus.me
+    path: /2014/12/29/the-best-things-and-stuff-of-2014/
+
 ---
 
 Pseudo-random ramblings from Fogus.

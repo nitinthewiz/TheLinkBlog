@@ -6,7 +6,11 @@ hash: 45d38832b19da4ffbb11d58262f38b71
 annum:
     year: 2012
     month: 04
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2012/04/17/elle-facebook-fcommerce/
+
 ---
 
 The first customer launched from our new platform.

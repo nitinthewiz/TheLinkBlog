@@ -6,7 +6,11 @@ hash: 70c237476511e486dbe453c1d982c436
 annum:
     year: 2017
     month: 07
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /about-aws/whats-new/2017/07/aws-cloudformation-supports-multiple-account-and-region-provisioning-with-stackset/
+
 ---
 
 Nice add to the AWS toolset and clearly a win as customers, particularly large ones, use AWS accounts as an ultimate isolation and cost management tool.

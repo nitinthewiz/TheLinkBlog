@@ -6,7 +6,11 @@ hash: fc692afec99916f15cd04007e1589d92
 annum:
     year: 2007
     month: 12
-hostname: simpable.com
+url-parts:
+    scheme: http
+    host: simpable.com
+    path: /software/mac-software/
+
 ---
 
 I am still a border line noob on the Mac, but with so many friends/co-workers jumping in, I figured I put together a list of what software I am currently using most often on my Mac.

@@ -6,7 +6,12 @@ hash: 16468491cf316139e31c18c6daa3612d
 annum:
     year: 2011
     month: 05
-hostname: rstephens.blogspot.com
+url-parts:
+    scheme: http
+    host: rstephens.blogspot.com
+    path: /2011/05/few-key-people-in-minneapolisst-paul.html
+    query:
+        m: "1"
 ---
 
 Robert Stephens: A Few Key People in Minneapolis/St. Paul Can Make a Huge Difference:  #minnebar Cc @thingles

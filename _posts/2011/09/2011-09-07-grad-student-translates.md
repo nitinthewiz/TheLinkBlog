@@ -6,7 +6,11 @@ hash: bd89653950d2f4abf6de57b8dee78e67
 annum:
     year: 2011
     month: 09
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2011/09/07/grad-student-translates-itunes-terms-of-service-into-something/
+
 ---
 
 

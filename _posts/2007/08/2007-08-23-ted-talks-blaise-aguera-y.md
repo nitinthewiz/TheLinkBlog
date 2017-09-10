@@ -6,7 +6,11 @@ hash: 4097f47a1779bf31d585d069ff7ebc55
 annum:
     year: 2007
     month: 08
-hostname: www.ted.com
+url-parts:
+    scheme: http
+    host: www.ted.com
+    path: /index.php/talks/view/id/129
+
 ---
 
 Using photos of oft-snapped subjects (like Notre Dame) scraped from around the Web, Photosynth (based on Seadragon technology) creates breathtaking multidimensional spaces with zoom and navigation features that outstrip all expectation. Its architect, Bla

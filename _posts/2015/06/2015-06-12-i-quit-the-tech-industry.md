@@ -6,7 +6,11 @@ hash: 60e7d6e72dfcb506853177a583e2e9e0
 annum:
     year: 2015
     month: 06
-hostname: eev.ee
+url-parts:
+    scheme: http
+    host: eev.ee
+    path: /blog/2015/06/09/i-quit-the-tech-industry/
+
 ---
 
 

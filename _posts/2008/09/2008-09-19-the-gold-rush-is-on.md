@@ -6,7 +6,13 @@ hash: 3f96d0def2a9ba2745cdc6dcbeaa38ee
 annum:
     year: 2008
     month: 09
-hostname: inessential.com
+url-parts:
+    scheme: http
+    host: inessential.com
+    path: /
+    query:
+        comments: "1"
+        postid: "3531"
 ---
 
 

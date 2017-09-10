@@ -6,7 +6,11 @@ hash: 3bfb32619676015365fbffbf210a4c11
 annum:
     year: 2006
     month: 05
-hostname: www.rubyonrails.org
+url-parts:
+    scheme: http
+    host: www.rubyonrails.org
+    path: /
+
 ---
 
 

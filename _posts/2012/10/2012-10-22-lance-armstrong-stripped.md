@@ -6,7 +6,11 @@ hash: 782cccf044900c4cdcbec17019e08f51
 annum:
     year: 2012
     month: 10
-hostname: www.cbsnews.com
+url-parts:
+    scheme: http
+    host: www.cbsnews.com
+    path: /8301-400_162-57537025/lance-armstrong-stripped-of-tour-de-france-medals/
+
 ---
 
 OMG.

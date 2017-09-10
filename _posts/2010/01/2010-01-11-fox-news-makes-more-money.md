@@ -6,7 +6,11 @@ hash: dc5babdef768cb4b409b3c054b329079
 annum:
     year: 2010
     month: 01
-hostname: www.businessinsider.com
+url-parts:
+    scheme: http
+    host: www.businessinsider.com
+    path: /henry-blodget-fox-newss-700-million-man-2010-1
+
 ---
 
 

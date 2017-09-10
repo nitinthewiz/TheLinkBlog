@@ -6,7 +6,11 @@ hash: bbe079536be980ef16bcf7e10b4009b4
 annum:
     year: 2012
     month: 11
-hostname: heavytable.com
+url-parts:
+    scheme: http
+    host: heavytable.com
+    path: /broders-to-open-wine-bar-in-former-pierres/
+
 ---
 
 This is great news! Am sad to see Pierre's close though.

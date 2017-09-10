@@ -6,7 +6,11 @@ hash: d19f6044af329bfec772aee0ed6d48a3
 annum:
     year: 2012
     month: 04
-hostname: www.daskeyboard.com
+url-parts:
+    scheme: http
+    host: www.daskeyboard.com
+    path: /
+
 ---
 
 Whether youre looking for speed, precision, comfort or just the pleasing sound of world domination 

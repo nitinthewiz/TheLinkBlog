@@ -6,7 +6,11 @@ hash: c1c79c0f3a28f352542a95af1ee21df9
 annum:
     year: 2010
     month: 10
-hostname: storyist.com
+url-parts:
+    scheme: http
+    host: storyist.com
+    path: /support/howto/get-ready-for-nanowrimo/
+
 ---
 
 As this is my fourth year participating in NaNoWriMo, I thought I'd add to the mix by writing a quick how-to on the techniques that have worked for me.

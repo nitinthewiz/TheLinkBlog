@@ -6,7 +6,11 @@ hash: c5b6bfd5db0524f4db26a886fbdd3d1e
 annum:
     year: 2015
     month: 05
-hostname: www.thepinchandzoom.com
+url-parts:
+    scheme: http
+    host: www.thepinchandzoom.com
+    path: /blog/2015/5/14/facebook-stop
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: d00af9a95cb91bf5cb794eaf7d475293
 annum:
     year: 2012
     month: 02
-hostname: jirafe.com
+url-parts:
+    scheme: https
+    host: jirafe.com
+    path: /
+
 ---
 
 We started Jirafe to help eCommerce store managers grow their online businesses. Our product is designed to make your life easier and help you take action and be successful. As a company we will be successful only if our customers and partners succeed.

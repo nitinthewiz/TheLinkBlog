@@ -6,7 +6,11 @@ hash: 08c890238e491176c7e6ca3db4695fe3
 annum:
     year: 2011
     month: 05
-hostname: allfacebook.com
+url-parts:
+    scheme: http
+    host: allfacebook.com
+    path: /how-facebook-manages-500-engineers_b45044
+
 ---
 
 One of the interesting IRC Bots developed by Facebook helps to protect which code gets pushed based on which engineers are around when the code is pushed. If you arent there, your code wont be pushed (as any errors will need to be supported by the developer who wrote the code). The companys test automation suite provides a lot of details about errors taking place on the site to assist engineers in tracking down bugs. Possibly the most interesting tool is the Gatekeeper tool which controls who gets to see which features become available.

@@ -6,7 +6,11 @@ hash: 8a32a20575724440e427e76611c95f6c
 annum:
     year: 2016
     month: 04
-hostname: www.tbray.org
+url-parts:
+    scheme: https
+    host: www.tbray.org
+    path: /ongoing/When/201x/2016/04/14/What-is-a-Photographer
+
 ---
 
 Every­one takes pic­tures ev­ery­where now, 24/7/365. So does “photographer”, in the am­a­teur sense, still mean any­thing? I have pic­tures and ques­tions that say it does.

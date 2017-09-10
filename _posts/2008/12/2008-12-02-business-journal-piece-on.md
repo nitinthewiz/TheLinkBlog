@@ -6,7 +6,11 @@ hash: e1efc9e765a1b7ca68df84de7f102503
 annum:
     year: 2008
     month: 12
-hostname: www.unpossible.com
+url-parts:
+    scheme: http
+    host: www.unpossible.com
+    path: /2008/12/01/business-journal-piece-on-mobile-orchard/
+
 ---
 
 Kathy Grayson of the Business Journal interviewed me about Mobile Orchard a few weeks ago.  

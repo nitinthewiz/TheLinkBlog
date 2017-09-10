@@ -6,7 +6,11 @@ hash: d36d84e64116a9f7e2691d4258ef606b
 annum:
     year: 2016
     month: 08
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /reviews/canon-eos-5d-mark-iv-first-impressions-review
+
 ---
 
 The Canon EOS 5D series is arguably one of the must recognizable camera lines of the digital age and the Mark IV is designed to appeal to the same wide range of enthusiasts and professionals. Nearly

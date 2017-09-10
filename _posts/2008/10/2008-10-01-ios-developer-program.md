@@ -6,7 +6,11 @@ hash: af0c93985aca1c348789b57838e42e6b
 annum:
     year: 2008
     month: 10
-hostname: developer.apple.com
+url-parts:
+    scheme: http
+    host: developer.apple.com
+    path: /programs/ios/
+
 ---
 
 via iPhoneDevMN list, iPhone NDA is dropped! 

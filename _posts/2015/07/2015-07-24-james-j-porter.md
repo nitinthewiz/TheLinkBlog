@@ -6,7 +6,11 @@ hash: ab118cb80721f23082483c21715fda84
 annum:
     year: 2015
     month: 07
-hostname: jamesporter.me
+url-parts:
+    scheme: http
+    host: jamesporter.me
+    path: /2014/11/15/hello-mesos.html
+
 ---
 
 

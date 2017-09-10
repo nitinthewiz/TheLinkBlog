@@ -6,7 +6,11 @@ hash: ae10a1dc25039c0074d647b9f9505719
 annum:
     year: 2017
     month: 06
-hostname: www.nikonusa.com
+url-parts:
+    scheme: http
+    host: www.nikonusa.com
+    path: /en/learn-and-explore/a/tips-and-techniques/how-to-photograph-a-solar-eclipse.html
+
 ---
 
 We are all heading to St. Louis later this summer to be in the path of the total solar eclipse. I need to figure out how to do the photography! 📷

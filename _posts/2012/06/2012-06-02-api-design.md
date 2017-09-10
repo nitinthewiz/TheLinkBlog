@@ -6,7 +6,11 @@ hash: 821ac7a2c2ad41dc43aa18bea3be67ef
 annum:
     year: 2012
     month: 06
-hostname: mattgemmell.com
+url-parts:
+    scheme: http
+    host: mattgemmell.com
+    path: /api-design/
+
 ---
 
 APIs are UX for developers. Ive always been surprised that there isnt more material written about this aspect of our work, in a way thats specific to the popular platforms.

@@ -6,7 +6,11 @@ hash: 0d2c89a6095bd156ab3c4ff6105154c0
 annum:
     year: 2010
     month: 12
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2009/05/18/100-amazing-free-wordpress-themes-for-2009/
+
 ---
 
 

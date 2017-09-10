@@ -6,7 +6,11 @@ hash: 7163f7ab13da0d952f3373d8db75ecae
 annum:
     year: 2008
     month: 12
-hostname: brandautopsy.typepad.com
+url-parts:
+    scheme: http
+    host: brandautopsy.typepad.com
+    path: /brandautopsy/2008/12/beyond-thinking.html
+
 ---
 
 Electronically reprinting Bruce Mau's Incomplete Manifesto for Change has become a New Year's tradition on Brand Autopsy.  Enjoy all over again ...

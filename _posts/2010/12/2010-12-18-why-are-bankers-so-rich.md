@@ -6,7 +6,11 @@ hash: 01e2ace0d66619274d57816131163ba8
 annum:
     year: 2010
     month: 12
-hostname: www.motherjones.com
+url-parts:
+    scheme: http
+    host: www.motherjones.com
+    path: /kevin-drum/2010/12/why-are-bankers-so-rich
+
 ---
 
 Tyler Cowen has a big piece about income inequality in The American Interest that's well worth reading. However, it's not really about the growth of inequality. It's about Wall Street. In particular, it's about this question: why do financial professionals make so damn much money?

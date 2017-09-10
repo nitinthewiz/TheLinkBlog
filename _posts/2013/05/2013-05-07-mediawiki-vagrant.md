@@ -6,7 +6,11 @@ hash: 3f3e3cc6ca9dff280e538c66cf431b17
 annum:
     year: 2013
     month: 05
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/MediaWiki-Vagrant
+
 ---
 
 Directions on loading a vagrant instance with MediaWiki.

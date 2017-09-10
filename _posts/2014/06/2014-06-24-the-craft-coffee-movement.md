@@ -6,7 +6,11 @@ hash: b40753e2fd0e35fe551c5ed8341ae25b
 annum:
     year: 2014
     month: 06
-hostname: www.startribune.com
+url-parts:
+    scheme: http
+    host: www.startribune.com
+    path: /lifestyle/264046051.html
+
 ---
 
 Local craft coffee makers are moving away from the typical cup of joe.

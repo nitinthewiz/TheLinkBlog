@@ -6,7 +6,11 @@ hash: 2ba4be1c90eebac1dd502fd06c81844a
 annum:
     year: 2010
     month: 09
-hostname: developers.facebook.com
+url-parts:
+    scheme: http
+    host: developers.facebook.com
+    path: /blog/post/410
+
 ---
 
 First, hello from the new Games team!  Over the last few months, we’ve assembled a team of dedicated engineers and product managers who are focused exclusively on designing the platform you need to maximize the potential of your games. And we are game lovers, every last one of us. We’re looking forward to working with you to build even better games experiences on Facebook.

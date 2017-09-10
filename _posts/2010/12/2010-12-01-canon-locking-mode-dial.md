@@ -6,7 +6,11 @@ hash: ca93ffc9a25d0b06ff0c9b5e5d19d401
 annum:
     year: 2010
     month: 12
-hostname: www.usa.canon.com
+url-parts:
+    scheme: http
+    host: www.usa.canon.com
+    path: /cusa/consumer/products/cameras/slr_cameras/eos_7d
+
 ---
 
 

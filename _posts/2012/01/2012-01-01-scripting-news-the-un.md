@@ -6,7 +6,11 @@ hash: cc84e4b520f165c3f54ef66056508516
 annum:
     year: 2012
     month: 01
-hostname: scripting.com
+url-parts:
+    scheme: http
+    host: scripting.com
+    path: /stories/2011/12/31/theUninternet.html
+
 ---
 
 

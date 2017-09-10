@@ -6,7 +6,11 @@ hash: 40a8d36b0a884b19d64c2e731508d23f
 annum:
     year: 2014
     month: 12
-hostname: devjam.com
+url-parts:
+    scheme: http
+    host: devjam.com
+    path: /category/cutting-an-agile-groove/
+
 ---
 
 

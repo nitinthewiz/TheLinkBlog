@@ -6,7 +6,12 @@ hash: 777cd8d90ef0a9fc0a836bcca153d296
 annum:
     year: 2012
     month: 02
-hostname: itunes.apple.com
+url-parts:
+    scheme: http
+    host: itunes.apple.com
+    path: /us/app/kubb/id313552852
+    query:
+        mt: "8"
 ---
 
 Pretty horrible game.

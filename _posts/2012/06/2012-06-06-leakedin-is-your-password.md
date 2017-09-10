@@ -6,7 +6,11 @@ hash: 99fdfaa56b93ac2f69996f757ee0d9be
 annum:
     year: 2012
     month: 06
-hostname: leakedin.org
+url-parts:
+    scheme: http
+    host: leakedin.org
+    path: //
+
 ---
 
 Very fast to have a site up and running to see if your password was in the group lost. Checked, mine was lost. Changed password.

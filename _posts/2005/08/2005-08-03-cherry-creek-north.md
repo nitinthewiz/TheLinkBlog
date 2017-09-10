@@ -6,7 +6,11 @@ hash: 15bebbdf5dc887a876f1a9b8e1316527
 annum:
     year: 2005
     month: 08
-hostname: cherrycreeknorth.com
+url-parts:
+    scheme: http
+    host: cherrycreeknorth.com
+    path: 
+
 ---
 
 

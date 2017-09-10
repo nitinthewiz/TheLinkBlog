@@ -6,7 +6,11 @@ hash: 48f2e581f7ffe5ac7d5de932a073db84
 annum:
     year: 2016
     month: 01
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@tomwhitwell/52-things-i-learned-in-2015-c5c74eed24e0
+
 ---
 
 number of things still to be learned in the world

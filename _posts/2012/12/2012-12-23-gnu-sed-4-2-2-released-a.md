@@ -6,7 +6,11 @@ hash: 06c8156b9ed514ecfdfde7ec8a26cc14
 annum:
     year: 2012
     month: 12
-hostname: article.gmane.org
+url-parts:
+    scheme: http
+    host: article.gmane.org
+    path: /gmane.comp.lang.smalltalk.gnu.general/7873
+
 ---
 
 

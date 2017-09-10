@@ -6,7 +6,11 @@ hash: 92d96fa8712c08b13fa7bccaeaeaa7ba
 annum:
     year: 2010
     month: 08
-hostname: www.eff.org
+url-parts:
+    scheme: http
+    host: www.eff.org
+    path: /deeplinks/2010/08/what-they-know
+
 ---
 
 In a groundbreaking new series titled "What They Know," the Wall Street Journal is taking a close look at the information that online advertisers collect about you as you browse the Web:

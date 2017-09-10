@@ -6,7 +6,11 @@ hash: 1944e07ee238a2377d78afbcc698c545
 annum:
     year: 2015
     month: 10
-hostname: www.documntary.com
+url-parts:
+    scheme: http
+    host: www.documntary.com
+    path: /
+
 ---
 
 

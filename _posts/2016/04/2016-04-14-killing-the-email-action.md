@@ -6,7 +6,11 @@ hash: 2c357162be4fb7c9165801f383c087bf
 annum:
     year: 2016
     month: 04
-hostname: macsparky.com
+url-parts:
+    scheme: http
+    host: macsparky.com
+    path: /blog/2016/4/killing-the-email-action-folder
+
 ---
 
 Anyway, as of a few weeks ago I removed all of the action folders from all of my email accounts. For the MacSparky email account, I’ve now got the following.

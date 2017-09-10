@@ -6,7 +6,11 @@ hash: 66e9d64ef206f742af29390d473f5933
 annum:
     year: 2012
     month: 07
-hostname: mspmag.com
+url-parts:
+    scheme: http
+    host: mspmag.com
+    path: /Blogs/Dara/December-2013/sneak-peek-all-the-dirt-on-new-s-mpls-resto-the-ly/
+
 ---
 
 This sounds like a really exciting restaurant opening up in our part of town. Plus sure to have an exceptional coffee program. Looking forward to trying this.

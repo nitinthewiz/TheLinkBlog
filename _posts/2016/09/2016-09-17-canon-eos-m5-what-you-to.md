@@ -6,7 +6,11 @@ hash: 6fcaa13712c514ebf8dcbceb33c2c756
 annum:
     year: 2016
     month: 09
-hostname: www.dpreview.com
+url-parts:
+    scheme: http
+    host: www.dpreview.com
+    path: /news/2458224796/hands-on-with-canon-s-eos-m5
+
 ---
 
 With a 24MP sensor and Dual Pixel autofocus,

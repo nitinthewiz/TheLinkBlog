@@ -6,7 +6,11 @@ hash: 48fb8451d0ebe271b0aef337f821d552
 annum:
     year: 2011
     month: 05
-hostname: www.opticality.com
+url-parts:
+    scheme: http
+    host: www.opticality.com
+    path: /blog/2011/05/20/to-blog-or-not-to-blog/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 3528766978244b9c3ba32690f7eaca07
 annum:
     year: 2017
     month: 03
-hostname: www.recursion.org
+url-parts:
+    scheme: http
+    host: www.recursion.org
+    path: /2017/3/9/2016-books
+
 ---
 
 

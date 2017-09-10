@@ -6,7 +6,11 @@ hash: 5d291ecbac0b7ca2360703d09540dc63
 annum:
     year: 2015
     month: 04
-hostname: arstechnica.com
+url-parts:
+    scheme: http
+    host: arstechnica.com
+    path: /science/2015/04/inside-apples-researchkit/
+
 ---
 
 

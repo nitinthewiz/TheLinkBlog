@@ -6,7 +6,11 @@ hash: 6ca2566d6cac98d2298b47dc19d34981
 annum:
     year: 2008
     month: 06
-hostname: www.oregon.com
+url-parts:
+    scheme: http
+    host: www.oregon.com
+    path: /attractions/multnomah_falls
+
 ---
 
 

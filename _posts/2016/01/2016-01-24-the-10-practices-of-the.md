@@ -6,7 +6,11 @@ hash: 06eb504b971f7fd260654363f9c72388
 annum:
     year: 2016
     month: 01
-hostname: leadershipfreak.wordpress.com
+url-parts:
+    scheme: https
+    host: leadershipfreak.wordpress.com
+    path: /2016/01/21/the-10-practices-of-the-coaching-leader/
+
 ---
 
 The practices of coaching maximize talent and enable fulfillment.

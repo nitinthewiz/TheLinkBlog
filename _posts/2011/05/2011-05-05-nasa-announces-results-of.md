@@ -6,7 +6,11 @@ hash: dd652c3c75ebcacd73acf8441ef3db13
 annum:
     year: 2011
     month: 05
-hostname: science.nasa.gov
+url-parts:
+    scheme: http
+    host: science.nasa.gov
+    path: /science-news/science-at-nasa/2011/04may_epic/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 4622f64254d33f6b3176b7be680deb2c
 annum:
     year: 2011
     month: 02
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/nova/tech/smartest-machine-on-earth.html
+
 ---
 
 Jeopardy! challenges even the best human minds. Can a computer win the game?

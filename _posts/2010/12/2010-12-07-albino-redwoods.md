@@ -6,7 +6,11 @@ hash: 49512af1a3b6fbdc526f3ad7de587f41
 annum:
     year: 2010
     month: 12
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/12/albino-redwoods
+
 ---
 
 Albino tree?

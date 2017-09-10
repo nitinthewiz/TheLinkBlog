@@ -6,7 +6,11 @@ hash: 58734e64957c1adf9c3501baf9a06b88
 annum:
     year: 2009
     month: 05
-hostname: www.friday.com
+url-parts:
+    scheme: http
+    host: www.friday.com
+    path: /bbum/2009/05/16/black-widow-saturday-afternoon-freakout/
+
 ---
 
 

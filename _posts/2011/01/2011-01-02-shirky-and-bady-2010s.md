@@ -6,7 +6,11 @@ hash: 8e4e300738e385d82ae5688c41244cba
 annum:
     year: 2011
     month: 01
-hostname: bracken.wordpress.com
+url-parts:
+    scheme: http
+    host: bracken.wordpress.com
+    path: /2011/01/01/shirky-and-bady-2010s-best-wikileaks-coverage/
+
 ---
 
 John Bracken (@jsb) asked his network for the best Wikileaks posts in 2010 and this is what came back. 

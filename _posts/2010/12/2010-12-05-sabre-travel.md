@@ -6,7 +6,11 @@ hash: 37681cbb49e878d120a77b771254a3b2
 annum:
     year: 2010
     month: 12
-hostname: www.sabretravelnetwork.com
+url-parts:
+    scheme: http
+    host: www.sabretravelnetwork.com
+    path: /home/
+
 ---
 
 

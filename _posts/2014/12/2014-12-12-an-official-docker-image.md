@@ -6,7 +6,11 @@ hash: 25d2cb133e85c6a6006e4d19306b44fe
 annum:
     year: 2014
     month: 12
-hostname: www.sumologic.com
+url-parts:
+    scheme: http
+    host: www.sumologic.com
+    path: /blog/company/an-official-docker-image-for-the-sumo-logic-collector
+
 ---
 
 

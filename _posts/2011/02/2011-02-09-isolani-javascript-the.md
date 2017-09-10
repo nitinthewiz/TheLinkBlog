@@ -6,7 +6,11 @@ hash: a5f057ccdc285fcef0900b4e65ed5a75
 annum:
     year: 2011
     month: 02
-hostname: isolani.co.uk
+url-parts:
+    scheme: http
+    host: isolani.co.uk
+    path: /blog/javascript/BreakingTheWebWithHashBangs
+
 ---
 
 

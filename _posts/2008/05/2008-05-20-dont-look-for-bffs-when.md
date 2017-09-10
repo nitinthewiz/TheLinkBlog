@@ -6,7 +6,11 @@ hash: d40386933e56a6e50af368c96d1dd823
 annum:
     year: 2008
     month: 05
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2008/05/19/dont-look-for-bffs-when-pitching-for-vc-dollars/
+
 ---
 
 TheFunded started publishing a list of top rated venture capitalists today. The ratings are based on reviews (either anonymous or not) written by entrepreneurs whove pitched those VCs. 

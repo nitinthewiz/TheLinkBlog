@@ -6,7 +6,14 @@ hash: e6946587c2628c4354c16d4859ed007d
 annum:
     year: 2012
     month: 04
-hostname: www.legacy.com
+url-parts:
+    scheme: http
+    host: www.legacy.com
+    path: /obituaries/twincities/obituary.aspx
+    query:
+        n: "david-paul-potosky"
+        pid: "156201705"
+        fhid: "11644"
 ---
 
 I met David a couple of times. He worked at MarketWatch but we didn't overlap. I found out he had cancer from a tweet of his and read a blog he kept on it (but cannot find now). I looked up his name to see how he was doing and found he had died.

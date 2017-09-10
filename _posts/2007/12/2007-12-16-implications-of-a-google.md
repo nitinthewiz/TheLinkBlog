@@ -6,7 +6,11 @@ hash: 48370d9cf04f3fc45e728aa3ec18dc80
 annum:
     year: 2007
     month: 12
-hostname: chrisbrogan.com
+url-parts:
+    scheme: http
+    host: chrisbrogan.com
+    path: /implications-of-a-google-social-network/
+
 ---
 
 Uploaded with Skitch!

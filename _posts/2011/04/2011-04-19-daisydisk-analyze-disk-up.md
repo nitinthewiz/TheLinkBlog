@@ -6,7 +6,11 @@ hash: 8324ef1c23df992948f64d83e0474c2e
 annum:
     year: 2011
     month: 04
-hostname: www.daisydiskapp.com
+url-parts:
+    scheme: http
+    host: www.daisydiskapp.com
+    path: /
+
 ---
 
 DaisyDisk scans your disks and presents their content as interactive maps where you can easily spot unusually large files and remove them to get more free space. The map gives you an overview of your data, so you always know what your hard disks are filled with.

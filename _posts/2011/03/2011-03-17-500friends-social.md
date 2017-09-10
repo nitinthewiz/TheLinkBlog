@@ -6,7 +6,11 @@ hash: d07e84fe1206c0e8d5263d9f98bf7ac9
 annum:
     year: 2011
     month: 03
-hostname: www.500friends.com
+url-parts:
+    scheme: http
+    host: www.500friends.com
+    path: /
+
 ---
 
 

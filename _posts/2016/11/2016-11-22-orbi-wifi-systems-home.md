@@ -6,7 +6,11 @@ hash: 628276076108d1806fd4630337de7640
 annum:
     year: 2016
     month: 11
-hostname: www.netgear.com
+url-parts:
+    scheme: https
+    host: www.netgear.com
+    path: /home/products/networking/orbi/
+
 ---
 
 

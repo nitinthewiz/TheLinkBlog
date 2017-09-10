@@ -6,7 +6,11 @@ hash: 9943aeae49be08825e432d2ba7b8a32c
 annum:
     year: 2009
     month: 10
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /ZFS-apple-sun-oracle
+
 ---
 
 Today, the ZFS repository on MacOSforge was closed, likely meaning the end of Apple's pursuit of Sun's next generation file storage system for use in Mac and Macintosh OSX Server.  They also mention that the mailing list and repository are also being removed.

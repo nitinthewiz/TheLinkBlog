@@ -6,7 +6,11 @@ hash: 87f41c9daf624b286fb0c48df73a4d37
 annum:
     year: 2008
     month: 07
-hostname: twitpic.com
+url-parts:
+    scheme: http
+    host: twitpic.com
+    path: /48aw
+
 ---
 
 Having dinner with @hectorguatemala. 

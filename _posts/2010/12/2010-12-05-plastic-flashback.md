@@ -6,7 +6,11 @@ hash: 9a9522114a6b87668c715295e66c9792
 annum:
     year: 2010
     month: 12
-hostname: www.thebigmoney.com
+url-parts:
+    scheme: http
+    host: www.thebigmoney.com
+    path: /slideshow/plastic-flashback
+
 ---
 
 Visual history of the credit card.

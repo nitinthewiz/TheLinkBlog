@@ -6,7 +6,11 @@ hash: ce332cb3445a5a5a5b3208db6942f1a7
 annum:
     year: 2015
     month: 05
-hostname: stratechery.com
+url-parts:
+    scheme: https
+    host: stratechery.com
+    path: /2015/the-aws-ipo/
+
 ---
 
 

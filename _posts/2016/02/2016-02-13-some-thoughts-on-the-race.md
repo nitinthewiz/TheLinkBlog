@@ -6,7 +6,11 @@ hash: 9a00686f43a67ffa442adc0cea451323
 annum:
     year: 2016
     month: 02
-hostname: blogmaverick.com
+url-parts:
+    scheme: http
+    host: blogmaverick.com
+    path: /2016/02/08/some-thoughts-on-the-presidential-race-and-sociocapitalism/
+
 ---
 
 

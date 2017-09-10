@@ -6,7 +6,11 @@ hash: 3cb274baf1bb5e0f5c380ff4feb79626
 annum:
     year: 2010
     month: 01
-hostname: www.poynter.org
+url-parts:
+    scheme: http
+    host: www.poynter.org
+    path: /latest-news/mediawire/100343/conde-nast-has-made-39000-on-its-gq-iphone-app/
+
 ---
 
 All Things DThe publisher says it sold 6,614 copies of the December GQ via iTunes, and some 12,000 copies of the January issue. That's a "success out of the gate," it says.

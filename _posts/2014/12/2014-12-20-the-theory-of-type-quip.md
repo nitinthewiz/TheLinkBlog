@@ -6,7 +6,11 @@ hash: e8f9efa7412c3ea29b354764dc5c5cc1
 annum:
     year: 2014
     month: 12
-hostname: quip.com
+url-parts:
+    scheme: https
+    host: quip.com
+    path: /r69HA9GhGa7J
+
 ---
 
 

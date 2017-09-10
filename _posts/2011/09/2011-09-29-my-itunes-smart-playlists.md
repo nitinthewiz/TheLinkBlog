@@ -6,7 +6,11 @@ hash: b5566d976f809ded99b057168b3f0cbf
 annum:
     year: 2011
     month: 09
-hostname: gfmorris.com
+url-parts:
+    scheme: http
+    host: gfmorris.com
+    path: /2011/01/06/my-itunes-smart-playlists-c-2011/
+
 ---
 
 

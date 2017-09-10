@@ -6,7 +6,11 @@ hash: 35f63fdf17e4ac13b1d969a3aabed5dc
 annum:
     year: 2012
     month: 01
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /12/01/shit-new-yorkers-say
+
 ---
 
 A collection of things that New Yorkers say. Like "where's the train?", "you have to go to Brooklyn, it's the law", and "tourists!"

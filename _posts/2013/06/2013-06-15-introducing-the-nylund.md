@@ -6,7 +6,11 @@ hash: 281e119b034ff2c2071ac5f774b8d688
 annum:
     year: 2013
     month: 06
-hostname: planetkubb.com
+url-parts:
+    scheme: http
+    host: planetkubb.com
+    path: /post/introducing-the-nylnd-sack-trophy/
+
 ---
 
 Planet Kubb: Introducing the Nyland Sack Trophy  #kubb

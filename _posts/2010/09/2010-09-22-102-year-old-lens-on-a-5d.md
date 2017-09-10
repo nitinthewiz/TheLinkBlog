@@ -6,7 +6,12 @@ hash: f71aaad4deb17da37acc36ccd39d2f77
 annum:
     year: 2010
     month: 09
-hostname: www.cinema5d.com
+url-parts:
+    scheme: http
+    host: www.cinema5d.com
+    path: /viewtopic.php
+    query:
+        p: "133996"
 ---
 
 Dreamlike results.

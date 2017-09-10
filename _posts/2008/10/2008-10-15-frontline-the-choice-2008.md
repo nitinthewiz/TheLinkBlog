@@ -6,7 +6,11 @@ hash: 17f625e4e22726e96b3cd6aea8b3e11c
 annum:
     year: 2008
     month: 10
-hostname: www.pbs.org
+url-parts:
+    scheme: http
+    host: www.pbs.org
+    path: /wgbh/pages/frontline/choice2008/
+
 ---
 
 Watching Frontline: The Choice. Good show. 

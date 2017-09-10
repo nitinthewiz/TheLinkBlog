@@ -6,7 +6,11 @@ hash: 65149aa1cef22b9c9bbbc8adb4bbf459
 annum:
     year: 2015
     month: 07
-hostname: www.smashingmagazine.com
+url-parts:
+    scheme: http
+    host: www.smashingmagazine.com
+    path: /2015/07/11/become-command-line-power-user-oh-my-zsh-z/
+
 ---
 
 Wes Bos provides insight into how to use a robust command line workflow in your day-to-day, and how to get you started with a very customized setup.

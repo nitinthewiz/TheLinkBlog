@@ -6,7 +6,11 @@ hash: 2b6df8f7136ee39abdccbf100afe610d
 annum:
     year: 2011
     month: 01
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /11/01/short-documentary-on-the-sartorialist
+
 ---
 
 A really lovely seven-minute documentary about Scott Schuman, aka The Sartorialist.

@@ -6,7 +6,11 @@ hash: f99f0603a24d090a8965f5feebe2ccef
 annum:
     year: 2010
     month: 12
-hostname: www.bothsidesofthetable.com
+url-parts:
+    scheme: http
+    host: www.bothsidesofthetable.com
+    path: /2010/12/05/what-the-past-can-tell-us-about-the-future-of-social-networking/
+
 ---
 
 Excellent post from @msuster goes to my point on the need for us to route around certain companies  /cc @jsayre

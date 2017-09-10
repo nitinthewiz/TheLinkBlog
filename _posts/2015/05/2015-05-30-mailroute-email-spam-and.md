@@ -6,7 +6,11 @@ hash: 33a2d41416b8bd3d42e8f578f60d8cde
 annum:
     year: 2015
     month: 05
-hostname: mailroute.net
+url-parts:
+    scheme: http
+    host: mailroute.net
+    path: /
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 0240d45a129690b93f4d39a221672153
 annum:
     year: 2011
     month: 10
-hostname: www.xys.org
+url-parts:
+    scheme: http
+    host: www.xys.org
+    path: /forum/db/226/7.html
+
 ---
 
 

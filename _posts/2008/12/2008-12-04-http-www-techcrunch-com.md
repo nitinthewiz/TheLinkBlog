@@ -6,7 +6,11 @@ hash: 8bdf962cfd52565572c2c78285346ed6
 annum:
     year: 2008
     month: 12
-hostname: www.downforeveryoneorjustme.com
+url-parts:
+    scheme: http
+    host: www.downforeveryoneorjustme.com
+    path: /www.techcrunch.com
+
 ---
 
 TechCrunch is down? 

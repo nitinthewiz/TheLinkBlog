@@ -6,7 +6,11 @@ hash: 9cb7122dd8ce08ad8c03a58af3924dbe
 annum:
     year: 2011
     month: 01
-hostname: toddalcott.livejournal.com
+url-parts:
+    scheme: http
+    host: toddalcott.livejournal.com
+    path: /tag/kubrick
+
 ---
 
 

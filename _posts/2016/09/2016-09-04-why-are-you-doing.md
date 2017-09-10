@@ -6,7 +6,11 @@ hash: 635281180f46266a20e876745311e394
 annum:
     year: 2016
     month: 09
-hostname: sivers.org
+url-parts:
+    scheme: https
+    host: sivers.org
+    path: /why
+
 ---
 
 2016-09-05 The most important thing in life is to know why you are doing what you

@@ -6,7 +6,11 @@ hash: c39f95a01bde70879c416e85ab63d1a2
 annum:
     year: 2010
     month: 12
-hostname: safariextensions.tumblr.com
+url-parts:
+    scheme: http
+    host: safariextensions.tumblr.com
+    path: /
+
 ---
 
 

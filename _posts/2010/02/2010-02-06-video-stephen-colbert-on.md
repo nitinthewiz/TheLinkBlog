@@ -6,7 +6,11 @@ hash: 69600be88365caf5bca688546da3e25c
 annum:
     year: 2010
     month: 02
-hostname: 37signals.com
+url-parts:
+    scheme: http
+    host: 37signals.com
+    path: /svn/posts/2138-stephen-colbert-on-blippy-this-is-more
+
 ---
 
 

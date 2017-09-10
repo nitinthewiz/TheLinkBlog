@@ -6,7 +6,11 @@ hash: e62f2c1d62a762732f54f837e9fe2386
 annum:
     year: 2011
     month: 07
-hostname: m.cacm.acm.org
+url-parts:
+    scheme: http
+    host: m.cacm.acm.org
+    path: /magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext
+
 ---
 
 

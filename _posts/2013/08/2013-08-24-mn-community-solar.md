@@ -6,7 +6,11 @@ hash: adba14a259ea4b633ff97e235259d60b
 annum:
     year: 2013
     month: 08
-hostname: mncommunitysolar.com
+url-parts:
+    scheme: http
+    host: mncommunitysolar.com
+    path: /
+
 ---
 
 MN Community Solar is a totally new way to do solar. We build large arrays in perfect locations for solar power. We offer subscriptions to that power. Credit for that power shows up on your electricity bill every month.

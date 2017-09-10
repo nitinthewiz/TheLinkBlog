@@ -6,7 +6,11 @@ hash: 3d82ed8bdce1336eb27e12cf219502bf
 annum:
     year: 2012
     month: 12
-hostname: soundcloud.com
+url-parts:
+    scheme: http
+    host: soundcloud.com
+    path: /motin/dbstep-nasdaq-dubstep
+
 ---
 
 Interesting idea. The goal here was to create something musical. I wonder if much work has done on making "audible graphs". Would strike me that your ear may be able to discern more data points in parallel than your eyes?

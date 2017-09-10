@@ -6,7 +6,11 @@ hash: acf4ca79696a1dd4a89917dbe49d3c6e
 annum:
     year: 2011
     month: 07
-hostname: www.theatlantic.com
+url-parts:
+    scheme: http
+    host: www.theatlantic.com
+    path: /national/archive/2011/07/the-most-incredible-thing-fox-news-has-ever-done/242037/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: c453ab7e1316762d966a802d5e5a6ab5
 annum:
     year: 2012
     month: 04
-hostname: fa.bianp.net
+url-parts:
+    scheme: http
+    host: fa.bianp.net
+    path: /blog/2012/line-by-line-report-of-memory-usage/
+
 ---
 
 

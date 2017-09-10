@@ -6,7 +6,11 @@ hash: 593f8f263870de64fd7745d651c79fe6
 annum:
     year: 2010
     month: 12
-hostname: blog.codinghorror.com
+url-parts:
+    scheme: http
+    host: blog.codinghorror.com
+    path: /the-dirty-truth-about-web-passwords
+
 ---
 
 

@@ -6,7 +6,13 @@ hash: 6e14ebc4ad2d0b2b3823be69bc9ba2e7
 annum:
     year: 2008
     month: 07
-hostname: www.mcmenamins.com
+url-parts:
+    scheme: http
+    host: www.mcmenamins.com
+    path: /
+    query:
+        loc: "75"
+        id: "415"
 ---
 
 Enjoying some McMenamins Terminator Stout. 

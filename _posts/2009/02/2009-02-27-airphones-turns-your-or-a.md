@@ -6,7 +6,11 @@ hash: a57947d1d2b46f1cfb803cfcc06f8733
 annum:
     year: 2009
     month: 02
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /2009/02/26/airphones-turns-your-iphone-or-ipod-touch-into-a-wireless-headset/
+
 ---
 
 A new app just hit the App Store that brings some pretty interesting funtionality to Apple's iPhone and iPod Touch. Airphones (iTunes link) takes any sound that would be coming out of your computer and streams it to your iPhone or iPod touch and let's you hear the sound through the built in speakers or headset. That is as long as you are on the same wifi network.

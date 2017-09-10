@@ -6,7 +6,11 @@ hash: 315214916e96eea75ef5b2c2a5f63a18
 annum:
     year: 2014
     month: 12
-hostname: www.salesforcefoundation.org
+url-parts:
+    scheme: http
+    host: www.salesforcefoundation.org
+    path: /about-us/sharethemodel/
+
 ---
 
 <blockquote>

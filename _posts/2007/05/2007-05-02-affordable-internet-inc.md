@@ -6,7 +6,11 @@ hash: 650c063ee9e412aac237b0aadc7d80be
 annum:
     year: 2007
     month: 05
-hostname: www.aiso.net
+url-parts:
+    scheme: http
+    host: www.aiso.net
+    path: /
+
 ---
 
 

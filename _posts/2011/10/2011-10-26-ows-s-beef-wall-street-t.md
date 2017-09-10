@@ -6,7 +6,11 @@ hash: 4bb16399aca75d7cc1fbab19976a19f4
 annum:
     year: 2011
     month: 10
-hostname: www.rollingstone.com
+url-parts:
+    scheme: http
+    host: www.rollingstone.com
+    path: /politics/blogs/taibblog/owss-beef-wall-street-isnt-winning-its-cheating-20111025
+
 ---
 
 

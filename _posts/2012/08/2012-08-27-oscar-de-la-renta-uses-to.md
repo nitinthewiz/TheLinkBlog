@@ -6,7 +6,11 @@ hash: 1c56d02ba4359ea144790ec20f437ac8
 annum:
     year: 2012
     month: 08
-hostname: www.luxurydaily.com
+url-parts:
+    scheme: http
+    host: www.luxurydaily.com
+    path: /oscar-de-la-renta-uses-site-relaunch-to-fine-tune-f-commerce/
+
 ---
 
 In addition to putting a product in a shopping bag, liking on Facebook, pinning on Pinterest or Tweeting about it, consumers can select need, obsessed or own.

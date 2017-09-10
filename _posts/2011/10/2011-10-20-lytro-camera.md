@@ -6,7 +6,11 @@ hash: 1e10a49c6a55589b1abcae3f3ac768e3
 annum:
     year: 2011
     month: 10
-hostname: www.lytro.com
+url-parts:
+    scheme: https
+    host: www.lytro.com
+    path: /camera/
+
 ---
 
 

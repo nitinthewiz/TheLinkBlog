@@ -6,7 +6,11 @@ hash: 94d0df810fae1aae812df7a839ee7e33
 annum:
     year: 2010
     month: 12
-hostname: changethis.com
+url-parts:
+    scheme: http
+    host: changethis.com
+    path: /manifesto/show/66.01.Brainwashed
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: ed07a93a6768a45a3debb44eed19b9d7
 annum:
     year: 2010
     month: 04
-hostname: kottke.org
+url-parts:
+    scheme: http
+    host: kottke.org
+    path: /10/04/stages-of-a-photographer
+
 ---
 
 

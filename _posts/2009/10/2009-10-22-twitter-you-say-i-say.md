@@ -6,7 +6,11 @@ hash: 6ef9749925438ecdce25900509b90b87
 annum:
     year: 2009
     month: 10
-hostname: techcrunch.com
+url-parts:
+    scheme: http
+    host: techcrunch.com
+    path: /2009/10/21/twitter-you-say-transperancy-i-say-vulnerability/
+
 ---
 
 

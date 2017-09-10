@@ -6,7 +6,12 @@ hash: 074e8c4d0ef10949f192d8df90d43db6
 annum:
     year: 2007
     month: 01
-hostname: photo.net
+url-parts:
+    scheme: http
+    host: photo.net
+    path: /bboard/q-and-a-fetch-msg
+    query:
+        msg_id: "00F5l7"
 ---
 
 

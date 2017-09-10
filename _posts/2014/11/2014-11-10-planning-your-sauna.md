@@ -6,7 +6,11 @@ hash: 52cc7b7587143c75301b7a30a5ecf563
 annum:
     year: 2014
     month: 11
-hostname: www.saunas.org
+url-parts:
+    scheme: http
+    host: www.saunas.org
+    path: /sauna_planning.html
+
 ---
 
 Good overview of building a sauna. 

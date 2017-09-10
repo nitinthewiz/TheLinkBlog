@@ -6,7 +6,11 @@ hash: 9140ed66ad5031e52f22feb36c8eb655
 annum:
     year: 2015
     month: 06
-hostname: www.lifehack.org
+url-parts:
+    scheme: http
+    host: www.lifehack.org
+    path: /articles/lifestyle/60-small-ways-to-improve-your-life-in-the-next-100-days.html
+
 ---
 
 

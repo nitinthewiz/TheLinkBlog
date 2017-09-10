@@ -6,7 +6,11 @@ hash: 555a6afb42daad2d7e2ee1ba8da7eb7a
 annum:
     year: 2011
     month: 10
-hostname: www.thelinemedia.com
+url-parts:
+    scheme: http
+    host: www.thelinemedia.com
+    path: /innovationnews/8thbridgecpo101911.aspx
+
 ---
 
 

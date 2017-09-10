@@ -6,7 +6,13 @@ hash: dd568bd1b5ca6d5feb92141be65f0462
 annum:
     year: 2010
     month: 11
-hostname: www.poynter.org
+url-parts:
+    scheme: http
+    host: www.poynter.org
+    path: /column.asp
+    query:
+        id: "45"
+        aid: "195047"
 ---
 
 Interesting: Denton wants his sites (@gawker, @deadspin, @gizmodo, etc.) to work more like TV - for advertisers anyway. 

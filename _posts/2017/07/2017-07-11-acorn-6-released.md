@@ -6,7 +6,11 @@ hash: cd90b039bb6b5251959434aeaf52f4e2
 annum:
     year: 2017
     month: 07
-hostname: shapeof.com
+url-parts:
+    scheme: http
+    host: shapeof.com
+    path: /archives/2017/7/acorn_6.html
+
 ---
 
 I use Acorn and love what Gus Mueller is doing with this. It’s also fun to watch as an indie developer goes right at Adobe Photoshop -- one of the largest, most established pieces of software.

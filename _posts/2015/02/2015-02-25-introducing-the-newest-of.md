@@ -6,7 +6,11 @@ hash: 9a1735d11c48831033cb27db9eb08b99
 annum:
     year: 2015
     month: 02
-hostname: youtube-global.blogspot.com
+url-parts:
+    scheme: http
+    host: youtube-global.blogspot.com
+    path: /2015/02/youtube-kids.html
+
 ---
 
 Smart!

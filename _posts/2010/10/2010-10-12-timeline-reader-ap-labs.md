@@ -6,7 +6,11 @@ hash: 1d05755b659f2657cc29dbcf31ddcc3c
 annum:
     year: 2010
     month: 10
-hostname: html5.labs.ap.org
+url-parts:
+    scheme: http
+    host: html5.labs.ap.org
+    path: /
+
 ---
 
 

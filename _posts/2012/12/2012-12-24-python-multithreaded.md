@@ -6,7 +6,11 @@ hash: 261bfee8bf3d2a62994cc5ed3c6ce5d6
 annum:
     year: 2012
     month: 12
-hostname: www.tutorialspoint.com
+url-parts:
+    scheme: http
+    host: www.tutorialspoint.com
+    path: /python/python_multithreading.htm
+
 ---
 
 Good example of threading in Python.  <blockquote>  </blockquote> 

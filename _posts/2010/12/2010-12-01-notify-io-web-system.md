@@ -6,7 +6,11 @@ hash: 3084cc994c7df20f5c1d7ff093821741
 annum:
     year: 2010
     month: 12
-hostname: code.google.com
+url-parts:
+    scheme: http
+    host: code.google.com
+    path: /p/notify-io/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a4e85c2e34aea44af0faffb108540016
 annum:
     year: 2013
     month: 11
-hostname: www.ianbicking.org
+url-parts:
+    scheme: http
+    host: www.ianbicking.org
+    path: /blog/2013/10/why-isnt-programming-futuristic.html
+
 ---
 
 

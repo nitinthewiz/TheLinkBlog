@@ -6,7 +6,11 @@ hash: b56e665866cf01c3c5d92b8f4d7d9da8
 annum:
     year: 2014
     month: 12
-hostname: blog.logicmonitor.com
+url-parts:
+    scheme: http
+    host: blog.logicmonitor.com
+    path: /2014/09/22/4-massive-mistakes-companies-make-handling-outages/
+
 ---
 
 

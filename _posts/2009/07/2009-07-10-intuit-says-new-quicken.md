@@ -6,7 +6,11 @@ hash: d743c18c5ee8e1af58097f228e50c5bb
 annum:
     year: 2009
     month: 07
-hostname: www.appleinsider.com
+url-parts:
+    scheme: http
+    host: www.appleinsider.com
+    path: /articles/09/07/09/intuit_says_new_quicken_for_mac_delayed_to_2010.html
+
 ---
 
 Looking to quash rumors that it will may never get around to releasing a once publicized overhaul to Quicken for the Mac, Intuit announced Thursday that the latest iteration o...

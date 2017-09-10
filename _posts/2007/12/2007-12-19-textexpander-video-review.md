@@ -6,7 +6,11 @@ hash: f9f3e66458b6d915ebf247603115bdd0
 annum:
     year: 2007
     month: 12
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2007/12/19/textexpander-video-review-and-giveaway/
+
 ---
 
 Every day, I find myself typing commonly used phrases over and over again. Whether it is my address, my name, my email, or even Thank You. While it may not take long to type these things, at the end of the day, I find that a lot of my time goes to these tedious, repetitive phrases. Then I found TextExpander. TextExpander allows you to choose short snippets that you can type, and they will be automatically expanded into longer, more commonly used phrases. Whether you use this for your address, email, name, or HTML tags, is up to you. 

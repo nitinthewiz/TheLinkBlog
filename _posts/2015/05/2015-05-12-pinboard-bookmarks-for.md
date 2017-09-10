@@ -6,7 +6,11 @@ hash: c978f830c2fbafa1ffc69710047fe3d9
 annum:
     year: 2015
     month: 05
-hostname: pinboard.in
+url-parts:
+    scheme: https
+    host: pinboard.in
+    path: /u:thingles
+
 ---
 
 

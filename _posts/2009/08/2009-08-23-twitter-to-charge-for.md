@@ -6,7 +6,11 @@ hash: c4c62c1044edad67997290bf6fbab5ac
 annum:
     year: 2009
     month: 08
-hostname: m.paidcontent.org
+url-parts:
+    scheme: http
+    host: m.paidcontent.org
+    path: /article/419-twitter-to-get-premium-accounts-later-this-year/
+
 ---
 
 About Twitter’s plans to bring in $140 million in revenue next year ... some of it will come from charging users for premium accounts. The accounts will include detailed analytics and ID verification (so that businesses don’t have to worry about having their brands hijacked by impostors); co-founder Biz Stone told VentureBeat that Twitter is in the “first phase” of rolling out these accounts.  

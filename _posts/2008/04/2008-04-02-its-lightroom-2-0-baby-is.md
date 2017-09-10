@@ -6,7 +6,11 @@ hash: ad9fd187a3ff53363e7319e8ace637f6
 annum:
     year: 2008
     month: 04
-hostname: lightroomkillertips.com
+url-parts:
+    scheme: http
+    host: lightroomkillertips.com
+    path: /its-lightroom-20-baby-beta-that-is/
+
 ---
 
 Hey folks! I bet Ive got one heck-of-a surprise for you today. Ready for it? Adobe has released Lightroom 2.0 beta to the public (no, this is not a belated April fools day joke). Today kicks off Photoshop World and not only is Adobe going to demo the 2.0 beta but theyre letting everyone have it and download it for free. The first question everyones going to be asking is whats it all about. Ive included my top 10 favorite features in 2.0 right here. However, NAPP has an entire learning center website all set up with videos (by Scott Kelby and myself) on all the new features. Ill give you the links at the end of the post.

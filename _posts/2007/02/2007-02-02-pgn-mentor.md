@@ -6,7 +6,11 @@ hash: fcd5755eaccb36bd8d7ebf61d1b5a21d
 annum:
     year: 2007
     month: 02
-hostname: www.pgnmentor.com
+url-parts:
+    scheme: http
+    host: www.pgnmentor.com
+    path: /index.html
+
 ---
 
 PGN Mentor is a chess database/study program that brings you everything you could ever need for chess study and research

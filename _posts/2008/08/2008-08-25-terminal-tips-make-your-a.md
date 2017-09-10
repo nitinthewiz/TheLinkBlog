@@ -6,7 +6,11 @@ hash: da4349d6bacfc5100a8a87650cd229af
 annum:
     year: 2008
     month: 08
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/08/25/terminal-tips-make-your-screensaver-a-desktop-background/
+
 ---
 
 Filed under: Terminal Tips

@@ -6,7 +6,11 @@ hash: b64431b0022b0a58fb66e8afa89f4470
 annum:
     year: 2010
     month: 01
-hostname: yfrog.com
+url-parts:
+    scheme: http
+    host: yfrog.com
+    path: /4i2m3jj
+
 ---
 
 Nice digs @surlybrewing!  

@@ -6,7 +6,11 @@ hash: 5e6e5d7c2762ddea2a12be5d07e39877
 annum:
     year: 2017
     month: 04
-hostname: www.wikitribune.com
+url-parts:
+    scheme: https
+    host: www.wikitribune.com
+    path: /
+
 ---
 
 

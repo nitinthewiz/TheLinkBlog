@@ -6,7 +6,11 @@ hash: 110aa0934ae5dd065a9c2fc1556bac7a
 annum:
     year: 2010
     month: 10
-hostname: mashable.com
+url-parts:
+    scheme: http
+    host: mashable.com
+    path: /2010/10/03/news-media-tumblrs/
+
 ---
 
 With Tumblr growing rapidly, its attracted a number of media organizations both local and national that are looking to engage their audience in a new way and perhaps attract new readers. But its not just about promoting their own content.

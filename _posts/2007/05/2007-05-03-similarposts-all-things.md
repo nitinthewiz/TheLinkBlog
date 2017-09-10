@@ -6,7 +6,11 @@ hash: c6be20c7541ba197b5b070200b1c925f
 annum:
     year: 2007
     month: 05
-hostname: rmarsh.com
+url-parts:
+    scheme: http
+    host: rmarsh.com
+    path: /plugins/similar-posts/
+
 ---
 
 This plugin displays a list of posts which are related or similar to the current post.

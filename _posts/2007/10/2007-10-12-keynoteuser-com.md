@@ -6,7 +6,11 @@ hash: 5bea21308658805b2ca591e5880109a2
 annum:
     year: 2007
     month: 10
-hostname: keynoteuser.com
+url-parts:
+    scheme: http
+    host: keynoteuser.com
+    path: /index.php
+
 ---
 
 Keynote Themes | Keynote News | Keynote Resources

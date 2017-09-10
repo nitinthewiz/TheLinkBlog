@@ -6,7 +6,11 @@ hash: 471eb90f7636e208e9866c87f0f50cf0
 annum:
     year: 2011
     month: 08
-hostname: www.guardian.co.uk
+url-parts:
+    scheme: http
+    host: www.guardian.co.uk
+    path: /world/2010/aug/19/bull-jumps-into-stands-spain
+
 ---
 
 Forty people, including a 10-year-old, were injured when a bull leapt over barriers at a Spanish bullring and ran amok among spectators.

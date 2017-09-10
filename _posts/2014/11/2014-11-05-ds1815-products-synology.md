@@ -6,7 +6,11 @@ hash: 3ce09826abf1a6b9644139db99d30a80
 annum:
     year: 2014
     month: 11
-hostname: www.synology.com
+url-parts:
+    scheme: https
+    host: www.synology.com
+    path: /en-us/products/DS1815+
+
 ---
 
 DS1813+ - With superior performance, scalability, and comprehensive features, DS1813+ helps SMBs to simplify data management by providing a centralized destination for storage, backup, and sharing - with minimal setup and the freedom to expand capacity at any time. - Explore Synology NAS servers – DiskStation, RackStation, and accessories. Synology products provide network storage, file sharing, network backup, desktop backup, and DLNA-certified multimedia server. It's the ideal energy-saving server for home and offices.

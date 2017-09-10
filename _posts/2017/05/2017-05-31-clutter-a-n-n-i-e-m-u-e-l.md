@@ -6,7 +6,11 @@ hash: c4a1588779b09ecf1b82b8008275039d
 annum:
     year: 2017
     month: 05
-hostname: anniemueller.com
+url-parts:
+    scheme: http
+    host: anniemueller.com
+    path: /2017/05/31/clutter/
+
 ---
 
 Clutter v. Messes.

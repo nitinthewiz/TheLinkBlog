@@ -6,7 +6,11 @@ hash: 7da007dbb84f7ff415c664553a0e9edb
 annum:
     year: 2009
     month: 09
-hostname: www.scripting.com
+url-parts:
+    scheme: http
+    host: www.scripting.com
+    path: /stories/2009/09/07/teaseTeaseTease.html
+
 ---
 
 This is one of many millions of blogs on wordpress.com.

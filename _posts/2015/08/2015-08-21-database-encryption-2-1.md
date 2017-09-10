@@ -6,7 +6,11 @@ hash: 2fd722c65eb5b57c152f9f59e647c0a2
 annum:
     year: 2015
     month: 08
-hostname: orientdb.com
+url-parts:
+    scheme: http
+    host: orientdb.com
+    path: /docs/last/Database-Encryption.html
+
 ---
 
 (Since 2.2 - Status: Beta, will be final with 2.2 GA) See also: Database security Server security Secure SSL connections Starting from v2.2, OrientDB can encrypt the records on disk. This denies…

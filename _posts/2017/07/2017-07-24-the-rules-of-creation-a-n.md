@@ -6,7 +6,11 @@ hash: ebfbd66f3c35adb781dd90cdb14b84e8
 annum:
     year: 2017
     month: 07
-hostname: anniemueller.com
+url-parts:
+    scheme: http
+    host: anniemueller.com
+    path: /2017/07/22/the-rules-of-creation/
+
 ---
 
 Great thoughts on how to think about the creative process. I think you could apply this to any creative endeavor, but I like to think about how it applies to the creation of software (which is a creative endeavor!).

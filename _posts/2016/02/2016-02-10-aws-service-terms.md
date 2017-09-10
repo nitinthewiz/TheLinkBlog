@@ -6,7 +6,11 @@ hash: d033e8e317f04b49d061e781e15cb332
 annum:
     year: 2016
     month: 02
-hostname: aws.amazon.com
+url-parts:
+    scheme: https
+    host: aws.amazon.com
+    path: /service-terms/
+
 ---
 
 However, this restriction will not apply in the event of the occurrence (certified by the United States Centers for Disease Control or successor body) of a widespread viral infection transmitted via bites or contact with bodily fluids that causes human corpses to reanimate and seek to consume living human flesh, blood, brain or nerve tissue and is likely to result in the fall of organized civilization.

@@ -6,7 +6,11 @@ hash: 078334a7a933362fc9e5bb2cea825e1c
 annum:
     year: 2008
     month: 01
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/01/09/netgator-turns-netnewswire-free-for-everyone/
+
 ---
 
 Filed under: Software, Cool tools, Freeware

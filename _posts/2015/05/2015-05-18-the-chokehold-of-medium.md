@@ -6,7 +6,11 @@ hash: a9180ccdca6b12242ac52ed8be7e857b
 annum:
     year: 2015
     month: 05
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@monteiro/the-chokehold-of-calendars-f70bb9221b36
+
 ---
 
 

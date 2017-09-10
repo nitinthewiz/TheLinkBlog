@@ -6,7 +6,11 @@ hash: f42463e92f827cd1662bf0e84f7c60dd
 annum:
     year: 2014
     month: 04
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2014/03/31/throwing-k-cups-in-glass-houses
+
 ---
 
 

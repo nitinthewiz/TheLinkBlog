@@ -6,7 +6,11 @@ hash: ef860474ff8f0f33c2f522ff125ab7e1
 annum:
     year: 2014
     month: 11
-hostname: blogs.office.com
+url-parts:
+    scheme: http
+    host: blogs.office.com
+    path: /2014/11/06/bringing-office-everyone/
+
 ---
 
 

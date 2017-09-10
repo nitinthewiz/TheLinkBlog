@@ -6,7 +6,11 @@ hash: 4d5b9c5bcf0424844529e51ccd352ba0
 annum:
     year: 2016
     month: 05
-hostname: blog.code42.com
+url-parts:
+    scheme: https
+    host: blog.code42.com
+    path: /employee-information-targeted-in-spear-phishing-scam/
+
 ---
 
 Because we

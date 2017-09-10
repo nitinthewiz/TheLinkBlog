@@ -6,7 +6,11 @@ hash: 252648231de5981281ce581202a13621
 annum:
     year: 2009
     month: 08
-hostname: googlereader.blogspot.com
+url-parts:
+    scheme: http
+    host: googlereader.blogspot.com
+    path: /2009/08/pubsubhubbub-support-for-reader-shared.html
+
 ---
 
 Speed is very important at Google, and the Reader team is no exception. One way in which we take speed into account is to try to make consumption of feeds be as efficient as possible. We also want to make it as fast (and as easy) as possible to interact with your Reader data on the rest of the web.

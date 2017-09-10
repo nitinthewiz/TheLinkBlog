@@ -6,7 +6,11 @@ hash: dfd2adf4ddd700075ba561665591334f
 annum:
     year: 2009
     month: 06
-hostname: 9to5mac.com
+url-parts:
+    scheme: http
+    host: 9to5mac.com
+    path: /canon-5D-lowest-price
+
 ---
 
 From the Toys Section:

@@ -6,7 +6,11 @@ hash: 41cf4ab963c0842eb57b6011a731e1b2
 annum:
     year: 2010
     month: 07
-hostname: readwrite.com
+url-parts:
+    scheme: http
+    host: readwrite.com
+    path: /2010/07/14/how_old_spice_won_the_internet
+
 ---
 
 

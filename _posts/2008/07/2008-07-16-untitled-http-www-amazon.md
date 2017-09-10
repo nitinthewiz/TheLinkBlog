@@ -6,7 +6,12 @@ hash: 2fd2b632eb43d76cde3169185b6cd95c
 annum:
     year: 2008
     month: 07
-hostname: www.amazon.com
+url-parts:
+    scheme: http
+    host: www.amazon.com
+    path: /Kidde-Nighthawk-Monoxide-Explosive-KN-COEG-3/dp/B0002EVNJ6
+    query:
+        tag: "533633855-20"
 ---
 
 Alarms that have false positives are pointless. 

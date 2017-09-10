@@ -6,7 +6,11 @@ hash: abe4ecaaca443a27501772b12333af77
 annum:
     year: 2012
     month: 02
-hostname: blog.superfeedr.com
+url-parts:
+    scheme: http
+    host: blog.superfeedr.com
+    path: /groveio-rss-hook/
+
 ---
 
 

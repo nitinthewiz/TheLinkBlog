@@ -6,7 +6,11 @@ hash: af7de8495bdcfc207b36874c20407bfa
 annum:
     year: 2010
     month: 12
-hostname: en.wikipedia.org
+url-parts:
+    scheme: http
+    host: en.wikipedia.org
+    path: /wiki/Proxy_auto-config
+
 ---
 
 PAC file information

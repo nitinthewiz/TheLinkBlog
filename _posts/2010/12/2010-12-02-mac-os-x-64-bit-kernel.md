@@ -6,7 +6,11 @@ hash: 226c6e68ded2e68c8b93a9b095f74cdc
 annum:
     year: 2010
     month: 12
-hostname: notes.pinboard.in
+url-parts:
+    scheme: http
+    host: notes.pinboard.in
+    path: /u:thingles/5b8dc9154d72f0113e50
+
 ---
 
 sudo systemsetup -setkernelbootarchitecture x86_64

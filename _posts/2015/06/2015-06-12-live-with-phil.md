@@ -6,7 +6,11 @@ hash: 48ce9feaa72505a759ae4fedace04d43
 annum:
     year: 2015
     month: 06
-hostname: www.marco.org
+url-parts:
+    scheme: http
+    host: www.marco.org
+    path: /2015/06/11/live-with-phil
+
 ---
 
 

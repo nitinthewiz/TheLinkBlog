@@ -6,7 +6,12 @@ hash: 765fa6d127823b90a2a40532cc445192
 annum:
     year: 2010
     month: 09
-hostname: c.itunes.apple.com
+url-parts:
+    scheme: http
+    host: c.itunes.apple.com
+    path: /WebObjects/MZConnections.woa/wa/viewProfile
+    query:
+        id: "145637397"
 ---
 
 Into Music? Using iTunes Ping? Let's connect. 

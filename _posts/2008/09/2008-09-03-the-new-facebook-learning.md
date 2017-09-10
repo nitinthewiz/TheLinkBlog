@@ -6,7 +6,11 @@ hash: 94d75556557dec7999afcf9fbac39726
 annum:
     year: 2008
     month: 09
-hostname: blog.compete.com
+url-parts:
+    scheme: https
+    host: blog.compete.com
+    path: /2008/09/03/facebook-new-old-version/
+
 ---
 
 A few weeks ago, I logged on to Facebook to see if any of my friends had dared to challenge me in another game of word twist.  As was expected, due to my unprecedented dominance in the game, no one had.  What was not expected, however, was an inconspicuous link at the top of the page telling me to try the New Facebook. So, I decided to check it out.

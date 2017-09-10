@@ -6,7 +6,11 @@ hash: f0f523635600cf2a4aa87ebc15827a0e
 annum:
     year: 2007
     month: 05
-hostname: www.panic.com
+url-parts:
+    scheme: http
+    host: www.panic.com
+    path: /stattoo/
+
 ---
 
 

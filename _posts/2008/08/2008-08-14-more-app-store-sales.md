@@ -6,7 +6,11 @@ hash: 5a739cacd74cb45d9cbe0d252d05e329
 annum:
     year: 2008
     month: 08
-hostname: www.tuaw.com
+url-parts:
+    scheme: http
+    host: www.tuaw.com
+    path: /2008/08/14/more-app-store-sales-figures/
+
 ---
 
 Filed under: Analysis / Opinion, iPhone, App Store

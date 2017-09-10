@@ -6,7 +6,11 @@ hash: 2cbf0907f562a54de5391bc1b02f148d
 annum:
     year: 2016
     month: 10
-hostname: www.washingtonpost.com
+url-parts:
+    scheme: https
+    host: www.washingtonpost.com
+    path: /graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/
+
 ---
 
 The sun was rising over one of the richest mineral deposits on Earth, in one of the poorest countries, as Sidiki Mayamba got ready for work. Mayamba is a cobalt miner. And the red-dirt savanna

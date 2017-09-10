@@ -6,7 +6,11 @@ hash: b6e15342c030ebadf7b8322b6e46250a
 annum:
     year: 2011
     month: 05
-hostname: www.stevenlevy.com
+url-parts:
+    scheme: http
+    host: www.stevenlevy.com
+    path: /index.php/05/08/the-sophie-choice
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: f45219c12b991c2f04c89523459bdb8e
 annum:
     year: 2012
     month: 11
-hostname: gerrit.wikimedia.org
+url-parts:
+    scheme: https
+    host: gerrit.wikimedia.org
+    path: /r/
+
 ---
 
 With @SemanticMW 1.8 you will be able to query for query meta-data such as size, depth, format and query string!  :)

@@ -6,7 +6,11 @@ hash: de58114e614f47c0077c9f891281e268
 annum:
     year: 2014
     month: 07
-hostname: www.theguardian.com
+url-parts:
+    scheme: http
+    host: www.theguardian.com
+    path: /world/2014/jul/17/malaysia-airlines-plane-crash-east-ukraine
+
 ---
 
 Plane carrying 295 people may have been shot down near Russian border but government and separatists deny involvement

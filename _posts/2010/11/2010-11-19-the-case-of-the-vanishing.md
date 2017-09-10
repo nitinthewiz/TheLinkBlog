@@ -6,7 +6,11 @@ hash: 2c1e24da366ec43519f77dde25a40904
 annum:
     year: 2010
     month: 11
-hostname: www.vanityfair.com
+url-parts:
+    scheme: http
+    host: www.vanityfair.com
+    path: /culture/features/2010/12/vanishing-blonde-201012
+
 ---
 
 

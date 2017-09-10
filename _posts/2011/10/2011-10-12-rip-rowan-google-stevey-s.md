@@ -6,7 +6,11 @@ hash: 47f3d8108c6f7e56dd3c74c779086022
 annum:
     year: 2011
     month: 10
-hostname: plus.google.com
+url-parts:
+    scheme: https
+    host: plus.google.com
+    path: /112678702228711889851/posts/eVeouesvaVX
+
 ---
 
 

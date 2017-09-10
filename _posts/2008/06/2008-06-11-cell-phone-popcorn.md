@@ -6,7 +6,11 @@ hash: b7e3de2d62118591601d0d72ef295eda
 annum:
     year: 2008
     month: 06
-hostname: ma.tt
+url-parts:
+    scheme: http
+    host: ma.tt
+    path: /2008/06/cell-phone-popcorn/
+
 ---
 
 

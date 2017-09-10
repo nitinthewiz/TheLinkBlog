@@ -6,7 +6,11 @@ hash: 63be03f13e7008a129b50b0496cbb65b
 annum:
     year: 2014
     month: 06
-hostname: www.threadless.com
+url-parts:
+    scheme: https
+    host: www.threadless.com
+    path: /product/4912/World_of_Bike
+
 ---
 
 Super cool t-shirt.

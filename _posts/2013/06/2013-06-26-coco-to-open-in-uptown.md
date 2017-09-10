@@ -6,7 +6,11 @@ hash: 85e51504414ab76e0ab6be5079dd6432
 annum:
     year: 2013
     month: 06
-hostname: minnov8.com
+url-parts:
+    scheme: http
+    host: minnov8.com
+    path: /2013/06/25/coco-to-open-in-uptown/
+
 ---
 
 This is awesome news!

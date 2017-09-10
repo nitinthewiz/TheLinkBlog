@@ -6,7 +6,11 @@ hash: c32db515c273d0b1aad5f6a843abebcf
 annum:
     year: 2013
     month: 04
-hostname: donottouch.org
+url-parts:
+    scheme: http
+    host: donottouch.org
+    path: /
+
 ---
 
 Very interesting concept recording mouse movements during a video and then incorporating it into the results. Would be curious if something useful could be done with this.

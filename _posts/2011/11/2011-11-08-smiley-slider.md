@@ -6,7 +6,11 @@ hash: 63c9c7bef3763d37ef03ef6da92b7c02
 annum:
     year: 2011
     month: 11
-hostname: www.glittle.org
+url-parts:
+    scheme: http
+    host: www.glittle.org
+    path: /blog/smiley-slider/
+
 ---
 
 

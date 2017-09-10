@@ -6,7 +6,11 @@ hash: 4f46999418974256fc2062b435808a2a
 annum:
     year: 2017
     month: 01
-hostname: medium.com
+url-parts:
+    scheme: https
+    host: medium.com
+    path: /@danielmall/a-new-calendar-approach-for-2017-dd91a0314c26
+
 ---
 
 After seeing it mentioned on Twitter from a few people, I purchased Jocelyn K. Glei’s Unsubscribe and devoured it on a long flight. Inspired by the ideas from this book and other sources, I started to redo my calendar and rethink my entire approach to working.

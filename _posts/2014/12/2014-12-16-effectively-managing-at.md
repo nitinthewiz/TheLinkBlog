@@ -6,7 +6,11 @@ hash: 2be6414d91a699bb9f5e77c858ffd590
 annum:
     year: 2014
     month: 12
-hostname: www.html5rocks.com
+url-parts:
+    scheme: http
+    host: www.html5rocks.com
+    path: /en/tutorials/memory/effectivemanagement/
+
 ---
 
 

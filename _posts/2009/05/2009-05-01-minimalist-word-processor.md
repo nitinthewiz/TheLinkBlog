@@ -6,7 +6,11 @@ hash: 509e839935a1b3ad407fc9c1474bb59f
 annum:
     year: 2009
     month: 05
-hostname: macapper.com
+url-parts:
+    scheme: http
+    host: macapper.com
+    path: /2009/04/30/minimalist-word-processor-showdown-writeroom-vs-jdarkroom/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: 51136efb49f31ce75ae96f507bd1ad2d
 annum:
     year: 2011
     month: 11
-hostname: github.com
+url-parts:
+    scheme: https
+    host: github.com
+    path: /mdirolf/nginx-gridfs
+
 ---
 
 

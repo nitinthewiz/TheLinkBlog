@@ -6,7 +6,11 @@ hash: 679ceb067fe03685c7eed4c4b436c858
 annum:
     year: 2011
     month: 01
-hostname: www.engadget.com
+url-parts:
+    scheme: http
+    host: www.engadget.com
+    path: /2011/01/21/android-source-code-java-and-copyright-infringement-whats-go/
+
 ---
 
 

@@ -6,7 +6,11 @@ hash: a74837fb189050db54cb16d3da52617d
 annum:
     year: 2011
     month: 09
-hostname: mapnik-utils.googlecode.com
+url-parts:
+    scheme: http
+    host: mapnik-utils.googlecode.com
+    path: /svn/sandbox/tools/irc_tools/
+
 ---
 
 

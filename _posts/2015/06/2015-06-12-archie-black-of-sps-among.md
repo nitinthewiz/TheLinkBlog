@@ -6,7 +6,11 @@ hash: fcedfeb6fdd6335e1a41b0c8f71a9191
 annum:
     year: 2015
     month: 06
-hostname: www.mhta.org
+url-parts:
+    scheme: http
+    host: www.mhta.org
+    path: /archie-black-of-sps-commerce-among-eys-entrepreneur-of-the-year-award-winners/
+
 ---
 
 

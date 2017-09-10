@@ -6,7 +6,11 @@ hash: 85a9be9627b359db1516265ebdd47514
 annum:
     year: 2012
     month: 06
-hostname: blog.bryantpark.org
+url-parts:
+    scheme: http
+    host: blog.bryantpark.org
+    path: /2012/03/kubb-coming-soon.html
+
 ---
 
 Urban Kubb in New York on blacktop. Shame to play on blacktop, but I guess we play on ice here.

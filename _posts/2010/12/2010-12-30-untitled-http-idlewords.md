@@ -6,7 +6,11 @@ hash: bfb498abafca90b4c694848451046c73
 annum:
     year: 2010
     month: 12
-hostname: idlewords.com
+url-parts:
+    scheme: http
+    host: idlewords.com
+    path: /images/pinboard_spike.png
+
 ---
 
 This is what the Great Delicious Exodus looked like to our servers:   (contrasted with normal traffic a week earlier)

@@ -6,7 +6,13 @@ hash: e8b5edf8dcda3eb214a22dce8e7da516
 annum:
     year: 2010
     month: 03
-hostname: www.edwardtufte.com
+url-parts:
+    scheme: http
+    host: www.edwardtufte.com
+    path: /bboard/q-and-a-fetch-msg
+    query:
+        msg_id: "0003e0"
+        topic_id: "1"
 ---
 
 President Obama has appointed Edward Tufte to the Recovery Independent Advisory Panel, whose job is to track and explain $787 billion in recovery stimulus funds. Outstanding.

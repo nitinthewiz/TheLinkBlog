@@ -6,7 +6,11 @@ hash: 76df5165fa0ec298db0e9973325e8a5e
 annum:
     year: 2013
     month: 09
-hostname: www.mediawiki.org
+url-parts:
+    scheme: http
+    host: www.mediawiki.org
+    path: /wiki/Requests_for_comment/LESS
+
 ---
 
 LESS becoming part of the MediaWiki core, interesting.
