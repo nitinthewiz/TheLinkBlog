@@ -3,13 +3,11 @@ title: "Apple: Over 300 million iPhone apps downloaded"
 date: 2008-12-07 22:00:00 +0000
 external-url: http://www.tuaw.com/2008/12/07/apple-over-300-million-iphone-apps-downloaded/
 hash: 74bb0dc2766abdc578035b6ab0c77cf8
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/12/07/apple-over-300-million-iphone-apps-downloaded/
+year: 2008
+month: 12
+scheme: http
+host: www.tuaw.com
+path: /2008/12/07/apple-over-300-million-iphone-apps-downloaded/
 
 ---
 

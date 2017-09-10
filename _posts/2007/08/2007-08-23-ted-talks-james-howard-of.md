@@ -3,13 +3,11 @@ title: "TED | Talks | James Howard Kunstler: The tragedy of suburbia (video)"
 date: 2007-08-23 13:25:53 +0000
 external-url: http://www.ted.com/talks/view/id/121
 hash: 3c6855dd3c04bcf459fb1cae875bda96
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/view/id/121
+year: 2007
+month: 08
+scheme: http
+host: www.ted.com
+path: /talks/view/id/121
 
 ---
 

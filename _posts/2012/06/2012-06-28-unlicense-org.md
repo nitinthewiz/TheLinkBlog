@@ -3,13 +3,11 @@ title: "Unlicense.org"
 date: 2012-06-28 14:37:02 +0000
 external-url: http://unlicense.org/
 hash: d72fd8567ab67acc1ede8936d4f1fb42
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: unlicense.org
-    path: /
+year: 2012
+month: 06
+scheme: http
+host: unlicense.org
+path: /
 
 ---
 

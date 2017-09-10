@@ -3,13 +3,11 @@ title: "Why you (yes, you) need to be a better writer (and how to get started) -
 date: 2017-08-11 13:13:07 +0000
 external-url: http://anniemueller.com/2017/08/09/why-you-need-to-be-a-better-writer-and-how-to-get-started/
 hash: 9451f355d6b8a7642801787dc6c435a3
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: http
-    host: anniemueller.com
-    path: /2017/08/09/why-you-need-to-be-a-better-writer-and-how-to-get-started/
+year: 2017
+month: 08
+scheme: http
+host: anniemueller.com
+path: /2017/08/09/why-you-need-to-be-a-better-writer-and-how-to-get-started/
 
 ---
 

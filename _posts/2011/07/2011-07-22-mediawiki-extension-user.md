@@ -3,13 +3,11 @@ title: "MediaWiki Extension AutomaticREMOTE USER"
 date: 2011-07-22 14:30:21 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:Auth_remoteuser
 hash: c1b367428ef25bdb7117f7d995f57e2b
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:Auth_remoteuser
+year: 2011
+month: 07
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:Auth_remoteuser
 
 ---
 

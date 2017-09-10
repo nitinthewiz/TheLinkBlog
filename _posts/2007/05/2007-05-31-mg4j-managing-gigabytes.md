@@ -3,13 +3,11 @@ title: "MG4J: Managing Gigabytes for Java™"
 date: 2007-05-31 21:32:42 +0000
 external-url: http://mg4j.dsi.unimi.it/
 hash: 8c0faeaf289c097e6393fbd09bce08e7
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: mg4j.dsi.unimi.it
-    path: /
+year: 2007
+month: 05
+scheme: http
+host: mg4j.dsi.unimi.it
+path: /
 
 ---
 

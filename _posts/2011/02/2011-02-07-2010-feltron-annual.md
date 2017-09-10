@@ -3,13 +3,11 @@ title: "2010 Feltron Annual Report"
 date: 2011-02-07 19:32:26 +0000
 external-url: http://kottke.org/11/02/2010-feltron-annual-report
 hash: e2dbeb2b6bd5af2fdff7b715706f6ee5
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /11/02/2010-feltron-annual-report
+year: 2011
+month: 02
+scheme: http
+host: kottke.org
+path: /11/02/2010-feltron-annual-report
 
 ---
 

@@ -3,13 +3,11 @@ title: "Rubbernet"
 date: 2011-04-27 15:54:04 +0000
 external-url: http://rubbernetapp.com/
 hash: 80f7d76c733d4e0bb900c756bc0d9baf
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: rubbernetapp.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: rubbernetapp.com
+path: /
 
 ---
 

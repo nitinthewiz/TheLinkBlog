@@ -3,13 +3,11 @@ title: "North Dakota: The Rise of an American Petrostate"
 date: 2011-12-11 06:09:23 +0000
 external-url: http://www.theawl.com/2011/12/north-dakota-the-rise-of-an-american-petrostate
 hash: bb5d1982c816d902d0683454332a39cd
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.theawl.com
-    path: /2011/12/north-dakota-the-rise-of-an-american-petrostate
+year: 2011
+month: 12
+scheme: http
+host: www.theawl.com
+path: /2011/12/north-dakota-the-rise-of-an-american-petrostate
 
 ---
 

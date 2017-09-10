@@ -3,13 +3,11 @@ title: "Expert versus beginner"
 date: 2010-10-05 22:21:00 +0000
 external-url: http://bobulate.com/post/1251478603
 hash: 6a90db6e7fc778b2487a11bc2912b4c9
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: bobulate.com
-    path: /post/1251478603
+year: 2010
+month: 10
+scheme: http
+host: bobulate.com
+path: /post/1251478603
 
 ---
 

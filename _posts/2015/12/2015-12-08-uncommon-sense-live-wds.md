@@ -3,13 +3,11 @@ title: "Uncommon Sense - live @ WDS | Derek Sivers"
 date: 2015-12-08 12:01:29 +0000
 external-url: https://sivers.org/wds
 hash: 5c8b29768d59bae76da2c430211fc72b
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: sivers.org
-    path: /wds
+year: 2015
+month: 12
+scheme: https
+host: sivers.org
+path: /wds
 
 ---
 

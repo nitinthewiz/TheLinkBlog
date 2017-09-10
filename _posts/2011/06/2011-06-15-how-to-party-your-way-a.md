@@ -3,13 +3,11 @@ title: "How To Party Your Way Into a Multi-Million Dollar Facebook Job"
 date: 2011-06-15 10:02:39 +0000
 external-url: http://gawker.com/5803176/how-to-party-your-way-into-a-multi%2Bmillion-dollar-facebook-job
 hash: 37e270d3870ae641c1fa0644d9e7111f
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: gawker.com
-    path: /5803176/how-to-party-your-way-into-a-multi%2Bmillion-dollar-facebook-job
+year: 2011
+month: 06
+scheme: http
+host: gawker.com
+path: /5803176/how-to-party-your-way-into-a-multi%2Bmillion-dollar-facebook-job
 
 ---
 

@@ -3,13 +3,11 @@ title: "2009 venture investments lowest since 1997, cleantech fell 52 percent (M
 date: 2010-01-22 05:00:38 +0000
 external-url: http://venturebeat.com/2010/01/21/moneytree-venture-capital-investment/
 hash: 624ae980aaf618c70b6f348ce7ccca95
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2010/01/21/moneytree-venture-capital-investment/
+year: 2010
+month: 01
+scheme: http
+host: venturebeat.com
+path: /2010/01/21/moneytree-venture-capital-investment/
 
 ---
 

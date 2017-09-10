@@ -3,13 +3,11 @@ title: "Database encryption | OrientDB Manual - version 2.1"
 date: 2015-08-21 10:50:03 +0000
 external-url: http://orientdb.com/docs/last/Database-Encryption.html
 hash: 2fd722c65eb5b57c152f9f59e647c0a2
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: orientdb.com
-    path: /docs/last/Database-Encryption.html
+year: 2015
+month: 08
+scheme: http
+host: orientdb.com
+path: /docs/last/Database-Encryption.html
 
 ---
 

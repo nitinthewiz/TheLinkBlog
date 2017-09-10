@@ -3,13 +3,11 @@ title: "Python Data Analysis Library — pandas: Python Data Analysis Library"
 date: 2012-02-13 17:03:51 +0000
 external-url: http://pandas.pydata.org/
 hash: acf475c4d1c88265f353194c0e56cb13
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: pandas.pydata.org
-    path: /
+year: 2012
+month: 02
+scheme: http
+host: pandas.pydata.org
+path: /
 
 ---
 

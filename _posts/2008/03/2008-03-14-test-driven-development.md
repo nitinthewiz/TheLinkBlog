@@ -3,13 +3,11 @@ title: "Test driven development"
 date: 2008-03-14 05:48:40 +0000
 external-url: http://whereslou.com/2008/03/13/test-driven-development
 hash: 9d912b105ba73df73a539fee132cd65d
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: whereslou.com
-    path: /2008/03/13/test-driven-development
+year: 2008
+month: 03
+scheme: http
+host: whereslou.com
+path: /2008/03/13/test-driven-development
 
 ---
 

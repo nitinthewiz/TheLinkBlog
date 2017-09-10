@@ -3,13 +3,11 @@ title: "Here’s why you only have a 0.2% chance of getting hired at Google"
 date: 2014-10-23 17:19:00 +0000
 external-url: http://qz.com/285001/heres-why-you-only-have-a-0-2-chance-of-getting-hired-at-google/
 hash: 6d11851f9781685aa36fce20cbbaff16
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: qz.com
-    path: /285001/heres-why-you-only-have-a-0-2-chance-of-getting-hired-at-google/
+year: 2014
+month: 10
+scheme: http
+host: qz.com
+path: /285001/heres-why-you-only-have-a-0-2-chance-of-getting-hired-at-google/
 
 ---
 

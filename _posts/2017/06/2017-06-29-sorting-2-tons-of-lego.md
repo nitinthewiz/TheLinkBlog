@@ -3,13 +3,11 @@ title: "Sorting 2 Tons of Lego, Many Questions, Results · Jacques Mattheij"
 date: 2017-06-29 12:28:11 +0000
 external-url: https://jacquesmattheij.com/sorting-lego-many-questions-and-this-is-what-the-result-looks-like
 hash: 74585b3494a2e8f81909ddebced7f8dc
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: jacquesmattheij.com
-    path: /sorting-lego-many-questions-and-this-is-what-the-result-looks-like
+year: 2017
+month: 06
+scheme: https
+host: jacquesmattheij.com
+path: /sorting-lego-many-questions-and-this-is-what-the-result-looks-like
 
 ---
 

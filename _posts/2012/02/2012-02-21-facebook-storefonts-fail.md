@@ -3,13 +3,11 @@ title: "Facebook storefonts fail, but f-commerce isnt a failure ZDNet"
 date: 2012-02-21 19:58:42 +0000
 external-url: http://www.zdnet.com/blog/facebook/facebook-storefonts-fail-but-f-commerce-isnt-a-failure/9251
 hash: 18eb767dd2e67d970cb6b93aafbc6cdb
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.zdnet.com
-    path: /blog/facebook/facebook-storefonts-fail-but-f-commerce-isnt-a-failure/9251
+year: 2012
+month: 02
+scheme: http
+host: www.zdnet.com
+path: /blog/facebook/facebook-storefonts-fail-but-f-commerce-isnt-a-failure/9251
 
 ---
 

@@ -3,13 +3,11 @@ title: "Subjective Impressions Do Not Mirror Online Reading Effort: Concurrent E
 date: 2013-03-08 18:09:25 +0000
 external-url: http://www.plosone.org/static/pageNotFound.action
 hash: 06c81a7eb4214cd23453a33d074ca89d
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.plosone.org
-    path: /static/pageNotFound.action
+year: 2013
+month: 03
+scheme: http
+host: www.plosone.org
+path: /static/pageNotFound.action
 
 ---
 

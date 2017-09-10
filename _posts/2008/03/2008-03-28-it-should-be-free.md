@@ -3,13 +3,11 @@ title: "It Should Be Free?"
 date: 2008-03-28 00:34:46 +0000
 external-url: http://www.red-sweater.com/blog/481/it-should-be-free
 hash: ece12aba0739f13e1b9b694f0e490771
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/481/it-should-be-free
+year: 2008
+month: 03
+scheme: http
+host: www.red-sweater.com
+path: /blog/481/it-should-be-free
 
 ---
 

@@ -3,13 +3,11 @@ title: "Our Flappy Dystopia"
 date: 2014-02-11 13:26:59 +0000
 external-url: http://www.mattiebrice.com/our-flappy-dystopia/
 hash: 97277bd3235ed2abb1a441f6a0200e0b
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: www.mattiebrice.com
-    path: /our-flappy-dystopia/
+year: 2014
+month: 02
+scheme: http
+host: www.mattiebrice.com
+path: /our-flappy-dystopia/
 
 ---
 

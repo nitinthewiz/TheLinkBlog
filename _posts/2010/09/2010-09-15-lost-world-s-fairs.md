@@ -3,13 +3,11 @@ title: "Lost World's Fairs"
 date: 2010-09-15 21:36:37 +0000
 external-url: http://kottke.org/10/09/lost-worlds-fairs
 hash: 9dfeae97dc58024d0be6e27c06176bd2
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/09/lost-worlds-fairs
+year: 2010
+month: 09
+scheme: http
+host: kottke.org
+path: /10/09/lost-worlds-fairs
 
 ---
 

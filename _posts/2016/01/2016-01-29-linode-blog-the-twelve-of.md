@@ -3,13 +3,11 @@ title: "Linode Blog » The Twelve Days of Crisis – A Retrospective on Linode�
 date: 2016-01-29 21:36:30 +0000
 external-url: https://blog.linode.com/2016/01/29/christmas-ddos-retrospective/
 hash: e3bdb9f7772d11b2da573da9c3a872e9
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: blog.linode.com
-    path: /2016/01/29/christmas-ddos-retrospective/
+year: 2016
+month: 01
+scheme: https
+host: blog.linode.com
+path: /2016/01/29/christmas-ddos-retrospective/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Shit New Yorkers say"
 date: 2012-01-25 21:25:27 +0000
 external-url: http://kottke.org/12/01/shit-new-yorkers-say
 hash: 35f63fdf17e4ac13b1d969a3aabed5dc
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /12/01/shit-new-yorkers-say
+year: 2012
+month: 01
+scheme: http
+host: kottke.org
+path: /12/01/shit-new-yorkers-say
 
 ---
 

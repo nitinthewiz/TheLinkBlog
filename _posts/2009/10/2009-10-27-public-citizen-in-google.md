@@ -3,13 +3,11 @@ title: "Public Citizen: ‘In Google We Trust? Think Again’"
 date: 2009-10-27 00:18:05 +0000
 external-url: http://citizenvox.org/2009/10/21/in-google-we-trust-think-again/
 hash: 8dcb2a2ecffda277ad33a1b48830f73b
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: citizenvox.org
-    path: /2009/10/21/in-google-we-trust-think-again/
+year: 2009
+month: 10
+scheme: http
+host: citizenvox.org
+path: /2009/10/21/in-google-we-trust-think-again/
 
 ---
 

@@ -3,13 +3,11 @@ title: "PCalc 1.7 (for iPhone)"
 date: 2009-07-20 03:50:27 +0000
 external-url: http://mjtsai.com/blog/2009/07/19/pcalc-17-for-iphone/
 hash: 085457f994241e57cb54bec8e720f949
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: mjtsai.com
-    path: /blog/2009/07/19/pcalc-17-for-iphone/
+year: 2009
+month: 07
+scheme: http
+host: mjtsai.com
+path: /blog/2009/07/19/pcalc-17-for-iphone/
 
 ---
 

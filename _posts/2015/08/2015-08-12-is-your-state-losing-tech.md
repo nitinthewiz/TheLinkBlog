@@ -3,15 +3,13 @@ title: "Is Your State Losing Tech Jobs? - Dice Insights"
 date: 2015-08-12 19:15:45 +0000
 external-url: http://insights.dice.com/2015/08/12/is-your-state-losing-tech-jobs/?CMPID=AF_SD_UP_JS_AV_OG_DNA_
 hash: 01489a35552cff6a04e19f1ae5a0815a
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: insights.dice.com
-    path: /2015/08/12/is-your-state-losing-tech-jobs/
-    query:
-        CMPID: "AF_SD_UP_JS_AV_OG_DNA_"
+year: 2015
+month: 08
+scheme: http
+host: insights.dice.com
+path: /2015/08/12/is-your-state-losing-tech-jobs/
+query:
+    CMPID: "AF_SD_UP_JS_AV_OG_DNA_"
 ---
 
 Pop quiz: What’s the fastest-growing state for technology jobs?

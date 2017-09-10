@@ -3,13 +3,11 @@ title: "Another Snow Leopard Tip: Option-Click Sound menu and get input/output o
 date: 2009-09-03 04:16:55 +0000
 external-url: http://9to5mac.com/sound-menu-snow-leopard
 hash: 63f7cf2dcc98dd12768b5b326d9b8ee7
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /sound-menu-snow-leopard
+year: 2009
+month: 09
+scheme: http
+host: 9to5mac.com
+path: /sound-menu-snow-leopard
 
 ---
 

@@ -3,13 +3,11 @@ title: "MarsEdit: Blogging Done Right"
 date: 2007-12-07 14:00:09 +0000
 external-url: http://macapper.com/2007/12/07/marsedit-blogging-done-right/
 hash: f711f133a474c4396dab2d0eba8e746c
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2007/12/07/marsedit-blogging-done-right/
+year: 2007
+month: 12
+scheme: http
+host: macapper.com
+path: /2007/12/07/marsedit-blogging-done-right/
 
 ---
 

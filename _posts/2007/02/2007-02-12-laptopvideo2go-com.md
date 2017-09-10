@@ -3,13 +3,11 @@ title: "LaptopVideo2Go .com"
 date: 2007-02-12 16:38:28 +0000
 external-url: http://www.laptopvideo2go.com/
 hash: 13297d15db6200654121fd06788beb29
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.laptopvideo2go.com
-    path: /
+year: 2007
+month: 02
+scheme: http
+host: www.laptopvideo2go.com
+path: /
 
 ---
 

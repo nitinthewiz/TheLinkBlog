@@ -3,13 +3,11 @@ title: "Saying no to everything else | Derek Sivers"
 date: 2015-09-24 00:32:32 +0000
 external-url: https://sivers.org/no2
 hash: f92782407fdcd81f93aae71a3ada28f1
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: sivers.org
-    path: /no2
+year: 2015
+month: 09
+scheme: https
+host: sivers.org
+path: /no2
 
 ---
 

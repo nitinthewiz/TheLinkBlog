@@ -3,13 +3,11 @@ title: "Dumbo Wiki"
 date: 2012-11-28 20:39:56 +0000
 external-url: https://github.com/klbostee/dumbo/wiki
 hash: 2b12fcbb59806ed6725f4661079b06f6
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: github.com
-    path: /klbostee/dumbo/wiki
+year: 2012
+month: 11
+scheme: https
+host: github.com
+path: /klbostee/dumbo/wiki
 
 ---
 

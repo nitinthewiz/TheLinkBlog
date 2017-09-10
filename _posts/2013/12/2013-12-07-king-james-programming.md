@@ -3,13 +3,11 @@ title: "King James Programming"
 date: 2013-12-07 19:11:03 +0000
 external-url: http://kingjamesprogramming.tumblr.com/
 hash: db3063510a55688e13dbdefb46bd53ef
-annum:
-    year: 2013
-    month: 12
-url-parts:
-    scheme: http
-    host: kingjamesprogramming.tumblr.com
-    path: /
+year: 2013
+month: 12
+scheme: http
+host: kingjamesprogramming.tumblr.com
+path: /
 
 ---
 

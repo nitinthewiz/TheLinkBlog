@@ -3,13 +3,11 @@ title: "TECHdotMN Drivetrain sold to Toronto shopping tech company Slyce - TECHd
 date: 2014-10-21 20:42:41 +0000
 external-url: http://tech.mn/news/2014/10/21/drivetrain-sold-toronto-shopping-tech-company-slyce/
 hash: 2e9f356542cace17bfc179451682b331
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2014/10/21/drivetrain-sold-toronto-shopping-tech-company-slyce/
+year: 2014
+month: 10
+scheme: http
+host: tech.mn
+path: /news/2014/10/21/drivetrain-sold-toronto-shopping-tech-company-slyce/
 
 ---
 

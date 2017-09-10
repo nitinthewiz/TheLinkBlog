@@ -3,13 +3,11 @@ title: "Videos Live Fast, Die Young On Web"
 date: 2008-06-18 12:10:00 +0000
 external-url: http://www.businessinsider.com/2008/6/online-video
 hash: 6c9032179ca641f3ca8ea7f891e20885
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/6/online-video
+year: 2008
+month: 06
+scheme: http
+host: www.businessinsider.com
+path: /2008/6/online-video
 
 ---
 

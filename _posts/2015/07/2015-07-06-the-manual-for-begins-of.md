@@ -3,13 +3,11 @@ title: "The Manual for Civilization Begins — Blog of the Long Now"
 date: 2015-07-06 12:13:19 +0000
 external-url: http://blog.longnow.org/02014/02/06/manual-for-civilization-begins/
 hash: c4470803c3199b0c08abb17f99159e5f
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: blog.longnow.org
-    path: /02014/02/06/manual-for-civilization-begins/
+year: 2015
+month: 07
+scheme: http
+host: blog.longnow.org
+path: /02014/02/06/manual-for-civilization-begins/
 
 ---
 

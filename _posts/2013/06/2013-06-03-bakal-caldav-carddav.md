@@ -3,13 +3,11 @@ title: "Bakal: CalDAV + CardDAV lightweight server"
 date: 2013-06-03 15:49:15 +0000
 external-url: http://baikal-server.com/
 hash: eca7da709d9b9028f9b0b4bb900abfa5
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: baikal-server.com
-    path: /
+year: 2013
+month: 06
+scheme: http
+host: baikal-server.com
+path: /
 
 ---
 

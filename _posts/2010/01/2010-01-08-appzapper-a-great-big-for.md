@@ -3,13 +3,11 @@ title: "AppZapper: a great big upgrade for a small utility"
 date: 2010-01-08 02:53:32 +0000
 external-url: http://www.tuaw.com/2010/01/06/appzapper-a-great-big-upgrade-for-a-small-utility/
 hash: 3ba2a35a26a40b7ab29cc20c7eef33d8
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2010/01/06/appzapper-a-great-big-upgrade-for-a-small-utility/
+year: 2010
+month: 01
+scheme: http
+host: www.tuaw.com
+path: /2010/01/06/appzapper-a-great-big-upgrade-for-a-small-utility/
 
 ---
 

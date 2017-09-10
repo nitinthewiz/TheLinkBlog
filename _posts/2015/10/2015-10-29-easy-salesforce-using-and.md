@@ -3,13 +3,11 @@ title: "Easy Salesforce Deployments Using Slack and GitHub"
 date: 2015-10-29 18:38:07 +0000
 external-url: https://www.pagerduty.com/blog/easy-salesforce-deployments-slack-github/
 hash: a90577b7b4554e627b2276b9473f4e64
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: www.pagerduty.com
-    path: /blog/easy-salesforce-deployments-slack-github/
+year: 2015
+month: 10
+scheme: https
+host: www.pagerduty.com
+path: /blog/easy-salesforce-deployments-slack-github/
 
 ---
 

@@ -3,13 +3,11 @@ title: "On Mobiles, There’s No Stopping Webkit"
 date: 2009-08-25 04:12:23 +0000
 external-url: http://gigaom.com/2009/08/24/webkit-mobil/
 hash: e00e8526b3089374ecbf13d38b1632a8
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2009/08/24/webkit-mobil/
+year: 2009
+month: 08
+scheme: http
+host: gigaom.com
+path: /2009/08/24/webkit-mobil/
 
 ---
 

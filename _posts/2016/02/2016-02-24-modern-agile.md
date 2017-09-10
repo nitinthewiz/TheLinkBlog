@@ -3,13 +3,11 @@ title: "Modern Agile"
 date: 2016-02-24 23:50:01 +0000
 external-url: https://www.industriallogic.com/blog/modern-agile/
 hash: 3731aaf09cfa71c39aa7d7cafe8c1f0e
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.industriallogic.com
-    path: /blog/modern-agile/
+year: 2016
+month: 02
+scheme: https
+host: www.industriallogic.com
+path: /blog/modern-agile/
 
 ---
 

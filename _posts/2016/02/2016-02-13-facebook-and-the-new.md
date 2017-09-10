@@ -3,13 +3,11 @@ title: "Facebook and the New Colonialism"
 date: 2016-02-13 05:25:09 +0000
 external-url: http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
 hash: ec088750439b9deb27cc73ef154ee896
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
+year: 2016
+month: 02
+scheme: http
+host: www.theatlantic.com
+path: /technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
 
 ---
 

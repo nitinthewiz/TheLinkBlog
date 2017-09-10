@@ -3,13 +3,11 @@ title: "An Omnivore Cooks the Veganomicon"
 date: 2011-10-27 15:22:58 +0000
 external-url: http://omni-vegan.blogspot.com/
 hash: acdb8f61c563989cede61c76f75f7e08
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: omni-vegan.blogspot.com
-    path: /
+year: 2011
+month: 10
+scheme: http
+host: omni-vegan.blogspot.com
+path: /
 
 ---
 

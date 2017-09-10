@@ -3,13 +3,11 @@ title: "How Facebook Ships Code"
 date: 2011-01-17 20:59:38 +0000
 external-url: http://framethink.wordpress.com/2011/01/17/how-facebook-ships-code/
 hash: 02fe11a148d83840f3ec7802601340a1
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: framethink.wordpress.com
-    path: /2011/01/17/how-facebook-ships-code/
+year: 2011
+month: 01
+scheme: http
+host: framethink.wordpress.com
+path: /2011/01/17/how-facebook-ships-code/
 
 ---
 

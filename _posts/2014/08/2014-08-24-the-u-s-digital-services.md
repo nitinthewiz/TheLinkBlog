@@ -3,13 +3,11 @@ title: "The U.S. Digital Services Playbook"
 date: 2014-08-24 16:17:08 +0000
 external-url: https://playbook.cio.gov/
 hash: 453b32d5199b5c977224a58d77efd2cf
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: https
-    host: playbook.cio.gov
-    path: /
+year: 2014
+month: 08
+scheme: https
+host: playbook.cio.gov
+path: /
 
 ---
 

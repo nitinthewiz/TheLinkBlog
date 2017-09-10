@@ -3,14 +3,12 @@ title: "EPUBReader Displays EPUBs in Firefox"
 date: 2010-09-11 03:54:32 +0000
 external-url: http://tidbits.com/article/11590?rss=
 hash: 60c9c42637ac01cce6da8fa14a2e3f33
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/11590
-    query:
+year: 2010
+month: 09
+scheme: http
+host: tidbits.com
+path: /article/11590
+query:
 ---
 
 With Apple's release of the iBooks app and the iBookstore, EPUB-formatted ebooks have become increasingly prevalent. Surprisingly, though, there aren't many good ways to read an EPUB other than iBooks, especially if all you want is a quick look on your Mac.

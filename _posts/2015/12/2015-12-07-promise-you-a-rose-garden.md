@@ -3,13 +3,11 @@ title: "Promise You A Rose Garden - An essay about system management"
 date: 2015-12-07 16:40:38 +0000
 external-url: http://markburgess.org/rosegarden.pdf
 hash: 96d878939073b27ee98c4f3669d88199
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: markburgess.org
-    path: /rosegarden.pdf
+year: 2015
+month: 12
+scheme: http
+host: markburgess.org
+path: /rosegarden.pdf
 
 ---
 

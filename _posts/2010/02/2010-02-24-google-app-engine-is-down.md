@@ -3,13 +3,11 @@ title: "Google App Engine is Down - Backup Data Center Having Problems"
 date: 2010-02-24 17:43:58 +0000
 external-url: http://readwrite.com/2010/02/24/google-app-engine-is-down---ba
 hash: ff74b4800ac31b0ccea2149d6d8c899d
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2010/02/24/google-app-engine-is-down---ba
+year: 2010
+month: 02
+scheme: http
+host: readwrite.com
+path: /2010/02/24/google-app-engine-is-down---ba
 
 ---
 

@@ -3,13 +3,11 @@ title: "Twitt: A New Twitter Client For the Mac"
 date: 2009-11-16 05:11:40 +0000
 external-url: http://gigaom.com/collaboration/twitt-a-new-twitter-client-for-the-mac/
 hash: 55363c117ace87b0b08e8a72ba035e13
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /collaboration/twitt-a-new-twitter-client-for-the-mac/
+year: 2009
+month: 11
+scheme: http
+host: gigaom.com
+path: /collaboration/twitt-a-new-twitter-client-for-the-mac/
 
 ---
 

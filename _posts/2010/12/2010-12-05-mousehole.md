@@ -3,13 +3,11 @@ title: "mouseHole"
 date: 2010-12-05 12:16:23 +0000
 external-url: https://github.com/whymirror/mousehole
 hash: 79b6514646938a785754da253617f2e1
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: https
-    host: github.com
-    path: /whymirror/mousehole
+year: 2010
+month: 12
+scheme: https
+host: github.com
+path: /whymirror/mousehole
 
 ---
 

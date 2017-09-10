@@ -3,13 +3,11 @@ title: "Facebook: Starting Over"
 date: 2009-12-13 15:51:11 +0000
 external-url: http://mediactive.com/2009/12/12/facebook-starting-over/
 hash: 89a96ad149c288c7bbcc560b72dc6ba1
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: mediactive.com
-    path: /2009/12/12/facebook-starting-over/
+year: 2009
+month: 12
+scheme: http
+host: mediactive.com
+path: /2009/12/12/facebook-starting-over/
 
 ---
 

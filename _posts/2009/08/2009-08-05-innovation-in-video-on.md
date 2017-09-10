@@ -3,13 +3,11 @@ title: "Innovation in video on the web"
 date: 2009-08-05 16:41:40 +0000
 external-url: http://googleblog.blogspot.com/2009/08/innovation-in-video-on-web.html
 hash: d19453ebd13092eb51ed2744efedbc41
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/08/innovation-in-video-on-web.html
+year: 2009
+month: 08
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/08/innovation-in-video-on-web.html
 
 ---
 

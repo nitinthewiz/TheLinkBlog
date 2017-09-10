@@ -3,13 +3,11 @@ title: "How to Avoid Brittle Code"
 date: 2016-03-30 11:19:03 +0000
 external-url: https://www.go.cd/2016/03/24/how-to-avoid-brittle-code.html
 hash: c220509d6913874816915127a4e2fdeb
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: www.go.cd
-    path: /2016/03/24/how-to-avoid-brittle-code.html
+year: 2016
+month: 03
+scheme: https
+host: www.go.cd
+path: /2016/03/24/how-to-avoid-brittle-code.html
 
 ---
 

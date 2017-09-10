@@ -3,13 +3,11 @@ title: "Sublime Text 2 tips for Python and web developers"
 date: 2012-05-14 03:02:20 +0000
 external-url: http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/
 hash: 7fa31c773f549187e0ff21c7cd11c5d3
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: opensourcehacker.com
-    path: /2012/05/11/sublime-text-2-tips-for-python-and-web-developers/
+year: 2012
+month: 05
+scheme: http
+host: opensourcehacker.com
+path: /2012/05/11/sublime-text-2-tips-for-python-and-web-developers/
 
 ---
 

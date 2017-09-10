@@ -3,13 +3,11 @@ title: "Top 9 Things I Want In a Blog Engine"
 date: 2010-10-01 03:56:11 +0000
 external-url: http://garrickvanburen.com/archive/top-9-things-i-want-in-a-blog-engine
 hash: e295e3e2dbab9d65d249100a601f5e1b
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: garrickvanburen.com
-    path: /archive/top-9-things-i-want-in-a-blog-engine
+year: 2010
+month: 10
+scheme: http
+host: garrickvanburen.com
+path: /archive/top-9-things-i-want-in-a-blog-engine
 
 ---
 

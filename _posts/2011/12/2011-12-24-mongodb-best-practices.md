@@ -3,13 +3,11 @@ title: "MongoDB Best Practices Engine Yard Blog"
 date: 2011-12-24 01:30:31 +0000
 external-url: https://blog.engineyard.com/2011/mongodb-best-practices
 hash: 6f9e9fad0b31467ce9a796c11e4adf63
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: https
-    host: blog.engineyard.com
-    path: /2011/mongodb-best-practices
+year: 2011
+month: 12
+scheme: https
+host: blog.engineyard.com
+path: /2011/mongodb-best-practices
 
 ---
 

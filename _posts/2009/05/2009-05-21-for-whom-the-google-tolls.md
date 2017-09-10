@@ -3,13 +3,11 @@ title: "For whom the Google tolls"
 date: 2009-05-21 04:41:32 +0000
 external-url: http://www.roughtype.com/archives/2009/05/for_whom_the_go.php
 hash: 50b174d0cadcb7351caa46709ec918c2
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.roughtype.com
-    path: /archives/2009/05/for_whom_the_go.php
+year: 2009
+month: 05
+scheme: http
+host: www.roughtype.com
+path: /archives/2009/05/for_whom_the_go.php
 
 ---
 

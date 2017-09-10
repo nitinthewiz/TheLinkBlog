@@ -3,13 +3,11 @@ title: "Social Networks of Wikipedia ACM Hypertext 2011"
 date: 2012-04-10 22:39:41 +0000
 external-url: http://www.gnuband.org/papers/social_networks_of_wikipedia/
 hash: 324d760bfb6bc6ff75fe2ed16f9a123e
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.gnuband.org
-    path: /papers/social_networks_of_wikipedia/
+year: 2012
+month: 04
+scheme: http
+host: www.gnuband.org
+path: /papers/social_networks_of_wikipedia/
 
 ---
 

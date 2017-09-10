@@ -3,13 +3,11 @@ title: "Using the EC2 environment for fewer moving parts"
 date: 2008-12-02 12:37:00 +0000
 external-url: https://signalvnoise.com/posts/1440-using-the-ec2-environment-for-fewer-moving-parts
 hash: 226a6531d4615d6549ca9f9db7c42e0a
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/1440-using-the-ec2-environment-for-fewer-moving-parts
+year: 2008
+month: 12
+scheme: https
+host: signalvnoise.com
+path: /posts/1440-using-the-ec2-environment-for-fewer-moving-parts
 
 ---
 

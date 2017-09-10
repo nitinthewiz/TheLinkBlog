@@ -3,13 +3,11 @@ title: "The 13 Things That Make a Good Build System - SignalFx"
 date: 2016-02-21 14:09:07 +0000
 external-url: https://signalfx.com/the-13-things-that-make-a-good-build-system/
 hash: 9de4462fdd51b4d2f812d46ec523d82e
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: signalfx.com
-    path: /the-13-things-that-make-a-good-build-system/
+year: 2016
+month: 02
+scheme: https
+host: signalfx.com
+path: /the-13-things-that-make-a-good-build-system/
 
 ---
 

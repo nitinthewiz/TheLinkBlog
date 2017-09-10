@@ -3,13 +3,11 @@ title: "Reviewing Large Projects | Using OmniFocus"
 date: 2016-11-02 03:14:55 +0000
 external-url: http://www.usingomnifocus.com/2016/11/reviewing-large-projects/
 hash: d9c15b52917d3a14c24c6583bdcc47b8
-annum:
-    year: 2016
-    month: 11
-url-parts:
-    scheme: http
-    host: www.usingomnifocus.com
-    path: /2016/11/reviewing-large-projects/
+year: 2016
+month: 11
+scheme: http
+host: www.usingomnifocus.com
+path: /2016/11/reviewing-large-projects/
 
 ---
 

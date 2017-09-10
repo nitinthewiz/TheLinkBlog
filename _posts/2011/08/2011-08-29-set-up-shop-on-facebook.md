@@ -3,13 +3,11 @@ title: "Set Up Shop On Facebook With RetailConnect"
 date: 2011-08-29 16:59:51 +0000
 external-url: http://allfacebook.com/set-up-shop-on-facebook-with-retailconnect_b56480
 hash: cf3f4b98626b9fe010e8f4017889c662
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /set-up-shop-on-facebook-with-retailconnect_b56480
+year: 2011
+month: 08
+scheme: http
+host: allfacebook.com
+path: /set-up-shop-on-facebook-with-retailconnect_b56480
 
 ---
 

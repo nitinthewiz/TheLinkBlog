@@ -3,13 +3,11 @@ title: "IPhone 4S Canon 5d MKII Side by Side Comparison"
 date: 2011-10-19 02:52:41 +0000
 external-url: http://vimeo.com/30606785
 hash: 3bdaddb09c1cc6055ee1eed89e414021
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /30606785
+year: 2011
+month: 10
+scheme: http
+host: vimeo.com
+path: /30606785
 
 ---
 

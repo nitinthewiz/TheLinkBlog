@@ -3,13 +3,11 @@ title: "VP Engineering vs CTO"
 date: 2011-10-31 17:52:25 +0000
 external-url: http://avc.com/2011/10/vp-engineering-vs-cto/
 hash: 41626b0396e8c5cad792a641dc1552be
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: avc.com
-    path: /2011/10/vp-engineering-vs-cto/
+year: 2011
+month: 10
+scheme: http
+host: avc.com
+path: /2011/10/vp-engineering-vs-cto/
 
 ---
 

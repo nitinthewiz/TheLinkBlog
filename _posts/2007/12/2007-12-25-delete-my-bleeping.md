@@ -3,13 +3,11 @@ title: "Delete My Bleeping Account, Facebook"
 date: 2007-12-25 23:05:21 +0000
 external-url: http://www.dailykos.com/story/2007/12/25/426218/-Delete-My-Bleeping-Account-Facebook
 hash: 52ac1e0817f7bf80eaab8b4970a5a8f8
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2007/12/25/426218/-Delete-My-Bleeping-Account-Facebook
+year: 2007
+month: 12
+scheme: http
+host: www.dailykos.com
+path: /story/2007/12/25/426218/-Delete-My-Bleeping-Account-Facebook
 
 ---
 

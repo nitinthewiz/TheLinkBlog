@@ -3,13 +3,11 @@ title: "Abstractions"
 date: 2016-02-05 10:31:10 +0000
 external-url: http://abstractions.io/
 hash: 58752cc2ac09c12d14684695d8a7df7a
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: abstractions.io
-    path: /
+year: 2016
+month: 02
+scheme: http
+host: abstractions.io
+path: /
 
 ---
 

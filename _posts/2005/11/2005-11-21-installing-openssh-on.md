@@ -3,13 +3,11 @@ title: "Installing OpenSSH on Windows"
 date: 2005-11-21 01:17:23 +0000
 external-url: http://pigtail.net/LRP/printsrv/cygwin-sshd.html
 hash: 992c1ed34ccabb7da616b476833045cd
-annum:
-    year: 2005
-    month: 11
-url-parts:
-    scheme: http
-    host: pigtail.net
-    path: /LRP/printsrv/cygwin-sshd.html
+year: 2005
+month: 11
+scheme: http
+host: pigtail.net
+path: /LRP/printsrv/cygwin-sshd.html
 
 ---
 

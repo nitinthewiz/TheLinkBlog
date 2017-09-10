@@ -3,13 +3,11 @@ title: "A final piece of pie from Peters Grill in downtown Minneapolis - StarTri
 date: 2013-07-08 20:14:03 +0000
 external-url: http://www.startribune.com/lifestyle/taste/213609451.html
 hash: 6c1c7f35587f1ee76234cb30f255e41f
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /lifestyle/taste/213609451.html
+year: 2013
+month: 07
+scheme: http
+host: www.startribune.com
+path: /lifestyle/taste/213609451.html
 
 ---
 

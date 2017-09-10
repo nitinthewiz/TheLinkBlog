@@ -3,13 +3,11 @@ title: "Updates to pageview measuring"
 date: 2012-04-26 18:05:47 +0000
 external-url: http://blog.typekit.com/2012/04/26/updates-to-pageview-measuring/
 hash: eee708667da84c7489b46320ae9ae12d
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.typekit.com
-    path: /2012/04/26/updates-to-pageview-measuring/
+year: 2012
+month: 04
+scheme: http
+host: blog.typekit.com
+path: /2012/04/26/updates-to-pageview-measuring/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Bouncing baby bombs"
 date: 2010-09-20 20:07:45 +0000
 external-url: http://kottke.org/10/09/bouncing-baby-bombs
 hash: d713a7fb7863603e6d949be51d2a6543
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/09/bouncing-baby-bombs
+year: 2010
+month: 09
+scheme: http
+host: kottke.org
+path: /10/09/bouncing-baby-bombs
 
 ---
 

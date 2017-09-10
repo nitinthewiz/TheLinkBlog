@@ -3,13 +3,11 @@ title: "Don't tackle your own good news"
 date: 2008-06-10 14:01:00 +0000
 external-url: http://www.37signals.com/svn/posts/1070-dont-tackle-your-own-good-news
 hash: d4ae838201f534816082d10e9cf97096
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/1070-dont-tackle-your-own-good-news
+year: 2008
+month: 06
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1070-dont-tackle-your-own-good-news
 
 ---
 

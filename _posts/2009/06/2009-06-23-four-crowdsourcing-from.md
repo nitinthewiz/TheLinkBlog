@@ -3,13 +3,11 @@ title: "Four crowdsourcing lessons from the Guardian’s (spectacular) expenses-
 date: 2009-06-23 21:47:09 +0000
 external-url: http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/
 hash: 07a2f1a45ad4a24a1558b76fcdd86209
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: www.niemanlab.org
-    path: /2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/
+year: 2009
+month: 06
+scheme: http
+host: www.niemanlab.org
+path: /2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/
 
 ---
 

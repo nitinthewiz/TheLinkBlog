@@ -3,13 +3,11 @@ title: "We&#39;ll be right back"
 date: 2009-05-01 04:21:43 +0000
 external-url: http://www.geni.com/blog/well-be-right-back-1/
 hash: 16385def7712609ba38c5e000b7ffed3
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.geni.com
-    path: /blog/well-be-right-back-1/
+year: 2009
+month: 05
+scheme: http
+host: www.geni.com
+path: /blog/well-be-right-back-1/
 
 ---
 

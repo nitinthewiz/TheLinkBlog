@@ -3,13 +3,11 @@ title: "On Digital Minimalism - Study Hacks - Cal Newport"
 date: 2017-02-03 16:15:38 +0000
 external-url: http://calnewport.com/blog/2016/12/18/on-digital-minimalism/
 hash: b0a8108bc395061db8b1e10ecc2bc885
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: http
-    host: calnewport.com
-    path: /blog/2016/12/18/on-digital-minimalism/
+year: 2017
+month: 02
+scheme: http
+host: calnewport.com
+path: /blog/2016/12/18/on-digital-minimalism/
 
 ---
 

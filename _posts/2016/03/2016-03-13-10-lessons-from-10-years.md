@@ -3,13 +3,11 @@ title: "10 Lessons from 10 Years of Amazon Web Services"
 date: 2016-03-13 02:44:25 +0000
 external-url: http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html
 hash: 3b2dd8728b1ad3f4cbfb6d44212e48f3
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: www.allthingsdistributed.com
-    path: /2016/03/10-lessons-from-10-years-of-aws.html
+year: 2016
+month: 03
+scheme: http
+host: www.allthingsdistributed.com
+path: /2016/03/10-lessons-from-10-years-of-aws.html
 
 ---
 

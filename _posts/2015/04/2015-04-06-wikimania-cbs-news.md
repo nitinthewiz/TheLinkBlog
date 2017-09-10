@@ -3,13 +3,11 @@ title: "Wikimania - CBS News"
 date: 2015-04-06 03:08:05 +0000
 external-url: http://www.cbsnews.com/news/wikipedia-jimmy-wales-morley-safer-60-minutes/
 hash: 9f6cdd1200c3a7fa765942c715c758e3
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: www.cbsnews.com
-    path: /news/wikipedia-jimmy-wales-morley-safer-60-minutes/
+year: 2015
+month: 04
+scheme: http
+host: www.cbsnews.com
+path: /news/wikipedia-jimmy-wales-morley-safer-60-minutes/
 
 ---
 

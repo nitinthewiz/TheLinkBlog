@@ -3,13 +3,11 @@ title: "Keeping an email address secret won't hide it from spambots Technology g
 date: 2010-12-21 12:34:07 +0000
 external-url: http://www.theguardian.com/technology/2010/dec/21/keeping-email-address-secret-spambots
 hash: 131cdb0f365d88572ac638eece4e1907
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.theguardian.com
-    path: /technology/2010/dec/21/keeping-email-address-secret-spambots
+year: 2010
+month: 12
+scheme: http
+host: www.theguardian.com
+path: /technology/2010/dec/21/keeping-email-address-secret-spambots
 
 ---
 

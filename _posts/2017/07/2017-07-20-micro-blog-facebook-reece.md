@@ -3,13 +3,11 @@ title: "Micro.blog + Facebook | Manton Reece"
 date: 2017-07-20 16:33:11 +0000
 external-url: http://www.manton.org/2017/07/micro-blog-facebook.html
 hash: e9379a83b146b174adab180634d4e2f2
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.manton.org
-    path: /2017/07/micro-blog-facebook.html
+year: 2017
+month: 07
+scheme: http
+host: www.manton.org
+path: /2017/07/micro-blog-facebook.html
 
 ---
 

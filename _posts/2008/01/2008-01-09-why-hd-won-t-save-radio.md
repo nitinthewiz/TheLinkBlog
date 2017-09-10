@@ -3,13 +3,11 @@ title: "Why HD Won't Save Radio, And Why Fred Wilson Thinks It Will"
 date: 2008-01-09 15:51:04 +0000
 external-url: http://www.businessinsider.com/2008/1/why-hd-wont-save-radio
 hash: 5c23199cfe3364ba05798665e36c0a00
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/1/why-hd-wont-save-radio
+year: 2008
+month: 01
+scheme: http
+host: www.businessinsider.com
+path: /2008/1/why-hd-wont-save-radio
 
 ---
 

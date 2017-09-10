@@ -3,13 +3,11 @@ title: "the electric sheep screen-saver"
 date: 2007-03-22 00:47:59 +0000
 external-url: http://www.electricsheep.org/
 hash: f0804d9d7cb2190951ce884768058d6f
-annum:
-    year: 2007
-    month: 03
-url-parts:
-    scheme: http
-    host: www.electricsheep.org
-    path: /
+year: 2007
+month: 03
+scheme: http
+host: www.electricsheep.org
+path: /
 
 ---
 

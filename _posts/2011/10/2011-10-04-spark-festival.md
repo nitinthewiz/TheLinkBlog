@@ -3,13 +3,11 @@ title: "Spark Festival"
 date: 2011-10-04 12:08:03 +0000
 external-url: http://spark.umn.edu/about.php
 hash: 7832623e97c4103aa12dd8e0480225cb
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: spark.umn.edu
-    path: /about.php
+year: 2011
+month: 10
+scheme: http
+host: spark.umn.edu
+path: /about.php
 
 ---
 

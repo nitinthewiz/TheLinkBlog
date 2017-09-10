@@ -3,13 +3,11 @@ title: "Welcome, Mr. Murdoch: Here's Your Page Views"
 date: 2007-12-14 14:23:37 +0000
 external-url: http://www.businessinsider.com/2007/12/welcome-mr-murdoch-heres-your-page-views
 hash: aa951746ae53ed8eb215ca543f6bd2ab
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2007/12/welcome-mr-murdoch-heres-your-page-views
+year: 2007
+month: 12
+scheme: http
+host: www.businessinsider.com
+path: /2007/12/welcome-mr-murdoch-heres-your-page-views
 
 ---
 

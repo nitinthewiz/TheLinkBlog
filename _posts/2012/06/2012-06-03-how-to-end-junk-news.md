@@ -3,13 +3,11 @@ title: "How to end junk news"
 date: 2012-06-03 20:10:38 +0000
 external-url: http://scripting.com/stories/2012/06/02/howToEndJunkNews.html
 hash: f134cd32a8d67ce28d95d5cbe604f3a0
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2012/06/02/howToEndJunkNews.html
+year: 2012
+month: 06
+scheme: http
+host: scripting.com
+path: /stories/2012/06/02/howToEndJunkNews.html
 
 ---
 

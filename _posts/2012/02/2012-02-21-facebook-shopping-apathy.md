@@ -3,13 +3,11 @@ title: "Facebook Shopping Apathy? Smart Plays On F-Commerce - Forbes"
 date: 2012-02-21 16:21:56 +0000
 external-url: http://www.forbes.com/sites/ciocentral/2012/02/17/facebook-shopping-apathy-smart-plays-on-f-commerce/
 hash: 6a9dcc765ce09142ed489d1bb7d5dbd3
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.forbes.com
-    path: /sites/ciocentral/2012/02/17/facebook-shopping-apathy-smart-plays-on-f-commerce/
+year: 2012
+month: 02
+scheme: http
+host: www.forbes.com
+path: /sites/ciocentral/2012/02/17/facebook-shopping-apathy-smart-plays-on-f-commerce/
 
 ---
 

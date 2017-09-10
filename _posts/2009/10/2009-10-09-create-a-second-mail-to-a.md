@@ -3,13 +3,11 @@ title: "Create a second Mail window to watch a specific folder"
 date: 2009-10-09 02:55:27 +0000
 external-url: http://mac.finerthingsin.com/post/207593339
 hash: b07f0554430f66fc91ea6291c5e1331f
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: mac.finerthingsin.com
-    path: /post/207593339
+year: 2009
+month: 10
+scheme: http
+host: mac.finerthingsin.com
+path: /post/207593339
 
 ---
 

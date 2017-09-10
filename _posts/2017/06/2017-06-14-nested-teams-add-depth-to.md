@@ -3,13 +3,11 @@ title: "Nested teams add depth to your team structure —GitHub"
 date: 2017-06-14 00:16:20 +0000
 external-url: https://github.com/blog/2378-nested-teams-add-depth-to-your-team-structure
 hash: 5edd157dbcf56a49945e40b03644f8cd
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/2378-nested-teams-add-depth-to-your-team-structure
+year: 2017
+month: 06
+scheme: https
+host: github.com
+path: /blog/2378-nested-teams-add-depth-to-your-team-structure
 
 ---
 

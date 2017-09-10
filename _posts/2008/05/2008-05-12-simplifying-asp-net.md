@@ -3,13 +3,11 @@ title: "Simplifying ASP.Net - NVelocity"
 date: 2008-05-12 20:53:08 +0000
 external-url: http://simpable.com/code/nvelocity/
 hash: 2caf72cbae3d4e2b8c0430ac83070c71
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: simpable.com
-    path: /code/nvelocity/
+year: 2008
+month: 05
+scheme: http
+host: simpable.com
+path: /code/nvelocity/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Wikipedia is now drawing facts from the Wikidata repository, and so can 
 date: 2013-04-30 04:04:38 +0000
 external-url: http://gigaom.com/2013/04/26/wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can-you/
 hash: 70925a428b62295db74cf7d073d62d8b
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2013/04/26/wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can-you/
+year: 2013
+month: 04
+scheme: http
+host: gigaom.com
+path: /2013/04/26/wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can-you/
 
 ---
 

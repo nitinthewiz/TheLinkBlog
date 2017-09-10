@@ -3,13 +3,11 @@ title: "The Hustler's MBA"
 date: 2012-09-26 17:13:03 +0000
 external-url: http://tynan.com/hustle
 hash: 09cf3dd8ccc6291b696ce6c25cdf7360
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: tynan.com
-    path: /hustle
+year: 2012
+month: 09
+scheme: http
+host: tynan.com
+path: /hustle
 
 ---
 

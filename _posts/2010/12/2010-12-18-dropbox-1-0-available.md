@@ -3,13 +3,11 @@ title: "Dropbox 1.0 available with performance enhancements, Selective Sync"
 date: 2010-12-18 20:11:00 +0000
 external-url: http://www.tuaw.com/2010/12/17/dropbox-1-0-available-with-performance-enhancements-selective-s/
 hash: 04af546de6281cd105a14ed23fba2e11
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2010/12/17/dropbox-1-0-available-with-performance-enhancements-selective-s/
+year: 2010
+month: 12
+scheme: http
+host: www.tuaw.com
+path: /2010/12/17/dropbox-1-0-available-with-performance-enhancements-selective-s/
 
 ---
 

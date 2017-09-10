@@ -3,13 +3,11 @@ title: "It's Not the News. It's the Packaging"
 date: 2009-04-20 04:28:44 +0000
 external-url: http://recoveringjournalist.typepad.com/recovering_journalist/2009/04/its-not-the-news-its-the-packaging.html
 hash: bd6ec5ea9a48d75e677c263843d83ead
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: recoveringjournalist.typepad.com
-    path: /recovering_journalist/2009/04/its-not-the-news-its-the-packaging.html
+year: 2009
+month: 04
+scheme: http
+host: recoveringjournalist.typepad.com
+path: /recovering_journalist/2009/04/its-not-the-news-its-the-packaging.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Minnebar '08 Rocked the Mouse, the House, the State, and the Twittervers
 date: 2008-05-11 13:35:00 +0000
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/05/minnebar-08-roc.html
 hash: 3bcfcf56f8dfd1c70d632f32e9ad2673
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: graemethickins.typepad.com
-    path: /graeme_blogs_here/2008/05/minnebar-08-roc.html
+year: 2008
+month: 05
+scheme: http
+host: graemethickins.typepad.com
+path: /graeme_blogs_here/2008/05/minnebar-08-roc.html
 
 ---
 

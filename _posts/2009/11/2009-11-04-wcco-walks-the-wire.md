@@ -3,13 +3,11 @@ title: "WCCO Walks The Wire"
 date: 2009-11-04 01:52:24 +0000
 external-url: http://minnov8.com/2009/11/03/wcco-walks-the-wire/#utm_source=rss&utm_medium=rss&utm_campaign=wcco-walks-the-wire
 hash: a1f472698601eca6b8d076b55f7b96cb
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: minnov8.com
-    path: /2009/11/03/wcco-walks-the-wire/
+year: 2009
+month: 11
+scheme: http
+host: minnov8.com
+path: /2009/11/03/wcco-walks-the-wire/
 
 ---
 

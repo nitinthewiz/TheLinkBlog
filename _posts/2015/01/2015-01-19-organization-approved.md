@@ -3,13 +3,11 @@ title: "Organization-approved applications"
 date: 2015-01-19 23:05:48 +0000
 external-url: https://github.com/blog/1941-organization-approved-applications
 hash: 83f14ce012726587d025ba7bd9eed3b9
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/1941-organization-approved-applications
+year: 2015
+month: 01
+scheme: https
+host: github.com
+path: /blog/1941-organization-approved-applications
 
 ---
 

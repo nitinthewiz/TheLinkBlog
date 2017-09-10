@@ -3,13 +3,11 @@ title: "External Link: Quicken For Mac Delayed Until 2010"
 date: 2009-07-14 17:00:23 +0000
 external-url: http://tidbits.com/article/10405
 hash: 0ab5516d762a30e2f78f272e729ccfef
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/10405
+year: 2009
+month: 07
+scheme: http
+host: tidbits.com
+path: /article/10405
 
 ---
 

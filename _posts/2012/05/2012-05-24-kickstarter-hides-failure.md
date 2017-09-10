@@ -3,13 +3,11 @@ title: "Kickstarter hides failure"
 date: 2012-05-24 22:28:45 +0000
 external-url: http://misener.org/kickstarter-hides-failure/
 hash: 34baf47e1e7167f78b205f5b4397c167
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: misener.org
-    path: /kickstarter-hides-failure/
+year: 2012
+month: 05
+scheme: http
+host: misener.org
+path: /kickstarter-hides-failure/
 
 ---
 

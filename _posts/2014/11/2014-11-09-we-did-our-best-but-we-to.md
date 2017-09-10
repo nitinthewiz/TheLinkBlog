@@ -3,13 +3,11 @@ title: "We did our best, but we were powerless to reinvent journalism — it was
 date: 2014-11-09 23:27:40 +0000
 external-url: https://gigaom.com/2013/09/11/we-did-our-best-but-we-were-powerless-to-reinvent-journalism-it-was-a-digital-riptide/
 hash: 3765655b479711b78be4e4f2e77cb305
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2013/09/11/we-did-our-best-but-we-were-powerless-to-reinvent-journalism-it-was-a-digital-riptide/
+year: 2014
+month: 11
+scheme: https
+host: gigaom.com
+path: /2013/09/11/we-did-our-best-but-we-were-powerless-to-reinvent-journalism-it-was-a-digital-riptide/
 
 ---
 

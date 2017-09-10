@@ -3,13 +3,11 @@ title: "Typography for Lawyers"
 date: 2016-01-13 13:35:07 +0000
 external-url: http://typographyforlawyers.com/
 hash: a903bfed67ede8707e38f9a739361af7
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: typographyforlawyers.com
-    path: /
+year: 2016
+month: 01
+scheme: http
+host: typographyforlawyers.com
+path: /
 
 ---
 

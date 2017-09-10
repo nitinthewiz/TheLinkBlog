@@ -3,13 +3,11 @@ title: "The One-Person Product"
 date: 2013-05-21 03:25:43 +0000
 external-url: http://www.marco.org/2013/05/20/one-person-product
 hash: b007d78a3d61666c13bdfbd60cfb19c3
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2013/05/20/one-person-product
+year: 2013
+month: 05
+scheme: http
+host: www.marco.org
+path: /2013/05/20/one-person-product
 
 ---
 

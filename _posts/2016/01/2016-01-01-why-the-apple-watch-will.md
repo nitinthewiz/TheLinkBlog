@@ -3,13 +3,11 @@ title: "Why the Apple Watch will be the most accurate way to ring in the New Yea
 date: 2016-01-01 14:59:47 +0000
 external-url: http://www.telegraph.co.uk/technology/apple/watch/12074452/Why-the-Apple-Watch-will-be-the-most-accurate-way-to-ring-in-the-New-Year.html
 hash: 0c5c29794938666653086a9ca8adfc28
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.telegraph.co.uk
-    path: /technology/apple/watch/12074452/Why-the-Apple-Watch-will-be-the-most-accurate-way-to-ring-in-the-New-Year.html
+year: 2016
+month: 01
+scheme: http
+host: www.telegraph.co.uk
+path: /technology/apple/watch/12074452/Why-the-Apple-Watch-will-be-the-most-accurate-way-to-ring-in-the-New-Year.html
 
 ---
 

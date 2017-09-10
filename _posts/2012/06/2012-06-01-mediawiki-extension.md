@@ -3,13 +3,11 @@ title: "MediaWiki Extension NumerAlpha"
 date: 2012-06-01 23:54:53 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:NumerAlpha
 hash: a313ff173150831e8fa932edcbb40115
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:NumerAlpha
+year: 2012
+month: 06
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:NumerAlpha
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Best Camera"
 date: 2009-09-22 22:13:56 +0000
 external-url: http://blog.duncandavidson.com/2009/09/the-best-camera.html
 hash: 091081bf3066575ebe4ba57565379334
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: blog.duncandavidson.com
-    path: /2009/09/the-best-camera.html
+year: 2009
+month: 09
+scheme: http
+host: blog.duncandavidson.com
+path: /2009/09/the-best-camera.html
 
 ---
 

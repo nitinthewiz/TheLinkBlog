@@ -3,13 +3,11 @@ title: "EC2 Container Service – Long-Running Applications, Load Balancing, and
 date: 2015-04-11 01:08:01 +0000
 external-url: https://aws.amazon.com/blogs/aws/ec2-container-service-ready-for-production-use/
 hash: 5af1c684696bf4a637344bbf0636bdbe
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/ec2-container-service-ready-for-production-use/
+year: 2015
+month: 04
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/ec2-container-service-ready-for-production-use/
 
 ---
 

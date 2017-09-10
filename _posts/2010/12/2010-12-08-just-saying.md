@@ -3,13 +3,11 @@ title: "Just saying"
 date: 2010-12-08 05:34:13 +0000
 external-url: http://buzzmachine.com/2010/12/07/just-saying/
 hash: a2cccd33b2a9b3e176eb2a7e9d4dbc33
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: buzzmachine.com
-    path: /2010/12/07/just-saying/
+year: 2010
+month: 12
+scheme: http
+host: buzzmachine.com
+path: /2010/12/07/just-saying/
 
 ---
 

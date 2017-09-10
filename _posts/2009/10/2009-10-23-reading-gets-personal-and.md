@@ -3,13 +3,11 @@ title: "Reading gets personal with Popular items and Personalized ranking"
 date: 2009-10-23 03:36:39 +0000
 external-url: http://googleblog.blogspot.com/2009/10/reading-gets-personal-with-popular.html
 hash: 2d543fb1beef614f029399847436d914
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/10/reading-gets-personal-with-popular.html
+year: 2009
+month: 10
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/10/reading-gets-personal-with-popular.html
 
 ---
 

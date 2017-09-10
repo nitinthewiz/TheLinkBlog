@@ -3,13 +3,11 @@ title: "Gary Kovacs: Tracking the trackers"
 date: 2012-05-12 20:47:18 +0000
 external-url: http://www.ted.com/talks/gary_kovacs_tracking_the_trackers
 hash: 598f61d8d1a7b28490f5268e26341a32
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/gary_kovacs_tracking_the_trackers
+year: 2012
+month: 05
+scheme: http
+host: www.ted.com
+path: /talks/gary_kovacs_tracking_the_trackers
 
 ---
 

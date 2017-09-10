@@ -3,13 +3,11 @@ title: "Why Python is important for you"
 date: 2012-02-13 16:52:44 +0000
 external-url: http://blaag.haard.se/Why-Python-is-important-for-you/
 hash: 2923dd0baa9a23a08dd3992932c71c05
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: blaag.haard.se
-    path: /Why-Python-is-important-for-you/
+year: 2012
+month: 02
+scheme: http
+host: blaag.haard.se
+path: /Why-Python-is-important-for-you/
 
 ---
 

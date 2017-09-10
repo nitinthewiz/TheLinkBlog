@@ -3,13 +3,11 @@ title: "In SOPA, PIPA protest, Wikipedia to black out"
 date: 2012-01-16 21:47:46 +0000
 external-url: http://www.politico.com/news/stories/0112/71500.html
 hash: f0de87c76236365ab29cc4fcb58d6db3
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.politico.com
-    path: /news/stories/0112/71500.html
+year: 2012
+month: 01
+scheme: http
+host: www.politico.com
+path: /news/stories/0112/71500.html
 
 ---
 

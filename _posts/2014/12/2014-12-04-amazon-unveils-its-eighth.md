@@ -3,17 +3,15 @@ title: "Amazon Unveils its Eighth Generation Fulfillment Center [via BusinessWir
 date: 2014-12-04 21:03:39 +0000
 external-url: https://www.youtube.com/watch?feature=youtu.be&v=tMpsMt7ETi8&app=desktop
 hash: f8df6fd283845cfaf210bd7061e7226f
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: https
-    host: www.youtube.com
-    path: /watch
-    query:
-        feature: "youtu.be"
-        v: "tMpsMt7ETi8"
-        app: "desktop"
+year: 2014
+month: 12
+scheme: https
+host: www.youtube.com
+path: /watch
+query:
+    feature: "youtu.be"
+    v: "tMpsMt7ETi8"
+    app: "desktop"
 ---
 
 

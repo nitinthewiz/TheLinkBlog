@@ -3,13 +3,11 @@ title: "There's more than one tech"
 date: 2013-06-21 04:24:39 +0000
 external-url: http://threads2.scripting.com/2013/june/theresMoreThanOneTech
 hash: cb5df57dba1dd4a123fd619f58e83537
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: threads2.scripting.com
-    path: /2013/june/theresMoreThanOneTech
+year: 2013
+month: 06
+scheme: http
+host: threads2.scripting.com
+path: /2013/june/theresMoreThanOneTech
 
 ---
 

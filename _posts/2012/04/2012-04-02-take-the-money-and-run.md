@@ -3,13 +3,11 @@ title: "Take the Money and Run for Office"
 date: 2012-04-02 18:41:29 +0000
 external-url: http://www.thisamericanlife.org/radio-archives/episode/461/take-the-money-and-run-for-office
 hash: 7a6da26c428e8162cb70b6c941941b73
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.thisamericanlife.org
-    path: /radio-archives/episode/461/take-the-money-and-run-for-office
+year: 2012
+month: 04
+scheme: http
+host: www.thisamericanlife.org
+path: /radio-archives/episode/461/take-the-money-and-run-for-office
 
 ---
 

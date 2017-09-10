@@ -3,13 +3,11 @@ title: "Why a JavaScript hater thinks everyone needs to learn JavaScript in the 
 date: 2011-06-10 11:59:10 +0000
 external-url: http://radar.oreilly.com/2011/06/time-to-learn-javascript.html
 hash: 9062c1067ae63f6780c011a3b72ffe6d
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2011/06/time-to-learn-javascript.html
+year: 2011
+month: 06
+scheme: http
+host: radar.oreilly.com
+path: /2011/06/time-to-learn-javascript.html
 
 ---
 

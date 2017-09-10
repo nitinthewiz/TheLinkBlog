@@ -3,13 +3,11 @@ title: "More choice for users:  browser-based opt-out for Google Analytics on th
 date: 2010-03-19 03:18:35 +0000
 external-url: http://analytics.blogspot.com/2010/03/more-choice-for-users-browser-based-opt.html
 hash: 53b17e60fd6a04978ad3d166ba3026b0
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: analytics.blogspot.com
-    path: /2010/03/more-choice-for-users-browser-based-opt.html
+year: 2010
+month: 03
+scheme: http
+host: analytics.blogspot.com
+path: /2010/03/more-choice-for-users-browser-based-opt.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "There is only us"
 date: 2009-04-05 14:32:04 +0000
 external-url: http://www.newsless.org/2009/03/there-is-only-us/
 hash: e42ee5d566fde39574b0e39c31ba8b01
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.newsless.org
-    path: /2009/03/there-is-only-us/
+year: 2009
+month: 04
+scheme: http
+host: www.newsless.org
+path: /2009/03/there-is-only-us/
 
 ---
 

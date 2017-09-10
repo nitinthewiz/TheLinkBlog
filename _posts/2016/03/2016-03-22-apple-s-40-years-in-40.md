@@ -3,13 +3,11 @@ title: "Apple's '40 Years in 40 Seconds' Video Annotated"
 date: 2016-03-22 10:53:32 +0000
 external-url: http://www.512pixels.net/blog/2016/3/40-years-in-40-s
 hash: 304b7bab012a0c1c49e34ff964abe6f9
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: www.512pixels.net
-    path: /blog/2016/3/40-years-in-40-s
+year: 2016
+month: 03
+scheme: http
+host: www.512pixels.net
+path: /blog/2016/3/40-years-in-40-s
 
 ---
 

@@ -3,13 +3,11 @@ title: "Equipment Guide The Podcasting Handbook"
 date: 2014-01-17 02:26:47 +0000
 external-url: http://www.podcastinghandbook.co/podcasting-equipment-guide/
 hash: b83f4f33baa60b3fbc9d53e7e954f71b
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: www.podcastinghandbook.co
-    path: /podcasting-equipment-guide/
+year: 2014
+month: 01
+scheme: http
+host: www.podcastinghandbook.co
+path: /podcasting-equipment-guide/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Lessons learned writing highly available code — Imgur Engineering"
 date: 2015-10-03 18:49:12 +0000
 external-url: https://medium.com/imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00
 hash: 38c134da02d5dab9c7e00d1829fdcaaf
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00
+year: 2015
+month: 10
+scheme: https
+host: medium.com
+path: /imgur-engineering/lessons-learned-writing-highly-available-code-7eaf3d7aae00
 
 ---
 

@@ -3,13 +3,11 @@ title: "Textual: IRC for Mac OS X"
 date: 2010-12-06 19:04:05 +0000
 external-url: http://www.codeux.com/textual/
 hash: a78cdb0825cc046c2bd4063dbca270ae
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.codeux.com
-    path: /textual/
+year: 2010
+month: 12
+scheme: http
+host: www.codeux.com
+path: /textual/
 
 ---
 

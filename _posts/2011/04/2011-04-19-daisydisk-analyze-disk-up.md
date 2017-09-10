@@ -3,13 +3,11 @@ title: "DaisyDisk - Analyze disk usage and free up disk space on Mac"
 date: 2011-04-19 20:27:32 +0000
 external-url: http://www.daisydiskapp.com/
 hash: 8324ef1c23df992948f64d83e0474c2e
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.daisydiskapp.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: www.daisydiskapp.com
+path: /
 
 ---
 

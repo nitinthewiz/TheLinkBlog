@@ -3,13 +3,11 @@ title: "Dynamic Content Support in Amazon CloudFront"
 date: 2012-05-14 17:17:18 +0000
 external-url: http://www.allthingsdistributed.com/2012/05/cloudfront-dynamic-content-support.html
 hash: e88f92eed69cafa1d1589e76bb4ee47e
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.allthingsdistributed.com
-    path: /2012/05/cloudfront-dynamic-content-support.html
+year: 2012
+month: 05
+scheme: http
+host: www.allthingsdistributed.com
+path: /2012/05/cloudfront-dynamic-content-support.html
 
 ---
 

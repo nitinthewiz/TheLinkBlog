@@ -3,13 +3,11 @@ title: "The Architecture of Open Source Applications"
 date: 2011-05-27 11:21:29 +0000
 external-url: http://www.aosabook.org/en/index.html
 hash: b7b6bfb5bb1115d54d2dfd5c440feaac
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.aosabook.org
-    path: /en/index.html
+year: 2011
+month: 05
+scheme: http
+host: www.aosabook.org
+path: /en/index.html
 
 ---
 

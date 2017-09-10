@@ -3,13 +3,11 @@ title: "Facebook giveth, Facebook taketh: A curious case of video apps"
 date: 2012-05-14 21:24:48 +0000
 external-url: http://gigaom.com/2012/05/14/facebook-giveth-facebook-taketh-a-curious-case-of-video-apps/
 hash: d9b81b4c810acb83ce3a4b457b7679f1
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2012/05/14/facebook-giveth-facebook-taketh-a-curious-case-of-video-apps/
+year: 2012
+month: 05
+scheme: http
+host: gigaom.com
+path: /2012/05/14/facebook-giveth-facebook-taketh-a-curious-case-of-video-apps/
 
 ---
 

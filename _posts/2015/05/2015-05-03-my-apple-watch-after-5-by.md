@@ -3,13 +3,11 @@ title: "My Apple Watch after 5 days! - Blog | Living with Usher Syndrome by Moll
 date: 2015-05-03 16:35:58 +0000
 external-url: http://www.mollywatt.com/blog/entry/my-apple-watch-after-5-days
 hash: d6c8112f0bfb59c3c769adb06da5567e
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: www.mollywatt.com
-    path: /blog/entry/my-apple-watch-after-5-days
+year: 2015
+month: 05
+scheme: http
+host: www.mollywatt.com
+path: /blog/entry/my-apple-watch-after-5-days
 
 ---
 

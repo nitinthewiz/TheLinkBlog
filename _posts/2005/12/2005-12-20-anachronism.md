@@ -3,13 +3,11 @@ title: "Anachronism"
 date: 2005-12-20 13:46:43 +0000
 external-url: http://en.wikipedia.org/wiki/Anachronism_%28game%29
 hash: 4e62f484f09aca0fe68cf3ada5e452bc
-annum:
-    year: 2005
-    month: 12
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Anachronism_%28game%29
+year: 2005
+month: 12
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Anachronism_%28game%29
 
 ---
 

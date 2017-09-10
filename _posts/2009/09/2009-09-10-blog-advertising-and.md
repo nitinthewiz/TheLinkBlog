@@ -3,13 +3,11 @@ title: "Blog Advertising, Prescience and Seven Years"
 date: 2009-09-10 03:34:38 +0000
 external-url: http://dashes.com/anil/2009/09/blog-advertising-prescience-and-seven-years.html
 hash: d367f19f53a6cdacf69ae0a8fbc9d9fb
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: dashes.com
-    path: /anil/2009/09/blog-advertising-prescience-and-seven-years.html
+year: 2009
+month: 09
+scheme: http
+host: dashes.com
+path: /anil/2009/09/blog-advertising-prescience-and-seven-years.html
 
 ---
 

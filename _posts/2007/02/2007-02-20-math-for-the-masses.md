@@ -3,13 +3,11 @@ title: "Math for the Masses"
 date: 2007-02-20 22:15:40 +0000
 external-url: http://en.blog.wordpress.com/2007/02/17/math-for-the-masses/
 hash: 7e5b38d74fee3f309f1f0a4b538a8061
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: en.blog.wordpress.com
-    path: /2007/02/17/math-for-the-masses/
+year: 2007
+month: 02
+scheme: http
+host: en.blog.wordpress.com
+path: /2007/02/17/math-for-the-masses/
 
 ---
 

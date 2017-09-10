@@ -3,13 +3,11 @@ title: "Second-gen iPhone in final phase; Apple TV update planned - report"
 date: 2007-12-12 15:00:00 +0000
 external-url: http://appleinsider.com/articles/07/12/12/second_gen_iphone_in_final_phase_apple_tv_update_planned_report
 hash: 4d28e042a59a8a419ea0a9189dfdb82f
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: appleinsider.com
-    path: /articles/07/12/12/second_gen_iphone_in_final_phase_apple_tv_update_planned_report
+year: 2007
+month: 12
+scheme: http
+host: appleinsider.com
+path: /articles/07/12/12/second_gen_iphone_in_final_phase_apple_tv_update_planned_report
 
 ---
 

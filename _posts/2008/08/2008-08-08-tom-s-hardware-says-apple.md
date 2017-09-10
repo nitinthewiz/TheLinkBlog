@@ -3,13 +3,11 @@ title: "Tom's Hardware says Apple and PC prices are equivalent"
 date: 2008-08-08 01:00:00 +0000
 external-url: http://www.tuaw.com/2008/08/07/toms-hardware-says-apple-and-pc-prices-are-equivalent/
 hash: 6d4f1477e41337ecc69896a8b6be96d3
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/08/07/toms-hardware-says-apple-and-pc-prices-are-equivalent/
+year: 2008
+month: 08
+scheme: http
+host: www.tuaw.com
+path: /2008/08/07/toms-hardware-says-apple-and-pc-prices-are-equivalent/
 
 ---
 

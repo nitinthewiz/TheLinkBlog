@@ -3,13 +3,11 @@ title: "System Outages Explained"
 date: 2009-03-14 04:40:12 +0000
 external-url: https://uto.asu.edu/blog/2009/03/05/system-outages-explained/
 hash: 3f3e58d94313e84b79188145554999df
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: https
-    host: uto.asu.edu
-    path: /blog/2009/03/05/system-outages-explained/
+year: 2009
+month: 03
+scheme: https
+host: uto.asu.edu
+path: /blog/2009/03/05/system-outages-explained/
 
 ---
 

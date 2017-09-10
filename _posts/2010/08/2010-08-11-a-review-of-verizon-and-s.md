@@ -3,13 +3,11 @@ title: "A Review of Verizon and Google's Net Neutrality Proposal"
 date: 2010-08-11 03:09:13 +0000
 external-url: http://www.eff.org/deeplinks/2010/08/google-verizon-netneutrality
 hash: 66595593d46e11350aa780eadc696939
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.eff.org
-    path: /deeplinks/2010/08/google-verizon-netneutrality
+year: 2010
+month: 08
+scheme: http
+host: www.eff.org
+path: /deeplinks/2010/08/google-verizon-netneutrality
 
 ---
 

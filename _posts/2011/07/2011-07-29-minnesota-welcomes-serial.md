@@ -3,13 +3,11 @@ title: "Minnesota Welcomes Serial Tech Entrepreneur John Tedesco"
 date: 2011-07-29 18:15:32 +0000
 external-url: http://tech.mn/news/2011/07/29/john-tedesco/
 hash: 21c8bb398cb870a314dca5fd10e7a974
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2011/07/29/john-tedesco/
+year: 2011
+month: 07
+scheme: http
+host: tech.mn
+path: /news/2011/07/29/john-tedesco/
 
 ---
 

@@ -3,13 +3,11 @@ title: "inessential: Love"
 date: 2015-07-01 01:25:58 +0000
 external-url: http://inessential.com/2015/06/30/love
 hash: 6e019e9b06a1f408c85983c4962f9d7b
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: inessential.com
-    path: /2015/06/30/love
+year: 2015
+month: 07
+scheme: http
+host: inessential.com
+path: /2015/06/30/love
 
 ---
 

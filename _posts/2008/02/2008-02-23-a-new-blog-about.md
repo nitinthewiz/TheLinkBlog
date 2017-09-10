@@ -3,13 +3,11 @@ title: "A New Blog About Innovation"
 date: 2008-02-23 14:41:26 +0000
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/02/a-new-blog-abou.html
 hash: 9af264aac47e6838e2d93b928717c264
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: graemethickins.typepad.com
-    path: /graeme_blogs_here/2008/02/a-new-blog-abou.html
+year: 2008
+month: 02
+scheme: http
+host: graemethickins.typepad.com
+path: /graeme_blogs_here/2008/02/a-new-blog-abou.html
 
 ---
 

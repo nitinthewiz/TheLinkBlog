@@ -3,13 +3,11 @@ title: "Introduction to Node.js with Ryan Dahl"
 date: 2011-04-07 17:05:16 +0000
 external-url: http://ontwik.com/javascript/introduction-to-node-js-with-ryan-dahl/
 hash: bf1c8828331a46bda2f8fd9526aa34e7
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: ontwik.com
-    path: /javascript/introduction-to-node-js-with-ryan-dahl/
+year: 2011
+month: 04
+scheme: http
+host: ontwik.com
+path: /javascript/introduction-to-node-js-with-ryan-dahl/
 
 ---
 

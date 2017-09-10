@@ -3,13 +3,11 @@ title: "Gibson Brothers"
 date: 2014-10-07 00:56:06 +0000
 external-url: http://www.gibsonbrothers.com/
 hash: 14e223a741569e049b0cee25510c3f28
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.gibsonbrothers.com
-    path: /
+year: 2014
+month: 10
+scheme: http
+host: www.gibsonbrothers.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dissecting Message Queues - Brave New Geek"
 date: 2014-09-06 14:57:24 +0000
 external-url: http://www.bravenewgeek.com/dissecting-message-queues/
 hash: c5a95816af57470fa8a4fca8fbc9d00f
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: www.bravenewgeek.com
-    path: /dissecting-message-queues/
+year: 2014
+month: 09
+scheme: http
+host: www.bravenewgeek.com
+path: /dissecting-message-queues/
 
 ---
 

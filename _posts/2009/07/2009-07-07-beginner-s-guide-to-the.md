@@ -3,13 +3,11 @@ title: "Beginner's Guide to the Tour de France for 2009"
 date: 2009-07-07 15:29:56 +0000
 external-url: http://www.tdfblog.com/2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
 hash: e24d460702030bbf3e14744107f19ee7
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tdfblog.com
-    path: /2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
+year: 2009
+month: 07
+scheme: http
+host: www.tdfblog.com
+path: /2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
 
 ---
 

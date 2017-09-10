@@ -3,13 +3,11 @@ title: "What Happened: Adobe Creative Cloud Update Bug"
 date: 2016-02-17 11:14:42 +0000
 external-url: https://www.backblaze.com/blog/adobe-creative-cloud-update-bug/
 hash: 6a67ae1631dda04a2d50a941513139ae
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.backblaze.com
-    path: /blog/adobe-creative-cloud-update-bug/
+year: 2016
+month: 02
+scheme: https
+host: www.backblaze.com
+path: /blog/adobe-creative-cloud-update-bug/
 
 ---
 

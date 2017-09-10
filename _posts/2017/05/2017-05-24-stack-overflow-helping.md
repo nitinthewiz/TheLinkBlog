@@ -3,13 +3,11 @@ title: "Stack Overflow: Helping One Million Developers Exit Vim - Stack Overflow
 date: 2017-05-24 19:34:51 +0000
 external-url: https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/#.WSR2gBF9z8k.twitter
 hash: a0df2e79aabd614855247dacaea8157f
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: stackoverflow.blog
-    path: /2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
+year: 2017
+month: 05
+scheme: https
+host: stackoverflow.blog
+path: /2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
 
 ---
 

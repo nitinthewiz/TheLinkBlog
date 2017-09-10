@@ -3,13 +3,11 @@ title: "Untitled (http://www.startribune.com/nation/114662824.html)"
 date: 2011-01-26 20:17:34 +0000
 external-url: http://www.startribune.com/nation/114662824.html
 hash: f4fb27e544e273032e04041b3d9e06a9
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /nation/114662824.html
+year: 2011
+month: 01
+scheme: http
+host: www.startribune.com
+path: /nation/114662824.html
 
 ---
 

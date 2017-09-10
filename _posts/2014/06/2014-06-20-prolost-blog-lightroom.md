@@ -3,13 +3,11 @@ title: "Prolost - Blog - Lightroom for Your Camera"
 date: 2014-06-20 04:51:06 +0000
 external-url: http://prolost.com/lriphone
 hash: 617ead8f48e0fb0539c9c2691282266c
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: http
-    host: prolost.com
-    path: /lriphone
+year: 2014
+month: 06
+scheme: http
+host: prolost.com
+path: /lriphone
 
 ---
 

@@ -3,13 +3,11 @@ title: "People hosting their own servers"
 date: 2010-07-08 09:49:31 +0000
 external-url: http://scripting.com/stories/2010/07/08/peopleHostingTheirOwnServe.html
 hash: bba3426ff4a063ca7f5f44cceb445a59
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/07/08/peopleHostingTheirOwnServe.html
+year: 2010
+month: 07
+scheme: http
+host: scripting.com
+path: /stories/2010/07/08/peopleHostingTheirOwnServe.html
 
 ---
 

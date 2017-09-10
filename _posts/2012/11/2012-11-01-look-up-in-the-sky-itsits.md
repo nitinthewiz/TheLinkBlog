@@ -3,13 +3,11 @@ title: "Look! Up in the sky! Itsits its an amazing optics display"
 date: 2012-11-01 15:16:23 +0000
 external-url: http://blogs.discovermagazine.com/badastronomy/2012/11/01/look-up-in-the-sky-its-its-its-an-amazing-optics-display/
 hash: 8d79878e7a41f6c4d99cf8d268826b04
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: blogs.discovermagazine.com
-    path: /badastronomy/2012/11/01/look-up-in-the-sky-its-its-its-an-amazing-optics-display/
+year: 2012
+month: 11
+scheme: http
+host: blogs.discovermagazine.com
+path: /badastronomy/2012/11/01/look-up-in-the-sky-its-its-its-an-amazing-optics-display/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Automattic acquires spellchecking company After the Deadline"
 date: 2009-09-09 04:08:25 +0000
 external-url: http://venturebeat.com/2009/09/08/automattic-acquires-spellchecking-company-after-the-deadline/
 hash: 70887c1ba99319ab69ea6be3a30daa18
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/09/08/automattic-acquires-spellchecking-company-after-the-deadline/
+year: 2009
+month: 09
+scheme: http
+host: venturebeat.com
+path: /2009/09/08/automattic-acquires-spellchecking-company-after-the-deadline/
 
 ---
 

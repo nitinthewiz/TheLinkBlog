@@ -3,13 +3,11 @@ title: "WorkSimple"
 date: 2010-12-09 05:34:27 +0000
 external-url: http://www.getworksimple.com/
 hash: a0da63e97014e6d6f0c2602a573ddb17
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.getworksimple.com
-    path: /
+year: 2010
+month: 12
+scheme: http
+host: www.getworksimple.com
+path: /
 
 ---
 

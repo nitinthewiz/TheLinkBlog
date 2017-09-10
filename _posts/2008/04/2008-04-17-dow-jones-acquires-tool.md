@@ -3,13 +3,11 @@ title: "Dow Jones Acquires Business Networking Tool Generate"
 date: 2008-04-17 20:17:10 +0000
 external-url: http://gigaom.com/2008/04/17/419-dow-jones-acquires-sales-social-networking-tool-generate/
 hash: c17c86e3104643c0a727f553f4c1fdbd
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/04/17/419-dow-jones-acquires-sales-social-networking-tool-generate/
+year: 2008
+month: 04
+scheme: http
+host: gigaom.com
+path: /2008/04/17/419-dow-jones-acquires-sales-social-networking-tool-generate/
 
 ---
 

@@ -3,13 +3,11 @@ title: "State Senator Scott Dibble: Southwest Minneapolis Anti-Bullying Crusader
 date: 2010-11-29 13:26:17 +0000
 external-url: http://southwestminneapolis.patch.com/articles/state-senator-scott-dibble-southwest-minneapolis-anti-bullying-crusader
 hash: 9deec1ee8c15c3470052eeedda1016df
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: southwestminneapolis.patch.com
-    path: /articles/state-senator-scott-dibble-southwest-minneapolis-anti-bullying-crusader
+year: 2010
+month: 11
+scheme: http
+host: southwestminneapolis.patch.com
+path: /articles/state-senator-scott-dibble-southwest-minneapolis-anti-bullying-crusader
 
 ---
 

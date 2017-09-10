@@ -3,13 +3,11 @@ title: "Happy Birthday - the Wiki Celebrates its Sweet 16"
 date: 2011-03-25 09:15:21 +0000
 external-url: http://www.readwriteweb.com/cloud/2011/03/happy-birthday---the-wiki-cele.php
 hash: 00333623c5a3a69610a48aabb05eb2fd
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /cloud/2011/03/happy-birthday---the-wiki-cele.php
+year: 2011
+month: 03
+scheme: http
+host: www.readwriteweb.com
+path: /cloud/2011/03/happy-birthday---the-wiki-cele.php
 
 ---
 

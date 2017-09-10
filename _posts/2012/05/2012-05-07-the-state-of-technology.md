@@ -3,13 +3,11 @@ title: "The state of technology in Minnesota"
 date: 2012-05-07 16:25:08 +0000
 external-url: http://www.startribune.com/business/150227075.html
 hash: 9855ea522a0300d763729b5b6be17d4c
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/150227075.html
+year: 2012
+month: 05
+scheme: http
+host: www.startribune.com
+path: /business/150227075.html
 
 ---
 

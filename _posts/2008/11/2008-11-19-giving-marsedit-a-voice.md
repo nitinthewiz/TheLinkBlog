@@ -3,13 +3,11 @@ title: "Giving MarsEdit A Voice"
 date: 2008-11-19 00:54:13 +0000
 external-url: http://www.red-sweater.com/blog/640/giving-marsedit-a-voice
 hash: 8055cc78c53a1e50908701d98e6a567b
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/640/giving-marsedit-a-voice
+year: 2008
+month: 11
+scheme: http
+host: www.red-sweater.com
+path: /blog/640/giving-marsedit-a-voice
 
 ---
 

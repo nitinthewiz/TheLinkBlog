@@ -3,13 +3,11 @@ title: "Advanced Textual Confirmation protects your site from the form spam"
 date: 2007-08-19 04:41:38 +0000
 external-url: http://bbantispam.com/atc/
 hash: 7c70baffb5ca4f550379c7c6ea3afeee
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: bbantispam.com
-    path: /atc/
+year: 2007
+month: 08
+scheme: http
+host: bbantispam.com
+path: /atc/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Caballo Blancos Last Run - The Micah True Story"
 date: 2012-05-22 04:59:34 +0000
 external-url: http://www.nytimes.com/2012/05/21/sports/caballo-blancos-last-run-the-micah-true-story.html
 hash: 7587497aa6760586405843019525eaf3
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /2012/05/21/sports/caballo-blancos-last-run-the-micah-true-story.html
+year: 2012
+month: 05
+scheme: http
+host: www.nytimes.com
+path: /2012/05/21/sports/caballo-blancos-last-run-the-micah-true-story.html
 
 ---
 

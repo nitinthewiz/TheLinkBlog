@@ -3,13 +3,11 @@ title: "JQuery File Upload Demo"
 date: 2012-04-17 17:30:20 +0000
 external-url: http://blueimp.github.io/jQuery-File-Upload/
 hash: cbe821fc8db8f3323184a4a28d7bb063
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: blueimp.github.io
-    path: /jQuery-File-Upload/
+year: 2012
+month: 04
+scheme: http
+host: blueimp.github.io
+path: /jQuery-File-Upload/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Manage Your Day-to-Day"
 date: 2013-06-12 01:22:54 +0000
 external-url: http://99u.com/book/manage-your-day-to-day-2
 hash: 18383e3dad1650e3de9dbe9bd38c1c02
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: 99u.com
-    path: /book/manage-your-day-to-day-2
+year: 2013
+month: 06
+scheme: http
+host: 99u.com
+path: /book/manage-your-day-to-day-2
 
 ---
 

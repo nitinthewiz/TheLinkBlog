@@ -3,13 +3,11 @@ title: "On Day One — The Hungry and Foolish"
 date: 2014-11-08 04:55:59 +0000
 external-url: http://www.thehungryandfoolish.com/home/2014/11/6/day-one-review
 hash: 07f4c8fc59b062fe88d26406d7c2c6c8
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: www.thehungryandfoolish.com
-    path: /home/2014/11/6/day-one-review
+year: 2014
+month: 11
+scheme: http
+host: www.thehungryandfoolish.com
+path: /home/2014/11/6/day-one-review
 
 ---
 

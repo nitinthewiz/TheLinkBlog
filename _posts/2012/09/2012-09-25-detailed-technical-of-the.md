@@ -3,13 +3,11 @@ title: "Detailed Technical Analysis of the Lightning Connector"
 date: 2012-09-25 19:31:03 +0000
 external-url: http://brockerhoff.net/blog/2012/09/23/boom-pins/
 hash: e622a8d3ca4c53410ee61076f5002594
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: brockerhoff.net
-    path: /blog/2012/09/23/boom-pins/
+year: 2012
+month: 09
+scheme: http
+host: brockerhoff.net
+path: /blog/2012/09/23/boom-pins/
 
 ---
 

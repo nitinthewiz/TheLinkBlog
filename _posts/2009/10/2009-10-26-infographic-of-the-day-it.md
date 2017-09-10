@@ -3,13 +3,11 @@ title: "Infographic of the Day: It's a Small World, Afterall"
 date: 2009-10-26 04:18:33 +0000
 external-url: http://www.fastcompany.com/blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
 hash: c9e2b720e390d1b114f81d1910633ace
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.fastcompany.com
-    path: /blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
+year: 2009
+month: 10
+scheme: http
+host: www.fastcompany.com
+path: /blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
 
 ---
 

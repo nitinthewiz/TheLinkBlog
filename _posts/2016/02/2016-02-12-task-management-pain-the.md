@@ -3,13 +3,11 @@ title: "Task Management Pain Points – The Overachiever"
 date: 2016-02-12 03:06:01 +0000
 external-url: http://macsparky.com/blog/2016/2/task-management-pain-points-the-overachiever
 hash: 18e4e307297281b8f867fba3350ee815
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2016/2/task-management-pain-points-the-overachiever
+year: 2016
+month: 02
+scheme: http
+host: macsparky.com
+path: /blog/2016/2/task-management-pain-points-the-overachiever
 
 ---
 

@@ -3,13 +3,11 @@ title: "Computer Upgrades"
 date: 2008-03-10 02:44:33 +0000
 external-url: http://www.petersens.ws/2008/03/09/computer-upgrades
 hash: 59e75df6289ae80556630cfae2d99991
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.petersens.ws
-    path: /2008/03/09/computer-upgrades
+year: 2008
+month: 03
+scheme: http
+host: www.petersens.ws
+path: /2008/03/09/computer-upgrades
 
 ---
 

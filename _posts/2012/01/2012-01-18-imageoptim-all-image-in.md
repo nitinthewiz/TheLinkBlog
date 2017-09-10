@@ -3,13 +3,11 @@ title: "ImageOptim — all image compression tools in one Mac app"
 date: 2012-01-18 21:21:18 +0000
 external-url: http://imageoptim.pornel.net/
 hash: f4207d58b39d55e9ba315bb90c419dff
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: imageoptim.pornel.net
-    path: /
+year: 2012
+month: 01
+scheme: http
+host: imageoptim.pornel.net
+path: /
 
 ---
 

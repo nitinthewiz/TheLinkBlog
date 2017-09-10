@@ -3,13 +3,11 @@ title: "Did You Get A Magic Mouse This Holiday? Download MagicPrefs Immediately.
 date: 2009-12-31 05:39:24 +0000
 external-url: http://techcrunch.com/2009/12/30/magic-mouse-multi-touch-magicprefs/
 hash: 69ab161d69c7b8efc5fc45104ba1b95a
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/12/30/magic-mouse-multi-touch-magicprefs/
+year: 2009
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2009/12/30/magic-mouse-multi-touch-magicprefs/
 
 ---
 

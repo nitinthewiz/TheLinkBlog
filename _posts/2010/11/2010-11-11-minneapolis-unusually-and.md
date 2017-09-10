@@ -3,13 +3,11 @@ title: "Minneapolis ‘Unusually Successful’ and ‘Respected by Tech Insiders
 date: 2010-11-11 15:24:21 +0000
 external-url: http://minnov8.com/2010/11/11/minneapolis-unusually-successful-and-respected-by-tech-insiders/
 hash: e0051a898276469ac4f60d3029055782
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: minnov8.com
-    path: /2010/11/11/minneapolis-unusually-successful-and-respected-by-tech-insiders/
+year: 2010
+month: 11
+scheme: http
+host: minnov8.com
+path: /2010/11/11/minneapolis-unusually-successful-and-respected-by-tech-insiders/
 
 ---
 

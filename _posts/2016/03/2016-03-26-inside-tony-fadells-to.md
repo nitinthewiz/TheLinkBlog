@@ -3,13 +3,11 @@ title: "Inside Tony Fadell’s Struggle to Build Nest"
 date: 2016-03-26 00:08:42 +0000
 external-url: https://www.theinformation.com/inside-tony-fadells-struggle-to-build-nest
 hash: 88cb8e109e1a9296a33526f19449529a
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: www.theinformation.com
-    path: /inside-tony-fadells-struggle-to-build-nest
+year: 2016
+month: 03
+scheme: https
+host: www.theinformation.com
+path: /inside-tony-fadells-struggle-to-build-nest
 
 ---
 

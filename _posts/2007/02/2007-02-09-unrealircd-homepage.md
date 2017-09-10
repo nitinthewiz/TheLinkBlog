@@ -3,13 +3,11 @@ title: "UnrealIRCd Homepage"
 date: 2007-02-09 05:02:00 +0000
 external-url: http://www.unrealircd.com/
 hash: 1856c4a966b445b2fff8f9b5970b7c1e
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.unrealircd.com
-    path: /
+year: 2007
+month: 02
+scheme: http
+host: www.unrealircd.com
+path: /
 
 ---
 

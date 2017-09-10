@@ -3,13 +3,11 @@ title: "Wikiteam - tools for archiving wikis"
 date: 2012-05-15 05:25:05 +0000
 external-url: http://code.google.com/p/wikiteam/
 hash: 3e9e16411bd11ff438d436d69da55fdd
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: code.google.com
-    path: /p/wikiteam/
+year: 2012
+month: 05
+scheme: http
+host: code.google.com
+path: /p/wikiteam/
 
 ---
 

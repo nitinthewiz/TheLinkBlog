@@ -3,13 +3,11 @@ title: "The Best BB-8 Yet Recognizes Voice Commands and Comes When It's Called"
 date: 2016-02-19 08:22:48 +0000
 external-url: http://toyland.gizmodo.com/the-best-bb-8-yet-recognizes-voice-commands-and-comes-w-1758410074
 hash: 50947b4085b6852b05f090c898d05901
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: toyland.gizmodo.com
-    path: /the-best-bb-8-yet-recognizes-voice-commands-and-comes-w-1758410074
+year: 2016
+month: 02
+scheme: http
+host: toyland.gizmodo.com
+path: /the-best-bb-8-yet-recognizes-voice-commands-and-comes-w-1758410074
 
 ---
 

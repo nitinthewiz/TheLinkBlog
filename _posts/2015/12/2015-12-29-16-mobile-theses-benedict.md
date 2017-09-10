@@ -3,13 +3,11 @@ title: "16 mobile theses — Benedict Evans"
 date: 2015-12-29 11:46:04 +0000
 external-url: http://ben-evans.com/benedictevans/2015/12/15/16-mobile-theses
 hash: c6c5bc7c610cdff9cfc8aa12a6ae03aa
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: ben-evans.com
-    path: /benedictevans/2015/12/15/16-mobile-theses
+year: 2015
+month: 12
+scheme: http
+host: ben-evans.com
+path: /benedictevans/2015/12/15/16-mobile-theses
 
 ---
 

@@ -3,13 +3,11 @@ title: "99 Days Of Freedom"
 date: 2014-07-27 02:38:27 +0000
 external-url: http://99daysoffreedom.com/
 hash: ff1e03dbd2ac3ca79316b018364ab64e
-annum:
-    year: 2014
-    month: 07
-url-parts:
-    scheme: http
-    host: 99daysoffreedom.com
-    path: /
+year: 2014
+month: 07
+scheme: http
+host: 99daysoffreedom.com
+path: /
 
 ---
 

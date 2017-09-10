@@ -3,13 +3,11 @@ title: "Welcome to Jinja2"
 date: 2012-11-01 17:01:45 +0000
 external-url: http://jinja.pocoo.org/docs/latest/
 hash: 95cc048bd915d9b76afc74eb34e5a72b
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: jinja.pocoo.org
-    path: /docs/latest/
+year: 2012
+month: 11
+scheme: http
+host: jinja.pocoo.org
+path: /docs/latest/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Newest Thinking On New Media"
 date: 2011-05-19 01:05:20 +0000
 external-url: http://www.twistimage.com/blog/archives/the-newest-thinking-on-new-media/
 hash: 3828258c5462c05b79c8a9a3515a4dbc
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.twistimage.com
-    path: /blog/archives/the-newest-thinking-on-new-media/
+year: 2011
+month: 05
+scheme: http
+host: www.twistimage.com
+path: /blog/archives/the-newest-thinking-on-new-media/
 
 ---
 

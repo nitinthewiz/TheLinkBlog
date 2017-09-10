@@ -3,13 +3,11 @@ title: "InstallingSecurityTools - Community Ubuntu Documentation"
 date: 2011-08-02 05:29:47 +0000
 external-url: https://help.ubuntu.com/community/InstallingSecurityTools
 hash: 6b35d04d99ac633de935e973e5a0971e
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: https
-    host: help.ubuntu.com
-    path: /community/InstallingSecurityTools
+year: 2011
+month: 08
+scheme: https
+host: help.ubuntu.com
+path: /community/InstallingSecurityTools
 
 ---
 

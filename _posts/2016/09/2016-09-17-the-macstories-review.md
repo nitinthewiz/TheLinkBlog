@@ -3,13 +3,11 @@ title: "The MacStories Review"
 date: 2016-09-17 01:26:11 +0000
 external-url: https://www.macstories.net/stories/watchos-3-review/
 hash: a1b3cbceb516c293349d37b5cc04a7ed
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /stories/watchos-3-review/
+year: 2016
+month: 09
+scheme: https
+host: www.macstories.net
+path: /stories/watchos-3-review/
 
 ---
 

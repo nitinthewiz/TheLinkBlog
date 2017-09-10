@@ -3,13 +3,11 @@ title: "‘Commitment to Openness and Freedom’"
 date: 2010-08-10 00:14:34 +0000
 external-url: http://www.androidcentral.com/google-pulls-easy-root-market
 hash: 73a141fd0940c7a74aba1523990fc7d4
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.androidcentral.com
-    path: /google-pulls-easy-root-market
+year: 2010
+month: 08
+scheme: http
+host: www.androidcentral.com
+path: /google-pulls-easy-root-market
 
 ---
 

@@ -3,13 +3,11 @@ title: "ADOGO Pet Hotel"
 date: 2011-07-10 16:36:08 +0000
 external-url: http://www.adogopethotels.com/
 hash: b14f5c5b89d812eb730c8f1377adabd8
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.adogopethotels.com
-    path: /
+year: 2011
+month: 07
+scheme: http
+host: www.adogopethotels.com
+path: /
 
 ---
 

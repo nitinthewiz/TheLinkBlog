@@ -3,13 +3,11 @@ title: "First Look: Twin 1.0 for Mac OS X"
 date: 2009-05-16 03:38:50 +0000
 external-url: http://www.tuaw.com/2009/05/15/first-look-twin-1-0-for-mac-os-x/
 hash: e7f218770a160bc11a3283031894e938
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/05/15/first-look-twin-1-0-for-mac-os-x/
+year: 2009
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2009/05/15/first-look-twin-1-0-for-mac-os-x/
 
 ---
 

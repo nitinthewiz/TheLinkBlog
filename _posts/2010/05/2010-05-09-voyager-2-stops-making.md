@@ -3,13 +3,11 @@ title: "Voyager 2 stops making sense"
 date: 2010-05-09 07:01:26 +0000
 external-url: http://arstechnica.com/science/2010/05/voyager-2-stops-making-sense/
 hash: 09b33814bceadc3049c11dc4c4d3b9c8
-annum:
-    year: 2010
-    month: 05
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /science/2010/05/voyager-2-stops-making-sense/
+year: 2010
+month: 05
+scheme: http
+host: arstechnica.com
+path: /science/2010/05/voyager-2-stops-making-sense/
 
 ---
 

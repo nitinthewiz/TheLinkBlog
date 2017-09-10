@@ -3,13 +3,11 @@ title: "The3rdPlace"
 date: 2011-01-12 16:36:22 +0000
 external-url: http://the3rdplace.ning.com
 hash: 8e9aabaad9f5502fa1d65a6d422ba6f4
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: the3rdplace.ning.com
-    path: 
+year: 2011
+month: 01
+scheme: http
+host: the3rdplace.ning.com
+path: 
 
 ---
 

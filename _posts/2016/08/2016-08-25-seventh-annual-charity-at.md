@@ -3,13 +3,11 @@ title: "Seventh annual charity auction at SPS continues tradition of giving back
 date: 2016-08-25 18:35:09 +0000
 external-url: http://www.spscommerce.com/blog/seventh-annual-charity-auction-sps-continues-tradition-giving-back/
 hash: fa67b4d5c854918a405e1c26c9abbf06
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: www.spscommerce.com
-    path: /blog/seventh-annual-charity-auction-sps-continues-tradition-giving-back/
+year: 2016
+month: 08
+scheme: http
+host: www.spscommerce.com
+path: /blog/seventh-annual-charity-auction-sps-continues-tradition-giving-back/
 
 ---
 

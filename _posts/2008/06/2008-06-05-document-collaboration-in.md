@@ -3,13 +3,11 @@ title: "Document Collaboration in Real-Time with SubEthaEdit"
 date: 2008-06-05 03:34:34 +0000
 external-url: http://performancing.com/
 hash: 6799d75a037f84e29c9fe5262ef150db
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: performancing.com
-    path: /
+year: 2008
+month: 06
+scheme: http
+host: performancing.com
+path: /
 
 ---
 

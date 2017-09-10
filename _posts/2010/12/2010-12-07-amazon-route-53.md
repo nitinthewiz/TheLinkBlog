@@ -3,13 +3,11 @@ title: "Amazon Route 53"
 date: 2010-12-07 19:34:24 +0000
 external-url: http://aws.amazon.com/route53/
 hash: a48ef02a407e6e70990576667a5dc4a5
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: aws.amazon.com
-    path: /route53/
+year: 2010
+month: 12
+scheme: http
+host: aws.amazon.com
+path: /route53/
 
 ---
 

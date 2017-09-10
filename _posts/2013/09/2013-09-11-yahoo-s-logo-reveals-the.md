@@ -3,13 +3,11 @@ title: "Yahoo's Logo Reveals the Worst Aspects of the Engineering Mindset"
 date: 2013-09-11 02:25:55 +0000
 external-url: http://glog.glennf.com/blog/2013/9/6/yahoos-logo-reveals-the-worst-aspects-of-engineering-mindset
 hash: 88c05c5c4301116c95f3e9187d9c5c1c
-annum:
-    year: 2013
-    month: 09
-url-parts:
-    scheme: http
-    host: glog.glennf.com
-    path: /blog/2013/9/6/yahoos-logo-reveals-the-worst-aspects-of-engineering-mindset
+year: 2013
+month: 09
+scheme: http
+host: glog.glennf.com
+path: /blog/2013/9/6/yahoos-logo-reveals-the-worst-aspects-of-engineering-mindset
 
 ---
 

@@ -3,13 +3,11 @@ title: "Eleven Experts Share The Secrets of Scheduling Everything in Your Calend
 date: 2017-07-15 01:36:45 +0000
 external-url: http://scheduleu.org/2017/07/09/experts-share-the-secrets-of-scheduling-everything-in-your-calendar/
 hash: 874cf9154f89daa407ac08b41b76be1b
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: scheduleu.org
-    path: /2017/07/09/experts-share-the-secrets-of-scheduling-everything-in-your-calendar/
+year: 2017
+month: 07
+scheme: http
+host: scheduleu.org
+path: /2017/07/09/experts-share-the-secrets-of-scheduling-everything-in-your-calendar/
 
 ---
 

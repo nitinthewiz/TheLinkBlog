@@ -3,13 +3,11 @@ title: "Soon to Launch: Lists"
 date: 2009-10-01 00:26:54 +0000
 external-url: http://blog.twitter.com/2009/09/soon-to-launch-lists.html
 hash: 136d41b3487f8f20d81e6b68a28b7e20
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2009/09/soon-to-launch-lists.html
+year: 2009
+month: 10
+scheme: http
+host: blog.twitter.com
+path: /2009/09/soon-to-launch-lists.html
 
 ---
 

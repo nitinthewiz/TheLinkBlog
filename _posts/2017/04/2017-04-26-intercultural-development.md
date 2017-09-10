@@ -3,13 +3,11 @@ title: "Intercultural Development Inventory"
 date: 2017-04-26 20:29:11 +0000
 external-url: https://idiinventory.com/
 hash: 9315b9e331f67acf86c8ec4dba6a1128
-annum:
-    year: 2017
-    month: 04
-url-parts:
-    scheme: https
-    host: idiinventory.com
-    path: /
+year: 2017
+month: 04
+scheme: https
+host: idiinventory.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Turn Your Favorite RSS Feeds into a Newspaper with FeedJournal [Newsread
 date: 2008-02-21 01:00:00 +0000
 external-url: http://lifehacker.com/358786/turn-your-favorite-rss-feeds-into-a-newspaper-with-feedjournal
 hash: 6ec6d675cfd05888ba718b3d339dcba4
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /358786/turn-your-favorite-rss-feeds-into-a-newspaper-with-feedjournal
+year: 2008
+month: 02
+scheme: http
+host: lifehacker.com
+path: /358786/turn-your-favorite-rss-feeds-into-a-newspaper-with-feedjournal
 
 ---
 

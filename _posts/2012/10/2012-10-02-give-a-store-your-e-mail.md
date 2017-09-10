@@ -3,13 +3,11 @@ title: "Give a store your e-mail address, it'll find you on Facebook"
 date: 2012-10-02 02:09:42 +0000
 external-url: http://arstechnica.com/business/2012/10/give-a-store-your-e-mail-address-itll-find-you-on-facebook/
 hash: 3bc7df5a6e935990b7a1543ba4e93ec9
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /business/2012/10/give-a-store-your-e-mail-address-itll-find-you-on-facebook/
+year: 2012
+month: 10
+scheme: http
+host: arstechnica.com
+path: /business/2012/10/give-a-store-your-e-mail-address-itll-find-you-on-facebook/
 
 ---
 

@@ -3,13 +3,11 @@ title: "You don't have problems, only projects"
 date: 2016-02-27 11:42:57 +0000
 external-url: http://www.next-action.eu/2016/02/23/you-dont-have-problems-only-projects/
 hash: 46ada4878e5a89a384aeb2f2b1fcfc73
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.next-action.eu
-    path: /2016/02/23/you-dont-have-problems-only-projects/
+year: 2016
+month: 02
+scheme: http
+host: www.next-action.eu
+path: /2016/02/23/you-dont-have-problems-only-projects/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Startup Alvenda's 'social commerce' technology bags $5"
 date: 2010-01-21 02:25:59 +0000
 external-url: http://www.minnpost.com/minnov8/2010/01/startup-alvendas-social-commerce-technology-bags-5-million-venture-capital
 hash: b1051dd039a1605cfdf007d3f33437be
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: www.minnpost.com
-    path: /minnov8/2010/01/startup-alvendas-social-commerce-technology-bags-5-million-venture-capital
+year: 2010
+month: 01
+scheme: http
+host: www.minnpost.com
+path: /minnov8/2010/01/startup-alvendas-social-commerce-technology-bags-5-million-venture-capital
 
 ---
 

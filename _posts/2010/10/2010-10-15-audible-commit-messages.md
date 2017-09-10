@@ -3,13 +3,11 @@ title: "Audible Commit Messages with CommitBot"
 date: 2010-10-15 13:14:33 +0000
 external-url: http://blog.gleitzman.com/post/1216562825
 hash: 21917590b8932ea8b9d24415f1dae8dd
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.gleitzman.com
-    path: /post/1216562825
+year: 2010
+month: 10
+scheme: http
+host: blog.gleitzman.com
+path: /post/1216562825
 
 ---
 

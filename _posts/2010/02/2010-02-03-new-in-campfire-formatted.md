@@ -3,13 +3,11 @@ title: "New in Campfire: Formatted Tweets"
 date: 2010-02-03 05:25:47 +0000
 external-url: http://productblogarchive.37signals.com/products/2010/01/new-in-campfire-formatted-tweets.html
 hash: 9f6452c751902a261c79a3691de7061a
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: productblogarchive.37signals.com
-    path: /products/2010/01/new-in-campfire-formatted-tweets.html
+year: 2010
+month: 02
+scheme: http
+host: productblogarchive.37signals.com
+path: /products/2010/01/new-in-campfire-formatted-tweets.html
 
 ---
 

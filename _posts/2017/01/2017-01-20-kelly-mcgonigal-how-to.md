@@ -3,13 +3,11 @@ title: "Kelly McGonigal: How to make stress your friend | TED Talk | TED.com"
 date: 2017-01-20 02:06:22 +0000
 external-url: http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend
 hash: a6e0b0648aa67271ffc4b062dbc7dfdc
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/kelly_mcgonigal_how_to_make_stress_your_friend
+year: 2017
+month: 01
+scheme: http
+host: www.ted.com
+path: /talks/kelly_mcgonigal_how_to_make_stress_your_friend
 
 ---
 

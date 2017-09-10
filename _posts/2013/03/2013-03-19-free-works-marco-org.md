@@ -3,13 +3,11 @@ title: "Free works Marco.org"
 date: 2013-03-19 21:05:30 +0000
 external-url: http://www.marco.org/2013/03/19/free-works
 hash: b99fd8f6f1420b81efe013b277f2d94b
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2013/03/19/free-works
+year: 2013
+month: 03
+scheme: http
+host: www.marco.org
+path: /2013/03/19/free-works
 
 ---
 

@@ -3,13 +3,11 @@ title: "Lighting Up TOC2009"
 date: 2009-02-15 11:33:49 +0000
 external-url: http://duncandavidson.com/2009/02/lighting-up-toc-2009.html
 hash: a3a4a4f7d451017f1f026242ad8f21a0
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /2009/02/lighting-up-toc-2009.html
+year: 2009
+month: 02
+scheme: http
+host: duncandavidson.com
+path: /2009/02/lighting-up-toc-2009.html
 
 ---
 

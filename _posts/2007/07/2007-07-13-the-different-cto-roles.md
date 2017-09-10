@@ -3,13 +3,11 @@ title: "The Different CTO Roles"
 date: 2007-07-13 15:57:43 +0000
 external-url: http://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html
 hash: 1eb1f0b078976f20f3081b25437f2daf
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www.allthingsdistributed.com
-    path: /2007/07/the_different_cto_roles.html
+year: 2007
+month: 07
+scheme: http
+host: www.allthingsdistributed.com
+path: /2007/07/the_different_cto_roles.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "MacHeist bundle extended with VectorDesigner, more"
 date: 2008-06-10 06:00:00 +0000
 external-url: http://www.tuaw.com/2008/06/10/macheist-bundle-extended-with-vectordesigner-more/
 hash: 902b667f6528da72f1ca860ac66d8ee9
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/10/macheist-bundle-extended-with-vectordesigner-more/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/10/macheist-bundle-extended-with-vectordesigner-more/
 
 ---
 

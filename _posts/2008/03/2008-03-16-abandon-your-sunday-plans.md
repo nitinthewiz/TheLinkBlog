@@ -3,13 +3,11 @@ title: "Abandon your Sunday plans: Return to Dark Castle ships"
 date: 2008-03-16 03:30:00 +0000
 external-url: http://www.tuaw.com/2008/03/15/abandon-your-sunday-plans-return-to-dark-castle-ships/
 hash: f1e3470cf065cc779ea6b9a488af590c
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/03/15/abandon-your-sunday-plans-return-to-dark-castle-ships/
+year: 2008
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2008/03/15/abandon-your-sunday-plans-return-to-dark-castle-ships/
 
 ---
 

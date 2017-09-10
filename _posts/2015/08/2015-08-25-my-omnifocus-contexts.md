@@ -3,13 +3,11 @@ title: "My OmniFocus Contexts Explained"
 date: 2015-08-25 02:10:56 +0000
 external-url: http://www.myproductivemac.com/blog/my-omnifocus-contexts-explained2482015
 hash: a47e13623207694f5dabd0326c29dd73
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/my-omnifocus-contexts-explained2482015
+year: 2015
+month: 08
+scheme: http
+host: www.myproductivemac.com
+path: /blog/my-omnifocus-contexts-explained2482015
 
 ---
 

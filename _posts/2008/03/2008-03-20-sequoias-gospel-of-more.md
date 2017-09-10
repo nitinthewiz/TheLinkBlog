@@ -3,13 +3,11 @@ title: "Sequoias Gospel of Startups More True Than Ever"
 date: 2008-03-20 09:44:59 +0000
 external-url: http://techcrunch.com/2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/
 hash: 825bf72edff29a15936cede5fdc22076
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/
+year: 2008
+month: 03
+scheme: http
+host: techcrunch.com
+path: /2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/
 
 ---
 

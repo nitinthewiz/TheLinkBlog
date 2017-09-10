@@ -3,13 +3,11 @@ title: "Amazon Acquires Popular iPhone E-Reader App Stanza"
 date: 2009-04-28 04:56:47 +0000
 external-url: http://m.paidcontent.org/article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
 hash: 2ac9683457797297b4f3991eea1b6ed5
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
+year: 2009
+month: 04
+scheme: http
+host: m.paidcontent.org
+path: /article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
 
 ---
 

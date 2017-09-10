@@ -3,13 +3,11 @@ title: "A manifesto from Jimmy Wales"
 date: 2015-07-21 11:17:24 +0000
 external-url: https://tpo.com/about
 hash: 7c51450f0432a90bffebd75fbe723199
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: https
-    host: tpo.com
-    path: /about
+year: 2015
+month: 07
+scheme: https
+host: tpo.com
+path: /about
 
 ---
 

@@ -3,13 +3,11 @@ title: "EA’s chief creative officer describes game industry’s re-engineering
 date: 2009-08-27 00:44:37 +0000
 external-url: http://venturebeat.com/2009/08/26/eas-chief-creative-officer-describes-game-industrys-re-engineering/
 hash: 4ac80977f0a3c006aea59d3d3f5eb8c4
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/08/26/eas-chief-creative-officer-describes-game-industrys-re-engineering/
+year: 2009
+month: 08
+scheme: http
+host: venturebeat.com
+path: /2009/08/26/eas-chief-creative-officer-describes-game-industrys-re-engineering/
 
 ---
 

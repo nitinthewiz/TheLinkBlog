@@ -3,13 +3,11 @@ title: "Like Democracy, the Web Needs to be Defended, Its Creator Says"
 date: 2010-11-19 20:06:00 +0000
 external-url: http://gigaom.com/2010/11/19/like-democracy-the-web-needs-to-be-defended-its-creator-says/
 hash: c38cd5e615d726cc6d9b5c4f9937fd98
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/11/19/like-democracy-the-web-needs-to-be-defended-its-creator-says/
+year: 2010
+month: 11
+scheme: http
+host: gigaom.com
+path: /2010/11/19/like-democracy-the-web-needs-to-be-defended-its-creator-says/
 
 ---
 

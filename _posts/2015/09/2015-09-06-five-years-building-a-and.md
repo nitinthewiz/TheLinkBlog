@@ -3,13 +3,11 @@ title: "Five years, building a culture, and handing it off."
 date: 2015-09-06 15:08:19 +0000
 external-url: http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/
 hash: 0cb5ed2aa1a42e627abc859c9a2446be
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: laughingmeme.org
-    path: /2015/08/31/five-years-building-a-culture-and-handing-it-off/
+year: 2015
+month: 09
+scheme: http
+host: laughingmeme.org
+path: /2015/08/31/five-years-building-a-culture-and-handing-it-off/
 
 ---
 

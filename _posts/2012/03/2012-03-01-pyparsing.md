@@ -3,13 +3,11 @@ title: "Pyparsing"
 date: 2012-03-01 03:26:59 +0000
 external-url: https://www.wikispaces.com/
 hash: 2408cf39b829ac4db2a46f65003e0430
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: https
-    host: www.wikispaces.com
-    path: /
+year: 2012
+month: 03
+scheme: https
+host: www.wikispaces.com
+path: /
 
 ---
 

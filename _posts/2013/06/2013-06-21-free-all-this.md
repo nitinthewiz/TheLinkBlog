@@ -3,13 +3,11 @@ title: "Free - All this"
 date: 2013-06-21 17:22:11 +0000
 external-url: http://www.leancrew.com/all-this/2013/05/free/
 hash: c9a738b3bd75d00bbc3ea20a1560d584
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: www.leancrew.com
-    path: /all-this/2013/05/free/
+year: 2013
+month: 06
+scheme: http
+host: www.leancrew.com
+path: /all-this/2013/05/free/
 
 ---
 

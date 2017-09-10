@@ -3,13 +3,11 @@ title: "Newsmakers - E-commerce services firm Fluid raises $24 million - Interne
 date: 2012-02-23 22:45:14 +0000
 external-url: http://www.internetretailer.com/2012/02/22/e-commerce-services-firm-fluid-raises-24-million
 hash: 76d839242c5563830d8c891ba7b66dc9
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.internetretailer.com
-    path: /2012/02/22/e-commerce-services-firm-fluid-raises-24-million
+year: 2012
+month: 02
+scheme: http
+host: www.internetretailer.com
+path: /2012/02/22/e-commerce-services-firm-fluid-raises-24-million
 
 ---
 

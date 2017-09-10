@@ -3,13 +3,11 @@ title: "ongoing by Tim Bray · Bye, Rune"
 date: 2017-07-05 05:15:39 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2017/06/24/Rune-Died
 hash: fbe64ae735e78ab0b44672065c4c68a0
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2017/06/24/Rune-Died
+year: 2017
+month: 07
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2017/06/24/Rune-Died
 
 ---
 

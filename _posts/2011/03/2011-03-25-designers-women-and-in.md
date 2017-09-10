@@ -3,13 +3,11 @@ title: "Designers, Women, and Hostility in Open Source"
 date: 2011-03-25 03:25:38 +0000
 external-url: http://smarterware.org/7550/designers-women-and-hostility-in-open-source
 hash: d72e365c1d4ebc9b7fd82da3b3748c0f
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: smarterware.org
-    path: /7550/designers-women-and-hostility-in-open-source
+year: 2011
+month: 03
+scheme: http
+host: smarterware.org
+path: /7550/designers-women-and-hostility-in-open-source
 
 ---
 

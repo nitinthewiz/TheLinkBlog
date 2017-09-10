@@ -3,13 +3,11 @@ title: "TN Abstinence Bill May Nix Hugs, Hand-Holding"
 date: 2012-05-07 04:09:04 +0000
 external-url: http://blogs.findlaw.com/law_and_life/2012/05/tn-abstinence-bill-may-nix-hugs-hand-holding.html
 hash: 4102e1de25f905dc1c96c60d3957338f
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: blogs.findlaw.com
-    path: /law_and_life/2012/05/tn-abstinence-bill-may-nix-hugs-hand-holding.html
+year: 2012
+month: 05
+scheme: http
+host: blogs.findlaw.com
+path: /law_and_life/2012/05/tn-abstinence-bill-may-nix-hugs-hand-holding.html
 
 ---
 

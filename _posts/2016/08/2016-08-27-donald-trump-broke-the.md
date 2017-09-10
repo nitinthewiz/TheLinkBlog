@@ -3,13 +3,11 @@ title: "Donald Trump broke the conservative media"
 date: 2016-08-27 22:30:23 +0000
 external-url: http://www.businessinsider.com/conservative-media-trump-drudge-coulter-2016-8
 hash: bb939e154e9737b0ca7d2e5cc6d93167
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /conservative-media-trump-drudge-coulter-2016-8
+year: 2016
+month: 08
+scheme: http
+host: www.businessinsider.com
+path: /conservative-media-trump-drudge-coulter-2016-8
 
 ---
 

@@ -3,13 +3,11 @@ title: "How OmniFocus Can Make You a Better Person"
 date: 2012-03-22 23:10:33 +0000
 external-url: http://nerdgap.com/how-omnifocus-can-make-you-a-better-person/
 hash: fcd8380742c50d80e7e1d0c674e69519
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: nerdgap.com
-    path: /how-omnifocus-can-make-you-a-better-person/
+year: 2012
+month: 03
+scheme: http
+host: nerdgap.com
+path: /how-omnifocus-can-make-you-a-better-person/
 
 ---
 

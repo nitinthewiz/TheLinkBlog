@@ -3,13 +3,11 @@ title: "The Rich Are Different"
 date: 2007-12-27 21:54:10 +0000
 external-url: http://www.dailykos.com/story/2007/12/27/426663/-The-Rich-Are-Different
 hash: ee8eed440f4544483eeb438c4e644906
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2007/12/27/426663/-The-Rich-Are-Different
+year: 2007
+month: 12
+scheme: http
+host: www.dailykos.com
+path: /story/2007/12/27/426663/-The-Rich-Are-Different
 
 ---
 

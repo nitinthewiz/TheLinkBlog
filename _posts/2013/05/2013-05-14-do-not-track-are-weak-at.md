@@ -3,13 +3,11 @@ title: "Do Not Track: Are Weak Protections Worse Than None At All? - Electronic 
 date: 2013-05-14 18:42:37 +0000
 external-url: https://www.eff.org/deeplinks/2013/05/how-weak-current-dnt-proposal
 hash: 9fec55f0cd48609cf84c7054fc28c47c
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2013/05/how-weak-current-dnt-proposal
+year: 2013
+month: 05
+scheme: https
+host: www.eff.org
+path: /deeplinks/2013/05/how-weak-current-dnt-proposal
 
 ---
 

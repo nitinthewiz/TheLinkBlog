@@ -3,13 +3,11 @@ title: "Pinboard Acquires Delicious"
 date: 2017-06-01 23:11:35 +0000
 external-url: https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/
 hash: 383f5c2a0501d723ac0da73c70fcdef4
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: blog.pinboard.in
-    path: /2017/06/pinboard_acquires_delicious/
+year: 2017
+month: 06
+scheme: https
+host: blog.pinboard.in
+path: /2017/06/pinboard_acquires_delicious/
 
 ---
 

@@ -3,13 +3,11 @@ title: "How to tell if a CEO is lying"
 date: 2010-08-26 11:16:32 +0000
 external-url: http://bobulate.com/post/1013852157
 hash: 432c9650f18e94abcec91428171e49ec
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: bobulate.com
-    path: /post/1013852157
+year: 2010
+month: 08
+scheme: http
+host: bobulate.com
+path: /post/1013852157
 
 ---
 

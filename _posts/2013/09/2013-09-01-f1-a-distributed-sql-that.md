@@ -3,13 +3,11 @@ title: "F1: A Distributed SQL Database That Scales"
 date: 2013-09-01 02:40:10 +0000
 external-url: http://research.google.com/pubs/pub41344.html
 hash: f9f9a9b428b36f8bd07f10848583d8cc
-annum:
-    year: 2013
-    month: 09
-url-parts:
-    scheme: http
-    host: research.google.com
-    path: /pubs/pub41344.html
+year: 2013
+month: 09
+scheme: http
+host: research.google.com
+path: /pubs/pub41344.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "DocumentSnap"
 date: 2011-06-19 11:53:47 +0000
 external-url: http://www.documentsnap.com/
 hash: d87bcd487661990d80d9fa7dc1ea16dc
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.documentsnap.com
-    path: /
+year: 2011
+month: 06
+scheme: http
+host: www.documentsnap.com
+path: /
 
 ---
 

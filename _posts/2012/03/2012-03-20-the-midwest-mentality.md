@@ -3,13 +3,11 @@ title: "The Midwest Mentality"
 date: 2012-03-20 00:46:15 +0000
 external-url: http://pandodaily.com/2012/03/18/the-midwest-mentality/
 hash: 43aabd48e527d227ee20ba99303be2cb
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: pandodaily.com
-    path: /2012/03/18/the-midwest-mentality/
+year: 2012
+month: 03
+scheme: http
+host: pandodaily.com
+path: /2012/03/18/the-midwest-mentality/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Apps – Marco.org"
 date: 2016-05-03 05:10:03 +0000
 external-url: https://marco.org/apps#quitter
 hash: 25459467172115c060d3e84351b87a35
-annum:
-    year: 2016
-    month: 05
-url-parts:
-    scheme: https
-    host: marco.org
-    path: /apps
+year: 2016
+month: 05
+scheme: https
+host: marco.org
+path: /apps
 
 ---
 

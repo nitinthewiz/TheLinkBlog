@@ -3,13 +3,11 @@ title: "Why I quit my job"
 date: 2011-07-11 00:59:03 +0000
 external-url: http://kainagata.com/2011/07/08/why-i-quit-my-job/
 hash: 92d8e6eac6bff8cedfb583d2913a8e9c
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: kainagata.com
-    path: /2011/07/08/why-i-quit-my-job/
+year: 2011
+month: 07
+scheme: http
+host: kainagata.com
+path: /2011/07/08/why-i-quit-my-job/
 
 ---
 

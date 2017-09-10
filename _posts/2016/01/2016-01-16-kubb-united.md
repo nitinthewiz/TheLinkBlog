@@ -3,13 +3,11 @@ title: "Kubb United"
 date: 2016-01-16 15:22:31 +0000
 external-url: http://kubbunited.com/
 hash: f6d97a7d9f943cbee05643c621849502
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: kubbunited.com
-    path: /
+year: 2016
+month: 01
+scheme: http
+host: kubbunited.com
+path: /
 
 ---
 

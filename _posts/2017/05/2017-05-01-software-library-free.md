@@ -3,13 +3,11 @@ title: "Software Library: Macintosh : Free Softwarelibrary : Download & Streamin
 date: 2017-05-01 16:45:10 +0000
 external-url: https://archive.org/details/softwarelibrary_mac
 hash: 9670a3262a314ad779d94de108c8c8ad
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: archive.org
-    path: /details/softwarelibrary_mac
+year: 2017
+month: 05
+scheme: https
+host: archive.org
+path: /details/softwarelibrary_mac
 
 ---
 

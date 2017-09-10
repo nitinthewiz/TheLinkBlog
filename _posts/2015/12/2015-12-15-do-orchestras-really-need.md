@@ -3,13 +3,11 @@ title: "Do Orchestras Really Need Conductors? : Deceptive Cadence : NPR"
 date: 2015-12-15 19:20:24 +0000
 external-url: http://www.npr.org/sections/deceptivecadence/2012/11/27/165677915/do-orchestras-really-need-conductors
 hash: 64168c884ae69d131d0aa811da7bd38d
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: www.npr.org
-    path: /sections/deceptivecadence/2012/11/27/165677915/do-orchestras-really-need-conductors
+year: 2015
+month: 12
+scheme: http
+host: www.npr.org
+path: /sections/deceptivecadence/2012/11/27/165677915/do-orchestras-really-need-conductors
 
 ---
 

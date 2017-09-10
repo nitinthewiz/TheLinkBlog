@@ -3,13 +3,11 @@ title: "Page Management Industry Interest in Ecommerce Grows as Vitrue Partners 
 date: 2011-08-08 15:05:49 +0000
 external-url: http://www.insidefacebook.com/2011/08/02/vitrue-milyoni/
 hash: 0271fd065bfef06764a014bf44a4c5ee
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: www.insidefacebook.com
-    path: /2011/08/02/vitrue-milyoni/
+year: 2011
+month: 08
+scheme: http
+host: www.insidefacebook.com
+path: /2011/08/02/vitrue-milyoni/
 
 ---
 

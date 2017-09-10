@@ -3,13 +3,11 @@ title: "marcel's twurl at master - GitHub"
 date: 2010-10-08 04:38:14 +0000
 external-url: https://github.com/marcel/twurl
 hash: 87d941a43bb7026ef4594b4b3931b8c6
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: https
-    host: github.com
-    path: /marcel/twurl
+year: 2010
+month: 10
+scheme: https
+host: github.com
+path: /marcel/twurl
 
 ---
 

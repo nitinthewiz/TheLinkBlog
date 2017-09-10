@@ -3,13 +3,11 @@ title: "The Shining (film) - Wikipedia, the free encyclopedia"
 date: 2012-02-11 05:36:47 +0000
 external-url: http://en.wikipedia.org/wiki/The_Shining_(film)
 hash: 79f1910613c8f879762b1eae481f7b72
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/The_Shining_(film)
+year: 2012
+month: 02
+scheme: http
+host: en.wikipedia.org
+path: /wiki/The_Shining_(film)
 
 ---
 

@@ -3,13 +3,11 @@ title: "Jungletrain.net - 24/7 drum and bass radio"
 date: 2012-03-27 20:50:49 +0000
 external-url: http://jungletrain.net/
 hash: daf04b137bf861d5e075932caafaf83b
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: jungletrain.net
-    path: /
+year: 2012
+month: 03
+scheme: http
+host: jungletrain.net
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "DConstruct 2012 James Burke"
 date: 2012-12-05 03:36:57 +0000
 external-url: http://2012.dconstruct.org/conference/burke/transcript/
 hash: a29728c8f2ece98982b09dae31e94a3e
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: 2012.dconstruct.org
-    path: /conference/burke/transcript/
+year: 2012
+month: 12
+scheme: http
+host: 2012.dconstruct.org
+path: /conference/burke/transcript/
 
 ---
 

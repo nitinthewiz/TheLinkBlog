@@ -3,13 +3,11 @@ title: "Why I love Twitter and barely tolerate Facebook"
 date: 2012-12-01 11:13:43 +0000
 external-url: https://medium.com/i-m-h-o/why-i-love-twitter-and-barely-tolerate-facebook-52a20d7a17de
 hash: 03bcd900d866aed153a99266c4ec62a2
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /i-m-h-o/why-i-love-twitter-and-barely-tolerate-facebook-52a20d7a17de
+year: 2012
+month: 12
+scheme: https
+host: medium.com
+path: /i-m-h-o/why-i-love-twitter-and-barely-tolerate-facebook-52a20d7a17de
 
 ---
 

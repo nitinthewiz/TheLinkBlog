@@ -3,13 +3,11 @@ title: "Facebook tests Collections posts with Want and Collect buttons for retai
 date: 2012-10-08 22:17:37 +0000
 external-url: http://www.insidefacebook.com/2012/10/08/facebook-tests-collections-with-want-and-collect-buttons-for-retailers-news-feed-posts/
 hash: 246836250e1d0b22794a26f54ad0c60b
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.insidefacebook.com
-    path: /2012/10/08/facebook-tests-collections-with-want-and-collect-buttons-for-retailers-news-feed-posts/
+year: 2012
+month: 10
+scheme: http
+host: www.insidefacebook.com
+path: /2012/10/08/facebook-tests-collections-with-want-and-collect-buttons-for-retailers-news-feed-posts/
 
 ---
 

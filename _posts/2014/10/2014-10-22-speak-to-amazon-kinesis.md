@@ -3,13 +3,11 @@ title: "Speak to Amazon Kinesis in Python"
 date: 2014-10-22 02:04:28 +0000
 external-url: https://aws.amazon.com/blogs/aws/speak-to-kinesis-in-python/
 hash: 4b4dcabe25d646b96024a483ab11653c
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/speak-to-kinesis-in-python/
+year: 2014
+month: 10
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/speak-to-kinesis-in-python/
 
 ---
 

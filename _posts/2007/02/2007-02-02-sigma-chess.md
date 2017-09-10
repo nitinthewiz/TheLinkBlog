@@ -3,13 +3,11 @@ title: "Sigma Chess"
 date: 2007-02-02 05:07:24 +0000
 external-url: http://www.sigmachess.com/home.html
 hash: d388a7ed5d18fdb513ff55b72c648301
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.sigmachess.com
-    path: /home.html
+year: 2007
+month: 02
+scheme: http
+host: www.sigmachess.com
+path: /home.html
 
 ---
 

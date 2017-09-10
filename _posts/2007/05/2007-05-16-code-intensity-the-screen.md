@@ -3,13 +3,11 @@ title: "Code Intensity: Twittervision/Flickrvision - the Screen Saver"
 date: 2007-05-16 19:12:21 +0000
 external-url: http://codeintensity.blogspot.com/2007/05/twittervisionflickrvision-screen-saver.html
 hash: d808c7fe840aeb42bcbec2b4782bb6ba
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: codeintensity.blogspot.com
-    path: /2007/05/twittervisionflickrvision-screen-saver.html
+year: 2007
+month: 05
+scheme: http
+host: codeintensity.blogspot.com
+path: /2007/05/twittervisionflickrvision-screen-saver.html
 
 ---
 

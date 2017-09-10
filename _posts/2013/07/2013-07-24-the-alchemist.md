@@ -3,13 +3,11 @@ title: "The Alchemist"
 date: 2013-07-24 20:10:45 +0000
 external-url: http://alchemistbeer.com/about-us/
 hash: 32810a22c9e4807561683e5634328eef
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: alchemistbeer.com
-    path: /about-us/
+year: 2013
+month: 07
+scheme: http
+host: alchemistbeer.com
+path: /about-us/
 
 ---
 

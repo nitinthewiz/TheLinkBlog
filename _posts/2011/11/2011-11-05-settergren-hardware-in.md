@@ -3,13 +3,11 @@ title: "Settergren Hardware In Linden Hills"
 date: 2011-11-05 02:02:27 +0000
 external-url: http://patch.com/southwestminneapolis/settergren-hardware-store-linden-hills
 hash: 653ee41cd881e755caac9929b2923300
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: patch.com
-    path: /southwestminneapolis/settergren-hardware-store-linden-hills
+year: 2011
+month: 11
+scheme: http
+host: patch.com
+path: /southwestminneapolis/settergren-hardware-store-linden-hills
 
 ---
 

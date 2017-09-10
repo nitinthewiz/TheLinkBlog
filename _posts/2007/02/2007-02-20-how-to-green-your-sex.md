@@ -3,13 +3,11 @@ title: "How to Green Your Sex Life (TreeHugger)"
 date: 2007-02-20 16:42:03 +0000
 external-url: http://www.treehugger.com/htgg/how-to-go-green-sex.html
 hash: 14a6d5a59b211f049cae93df1af60e78
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.treehugger.com
-    path: /htgg/how-to-go-green-sex.html
+year: 2007
+month: 02
+scheme: http
+host: www.treehugger.com
+path: /htgg/how-to-go-green-sex.html
 
 ---
 

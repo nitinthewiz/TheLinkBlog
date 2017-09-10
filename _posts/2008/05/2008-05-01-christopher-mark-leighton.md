@@ -3,13 +3,11 @@ title: "Christopher Mark Leighton-Brooder"
 date: 2008-05-01 12:26:54 +0000
 external-url: http://minigirl.typepad.com/mini_girl/2008/05/christopher-m-1.html
 hash: 239f933815a2a04c1bbce879cc6e0210
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: minigirl.typepad.com
-    path: /mini_girl/2008/05/christopher-m-1.html
+year: 2008
+month: 05
+scheme: http
+host: minigirl.typepad.com
+path: /mini_girl/2008/05/christopher-m-1.html
 
 ---
 

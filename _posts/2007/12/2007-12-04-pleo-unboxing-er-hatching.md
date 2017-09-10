@@ -3,13 +3,11 @@ title: "Pleo unboxing, er, hatching -- photos and video"
 date: 2007-12-04 00:11:00 +0000
 external-url: http://www.engadget.com/2007/12/03/pleo-unboxing-er-hatching-photos-and-video/
 hash: e159c0a3e769c9d0eb40fc28fd805ac9
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.engadget.com
-    path: /2007/12/03/pleo-unboxing-er-hatching-photos-and-video/
+year: 2007
+month: 12
+scheme: http
+host: www.engadget.com
+path: /2007/12/03/pleo-unboxing-er-hatching-photos-and-video/
 
 ---
 

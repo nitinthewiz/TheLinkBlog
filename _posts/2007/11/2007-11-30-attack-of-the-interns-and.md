@@ -3,13 +3,11 @@ title: "Attack of the interns: recommendations and drag-and-drop"
 date: 2007-11-30 02:39:00 +0000
 external-url: http://googlereader.blogspot.com/2007/11/attack-of-interns-recommendations-and.html
 hash: 02f65d519f2715f2bbdb29a2f506aa68
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: googlereader.blogspot.com
-    path: /2007/11/attack-of-interns-recommendations-and.html
+year: 2007
+month: 11
+scheme: http
+host: googlereader.blogspot.com
+path: /2007/11/attack-of-interns-recommendations-and.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Getting to Know the Nabaztag Internet Rabbit"
 date: 2008-04-27 23:36:27 +0000
 external-url: http://db.tidbits.com/article/9584
 hash: 12c4365bfb2ae0a4fc30fade278d53bf
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: db.tidbits.com
-    path: /article/9584
+year: 2008
+month: 04
+scheme: http
+host: db.tidbits.com
+path: /article/9584
 
 ---
 

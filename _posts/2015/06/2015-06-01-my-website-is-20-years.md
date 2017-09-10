@@ -3,13 +3,11 @@ title: "My website is 20 years old today. | Jeffrey Zeldman Presents The Daily R
 date: 2015-06-01 04:22:17 +0000
 external-url: http://www.zeldman.com/2015/05/31/my-website-is-20-years-old-today/
 hash: a0a5f9814c8406e019a6c11985f506b9
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.zeldman.com
-    path: /2015/05/31/my-website-is-20-years-old-today/
+year: 2015
+month: 06
+scheme: http
+host: www.zeldman.com
+path: /2015/05/31/my-website-is-20-years-old-today/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Web2 Interview With John and John"
 date: 2010-11-17 16:54:30 +0000
 external-url: http://avc.com/2010/11/web2-interview-with-john-and-john/
 hash: 7b6bdcadf03392221979b5a4945ddead
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: avc.com
-    path: /2010/11/web2-interview-with-john-and-john/
+year: 2010
+month: 11
+scheme: http
+host: avc.com
+path: /2010/11/web2-interview-with-john-and-john/
 
 ---
 

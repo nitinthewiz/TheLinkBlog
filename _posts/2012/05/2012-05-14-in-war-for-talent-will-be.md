@@ -3,13 +3,11 @@ title: "In war for talent, 'brogrammers' will be losers"
 date: 2012-05-14 21:27:09 +0000
 external-url: http://www.cnn.com/2012/05/10/opinion/trapani-brogrammer-culture/index.html
 hash: 7f33a63775b835a4a878132dae4f8953
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.cnn.com
-    path: /2012/05/10/opinion/trapani-brogrammer-culture/index.html
+year: 2012
+month: 05
+scheme: http
+host: www.cnn.com
+path: /2012/05/10/opinion/trapani-brogrammer-culture/index.html
 
 ---
 

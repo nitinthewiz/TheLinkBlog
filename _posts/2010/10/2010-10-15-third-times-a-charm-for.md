@@ -3,13 +3,11 @@ title: "Third time’s a charm for WordCamp MSP"
 date: 2010-10-15 21:40:21 +0000
 external-url: http://tech.mn/news/2010/10/15/wordcamp-msp-minnesota/
 hash: d75b4c8ba9600ca4a0a66aa671bbabf5
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2010/10/15/wordcamp-msp-minnesota/
+year: 2010
+month: 10
+scheme: http
+host: tech.mn
+path: /news/2010/10/15/wordcamp-msp-minnesota/
 
 ---
 

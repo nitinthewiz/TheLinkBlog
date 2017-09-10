@@ -3,13 +3,11 @@ title: "What functionality do 'marks' offer in the El Capitan Terminal?"
 date: 2015-10-24 17:37:58 +0000
 external-url: http://apple.stackexchange.com/questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal
 hash: 32f30d2c7dc2a246597088a9dc56db1c
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: apple.stackexchange.com
-    path: /questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal
+year: 2015
+month: 10
+scheme: http
+host: apple.stackexchange.com
+path: /questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal
 
 ---
 

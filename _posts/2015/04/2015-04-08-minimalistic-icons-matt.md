@@ -3,13 +3,11 @@ title: "Minimalistic Icons - Matt Cooper"
 date: 2015-04-08 02:10:46 +0000
 external-url: http://matt-cooper.com/minimalistic-icons/
 hash: d06b95e135a6e6ad7f6f43c803cd3ba4
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: matt-cooper.com
-    path: /minimalistic-icons/
+year: 2015
+month: 04
+scheme: http
+host: matt-cooper.com
+path: /minimalistic-icons/
 
 ---
 

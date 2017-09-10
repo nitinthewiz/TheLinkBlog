@@ -3,13 +3,11 @@ title: "Amazon Web Services tops list of most reliable public clouds — Tech Ne
 date: 2015-01-08 16:15:42 +0000
 external-url: https://gigaom.com/2015/01/07/amazon-web-services-tops-list-of-most-reliable-public-clouds/
 hash: 22680f730b3bec96d15682e20b35c675
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2015/01/07/amazon-web-services-tops-list-of-most-reliable-public-clouds/
+year: 2015
+month: 01
+scheme: https
+host: gigaom.com
+path: /2015/01/07/amazon-web-services-tops-list-of-most-reliable-public-clouds/
 
 ---
 

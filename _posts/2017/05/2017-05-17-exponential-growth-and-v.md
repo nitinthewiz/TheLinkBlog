@@ -3,13 +3,11 @@ title: "Exponential growth devours and corrupts – Signal v. Noise"
 date: 2017-05-17 01:29:01 +0000
 external-url: https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131
 hash: 04248996b23bc6ac4a7c84dde9ec756c
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: m.signalvnoise.com
-    path: /exponential-growth-devours-and-corrupts-c5562fbf131
+year: 2017
+month: 05
+scheme: https
+host: m.signalvnoise.com
+path: /exponential-growth-devours-and-corrupts-c5562fbf131
 
 ---
 

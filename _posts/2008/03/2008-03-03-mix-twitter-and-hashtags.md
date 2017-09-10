@@ -3,13 +3,11 @@ title: "Mix, Twitter, and Hashtags"
 date: 2008-03-03 23:11:54 +0000
 external-url: http://simpable.com/technology/hashtags/
 hash: b74bbff0a0824696bda291f554608d4c
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: simpable.com
-    path: /technology/hashtags/
+year: 2008
+month: 03
+scheme: http
+host: simpable.com
+path: /technology/hashtags/
 
 ---
 

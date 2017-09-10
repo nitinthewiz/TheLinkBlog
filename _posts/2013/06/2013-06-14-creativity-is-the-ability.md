@@ -3,13 +3,11 @@ title: "\"Creativity is the Ability to Play\" A Lesser Photographer"
 date: 2013-06-14 04:22:40 +0000
 external-url: http://cjchilvers.com/a-lesser-photographer/blog/2013/6/13/creativity-is-the-ability-to-play
 hash: 06797efc142b8748a794fd96d7f60121
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: cjchilvers.com
-    path: /a-lesser-photographer/blog/2013/6/13/creativity-is-the-ability-to-play
+year: 2013
+month: 06
+scheme: http
+host: cjchilvers.com
+path: /a-lesser-photographer/blog/2013/6/13/creativity-is-the-ability-to-play
 
 ---
 

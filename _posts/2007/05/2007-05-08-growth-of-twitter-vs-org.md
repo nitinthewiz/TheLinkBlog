@@ -3,13 +3,11 @@ title: "Growth of Twitter vs. Blogger (kottke.org)"
 date: 2007-05-08 16:22:00 +0000
 external-url: http://www.kottke.org/07/05/growth-of-twitter-vs-blogger
 hash: f992978e957f3d0c4f7c7831e1c54db9
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: www.kottke.org
-    path: /07/05/growth-of-twitter-vs-blogger
+year: 2007
+month: 05
+scheme: http
+host: www.kottke.org
+path: /07/05/growth-of-twitter-vs-blogger
 
 ---
 

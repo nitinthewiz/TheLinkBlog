@@ -3,13 +3,11 @@ title: "Keynotes from Velocity in Santa Clara 2016"
 date: 2016-06-23 11:32:00 +0000
 external-url: https://www.oreilly.com/ideas/keynotes-from-velocity-santa-clara-2016
 hash: 7324169b65b314452a6258c7fde93b83
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: https
-    host: www.oreilly.com
-    path: /ideas/keynotes-from-velocity-santa-clara-2016
+year: 2016
+month: 06
+scheme: https
+host: www.oreilly.com
+path: /ideas/keynotes-from-velocity-santa-clara-2016
 
 ---
 

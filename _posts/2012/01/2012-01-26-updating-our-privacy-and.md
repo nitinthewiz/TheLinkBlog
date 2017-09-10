@@ -3,13 +3,11 @@ title: "Updating our privacy policies and terms of service"
 date: 2012-01-26 19:17:33 +0000
 external-url: http://googleblog.blogspot.com/2012/01/updating-our-privacy-policies-and-terms.html
 hash: 23afc02cc576cfe11a65510500271c23
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2012/01/updating-our-privacy-policies-and-terms.html
+year: 2012
+month: 01
+scheme: http
+host: googleblog.blogspot.com
+path: /2012/01/updating-our-privacy-policies-and-terms.html
 
 ---
 

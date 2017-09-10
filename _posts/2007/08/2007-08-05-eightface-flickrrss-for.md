@@ -3,13 +3,11 @@ title: "Eightface // flickrRSS for WordPress"
 date: 2007-08-05 19:55:04 +0000
 external-url: http://eightface.com/wordpress/flickrrss/
 hash: 7277a52c5bf3dc7f6ea2045531780bd2
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: eightface.com
-    path: /wordpress/flickrrss/
+year: 2007
+month: 08
+scheme: http
+host: eightface.com
+path: /wordpress/flickrrss/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Top Skills for an Incident Commander —PagerDuty"
 date: 2017-06-09 00:50:29 +0000
 external-url: https://www.pagerduty.com/blog/top-skills-incident-commander/
 hash: d747c2dc18f0d3ce8474107b8dd2e4fc
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.pagerduty.com
-    path: /blog/top-skills-incident-commander/
+year: 2017
+month: 06
+scheme: https
+host: www.pagerduty.com
+path: /blog/top-skills-incident-commander/
 
 ---
 

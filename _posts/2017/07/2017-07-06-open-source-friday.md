@@ -3,13 +3,11 @@ title: "Open Source Friday"
 date: 2017-07-06 02:35:07 +0000
 external-url: https://opensourcefriday.com/
 hash: 15bdde643d46eeabc650c28b27843497
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: opensourcefriday.com
-    path: /
+year: 2017
+month: 07
+scheme: https
+host: opensourcefriday.com
+path: /
 
 ---
 

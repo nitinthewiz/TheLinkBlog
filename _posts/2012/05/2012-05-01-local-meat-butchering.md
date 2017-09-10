@@ -3,13 +3,11 @@ title: "Local Meat Butchering Goes Nano"
 date: 2012-05-01 15:57:10 +0000
 external-url: http://www.forbes.com/sites/bethhoffman/2012/05/01/local-meat-butchering-goes-nano/
 hash: a81f0f2299890cfc7a119b7e3d3257a5
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.forbes.com
-    path: /sites/bethhoffman/2012/05/01/local-meat-butchering-goes-nano/
+year: 2012
+month: 05
+scheme: http
+host: www.forbes.com
+path: /sites/bethhoffman/2012/05/01/local-meat-butchering-goes-nano/
 
 ---
 

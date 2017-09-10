@@ -3,13 +3,11 @@ title: "Live First A Lesser Photographer"
 date: 2013-06-25 04:24:39 +0000
 external-url: http://cjchilvers.com/a-lesser-photographer/blog/2013/6/24/live-first-shoot-after
 hash: 21bfe582eb453534d0e25bdf69329263
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: cjchilvers.com
-    path: /a-lesser-photographer/blog/2013/6/24/live-first-shoot-after
+year: 2013
+month: 06
+scheme: http
+host: cjchilvers.com
+path: /a-lesser-photographer/blog/2013/6/24/live-first-shoot-after
 
 ---
 

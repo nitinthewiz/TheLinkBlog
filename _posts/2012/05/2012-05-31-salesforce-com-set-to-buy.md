@@ -3,13 +3,11 @@ title: "Salesforce.com Set to Buy Buddy Media for More Than $800 Million"
 date: 2012-05-31 20:46:04 +0000
 external-url: http://allthingsd.com/20120529/salesforce-set-to-snap-up-facebook-friend-buddy-media-for-more-than-800-million/
 hash: cfa2e965aa84d32d64af72a972f7ae5d
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: allthingsd.com
-    path: /20120529/salesforce-set-to-snap-up-facebook-friend-buddy-media-for-more-than-800-million/
+year: 2012
+month: 05
+scheme: http
+host: allthingsd.com
+path: /20120529/salesforce-set-to-snap-up-facebook-friend-buddy-media-for-more-than-800-million/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Customer Letter - Apple"
 date: 2016-02-17 10:58:30 +0000
 external-url: http://www.apple.com/customer-letter/
 hash: 63b6065de012b2191ef2ff24a4890a74
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.apple.com
-    path: /customer-letter/
+year: 2016
+month: 02
+scheme: http
+host: www.apple.com
+path: /customer-letter/
 
 ---
 

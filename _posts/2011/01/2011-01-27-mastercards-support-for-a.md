@@ -3,13 +3,11 @@ title: "MasterCards Support for COICA Threatens A Free And Open Internet"
 date: 2011-01-27 01:39:15 +0000
 external-url: https://www.eff.org/deeplinks/2011/01/mastercards-support-for-coica
 hash: f1dfdf26e57b0ba379dc7e15677f130e
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2011/01/mastercards-support-for-coica
+year: 2011
+month: 01
+scheme: https
+host: www.eff.org
+path: /deeplinks/2011/01/mastercards-support-for-coica
 
 ---
 

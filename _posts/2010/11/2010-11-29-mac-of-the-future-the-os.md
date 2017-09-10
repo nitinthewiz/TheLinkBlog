@@ -3,13 +3,11 @@ title: "Mac of the future: the OS Mac OS X Macworld"
 date: 2010-11-29 17:14:45 +0000
 external-url: http://www.macworld.com/article/1155914/macofthefutureos.html
 hash: 79d0c468ad373a6c2cce0ba94591dbfb
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.macworld.com
-    path: /article/1155914/macofthefutureos.html
+year: 2010
+month: 11
+scheme: http
+host: www.macworld.com
+path: /article/1155914/macofthefutureos.html
 
 ---
 

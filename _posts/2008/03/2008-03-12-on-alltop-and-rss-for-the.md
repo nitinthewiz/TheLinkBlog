@@ -3,13 +3,11 @@ title: "On Alltop and RSS For The Masses"
 date: 2008-03-12 01:02:55 +0000
 external-url: http://readwrite.com/2008/03/11/alltop_rss_for_the_masses
 hash: 0c57ad49c63a00b0421570d6abe5effc
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2008/03/11/alltop_rss_for_the_masses
+year: 2008
+month: 03
+scheme: http
+host: readwrite.com
+path: /2008/03/11/alltop_rss_for_the_masses
 
 ---
 

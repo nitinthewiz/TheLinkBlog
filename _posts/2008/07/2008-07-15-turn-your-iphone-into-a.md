@@ -3,13 +3,11 @@ title: "Turn your iPhone into a wireless drive with DataCase"
 date: 2008-07-15 01:54:07 +0000
 external-url: http://www.tuaw.com/2008/07/14/turn-your-iphone-into-a-wireless-drive-with-datacase/
 hash: 225c151f6d927f2417a40ed4cb797f20
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/07/14/turn-your-iphone-into-a-wireless-drive-with-datacase/
+year: 2008
+month: 07
+scheme: http
+host: www.tuaw.com
+path: /2008/07/14/turn-your-iphone-into-a-wireless-drive-with-datacase/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Drivetrain"
 date: 2010-12-03 02:52:49 +0000
 external-url: http://www.drivetrainagency.com
 hash: 6db6d328398f79ec0752cbe9dc9b4240
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.drivetrainagency.com
-    path: 
+year: 2010
+month: 12
+scheme: http
+host: www.drivetrainagency.com
+path: 
 
 ---
 

@@ -3,13 +3,11 @@ title: "Mazie's Sprinkle Sleepover Story"
 date: 2009-07-30 16:20:36 +0000
 external-url: http://lundeenscene.blogspot.com/2009/07/mazies-sprinkle-sleepover-story.html
 hash: 9edf156ea53b0a6177c1e3e7c0cba4af
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: lundeenscene.blogspot.com
-    path: /2009/07/mazies-sprinkle-sleepover-story.html
+year: 2009
+month: 07
+scheme: http
+host: lundeenscene.blogspot.com
+path: /2009/07/mazies-sprinkle-sleepover-story.html
 
 ---
 

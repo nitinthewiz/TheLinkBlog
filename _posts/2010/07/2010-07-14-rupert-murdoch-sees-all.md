@@ -3,13 +3,11 @@ title: "Rupert Murdoch sees all"
 date: 2010-07-14 01:32:45 +0000
 external-url: http://kottke.org/10/07/rupert-murdoch-sees-all
 hash: 0e95e266d5b2c0ea0549c73475bc0b02
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/07/rupert-murdoch-sees-all
+year: 2010
+month: 07
+scheme: http
+host: kottke.org
+path: /10/07/rupert-murdoch-sees-all
 
 ---
 

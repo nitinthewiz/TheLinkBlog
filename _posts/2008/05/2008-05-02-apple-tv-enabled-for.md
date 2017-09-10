@@ -3,13 +3,11 @@ title: "Apple TV enabled for movie purchases"
 date: 2008-05-02 02:29:04 +0000
 external-url: http://ww35.appletvsource.com/content/view/613/
 hash: 52032367ff3de776820852870c18759d
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: ww35.appletvsource.com
-    path: /content/view/613/
+year: 2008
+month: 05
+scheme: http
+host: ww35.appletvsource.com
+path: /content/view/613/
 
 ---
 

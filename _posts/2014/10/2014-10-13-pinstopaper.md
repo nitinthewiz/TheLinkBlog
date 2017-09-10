@@ -3,13 +3,11 @@ title: "PinsToPaper"
 date: 2014-10-13 02:34:48 +0000
 external-url: https://pinstopaper.schallert.io/
 hash: 5cfbeff2f410e91876237ee878acb7f4
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: pinstopaper.schallert.io
-    path: /
+year: 2014
+month: 10
+scheme: https
+host: pinstopaper.schallert.io
+path: /
 
 ---
 

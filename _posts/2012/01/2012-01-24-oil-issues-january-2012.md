@@ -3,13 +3,11 @@ title: "Oil issues January 2012"
 date: 2012-01-24 20:03:18 +0000
 external-url: http://www.fishingbuddy.com/oil_issues_january_2012
 hash: a76fbd6a515b5b9dc7223c9e28b7d30a
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.fishingbuddy.com
-    path: /oil_issues_january_2012
+year: 2012
+month: 01
+scheme: http
+host: www.fishingbuddy.com
+path: /oil_issues_january_2012
 
 ---
 

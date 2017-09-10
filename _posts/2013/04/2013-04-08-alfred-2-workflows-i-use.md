@@ -3,13 +3,11 @@ title: "Alfred 2 Workflows I Use"
 date: 2013-04-08 18:57:08 +0000
 external-url: http://www.macdrifter.com/2013/04/alfred-2-workflows-i-use.html
 hash: 6873fe91435738f231823fbf007a5fa9
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: www.macdrifter.com
-    path: /2013/04/alfred-2-workflows-i-use.html
+year: 2013
+month: 04
+scheme: http
+host: www.macdrifter.com
+path: /2013/04/alfred-2-workflows-i-use.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "HandBrake 0.9.3 adds Universal Input"
 date: 2008-11-24 15:00:00 +0000
 external-url: http://www.tuaw.com/2008/11/24/handbrake-0-9-3-adds-universal-input/
 hash: 538d563b038b43723deb69cb45409b1d
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/11/24/handbrake-0-9-3-adds-universal-input/
+year: 2008
+month: 11
+scheme: http
+host: www.tuaw.com
+path: /2008/11/24/handbrake-0-9-3-adds-universal-input/
 
 ---
 

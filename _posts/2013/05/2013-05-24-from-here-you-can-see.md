@@ -3,13 +3,11 @@ title: "From Here You Can See Everything"
 date: 2013-05-24 04:59:00 +0000
 external-url: http://www.themorningnews.org/article/from-here-you-can-see-everything
 hash: e20fcaca855221a766dfffe8c30d2acf
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: www.themorningnews.org
-    path: /article/from-here-you-can-see-everything
+year: 2013
+month: 05
+scheme: http
+host: www.themorningnews.org
+path: /article/from-here-you-can-see-everything
 
 ---
 

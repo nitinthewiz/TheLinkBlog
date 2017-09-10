@@ -3,13 +3,11 @@ title: "Home Screens - Sal Saghoian —macsparky"
 date: 2017-08-07 14:33:04 +0000
 external-url: https://www.macsparky.com/blog/2017/8/home-screens-sal-saghoian
 hash: 9d2ee929981d53aade09d6479b28b342
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.macsparky.com
-    path: /blog/2017/8/home-screens-sal-saghoian
+year: 2017
+month: 08
+scheme: https
+host: www.macsparky.com
+path: /blog/2017/8/home-screens-sal-saghoian
 
 ---
 

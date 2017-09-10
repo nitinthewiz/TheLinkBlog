@@ -3,13 +3,11 @@ title: "Knight Promises To Cover Journalism Online Costs For Some News Orgs"
 date: 2010-09-28 06:34:25 +0000
 external-url: http://gigaom.com/2010/09/28/419-knight-promises-to-cover-journalism-online-costs-for-some-news-orgs/
 hash: 5bc75f21244703d0f76a57376982c76d
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/09/28/419-knight-promises-to-cover-journalism-online-costs-for-some-news-orgs/
+year: 2010
+month: 09
+scheme: http
+host: gigaom.com
+path: /2010/09/28/419-knight-promises-to-cover-journalism-online-costs-for-some-news-orgs/
 
 ---
 

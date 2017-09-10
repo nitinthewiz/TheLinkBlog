@@ -3,13 +3,11 @@ title: "Scrum for Operations: Just Add DevOps | the agile admin"
 date: 2014-10-12 15:25:34 +0000
 external-url: http://theagileadmin.com/2014/09/30/scrum-for-operations-just-add-devops/
 hash: 6ee375d92e9a45fa1d97eeddf753e1ce
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: theagileadmin.com
-    path: /2014/09/30/scrum-for-operations-just-add-devops/
+year: 2014
+month: 10
+scheme: http
+host: theagileadmin.com
+path: /2014/09/30/scrum-for-operations-just-add-devops/
 
 ---
 

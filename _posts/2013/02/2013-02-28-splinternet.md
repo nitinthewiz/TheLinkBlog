@@ -3,13 +3,11 @@ title: "SplinterNet"
 date: 2013-02-28 18:29:10 +0000
 external-url: https://github.com/megamattron/SplinterNet
 hash: 656ae6a247ef28ea82f4a02184858f90
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: https
-    host: github.com
-    path: /megamattron/SplinterNet
+year: 2013
+month: 02
+scheme: https
+host: github.com
+path: /megamattron/SplinterNet
 
 ---
 

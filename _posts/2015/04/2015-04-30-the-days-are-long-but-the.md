@@ -3,13 +3,11 @@ title: "The days are long but the decades are short"
 date: 2015-04-30 01:16:56 +0000
 external-url: http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
 hash: f7c47021cff643671cb09be1280daacb
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.samaltman.com
-    path: /the-days-are-long-but-the-decades-are-short
+year: 2015
+month: 04
+scheme: http
+host: blog.samaltman.com
+path: /the-days-are-long-but-the-decades-are-short
 
 ---
 

@@ -3,13 +3,11 @@ title: "Economist CEO Leaving, Replaced By Ex Online Boss"
 date: 2008-04-09 19:38:26 +0000
 external-url: https://gigaom.com/2008/04/09/419-industry-moves-economist-ceo-leaving-replaced-by-ex-online-boss/
 hash: 34590675178fde2d6c8f5228773492f1
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/04/09/419-industry-moves-economist-ceo-leaving-replaced-by-ex-online-boss/
+year: 2008
+month: 04
+scheme: https
+host: gigaom.com
+path: /2008/04/09/419-industry-moves-economist-ceo-leaving-replaced-by-ex-online-boss/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Zeo Personal Sleep Coach"
 date: 2011-09-06 01:11:05 +0000
 external-url: http://kk.org/cooltools/archives/5851
 hash: ca77075dba517d39dbbeec18cd60cf1a
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: kk.org
-    path: /cooltools/archives/5851
+year: 2011
+month: 09
+scheme: http
+host: kk.org
+path: /cooltools/archives/5851
 
 ---
 

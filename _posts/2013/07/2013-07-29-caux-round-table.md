@@ -3,13 +3,11 @@ title: "Caux Round Table"
 date: 2013-07-29 16:11:51 +0000
 external-url: http://www.cauxroundtable.org/
 hash: cd2a27cf706f3da930554b1521577e2d
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.cauxroundtable.org
-    path: /
+year: 2013
+month: 07
+scheme: http
+host: www.cauxroundtable.org
+path: /
 
 ---
 

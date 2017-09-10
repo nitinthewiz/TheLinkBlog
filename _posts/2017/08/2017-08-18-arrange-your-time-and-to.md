@@ -3,13 +3,11 @@ title: "Arrange your time and tasks according to these seven categories, and you
 date: 2017-08-18 15:50:12 +0000
 external-url: https://medium.com/the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65
 hash: d2fb9406088621f6cc511bfad0eba018
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65
+year: 2017
+month: 08
+scheme: https
+host: medium.com
+path: /the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65
 
 ---
 

@@ -3,13 +3,11 @@ title: "Following, liking and people searching"
 date: 2009-07-16 15:44:18 +0000
 external-url: http://googlereader.blogspot.com/2009/07/following-liking-and-people-searching.html
 hash: 10fff1db732c46f6dba83d09338bda34
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: googlereader.blogspot.com
-    path: /2009/07/following-liking-and-people-searching.html
+year: 2009
+month: 07
+scheme: http
+host: googlereader.blogspot.com
+path: /2009/07/following-liking-and-people-searching.html
 
 ---
 

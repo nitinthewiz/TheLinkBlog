@@ -3,13 +3,11 @@ title: "Ubuntu Precise Pangolin Release Notes"
 date: 2012-04-27 01:57:16 +0000
 external-url: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes
 hash: cac8c5bcd149e4e2b3e1300523cb45fa
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: https
-    host: wiki.ubuntu.com
-    path: /PrecisePangolin/ReleaseNotes
+year: 2012
+month: 04
+scheme: https
+host: wiki.ubuntu.com
+path: /PrecisePangolin/ReleaseNotes
 
 ---
 

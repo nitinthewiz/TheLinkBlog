@@ -3,13 +3,11 @@ title: "Legacy is greater than Currency."
 date: 2008-03-28 17:28:49 +0000
 external-url: http://garyvaynerchuk.com/2008/03/28/legacy-is-greater-than-currency/
 hash: 97cb97b7ac3966cd48917154108fea32
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: garyvaynerchuk.com
-    path: /2008/03/28/legacy-is-greater-than-currency/
+year: 2008
+month: 03
+scheme: http
+host: garyvaynerchuk.com
+path: /2008/03/28/legacy-is-greater-than-currency/
 
 ---
 

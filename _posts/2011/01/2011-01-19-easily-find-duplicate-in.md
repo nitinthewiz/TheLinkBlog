@@ -3,13 +3,11 @@ title: "Easily find duplicate passwords in your logins"
 date: 2011-01-19 01:14:14 +0000
 external-url: https://agilebits.com/easily-find-duplicate-passwords-in-your-logins/
 hash: c2b9f1c01a1473724ddf9688d8a0f78e
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: agilebits.com
-    path: /easily-find-duplicate-passwords-in-your-logins/
+year: 2011
+month: 01
+scheme: https
+host: agilebits.com
+path: /easily-find-duplicate-passwords-in-your-logins/
 
 ---
 

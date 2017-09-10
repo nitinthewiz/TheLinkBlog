@@ -3,13 +3,11 @@ title: "Extension:Replace Text - MediaWiki"
 date: 2011-10-16 12:56:51 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:Replace_Text
 hash: c7139d38292a7793e4a2690015ed55e2
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:Replace_Text
+year: 2011
+month: 10
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:Replace_Text
 
 ---
 

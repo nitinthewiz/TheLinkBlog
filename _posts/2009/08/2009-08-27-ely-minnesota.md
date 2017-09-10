@@ -3,13 +3,11 @@ title: "Ely, Minnesota"
 date: 2009-08-27 05:15:09 +0000
 external-url: http://laynekennedy.blogspot.com/2009/08/ely-minnesota.html
 hash: 3980146cdbcc7d2408f0578664a73625
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: laynekennedy.blogspot.com
-    path: /2009/08/ely-minnesota.html
+year: 2009
+month: 08
+scheme: http
+host: laynekennedy.blogspot.com
+path: /2009/08/ely-minnesota.html
 
 ---
 

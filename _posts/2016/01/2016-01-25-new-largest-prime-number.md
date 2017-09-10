@@ -3,13 +3,11 @@ title: "New largest prime number found"
 date: 2016-01-25 11:41:07 +0000
 external-url: http://phys.org/news/2016-01-largest-prime.html
 hash: b833ed45911f3bdf8bfacd5abc829eed
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: phys.org
-    path: /news/2016-01-largest-prime.html
+year: 2016
+month: 01
+scheme: http
+host: phys.org
+path: /news/2016-01-largest-prime.html
 
 ---
 

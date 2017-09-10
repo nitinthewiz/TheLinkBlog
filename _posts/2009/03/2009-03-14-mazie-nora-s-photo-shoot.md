@@ -3,13 +3,11 @@ title: "Mazie & Nora's Photo Shoot"
 date: 2009-03-14 05:19:41 +0000
 external-url: http://lundeenscene.blogspot.com/2009/03/mazie-noras-photo-shoot.html
 hash: d8ef977033867deff3a0072df6007dcf
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: lundeenscene.blogspot.com
-    path: /2009/03/mazie-noras-photo-shoot.html
+year: 2009
+month: 03
+scheme: http
+host: lundeenscene.blogspot.com
+path: /2009/03/mazie-noras-photo-shoot.html
 
 ---
 

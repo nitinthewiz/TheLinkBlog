@@ -3,13 +3,11 @@ title: "TextExpander: Video Review and Giveaway"
 date: 2007-12-19 12:53:01 +0000
 external-url: http://macapper.com/2007/12/19/textexpander-video-review-and-giveaway/
 hash: f9f3e66458b6d915ebf247603115bdd0
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2007/12/19/textexpander-video-review-and-giveaway/
+year: 2007
+month: 12
+scheme: http
+host: macapper.com
+path: /2007/12/19/textexpander-video-review-and-giveaway/
 
 ---
 

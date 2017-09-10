@@ -3,13 +3,11 @@ title: "Hipster DevOps Happens To The Best Of US"
 date: 2014-10-11 06:10:59 +0000
 external-url: http://www.mattstratton.com/devops/hipster-devops-happens-to-the-best-of-us
 hash: 619272bbf05eb11ba62a7c0726858bc1
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.mattstratton.com
-    path: /devops/hipster-devops-happens-to-the-best-of-us
+year: 2014
+month: 10
+scheme: http
+host: www.mattstratton.com
+path: /devops/hipster-devops-happens-to-the-best-of-us
 
 ---
 

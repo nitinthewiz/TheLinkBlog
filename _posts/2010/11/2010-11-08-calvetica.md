@@ -3,13 +3,11 @@ title: "Calvetica"
 date: 2010-11-08 18:37:54 +0000
 external-url: http://mysterioustrousers.com/calvetica/
 hash: b84b879be895760f4697c4f80b9a9b71
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: mysterioustrousers.com
-    path: /calvetica/
+year: 2010
+month: 11
+scheme: http
+host: mysterioustrousers.com
+path: /calvetica/
 
 ---
 

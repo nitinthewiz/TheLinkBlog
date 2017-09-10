@@ -3,13 +3,11 @@ title: "Silicon Prairie Online Is A Minnesota Moonshot"
 date: 2017-05-26 19:48:36 +0000
 external-url: http://tech.mn/news/2017/05/26/silicon-prairie-online-is-a-minnesota-moonshot/
 hash: 234aa6a683b60eba8403a708ff4eb0db
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2017/05/26/silicon-prairie-online-is-a-minnesota-moonshot/
+year: 2017
+month: 05
+scheme: http
+host: tech.mn
+path: /news/2017/05/26/silicon-prairie-online-is-a-minnesota-moonshot/
 
 ---
 

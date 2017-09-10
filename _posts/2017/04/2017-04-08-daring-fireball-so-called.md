@@ -3,13 +3,11 @@ title: "Daring Fireball: ‘So-Called’"
 date: 2017-04-08 01:32:30 +0000
 external-url: http://daringfireball.net/2017/04/so_called
 hash: f98063fdb8d5f04263984f8f9fb536b6
-annum:
-    year: 2017
-    month: 04
-url-parts:
-    scheme: http
-    host: daringfireball.net
-    path: /2017/04/so_called
+year: 2017
+month: 04
+scheme: http
+host: daringfireball.net
+path: /2017/04/so_called
 
 ---
 

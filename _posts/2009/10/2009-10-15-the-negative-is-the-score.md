@@ -3,13 +3,11 @@ title: "&quot;The Negative is the Score, the Print the Performance&quot;"
 date: 2009-10-15 05:06:37 +0000
 external-url: http://laynekennedy.blogspot.com/2009/10/negative-is-score-print-performance.html
 hash: aa7431551dd631cf0ce74841b9a50451
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: laynekennedy.blogspot.com
-    path: /2009/10/negative-is-score-print-performance.html
+year: 2009
+month: 10
+scheme: http
+host: laynekennedy.blogspot.com
+path: /2009/10/negative-is-score-print-performance.html
 
 ---
 

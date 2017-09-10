@@ -3,13 +3,11 @@ title: "Web Operations 101 For Developers"
 date: 2011-07-27 03:53:44 +0000
 external-url: http://www.paperplanes.de/2011/7/25/web_operations_101_for_developers.html
 hash: a1fc2e4a877eb1a797808e573040976a
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.paperplanes.de
-    path: /2011/7/25/web_operations_101_for_developers.html
+year: 2011
+month: 07
+scheme: http
+host: www.paperplanes.de
+path: /2011/7/25/web_operations_101_for_developers.html
 
 ---
 

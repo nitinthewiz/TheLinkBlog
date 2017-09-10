@@ -3,13 +3,11 @@ title: "28 Apple Watch tips and tricks you should know"
 date: 2015-04-26 04:10:15 +0000
 external-url: http://www.imore.com/28-apple-watch-tips-and-tricks-you-should-know
 hash: cd503e5d7eac01b95e7ffc29a70ed571
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: www.imore.com
-    path: /28-apple-watch-tips-and-tricks-you-should-know
+year: 2015
+month: 04
+scheme: http
+host: www.imore.com
+path: /28-apple-watch-tips-and-tricks-you-should-know
 
 ---
 

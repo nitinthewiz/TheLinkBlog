@@ -3,13 +3,11 @@ title: "Preview of Storm: The Hadoop of Realtime Processing"
 date: 2011-05-27 22:41:25 +0000
 external-url: http://tech.backtype.com/preview-of-storm-the-hadoop-of-realtime-proce
 hash: 1739e289d0d73d2103bc78219b7bc57e
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: tech.backtype.com
-    path: /preview-of-storm-the-hadoop-of-realtime-proce
+year: 2011
+month: 05
+scheme: http
+host: tech.backtype.com
+path: /preview-of-storm-the-hadoop-of-realtime-proce
 
 ---
 

@@ -3,13 +3,11 @@ title: "Extension default namespaces"
 date: 2013-05-29 19:55:49 +0000
 external-url: http://www.mediawiki.org/wiki/Extension_default_namespaces
 hash: 5750afb22f1b5bac8ca989cc1d126894
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension_default_namespaces
+year: 2013
+month: 05
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension_default_namespaces
 
 ---
 

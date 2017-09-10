@@ -3,13 +3,11 @@ title: "How Google Invented an Amazing Datacenter Network Only They Could Create
 date: 2015-08-12 01:27:33 +0000
 external-url: http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html
 hash: 8f49c6a32d0460db254e4494151e270d
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: highscalability.com
-    path: /blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html
+year: 2015
+month: 08
+scheme: http
+host: highscalability.com
+path: /blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html
 
 ---
 

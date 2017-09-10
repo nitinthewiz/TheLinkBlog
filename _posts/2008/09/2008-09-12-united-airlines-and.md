@@ -3,13 +3,11 @@ title: "United Airlines Bankruptcy and Newsbots"
 date: 2008-09-12 03:13:03 +0000
 external-url: http://www.grouplens.org/node/259
 hash: b1867bf1636845595e7e6d35bd815bfc
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: http
-    host: www.grouplens.org
-    path: /node/259
+year: 2008
+month: 09
+scheme: http
+host: www.grouplens.org
+path: /node/259
 
 ---
 

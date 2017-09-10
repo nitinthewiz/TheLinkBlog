@@ -3,13 +3,11 @@ title: "elasticsearch - - Open Source, Distributed, RESTful, Search Engine"
 date: 2011-10-21 16:21:45 +0000
 external-url: http://www.elasticsearch.org/
 hash: 5384764a16fab767ebcbc17d87758a24
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.elasticsearch.org
-    path: /
+year: 2011
+month: 10
+scheme: http
+host: www.elasticsearch.org
+path: /
 
 ---
 

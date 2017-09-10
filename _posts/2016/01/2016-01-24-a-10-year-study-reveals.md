@@ -3,13 +3,11 @@ title: "A 10-Year Study Reveals What Great Executives Know and Do"
 date: 2016-01-24 18:15:00 +0000
 external-url: https://hbr.org/2016/01/a-10-year-study-reveals-what-great-executives-know-and-do
 hash: 607a3d820b8ef2841fc97dacf72fc1be
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: hbr.org
-    path: /2016/01/a-10-year-study-reveals-what-great-executives-know-and-do
+year: 2016
+month: 01
+scheme: https
+host: hbr.org
+path: /2016/01/a-10-year-study-reveals-what-great-executives-know-and-do
 
 ---
 

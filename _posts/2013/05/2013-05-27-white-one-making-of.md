@@ -3,13 +3,11 @@ title: "White one - Making of"
 date: 2013-05-27 13:50:21 +0000
 external-url: http://erleuchtet.org/2011/06/white-one.html
 hash: 2b9aef4a130f28da8aa229407e953881
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: erleuchtet.org
-    path: /2011/06/white-one.html
+year: 2013
+month: 05
+scheme: http
+host: erleuchtet.org
+path: /2011/06/white-one.html
 
 ---
 

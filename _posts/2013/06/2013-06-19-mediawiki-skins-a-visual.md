@@ -3,13 +3,11 @@ title: "MediaWiki Skins A visual feast - BlueSpice"
 date: 2013-06-19 22:17:07 +0000
 external-url: http://blog.blue-spice.org/2012/10/01/mediawiki-skins-a-visual-feast/
 hash: eb5795e23f5c350601da542320fb3f0f
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: blog.blue-spice.org
-    path: /2012/10/01/mediawiki-skins-a-visual-feast/
+year: 2013
+month: 06
+scheme: http
+host: blog.blue-spice.org
+path: /2012/10/01/mediawiki-skins-a-visual-feast/
 
 ---
 

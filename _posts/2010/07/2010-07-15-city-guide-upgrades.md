@@ -3,13 +3,11 @@ title: "City Guide Upgrades"
 date: 2010-07-15 14:08:01 +0000
 external-url: http://www.woothemes.com/2010/07/city-guide-upgrades/
 hash: b6d80743987f7a49a8222194faf3cc50
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: www.woothemes.com
-    path: /2010/07/city-guide-upgrades/
+year: 2010
+month: 07
+scheme: http
+host: www.woothemes.com
+path: /2010/07/city-guide-upgrades/
 
 ---
 

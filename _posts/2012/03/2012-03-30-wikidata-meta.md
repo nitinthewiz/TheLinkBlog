@@ -3,13 +3,11 @@ title: "Wikidata - Meta"
 date: 2012-03-30 20:43:34 +0000
 external-url: http://meta.wikimedia.org/wiki/Wikidata
 hash: d9081c03ee77db540f11b9dcb07571ca
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: meta.wikimedia.org
-    path: /wiki/Wikidata
+year: 2012
+month: 03
+scheme: http
+host: meta.wikimedia.org
+path: /wiki/Wikidata
 
 ---
 

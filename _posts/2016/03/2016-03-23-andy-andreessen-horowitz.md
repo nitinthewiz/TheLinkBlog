@@ -3,13 +3,11 @@ title: "Andy – Andreessen Horowitz"
 date: 2016-03-23 01:47:23 +0000
 external-url: http://a16z.com/2015/11/13/high-output-management/
 hash: d3505261cebc227c2a7105e526420079
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: a16z.com
-    path: /2015/11/13/high-output-management/
+year: 2016
+month: 03
+scheme: http
+host: a16z.com
+path: /2015/11/13/high-output-management/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Moving Fast with Software Verification | the morning paper"
 date: 2015-11-29 13:44:09 +0000
 external-url: http://blog.acolyer.org/2015/11/20/moving-fast-with-software-verification/
 hash: 6538f05da097b082ab056856c99eed93
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: blog.acolyer.org
-    path: /2015/11/20/moving-fast-with-software-verification/
+year: 2015
+month: 11
+scheme: http
+host: blog.acolyer.org
+path: /2015/11/20/moving-fast-with-software-verification/
 
 ---
 

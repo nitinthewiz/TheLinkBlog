@@ -3,13 +3,11 @@ title: "Swagger: A simple, open standard for describing REST APIs with JSON"
 date: 2012-03-28 11:13:00 +0000
 external-url: https://developers.helloreverb.com/swagger/
 hash: bb0a22459297de5b2146ae5d60066413
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: https
-    host: developers.helloreverb.com
-    path: /swagger/
+year: 2012
+month: 03
+scheme: https
+host: developers.helloreverb.com
+path: /swagger/
 
 ---
 

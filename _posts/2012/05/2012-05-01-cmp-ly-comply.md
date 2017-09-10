@@ -3,13 +3,11 @@ title: "CMP.LY (Comply)"
 date: 2012-05-01 16:39:35 +0000
 external-url: http://getcommandpost.com
 hash: 51148da5b600e2105fc9cbdb12680d10
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: getcommandpost.com
-    path: 
+year: 2012
+month: 05
+scheme: http
+host: getcommandpost.com
+path: 
 
 ---
 

@@ -3,13 +3,11 @@ title: "Native Win32 ports of some GNU utilities"
 date: 2007-05-29 19:16:02 +0000
 external-url: http://unxutils.sourceforge.net/
 hash: 4655815c5804cc83b1ef3a123a9e47eb
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: unxutils.sourceforge.net
-    path: /
+year: 2007
+month: 05
+scheme: http
+host: unxutils.sourceforge.net
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Sprinkle scripts to provision your server quickly"
 date: 2009-05-30 12:33:40 +0000
 external-url: http://benschwarz.github.com/passenger-stack/
 hash: b84d9da6c52a645f2485bf2cde783448
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: benschwarz.github.com
-    path: /passenger-stack/
+year: 2009
+month: 05
+scheme: http
+host: benschwarz.github.com
+path: /passenger-stack/
 
 ---
 

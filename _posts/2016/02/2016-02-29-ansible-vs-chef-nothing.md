@@ -3,13 +3,11 @@ title: "Ansible vs Chef · Nothing interesting..."
 date: 2016-02-29 16:36:55 +0000
 external-url: http://tjheeta.github.io/2015/04/15/ansible-vs-chef/
 hash: 70245037f64f32bbc1ec2f8028dfd50b
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: tjheeta.github.io
-    path: /2015/04/15/ansible-vs-chef/
+year: 2016
+month: 02
+scheme: http
+host: tjheeta.github.io
+path: /2015/04/15/ansible-vs-chef/
 
 ---
 

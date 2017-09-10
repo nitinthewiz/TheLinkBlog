@@ -3,13 +3,11 @@ title: "Siri Commands on Apple TV"
 date: 2015-11-10 03:40:59 +0000
 external-url: http://macsparky.com/blog/2015/11/siri-commands-on-apple-tv
 hash: 80e8181f3593be97108893ad20f748f5
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2015/11/siri-commands-on-apple-tv
+year: 2015
+month: 11
+scheme: http
+host: macsparky.com
+path: /blog/2015/11/siri-commands-on-apple-tv
 
 ---
 

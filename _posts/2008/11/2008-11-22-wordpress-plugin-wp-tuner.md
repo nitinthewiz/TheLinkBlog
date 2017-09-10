@@ -3,13 +3,11 @@ title: "WordPress Plugin: WP-Tuner"
 date: 2008-11-22 10:35:06 +0000
 external-url: http://www.bloggingpro.com/archives/2008/11/22/wordpress-plugin-wp-tuner/
 hash: 713e8a5459119e747721445fa9db9e56
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: www.bloggingpro.com
-    path: /archives/2008/11/22/wordpress-plugin-wp-tuner/
+year: 2008
+month: 11
+scheme: http
+host: www.bloggingpro.com
+path: /archives/2008/11/22/wordpress-plugin-wp-tuner/
 
 ---
 

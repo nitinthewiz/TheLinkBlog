@@ -3,13 +3,11 @@ title: "Art Channel for Apple TV"
 date: 2016-03-03 13:11:54 +0000
 external-url: http://macsparky.com/blog/2016/3/art-channel-for-apple-tv
 hash: a64f2558c3b40021094803f0b9541dd0
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2016/3/art-channel-for-apple-tv
+year: 2016
+month: 03
+scheme: http
+host: macsparky.com
+path: /blog/2016/3/art-channel-for-apple-tv
 
 ---
 

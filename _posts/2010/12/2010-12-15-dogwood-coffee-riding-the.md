@@ -3,13 +3,11 @@ title: "Dogwood Coffee: Riding the Third Wave"
 date: 2010-12-15 01:36:46 +0000
 external-url: http://simplegoodandtasty.com/2010/12/01/dogwood-coffee-riding-the-third-wave
 hash: ed55a15b9d0e9762c5e36c83fd0f2481
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: simplegoodandtasty.com
-    path: /2010/12/01/dogwood-coffee-riding-the-third-wave
+year: 2010
+month: 12
+scheme: http
+host: simplegoodandtasty.com
+path: /2010/12/01/dogwood-coffee-riding-the-third-wave
 
 ---
 

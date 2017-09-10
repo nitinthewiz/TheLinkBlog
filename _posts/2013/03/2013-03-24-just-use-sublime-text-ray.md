@@ -3,13 +3,11 @@ title: "Just Use Sublime Text - Andrew Ray's Github Blog"
 date: 2013-03-24 02:12:01 +0000
 external-url: http://delvarworld.github.io/blog/2013/03/16/just-use-sublime-text/
 hash: b8a09c0f4379e5ede9d4f60d51f5ff8d
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: delvarworld.github.io
-    path: /blog/2013/03/16/just-use-sublime-text/
+year: 2013
+month: 03
+scheme: http
+host: delvarworld.github.io
+path: /blog/2013/03/16/just-use-sublime-text/
 
 ---
 

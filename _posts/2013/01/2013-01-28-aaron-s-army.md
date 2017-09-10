@@ -3,13 +3,11 @@ title: "Aaron's Army"
 date: 2013-01-28 14:00:24 +0000
 external-url: https://public.resource.org/aaron/army/
 hash: 0a3d7db1f4b45d5ad8066f3ad764aefa
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: https
-    host: public.resource.org
-    path: /aaron/army/
+year: 2013
+month: 01
+scheme: https
+host: public.resource.org
+path: /aaron/army/
 
 ---
 

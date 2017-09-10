@@ -3,13 +3,11 @@ title: "detectdisplays - A command-line tool for Macs that detects attached disp
 date: 2011-09-30 21:22:25 +0000
 external-url: http://code.google.com/p/detectdisplays/
 hash: 2333b9546987d1fd9b94ea569e9d0273
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: code.google.com
-    path: /p/detectdisplays/
+year: 2011
+month: 09
+scheme: http
+host: code.google.com
+path: /p/detectdisplays/
 
 ---
 

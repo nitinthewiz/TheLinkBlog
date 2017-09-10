@@ -3,13 +3,11 @@ title: "The Top-Secret Food That Will Change the Way You Eat"
 date: 2015-01-06 23:06:08 +0000
 external-url: http://www.outsideonline.com/outdoor-adventure/culinary/Replacing-Meat-Plant-Based-Meats-Vegetarian.html
 hash: fdb61220df52bf4004a78306645fd522
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: http
-    host: www.outsideonline.com
-    path: /outdoor-adventure/culinary/Replacing-Meat-Plant-Based-Meats-Vegetarian.html
+year: 2015
+month: 01
+scheme: http
+host: www.outsideonline.com
+path: /outdoor-adventure/culinary/Replacing-Meat-Plant-Based-Meats-Vegetarian.html
 
 ---
 

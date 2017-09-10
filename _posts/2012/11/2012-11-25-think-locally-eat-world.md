@@ -3,13 +3,11 @@ title: "Think locally, eat globally: World Street Kitchen arrives in Lyn-Lake"
 date: 2012-11-25 23:45:45 +0000
 external-url: http://www.tcdailyplanet.net/news/2012/11/23/think-locally-eat-globally-world-street-kitchen-arrives-lyn-lake
 hash: c30f21dec05a42063c50b2620e1e1b01
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.tcdailyplanet.net
-    path: /news/2012/11/23/think-locally-eat-globally-world-street-kitchen-arrives-lyn-lake
+year: 2012
+month: 11
+scheme: http
+host: www.tcdailyplanet.net
+path: /news/2012/11/23/think-locally-eat-globally-world-street-kitchen-arrives-lyn-lake
 
 ---
 

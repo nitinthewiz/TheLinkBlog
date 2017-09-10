@@ -3,13 +3,11 @@ title: "Show a Folder's Full Path in Finder's Title Bar [Mac Tip]"
 date: 2008-12-05 22:00:00 +0000
 external-url: http://lifehacker.com/5102717/show-a-folders-full-path-in-finders-title-bar
 hash: e065fbf4215daae274b7b815614b948e
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5102717/show-a-folders-full-path-in-finders-title-bar
+year: 2008
+month: 12
+scheme: http
+host: lifehacker.com
+path: /5102717/show-a-folders-full-path-in-finders-title-bar
 
 ---
 

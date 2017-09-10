@@ -3,13 +3,11 @@ title: "The Rhone Gift Guide 2010"
 date: 2010-12-06 15:34:36 +0000
 external-url: http://patrickrhone.com/2010/12/06/the-rhone-gift-guide-2010/
 hash: 69aa49b015e301b7a7b8edc855405638
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: patrickrhone.com
-    path: /2010/12/06/the-rhone-gift-guide-2010/
+year: 2010
+month: 12
+scheme: http
+host: patrickrhone.com
+path: /2010/12/06/the-rhone-gift-guide-2010/
 
 ---
 

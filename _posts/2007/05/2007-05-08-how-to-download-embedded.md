@@ -3,13 +3,11 @@ title: "How-To: Download embedded videos"
 date: 2007-05-08 21:07:26 +0000
 external-url: http://uneasysilence.com/archive/2005/04/2597/
 hash: b12bbd7ead61f64ba7eb95b53af91a37
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: uneasysilence.com
-    path: /archive/2005/04/2597/
+year: 2007
+month: 05
+scheme: http
+host: uneasysilence.com
+path: /archive/2005/04/2597/
 
 ---
 

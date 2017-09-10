@@ -3,13 +3,11 @@ title: "Former Time Inc. Vet Klingensmith Named Star Trib Publisher; 30 Newsroom
 date: 2010-01-08 05:31:48 +0000
 external-url: https://gigaom.com/2010/01/08/419-former-time-inc-vet-klingensmith-named-star-trib-publisher-30-newsroom/
 hash: ff36542cc985e98eb1ff2dc9681c4a07
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2010/01/08/419-former-time-inc-vet-klingensmith-named-star-trib-publisher-30-newsroom/
+year: 2010
+month: 01
+scheme: https
+host: gigaom.com
+path: /2010/01/08/419-former-time-inc-vet-klingensmith-named-star-trib-publisher-30-newsroom/
 
 ---
 

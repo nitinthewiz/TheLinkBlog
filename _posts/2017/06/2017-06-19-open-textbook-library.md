@@ -3,13 +3,11 @@ title: "Open Textbook Library"
 date: 2017-06-19 11:44:23 +0000
 external-url: https://open.umn.edu/opentextbooks/
 hash: 5afeac0e830041122cd1dd1f04ae095e
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: open.umn.edu
-    path: /opentextbooks/
+year: 2017
+month: 06
+scheme: https
+host: open.umn.edu
+path: /opentextbooks/
 
 ---
 

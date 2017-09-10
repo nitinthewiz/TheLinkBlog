@@ -3,13 +3,11 @@ title: "How can we build a city that thinks like the web?"
 date: 2012-05-31 21:25:16 +0000
 external-url: http://huffduffer.com/josephrooks/74943
 hash: 10d9876151c4f68a08680e50cf01e9b8
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: huffduffer.com
-    path: /josephrooks/74943
+year: 2012
+month: 05
+scheme: http
+host: huffduffer.com
+path: /josephrooks/74943
 
 ---
 

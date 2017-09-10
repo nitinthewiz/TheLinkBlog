@@ -3,13 +3,11 @@ title: "Researchers Expose Cunning Online Tracking Service That Can’t Be Dodge
 date: 2011-08-03 18:32:02 +0000
 external-url: http://www.wired.com/epicenter/2011/07/undeletable-cookie
 hash: 54dc6c0f301555f59959dacba167ec95
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /epicenter/2011/07/undeletable-cookie
+year: 2011
+month: 08
+scheme: http
+host: www.wired.com
+path: /epicenter/2011/07/undeletable-cookie
 
 ---
 

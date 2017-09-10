@@ -3,13 +3,11 @@ title: "Making sense of MVP (Minimum Viable Product)"
 date: 2016-04-16 13:16:48 +0000
 external-url: http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp
 hash: 2844f9e49c9a2400f7f8caf1a2e8572d
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.crisp.se
-    path: /2016/01/25/henrikkniberg/making-sense-of-mvp
+year: 2016
+month: 04
+scheme: http
+host: blog.crisp.se
+path: /2016/01/25/henrikkniberg/making-sense-of-mvp
 
 ---
 

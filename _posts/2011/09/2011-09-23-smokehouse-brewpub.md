@@ -3,13 +3,11 @@ title: "Smokehouse Brewpub"
 date: 2011-09-23 01:56:03 +0000
 external-url: http://www.smokehousebrewpub.com/
 hash: 28c0ba2ea84dcb139121d7a327666142
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: www.smokehousebrewpub.com
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: www.smokehousebrewpub.com
+path: /
 
 ---
 

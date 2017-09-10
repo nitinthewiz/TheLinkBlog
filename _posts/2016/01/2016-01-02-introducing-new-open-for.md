@@ -3,13 +3,11 @@ title: "Introducing new open-source tools for the Elixir community | Pinterest E
 date: 2016-01-02 19:27:47 +0000
 external-url: https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community
 hash: 09b81018fd7a0bb8d157771859281719
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: engineering.pinterest.com
-    path: /blog/introducing-new-open-source-tools-elixir-community
+year: 2016
+month: 01
+scheme: https
+host: engineering.pinterest.com
+path: /blog/introducing-new-open-source-tools-elixir-community
 
 ---
 

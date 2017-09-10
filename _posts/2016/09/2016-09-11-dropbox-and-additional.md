@@ -3,13 +3,11 @@ title: "Dropbox and additional Mac permissions"
 date: 2016-09-11 03:53:55 +0000
 external-url: https://www.dropbox.com/help/9266
 hash: ec05ae449f7df8b04206bd1ff864c03c
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: www.dropbox.com
-    path: /help/9266
+year: 2016
+month: 09
+scheme: https
+host: www.dropbox.com
+path: /help/9266
 
 ---
 

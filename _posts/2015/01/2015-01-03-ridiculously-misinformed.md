@@ -3,13 +3,11 @@ title: "Ridiculously Misinformed Opinion Piece In WSJ Asks Apple And Google To M
 date: 2015-01-03 13:42:03 +0000
 external-url: https://www.techdirt.com/articles/20141124/07011329232/ridiculously-misinformed-opinion-piece-wsj-asks-apple-google-to-make-everyone-less-safe.shtml
 hash: e04a5f160514311f9f4aeca4e41008b7
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: www.techdirt.com
-    path: /articles/20141124/07011329232/ridiculously-misinformed-opinion-piece-wsj-asks-apple-google-to-make-everyone-less-safe.shtml
+year: 2015
+month: 01
+scheme: https
+host: www.techdirt.com
+path: /articles/20141124/07011329232/ridiculously-misinformed-opinion-piece-wsj-asks-apple-google-to-make-everyone-less-safe.shtml
 
 ---
 

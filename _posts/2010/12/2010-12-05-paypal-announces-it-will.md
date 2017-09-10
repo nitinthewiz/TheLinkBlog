@@ -3,13 +3,11 @@ title: "PayPal Announces It Will No Longer Handle Wikileaks Donations"
 date: 2010-12-05 06:00:22 +0000
 external-url: http://readwrite.com/2010/12/04/paypal_announces_it_will_no_longer_handle_wikileak
 hash: 356389437e9d9e01e0c3c16d831ce4b5
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2010/12/04/paypal_announces_it_will_no_longer_handle_wikileak
+year: 2010
+month: 12
+scheme: http
+host: readwrite.com
+path: /2010/12/04/paypal_announces_it_will_no_longer_handle_wikileak
 
 ---
 

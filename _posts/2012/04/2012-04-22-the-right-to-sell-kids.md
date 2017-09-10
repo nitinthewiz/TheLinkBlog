@@ -3,13 +3,11 @@ title: "The Right to Sell Kids Junk"
 date: 2012-04-22 12:19:12 +0000
 external-url: http://opinionator.blogs.nytimes.com/2012/03/27/the-right-to-sell-kids-junk/
 hash: f1deb06a48723eec9c8075fb17fa2f55
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: opinionator.blogs.nytimes.com
-    path: /2012/03/27/the-right-to-sell-kids-junk/
+year: 2012
+month: 04
+scheme: http
+host: opinionator.blogs.nytimes.com
+path: /2012/03/27/the-right-to-sell-kids-junk/
 
 ---
 

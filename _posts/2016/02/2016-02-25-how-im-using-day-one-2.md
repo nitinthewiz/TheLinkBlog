@@ -3,13 +3,11 @@ title: "How I’m Using Day One 2"
 date: 2016-02-25 00:06:03 +0000
 external-url: http://accordingtoandrea.com/2016/02/24/how-im-using-day-one-2/
 hash: e98c845a82efd89ee340e25869844195
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: accordingtoandrea.com
-    path: /2016/02/24/how-im-using-day-one-2/
+year: 2016
+month: 02
+scheme: http
+host: accordingtoandrea.com
+path: /2016/02/24/how-im-using-day-one-2/
 
 ---
 

@@ -3,13 +3,11 @@ title: "hackerhub"
 date: 2011-10-03 21:48:00 +0000
 external-url: http://hackerhub.org/
 hash: aab4983eba7265f643dc7d70b946794b
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: hackerhub.org
-    path: /
+year: 2011
+month: 10
+scheme: http
+host: hackerhub.org
+path: /
 
 ---
 

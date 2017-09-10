@@ -3,13 +3,11 @@ title: "The Gift Of Software"
 date: 2008-12-17 03:14:30 +0000
 external-url: http://www.red-sweater.com/blog/659/the-gift-of-software
 hash: 199aa739eb6056d812d867e59224db8c
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/659/the-gift-of-software
+year: 2008
+month: 12
+scheme: http
+host: www.red-sweater.com
+path: /blog/659/the-gift-of-software
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Ten Commandments of Egoless Programming"
 date: 2012-03-30 04:21:43 +0000
 external-url: http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming
 hash: 3e6cea6cd5b5606d82657be976701af3
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.codinghorror.com
-    path: /the-ten-commandments-of-egoless-programming
+year: 2012
+month: 03
+scheme: http
+host: blog.codinghorror.com
+path: /the-ten-commandments-of-egoless-programming
 
 ---
 

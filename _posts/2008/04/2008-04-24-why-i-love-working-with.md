@@ -3,13 +3,11 @@ title: "Why I love working with family people"
 date: 2008-04-24 20:45:00 +0000
 external-url: http://www.37signals.com/svn/posts/996-why-i-love-working-with-family-people
 hash: 3df67615e6943c77331b5bd9192410b6
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/996-why-i-love-working-with-family-people
+year: 2008
+month: 04
+scheme: http
+host: www.37signals.com
+path: /svn/posts/996-why-i-love-working-with-family-people
 
 ---
 

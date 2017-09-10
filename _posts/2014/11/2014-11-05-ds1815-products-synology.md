@@ -3,13 +3,11 @@ title: "DS1815+ - Products - Synology - Network Attached Storage (NAS)"
 date: 2014-11-05 03:45:52 +0000
 external-url: https://www.synology.com/en-us/products/DS1815+
 hash: 3ce09826abf1a6b9644139db99d30a80
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: www.synology.com
-    path: /en-us/products/DS1815+
+year: 2014
+month: 11
+scheme: https
+host: www.synology.com
+path: /en-us/products/DS1815+
 
 ---
 

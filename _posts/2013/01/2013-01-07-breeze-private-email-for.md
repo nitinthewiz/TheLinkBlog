@@ -3,13 +3,11 @@ title: "Breeze: Private email lists for small groups"
 date: 2013-01-07 18:51:59 +0000
 external-url: https://basecamp.com/breeze
 hash: 331db6bbc065ab5998cd60e50e5c7ed7
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: https
-    host: basecamp.com
-    path: /breeze
+year: 2013
+month: 01
+scheme: https
+host: basecamp.com
+path: /breeze
 
 ---
 

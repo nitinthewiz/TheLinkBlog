@@ -3,13 +3,11 @@ title: "Fox Business Loses Domain Name Battle Due To Laziness"
 date: 2008-03-10 21:59:17 +0000
 external-url: http://gigaom.com/2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
 hash: f7014ea32c2fcbd152fc04b136765b52
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
+year: 2008
+month: 03
+scheme: http
+host: gigaom.com
+path: /2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Richard K Miller dot coooooooooom MicroID Plugin for WordPress"
 date: 2007-05-11 05:58:15 +0000
 external-url: http://richardkmiller.com/164/microid-plugin-for-wordpress
 hash: 1f048879edd223dc51e7547121a05831
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: richardkmiller.com
-    path: /164/microid-plugin-for-wordpress
+year: 2007
+month: 05
+scheme: http
+host: richardkmiller.com
+path: /164/microid-plugin-for-wordpress
 
 ---
 

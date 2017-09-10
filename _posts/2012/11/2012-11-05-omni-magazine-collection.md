@@ -3,13 +3,11 @@ title: "OMNI Magazine Collection - Internet Archive"
 date: 2012-11-05 18:44:58 +0000
 external-url: https://archive.org/details/omni-magazine
 hash: 7873434df1769cc03c51616adddf6b10
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: archive.org
-    path: /details/omni-magazine
+year: 2012
+month: 11
+scheme: https
+host: archive.org
+path: /details/omni-magazine
 
 ---
 

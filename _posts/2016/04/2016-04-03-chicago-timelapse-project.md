@@ -3,13 +3,11 @@ title: "Chicago Timelapse Project, Windy City Nights II on Vimeo"
 date: 2016-04-03 02:25:35 +0000
 external-url: https://vimeo.com/126726117
 hash: e1916e9b9c2b7f6ba0e17abb6999d835
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: vimeo.com
-    path: /126726117
+year: 2016
+month: 04
+scheme: https
+host: vimeo.com
+path: /126726117
 
 ---
 

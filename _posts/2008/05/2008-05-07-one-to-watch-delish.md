@@ -3,13 +3,11 @@ title: "One to Watch: Delish"
 date: 2008-05-07 17:57:33 +0000
 external-url: http://gigaom.com/2008/05/07/one-to-watch-delish/
 hash: 77c22ed0852877236e73cc3b8883e2bd
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/05/07/one-to-watch-delish/
+year: 2008
+month: 05
+scheme: http
+host: gigaom.com
+path: /2008/05/07/one-to-watch-delish/
 
 ---
 

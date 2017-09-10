@@ -3,13 +3,11 @@ title: "Technorati Confirms New Financing; New Business Focus Coming"
 date: 2008-06-14 04:14:54 +0000
 external-url: http://techcrunch.com/2008/06/13/technorati-confirms-new-financing-says-new-business-focus-coming/
 hash: fe7933aa7284ee21a48c5be9d5650b9d
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/06/13/technorati-confirms-new-financing-says-new-business-focus-coming/
+year: 2008
+month: 06
+scheme: http
+host: techcrunch.com
+path: /2008/06/13/technorati-confirms-new-financing-says-new-business-focus-coming/
 
 ---
 

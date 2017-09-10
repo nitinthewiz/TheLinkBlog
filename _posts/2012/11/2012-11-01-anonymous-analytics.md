@@ -3,13 +3,11 @@ title: "Anonymous Analytics"
 date: 2012-11-01 22:11:15 +0000
 external-url: http://www.anonanalytics.com/
 hash: eaabcbe390f4ce5545130a4472ed5d8c
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.anonanalytics.com
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: www.anonanalytics.com
+path: /
 
 ---
 

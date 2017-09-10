@@ -3,13 +3,11 @@ title: "Vancouver 2010, part 1 of 2"
 date: 2010-03-06 22:55:43 +0000
 external-url: http://www.boston.com/bigpicture/2010/02/vancouver_2010_part_1_of_2.html
 hash: 1c4c7a026588cba54e64f2c0aa8ba59d
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: www.boston.com
-    path: /bigpicture/2010/02/vancouver_2010_part_1_of_2.html
+year: 2010
+month: 03
+scheme: http
+host: www.boston.com
+path: /bigpicture/2010/02/vancouver_2010_part_1_of_2.html
 
 ---
 

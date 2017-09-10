@@ -3,13 +3,11 @@ title: "New blogging techniques"
 date: 2010-10-22 01:28:39 +0000
 external-url: http://scripting.com/stories/2010/10/21/newBloggingTechniques.html
 hash: 78a05755b6e595b211179bff90cf3ebd
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/10/21/newBloggingTechniques.html
+year: 2010
+month: 10
+scheme: http
+host: scripting.com
+path: /stories/2010/10/21/newBloggingTechniques.html
 
 ---
 

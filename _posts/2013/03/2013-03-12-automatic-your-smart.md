@@ -3,13 +3,11 @@ title: "Automatic - Your Smart Driving Assistant"
 date: 2013-03-12 17:56:54 +0000
 external-url: https://www.automatic.com/
 hash: 82b1cd9a476a8650d5b367e91efd081c
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: https
-    host: www.automatic.com
-    path: /
+year: 2013
+month: 03
+scheme: https
+host: www.automatic.com
+path: /
 
 ---
 

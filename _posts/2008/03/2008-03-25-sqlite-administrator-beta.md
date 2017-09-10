@@ -3,13 +3,11 @@ title: "SQLite Administrator - International Milestone Beta"
 date: 2008-03-25 14:48:09 +0000
 external-url: http://sqliteadmin.orbmu2k.de/
 hash: ae163ec1af1772527a61b350a5a85a7f
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: sqliteadmin.orbmu2k.de
-    path: /
+year: 2008
+month: 03
+scheme: http
+host: sqliteadmin.orbmu2k.de
+path: /
 
 ---
 

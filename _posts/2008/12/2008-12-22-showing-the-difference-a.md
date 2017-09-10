@@ -3,13 +3,11 @@ title: "Showing the difference between a 19 and 22 suitcase"
 date: 2008-12-22 16:29:00 +0000
 external-url: http://signalvnoise.com/posts/1481-showing-the-difference-between-a-19-and-22-suitcase
 hash: 89fda7aebefb09a92ceec65d9674ef52
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/1481-showing-the-difference-between-a-19-and-22-suitcase
+year: 2008
+month: 12
+scheme: http
+host: signalvnoise.com
+path: /posts/1481-showing-the-difference-between-a-19-and-22-suitcase
 
 ---
 

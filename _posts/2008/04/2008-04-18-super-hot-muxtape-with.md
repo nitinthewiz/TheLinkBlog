@@ -3,13 +3,11 @@ title: "Super Hot: Muxtape With Coverflow"
 date: 2008-04-18 03:05:13 +0000
 external-url: http://readwrite.com/2008/04/17/muxtape_with_coverflow
 hash: 26fcb2a32cbeecd2cc899fda4950d467
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2008/04/17/muxtape_with_coverflow
+year: 2008
+month: 04
+scheme: http
+host: readwrite.com
+path: /2008/04/17/muxtape_with_coverflow
 
 ---
 

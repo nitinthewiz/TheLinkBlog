@@ -3,13 +3,11 @@ title: "Weehoo Bicycle Trailer"
 date: 2012-10-21 17:01:16 +0000
 external-url: http://rideweehoo.com/
 hash: a52cf8b94c6a907623c24e31de22dbcc
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: rideweehoo.com
-    path: /
+year: 2012
+month: 10
+scheme: http
+host: rideweehoo.com
+path: /
 
 ---
 

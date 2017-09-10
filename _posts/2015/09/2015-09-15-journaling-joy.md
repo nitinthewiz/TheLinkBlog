@@ -3,13 +3,11 @@ title: "Journaling Joy"
 date: 2015-09-15 00:51:59 +0000
 external-url: http://www.myproductivemac.com/blog/journaling-joy1492015
 hash: 13686872827e070826caa784e3ce724d
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/journaling-joy1492015
+year: 2015
+month: 09
+scheme: http
+host: www.myproductivemac.com
+path: /blog/journaling-joy1492015
 
 ---
 

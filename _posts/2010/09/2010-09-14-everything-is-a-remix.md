@@ -3,13 +3,11 @@ title: "Everything Is a Remix"
 date: 2010-09-14 18:10:59 +0000
 external-url: http://www.everythingisaremix.info/
 hash: ec43aa0869d07bd18bb961bf28cb4848
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: www.everythingisaremix.info
-    path: /
+year: 2010
+month: 09
+scheme: http
+host: www.everythingisaremix.info
+path: /
 
 ---
 

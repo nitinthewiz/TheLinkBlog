@@ -3,13 +3,11 @@ title: "Merger Of Advertising Giants Brings Together Largest Collection Of Peopl
 date: 2013-08-01 03:15:10 +0000
 external-url: http://www.theonion.com/articles/merger-of-advertising-giants-brings-together-large%2C33296/
 hash: f0d5d9a05b5334867331dabe9b37ab90
-annum:
-    year: 2013
-    month: 08
-url-parts:
-    scheme: http
-    host: www.theonion.com
-    path: /articles/merger-of-advertising-giants-brings-together-large%2C33296/
+year: 2013
+month: 08
+scheme: http
+host: www.theonion.com
+path: /articles/merger-of-advertising-giants-brings-together-large%2C33296/
 
 ---
 

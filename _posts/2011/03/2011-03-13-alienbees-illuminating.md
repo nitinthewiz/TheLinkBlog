@@ -3,13 +3,11 @@ title: "AlienBees: Illuminating the Galaxy with Professional Photographic Lighti
 date: 2011-03-13 04:22:00 +0000
 external-url: http://www.paulcbuff.com/b800.php
 hash: 04fbf59d2b194a88621a866ae0c3ce30
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.paulcbuff.com
-    path: /b800.php
+year: 2011
+month: 03
+scheme: http
+host: www.paulcbuff.com
+path: /b800.php
 
 ---
 

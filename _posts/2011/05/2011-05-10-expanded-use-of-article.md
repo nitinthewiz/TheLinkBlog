@@ -3,13 +3,11 @@ title: "Expanded Use of Article Feedback Tool"
 date: 2011-05-10 00:02:17 +0000
 external-url: http://blog.wikimedia.org/2011/05/09/expanded-use-of-article-feedback-tool/
 hash: dd48430ad8b546a6ae309260d186d8d4
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2011/05/09/expanded-use-of-article-feedback-tool/
+year: 2011
+month: 05
+scheme: http
+host: blog.wikimedia.org
+path: /2011/05/09/expanded-use-of-article-feedback-tool/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Wikidata revolution is here: enabling structured data on Wikipedia W
 date: 2013-04-25 21:46:18 +0000
 external-url: http://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/
 hash: 1f05757e5239ba4bb1948bf31484796d
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2013/04/25/the-wikidata-revolution/
+year: 2013
+month: 04
+scheme: http
+host: blog.wikimedia.org
+path: /2013/04/25/the-wikidata-revolution/
 
 ---
 

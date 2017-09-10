@@ -3,13 +3,11 @@ title: "re:Invent in Vegas"
 date: 2015-10-10 04:08:50 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2015/10/09/ReInvent-in-Vegas
 hash: fc13aebd64f76135b2ed274ad7266383
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2015/10/09/ReInvent-in-Vegas
+year: 2015
+month: 10
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2015/10/09/ReInvent-in-Vegas
 
 ---
 

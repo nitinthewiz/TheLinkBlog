@@ -3,13 +3,11 @@ title: "Friend of a friend"
 date: 2011-08-28 12:57:57 +0000
 external-url: http://en.wikipedia.org/wiki/FOAF_(software)
 hash: dfa2622565383546db96a3a65ead7962
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/FOAF_(software)
+year: 2011
+month: 08
+scheme: http
+host: en.wikipedia.org
+path: /wiki/FOAF_(software)
 
 ---
 

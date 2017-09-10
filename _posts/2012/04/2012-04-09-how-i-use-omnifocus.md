@@ -3,13 +3,11 @@ title: "How I Use OmniFocus"
 date: 2012-04-09 17:00:39 +0000
 external-url: http://technicallysimple.com/articles/how-i-use-omnifocus/
 hash: de573440e2e5e8c9738c4b65f53b7d3a
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: technicallysimple.com
-    path: /articles/how-i-use-omnifocus/
+year: 2012
+month: 04
+scheme: http
+host: technicallysimple.com
+path: /articles/how-i-use-omnifocus/
 
 ---
 

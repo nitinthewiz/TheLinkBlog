@@ -3,13 +3,11 @@ title: "How to Choose the Best Chart for Your Data"
 date: 2012-05-14 02:40:46 +0000
 external-url: http://lifehacker.com/5909501/how-to-choose-the-best-chart-for-your-data
 hash: 8131877374261df9077d037d891a52bd
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5909501/how-to-choose-the-best-chart-for-your-data
+year: 2012
+month: 05
+scheme: http
+host: lifehacker.com
+path: /5909501/how-to-choose-the-best-chart-for-your-data
 
 ---
 

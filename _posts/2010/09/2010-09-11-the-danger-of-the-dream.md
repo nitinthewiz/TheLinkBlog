@@ -3,13 +3,11 @@ title: "The Danger of the Dream Job Delusion"
 date: 2010-09-11 03:51:49 +0000
 external-url: http://calnewport.com/blog/2010/09/10/the-danger-of-the-dream-job-delusion/
 hash: a83524885a9b691bcd12c04bc77ab3c6
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: calnewport.com
-    path: /blog/2010/09/10/the-danger-of-the-dream-job-delusion/
+year: 2010
+month: 09
+scheme: http
+host: calnewport.com
+path: /blog/2010/09/10/the-danger-of-the-dream-job-delusion/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Pinbook 1.2 Gets iPad Support, Editing, Title Auto-Complete"
 date: 2012-12-12 23:10:59 +0000
 external-url: http://www.macstories.net/news/pinbook-1-2-gets-ipad-support-editing-title-auto-complete/
 hash: 6dd077537fbf155953c6700a68f9c099
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.macstories.net
-    path: /news/pinbook-1-2-gets-ipad-support-editing-title-auto-complete/
+year: 2012
+month: 12
+scheme: http
+host: www.macstories.net
+path: /news/pinbook-1-2-gets-ipad-support-editing-title-auto-complete/
 
 ---
 

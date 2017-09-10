@@ -3,13 +3,11 @@ title: "Defiant Bicycles"
 date: 2012-10-12 15:58:57 +0000
 external-url: http://www.defiantbicycles.com//
 hash: 092262edd621c39f7ef129c8f640b007
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.defiantbicycles.com
-    path: //
+year: 2012
+month: 10
+scheme: http
+host: www.defiantbicycles.com
+path: //
 
 ---
 

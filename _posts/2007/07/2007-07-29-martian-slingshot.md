@@ -3,13 +3,11 @@ title: "Martian SlingShot"
 date: 2007-07-29 05:05:11 +0000
 external-url: http://www.martian.com/SlingShot.html
 hash: 6b9cc230a1640f617144554d916d0758
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www.martian.com
-    path: /SlingShot.html
+year: 2007
+month: 07
+scheme: http
+host: www.martian.com
+path: /SlingShot.html
 
 ---
 

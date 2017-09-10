@@ -3,13 +3,11 @@ title: "CIOs Beware: New Macbook Pro Could Drive More Bandwidth Use"
 date: 2012-06-15 19:49:43 +0000
 external-url: http://blogs.wsj.com/cio/2012/06/11/cios-beware-new-macbook-pro-will-be-a-bandwidth-hog/
 hash: 1762b26c03297096e9b77c9b87c88fd6
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: blogs.wsj.com
-    path: /cio/2012/06/11/cios-beware-new-macbook-pro-will-be-a-bandwidth-hog/
+year: 2012
+month: 06
+scheme: http
+host: blogs.wsj.com
+path: /cio/2012/06/11/cios-beware-new-macbook-pro-will-be-a-bandwidth-hog/
 
 ---
 

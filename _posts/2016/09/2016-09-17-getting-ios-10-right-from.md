@@ -3,13 +3,11 @@ title: "Getting iOS 10 right from the start"
 date: 2016-09-17 01:28:08 +0000
 external-url: https://sixcolors.com/post/2016/09/getting-ios-10-right-from-the-start/
 hash: 70e3e56d25b1be6991cadb533895744b
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: sixcolors.com
-    path: /post/2016/09/getting-ios-10-right-from-the-start/
+year: 2016
+month: 09
+scheme: https
+host: sixcolors.com
+path: /post/2016/09/getting-ios-10-right-from-the-start/
 
 ---
 

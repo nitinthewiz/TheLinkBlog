@@ -3,13 +3,11 @@ title: "Senator Al Franken asks iOS developers to provide clear and understandab
 date: 2011-05-27 04:37:51 +0000
 external-url: http://www.tuaw.com/2011/05/26/senator-al-franken-asks-ios-developers-to-provide-clear-and-und/
 hash: b1e4b3ef72a3565defcd2bbc0aec1332
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2011/05/26/senator-al-franken-asks-ios-developers-to-provide-clear-and-und/
+year: 2011
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2011/05/26/senator-al-franken-asks-ios-developers-to-provide-clear-and-und/
 
 ---
 

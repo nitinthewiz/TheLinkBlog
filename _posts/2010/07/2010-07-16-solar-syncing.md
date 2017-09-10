@@ -3,13 +3,11 @@ title: "Solar syncing"
 date: 2010-07-16 16:20:00 +0000
 external-url: http://bobulate.com/post/819887714
 hash: 73f2d701eb845b628195356071b5b011
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: bobulate.com
-    path: /post/819887714
+year: 2010
+month: 07
+scheme: http
+host: bobulate.com
+path: /post/819887714
 
 ---
 

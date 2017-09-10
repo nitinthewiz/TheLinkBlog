@@ -3,13 +3,11 @@ title: "Why don't schools teach debugging, or, why are we proud of how fast the 
 date: 2014-11-20 11:47:03 +0000
 external-url: http://danluu.com/teach-debugging/
 hash: b1deacb90c57b801fb8bdd7a2f5feed5
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: danluu.com
-    path: /teach-debugging/
+year: 2014
+month: 11
+scheme: http
+host: danluu.com
+path: /teach-debugging/
 
 ---
 

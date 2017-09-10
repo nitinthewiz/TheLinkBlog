@@ -3,13 +3,11 @@ title: "Diceware Passphrase Home"
 date: 2015-06-15 19:20:17 +0000
 external-url: http://world.std.com/~reinhold/diceware.html
 hash: 6aa4daba8fad874c279e6595028ce6dc
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: world.std.com
-    path: /~reinhold/diceware.html
+year: 2015
+month: 06
+scheme: http
+host: world.std.com
+path: /~reinhold/diceware.html
 
 ---
 

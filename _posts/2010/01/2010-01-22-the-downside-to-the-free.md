@@ -3,13 +3,11 @@ title: "The Downside to the Kindles Free 3G Wireless"
 date: 2010-01-22 18:47:02 +0000
 external-url: http://daringfireball.net/linked/2010/01/22/kindle-free-wireless
 hash: ceb1e1b7fa3be2f343b24bf378cd8ed7
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: daringfireball.net
-    path: /linked/2010/01/22/kindle-free-wireless
+year: 2010
+month: 01
+scheme: http
+host: daringfireball.net
+path: /linked/2010/01/22/kindle-free-wireless
 
 ---
 

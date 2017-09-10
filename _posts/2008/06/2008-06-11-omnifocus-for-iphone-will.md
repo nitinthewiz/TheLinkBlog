@@ -3,13 +3,11 @@ title: "OmniFocus for iPhone will be location-aware"
 date: 2008-06-11 01:04:11 +0000
 external-url: http://www.tuaw.com/2008/06/10/omnifocus-for-iphone-will-be-location-aware/
 hash: 5209e864029387b2242cf74d4b92a46d
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/10/omnifocus-for-iphone-will-be-location-aware/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/10/omnifocus-for-iphone-will-be-location-aware/
 
 ---
 

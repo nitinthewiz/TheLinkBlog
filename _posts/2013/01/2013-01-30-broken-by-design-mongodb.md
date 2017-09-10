@@ -3,13 +3,11 @@ title: "Broken by Design: MongoDB Fault Tolerance"
 date: 2013-01-30 15:20:37 +0000
 external-url: http://hackingdistributed.com/2013/01/29/mongo-ft/
 hash: 2a798eac791aea277ecd8ba9e8e98233
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: hackingdistributed.com
-    path: /2013/01/29/mongo-ft/
+year: 2013
+month: 01
+scheme: http
+host: hackingdistributed.com
+path: /2013/01/29/mongo-ft/
 
 ---
 

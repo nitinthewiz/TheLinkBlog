@@ -3,13 +3,11 @@ title: "My Standing Desk Experiment"
 date: 2011-06-17 04:43:11 +0000
 external-url: http://zenhabits.net/stand/
 hash: dbd3423a7a98d3b08d2222319e2ab881
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: zenhabits.net
-    path: /stand/
+year: 2011
+month: 06
+scheme: http
+host: zenhabits.net
+path: /stand/
 
 ---
 

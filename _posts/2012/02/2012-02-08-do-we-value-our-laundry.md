@@ -3,13 +3,11 @@ title: "Do we value our laundry more than our privacy?"
 date: 2012-02-08 15:19:19 +0000
 external-url: http://clearsignal.posterous.com/bye.html
 hash: a7700ee2b6c6789479461c329fdf2437
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: clearsignal.posterous.com
-    path: /bye.html
+year: 2012
+month: 02
+scheme: http
+host: clearsignal.posterous.com
+path: /bye.html
 
 ---
 

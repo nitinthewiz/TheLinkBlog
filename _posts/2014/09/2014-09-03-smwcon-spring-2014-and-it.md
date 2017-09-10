@@ -3,13 +3,11 @@ title: "SMWCon Spring 2014 - Wikidata and what it means for SMW"
 date: 2014-09-03 14:20:06 +0000
 external-url: https://semantic-mediawiki.org/wiki/SMWCon_Spring_2014/Wikidata_and_what_it_means_for_SMW
 hash: ab7772008abf00d7a194c5841ddae9cd
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: https
-    host: semantic-mediawiki.org
-    path: /wiki/SMWCon_Spring_2014/Wikidata_and_what_it_means_for_SMW
+year: 2014
+month: 09
+scheme: https
+host: semantic-mediawiki.org
+path: /wiki/SMWCon_Spring_2014/Wikidata_and_what_it_means_for_SMW
 
 ---
 

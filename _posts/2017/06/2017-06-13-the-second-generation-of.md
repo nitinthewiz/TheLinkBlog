@@ -3,13 +3,11 @@ title: "The second generation of eero —Eero Blog"
 date: 2017-06-13 14:29:56 +0000
 external-url: https://blog.eero.com/the-second-generation-of-eero/
 hash: 4526e7258b6e5e6d4bf434c047889eb3
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: blog.eero.com
-    path: /the-second-generation-of-eero/
+year: 2017
+month: 06
+scheme: https
+host: blog.eero.com
+path: /the-second-generation-of-eero/
 
 ---
 

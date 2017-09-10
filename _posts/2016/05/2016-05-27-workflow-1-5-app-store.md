@@ -3,13 +3,11 @@ title: "Workflow 1.5: App Store Automation, Trello and Ulysses Actions, Audio Me
 date: 2016-05-27 01:07:29 +0000
 external-url: https://www.macstories.net/reviews/workflow-1-5-app-store-automation-trello-and-ulysses-actions-audio-metadata-safari-view-controller-and-more/
 hash: 9e6002e7a01a5daacfdb8b04deb3d810
-annum:
-    year: 2016
-    month: 05
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /reviews/workflow-1-5-app-store-automation-trello-and-ulysses-actions-audio-metadata-safari-view-controller-and-more/
+year: 2016
+month: 05
+scheme: https
+host: www.macstories.net
+path: /reviews/workflow-1-5-app-store-automation-trello-and-ulysses-actions-audio-metadata-safari-view-controller-and-more/
 
 ---
 

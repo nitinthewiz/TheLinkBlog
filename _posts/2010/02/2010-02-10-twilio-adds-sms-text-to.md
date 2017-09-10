@@ -3,13 +3,11 @@ title: "Twilio adds SMS text support to its phone-to-Web API"
 date: 2010-02-10 05:08:22 +0000
 external-url: http://venturebeat.com/2010/02/09/twilio-adds-sms-text-support-to-its-phone-to-web-api/
 hash: 29e4a4aa73f73f8b827cbfbd7e5fcb31
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2010/02/09/twilio-adds-sms-text-support-to-its-phone-to-web-api/
+year: 2010
+month: 02
+scheme: http
+host: venturebeat.com
+path: /2010/02/09/twilio-adds-sms-text-support-to-its-phone-to-web-api/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Flash Ajax Update: Flex LiveCycle Data Services Goes Open-Source"
 date: 2007-12-13 05:01:30 +0000
 external-url: http://ajaxian.com/archives/ajax-in-flash-flex-livecycle-data-services-goes-open-source
 hash: 12d18957db9a330382999acd7b07969c
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/ajax-in-flash-flex-livecycle-data-services-goes-open-source
+year: 2007
+month: 12
+scheme: http
+host: ajaxian.com
+path: /archives/ajax-in-flash-flex-livecycle-data-services-goes-open-source
 
 ---
 

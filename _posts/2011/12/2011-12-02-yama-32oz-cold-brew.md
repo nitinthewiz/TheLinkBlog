@@ -3,13 +3,11 @@ title: "Yama 32oz Cold Brew Coffee Dripper"
 date: 2011-12-02 22:25:58 +0000
 external-url: http://blacksmithcoffee.com/products/yama-6-8-cup-cold-brew-coffee-dripper
 hash: 712ad45c6d19a3ef947149c9ad094a3a
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: blacksmithcoffee.com
-    path: /products/yama-6-8-cup-cold-brew-coffee-dripper
+year: 2011
+month: 12
+scheme: http
+host: blacksmithcoffee.com
+path: /products/yama-6-8-cup-cold-brew-coffee-dripper
 
 ---
 

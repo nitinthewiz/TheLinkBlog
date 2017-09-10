@@ -3,13 +3,11 @@ title: "Why do geeks have lust for ZFS? at zamwi.com"
 date: 2007-01-17 06:46:16 +0000
 external-url: http://tech.zamwi.com/2007/01/16/why-do-geeks-have-lust-for-zfs/
 hash: d186b842d518a3d4c73048ce080bfc7f
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: tech.zamwi.com
-    path: /2007/01/16/why-do-geeks-have-lust-for-zfs/
+year: 2007
+month: 01
+scheme: http
+host: tech.zamwi.com
+path: /2007/01/16/why-do-geeks-have-lust-for-zfs/
 
 ---
 

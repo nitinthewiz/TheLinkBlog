@@ -3,13 +3,11 @@ title: "How to Move from MySQL to CouchDB"
 date: 2010-12-11 16:48:54 +0000
 external-url: http://blog.couchbase.com/how-move-mysql-couchdb-part-1
 hash: 875d7c6d514634effa05a749b1ae3c53
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.couchbase.com
-    path: /how-move-mysql-couchdb-part-1
+year: 2010
+month: 12
+scheme: http
+host: blog.couchbase.com
+path: /how-move-mysql-couchdb-part-1
 
 ---
 

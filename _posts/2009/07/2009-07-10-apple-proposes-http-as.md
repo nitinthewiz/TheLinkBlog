@@ -3,13 +3,11 @@ title: "Apple proposes HTTP streaming feature as IETF standard"
 date: 2009-07-10 04:05:12 +0000
 external-url: http://arstechnica.com/apple/2009/07/apple-proposes-http-streaming-feature-as-a-protocol-standard/
 hash: 862c50a381f4c5351b201b15d9004288
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /apple/2009/07/apple-proposes-http-streaming-feature-as-a-protocol-standard/
+year: 2009
+month: 07
+scheme: http
+host: arstechnica.com
+path: /apple/2009/07/apple-proposes-http-streaming-feature-as-a-protocol-standard/
 
 ---
 

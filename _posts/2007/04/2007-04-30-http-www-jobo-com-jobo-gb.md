@@ -3,13 +3,11 @@ title: "http://www.jobo.com/jobo_digital/photogps/gb/index.html"
 date: 2007-04-30 22:11:26 +0000
 external-url: http://www.jobo.com/jobo_digital/photogps/gb/index.html
 hash: 5a179167d855ef5d3cbacd1a18192769
-annum:
-    year: 2007
-    month: 04
-url-parts:
-    scheme: http
-    host: www.jobo.com
-    path: /jobo_digital/photogps/gb/index.html
+year: 2007
+month: 04
+scheme: http
+host: www.jobo.com
+path: /jobo_digital/photogps/gb/index.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Playboy.com Goes Mobile with iPhone-compatible Version"
 date: 2008-04-03 05:42:07 +0000
 external-url: http://techcrunch.com/2008/04/02/playboycom-goes-mobile-with-iphone-compatible-version/
 hash: eaf25fb19dcedebbbf5ce1d2d079de7d
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/04/02/playboycom-goes-mobile-with-iphone-compatible-version/
+year: 2008
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2008/04/02/playboycom-goes-mobile-with-iphone-compatible-version/
 
 ---
 

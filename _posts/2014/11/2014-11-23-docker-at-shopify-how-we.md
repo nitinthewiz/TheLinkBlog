@@ -3,13 +3,11 @@ title: "Docker at Shopify: How we built containers that power over 100,000 onl"
 date: 2014-11-23 13:44:05 +0000
 external-url: http://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 hash: e50cf8915770060f3060f9c0bbd15504
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: www.shopify.com
-    path: /technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
+year: 2014
+month: 11
+scheme: http
+host: www.shopify.com
+path: /technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 
 ---
 

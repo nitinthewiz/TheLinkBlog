@@ -3,13 +3,11 @@ title: "Advanced: Structure Your Account With Roll Up Reporting And More"
 date: 2009-09-30 04:30:27 +0000
 external-url: http://analytics.blogspot.com/2009/09/advanced-structure-your-account-with.html
 hash: 8ecfe64a9e715d074c0a33596738982c
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: analytics.blogspot.com
-    path: /2009/09/advanced-structure-your-account-with.html
+year: 2009
+month: 09
+scheme: http
+host: analytics.blogspot.com
+path: /2009/09/advanced-structure-your-account-with.html
 
 ---
 

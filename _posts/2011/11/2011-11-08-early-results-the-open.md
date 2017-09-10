@@ -3,13 +3,11 @@ title: "Early Results: The Open Graph and Music - Facebook Developers"
 date: 2011-11-08 21:09:40 +0000
 external-url: https://developers.facebook.com/blog/post/594/
 hash: cc2e91a4e82693c1f2489cb41b1a1914
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /blog/post/594/
+year: 2011
+month: 11
+scheme: https
+host: developers.facebook.com
+path: /blog/post/594/
 
 ---
 

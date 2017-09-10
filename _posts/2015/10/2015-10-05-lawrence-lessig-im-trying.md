@@ -3,13 +3,11 @@ title: "Lawrence Lessig: I’m Trying to Run for President, but the Democrats Wo
 date: 2015-10-05 10:43:35 +0000
 external-url: http://www.politico.com/magazine/story/2015/10/lessig-lawrence-democrats-debate-2016-213215
 hash: 4930e20d138d1317fe3dbf55f383215d
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: www.politico.com
-    path: /magazine/story/2015/10/lessig-lawrence-democrats-debate-2016-213215
+year: 2015
+month: 10
+scheme: http
+host: www.politico.com
+path: /magazine/story/2015/10/lessig-lawrence-democrats-debate-2016-213215
 
 ---
 

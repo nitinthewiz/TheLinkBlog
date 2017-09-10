@@ -3,13 +3,11 @@ title: "RSS Reader for Mac - NetNewsWire"
 date: 2007-09-04 21:49:54 +0000
 external-url: http://www.newsgator.com/Individuals/NetNewsWire/Default.aspx
 hash: 0b82e3ebf486ed6bcfe0341aa9586f1a
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.newsgator.com
-    path: /Individuals/NetNewsWire/Default.aspx
+year: 2007
+month: 09
+scheme: http
+host: www.newsgator.com
+path: /Individuals/NetNewsWire/Default.aspx
 
 ---
 

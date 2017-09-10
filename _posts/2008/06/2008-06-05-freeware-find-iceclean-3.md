@@ -3,13 +3,11 @@ title: "Freeware Find: IceClean 3.0b"
 date: 2008-06-05 18:00:00 +0000
 external-url: http://www.tuaw.com/2008/06/05/freeware-find-iceclean-3-0b/
 hash: f6aa55ebddb72fe9cf261a969b5a10a6
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/05/freeware-find-iceclean-3-0b/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/05/freeware-find-iceclean-3-0b/
 
 ---
 

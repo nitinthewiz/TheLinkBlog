@@ -3,13 +3,11 @@ title: "Constrained Application Protocol - Wikipedia, the free encyclopedia"
 date: 2015-04-28 17:52:28 +0000
 external-url: https://en.wikipedia.org/wiki/Constrained_Application_Protocol
 hash: 4a7d5f5c822004cccd45a137e8b0b9c7
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: https
-    host: en.wikipedia.org
-    path: /wiki/Constrained_Application_Protocol
+year: 2015
+month: 04
+scheme: https
+host: en.wikipedia.org
+path: /wiki/Constrained_Application_Protocol
 
 ---
 

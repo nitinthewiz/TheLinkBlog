@@ -3,13 +3,11 @@ title: "The Worlds Most Advanced Satellites, As Wooden Toys"
 date: 2012-10-06 04:05:20 +0000
 external-url: http://www.fastcodesign.com/1670923/the-world-s-most-advanced-satellites-as-wooden-toys
 hash: 18f210b62b7690631a51ea8acdfda926
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.fastcodesign.com
-    path: /1670923/the-world-s-most-advanced-satellites-as-wooden-toys
+year: 2012
+month: 10
+scheme: http
+host: www.fastcodesign.com
+path: /1670923/the-world-s-most-advanced-satellites-as-wooden-toys
 
 ---
 

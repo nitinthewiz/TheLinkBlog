@@ -3,13 +3,11 @@ title: "The New WSJ.com: More Readers, Who Are Less Interested"
 date: 2008-07-07 18:34:00 +0000
 external-url: http://www.businessinsider.com/2008/7/the-new-wsj-com-more-readers-who-are-less-interested
 hash: 9b51b06388e05a00c8a083b9b6a4da3d
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/7/the-new-wsj-com-more-readers-who-are-less-interested
+year: 2008
+month: 07
+scheme: http
+host: www.businessinsider.com
+path: /2008/7/the-new-wsj-com-more-readers-who-are-less-interested
 
 ---
 

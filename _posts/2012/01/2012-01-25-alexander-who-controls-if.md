@@ -3,13 +3,11 @@ title: "Alexander: Who controls your Facebook page if you die?"
 date: 2012-01-25 19:46:16 +0000
 external-url: http://www.startribune.com/business/137992223.html
 hash: cf116aeb72ff94035f6dd7d73bf9a985
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/137992223.html
+year: 2012
+month: 01
+scheme: http
+host: www.startribune.com
+path: /business/137992223.html
 
 ---
 

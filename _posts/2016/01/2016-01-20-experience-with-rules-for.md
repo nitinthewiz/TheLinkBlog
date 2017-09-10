@@ -3,13 +3,11 @@ title: "Experience with Rules-Based Programming for Distributed Concurrent Fault
 date: 2016-01-20 11:11:01 +0000
 external-url: http://blog.acolyer.org/2016/01/19/dcft/
 hash: a9b2ef2681d9ca5022047d6b1ca507cb
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: blog.acolyer.org
-    path: /2016/01/19/dcft/
+year: 2016
+month: 01
+scheme: http
+host: blog.acolyer.org
+path: /2016/01/19/dcft/
 
 ---
 

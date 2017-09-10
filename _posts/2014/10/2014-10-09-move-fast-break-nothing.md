@@ -3,13 +3,11 @@ title: "move fast & break nothing"
 date: 2014-10-09 10:53:30 +0000
 external-url: http://zachholman.com/talk/move-fast-break-nothing/
 hash: e2e9705af39a05e6d94ed9b0d2dc1fb3
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: zachholman.com
-    path: /talk/move-fast-break-nothing/
+year: 2014
+month: 10
+scheme: http
+host: zachholman.com
+path: /talk/move-fast-break-nothing/
 
 ---
 

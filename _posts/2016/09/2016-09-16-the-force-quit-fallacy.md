@@ -3,13 +3,11 @@ title: "The Force Quit Fallacy"
 date: 2016-09-16 02:18:33 +0000
 external-url: http://martiancraft.com/blog/2016/02/force-quit-2/
 hash: f54ec21faf0918416889f288440bfa9c
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: http
-    host: martiancraft.com
-    path: /blog/2016/02/force-quit-2/
+year: 2016
+month: 09
+scheme: http
+host: martiancraft.com
+path: /blog/2016/02/force-quit-2/
 
 ---
 

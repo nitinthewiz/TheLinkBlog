@@ -3,13 +3,11 @@ title: "30 Questions to Ask Your Kid Instead of “How Was Your Day?” — The 
 date: 2015-09-07 23:10:31 +0000
 external-url: https://medium.com/synapse/30-questions-to-ask-your-kid-instead-of-how-was-your-day-26be75072f13
 hash: ac95435231c1f62431089f273a097dcf
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /synapse/30-questions-to-ask-your-kid-instead-of-how-was-your-day-26be75072f13
+year: 2015
+month: 09
+scheme: https
+host: medium.com
+path: /synapse/30-questions-to-ask-your-kid-instead-of-how-was-your-day-26be75072f13
 
 ---
 

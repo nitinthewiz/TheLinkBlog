@@ -3,13 +3,11 @@ title: "How to stop junk mail"
 date: 2008-07-02 18:40:13 +0000
 external-url: https://www.mattcutts.com/blog/stop-junk-mail/
 hash: cb09e72296f439260351070704a720d4
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: https
-    host: www.mattcutts.com
-    path: /blog/stop-junk-mail/
+year: 2008
+month: 07
+scheme: https
+host: www.mattcutts.com
+path: /blog/stop-junk-mail/
 
 ---
 

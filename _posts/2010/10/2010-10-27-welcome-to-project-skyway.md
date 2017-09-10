@@ -3,13 +3,11 @@ title: "Welcome to Project Skyway"
 date: 2010-10-27 19:38:24 +0000
 external-url: http://www.projectskyway.com/hello-world/
 hash: 18650b618c56858be811fc77eb392efc
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.projectskyway.com
-    path: /hello-world/
+year: 2010
+month: 10
+scheme: http
+host: www.projectskyway.com
+path: /hello-world/
 
 ---
 

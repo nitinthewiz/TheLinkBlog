@@ -3,13 +3,11 @@ title: "Quotes from the Road"
 date: 2008-05-24 22:31:45 +0000
 external-url: http://www.smallerthanaredwood.com/quotes-from-the-road/
 hash: 53a1915acff337d33483476d24ad9ae2
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.smallerthanaredwood.com
-    path: /quotes-from-the-road/
+year: 2008
+month: 05
+scheme: http
+host: www.smallerthanaredwood.com
+path: /quotes-from-the-road/
 
 ---
 

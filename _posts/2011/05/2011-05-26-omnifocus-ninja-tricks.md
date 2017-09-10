@@ -3,13 +3,11 @@ title: "OmniFocus Ninja Tricks with David Spark"
 date: 2011-05-26 01:03:00 +0000
 external-url: http://www.omnigroup.com/blog/entry/omnifocus_ninja_tricks_with_david_sparks/
 hash: 793c6fe718b225502051feb70793da39
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.omnigroup.com
-    path: /blog/entry/omnifocus_ninja_tricks_with_david_sparks/
+year: 2011
+month: 05
+scheme: http
+host: www.omnigroup.com
+path: /blog/entry/omnifocus_ninja_tricks_with_david_sparks/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Groupon Changes Privacy Policy, Starts Tracking User Location"
 date: 2011-07-12 06:59:09 +0000
 external-url: http://readwrite.com/2011/07/11/groupon_changes_privacy_policy_starts_tracking_use
 hash: a0b65db9e9f642c1e422f9a22693c0ae
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2011/07/11/groupon_changes_privacy_policy_starts_tracking_use
+year: 2011
+month: 07
+scheme: http
+host: readwrite.com
+path: /2011/07/11/groupon_changes_privacy_policy_starts_tracking_use
 
 ---
 

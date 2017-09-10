@@ -3,13 +3,11 @@ title: "PHP Addiction"
 date: 2012-06-29 19:52:43 +0000
 external-url: http://www.marco.org/2012/06/29/php-addiction
 hash: e02e3821aa76f6dd5ef532ae03fbd551
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2012/06/29/php-addiction
+year: 2012
+month: 06
+scheme: http
+host: www.marco.org
+path: /2012/06/29/php-addiction
 
 ---
 

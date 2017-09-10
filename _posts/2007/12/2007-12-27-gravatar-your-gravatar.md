@@ -3,13 +3,11 @@ title: "Gravatar: Your gravatar: it’s not just for web pages any more!"
 date: 2007-12-27 20:54:08 +0000
 external-url: http://blog.gravatar.com/2007/12/27/your-gravatar-its-not-just-for-web-pages-any-more/
 hash: a767067df53b4bcdb2bb746e0022fafc
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.gravatar.com
-    path: /2007/12/27/your-gravatar-its-not-just-for-web-pages-any-more/
+year: 2007
+month: 12
+scheme: http
+host: blog.gravatar.com
+path: /2007/12/27/your-gravatar-its-not-just-for-web-pages-any-more/
 
 ---
 

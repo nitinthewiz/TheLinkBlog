@@ -3,13 +3,11 @@ title: "First Look: TimesPeople Adds Social Layer To NYTimes.com"
 date: 2008-06-19 05:34:20 +0000
 external-url: https://gigaom.com/2008/06/18/419-first-look-timespeople-adds-social-layer-to-nytimescom/
 hash: 983fb0345aa846cc1588468bb61455fe
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/06/18/419-first-look-timespeople-adds-social-layer-to-nytimescom/
+year: 2008
+month: 06
+scheme: https
+host: gigaom.com
+path: /2008/06/18/419-first-look-timespeople-adds-social-layer-to-nytimescom/
 
 ---
 

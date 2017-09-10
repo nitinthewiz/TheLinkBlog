@@ -3,13 +3,11 @@ title: "Jirafe - Analytics for Ecommerce CMS Systems"
 date: 2012-02-06 17:28:15 +0000
 external-url: https://jirafe.com/
 hash: d00af9a95cb91bf5cb794eaf7d475293
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: https
-    host: jirafe.com
-    path: /
+year: 2012
+month: 02
+scheme: https
+host: jirafe.com
+path: /
 
 ---
 

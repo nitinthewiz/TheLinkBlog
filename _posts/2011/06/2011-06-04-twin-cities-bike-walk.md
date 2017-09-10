@@ -3,13 +3,11 @@ title: "Twin Cities Bike Walk Week"
 date: 2011-06-04 13:23:49 +0000
 external-url: http://bikewalkweek.org/
 hash: 9355b5b5cf00fc42c8b26aa1aee6738a
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: bikewalkweek.org
-    path: /
+year: 2011
+month: 06
+scheme: http
+host: bikewalkweek.org
+path: /
 
 ---
 

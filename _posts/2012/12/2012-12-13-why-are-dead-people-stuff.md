@@ -3,13 +3,11 @@ title: "Why Are Dead People Liking Stuff On Facebook?"
 date: 2012-12-13 15:44:35 +0000
 external-url: http://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook
 hash: 5019533fbca31bdf9a0bc50355454b4b
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2012/12/11/why-are-dead-people-liking-stuff-on-facebook
+year: 2012
+month: 12
+scheme: http
+host: readwrite.com
+path: /2012/12/11/why-are-dead-people-liking-stuff-on-facebook
 
 ---
 

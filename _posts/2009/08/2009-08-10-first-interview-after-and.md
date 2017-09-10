@@ -3,13 +3,11 @@ title: "First Interview After Acquisition With FriendFeed And Facebook"
 date: 2009-08-10 21:21:20 +0000
 external-url: http://techcrunch.com/2009/08/10/first-interview-after-acquisition-with-friendfeed-and-facebook/
 hash: 29c5ad3378caf4b0c284ef13031e1a86
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/08/10/first-interview-after-acquisition-with-friendfeed-and-facebook/
+year: 2009
+month: 08
+scheme: http
+host: techcrunch.com
+path: /2009/08/10/first-interview-after-acquisition-with-friendfeed-and-facebook/
 
 ---
 

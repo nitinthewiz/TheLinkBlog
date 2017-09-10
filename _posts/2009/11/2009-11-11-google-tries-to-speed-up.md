@@ -3,13 +3,11 @@ title: "Google tries to speed up programming with a new language: Go"
 date: 2009-11-11 02:41:58 +0000
 external-url: http://venturebeat.com/2009/11/10/google-tries-to-speed-up-programming-with-a-new-language-go/
 hash: 2de927fabe2f3a60676ba2fbd07a8270
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/11/10/google-tries-to-speed-up-programming-with-a-new-language-go/
+year: 2009
+month: 11
+scheme: http
+host: venturebeat.com
+path: /2009/11/10/google-tries-to-speed-up-programming-with-a-new-language-go/
 
 ---
 

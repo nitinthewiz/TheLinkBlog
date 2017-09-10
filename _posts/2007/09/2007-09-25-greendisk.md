@@ -3,13 +3,11 @@ title: "GreenDisk"
 date: 2007-09-25 19:51:38 +0000
 external-url: http://www.greendisk.com/
 hash: e7fd588a68c74e893e710040c12b3bd4
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.greendisk.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: www.greendisk.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "LogicMonitor Integrates With PagerDuty to Automate Incident Workflow"
 date: 2016-02-23 17:41:46 +0000
 external-url: http://www.logicmonitor.com/blog/2016/02/23/logicmonitor-integrates-with-pagerduty-to-automate-incident-workflow/
 hash: e4d24092677494f52dd7c9d735462918
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.logicmonitor.com
-    path: /blog/2016/02/23/logicmonitor-integrates-with-pagerduty-to-automate-incident-workflow/
+year: 2016
+month: 02
+scheme: http
+host: www.logicmonitor.com
+path: /blog/2016/02/23/logicmonitor-integrates-with-pagerduty-to-automate-incident-workflow/
 
 ---
 

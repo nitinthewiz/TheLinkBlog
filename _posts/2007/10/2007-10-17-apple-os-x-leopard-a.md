@@ -3,13 +3,11 @@ title: "Apple OS X Leopard: A beautiful upgrade"
 date: 2007-10-17 15:29:33 +0000
 external-url: http://weblog.infoworld.com/yager/archives/2007/10/take_me_home_le.html
 hash: 4b62b282d1cb5d9f6c687783d576c200
-annum:
-    year: 2007
-    month: 10
-url-parts:
-    scheme: http
-    host: weblog.infoworld.com
-    path: /yager/archives/2007/10/take_me_home_le.html
+year: 2007
+month: 10
+scheme: http
+host: weblog.infoworld.com
+path: /yager/archives/2007/10/take_me_home_le.html
 
 ---
 

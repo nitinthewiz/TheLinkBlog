@@ -3,13 +3,11 @@ title: "analytics.usa.gov | The US government's web traffic."
 date: 2015-03-20 01:48:04 +0000
 external-url: https://analytics.usa.gov/
 hash: e995391a2abaddf09df09a2aae471b5d
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: https
-    host: analytics.usa.gov
-    path: /
+year: 2015
+month: 03
+scheme: https
+host: analytics.usa.gov
+path: /
 
 ---
 

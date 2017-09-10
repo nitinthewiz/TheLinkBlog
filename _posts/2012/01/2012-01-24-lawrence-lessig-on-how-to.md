@@ -3,13 +3,11 @@ title: "Lawrence Lessig on How Money Corrupts Congress - and How to Stop It"
 date: 2012-01-24 00:23:03 +0000
 external-url: http://www.rollingstone.com/politics/blogs/national-affairs/lawrence-lessig-on-how-money-corrupts-congress-and-how-to-stop-it-20111005
 hash: a24a1c3efb1639f3898022ccf76805d3
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.rollingstone.com
-    path: /politics/blogs/national-affairs/lawrence-lessig-on-how-money-corrupts-congress-and-how-to-stop-it-20111005
+year: 2012
+month: 01
+scheme: http
+host: www.rollingstone.com
+path: /politics/blogs/national-affairs/lawrence-lessig-on-how-money-corrupts-congress-and-how-to-stop-it-20111005
 
 ---
 

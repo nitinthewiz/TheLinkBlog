@@ -3,13 +3,11 @@ title: "Steel - Command line password manager"
 date: 2015-10-22 09:10:45 +0000
 external-url: http://www.steelpasswordmanager.org/
 hash: f4410c9e3349d6802250aa57d53ee7ad
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: www.steelpasswordmanager.org
-    path: /
+year: 2015
+month: 10
+scheme: http
+host: www.steelpasswordmanager.org
+path: /
 
 ---
 

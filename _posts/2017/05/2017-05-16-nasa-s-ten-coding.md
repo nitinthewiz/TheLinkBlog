@@ -3,13 +3,11 @@ title: "NASA's ten coding commandments - JAXenter"
 date: 2017-05-16 10:29:06 +0000
 external-url: https://jaxenter.com/power-ten-nasas-coding-commandments-114124.html
 hash: ed0296a913e52b30ee7831174ec1d53d
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: jaxenter.com
-    path: /power-ten-nasas-coding-commandments-114124.html
+year: 2017
+month: 05
+scheme: https
+host: jaxenter.com
+path: /power-ten-nasas-coding-commandments-114124.html
 
 ---
 

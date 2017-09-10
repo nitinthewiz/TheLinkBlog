@@ -3,13 +3,11 @@ title: "Application Store Appia Partners With Zedge to Broaden Reach"
 date: 2011-09-15 16:15:00 +0000
 external-url: http://www.readwriteweb.com/mobile/2011/09/application-store-appia-partne.php
 hash: 3cec766f07aa21de032e962fba04329c
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /mobile/2011/09/application-store-appia-partne.php
+year: 2011
+month: 09
+scheme: http
+host: www.readwriteweb.com
+path: /mobile/2011/09/application-store-appia-partne.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "Delicious Library 2 beta on the streets"
 date: 2008-05-24 05:15:00 +0000
 external-url: http://www.tuaw.com/2008/05/23/delicious-library-2-beta-on-the-streets/
 hash: 7b93e83d83a36a191e66cca483054a68
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/05/23/delicious-library-2-beta-on-the-streets/
+year: 2008
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2008/05/23/delicious-library-2-beta-on-the-streets/
 
 ---
 

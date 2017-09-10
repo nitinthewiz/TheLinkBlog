@@ -3,13 +3,11 @@ title: "Wallstrip Host Lindsay Campbell Leaving Show, Staying With CBS"
 date: 2008-01-14 01:26:42 +0000
 external-url: http://www.businessinsider.com/2008/1/wallstrip-host-lindsay-campbell-leaving-show-staying-with-cbs
 hash: 527e84204d775f1068d211dd931b036f
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/1/wallstrip-host-lindsay-campbell-leaving-show-staying-with-cbs
+year: 2008
+month: 01
+scheme: http
+host: www.businessinsider.com
+path: /2008/1/wallstrip-host-lindsay-campbell-leaving-show-staying-with-cbs
 
 ---
 

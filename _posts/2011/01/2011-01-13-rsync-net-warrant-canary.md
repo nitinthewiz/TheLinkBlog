@@ -3,13 +3,11 @@ title: "rsync.net Warrant Canary"
 date: 2011-01-13 05:41:17 +0000
 external-url: http://www.rsync.net/resources/notices/canary.txt
 hash: 042b7e7645dbf041c1a39cf5d41706bb
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.rsync.net
-    path: /resources/notices/canary.txt
+year: 2011
+month: 01
+scheme: http
+host: www.rsync.net
+path: /resources/notices/canary.txt
 
 ---
 

@@ -3,13 +3,11 @@ title: "Minneapolis police search for hit-and-run suspect"
 date: 2012-06-28 22:56:23 +0000
 external-url: http://bit.ly/1nAiMfh
 hash: 0827abe2a65508fe77777a3378a21add
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: bit.ly
-    path: /1nAiMfh
+year: 2012
+month: 06
+scheme: http
+host: bit.ly
+path: /1nAiMfh
 
 ---
 

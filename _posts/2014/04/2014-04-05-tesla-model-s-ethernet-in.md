@@ -3,13 +3,11 @@ title: "Tesla Model S Ethernet Network Explored, Possible Jailbreak in the Futur
 date: 2014-04-05 08:38:40 +0000
 external-url: http://www.dragtimes.com/blog/tesla-model-s-ethernet-network-explored-possible-jailbreak-in-the-future
 hash: caf352544670a4da471841a6481d70bb
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: http
-    host: www.dragtimes.com
-    path: /blog/tesla-model-s-ethernet-network-explored-possible-jailbreak-in-the-future
+year: 2014
+month: 04
+scheme: http
+host: www.dragtimes.com
+path: /blog/tesla-model-s-ethernet-network-explored-possible-jailbreak-in-the-future
 
 ---
 

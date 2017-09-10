@@ -3,13 +3,11 @@ title: "Hey dad, Wikipedia says that you"
 date: 2007-12-13 16:31:43 +0000
 external-url: http://www.mathewingram.com/work/2007/12/13/hey-dad-wikipedia-says-that-you/
 hash: 2a1a0db2a4771cf7a361566cf827861b
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.mathewingram.com
-    path: /work/2007/12/13/hey-dad-wikipedia-says-that-you/
+year: 2007
+month: 12
+scheme: http
+host: www.mathewingram.com
+path: /work/2007/12/13/hey-dad-wikipedia-says-that-you/
 
 ---
 

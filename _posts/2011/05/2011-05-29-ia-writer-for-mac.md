@@ -3,13 +3,11 @@ title: "iA Writer for Mac"
 date: 2011-05-29 12:34:51 +0000
 external-url: http://www.informationarchitects.jp/en/ia-writer-for-mac/
 hash: 27034c58115b923fa03adf1e1be7db00
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.informationarchitects.jp
-    path: /en/ia-writer-for-mac/
+year: 2011
+month: 05
+scheme: http
+host: www.informationarchitects.jp
+path: /en/ia-writer-for-mac/
 
 ---
 

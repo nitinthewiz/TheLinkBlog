@@ -3,13 +3,11 @@ title: "Improve Your Blog by Showing Up"
 date: 2007-12-28 04:28:21 +0000
 external-url: http://www.problogger.net/archives/2007/12/28/improve-your-blog-by-showing-up/
 hash: 6fc125ea5c2b30dcec3f88a1980ad07b
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.problogger.net
-    path: /archives/2007/12/28/improve-your-blog-by-showing-up/
+year: 2007
+month: 12
+scheme: http
+host: www.problogger.net
+path: /archives/2007/12/28/improve-your-blog-by-showing-up/
 
 ---
 

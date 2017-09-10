@@ -3,13 +3,11 @@ title: "Rails 2.0: It's done"
 date: 2007-12-07 15:03:00 +0000
 external-url: http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done/
 hash: 23c84ff8ad790977c17bf090b0230969
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: weblog.rubyonrails.org
-    path: /2007/12/7/rails-2-0-it-s-done/
+year: 2007
+month: 12
+scheme: http
+host: weblog.rubyonrails.org
+path: /2007/12/7/rails-2-0-it-s-done/
 
 ---
 

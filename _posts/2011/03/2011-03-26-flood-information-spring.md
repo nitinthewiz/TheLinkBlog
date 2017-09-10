@@ -3,13 +3,11 @@ title: "Flood Information, Spring 2011"
 date: 2011-03-26 21:02:21 +0000
 external-url: http://www.ci.minneapolis.mn.us/stormwater/flood-information/
 hash: 40f03d210036908fc280d657c09abd63
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.ci.minneapolis.mn.us
-    path: /stormwater/flood-information/
+year: 2011
+month: 03
+scheme: http
+host: www.ci.minneapolis.mn.us
+path: /stormwater/flood-information/
 
 ---
 

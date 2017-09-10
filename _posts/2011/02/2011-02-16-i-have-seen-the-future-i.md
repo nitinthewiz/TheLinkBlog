@@ -3,13 +3,11 @@ title: "I Have Seen the Future and I Am Opposed"
 date: 2011-02-16 05:02:57 +0000
 external-url: http://core77.com/blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp
 hash: 33dd317ae2e983e6d829f71be4250ac1
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: core77.com
-    path: /blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp
+year: 2011
+month: 02
+scheme: http
+host: core77.com
+path: /blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp
 
 ---
 

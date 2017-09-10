@@ -3,13 +3,11 @@ title: "ongoing by Tim Bray · Enlightenment Technology"
 date: 2017-08-26 01:08:49 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment
 hash: 95a035dd61465d59ac96f0c0d7a699dd
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment
+year: 2017
+month: 08
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2017/08/20/Mokyr-on-Enlightenment
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Envrionmental Inverted Pyramid"
 date: 2009-04-28 14:49:34 +0000
 external-url: http://www.fivethirtyeight.com/2009/04/envrionmental-inverted-pyramid.html
 hash: fead00e606fe1168626e6e5cd5b6acf8
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.fivethirtyeight.com
-    path: /2009/04/envrionmental-inverted-pyramid.html
+year: 2009
+month: 04
+scheme: http
+host: www.fivethirtyeight.com
+path: /2009/04/envrionmental-inverted-pyramid.html
 
 ---
 

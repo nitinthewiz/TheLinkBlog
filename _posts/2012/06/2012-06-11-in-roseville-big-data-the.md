@@ -3,13 +3,11 @@ title: "In Roseville, Big Data meets the cloud"
 date: 2012-06-11 15:43:00 +0000
 external-url: http://www.startribune.com/business/158265485.html
 hash: 38a20c84ad38ddece9aafafaa5800c4d
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/158265485.html
+year: 2012
+month: 06
+scheme: http
+host: www.startribune.com
+path: /business/158265485.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "DIY: Apple TV Hard Drive Upgraded to 120GB - Gizmodo"
 date: 2007-03-23 14:41:59 +0000
 external-url: http://gizmodo.com/gadgets/home-entertainment/diy-apple-tv-hard-drive-upgraded-to-120gb-246567.php
 hash: 16de8057de65f0aefe914376efd4def3
-annum:
-    year: 2007
-    month: 03
-url-parts:
-    scheme: http
-    host: gizmodo.com
-    path: /gadgets/home-entertainment/diy-apple-tv-hard-drive-upgraded-to-120gb-246567.php
+year: 2007
+month: 03
+scheme: http
+host: gizmodo.com
+path: /gadgets/home-entertainment/diy-apple-tv-hard-drive-upgraded-to-120gb-246567.php
 
 ---
 

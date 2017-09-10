@@ -3,13 +3,11 @@ title: "Anatomy of a VC \"seed program\" (and you)"
 date: 2015-07-26 10:32:57 +0000
 external-url: http://vcwithme.co/2015/07/23/anatomy-of-a-vc-seed-program-and-you/
 hash: 35322c9bf3329e9ac719fff0e980e3ec
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: vcwithme.co
-    path: /2015/07/23/anatomy-of-a-vc-seed-program-and-you/
+year: 2015
+month: 07
+scheme: http
+host: vcwithme.co
+path: /2015/07/23/anatomy-of-a-vc-seed-program-and-you/
 
 ---
 

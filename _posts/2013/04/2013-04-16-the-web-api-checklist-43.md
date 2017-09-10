@@ -3,13 +3,11 @@ title: "The Web API Checklist 43 Things To Think About When Designing, Testing, 
 date: 2013-04-16 19:19:28 +0000
 external-url: https://mathieu.fenniak.net/the-api-checklist/
 hash: eab0b9b96ecdf22dcdfad5a8ce099701
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: https
-    host: mathieu.fenniak.net
-    path: /the-api-checklist/
+year: 2013
+month: 04
+scheme: https
+host: mathieu.fenniak.net
+path: /the-api-checklist/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Mark Zuckerberg interview @ Startup School"
 date: 2011-10-31 01:54:43 +0000
 external-url: http://techcrunch.com/2011/10/30/facebooks-zuckerberg-if-i-were-starting-a-company-now-i-would-have-stayed-in-boston/
 hash: 7cba249e9de0e4d7f545f3b5b81c891c
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2011/10/30/facebooks-zuckerberg-if-i-were-starting-a-company-now-i-would-have-stayed-in-boston/
+year: 2011
+month: 10
+scheme: http
+host: techcrunch.com
+path: /2011/10/30/facebooks-zuckerberg-if-i-were-starting-a-company-now-i-would-have-stayed-in-boston/
 
 ---
 

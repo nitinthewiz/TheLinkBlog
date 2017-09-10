@@ -3,13 +3,11 @@ title: "Aaron Sorkin's Steve Jobs Biopic: Three 30-Minute Scenes Taking Place Be
 date: 2012-11-15 19:43:02 +0000
 external-url: http://www.macrumors.com/2012/11/15/aaron-sorkins-steve-jobs-biopic-three-30-minute-scenes-taking-place-before-three-product-launches/
 hash: bf2d288ec334083c04166dad8ce7fe36
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.macrumors.com
-    path: /2012/11/15/aaron-sorkins-steve-jobs-biopic-three-30-minute-scenes-taking-place-before-three-product-launches/
+year: 2012
+month: 11
+scheme: http
+host: www.macrumors.com
+path: /2012/11/15/aaron-sorkins-steve-jobs-biopic-three-30-minute-scenes-taking-place-before-three-product-launches/
 
 ---
 

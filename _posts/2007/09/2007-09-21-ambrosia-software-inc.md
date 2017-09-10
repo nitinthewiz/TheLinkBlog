@@ -3,13 +3,11 @@ title: "Ambrosia Software, Inc. -- utilities/itoner"
 date: 2007-09-21 15:46:03 +0000
 external-url: http://www.ambrosiasw.com/utilities/iToner/
 hash: 30c65dd0aa6cd2a94bfc5ecc701841b2
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.ambrosiasw.com
-    path: /utilities/iToner/
+year: 2007
+month: 09
+scheme: http
+host: www.ambrosiasw.com
+path: /utilities/iToner/
 
 ---
 

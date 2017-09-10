@@ -3,13 +3,11 @@ title: "What do we mean by “evidence-based journalism”? – WikiTribune – 
 date: 2017-07-06 02:39:53 +0000
 external-url: https://medium.com/@wikitribune/what-do-we-mean-by-evidence-based-journalism-3fd7113102d3
 hash: fecd6245cac28038d2be75fedc043195
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@wikitribune/what-do-we-mean-by-evidence-based-journalism-3fd7113102d3
+year: 2017
+month: 07
+scheme: https
+host: medium.com
+path: /@wikitribune/what-do-we-mean-by-evidence-based-journalism-3fd7113102d3
 
 ---
 

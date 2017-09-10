@@ -3,13 +3,11 @@ title: "Facebook Surpasses Google In Time Spent On Site Domestically"
 date: 2010-09-10 16:16:52 +0000
 external-url: http://allfacebook.com/facebook-surpasses-google-in-time-spent-on-site-domestically_b18670
 hash: a75a5b63dfe2a5e4f62a40541555d341
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /facebook-surpasses-google-in-time-spent-on-site-domestically_b18670
+year: 2010
+month: 09
+scheme: http
+host: allfacebook.com
+path: /facebook-surpasses-google-in-time-spent-on-site-domestically_b18670
 
 ---
 

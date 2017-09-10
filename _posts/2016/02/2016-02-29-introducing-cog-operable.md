@@ -3,13 +3,11 @@ title: "Introducing Cog — Operable News — Medium"
 date: 2016-02-29 16:34:46 +0000
 external-url: https://blog.operable.io/introducing-cog-8a682e42a25a#.40ycsfvuq
 hash: 8d62dd947af25bf979470628e1c2727b
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: blog.operable.io
-    path: /introducing-cog-8a682e42a25a
+year: 2016
+month: 02
+scheme: https
+host: blog.operable.io
+path: /introducing-cog-8a682e42a25a
 
 ---
 

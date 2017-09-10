@@ -3,13 +3,11 @@ title: "How Protoblogger.com works"
 date: 2010-12-08 16:21:20 +0000
 external-url: http://scripting.com/stories/2010/12/08/howProtobloggercomWorks.html
 hash: f47035470fcfcba911832deb31e667d2
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/12/08/howProtobloggercomWorks.html
+year: 2010
+month: 12
+scheme: http
+host: scripting.com
+path: /stories/2010/12/08/howProtobloggercomWorks.html
 
 ---
 

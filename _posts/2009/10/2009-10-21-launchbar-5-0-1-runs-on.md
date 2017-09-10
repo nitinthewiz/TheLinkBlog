@@ -3,13 +3,11 @@ title: "LaunchBar 5.0.1 Runs on Snow Leopard, Adds Clipboard History"
 date: 2009-10-21 00:36:20 +0000
 external-url: http://tidbits.com/article/10662
 hash: 9a4fed9acb92655d19dc1d9b025fbd22
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/10662
+year: 2009
+month: 10
+scheme: http
+host: tidbits.com
+path: /article/10662
 
 ---
 

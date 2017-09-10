@@ -3,13 +3,11 @@ title: "Google Wants To Index Your Videos"
 date: 2007-12-18 11:24:29 +0000
 external-url: http://techcrunch.com/2007/12/18/google-wants-to-index-your-videos/
 hash: 312fc0735730233d0751769810792799
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/18/google-wants-to-index-your-videos/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/18/google-wants-to-index-your-videos/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Flickr Adds Stats To Photo Pro Accounts"
 date: 2007-12-13 22:28:32 +0000
 external-url: http://techcrunch.com/2007/12/13/flickr-adds-stats-to-photo-pro-accounts/
 hash: 4b37037f9152624591dc9c62fd76f501
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/13/flickr-adds-stats-to-photo-pro-accounts/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/13/flickr-adds-stats-to-photo-pro-accounts/
 
 ---
 

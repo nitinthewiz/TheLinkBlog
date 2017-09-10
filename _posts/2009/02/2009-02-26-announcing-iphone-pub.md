@@ -3,13 +3,11 @@ title: "Announcing: iPhone Pub Night"
 date: 2009-02-26 04:17:34 +0000
 external-url: http://www.unpossible.com/2009/02/24/announcing-iphone-pub-night/
 hash: acb61775b1eb3c86a04d42bef6abc409
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: www.unpossible.com
-    path: /2009/02/24/announcing-iphone-pub-night/
+year: 2009
+month: 02
+scheme: http
+host: www.unpossible.com
+path: /2009/02/24/announcing-iphone-pub-night/
 
 ---
 

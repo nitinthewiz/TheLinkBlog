@@ -3,13 +3,11 @@ title: "Robert's Rules of Order"
 date: 2011-01-28 20:39:53 +0000
 external-url: http://www.robertsrules.com/book.html
 hash: 71db815685a788b1b0e43da9b0008bc2
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.robertsrules.com
-    path: /book.html
+year: 2011
+month: 01
+scheme: http
+host: www.robertsrules.com
+path: /book.html
 
 ---
 

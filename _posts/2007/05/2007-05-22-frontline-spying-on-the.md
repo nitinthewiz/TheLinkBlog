@@ -3,13 +3,11 @@ title: "FRONTLINE: Spying on the home front"
 date: 2007-05-22 11:07:27 +0000
 external-url: http://www.pbs.org/wgbh/pages/frontline/homefront/
 hash: f37f294d8dfa3983b0553c3b22435c78
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: www.pbs.org
-    path: /wgbh/pages/frontline/homefront/
+year: 2007
+month: 05
+scheme: http
+host: www.pbs.org
+path: /wgbh/pages/frontline/homefront/
 
 ---
 

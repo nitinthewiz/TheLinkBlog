@@ -3,13 +3,11 @@ title: "iPad Drag and Drop, Multitasking, and Split View in iOS 11: Everything y
 date: 2017-06-17 01:04:38 +0000
 external-url: https://www.imore.com/ipad-drag-and-drop-multitasking-and-split-view-ios-11-everything-you-need-know
 hash: ce1556dbb441aed8fe956fb0a36e2bab
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.imore.com
-    path: /ipad-drag-and-drop-multitasking-and-split-view-ios-11-everything-you-need-know
+year: 2017
+month: 06
+scheme: https
+host: www.imore.com
+path: /ipad-drag-and-drop-multitasking-and-split-view-ios-11-everything-you-need-know
 
 ---
 

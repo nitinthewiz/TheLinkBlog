@@ -3,13 +3,11 @@ title: "Frame introspection in Pyston"
 date: 2014-11-06 03:21:21 +0000
 external-url: http://blog.pyston.org/2014/11/06/frame-introspection-in-pyston/
 hash: c413b2628fbba2dbcd0b1b09bbeaab43
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: blog.pyston.org
-    path: /2014/11/06/frame-introspection-in-pyston/
+year: 2014
+month: 11
+scheme: http
+host: blog.pyston.org
+path: /2014/11/06/frame-introspection-in-pyston/
 
 ---
 

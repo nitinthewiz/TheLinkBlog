@@ -3,13 +3,11 @@ title: "An interview with Rajiv Pant, CTO of The New York Times The CTO Series M
 date: 2014-08-15 15:29:24 +0000
 external-url: https://medium.com/the-cto-series/an-interview-with-rajiv-pant-cto-of-the-new-york-times-73e579ef1ed1
 hash: 410ede16c6aaf474bf422dd640231515
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /the-cto-series/an-interview-with-rajiv-pant-cto-of-the-new-york-times-73e579ef1ed1
+year: 2014
+month: 08
+scheme: https
+host: medium.com
+path: /the-cto-series/an-interview-with-rajiv-pant-cto-of-the-new-york-times-73e579ef1ed1
 
 ---
 

@@ -3,13 +3,11 @@ title: "Does Assange have an agenda?"
 date: 2011-02-02 20:54:52 +0000
 external-url: http://scripting.com/stories/2011/02/02/doesAssangeHaveAnAgenda.html
 hash: 13d4240191bdc2e226d1b897c05b8cad
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2011/02/02/doesAssangeHaveAnAgenda.html
+year: 2011
+month: 02
+scheme: http
+host: scripting.com
+path: /stories/2011/02/02/doesAssangeHaveAnAgenda.html
 
 ---
 

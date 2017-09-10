@@ -3,13 +3,11 @@ title: "The HTML5 Test"
 date: 2011-01-30 21:37:03 +0000
 external-url: http://html5test.com/
 hash: 64d40384330bc2c5fc464f4fb3d29ccc
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: html5test.com
-    path: /
+year: 2011
+month: 01
+scheme: http
+host: html5test.com
+path: /
 
 ---
 

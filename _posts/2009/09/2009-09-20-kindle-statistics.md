@@ -3,13 +3,11 @@ title: "Kindle Statistics"
 date: 2009-09-20 15:01:24 +0000
 external-url: http://ma.tt/2009/09/kindle-statistics/
 hash: d9201904f96b4bf8b03e1934ec40a59d
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2009/09/kindle-statistics/
+year: 2009
+month: 09
+scheme: http
+host: ma.tt
+path: /2009/09/kindle-statistics/
 
 ---
 

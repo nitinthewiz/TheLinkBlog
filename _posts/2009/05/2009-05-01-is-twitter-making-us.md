@@ -3,13 +3,11 @@ title: "Is Twitter making us stupider?"
 date: 2009-05-01 04:07:08 +0000
 external-url: http://www.roughtype.com/archives/2009/04/is_twitter_maki.php
 hash: 257f675bb623fca3a1eb4a2bb0193eb2
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.roughtype.com
-    path: /archives/2009/04/is_twitter_maki.php
+year: 2009
+month: 05
+scheme: http
+host: www.roughtype.com
+path: /archives/2009/04/is_twitter_maki.php
 
 ---
 

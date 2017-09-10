@@ -3,13 +3,11 @@ title: "The Happiness level of OptimusPaul"
 date: 2012-04-20 02:07:41 +0000
 external-url: http://imp.bluelinescreative.com/happiness/
 hash: 96f1938488917d6734f24d9350d9a29b
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: imp.bluelinescreative.com
-    path: /happiness/
+year: 2012
+month: 04
+scheme: http
+host: imp.bluelinescreative.com
+path: /happiness/
 
 ---
 

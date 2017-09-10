@@ -3,13 +3,11 @@ title: "Documentation at scale: The principles - 250bpm"
 date: 2015-08-14 11:20:04 +0000
 external-url: http://250bpm.com/blog%3A58
 hash: a9bac1355c57730bd4e5b32bf7a847d4
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: 250bpm.com
-    path: /blog%3A58
+year: 2015
+month: 08
+scheme: http
+host: 250bpm.com
+path: /blog%3A58
 
 ---
 

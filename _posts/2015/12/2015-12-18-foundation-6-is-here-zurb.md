@@ -3,13 +3,11 @@ title: "Foundation 6 Is Here! | ZURB Blog"
 date: 2015-12-18 10:38:22 +0000
 external-url: http://zurb.com/article/1416/foundation-6-is-here
 hash: 89c035fe1e5e9d587cca900eecb6213c
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: zurb.com
-    path: /article/1416/foundation-6-is-here
+year: 2015
+month: 12
+scheme: http
+host: zurb.com
+path: /article/1416/foundation-6-is-here
 
 ---
 

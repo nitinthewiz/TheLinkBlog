@@ -3,13 +3,11 @@ title: "Measuring Tweets"
 date: 2010-02-23 16:56:21 +0000
 external-url: http://blog.twitter.com/2010/02/measuring-tweets.html
 hash: c67b85b5e42105375f76d57ebcc1f69b
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2010/02/measuring-tweets.html
+year: 2010
+month: 02
+scheme: http
+host: blog.twitter.com
+path: /2010/02/measuring-tweets.html
 
 ---
 

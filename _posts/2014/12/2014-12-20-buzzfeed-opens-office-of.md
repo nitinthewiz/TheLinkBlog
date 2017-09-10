@@ -3,13 +3,11 @@ title: "BuzzFeed Opens Minneapolis Engineering Office With Talent Acquisition Of
 date: 2014-12-20 15:32:51 +0000
 external-url: http://www.buzzfeed.com/buzzfeedpress/buzzfeed-opens-minneapolis-engineering-office-with-talent-ac
 hash: d8239091c7b468e29a587795732fc4a7
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: www.buzzfeed.com
-    path: /buzzfeedpress/buzzfeed-opens-minneapolis-engineering-office-with-talent-ac
+year: 2014
+month: 12
+scheme: http
+host: www.buzzfeed.com
+path: /buzzfeedpress/buzzfeed-opens-minneapolis-engineering-office-with-talent-ac
 
 ---
 

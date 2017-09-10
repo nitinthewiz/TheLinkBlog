@@ -3,13 +3,11 @@ title: "Use Galvanized Wire for a Inexpensive Trellis"
 date: 2011-05-16 00:15:53 +0000
 external-url: http://www.doityourself.com/stry/use-galvanized-wire-for-a-inexpensive-trellis
 hash: b397fb2c5837de534432306999255578
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.doityourself.com
-    path: /stry/use-galvanized-wire-for-a-inexpensive-trellis
+year: 2011
+month: 05
+scheme: http
+host: www.doityourself.com
+path: /stry/use-galvanized-wire-for-a-inexpensive-trellis
 
 ---
 

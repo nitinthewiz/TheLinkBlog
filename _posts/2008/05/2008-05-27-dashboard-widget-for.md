@@ -3,13 +3,11 @@ title: "Dashboard widget for Backpack Journal"
 date: 2008-05-27 15:16:07 +0000
 external-url: http://37signals.blogs.com/products/2008/05/dashboard-widge.html
 hash: d5a2514c1702e3608289b4adb42dc904
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: 37signals.blogs.com
-    path: /products/2008/05/dashboard-widge.html
+year: 2008
+month: 05
+scheme: http
+host: 37signals.blogs.com
+path: /products/2008/05/dashboard-widge.html
 
 ---
 

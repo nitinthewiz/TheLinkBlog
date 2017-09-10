@@ -3,13 +3,11 @@ title: "At Buzzfeed, a week off to do something different - StarTribune.com"
 date: 2016-01-30 16:56:51 +0000
 external-url: http://www.startribune.com/at-buzzfeed-a-week-off-to-do-something-different/367003751/
 hash: d690bbf990fdd86839d092fc1a8fcdae
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /at-buzzfeed-a-week-off-to-do-something-different/367003751/
+year: 2016
+month: 01
+scheme: http
+host: www.startribune.com
+path: /at-buzzfeed-a-week-off-to-do-something-different/367003751/
 
 ---
 

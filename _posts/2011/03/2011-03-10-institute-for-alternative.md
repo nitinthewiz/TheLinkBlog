@@ -3,13 +3,11 @@ title: "Institute for Alternative Futures"
 date: 2011-03-10 17:05:48 +0000
 external-url: http://altfutures.org/
 hash: eac6da00d8448eddc2ffa0196c17b1b3
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: altfutures.org
-    path: /
+year: 2011
+month: 03
+scheme: http
+host: altfutures.org
+path: /
 
 ---
 

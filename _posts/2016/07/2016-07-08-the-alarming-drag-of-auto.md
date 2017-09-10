@@ -3,13 +3,11 @@ title: "The alarming drag of auto-nag - Next Action Associates"
 date: 2016-07-08 01:27:08 +0000
 external-url: http://www.next-action.eu/2016/07/07/alarming-drag-auto-nag/
 hash: 5caf24fae2cde1ca980a9be37ae74283
-annum:
-    year: 2016
-    month: 07
-url-parts:
-    scheme: http
-    host: www.next-action.eu
-    path: /2016/07/07/alarming-drag-auto-nag/
+year: 2016
+month: 07
+scheme: http
+host: www.next-action.eu
+path: /2016/07/07/alarming-drag-auto-nag/
 
 ---
 

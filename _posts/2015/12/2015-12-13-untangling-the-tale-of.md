@@ -3,13 +3,11 @@ title: "Untangling the Tale of Ada Lovelace—Stephen Wolfram Blog"
 date: 2015-12-13 12:04:54 +0000
 external-url: http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/
 hash: 4da9fc8b5684e9209dddc91712e03786
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.stephenwolfram.com
-    path: /2015/12/untangling-the-tale-of-ada-lovelace/
+year: 2015
+month: 12
+scheme: http
+host: blog.stephenwolfram.com
+path: /2015/12/untangling-the-tale-of-ada-lovelace/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Ops: It's everyone's job now | Opensource.com"
 date: 2017-08-05 04:38:53 +0000
 external-url: https://opensource.com/article/17/7/state-systems-administration
 hash: 42489687e1933cd3d5ba18429bca152a
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: opensource.com
-    path: /article/17/7/state-systems-administration
+year: 2017
+month: 08
+scheme: https
+host: opensource.com
+path: /article/17/7/state-systems-administration
 
 ---
 

@@ -3,13 +3,11 @@ title: "Going Multi-Cloud with AWS and GCP: Lessons Learned at Scale | Metamarke
 date: 2017-08-26 01:06:40 +0000
 external-url: https://metamarkets.com/2017/big-cloud-data-aws-and-gcp/
 hash: 7163099af87671a1a43e7da6c9849952
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: metamarkets.com
-    path: /2017/big-cloud-data-aws-and-gcp/
+year: 2017
+month: 08
+scheme: https
+host: metamarkets.com
+path: /2017/big-cloud-data-aws-and-gcp/
 
 ---
 

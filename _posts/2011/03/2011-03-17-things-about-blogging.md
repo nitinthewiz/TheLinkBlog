@@ -3,13 +3,11 @@ title: "Things about Blogging"
 date: 2011-03-17 10:54:35 +0000
 external-url: http://www.tbray.org/ongoing/When/201x/2011/03/07/BNotes
 hash: 05b07af1b1ea13981a9ff929672818ac
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tbray.org
-    path: /ongoing/When/201x/2011/03/07/BNotes
+year: 2011
+month: 03
+scheme: http
+host: www.tbray.org
+path: /ongoing/When/201x/2011/03/07/BNotes
 
 ---
 

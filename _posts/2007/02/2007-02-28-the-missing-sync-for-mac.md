@@ -3,13 +3,11 @@ title: "The Missing Sync for BlackBerry - Synchronize Mac OS X and BlackBerry"
 date: 2007-02-28 21:08:11 +0000
 external-url: http://www.markspace.com/products/blackberry/blackberry-sync-mac-software.html
 hash: 36a5d07f63bb595ed1850b834a2831fd
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.markspace.com
-    path: /products/blackberry/blackberry-sync-mac-software.html
+year: 2007
+month: 02
+scheme: http
+host: www.markspace.com
+path: /products/blackberry/blackberry-sync-mac-software.html
 
 ---
 

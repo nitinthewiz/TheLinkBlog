@@ -3,13 +3,11 @@ title: "Wikipedia Signpost/2012-01-30/Technology report"
 date: 2012-02-02 03:40:50 +0000
 external-url: http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2012-01-30/Technology_report
 hash: 9355b5d8675ed9e561432ac0e4886334
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Wikipedia:Wikipedia_Signpost/2012-01-30/Technology_report
+year: 2012
+month: 02
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Wikipedia:Wikipedia_Signpost/2012-01-30/Technology_report
 
 ---
 

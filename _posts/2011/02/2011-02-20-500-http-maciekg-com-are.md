@@ -3,13 +3,11 @@ title: "(500) http://maciekg.posterous.com/christopher-mcdougall-are-we-born-to-
 date: 2011-02-20 01:02:45 +0000
 external-url: http://maciekg.posterous.com/christopher-mcdougall-are-we-born-to-run
 hash: 9e2227fbbf44b4d297bc7915c181385e
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: maciekg.posterous.com
-    path: /christopher-mcdougall-are-we-born-to-run
+year: 2011
+month: 02
+scheme: http
+host: maciekg.posterous.com
+path: /christopher-mcdougall-are-we-born-to-run
 
 ---
 

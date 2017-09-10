@@ -3,13 +3,11 @@ title: "Atul Gawande: How do we heal medicine?"
 date: 2012-05-12 20:51:23 +0000
 external-url: http://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine
 hash: 584ef397f7af6be57737986008f63346
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/atul_gawande_how_do_we_heal_medicine
+year: 2012
+month: 05
+scheme: http
+host: www.ted.com
+path: /talks/atul_gawande_how_do_we_heal_medicine
 
 ---
 

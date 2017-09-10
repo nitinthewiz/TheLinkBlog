@@ -3,13 +3,11 @@ title: "New in Highrise: Inline editing of notes and emails"
 date: 2007-11-29 18:19:02 +0000
 external-url: http://37signals.blogs.com/products/2007/11/new-in-highrise.html
 hash: ae02eb874ca2f9d42e34a69befabd758
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: 37signals.blogs.com
-    path: /products/2007/11/new-in-highrise.html
+year: 2007
+month: 11
+scheme: http
+host: 37signals.blogs.com
+path: /products/2007/11/new-in-highrise.html
 
 ---
 

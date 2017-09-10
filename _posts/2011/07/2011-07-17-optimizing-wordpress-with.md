@@ -3,13 +3,11 @@ title: "Optimizing WordPress with Nginx, Varnish, APC, W3 Total Cache, and Amazo
 date: 2011-07-17 13:20:58 +0000
 external-url: http://danielmiessler.com/blog/optimizing-wordpress-with-nginx-varnish-w3-total-cache-amazon-s3-and-memcached
 hash: 88f6eb24caec5e737c5b41bbcc3a3bce
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: danielmiessler.com
-    path: /blog/optimizing-wordpress-with-nginx-varnish-w3-total-cache-amazon-s3-and-memcached
+year: 2011
+month: 07
+scheme: http
+host: danielmiessler.com
+path: /blog/optimizing-wordpress-with-nginx-varnish-w3-total-cache-amazon-s3-and-memcached
 
 ---
 

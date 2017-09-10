@@ -3,13 +3,11 @@ title: "If I worked at CNET, this layoff memo would make me want to quit"
 date: 2008-03-27 23:40:00 +0000
 external-url: http://gawker.com/373153/if-i-worked-at-cnet-this-layoff-memo-would-make-me-want-to-quit
 hash: 775c812443513510694cd091b483ee88
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: gawker.com
-    path: /373153/if-i-worked-at-cnet-this-layoff-memo-would-make-me-want-to-quit
+year: 2008
+month: 03
+scheme: http
+host: gawker.com
+path: /373153/if-i-worked-at-cnet-this-layoff-memo-would-make-me-want-to-quit
 
 ---
 

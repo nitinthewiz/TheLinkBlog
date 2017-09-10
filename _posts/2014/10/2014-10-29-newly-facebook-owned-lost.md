@@ -3,13 +3,11 @@ title: "Newly Facebook-owned WhatsApp lost roughly $200M in 2 years"
 date: 2014-10-29 01:11:25 +0000
 external-url: http://arstechnica.com/business/2014/10/newly-facebook-owned-whatsapp-lost-roughly-200m-in-two-years/#p3
 hash: 5ef89ba8c8cdd9a7b349ded85e769984
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /business/2014/10/newly-facebook-owned-whatsapp-lost-roughly-200m-in-two-years/
+year: 2014
+month: 10
+scheme: http
+host: arstechnica.com
+path: /business/2014/10/newly-facebook-owned-whatsapp-lost-roughly-200m-in-two-years/
 
 ---
 

@@ -3,13 +3,11 @@ title: "SQLite Database Browser"
 date: 2008-03-23 20:05:39 +0000
 external-url: http://sourceforge.net/projects/sqlitebrowser/
 hash: ff9d9a79baf2c8c91c3c9ab76f9dfbbc
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: sourceforge.net
-    path: /projects/sqlitebrowser/
+year: 2008
+month: 03
+scheme: http
+host: sourceforge.net
+path: /projects/sqlitebrowser/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Eight Docker Development Patterns"
 date: 2014-10-22 11:05:36 +0000
 external-url: http://www.hokstad.com/docker/patterns
 hash: 376bece771e206b57f182ed8bb1b9664
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.hokstad.com
-    path: /docker/patterns
+year: 2014
+month: 10
+scheme: http
+host: www.hokstad.com
+path: /docker/patterns
 
 ---
 

@@ -3,13 +3,11 @@ title: "Streetcards - Gaping Void"
 date: 2007-09-13 17:47:37 +0000
 external-url: http://gapingvoid.streetcards.com/
 hash: 082aec06f197e4890cd016d0c7809b2e
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: gapingvoid.streetcards.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: gapingvoid.streetcards.com
+path: /
 
 ---
 

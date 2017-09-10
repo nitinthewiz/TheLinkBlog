@@ -3,13 +3,11 @@ title: "Making Sense of Data"
 date: 2014-03-03 11:37:27 +0000
 external-url: https://datasense.withgoogle.com/course
 hash: cc904d2259dfc168b05170f930dbab67
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: https
-    host: datasense.withgoogle.com
-    path: /course
+year: 2014
+month: 03
+scheme: https
+host: datasense.withgoogle.com
+path: /course
 
 ---
 

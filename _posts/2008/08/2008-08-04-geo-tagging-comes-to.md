@@ -3,13 +3,11 @@ title: "Geo Tagging comes to Nikon Cameras"
 date: 2008-08-04 23:21:42 +0000
 external-url: http://cameradojo.com/2008/08/04/geo-tagging-comes-to-nikon-cameras/
 hash: 381aaa9c9c75217c3b0d7685d08f2931
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: cameradojo.com
-    path: /2008/08/04/geo-tagging-comes-to-nikon-cameras/
+year: 2008
+month: 08
+scheme: http
+host: cameradojo.com
+path: /2008/08/04/geo-tagging-comes-to-nikon-cameras/
 
 ---
 

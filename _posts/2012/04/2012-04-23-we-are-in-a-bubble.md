@@ -3,13 +3,11 @@ title: "We are in a bubble"
 date: 2012-04-23 19:48:08 +0000
 external-url: http://sfard.posterous.com/bye.html
 hash: 20fa7c290d90a27a0961e3edfd1c073d
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: sfard.posterous.com
-    path: /bye.html
+year: 2012
+month: 04
+scheme: http
+host: sfard.posterous.com
+path: /bye.html
 
 ---
 

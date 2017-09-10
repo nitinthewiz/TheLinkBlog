@@ -3,13 +3,11 @@ title: "Cycling Investigation - USADA"
 date: 2012-10-10 23:40:57 +0000
 external-url: http://cyclinginvestigation.usada.org/
 hash: a24a5959f948e581ba1e47e46c3bc0d5
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: cyclinginvestigation.usada.org
-    path: /
+year: 2012
+month: 10
+scheme: http
+host: cyclinginvestigation.usada.org
+path: /
 
 ---
 

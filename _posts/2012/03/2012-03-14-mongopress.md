@@ -3,13 +3,11 @@ title: "MongoPress"
 date: 2012-03-14 20:43:53 +0000
 external-url: http://www.mongopress.org/
 hash: 176089f8dbf1aa41e8493d91c6431ba5
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.mongopress.org
-    path: /
+year: 2012
+month: 03
+scheme: http
+host: www.mongopress.org
+path: /
 
 ---
 

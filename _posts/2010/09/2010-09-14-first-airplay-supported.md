@@ -3,13 +3,11 @@ title: "First AirPlay Supported AV Reciever"
 date: 2010-09-14 04:23:16 +0000
 external-url: http://macapper.com/2010/09/13/first-airplay-supported-av-reciever/
 hash: ed8c9db33fd3681262a7dbf747a0f189
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2010/09/13/first-airplay-supported-av-reciever/
+year: 2010
+month: 09
+scheme: http
+host: macapper.com
+path: /2010/09/13/first-airplay-supported-av-reciever/
 
 ---
 

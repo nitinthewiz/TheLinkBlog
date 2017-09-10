@@ -3,13 +3,11 @@ title: "Mindful Browsing - Control habit forming, distracting or aggravating web
 date: 2012-04-16 21:10:44 +0000
 external-url: http://www.mindfulbrowsing.com/
 hash: 8b42d38ab5c20eae90a8d458165a13f4
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.mindfulbrowsing.com
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: www.mindfulbrowsing.com
+path: /
 
 ---
 

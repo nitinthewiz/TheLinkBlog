@@ -3,13 +3,11 @@ title: "Powerful CSS-Techniques For Effective Coding | CSS | Smashing Magazine"
 date: 2008-02-25 16:26:08 +0000
 external-url: http://www.smashingmagazine.com/2008/02/21/powerful-css-techniques-for-effective-coding/
 hash: 47427d7a75cb000d58b3d2d92e0031f8
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.smashingmagazine.com
-    path: /2008/02/21/powerful-css-techniques-for-effective-coding/
+year: 2008
+month: 02
+scheme: http
+host: www.smashingmagazine.com
+path: /2008/02/21/powerful-css-techniques-for-effective-coding/
 
 ---
 

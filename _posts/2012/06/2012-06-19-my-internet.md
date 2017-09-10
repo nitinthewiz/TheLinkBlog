@@ -3,13 +3,11 @@ title: "My Internet"
 date: 2012-06-19 21:15:39 +0000
 external-url: http://inaquestionmark.blogspot.com/2012/05/my-internet.html
 hash: ebfdba2010b8241a6cf6e0693fa52c60
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: inaquestionmark.blogspot.com
-    path: /2012/05/my-internet.html
+year: 2012
+month: 06
+scheme: http
+host: inaquestionmark.blogspot.com
+path: /2012/05/my-internet.html
 
 ---
 

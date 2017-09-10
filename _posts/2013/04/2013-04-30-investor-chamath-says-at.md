@@ -3,13 +3,11 @@ title: "Investor Chamath Palihapitiya Says Were At An Absolute Low Point In Star
 date: 2013-04-30 04:08:11 +0000
 external-url: http://techcrunch.com/2013/04/29/chamath-palihapitiya-disrupt/
 hash: 689df4221cfb14395edefc7f9c00f949
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2013/04/29/chamath-palihapitiya-disrupt/
+year: 2013
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2013/04/29/chamath-palihapitiya-disrupt/
 
 ---
 

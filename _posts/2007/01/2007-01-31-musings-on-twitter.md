@@ -3,13 +3,11 @@ title: "Musings on Twitter"
 date: 2007-01-31 04:49:14 +0000
 external-url: http://meish.org/index.html
 hash: ae092b64d8363dd70a8ae67a6673f034
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: meish.org
-    path: /index.html
+year: 2007
+month: 01
+scheme: http
+host: meish.org
+path: /index.html
 
 ---
 

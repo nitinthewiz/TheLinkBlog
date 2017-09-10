@@ -3,13 +3,11 @@ title: "Travel, traditions, culture - documentary, travel and cultural photograp
 date: 2010-11-28 04:41:44 +0000
 external-url: http://mitchellkphotos.com/
 hash: c132efe4d84944fbe8a3d425a94bf913
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: mitchellkphotos.com
-    path: /
+year: 2010
+month: 11
+scheme: http
+host: mitchellkphotos.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "How to be effective as a CTO"
 date: 2016-08-03 03:36:02 +0000
 external-url: https://www.rajiv.com/blog/2016/08/02/how-to-be-effective-as-a-cto/
 hash: ac358f636e0b60a9b90fd8fd841b8abe
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: www.rajiv.com
-    path: /blog/2016/08/02/how-to-be-effective-as-a-cto/
+year: 2016
+month: 08
+scheme: https
+host: www.rajiv.com
+path: /blog/2016/08/02/how-to-be-effective-as-a-cto/
 
 ---
 

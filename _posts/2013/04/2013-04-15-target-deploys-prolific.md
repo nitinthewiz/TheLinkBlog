@@ -3,13 +3,11 @@ title: "Target deploys prolific group of social-media gurus to win over consumer
 date: 2013-04-15 19:05:48 +0000
 external-url: http://www.startribune.com/business/202800651.html
 hash: dde8ad945ac7b928e93052e2d2bc81c5
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/202800651.html
+year: 2013
+month: 04
+scheme: http
+host: www.startribune.com
+path: /business/202800651.html
 
 ---
 

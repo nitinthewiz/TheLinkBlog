@@ -3,13 +3,11 @@ title: "LazyFeed: 1st Independent RSS Aggregator Declares Support for RSSCloud"
 date: 2009-09-08 02:50:50 +0000
 external-url: http://www.readwriteweb.com/archives/lazyfeed_1st_independent_rss_aggregator_declares_s.php
 hash: 62149da278784451ca1f62ed6a14392a
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/lazyfeed_1st_independent_rss_aggregator_declares_s.php
+year: 2009
+month: 09
+scheme: http
+host: www.readwriteweb.com
+path: /archives/lazyfeed_1st_independent_rss_aggregator_declares_s.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "The 10.5” iPad Pro: Future-Proof – MacStories"
 date: 2017-06-13 00:16:35 +0000
 external-url: https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/
 hash: 5cc31e3db80fb3374095f2637bc50042
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /stories/the-10-5-ipad-pro-future-proof/
+year: 2017
+month: 06
+scheme: https
+host: www.macstories.net
+path: /stories/the-10-5-ipad-pro-future-proof/
 
 ---
 

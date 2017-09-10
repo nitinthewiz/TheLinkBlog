@@ -3,13 +3,11 @@ title: "Max's New Job"
 date: 2009-04-03 02:04:25 +0000
 external-url: http://lundeenscene.blogspot.com/2009/04/maxs-new-job.html
 hash: fe8b65d5c6b2c75897dcf7fbd9656fbf
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: lundeenscene.blogspot.com
-    path: /2009/04/maxs-new-job.html
+year: 2009
+month: 04
+scheme: http
+host: lundeenscene.blogspot.com
+path: /2009/04/maxs-new-job.html
 
 ---
 

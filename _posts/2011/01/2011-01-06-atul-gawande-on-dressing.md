@@ -3,13 +3,11 @@ title: "Atul Gawande: On Dressing For Tennis (And Payment Reform)"
 date: 2011-01-06 03:00:53 +0000
 external-url: http://commonhealth.wbur.org/2011/01/atul-gawande-exercise
 hash: e1429bfa965b61573dcb3c9375150bff
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: commonhealth.wbur.org
-    path: /2011/01/atul-gawande-exercise
+year: 2011
+month: 01
+scheme: http
+host: commonhealth.wbur.org
+path: /2011/01/atul-gawande-exercise
 
 ---
 

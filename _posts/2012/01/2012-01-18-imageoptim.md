@@ -3,13 +3,11 @@ title: "ImageOptim"
 date: 2012-01-18 21:21:18 +0000
 external-url: https://imageoptim.com/
 hash: f25fcab70a0a869cd6f23cf18d632608
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: https
-    host: imageoptim.com
-    path: /
+year: 2012
+month: 01
+scheme: https
+host: imageoptim.com
+path: /
 
 ---
 

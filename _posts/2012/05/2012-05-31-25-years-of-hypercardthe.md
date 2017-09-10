@@ -3,13 +3,11 @@ title: "25 years of HyperCardthe missing link to the Web"
 date: 2012-05-31 14:08:53 +0000
 external-url: http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
 hash: f01eb81a5f86b6df0ad46deb2f51fff5
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
+year: 2012
+month: 05
+scheme: http
+host: arstechnica.com
+path: /apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Safari Extension Hides You from Google and Facebook"
 date: 2010-10-12 18:42:14 +0000
 external-url: http://tidbits.com/article/11660
 hash: b95662ed63bbcc76359a939eb70e8988
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/11660
+year: 2010
+month: 10
+scheme: http
+host: tidbits.com
+path: /article/11660
 
 ---
 

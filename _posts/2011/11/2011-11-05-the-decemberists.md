@@ -3,13 +3,11 @@ title: "The Decemberists"
 date: 2011-11-05 06:21:01 +0000
 external-url: http://en.wikipedia.org/wiki/The_Decemberists
 hash: 6739c9bf01b5dc63aad7f3b79eac8d45
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/The_Decemberists
+year: 2011
+month: 11
+scheme: http
+host: en.wikipedia.org
+path: /wiki/The_Decemberists
 
 ---
 

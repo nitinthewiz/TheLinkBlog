@@ -3,13 +3,11 @@ title: "How to Take an Email Sabbatical"
 date: 2011-07-10 11:29:49 +0000
 external-url: http://www.danah.org/EmailSabbatical.html
 hash: 444e66257e49820008eb85dc52c69a2d
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.danah.org
-    path: /EmailSabbatical.html
+year: 2011
+month: 07
+scheme: http
+host: www.danah.org
+path: /EmailSabbatical.html
 
 ---
 

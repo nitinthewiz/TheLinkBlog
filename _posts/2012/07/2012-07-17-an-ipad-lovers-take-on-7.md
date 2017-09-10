@@ -3,13 +3,11 @@ title: "An iPad Lovers Take On The Nexus 7"
 date: 2012-07-17 09:45:40 +0000
 external-url: http://techcrunch.com/2012/07/15/omg-he-likes-it-he-really-likes-it/
 hash: 3907e62f177ef79c1929e0ca26454b31
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2012/07/15/omg-he-likes-it-he-really-likes-it/
+year: 2012
+month: 07
+scheme: http
+host: techcrunch.com
+path: /2012/07/15/omg-he-likes-it-he-really-likes-it/
 
 ---
 

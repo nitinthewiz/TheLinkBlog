@@ -3,13 +3,11 @@ title: "slendingabk"
 date: 2012-06-20 05:48:59 +0000
 external-url: https://www.islendingabok.is/English.jsp
 hash: c8a942c68e8c4b413b2958295cf7f5ff
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: https
-    host: www.islendingabok.is
-    path: /English.jsp
+year: 2012
+month: 06
+scheme: https
+host: www.islendingabok.is
+path: /English.jsp
 
 ---
 

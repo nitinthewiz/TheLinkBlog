@@ -3,13 +3,11 @@ title: "Web Sockets Now Available In Google Chrome"
 date: 2009-12-11 03:37:08 +0000
 external-url: http://blog.chromium.org/2009/12/web-sockets-now-available-in-google.html
 hash: a677e40caa2312df17e4be07c60bf669
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.chromium.org
-    path: /2009/12/web-sockets-now-available-in-google.html
+year: 2009
+month: 12
+scheme: http
+host: blog.chromium.org
+path: /2009/12/web-sockets-now-available-in-google.html
 
 ---
 

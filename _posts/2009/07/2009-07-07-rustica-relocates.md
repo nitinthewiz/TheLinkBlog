@@ -3,13 +3,11 @@ title: "Rustica Relocates"
 date: 2009-07-07 16:31:39 +0000
 external-url: http://heavytable.com/rustica-relocates/
 hash: 431368da99f981cf99053fe4168dbe04
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: heavytable.com
-    path: /rustica-relocates/
+year: 2009
+month: 07
+scheme: http
+host: heavytable.com
+path: /rustica-relocates/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Dire Straits Of Publicly Traded Tech In Minnesota [Part 1]"
 date: 2016-01-14 03:09:35 +0000
 external-url: http://tech.mn/news/2016/01/13/the-dire-straits-of-publicly-traded-tech-in-minnesota-part-1/
 hash: 98b83215bbf26b7bc6e9e0836a7bccca
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2016/01/13/the-dire-straits-of-publicly-traded-tech-in-minnesota-part-1/
+year: 2016
+month: 01
+scheme: http
+host: tech.mn
+path: /news/2016/01/13/the-dire-straits-of-publicly-traded-tech-in-minnesota-part-1/
 
 ---
 

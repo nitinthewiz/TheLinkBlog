@@ -3,13 +3,11 @@ title: "The Coming Meltdown in College Education and Why The Economy Wont Get Be
 date: 2012-05-14 20:57:14 +0000
 external-url: http://blogmaverick.com/2012/05/13/the-coming-meltdown-in-college-education-why-the-economy-wont-get-better-any-time-soon/
 hash: f451204bfba1c6f02daa3a555a1a024b
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: blogmaverick.com
-    path: /2012/05/13/the-coming-meltdown-in-college-education-why-the-economy-wont-get-better-any-time-soon/
+year: 2012
+month: 05
+scheme: http
+host: blogmaverick.com
+path: /2012/05/13/the-coming-meltdown-in-college-education-why-the-economy-wont-get-better-any-time-soon/
 
 ---
 

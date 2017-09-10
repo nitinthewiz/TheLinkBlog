@@ -3,13 +3,11 @@ title: "Niantic Pokémon GO Fest Chicago Update - Pokémon GO"
 date: 2017-07-23 01:10:17 +0000
 external-url: http://pokemongolive.com/en/post/pokemongofestupdate
 hash: 525e110e5c4e5a9d3d750b3bf5938a06
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: pokemongolive.com
-    path: /en/post/pokemongofestupdate
+year: 2017
+month: 07
+scheme: http
+host: pokemongolive.com
+path: /en/post/pokemongofestupdate
 
 ---
 

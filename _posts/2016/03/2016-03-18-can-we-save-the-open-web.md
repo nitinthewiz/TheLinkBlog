@@ -3,13 +3,11 @@ title: "Can we save the open web? | Dries Buytaert"
 date: 2016-03-18 00:16:10 +0000
 external-url: http://buytaert.net/can-we-save-the-open-web
 hash: aadca315dd3f842ee420171de571c728
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: buytaert.net
-    path: /can-we-save-the-open-web
+year: 2016
+month: 03
+scheme: http
+host: buytaert.net
+path: /can-we-save-the-open-web
 
 ---
 

@@ -3,13 +3,11 @@ title: "“Hello Weather” for iOS"
 date: 2017-05-26 19:47:54 +0000
 external-url: http://toolsandtoys.net/hello-weather-for-ios/
 hash: 6aa2267f255987054eef5ee342bcab93
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: toolsandtoys.net
-    path: /hello-weather-for-ios/
+year: 2017
+month: 05
+scheme: http
+host: toolsandtoys.net
+path: /hello-weather-for-ios/
 
 ---
 

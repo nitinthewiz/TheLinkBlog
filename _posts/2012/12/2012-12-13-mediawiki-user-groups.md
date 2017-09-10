@@ -3,13 +3,11 @@ title: "MediaWiki User Groups"
 date: 2012-12-13 13:33:59 +0000
 external-url: http://www.mediawiki.org/wiki/Groups
 hash: 72669533b82f2f39dd7b502fb6e848bb
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Groups
+year: 2012
+month: 12
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Groups
 
 ---
 

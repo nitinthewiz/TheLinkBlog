@@ -3,13 +3,11 @@ title: "Semantic MediaWiki 1.6 released!"
 date: 2011-08-01 06:15:57 +0000
 external-url: http://blog.bn2vs.com/2011/07/30/semantic-mediawiki-1-6-released/
 hash: d8beef0d3e73b4c6eb5cdbd4e17d3dd5
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: blog.bn2vs.com
-    path: /2011/07/30/semantic-mediawiki-1-6-released/
+year: 2011
+month: 08
+scheme: http
+host: blog.bn2vs.com
+path: /2011/07/30/semantic-mediawiki-1-6-released/
 
 ---
 

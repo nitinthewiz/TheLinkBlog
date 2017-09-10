@@ -3,13 +3,11 @@ title: "Final Cut Pro X 10.0.6 is the most feature rich update to date"
 date: 2012-10-24 02:49:18 +0000
 external-url: http://www.philiphodgetts.com/2012/10/final-cut-pro-x-10-0-6/
 hash: 91f5fe2739ce4dde12866364ee7bca38
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.philiphodgetts.com
-    path: /2012/10/final-cut-pro-x-10-0-6/
+year: 2012
+month: 10
+scheme: http
+host: www.philiphodgetts.com
+path: /2012/10/final-cut-pro-x-10-0-6/
 
 ---
 

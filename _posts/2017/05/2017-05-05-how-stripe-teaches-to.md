@@ -3,13 +3,11 @@ title: "How Stripe teaches employees to code"
 date: 2017-05-05 17:43:14 +0000
 external-url: https://stripe.com/blog/teaching-employees-to-code
 hash: fe600ee1e275864ac404913047b6cbb5
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: stripe.com
-    path: /blog/teaching-employees-to-code
+year: 2017
+month: 05
+scheme: https
+host: stripe.com
+path: /blog/teaching-employees-to-code
 
 ---
 

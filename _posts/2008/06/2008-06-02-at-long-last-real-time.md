@@ -3,13 +3,11 @@ title: "At long last, real-time stock quotes are here"
 date: 2008-06-02 15:22:00 +0000
 external-url: http://googleblog.blogspot.com/2008/06/at-long-last-real-time-stock-quotes-are.html
 hash: c94345416d4b66b2cf2c130e55e61e4a
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2008/06/at-long-last-real-time-stock-quotes-are.html
+year: 2008
+month: 06
+scheme: http
+host: googleblog.blogspot.com
+path: /2008/06/at-long-last-real-time-stock-quotes-are.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "GitHub - Miserlou/django-zappa: Serverless Django on AWS Lambda and API 
 date: 2016-02-09 00:17:53 +0000
 external-url: https://github.com/Miserlou/django-zappa
 hash: 1ac03bb80c0327bbe6ae25d3b1b1f553
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: github.com
-    path: /Miserlou/django-zappa
+year: 2016
+month: 02
+scheme: https
+host: github.com
+path: /Miserlou/django-zappa
 
 ---
 

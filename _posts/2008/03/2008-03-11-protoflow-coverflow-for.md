@@ -3,13 +3,11 @@ title: "ProtoFlow: Coverflow for Prototype"
 date: 2008-03-11 13:28:35 +0000
 external-url: http://ajaxian.com/archives/protoflow-coverflow-for-prototype
 hash: dd71d30103950bd35cd8d86f3beae283
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/protoflow-coverflow-for-prototype
+year: 2008
+month: 03
+scheme: http
+host: ajaxian.com
+path: /archives/protoflow-coverflow-for-prototype
 
 ---
 

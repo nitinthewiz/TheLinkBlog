@@ -3,13 +3,11 @@ title: "Automated PHP Deployment With Capistrano"
 date: 2008-11-22 02:54:59 +0000
 external-url: http://www.simplisticcomplexity.com/php.html
 hash: a149134adf59fa8b05e2155f3422e00c
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: www.simplisticcomplexity.com
-    path: /php.html
+year: 2008
+month: 11
+scheme: http
+host: www.simplisticcomplexity.com
+path: /php.html
 
 ---
 

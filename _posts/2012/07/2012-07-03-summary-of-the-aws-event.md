@@ -3,13 +3,11 @@ title: "Summary of the AWS Service Event in the US East Region (July 2 2012)"
 date: 2012-07-03 22:51:23 +0000
 external-url: http://aws.amazon.com/message/67457/
 hash: f7bf7f3a028a2c163242f944c652290f
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: aws.amazon.com
-    path: /message/67457/
+year: 2012
+month: 07
+scheme: http
+host: aws.amazon.com
+path: /message/67457/
 
 ---
 

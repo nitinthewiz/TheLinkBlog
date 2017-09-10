@@ -3,13 +3,11 @@ title: "Javascript Nintendo emulator"
 date: 2009-09-18 04:50:50 +0000
 external-url: http://kottke.org/09/09/javascript-nintendo-emulator
 hash: 9f4158d0f672fb8b700301d61dc7f128
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /09/09/javascript-nintendo-emulator
+year: 2009
+month: 09
+scheme: http
+host: kottke.org
+path: /09/09/javascript-nintendo-emulator
 
 ---
 

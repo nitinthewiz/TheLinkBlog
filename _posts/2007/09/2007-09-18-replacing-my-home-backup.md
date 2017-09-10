@@ -3,13 +3,11 @@ title: "Replacing my home backup server with Amazon's S3 (by Jeremy Zawodny)"
 date: 2007-09-18 11:06:12 +0000
 external-url: http://jeremy.zawodny.com/blog/archives/007624.html
 hash: c5143e56b6389ebf9321f43b72f2fcd3
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: jeremy.zawodny.com
-    path: /blog/archives/007624.html
+year: 2007
+month: 09
+scheme: http
+host: jeremy.zawodny.com
+path: /blog/archives/007624.html
 
 ---
 

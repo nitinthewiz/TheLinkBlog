@@ -3,13 +3,11 @@ title: "No. Agile Does Not Scale. — Medium"
 date: 2015-03-30 01:57:07 +0000
 external-url: https://medium.com/@jurgenappelo/no-agile-does-not-scale-98df99da3ff3
 hash: 52639232bb5cf2d9bf3a580166cba5b5
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@jurgenappelo/no-agile-does-not-scale-98df99da3ff3
+year: 2015
+month: 03
+scheme: https
+host: medium.com
+path: /@jurgenappelo/no-agile-does-not-scale-98df99da3ff3
 
 ---
 

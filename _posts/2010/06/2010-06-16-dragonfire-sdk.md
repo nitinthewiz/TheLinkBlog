@@ -3,13 +3,11 @@ title: "DragonFire SDK"
 date: 2010-06-16 00:06:31 +0000
 external-url: http://www.dragonfiresdk.com/index.htm
 hash: 921f2d42240bb8e7ae9b6bca56904aee
-annum:
-    year: 2010
-    month: 06
-url-parts:
-    scheme: http
-    host: www.dragonfiresdk.com
-    path: /index.htm
+year: 2010
+month: 06
+scheme: http
+host: www.dragonfiresdk.com
+path: /index.htm
 
 ---
 

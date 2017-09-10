@@ -3,13 +3,11 @@ title: "Robert Scoble - Google+ - Lifelogging pioneer shows us a new social \"sa
 date: 2013-07-27 13:25:14 +0000
 external-url: https://plus.google.com/%2BScobleizer/posts/SEzDPDsqonF
 hash: b48b676105054ef1e937fbbdd40b8c7a
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: https
-    host: plus.google.com
-    path: /%2BScobleizer/posts/SEzDPDsqonF
+year: 2013
+month: 07
+scheme: https
+host: plus.google.com
+path: /%2BScobleizer/posts/SEzDPDsqonF
 
 ---
 

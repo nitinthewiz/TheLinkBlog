@@ -3,13 +3,11 @@ title: "Take off that Fitbit. Exercise alone won’t make you lose weight. - The
 date: 2015-06-17 11:49:16 +0000
 external-url: http://www.washingtonpost.com/posteverything/wp/2015/05/15/take-off-that-fitbit-exercise-alone-wont-make-you-lose-weight/
 hash: c5131de1fda133f8b58a334581c7735a
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.washingtonpost.com
-    path: /posteverything/wp/2015/05/15/take-off-that-fitbit-exercise-alone-wont-make-you-lose-weight/
+year: 2015
+month: 06
+scheme: http
+host: www.washingtonpost.com
+path: /posteverything/wp/2015/05/15/take-off-that-fitbit-exercise-alone-wont-make-you-lose-weight/
 
 ---
 

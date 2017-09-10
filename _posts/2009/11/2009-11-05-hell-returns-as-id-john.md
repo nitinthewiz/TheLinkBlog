@@ -3,13 +3,11 @@ title: "Hell returns as id Software’s John Carmack builds Doom Classic for the
 date: 2009-11-05 13:54:35 +0000
 external-url: http://venturebeat.com/2009/11/05/hell-returns-as-id-softwares-john-carmack-builds-doom-classic-for-the-iphone/
 hash: 40e015d58d745957d05e5a3dc4f8563c
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/11/05/hell-returns-as-id-softwares-john-carmack-builds-doom-classic-for-the-iphone/
+year: 2009
+month: 11
+scheme: http
+host: venturebeat.com
+path: /2009/11/05/hell-returns-as-id-softwares-john-carmack-builds-doom-classic-for-the-iphone/
 
 ---
 

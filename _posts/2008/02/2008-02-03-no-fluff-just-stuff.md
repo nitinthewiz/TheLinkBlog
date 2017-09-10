@@ -3,13 +3,11 @@ title: "No Fluff Just Stuff"
 date: 2008-02-03 05:32:44 +0000
 external-url: http://www.nofluffjuststuff.com/
 hash: dd68cb3dfbe124c978f364104265ef5c
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.nofluffjuststuff.com
-    path: /
+year: 2008
+month: 02
+scheme: http
+host: www.nofluffjuststuff.com
+path: /
 
 ---
 

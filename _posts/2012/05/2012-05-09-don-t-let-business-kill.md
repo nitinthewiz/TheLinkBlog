@@ -3,13 +3,11 @@ title: "Don't Let Business Lobbyists Kill the Post Office"
 date: 2012-05-09 15:14:39 +0000
 external-url: http://www.rollingstone.com/politics/blogs/taibblog/dont-let-business-lobbyists-kill-the-post-office-20120423
 hash: 5547165625fcca3763c150eb775f6c68
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.rollingstone.com
-    path: /politics/blogs/taibblog/dont-let-business-lobbyists-kill-the-post-office-20120423
+year: 2012
+month: 05
+scheme: http
+host: www.rollingstone.com
+path: /politics/blogs/taibblog/dont-let-business-lobbyists-kill-the-post-office-20120423
 
 ---
 

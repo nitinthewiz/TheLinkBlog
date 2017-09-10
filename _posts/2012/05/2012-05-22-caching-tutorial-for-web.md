@@ -3,13 +3,11 @@ title: "Caching Tutorial for Web Authors and Webmasters"
 date: 2012-05-22 04:01:55 +0000
 external-url: https://www.mnot.net/cache_docs/
 hash: 5b50c013c55cc0cdf4473097145da872
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: https
-    host: www.mnot.net
-    path: /cache_docs/
+year: 2012
+month: 05
+scheme: https
+host: www.mnot.net
+path: /cache_docs/
 
 ---
 

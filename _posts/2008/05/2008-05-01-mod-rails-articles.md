@@ -3,13 +3,11 @@ title: "mod_rails articles"
 date: 2008-05-01 18:08:00 +0000
 external-url: http://www.slicehost.com/articles/2008/5/1/mod_rails-articles
 hash: 16cddca201a4fc22bf2aac426aeaa10f
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.slicehost.com
-    path: /articles/2008/5/1/mod_rails-articles
+year: 2008
+month: 05
+scheme: http
+host: www.slicehost.com
+path: /articles/2008/5/1/mod_rails-articles
 
 ---
 

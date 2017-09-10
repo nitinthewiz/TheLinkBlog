@@ -3,13 +3,11 @@ title: "Totally Scored :: Recent Sports Scores via RSS Feed"
 date: 2007-09-13 14:50:40 +0000
 external-url: http://www.totallyscored.com/
 hash: 03219d7037bb10571d3daacc53fb5fea
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.totallyscored.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: www.totallyscored.com
+path: /
 
 ---
 

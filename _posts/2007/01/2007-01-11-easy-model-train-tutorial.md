@@ -3,13 +3,11 @@ title: "easy model train landscaping tutorial"
 date: 2007-01-11 05:36:02 +0000
 external-url: http://www.thestorefinder.com/rr/rr_lib_landscape.html
 hash: 8b6290dc1c8e75c07b7da726e2d1446c
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.thestorefinder.com
-    path: /rr/rr_lib_landscape.html
+year: 2007
+month: 01
+scheme: http
+host: www.thestorefinder.com
+path: /rr/rr_lib_landscape.html
 
 ---
 

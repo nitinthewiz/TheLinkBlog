@@ -3,13 +3,11 @@ title: "They Grow Up So Fast"
 date: 2010-12-05 21:11:40 +0000
 external-url: http://www.theatlantic.com/daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
 hash: 4d4dfef413951fae6dbd1f3e72eb91fa
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
+year: 2010
+month: 12
+scheme: http
+host: www.theatlantic.com
+path: /daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
 
 ---
 

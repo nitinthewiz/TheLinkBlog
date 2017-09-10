@@ -3,13 +3,11 @@ title: "MediaWiki Manual $wgResponsiveImages"
 date: 2012-10-28 22:35:30 +0000
 external-url: http://www.mediawiki.org/wiki/Manual:%24wgResponsiveImages
 hash: 0222b68809583b7e9cec3ffdbc3043b6
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Manual:%24wgResponsiveImages
+year: 2012
+month: 10
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Manual:%24wgResponsiveImages
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dinner Parties"
 date: 2008-03-19 05:14:34 +0000
 external-url: http://stuffwhitepeoplelike.com/2008/03/18/88-dinner-parties/
 hash: e8215bf46180b840b939171b727f6208
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: stuffwhitepeoplelike.com
-    path: /2008/03/18/88-dinner-parties/
+year: 2008
+month: 03
+scheme: http
+host: stuffwhitepeoplelike.com
+path: /2008/03/18/88-dinner-parties/
 
 ---
 

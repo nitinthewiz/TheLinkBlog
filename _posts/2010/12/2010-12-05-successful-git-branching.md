@@ -3,13 +3,11 @@ title: "Successful Git branching model"
 date: 2010-12-05 12:21:18 +0000
 external-url: http://nvie.com/posts/a-successful-git-branching-model/
 hash: 458548f88efb5c11f19f099958d24fee
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: nvie.com
-    path: /posts/a-successful-git-branching-model/
+year: 2010
+month: 12
+scheme: http
+host: nvie.com
+path: /posts/a-successful-git-branching-model/
 
 ---
 

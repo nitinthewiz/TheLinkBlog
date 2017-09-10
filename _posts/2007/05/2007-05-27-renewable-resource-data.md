@@ -3,13 +3,11 @@ title: "Renewable Resource Data Center (RReDC) Home Page"
 date: 2007-05-27 12:46:48 +0000
 external-url: http://rredc.nrel.gov/
 hash: bc7f695de188914ae903d92421b641fe
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: rredc.nrel.gov
-    path: /
+year: 2007
+month: 05
+scheme: http
+host: rredc.nrel.gov
+path: /
 
 ---
 

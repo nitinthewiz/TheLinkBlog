@@ -3,13 +3,11 @@ title: "Robert Reich on Bitterness and the Press"
 date: 2008-04-14 18:07:00 +0000
 external-url: http://www.dailykos.com/story/2008/04/14/495360/-Robert-Reich-on-Bitterness-and-the-Press
 hash: f9d8beca69600374a4f0d00983f6ce4d
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2008/04/14/495360/-Robert-Reich-on-Bitterness-and-the-Press
+year: 2008
+month: 04
+scheme: http
+host: www.dailykos.com
+path: /story/2008/04/14/495360/-Robert-Reich-on-Bitterness-and-the-Press
 
 ---
 

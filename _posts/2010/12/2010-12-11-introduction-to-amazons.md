@@ -3,13 +3,11 @@ title: "Introduction to Amazons SimpleDB"
 date: 2010-12-11 16:49:43 +0000
 external-url: http://www.copperykeenclaws.com/introduction-to-amazons-simpledb/
 hash: 498fbbcf51715eac82b777133c12aeec
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.copperykeenclaws.com
-    path: /introduction-to-amazons-simpledb/
+year: 2010
+month: 12
+scheme: http
+host: www.copperykeenclaws.com
+path: /introduction-to-amazons-simpledb/
 
 ---
 

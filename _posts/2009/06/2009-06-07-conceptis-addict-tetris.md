@@ -3,13 +3,11 @@ title: "Conceptis addict: Congratulations Tetris -25 years!"
 date: 2009-06-07 11:29:49 +0000
 external-url: http://conceptisaddict.blogspot.com/2009/06/congratulations-tetris-25-years.html
 hash: 8b5eef796bd0966c87ad7fa9bc42adf4
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: conceptisaddict.blogspot.com
-    path: /2009/06/congratulations-tetris-25-years.html
+year: 2009
+month: 06
+scheme: http
+host: conceptisaddict.blogspot.com
+path: /2009/06/congratulations-tetris-25-years.html
 
 ---
 

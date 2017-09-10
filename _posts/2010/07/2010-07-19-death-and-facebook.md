@@ -3,13 +3,11 @@ title: "Death and Facebook, revisited"
 date: 2010-07-19 15:05:39 +0000
 external-url: http://scripting.com/stories/2010/07/19/deathAndFacebookRevisited.html
 hash: da72981c38e30bb6610a952ddcb4fcd5
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/07/19/deathAndFacebookRevisited.html
+year: 2010
+month: 07
+scheme: http
+host: scripting.com
+path: /stories/2010/07/19/deathAndFacebookRevisited.html
 
 ---
 

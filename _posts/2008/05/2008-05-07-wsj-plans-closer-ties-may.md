@@ -3,13 +3,11 @@ title: "WSJ Plans Closer Ties With London Times; May Offer Business Tools"
 date: 2008-05-07 14:18:17 +0000
 external-url: http://gigaom.com/2008/05/07/419-wsj-plans-closer-ties-with-london-times-may-offer-business-tools/
 hash: cdaa01ad2a7daef95e93c762a102ceb4
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/05/07/419-wsj-plans-closer-ties-with-london-times-may-offer-business-tools/
+year: 2008
+month: 05
+scheme: http
+host: gigaom.com
+path: /2008/05/07/419-wsj-plans-closer-ties-with-london-times-may-offer-business-tools/
 
 ---
 

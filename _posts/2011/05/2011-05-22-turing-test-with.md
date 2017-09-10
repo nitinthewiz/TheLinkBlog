@@ -3,13 +3,11 @@ title: "Turing test with \"babygurl01475\""
 date: 2011-05-22 18:07:08 +0000
 external-url: http://www.collisiondetection.net/mt/archives/2011/05/lets_get_this_p.php
 hash: 75c3dc5551506108c3d4d7f69a5cb60a
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.collisiondetection.net
-    path: /mt/archives/2011/05/lets_get_this_p.php
+year: 2011
+month: 05
+scheme: http
+host: www.collisiondetection.net
+path: /mt/archives/2011/05/lets_get_this_p.php
 
 ---
 

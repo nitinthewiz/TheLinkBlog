@@ -3,13 +3,11 @@ title: "Facebook Promotes Social E-Commerce"
 date: 2011-04-07 15:28:40 +0000
 external-url: http://bits.blogs.nytimes.com/2011/04/06/facebook-touts-social-e-commerce/
 hash: 448d5659a8e474141e88a7b51971d618
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: bits.blogs.nytimes.com
-    path: /2011/04/06/facebook-touts-social-e-commerce/
+year: 2011
+month: 04
+scheme: http
+host: bits.blogs.nytimes.com
+path: /2011/04/06/facebook-touts-social-e-commerce/
 
 ---
 

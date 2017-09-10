@@ -3,13 +3,11 @@ title: "Jawbone UP Review"
 date: 2011-11-08 20:06:30 +0000
 external-url: http://shawnwall.tumblr.com/post/12432034722/jawbone-up-review
 hash: b0a2521946f00425b92e60945c096ca2
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: shawnwall.tumblr.com
-    path: /post/12432034722/jawbone-up-review
+year: 2011
+month: 11
+scheme: http
+host: shawnwall.tumblr.com
+path: /post/12432034722/jawbone-up-review
 
 ---
 

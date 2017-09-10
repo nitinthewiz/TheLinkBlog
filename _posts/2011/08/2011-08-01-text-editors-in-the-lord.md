@@ -3,13 +3,11 @@ title: "Text Editors in The Lord of the Rings"
 date: 2011-08-01 06:14:46 +0000
 external-url: http://crookedtimber.org/2011/07/30/text-editors-in-the-lord-of-the-rings/
 hash: b96fae920450e7db747ca9ca9a84bd6f
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: crookedtimber.org
-    path: /2011/07/30/text-editors-in-the-lord-of-the-rings/
+year: 2011
+month: 08
+scheme: http
+host: crookedtimber.org
+path: /2011/07/30/text-editors-in-the-lord-of-the-rings/
 
 ---
 

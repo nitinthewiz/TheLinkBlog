@@ -3,13 +3,11 @@ title: "Retraction"
 date: 2012-03-18 18:55:43 +0000
 external-url: http://www.thisamericanlife.org/radio-archives/episode/460/retraction
 hash: 7bdecb1825cc6f9bbb563b240c826a54
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.thisamericanlife.org
-    path: /radio-archives/episode/460/retraction
+year: 2012
+month: 03
+scheme: http
+host: www.thisamericanlife.org
+path: /radio-archives/episode/460/retraction
 
 ---
 

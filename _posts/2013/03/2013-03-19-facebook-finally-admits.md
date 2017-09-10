@@ -3,13 +3,11 @@ title: "Facebook finally admits to tracking non-users"
 date: 2013-03-19 22:54:15 +0000
 external-url: http://tech.firstpost.com/news-analysis/facebook-finally-admits-to-tracking-non-users-208996.html
 hash: b4b77ed7c5ea83409b8530114d06d230
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: tech.firstpost.com
-    path: /news-analysis/facebook-finally-admits-to-tracking-non-users-208996.html
+year: 2013
+month: 03
+scheme: http
+host: tech.firstpost.com
+path: /news-analysis/facebook-finally-admits-to-tracking-non-users-208996.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Location, Location, Location"
 date: 2009-08-23 11:58:12 +0000
 external-url: http://blog.twitter.com/2009/08/location-location-location.html
 hash: fae92929ef434427413e8d5d757ac58c
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2009/08/location-location-location.html
+year: 2009
+month: 08
+scheme: http
+host: blog.twitter.com
+path: /2009/08/location-location-location.html
 
 ---
 

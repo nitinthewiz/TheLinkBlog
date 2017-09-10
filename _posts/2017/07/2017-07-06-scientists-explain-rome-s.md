@@ -3,13 +3,11 @@ title: "Scientists explain ancient Rome's long-lasting concrete - BBC News"
 date: 2017-07-06 02:39:08 +0000
 external-url: http://www.bbc.com/news/science-environment-40494248
 hash: f14979385fff4fab8783c0aa0c475d90
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.bbc.com
-    path: /news/science-environment-40494248
+year: 2017
+month: 07
+scheme: http
+host: www.bbc.com
+path: /news/science-environment-40494248
 
 ---
 

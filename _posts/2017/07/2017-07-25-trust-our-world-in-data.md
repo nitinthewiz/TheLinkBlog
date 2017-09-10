@@ -3,13 +3,11 @@ title: "Trust - Our World In Data"
 date: 2017-07-25 02:29:57 +0000
 external-url: https://ourworldindata.org/trust
 hash: 59f4856ea6f082794a1de375d0cd2dcd
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: ourworldindata.org
-    path: /trust
+year: 2017
+month: 07
+scheme: https
+host: ourworldindata.org
+path: /trust
 
 ---
 

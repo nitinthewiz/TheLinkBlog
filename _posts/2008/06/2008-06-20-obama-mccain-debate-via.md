@@ -3,13 +3,11 @@ title: "Obama, McCain Debate Via Twitter"
 date: 2008-06-20 18:57:00 +0000
 external-url: http://blog.twitter.com/2008/06/obama-mccain-debate-via-twitter.html
 hash: 7388f61bdf84a3b52f9b72d7e05b49c6
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2008/06/obama-mccain-debate-via-twitter.html
+year: 2008
+month: 06
+scheme: http
+host: blog.twitter.com
+path: /2008/06/obama-mccain-debate-via-twitter.html
 
 ---
 

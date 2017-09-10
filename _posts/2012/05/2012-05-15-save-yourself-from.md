@@ -3,13 +3,11 @@ title: "Save Yourself from Insomnia!"
 date: 2012-05-15 05:10:54 +0000
 external-url: http://saveyourself.ca/articles/insomnia.php
 hash: 18212f602149a7815b9897a2b971e00b
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: saveyourself.ca
-    path: /articles/insomnia.php
+year: 2012
+month: 05
+scheme: http
+host: saveyourself.ca
+path: /articles/insomnia.php
 
 ---
 

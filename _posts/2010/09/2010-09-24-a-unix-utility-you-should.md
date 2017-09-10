@@ -3,13 +3,11 @@ title: "A Unix Utility You Should Know About: Pipe Viewer - good coders code, gr
 date: 2010-09-24 04:47:14 +0000
 external-url: http://www.catonmat.net/blog/unix-utilities-pipe-viewer/
 hash: 6e81b3b8b4fca09080728a4da6a4f43d
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: www.catonmat.net
-    path: /blog/unix-utilities-pipe-viewer/
+year: 2010
+month: 09
+scheme: http
+host: www.catonmat.net
+path: /blog/unix-utilities-pipe-viewer/
 
 ---
 

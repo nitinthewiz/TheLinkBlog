@@ -3,13 +3,11 @@ title: "5 Keys to Social Commerce Success"
 date: 2012-09-27 15:56:41 +0000
 external-url: http://www.practicalecommerce.com/articles/3745-5-Keys-to-Social-Commerce-Success
 hash: f0d26dfbf40b97a2dd748cbe0bcc7785
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: www.practicalecommerce.com
-    path: /articles/3745-5-Keys-to-Social-Commerce-Success
+year: 2012
+month: 09
+scheme: http
+host: www.practicalecommerce.com
+path: /articles/3745-5-Keys-to-Social-Commerce-Success
 
 ---
 

@@ -3,13 +3,11 @@ title: "Wikimedia blog » Help test the first visual editor developer prototype"
 date: 2011-12-14 15:43:13 +0000
 external-url: http://blog.wikimedia.org/2011/12/13/help-test-the-first-visual-editor-developer-prototype/
 hash: 00e8faa9112e641cbbbbda956d9147f0
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2011/12/13/help-test-the-first-visual-editor-developer-prototype/
+year: 2011
+month: 12
+scheme: http
+host: blog.wikimedia.org
+path: /2011/12/13/help-test-the-first-visual-editor-developer-prototype/
 
 ---
 

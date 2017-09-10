@@ -3,13 +3,11 @@ title: "Daring Fireball: Watch, Apple Watch"
 date: 2015-04-30 11:28:38 +0000
 external-url: http://daringfireball.net/2015/04/watch_apple_watch
 hash: 8c6b188ae8db38f6777bc2839226cbed
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: daringfireball.net
-    path: /2015/04/watch_apple_watch
+year: 2015
+month: 04
+scheme: http
+host: daringfireball.net
+path: /2015/04/watch_apple_watch
 
 ---
 

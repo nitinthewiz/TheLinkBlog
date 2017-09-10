@@ -3,13 +3,11 @@ title: "The Way I Work: David Karp of Tumblr"
 date: 2011-06-06 00:27:38 +0000
 external-url: http://www.inc.com/magazine/201106/the-way-i-work-david-karp-of-tumblr.html
 hash: f16019d576030505238aff02ea579c04
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.inc.com
-    path: /magazine/201106/the-way-i-work-david-karp-of-tumblr.html
+year: 2011
+month: 06
+scheme: http
+host: www.inc.com
+path: /magazine/201106/the-way-i-work-david-karp-of-tumblr.html
 
 ---
 

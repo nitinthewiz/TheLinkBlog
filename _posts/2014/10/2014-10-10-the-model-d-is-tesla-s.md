@@ -3,13 +3,11 @@ title: "The Model D Is Tesla's Most Powerful Car Ever, Plus Autopilot | WIRED"
 date: 2014-10-10 10:44:38 +0000
 external-url: http://www.wired.com/2014/10/tesla-reveals-details-big-model-d-announcement/
 hash: 2f57dc8d97fdc9dc0772094253d924d5
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2014/10/tesla-reveals-details-big-model-d-announcement/
+year: 2014
+month: 10
+scheme: http
+host: www.wired.com
+path: /2014/10/tesla-reveals-details-big-model-d-announcement/
 
 ---
 

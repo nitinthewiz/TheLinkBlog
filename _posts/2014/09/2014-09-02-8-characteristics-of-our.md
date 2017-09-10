@@ -3,13 +3,11 @@ title: "8 Characteristics of our DevOps Organization - Richard Seroter's Archite
 date: 2014-09-02 17:20:57 +0000
 external-url: http://seroter.wordpress.com/2014/08/28/8-characteristics-of-our-devops-organization-2/
 hash: 643809eabd1ffab0ae6330430c2b1bc6
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: seroter.wordpress.com
-    path: /2014/08/28/8-characteristics-of-our-devops-organization-2/
+year: 2014
+month: 09
+scheme: http
+host: seroter.wordpress.com
+path: /2014/08/28/8-characteristics-of-our-devops-organization-2/
 
 ---
 

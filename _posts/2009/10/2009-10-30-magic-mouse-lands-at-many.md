@@ -3,13 +3,11 @@ title: "Magic Mouse lands at many local Apple stores"
 date: 2009-10-30 04:05:27 +0000
 external-url: http://www.tuaw.com/2009/10/29/magic-mouse-lands-at-many-local-apple-stores/
 hash: 4fbfe397a6b3425f1b42eb8e85284609
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/10/29/magic-mouse-lands-at-many-local-apple-stores/
+year: 2009
+month: 10
+scheme: http
+host: www.tuaw.com
+path: /2009/10/29/magic-mouse-lands-at-many-local-apple-stores/
 
 ---
 

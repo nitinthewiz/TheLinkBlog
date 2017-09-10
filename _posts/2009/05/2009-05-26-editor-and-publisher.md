@@ -3,13 +3,11 @@ title: "Editor and Publisher"
 date: 2009-05-26 13:30:10 +0000
 external-url: http://www.google.com/reader/bundle/user%2F08141827436068576664%2Fbundle%2FEditor%20and%20Publisher
 hash: 005b1bfe379dd617213b89a7ae3253b3
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.google.com
-    path: /reader/bundle/user%2F08141827436068576664%2Fbundle%2FEditor%20and%20Publisher
+year: 2009
+month: 05
+scheme: http
+host: www.google.com
+path: /reader/bundle/user%2F08141827436068576664%2Fbundle%2FEditor%20and%20Publisher
 
 ---
 

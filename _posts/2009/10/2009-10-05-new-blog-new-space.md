@@ -3,13 +3,11 @@ title: "new blog! new space!"
 date: 2009-10-05 17:24:27 +0000
 external-url: http://mielyleche.blogspot.com/2009/10/new-blog-new-space.html
 hash: 0e0b9cf5be17479d06fcb310b1b4b530
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: mielyleche.blogspot.com
-    path: /2009/10/new-blog-new-space.html
+year: 2009
+month: 10
+scheme: http
+host: mielyleche.blogspot.com
+path: /2009/10/new-blog-new-space.html
 
 ---
 

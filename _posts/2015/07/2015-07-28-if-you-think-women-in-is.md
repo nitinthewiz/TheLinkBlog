@@ -3,13 +3,11 @@ title: "If you think women in tech is just a pipeline problem, you haven’t bee
 date: 2015-07-28 15:16:05 +0000
 external-url: https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996
 hash: 523f41653b1368288869e8c023111530
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996
+year: 2015
+month: 07
+scheme: https
+host: medium.com
+path: /@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996
 
 ---
 

@@ -3,13 +3,11 @@ title: "A CEO's Guide to Emacs | Fugue"
 date: 2015-12-01 09:35:53 +0000
 external-url: https://blog.fugue.co/2015-11-11-guide-to-emacs.html
 hash: fd8ffab9fac747dce290f6db346cd1df
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: blog.fugue.co
-    path: /2015-11-11-guide-to-emacs.html
+year: 2015
+month: 12
+scheme: https
+host: blog.fugue.co
+path: /2015-11-11-guide-to-emacs.html
 
 ---
 

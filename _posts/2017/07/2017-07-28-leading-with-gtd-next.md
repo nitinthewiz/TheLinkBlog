@@ -3,13 +3,11 @@ title: "Leading with GTD —Next Action Associates"
 date: 2017-07-28 03:52:40 +0000
 external-url: http://www.next-action.eu/2017/07/27/leading-with-gtd/
 hash: 52977cff2cfe0e81b06e32d28b3e9351
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.next-action.eu
-    path: /2017/07/27/leading-with-gtd/
+year: 2017
+month: 07
+scheme: http
+host: www.next-action.eu
+path: /2017/07/27/leading-with-gtd/
 
 ---
 

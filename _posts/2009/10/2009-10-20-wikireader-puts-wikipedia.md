@@ -3,13 +3,11 @@ title: "WikiReader Puts Wikipedia in Your Pocket"
 date: 2009-10-20 15:04:03 +0000
 external-url: http://tidbits.com/article/10650
 hash: f2cd5108b3dbf326c8eea3b20a82f840
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/10650
+year: 2009
+month: 10
+scheme: http
+host: tidbits.com
+path: /article/10650
 
 ---
 

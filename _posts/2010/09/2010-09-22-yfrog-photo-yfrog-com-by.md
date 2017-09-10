@@ -3,13 +3,11 @@ title: "Yfrog Photo : yfrog.com/mvaw0p  - Shared by thingles"
 date: 2010-09-22 21:20:52 +0000
 external-url: http://yfrog.com/mvaw0p
 hash: 5a1b6ef15a2f7daa0062851feb32ffbf
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: yfrog.com
-    path: /mvaw0p
+year: 2010
+month: 09
+scheme: http
+host: yfrog.com
+path: /mvaw0p
 
 ---
 

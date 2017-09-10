@@ -3,13 +3,11 @@ title: "24 February 2012, baked by Ben Ward @ The Pastry Box Project"
 date: 2012-02-27 20:08:08 +0000
 external-url: https://the-pastry-box-project.net/ben-ward/2012-february-24
 hash: d32447c9d15ce4b109533de472d7fd05
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: https
-    host: the-pastry-box-project.net
-    path: /ben-ward/2012-february-24
+year: 2012
+month: 02
+scheme: https
+host: the-pastry-box-project.net
+path: /ben-ward/2012-february-24
 
 ---
 

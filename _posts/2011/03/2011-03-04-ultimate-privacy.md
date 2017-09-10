@@ -3,13 +3,11 @@ title: "Ultimate Privacy"
 date: 2011-03-04 19:46:30 +0000
 external-url: http://www.ultimate-anonymity.com
 hash: 875bc8c762a746cef7135a423ab0573e
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.ultimate-anonymity.com
-    path: 
+year: 2011
+month: 03
+scheme: http
+host: www.ultimate-anonymity.com
+path: 
 
 ---
 

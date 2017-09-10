@@ -3,13 +3,11 @@ title: "The sleeper has awakened"
 date: 2008-03-09 16:01:00 +0000
 external-url: http://paulolstad.blogspot.com/2008/03/sleeper-has-awoken.html
 hash: 9f2fb8eb1bdd660304c8423e4d29604d
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: paulolstad.blogspot.com
-    path: /2008/03/sleeper-has-awoken.html
+year: 2008
+month: 03
+scheme: http
+host: paulolstad.blogspot.com
+path: /2008/03/sleeper-has-awoken.html
 
 ---
 

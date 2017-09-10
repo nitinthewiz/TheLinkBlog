@@ -3,13 +3,11 @@ title: "LinkedIn, Now For Companies"
 date: 2008-03-21 05:20:22 +0000
 external-url: http://techcrunch.com/2008/03/20/linkedin-now-for-companies-2/
 hash: f94882c53885daba83df6ed2955090f5
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/03/20/linkedin-now-for-companies-2/
+year: 2008
+month: 03
+scheme: http
+host: techcrunch.com
+path: /2008/03/20/linkedin-now-for-companies-2/
 
 ---
 

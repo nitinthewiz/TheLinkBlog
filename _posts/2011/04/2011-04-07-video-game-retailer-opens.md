@@ -3,13 +3,11 @@ title: "Video Game Retailer GameStop Opens For Business On Facebook"
 date: 2011-04-07 15:29:16 +0000
 external-url: http://techcrunch.com/2011/04/07/video-game-retailer-gamestop-opens-for-business-on-facebook/
 hash: 36e526cb393fd17e1f2e21aa49df90a3
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2011/04/07/video-game-retailer-gamestop-opens-for-business-on-facebook/
+year: 2011
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2011/04/07/video-game-retailer-gamestop-opens-for-business-on-facebook/
 
 ---
 

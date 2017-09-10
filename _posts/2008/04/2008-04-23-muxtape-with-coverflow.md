@@ -3,13 +3,11 @@ title: "Muxtape With Coverflow Using Fluid"
 date: 2008-04-23 02:42:50 +0000
 external-url: http://internetjogging.com/2008/04/17/23/
 hash: 2bc46bf01f0fe6565ba075190255d3ae
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: internetjogging.com
-    path: /2008/04/17/23/
+year: 2008
+month: 04
+scheme: http
+host: internetjogging.com
+path: /2008/04/17/23/
 
 ---
 

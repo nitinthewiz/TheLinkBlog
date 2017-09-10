@@ -3,13 +3,11 @@ title: "Important Announcement about ScreenOS® - J-Net Community"
 date: 2015-12-19 05:20:35 +0000
 external-url: http://forums.juniper.net/t5/Security-Incident-Response/Important-Announcement-about-ScreenOS/ba-p/285554
 hash: d27e67f396da368a8bcc41a1065c7280
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: forums.juniper.net
-    path: /t5/Security-Incident-Response/Important-Announcement-about-ScreenOS/ba-p/285554
+year: 2015
+month: 12
+scheme: http
+host: forums.juniper.net
+path: /t5/Security-Incident-Response/Important-Announcement-about-ScreenOS/ba-p/285554
 
 ---
 

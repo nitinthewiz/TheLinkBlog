@@ -3,13 +3,11 @@ title: "The New Methodology"
 date: 2016-10-01 19:46:42 +0000
 external-url: http://martinfowler.com/articles/newMethodology.html
 hash: 8390795a5c83d1bc508259036686c0d1
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: martinfowler.com
-    path: /articles/newMethodology.html
+year: 2016
+month: 10
+scheme: http
+host: martinfowler.com
+path: /articles/newMethodology.html
 
 ---
 

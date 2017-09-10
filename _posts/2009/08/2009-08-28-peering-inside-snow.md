@@ -3,13 +3,11 @@ title: "Peering Inside Snow Leopard Security"
 date: 2009-08-28 02:57:10 +0000
 external-url: http://tidbits.com/article/10509
 hash: 3910e50e9e3135ef24e2986dd478bf15
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/10509
+year: 2009
+month: 08
+scheme: http
+host: tidbits.com
+path: /article/10509
 
 ---
 

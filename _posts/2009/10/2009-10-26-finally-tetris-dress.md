@@ -3,13 +3,11 @@ title: "Finally: Tetris Dress!"
 date: 2009-10-26 04:22:00 +0000
 external-url: http://www.dressaday.com/2009/10/finally-tetris-dress.html
 hash: 49a00ab4e76ff086ead245ca7cab106c
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.dressaday.com
-    path: /2009/10/finally-tetris-dress.html
+year: 2009
+month: 10
+scheme: http
+host: www.dressaday.com
+path: /2009/10/finally-tetris-dress.html
 
 ---
 

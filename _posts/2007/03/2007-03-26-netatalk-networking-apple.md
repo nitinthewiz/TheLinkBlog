@@ -3,13 +3,11 @@ title: "Netatalk - Networking Apple Macintosh through Open Source"
 date: 2007-03-26 14:37:40 +0000
 external-url: http://netatalk.sourceforge.net/
 hash: a12423b24e1a4a6a549d230868a6ccc3
-annum:
-    year: 2007
-    month: 03
-url-parts:
-    scheme: http
-    host: netatalk.sourceforge.net
-    path: /
+year: 2007
+month: 03
+scheme: http
+host: netatalk.sourceforge.net
+path: /
 
 ---
 

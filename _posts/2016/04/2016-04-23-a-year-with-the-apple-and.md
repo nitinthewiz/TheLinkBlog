@@ -3,13 +3,11 @@ title: "A year with the Apple Watch: What works, what doesn’t, and what lies a
 date: 2016-04-23 03:56:47 +0000
 external-url: http://arstechnica.com/apple/2016/04/a-year-with-the-apple-watch-what-works-what-doesnt-and-what-lies-ahead/#p3
 hash: 99a7058c0e85c523b46416fe1124d406
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /apple/2016/04/a-year-with-the-apple-watch-what-works-what-doesnt-and-what-lies-ahead/
+year: 2016
+month: 04
+scheme: http
+host: arstechnica.com
+path: /apple/2016/04/a-year-with-the-apple-watch-what-works-what-doesnt-and-what-lies-ahead/
 
 ---
 

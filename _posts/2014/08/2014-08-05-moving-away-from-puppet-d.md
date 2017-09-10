@@ -3,13 +3,11 @@ title: "Moving away from puppet: SaltStack or Ansible? - Ryan D Lane"
 date: 2014-08-05 15:59:04 +0000
 external-url: http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
 hash: 0c544b8a7ebeb6f317a88709699ca5aa
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: ryandlane.com
-    path: /blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
+year: 2014
+month: 08
+scheme: http
+host: ryandlane.com
+path: /blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/
 
 ---
 

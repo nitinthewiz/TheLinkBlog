@@ -3,13 +3,11 @@ title: "911 call: 'I'm gonna kill 'em'"
 date: 2007-11-21 20:23:00 +0000
 external-url: http://www.cnn.com/video/
 hash: 55c6b56d71422a8e555765532c526ff4
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: www.cnn.com
-    path: /video/
+year: 2007
+month: 11
+scheme: http
+host: www.cnn.com
+path: /video/
 
 ---
 

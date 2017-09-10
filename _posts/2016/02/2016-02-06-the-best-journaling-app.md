@@ -3,13 +3,11 @@ title: "The Best Journaling App for iPhone, iPad, and Mac"
 date: 2016-02-06 03:30:32 +0000
 external-url: http://thesweetsetup.com/apps/the-very-best-journaling-logging-app/
 hash: 20f6bab3cd8f5d8b8229048fc1de9d5c
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: thesweetsetup.com
-    path: /apps/the-very-best-journaling-logging-app/
+year: 2016
+month: 02
+scheme: http
+host: thesweetsetup.com
+path: /apps/the-very-best-journaling-logging-app/
 
 ---
 

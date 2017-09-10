@@ -3,13 +3,11 @@ title: "Postgres Jsonb has committed!"
 date: 2014-03-26 15:30:12 +0000
 external-url: http://obartunov.livejournal.com/177247.html
 hash: b4426a2d3615aa4538101e7afff37f9b
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: obartunov.livejournal.com
-    path: /177247.html
+year: 2014
+month: 03
+scheme: http
+host: obartunov.livejournal.com
+path: /177247.html
 
 ---
 

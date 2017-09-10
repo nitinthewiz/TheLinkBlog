@@ -3,13 +3,11 @@ title: "Terminal Tip: Enable half-star ratings in iTunes"
 date: 2008-12-31 16:00:00 +0000
 external-url: http://www.tuaw.com/2008/12/31/terminal-tip-enable-half-star-ratings-in-itunes/
 hash: a597ba58568ec4b83f93f35927377b78
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/12/31/terminal-tip-enable-half-star-ratings-in-itunes/
+year: 2008
+month: 12
+scheme: http
+host: www.tuaw.com
+path: /2008/12/31/terminal-tip-enable-half-star-ratings-in-itunes/
 
 ---
 

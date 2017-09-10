@@ -3,13 +3,11 @@ title: "Join TUAW on IRC"
 date: 2008-06-09 17:00:00 +0000
 external-url: http://www.tuaw.com/2008/06/09/join-tuaw-on-irc/
 hash: 3535daf6832ca0a391bc49547b898d8f
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/09/join-tuaw-on-irc/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/09/join-tuaw-on-irc/
 
 ---
 

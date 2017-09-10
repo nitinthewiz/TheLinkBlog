@@ -3,13 +3,11 @@ title: "Spark View Engine"
 date: 2009-03-10 12:53:50 +0000
 external-url: http://simpable.com/code/spark/
 hash: 063b0f439544183105ea525c1ad7ab26
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: simpable.com
-    path: /code/spark/
+year: 2009
+month: 03
+scheme: http
+host: simpable.com
+path: /code/spark/
 
 ---
 

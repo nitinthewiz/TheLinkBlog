@@ -3,13 +3,11 @@ title: "Schneier on Security: iPhone Encryption and the Return of the Crypto War
 date: 2014-10-10 23:35:52 +0000
 external-url: https://www.schneier.com/blog/archives/2014/10/iphone_encrypti_1.html
 hash: 6ceb390456d2f8ce87c03e46e04cfab9
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: www.schneier.com
-    path: /blog/archives/2014/10/iphone_encrypti_1.html
+year: 2014
+month: 10
+scheme: https
+host: www.schneier.com
+path: /blog/archives/2014/10/iphone_encrypti_1.html
 
 ---
 

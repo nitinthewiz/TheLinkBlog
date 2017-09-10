@@ -3,13 +3,11 @@ title: "Dow Jones CMO Ann Marks Leaves As Well"
 date: 2007-12-15 02:32:33 +0000
 external-url: http://gigaom.com/2007/12/15/419-industry-moves-dow-jones-cmo-ann-marks-leaves-as-well/
 hash: 9b9d8b8d85c74b3a2a59846f7361625a
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/15/419-industry-moves-dow-jones-cmo-ann-marks-leaves-as-well/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/15/419-industry-moves-dow-jones-cmo-ann-marks-leaves-as-well/
 
 ---
 

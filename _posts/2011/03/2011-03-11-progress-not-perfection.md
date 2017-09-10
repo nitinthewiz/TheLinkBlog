@@ -3,13 +3,11 @@ title: "Progress not perfection"
 date: 2011-03-11 07:04:00 +0000
 external-url: http://wesolver.blogspot.com/2011/03/progress-not-perfection.html
 hash: 4e8b93706c09d25fdee5304c0944fe3d
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: wesolver.blogspot.com
-    path: /2011/03/progress-not-perfection.html
+year: 2011
+month: 03
+scheme: http
+host: wesolver.blogspot.com
+path: /2011/03/progress-not-perfection.html
 
 ---
 

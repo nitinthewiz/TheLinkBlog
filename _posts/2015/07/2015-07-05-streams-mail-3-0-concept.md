@@ -3,13 +3,11 @@ title: "Streams: Mail 3.0 concept"
 date: 2015-07-05 15:46:34 +0000
 external-url: http://tonsky.me/blog/streams/
 hash: a1fcf9b3de1156a4fa8e03630c900d42
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: tonsky.me
-    path: /blog/streams/
+year: 2015
+month: 07
+scheme: http
+host: tonsky.me
+path: /blog/streams/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Sony DSC-RX1 Review"
 date: 2013-02-19 20:52:19 +0000
 external-url: http://duncandavidson.com/gear/sony/rx1/
 hash: ad0a61faa4403bf5fbfc35149ca96708
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /gear/sony/rx1/
+year: 2013
+month: 02
+scheme: http
+host: duncandavidson.com
+path: /gear/sony/rx1/
 
 ---
 

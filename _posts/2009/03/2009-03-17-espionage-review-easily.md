@@ -3,13 +3,11 @@ title: "Espionage Review: Easily Secure Your Files"
 date: 2009-03-17 12:43:34 +0000
 external-url: http://macapper.com/2009/03/17/espionage-review-easily-secure-your-files/
 hash: 450ef21d848b2c5003b207c25b00be3c
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2009/03/17/espionage-review-easily-secure-your-files/
+year: 2009
+month: 03
+scheme: http
+host: macapper.com
+path: /2009/03/17/espionage-review-easily-secure-your-files/
 
 ---
 

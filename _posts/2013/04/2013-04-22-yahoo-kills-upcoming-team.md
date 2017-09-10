@@ -3,13 +3,11 @@ title: "Yahoo Kills Upcoming, Archive Team Saves the Day"
 date: 2013-04-22 17:42:38 +0000
 external-url: http://www.webmonkey.com/2013/04/yahoo-shutters-upcoming-archive-team-saves-the-day/
 hash: 346528ef6564cd305ca9bccaf725be36
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: www.webmonkey.com
-    path: /2013/04/yahoo-shutters-upcoming-archive-team-saves-the-day/
+year: 2013
+month: 04
+scheme: http
+host: www.webmonkey.com
+path: /2013/04/yahoo-shutters-upcoming-archive-team-saves-the-day/
 
 ---
 

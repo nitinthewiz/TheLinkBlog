@@ -3,13 +3,11 @@ title: "The key value store everyone ignored (Postgresql)"
 date: 2011-12-12 16:59:52 +0000
 external-url: http://www.creapptives.com//post/14062057061/the-key-value-store-everyone-ignored-postgresql
 hash: 821f94d3bf308dc827f2449abf892e54
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.creapptives.com
-    path: //post/14062057061/the-key-value-store-everyone-ignored-postgresql
+year: 2011
+month: 12
+scheme: http
+host: www.creapptives.com
+path: //post/14062057061/the-key-value-store-everyone-ignored-postgresql
 
 ---
 

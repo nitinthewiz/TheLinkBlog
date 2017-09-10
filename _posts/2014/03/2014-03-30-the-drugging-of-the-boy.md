@@ -3,13 +3,11 @@ title: "The Drugging of the American Boy - Esquire"
 date: 2014-03-30 01:40:33 +0000
 external-url: http://www.esquire.com/features/drugging-of-the-american-boy-0414
 hash: 1548b466d98648c025de7b1b4957227f
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: www.esquire.com
-    path: /features/drugging-of-the-american-boy-0414
+year: 2014
+month: 03
+scheme: http
+host: www.esquire.com
+path: /features/drugging-of-the-american-boy-0414
 
 ---
 

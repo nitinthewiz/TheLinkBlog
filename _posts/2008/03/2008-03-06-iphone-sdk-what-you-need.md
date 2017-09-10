@@ -3,13 +3,11 @@ title: "IPhone SDK - What you need to know"
 date: 2008-03-06 20:30:00 +0000
 external-url: http://www.tuaw.com/2008/03/06/iphone-sdk-what-you-need-to-know/
 hash: 199ca5b3c44838e11fa472fab2ab0ff7
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/03/06/iphone-sdk-what-you-need-to-know/
+year: 2008
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2008/03/06/iphone-sdk-what-you-need-to-know/
 
 ---
 

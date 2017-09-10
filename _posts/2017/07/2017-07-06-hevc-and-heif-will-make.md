@@ -3,13 +3,11 @@ title: "HEVC and HEIF Will Make Video and Photos More Efficient - TidBITS"
 date: 2017-07-06 02:34:58 +0000
 external-url: http://tidbits.com/article/17310
 hash: 8377ab255da272a12fbfeef08812f4ea
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/17310
+year: 2017
+month: 07
+scheme: http
+host: tidbits.com
+path: /article/17310
 
 ---
 

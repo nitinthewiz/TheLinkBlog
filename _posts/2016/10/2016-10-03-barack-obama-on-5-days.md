@@ -3,13 +3,11 @@ title: "Barack Obama on 5 Days That Shaped His Presidency"
 date: 2016-10-03 08:53:38 +0000
 external-url: http://nymag.com/daily/intelligencer/2016/10/barack-obama-on-5-days-that-shaped-his-presidency.html
 hash: e89003a4893235e27d982b5871d68122
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: nymag.com
-    path: /daily/intelligencer/2016/10/barack-obama-on-5-days-that-shaped-his-presidency.html
+year: 2016
+month: 10
+scheme: http
+host: nymag.com
+path: /daily/intelligencer/2016/10/barack-obama-on-5-days-that-shaped-his-presidency.html
 
 ---
 

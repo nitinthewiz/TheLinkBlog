@@ -3,13 +3,11 @@ title: "Automatic Face Recognition and Surveillance - Schneier on Security"
 date: 2015-10-08 14:01:43 +0000
 external-url: https://www.schneier.com/blog/archives/2015/10/automatic_face_.html
 hash: cbc2d50abf5c390a30f7b9fdcb55bf89
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: www.schneier.com
-    path: /blog/archives/2015/10/automatic_face_.html
+year: 2015
+month: 10
+scheme: https
+host: www.schneier.com
+path: /blog/archives/2015/10/automatic_face_.html
 
 ---
 

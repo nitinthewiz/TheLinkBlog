@@ -3,13 +3,11 @@ title: "Wikipedia And The Death Of The Expert"
 date: 2011-05-18 11:13:51 +0000
 external-url: http://www.theawl.com/2011/05/wikipedia-and-the-death-of-the-expert
 hash: e24563e3bdd42ad074c2f15b3b42e9f0
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.theawl.com
-    path: /2011/05/wikipedia-and-the-death-of-the-expert
+year: 2011
+month: 05
+scheme: http
+host: www.theawl.com
+path: /2011/05/wikipedia-and-the-death-of-the-expert
 
 ---
 

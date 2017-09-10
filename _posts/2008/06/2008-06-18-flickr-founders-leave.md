@@ -3,13 +3,11 @@ title: "Flickr Founders Leave Yahoo"
 date: 2008-06-18 01:10:31 +0000
 external-url: http://paidcontent.org/article/419-flickr-founders-leave-yahoo/
 hash: 67b74333b27666355d4dca7dea9783bb
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: paidcontent.org
-    path: /article/419-flickr-founders-leave-yahoo/
+year: 2008
+month: 06
+scheme: http
+host: paidcontent.org
+path: /article/419-flickr-founders-leave-yahoo/
 
 ---
 

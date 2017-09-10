@@ -3,13 +3,11 @@ title: "A Skeleton Key of Unknown Strength | Dan Kaminsky's Blog"
 date: 2016-02-21 14:06:52 +0000
 external-url: http://dankaminsky.com/2016/02/20/skeleton/
 hash: f01546ba3a05a9ec4cfe7f1822cf84c8
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: dankaminsky.com
-    path: /2016/02/20/skeleton/
+year: 2016
+month: 02
+scheme: http
+host: dankaminsky.com
+path: /2016/02/20/skeleton/
 
 ---
 

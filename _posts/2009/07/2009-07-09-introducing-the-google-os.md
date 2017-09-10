@@ -3,13 +3,11 @@ title: "Introducing the Google Chrome OS"
 date: 2009-07-09 04:08:56 +0000
 external-url: http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html
 hash: a9af04046d35c203856e1b4e137e1a9c
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/07/introducing-google-chrome-os.html
+year: 2009
+month: 07
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/07/introducing-google-chrome-os.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Safari JSON Formatter"
 date: 2012-04-02 22:54:41 +0000
 external-url: https://github.com/rfletcher/safari-json-formatter
 hash: 220ed02d7636f568773f278f67ebe7ff
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: https
-    host: github.com
-    path: /rfletcher/safari-json-formatter
+year: 2012
+month: 04
+scheme: https
+host: github.com
+path: /rfletcher/safari-json-formatter
 
 ---
 

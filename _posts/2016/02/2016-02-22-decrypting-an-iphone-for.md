@@ -3,13 +3,11 @@ title: "Decrypting an iPhone for the FBI - Schneier on Security"
 date: 2016-02-22 18:37:35 +0000
 external-url: https://www.schneier.com/blog/archives/2016/02/decrypting_an_i.html
 hash: 9a05d1d592b4f4cd21fa86457ee1dc5d
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.schneier.com
-    path: /blog/archives/2016/02/decrypting_an_i.html
+year: 2016
+month: 02
+scheme: https
+host: www.schneier.com
+path: /blog/archives/2016/02/decrypting_an_i.html
 
 ---
 

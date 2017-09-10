@@ -3,13 +3,11 @@ title: "Rusty Quarters - Retro Arcade & Museum"
 date: 2011-10-10 00:48:00 +0000
 external-url: http://www.rqarcade.com/
 hash: 4a6457a37bc8b866ed1eb137e1eebced
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.rqarcade.com
-    path: /
+year: 2011
+month: 10
+scheme: http
+host: www.rqarcade.com
+path: /
 
 ---
 

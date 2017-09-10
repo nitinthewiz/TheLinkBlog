@@ -3,13 +3,11 @@ title: "Queen Bee Honey Products"
 date: 2011-09-04 00:24:48 +0000
 external-url: http://queenbeehoney.com/
 hash: 12b1e699dc9ffbe93ca867788d3cf8ae
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: queenbeehoney.com
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: queenbeehoney.com
+path: /
 
 ---
 

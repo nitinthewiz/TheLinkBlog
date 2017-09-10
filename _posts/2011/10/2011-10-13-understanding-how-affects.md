@@ -3,13 +3,11 @@ title: "Understanding How Dilution Affects You At A Startup"
 date: 2011-10-13 18:38:04 +0000
 external-url: http://techcrunch.com/2011/10/13/understanding-how-dilution-affects-you-at-a-startup/
 hash: 65eee74c524a2353fa5b6a7b534714b7
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2011/10/13/understanding-how-dilution-affects-you-at-a-startup/
+year: 2011
+month: 10
+scheme: http
+host: techcrunch.com
+path: /2011/10/13/understanding-how-dilution-affects-you-at-a-startup/
 
 ---
 

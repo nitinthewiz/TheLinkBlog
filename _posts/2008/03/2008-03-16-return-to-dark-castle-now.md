@@ -3,13 +3,11 @@ title: "Return to Dark Castle now available for Apple Mac"
 date: 2008-03-16 18:12:01 +0000
 external-url: http://www.macdailynews.com/index.php/weblog/comments/return_to_dark_castle_now_available_for_apple_mac/
 hash: b3c7c9bebd9378852e33305e626eca59
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.macdailynews.com
-    path: /index.php/weblog/comments/return_to_dark_castle_now_available_for_apple_mac/
+year: 2008
+month: 03
+scheme: http
+host: www.macdailynews.com
+path: /index.php/weblog/comments/return_to_dark_castle_now_available_for_apple_mac/
 
 ---
 

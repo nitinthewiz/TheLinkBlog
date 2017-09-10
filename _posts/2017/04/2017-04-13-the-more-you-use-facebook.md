@@ -3,13 +3,11 @@ title: "The More You Use Facebook, the Worse You Feel"
 date: 2017-04-13 01:04:22 +0000
 external-url: https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
 hash: e1792dbd01a2ce7ffb18a481dbbbcd64
-annum:
-    year: 2017
-    month: 04
-url-parts:
-    scheme: https
-    host: hbr.org
-    path: /2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
+year: 2017
+month: 04
+scheme: https
+host: hbr.org
+path: /2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
 
 ---
 

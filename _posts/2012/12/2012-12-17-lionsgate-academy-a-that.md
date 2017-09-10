@@ -3,13 +3,11 @@ title: "Lionsgate Academy - A public charter school that serves students living 
 date: 2012-12-17 01:58:26 +0000
 external-url: http://www.lionsgateacademy.org/
 hash: 542140bd55cbcefc38abb07912e1f54b
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.lionsgateacademy.org
-    path: /
+year: 2012
+month: 12
+scheme: http
+host: www.lionsgateacademy.org
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Why I like DST"
 date: 2013-03-11 17:16:30 +0000
 external-url: http://www.leancrew.com/all-this/2013/03/why-i-like-dst/
 hash: 47942eaef5c1d3f50e11250fa88d9e85
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.leancrew.com
-    path: /all-this/2013/03/why-i-like-dst/
+year: 2013
+month: 03
+scheme: http
+host: www.leancrew.com
+path: /all-this/2013/03/why-i-like-dst/
 
 ---
 

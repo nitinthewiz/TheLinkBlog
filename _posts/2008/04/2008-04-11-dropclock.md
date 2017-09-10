@@ -3,13 +3,11 @@ title: "DROPCLOCK"
 date: 2008-04-11 15:33:04 +0000
 external-url: http://scr.sc/products/dropclock/
 hash: edd3b4d03aeb585e8ea739680527cfea
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: scr.sc
-    path: /products/dropclock/
+year: 2008
+month: 04
+scheme: http
+host: scr.sc
+path: /products/dropclock/
 
 ---
 

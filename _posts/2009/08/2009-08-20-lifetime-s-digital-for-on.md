@@ -3,13 +3,11 @@ title: "Lifetime's Digital Strategy For Project Runway Includes Streaming On Dem
 date: 2009-08-20 04:36:17 +0000
 external-url: http://m.paidcontent.org/article/419-lifetimes-digital-strategy-for-project-runway-includes-streaming-on-dem/
 hash: d2d6d6376541ac3868efe530dc77fb16
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-lifetimes-digital-strategy-for-project-runway-includes-streaming-on-dem/
+year: 2009
+month: 08
+scheme: http
+host: m.paidcontent.org
+path: /article/419-lifetimes-digital-strategy-for-project-runway-includes-streaming-on-dem/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Office 2010 Screenshots Preview What's to Come [Beta Beat]"
 date: 2009-05-01 04:16:01 +0000
 external-url: http://lifehacker.com/5231478/office-2010-screenshots-preview-whats-to-come
 hash: bc1aefefee5dcd2a4a5efcd46edf7f0c
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5231478/office-2010-screenshots-preview-whats-to-come
+year: 2009
+month: 05
+scheme: http
+host: lifehacker.com
+path: /5231478/office-2010-screenshots-preview-whats-to-come
 
 ---
 

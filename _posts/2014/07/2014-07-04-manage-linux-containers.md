@@ -3,13 +3,11 @@ title: "Manage Linux Containers with Docker on Ubuntu - HowtoForge"
 date: 2014-07-04 12:43:26 +0000
 external-url: http://www.howtoforge.com/manage-linux-containers-with-docker-on-ubuntu
 hash: 4543558cd564717c3c8e5b1edcc373e8
-annum:
-    year: 2014
-    month: 07
-url-parts:
-    scheme: http
-    host: www.howtoforge.com
-    path: /manage-linux-containers-with-docker-on-ubuntu
+year: 2014
+month: 07
+scheme: http
+host: www.howtoforge.com
+path: /manage-linux-containers-with-docker-on-ubuntu
 
 ---
 

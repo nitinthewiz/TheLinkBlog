@@ -3,13 +3,11 @@ title: "Better Image Management With WordPress"
 date: 2011-05-29 10:47:29 +0000
 external-url: http://www.smashingmagazine.com/2011/05/26/better-image-management-practices-with-wordpress/
 hash: 9174cac2b7c588774d525362da984831
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.smashingmagazine.com
-    path: /2011/05/26/better-image-management-practices-with-wordpress/
+year: 2011
+month: 05
+scheme: http
+host: www.smashingmagazine.com
+path: /2011/05/26/better-image-management-practices-with-wordpress/
 
 ---
 

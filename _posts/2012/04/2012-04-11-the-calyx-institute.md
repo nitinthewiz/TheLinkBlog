@@ -3,13 +3,11 @@ title: "The Calyx Institute"
 date: 2012-04-11 15:30:27 +0000
 external-url: https://www.calyxinstitute.org/
 hash: 2baf6447a0c59a3a21a725f8e237359c
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: https
-    host: www.calyxinstitute.org
-    path: /
+year: 2012
+month: 04
+scheme: https
+host: www.calyxinstitute.org
+path: /
 
 ---
 

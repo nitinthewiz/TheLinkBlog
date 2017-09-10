@@ -3,13 +3,11 @@ title: "SmartGo Blog • SmartOthello Postmortem"
 date: 2017-06-29 17:55:09 +0000
 external-url: https://smartgo.com/blog/smartothello-postmortem.html
 hash: 6aa8bc9346a89fca479d2a1b670d1430
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: smartgo.com
-    path: /blog/smartothello-postmortem.html
+year: 2017
+month: 06
+scheme: https
+host: smartgo.com
+path: /blog/smartothello-postmortem.html
 
 ---
 

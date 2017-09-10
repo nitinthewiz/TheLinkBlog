@@ -3,13 +3,11 @@ title: "Apple's Bluetooth headset gets the axe"
 date: 2009-03-24 04:54:17 +0000
 external-url: http://www.tuaw.com/2009/03/23/apples-bluetooth-headset-gets-the-axe/
 hash: 4ec32b55c829121c3aee693bd145442f
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/03/23/apples-bluetooth-headset-gets-the-axe/
+year: 2009
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2009/03/23/apples-bluetooth-headset-gets-the-axe/
 
 ---
 

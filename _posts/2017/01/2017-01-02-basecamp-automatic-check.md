@@ -3,13 +3,11 @@ title: "Basecamp: Automatic Check-ins: Stay in the know"
 date: 2017-01-02 03:26:17 +0000
 external-url: https://basecamp.com/3/checkins
 hash: 6e81374b2ec168c3a81f0919504e9a7a
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: basecamp.com
-    path: /3/checkins
+year: 2017
+month: 01
+scheme: https
+host: basecamp.com
+path: /3/checkins
 
 ---
 

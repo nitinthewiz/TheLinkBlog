@@ -3,13 +3,11 @@ title: "CaringBridge Russ Scheffler Welcome"
 date: 2012-01-14 04:12:18 +0000
 external-url: http://www.caringbridge.org/visit/%2A
 hash: de61062f1f7a1472a91c37535589a3f5
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.caringbridge.org
-    path: /visit/%2A
+year: 2012
+month: 01
+scheme: http
+host: www.caringbridge.org
+path: /visit/%2A
 
 ---
 

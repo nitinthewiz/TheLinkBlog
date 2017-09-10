@@ -3,13 +3,11 @@ title: "The Privacy Startups: Creating A Company In Four Hours"
 date: 2011-06-17 05:19:06 +0000
 external-url: http://gigaom.com/2011/06/16/419-the-privacy-startups-creating-a-company-in-four-hours/
 hash: 684adfe2869dbc7c80a971abb3a89885
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2011/06/16/419-the-privacy-startups-creating-a-company-in-four-hours/
+year: 2011
+month: 06
+scheme: http
+host: gigaom.com
+path: /2011/06/16/419-the-privacy-startups-creating-a-company-in-four-hours/
 
 ---
 

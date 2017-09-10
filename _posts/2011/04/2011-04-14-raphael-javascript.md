@@ -3,13 +3,11 @@ title: "Raphaël—JavaScript Library"
 date: 2011-04-14 15:06:33 +0000
 external-url: http://raphaeljs.com/
 hash: 774ed2b4bc58b9e8d309df41ddca160d
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: raphaeljs.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: raphaeljs.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Commodore 64 Emulator for iPhone Approved by Apple"
 date: 2009-09-07 18:36:37 +0000
 external-url: http://copenhagencocoa.com/2009/09/06/interview-with-c64-designer/
 hash: 3d6eaaf1755ed9275da3d513bc9dc60e
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: copenhagencocoa.com
-    path: /2009/09/06/interview-with-c64-designer/
+year: 2009
+month: 09
+scheme: http
+host: copenhagencocoa.com
+path: /2009/09/06/interview-with-c64-designer/
 
 ---
 

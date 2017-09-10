@@ -3,13 +3,11 @@ title: "LinkedIn's iOS App Transmits Calendar Notes and More In Plain Text"
 date: 2012-06-06 16:11:28 +0000
 external-url: http://thenextweb.com/insider/2012/06/06/linkedins-ios-app-collects-and-sends-names-emails-and-meeting-notes-from-your-calendar-back-in-plain-text/
 hash: 50b05c22d169007c6c19309d7f8a7afd
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: thenextweb.com
-    path: /insider/2012/06/06/linkedins-ios-app-collects-and-sends-names-emails-and-meeting-notes-from-your-calendar-back-in-plain-text/
+year: 2012
+month: 06
+scheme: http
+host: thenextweb.com
+path: /insider/2012/06/06/linkedins-ios-app-collects-and-sends-names-emails-and-meeting-notes-from-your-calendar-back-in-plain-text/
 
 ---
 

@@ -3,13 +3,11 @@ title: "PhatMac - PhatNoise DMS manager for OS X"
 date: 2007-04-30 04:20:17 +0000
 external-url: http://www.buzzneon.com/PhatMac/
 hash: f20a470541f5f098daadd5995f7443ec
-annum:
-    year: 2007
-    month: 04
-url-parts:
-    scheme: http
-    host: www.buzzneon.com
-    path: /PhatMac/
+year: 2007
+month: 04
+scheme: http
+host: www.buzzneon.com
+path: /PhatMac/
 
 ---
 

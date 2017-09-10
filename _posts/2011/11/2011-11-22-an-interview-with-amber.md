@@ -3,13 +3,11 @@ title: "An interview with Amber Case"
 date: 2011-11-22 15:44:36 +0000
 external-url: http://amber.case.usesthis.com/
 hash: 1bda21a798e387183d8e3aa3b864fee5
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: amber.case.usesthis.com
-    path: /
+year: 2011
+month: 11
+scheme: http
+host: amber.case.usesthis.com
+path: /
 
 ---
 

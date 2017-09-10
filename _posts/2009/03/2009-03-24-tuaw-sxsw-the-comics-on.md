@@ -3,13 +3,11 @@ title: "TUAW @SXSW: The comics on handhelds panel"
 date: 2009-03-24 04:50:00 +0000
 external-url: http://www.tuaw.com/2009/03/23/tuaw-sxsw-the-comics-on-handhelds-panel/
 hash: 8f6f30fe4dc26e356bd7f024a90ca264
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/03/23/tuaw-sxsw-the-comics-on-handhelds-panel/
+year: 2009
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2009/03/23/tuaw-sxsw-the-comics-on-handhelds-panel/
 
 ---
 

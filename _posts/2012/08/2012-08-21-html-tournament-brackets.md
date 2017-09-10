@@ -3,13 +3,11 @@ title: "HTML Tournament Brackets"
 date: 2012-08-21 03:59:06 +0000
 external-url: http://www.jimyi.com/blog/2009/04/09/html-tournament-brackets/
 hash: 877a34ffc9ffbd897a7a2af02df6b706
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.jimyi.com
-    path: /blog/2009/04/09/html-tournament-brackets/
+year: 2012
+month: 08
+scheme: http
+host: www.jimyi.com
+path: /blog/2009/04/09/html-tournament-brackets/
 
 ---
 

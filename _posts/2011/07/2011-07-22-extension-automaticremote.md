@@ -3,13 +3,11 @@ title: "Extension:AutomaticREMOTE USER - MediaWiki"
 date: 2011-07-22 13:30:21 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:AutomaticREMOTE_USER
 hash: b4341f7018865475222ee3896b7b9ef1
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:AutomaticREMOTE_USER
+year: 2011
+month: 07
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:AutomaticREMOTE_USER
 
 ---
 

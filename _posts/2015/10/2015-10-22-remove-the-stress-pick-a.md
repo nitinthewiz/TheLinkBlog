@@ -3,13 +3,11 @@ title: "Remove the stress, pick a deadline"
 date: 2015-10-22 09:07:15 +0000
 external-url: https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline
 hash: cef001115b80cb0c0e2c926e1d74faee
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/3963-remove-the-stress-pick-a-deadline
+year: 2015
+month: 10
+scheme: https
+host: signalvnoise.com
+path: /posts/3963-remove-the-stress-pick-a-deadline
 
 ---
 

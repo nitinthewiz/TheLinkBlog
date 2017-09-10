@@ -3,13 +3,11 @@ title: "Short documentary on The Sartorialist"
 date: 2011-01-07 15:17:26 +0000
 external-url: http://kottke.org/11/01/short-documentary-on-the-sartorialist
 hash: 2b6df8f7136ee39abdccbf100afe610d
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /11/01/short-documentary-on-the-sartorialist
+year: 2011
+month: 01
+scheme: http
+host: kottke.org
+path: /11/01/short-documentary-on-the-sartorialist
 
 ---
 

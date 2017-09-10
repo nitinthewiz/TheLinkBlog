@@ -3,13 +3,11 @@ title: "Early 2010 Mac Pros to have Intel Core i9 processors with 24 logical cor
 date: 2009-11-29 05:17:14 +0000
 external-url: http://9to5mac.com/2009/11/28/early-2010-mac-pros-to-have-intel-core-i9-processors-with-24-logical-cores/
 hash: 72042d7f1f6713e4558f919802f706ad
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2009/11/28/early-2010-mac-pros-to-have-intel-core-i9-processors-with-24-logical-cores/
+year: 2009
+month: 11
+scheme: http
+host: 9to5mac.com
+path: /2009/11/28/early-2010-mac-pros-to-have-intel-core-i9-processors-with-24-logical-cores/
 
 ---
 

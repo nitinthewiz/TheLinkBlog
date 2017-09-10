@@ -3,13 +3,11 @@ title: "Mint Makes Money Saving Into a Game (And We've Got Invites) [Personal Fi
 date: 2009-05-01 04:14:21 +0000
 external-url: http://lifehacker.com/5233996/mint-makes-money-saving-into-a-game-and-weve-got-invites
 hash: d1a7ef1c0b6722560220e7a1b504f537
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5233996/mint-makes-money-saving-into-a-game-and-weve-got-invites
+year: 2009
+month: 05
+scheme: http
+host: lifehacker.com
+path: /5233996/mint-makes-money-saving-into-a-game-and-weve-got-invites
 
 ---
 

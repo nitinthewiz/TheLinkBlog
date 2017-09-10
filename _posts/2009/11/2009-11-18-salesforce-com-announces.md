@@ -3,13 +3,11 @@ title: "Salesforce.com announces Chatter, another social network for companies"
 date: 2009-11-18 18:10:48 +0000
 external-url: http://venturebeat.com
 hash: 664c74ae6e1465b9b915a3b46a95c952
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: 
+year: 2009
+month: 11
+scheme: http
+host: venturebeat.com
+path: 
 
 ---
 

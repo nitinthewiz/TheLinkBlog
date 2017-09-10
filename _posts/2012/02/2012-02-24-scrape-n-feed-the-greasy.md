@@ -3,13 +3,11 @@ title: "Scrape 'N' Feed: The Greasy Tag"
 date: 2012-02-24 20:13:10 +0000
 external-url: http://www.crummy.com/software/ScrapeNFeed/
 hash: 36e6d85a032226ee8638f011f68d432c
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.crummy.com
-    path: /software/ScrapeNFeed/
+year: 2012
+month: 02
+scheme: http
+host: www.crummy.com
+path: /software/ScrapeNFeed/
 
 ---
 

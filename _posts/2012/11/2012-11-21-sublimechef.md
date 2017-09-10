@@ -3,13 +3,11 @@ title: "SublimeChef"
 date: 2012-11-21 15:51:32 +0000
 external-url: https://github.com/cabeca/SublimeChef
 hash: e67ed124f887742d265091107c3e6f88
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: github.com
-    path: /cabeca/SublimeChef
+year: 2012
+month: 11
+scheme: https
+host: github.com
+path: /cabeca/SublimeChef
 
 ---
 

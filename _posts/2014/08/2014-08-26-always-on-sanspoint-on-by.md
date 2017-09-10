@@ -3,13 +3,11 @@ title: "Always On - Sanspoint. - Essays on Technology and Culture by Richard J. 
 date: 2014-08-26 20:19:44 +0000
 external-url: http://www.sanspoint.com/archives/2014/08/26/always-on/
 hash: ae9ba9672186a4cc6ba4313733892e2c
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: www.sanspoint.com
-    path: /archives/2014/08/26/always-on/
+year: 2014
+month: 08
+scheme: http
+host: www.sanspoint.com
+path: /archives/2014/08/26/always-on/
 
 ---
 

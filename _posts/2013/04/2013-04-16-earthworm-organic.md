@@ -3,13 +3,11 @@ title: "Earthworm Organic Lawncare"
 date: 2013-04-16 13:25:16 +0000
 external-url: http://earthwormlawncare.com/
 hash: 8544dd8636ecccbac9c841a2b7bb7b57
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: earthwormlawncare.com
-    path: /
+year: 2013
+month: 04
+scheme: http
+host: earthwormlawncare.com
+path: /
 
 ---
 

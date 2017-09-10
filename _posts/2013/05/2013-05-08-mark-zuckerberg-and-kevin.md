@@ -3,13 +3,11 @@ title: "Mark Zuckerberg and Kevin Systrom on What Really Happened When Facebook 
 date: 2013-05-08 20:03:32 +0000
 external-url: http://www.vanityfair.com/business/2013/06/kara-swisher-instagram
 hash: 4dd47ade39b7153e9938cb3a8756e998
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: www.vanityfair.com
-    path: /business/2013/06/kara-swisher-instagram
+year: 2013
+month: 05
+scheme: http
+host: www.vanityfair.com
+path: /business/2013/06/kara-swisher-instagram
 
 ---
 

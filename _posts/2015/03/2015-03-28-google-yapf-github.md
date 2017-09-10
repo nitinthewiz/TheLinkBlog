@@ -3,13 +3,11 @@ title: "google/yapf · GitHub"
 date: 2015-03-28 10:20:57 +0000
 external-url: https://github.com/google/yapf
 hash: 191b9f66524e5e5b70035a0c7d9bf657
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: https
-    host: github.com
-    path: /google/yapf
+year: 2015
+month: 03
+scheme: https
+host: github.com
+path: /google/yapf
 
 ---
 

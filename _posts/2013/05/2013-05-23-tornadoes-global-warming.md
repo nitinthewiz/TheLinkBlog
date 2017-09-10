@@ -3,13 +3,11 @@ title: "Tornadoes, Global Warming & Photographers"
 date: 2013-05-23 16:30:49 +0000
 external-url: http://laynekennedy.blogspot.com/2013/05/tornadoes-global-warming-photographers.html
 hash: be30fd89e46794eeeede2f10822a90c3
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: laynekennedy.blogspot.com
-    path: /2013/05/tornadoes-global-warming-photographers.html
+year: 2013
+month: 05
+scheme: http
+host: laynekennedy.blogspot.com
+path: /2013/05/tornadoes-global-warming-photographers.html
 
 ---
 

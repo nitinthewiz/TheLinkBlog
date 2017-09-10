@@ -3,13 +3,11 @@ title: "Open source DC/OS"
 date: 2016-04-19 09:53:11 +0000
 external-url: https://mesosphere.com/blog/2016/04/19/open-source-dcos/
 hash: 4c2441fbc77cc5b8ea13c24980dfd8de
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: mesosphere.com
-    path: /blog/2016/04/19/open-source-dcos/
+year: 2016
+month: 04
+scheme: https
+host: mesosphere.com
+path: /blog/2016/04/19/open-source-dcos/
 
 ---
 

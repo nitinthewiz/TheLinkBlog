@@ -3,13 +3,11 @@ title: "Getting serious about experimentation"
 date: 2012-05-31 20:34:24 +0000
 external-url: http://sethgodin.typepad.com/seths_blog/2012/05/getting-serious-about-experimentation.html
 hash: a481a3db31d945e084dca7277293c2d0
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: sethgodin.typepad.com
-    path: /seths_blog/2012/05/getting-serious-about-experimentation.html
+year: 2012
+month: 05
+scheme: http
+host: sethgodin.typepad.com
+path: /seths_blog/2012/05/getting-serious-about-experimentation.html
 
 ---
 

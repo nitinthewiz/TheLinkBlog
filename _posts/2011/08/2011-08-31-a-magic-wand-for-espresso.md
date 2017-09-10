@@ -3,13 +3,11 @@ title: "A Magic Wand for Espresso"
 date: 2011-08-31 20:54:38 +0000
 external-url: http://topics.blogs.nytimes.com/2009/04/30/a-magic-wand-for-espresso/
 hash: 45c1030239d24b5b459e2f553543719f
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: topics.blogs.nytimes.com
-    path: /2009/04/30/a-magic-wand-for-espresso/
+year: 2011
+month: 08
+scheme: http
+host: topics.blogs.nytimes.com
+path: /2009/04/30/a-magic-wand-for-espresso/
 
 ---
 

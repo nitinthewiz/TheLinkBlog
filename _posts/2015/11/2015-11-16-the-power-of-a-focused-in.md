@@ -3,13 +3,11 @@ title: "The Power of a Focused Life — Living without regret in the Age of Dist
 date: 2015-11-16 02:13:34 +0000
 external-url: https://thefocuscourse.com/
 hash: 29f6b6a4067a02a7000f9a8716bcdc09
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: thefocuscourse.com
-    path: /
+year: 2015
+month: 11
+scheme: https
+host: thefocuscourse.com
+path: /
 
 ---
 

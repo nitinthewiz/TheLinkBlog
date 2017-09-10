@@ -3,13 +3,11 @@ title: "News Corp.-Yahoo Discussion Go On. And On."
 date: 2008-02-21 10:56:18 +0000
 external-url: http://techcrunch.com/2008/02/21/news-corp-yahoo-discussion-continue/
 hash: 563c5a203549b83774a3172d10013159
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/02/21/news-corp-yahoo-discussion-continue/
+year: 2008
+month: 02
+scheme: http
+host: techcrunch.com
+path: /2008/02/21/news-corp-yahoo-discussion-continue/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Sublime Tutor - An interactive in-editor keyboard shortcuts tutorial for
 date: 2017-01-18 17:47:18 +0000
 external-url: https://sublimetutor.com/
 hash: 2bfa65cc484ad92bb9736449cad851c2
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: sublimetutor.com
-    path: /
+year: 2017
+month: 01
+scheme: https
+host: sublimetutor.com
+path: /
 
 ---
 

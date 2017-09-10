@@ -3,13 +3,11 @@ title: "Schneier on Security: Heartbleed"
 date: 2014-04-09 23:02:53 +0000
 external-url: https://www.schneier.com/blog/archives/2014/04/heartbleed.html
 hash: 626e625c33938b30f4f70ea772164e76
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: https
-    host: www.schneier.com
-    path: /blog/archives/2014/04/heartbleed.html
+year: 2014
+month: 04
+scheme: https
+host: www.schneier.com
+path: /blog/archives/2014/04/heartbleed.html
 
 ---
 

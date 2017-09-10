@@ -3,13 +3,11 @@ title: "LaTeX Wikibook"
 date: 2012-04-12 04:00:48 +0000
 external-url: http://en.wikibooks.org/wiki/LaTeX
 hash: ae660d4c1ae73dac41c91422eceffe78
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: en.wikibooks.org
-    path: /wiki/LaTeX
+year: 2012
+month: 04
+scheme: http
+host: en.wikibooks.org
+path: /wiki/LaTeX
 
 ---
 

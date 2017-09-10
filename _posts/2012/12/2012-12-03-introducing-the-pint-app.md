@@ -3,13 +3,11 @@ title: "Introducing the \"Pint Tryst\" App for Beer Connoisseurs - The Minneapol
 date: 2012-12-03 19:28:51 +0000
 external-url: http://www.themplsegotist.com/news/local/2012/december/3/introducing-pint-tryst-app-beer-connoisseurs
 hash: a5058274050f7796f1a3f58bfbbe56b5
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.themplsegotist.com
-    path: /news/local/2012/december/3/introducing-pint-tryst-app-beer-connoisseurs
+year: 2012
+month: 12
+scheme: http
+host: www.themplsegotist.com
+path: /news/local/2012/december/3/introducing-pint-tryst-app-beer-connoisseurs
 
 ---
 

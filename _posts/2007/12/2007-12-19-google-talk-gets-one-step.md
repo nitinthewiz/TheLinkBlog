@@ -3,13 +3,11 @@ title: "Google Talk Gets One Step Closer To The Ultimate Babel Fish"
 date: 2007-12-19 12:54:44 +0000
 external-url: http://techcrunch.com/2007/12/19/google-talk-gets-one-step-closer-to-the-ultimate-babel-fish/
 hash: 3dd319707a1905b70779c884cd781ef0
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/19/google-talk-gets-one-step-closer-to-the-ultimate-babel-fish/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/19/google-talk-gets-one-step-closer-to-the-ultimate-babel-fish/
 
 ---
 

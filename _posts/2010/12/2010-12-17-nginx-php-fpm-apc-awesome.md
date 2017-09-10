@@ -3,13 +3,11 @@ title: "NGINX + PHP-FPM + APC = Awesome"
 date: 2010-12-17 16:14:06 +0000
 external-url: http://interfacelab.com/nginx-php-fpm-apc-awesome/
 hash: 7ecd5126796b302a953af3826811dced
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: interfacelab.com
-    path: /nginx-php-fpm-apc-awesome/
+year: 2010
+month: 12
+scheme: http
+host: interfacelab.com
+path: /nginx-php-fpm-apc-awesome/
 
 ---
 

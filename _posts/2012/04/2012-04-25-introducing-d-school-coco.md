@@ -3,13 +3,11 @@ title: "Introducing d.school @ CoCo"
 date: 2012-04-25 19:28:37 +0000
 external-url: http://cocomsp.com/designthinking/
 hash: 66bea13c8cf24f43ee83ebbbaf0f8f60
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: cocomsp.com
-    path: /designthinking/
+year: 2012
+month: 04
+scheme: http
+host: cocomsp.com
+path: /designthinking/
 
 ---
 

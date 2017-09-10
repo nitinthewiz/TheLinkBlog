@@ -3,13 +3,11 @@ title: "Get more out of meetings with TextExpander"
 date: 2011-12-23 05:22:47 +0000
 external-url: http://simplicitybliss.com/post/15179345258/get-more-out-of-meetings-with-textexpander
 hash: 774b664823a4d1e846c75f8c2a30c768
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: simplicitybliss.com
-    path: /post/15179345258/get-more-out-of-meetings-with-textexpander
+year: 2011
+month: 12
+scheme: http
+host: simplicitybliss.com
+path: /post/15179345258/get-more-out-of-meetings-with-textexpander
 
 ---
 

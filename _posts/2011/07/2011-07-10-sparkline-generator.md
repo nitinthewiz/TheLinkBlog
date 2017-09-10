@@ -3,13 +3,11 @@ title: "Sparkline Generator"
 date: 2011-07-10 03:56:04 +0000
 external-url: http://sparklines.bitworking.info/#generator
 hash: 512a9f0bd1176f47cff333284bd17acd
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: sparklines.bitworking.info
-    path: /
+year: 2011
+month: 07
+scheme: http
+host: sparklines.bitworking.info
+path: /
 
 ---
 

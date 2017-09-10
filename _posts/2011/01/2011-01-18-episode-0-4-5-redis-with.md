@@ -3,13 +3,11 @@ title: "Episode 0.4.5 - Redis with Salvatore Sanfilippo"
 date: 2011-01-18 07:51:10 +0000
 external-url: http://thechangelog.com/episode-0-4-5-redis-with-salvatore-sanfilippo/
 hash: 1765aeb57e166e6ac0faa4afb214812d
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: thechangelog.com
-    path: /episode-0-4-5-redis-with-salvatore-sanfilippo/
+year: 2011
+month: 01
+scheme: http
+host: thechangelog.com
+path: /episode-0-4-5-redis-with-salvatore-sanfilippo/
 
 ---
 

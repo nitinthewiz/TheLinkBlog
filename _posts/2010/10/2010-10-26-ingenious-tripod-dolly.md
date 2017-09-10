@@ -3,13 +3,11 @@ title: "Ingenious Tripod Dolly Move Trick →"
 date: 2010-10-26 13:45:00 +0000
 external-url: http://photocinenews.com/2010/10/26/ingenious-tripod-trick-for-dolly-move/
 hash: a1308982c5b5d37827abeb2a13b10984
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: photocinenews.com
-    path: /2010/10/26/ingenious-tripod-trick-for-dolly-move/
+year: 2010
+month: 10
+scheme: http
+host: photocinenews.com
+path: /2010/10/26/ingenious-tripod-trick-for-dolly-move/
 
 ---
 

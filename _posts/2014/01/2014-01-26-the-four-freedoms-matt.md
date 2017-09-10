@@ -3,13 +3,11 @@ title: "The Four Freedoms | Matt Mullenweg"
 date: 2014-01-26 17:34:55 +0000
 external-url: http://ma.tt/2014/01/four-freedoms/
 hash: 45623f54746e1afd8ba1217eb4a5cd60
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2014/01/four-freedoms/
+year: 2014
+month: 01
+scheme: http
+host: ma.tt
+path: /2014/01/four-freedoms/
 
 ---
 

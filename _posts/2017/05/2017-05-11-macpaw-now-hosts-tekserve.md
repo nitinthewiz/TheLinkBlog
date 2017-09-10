@@ -3,13 +3,11 @@ title: "MacPaw now hosts Tekserve's Apple hardware museum"
 date: 2017-05-11 18:43:05 +0000
 external-url: https://www.appleworld.today/blog/2017/5/11/macpaw-now-hosts-tekserves-apple-hardware-museum
 hash: 546a8bbe41d6f7a779db4784e6851073
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: www.appleworld.today
-    path: /blog/2017/5/11/macpaw-now-hosts-tekserves-apple-hardware-museum
+year: 2017
+month: 05
+scheme: https
+host: www.appleworld.today
+path: /blog/2017/5/11/macpaw-now-hosts-tekserves-apple-hardware-museum
 
 ---
 

@@ -3,13 +3,11 @@ title: "Wikimedia Hackathon Amsterdam 2013"
 date: 2013-04-20 13:54:03 +0000
 external-url: http://www.mediawiki.org/wiki/Amsterdam_Hackathon_2013
 hash: 33a528de71e4fe3bf36c20d6fc91c3e6
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Amsterdam_Hackathon_2013
+year: 2013
+month: 04
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Amsterdam_Hackathon_2013
 
 ---
 

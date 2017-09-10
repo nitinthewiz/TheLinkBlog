@@ -3,13 +3,11 @@ title: "\"Frost/Nixon\" Review: \"Talky, Weighty... Constantly Engaging\""
 date: 2008-12-04 13:32:53 +0000
 external-url: http://www.huffingtonpost.com/2008/12/04/frostnixon-review-talky-w_n_148337.html
 hash: 3e90b7b58d773f6e733cbc368201d004
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.huffingtonpost.com
-    path: /2008/12/04/frostnixon-review-talky-w_n_148337.html
+year: 2008
+month: 12
+scheme: http
+host: www.huffingtonpost.com
+path: /2008/12/04/frostnixon-review-talky-w_n_148337.html
 
 ---
 

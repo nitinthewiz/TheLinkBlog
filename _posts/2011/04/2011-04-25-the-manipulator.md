@@ -3,13 +3,11 @@ title: "The Manipulator"
 date: 2011-04-25 23:42:17 +0000
 external-url: http://www.manipulator.com/
 hash: a06e21e6b4c71b890174d4a783058bbf
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.manipulator.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: www.manipulator.com
+path: /
 
 ---
 

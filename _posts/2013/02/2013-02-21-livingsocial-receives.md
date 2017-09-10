@@ -3,13 +3,11 @@ title: "LivingSocial Receives Emergency $110M Debt Infusion From Existing Invest
 date: 2013-02-21 17:27:55 +0000
 external-url: http://www.privco.com/livingsocial-receives-emergency-110m-cash-infusion-from-existing-investors-to-avoid-bankruptcy
 hash: 58d39abfe8491657bab3cc168c0278a0
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: www.privco.com
-    path: /livingsocial-receives-emergency-110m-cash-infusion-from-existing-investors-to-avoid-bankruptcy
+year: 2013
+month: 02
+scheme: http
+host: www.privco.com
+path: /livingsocial-receives-emergency-110m-cash-infusion-from-existing-investors-to-avoid-bankruptcy
 
 ---
 

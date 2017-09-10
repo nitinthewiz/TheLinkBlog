@@ -3,13 +3,11 @@ title: "Making it easier to create and manage Test Users"
 date: 2011-07-28 11:41:24 +0000
 external-url: https://developers.facebook.com/blog/post/527/
 hash: d1a1089b85ddd8f105e3a414f2b67785
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /blog/post/527/
+year: 2011
+month: 07
+scheme: https
+host: developers.facebook.com
+path: /blog/post/527/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Apple iPhone 6s and iPhone 6s Plus Review"
 date: 2015-11-09 02:32:21 +0000
 external-url: http://www.anandtech.com/show/9686/the-apple-iphone-6s-and-iphone-6s-plus-review
 hash: e25d1e86f625e8ce10fd8fa19e5c867a
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: www.anandtech.com
-    path: /show/9686/the-apple-iphone-6s-and-iphone-6s-plus-review
+year: 2015
+month: 11
+scheme: http
+host: www.anandtech.com
+path: /show/9686/the-apple-iphone-6s-and-iphone-6s-plus-review
 
 ---
 

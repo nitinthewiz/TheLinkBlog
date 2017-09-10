@@ -3,13 +3,11 @@ title: "Books Every Geek Should Read to Their Kids"
 date: 2012-04-28 17:36:20 +0000
 external-url: http://archive.wired.com/geekdad/2013/03/67-books-every-geek-should-read-to-their-kids-before-age-10/
 hash: 826c541122923497df07b323b30e8495
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: archive.wired.com
-    path: /geekdad/2013/03/67-books-every-geek-should-read-to-their-kids-before-age-10/
+year: 2012
+month: 04
+scheme: http
+host: archive.wired.com
+path: /geekdad/2013/03/67-books-every-geek-should-read-to-their-kids-before-age-10/
 
 ---
 

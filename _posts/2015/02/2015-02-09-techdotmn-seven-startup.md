@@ -3,13 +3,11 @@ title: "TECHdotMN Seven Startup Videos from MinneDemo 19 - TECHdotMN"
 date: 2015-02-09 02:54:50 +0000
 external-url: http://tech.mn/news/2015/02/06/seven-startup-videos-from-minnedemo-19/
 hash: 6f4b0f682635303f305ec04d58a793ce
-annum:
-    year: 2015
-    month: 02
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2015/02/06/seven-startup-videos-from-minnedemo-19/
+year: 2015
+month: 02
+scheme: http
+host: tech.mn
+path: /news/2015/02/06/seven-startup-videos-from-minnedemo-19/
 
 ---
 

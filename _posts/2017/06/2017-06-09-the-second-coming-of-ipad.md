@@ -3,13 +3,11 @@ title: "The Second Coming Of iPad"
 date: 2017-06-09 02:01:44 +0000
 external-url: https://www.buzzfeed.com/johnpaczkowski/the-second-coming-of-ipad#.kfmR7yNOR
 hash: 35bf04c363ec636f93a300c779d1cf13
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.buzzfeed.com
-    path: /johnpaczkowski/the-second-coming-of-ipad
+year: 2017
+month: 06
+scheme: https
+host: www.buzzfeed.com
+path: /johnpaczkowski/the-second-coming-of-ipad
 
 ---
 

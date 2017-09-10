@@ -3,13 +3,11 @@ title: "Research, no motion: How the BlackBerry CEOs lost an empire | The Verge"
 date: 2012-02-21 15:41:36 +0000
 external-url: http://www.theverge.com/2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire
 hash: 6768594867155231dd260f30faca987c
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.theverge.com
-    path: /2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire
+year: 2012
+month: 02
+scheme: http
+host: www.theverge.com
+path: /2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire
 
 ---
 

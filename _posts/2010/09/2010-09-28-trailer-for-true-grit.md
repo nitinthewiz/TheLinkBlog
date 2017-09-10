@@ -3,13 +3,11 @@ title: "Trailer for ‘True Grit’"
 date: 2010-09-28 00:06:16 +0000
 external-url: http://trailers.apple.com/trailers/paramount/truegrit/
 hash: e20236ddf725facb193e176b7c680062
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: trailers.apple.com
-    path: /trailers/paramount/truegrit/
+year: 2010
+month: 09
+scheme: http
+host: trailers.apple.com
+path: /trailers/paramount/truegrit/
 
 ---
 

@@ -3,13 +3,11 @@ title: "How to become a data scientist, part 2: try to solve the problem"
 date: 2017-06-15 15:49:14 +0000
 external-url: https://medium.com/@dfrankow/how-to-become-a-data-scientist-part-2-try-to-solve-the-problem-f9b9746f6eb9
 hash: 7f444bd3f41b27e38772a475a2aabdca
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@dfrankow/how-to-become-a-data-scientist-part-2-try-to-solve-the-problem-f9b9746f6eb9
+year: 2017
+month: 06
+scheme: https
+host: medium.com
+path: /@dfrankow/how-to-become-a-data-scientist-part-2-try-to-solve-the-problem-f9b9746f6eb9
 
 ---
 

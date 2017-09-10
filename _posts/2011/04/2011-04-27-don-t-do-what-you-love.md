@@ -3,13 +3,11 @@ title: "Don't Do What You Love"
 date: 2011-04-27 02:42:29 +0000
 external-url: http://blogs.hbr.org/2011/04/dont-do-what-you-love/
 hash: e24519cb15b24854224e2d2d110c71f0
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: blogs.hbr.org
-    path: /2011/04/dont-do-what-you-love/
+year: 2011
+month: 04
+scheme: http
+host: blogs.hbr.org
+path: /2011/04/dont-do-what-you-love/
 
 ---
 

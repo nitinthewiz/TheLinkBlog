@@ -3,13 +3,11 @@ title: "How-To: Implementing hideFlashCallback to support \"wmode=window\" - Fac
 date: 2012-01-26 17:40:26 +0000
 external-url: https://developers.facebook.com/blog/post/637/
 hash: f115ab1396e4abb1a4351b17a605d64b
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /blog/post/637/
+year: 2012
+month: 01
+scheme: https
+host: developers.facebook.com
+path: /blog/post/637/
 
 ---
 

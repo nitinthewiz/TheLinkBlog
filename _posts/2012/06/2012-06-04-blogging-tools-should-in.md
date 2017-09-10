@@ -3,13 +3,11 @@ title: "Blogging tools should archive in RSS"
 date: 2012-06-04 15:37:47 +0000
 external-url: http://scripting.com/stories/2012/06/03/bloggingToolsShouldArchive.html
 hash: 569b4ee5982632b93c80bf4c5e3c3a0a
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2012/06/03/bloggingToolsShouldArchive.html
+year: 2012
+month: 06
+scheme: http
+host: scripting.com
+path: /stories/2012/06/03/bloggingToolsShouldArchive.html
 
 ---
 

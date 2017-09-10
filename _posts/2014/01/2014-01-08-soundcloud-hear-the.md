@@ -3,13 +3,11 @@ title: "SoundCloud - Hear the world’s sounds"
 date: 2014-01-08 16:18:26 +0000
 external-url: http://soundcloud.com/otisgibbs/sets/thanks-for-giving-a-damn-with
 hash: 131aa21207d7b26689cff94bf4b699ad
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: soundcloud.com
-    path: /otisgibbs/sets/thanks-for-giving-a-damn-with
+year: 2014
+month: 01
+scheme: http
+host: soundcloud.com
+path: /otisgibbs/sets/thanks-for-giving-a-damn-with
 
 ---
 

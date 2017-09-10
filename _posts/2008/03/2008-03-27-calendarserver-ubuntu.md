@@ -3,13 +3,11 @@ title: "CalendarServer - Ubuntu Wiki"
 date: 2008-03-27 16:07:49 +0000
 external-url: https://wiki.ubuntu.com/CalendarServer
 hash: f52ab629c6e9f519baaa8a25e5e1c98f
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: https
-    host: wiki.ubuntu.com
-    path: /CalendarServer
+year: 2008
+month: 03
+scheme: https
+host: wiki.ubuntu.com
+path: /CalendarServer
 
 ---
 

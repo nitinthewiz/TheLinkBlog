@@ -3,13 +3,11 @@ title: "Why So Few Women Break Through Tech's Bro Culture - Bloomberg"
 date: 2017-06-20 21:07:00 +0000
 external-url: https://www.bloomberg.com/news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a
 hash: da65da850653f8c247925a64c9734909
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.bloomberg.com
-    path: /news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a
+year: 2017
+month: 06
+scheme: https
+host: www.bloomberg.com
+path: /news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a
 
 ---
 

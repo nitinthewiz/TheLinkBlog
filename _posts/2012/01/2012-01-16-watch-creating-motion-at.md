@@ -3,13 +3,11 @@ title: "Watch Creating Motion Video at Ultimate PhotoGuide"
 date: 2012-01-16 22:57:23 +0000
 external-url: http://www.ultimatephotoguide.com/
 hash: d9a77691cfb3ae8eb6b95239ced0dbdc
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.ultimatephotoguide.com
-    path: /
+year: 2012
+month: 01
+scheme: http
+host: www.ultimatephotoguide.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Within the Frame"
 date: 2009-09-30 05:03:28 +0000
 external-url: http://www.nickpotter.net/archive/2009/09/within-the-frame
 hash: b3184b3819f94acbf3aeffd1c2a73642
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: www.nickpotter.net
-    path: /archive/2009/09/within-the-frame
+year: 2009
+month: 09
+scheme: http
+host: www.nickpotter.net
+path: /archive/2009/09/within-the-frame
 
 ---
 

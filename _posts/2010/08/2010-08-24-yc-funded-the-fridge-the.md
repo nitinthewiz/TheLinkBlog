@@ -3,13 +3,11 @@ title: "YC-Funded The Fridge Takes The Privacy Headaches Out Of Sharing With Fri
 date: 2010-08-24 02:59:32 +0000
 external-url: http://techcrunch.com/2010/08/23/the-fridge-facebook-sharing/
 hash: a9e3587018d8cd64a4e35e1ced99a4f8
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2010/08/23/the-fridge-facebook-sharing/
+year: 2010
+month: 08
+scheme: http
+host: techcrunch.com
+path: /2010/08/23/the-fridge-facebook-sharing/
 
 ---
 

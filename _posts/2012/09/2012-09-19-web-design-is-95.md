@@ -3,13 +3,11 @@ title: "Web Design is 95% Typography - Information Architects"
 date: 2012-09-19 15:25:53 +0000
 external-url: http://ia.net/blog/the-web-is-all-about-typography-period/
 hash: 6dd2b8ee61f386dd12243ce2ac8b1f0e
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: ia.net
-    path: /blog/the-web-is-all-about-typography-period/
+year: 2012
+month: 09
+scheme: http
+host: ia.net
+path: /blog/the-web-is-all-about-typography-period/
 
 ---
 

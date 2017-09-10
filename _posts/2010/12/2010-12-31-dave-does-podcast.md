@@ -3,13 +3,11 @@ title: "Dave Does Podcast!"
 date: 2010-12-31 15:26:04 +0000
 external-url: http://scripting.com/stories/2010/12/31/daveDoesPodcast.html
 hash: 668af6d5a648c06b438296430945c7d9
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/12/31/daveDoesPodcast.html
+year: 2010
+month: 12
+scheme: http
+host: scripting.com
+path: /stories/2010/12/31/daveDoesPodcast.html
 
 ---
 

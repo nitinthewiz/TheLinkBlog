@@ -3,13 +3,11 @@ title: "Survey: Percentage of users saying they opt out of targeted ads has near
 date: 2012-07-16 16:08:49 +0000
 external-url: https://gigaom.com/2012/07/16/percentage-of-users-saying-they-opt-out-of-targeted-ads-has-nearly-doubled-survey/
 hash: 22c6fdcfd963ac17d0e54849c0865889
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2012/07/16/percentage-of-users-saying-they-opt-out-of-targeted-ads-has-nearly-doubled-survey/
+year: 2012
+month: 07
+scheme: https
+host: gigaom.com
+path: /2012/07/16/percentage-of-users-saying-they-opt-out-of-targeted-ads-has-nearly-doubled-survey/
 
 ---
 

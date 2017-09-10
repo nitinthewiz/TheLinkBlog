@@ -3,13 +3,11 @@ title: "Photo Safari Favorites"
 date: 2011-10-10 04:03:00 +0000
 external-url: http://www.lundeenscene.com/2011/10/photo-safari-favorites.html
 hash: 0d2976b5491e47a221cfe4bfd4fae74a
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.lundeenscene.com
-    path: /2011/10/photo-safari-favorites.html
+year: 2011
+month: 10
+scheme: http
+host: www.lundeenscene.com
+path: /2011/10/photo-safari-favorites.html
 
 ---
 

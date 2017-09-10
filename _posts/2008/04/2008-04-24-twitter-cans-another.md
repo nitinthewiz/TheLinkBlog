@@ -3,13 +3,11 @@ title: "Twitter cans another engineer"
 date: 2008-04-24 16:40:00 +0000
 external-url: http://gawker.com/383525/twitter-cans-another-engineer
 hash: 8e9ab1b0e7a76dde80a28b299598d1af
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: gawker.com
-    path: /383525/twitter-cans-another-engineer
+year: 2008
+month: 04
+scheme: http
+host: gawker.com
+path: /383525/twitter-cans-another-engineer
 
 ---
 

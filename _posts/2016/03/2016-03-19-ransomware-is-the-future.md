@@ -3,13 +3,11 @@ title: "Ransomware is the future."
 date: 2016-03-19 11:08:18 +0000
 external-url: https://bluesoul.me/2016/03/18/ransomware-is-the-future/
 hash: e9840deb75ca69485e24e902ffea2506
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: bluesoul.me
-    path: /2016/03/18/ransomware-is-the-future/
+year: 2016
+month: 03
+scheme: https
+host: bluesoul.me
+path: /2016/03/18/ransomware-is-the-future/
 
 ---
 

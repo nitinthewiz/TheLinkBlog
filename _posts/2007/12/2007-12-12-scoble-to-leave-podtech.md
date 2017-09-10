@@ -3,13 +3,11 @@ title: "Scoble To Leave PodTech, Heading For Fast Company"
 date: 2007-12-12 14:07:35 +0000
 external-url: http://techcrunch.com/2007/12/12/scoble-to-leave-podtech-heading-for-fast-company/
 hash: 413fac92ce7821fefc9371ac2cfd5c48
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/12/scoble-to-leave-podtech-heading-for-fast-company/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/12/scoble-to-leave-podtech-heading-for-fast-company/
 
 ---
 

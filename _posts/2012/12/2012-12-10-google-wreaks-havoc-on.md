@@ -3,13 +3,11 @@ title: "Google wreaks havoc on our companys calendars: lost data and security br
 date: 2012-12-10 13:28:37 +0000
 external-url: http://www.elezea.com/2012/12/google-calendar-lost-data-security-breach/
 hash: 953473f3c57d89cc1d7338d0beb68d51
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.elezea.com
-    path: /2012/12/google-calendar-lost-data-security-breach/
+year: 2012
+month: 12
+scheme: http
+host: www.elezea.com
+path: /2012/12/google-calendar-lost-data-security-breach/
 
 ---
 

@@ -3,13 +3,11 @@ title: "BackusNaur Form"
 date: 2012-03-01 03:56:36 +0000
 external-url: http://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
 hash: 54f02430fe7af8b0371d6968485e0e06
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Backus%E2%80%93Naur_Form
+year: 2012
+month: 03
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Backus%E2%80%93Naur_Form
 
 ---
 

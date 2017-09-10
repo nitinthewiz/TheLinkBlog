@@ -3,13 +3,11 @@ title: "The 2007 Road Trip Map"
 date: 2009-05-18 20:54:21 +0000
 external-url: http://duncandavidson.com/2009/05/the-2007-road-trip-map.html
 hash: a6df9024b3e5666841f8d0d9aa3f1b60
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /2009/05/the-2007-road-trip-map.html
+year: 2009
+month: 05
+scheme: http
+host: duncandavidson.com
+path: /2009/05/the-2007-road-trip-map.html
 
 ---
 

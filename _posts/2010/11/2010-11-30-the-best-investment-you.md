@@ -3,13 +3,11 @@ title: "The best investment advice you'll never get"
 date: 2010-11-30 14:27:10 +0000
 external-url: http://www.modernluxury.com/san-francisco/story/the-best-investment-advice-youll-never-get
 hash: a67a66e580f753af415fada473fc1c0e
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.modernluxury.com
-    path: /san-francisco/story/the-best-investment-advice-youll-never-get
+year: 2010
+month: 11
+scheme: http
+host: www.modernluxury.com
+path: /san-francisco/story/the-best-investment-advice-youll-never-get
 
 ---
 

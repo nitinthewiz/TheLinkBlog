@@ -3,13 +3,11 @@ title: "The Pearl Project: The Truth Left Behind"
 date: 2011-01-20 14:07:37 +0000
 external-url: http://cloudfront-files-1.iwatchnews.org/documents/pdfs/The_Pearl_Project.pdf
 hash: d4a120971f81c4891d2d90bddd7ef084
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: cloudfront-files-1.iwatchnews.org
-    path: /documents/pdfs/The_Pearl_Project.pdf
+year: 2011
+month: 01
+scheme: http
+host: cloudfront-files-1.iwatchnews.org
+path: /documents/pdfs/The_Pearl_Project.pdf
 
 ---
 

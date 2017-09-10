@@ -3,13 +3,11 @@ title: "Northern Lights Cedar Barrel Saunas"
 date: 2014-10-11 16:15:53 +0000
 external-url: http://www.cedarbarrelsaunas.com/
 hash: 79856f4f3f5b88a522166d3e095ceb77
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.cedarbarrelsaunas.com
-    path: /
+year: 2014
+month: 10
+scheme: http
+host: www.cedarbarrelsaunas.com
+path: /
 
 ---
 

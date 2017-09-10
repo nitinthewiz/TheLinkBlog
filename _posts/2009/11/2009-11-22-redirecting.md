@@ -3,13 +3,11 @@ title: "Redirecting..."
 date: 2009-11-22 06:35:41 +0000
 external-url: http://tinyurl.com/yznl427
 hash: 43ebf2576d3ac7a41d7742de802d6899
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: tinyurl.com
-    path: /yznl427
+year: 2009
+month: 11
+scheme: http
+host: tinyurl.com
+path: /yznl427
 
 ---
 

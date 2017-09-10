@@ -3,13 +3,11 @@ title: "Brooke Lynne"
 date: 2012-04-28 12:57:29 +0000
 external-url: http://brookelynne.tumblr.com/
 hash: ccd09ee266aee4db573c19fad3fc9871
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: brookelynne.tumblr.com
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: brookelynne.tumblr.com
+path: /
 
 ---
 

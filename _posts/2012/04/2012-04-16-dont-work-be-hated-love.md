@@ -3,13 +3,11 @@ title: "Dont work. Be hated. Love someone."
 date: 2012-04-16 22:32:54 +0000
 external-url: http://halfhalf.posterous.com/bye.html
 hash: 842e2e5be9de6b8c1fb6d731ff74a48c
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: halfhalf.posterous.com
-    path: /bye.html
+year: 2012
+month: 04
+scheme: http
+host: halfhalf.posterous.com
+path: /bye.html
 
 ---
 

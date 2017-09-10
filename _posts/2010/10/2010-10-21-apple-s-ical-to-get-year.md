@@ -3,13 +3,11 @@ title: "Apple's iCal to get 'Year' view, Mail to get iTunes-like interface in Ma
 date: 2010-10-21 18:25:00 +0000
 external-url: http://site.pheedo.com/
 hash: 6434da53b8f8f4c172d7f97c4edac8f0
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: site.pheedo.com
-    path: /
+year: 2010
+month: 10
+scheme: http
+host: site.pheedo.com
+path: /
 
 ---
 

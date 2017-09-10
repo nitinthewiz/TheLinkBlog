@@ -3,13 +3,11 @@ title: "PrivacyChoice"
 date: 2012-11-30 11:45:39 +0000
 external-url: http://privacychoice.org/
 hash: 36379b79102b0b9032eb95217855627e
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: privacychoice.org
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: privacychoice.org
+path: /
 
 ---
 

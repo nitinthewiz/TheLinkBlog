@@ -3,13 +3,11 @@ title: "Amazon DynamoDB Update - JSON, Expanded Free Tier, Flexible Scaling, Lar
 date: 2014-10-09 02:14:30 +0000
 external-url: https://aws.amazon.com/blogs/aws/dynamodb-update-json-and-more/
 hash: 63d3df73e4fc7fad2cbb03cfc9b29bdf
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/dynamodb-update-json-and-more/
+year: 2014
+month: 10
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/dynamodb-update-json-and-more/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Apple TV 2.0.2 Update is here, no one knows why"
 date: 2008-04-14 21:15:44 +0000
 external-url: http://appletvsource.com/content/view/607/
 hash: 7a539d0fa03b1097b952bda83d12d9d0
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: appletvsource.com
-    path: /content/view/607/
+year: 2008
+month: 04
+scheme: http
+host: appletvsource.com
+path: /content/view/607/
 
 ---
 

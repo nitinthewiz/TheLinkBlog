@@ -3,13 +3,11 @@ title: "Webmention.io"
 date: 2017-07-20 10:14:54 +0000
 external-url: https://webmention.io/
 hash: e9b1fdf86914a95a9ee9164f1ef44b2d
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: webmention.io
-    path: /
+year: 2017
+month: 07
+scheme: https
+host: webmention.io
+path: /
 
 ---
 

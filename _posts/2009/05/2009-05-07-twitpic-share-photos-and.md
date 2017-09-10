@@ -3,13 +3,11 @@ title: "Twitpic - Share photos and videos on Twitter"
 date: 2009-05-07 21:57:22 +0000
 external-url: http://twitpic.com/4qr53
 hash: 31975d3a1d00d639488c01abe44acafe
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: twitpic.com
-    path: /4qr53
+year: 2009
+month: 05
+scheme: http
+host: twitpic.com
+path: /4qr53
 
 ---
 

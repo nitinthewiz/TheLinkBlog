@@ -3,13 +3,11 @@ title: "pandas: powerful Python data analysis toolkit"
 date: 2011-09-19 13:45:23 +0000
 external-url: http://pandas.sourceforge.net/
 hash: a38c7de2d2fd3314a07168adbbfc6e44
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: pandas.sourceforge.net
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: pandas.sourceforge.net
+path: /
 
 ---
 

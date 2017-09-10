@@ -3,13 +3,11 @@ title: "Amazon Web Services is a $5 billion business, and it’s growing 50% a y
 date: 2015-04-26 04:15:16 +0000
 external-url: http://qz.com/390191/amazon-web-services-is-a-5-billion-business-and-its-growing-50-a-year/
 hash: 38221a63d4484f310dd0303e70b0a4c5
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: qz.com
-    path: /390191/amazon-web-services-is-a-5-billion-business-and-its-growing-50-a-year/
+year: 2015
+month: 04
+scheme: http
+host: qz.com
+path: /390191/amazon-web-services-is-a-5-billion-business-and-its-growing-50-a-year/
 
 ---
 

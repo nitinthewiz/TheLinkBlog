@@ -3,13 +3,11 @@ title: "Trellis Hardware by Hayn Lines"
 date: 2011-05-16 00:10:08 +0000
 external-url: http://www.hayn.com/cables/systems/trellis_system_hardware.html
 hash: e2a4677f91c02cc7480680b8fcb1af63
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.hayn.com
-    path: /cables/systems/trellis_system_hardware.html
+year: 2011
+month: 05
+scheme: http
+host: www.hayn.com
+path: /cables/systems/trellis_system_hardware.html
 
 ---
 

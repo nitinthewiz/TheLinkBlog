@@ -3,13 +3,11 @@ title: "(ARC310) Solving Amazon's Catalog Contention With Amazon Kinesis"
 date: 2015-12-03 19:43:43 +0000
 external-url: http://www.slideshare.net/AmazonWebServices/arc310-solving-amazons-catalog-contention-with-amazon-kinesis
 hash: 9261dbda1dab1cf596292d9004938ad2
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: www.slideshare.net
-    path: /AmazonWebServices/arc310-solving-amazons-catalog-contention-with-amazon-kinesis
+year: 2015
+month: 12
+scheme: http
+host: www.slideshare.net
+path: /AmazonWebServices/arc310-solving-amazons-catalog-contention-with-amazon-kinesis
 
 ---
 

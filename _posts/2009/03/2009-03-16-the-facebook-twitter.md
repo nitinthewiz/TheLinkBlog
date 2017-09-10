@@ -3,13 +3,11 @@ title: "The Facebook Twitter Story"
 date: 2009-03-16 03:07:37 +0000
 external-url: http://www.businessweek.com/technology/content/mar2009/tc2009031_743025_page_2.htm
 hash: e9995f677824ec0f0980e827ada280e8
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.businessweek.com
-    path: /technology/content/mar2009/tc2009031_743025_page_2.htm
+year: 2009
+month: 03
+scheme: http
+host: www.businessweek.com
+path: /technology/content/mar2009/tc2009031_743025_page_2.htm
 
 ---
 

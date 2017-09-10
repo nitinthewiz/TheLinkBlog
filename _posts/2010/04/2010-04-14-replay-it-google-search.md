@@ -3,13 +3,11 @@ title: "Replay it: Google search across the Twitter archive"
 date: 2010-04-14 15:10:19 +0000
 external-url: http://googleblog.blogspot.com/2010/04/replay-it-google-search-across-twitter.html
 hash: 01d0d1d54110c10482a31da100908919
-annum:
-    year: 2010
-    month: 04
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2010/04/replay-it-google-search-across-twitter.html
+year: 2010
+month: 04
+scheme: http
+host: googleblog.blogspot.com
+path: /2010/04/replay-it-google-search-across-twitter.html
 
 ---
 

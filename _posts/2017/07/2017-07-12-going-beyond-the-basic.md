@@ -3,13 +3,11 @@ title: "Going beyond the basic checklist - Next Action Associates"
 date: 2017-07-12 11:39:45 +0000
 external-url: http://www.next-action.eu/2017/07/12/going-beyond-basic-checklist/
 hash: f39e22cd9f47b4513144146a761e6737
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.next-action.eu
-    path: /2017/07/12/going-beyond-basic-checklist/
+year: 2017
+month: 07
+scheme: http
+host: www.next-action.eu
+path: /2017/07/12/going-beyond-basic-checklist/
 
 ---
 

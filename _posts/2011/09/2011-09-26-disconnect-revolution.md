@@ -3,13 +3,11 @@ title: "Disconnect Revolution"
 date: 2011-09-26 17:36:26 +0000
 external-url: https://www.daytodisconnect.com/index.php
 hash: 374de657e736a52b4f1a2fb39a4050fe
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: https
-    host: www.daytodisconnect.com
-    path: /index.php
+year: 2011
+month: 09
+scheme: https
+host: www.daytodisconnect.com
+path: /index.php
 
 ---
 

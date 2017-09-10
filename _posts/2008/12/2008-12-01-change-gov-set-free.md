@@ -3,13 +3,11 @@ title: "Change.gov set free"
 date: 2008-12-01 12:33:57 +0000
 external-url: http://www.lessig.org/blog/2008/12/changegov_set_free.html
 hash: 1cf6dd7e8a15ff4e15861c010b4504a1
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.lessig.org
-    path: /blog/2008/12/changegov_set_free.html
+year: 2008
+month: 12
+scheme: http
+host: www.lessig.org
+path: /blog/2008/12/changegov_set_free.html
 
 ---
 

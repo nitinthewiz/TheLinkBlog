@@ -3,13 +3,11 @@ title: "monitors.txt - lazy webapp monitoring"
 date: 2011-11-08 20:14:28 +0000
 external-url: http://monitorstxt.org/
 hash: e8bed28dc89db27af0b8d55104a033a4
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: monitorstxt.org
-    path: /
+year: 2011
+month: 11
+scheme: http
+host: monitorstxt.org
+path: /
 
 ---
 

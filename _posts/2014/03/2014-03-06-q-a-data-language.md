@@ -3,13 +3,11 @@ title: "Q - A Data Language"
 date: 2014-03-06 03:08:59 +0000
 external-url: http://www.q-lang.io/
 hash: 8b39c0103972771d956592c1ffb53a54
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: www.q-lang.io
-    path: /
+year: 2014
+month: 03
+scheme: http
+host: www.q-lang.io
+path: /
 
 ---
 

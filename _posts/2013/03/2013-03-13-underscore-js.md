@@ -3,13 +3,11 @@ title: "Underscore.js"
 date: 2013-03-13 16:46:55 +0000
 external-url: http://underscorejs.org/
 hash: 728f70a4ceb768628cf8e1296fe3c751
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: underscorejs.org
-    path: /
+year: 2013
+month: 03
+scheme: http
+host: underscorejs.org
+path: /
 
 ---
 

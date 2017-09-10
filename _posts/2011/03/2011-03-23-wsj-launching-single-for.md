@@ -3,13 +3,11 @@ title: "WSJ Launching Single-Issue Downloads For iPad"
 date: 2011-03-23 03:15:13 +0000
 external-url: http://m.paidcontent.org/article/419-wsj-launching-single-issue-downloads-for-ipad/
 hash: 0d45eb39738e33c6bd313748e467511a
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-wsj-launching-single-issue-downloads-for-ipad/
+year: 2011
+month: 03
+scheme: http
+host: m.paidcontent.org
+path: /article/419-wsj-launching-single-issue-downloads-for-ipad/
 
 ---
 

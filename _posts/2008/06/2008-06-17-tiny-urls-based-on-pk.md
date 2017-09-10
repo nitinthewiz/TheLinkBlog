@@ -3,13 +3,11 @@ title: "Tiny URLs based on pk"
 date: 2008-06-17 18:59:29 +0000
 external-url: http://leahculver.com/2008/06/17/tiny-urls-based-on-pk/
 hash: 29ff3790a457185b51a4b200487ee322
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: leahculver.com
-    path: /2008/06/17/tiny-urls-based-on-pk/
+year: 2008
+month: 06
+scheme: http
+host: leahculver.com
+path: /2008/06/17/tiny-urls-based-on-pk/
 
 ---
 

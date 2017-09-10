@@ -3,13 +3,11 @@ title: "HeartWatch 2 Review"
 date: 2016-02-13 15:36:32 +0000
 external-url: https://www.macstories.net/reviews/heartwatch-2-review/
 hash: 10b577452eca6e75837d5da7c244fd74
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /reviews/heartwatch-2-review/
+year: 2016
+month: 02
+scheme: https
+host: www.macstories.net
+path: /reviews/heartwatch-2-review/
 
 ---
 

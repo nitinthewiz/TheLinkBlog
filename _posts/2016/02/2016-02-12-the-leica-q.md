@@ -3,13 +3,11 @@ title: "The Leica Q"
 date: 2016-02-12 18:00:06 +0000
 external-url: http://craigmod.com/sputnik/leica_q/
 hash: 0d187ef6277fdb2ae643cfc4c37db2db
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: craigmod.com
-    path: /sputnik/leica_q/
+year: 2016
+month: 02
+scheme: http
+host: craigmod.com
+path: /sputnik/leica_q/
 
 ---
 

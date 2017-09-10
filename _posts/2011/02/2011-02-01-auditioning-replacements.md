@@ -3,13 +3,11 @@ title: "Auditioning replacements for the Moon"
 date: 2011-02-01 15:14:36 +0000
 external-url: http://kottke.org/11/02/auditioning-replacements-for-the-moon
 hash: 09fa141790d2a43e23791cb29deb35ca
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /11/02/auditioning-replacements-for-the-moon
+year: 2011
+month: 02
+scheme: http
+host: kottke.org
+path: /11/02/auditioning-replacements-for-the-moon
 
 ---
 

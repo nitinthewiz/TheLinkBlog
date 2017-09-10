@@ -3,13 +3,11 @@ title: "All the things you didn’t know you could do with SaneBox"
 date: 2015-10-04 01:39:16 +0000
 external-url: http://blog.sanebox.com/2015/02/04/all-the-things-you-didnt-know-you-could-do-with/
 hash: 2774636281545afac7734465bbc6bce4
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.sanebox.com
-    path: /2015/02/04/all-the-things-you-didnt-know-you-could-do-with/
+year: 2015
+month: 10
+scheme: http
+host: blog.sanebox.com
+path: /2015/02/04/all-the-things-you-didnt-know-you-could-do-with/
 
 ---
 

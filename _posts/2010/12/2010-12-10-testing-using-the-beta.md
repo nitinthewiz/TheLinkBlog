@@ -3,13 +3,11 @@ title: "Testing Using The Beta Tier"
 date: 2010-12-10 04:50:27 +0000
 external-url: https://developers.facebook.com/blog/post/438/
 hash: 58dbf1fb199ebbb586bc394e49679ee7
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /blog/post/438/
+year: 2010
+month: 12
+scheme: https
+host: developers.facebook.com
+path: /blog/post/438/
 
 ---
 

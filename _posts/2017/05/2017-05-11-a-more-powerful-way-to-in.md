@@ -3,13 +3,11 @@ title: "A More Powerful Way to Schedule Tasks in OmniFocus"
 date: 2017-05-11 18:47:59 +0000
 external-url: https://colterreed.com/a-more-powerful-way-to-schedule-tasks-in-omnifocus/
 hash: 830113831a5e451507015a6b1e391881
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: colterreed.com
-    path: /a-more-powerful-way-to-schedule-tasks-in-omnifocus/
+year: 2017
+month: 05
+scheme: https
+host: colterreed.com
+path: /a-more-powerful-way-to-schedule-tasks-in-omnifocus/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Ministeam"
 date: 2007-01-11 01:46:45 +0000
 external-url: http://www.ministeam.com/acatalog/shop.html
 hash: 61e446aedbafaaf0b1ac1616c390ec57
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.ministeam.com
-    path: /acatalog/shop.html
+year: 2007
+month: 01
+scheme: http
+host: www.ministeam.com
+path: /acatalog/shop.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Google's recipe for recipes"
 date: 2011-04-01 13:40:59 +0000
 external-url: http://www.roughtype.com/archives/2011/03/googles_recipe.php
 hash: c28435743cdb9e6e4caa5a2a5ec8fd07
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.roughtype.com
-    path: /archives/2011/03/googles_recipe.php
+year: 2011
+month: 04
+scheme: http
+host: www.roughtype.com
+path: /archives/2011/03/googles_recipe.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "MediaWiki 1.26 released « Wikimedia blog"
 date: 2015-12-15 02:27:31 +0000
 external-url: http://blog.wikimedia.org/2015/12/14/new-mediawiki-release/
 hash: 526a4e8edbb139275f5a268e4dcec301
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2015/12/14/new-mediawiki-release/
+year: 2015
+month: 12
+scheme: http
+host: blog.wikimedia.org
+path: /2015/12/14/new-mediawiki-release/
 
 ---
 

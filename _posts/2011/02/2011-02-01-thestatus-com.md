@@ -3,13 +3,11 @@ title: "TheStatus.com"
 date: 2011-02-01 19:57:05 +0000
 external-url: https://www.thestatus.com/cookies
 hash: 88b4523760b30867001ca846c3dce954
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: https
-    host: www.thestatus.com
-    path: /cookies
+year: 2011
+month: 02
+scheme: https
+host: www.thestatus.com
+path: /cookies
 
 ---
 

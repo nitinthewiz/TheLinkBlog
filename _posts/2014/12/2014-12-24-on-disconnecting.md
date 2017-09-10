@@ -3,13 +3,11 @@ title: "On Disconnecting"
 date: 2014-12-24 02:16:39 +0000
 external-url: http://beero.ps/2014/12/23/on-disconnecting/
 hash: 589b10c6592f8eece95adea39bd0542e
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: beero.ps
-    path: /2014/12/23/on-disconnecting/
+year: 2014
+month: 12
+scheme: http
+host: beero.ps
+path: /2014/12/23/on-disconnecting/
 
 ---
 

@@ -3,13 +3,11 @@ title: "SubEthaEdit"
 date: 2007-01-31 04:41:09 +0000
 external-url: http://www.codingmonkeys.de/subethaedit/index.html
 hash: e63b7181a549bbbda057185001375791
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.codingmonkeys.de
-    path: /subethaedit/index.html
+year: 2007
+month: 01
+scheme: http
+host: www.codingmonkeys.de
+path: /subethaedit/index.html
 
 ---
 

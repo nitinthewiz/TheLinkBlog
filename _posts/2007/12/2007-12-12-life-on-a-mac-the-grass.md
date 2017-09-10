@@ -3,13 +3,11 @@ title: "Life on a Mac - the Grass is Greener"
 date: 2007-12-12 16:19:52 +0000
 external-url: http://simpable.com/technology/greener-grass/
 hash: 30e09f3334004a2c4c24e0fe75173fec
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: simpable.com
-    path: /technology/greener-grass/
+year: 2007
+month: 12
+scheme: http
+host: simpable.com
+path: /technology/greener-grass/
 
 ---
 

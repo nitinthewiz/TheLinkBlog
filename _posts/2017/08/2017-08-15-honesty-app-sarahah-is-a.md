@@ -3,13 +3,11 @@ title: "Honesty app Sarahah is becoming a self-esteem machine - The Verge"
 date: 2017-08-15 11:33:51 +0000
 external-url: https://www.theverge.com/2017/8/13/16127170/sarahah-app-anonymous-messages-feedback
 hash: 541b74106f89cccf39d870a67712cdf6
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.theverge.com
-    path: /2017/8/13/16127170/sarahah-app-anonymous-messages-feedback
+year: 2017
+month: 08
+scheme: https
+host: www.theverge.com
+path: /2017/8/13/16127170/sarahah-app-anonymous-messages-feedback
 
 ---
 

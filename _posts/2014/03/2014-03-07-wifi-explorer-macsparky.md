@@ -3,13 +3,11 @@ title: "WiFi Explorer MacSparky"
 date: 2014-03-07 02:18:57 +0000
 external-url: http://macsparky.com/blog/2014/3/wifi-explorer
 hash: 21fcfa5a589e8a6fd99458adcd128f48
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2014/3/wifi-explorer
+year: 2014
+month: 03
+scheme: http
+host: macsparky.com
+path: /blog/2014/3/wifi-explorer
 
 ---
 

@@ -3,13 +3,11 @@ title: "Microsoft adds QR codes to Windows 10 'Blue Screen of Death' to help tro
 date: 2016-04-12 17:56:06 +0000
 external-url: http://www.neowin.net/news/microsoft-adds-qr-codes-to-windows-10-blue-screen-of-death-to-help-troubleshoot-crashes
 hash: b53effc18e443dafe93823655406cbbe
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: www.neowin.net
-    path: /news/microsoft-adds-qr-codes-to-windows-10-blue-screen-of-death-to-help-troubleshoot-crashes
+year: 2016
+month: 04
+scheme: http
+host: www.neowin.net
+path: /news/microsoft-adds-qr-codes-to-windows-10-blue-screen-of-death-to-help-troubleshoot-crashes
 
 ---
 

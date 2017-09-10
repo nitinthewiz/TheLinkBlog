@@ -3,13 +3,11 @@ title: "BSD For Linux Users"
 date: 2012-08-23 02:46:29 +0000
 external-url: http://www.over-yonder.net/~fullermd/rants/bsd4linux/01
 hash: 534659dd42e17bcb9faf6e2f046a39d6
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.over-yonder.net
-    path: /~fullermd/rants/bsd4linux/01
+year: 2012
+month: 08
+scheme: http
+host: www.over-yonder.net
+path: /~fullermd/rants/bsd4linux/01
 
 ---
 

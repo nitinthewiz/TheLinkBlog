@@ -3,13 +3,11 @@ title: "Rory Sutherland: Life lessons from an ad man"
 date: 2012-05-12 20:46:18 +0000
 external-url: http://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man
 hash: 57aec25d010f77554fed71a4776f57f5
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/rory_sutherland_life_lessons_from_an_ad_man
+year: 2012
+month: 05
+scheme: http
+host: www.ted.com
+path: /talks/rory_sutherland_life_lessons_from_an_ad_man
 
 ---
 

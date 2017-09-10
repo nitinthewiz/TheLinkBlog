@@ -3,13 +3,11 @@ title: "Why I No Longer Use MVC Frameworks"
 date: 2016-02-19 08:39:30 +0000
 external-url: http://www.infoq.com/articles/no-more-mvc-frameworks
 hash: 673ce067166b8f0583a3629799eac863
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.infoq.com
-    path: /articles/no-more-mvc-frameworks
+year: 2016
+month: 02
+scheme: http
+host: www.infoq.com
+path: /articles/no-more-mvc-frameworks
 
 ---
 

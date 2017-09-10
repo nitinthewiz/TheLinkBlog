@@ -3,13 +3,11 @@ title: "Plastic Logic"
 date: 2007-02-08 03:53:02 +0000
 external-url: http://www.plasticlogic.com/
 hash: a05816180d1ed1103d9b4a21d75ccd09
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.plasticlogic.com
-    path: /
+year: 2007
+month: 02
+scheme: http
+host: www.plasticlogic.com
+path: /
 
 ---
 

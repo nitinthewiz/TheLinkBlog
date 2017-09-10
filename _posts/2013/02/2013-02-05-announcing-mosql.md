@@ -3,13 +3,11 @@ title: "Announcing MoSQL"
 date: 2013-02-05 19:35:22 +0000
 external-url: https://stripe.com/blog/announcing-mosql
 hash: c7c1528bfd3f44554d996a938c0c2c5a
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: https
-    host: stripe.com
-    path: /blog/announcing-mosql
+year: 2013
+month: 02
+scheme: https
+host: stripe.com
+path: /blog/announcing-mosql
 
 ---
 

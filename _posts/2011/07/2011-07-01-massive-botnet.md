@@ -3,13 +3,11 @@ title: "Massive botnet 'indestructible'"
 date: 2011-07-01 01:35:04 +0000
 external-url: http://www.computerworld.com/s/article/9218034/Massive_botnet_indestructible_say_researchers
 hash: a27f673a24815635a06193459e13a75f
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.computerworld.com
-    path: /s/article/9218034/Massive_botnet_indestructible_say_researchers
+year: 2011
+month: 07
+scheme: http
+host: www.computerworld.com
+path: /s/article/9218034/Massive_botnet_indestructible_say_researchers
 
 ---
 

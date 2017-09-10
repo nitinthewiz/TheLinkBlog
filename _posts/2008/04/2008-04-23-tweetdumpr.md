@@ -3,13 +3,11 @@ title: "TweetDumpr"
 date: 2008-04-23 02:10:23 +0000
 external-url: http://bradkellett.com/tweetdumpr/
 hash: d7975389b38d64ef3ca8e8f4382fdf8e
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: bradkellett.com
-    path: /tweetdumpr/
+year: 2008
+month: 04
+scheme: http
+host: bradkellett.com
+path: /tweetdumpr/
 
 ---
 

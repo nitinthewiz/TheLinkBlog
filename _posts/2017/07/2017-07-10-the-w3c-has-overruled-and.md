@@ -3,13 +3,11 @@ title: "The W3C has overruled members' objections and will publish its DRM for v
 date: 2017-07-10 01:50:09 +0000
 external-url: http://boingboing.net/2017/07/07/eschatology-watch.html
 hash: 1325a9f59cfa3e81259f57a8634de0a6
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: boingboing.net
-    path: /2017/07/07/eschatology-watch.html
+year: 2017
+month: 07
+scheme: http
+host: boingboing.net
+path: /2017/07/07/eschatology-watch.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Humphrey terminal reopening after suspicious bag led to evacuation"
 date: 2012-04-27 13:36:43 +0000
 external-url: http://www.startribune.com/local/149210655.html
 hash: 2019b435341c0bbd8b04dc1212baaac1
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /local/149210655.html
+year: 2012
+month: 04
+scheme: http
+host: www.startribune.com
+path: /local/149210655.html
 
 ---
 

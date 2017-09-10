@@ -3,13 +3,11 @@ title: "TECHdotMN: Grigsby is back with Manymo"
 date: 2012-08-02 14:47:19 +0000
 external-url: http://tech.mn/news/2012/07/31/techdotmn-tv-dan-grigsby-manymo/
 hash: 4da8ed4dd5fb0ca895d7c33c484f0997
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2012/07/31/techdotmn-tv-dan-grigsby-manymo/
+year: 2012
+month: 08
+scheme: http
+host: tech.mn
+path: /news/2012/07/31/techdotmn-tv-dan-grigsby-manymo/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Feds Are Wrong to Warn of “Warrant-Proof” Phones"
 date: 2016-03-21 18:06:37 +0000
 external-url: https://www.technologyreview.com/s/601044/the-feds-are-wrong-to-warn-of-warrant-proof-phones/
 hash: 83f30ae07c60a637de4de683a0cae833
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: www.technologyreview.com
-    path: /s/601044/the-feds-are-wrong-to-warn-of-warrant-proof-phones/
+year: 2016
+month: 03
+scheme: https
+host: www.technologyreview.com
+path: /s/601044/the-feds-are-wrong-to-warn-of-warrant-proof-phones/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Why #Gamergaters Piss Me The F*** Off"
 date: 2014-10-22 03:35:28 +0000
 external-url: https://medium.com/the-cauldron/why-gamergaters-piss-me-the-f-off-a7e4c7f6d8a6
 hash: 3f4379fa5a894c06dafadac6b3dbb6f8
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /the-cauldron/why-gamergaters-piss-me-the-f-off-a7e4c7f6d8a6
+year: 2014
+month: 10
+scheme: https
+host: medium.com
+path: /the-cauldron/why-gamergaters-piss-me-the-f-off-a7e4c7f6d8a6
 
 ---
 

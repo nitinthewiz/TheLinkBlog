@@ -3,13 +3,11 @@ title: "New Camera - Canon Powershot G9"
 date: 2008-03-17 16:16:27 +0000
 external-url: http://panographic.wordpress.com/2008/03/17/new-camera-canon-powershot-g9/
 hash: 478a2180307a6296841a1acfe1f60392
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: panographic.wordpress.com
-    path: /2008/03/17/new-camera-canon-powershot-g9/
+year: 2008
+month: 03
+scheme: http
+host: panographic.wordpress.com
+path: /2008/03/17/new-camera-canon-powershot-g9/
 
 ---
 

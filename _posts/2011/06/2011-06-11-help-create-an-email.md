@@ -3,13 +3,11 @@ title: "Help Create an Email Charter!"
 date: 2011-06-11 18:15:28 +0000
 external-url: http://tedchris.posterous.com/help-create-an-email-charter
 hash: a06a4ab6f4b2d4ae23a5d22844c7002a
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: tedchris.posterous.com
-    path: /help-create-an-email-charter
+year: 2011
+month: 06
+scheme: http
+host: tedchris.posterous.com
+path: /help-create-an-email-charter
 
 ---
 

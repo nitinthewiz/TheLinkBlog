@@ -3,13 +3,11 @@ title: "Incogneato Anonymous Box || The Easiest Online Suggestion Box"
 date: 2017-07-27 16:59:58 +0000
 external-url: https://incognea.to/
 hash: ae00e524928c381d407350889aa443d8
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: incognea.to
-    path: /
+year: 2017
+month: 07
+scheme: https
+host: incognea.to
+path: /
 
 ---
 

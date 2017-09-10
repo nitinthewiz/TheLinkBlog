@@ -3,13 +3,11 @@ title: "GitHub Says 'No Thanks' to Bots Even if They're Nice"
 date: 2013-01-04 15:51:05 +0000
 external-url: http://www.wired.com/2012/12/github-bots/
 hash: 050cc4b5e2dab5394ab9432605e092a1
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2012/12/github-bots/
+year: 2013
+month: 01
+scheme: http
+host: www.wired.com
+path: /2012/12/github-bots/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Making Games on Facebook Better"
 date: 2010-09-21 17:20:00 +0000
 external-url: http://developers.facebook.com/blog/post/410
 hash: 2ba4be1c90eebac1dd502fd06c81844a
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: developers.facebook.com
-    path: /blog/post/410
+year: 2010
+month: 09
+scheme: http
+host: developers.facebook.com
+path: /blog/post/410
 
 ---
 

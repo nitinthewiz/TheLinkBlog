@@ -3,13 +3,11 @@ title: "SSH Can Do That? Productivity Tips for Working with Remote Servers"
 date: 2011-08-19 06:04:26 +0000
 external-url: http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html
 hash: 8ad26cbd42121f2cc0d316eaab63e7d3
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: blogs.perl.org
-    path: /users/smylers/2011/08/ssh-productivity-tips.html
+year: 2011
+month: 08
+scheme: http
+host: blogs.perl.org
+path: /users/smylers/2011/08/ssh-productivity-tips.html
 
 ---
 

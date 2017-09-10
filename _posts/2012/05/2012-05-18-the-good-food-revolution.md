@@ -3,13 +3,11 @@ title: "The Good Food Revolution: Growing Healthy Food, People, and Communities"
 date: 2012-05-18 02:58:11 +0000
 external-url: http://www.amazon.com/The-Good-Food-Revolution-Communities/dp/1592407609
 hash: fcb30cedbaafbcaca751615225ff62f8
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.amazon.com
-    path: /The-Good-Food-Revolution-Communities/dp/1592407609
+year: 2012
+month: 05
+scheme: http
+host: www.amazon.com
+path: /The-Good-Food-Revolution-Communities/dp/1592407609
 
 ---
 

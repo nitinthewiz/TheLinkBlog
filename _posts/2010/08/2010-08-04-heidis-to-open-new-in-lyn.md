@@ -3,13 +3,11 @@ title: "Heidis to open new location in Lyn-Lake"
 date: 2010-08-04 23:09:08 +0000
 external-url: http://www.bizjournals.com/twincities/stories/2010/08/02/daily22.html
 hash: 4406f65bb4255b7b87e6f978f2f3fcdd
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.bizjournals.com
-    path: /twincities/stories/2010/08/02/daily22.html
+year: 2010
+month: 08
+scheme: http
+host: www.bizjournals.com
+path: /twincities/stories/2010/08/02/daily22.html
 
 ---
 

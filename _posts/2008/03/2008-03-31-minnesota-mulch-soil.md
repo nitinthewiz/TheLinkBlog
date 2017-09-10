@@ -3,13 +3,11 @@ title: "Minnesota Mulch & Soil"
 date: 2008-03-31 16:55:58 +0000
 external-url: http://www.mnmulchsoil.com/Index.html
 hash: dc7c82f406e976aca0728de4493a46ff
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.mnmulchsoil.com
-    path: /Index.html
+year: 2008
+month: 03
+scheme: http
+host: www.mnmulchsoil.com
+path: /Index.html
 
 ---
 

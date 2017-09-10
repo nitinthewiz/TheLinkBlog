@@ -3,13 +3,11 @@ title: "How to Stop Sucking and Be Awesome Instead"
 date: 2012-06-03 20:02:40 +0000
 external-url: http://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead
 hash: f23c13e9069759111e4ad4ed105e2781
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: blog.codinghorror.com
-    path: /how-to-stop-sucking-and-be-awesome-instead
+year: 2012
+month: 06
+scheme: http
+host: blog.codinghorror.com
+path: /how-to-stop-sucking-and-be-awesome-instead
 
 ---
 

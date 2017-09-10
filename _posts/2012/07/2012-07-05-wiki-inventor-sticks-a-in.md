@@ -3,13 +3,11 @@ title: "Wiki Inventor Sticks a Fork in His Baby"
 date: 2012-07-05 19:39:28 +0000
 external-url: http://www.wired.com/2012/07/wiki-inventor/
 hash: 5c86a4528cc2040d215b72fafe14aed9
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2012/07/wiki-inventor/
+year: 2012
+month: 07
+scheme: http
+host: www.wired.com
+path: /2012/07/wiki-inventor/
 
 ---
 

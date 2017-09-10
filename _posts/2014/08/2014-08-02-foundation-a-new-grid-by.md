@@ -3,13 +3,11 @@ title: "Foundation: A New Grid by ZURB"
 date: 2014-08-02 19:19:36 +0000
 external-url: http://zurb.com/article/1333/foundation-a-new-grid
 hash: 9f9e89659322f3ab2f754cd2dbe08d69
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: zurb.com
-    path: /article/1333/foundation-a-new-grid
+year: 2014
+month: 08
+scheme: http
+host: zurb.com
+path: /article/1333/foundation-a-new-grid
 
 ---
 

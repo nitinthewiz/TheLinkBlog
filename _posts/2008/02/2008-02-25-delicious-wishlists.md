@@ -3,13 +3,11 @@ title: "Delicious Wishlists"
 date: 2008-02-25 16:00:00 +0000
 external-url: https://gigaom.com/2008/02/25/delicious-wishlists/
 hash: 85287b53d710b4f751dd1b189b789de3
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/02/25/delicious-wishlists/
+year: 2008
+month: 02
+scheme: https
+host: gigaom.com
+path: /2008/02/25/delicious-wishlists/
 
 ---
 

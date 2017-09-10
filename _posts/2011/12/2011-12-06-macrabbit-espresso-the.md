@@ -3,13 +3,11 @@ title: "MacRabbit - Espresso - The Web Editor"
 date: 2011-12-06 05:23:17 +0000
 external-url: http://macrabbit.com/espresso/
 hash: e1b7a633a0716a63f1da9b71ff21054f
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: macrabbit.com
-    path: /espresso/
+year: 2011
+month: 12
+scheme: http
+host: macrabbit.com
+path: /espresso/
 
 ---
 

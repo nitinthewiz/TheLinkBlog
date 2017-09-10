@@ -3,13 +3,11 @@ title: "The Black IPA Problem"
 date: 2012-11-18 12:18:12 +0000
 external-url: http://www.beerscribe.com/2010/09/01/the-black-ipa-problem/
 hash: 42a19357c5dcc2aa74dae9e29301365d
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.beerscribe.com
-    path: /2010/09/01/the-black-ipa-problem/
+year: 2012
+month: 11
+scheme: http
+host: www.beerscribe.com
+path: /2010/09/01/the-black-ipa-problem/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Network Effects"
 date: 2017-07-11 11:44:55 +0000
 external-url: https://www.slideshare.net/a16z/network-effects-59206938
 hash: af4e2104051fef757445f620bce5b4bc
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.slideshare.net
-    path: /a16z/network-effects-59206938
+year: 2017
+month: 07
+scheme: https
+host: www.slideshare.net
+path: /a16z/network-effects-59206938
 
 ---
 

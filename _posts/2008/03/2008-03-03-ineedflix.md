@@ -3,13 +3,11 @@ title: "INeedFlix"
 date: 2008-03-03 14:00:00 +0000
 external-url: http://www.tuaw.com/2008/03/03/ineedflix/
 hash: 9ed31a141e92ca38d4d2f22154cdfcea
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/03/03/ineedflix/
+year: 2008
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2008/03/03/ineedflix/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Former Biggest Loser contestants fight slow metabolisms, weight gain | A
 date: 2016-05-03 05:12:56 +0000
 external-url: http://arstechnica.com/science/2016/05/big-weight-loss-can-slow-metabolism-long-term-make-it-harder-to-stay-slim/
 hash: fe99d9bf7e06a7b62bf94d86835de7f8
-annum:
-    year: 2016
-    month: 05
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /science/2016/05/big-weight-loss-can-slow-metabolism-long-term-make-it-harder-to-stay-slim/
+year: 2016
+month: 05
+scheme: http
+host: arstechnica.com
+path: /science/2016/05/big-weight-loss-can-slow-metabolism-long-term-make-it-harder-to-stay-slim/
 
 ---
 

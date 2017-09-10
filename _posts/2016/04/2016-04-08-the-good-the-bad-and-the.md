@@ -3,13 +3,11 @@ title: "The Good, the Bad and the Ugly of Remote Work (After 5 Years of Experien
 date: 2016-04-08 10:25:17 +0000
 external-url: http://ionutn.com/the-good-bad-and-the-ugly-of-working-remote-after-5-years/
 hash: 37c96b38da0d015726bcf2f9c55175db
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: ionutn.com
-    path: /the-good-bad-and-the-ugly-of-working-remote-after-5-years/
+year: 2016
+month: 04
+scheme: http
+host: ionutn.com
+path: /the-good-bad-and-the-ugly-of-working-remote-after-5-years/
 
 ---
 

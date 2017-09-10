@@ -3,13 +3,11 @@ title: "Twitterrific"
 date: 2007-01-19 05:23:06 +0000
 external-url: http://twitterrific.com/ios
 hash: cf1cd546b5dc7a099cfdcc09611e191b
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: twitterrific.com
-    path: /ios
+year: 2007
+month: 01
+scheme: http
+host: twitterrific.com
+path: /ios
 
 ---
 

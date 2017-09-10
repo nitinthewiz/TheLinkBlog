@@ -3,13 +3,11 @@ title: "Main Page - Sunflower Projects"
 date: 2011-07-20 07:39:12 +0000
 external-url: http://sunflowerprojects.org/Main_Page
 hash: 344b58ee1f8660d4eca2cf837caad707
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: sunflowerprojects.org
-    path: /Main_Page
+year: 2011
+month: 07
+scheme: http
+host: sunflowerprojects.org
+path: /Main_Page
 
 ---
 

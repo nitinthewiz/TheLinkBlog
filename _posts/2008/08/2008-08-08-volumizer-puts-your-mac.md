@@ -3,13 +3,11 @@ title: "Volumizer Puts Your Mac Drives on the Dock [Featured Mac Download]"
 date: 2008-08-08 15:59:22 +0000
 external-url: http://lifehacker.com/400060/volumizer-puts-your-mac-drives-on-the-dock
 hash: df8f25a70fc762508975e3f4eeacc819
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /400060/volumizer-puts-your-mac-drives-on-the-dock
+year: 2008
+month: 08
+scheme: http
+host: lifehacker.com
+path: /400060/volumizer-puts-your-mac-drives-on-the-dock
 
 ---
 

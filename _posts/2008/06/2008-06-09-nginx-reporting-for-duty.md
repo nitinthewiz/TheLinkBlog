@@ -3,13 +3,11 @@ title: "NginX Reporting for Duty"
 date: 2008-06-09 18:45:42 +0000
 external-url: http://www.opticality.com/blog/2008/06/09/nginx-reporting-for-duty/
 hash: a841a1e5855a96b5e4c179681deabf9f
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.opticality.com
-    path: /blog/2008/06/09/nginx-reporting-for-duty/
+year: 2008
+month: 06
+scheme: http
+host: www.opticality.com
+path: /blog/2008/06/09/nginx-reporting-for-duty/
 
 ---
 

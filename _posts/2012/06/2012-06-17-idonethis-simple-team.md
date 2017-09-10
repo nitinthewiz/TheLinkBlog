@@ -3,13 +3,11 @@ title: "IDoneThis - Simple Team Performance Management"
 date: 2012-06-17 01:39:16 +0000
 external-url: https://idonethis.com//
 hash: 2728ee5acda3192a875f40e127c51323
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: https
-    host: idonethis.com
-    path: //
+year: 2012
+month: 06
+scheme: https
+host: idonethis.com
+path: //
 
 ---
 

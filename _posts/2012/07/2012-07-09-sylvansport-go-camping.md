@@ -3,13 +3,11 @@ title: "Sylvansport Go Camping Travel Trailer"
 date: 2012-07-09 03:22:38 +0000
 external-url: http://www.sylvansport.com/go/product-details/
 hash: cb13718d6129b6f20df58088d18fc408
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.sylvansport.com
-    path: /go/product-details/
+year: 2012
+month: 07
+scheme: http
+host: www.sylvansport.com
+path: /go/product-details/
 
 ---
 

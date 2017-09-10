@@ -3,13 +3,11 @@ title: "iBank - IGG Software, LLC"
 date: 2007-07-11 15:50:00 +0000
 external-url: http://www.iggsoftware.com/ibank/index.php
 hash: be99d830f53eaa0b19f60f4e2831bbea
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www.iggsoftware.com
-    path: /ibank/index.php
+year: 2007
+month: 07
+scheme: http
+host: www.iggsoftware.com
+path: /ibank/index.php
 
 ---
 

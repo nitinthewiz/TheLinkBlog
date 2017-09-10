@@ -3,13 +3,11 @@ title: "Google Maps Gets Smarter: Crowdsources Live Traffic Data"
 date: 2009-08-25 18:05:23 +0000
 external-url: http://www.readwriteweb.com/archives/google_maps_gets_smarter_crowdsources_traffic_data.php
 hash: 0b7f8caa4cd3b88adc9cb9d6efc074c6
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/google_maps_gets_smarter_crowdsources_traffic_data.php
+year: 2009
+month: 08
+scheme: http
+host: www.readwriteweb.com
+path: /archives/google_maps_gets_smarter_crowdsources_traffic_data.php
 
 ---
 

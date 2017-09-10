@@ -3,13 +3,11 @@ title: "Nils Frahm - Screws by Erased Tapes"
 date: 2012-11-08 12:56:16 +0000
 external-url: http://soundcloud.com/erasedtapes/sets/nils-frahm-screws
 hash: 90326ff241831f1901d1d1681f32e633
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: soundcloud.com
-    path: /erasedtapes/sets/nils-frahm-screws
+year: 2012
+month: 11
+scheme: http
+host: soundcloud.com
+path: /erasedtapes/sets/nils-frahm-screws
 
 ---
 

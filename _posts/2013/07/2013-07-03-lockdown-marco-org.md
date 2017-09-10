@@ -3,13 +3,11 @@ title: "Lockdown Marco.org"
 date: 2013-07-03 12:24:24 +0000
 external-url: http://www.marco.org/2013/07/03/lockdown
 hash: 27c1daf4fc71c09f375be215c4563c8d
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2013/07/03/lockdown
+year: 2013
+month: 07
+scheme: http
+host: www.marco.org
+path: /2013/07/03/lockdown
 
 ---
 

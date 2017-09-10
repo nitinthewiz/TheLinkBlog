@@ -3,13 +3,11 @@ title: "How Does Dropbox's Terms of Service Compare to Those of Other Companies?
 date: 2011-07-06 19:05:00 +0000
 external-url: http://www.readwriteweb.com/cloud/2011/07/how-does-dropboxs-tos-compare.php
 hash: be563050505bc27b444b4e74f5127520
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /cloud/2011/07/how-does-dropboxs-tos-compare.php
+year: 2011
+month: 07
+scheme: http
+host: www.readwriteweb.com
+path: /cloud/2011/07/how-does-dropboxs-tos-compare.php
 
 ---
 

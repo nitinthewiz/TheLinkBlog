@@ -3,13 +3,11 @@ title: "Fine-tune Your RSS Subscriptions"
 date: 2008-12-02 16:00:53 +0000
 external-url: http://gigaom.com/2008/12/02/fine-tune-your-rss-subscriptions/
 hash: efc2538603438d2775268f71334914b8
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/12/02/fine-tune-your-rss-subscriptions/
+year: 2008
+month: 12
+scheme: http
+host: gigaom.com
+path: /2008/12/02/fine-tune-your-rss-subscriptions/
 
 ---
 

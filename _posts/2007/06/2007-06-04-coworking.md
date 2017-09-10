@@ -3,13 +3,11 @@ title: "Coworking / CoworkingMinneapolis"
 date: 2007-06-04 04:49:15 +0000
 external-url: http://coworking.pbwiki.com/CoworkingMinneapolis
 hash: fec955f3d1623a9b684ca48c8fab0487
-annum:
-    year: 2007
-    month: 06
-url-parts:
-    scheme: http
-    host: coworking.pbwiki.com
-    path: /CoworkingMinneapolis
+year: 2007
+month: 06
+scheme: http
+host: coworking.pbwiki.com
+path: /CoworkingMinneapolis
 
 ---
 

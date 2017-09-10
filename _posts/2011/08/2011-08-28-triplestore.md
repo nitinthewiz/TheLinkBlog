@@ -3,13 +3,11 @@ title: "Triplestore"
 date: 2011-08-28 12:50:09 +0000
 external-url: http://en.wikipedia.org/wiki/Triplestore
 hash: 851ebd981b61284e64d63f9d02f73656
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Triplestore
+year: 2011
+month: 08
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Triplestore
 
 ---
 

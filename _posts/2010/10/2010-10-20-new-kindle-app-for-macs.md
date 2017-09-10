@@ -3,13 +3,11 @@ title: "New Kindle app for Macs adds many desired features"
 date: 2010-10-20 02:30:00 +0000
 external-url: http://www.tuaw.com/2010/10/19/new-kindle-app-for-macs-adds-many-desired-features/
 hash: 636ae6db8b2c1d9adf598e2883ec9040
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2010/10/19/new-kindle-app-for-macs-adds-many-desired-features/
+year: 2010
+month: 10
+scheme: http
+host: www.tuaw.com
+path: /2010/10/19/new-kindle-app-for-macs-adds-many-desired-features/
 
 ---
 

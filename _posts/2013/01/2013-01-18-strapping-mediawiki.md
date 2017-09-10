@@ -3,13 +3,11 @@ title: "Strapping-mediawiki"
 date: 2013-01-18 20:12:12 +0000
 external-url: https://github.com/OSAS/strapping-mediawiki
 hash: 31deac3292dc887319689ec4290e6e4e
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: https
-    host: github.com
-    path: /OSAS/strapping-mediawiki
+year: 2013
+month: 01
+scheme: https
+host: github.com
+path: /OSAS/strapping-mediawiki
 
 ---
 

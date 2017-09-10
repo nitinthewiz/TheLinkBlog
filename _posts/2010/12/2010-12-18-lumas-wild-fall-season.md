@@ -3,13 +3,11 @@ title: "Luma’s Wild Fall Season"
 date: 2010-12-18 10:20:00 +0000
 external-url: http://duncandavidson.com/blog/2010/12/six-hour-sellout
 hash: 42693ecbd9b427eb69ce80fe672ffdc4
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /blog/2010/12/six-hour-sellout
+year: 2010
+month: 12
+scheme: http
+host: duncandavidson.com
+path: /blog/2010/12/six-hour-sellout
 
 ---
 

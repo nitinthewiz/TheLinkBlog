@@ -3,13 +3,11 @@ title: "Factors Associated With Closures of Emergency Departments in the United 
 date: 2011-05-24 18:05:13 +0000
 external-url: http://jama.ama-assn.org/content/305/19/1978.short
 hash: c319e65b9576314abb244195ca8a01d4
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: jama.ama-assn.org
-    path: /content/305/19/1978.short
+year: 2011
+month: 05
+scheme: http
+host: jama.ama-assn.org
+path: /content/305/19/1978.short
 
 ---
 

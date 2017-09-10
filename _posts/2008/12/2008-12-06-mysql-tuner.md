@@ -3,13 +3,11 @@ title: "MySQL Tuner"
 date: 2008-12-06 15:16:00 +0000
 external-url: https://github.com/major/MySQLTuner-perl
 hash: 96d70ec7471f939ec34b4be5a0361d3d
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: https
-    host: github.com
-    path: /major/MySQLTuner-perl
+year: 2008
+month: 12
+scheme: https
+host: github.com
+path: /major/MySQLTuner-perl
 
 ---
 

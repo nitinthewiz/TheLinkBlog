@@ -3,13 +3,11 @@ title: "Google Website Optimizer Opens Up"
 date: 2008-04-18 19:00:00 +0000
 external-url: http://gigaom.com/2008/04/18/google-website-optimizer-opens-up/
 hash: d62483df3d50debd6203fee8ec037489
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/04/18/google-website-optimizer-opens-up/
+year: 2008
+month: 04
+scheme: http
+host: gigaom.com
+path: /2008/04/18/google-website-optimizer-opens-up/
 
 ---
 

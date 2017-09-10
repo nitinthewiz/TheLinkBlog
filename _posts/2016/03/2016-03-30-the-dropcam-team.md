@@ -3,13 +3,11 @@ title: "The Dropcam Team"
 date: 2016-03-30 00:49:33 +0000
 external-url: https://medium.com/@gduffy/the-dropcam-team-b9e81f44f259#.xyiu323jd
 hash: f9a56c0a1954030d0b4335310fa6b591
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@gduffy/the-dropcam-team-b9e81f44f259
+year: 2016
+month: 03
+scheme: https
+host: medium.com
+path: /@gduffy/the-dropcam-team-b9e81f44f259
 
 ---
 

@@ -3,13 +3,11 @@ title: "Lightroom 5 beta Now Available!"
 date: 2013-04-15 20:35:45 +0000
 external-url: http://blogs.adobe.com/photoshopdotcom/2013/04/lightroom-5-beta-now-available.html
 hash: 4df4f1c5d6914e5c1539f707d6f774c4
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: blogs.adobe.com
-    path: /photoshopdotcom/2013/04/lightroom-5-beta-now-available.html
+year: 2013
+month: 04
+scheme: http
+host: blogs.adobe.com
+path: /photoshopdotcom/2013/04/lightroom-5-beta-now-available.html
 
 ---
 

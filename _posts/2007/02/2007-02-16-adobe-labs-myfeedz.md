@@ -3,13 +3,11 @@ title: "Adobe Labs - myFeedz"
 date: 2007-02-16 15:30:52 +0000
 external-url: http://labs.adobe.com/technologies/myfeedz/
 hash: ec5ab1a0d30452a4dbffa2e50a822a9b
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: labs.adobe.com
-    path: /technologies/myfeedz/
+year: 2007
+month: 02
+scheme: http
+host: labs.adobe.com
+path: /technologies/myfeedz/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Iceland's Blue Lagoon with Kids: Good, Bad and Naked"
 date: 2015-11-23 02:40:57 +0000
 external-url: http://www.theworldisabook.com/8726/blue-lagoon-with-kids/
 hash: ed9ea82f36f8284d2ce892d34fc7a59b
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: www.theworldisabook.com
-    path: /8726/blue-lagoon-with-kids/
+year: 2015
+month: 11
+scheme: http
+host: www.theworldisabook.com
+path: /8726/blue-lagoon-with-kids/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Mindfulness - CBS News"
 date: 2014-12-15 14:15:50 +0000
 external-url: http://www.cbsnews.com/news/mindfulness-anderson-cooper-60-minutes/
 hash: 709f8a0fe24369891dff3639db044149
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: www.cbsnews.com
-    path: /news/mindfulness-anderson-cooper-60-minutes/
+year: 2014
+month: 12
+scheme: http
+host: www.cbsnews.com
+path: /news/mindfulness-anderson-cooper-60-minutes/
 
 ---
 

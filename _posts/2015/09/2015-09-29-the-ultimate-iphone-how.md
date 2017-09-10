@@ -3,13 +3,11 @@ title: "The ultimate iPhone camera comparison: How does the iPhone 6s camera com
 date: 2015-09-29 09:42:53 +0000
 external-url: http://snapsnapsnap.photos/iphone-6s-camera-comparison/
 hash: eb431bb2bf6db3a413f6eaeacfe59d18
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: snapsnapsnap.photos
-    path: /iphone-6s-camera-comparison/
+year: 2015
+month: 09
+scheme: http
+host: snapsnapsnap.photos
+path: /iphone-6s-camera-comparison/
 
 ---
 

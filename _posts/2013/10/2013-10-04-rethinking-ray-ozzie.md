@@ -3,13 +3,11 @@ title: "Rethinking Ray Ozzie"
 date: 2013-10-04 21:20:49 +0000
 external-url: http://winsupersite.com/cloud/rethinking-ray-ozzie
 hash: db367f9b11ba8e2a2563db177dc05caa
-annum:
-    year: 2013
-    month: 10
-url-parts:
-    scheme: http
-    host: winsupersite.com
-    path: /cloud/rethinking-ray-ozzie
+year: 2013
+month: 10
+scheme: http
+host: winsupersite.com
+path: /cloud/rethinking-ray-ozzie
 
 ---
 

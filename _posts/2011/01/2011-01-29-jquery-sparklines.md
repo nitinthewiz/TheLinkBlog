@@ -3,13 +3,11 @@ title: "jQuery Sparklines"
 date: 2011-01-29 03:52:33 +0000
 external-url: http://omnipotent.net/jquery.sparkline/
 hash: b20f7c9f32d1540d0cb35aa14cedc041
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: omnipotent.net
-    path: /jquery.sparkline/
+year: 2011
+month: 01
+scheme: http
+host: omnipotent.net
+path: /jquery.sparkline/
 
 ---
 

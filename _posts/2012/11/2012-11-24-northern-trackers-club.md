@@ -3,13 +3,11 @@ title: "Northern Trackers Railroad Club - Crosslake Minnesota"
 date: 2012-11-24 18:07:57 +0000
 external-url: http://www.northerntrackersrrclub.com/index.html
 hash: ef58dcbf2753d24925c0d9488ab7a8f1
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.northerntrackersrrclub.com
-    path: /index.html
+year: 2012
+month: 11
+scheme: http
+host: www.northerntrackersrrclub.com
+path: /index.html
 
 ---
 

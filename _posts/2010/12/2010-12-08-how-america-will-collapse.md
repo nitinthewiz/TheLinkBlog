@@ -3,13 +3,11 @@ title: "How America will collapse (by 2025)"
 date: 2010-12-08 12:29:24 +0000
 external-url: http://www.salon.com/2010/12/06/america_collapse_2025/
 hash: 3815973e833695fa74e64adcbca403e2
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.salon.com
-    path: /2010/12/06/america_collapse_2025/
+year: 2010
+month: 12
+scheme: http
+host: www.salon.com
+path: /2010/12/06/america_collapse_2025/
 
 ---
 

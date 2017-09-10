@@ -3,13 +3,11 @@ title: "Orange Data Mining Fruitful & Fun"
 date: 2013-03-17 03:03:51 +0000
 external-url: http://orange.biolab.si/
 hash: 06351eb623c77c2670a8b156895b5dc3
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: orange.biolab.si
-    path: /
+year: 2013
+month: 03
+scheme: http
+host: orange.biolab.si
+path: /
 
 ---
 

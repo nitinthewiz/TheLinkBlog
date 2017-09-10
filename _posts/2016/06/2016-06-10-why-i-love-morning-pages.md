@@ -3,13 +3,11 @@ title: "Why I Love Morning Pages —MyProductiveMac “   My morning routine h
 date: 2016-06-10 00:47:56 +0000
 external-url: http://www.myproductivemac.com/blog/why-i-love-morning-pages662016
 hash: 95340404656573561b56720cc75859f3
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/why-i-love-morning-pages662016
+year: 2016
+month: 06
+scheme: http
+host: www.myproductivemac.com
+path: /blog/why-i-love-morning-pages662016
 
 ---
 

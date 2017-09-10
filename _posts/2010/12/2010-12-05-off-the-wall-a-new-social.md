@@ -3,13 +3,11 @@ title: "Off The Wall: A New Social Commerce Experiment On Facebook"
 date: 2010-12-05 12:21:18 +0000
 external-url: http://blogs.forrester.com/ebusiness_strategy/2009/12/off-the-wall-a-new-social-commerce-experiment-on-facebook.html
 hash: f7476e9778eb01471ff2706851d69184
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: blogs.forrester.com
-    path: /ebusiness_strategy/2009/12/off-the-wall-a-new-social-commerce-experiment-on-facebook.html
+year: 2010
+month: 12
+scheme: http
+host: blogs.forrester.com
+path: /ebusiness_strategy/2009/12/off-the-wall-a-new-social-commerce-experiment-on-facebook.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Groupon IPO: Pass on this deal"
 date: 2011-06-03 19:52:53 +0000
 external-url: http://shortlogic.tumblr.com/post/6142108636/groupon-ipo-pass-on-this-deal
 hash: 77a12062cf2127537f9e1be1ac90b268
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: shortlogic.tumblr.com
-    path: /post/6142108636/groupon-ipo-pass-on-this-deal
+year: 2011
+month: 06
+scheme: http
+host: shortlogic.tumblr.com
+path: /post/6142108636/groupon-ipo-pass-on-this-deal
 
 ---
 

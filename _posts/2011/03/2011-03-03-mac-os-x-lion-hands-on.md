@@ -3,13 +3,11 @@ title: "Mac OS X Lion hands-on preview"
 date: 2011-03-03 05:11:05 +0000
 external-url: http://www.engadget.com/2011/02/28/mac-os-x-lion-hands-on-preview/
 hash: 63ee9e4be71094f75def4e1b8067d06e
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.engadget.com
-    path: /2011/02/28/mac-os-x-lion-hands-on-preview/
+year: 2011
+month: 03
+scheme: http
+host: www.engadget.com
+path: /2011/02/28/mac-os-x-lion-hands-on-preview/
 
 ---
 

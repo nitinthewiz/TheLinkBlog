@@ -3,13 +3,11 @@ title: "Frank Warren: Half a million secrets"
 date: 2012-05-12 20:53:40 +0000
 external-url: http://www.ted.com/talks/frank_warren_half_a_million_secrets
 hash: 3deef735b83cee6d20726a6855bf9f55
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/frank_warren_half_a_million_secrets
+year: 2012
+month: 05
+scheme: http
+host: www.ted.com
+path: /talks/frank_warren_half_a_million_secrets
 
 ---
 

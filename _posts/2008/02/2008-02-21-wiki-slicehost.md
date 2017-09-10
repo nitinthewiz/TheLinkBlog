@@ -3,13 +3,11 @@ title: "wiki [Slicehost]"
 date: 2008-02-21 05:43:58 +0000
 external-url: http://wiki.slicehost.com/doku.php
 hash: 57bc267d212f5697cf656b04ea7ee08f
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: wiki.slicehost.com
-    path: /doku.php
+year: 2008
+month: 02
+scheme: http
+host: wiki.slicehost.com
+path: /doku.php
 
 ---
 

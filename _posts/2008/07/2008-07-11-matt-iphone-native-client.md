@@ -3,13 +3,11 @@ title: "Matt: iPhone-native WordPress Client"
 date: 2008-07-11 00:21:45 +0000
 external-url: http://ma.tt/2008/07/iphone-native-wordpress-client/
 hash: e2d25443f2c1fe2f7b86995b1e734584
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2008/07/iphone-native-wordpress-client/
+year: 2008
+month: 07
+scheme: http
+host: ma.tt
+path: /2008/07/iphone-native-wordpress-client/
 
 ---
 

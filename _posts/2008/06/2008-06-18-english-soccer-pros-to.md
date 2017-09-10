@@ -3,13 +3,11 @@ title: "English soccer pros to play Minnesota Thunder"
 date: 2008-06-18 13:07:36 +0000
 external-url: http://www.mprnews.org/story/2008/06/18/thunder
 hash: a828100bd61934420a0fd8b560773ac1
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.mprnews.org
-    path: /story/2008/06/18/thunder
+year: 2008
+month: 06
+scheme: http
+host: www.mprnews.org
+path: /story/2008/06/18/thunder
 
 ---
 

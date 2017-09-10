@@ -3,13 +3,11 @@ title: "How We Calculate Your Carbon Footprint"
 date: 2011-07-09 11:35:27 +0000
 external-url: http://www.carbonfund.org/site/pages/carbon_calculators/category/Assumptions
 hash: 953263609a3232039e8aae458a13bb64
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.carbonfund.org
-    path: /site/pages/carbon_calculators/category/Assumptions
+year: 2011
+month: 07
+scheme: http
+host: www.carbonfund.org
+path: /site/pages/carbon_calculators/category/Assumptions
 
 ---
 

@@ -3,13 +3,11 @@ title: "Looking for the One: How I Went on 150 Dates in 4 Months"
 date: 2017-07-06 02:36:44 +0000
 external-url: https://medium.com/the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
 hash: 317a216181f7f930c4388a10df63001a
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
+year: 2017
+month: 07
+scheme: https
+host: medium.com
+path: /the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
 
 ---
 

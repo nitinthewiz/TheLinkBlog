@@ -3,13 +3,11 @@ title: "New – Upload AWS Cost"
 date: 2016-08-30 02:13:27 +0000
 external-url: https://aws.amazon.com/blogs/aws/new-upload-aws-cost-usage-reports-to-redshift-and-quicksight/
 hash: 0ce35d2ba0ea647b3b92f74a2b25aea2
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/new-upload-aws-cost-usage-reports-to-redshift-and-quicksight/
+year: 2016
+month: 08
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/new-upload-aws-cost-usage-reports-to-redshift-and-quicksight/
 
 ---
 

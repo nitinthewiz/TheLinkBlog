@@ -3,13 +3,11 @@ title: "The Apple Watch Review — Tools and Toys"
 date: 2015-05-31 15:38:15 +0000
 external-url: http://toolsandtoys.net/reviews/apple-watch-review/
 hash: 7cfa9278dac160a644e22ad22af6b451
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: toolsandtoys.net
-    path: /reviews/apple-watch-review/
+year: 2015
+month: 05
+scheme: http
+host: toolsandtoys.net
+path: /reviews/apple-watch-review/
 
 ---
 

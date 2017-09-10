@@ -3,13 +3,11 @@ title: "Facebook, for the first time, acknowledges election manipulation - CBS N
 date: 2017-07-05 22:44:57 +0000
 external-url: http://www.cbsnews.com/news/facebook-for-the-first-time-acknowledges-election-manipulation/
 hash: 1167c708c5cd4fe70d3c91e4dc30768e
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.cbsnews.com
-    path: /news/facebook-for-the-first-time-acknowledges-election-manipulation/
+year: 2017
+month: 07
+scheme: http
+host: www.cbsnews.com
+path: /news/facebook-for-the-first-time-acknowledges-election-manipulation/
 
 ---
 

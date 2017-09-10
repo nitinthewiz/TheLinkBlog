@@ -3,13 +3,11 @@ title: "Dow Jones President Todd Larsen steps down"
 date: 2012-06-19 17:22:57 +0000
 external-url: http://www.poynter.org/latest-news/mediawire/177744/dow-jones-president-todd-larsen-steps-down/
 hash: 9a37f533e5d493da03cb82152f72fa0d
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.poynter.org
-    path: /latest-news/mediawire/177744/dow-jones-president-todd-larsen-steps-down/
+year: 2012
+month: 06
+scheme: http
+host: www.poynter.org
+path: /latest-news/mediawire/177744/dow-jones-president-todd-larsen-steps-down/
 
 ---
 

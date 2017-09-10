@@ -3,13 +3,11 @@ title: "Driving Change With Paul Johansen, The CTO Of Edmentum"
 date: 2015-11-21 01:48:23 +0000
 external-url: http://tech.mn/den9b
 hash: b1c12b852748a201fbc25684d55ecae9
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /den9b
+year: 2015
+month: 11
+scheme: http
+host: tech.mn
+path: /den9b
 
 ---
 

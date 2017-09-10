@@ -3,13 +3,11 @@ title: "HR veteran joins SPS Commerce | SPS Commerce"
 date: 2015-02-12 19:40:01 +0000
 external-url: http://www.spscommerce.com/blog/hr-veteran-joins-sps-commerce/
 hash: 1bc03ba7f8ba16a31e8a1e2c34b632ab
-annum:
-    year: 2015
-    month: 02
-url-parts:
-    scheme: http
-    host: www.spscommerce.com
-    path: /blog/hr-veteran-joins-sps-commerce/
+year: 2015
+month: 02
+scheme: http
+host: www.spscommerce.com
+path: /blog/hr-veteran-joins-sps-commerce/
 
 ---
 

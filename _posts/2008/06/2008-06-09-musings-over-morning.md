@@ -3,13 +3,11 @@ title: "Musings Over Morning Coffee"
 date: 2008-06-09 13:25:54 +0000
 external-url: http://www.dailykos.com/story/2008/06/09/532220/-Musings-Over-Morning-Coffee
 hash: 38044588f5fbd18a55c8e1fc76fd1505
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2008/06/09/532220/-Musings-Over-Morning-Coffee
+year: 2008
+month: 06
+scheme: http
+host: www.dailykos.com
+path: /story/2008/06/09/532220/-Musings-Over-Morning-Coffee
 
 ---
 

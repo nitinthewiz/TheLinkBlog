@@ -3,13 +3,11 @@ title: "Skyliners Paris trailer"
 date: 2011-08-21 01:23:01 +0000
 external-url: http://kottke.org/11/08/skyliners-paris-trailer
 hash: 468a03461b08f97a5c996f588c820a3c
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /11/08/skyliners-paris-trailer
+year: 2011
+month: 08
+scheme: http
+host: kottke.org
+path: /11/08/skyliners-paris-trailer
 
 ---
 

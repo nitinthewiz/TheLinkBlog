@@ -3,13 +3,11 @@ title: "Beliefnet Being Bought By News Corp; Cable Ties Possible; Not Buying Lin
 date: 2007-12-04 19:37:13 +0000
 external-url: https://gigaom.com/2007/12/04/419-beliefnet-being-bought-by-news-corp-reports-not-linkedin/
 hash: 92a3c059a97a86962f0bed49f8930238
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2007/12/04/419-beliefnet-being-bought-by-news-corp-reports-not-linkedin/
+year: 2007
+month: 12
+scheme: https
+host: gigaom.com
+path: /2007/12/04/419-beliefnet-being-bought-by-news-corp-reports-not-linkedin/
 
 ---
 

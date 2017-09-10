@@ -3,13 +3,11 @@ title: "An Interview with Paul Ford and Gina Trapani"
 date: 2012-06-15 19:48:45 +0000
 external-url: http://www.inthelibrarywiththeleadpipe.org/2012/an-interview-with-paul-ford-and-gina-trapani/
 hash: 3c433adbf5f97ed6b57df3ad8a214eef
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.inthelibrarywiththeleadpipe.org
-    path: /2012/an-interview-with-paul-ford-and-gina-trapani/
+year: 2012
+month: 06
+scheme: http
+host: www.inthelibrarywiththeleadpipe.org
+path: /2012/an-interview-with-paul-ford-and-gina-trapani/
 
 ---
 

@@ -3,13 +3,11 @@ title: "How to Deploy Software"
 date: 2016-03-02 10:10:54 +0000
 external-url: https://zachholman.com/posts/deploying-software
 hash: 7ef5299c7f07a915e505d66cbaae6489
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: zachholman.com
-    path: /posts/deploying-software
+year: 2016
+month: 03
+scheme: https
+host: zachholman.com
+path: /posts/deploying-software
 
 ---
 

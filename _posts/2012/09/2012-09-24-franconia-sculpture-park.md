@@ -3,13 +3,11 @@ title: "Franconia Sculpture Park"
 date: 2012-09-24 18:49:00 +0000
 external-url: http://www.franconia.org/
 hash: 5f2cbdb26e0f3757e4823da489f02950
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: www.franconia.org
-    path: /
+year: 2012
+month: 09
+scheme: http
+host: www.franconia.org
+path: /
 
 ---
 

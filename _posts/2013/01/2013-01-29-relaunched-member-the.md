@@ -3,13 +3,11 @@ title: "Relaunched! Member supported - The Changelog"
 date: 2013-01-29 16:57:00 +0000
 external-url: http://thechangelog.com/relaunched-member-supported/
 hash: d75f94c1793f9b433cc7609db1e65a3d
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: thechangelog.com
-    path: /relaunched-member-supported/
+year: 2013
+month: 01
+scheme: http
+host: thechangelog.com
+path: /relaunched-member-supported/
 
 ---
 

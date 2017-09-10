@@ -3,13 +3,11 @@ title: "GTD-Q® Assessment"
 date: 2016-03-19 18:33:29 +0000
 external-url: http://gettingthingsdone.com/gtd-q/
 hash: e8c5fff5784486ce70ad3780c678b669
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: gettingthingsdone.com
-    path: /gtd-q/
+year: 2016
+month: 03
+scheme: http
+host: gettingthingsdone.com
+path: /gtd-q/
 
 ---
 

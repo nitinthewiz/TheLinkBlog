@@ -3,13 +3,11 @@ title: "A quick guide to Stripe’s culture"
 date: 2017-07-23 10:17:01 +0000
 external-url: https://stripe.com/us/jobs/candidate-info-culture
 hash: a955141b618db0f1e6ce27f7b1ba1333
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: stripe.com
-    path: /us/jobs/candidate-info-culture
+year: 2017
+month: 07
+scheme: https
+host: stripe.com
+path: /us/jobs/candidate-info-culture
 
 ---
 

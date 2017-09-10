@@ -3,13 +3,11 @@ title: "Birdhouse — A Notepad for Twitter"
 date: 2009-04-15 02:23:16 +0000
 external-url: http://birdhouseapp.com/
 hash: 3e8705f929ce19ada28a21409c901d03
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: birdhouseapp.com
-    path: /
+year: 2009
+month: 04
+scheme: http
+host: birdhouseapp.com
+path: /
 
 ---
 

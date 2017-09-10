@@ -3,13 +3,11 @@ title: "Veganomicon: The Ultimate Vegan Cookbook"
 date: 2011-09-23 01:51:03 +0000
 external-url: http://www.theppk.com/books/veganomicon-the-ultimate-vegan-cookbook/
 hash: 4da0e4f46e70eeec70f69cf14839467f
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: www.theppk.com
-    path: /books/veganomicon-the-ultimate-vegan-cookbook/
+year: 2011
+month: 09
+scheme: http
+host: www.theppk.com
+path: /books/veganomicon-the-ultimate-vegan-cookbook/
 
 ---
 

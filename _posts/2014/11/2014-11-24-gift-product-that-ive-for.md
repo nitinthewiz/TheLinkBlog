@@ -3,13 +3,11 @@ title: "Gift/Product Recommendations That I’ve Actually Used For At Least A Ye
 date: 2014-11-24 02:35:19 +0000
 external-url: http://www.marco.org/2013/12/12/gift-guide-actually-used-for-a-year
 hash: 8b90786b5790e28b8bf5ca63c404898b
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2013/12/12/gift-guide-actually-used-for-a-year
+year: 2014
+month: 11
+scheme: http
+host: www.marco.org
+path: /2013/12/12/gift-guide-actually-used-for-a-year
 
 ---
 

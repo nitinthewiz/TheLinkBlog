@@ -3,13 +3,11 @@ title: "What You Need To Know About WordCamp Dallas"
 date: 2008-03-27 05:08:35 +0000
 external-url: http://lorelle.wordpress.com/2008/03/26/what-you-need-to-know-about-wordcamp-dallas/
 hash: 772af16c2ba2fa1bbf6dc2345ace2d41
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: lorelle.wordpress.com
-    path: /2008/03/26/what-you-need-to-know-about-wordcamp-dallas/
+year: 2008
+month: 03
+scheme: http
+host: lorelle.wordpress.com
+path: /2008/03/26/what-you-need-to-know-about-wordcamp-dallas/
 
 ---
 

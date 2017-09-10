@@ -3,13 +3,11 @@ title: "The Scientifically Proven Way To Have The Best Vacation Ever"
 date: 2017-07-28 04:17:35 +0000
 external-url: https://www.fastcompany.com/3048975/the-scientifically-proven-way-to-have-the-best-vacation-ever
 hash: a6706b9e80b5591467687704a7a745d5
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.fastcompany.com
-    path: /3048975/the-scientifically-proven-way-to-have-the-best-vacation-ever
+year: 2017
+month: 07
+scheme: https
+host: www.fastcompany.com
+path: /3048975/the-scientifically-proven-way-to-have-the-best-vacation-ever
 
 ---
 

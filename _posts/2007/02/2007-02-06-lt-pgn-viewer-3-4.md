@@ -3,13 +3,11 @@ title: "LT-PGN-VIEWER 3.4"
 date: 2007-02-06 04:44:38 +0000
 external-url: http://www.lutanho.net/pgn/pgnviewer.html
 hash: 5a98f39ba024ec09cfd7566432338922
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.lutanho.net
-    path: /pgn/pgnviewer.html
+year: 2007
+month: 02
+scheme: http
+host: www.lutanho.net
+path: /pgn/pgnviewer.html
 
 ---
 

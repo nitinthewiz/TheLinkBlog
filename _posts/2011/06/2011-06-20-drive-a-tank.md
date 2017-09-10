@@ -3,13 +3,11 @@ title: "Drive a Tank"
 date: 2011-06-20 12:52:50 +0000
 external-url: http://driveatank.com/
 hash: 93c61f50d1d3658c836d8e64a14c12af
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: driveatank.com
-    path: /
+year: 2011
+month: 06
+scheme: http
+host: driveatank.com
+path: /
 
 ---
 

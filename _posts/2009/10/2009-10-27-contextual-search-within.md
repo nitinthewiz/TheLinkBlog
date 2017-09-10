@@ -3,13 +3,11 @@ title: "Contextual search within Wikipedia"
 date: 2009-10-27 00:09:46 +0000
 external-url: http://googleblog.blogspot.com/2009/10/contextual-search-within-wikipedia.html
 hash: 63f1f0f90e8f679ef6a007243c652ce8
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/10/contextual-search-within-wikipedia.html
+year: 2009
+month: 10
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/10/contextual-search-within-wikipedia.html
 
 ---
 

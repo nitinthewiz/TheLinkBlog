@@ -3,13 +3,11 @@ title: "Sisyphus Industries"
 date: 2017-06-05 00:48:49 +0000
 external-url: http://www.sisyphus-industries.com/
 hash: 8248a230de60e7a08d00f36ac7024c5b
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: http
-    host: www.sisyphus-industries.com
-    path: /
+year: 2017
+month: 06
+scheme: http
+host: www.sisyphus-industries.com
+path: /
 
 ---
 

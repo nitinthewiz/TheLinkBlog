@@ -3,13 +3,11 @@ title: "As news of Trump’s taxes breaks, he goes off script at a rally in Penn
 date: 2016-10-02 17:51:33 +0000
 external-url: https://www.washingtonpost.com/news/post-politics/wp/2016/10/02/as-news-of-trumps-taxes-broke-he-goes-off-script-at-a-rally-in-pennsylvania/
 hash: 918b19c5e4ed2ffb34f6501c69b0a24b
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: www.washingtonpost.com
-    path: /news/post-politics/wp/2016/10/02/as-news-of-trumps-taxes-broke-he-goes-off-script-at-a-rally-in-pennsylvania/
+year: 2016
+month: 10
+scheme: https
+host: www.washingtonpost.com
+path: /news/post-politics/wp/2016/10/02/as-news-of-trumps-taxes-broke-he-goes-off-script-at-a-rally-in-pennsylvania/
 
 ---
 

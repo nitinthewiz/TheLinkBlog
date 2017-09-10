@@ -3,13 +3,11 @@ title: "Wikipedia Coming to an iPhone/iPad/iPod search near you"
 date: 2010-03-05 05:05:21 +0000
 external-url: http://9to5mac.com/2010/03/04/wikipedia-coming-to-an-iphoneipadipod-search-near-you/
 hash: 24ada7e28eb0357233bfcce03adddc34
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2010/03/04/wikipedia-coming-to-an-iphoneipadipod-search-near-you/
+year: 2010
+month: 03
+scheme: http
+host: 9to5mac.com
+path: /2010/03/04/wikipedia-coming-to-an-iphoneipadipod-search-near-you/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Negotiating Your Startup Job Offer - Robby Grossman"
 date: 2013-02-22 20:03:13 +0000
 external-url: http://rob.by/2013/negotiating-your-startup-job-offer/
 hash: 7f7adfe17cbb8dcab39d3f7d890fb3f0
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: rob.by
-    path: /2013/negotiating-your-startup-job-offer/
+year: 2013
+month: 02
+scheme: http
+host: rob.by
+path: /2013/negotiating-your-startup-job-offer/
 
 ---
 

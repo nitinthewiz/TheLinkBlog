@@ -3,13 +3,11 @@ title: "Encourage children to spend more time online, says former GCHQ head | So
 date: 2017-08-08 21:21:14 +0000
 external-url: https://www.theguardian.com/society/2017/aug/08/encourage-children-to-spend-more-time-online-says-former-gchq-head
 hash: aa959e8f08362951fc4b6f7eea03cd98
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.theguardian.com
-    path: /society/2017/aug/08/encourage-children-to-spend-more-time-online-says-former-gchq-head
+year: 2017
+month: 08
+scheme: https
+host: www.theguardian.com
+path: /society/2017/aug/08/encourage-children-to-spend-more-time-online-says-former-gchq-head
 
 ---
 

@@ -3,15 +3,13 @@ title: "A Swarm of Nano Quadrotors"
 date: 2012-09-26 23:14:59 +0000
 external-url: https://www.youtube.com/watch?v=YQIMGV5vtd4
 hash: c8bd797de816e4cab963229fccdfd8d1
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: https
-    host: www.youtube.com
-    path: /watch
-    query:
-        v: "YQIMGV5vtd4"
+year: 2012
+month: 09
+scheme: https
+host: www.youtube.com
+path: /watch
+query:
+    v: "YQIMGV5vtd4"
 ---
 
 Crazy stuff these little quadrotors are doing.

@@ -3,13 +3,11 @@ title: "New Seattle P-I Shows The Future of Newspapers"
 date: 2009-03-17 01:58:03 +0000
 external-url: http://www.businessinsider.com/henry-blodget-new-seattle-p-i-shows-the-future-of-newspapers-2009-3
 hash: b87388bbb3f7e8e62bc3f40ec26ce379
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /henry-blodget-new-seattle-p-i-shows-the-future-of-newspapers-2009-3
+year: 2009
+month: 03
+scheme: http
+host: www.businessinsider.com
+path: /henry-blodget-new-seattle-p-i-shows-the-future-of-newspapers-2009-3
 
 ---
 

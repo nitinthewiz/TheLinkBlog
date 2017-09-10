@@ -3,13 +3,11 @@ title: "Using Amazon API Gateway with microservices deployed on Amazon ECS"
 date: 2016-02-24 02:07:10 +0000
 external-url: https://aws.amazon.com/blogs/compute/using-amazon-api-gateway-with-microservices-deployed-on-amazon-ecs/
 hash: 56eb8ad10cda1ae25698b6cd3b39e551
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/compute/using-amazon-api-gateway-with-microservices-deployed-on-amazon-ecs/
+year: 2016
+month: 02
+scheme: https
+host: aws.amazon.com
+path: /blogs/compute/using-amazon-api-gateway-with-microservices-deployed-on-amazon-ecs/
 
 ---
 

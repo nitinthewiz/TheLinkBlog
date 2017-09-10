@@ -3,13 +3,11 @@ title: "How To Get Facebooks Timeline Without The Wait"
 date: 2011-09-24 00:12:29 +0000
 external-url: http://allfacebook.com/facebook-timeline-no-wait_b59878
 hash: 6965b8c1b39ebe1a63667a8ed42aeae7
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /facebook-timeline-no-wait_b59878
+year: 2011
+month: 09
+scheme: http
+host: allfacebook.com
+path: /facebook-timeline-no-wait_b59878
 
 ---
 

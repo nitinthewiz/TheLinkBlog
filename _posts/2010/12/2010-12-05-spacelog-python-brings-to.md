@@ -3,13 +3,11 @@ title: "Spacelog: Python brings historical space missions to life"
 date: 2010-12-05 05:57:45 +0000
 external-url: http://thechangelog.com/spacelog-spacelog-a-website-for-experiencing-space-missi/
 hash: b33eb99f6d5f145e0d6907223c417979
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: thechangelog.com
-    path: /spacelog-spacelog-a-website-for-experiencing-space-missi/
+year: 2010
+month: 12
+scheme: http
+host: thechangelog.com
+path: /spacelog-spacelog-a-website-for-experiencing-space-missi/
 
 ---
 

@@ -3,13 +3,11 @@ title: "CLOSET'S GETTING FULL"
 date: 2011-07-13 04:58:18 +0000
 external-url: http://www.ginandtacos.com/2011/07/13/closets-getting-full/
 hash: f12484a3cfdef8119bff372c7ac6b9f4
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.ginandtacos.com
-    path: /2011/07/13/closets-getting-full/
+year: 2011
+month: 07
+scheme: http
+host: www.ginandtacos.com
+path: /2011/07/13/closets-getting-full/
 
 ---
 

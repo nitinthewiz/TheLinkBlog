@@ -3,13 +3,11 @@ title: "Vintage Overland"
 date: 2015-08-31 23:31:33 +0000
 external-url: http://www.vintageoverland.com/
 hash: fb53afd469e4bb925d94e6485afc402d
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: www.vintageoverland.com
-    path: /
+year: 2015
+month: 08
+scheme: http
+host: www.vintageoverland.com
+path: /
 
 ---
 

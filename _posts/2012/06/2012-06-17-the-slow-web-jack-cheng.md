@@ -3,13 +3,11 @@ title: "The Slow Web (Jack Cheng)"
 date: 2012-06-17 00:01:04 +0000
 external-url: http://jackcheng.com/post/25160553986/the-slow-web
 hash: 6ce09232469c48e16fcf99ce4f9d8f14
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: jackcheng.com
-    path: /post/25160553986/the-slow-web
+year: 2012
+month: 06
+scheme: http
+host: jackcheng.com
+path: /post/25160553986/the-slow-web
 
 ---
 

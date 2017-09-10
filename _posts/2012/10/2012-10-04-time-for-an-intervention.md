@@ -3,13 +3,11 @@ title: "Time for an Intervention"
 date: 2012-10-04 02:16:34 +0000
 external-url: http://blogs.wsj.com/peggynoonan/2012/09/18/time-for-an-intervention/
 hash: f6f43721352648a82dc1f4d7e3b63d73
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: blogs.wsj.com
-    path: /peggynoonan/2012/09/18/time-for-an-intervention/
+year: 2012
+month: 10
+scheme: http
+host: blogs.wsj.com
+path: /peggynoonan/2012/09/18/time-for-an-intervention/
 
 ---
 

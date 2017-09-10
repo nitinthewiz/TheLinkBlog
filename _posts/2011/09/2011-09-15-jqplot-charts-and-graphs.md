@@ -3,13 +3,11 @@ title: "jqPlot Charts and Graphs for jQuery"
 date: 2011-09-15 18:14:20 +0000
 external-url: http://www.jqplot.com/index.php
 hash: d0ab17203a1d9d1fdec5835fd405151d
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: www.jqplot.com
-    path: /index.php
+year: 2011
+month: 09
+scheme: http
+host: www.jqplot.com
+path: /index.php
 
 ---
 

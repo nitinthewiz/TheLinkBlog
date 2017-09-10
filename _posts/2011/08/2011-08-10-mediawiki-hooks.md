@@ -3,13 +3,11 @@ title: "MediaWiki Hooks"
 date: 2011-08-10 22:55:28 +0000
 external-url: http://www.mediawiki.org/wiki/Manual:Hooks
 hash: c8878ebd1829ef1fb57436285ad53d01
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Manual:Hooks
+year: 2011
+month: 08
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Manual:Hooks
 
 ---
 

@@ -3,13 +3,11 @@ title: "OmniFocus 2.3 - Custom Columns on Vimeo"
 date: 2015-12-15 01:45:39 +0000
 external-url: https://vimeo.com/148837801
 hash: fc936b90a4f92c9e3779355103c4bda5
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: vimeo.com
-    path: /148837801
+year: 2015
+month: 12
+scheme: https
+host: vimeo.com
+path: /148837801
 
 ---
 

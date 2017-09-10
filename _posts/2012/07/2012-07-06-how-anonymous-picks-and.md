@@ -3,13 +3,11 @@ title: "How Anonymous Picks Targets, Launches Attacks, and Takes Powerful Organi
 date: 2012-07-06 17:35:59 +0000
 external-url: http://www.wired.com/2012/07/ff_anonymous/
 hash: bd8f54e9d25edffdec95c85e4deb33cb
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2012/07/ff_anonymous/
+year: 2012
+month: 07
+scheme: http
+host: www.wired.com
+path: /2012/07/ff_anonymous/
 
 ---
 

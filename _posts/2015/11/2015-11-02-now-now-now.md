@@ -3,13 +3,11 @@ title: "Now Now Now"
 date: 2015-11-02 04:22:13 +0000
 external-url: http://nownownow.com/
 hash: e8f4eb17f04429283dde0e6973d62ae3
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: nownownow.com
-    path: /
+year: 2015
+month: 11
+scheme: http
+host: nownownow.com
+path: /
 
 ---
 

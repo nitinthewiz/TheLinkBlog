@@ -3,13 +3,11 @@ title: "Sweep the Sleaze"
 date: 2012-05-31 01:34:36 +0000
 external-url: http://ia.net/blog/sweep-the-sleaze/
 hash: 1b676f6a06b564ab60be0fd5b0017b3b
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: ia.net
-    path: /blog/sweep-the-sleaze/
+year: 2012
+month: 05
+scheme: http
+host: ia.net
+path: /blog/sweep-the-sleaze/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Welcome to Apache Hadoop!"
 date: 2012-04-16 15:52:52 +0000
 external-url: http://hadoop.apache.org/
 hash: e501bc976c8693b4d28a55b79c390a32
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: hadoop.apache.org
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: hadoop.apache.org
+path: /
 
 ---
 

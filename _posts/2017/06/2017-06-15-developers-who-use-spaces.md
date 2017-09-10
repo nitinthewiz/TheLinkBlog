@@ -3,13 +3,11 @@ title: "Developers Who Use Spaces Make More Money Than Those Who Use Tabs - Stac
 date: 2017-06-15 19:26:13 +0000
 external-url: https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/
 hash: 59615066f7f649ff6cabe0d73d5295f8
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: stackoverflow.blog
-    path: /2017/06/15/developers-use-spaces-make-money-use-tabs/
+year: 2017
+month: 06
+scheme: https
+host: stackoverflow.blog
+path: /2017/06/15/developers-use-spaces-make-money-use-tabs/
 
 ---
 

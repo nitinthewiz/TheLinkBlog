@@ -3,13 +3,11 @@ title: "The Hypocrisy of the Internet Journalist — The Message — Medium"
 date: 2015-05-31 15:35:04 +0000
 external-url: https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 hash: e3c36ed82814abceb1ed4e7c56a0bd1d
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
+year: 2015
+month: 05
+scheme: https
+host: medium.com
+path: /message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 
 ---
 

@@ -3,13 +3,11 @@ title: "Frontend Masters Workshop Series"
 date: 2011-09-16 21:21:24 +0000
 external-url: http://frontendmasters.com/
 hash: 207e475d0cabb8e1331bc89698705902
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: frontendmasters.com
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: frontendmasters.com
+path: /
 
 ---
 

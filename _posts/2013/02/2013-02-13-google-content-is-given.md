@@ -3,13 +3,11 @@ title: "Google+ content is given priority in search its official"
 date: 2013-02-13 20:31:52 +0000
 external-url: http://blog.dlvr.it/2013/02/google-content-is-given-priority-in-search-its-official/
 hash: c83a4509b31329ef61be62b6774f99fa
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.dlvr.it
-    path: /2013/02/google-content-is-given-priority-in-search-its-official/
+year: 2013
+month: 02
+scheme: http
+host: blog.dlvr.it
+path: /2013/02/google-content-is-given-priority-in-search-its-official/
 
 ---
 

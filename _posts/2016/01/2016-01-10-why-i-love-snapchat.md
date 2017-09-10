@@ -3,13 +3,11 @@ title: "Why I love Snapchat"
 date: 2016-01-10 10:58:10 +0000
 external-url: http://justinkan.com/why-i-love-snapchat
 hash: fb255cb371fabe6d9f0781640983fa2b
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: justinkan.com
-    path: /why-i-love-snapchat
+year: 2016
+month: 01
+scheme: http
+host: justinkan.com
+path: /why-i-love-snapchat
 
 ---
 

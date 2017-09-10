@@ -3,13 +3,11 @@ title: "You are what you think"
 date: 2010-07-23 11:02:00 +0000
 external-url: http://bobulate.com/post/849121521
 hash: 7b6729d9a26987550aab0c7b78b8f927
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: bobulate.com
-    path: /post/849121521
+year: 2010
+month: 07
+scheme: http
+host: bobulate.com
+path: /post/849121521
 
 ---
 

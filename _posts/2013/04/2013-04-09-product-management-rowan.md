@@ -3,13 +3,11 @@ title: "Product Management - Rowan Simpson"
 date: 2013-04-09 18:18:33 +0000
 external-url: http://rowansimpson.com/2013/04/08/product-management/
 hash: 45c665fa0d193faffafd9694048362a3
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: rowansimpson.com
-    path: /2013/04/08/product-management/
+year: 2013
+month: 04
+scheme: http
+host: rowansimpson.com
+path: /2013/04/08/product-management/
 
 ---
 

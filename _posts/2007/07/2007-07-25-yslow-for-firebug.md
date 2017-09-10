@@ -3,13 +3,11 @@ title: "YSlow for Firebug"
 date: 2007-07-25 13:51:26 +0000
 external-url: http://developer.yahoo.com/yslow/
 hash: e0ef18d76bef70ddf281bdfecb0137f8
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: developer.yahoo.com
-    path: /yslow/
+year: 2007
+month: 07
+scheme: http
+host: developer.yahoo.com
+path: /yslow/
 
 ---
 

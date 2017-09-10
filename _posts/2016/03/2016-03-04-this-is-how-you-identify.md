@@ -3,13 +3,11 @@ title: "This Is How You Identify A-Players (In About 10 Minutes) During An Inter
 date: 2016-03-04 16:10:58 +0000
 external-url: https://medium.com/@mitchellharper/this-is-how-you-identify-a-players-in-about-10-minutes-during-an-interview-58cce68667cb#.i0j13d9u4
 hash: 2270562d7fa3442df18088e995c568ec
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@mitchellharper/this-is-how-you-identify-a-players-in-about-10-minutes-during-an-interview-58cce68667cb
+year: 2016
+month: 03
+scheme: https
+host: medium.com
+path: /@mitchellharper/this-is-how-you-identify-a-players-in-about-10-minutes-during-an-interview-58cce68667cb
 
 ---
 

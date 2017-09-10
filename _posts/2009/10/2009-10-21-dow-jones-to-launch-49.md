@@ -3,16 +3,14 @@ title: "Dow Jones to launch $49/month Wall Street Journal Professional Edition"
 date: 2009-10-21 14:54:26 +0000
 external-url: http://www.poynter.org/column.asp?id=45&aid=172109
 hash: 5843b61b8b39466b4f46d59e97d96171
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.poynter.org
-    path: /column.asp
-    query:
-        id: "45"
-        aid: "172109"
+year: 2009
+month: 10
+scheme: http
+host: www.poynter.org
+path: /column.asp
+query:
+    id: "45"
+    aid: "172109"
 ---
 
 Wall Street Journal | Reuters 

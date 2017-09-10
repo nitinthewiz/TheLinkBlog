@@ -3,13 +3,11 @@ title: "Things I wish I knew about MongoDB a year ago"
 date: 2012-10-18 04:29:45 +0000
 external-url: http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/
 hash: 2b9ba93845e1ccdd1757e053a47e2b82
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: snmaynard.com
-    path: /2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/
+year: 2012
+month: 10
+scheme: http
+host: snmaynard.com
+path: /2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/
 
 ---
 

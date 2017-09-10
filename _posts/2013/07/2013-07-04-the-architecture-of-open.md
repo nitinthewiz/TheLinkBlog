@@ -3,13 +3,11 @@ title: "The Architecture of Open Source Applications (Volume 2): MediaWiki"
 date: 2013-07-04 02:44:24 +0000
 external-url: http://www.aosabook.org/en/mediawiki.html
 hash: cc7e57bf7be1d68e3dffc27692512ced
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.aosabook.org
-    path: /en/mediawiki.html
+year: 2013
+month: 07
+scheme: http
+host: www.aosabook.org
+path: /en/mediawiki.html
 
 ---
 

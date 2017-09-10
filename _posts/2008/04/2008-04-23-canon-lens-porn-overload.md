@@ -3,13 +3,11 @@ title: "Canon Lens Porn Overload"
 date: 2008-04-23 23:21:53 +0000
 external-url: http://www.cameraporn.net/2008/04/23/canon-lens-porn-overload/
 hash: 3944edb705336a3717eea0914a0a0ea4
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.cameraporn.net
-    path: /2008/04/23/canon-lens-porn-overload/
+year: 2008
+month: 04
+scheme: http
+host: www.cameraporn.net
+path: /2008/04/23/canon-lens-porn-overload/
 
 ---
 

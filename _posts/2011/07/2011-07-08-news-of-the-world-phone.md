@@ -3,13 +3,11 @@ title: "News of the World phone-hacking scandal - live updates | Media | guardia
 date: 2011-07-08 21:03:50 +0000
 external-url: http://www.guardian.co.uk/media/blog/2011/jul/08/news-of-the-world-phone-hacking-scandal#block-53
 hash: f80c303a00d3ad2ed5091534fa8b6ac9
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.guardian.co.uk
-    path: /media/blog/2011/jul/08/news-of-the-world-phone-hacking-scandal
+year: 2011
+month: 07
+scheme: http
+host: www.guardian.co.uk
+path: /media/blog/2011/jul/08/news-of-the-world-phone-hacking-scandal
 
 ---
 

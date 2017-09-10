@@ -3,13 +3,11 @@ title: "Cinematize 3 Pro Overview"
 date: 2007-07-04 06:04:57 +0000
 external-url: http://www.miraizon.com/products/cine3prooverview.html
 hash: 3181aa59b4a02e2b4a72e0e1e3577b01
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www.miraizon.com
-    path: /products/cine3prooverview.html
+year: 2007
+month: 07
+scheme: http
+host: www.miraizon.com
+path: /products/cine3prooverview.html
 
 ---
 

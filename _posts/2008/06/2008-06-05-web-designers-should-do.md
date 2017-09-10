@@ -3,13 +3,11 @@ title: "Web designers should do their own HTML/CSS"
 date: 2008-06-05 17:33:00 +0000
 external-url: http://www.37signals.com/svn/posts/1066-web-designers-should-do-their-own-htmlcss
 hash: bea890d09214c8e8b90f42c39c263360
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/1066-web-designers-should-do-their-own-htmlcss
+year: 2008
+month: 06
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1066-web-designers-should-do-their-own-htmlcss
 
 ---
 

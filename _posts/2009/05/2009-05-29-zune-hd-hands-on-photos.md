@@ -3,13 +3,11 @@ title: "Zune HD Hands On: Photos and Video Tour"
 date: 2009-05-29 02:16:32 +0000
 external-url: http://gizmodo.com/5272228/zune-hd-hands-on-photos-and-video-tour
 hash: a7e11d2d053070e31b4a6b48129d1010
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: gizmodo.com
-    path: /5272228/zune-hd-hands-on-photos-and-video-tour
+year: 2009
+month: 05
+scheme: http
+host: gizmodo.com
+path: /5272228/zune-hd-hands-on-photos-and-video-tour
 
 ---
 

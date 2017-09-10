@@ -3,13 +3,11 @@ title: "Website Updates (Nov 2007)"
 date: 2007-12-01 07:05:02 +0000
 external-url: http://www.thingelstad.com/2007/12/website-updates-nov-2007/
 hash: f18ed6f2936605acca6855e418460c5b
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.thingelstad.com
-    path: /2007/12/website-updates-nov-2007/
+year: 2007
+month: 12
+scheme: http
+host: www.thingelstad.com
+path: /2007/12/website-updates-nov-2007/
 
 ---
 

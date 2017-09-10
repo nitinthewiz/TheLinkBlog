@@ -3,13 +3,11 @@ title: "\"Autistic Social Software\" :: Supernova 2004"
 date: 2008-02-14 20:38:42 +0000
 external-url: http://www.danah.org/papers/Supernova2004.html
 hash: 1d4d54d3d78c7a36ee1568d1f09be251
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.danah.org
-    path: /papers/Supernova2004.html
+year: 2008
+month: 02
+scheme: http
+host: www.danah.org
+path: /papers/Supernova2004.html
 
 ---
 

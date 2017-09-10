@@ -3,13 +3,11 @@ title: "Seabreacher X"
 date: 2011-03-05 15:57:41 +0000
 external-url: http://seabreacher.com/seabreacher-x/
 hash: 67a35a0fc3883e651717f40f61e903d2
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: seabreacher.com
-    path: /seabreacher-x/
+year: 2011
+month: 03
+scheme: http
+host: seabreacher.com
+path: /seabreacher-x/
 
 ---
 

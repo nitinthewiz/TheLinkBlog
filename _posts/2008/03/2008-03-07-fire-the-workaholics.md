@@ -3,13 +3,11 @@ title: "Fire the workaholics"
 date: 2008-03-07 23:24:00 +0000
 external-url: http://signalvnoise.com/posts/902-fire-the-workaholics
 hash: cd3d392ed05a8f1b157aed456d990e66
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/902-fire-the-workaholics
+year: 2008
+month: 03
+scheme: http
+host: signalvnoise.com
+path: /posts/902-fire-the-workaholics
 
 ---
 

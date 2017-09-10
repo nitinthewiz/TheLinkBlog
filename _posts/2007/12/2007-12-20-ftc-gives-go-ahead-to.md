@@ -3,13 +3,11 @@ title: "FTC Gives Go-Ahead to Google-DoubleClick Deal"
 date: 2007-12-20 15:07:37 +0000
 external-url: http://gigaom.com/2007/12/20/ftc-gives-go-ahead-to-google-doubleclick-deal/
 hash: bfe9456e9886ae3022b8a0c12f76d92d
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/20/ftc-gives-go-ahead-to-google-doubleclick-deal/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/20/ftc-gives-go-ahead-to-google-doubleclick-deal/
 
 ---
 

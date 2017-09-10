@@ -3,13 +3,11 @@ title: "Pinboard API (v1) Documentation"
 date: 2011-03-26 13:14:24 +0000
 external-url: http://pinboard.in/api
 hash: 3917d1ef1c61f86d2b7439028329a5b8
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: pinboard.in
-    path: /api
+year: 2011
+month: 03
+scheme: http
+host: pinboard.in
+path: /api
 
 ---
 

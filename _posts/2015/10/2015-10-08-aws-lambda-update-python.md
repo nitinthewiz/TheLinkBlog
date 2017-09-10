@@ -3,13 +3,11 @@ title: "AWS Lambda Update – Python, VPC, Increased Function Duration, Scheduli
 date: 2015-10-08 18:25:43 +0000
 external-url: https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
 hash: 133a940e16ad59903d2c1502464c1fe3
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+year: 2015
+month: 10
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
 
 ---
 

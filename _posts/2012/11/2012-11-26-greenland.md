@@ -3,13 +3,11 @@ title: "Greenland"
 date: 2012-11-26 13:28:36 +0000
 external-url: http://vimeo.com/49718637
 hash: ecfdb36a9282177ef277b4cb896c6ae4
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /49718637
+year: 2012
+month: 11
+scheme: http
+host: vimeo.com
+path: /49718637
 
 ---
 

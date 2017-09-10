@@ -3,13 +3,11 @@ title: "MediaWiki Extension Social Sidebar"
 date: 2012-11-22 04:23:43 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:Social_Sidebar
 hash: ef5af4909777e0bdecaa57965e85e5c3
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:Social_Sidebar
+year: 2012
+month: 11
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:Social_Sidebar
 
 ---
 

@@ -3,13 +3,11 @@ title: "Facebook Is Now the Fourth Largest Site In The World"
 date: 2009-08-06 05:28:02 +0000
 external-url: http://techcrunch.com/2009/08/04/facebook-is-now-the-fourth-largest-site-in-the-world/
 hash: 6ef8525c252b175473f56a973150b4ed
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/08/04/facebook-is-now-the-fourth-largest-site-in-the-world/
+year: 2009
+month: 08
+scheme: http
+host: techcrunch.com
+path: /2009/08/04/facebook-is-now-the-fourth-largest-site-in-the-world/
 
 ---
 

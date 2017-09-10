@@ -3,13 +3,11 @@ title: "Twitter and the Twits"
 date: 2007-11-28 15:49:32 +0000
 external-url: http://ricksegal.typepad.com/pmv/2007/11/twitter-and-the.html
 hash: 59efcec0e247c766a727f628f8dc48fb
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: ricksegal.typepad.com
-    path: /pmv/2007/11/twitter-and-the.html
+year: 2007
+month: 11
+scheme: http
+host: ricksegal.typepad.com
+path: /pmv/2007/11/twitter-and-the.html
 
 ---
 

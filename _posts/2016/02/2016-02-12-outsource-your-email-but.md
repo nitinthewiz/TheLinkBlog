@@ -3,13 +3,11 @@ title: "Outsource Your Email - But Keep Your Boss Happy"
 date: 2016-02-12 03:08:13 +0000
 external-url: http://www.logicmonitor.com/blog/2016/02/11/outsource-your-email-but-keep-your-boss-happy/
 hash: 24c43da2a3fc2aa83802b61b3fcacbb4
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.logicmonitor.com
-    path: /blog/2016/02/11/outsource-your-email-but-keep-your-boss-happy/
+year: 2016
+month: 02
+scheme: http
+host: www.logicmonitor.com
+path: /blog/2016/02/11/outsource-your-email-but-keep-your-boss-happy/
 
 ---
 

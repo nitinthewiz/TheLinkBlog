@@ -3,13 +3,11 @@ title: "AwesomeChartJS"
 date: 2011-02-06 11:49:06 +0000
 external-url: http://cyberpython.github.io/AwesomeChartJS/
 hash: bf875d73895d5305db472bde8207cb93
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: cyberpython.github.io
-    path: /AwesomeChartJS/
+year: 2011
+month: 02
+scheme: http
+host: cyberpython.github.io
+path: /AwesomeChartJS/
 
 ---
 

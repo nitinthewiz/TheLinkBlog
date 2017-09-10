@@ -3,13 +3,11 @@ title: "Data Collaboration and Visualization Platform"
 date: 2015-11-05 11:46:07 +0000
 external-url: http://redash.io/
 hash: 5ab9f1b5b33d288bf9f72e7cecc75f37
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: redash.io
-    path: /
+year: 2015
+month: 11
+scheme: http
+host: redash.io
+path: /
 
 ---
 

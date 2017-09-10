@@ -3,13 +3,11 @@ title: "MPFreaker"
 date: 2007-08-15 02:46:18 +0000
 external-url: http://www.lairware.com/mpfreaker/
 hash: 0edbe428c496395b539a39c21fca5622
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: www.lairware.com
-    path: /mpfreaker/
+year: 2007
+month: 08
+scheme: http
+host: www.lairware.com
+path: /mpfreaker/
 
 ---
 

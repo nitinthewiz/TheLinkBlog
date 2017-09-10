@@ -3,13 +3,11 @@ title: "Eat Local Challenge - Chase's Daily"
 date: 2012-08-19 01:27:45 +0000
 external-url: http://www.eatlocalchallenge.com/2006/06/chases_daily.html
 hash: 27b8289299d0c27618b1a4fa1c9fd724
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.eatlocalchallenge.com
-    path: /2006/06/chases_daily.html
+year: 2012
+month: 08
+scheme: http
+host: www.eatlocalchallenge.com
+path: /2006/06/chases_daily.html
 
 ---
 

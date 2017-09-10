@@ -3,13 +3,11 @@ title: "Recession-born Fusion Room is coming together"
 date: 2010-12-13 17:17:07 +0000
 external-url: http://www.startribune.com/business/111684974.html
 hash: 576be451dc5e5627215bb90535e06274
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/111684974.html
+year: 2010
+month: 12
+scheme: http
+host: www.startribune.com
+path: /business/111684974.html
 
 ---
 

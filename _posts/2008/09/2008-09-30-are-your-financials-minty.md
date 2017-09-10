@@ -3,13 +3,11 @@ title: "Are Your Financials Minty Fresh?"
 date: 2008-09-30 17:47:57 +0000
 external-url: https://blog.compete.com/2008/09/30/mint-geezeo-wesabe-personal-0finance/
 hash: 3dd17da3478b03b76230d6a02aed5f85
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: https
-    host: blog.compete.com
-    path: /2008/09/30/mint-geezeo-wesabe-personal-0finance/
+year: 2008
+month: 09
+scheme: https
+host: blog.compete.com
+path: /2008/09/30/mint-geezeo-wesabe-personal-0finance/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Clement Bezold - Wikipedia"
 date: 2011-03-10 17:07:43 +0000
 external-url: http://en.wikipedia.org/wiki/Clement_Bezold
 hash: ea2c618afbbfdd9613e008c5f1a94941
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Clement_Bezold
+year: 2011
+month: 03
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Clement_Bezold
 
 ---
 

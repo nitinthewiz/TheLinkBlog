@@ -3,13 +3,11 @@ title: "Packetbeat - Application Monitoring - Open Source"
 date: 2015-05-13 01:45:03 +0000
 external-url: http://packetbeat.com/
 hash: 339af258ceb77bd7bce798721a507e48
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: packetbeat.com
-    path: /
+year: 2015
+month: 05
+scheme: http
+host: packetbeat.com
+path: /
 
 ---
 

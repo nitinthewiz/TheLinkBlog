@@ -3,13 +3,11 @@ title: "Setting Up the Jenkins Plugin for AWS CodeDeploy - AWS DevOps Blog"
 date: 2015-12-16 01:21:23 +0000
 external-url: http://blogs.aws.amazon.com/application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy
 hash: a797c9a353db2b845fec17214d569fbd
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy
+year: 2015
+month: 12
+scheme: http
+host: blogs.aws.amazon.com
+path: /application-management/post/TxMJROUIFQZ4HS/Setting-Up-the-Jenkins-Plugin-for-AWS-CodeDeploy
 
 ---
 

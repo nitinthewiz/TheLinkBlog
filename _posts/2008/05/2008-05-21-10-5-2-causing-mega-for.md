@@ -3,13 +3,11 @@ title: "10.5.2 causing mega-problems for musicians?"
 date: 2008-05-21 21:00:00 +0000
 external-url: http://www.tuaw.com/2008/05/21/10-5-2-causing-mega-problems-for-musicians/
 hash: cfca54c72494774e34c2a686a51997d1
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/05/21/10-5-2-causing-mega-problems-for-musicians/
+year: 2008
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2008/05/21/10-5-2-causing-mega-problems-for-musicians/
 
 ---
 

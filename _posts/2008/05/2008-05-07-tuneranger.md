@@ -3,13 +3,11 @@ title: "TuneRanger"
 date: 2008-05-07 17:12:52 +0000
 external-url: http://www.acertant.com/web/tuneranger/default.htm
 hash: 45a9b82b1a47d3e84add0faf4ae6a774
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.acertant.com
-    path: /web/tuneranger/default.htm
+year: 2008
+month: 05
+scheme: http
+host: www.acertant.com
+path: /web/tuneranger/default.htm
 
 ---
 

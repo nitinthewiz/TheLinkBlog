@@ -3,15 +3,13 @@ title: "Minneapolis-St. Paul International Airport Plane Spotting"
 date: 2012-05-06 21:40:28 +0000
 external-url: http://www.spotterswiki.com/index.php?title=Minneapolis-St._Paul_International_Airport
 hash: 481535f57699cf03115a2ad273d1f9ab
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.spotterswiki.com
-    path: /index.php
-    query:
-        title: "Minneapolis-St._Paul_International_Airport"
+year: 2012
+month: 05
+scheme: http
+host: www.spotterswiki.com
+path: /index.php
+query:
+    title: "Minneapolis-St._Paul_International_Airport"
 ---
 
 Wiki that highlights some good places to watch planes at MSP.

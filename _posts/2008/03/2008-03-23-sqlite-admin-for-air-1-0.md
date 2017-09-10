@@ -3,13 +3,11 @@ title: "SQLite Admin for AIR 1.0"
 date: 2008-03-23 20:06:53 +0000
 external-url: http://coenraets.org/blog/2008/02/sqlite-admin-for-air-10/
 hash: 6bd1a0402de1f92f09189020ae9b8301
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: coenraets.org
-    path: /blog/2008/02/sqlite-admin-for-air-10/
+year: 2008
+month: 03
+scheme: http
+host: coenraets.org
+path: /blog/2008/02/sqlite-admin-for-air-10/
 
 ---
 

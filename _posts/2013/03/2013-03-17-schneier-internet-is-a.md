@@ -3,13 +3,11 @@ title: "Schneier: Internet is a surveillance state"
 date: 2013-03-17 01:48:22 +0000
 external-url: http://www.cnn.com/2013/03/16/opinion/schneier-internet-surveillance/index.html
 hash: 9fefc27d7681b4893d5aa2d648f052df
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.cnn.com
-    path: /2013/03/16/opinion/schneier-internet-surveillance/index.html
+year: 2013
+month: 03
+scheme: http
+host: www.cnn.com
+path: /2013/03/16/opinion/schneier-internet-surveillance/index.html
 
 ---
 

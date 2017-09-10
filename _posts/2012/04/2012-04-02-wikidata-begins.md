@@ -3,13 +3,11 @@ title: "Wikidata begins"
 date: 2012-04-02 04:11:59 +0000
 external-url: http://wikiworks.com/blog/2012/04/02/wikidata-begins/
 hash: a3ed84409c5fcfa2064f83a136ccddfa
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: wikiworks.com
-    path: /blog/2012/04/02/wikidata-begins/
+year: 2012
+month: 04
+scheme: http
+host: wikiworks.com
+path: /blog/2012/04/02/wikidata-begins/
 
 ---
 

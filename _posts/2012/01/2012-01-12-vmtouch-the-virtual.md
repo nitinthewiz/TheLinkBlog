@@ -3,13 +3,11 @@ title: "vmtouch - the Virtual Memory Toucher"
 date: 2012-01-12 19:15:19 +0000
 external-url: http://hoytech.com/vmtouch/
 hash: c5562b6322f889cce34bb9eae1f57fe9
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: hoytech.com
-    path: /vmtouch/
+year: 2012
+month: 01
+scheme: http
+host: hoytech.com
+path: /vmtouch/
 
 ---
 

@@ -3,13 +3,11 @@ title: "A Year with MongoDB"
 date: 2012-04-16 22:31:00 +0000
 external-url: http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
 hash: 80211ee5b7826e7f9b240093930f347b
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.engineering.kiip.me
-    path: /post/20988881092/a-year-with-mongodb
+year: 2012
+month: 04
+scheme: http
+host: blog.engineering.kiip.me
+path: /post/20988881092/a-year-with-mongodb
 
 ---
 

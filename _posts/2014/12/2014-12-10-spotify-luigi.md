@@ -3,13 +3,11 @@ title: "spotify/luigi"
 date: 2014-12-10 22:40:17 +0000
 external-url: https://github.com/spotify/luigi
 hash: 931fbef19c2f593e5da63e596aca4908
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: https
-    host: github.com
-    path: /spotify/luigi
+year: 2014
+month: 12
+scheme: https
+host: github.com
+path: /spotify/luigi
 
 ---
 

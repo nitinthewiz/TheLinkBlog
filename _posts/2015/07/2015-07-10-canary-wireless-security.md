@@ -3,13 +3,11 @@ title: "Canary - Wireless security system for apartments and homes"
 date: 2015-07-10 01:55:44 +0000
 external-url: http://canary.is/
 hash: a522cd53f6d154cc40e351aee6efaca4
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: canary.is
-    path: /
+year: 2015
+month: 07
+scheme: http
+host: canary.is
+path: /
 
 ---
 

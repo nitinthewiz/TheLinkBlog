@@ -3,13 +3,11 @@ title: "Templates.scpt"
 date: 2013-03-07 04:18:16 +0000
 external-url: http://cmsauve.com/projects/templates/
 hash: 4d00d94e4a2d36e51973cce7db179c46
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: cmsauve.com
-    path: /projects/templates/
+year: 2013
+month: 03
+scheme: http
+host: cmsauve.com
+path: /projects/templates/
 
 ---
 

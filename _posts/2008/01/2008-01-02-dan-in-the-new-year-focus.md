@@ -3,13 +3,11 @@ title: "Dan In The New Year / Focus on Flow"
 date: 2008-01-02 21:40:01 +0000
 external-url: http://www.unpossible.com/2008/01/02/dan-in-the-new-year-focus-on-flow/
 hash: 19cf1a432e72df7131b4ea0750c91b46
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.unpossible.com
-    path: /2008/01/02/dan-in-the-new-year-focus-on-flow/
+year: 2008
+month: 01
+scheme: http
+host: www.unpossible.com
+path: /2008/01/02/dan-in-the-new-year-focus-on-flow/
 
 ---
 

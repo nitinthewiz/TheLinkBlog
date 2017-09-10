@@ -3,13 +3,11 @@ title: "Improve your communication with TextExpander"
 date: 2015-12-10 14:33:45 +0000
 external-url: http://brettterpstra.com/2015/12/10/improve-your-communication-with-textexpander/
 hash: 074f051dde7dd4ac50b338712b28c73c
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: brettterpstra.com
-    path: /2015/12/10/improve-your-communication-with-textexpander/
+year: 2015
+month: 12
+scheme: http
+host: brettterpstra.com
+path: /2015/12/10/improve-your-communication-with-textexpander/
 
 ---
 

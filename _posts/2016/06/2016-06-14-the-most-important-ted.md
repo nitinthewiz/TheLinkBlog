@@ -3,13 +3,11 @@ title: "The Most Important TED Talk Ever"
 date: 2016-06-14 03:32:21 +0000
 external-url: https://www.subtraction.com/2016/06/13/the-most-important-ted-talk-ever/
 hash: fe805009b3cbc8112704ec7d4453fa82
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: https
-    host: www.subtraction.com
-    path: /2016/06/13/the-most-important-ted-talk-ever/
+year: 2016
+month: 06
+scheme: https
+host: www.subtraction.com
+path: /2016/06/13/the-most-important-ted-talk-ever/
 
 ---
 

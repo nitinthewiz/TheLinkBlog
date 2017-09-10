@@ -3,13 +3,11 @@ title: "Issue and Pull Request templates"
 date: 2016-02-18 04:38:24 +0000
 external-url: https://github.com/blog/2111-issue-and-pull-request-templates
 hash: b3902afe169fb70b2fc89af8f2663d5d
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/2111-issue-and-pull-request-templates
+year: 2016
+month: 02
+scheme: https
+host: github.com
+path: /blog/2111-issue-and-pull-request-templates
 
 ---
 

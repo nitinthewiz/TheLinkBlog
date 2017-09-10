@@ -3,13 +3,11 @@ title: "Everything As A Cookbook: Service Oriented Thinking for your Code - DevO
 date: 2014-01-11 00:14:12 +0000
 external-url: http://www.meetup.com/DevOps-Minneapolis/events/159219722/
 hash: d3cbddb7256c53b6f596a5641439ea35
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: www.meetup.com
-    path: /DevOps-Minneapolis/events/159219722/
+year: 2014
+month: 01
+scheme: http
+host: www.meetup.com
+path: /DevOps-Minneapolis/events/159219722/
 
 ---
 

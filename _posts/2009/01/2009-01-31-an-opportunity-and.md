@@ -3,13 +3,11 @@ title: "An Opportunity and Obligation"
 date: 2009-01-31 01:30:58 +0000
 external-url: http://duncandavidson.com/2009/01/opprotunity-obligation.html
 hash: 70b706e8849ddb830eca818e7d326ee9
-annum:
-    year: 2009
-    month: 01
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /2009/01/opprotunity-obligation.html
+year: 2009
+month: 01
+scheme: http
+host: duncandavidson.com
+path: /2009/01/opprotunity-obligation.html
 
 ---
 

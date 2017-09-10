@@ -3,13 +3,11 @@ title: "The spy in your inbox"
 date: 2012-11-06 22:25:22 +0000
 external-url: http://arstechnica.com/information-technology/2012/11/the-spy-in-your-inbox/
 hash: 1bf1e72148644e4a28428eee3013e4a8
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /information-technology/2012/11/the-spy-in-your-inbox/
+year: 2012
+month: 11
+scheme: http
+host: arstechnica.com
+path: /information-technology/2012/11/the-spy-in-your-inbox/
 
 ---
 

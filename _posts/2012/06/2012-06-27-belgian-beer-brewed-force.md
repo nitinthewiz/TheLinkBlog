@@ -3,13 +3,11 @@ title: "Belgian beer: Brewed force"
 date: 2012-06-27 15:50:23 +0000
 external-url: http://www.economist.com/node/21541708
 hash: 1cf0e4aadad436aa8118ce47ba1116f8
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.economist.com
-    path: /node/21541708
+year: 2012
+month: 06
+scheme: http
+host: www.economist.com
+path: /node/21541708
 
 ---
 

@@ -3,13 +3,11 @@ title: "I worked in a video store for 25 years. Here’s what I learned as my in
 date: 2015-12-30 14:22:43 +0000
 external-url: http://www.vox.com/2015/11/20/9757186/netflix-video-rental-store
 hash: 93e5b6b4a1899fa0b963ebe88990dd03
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: www.vox.com
-    path: /2015/11/20/9757186/netflix-video-rental-store
+year: 2015
+month: 12
+scheme: http
+host: www.vox.com
+path: /2015/11/20/9757186/netflix-video-rental-store
 
 ---
 

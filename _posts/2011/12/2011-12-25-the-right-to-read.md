@@ -3,13 +3,11 @@ title: "The Right to Read"
 date: 2011-12-25 04:19:24 +0000
 external-url: http://www.gnu.org/philosophy/right-to-read.html
 hash: df714d5de30564415022ac9f66400bbd
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.gnu.org
-    path: /philosophy/right-to-read.html
+year: 2011
+month: 12
+scheme: http
+host: www.gnu.org
+path: /philosophy/right-to-read.html
 
 ---
 

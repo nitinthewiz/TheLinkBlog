@@ -3,13 +3,11 @@ title: "Around Isle of Wight"
 date: 2012-05-13 20:21:48 +0000
 external-url: http://www.aroundisleofwight.info/en/Around_Isle_of_Wight
 hash: 3f285153acfaff50de7781e73226d83b
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.aroundisleofwight.info
-    path: /en/Around_Isle_of_Wight
+year: 2012
+month: 05
+scheme: http
+host: www.aroundisleofwight.info
+path: /en/Around_Isle_of_Wight
 
 ---
 

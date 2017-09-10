@@ -3,13 +3,11 @@ title: "Web Site Publisher Pro"
 date: 2010-11-25 08:30:58 +0000
 external-url: http://lightroom-news.com/2010/11/25/web-site-publisher-pro/
 hash: 0461a46b7f92f186dfbf1e518d281495
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: lightroom-news.com
-    path: /2010/11/25/web-site-publisher-pro/
+year: 2010
+month: 11
+scheme: http
+host: lightroom-news.com
+path: /2010/11/25/web-site-publisher-pro/
 
 ---
 

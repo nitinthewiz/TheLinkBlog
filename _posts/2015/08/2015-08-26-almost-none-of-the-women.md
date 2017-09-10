@@ -3,13 +3,11 @@ title: "Almost None of the Women in the Ashley Madison Database Ever Used the Si
 date: 2015-08-26 22:22:53 +0000
 external-url: http://gizmodo.com/almost-none-of-the-women-in-the-ashley-madison-database-1725558944
 hash: 847b748fa114fcae2df10a92df736968
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: gizmodo.com
-    path: /almost-none-of-the-women-in-the-ashley-madison-database-1725558944
+year: 2015
+month: 08
+scheme: http
+host: gizmodo.com
+path: /almost-none-of-the-women-in-the-ashley-madison-database-1725558944
 
 ---
 

@@ -3,13 +3,11 @@ title: "Official Google Blog: IPv6: countdown to launch"
 date: 2012-01-17 22:00:24 +0000
 external-url: http://googleblog.blogspot.com/2012/01/ipv6-countdown-to-launch.html
 hash: 69629aebbb56d3eae3e50303e0c2280d
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2012/01/ipv6-countdown-to-launch.html
+year: 2012
+month: 01
+scheme: http
+host: googleblog.blogspot.com
+path: /2012/01/ipv6-countdown-to-launch.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "New York Times columnist David Brooks on the human mind | Minnesota Publ
 date: 2010-07-17 01:49:07 +0000
 external-url: http://minnesota.publicradio.org/display/web/2010/07/16/midday2/
 hash: 01bfeddf86c6c11474ad286a605b35ac
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: minnesota.publicradio.org
-    path: /display/web/2010/07/16/midday2/
+year: 2010
+month: 07
+scheme: http
+host: minnesota.publicradio.org
+path: /display/web/2010/07/16/midday2/
 
 ---
 

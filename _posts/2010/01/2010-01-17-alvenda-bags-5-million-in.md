@@ -3,13 +3,11 @@ title: "Alvenda Bags $5 Million in VC"
 date: 2010-01-17 14:28:55 +0000
 external-url: http://minnov8.com/2010/01/17/alvenda-bags-5-million-in-vc/
 hash: d5b313271144bdfbfc8c8ae344767f18
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: minnov8.com
-    path: /2010/01/17/alvenda-bags-5-million-in-vc/
+year: 2010
+month: 01
+scheme: http
+host: minnov8.com
+path: /2010/01/17/alvenda-bags-5-million-in-vc/
 
 ---
 

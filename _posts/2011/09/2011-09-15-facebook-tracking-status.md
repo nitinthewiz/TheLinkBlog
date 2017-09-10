@@ -3,13 +3,11 @@ title: "Facebook Tracking Platform Status"
 date: 2011-09-15 04:01:17 +0000
 external-url: http://developers.facebook.com/blog/post/557/
 hash: 63d882eacba6b4506e6403da7f8bbbab
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: developers.facebook.com
-    path: /blog/post/557/
+year: 2011
+month: 09
+scheme: http
+host: developers.facebook.com
+path: /blog/post/557/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Twitter's Future Foretold"
 date: 2009-08-25 18:03:40 +0000
 external-url: http://www.businessinsider.com/henry-blodget-twitters-future-foretold-2009-8
 hash: 902692f09874b24fe281cd16c954f39f
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /henry-blodget-twitters-future-foretold-2009-8
+year: 2009
+month: 08
+scheme: http
+host: www.businessinsider.com
+path: /henry-blodget-twitters-future-foretold-2009-8
 
 ---
 

@@ -3,13 +3,11 @@ title: "A 16th-century Dutchman can tell us everything we need to know about GMO
 date: 2013-11-29 13:00:33 +0000
 external-url: http://grist.org/food/a-16th-century-dutchman-can-tell-us-everything-we-need-to-know-about-gmo-patents/
 hash: 31cde7d7644b44f2f7f4de8b7a8c6db9
-annum:
-    year: 2013
-    month: 11
-url-parts:
-    scheme: http
-    host: grist.org
-    path: /food/a-16th-century-dutchman-can-tell-us-everything-we-need-to-know-about-gmo-patents/
+year: 2013
+month: 11
+scheme: http
+host: grist.org
+path: /food/a-16th-century-dutchman-can-tell-us-everything-we-need-to-know-about-gmo-patents/
 
 ---
 

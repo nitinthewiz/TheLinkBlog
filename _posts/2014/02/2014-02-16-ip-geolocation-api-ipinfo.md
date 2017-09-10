@@ -3,13 +3,11 @@ title: "IP Geolocation API Documentation - ipinfo.io"
 date: 2014-02-16 02:55:57 +0000
 external-url: http://ipinfo.io/developers
 hash: bc03849fe874912f792b8081103d81d0
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: ipinfo.io
-    path: /developers
+year: 2014
+month: 02
+scheme: http
+host: ipinfo.io
+path: /developers
 
 ---
 

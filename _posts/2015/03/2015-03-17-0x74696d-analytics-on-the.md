@@ -3,13 +3,11 @@ title: "0x74696d | Analytics on the Cheap"
 date: 2015-03-17 22:19:58 +0000
 external-url: http://0x74696d.com/posts/analytics-on-the-cheap/
 hash: 855ee279ac6d04aab954755dd5a497bf
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: 0x74696d.com
-    path: /posts/analytics-on-the-cheap/
+year: 2015
+month: 03
+scheme: http
+host: 0x74696d.com
+path: /posts/analytics-on-the-cheap/
 
 ---
 

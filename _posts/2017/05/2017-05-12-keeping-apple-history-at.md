@@ -3,13 +3,11 @@ title: "Keeping Apple History Alive at MacPaw | MacPaw Blog"
 date: 2017-05-12 00:38:36 +0000
 external-url: http://blog.macpaw.com/post/160545245828/macpaw-museum
 hash: 249fabdde1d94922a23529ac944711bb
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: blog.macpaw.com
-    path: /post/160545245828/macpaw-museum
+year: 2017
+month: 05
+scheme: http
+host: blog.macpaw.com
+path: /post/160545245828/macpaw-museum
 
 ---
 

@@ -3,13 +3,11 @@ title: "For-pay fire department lets man's house burn"
 date: 2010-10-04 17:45:00 +0000
 external-url: http://www.salon.com/politics/war_room/2010/10/04/libertarian_fire_department/index.html
 hash: d880a64bf126bc9127dade0603119454
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.salon.com
-    path: /politics/war_room/2010/10/04/libertarian_fire_department/index.html
+year: 2010
+month: 10
+scheme: http
+host: www.salon.com
+path: /politics/war_room/2010/10/04/libertarian_fire_department/index.html
 
 ---
 

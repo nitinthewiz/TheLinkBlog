@@ -3,13 +3,11 @@ title: "Wikileaks Task Force"
 date: 2010-12-22 21:33:57 +0000
 external-url: http://www.theguardian.com/world/2010/dec/22/cia-wikileaks-taskforce-wtf
 hash: cb9019e0ac08dca72edc8703f33055da
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.theguardian.com
-    path: /world/2010/dec/22/cia-wikileaks-taskforce-wtf
+year: 2010
+month: 12
+scheme: http
+host: www.theguardian.com
+path: /world/2010/dec/22/cia-wikileaks-taskforce-wtf
 
 ---
 

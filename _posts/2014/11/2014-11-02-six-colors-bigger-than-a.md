@@ -3,13 +3,11 @@ title: "Six Colors: Bigger than a Tweet"
 date: 2014-11-02 12:24:20 +0000
 external-url: http://sixcolors.com/post/2014/10/bigger-than-a-tweet/
 hash: 5023bb8eecfc80a46db03ed806689edd
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: sixcolors.com
-    path: /post/2014/10/bigger-than-a-tweet/
+year: 2014
+month: 11
+scheme: http
+host: sixcolors.com
+path: /post/2014/10/bigger-than-a-tweet/
 
 ---
 

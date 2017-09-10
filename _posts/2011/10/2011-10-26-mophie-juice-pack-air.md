@@ -3,13 +3,11 @@ title: "Mophie Juice Pack Air"
 date: 2011-10-26 05:06:32 +0000
 external-url: http://www.mophie.com/mophie-juice-pack-air-iPhone-4-4S-battery-case-p/1145_jpa-ip4-blk.htm
 hash: daa354362918cc92239236bf32920811
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.mophie.com
-    path: /mophie-juice-pack-air-iPhone-4-4S-battery-case-p/1145_jpa-ip4-blk.htm
+year: 2011
+month: 10
+scheme: http
+host: www.mophie.com
+path: /mophie-juice-pack-air-iPhone-4-4S-battery-case-p/1145_jpa-ip4-blk.htm
 
 ---
 

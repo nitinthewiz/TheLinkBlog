@@ -3,13 +3,11 @@ title: "My Fathers Final Gift"
 date: 2012-03-23 06:37:41 +0000
 external-url: http://www.azarask.in/blog/post/my-father-final-gift/
 hash: e47f4f15ac88f4b0343fd87941e732fd
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.azarask.in
-    path: /blog/post/my-father-final-gift/
+year: 2012
+month: 03
+scheme: http
+host: www.azarask.in
+path: /blog/post/my-father-final-gift/
 
 ---
 

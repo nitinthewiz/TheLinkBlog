@@ -3,13 +3,11 @@ title: "Towards more renewable energy"
 date: 2007-11-27 17:02:00 +0000
 external-url: http://googleblog.blogspot.com/2007/11/towards-more-renewable-energy.html
 hash: ad57cfdb275bf029612f78e6571dbc43
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2007/11/towards-more-renewable-energy.html
+year: 2007
+month: 11
+scheme: http
+host: googleblog.blogspot.com
+path: /2007/11/towards-more-renewable-energy.html
 
 ---
 

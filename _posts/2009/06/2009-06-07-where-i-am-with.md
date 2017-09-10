@@ -3,13 +3,11 @@ title: "Where I am with NetNewsWire"
 date: 2009-06-07 11:03:27 +0000
 external-url: http://inessential.com/2009/06/06/where_i_am_with_netnewswire
 hash: c346f46dd0ea12b84f1fe2ed5d4ea4e5
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: inessential.com
-    path: /2009/06/06/where_i_am_with_netnewswire
+year: 2009
+month: 06
+scheme: http
+host: inessential.com
+path: /2009/06/06/where_i_am_with_netnewswire
 
 ---
 

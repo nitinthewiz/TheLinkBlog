@@ -3,13 +3,11 @@ title: "Coworking News: Hacker Dojo Opens Its Doors"
 date: 2009-08-25 03:57:22 +0000
 external-url: http://gigaom.com/collaboration/co-working-news-hacker-dojo-opens-its-doors/
 hash: 58690b7b1352ce7a5f14a94a21fcfd30
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /collaboration/co-working-news-hacker-dojo-opens-its-doors/
+year: 2009
+month: 08
+scheme: http
+host: gigaom.com
+path: /collaboration/co-working-news-hacker-dojo-opens-its-doors/
 
 ---
 

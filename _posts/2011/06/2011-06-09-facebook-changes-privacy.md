@@ -3,13 +3,11 @@ title: "Facebook changes privacy settings for millions of users – facial recog
 date: 2011-06-09 03:55:05 +0000
 external-url: http://nakedsecurity.sophos.com/2011/06/07/facebook-privacy-settings-facial-recognition-enabled/
 hash: 99f771b85c90cf4fbc5b0a7418fa06c5
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: nakedsecurity.sophos.com
-    path: /2011/06/07/facebook-privacy-settings-facial-recognition-enabled/
+year: 2011
+month: 06
+scheme: http
+host: nakedsecurity.sophos.com
+path: /2011/06/07/facebook-privacy-settings-facial-recognition-enabled/
 
 ---
 

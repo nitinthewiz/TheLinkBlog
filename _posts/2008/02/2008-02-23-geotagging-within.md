@@ -3,13 +3,11 @@ title: "Geotagging within Lightroom"
 date: 2008-02-23 01:47:30 +0000
 external-url: http://lightroom-news.com/2008/02/22/geotagging-within-lightroom/
 hash: 41d50febcb17c0d378a95cec2d930ea9
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: lightroom-news.com
-    path: /2008/02/22/geotagging-within-lightroom/
+year: 2008
+month: 02
+scheme: http
+host: lightroom-news.com
+path: /2008/02/22/geotagging-within-lightroom/
 
 ---
 

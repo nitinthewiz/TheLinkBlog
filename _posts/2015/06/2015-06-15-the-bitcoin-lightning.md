@@ -3,13 +3,11 @@ title: "The Bitcoin Lightning Network"
 date: 2015-06-15 19:18:06 +0000
 external-url: http://lightning.network/
 hash: 80a6a2182fe01f52a64494d46e8f7fbb
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: lightning.network
-    path: /
+year: 2015
+month: 06
+scheme: http
+host: lightning.network
+path: /
 
 ---
 

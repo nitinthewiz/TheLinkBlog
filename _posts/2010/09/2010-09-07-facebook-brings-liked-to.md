@@ -3,13 +3,11 @@ title: "Facebook Brings 'Liked' News Stories To Search Results"
 date: 2010-09-07 03:39:08 +0000
 external-url: http://gigaom.com/2010/09/04/419-facebook-brings-liked-news-stories-to-search-results/
 hash: b11ad7f374ded258cde982fb1006ddea
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/09/04/419-facebook-brings-liked-news-stories-to-search-results/
+year: 2010
+month: 09
+scheme: http
+host: gigaom.com
+path: /2010/09/04/419-facebook-brings-liked-news-stories-to-search-results/
 
 ---
 

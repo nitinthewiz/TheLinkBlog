@@ -3,13 +3,11 @@ title: "Whale Wisdom: Track Hedge Funds Using 13F Filings"
 date: 2013-03-28 03:11:51 +0000
 external-url: http://whalewisdom.com/
 hash: e10c729ab334efc08ef3ace6f2b3ae57
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: whalewisdom.com
-    path: /
+year: 2013
+month: 03
+scheme: http
+host: whalewisdom.com
+path: /
 
 ---
 

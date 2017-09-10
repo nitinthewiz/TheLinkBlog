@@ -3,13 +3,11 @@ title: "Snakes in the Stream - Feeding and Eating Amazon Kinesis Streams with Py
 date: 2015-03-01 22:58:05 +0000
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx2Z24D4T99AN35/Snakes-in-the-Stream-Feeding-and-Eating-Amazon-Kinesis-Streams-with-Python
 hash: 07bca35833508a814c701816a88213f5
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /bigdata/post/Tx2Z24D4T99AN35/Snakes-in-the-Stream-Feeding-and-Eating-Amazon-Kinesis-Streams-with-Python
+year: 2015
+month: 03
+scheme: http
+host: blogs.aws.amazon.com
+path: /bigdata/post/Tx2Z24D4T99AN35/Snakes-in-the-Stream-Feeding-and-Eating-Amazon-Kinesis-Streams-with-Python
 
 ---
 

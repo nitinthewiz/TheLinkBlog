@@ -3,13 +3,11 @@ title: "Acorn 6 Released"
 date: 2017-07-11 01:26:33 +0000
 external-url: http://shapeof.com/archives/2017/7/acorn_6.html
 hash: cd90b039bb6b5251959434aeaf52f4e2
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: shapeof.com
-    path: /archives/2017/7/acorn_6.html
+year: 2017
+month: 07
+scheme: http
+host: shapeof.com
+path: /archives/2017/7/acorn_6.html
 
 ---
 

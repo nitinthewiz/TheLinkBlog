@@ -3,13 +3,11 @@ title: "Website Monitoring & Web Server Monitoring Service by WebSitePulse"
 date: 2007-09-26 14:40:23 +0000
 external-url: http://www.websitepulse.com/
 hash: f0a1e7d7e966036543f354e5dff249f5
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.websitepulse.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: www.websitepulse.com
+path: /
 
 ---
 

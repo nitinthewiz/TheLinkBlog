@@ -3,13 +3,11 @@ title: "Electronics: The Adventure Begins"
 date: 2008-03-25 04:32:25 +0000
 external-url: http://whereslou.com/2008/03/24/electronics-the-adventure-begins
 hash: 03310b7c5d2b37904dcce1bf849b32ef
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: whereslou.com
-    path: /2008/03/24/electronics-the-adventure-begins
+year: 2008
+month: 03
+scheme: http
+host: whereslou.com
+path: /2008/03/24/electronics-the-adventure-begins
 
 ---
 

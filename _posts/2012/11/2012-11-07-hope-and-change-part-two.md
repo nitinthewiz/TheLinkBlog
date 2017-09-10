@@ -3,14 +3,12 @@ title: "Hope and Change - Part Two"
 date: 2012-11-07 13:14:19 +0000
 external-url: http://www.nytimes.com/2012/11/07/opinion/friedman-hope-and-change-part-two.html?hp
 hash: a099b02372c4b06b5a1899051735351e
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /2012/11/07/opinion/friedman-hope-and-change-part-two.html
-    query:
+year: 2012
+month: 11
+scheme: http
+host: www.nytimes.com
+path: /2012/11/07/opinion/friedman-hope-and-change-part-two.html
+query:
 ---
 
 Thoughts from Tom Friedman on yesterday's election. I read this as governing trumps gamesmanship.

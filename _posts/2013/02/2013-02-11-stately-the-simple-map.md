@@ -3,13 +3,11 @@ title: "Stately - The simple map font"
 date: 2013-02-11 19:53:17 +0000
 external-url: http://intridea.github.io/stately/
 hash: bc6dd2979ad582438abfa36f0a627cc3
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: intridea.github.io
-    path: /stately/
+year: 2013
+month: 02
+scheme: http
+host: intridea.github.io
+path: /stately/
 
 ---
 

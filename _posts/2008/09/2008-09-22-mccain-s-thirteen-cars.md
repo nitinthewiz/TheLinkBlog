@@ -3,13 +3,11 @@ title: "McCain's Thirteen Cars"
 date: 2008-09-22 04:35:22 +0000
 external-url: http://www.dailykos.com/story/2008/09/21/605632/-McCain-s-Thirteen-Cars
 hash: e0021fb3ea4d5f5132d5b71a961a21c2
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2008/09/21/605632/-McCain-s-Thirteen-Cars
+year: 2008
+month: 09
+scheme: http
+host: www.dailykos.com
+path: /story/2008/09/21/605632/-McCain-s-Thirteen-Cars
 
 ---
 

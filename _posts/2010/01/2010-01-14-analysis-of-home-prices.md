@@ -3,13 +3,11 @@ title: "Analysis of home prices in terms of weeks of work"
 date: 2010-01-14 05:12:03 +0000
 external-url: http://blogs.law.harvard.edu/philg/2010/01/13/analysis-of-home-prices-in-terms-of-weeks-of-work/
 hash: 1781c595c60ed501a6717577e1f47313
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: blogs.law.harvard.edu
-    path: /philg/2010/01/13/analysis-of-home-prices-in-terms-of-weeks-of-work/
+year: 2010
+month: 01
+scheme: http
+host: blogs.law.harvard.edu
+path: /philg/2010/01/13/analysis-of-home-prices-in-terms-of-weeks-of-work/
 
 ---
 

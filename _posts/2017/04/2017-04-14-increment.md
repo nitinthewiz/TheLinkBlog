@@ -3,13 +3,11 @@ title: "Increment"
 date: 2017-04-14 23:24:52 +0000
 external-url: https://increment.com/
 hash: 669f5211aba110dbe6957482dfa4f8f3
-annum:
-    year: 2017
-    month: 04
-url-parts:
-    scheme: https
-    host: increment.com
-    path: /
+year: 2017
+month: 04
+scheme: https
+host: increment.com
+path: /
 
 ---
 

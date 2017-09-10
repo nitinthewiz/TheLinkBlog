@@ -3,13 +3,11 @@ title: "Four short links: 5 October 2011"
 date: 2011-10-05 10:30:00 +0000
 external-url: http://radar.oreilly.com/2011/10/four-short-links-5-october-201-1.html
 hash: 1ff6fe73a18c30032641f5bd72ed941d
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2011/10/four-short-links-5-october-201-1.html
+year: 2011
+month: 10
+scheme: http
+host: radar.oreilly.com
+path: /2011/10/four-short-links-5-october-201-1.html
 
 ---
 

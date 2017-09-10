@@ -3,13 +3,11 @@ title: "How the Nation’s Only State-Owned Bank Became the Envy of Wall Street 
 date: 2009-03-29 05:07:13 +0000
 external-url: http://www.motherjones.com/mojo/2009/03/how-nation%E2%80%99s-only-state-owned-bank-became-envy-wall-street
 hash: 5794d3fdaa97cbc534dd498f95dc7402
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.motherjones.com
-    path: /mojo/2009/03/how-nation%E2%80%99s-only-state-owned-bank-became-envy-wall-street
+year: 2009
+month: 03
+scheme: http
+host: www.motherjones.com
+path: /mojo/2009/03/how-nation%E2%80%99s-only-state-owned-bank-became-envy-wall-street
 
 ---
 

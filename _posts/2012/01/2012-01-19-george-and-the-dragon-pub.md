@@ -3,13 +3,11 @@ title: "George and the Dragon Pub"
 date: 2012-01-19 06:41:43 +0000
 external-url: http://www.ganddpub.com/
 hash: 4cca8c13e484e73afcfe27b5318a927a
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: www.ganddpub.com
-    path: /
+year: 2012
+month: 01
+scheme: http
+host: www.ganddpub.com
+path: /
 
 ---
 

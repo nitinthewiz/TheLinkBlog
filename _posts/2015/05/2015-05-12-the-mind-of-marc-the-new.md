@@ -3,13 +3,11 @@ title: "The Mind of Marc Andreessen - The New Yorker"
 date: 2015-05-12 13:06:46 +0000
 external-url: http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man
 hash: 7169a8655d5859c36c7d674c35c4c184
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: www.newyorker.com
-    path: /magazine/2015/05/18/tomorrows-advance-man
+year: 2015
+month: 05
+scheme: http
+host: www.newyorker.com
+path: /magazine/2015/05/18/tomorrows-advance-man
 
 ---
 

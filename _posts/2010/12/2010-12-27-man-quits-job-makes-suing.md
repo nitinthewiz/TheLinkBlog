@@ -3,13 +3,11 @@ title: "Man quits job, makes living suing e-mail spammers - Yahoo Finance"
 date: 2010-12-27 18:36:26 +0000
 external-url: http://www.salon.com/2010/12/26/us_anti_spam_crusader/
 hash: 1ce0b47b428f5fc9a4290ed62481e128
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.salon.com
-    path: /2010/12/26/us_anti_spam_crusader/
+year: 2010
+month: 12
+scheme: http
+host: www.salon.com
+path: /2010/12/26/us_anti_spam_crusader/
 
 ---
 

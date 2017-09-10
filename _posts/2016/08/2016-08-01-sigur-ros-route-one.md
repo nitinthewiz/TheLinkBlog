@@ -3,13 +3,11 @@ title: "sigur rós - route one"
 date: 2016-08-01 00:02:51 +0000
 external-url: http://sigur-ros.co.uk/
 hash: a46cd9167f98c5c8e4761261db30fe1f
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: sigur-ros.co.uk
-    path: /
+year: 2016
+month: 08
+scheme: http
+host: sigur-ros.co.uk
+path: /
 
 ---
 

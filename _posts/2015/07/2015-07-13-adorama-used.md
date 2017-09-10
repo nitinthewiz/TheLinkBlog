@@ -3,13 +3,11 @@ title: "Adorama Used"
 date: 2015-07-13 11:45:43 +0000
 external-url: https://www.adorama.com/pages/usedQuote
 hash: b76e89763699ae9edad8a500308da707
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: https
-    host: www.adorama.com
-    path: /pages/usedQuote
+year: 2015
+month: 07
+scheme: https
+host: www.adorama.com
+path: /pages/usedQuote
 
 ---
 

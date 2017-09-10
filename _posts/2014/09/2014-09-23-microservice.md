@@ -3,13 +3,11 @@ title: "Microservice Prerequisites"
 date: 2014-09-23 02:15:52 +0000
 external-url: http://martinfowler.com/bliki/MicroservicePrerequisites.html
 hash: a6c927a445352cb21fac9bec595b7c79
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: martinfowler.com
-    path: /bliki/MicroservicePrerequisites.html
+year: 2014
+month: 09
+scheme: http
+host: martinfowler.com
+path: /bliki/MicroservicePrerequisites.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "asocialfolder | Markdown-based, Dropbox-enabled website hosting"
 date: 2017-07-13 01:42:20 +0000
 external-url: https://asocialfolder.com/
 hash: 3a6df4832a405a35e9f788c2e1f77a74
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: asocialfolder.com
-    path: /
+year: 2017
+month: 07
+scheme: https
+host: asocialfolder.com
+path: /
 
 ---
 

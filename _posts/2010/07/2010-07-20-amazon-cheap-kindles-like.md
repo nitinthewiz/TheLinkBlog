@@ -3,13 +3,11 @@ title: "Amazon: Cheap Kindles selling like wildfire, digital sales now more than
 date: 2010-07-20 04:26:09 +0000
 external-url: http://9to5mac.com/node/19898
 hash: 03c8b398e20dae58daa75daece6fada3
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /node/19898
+year: 2010
+month: 07
+scheme: http
+host: 9to5mac.com
+path: /node/19898
 
 ---
 

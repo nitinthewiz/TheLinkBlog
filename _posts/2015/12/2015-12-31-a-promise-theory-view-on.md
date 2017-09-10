@@ -3,13 +3,11 @@ title: "A Promise Theory View on the Policies of Object Orientation and the Serv
 date: 2015-12-31 21:37:54 +0000
 external-url: https://www.researchgate.net/profile/Mark_Burgess5/publication/252180391_A_Promise_Theory_View_on_the_Policies_of_Object_Orientation_and_the_Service_Oriented_Architecture/links/00b49529837987e847000000.pdf
 hash: 153517819a375179c97d5d5d08f3bbf1
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: www.researchgate.net
-    path: /profile/Mark_Burgess5/publication/252180391_A_Promise_Theory_View_on_the_Policies_of_Object_Orientation_and_the_Service_Oriented_Architecture/links/00b49529837987e847000000.pdf
+year: 2015
+month: 12
+scheme: https
+host: www.researchgate.net
+path: /profile/Mark_Burgess5/publication/252180391_A_Promise_Theory_View_on_the_Policies_of_Object_Orientation_and_the_Service_Oriented_Architecture/links/00b49529837987e847000000.pdf
 
 ---
 

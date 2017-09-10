@@ -3,13 +3,11 @@ title: "Integrating Micro.blog"
 date: 2017-05-01 16:48:14 +0000
 external-url: http://curtclifton.net/integrating-micro-blog
 hash: 645ac3265d0ca466376a60d58fcf11e5
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: curtclifton.net
-    path: /integrating-micro-blog
+year: 2017
+month: 05
+scheme: http
+host: curtclifton.net
+path: /integrating-micro-blog
 
 ---
 

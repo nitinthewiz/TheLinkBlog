@@ -3,13 +3,11 @@ title: "All your Tumblr are belong to Them"
 date: 2012-04-20 15:51:07 +0000
 external-url: http://blogs.reuters.com/paulsmalera/2012/04/18/all-your-tumblr-are-belong-to-them/
 hash: 7dcbc2ee2408cc5b5e91ee713550d390
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: blogs.reuters.com
-    path: /paulsmalera/2012/04/18/all-your-tumblr-are-belong-to-them/
+year: 2012
+month: 04
+scheme: http
+host: blogs.reuters.com
+path: /paulsmalera/2012/04/18/all-your-tumblr-are-belong-to-them/
 
 ---
 

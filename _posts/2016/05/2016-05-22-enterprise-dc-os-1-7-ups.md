@@ -3,13 +3,11 @@ title: "Enterprise DC/OS 1.7 steps ups support for security, stateful services a
 date: 2016-05-22 11:14:21 +0000
 external-url: https://mesosphere.com/blog/2016/05/20/enterprise-dcos-1-7-steps-ups-support-security-stateful-services/
 hash: a2f6107bad26104d58dcd2fd044bdb48
-annum:
-    year: 2016
-    month: 05
-url-parts:
-    scheme: https
-    host: mesosphere.com
-    path: /blog/2016/05/20/enterprise-dcos-1-7-steps-ups-support-security-stateful-services/
+year: 2016
+month: 05
+scheme: https
+host: mesosphere.com
+path: /blog/2016/05/20/enterprise-dcos-1-7-steps-ups-support-security-stateful-services/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Parallels vs. VMWare: Benchmark results"
 date: 2007-12-19 21:00:00 +0000
 external-url: http://www.tuaw.com/2007/12/19/parallels-vs-vmware-benchmark-results/
 hash: 016d68081d06f4ee80833563ae0b2a6a
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2007/12/19/parallels-vs-vmware-benchmark-results/
+year: 2007
+month: 12
+scheme: http
+host: www.tuaw.com
+path: /2007/12/19/parallels-vs-vmware-benchmark-results/
 
 ---
 

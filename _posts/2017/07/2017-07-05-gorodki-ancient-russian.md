@@ -3,13 +3,11 @@ title: "Gorodki: Ancient Russian game enjoys renaissance | Russia Beyond The Hea
 date: 2017-07-05 23:25:41 +0000
 external-url: https://www.rbth.com/society/2013/05/18/gorodki_ancient_russian_game_enjoys_renaissance_26091.html
 hash: 76123729022f84842e16af9bdb5bc229
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.rbth.com
-    path: /society/2013/05/18/gorodki_ancient_russian_game_enjoys_renaissance_26091.html
+year: 2017
+month: 07
+scheme: https
+host: www.rbth.com
+path: /society/2013/05/18/gorodki_ancient_russian_game_enjoys_renaissance_26091.html
 
 ---
 

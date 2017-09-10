@@ -3,13 +3,11 @@ title: "Wikipedias Next Big Thing: Wikidata, A Machine-Readable, User-Editable D
 date: 2012-04-02 13:43:27 +0000
 external-url: http://techcrunch.com/2012/03/30/wikipedias-next-big-thing-wikidata-a-machine-readable-user-editable-database-funded-by-google-paul-allen-and-others/
 hash: 91785b74c506e3ec692636641db7043c
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2012/03/30/wikipedias-next-big-thing-wikidata-a-machine-readable-user-editable-database-funded-by-google-paul-allen-and-others/
+year: 2012
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2012/03/30/wikipedias-next-big-thing-wikidata-a-machine-readable-user-editable-database-funded-by-google-paul-allen-and-others/
 
 ---
 

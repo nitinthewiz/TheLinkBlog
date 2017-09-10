@@ -3,13 +3,11 @@ title: "Beautiful Type"
 date: 2013-01-29 15:05:40 +0000
 external-url: http://beautifultype.net/
 hash: eac21b4f028ee73a507c9ff3bb1ed065
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: beautifultype.net
-    path: /
+year: 2013
+month: 01
+scheme: http
+host: beautifultype.net
+path: /
 
 ---
 

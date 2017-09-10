@@ -3,13 +3,11 @@ title: "LinkedIn Raised Its Big Round; $53 Million From Bain and Others; $1 Bill
 date: 2008-06-18 04:18:52 +0000
 external-url: http://gigaom.com/2008/06/17/419-linkedin-raised-its-big-round-53-million-from-bain-1-billion-valuation/
 hash: 7ee10478a4bd945ff8438f5b2b6de95e
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/06/17/419-linkedin-raised-its-big-round-53-million-from-bain-1-billion-valuation/
+year: 2008
+month: 06
+scheme: http
+host: gigaom.com
+path: /2008/06/17/419-linkedin-raised-its-big-round-53-million-from-bain-1-billion-valuation/
 
 ---
 

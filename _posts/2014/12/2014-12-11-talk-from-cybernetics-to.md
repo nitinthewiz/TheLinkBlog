@@ -3,13 +3,11 @@ title: "Talk: From Cybernetics To DevOps and Beyond - Jeff Sussna - DevOpsDays B
 date: 2014-12-11 15:14:09 +0000
 external-url: http://vimeo.com/album/3137515/video/114017635
 hash: da3a4e202df72e73675214aeeed2c357
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /album/3137515/video/114017635
+year: 2014
+month: 12
+scheme: http
+host: vimeo.com
+path: /album/3137515/video/114017635
 
 ---
 

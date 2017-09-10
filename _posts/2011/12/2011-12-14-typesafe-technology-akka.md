@@ -3,13 +3,11 @@ title: "Typesafe — Technology: Akka"
 date: 2011-12-14 16:18:14 +0000
 external-url: http://typesafe.com/technology/akka
 hash: 70201b70b702dc901e40cab36ded5cd0
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: typesafe.com
-    path: /technology/akka
+year: 2011
+month: 12
+scheme: http
+host: typesafe.com
+path: /technology/akka
 
 ---
 

@@ -3,15 +3,13 @@ title: "Meatloaf Sandwiches"
 date: 2010-06-11 03:14:41 +0000
 external-url: http://www.kehlfamily.com/?p=868
 hash: 5703eca5c6abe002b1f2298722af795d
-annum:
-    year: 2010
-    month: 06
-url-parts:
-    scheme: http
-    host: www.kehlfamily.com
-    path: /
-    query:
-        p: "868"
+year: 2010
+month: 06
+scheme: http
+host: www.kehlfamily.com
+path: /
+query:
+    p: "868"
 ---
 
 This past weekend my dad was in town and we decided to fire up some meatloaf sandwiches on the Egg.  The same sandwiches which won the heart of  Shane Chandler (aka Mr. I don’t like meatloaf).

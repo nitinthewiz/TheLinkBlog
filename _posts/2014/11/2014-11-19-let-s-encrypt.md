@@ -3,13 +3,11 @@ title: "Let's Encrypt"
 date: 2014-11-19 03:40:09 +0000
 external-url: https://letsencrypt.org/
 hash: 93d7897856233b520c250b5498f7d831
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: letsencrypt.org
-    path: /
+year: 2014
+month: 11
+scheme: https
+host: letsencrypt.org
+path: /
 
 ---
 

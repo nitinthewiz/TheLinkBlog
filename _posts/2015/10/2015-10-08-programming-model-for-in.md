@@ -3,13 +3,11 @@ title: "Programming Model for Authoring Lambda Functions in Python - AWS Lambda"
 date: 2015-10-08 21:01:55 +0000
 external-url: http://docs.aws.amazon.com/lambda/latest/dg/python-programming-model.html
 hash: 7a4f03c935b6e7c972fec64f32550f09
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: docs.aws.amazon.com
-    path: /lambda/latest/dg/python-programming-model.html
+year: 2015
+month: 10
+scheme: http
+host: docs.aws.amazon.com
+path: /lambda/latest/dg/python-programming-model.html
 
 ---
 

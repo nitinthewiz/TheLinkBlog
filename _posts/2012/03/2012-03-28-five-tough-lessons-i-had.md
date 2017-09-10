@@ -3,13 +3,11 @@ title: "Five tough lessons I had to learn about health care"
 date: 2012-03-28 11:59:31 +0000
 external-url: http://radar.oreilly.com/2012/03/five-tough-lessons-i-had-to-le.html
 hash: e6639a85304c3de14469e050cbb56a29
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2012/03/five-tough-lessons-i-had-to-le.html
+year: 2012
+month: 03
+scheme: http
+host: radar.oreilly.com
+path: /2012/03/five-tough-lessons-i-had-to-le.html
 
 ---
 

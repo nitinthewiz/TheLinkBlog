@@ -3,13 +3,11 @@ title: "Coinbin.org: A Human–Friendly API Service for Crypto Currency Informat
 date: 2017-08-26 01:07:46 +0000
 external-url: https://coinbin.org/
 hash: 49a8d17d6e06cd4837f25f9ce8a4d0fe
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: coinbin.org
-    path: /
+year: 2017
+month: 08
+scheme: https
+host: coinbin.org
+path: /
 
 ---
 

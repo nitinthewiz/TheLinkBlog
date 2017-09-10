@@ -3,13 +3,11 @@ title: "Doc Searls Weblog Surfs down. For now."
 date: 2013-04-08 21:41:21 +0000
 external-url: http://blogs.law.harvard.edu/doc/2013/03/22/surfs-down-for-now/
 hash: 3e5a1d34d286d25447322dcadfd94a70
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: blogs.law.harvard.edu
-    path: /doc/2013/03/22/surfs-down-for-now/
+year: 2013
+month: 04
+scheme: http
+host: blogs.law.harvard.edu
+path: /doc/2013/03/22/surfs-down-for-now/
 
 ---
 

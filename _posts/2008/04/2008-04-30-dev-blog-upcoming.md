@@ -3,13 +3,11 @@ title: "Dev Blog: Upcoming WordCamps"
 date: 2008-04-30 10:54:48 +0000
 external-url: http://wordpress.org/news/2008/04/upcoming-wordcamps/
 hash: 85d995d672f526253ef7e507a0b2e0e6
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: wordpress.org
-    path: /news/2008/04/upcoming-wordcamps/
+year: 2008
+month: 04
+scheme: http
+host: wordpress.org
+path: /news/2008/04/upcoming-wordcamps/
 
 ---
 

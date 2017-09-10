@@ -3,13 +3,11 @@ title: "Software development: Are you in for the long haul? — Unhandled Except
 date: 2015-09-05 12:27:56 +0000
 external-url: https://medium.com/unhandled-exception/software-development-are-you-in-for-the-long-haul-f47840d0ac3
 hash: db8e70379a434659d480c02b296ec1a3
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /unhandled-exception/software-development-are-you-in-for-the-long-haul-f47840d0ac3
+year: 2015
+month: 09
+scheme: https
+host: medium.com
+path: /unhandled-exception/software-development-are-you-in-for-the-long-haul-f47840d0ac3
 
 ---
 

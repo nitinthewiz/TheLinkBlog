@@ -3,13 +3,11 @@ title: "Angry Birds"
 date: 2011-05-11 19:46:31 +0000
 external-url: http://chrome.angrybirds.com/
 hash: d95855380d1e3cefbb7ed01206ba696e
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: chrome.angrybirds.com
-    path: /
+year: 2011
+month: 05
+scheme: http
+host: chrome.angrybirds.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Superforecasting - Wikipedia, the free encyclopedia"
 date: 2015-11-27 16:34:59 +0000
 external-url: https://en.wikipedia.org/wiki/Superforecasting
 hash: 6dd19cedfb60fc83c94229c17e68577d
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: en.wikipedia.org
-    path: /wiki/Superforecasting
+year: 2015
+month: 11
+scheme: https
+host: en.wikipedia.org
+path: /wiki/Superforecasting
 
 ---
 

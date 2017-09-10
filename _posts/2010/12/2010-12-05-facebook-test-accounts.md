@@ -3,13 +3,11 @@ title: "Facebook Test Accounts"
 date: 2010-12-05 12:21:18 +0000
 external-url: https://developers.facebook.com/docs/graph-api/reference/test-user
 hash: 5234260f6f8f4d1343141169a362f961
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /docs/graph-api/reference/test-user
+year: 2010
+month: 12
+scheme: https
+host: developers.facebook.com
+path: /docs/graph-api/reference/test-user
 
 ---
 

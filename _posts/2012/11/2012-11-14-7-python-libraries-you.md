@@ -3,13 +3,11 @@ title: "7 Python Libraries you should know about"
 date: 2012-11-14 21:55:39 +0000
 external-url: http://doda.co/7-python-libraries-you-should-know-about
 hash: 0c0d873ac2f78083da0d768370314ace
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: doda.co
-    path: /7-python-libraries-you-should-know-about
+year: 2012
+month: 11
+scheme: http
+host: doda.co
+path: /7-python-libraries-you-should-know-about
 
 ---
 

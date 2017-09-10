@@ -3,13 +3,11 @@ title: "Ansible 2.0 Has Arrived"
 date: 2016-01-14 03:03:40 +0000
 external-url: http://www.ansible.com/blog/ansible-2.0-launch
 hash: c61a14cfb497a2607468754afefb4d01
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.ansible.com
-    path: /blog/ansible-2.0-launch
+year: 2016
+month: 01
+scheme: http
+host: www.ansible.com
+path: /blog/ansible-2.0-launch
 
 ---
 

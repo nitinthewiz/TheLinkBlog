@@ -3,13 +3,11 @@ title: "Adium releases new beta version, now even more psychic"
 date: 2008-06-10 17:00:00 +0000
 external-url: http://www.tuaw.com/2008/06/10/adium-releases-new-beta-version-now-even-more-psychic/
 hash: 6b75b8afaa8542d9c2696c0f1ed265af
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/10/adium-releases-new-beta-version-now-even-more-psychic/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/10/adium-releases-new-beta-version-now-even-more-psychic/
 
 ---
 

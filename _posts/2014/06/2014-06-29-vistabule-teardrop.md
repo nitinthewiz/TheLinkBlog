@@ -3,13 +3,11 @@ title: "Vistabule Teardrop Trailers"
 date: 2014-06-29 20:43:04 +0000
 external-url: http://vistabule.com/
 hash: a38d14ed363050be92d8dd0ede295695
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: http
-    host: vistabule.com
-    path: /
+year: 2014
+month: 06
+scheme: http
+host: vistabule.com
+path: /
 
 ---
 

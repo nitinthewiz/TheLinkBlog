@@ -3,13 +3,11 @@ title: "Clang Successfully Self-Hosts"
 date: 2010-02-06 06:16:00 +0000
 external-url: http://blog.llvm.org/2010/02/clang-successfully-self-hosts.html
 hash: 6db784d07460c99900f63c5692232fee
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.llvm.org
-    path: /2010/02/clang-successfully-self-hosts.html
+year: 2010
+month: 02
+scheme: http
+host: blog.llvm.org
+path: /2010/02/clang-successfully-self-hosts.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Big Media's failure to fulfil fourth estate function in 2012 election"
 date: 2012-11-08 23:50:52 +0000
 external-url: http://www.theguardian.com/commentisfree/2012/nov/07/big-media-failure-fourth-estate-election
 hash: ee166a74f2b169344b0201c6f3081a60
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.theguardian.com
-    path: /commentisfree/2012/nov/07/big-media-failure-fourth-estate-election
+year: 2012
+month: 11
+scheme: http
+host: www.theguardian.com
+path: /commentisfree/2012/nov/07/big-media-failure-fourth-estate-election
 
 ---
 

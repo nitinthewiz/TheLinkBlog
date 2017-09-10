@@ -3,13 +3,11 @@ title: "On Twitter: What's Valuation Got to Do With Revenue?"
 date: 2009-09-17 01:54:12 +0000
 external-url: http://www.readwriteweb.com/archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
 hash: 92860a5090b064e4615d7cd97bdcb9a2
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
+year: 2009
+month: 09
+scheme: http
+host: www.readwriteweb.com
+path: /archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
 
 ---
 

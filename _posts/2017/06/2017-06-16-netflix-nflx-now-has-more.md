@@ -3,13 +3,11 @@ title: "Netflix (NFLX) now has more US subscribers than cable TV — Quartz"
 date: 2017-06-16 20:51:45 +0000
 external-url: https://qz.com/1007227/netflix-nflx-now-has-more-us-subscribers-than-cable-tv/
 hash: 3068ba6a88a859ce09376867b287f9f5
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: qz.com
-    path: /1007227/netflix-nflx-now-has-more-us-subscribers-than-cable-tv/
+year: 2017
+month: 06
+scheme: https
+host: qz.com
+path: /1007227/netflix-nflx-now-has-more-us-subscribers-than-cable-tv/
 
 ---
 

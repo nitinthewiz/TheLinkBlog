@@ -3,13 +3,11 @@ title: "LaunchBar"
 date: 2007-01-25 20:42:50 +0000
 external-url: http://www.obdev.at/products/launchbar/index.html
 hash: c707ee6ee92cd115b2e5df05a9ebdbab
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.obdev.at
-    path: /products/launchbar/index.html
+year: 2007
+month: 01
+scheme: http
+host: www.obdev.at
+path: /products/launchbar/index.html
 
 ---
 

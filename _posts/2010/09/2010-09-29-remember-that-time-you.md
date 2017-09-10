@@ -3,13 +3,11 @@ title: "“Remember that time you quit Twitter”"
 date: 2010-09-29 22:01:35 +0000
 external-url: http://garrickvanburen.com/archive/remember-that-time-you-quit-twitter
 hash: 6aeb0bf189057e18fe75e6d6b63032b9
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: garrickvanburen.com
-    path: /archive/remember-that-time-you-quit-twitter
+year: 2010
+month: 09
+scheme: http
+host: garrickvanburen.com
+path: /archive/remember-that-time-you-quit-twitter
 
 ---
 

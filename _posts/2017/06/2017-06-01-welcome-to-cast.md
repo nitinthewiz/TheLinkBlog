@@ -3,13 +3,11 @@ title: "Welcome to Cast"
 date: 2017-06-01 02:47:51 +0000
 external-url: https://tryca.st/
 hash: c23a88cc77f701c317a205d7be022b79
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: tryca.st
-    path: /
+year: 2017
+month: 06
+scheme: https
+host: tryca.st
+path: /
 
 ---
 

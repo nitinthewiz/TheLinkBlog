@@ -3,13 +3,11 @@ title: "Interact: Better iOS Contact Management"
 date: 2016-01-15 03:06:52 +0000
 external-url: http://macsparky.com/blog/2016/1/interact-better-ios-contact-management
 hash: bd0453b26257ae8ac77934c0662da5dc
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2016/1/interact-better-ios-contact-management
+year: 2016
+month: 01
+scheme: http
+host: macsparky.com
+path: /blog/2016/1/interact-better-ios-contact-management
 
 ---
 

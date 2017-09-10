@@ -3,13 +3,11 @@ title: "Health care Q&A: Scott Danielson, Carewire"
 date: 2012-12-10 23:41:48 +0000
 external-url: http://www.bizjournals.com/twincities/print-edition/2012/12/07/health-care-qa-scott-danielson.html
 hash: bb0a8d7a981a60ccf02566d19876ff6d
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.bizjournals.com
-    path: /twincities/print-edition/2012/12/07/health-care-qa-scott-danielson.html
+year: 2012
+month: 12
+scheme: http
+host: www.bizjournals.com
+path: /twincities/print-edition/2012/12/07/health-care-qa-scott-danielson.html
 
 ---
 

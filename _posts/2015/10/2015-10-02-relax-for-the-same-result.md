@@ -3,13 +3,11 @@ title: "Relax for the same result"
 date: 2015-10-02 02:00:39 +0000
 external-url: http://sivers.org/relax
 hash: 275d7f4e10402ea6b04c3c11259a6d0d
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: sivers.org
-    path: /relax
+year: 2015
+month: 10
+scheme: http
+host: sivers.org
+path: /relax
 
 ---
 

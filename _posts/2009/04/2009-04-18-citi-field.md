@@ -3,13 +3,11 @@ title: "Citi Field"
 date: 2009-04-18 10:36:46 +0000
 external-url: http://www.scripting.com/stories/2009/04/18/citiField.html
 hash: 99ec7e7781c5919664f92dfff14d7800
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.scripting.com
-    path: /stories/2009/04/18/citiField.html
+year: 2009
+month: 04
+scheme: http
+host: www.scripting.com
+path: /stories/2009/04/18/citiField.html
 
 ---
 

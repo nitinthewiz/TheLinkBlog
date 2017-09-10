@@ -3,13 +3,11 @@ title: "Mint Data Shows Online Retail Rebounding"
 date: 2009-11-26 06:26:11 +0000
 external-url: http://readwrite.com/2009/11/24/mint_data_shows_online_retail_rebounding
 hash: 33f15f086b9d34b31bc2cd2ced7142d3
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2009/11/24/mint_data_shows_online_retail_rebounding
+year: 2009
+month: 11
+scheme: http
+host: readwrite.com
+path: /2009/11/24/mint_data_shows_online_retail_rebounding
 
 ---
 

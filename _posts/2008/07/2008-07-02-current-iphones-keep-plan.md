@@ -3,13 +3,11 @@ title: "Current iPhones Keep Cheaper Plan on Reactivation"
 date: 2008-07-02 04:17:29 +0000
 external-url: http://db.tidbits.com/article/9680
 hash: 67c079fbe00916ccb143f9d758a54972
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: db.tidbits.com
-    path: /article/9680
+year: 2008
+month: 07
+scheme: http
+host: db.tidbits.com
+path: /article/9680
 
 ---
 

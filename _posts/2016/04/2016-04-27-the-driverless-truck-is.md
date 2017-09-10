@@ -3,13 +3,11 @@ title: "The driverless truck is coming, and it’s going to automate millions of
 date: 2016-04-27 09:48:48 +0000
 external-url: http://techcrunch.com/2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
 hash: 07c78c4631060eccbf64009fb41ba7ef
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
+year: 2016
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/
 
 ---
 

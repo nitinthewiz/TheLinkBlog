@@ -3,13 +3,11 @@ title: "Most unpopular president since polling was invented"
 date: 2008-04-22 19:21:08 +0000
 external-url: http://www.dailykos.com/story/2008/04/22/500753/-Most-unpopular-president-since-polling-was-invented
 hash: d0f80a72ab82fc469bd42d15929f8841
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2008/04/22/500753/-Most-unpopular-president-since-polling-was-invented
+year: 2008
+month: 04
+scheme: http
+host: www.dailykos.com
+path: /story/2008/04/22/500753/-Most-unpopular-president-since-polling-was-invented
 
 ---
 

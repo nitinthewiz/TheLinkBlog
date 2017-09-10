@@ -3,13 +3,11 @@ title: "The Social Commerce Timeline"
 date: 2011-11-11 20:12:37 +0000
 external-url: http://socialcommercetoday.com/the-social-commerce-timeline-new-infographic-released-download/
 hash: 2a4d7fe9181e810058d13265b02d1786
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: socialcommercetoday.com
-    path: /the-social-commerce-timeline-new-infographic-released-download/
+year: 2011
+month: 11
+scheme: http
+host: socialcommercetoday.com
+path: /the-social-commerce-timeline-new-infographic-released-download/
 
 ---
 

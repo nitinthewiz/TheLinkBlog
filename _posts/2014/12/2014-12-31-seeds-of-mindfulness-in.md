@@ -3,13 +3,11 @@ title: "Seeds of Mindfulness -- Courses in Mindfulness-Based Stress Reduction, O
 date: 2014-12-31 15:59:09 +0000
 external-url: http://seedsofmindfulness.com/
 hash: 7f5ff19d5e8ae613568dfcea5ed62428
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: seedsofmindfulness.com
-    path: /
+year: 2014
+month: 12
+scheme: http
+host: seedsofmindfulness.com
+path: /
 
 ---
 

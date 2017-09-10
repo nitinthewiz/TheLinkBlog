@@ -3,13 +3,11 @@ title: "The Go Programming Language"
 date: 2009-11-11 02:42:52 +0000
 external-url: http://golang.org/
 hash: ac48772220bc32723807032f9a262b68
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: golang.org
-    path: /
+year: 2009
+month: 11
+scheme: http
+host: golang.org
+path: /
 
 ---
 

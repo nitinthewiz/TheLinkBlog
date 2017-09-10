@@ -3,13 +3,11 @@ title: "DNG History and Summary"
 date: 2012-01-08 05:18:40 +0000
 external-url: http://blogs.adobe.com/lightroomjournal/2012/01/dng-history-and-summary.html
 hash: ade264ac88d93e1de2432fba3046d2b9
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: blogs.adobe.com
-    path: /lightroomjournal/2012/01/dng-history-and-summary.html
+year: 2012
+month: 01
+scheme: http
+host: blogs.adobe.com
+path: /lightroomjournal/2012/01/dng-history-and-summary.html
 
 ---
 

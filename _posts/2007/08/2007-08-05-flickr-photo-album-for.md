@@ -3,13 +3,11 @@ title: "Flickr Photo Album for WordPress"
 date: 2007-08-05 19:53:58 +0000
 external-url: http://tantannoodles.com/toolkit/photo-album/
 hash: 79c050137c65480f6d7d90259b07e5db
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: tantannoodles.com
-    path: /toolkit/photo-album/
+year: 2007
+month: 08
+scheme: http
+host: tantannoodles.com
+path: /toolkit/photo-album/
 
 ---
 

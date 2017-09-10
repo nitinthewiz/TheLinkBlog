@@ -3,13 +3,11 @@ title: "Ready to Farm for Software Talent? – RoleModel Software"
 date: 2017-08-18 12:15:03 +0000
 external-url: https://blog.rolemodelsoftware.com/ready-to-farm-for-software-talent-48bda240eca0
 hash: 41df17ce87d0a8423b0b7455bf8bfb73
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: blog.rolemodelsoftware.com
-    path: /ready-to-farm-for-software-talent-48bda240eca0
+year: 2017
+month: 08
+scheme: https
+host: blog.rolemodelsoftware.com
+path: /ready-to-farm-for-software-talent-48bda240eca0
 
 ---
 

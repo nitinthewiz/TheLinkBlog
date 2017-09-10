@@ -3,13 +3,11 @@ title: "Latexian: A LaTeX Editor for Mac OS X"
 date: 2012-04-12 15:25:30 +0000
 external-url: http://tacosw.com/latexian/
 hash: b7b642a772989b0c59a8d5d72d2db3de
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: tacosw.com
-    path: /latexian/
+year: 2012
+month: 04
+scheme: http
+host: tacosw.com
+path: /latexian/
 
 ---
 

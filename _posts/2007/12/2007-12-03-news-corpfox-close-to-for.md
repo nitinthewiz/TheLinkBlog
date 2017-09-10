@@ -3,13 +3,11 @@ title: "News CorpFox Close To Deal With Apple For iTunes Movies: Report"
 date: 2007-12-03 18:14:09 +0000
 external-url: http://gigaom.com/2007/12/04/419-news-corp-fox-in-talks-with-apple-for-itunes-movies-report/
 hash: 15e052b40b8efdfec3fe0f064941291b
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/04/419-news-corp-fox-in-talks-with-apple-for-itunes-movies-report/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/04/419-news-corp-fox-in-talks-with-apple-for-itunes-movies-report/
 
 ---
 

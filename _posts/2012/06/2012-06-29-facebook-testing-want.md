@@ -3,13 +3,11 @@ title: "Facebook testing Want button plugin"
 date: 2012-06-29 15:06:59 +0000
 external-url: http://www.insidefacebook.com/2012/06/28/facebook-testing-want-button-plugin/
 hash: 6bc3b600cf692515667e2fb50eadefd6
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.insidefacebook.com
-    path: /2012/06/28/facebook-testing-want-button-plugin/
+year: 2012
+month: 06
+scheme: http
+host: www.insidefacebook.com
+path: /2012/06/28/facebook-testing-want-button-plugin/
 
 ---
 

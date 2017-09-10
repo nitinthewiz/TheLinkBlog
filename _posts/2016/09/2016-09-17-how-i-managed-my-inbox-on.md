@@ -3,13 +3,11 @@ title: "How I Managed My Inbox on Vacation"
 date: 2016-09-17 01:33:58 +0000
 external-url: https://blog.sanebox.com/2016/09/15/manage-email-inbox-vacation/
 hash: fdb0613400a9d2193047100219f3bb6d
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: blog.sanebox.com
-    path: /2016/09/15/manage-email-inbox-vacation/
+year: 2016
+month: 09
+scheme: https
+host: blog.sanebox.com
+path: /2016/09/15/manage-email-inbox-vacation/
 
 ---
 

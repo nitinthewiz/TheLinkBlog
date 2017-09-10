@@ -3,13 +3,11 @@ title: "David Letterman - The Howard Stern Show by Howard Stern | Free Listening
 date: 2017-09-04 12:29:26 +0000
 external-url: https://soundcloud.com/howardstern/davidletterman
 hash: de477493e6767ac4d11232fc8ad36bc3
-annum:
-    year: 2017
-    month: 09
-url-parts:
-    scheme: https
-    host: soundcloud.com
-    path: /howardstern/davidletterman
+year: 2017
+month: 09
+scheme: https
+host: soundcloud.com
+path: /howardstern/davidletterman
 
 ---
 

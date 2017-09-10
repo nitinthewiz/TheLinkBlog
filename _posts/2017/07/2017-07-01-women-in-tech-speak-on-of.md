@@ -3,13 +3,11 @@ title: "Women in Tech Speak Frankly on Culture of Harassment - NYTimes.com"
 date: 2017-07-01 09:56:44 +0000
 external-url: https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html
 hash: d06db56598e275e9a8fc588f004a8e30
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.nytimes.com
-    path: /2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html
+year: 2017
+month: 07
+scheme: https
+host: www.nytimes.com
+path: /2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "A Bitcoin-Inspired Digital Currency, Stellar, Will Power Mobile Savings 
 date: 2015-02-26 14:40:51 +0000
 external-url: http://www.technologyreview.com/news/535271/bitcoin-inspired-digital-currency-to-power-mobile-savings-app/
 hash: d6e38fe3073b67cd5c8e5fea4bc056cb
-annum:
-    year: 2015
-    month: 02
-url-parts:
-    scheme: http
-    host: www.technologyreview.com
-    path: /news/535271/bitcoin-inspired-digital-currency-to-power-mobile-savings-app/
+year: 2015
+month: 02
+scheme: http
+host: www.technologyreview.com
+path: /news/535271/bitcoin-inspired-digital-currency-to-power-mobile-savings-app/
 
 ---
 

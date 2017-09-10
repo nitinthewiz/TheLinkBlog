@@ -3,13 +3,11 @@ title: "AllBusiness.com Acquired By Dun & Bradstreet For $55 Million"
 date: 2007-12-05 00:05:46 +0000
 external-url: http://gigaom.com/2007/12/04/419-allbusinesscom-acquired-by-dun-bradstreet-for-about-55-million/
 hash: f3d6557a0944379da029defcd8c953a2
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/04/419-allbusinesscom-acquired-by-dun-bradstreet-for-about-55-million/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/04/419-allbusinesscom-acquired-by-dun-bradstreet-for-about-55-million/
 
 ---
 

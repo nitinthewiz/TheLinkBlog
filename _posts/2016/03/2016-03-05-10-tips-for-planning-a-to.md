@@ -3,13 +3,11 @@ title: "10 Tips for Planning a Tech Conference that Women Will Actually Want to 
 date: 2016-03-05 12:14:13 +0000
 external-url: https://medium.com/@womenwhotech/10-tips-for-planning-a-tech-conference-that-women-will-actually-want-to-attend-25517012839f#.ynmka5ch2
 hash: f81e47afbc5ae58c0156503ec77b6617
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@womenwhotech/10-tips-for-planning-a-tech-conference-that-women-will-actually-want-to-attend-25517012839f
+year: 2016
+month: 03
+scheme: https
+host: medium.com
+path: /@womenwhotech/10-tips-for-planning-a-tech-conference-that-women-will-actually-want-to-attend-25517012839f
 
 ---
 

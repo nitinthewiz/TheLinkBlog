@@ -3,13 +3,11 @@ title: "The deal with shared hosts"
 date: 2008-01-10 05:27:00 +0000
 external-url: http://david.heinemeierhansson.com/posts/21-the-deal-with-shared-hosts
 hash: c5a43fe11621676e5b96c74981a86961
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: david.heinemeierhansson.com
-    path: /posts/21-the-deal-with-shared-hosts
+year: 2008
+month: 01
+scheme: http
+host: david.heinemeierhansson.com
+path: /posts/21-the-deal-with-shared-hosts
 
 ---
 

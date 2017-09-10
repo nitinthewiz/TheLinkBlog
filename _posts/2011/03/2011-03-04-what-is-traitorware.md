@@ -3,13 +3,11 @@ title: "What is Traitorware?"
 date: 2011-03-04 20:28:42 +0000
 external-url: https://www.eff.org/deeplinks/2010/12/what-traitorware
 hash: d8dbe59d5ab5ec9425385dfe968122c7
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2010/12/what-traitorware
+year: 2011
+month: 03
+scheme: https
+host: www.eff.org
+path: /deeplinks/2010/12/what-traitorware
 
 ---
 

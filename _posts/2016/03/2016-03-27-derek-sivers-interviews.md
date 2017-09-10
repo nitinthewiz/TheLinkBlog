@@ -3,13 +3,11 @@ title: "Derek Sivers Interviews"
 date: 2016-03-27 11:10:20 +0000
 external-url: https://sivers.org/i
 hash: 1dbbf3f80a8717a4af5e539cedfb944d
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: sivers.org
-    path: /i
+year: 2016
+month: 03
+scheme: https
+host: sivers.org
+path: /i
 
 ---
 

@@ -3,13 +3,11 @@ title: "Will More Ways to Like An Item Fix Social Commerce?"
 date: 2012-04-25 21:55:02 +0000
 external-url: http://thehighlow.com/2012/04/will-more-ways-to-like-an-item-fix-social-commerce/
 hash: 66bd29910c27b7c659a26b9121040cc3
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: thehighlow.com
-    path: /2012/04/will-more-ways-to-like-an-item-fix-social-commerce/
+year: 2012
+month: 04
+scheme: http
+host: thehighlow.com
+path: /2012/04/will-more-ways-to-like-an-item-fix-social-commerce/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Kubb-y Coolness!"
 date: 2012-06-05 13:26:45 +0000
 external-url: http://www.mtholyoke.edu/~larso20e/example1.html
 hash: 3e6cb2cbecc80acf254d383d520f8e22
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.mtholyoke.edu
-    path: /~larso20e/example1.html
+year: 2012
+month: 06
+scheme: http
+host: www.mtholyoke.edu
+path: /~larso20e/example1.html
 
 ---
 

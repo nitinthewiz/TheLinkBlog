@@ -3,13 +3,11 @@ title: "PHP Fog Rock Solid Cloud Platform for PHP"
 date: 2011-12-14 15:41:49 +0000
 external-url: https://www.appfog.com/
 hash: 53eb302ae56d5994aa8c4fc919a2c627
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: https
-    host: www.appfog.com
-    path: /
+year: 2011
+month: 12
+scheme: https
+host: www.appfog.com
+path: /
 
 ---
 

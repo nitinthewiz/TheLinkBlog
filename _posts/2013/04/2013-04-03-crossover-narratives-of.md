@@ -3,13 +3,11 @@ title: "Crossover narratives: intersections of race, genre and authenticity in u
 date: 2013-04-03 03:08:10 +0000
 external-url: http://ir.uiowa.edu/etd/2904/
 hash: 97c8c717092b7fe9d21d02b262650278
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: ir.uiowa.edu
-    path: /etd/2904/
+year: 2013
+month: 04
+scheme: http
+host: ir.uiowa.edu
+path: /etd/2904/
 
 ---
 

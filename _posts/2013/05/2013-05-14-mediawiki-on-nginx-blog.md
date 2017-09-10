@@ -3,13 +3,11 @@ title: "MediaWiki on Nginx - Bigdinosaur Blog"
 date: 2013-05-14 15:18:09 +0000
 external-url: http://blog.bigdinosaur.org/mediawiki-on-nginx
 hash: 79fa4fd816866b1aed997ff464e3c8ef
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: blog.bigdinosaur.org
-    path: /mediawiki-on-nginx
+year: 2013
+month: 05
+scheme: http
+host: blog.bigdinosaur.org
+path: /mediawiki-on-nginx
 
 ---
 

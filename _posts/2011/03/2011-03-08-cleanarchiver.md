@@ -3,13 +3,11 @@ title: "CleanArchiver"
 date: 2011-03-08 22:20:59 +0000
 external-url: http://sopht.jp/en/cleanarchiver/
 hash: 6bfee0d05c6ca3beaa76a0af495f26eb
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: sopht.jp
-    path: /en/cleanarchiver/
+year: 2011
+month: 03
+scheme: http
+host: sopht.jp
+path: /en/cleanarchiver/
 
 ---
 

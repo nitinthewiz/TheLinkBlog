@@ -3,13 +3,11 @@ title: "NYT's TimesPeople Social Network: Another Good Idea From The Times"
 date: 2008-06-18 18:25:00 +0000
 external-url: http://www.businessinsider.com/2008/6/nyt-timespeople-social-network
 hash: 34635accbfd6d38c628ed6db0a7342fe
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/6/nyt-timespeople-social-network
+year: 2008
+month: 06
+scheme: http
+host: www.businessinsider.com
+path: /2008/6/nyt-timespeople-social-network
 
 ---
 

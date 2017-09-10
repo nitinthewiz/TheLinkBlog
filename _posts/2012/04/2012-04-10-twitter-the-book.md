@@ -3,13 +3,11 @@ title: "Twitter, The Book"
 date: 2012-04-10 20:00:57 +0000
 external-url: http://www.nickbilton.com/2012/04/10/twitter-the-book/
 hash: f2e021fc098bbc3d72d4f1a979a7924f
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.nickbilton.com
-    path: /2012/04/10/twitter-the-book/
+year: 2012
+month: 04
+scheme: http
+host: www.nickbilton.com
+path: /2012/04/10/twitter-the-book/
 
 ---
 

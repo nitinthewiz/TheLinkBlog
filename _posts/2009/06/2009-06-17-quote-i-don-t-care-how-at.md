@@ -3,13 +3,11 @@ title: "QUOTE: I don't care how good you are at programming"
 date: 2009-06-17 11:35:53 +0000
 external-url: http://www.37signals.com/svn/posts/1768-i-dont-care-how-good-you-are-at-programming
 hash: 75f74344540c105ea633ad8dac174240
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/1768-i-dont-care-how-good-you-are-at-programming
+year: 2009
+month: 06
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1768-i-dont-care-how-good-you-are-at-programming
 
 ---
 

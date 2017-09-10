@@ -3,13 +3,11 @@ title: "Life Bikin': Gut Check"
 date: 2007-08-28 01:44:24 +0000
 external-url: http://lifebikin.blogspot.com/2007/07/gut-check.html
 hash: 9a7337cb8ac498c93109e23ee3bd8308
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: lifebikin.blogspot.com
-    path: /2007/07/gut-check.html
+year: 2007
+month: 08
+scheme: http
+host: lifebikin.blogspot.com
+path: /2007/07/gut-check.html
 
 ---
 

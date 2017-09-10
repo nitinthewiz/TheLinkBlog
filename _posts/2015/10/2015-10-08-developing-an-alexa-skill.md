@@ -3,13 +3,11 @@ title: "Developing an Alexa Skill as a Lambda Function - Amazon Apps & Services 
 date: 2015-10-08 21:44:54 +0000
 external-url: https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function
 hash: d869762c4ddcb2edf56004eae9ef11d4
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: developer.amazon.com
-    path: /appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function
+year: 2015
+month: 10
+scheme: https
+host: developer.amazon.com
+path: /appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function
 
 ---
 

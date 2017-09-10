@@ -3,13 +3,11 @@ title: "New data on privacy policies shows 20 percent of sites may sell data"
 date: 2012-11-30 11:47:02 +0000
 external-url: http://arstechnica.com/tech-policy/2012/11/new-data-on-privacy-policies-shows-20-percent-of-sites-may-sell-data/
 hash: f5160f3cb1684a51c5b5e9edd31ae41a
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /tech-policy/2012/11/new-data-on-privacy-policies-shows-20-percent-of-sites-may-sell-data/
+year: 2012
+month: 11
+scheme: http
+host: arstechnica.com
+path: /tech-policy/2012/11/new-data-on-privacy-policies-shows-20-percent-of-sites-may-sell-data/
 
 ---
 

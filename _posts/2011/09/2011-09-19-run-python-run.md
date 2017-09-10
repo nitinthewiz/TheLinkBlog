@@ -3,13 +3,11 @@ title: "Run, Python, Run!"
 date: 2011-09-19 03:17:16 +0000
 external-url: http://hbfs.wordpress.com/2011/09/13/run-python-run/
 hash: 5aa10b15d4b457adc6d151c4c5b435a5
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: hbfs.wordpress.com
-    path: /2011/09/13/run-python-run/
+year: 2011
+month: 09
+scheme: http
+host: hbfs.wordpress.com
+path: /2011/09/13/run-python-run/
 
 ---
 

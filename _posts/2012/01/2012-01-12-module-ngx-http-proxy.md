@@ -3,13 +3,11 @@ title: "Module ngx_http_proxy_module"
 date: 2012-01-12 09:36:22 +0000
 external-url: http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_lock
 hash: 26ccf80eb786ca4da7448a688d28b6d3
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: nginx.org
-    path: /en/docs/http/ngx_http_proxy_module.html
+year: 2012
+month: 01
+scheme: http
+host: nginx.org
+path: /en/docs/http/ngx_http_proxy_module.html
 
 ---
 

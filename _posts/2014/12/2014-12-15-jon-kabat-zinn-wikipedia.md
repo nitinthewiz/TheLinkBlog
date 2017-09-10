@@ -3,13 +3,11 @@ title: "Jon Kabat-Zinn - Wikipedia, the free encyclopedia"
 date: 2014-12-15 14:26:32 +0000
 external-url: http://en.wikipedia.org/wiki/Jon_Kabat-Zinn
 hash: f59d599a29fdd5f69a655f079343cbb8
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Jon_Kabat-Zinn
+year: 2014
+month: 12
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Jon_Kabat-Zinn
 
 ---
 

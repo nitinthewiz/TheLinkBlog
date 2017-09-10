@@ -3,13 +3,11 @@ title: "The Keys to Employee Retention"
 date: 2015-06-21 00:42:56 +0000
 external-url: https://getlighthouse.com/blog/employee-retention/
 hash: 9f2ee477e0fbfdcb967c912351eadb46
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: https
-    host: getlighthouse.com
-    path: /blog/employee-retention/
+year: 2015
+month: 06
+scheme: https
+host: getlighthouse.com
+path: /blog/employee-retention/
 
 ---
 

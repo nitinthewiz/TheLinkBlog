@@ -3,13 +3,11 @@ title: "Do Meeting Insights"
 date: 2016-02-11 01:29:59 +0000
 external-url: https://do.com/insights/personal
 hash: ec25bb90ead041ee9465a4f0bf3f7bd2
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: do.com
-    path: /insights/personal
+year: 2016
+month: 02
+scheme: https
+host: do.com
+path: /insights/personal
 
 ---
 

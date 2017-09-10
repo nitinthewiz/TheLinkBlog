@@ -3,13 +3,11 @@ title: "Introducing Cosette – University of Washington Database Group – Medi
 date: 2017-07-21 04:02:29 +0000
 external-url: https://medium.com/@uwdb/introducing-cosette-527898504bd6
 hash: 4a69a89870d1ce0cdb8656d91e006430
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@uwdb/introducing-cosette-527898504bd6
+year: 2017
+month: 07
+scheme: https
+host: medium.com
+path: /@uwdb/introducing-cosette-527898504bd6
 
 ---
 

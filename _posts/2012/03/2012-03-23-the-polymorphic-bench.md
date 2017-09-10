@@ -3,13 +3,11 @@ title: "The Polymorphic Bench"
 date: 2012-03-23 17:36:55 +0000
 external-url: http://www.polymorphicyouth.com/
 hash: 8d964df89acc6f69baad42e3c7872c9f
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.polymorphicyouth.com
-    path: /
+year: 2012
+month: 03
+scheme: http
+host: www.polymorphicyouth.com
+path: /
 
 ---
 

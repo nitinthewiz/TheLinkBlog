@@ -3,13 +3,11 @@ title: "Ludwig von Mises"
 date: 2012-05-13 20:48:42 +0000
 external-url: http://en.wikipedia.org/wiki/Ludwig_von_Mises
 hash: da7d16009a2fd2372d0c7a0ebb3b449c
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Ludwig_von_Mises
+year: 2012
+month: 05
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Ludwig_von_Mises
 
 ---
 

@@ -3,13 +3,11 @@ title: "Swarm Shifts Focus to Become a Personal Travel Timeline – MacStories"
 date: 2017-08-11 13:17:26 +0000
 external-url: https://www.macstories.net/reviews/swarm-shifts-focus-to-become-a-personal-travel-timeline/
 hash: df9094d16957825b25f8107db39e0b72
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /reviews/swarm-shifts-focus-to-become-a-personal-travel-timeline/
+year: 2017
+month: 08
+scheme: https
+host: www.macstories.net
+path: /reviews/swarm-shifts-focus-to-become-a-personal-travel-timeline/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Lawrence Lessig Reviews the Social Network"
 date: 2010-10-04 14:58:00 +0000
 external-url: http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ze4yqPha6p0/story01.htm
 hash: d42718d541026fe625443dfc188e715b
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: rss.slashdot.org
-    path: /~r/Slashdot/slashdot/~3/ze4yqPha6p0/story01.htm
+year: 2010
+month: 10
+scheme: http
+host: rss.slashdot.org
+path: /~r/Slashdot/slashdot/~3/ze4yqPha6p0/story01.htm
 
 ---
 

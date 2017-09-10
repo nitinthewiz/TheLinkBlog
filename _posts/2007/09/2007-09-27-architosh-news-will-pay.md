@@ -3,13 +3,11 @@ title: "Architosh: News > Will AppleTV Pay Off in Era of New Net Media: Prominen
 date: 2007-09-27 17:52:00 +0000
 external-url: http://www.architosh.com/news/2007-09/2007a0927_appletv-onpt.html
 hash: 8e7dcb6c513b7e4bf28892623eccd3a8
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.architosh.com
-    path: /news/2007-09/2007a0927_appletv-onpt.html
+year: 2007
+month: 09
+scheme: http
+host: www.architosh.com
+path: /news/2007-09/2007a0927_appletv-onpt.html
 
 ---
 

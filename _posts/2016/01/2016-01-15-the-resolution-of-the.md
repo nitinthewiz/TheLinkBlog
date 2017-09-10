@@ -3,13 +3,11 @@ title: "The resolution of the Bitcoin experiment"
 date: 2016-01-15 00:53:37 +0000
 external-url: https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.dnffaextz
 hash: db612cff68c90c5102c8f1508b974fac
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7
+year: 2016
+month: 01
+scheme: https
+host: medium.com
+path: /@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7
 
 ---
 

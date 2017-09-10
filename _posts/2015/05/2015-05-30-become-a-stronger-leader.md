@@ -3,13 +3,11 @@ title: "Become a Stronger Leader by Asking Yourself These Three Questions"
 date: 2015-05-30 14:57:10 +0000
 external-url: http://lifehacker.com/become-a-stronger-leader-by-asking-yourself-these-three-1707550666
 hash: b5ab5640f849f9ad6590371ac95d7b39
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /become-a-stronger-leader-by-asking-yourself-these-three-1707550666
+year: 2015
+month: 05
+scheme: http
+host: lifehacker.com
+path: /become-a-stronger-leader-by-asking-yourself-these-three-1707550666
 
 ---
 

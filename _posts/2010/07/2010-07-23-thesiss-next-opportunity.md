@@ -3,13 +3,11 @@ title: "Thesis’s Next Opportunity: Un-WordPress Itself"
 date: 2010-07-23 15:29:31 +0000
 external-url: http://garrickvanburen.com/archive/thesiss-next-opportunity-un-wordpress-itself
 hash: 5be448badaa865334d1852f5f5815d9e
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: garrickvanburen.com
-    path: /archive/thesiss-next-opportunity-un-wordpress-itself
+year: 2010
+month: 07
+scheme: http
+host: garrickvanburen.com
+path: /archive/thesiss-next-opportunity-un-wordpress-itself
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Verge's web sucks"
 date: 2015-07-24 18:40:22 +0000
 external-url: http://blog.lmorchard.com/2015/07/22/the-verge-web-sucks/
 hash: da500724458daa11b71cd95cc8b827cb
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: blog.lmorchard.com
-    path: /2015/07/22/the-verge-web-sucks/
+year: 2015
+month: 07
+scheme: http
+host: blog.lmorchard.com
+path: /2015/07/22/the-verge-web-sucks/
 
 ---
 

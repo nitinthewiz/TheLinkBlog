@@ -3,13 +3,11 @@ title: "MacSpeech gets upgraded to Dragon Dictate 2"
 date: 2010-09-21 03:14:59 +0000
 external-url: http://9to5mac.com/2010/09/20/macspeech-gets-upgraded-to-dragon-naturally-speaking-2/
 hash: 7428d86a54fd8a87c0809d69cc8e5611
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2010/09/20/macspeech-gets-upgraded-to-dragon-naturally-speaking-2/
+year: 2010
+month: 09
+scheme: http
+host: 9to5mac.com
+path: /2010/09/20/macspeech-gets-upgraded-to-dragon-naturally-speaking-2/
 
 ---
 

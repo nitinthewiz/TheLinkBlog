@@ -3,13 +3,11 @@ title: "Word clouds"
 date: 2008-06-20 07:29:48 +0000
 external-url: http://www.lunchoverip.com/2008/06/word-clouds.html
 hash: 6cab957433edb14e9d51eb45f81d3f74
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.lunchoverip.com
-    path: /2008/06/word-clouds.html
+year: 2008
+month: 06
+scheme: http
+host: www.lunchoverip.com
+path: /2008/06/word-clouds.html
 
 ---
 

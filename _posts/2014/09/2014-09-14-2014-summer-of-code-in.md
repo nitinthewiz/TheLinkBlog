@@ -3,13 +3,11 @@ title: "2014 Summer of Code - Entries in Life"
 date: 2014-09-14 16:18:30 +0000
 external-url: http://hexmode.com/2014/09/summer-of-code/
 hash: ecfcc0789e9c62a07ccc1e81ba0b6fe5
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: hexmode.com
-    path: /2014/09/summer-of-code/
+year: 2014
+month: 09
+scheme: http
+host: hexmode.com
+path: /2014/09/summer-of-code/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Recalibrate Your Productivity Sensors"
 date: 2016-08-01 10:46:01 +0000
 external-url: http://www.tombartel.de//2016/07/05/recalibrate-your-productivity-sensors/
 hash: a3902e9ddd10a99e074c855531fd2a85
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: www.tombartel.de
-    path: //2016/07/05/recalibrate-your-productivity-sensors/
+year: 2016
+month: 08
+scheme: http
+host: www.tombartel.de
+path: //2016/07/05/recalibrate-your-productivity-sensors/
 
 ---
 

@@ -3,13 +3,11 @@ title: "DirectLinks: Safari Extension That Circumvents Google and Facebook Link 
 date: 2015-09-05 22:19:39 +0000
 external-url: http://canisbos.com/directlinks
 hash: d2c84d223579e2e96608e40ba001e0d2
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: canisbos.com
-    path: /directlinks
+year: 2015
+month: 09
+scheme: http
+host: canisbos.com
+path: /directlinks
 
 ---
 

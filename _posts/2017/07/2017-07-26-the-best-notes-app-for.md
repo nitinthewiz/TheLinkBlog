@@ -3,13 +3,11 @@ title: "The Best Notes App for iPhone and iPad: Bear — The Sweet Setup"
 date: 2017-07-26 00:18:58 +0000
 external-url: http://thesweetsetup.com/apps/the-best-note-taking-apps-for-ios/
 hash: 43b2dee461e17a4d606a680b8391027d
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: thesweetsetup.com
-    path: /apps/the-best-note-taking-apps-for-ios/
+year: 2017
+month: 07
+scheme: http
+host: thesweetsetup.com
+path: /apps/the-best-note-taking-apps-for-ios/
 
 ---
 

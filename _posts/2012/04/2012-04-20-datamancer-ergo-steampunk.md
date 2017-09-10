@@ -3,13 +3,11 @@ title: "Datamancer Ergo Steampunk ergonomic keyboard"
 date: 2012-04-20 15:55:49 +0000
 external-url: http://www.datamancer.net/keyboards/ergo1/ergo1.htm
 hash: 12045e3fd4081d52fca9e0501947c7e4
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.datamancer.net
-    path: /keyboards/ergo1/ergo1.htm
+year: 2012
+month: 04
+scheme: http
+host: www.datamancer.net
+path: /keyboards/ergo1/ergo1.htm
 
 ---
 

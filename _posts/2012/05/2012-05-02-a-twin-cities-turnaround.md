@@ -3,13 +3,11 @@ title: "A Twin Cities turnaround? The Star Tribune carves a path back through gr
 date: 2012-05-02 12:00:50 +0000
 external-url: http://www.niemanlab.org/2012/05/a-twin-cities-turnaround-the-star-tribune-carves-a-path-back-through-growing-audience/
 hash: 4db34395b06ad2abb178a5cfc653c60c
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.niemanlab.org
-    path: /2012/05/a-twin-cities-turnaround-the-star-tribune-carves-a-path-back-through-growing-audience/
+year: 2012
+month: 05
+scheme: http
+host: www.niemanlab.org
+path: /2012/05/a-twin-cities-turnaround-the-star-tribune-carves-a-path-back-through-growing-audience/
 
 ---
 

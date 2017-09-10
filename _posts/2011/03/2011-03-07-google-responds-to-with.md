@@ -3,13 +3,11 @@ title: "Google Responds to Android Malware with Remote App Removal"
 date: 2011-03-07 02:33:41 +0000
 external-url: http://readwrite.com/2011/03/06/google_responds_to_android_malware_with_remote_app
 hash: 59098182f1b653e7f5d21fa529045ede
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2011/03/06/google_responds_to_android_malware_with_remote_app
+year: 2011
+month: 03
+scheme: http
+host: readwrite.com
+path: /2011/03/06/google_responds_to_android_malware_with_remote_app
 
 ---
 

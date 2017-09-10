@@ -3,13 +3,11 @@ title: "FirstLook: WeatherCal 1.0"
 date: 2009-03-26 03:29:29 +0000
 external-url: http://www.tuaw.com/2009/03/25/firstlook-weathercal-1-0/
 hash: 79174ab58ebf4345222e78021980123f
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/03/25/firstlook-weathercal-1-0/
+year: 2009
+month: 03
+scheme: http
+host: www.tuaw.com
+path: /2009/03/25/firstlook-weathercal-1-0/
 
 ---
 

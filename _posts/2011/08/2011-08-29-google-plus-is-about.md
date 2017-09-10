@@ -3,13 +3,11 @@ title: "Google-Plus is about money"
 date: 2011-08-29 02:28:44 +0000
 external-url: http://scripting.com/stories/2011/08/28/googleplusIsAboutMoney.html
 hash: 5b641f24185272dd20d9b43cbe4a648f
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2011/08/28/googleplusIsAboutMoney.html
+year: 2011
+month: 08
+scheme: http
+host: scripting.com
+path: /stories/2011/08/28/googleplusIsAboutMoney.html
 
 ---
 

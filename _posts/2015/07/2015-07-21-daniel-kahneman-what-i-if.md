@@ -3,13 +3,11 @@ title: "Daniel Kahneman: ‘What would I eliminate if I had a magic wand? Overc
 date: 2015-07-21 01:27:54 +0000
 external-url: http://www.theguardian.com/books/2015/jul/18/daniel-kahneman-books-interview
 hash: c65c595ff77d23dc45c64d99f5e50e9f
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: www.theguardian.com
-    path: /books/2015/jul/18/daniel-kahneman-books-interview
+year: 2015
+month: 07
+scheme: http
+host: www.theguardian.com
+path: /books/2015/jul/18/daniel-kahneman-books-interview
 
 ---
 

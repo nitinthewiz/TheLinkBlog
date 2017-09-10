@@ -3,13 +3,11 @@ title: "Amazon Simple Workflow Service"
 date: 2014-02-26 23:57:35 +0000
 external-url: http://aws.amazon.com/swf/
 hash: 2f3f396c9e60664b4aeb9db3259693a0
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: aws.amazon.com
-    path: /swf/
+year: 2014
+month: 02
+scheme: http
+host: aws.amazon.com
+path: /swf/
 
 ---
 

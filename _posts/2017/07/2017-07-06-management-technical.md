@@ -3,13 +3,11 @@ title: "Management & Technical Career Growth Tracks"
 date: 2017-07-06 02:34:44 +0000
 external-url: https://medium.com/@rajivpant/management-technical-career-growth-tracks-de0cdfb96391
 hash: bd932fc280d231286a6f6c0fc92be6b9
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@rajivpant/management-technical-career-growth-tracks-de0cdfb96391
+year: 2017
+month: 07
+scheme: https
+host: medium.com
+path: /@rajivpant/management-technical-career-growth-tracks-de0cdfb96391
 
 ---
 

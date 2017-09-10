@@ -3,13 +3,11 @@ title: "htop explained"
 date: 2016-12-04 17:01:51 +0000
 external-url: https://peteris.rocks/blog/htop/
 hash: 5622c8843cfec74c8ed3c78a2c3c6030
-annum:
-    year: 2016
-    month: 12
-url-parts:
-    scheme: https
-    host: peteris.rocks
-    path: /blog/htop/
+year: 2016
+month: 12
+scheme: https
+host: peteris.rocks
+path: /blog/htop/
 
 ---
 

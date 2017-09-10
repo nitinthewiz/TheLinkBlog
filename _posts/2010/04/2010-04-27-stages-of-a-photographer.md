@@ -3,13 +3,11 @@ title: "Stages of a photographer"
 date: 2010-04-27 17:16:48 +0000
 external-url: http://kottke.org/10/04/stages-of-a-photographer
 hash: ed07a93a6768a45a3debb44eed19b9d7
-annum:
-    year: 2010
-    month: 04
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/04/stages-of-a-photographer
+year: 2010
+month: 04
+scheme: http
+host: kottke.org
+path: /10/04/stages-of-a-photographer
 
 ---
 

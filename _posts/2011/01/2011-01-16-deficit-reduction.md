@@ -3,13 +3,11 @@ title: "Deficit Reduction"
 date: 2011-01-16 15:18:10 +0000
 external-url: http://avc.com/2011/01/deficit-reduction/
 hash: 0f85fbe5709d143b059dc55876ca45ee
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: avc.com
-    path: /2011/01/deficit-reduction/
+year: 2011
+month: 01
+scheme: http
+host: avc.com
+path: /2011/01/deficit-reduction/
 
 ---
 

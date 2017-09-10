@@ -3,13 +3,11 @@ title: "Hacking Letterpress"
 date: 2012-11-14 21:54:39 +0000
 external-url: http://stateio.github.com/blog/2012/11/09/hacking-letterpress/
 hash: cd5dcb593c54286374f17d2581127f17
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: stateio.github.com
-    path: /blog/2012/11/09/hacking-letterpress/
+year: 2012
+month: 11
+scheme: http
+host: stateio.github.com
+path: /blog/2012/11/09/hacking-letterpress/
 
 ---
 

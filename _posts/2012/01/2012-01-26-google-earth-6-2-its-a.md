@@ -3,13 +3,11 @@ title: "Google Earth 6.2: It’s a beautiful world"
 date: 2012-01-26 19:16:34 +0000
 external-url: http://googleblog.blogspot.com/2012/01/google-earth-62-its-beautiful-world.html
 hash: 81b5608d88570b172de0bb0c9e71b746
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2012/01/google-earth-62-its-beautiful-world.html
+year: 2012
+month: 01
+scheme: http
+host: googleblog.blogspot.com
+path: /2012/01/google-earth-62-its-beautiful-world.html
 
 ---
 

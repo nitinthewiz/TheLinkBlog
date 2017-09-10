@@ -3,13 +3,11 @@ title: "Wall Street Journal Paper Redesign: Launching Tomorrow; Broader Focus"
 date: 2008-04-21 19:41:23 +0000
 external-url: http://gigaom.com/2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
 hash: efa2a7407c07728a762975116461b684
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
+year: 2008
+month: 04
+scheme: http
+host: gigaom.com
+path: /2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
 
 ---
 

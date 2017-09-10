@@ -3,13 +3,11 @@ title: "Tablets, Before and After the iPad"
 date: 2011-08-18 17:01:17 +0000
 external-url: http://twitpic.com/67ykpa
 hash: a6ab23d882cf47a1271120cea60bce7c
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: twitpic.com
-    path: /67ykpa
+year: 2011
+month: 08
+scheme: http
+host: twitpic.com
+path: /67ykpa
 
 ---
 

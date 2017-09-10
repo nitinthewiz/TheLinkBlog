@@ -3,13 +3,11 @@ title: "Optimizing MongoDB Compound Indexes"
 date: 2012-10-08 20:08:13 +0000
 external-url: http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/
 hash: ab20af3bfec576cbca3c228d0e3d97f5
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: emptysqua.re
-    path: /blog/optimizing-mongodb-compound-indexes/
+year: 2012
+month: 10
+scheme: http
+host: emptysqua.re
+path: /blog/optimizing-mongodb-compound-indexes/
 
 ---
 

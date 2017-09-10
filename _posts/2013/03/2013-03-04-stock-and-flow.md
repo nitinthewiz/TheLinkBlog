@@ -3,13 +3,11 @@ title: "Stock and flow - Snarkmarket"
 date: 2013-03-04 12:03:02 +0000
 external-url: http://snarkmarket.com/2010/4890
 hash: 83f4fbcfb69c8cafc91066b892128e99
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: snarkmarket.com
-    path: /2010/4890
+year: 2013
+month: 03
+scheme: http
+host: snarkmarket.com
+path: /2010/4890
 
 ---
 

@@ -3,13 +3,11 @@ title: "Chronochrome: [Almost] Resistor Color Code Time."
 date: 2008-12-15 16:59:26 +0000
 external-url: http://www.friday.com/bbum/2008/12/15/chronochrome-almost-resistor-color-code-time/
 hash: 32c4d3d6e2752667d007a250df6063e6
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: www.friday.com
-    path: /bbum/2008/12/15/chronochrome-almost-resistor-color-code-time/
+year: 2008
+month: 12
+scheme: http
+host: www.friday.com
+path: /bbum/2008/12/15/chronochrome-almost-resistor-color-code-time/
 
 ---
 

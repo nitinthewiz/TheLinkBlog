@@ -3,13 +3,11 @@ title: "Neil Gaiman: Keynote Address"
 date: 2012-06-03 20:03:06 +0000
 external-url: http://uarts.edu/neil-gaiman-keynote-address-2012
 hash: ce71ee41e3a223f0b1b5db2cdb7ef301
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: uarts.edu
-    path: /neil-gaiman-keynote-address-2012
+year: 2012
+month: 06
+scheme: http
+host: uarts.edu
+path: /neil-gaiman-keynote-address-2012
 
 ---
 

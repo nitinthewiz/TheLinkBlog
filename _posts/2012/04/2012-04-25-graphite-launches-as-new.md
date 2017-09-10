@@ -3,13 +3,11 @@ title: "Graphite Launches As New Platform For Social Shopping"
 date: 2012-04-25 21:58:54 +0000
 external-url: http://upstart.bizjournals.com/companies/rebel-brands/2012/04/24/graphite-launches-as-new-platform-for-social-shopping.html
 hash: a77ba301541bf0324231eaeeaeebd503
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: upstart.bizjournals.com
-    path: /companies/rebel-brands/2012/04/24/graphite-launches-as-new-platform-for-social-shopping.html
+year: 2012
+month: 04
+scheme: http
+host: upstart.bizjournals.com
+path: /companies/rebel-brands/2012/04/24/graphite-launches-as-new-platform-for-social-shopping.html
 
 ---
 

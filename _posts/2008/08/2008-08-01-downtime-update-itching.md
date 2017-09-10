@@ -3,13 +3,11 @@ title: "Downtime Update: Itching for the Green Light"
 date: 2008-08-01 21:19:50 +0000
 external-url: http://blog.cullect.com/archive/downtime-update-itching-for-the-green-light
 hash: 2303088f5ae0635e287276274ec02d88
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: blog.cullect.com
-    path: /archive/downtime-update-itching-for-the-green-light
+year: 2008
+month: 08
+scheme: http
+host: blog.cullect.com
+path: /archive/downtime-update-itching-for-the-green-light
 
 ---
 

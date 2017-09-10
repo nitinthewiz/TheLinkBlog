@@ -3,13 +3,11 @@ title: "The Uprising in Egypt"
 date: 2011-02-06 11:45:44 +0000
 external-url: http://m.newyorker.com/talk/comment/2011/02/14/110214taco_talk_remnick
 hash: 8a396204432c95a30971d0401856f47f
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: m.newyorker.com
-    path: /talk/comment/2011/02/14/110214taco_talk_remnick
+year: 2011
+month: 02
+scheme: http
+host: m.newyorker.com
+path: /talk/comment/2011/02/14/110214taco_talk_remnick
 
 ---
 

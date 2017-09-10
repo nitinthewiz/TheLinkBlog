@@ -3,13 +3,11 @@ title: "A Darwinian theory of beauty"
 date: 2010-11-17 01:42:42 +0000
 external-url: http://radar.oreilly.com/2010/11/a-darwinian-theory-of-beauty.html
 hash: 0e99565f3424d6933828073ae463a192
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2010/11/a-darwinian-theory-of-beauty.html
+year: 2010
+month: 11
+scheme: http
+host: radar.oreilly.com
+path: /2010/11/a-darwinian-theory-of-beauty.html
 
 ---
 

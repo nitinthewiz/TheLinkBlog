@@ -3,13 +3,11 @@ title: "Processing.js"
 date: 2010-11-19 17:25:01 +0000
 external-url: http://processingjs.org/
 hash: a1a97156b5c4f206c41113ba4400e979
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: processingjs.org
-    path: /
+year: 2010
+month: 11
+scheme: http
+host: processingjs.org
+path: /
 
 ---
 

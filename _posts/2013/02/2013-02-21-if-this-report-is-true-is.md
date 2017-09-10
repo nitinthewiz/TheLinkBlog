@@ -3,13 +3,11 @@ title: "If This Report Is True, LivingSocial Is In Far Worse Shape Than We Thoug
 date: 2013-02-21 17:27:17 +0000
 external-url: http://www.sfgate.com/technology/businessinsider/article/If-This-Report-Is-True-LivingSocial-Is-In-Far-4297348.php
 hash: a4a5687b2465114bfcc189b877f2faca
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: www.sfgate.com
-    path: /technology/businessinsider/article/If-This-Report-Is-True-LivingSocial-Is-In-Far-4297348.php
+year: 2013
+month: 02
+scheme: http
+host: www.sfgate.com
+path: /technology/businessinsider/article/If-This-Report-Is-True-LivingSocial-Is-In-Far-4297348.php
 
 ---
 

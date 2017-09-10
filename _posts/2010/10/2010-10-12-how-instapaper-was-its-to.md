@@ -3,13 +3,11 @@ title: "How Instapaper Was Created & its Plan to Add Social Features"
 date: 2010-10-12 18:10:49 +0000
 external-url: http://www.readwriteweb.com/archives/how_instapaper_was_created.php
 hash: b2a2d0043bb8fbd2396917bbb807727d
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/how_instapaper_was_created.php
+year: 2010
+month: 10
+scheme: http
+host: www.readwriteweb.com
+path: /archives/how_instapaper_was_created.php
 
 ---
 

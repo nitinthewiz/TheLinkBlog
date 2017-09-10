@@ -3,13 +3,11 @@ title: "Apple TV + iPhone = Ultimate geeky car audio system"
 date: 2008-08-30 21:54:05 +0000
 external-url: http://www.appletvhacks.net/2008/08/30/apple-tv-iphone-ultimate-geeky-car-audio-system/
 hash: ca23f4d7c74886ef297d81033ab43a8c
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: www.appletvhacks.net
-    path: /2008/08/30/apple-tv-iphone-ultimate-geeky-car-audio-system/
+year: 2008
+month: 08
+scheme: http
+host: www.appletvhacks.net
+path: /2008/08/30/apple-tv-iphone-ultimate-geeky-car-audio-system/
 
 ---
 

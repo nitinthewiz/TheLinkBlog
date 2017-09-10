@@ -3,13 +3,11 @@ title: "The Unfinished Business of Organizational Transformation | ThoughtWorks"
 date: 2016-01-01 15:03:53 +0000
 external-url: https://www.thoughtworks.com/insights/blog/unfinished-business-organizational-transformation
 hash: 76a7bcd85ae5087d9e4ee62ac0f857eb
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: www.thoughtworks.com
-    path: /insights/blog/unfinished-business-organizational-transformation
+year: 2016
+month: 01
+scheme: https
+host: www.thoughtworks.com
+path: /insights/blog/unfinished-business-organizational-transformation
 
 ---
 

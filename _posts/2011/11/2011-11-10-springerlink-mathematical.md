@@ -3,13 +3,11 @@ title: "SpringerLink - Computational & Mathematical Organization Theory, Volume 
 date: 2011-11-10 14:45:06 +0000
 external-url: http://www.springerlink.com/content/q567773rj070xvj2/
 hash: c640b2b61002cf8181c46c0ab62610de
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: www.springerlink.com
-    path: /content/q567773rj070xvj2/
+year: 2011
+month: 11
+scheme: http
+host: www.springerlink.com
+path: /content/q567773rj070xvj2/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Need A Job? Make $1.20hour Tagging Photos"
 date: 2008-04-02 08:04:09 +0000
 external-url: http://techcrunch.com/2008/04/02/need-a-job-make-120hour-tagging-photos/
 hash: b9cc0bac0eaff63d868875d581840a9f
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/04/02/need-a-job-make-120hour-tagging-photos/
+year: 2008
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2008/04/02/need-a-job-make-120hour-tagging-photos/
 
 ---
 

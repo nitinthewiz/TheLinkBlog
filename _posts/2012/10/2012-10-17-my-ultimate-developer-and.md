@@ -3,13 +3,11 @@ title: "My Ultimate Developer and Power Users Tool List for Mac OS X (2012 Editi
 date: 2012-10-17 19:34:09 +0000
 external-url: http://carpeaqua.com/2012/10/15/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2012-edition-/
 hash: 6cb5e8b3a3f45e0f780bd3d4a3f1a566
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: carpeaqua.com
-    path: /2012/10/15/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2012-edition-/
+year: 2012
+month: 10
+scheme: http
+host: carpeaqua.com
+path: /2012/10/15/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2012-edition-/
 
 ---
 

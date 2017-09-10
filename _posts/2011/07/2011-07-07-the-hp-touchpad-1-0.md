@@ -3,13 +3,11 @@ title: "The HP TouchPad 1.0"
 date: 2011-07-07 21:06:40 +0000
 external-url: http://shawnblanc.net/2011/07/hp-touchpad-review/
 hash: c58730685f5252f7f5e776b32a3e230f
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: shawnblanc.net
-    path: /2011/07/hp-touchpad-review/
+year: 2011
+month: 07
+scheme: http
+host: shawnblanc.net
+path: /2011/07/hp-touchpad-review/
 
 ---
 

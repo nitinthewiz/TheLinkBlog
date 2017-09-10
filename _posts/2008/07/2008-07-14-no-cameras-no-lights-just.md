@@ -3,13 +3,11 @@ title: "No cameras. No lights. Just data."
 date: 2008-07-14 15:47:00 +0000
 external-url: http://googleblog.blogspot.com/2008/07/no-cameras-no-lights-just-data.html
 hash: 69e41827c5977a9bb68dbec3a914cef6
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2008/07/no-cameras-no-lights-just-data.html
+year: 2008
+month: 07
+scheme: http
+host: googleblog.blogspot.com
+path: /2008/07/no-cameras-no-lights-just-data.html
 
 ---
 

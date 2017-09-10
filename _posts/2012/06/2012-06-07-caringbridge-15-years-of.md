@@ -3,13 +3,11 @@ title: "CaringBridge: 15 years of connecting caregivers"
 date: 2012-06-07 17:32:16 +0000
 external-url: http://www.usatoday.com/news/health/story/2012-06-07/caringbridge/55436942/1
 hash: 468d00c5ba1e05ba38f29556ef942677
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.usatoday.com
-    path: /news/health/story/2012-06-07/caringbridge/55436942/1
+year: 2012
+month: 06
+scheme: http
+host: www.usatoday.com
+path: /news/health/story/2012-06-07/caringbridge/55436942/1
 
 ---
 

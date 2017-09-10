@@ -3,13 +3,11 @@ title: "www.omnigroup.com"
 date: 2015-10-07 17:47:24 +0000
 external-url: https://www.omnigroup.com/blog/hello-omniplan-3
 hash: 215c6009fb6ccd84c320f6e39781a0a8
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: www.omnigroup.com
-    path: /blog/hello-omniplan-3
+year: 2015
+month: 10
+scheme: https
+host: www.omnigroup.com
+path: /blog/hello-omniplan-3
 
 ---
 

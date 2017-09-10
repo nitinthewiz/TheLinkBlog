@@ -3,13 +3,11 @@ title: "One Trillion Edges: Graph Processing at Facebook-Scale"
 date: 2015-08-21 21:35:19 +0000
 external-url: http://www.vldb.org/pvldb/vol8/p1804-ching.pdf
 hash: f93f2b50b5eb81546436a508a87ff0cc
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: www.vldb.org
-    path: /pvldb/vol8/p1804-ching.pdf
+year: 2015
+month: 08
+scheme: http
+host: www.vldb.org
+path: /pvldb/vol8/p1804-ching.pdf
 
 ---
 

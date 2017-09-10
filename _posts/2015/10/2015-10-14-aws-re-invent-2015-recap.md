@@ -3,13 +3,11 @@ title: "AWS re:Invent 2015 recap: Freedom from constraints"
 date: 2015-10-14 04:12:25 +0000
 external-url: http://blog.cloudability.com/aws-reinvent-2015-recap/
 hash: d362873aaa8e0cab3de1eacb97e6482a
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.cloudability.com
-    path: /aws-reinvent-2015-recap/
+year: 2015
+month: 10
+scheme: http
+host: blog.cloudability.com
+path: /aws-reinvent-2015-recap/
 
 ---
 

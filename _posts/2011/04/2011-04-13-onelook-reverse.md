@@ -3,13 +3,11 @@ title: "OneLook Reverse Dictionary"
 date: 2011-04-13 13:09:16 +0000
 external-url: http://www.onelook.com/reverse-dictionary.shtml
 hash: 9483d92d406e95f34a7cfe1da7e8e488
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.onelook.com
-    path: /reverse-dictionary.shtml
+year: 2011
+month: 04
+scheme: http
+host: www.onelook.com
+path: /reverse-dictionary.shtml
 
 ---
 

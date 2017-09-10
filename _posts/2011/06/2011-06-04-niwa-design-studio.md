@@ -3,13 +3,11 @@ title: "Niwa Design Studio"
 date: 2011-06-04 09:41:26 +0000
 external-url: http://www.niwadesign.com/
 hash: 4b9feef0fa5346237b93356f1e7a354d
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.niwadesign.com
-    path: /
+year: 2011
+month: 06
+scheme: http
+host: www.niwadesign.com
+path: /
 
 ---
 

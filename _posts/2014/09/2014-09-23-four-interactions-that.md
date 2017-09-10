@@ -3,13 +3,11 @@ title: "Four Interactions That Could Have Gone Better - Bridget Kromhout"
 date: 2014-09-23 12:35:28 +0000
 external-url: http://bridgetkromhout.com/blog/2014/09/22/four-interactions-that-could-have-gone-better/
 hash: 7e5df8ed3994676a31e37b84afa1e9cb
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: bridgetkromhout.com
-    path: /blog/2014/09/22/four-interactions-that-could-have-gone-better/
+year: 2014
+month: 09
+scheme: http
+host: bridgetkromhout.com
+path: /blog/2014/09/22/four-interactions-that-could-have-gone-better/
 
 ---
 

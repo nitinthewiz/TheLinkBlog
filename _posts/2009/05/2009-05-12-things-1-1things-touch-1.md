@@ -3,13 +3,11 @@ title: "Things 1.1Things Touch 1.3.5: Area Sync"
 date: 2009-05-12 04:33:47 +0000
 external-url: http://www.tuaw.com/2009/05/11/things-1-1-things-touch-with-area-sync/
 hash: b771510d45cf63d90fb0ad5fe3d1eaff
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/05/11/things-1-1-things-touch-with-area-sync/
+year: 2009
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2009/05/11/things-1-1-things-touch-with-area-sync/
 
 ---
 

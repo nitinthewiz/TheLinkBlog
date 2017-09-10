@@ -3,13 +3,11 @@ title: "Disconnect Day"
 date: 2015-05-30 00:28:31 +0000
 external-url: http://mydisconnectday.com/
 hash: a5b540a5e82c71ea95176ed614f787cc
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: mydisconnectday.com
-    path: /
+year: 2015
+month: 05
+scheme: http
+host: mydisconnectday.com
+path: /
 
 ---
 

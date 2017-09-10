@@ -3,13 +3,11 @@ title: "One Man's Year of Digital Detox - OutsideOnline.com"
 date: 2014-09-06 16:42:49 +0000
 external-url: http://www.outsideonline.com/outdoor-adventure/media/Reboot-or-Die-Trying.html
 hash: c6421224f051cf50f206425e24dce9d9
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: www.outsideonline.com
-    path: /outdoor-adventure/media/Reboot-or-Die-Trying.html
+year: 2014
+month: 09
+scheme: http
+host: www.outsideonline.com
+path: /outdoor-adventure/media/Reboot-or-Die-Trying.html
 
 ---
 

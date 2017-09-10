@@ -3,13 +3,11 @@ title: "Sweet Maria's Brewing Instructions for Chemex Brewers"
 date: 2015-10-05 11:36:43 +0000
 external-url: http://legacy.sweetmarias.com/brewinstr/brewing.inst.chemex.php
 hash: 5c00c654d251784df6dcce02bc36fa21
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: legacy.sweetmarias.com
-    path: /brewinstr/brewing.inst.chemex.php
+year: 2015
+month: 10
+scheme: http
+host: legacy.sweetmarias.com
+path: /brewinstr/brewing.inst.chemex.php
 
 ---
 

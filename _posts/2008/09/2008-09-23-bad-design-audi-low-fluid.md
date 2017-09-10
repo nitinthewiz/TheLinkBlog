@@ -3,13 +3,11 @@ title: "Bad design (Audi): Low washer fluid isn't important enough fo... on Twit
 date: 2008-09-23 21:40:14 +0000
 external-url: http://twitpic.com/cujj
 hash: 0979861dcb0823abd2f65e4f85e99a60
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: http
-    host: twitpic.com
-    path: /cujj
+year: 2008
+month: 09
+scheme: http
+host: twitpic.com
+path: /cujj
 
 ---
 

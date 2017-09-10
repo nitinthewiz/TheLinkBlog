@@ -3,13 +3,11 @@ title: "Online Ad Revenue"
 date: 2008-11-24 15:02:09 +0000
 external-url: http://jasonschaeffer.net/2008/11/24/online-ad-revenue/
 hash: 1d589b6ab9d151a22fa3b4cf8217ee6f
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: jasonschaeffer.net
-    path: /2008/11/24/online-ad-revenue/
+year: 2008
+month: 11
+scheme: http
+host: jasonschaeffer.net
+path: /2008/11/24/online-ad-revenue/
 
 ---
 

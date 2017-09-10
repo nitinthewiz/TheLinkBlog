@@ -3,13 +3,11 @@ title: "First look: 1Password 4 for iOS"
 date: 2012-11-21 16:21:12 +0000
 external-url: http://www.imore.com/first-look-1password-4-iphone-ipad
 hash: 9f8f0eb0bb9f8a9b038d5012dd97525c
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.imore.com
-    path: /first-look-1password-4-iphone-ipad
+year: 2012
+month: 11
+scheme: http
+host: www.imore.com
+path: /first-look-1password-4-iphone-ipad
 
 ---
 

@@ -3,13 +3,11 @@ title: "Google Purchase Shuts Down reMail"
 date: 2010-02-19 21:54:03 +0000
 external-url: http://gigaom.com/2010/02/19/google-purchase-shuts-down-remail/
 hash: b4d203ccd7c6efd56123d28523b48653
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/02/19/google-purchase-shuts-down-remail/
+year: 2010
+month: 02
+scheme: http
+host: gigaom.com
+path: /2010/02/19/google-purchase-shuts-down-remail/
 
 ---
 

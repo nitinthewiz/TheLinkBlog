@@ -3,13 +3,11 @@ title: "Solar Transit of the Altantis Space Shuttle"
 date: 2009-05-18 15:21:34 +0000
 external-url: http://www.todayandtomorrow.net/2009/05/18/solar-transit-of-the-altantis-space-shuttle/
 hash: 3dd9a37ee6006d3ccadeac81ec10ed52
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.todayandtomorrow.net
-    path: /2009/05/18/solar-transit-of-the-altantis-space-shuttle/
+year: 2009
+month: 05
+scheme: http
+host: www.todayandtomorrow.net
+path: /2009/05/18/solar-transit-of-the-altantis-space-shuttle/
 
 ---
 

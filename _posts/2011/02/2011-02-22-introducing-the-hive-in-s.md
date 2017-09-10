@@ -3,13 +3,11 @@ title: "Introducing The Hive, in which Slate readers offer great new ideas for t
 date: 2011-02-22 20:32:33 +0000
 external-url: http://www.slate.com/articles/news_and_politics/slate_fare/2010/02/introducing_the_hive.html
 hash: 529ad21d9a312eb62540be023e63a98d
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: www.slate.com
-    path: /articles/news_and_politics/slate_fare/2010/02/introducing_the_hive.html
+year: 2011
+month: 02
+scheme: http
+host: www.slate.com
+path: /articles/news_and_politics/slate_fare/2010/02/introducing_the_hive.html
 
 ---
 

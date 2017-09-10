@@ -3,13 +3,11 @@ title: "New Preferred Developers and Open Application Round"
 date: 2011-02-28 10:25:00 +0000
 external-url: https://developers.facebook.com/blog/post/470/
 hash: 18bba2eaae55431ffba1acb39a64921f
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: https
-    host: developers.facebook.com
-    path: /blog/post/470/
+year: 2011
+month: 02
+scheme: https
+host: developers.facebook.com
+path: /blog/post/470/
 
 ---
 

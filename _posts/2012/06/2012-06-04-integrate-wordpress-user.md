@@ -3,13 +3,11 @@ title: "Integrate Wordpress user accounts with Mediawiki"
 date: 2012-06-04 17:23:00 +0000
 external-url: http://www.sapandiwakar.in/technical/integrate-wordpress-user-accounts-with-mediawiki/
 hash: 631ee6512fd64d583580bd63d713261f
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.sapandiwakar.in
-    path: /technical/integrate-wordpress-user-accounts-with-mediawiki/
+year: 2012
+month: 06
+scheme: http
+host: www.sapandiwakar.in
+path: /technical/integrate-wordpress-user-accounts-with-mediawiki/
 
 ---
 

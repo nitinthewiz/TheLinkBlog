@@ -3,13 +3,11 @@ title: "DLD13 Keynote - too long to tweet"
 date: 2013-01-30 15:27:50 +0000
 external-url: http://max.levch.in/post/41116802381/dld13-keynote
 hash: 46fd9740a4809d172165339ea55a8785
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: max.levch.in
-    path: /post/41116802381/dld13-keynote
+year: 2013
+month: 01
+scheme: http
+host: max.levch.in
+path: /post/41116802381/dld13-keynote
 
 ---
 

@@ -3,13 +3,11 @@ title: "MinneWebCon nails the elusive gender ratio"
 date: 2014-04-21 02:47:04 +0000
 external-url: http://tech.mn/news/2014/04/16/minnewebcon-nails-the-elusive-gender-ratio/
 hash: 3e9c9864e4693733734a517ba7575d92
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2014/04/16/minnewebcon-nails-the-elusive-gender-ratio/
+year: 2014
+month: 04
+scheme: http
+host: tech.mn
+path: /news/2014/04/16/minnewebcon-nails-the-elusive-gender-ratio/
 
 ---
 

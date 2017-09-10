@@ -3,13 +3,11 @@ title: "Beyond Thinking Different to Doing Different"
 date: 2008-12-31 12:31:00 +0000
 external-url: http://brandautopsy.typepad.com/brandautopsy/2008/12/beyond-thinking.html
 hash: 7163f7ab13da0d952f3373d8db75ecae
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: brandautopsy.typepad.com
-    path: /brandautopsy/2008/12/beyond-thinking.html
+year: 2008
+month: 12
+scheme: http
+host: brandautopsy.typepad.com
+path: /brandautopsy/2008/12/beyond-thinking.html
 
 ---
 

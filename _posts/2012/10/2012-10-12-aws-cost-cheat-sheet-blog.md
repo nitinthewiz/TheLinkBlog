@@ -3,13 +3,11 @@ title: "AWS Cost Cheat Sheet - CloudVertical Blog"
 date: 2012-10-12 18:00:44 +0000
 external-url: https://blog.copper.io/aws-cost-cheat-sheet-2/
 hash: 35f0d30d195266f1bfea566ef21513ac
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: https
-    host: blog.copper.io
-    path: /aws-cost-cheat-sheet-2/
+year: 2012
+month: 10
+scheme: https
+host: blog.copper.io
+path: /aws-cost-cheat-sheet-2/
 
 ---
 

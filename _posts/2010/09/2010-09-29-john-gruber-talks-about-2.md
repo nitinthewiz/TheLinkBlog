@@ -3,13 +3,11 @@ title: "John Gruber talks about iOS at Web 2.0 conference"
 date: 2010-09-29 22:22:35 +0000
 external-url: http://9to5mac.com/2010/09/29/john-gruber-talks-about-ios-at-web-2-0-conference/
 hash: 61ba375cb8f50b2aad546fbf29fdc544
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2010/09/29/john-gruber-talks-about-ios-at-web-2-0-conference/
+year: 2010
+month: 09
+scheme: http
+host: 9to5mac.com
+path: /2010/09/29/john-gruber-talks-about-ios-at-web-2-0-conference/
 
 ---
 

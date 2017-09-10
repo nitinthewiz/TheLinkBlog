@@ -3,13 +3,11 @@ title: "Mark your calendars! Startup Weekend is coming to the Twin Cities"
 date: 2010-07-30 14:18:46 +0000
 external-url: http://tech.mn/news/2010/07/30/mark-your-calendars-startup-weekend-is-coming-to-the-twin-cities/
 hash: 1d10d93a8c28c3f8312ef151b08f3a60
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2010/07/30/mark-your-calendars-startup-weekend-is-coming-to-the-twin-cities/
+year: 2010
+month: 07
+scheme: http
+host: tech.mn
+path: /news/2010/07/30/mark-your-calendars-startup-weekend-is-coming-to-the-twin-cities/
 
 ---
 

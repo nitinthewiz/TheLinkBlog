@@ -3,13 +3,11 @@ title: "What Are We Waiting For?"
 date: 2009-05-27 16:35:14 +0000
 external-url: http://kernest.com/blog/archive/what-are-we-waiting-for
 hash: 02939e068e29baada4f40a7f8b54cbf0
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: kernest.com
-    path: /blog/archive/what-are-we-waiting-for
+year: 2009
+month: 05
+scheme: http
+host: kernest.com
+path: /blog/archive/what-are-we-waiting-for
 
 ---
 

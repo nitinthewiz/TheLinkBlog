@@ -3,13 +3,11 @@ title: "Say hello to Bootstrap 2.0"
 date: 2012-02-03 21:43:29 +0000
 external-url: https://dev.twitter.com/blog/say-hello-to-bootstrap-2
 hash: f596b9b750d6ad72bcfb0c8d26accc4f
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: https
-    host: dev.twitter.com
-    path: /blog/say-hello-to-bootstrap-2
+year: 2012
+month: 02
+scheme: https
+host: dev.twitter.com
+path: /blog/say-hello-to-bootstrap-2
 
 ---
 

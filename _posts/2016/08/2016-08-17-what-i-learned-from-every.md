@@ -3,13 +3,11 @@ title: "What I learned from blogging every weekday"
 date: 2016-08-17 00:48:45 +0000
 external-url: http://withoutbullshit.com/blog/learned-blogging-every-weekday/
 hash: 7f4b262cbfa9439dfafcf46d3bd59243
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: withoutbullshit.com
-    path: /blog/learned-blogging-every-weekday/
+year: 2016
+month: 08
+scheme: http
+host: withoutbullshit.com
+path: /blog/learned-blogging-every-weekday/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Please Don’t Litter"
 date: 2011-09-18 22:00:08 +0000
 external-url: http://mazie.me/post/please-dont-litter/
 hash: db7fb21e85cf7ddbe7680cde6afe970e
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: mazie.me
-    path: /post/please-dont-litter/
+year: 2011
+month: 09
+scheme: http
+host: mazie.me
+path: /post/please-dont-litter/
 
 ---
 

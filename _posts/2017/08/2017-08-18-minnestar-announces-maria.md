@@ -3,13 +3,11 @@ title: "Minnestar Announces Maria Ploessl as Executive Director - Minnestar"
 date: 2017-08-18 22:16:33 +0000
 external-url: https://minnestar.org/minnestar-announces-maria-ploessl-as-executive-director/
 hash: f84ace39d61d2a55b32db530a206b744
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: minnestar.org
-    path: /minnestar-announces-maria-ploessl-as-executive-director/
+year: 2017
+month: 08
+scheme: https
+host: minnestar.org
+path: /minnestar-announces-maria-ploessl-as-executive-director/
 
 ---
 

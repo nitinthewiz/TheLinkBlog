@@ -3,13 +3,11 @@ title: "Richard Feynman and The Connection Machine"
 date: 2011-01-09 00:01:03 +0000
 external-url: http://longnow.org/essays/richard-feynman-connection-machine/
 hash: 6a37c315bd1b934e8bc6999c4be1c520
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: longnow.org
-    path: /essays/richard-feynman-connection-machine/
+year: 2011
+month: 01
+scheme: http
+host: longnow.org
+path: /essays/richard-feynman-connection-machine/
 
 ---
 

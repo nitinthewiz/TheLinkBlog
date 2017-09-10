@@ -3,13 +3,11 @@ title: "Fix My Fund"
 date: 2013-03-28 03:13:29 +0000
 external-url: http://www.fixmyfund.com/
 hash: fa4aedcfc6e0ee72c13f7ef15de7cf2c
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.fixmyfund.com
-    path: /
+year: 2013
+month: 03
+scheme: http
+host: www.fixmyfund.com
+path: /
 
 ---
 

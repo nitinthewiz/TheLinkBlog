@@ -3,13 +3,11 @@ title: "Love in the Age of Big Data"
 date: 2015-12-23 10:39:55 +0000
 external-url: http://highline.huffingtonpost.com/articles/en/love-in-the-age-of-big-data/
 hash: fd1c41e0332b3b132e8fb12a86b9413b
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: highline.huffingtonpost.com
-    path: /articles/en/love-in-the-age-of-big-data/
+year: 2015
+month: 12
+scheme: http
+host: highline.huffingtonpost.com
+path: /articles/en/love-in-the-age-of-big-data/
 
 ---
 

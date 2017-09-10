@@ -3,13 +3,11 @@ title: "How-to: Upgrade the drive in your Apple TV - Engadget"
 date: 2007-03-25 03:24:48 +0000
 external-url: http://www.engadget.com/2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/
 hash: dd7cf0117b82afca0f551afbadac437d
-annum:
-    year: 2007
-    month: 03
-url-parts:
-    scheme: http
-    host: www.engadget.com
-    path: /2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/
+year: 2007
+month: 03
+scheme: http
+host: www.engadget.com
+path: /2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/
 
 ---
 

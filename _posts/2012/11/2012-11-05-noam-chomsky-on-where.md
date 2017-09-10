@@ -3,13 +3,11 @@ title: "Noam Chomsky on Where Artificial Intelligence Went Wrong"
 date: 2012-11-05 18:42:57 +0000
 external-url: http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
 hash: f0612ea31227b7c2fe32aac0dc5f582d
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
+year: 2012
+month: 11
+scheme: http
+host: www.theatlantic.com
+path: /technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
 
 ---
 

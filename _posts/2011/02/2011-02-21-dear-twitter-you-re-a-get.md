@@ -3,13 +3,11 @@ title: "Dear Twitter: You're a Utility - Get Off The Fence And Start Acting Like
 date: 2011-02-21 23:30:00 +0000
 external-url: http://readwrite.com/2011/02/21/dear_twitter_youre_a_utility_-_get_off_the_fence_and_start_acting_like_one
 hash: 78358d3caf784243393dbc3a78d2e5e2
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2011/02/21/dear_twitter_youre_a_utility_-_get_off_the_fence_and_start_acting_like_one
+year: 2011
+month: 02
+scheme: http
+host: readwrite.com
+path: /2011/02/21/dear_twitter_youre_a_utility_-_get_off_the_fence_and_start_acting_like_one
 
 ---
 

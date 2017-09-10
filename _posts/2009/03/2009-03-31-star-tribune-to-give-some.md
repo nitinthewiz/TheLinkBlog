@@ -3,13 +3,11 @@ title: "Star Tribune To Give Some 'Deeper' Stories To Print Subscribers Exclusiv
 date: 2009-03-31 04:18:07 +0000
 external-url: http://m.paidcontent.org/article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
 hash: 0ec9a99670bba0d78a0987ff464b8268
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
+year: 2009
+month: 03
+scheme: http
+host: m.paidcontent.org
+path: /article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
 
 ---
 

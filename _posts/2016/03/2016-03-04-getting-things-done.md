@@ -3,13 +3,11 @@ title: "Getting Things Done: Introduction"
 date: 2016-03-04 16:08:17 +0000
 external-url: http://joebuhlig.com/getting-things-done-introduction/
 hash: 68e39b21faeab6d0ff7981b323cd40e3
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: joebuhlig.com
-    path: /getting-things-done-introduction/
+year: 2016
+month: 03
+scheme: http
+host: joebuhlig.com
+path: /getting-things-done-introduction/
 
 ---
 

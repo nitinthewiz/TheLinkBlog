@@ -3,13 +3,11 @@ title: "Enlightened outsourcing, Part 1: The psychology | 43 Folders"
 date: 2007-09-26 14:31:22 +0000
 external-url: http://www.43folders.com/2007/09/25/enlightened-outsourcing-1
 hash: 7aebbf9b8a768de6607a28a3dda84c4d
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.43folders.com
-    path: /2007/09/25/enlightened-outsourcing-1
+year: 2007
+month: 09
+scheme: http
+host: www.43folders.com
+path: /2007/09/25/enlightened-outsourcing-1
 
 ---
 

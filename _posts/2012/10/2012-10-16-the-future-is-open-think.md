@@ -3,13 +3,11 @@ title: "The Future Is Open - Think Quarterly by Google"
 date: 2012-10-16 22:02:40 +0000
 external-url: http://www.thinkwithgoogle.com/articles/the-future-is-open.html
 hash: 0b41277f273c41ceec056fdf193f2589
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.thinkwithgoogle.com
-    path: /articles/the-future-is-open.html
+year: 2012
+month: 10
+scheme: http
+host: www.thinkwithgoogle.com
+path: /articles/the-future-is-open.html
 
 ---
 

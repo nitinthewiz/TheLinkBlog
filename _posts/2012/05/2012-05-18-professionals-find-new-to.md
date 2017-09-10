@@ -3,13 +3,11 @@ title: "Professionals find new way to network"
 date: 2012-05-18 04:30:07 +0000
 external-url: http://www.startribune.com/lifestyle/relationship/151729525.html
 hash: 24df7d2a503946e78481c6ea3efda8ac
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /lifestyle/relationship/151729525.html
+year: 2012
+month: 05
+scheme: http
+host: www.startribune.com
+path: /lifestyle/relationship/151729525.html
 
 ---
 

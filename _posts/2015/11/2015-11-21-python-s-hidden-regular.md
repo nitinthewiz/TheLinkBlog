@@ -3,13 +3,11 @@ title: "Python's Hidden Regular Expression Gems"
 date: 2015-11-21 02:37:30 +0000
 external-url: http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/
 hash: 4b3ecd4a5273334624f56d2ebc9ce2d4
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: lucumr.pocoo.org
-    path: /2015/11/18/pythons-hidden-re-gems/
+year: 2015
+month: 11
+scheme: http
+host: lucumr.pocoo.org
+path: /2015/11/18/pythons-hidden-re-gems/
 
 ---
 

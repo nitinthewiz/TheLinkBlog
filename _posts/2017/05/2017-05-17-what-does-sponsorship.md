@@ -3,13 +3,11 @@ title: "What does sponsorship look like? | Lara Hogan"
 date: 2017-05-17 01:26:21 +0000
 external-url: http://larahogan.me/blog/what-sponsorship-looks-like/
 hash: 436c4547039b89de2ef28e155bb48375
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: larahogan.me
-    path: /blog/what-sponsorship-looks-like/
+year: 2017
+month: 05
+scheme: http
+host: larahogan.me
+path: /blog/what-sponsorship-looks-like/
 
 ---
 

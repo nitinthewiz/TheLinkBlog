@@ -3,13 +3,11 @@ title: "In major shift, Google boosts search rankings of HTTPS-protected sites -
 date: 2014-08-08 11:13:32 +0000
 external-url: http://arstechnica.com/security/2014/08/in-major-shift-google-boosts-search-rankings-of-https-protected-sites/
 hash: 30e11a2c193201a7fc03b27ce0385895
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /security/2014/08/in-major-shift-google-boosts-search-rankings-of-https-protected-sites/
+year: 2014
+month: 08
+scheme: http
+host: arstechnica.com
+path: /security/2014/08/in-major-shift-google-boosts-search-rankings-of-https-protected-sites/
 
 ---
 

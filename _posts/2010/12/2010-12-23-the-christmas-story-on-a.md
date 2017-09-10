@@ -3,13 +3,11 @@ title: "The Christmas Story on a Canon EOS 5D Mark II"
 date: 2010-12-23 19:24:36 +0000
 external-url: http://blog.planet5d.com/2010/12/the-christmas-story-on-a-canon-eos-5d-mark-ii/
 hash: c97019e2539c0f7994469314be975a7f
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.planet5d.com
-    path: /2010/12/the-christmas-story-on-a-canon-eos-5d-mark-ii/
+year: 2010
+month: 12
+scheme: http
+host: blog.planet5d.com
+path: /2010/12/the-christmas-story-on-a-canon-eos-5d-mark-ii/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Project Euler"
 date: 2011-06-16 18:49:43 +0000
 external-url: http://projecteuler.net/
 hash: 8d63cd02cf98f39eeeb3e12077075cbf
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: projecteuler.net
-    path: /
+year: 2011
+month: 06
+scheme: http
+host: projecteuler.net
+path: /
 
 ---
 

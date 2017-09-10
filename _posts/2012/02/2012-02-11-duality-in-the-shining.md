@@ -3,13 +3,11 @@ title: "Duality in The Shining"
 date: 2012-02-11 05:27:04 +0000
 external-url: http://www.drummerman.net/shining/duality.html
 hash: aac79e640e771d11370aa85a85af691e
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.drummerman.net
-    path: /shining/duality.html
+year: 2012
+month: 02
+scheme: http
+host: www.drummerman.net
+path: /shining/duality.html
 
 ---
 

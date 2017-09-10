@@ -3,13 +3,11 @@ title: "Tongan Humpbacks 2012"
 date: 2013-01-16 02:39:49 +0000
 external-url: http://vimeo.com/49743214
 hash: 14eed90c54d583cd9c6e5a6bd0657d6a
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /49743214
+year: 2013
+month: 01
+scheme: http
+host: vimeo.com
+path: /49743214
 
 ---
 

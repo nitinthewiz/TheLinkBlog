@@ -3,13 +3,11 @@ title: "Portraits of conflict in Ukraine - The Boston Globe"
 date: 2015-02-10 02:12:29 +0000
 external-url: http://www.bostonglobe.com/news/bigpicture/2015/02/09/portraits-conflict-ukraine/M1GPfEURBa5nya11JgnWBN/story.html
 hash: 699f137aad7ff875a3f9b3eb473ce9da
-annum:
-    year: 2015
-    month: 02
-url-parts:
-    scheme: http
-    host: www.bostonglobe.com
-    path: /news/bigpicture/2015/02/09/portraits-conflict-ukraine/M1GPfEURBa5nya11JgnWBN/story.html
+year: 2015
+month: 02
+scheme: http
+host: www.bostonglobe.com
+path: /news/bigpicture/2015/02/09/portraits-conflict-ukraine/M1GPfEURBa5nya11JgnWBN/story.html
 
 ---
 

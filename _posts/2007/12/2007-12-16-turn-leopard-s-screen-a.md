@@ -3,13 +3,11 @@ title: "Turn Leopard's Screen Sharing into a better Apple Remote Desktop lite"
 date: 2007-12-16 03:38:42 +0000
 external-url: http://9to5mac.com/2007/12/15/turn-leopards-screen-sharing-into-a-better-apple-remote-desktop-lite/
 hash: 0959e35cfab0cafe70354661044c9359
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2007/12/15/turn-leopards-screen-sharing-into-a-better-apple-remote-desktop-lite/
+year: 2007
+month: 12
+scheme: http
+host: 9to5mac.com
+path: /2007/12/15/turn-leopards-screen-sharing-into-a-better-apple-remote-desktop-lite/
 
 ---
 

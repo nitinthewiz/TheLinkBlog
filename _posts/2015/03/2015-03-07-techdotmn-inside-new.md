@@ -3,13 +3,11 @@ title: "TECHdotMN Inside LeadPages New Minneapolis Headquarters - TECHdotMN"
 date: 2015-03-07 14:53:21 +0000
 external-url: http://tech.mn/news/2015/03/06/inside-leadpages-new-minneapolis-headquarters/
 hash: e709357e8872b74990fc950183342f28
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2015/03/06/inside-leadpages-new-minneapolis-headquarters/
+year: 2015
+month: 03
+scheme: http
+host: tech.mn
+path: /news/2015/03/06/inside-leadpages-new-minneapolis-headquarters/
 
 ---
 

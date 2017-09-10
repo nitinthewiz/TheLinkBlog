@@ -3,13 +3,11 @@ title: "SPS Commerce positioning retail supply-chain software for global presenc
 date: 2014-12-16 15:04:10 +0000
 external-url: http://www.thelinemedia.com/innovationnews/sps12172014.aspx
 hash: 3828c761dda31a9e67082753e1b0cc62
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: www.thelinemedia.com
-    path: /innovationnews/sps12172014.aspx
+year: 2014
+month: 12
+scheme: http
+host: www.thelinemedia.com
+path: /innovationnews/sps12172014.aspx
 
 ---
 

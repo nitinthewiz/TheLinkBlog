@@ -3,13 +3,11 @@ title: "Chart of the Day: Our Upside-Down Food Policy"
 date: 2010-03-19 04:16:55 +0000
 external-url: http://www.theatlantic.com/business/archive/2010/03/chart-of-the-day-our-upside-down-food-policy/37235/
 hash: e09cb32c5f198e330ca446280b30bf0a
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /business/archive/2010/03/chart-of-the-day-our-upside-down-food-policy/37235/
+year: 2010
+month: 03
+scheme: http
+host: www.theatlantic.com
+path: /business/archive/2010/03/chart-of-the-day-our-upside-down-food-policy/37235/
 
 ---
 

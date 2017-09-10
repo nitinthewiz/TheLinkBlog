@@ -3,13 +3,11 @@ title: "Selling You on Facebook"
 date: 2012-04-09 22:56:03 +0000
 external-url: http://online.wsj.com/news/articles/SB10001424052702303302504577327744009046230
 hash: e5abbc3f42da4c94b7d98dacb6dc75a6
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: online.wsj.com
-    path: /news/articles/SB10001424052702303302504577327744009046230
+year: 2012
+month: 04
+scheme: http
+host: online.wsj.com
+path: /news/articles/SB10001424052702303302504577327744009046230
 
 ---
 

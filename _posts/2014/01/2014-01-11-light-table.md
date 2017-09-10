@@ -3,13 +3,11 @@ title: "Light Table"
 date: 2014-01-11 02:09:22 +0000
 external-url: http://www.lighttable.com/
 hash: 215b9267cb7419e9725aec28757911fc
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: www.lighttable.com
-    path: /
+year: 2014
+month: 01
+scheme: http
+host: www.lighttable.com
+path: /
 
 ---
 

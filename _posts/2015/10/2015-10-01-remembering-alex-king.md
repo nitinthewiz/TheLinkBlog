@@ -3,13 +3,11 @@ title: "Remembering Alex King"
 date: 2015-10-01 01:02:51 +0000
 external-url: http://ma.tt/2015/09/remembering-alex-king/
 hash: 6a0394cdaeadb9c45503d09f1d107972
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2015/09/remembering-alex-king/
+year: 2015
+month: 10
+scheme: http
+host: ma.tt
+path: /2015/09/remembering-alex-king/
 
 ---
 

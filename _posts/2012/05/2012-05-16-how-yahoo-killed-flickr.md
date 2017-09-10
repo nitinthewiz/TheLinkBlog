@@ -3,13 +3,11 @@ title: "How Yahoo Killed Flickr and Lost the Internet"
 date: 2012-05-16 20:53:09 +0000
 external-url: http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet
 hash: 39cecbffa053aa8d26ad834893b6bddc
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: gizmodo.com
-    path: /5910223/how-yahoo-killed-flickr-and-lost-the-internet
+year: 2012
+month: 05
+scheme: http
+host: gizmodo.com
+path: /5910223/how-yahoo-killed-flickr-and-lost-the-internet
 
 ---
 

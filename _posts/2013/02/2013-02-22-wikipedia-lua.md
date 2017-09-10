@@ -3,13 +3,11 @@ title: "Wikipedia:Lua"
 date: 2013-02-22 20:59:41 +0000
 external-url: http://en.wikipedia.org/wiki/Wikipedia:Lua
 hash: 3ad106c6540997ef4e1429e27a3922a9
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Wikipedia:Lua
+year: 2013
+month: 02
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Wikipedia:Lua
 
 ---
 

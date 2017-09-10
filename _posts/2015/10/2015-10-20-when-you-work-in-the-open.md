@@ -3,13 +3,11 @@ title: "When You Work in the Open, Everyone Can Be a Collaborator"
 date: 2015-10-20 02:36:56 +0000
 external-url: https://www.eff.org/deeplinks/2015/10/when-you-work-open-everyone-can-be-collaborator
 hash: c72477aeb8d5def6e7dea6cdf0ddac32
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2015/10/when-you-work-open-everyone-can-be-collaborator
+year: 2015
+month: 10
+scheme: https
+host: www.eff.org
+path: /deeplinks/2015/10/when-you-work-open-everyone-can-be-collaborator
 
 ---
 

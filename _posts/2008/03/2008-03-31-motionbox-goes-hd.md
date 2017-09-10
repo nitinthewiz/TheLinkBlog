@@ -3,13 +3,11 @@ title: "Motionbox Goes HD"
 date: 2008-03-31 05:01:00 +0000
 external-url: http://www.businessinsider.com/2008/3/motionbox-goes-hd
 hash: 3a2182b2b2e984165c0f033dd056924a
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/3/motionbox-goes-hd
+year: 2008
+month: 03
+scheme: http
+host: www.businessinsider.com
+path: /2008/3/motionbox-goes-hd
 
 ---
 

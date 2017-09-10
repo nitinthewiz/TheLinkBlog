@@ -3,13 +3,11 @@ title: "University of Minnesota Business and Community Economic Development Grow
 date: 2012-07-12 16:34:48 +0000
 external-url: http://www.ced.umn.edu/gap.php
 hash: 46252141b2018b225c13143fe73d0ca2
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.ced.umn.edu
-    path: /gap.php
+year: 2012
+month: 07
+scheme: http
+host: www.ced.umn.edu
+path: /gap.php
 
 ---
 

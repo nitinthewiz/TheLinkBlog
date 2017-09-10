@@ -3,13 +3,11 @@ title: "Blacktree"
 date: 2009-04-11 14:36:19 +0000
 external-url: http://www.blacktree.com/
 hash: 241344cae078d0a7cfdc3e77a0f29bef
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.blacktree.com
-    path: /
+year: 2009
+month: 04
+scheme: http
+host: www.blacktree.com
+path: /
 
 ---
 

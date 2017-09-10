@@ -3,13 +3,11 @@ title: "Say Hello To HelloTxt As Status Update Service Space Heats Up"
 date: 2009-05-01 04:10:39 +0000
 external-url: http://gigaom.com/collaboration/say-hello-to-hellotxt-as-status-update-service-space-heats-up/
 hash: 87038c59e1c76d89202560aeecb1cd1f
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /collaboration/say-hello-to-hellotxt-as-status-update-service-space-heats-up/
+year: 2009
+month: 05
+scheme: http
+host: gigaom.com
+path: /collaboration/say-hello-to-hellotxt-as-status-update-service-space-heats-up/
 
 ---
 

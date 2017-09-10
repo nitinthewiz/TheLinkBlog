@@ -3,13 +3,11 @@ title: "Coraline Ada Ehmke: Antisocial Coding: My Year at GitHub"
 date: 2017-07-06 11:03:34 +0000
 external-url: http://where.coraline.codes/blog/my-year-at-github/
 hash: 01dae53ace6a0252a90e348995fb2dbd
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: where.coraline.codes
-    path: /blog/my-year-at-github/
+year: 2017
+month: 07
+scheme: http
+host: where.coraline.codes
+path: /blog/my-year-at-github/
 
 ---
 

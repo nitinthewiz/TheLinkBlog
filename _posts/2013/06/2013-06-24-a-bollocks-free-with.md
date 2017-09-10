@@ -3,13 +3,11 @@ title: "A Bollocks-free Enterprise Architecture Repository with Semantic Mediawi
 date: 2013-06-24 14:36:14 +0000
 external-url: http://www.josefassad.com/enterprise_architecture_repository_with_semantic_mediawiki
 hash: e3f5880132c998336129bc8161354a4f
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: www.josefassad.com
-    path: /enterprise_architecture_repository_with_semantic_mediawiki
+year: 2013
+month: 06
+scheme: http
+host: www.josefassad.com
+path: /enterprise_architecture_repository_with_semantic_mediawiki
 
 ---
 

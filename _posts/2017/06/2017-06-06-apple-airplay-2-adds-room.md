@@ -3,13 +3,11 @@ title: "Apple AirPlay 2 adds multi-room audio capabilities —Apple World Today"
 date: 2017-06-06 18:27:31 +0000
 external-url: https://www.appleworld.today/blog/2017/6/6/apple-airplay-2-adds-multi-room-audio-capabilities
 hash: 8e18f07f761a01824e7a313465b6c413
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.appleworld.today
-    path: /blog/2017/6/6/apple-airplay-2-adds-multi-room-audio-capabilities
+year: 2017
+month: 06
+scheme: https
+host: www.appleworld.today
+path: /blog/2017/6/6/apple-airplay-2-adds-multi-room-audio-capabilities
 
 ---
 

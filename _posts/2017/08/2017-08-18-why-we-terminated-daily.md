@@ -3,13 +3,11 @@ title: "Why We Terminated Daily Stormer"
 date: 2017-08-18 12:16:36 +0000
 external-url: https://blog.cloudflare.com/why-we-terminated-daily-stormer/
 hash: 26ba390c43f4d9b90e63f0b44a7565dd
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: blog.cloudflare.com
-    path: /why-we-terminated-daily-stormer/
+year: 2017
+month: 08
+scheme: https
+host: blog.cloudflare.com
+path: /why-we-terminated-daily-stormer/
 
 ---
 

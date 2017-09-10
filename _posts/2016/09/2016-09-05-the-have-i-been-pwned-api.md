@@ -3,13 +3,11 @@ title: "The \"Have I been pwned\" API rate limit has been brought forward - here
 date: 2016-09-05 09:30:14 +0000
 external-url: https://www.troyhunt.com/content-images-2016-09-a-one-week-traffic-snapshot-1-png/
 hash: aeaa9caa5df86667a6391e828f8f7f4d
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: www.troyhunt.com
-    path: /content-images-2016-09-a-one-week-traffic-snapshot-1-png/
+year: 2016
+month: 09
+scheme: https
+host: www.troyhunt.com
+path: /content-images-2016-09-a-one-week-traffic-snapshot-1-png/
 
 ---
 

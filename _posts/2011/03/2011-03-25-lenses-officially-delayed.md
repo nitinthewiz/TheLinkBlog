@@ -3,13 +3,11 @@ title: "Lenses Officially Delayed"
 date: 2011-03-25 03:21:37 +0000
 external-url: http://www.canonrumors.com/2011/03/lenses-officially-delayed/
 hash: 8ecd2aa7820d7b110e91a41ece4a5edd
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.canonrumors.com
-    path: /2011/03/lenses-officially-delayed/
+year: 2011
+month: 03
+scheme: http
+host: www.canonrumors.com
+path: /2011/03/lenses-officially-delayed/
 
 ---
 

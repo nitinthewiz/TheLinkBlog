@@ -3,13 +3,11 @@ title: "We Can't Figure Out How To Make Money On Web Video, Either"
 date: 2008-07-09 06:10:00 +0000
 external-url: http://www.businessinsider.com/2008/7/google-we-can-t-figure-out-how-to-make-money-on-web-video-either
 hash: 34b725fb68c1d3eb7f734e417acc76b0
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/7/google-we-can-t-figure-out-how-to-make-money-on-web-video-either
+year: 2008
+month: 07
+scheme: http
+host: www.businessinsider.com
+path: /2008/7/google-we-can-t-figure-out-how-to-make-money-on-web-video-either
 
 ---
 

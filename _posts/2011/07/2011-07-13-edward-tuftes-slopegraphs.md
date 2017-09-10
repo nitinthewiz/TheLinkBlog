@@ -3,13 +3,11 @@ title: "Edward Tufte’s “Slopegraphs”"
 date: 2011-07-13 03:33:31 +0000
 external-url: http://charliepark.org/slopegraphs/
 hash: 0aa630156ea2a38cd134a266e9925799
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: charliepark.org
-    path: /slopegraphs/
+year: 2011
+month: 07
+scheme: http
+host: charliepark.org
+path: /slopegraphs/
 
 ---
 

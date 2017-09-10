@@ -3,13 +3,11 @@ title: "Help:Contents - Referata"
 date: 2011-03-04 04:51:11 +0000
 external-url: http://www.referata.com/wiki/Help:Contents
 hash: f875774973d1931309819f9d2ee51929
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.referata.com
-    path: /wiki/Help:Contents
+year: 2011
+month: 03
+scheme: http
+host: www.referata.com
+path: /wiki/Help:Contents
 
 ---
 

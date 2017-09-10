@@ -3,13 +3,11 @@ title: "Measuring Cup: A Free OS X Recipe Manager"
 date: 2008-01-07 16:50:12 +0000
 external-url: http://macapper.com/2008/01/07/measuring-cup-a-free-os-x-recipe-manager/
 hash: a7c54c694f9810a0f9b74b7807aa0878
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2008/01/07/measuring-cup-a-free-os-x-recipe-manager/
+year: 2008
+month: 01
+scheme: http
+host: macapper.com
+path: /2008/01/07/measuring-cup-a-free-os-x-recipe-manager/
 
 ---
 

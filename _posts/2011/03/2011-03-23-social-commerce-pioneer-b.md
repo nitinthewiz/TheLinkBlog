@@ -3,13 +3,11 @@ title: "Social Commerce Pioneer 8thBridge Raises $10M in Series B Round Led by T
 date: 2011-03-23 00:48:05 +0000
 external-url: http://www.fluid.com/blog
 hash: 405385343693ac49b27462dd665f7e6e
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.fluid.com
-    path: /blog
+year: 2011
+month: 03
+scheme: http
+host: www.fluid.com
+path: /blog
 
 ---
 

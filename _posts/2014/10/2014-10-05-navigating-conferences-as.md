@@ -3,13 +3,11 @@ title: "Navigating Conferences as an Unusual Attendee | USENIX"
 date: 2014-10-05 17:19:30 +0000
 external-url: https://www.usenix.org/blog/navigating-conferences-unusual-attendee
 hash: b86ad5b28a52bf39e26875a1767887cd
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: www.usenix.org
-    path: /blog/navigating-conferences-unusual-attendee
+year: 2014
+month: 10
+scheme: https
+host: www.usenix.org
+path: /blog/navigating-conferences-unusual-attendee
 
 ---
 

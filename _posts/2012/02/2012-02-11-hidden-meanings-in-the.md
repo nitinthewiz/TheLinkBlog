@@ -3,13 +3,11 @@ title: "Hidden Meanings in The Shining?"
 date: 2012-02-11 05:27:47 +0000
 external-url: http://www.drummerman.net/shining/essays.html
 hash: 66a6f1ce3c294ce72c3a93e42130e115
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.drummerman.net
-    path: /shining/essays.html
+year: 2012
+month: 02
+scheme: http
+host: www.drummerman.net
+path: /shining/essays.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Managing Check Lists —Macdrifter"
 date: 2017-07-25 23:42:07 +0000
 external-url: http://www.macdrifter.com/2017/07/managing-check-lists.html
 hash: 0a3c8aa1bcc9ee0008769cff4287d52b
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.macdrifter.com
-    path: /2017/07/managing-check-lists.html
+year: 2017
+month: 07
+scheme: http
+host: www.macdrifter.com
+path: /2017/07/managing-check-lists.html
 
 ---
 

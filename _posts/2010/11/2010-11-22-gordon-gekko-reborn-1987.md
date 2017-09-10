@@ -3,13 +3,11 @@ title: "Gordon Gekko Reborn: 1987-2010"
 date: 2010-11-22 23:05:58 +0000
 external-url: http://www.economonitor.com/nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
 hash: d896279227940abe249191bf604a2f2d
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.economonitor.com
-    path: /nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
+year: 2010
+month: 11
+scheme: http
+host: www.economonitor.com
+path: /nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
 
 ---
 

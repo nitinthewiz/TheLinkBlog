@@ -3,13 +3,11 @@ title: "Daring Fireball: Fuck Facebook"
 date: 2017-06-03 01:56:09 +0000
 external-url: https://daringfireball.net/2017/06/fuck_facebook
 hash: bfc96077e1ec8cdfe2c8e93b60d8b36a
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: daringfireball.net
-    path: /2017/06/fuck_facebook
+year: 2017
+month: 06
+scheme: https
+host: daringfireball.net
+path: /2017/06/fuck_facebook
 
 ---
 

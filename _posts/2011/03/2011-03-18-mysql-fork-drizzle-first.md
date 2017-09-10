@@ -3,13 +3,11 @@ title: "MySQL Fork Drizzle Finally Releases First General Availability Version"
 date: 2011-03-18 11:07:01 +0000
 external-url: http://www.readwriteweb.com/hack/2011/03/drizzle-a-new-fork-of-mysql.php
 hash: 3a4ed0245d0a1463fc4f582fec65023a
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /hack/2011/03/drizzle-a-new-fork-of-mysql.php
+year: 2011
+month: 03
+scheme: http
+host: www.readwriteweb.com
+path: /hack/2011/03/drizzle-a-new-fork-of-mysql.php
 
 ---
 

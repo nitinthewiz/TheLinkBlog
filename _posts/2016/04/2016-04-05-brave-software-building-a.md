@@ -3,13 +3,11 @@ title: "Brave Software | Building a Better Web"
 date: 2016-04-05 02:33:47 +0000
 external-url: https://brave.com/
 hash: 07578741294fe38516cabf23453f43f5
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: brave.com
-    path: /
+year: 2016
+month: 04
+scheme: https
+host: brave.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "The AVC Network"
 date: 2010-11-30 11:25:35 +0000
 external-url: http://avc.com/2010/11/the-avc-network/
 hash: 4b3bf7a283edc9d496f2f4ab1ed1f7fa
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: avc.com
-    path: /2010/11/the-avc-network/
+year: 2010
+month: 11
+scheme: http
+host: avc.com
+path: /2010/11/the-avc-network/
 
 ---
 

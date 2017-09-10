@@ -3,13 +3,11 @@ title: "Canon EOS-1D X overview"
 date: 2012-04-28 17:28:31 +0000
 external-url: http://www.dpreview.com/articles/5149972341/canon-eos-1d-x-overview
 hash: b4a23591b31c365d77735adcfc5e8b90
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.dpreview.com
-    path: /articles/5149972341/canon-eos-1d-x-overview
+year: 2012
+month: 04
+scheme: http
+host: www.dpreview.com
+path: /articles/5149972341/canon-eos-1d-x-overview
 
 ---
 

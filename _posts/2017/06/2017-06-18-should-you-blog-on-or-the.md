@@ -3,13 +3,11 @@ title: "Should you blog on Facebook or the web? —Scripting News"
 date: 2017-06-18 15:02:18 +0000
 external-url: http://scripting.com/2017/06/18.html#a090658
 hash: 80a6aaa7d3d9d19952f80826a900aeaa
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /2017/06/18.html
+year: 2017
+month: 06
+scheme: http
+host: scripting.com
+path: /2017/06/18.html
 
 ---
 

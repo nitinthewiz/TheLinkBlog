@@ -3,13 +3,11 @@ title: "NYTimes Surges, CNet Slumps"
 date: 2007-12-10 16:35:20 +0000
 external-url: http://techcrunch.com/2007/12/10/nytimes-surges-cnet-slumps/
 hash: ab0b240d793a1199144e470b6159d343
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/10/nytimes-surges-cnet-slumps/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/10/nytimes-surges-cnet-slumps/
 
 ---
 

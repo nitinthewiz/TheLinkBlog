@@ -3,13 +3,11 @@ title: "Welcome to Mid-Continent Railway Museum"
 date: 2012-11-27 01:18:48 +0000
 external-url: http://www.midcontinent.org/
 hash: c8fcbd20d30296bccf29fe6af0f959c7
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.midcontinent.org
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: www.midcontinent.org
+path: /
 
 ---
 

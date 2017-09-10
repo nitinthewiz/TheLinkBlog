@@ -3,13 +3,11 @@ title: "Geraldine Ferraro Leads The Way"
 date: 2008-02-25 18:25:54 +0000
 external-url: http://www.opticality.com/blog/2008/02/25/geraldine-ferraro-leads-the-way/
 hash: e0ebd609f7e201850f49cfe7ab553623
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.opticality.com
-    path: /blog/2008/02/25/geraldine-ferraro-leads-the-way/
+year: 2008
+month: 02
+scheme: http
+host: www.opticality.com
+path: /blog/2008/02/25/geraldine-ferraro-leads-the-way/
 
 ---
 

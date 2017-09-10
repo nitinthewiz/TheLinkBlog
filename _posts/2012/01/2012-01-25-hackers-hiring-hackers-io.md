@@ -3,13 +3,11 @@ title: "Hackers Hiring Hackers Gun.io"
 date: 2012-01-25 05:05:29 +0000
 external-url: https://gun.io/
 hash: 1994959c0bc9dfe7d6a281903786d2f0
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: https
-    host: gun.io
-    path: /
+year: 2012
+month: 01
+scheme: https
+host: gun.io
+path: /
 
 ---
 

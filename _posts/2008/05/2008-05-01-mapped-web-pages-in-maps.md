@@ -3,13 +3,11 @@ title: "Mapped web pages in Google Maps"
 date: 2008-05-01 18:45:00 +0000
 external-url: http://google-latlong.blogspot.com/2008/05/mapped-web-pages-in-google-maps.html
 hash: 81d9439ee0c65cf123cd26881ab2b994
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: google-latlong.blogspot.com
-    path: /2008/05/mapped-web-pages-in-google-maps.html
+year: 2008
+month: 05
+scheme: http
+host: google-latlong.blogspot.com
+path: /2008/05/mapped-web-pages-in-google-maps.html
 
 ---
 

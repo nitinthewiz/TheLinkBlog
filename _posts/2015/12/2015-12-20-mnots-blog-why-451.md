@@ -3,13 +3,11 @@ title: "mnot’s blog: Why 451?"
 date: 2015-12-20 01:06:24 +0000
 external-url: https://www.mnot.net/blog/2015/12/18/451
 hash: 1290f6b611fd54471867db6e297f8205
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: www.mnot.net
-    path: /blog/2015/12/18/451
+year: 2015
+month: 12
+scheme: https
+host: www.mnot.net
+path: /blog/2015/12/18/451
 
 ---
 

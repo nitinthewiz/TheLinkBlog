@@ -3,13 +3,11 @@ title: "Delicious Library for iPhone runs afoul of Amazon's API terms, pulled fr
 date: 2009-07-07 23:17:46 +0000
 external-url: http://www.tuaw.com/2009/07/07/delicious-library-for-iphone-runs-afoul-of-amazons-api-terms-p/
 hash: 5ff1054d87c2da1f3e1bc161d7c1e7b6
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/07/07/delicious-library-for-iphone-runs-afoul-of-amazons-api-terms-p/
+year: 2009
+month: 07
+scheme: http
+host: www.tuaw.com
+path: /2009/07/07/delicious-library-for-iphone-runs-afoul-of-amazons-api-terms-p/
 
 ---
 

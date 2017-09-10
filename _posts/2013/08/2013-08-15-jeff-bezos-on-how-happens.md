@@ -3,13 +3,11 @@ title: "Jeff Bezos On How Innovation Happens - Business Insider"
 date: 2013-08-15 00:42:06 +0000
 external-url: http://www.businessinsider.com/jeff-bezos-on-how-innovation-happens-2013-8#ixzz2bzgYH5Sn
 hash: b881294540ea8046140d349b64f5edcf
-annum:
-    year: 2013
-    month: 08
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /jeff-bezos-on-how-innovation-happens-2013-8
+year: 2013
+month: 08
+scheme: http
+host: www.businessinsider.com
+path: /jeff-bezos-on-how-innovation-happens-2013-8
 
 ---
 

@@ -3,13 +3,11 @@ title: "Three Mobile-Software Rules"
 date: 2010-10-30 19:00:00 +0000
 external-url: http://www.tbray.org/ongoing/When/201x/2010/10/30/Three-Android-Software-Rules
 hash: e00a9eba94c45cbe488909a6b77fcd7c
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.tbray.org
-    path: /ongoing/When/201x/2010/10/30/Three-Android-Software-Rules
+year: 2010
+month: 10
+scheme: http
+host: www.tbray.org
+path: /ongoing/When/201x/2010/10/30/Three-Android-Software-Rules
 
 ---
 

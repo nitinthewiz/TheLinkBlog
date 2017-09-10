@@ -3,13 +3,11 @@ title: "5D Mark II Video Improvements"
 date: 2009-05-27 04:54:09 +0000
 external-url: http://duncandavidson.com/2009/05/5d-mark-ii-video-improvements.html
 hash: a6d123b60502a1ec19313aa83a4f2ff7
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: duncandavidson.com
-    path: /2009/05/5d-mark-ii-video-improvements.html
+year: 2009
+month: 05
+scheme: http
+host: duncandavidson.com
+path: /2009/05/5d-mark-ii-video-improvements.html
 
 ---
 

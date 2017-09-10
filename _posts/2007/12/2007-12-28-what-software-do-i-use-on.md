@@ -3,13 +3,11 @@ title: "What Software do I use on the Mac?"
 date: 2007-12-28 19:16:34 +0000
 external-url: http://simpable.com/software/mac-software/
 hash: fc692afec99916f15cd04007e1589d92
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: simpable.com
-    path: /software/mac-software/
+year: 2007
+month: 12
+scheme: http
+host: simpable.com
+path: /software/mac-software/
 
 ---
 

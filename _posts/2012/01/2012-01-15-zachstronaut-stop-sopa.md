@@ -3,13 +3,11 @@ title: "zachstronaut/stop-sopa - GitHub"
 date: 2012-01-15 06:27:26 +0000
 external-url: https://github.com/zachstronaut/stop-sopa
 hash: b7a68ddb95dacacb9f50ce06957b4bdf
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: https
-    host: github.com
-    path: /zachstronaut/stop-sopa
+year: 2012
+month: 01
+scheme: https
+host: github.com
+path: /zachstronaut/stop-sopa
 
 ---
 

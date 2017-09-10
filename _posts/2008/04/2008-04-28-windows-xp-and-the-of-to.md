@@ -3,13 +3,11 @@ title: "Windows XP and the importance of listening to customers"
 date: 2008-04-28 16:22:38 +0000
 external-url: http://software.ericsink.com/entries/Save_Windows_XP.html
 hash: f22ecaaa80ea058329820231100bbdbe
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: software.ericsink.com
-    path: /entries/Save_Windows_XP.html
+year: 2008
+month: 04
+scheme: http
+host: software.ericsink.com
+path: /entries/Save_Windows_XP.html
 
 ---
 

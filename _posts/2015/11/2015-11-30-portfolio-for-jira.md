@@ -3,13 +3,11 @@ title: "Portfolio for JIRA – project managers edition"
 date: 2015-11-30 21:20:01 +0000
 external-url: http://blogs.atlassian.com/2015/11/portfolio-for-jira-project-managers-edition/
 hash: ec8f65eccac88d28187d40e51b088913
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: blogs.atlassian.com
-    path: /2015/11/portfolio-for-jira-project-managers-edition/
+year: 2015
+month: 11
+scheme: http
+host: blogs.atlassian.com
+path: /2015/11/portfolio-for-jira-project-managers-edition/
 
 ---
 

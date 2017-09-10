@@ -3,13 +3,11 @@ title: "Introducing the PagerDuty Common Event Format"
 date: 2016-04-21 03:15:33 +0000
 external-url: https://www.pagerduty.com/blog/common-event-format/
 hash: 8414b6d7ae70d295bde963393b6dcf62
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: www.pagerduty.com
-    path: /blog/common-event-format/
+year: 2016
+month: 04
+scheme: https
+host: www.pagerduty.com
+path: /blog/common-event-format/
 
 ---
 

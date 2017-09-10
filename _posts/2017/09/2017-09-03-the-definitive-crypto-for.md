@@ -3,13 +3,11 @@ title: "The Definitive Crypto guide – For Beginners and Veterans Alike"
 date: 2017-09-03 14:36:24 +0000
 external-url: https://mycrypto.guide/
 hash: 1fc89684a1992c66bf356815cc1d4104
-annum:
-    year: 2017
-    month: 09
-url-parts:
-    scheme: https
-    host: mycrypto.guide
-    path: /
+year: 2017
+month: 09
+scheme: https
+host: mycrypto.guide
+path: /
 
 ---
 

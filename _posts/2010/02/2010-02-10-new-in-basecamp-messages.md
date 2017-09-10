@@ -3,13 +3,11 @@ title: "New in Basecamp: Redesigned messages section"
 date: 2010-02-10 04:52:07 +0000
 external-url: http://productblogarchive.37signals.com/products/2010/02/new-in-basecamp-redesigned-messages-section.html
 hash: a8880cfc4a29e82a7b5e7f3fb1b21d91
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: productblogarchive.37signals.com
-    path: /products/2010/02/new-in-basecamp-redesigned-messages-section.html
+year: 2010
+month: 02
+scheme: http
+host: productblogarchive.37signals.com
+path: /products/2010/02/new-in-basecamp-redesigned-messages-section.html
 
 ---
 

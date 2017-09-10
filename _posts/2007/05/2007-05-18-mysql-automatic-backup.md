@@ -3,13 +3,11 @@ title: "Mysql automatic backup script - AutoMySQLBackup"
 date: 2007-05-18 00:33:40 +0000
 external-url: http://www.debianhelp.co.uk/mysqlscript.htm
 hash: 07d68945d37cb01605ded3458dfc2f50
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: www.debianhelp.co.uk
-    path: /mysqlscript.htm
+year: 2007
+month: 05
+scheme: http
+host: www.debianhelp.co.uk
+path: /mysqlscript.htm
 
 ---
 

@@ -3,13 +3,11 @@ title: "Salesforce Architecture - How they Handle 1.3 Billion Transactions a Day
 date: 2013-09-25 19:32:22 +0000
 external-url: http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html
 hash: 804d9c02f0d1b85277d03c754eabb823
-annum:
-    year: 2013
-    month: 09
-url-parts:
-    scheme: http
-    host: highscalability.com
-    path: /blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html
+year: 2013
+month: 09
+scheme: http
+host: highscalability.com
+path: /blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html
 
 ---
 

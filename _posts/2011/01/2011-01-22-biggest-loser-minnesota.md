@@ -3,13 +3,11 @@ title: "Biggest Loser Minnesota Challenge"
 date: 2011-01-22 12:32:44 +0000
 external-url: https://www.competeforhealth.org/consumer/signup
 hash: 696723e021819a94ed537b1fa90a2540
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: www.competeforhealth.org
-    path: /consumer/signup
+year: 2011
+month: 01
+scheme: https
+host: www.competeforhealth.org
+path: /consumer/signup
 
 ---
 

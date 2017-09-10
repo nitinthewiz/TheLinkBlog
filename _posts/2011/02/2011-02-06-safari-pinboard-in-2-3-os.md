@@ -3,13 +3,11 @@ title: "Safari pinboard.in extension 2.3 // OS X // chipwreck"
 date: 2011-02-06 05:27:03 +0000
 external-url: http://www.chipwreck.de/blog/2011/02/05/safari-pinboard-in-extension-2-3/
 hash: 395906a947af34864e5d6dafd1b53dcd
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: www.chipwreck.de
-    path: /blog/2011/02/05/safari-pinboard-in-extension-2-3/
+year: 2011
+month: 02
+scheme: http
+host: www.chipwreck.de
+path: /blog/2011/02/05/safari-pinboard-in-extension-2-3/
 
 ---
 

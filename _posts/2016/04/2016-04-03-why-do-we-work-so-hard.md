@@ -3,13 +3,11 @@ title: "Why do we work so hard? | 1843"
 date: 2016-04-03 16:27:23 +0000
 external-url: https://www.1843magazine.com/features/why-do-we-work-so-hard
 hash: 64924f913a5bcf6fee9afe961cbefef9
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: www.1843magazine.com
-    path: /features/why-do-we-work-so-hard
+year: 2016
+month: 04
+scheme: https
+host: www.1843magazine.com
+path: /features/why-do-we-work-so-hard
 
 ---
 

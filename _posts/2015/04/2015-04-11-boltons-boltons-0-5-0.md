@@ -3,13 +3,11 @@ title: "boltons — boltons 0.5.0 documentation"
 date: 2015-04-11 01:39:51 +0000
 external-url: https://boltons.readthedocs.org/en/latest/
 hash: 516b15f74084a1b54af5c42a88f72880
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: https
-    host: boltons.readthedocs.org
-    path: /en/latest/
+year: 2015
+month: 04
+scheme: https
+host: boltons.readthedocs.org
+path: /en/latest/
 
 ---
 

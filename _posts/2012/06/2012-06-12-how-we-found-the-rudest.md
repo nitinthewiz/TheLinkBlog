@@ -3,13 +3,11 @@ title: "How we found the rudest cities in the world"
 date: 2012-06-12 22:40:48 +0000
 external-url: http://engineering.foursquare.com/2011/02/28/how-we-found-the-rudest-cities-in-the-world-analytics-foursquare/
 hash: d118a7de63bf1e7a109040130b78113e
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: engineering.foursquare.com
-    path: /2011/02/28/how-we-found-the-rudest-cities-in-the-world-analytics-foursquare/
+year: 2012
+month: 06
+scheme: http
+host: engineering.foursquare.com
+path: /2011/02/28/how-we-found-the-rudest-cities-in-the-world-analytics-foursquare/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Forks Over Knives"
 date: 2011-09-19 01:38:24 +0000
 external-url: http://forksoverknives.com/
 hash: 5d64b19c42c60bdef1c910e6b029ca0a
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: forksoverknives.com
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: forksoverknives.com
+path: /
 
 ---
 

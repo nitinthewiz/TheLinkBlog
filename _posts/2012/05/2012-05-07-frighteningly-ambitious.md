@@ -3,13 +3,11 @@ title: "Frighteningly Ambitious Startup Ideas"
 date: 2012-05-07 23:36:05 +0000
 external-url: http://www.paulgraham.com/ambitious.html
 hash: 01d5c0a93125cb730ea03dbbbb098060
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.paulgraham.com
-    path: /ambitious.html
+year: 2012
+month: 05
+scheme: http
+host: www.paulgraham.com
+path: /ambitious.html
 
 ---
 

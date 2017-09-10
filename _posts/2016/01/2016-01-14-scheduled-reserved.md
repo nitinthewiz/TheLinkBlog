@@ -3,13 +3,11 @@ title: "Scheduled Reserved Instances"
 date: 2016-01-14 03:00:59 +0000
 external-url: https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/
 hash: 504e43ccc4095f3ee60a5d57df569417
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/new-scheduled-reserved-instances/
+year: 2016
+month: 01
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/new-scheduled-reserved-instances/
 
 ---
 

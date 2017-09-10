@@ -3,13 +3,11 @@ title: "Is Docker ready for production? Feedbacks of a 2 weeks hands on"
 date: 2014-09-13 19:24:15 +0000
 external-url: http://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html
 hash: 887ac2f9a814eb7d873cb66edd467b07
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: t37.net
-    path: /is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html
+year: 2014
+month: 09
+scheme: http
+host: t37.net
+path: /is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html
 
 ---
 

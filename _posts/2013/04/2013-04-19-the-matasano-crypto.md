@@ -3,13 +3,11 @@ title: "The Matasano Crypto Challenges"
 date: 2013-04-19 16:32:58 +0000
 external-url: http://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/
 hash: 6970bab6bca27b285804501ed4d6d549
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.pinboard.in
-    path: /2013/04/the_matasano_crypto_challenges/
+year: 2013
+month: 04
+scheme: http
+host: blog.pinboard.in
+path: /2013/04/the_matasano_crypto_challenges/
 
 ---
 

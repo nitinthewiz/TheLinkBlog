@@ -3,13 +3,11 @@ title: "Minneapolis Star-Tribune Owner Avista Writes Down 75 Percent Of Investme
 date: 2008-05-07 16:02:58 +0000
 external-url: http://gigaom.com/2008/05/07/419-minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-investm/
 hash: cdb8727fe6285d19a43be4be36d8d867
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/05/07/419-minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-investm/
+year: 2008
+month: 05
+scheme: http
+host: gigaom.com
+path: /2008/05/07/419-minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-investm/
 
 ---
 

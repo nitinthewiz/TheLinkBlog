@@ -3,13 +3,11 @@ title: "Microsoft throws down the gauntlet in business intelligence — Tech New
 date: 2015-01-28 14:13:51 +0000
 external-url: https://gigaom.com/2015/01/27/microsoft-throws-down-the-gauntlet-in-business-intelligence/
 hash: 12c1aa70f94f7a456d597b8e2e5119d5
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2015/01/27/microsoft-throws-down-the-gauntlet-in-business-intelligence/
+year: 2015
+month: 01
+scheme: https
+host: gigaom.com
+path: /2015/01/27/microsoft-throws-down-the-gauntlet-in-business-intelligence/
 
 ---
 

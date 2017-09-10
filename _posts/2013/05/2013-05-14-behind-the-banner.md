@@ -3,13 +3,11 @@ title: "Behind The Banner"
 date: 2013-05-14 18:38:04 +0000
 external-url: http://cmsummit.com/behindthebanner/
 hash: dd02542faa2160c043181300a9e96113
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: cmsummit.com
-    path: /behindthebanner/
+year: 2013
+month: 05
+scheme: http
+host: cmsummit.com
+path: /behindthebanner/
 
 ---
 

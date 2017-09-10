@@ -3,13 +3,11 @@ title: "Prescott Studio"
 date: 2013-06-01 21:19:11 +0000
 external-url: http://prescottstudio.com/
 hash: e36e63eb574339d522754d5d053b9024
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: prescottstudio.com
-    path: /
+year: 2013
+month: 06
+scheme: http
+host: prescottstudio.com
+path: /
 
 ---
 

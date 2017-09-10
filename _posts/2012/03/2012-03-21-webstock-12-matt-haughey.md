@@ -3,13 +3,11 @@ title: "Webstock '12: Matt Haughey - Lessons from a 40 year old on Vimeo"
 date: 2012-03-21 15:46:46 +0000
 external-url: https://vimeo.com/38463833
 hash: 49bd862b4ded41e209f9fd91f0aa29f3
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: https
-    host: vimeo.com
-    path: /38463833
+year: 2012
+month: 03
+scheme: https
+host: vimeo.com
+path: /38463833
 
 ---
 

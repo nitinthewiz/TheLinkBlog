@@ -3,13 +3,11 @@ title: "DiggProof your Wordpress"
 date: 2007-01-29 04:15:39 +0000
 external-url: http://blog.circlesixdesign.com/2007/01/22/diggproof/
 hash: 27ed37a7bd758b4777f1410fee8a2c05
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: blog.circlesixdesign.com
-    path: /2007/01/22/diggproof/
+year: 2007
+month: 01
+scheme: http
+host: blog.circlesixdesign.com
+path: /2007/01/22/diggproof/
 
 ---
 

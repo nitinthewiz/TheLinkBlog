@@ -3,13 +3,11 @@ title: "Hundreds of North Dakota Oil Spills Not Publicized"
 date: 2013-10-28 02:07:47 +0000
 external-url: http://kstp.com/article/stories/s3200731.shtml
 hash: ccf422534d6c5b2d21ccf1142392625f
-annum:
-    year: 2013
-    month: 10
-url-parts:
-    scheme: http
-    host: kstp.com
-    path: /article/stories/s3200731.shtml
+year: 2013
+month: 10
+scheme: http
+host: kstp.com
+path: /article/stories/s3200731.shtml
 
 ---
 

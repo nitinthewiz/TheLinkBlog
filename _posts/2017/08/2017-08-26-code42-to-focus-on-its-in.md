@@ -3,13 +3,11 @@ title: "Code42 to Focus Exclusively on its Rapidly Growing Business in the Enter
 date: 2017-08-26 01:06:58 +0000
 external-url: https://www.code42.com/news-releases/code42-focus-business/
 hash: ea5c8ae17b11c596c83278cd4dd63a0e
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.code42.com
-    path: /news-releases/code42-focus-business/
+year: 2017
+month: 08
+scheme: https
+host: www.code42.com
+path: /news-releases/code42-focus-business/
 
 ---
 

@@ -3,13 +3,11 @@ title: "My Favorite Twitter Bot"
 date: 2016-02-04 01:16:08 +0000
 external-url: https://clkoerner.com/2016/02/03/my-favorite-twitter-bot/
 hash: 10f09853bf8d0ac8a61ed98caa0056b3
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: clkoerner.com
-    path: /2016/02/03/my-favorite-twitter-bot/
+year: 2016
+month: 02
+scheme: https
+host: clkoerner.com
+path: /2016/02/03/my-favorite-twitter-bot/
 
 ---
 

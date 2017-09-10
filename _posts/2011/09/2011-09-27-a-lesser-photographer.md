@@ -3,13 +3,11 @@ title: "A Lesser Photographer"
 date: 2011-09-27 14:39:38 +0000
 external-url: http://www.alesserphotographerbook.com/a_lesser_photographer.pdf
 hash: 3fa4de923a3badd59b884137f1996f49
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: www.alesserphotographerbook.com
-    path: /a_lesser_photographer.pdf
+year: 2011
+month: 09
+scheme: http
+host: www.alesserphotographerbook.com
+path: /a_lesser_photographer.pdf
 
 ---
 

@@ -3,13 +3,11 @@ title: "letsencrypt.org"
 date: 2017-01-07 03:26:08 +0000
 external-url: https://letsencrypt.org//2017/01/06/le-2016-in-review.html
 hash: 11edf06e69c9278713434fbfdf331f23
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: letsencrypt.org
-    path: //2017/01/06/le-2016-in-review.html
+year: 2017
+month: 01
+scheme: https
+host: letsencrypt.org
+path: //2017/01/06/le-2016-in-review.html
 
 ---
 

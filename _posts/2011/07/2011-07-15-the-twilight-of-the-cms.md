@@ -3,13 +3,11 @@ title: "The Twilight of the CMS | TPM Media Labs"
 date: 2011-07-15 20:27:04 +0000
 external-url: http://labs.talkingpointsmemo.com/2011/07/the-twilight-of-the-cms.php
 hash: 050211de6e585cd98331ad13fcf8a893
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: labs.talkingpointsmemo.com
-    path: /2011/07/the-twilight-of-the-cms.php
+year: 2011
+month: 07
+scheme: http
+host: labs.talkingpointsmemo.com
+path: /2011/07/the-twilight-of-the-cms.php
 
 ---
 

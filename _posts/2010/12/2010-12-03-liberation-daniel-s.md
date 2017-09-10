@@ -3,13 +3,11 @@ title: "Liberation | Daniel Bachhuber's weblog"
 date: 2010-12-03 15:52:27 +0000
 external-url: http://danielbachhuber.com/2010/10/25/liberation/
 hash: 5a69128e4f3bca831529be398dec89b1
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: danielbachhuber.com
-    path: /2010/10/25/liberation/
+year: 2010
+month: 12
+scheme: http
+host: danielbachhuber.com
+path: /2010/10/25/liberation/
 
 ---
 

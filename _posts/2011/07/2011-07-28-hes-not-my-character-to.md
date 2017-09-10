@@ -3,13 +3,11 @@ title: "‘He’s Not My Character to Write Anymore’"
 date: 2011-07-28 21:33:44 +0000
 external-url: http://thebhj.com/journal/2011/7/27/13.html
 hash: 7be8b01025de6109b44cf6cf1cb629a2
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: thebhj.com
-    path: /journal/2011/7/27/13.html
+year: 2011
+month: 07
+scheme: http
+host: thebhj.com
+path: /journal/2011/7/27/13.html
 
 ---
 

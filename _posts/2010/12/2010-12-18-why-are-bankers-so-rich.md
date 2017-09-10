@@ -3,13 +3,11 @@ title: "Why Are Bankers So Rich?"
 date: 2010-12-18 20:06:46 +0000
 external-url: http://www.motherjones.com/kevin-drum/2010/12/why-are-bankers-so-rich
 hash: 01e2ace0d66619274d57816131163ba8
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.motherjones.com
-    path: /kevin-drum/2010/12/why-are-bankers-so-rich
+year: 2010
+month: 12
+scheme: http
+host: www.motherjones.com
+path: /kevin-drum/2010/12/why-are-bankers-so-rich
 
 ---
 

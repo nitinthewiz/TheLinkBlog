@@ -3,13 +3,11 @@ title: "No. 1 Party School Infographic"
 date: 2010-04-05 04:31:34 +0000
 external-url: http://thisamericaninfographic.tumblr.com/396-1-party-school/
 hash: afc84db02ab4740dc8a717993f1e587b
-annum:
-    year: 2010
-    month: 04
-url-parts:
-    scheme: http
-    host: thisamericaninfographic.tumblr.com
-    path: /396-1-party-school/
+year: 2010
+month: 04
+scheme: http
+host: thisamericaninfographic.tumblr.com
+path: /396-1-party-school/
 
 ---
 

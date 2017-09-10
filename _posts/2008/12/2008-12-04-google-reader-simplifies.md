@@ -3,13 +3,11 @@ title: "Google Reader Simplifies Look, Adds Features [Google Reader]"
 date: 2008-12-04 22:40:36 +0000
 external-url: http://lifehacker.com/5102149/google-reader-simplifies-look-adds-features
 hash: d6306c218bbdfcc8844686f20d730082
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5102149/google-reader-simplifies-look-adds-features
+year: 2008
+month: 12
+scheme: http
+host: lifehacker.com
+path: /5102149/google-reader-simplifies-look-adds-features
 
 ---
 

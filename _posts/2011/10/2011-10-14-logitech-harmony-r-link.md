@@ -3,13 +3,11 @@ title: "Logitech Harmony® Link"
 date: 2011-10-14 19:53:48 +0000
 external-url: http://www.logitech.com/en-us/tablet-accessories/for-ipad/devices/harmony-link
 hash: cd412d5160cc71b221a3a8116c8a2e5a
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.logitech.com
-    path: /en-us/tablet-accessories/for-ipad/devices/harmony-link
+year: 2011
+month: 10
+scheme: http
+host: www.logitech.com
+path: /en-us/tablet-accessories/for-ipad/devices/harmony-link
 
 ---
 

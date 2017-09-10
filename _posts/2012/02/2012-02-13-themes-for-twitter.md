@@ -3,13 +3,11 @@ title: "Themes for Twitter Bootstrap - WrapBootstrap"
 date: 2012-02-13 17:02:12 +0000
 external-url: https://wrapbootstrap.com/
 hash: cd270ee63de83680b259c3fb3179ecb3
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: https
-    host: wrapbootstrap.com
-    path: /
+year: 2012
+month: 02
+scheme: https
+host: wrapbootstrap.com
+path: /
 
 ---
 

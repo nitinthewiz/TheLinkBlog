@@ -3,13 +3,11 @@ title: "Twitter Downtime On the Upswing"
 date: 2007-12-20 14:49:16 +0000
 external-url: http://techcrunch.com/2007/12/20/twitter-downtime-on-the-upswing/
 hash: 3d81d909b373b98235dee4ec67f89b65
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/20/twitter-downtime-on-the-upswing/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/20/twitter-downtime-on-the-upswing/
 
 ---
 

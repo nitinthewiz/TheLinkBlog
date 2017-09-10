@@ -3,13 +3,11 @@ title: "Lightroom Dashboard Can Help You Visualize Your Photography Habits"
 date: 2015-08-08 02:40:02 +0000
 external-url: http://petapixel.com/2015/07/15/lightroom-dashboard-can-help-you-visualize-your-photography-habits/
 hash: 7a19cac5cbd3ae82469439418d96a9a9
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: petapixel.com
-    path: /2015/07/15/lightroom-dashboard-can-help-you-visualize-your-photography-habits/
+year: 2015
+month: 08
+scheme: http
+host: petapixel.com
+path: /2015/07/15/lightroom-dashboard-can-help-you-visualize-your-photography-habits/
 
 ---
 

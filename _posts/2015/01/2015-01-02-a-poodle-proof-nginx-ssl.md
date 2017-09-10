@@ -3,13 +3,11 @@ title: "A Poodle proof, bulletproof Nginx SSL configuration"
 date: 2015-01-02 19:44:32 +0000
 external-url: https://t37.net/a-poodle-proof-bulletproof-nginx-ssl-configuration.html
 hash: 6d053c10ead0796e94c8d7749a929b1b
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: t37.net
-    path: /a-poodle-proof-bulletproof-nginx-ssl-configuration.html
+year: 2015
+month: 01
+scheme: https
+host: t37.net
+path: /a-poodle-proof-bulletproof-nginx-ssl-configuration.html
 
 ---
 

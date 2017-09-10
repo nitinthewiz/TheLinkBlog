@@ -3,13 +3,11 @@ title: "YC-Funded FanChatter Takes Social Media To The Ball Game"
 date: 2009-08-06 05:40:08 +0000
 external-url: http://techcrunch.com/2009/08/01/yc-funded-fanchatter-takes-social-media-to-the-ball-game/
 hash: 234357eebc5ecc73d84fb018a5b739af
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/08/01/yc-funded-fanchatter-takes-social-media-to-the-ball-game/
+year: 2009
+month: 08
+scheme: http
+host: techcrunch.com
+path: /2009/08/01/yc-funded-fanchatter-takes-social-media-to-the-ball-game/
 
 ---
 

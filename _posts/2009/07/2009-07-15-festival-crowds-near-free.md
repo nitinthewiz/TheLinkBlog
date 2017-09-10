@@ -3,13 +3,11 @@ title: "Festival crowds near limit? - Winnipeg Free Press"
 date: 2009-07-15 20:57:07 +0000
 external-url: http://www.winnipegfreepress.com/entertainment/music/festival-crowds-near-limit-50615062.html#
 hash: d33dcb14be1000951e56a01fb8efae4a
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: www.winnipegfreepress.com
-    path: /entertainment/music/festival-crowds-near-limit-50615062.html
+year: 2009
+month: 07
+scheme: http
+host: www.winnipegfreepress.com
+path: /entertainment/music/festival-crowds-near-limit-50615062.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "My Sleep Button | Cool Tools"
 date: 2016-03-20 00:08:09 +0000
 external-url: http://kk.org/cooltools/my-sleep-button/
 hash: 637ce24ce4982e7eeb2d9b186966bcd6
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: kk.org
-    path: /cooltools/my-sleep-button/
+year: 2016
+month: 03
+scheme: http
+host: kk.org
+path: /cooltools/my-sleep-button/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Apple documents iTunes LP and iTunes Extras for developers"
 date: 2009-11-27 03:55:12 +0000
 external-url: http://www.tuaw.com/2009/11/26/apple-documents-itunes-lp-and-itunes-extras-for-developers/
 hash: f5c2d2fac1bfe2be30974795baa789f0
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/11/26/apple-documents-itunes-lp-and-itunes-extras-for-developers/
+year: 2009
+month: 11
+scheme: http
+host: www.tuaw.com
+path: /2009/11/26/apple-documents-itunes-lp-and-itunes-extras-for-developers/
 
 ---
 

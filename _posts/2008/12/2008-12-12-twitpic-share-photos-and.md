@@ -3,13 +3,11 @@ title: "Twitpic - Share photos and videos on Twitter"
 date: 2008-12-12 19:10:57 +0000
 external-url: http://twitpic.com/s8f3
 hash: a2d3c7b56da1baabad9f45363cc516d8
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: twitpic.com
-    path: /s8f3
+year: 2008
+month: 12
+scheme: http
+host: twitpic.com
+path: /s8f3
 
 ---
 

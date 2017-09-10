@@ -3,13 +3,11 @@ title: "Bicyclist Safety & Crashes"
 date: 2013-01-19 13:30:36 +0000
 external-url: http://www.minneapolismn.gov/bicycles/data/safety
 hash: 96706e8bf57052685d9800f485dbd32a
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: www.minneapolismn.gov
-    path: /bicycles/data/safety
+year: 2013
+month: 01
+scheme: http
+host: www.minneapolismn.gov
+path: /bicycles/data/safety
 
 ---
 

@@ -3,13 +3,11 @@ title: "A Vegan Tour of NYC"
 date: 2013-03-08 21:14:21 +0000
 external-url: http://zenhabits.net/nyc/
 hash: 3e5d4309c34437c930d4f65c946c2726
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: zenhabits.net
-    path: /nyc/
+year: 2013
+month: 03
+scheme: http
+host: zenhabits.net
+path: /nyc/
 
 ---
 

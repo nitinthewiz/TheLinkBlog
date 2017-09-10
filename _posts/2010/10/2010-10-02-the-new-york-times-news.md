@@ -3,13 +3,11 @@ title: "The New York Times - Breaking News, World News & Multimedia"
 date: 2010-10-02 14:26:30 +0000
 external-url: http://www.nytimes.com/
 hash: ca1e6357399774951eed4628d69eb84b
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /
+year: 2010
+month: 10
+scheme: http
+host: www.nytimes.com
+path: /
 
 ---
 

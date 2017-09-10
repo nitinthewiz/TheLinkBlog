@@ -3,13 +3,11 @@ title: "Energized about our first Google PowerMeter partners"
 date: 2009-05-21 04:37:03 +0000
 external-url: http://googleblog.blogspot.com/2009/05/energized-about-our-first-google.html
 hash: 6cc108c5d138be979af40015f3ce8bff
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/05/energized-about-our-first-google.html
+year: 2009
+month: 05
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/05/energized-about-our-first-google.html
 
 ---
 

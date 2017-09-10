@@ -3,13 +3,11 @@ title: "iOS 11 will offer some iPad-specific features —Apple World Today"
 date: 2017-06-06 00:03:16 +0000
 external-url: https://www.appleworld.today/blog/2017/6/5/ios-11-will-offer-some-ipad-specific-features
 hash: 4f6cf094e4e1858f4a8ecbc67b33198f
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.appleworld.today
-    path: /blog/2017/6/5/ios-11-will-offer-some-ipad-specific-features
+year: 2017
+month: 06
+scheme: https
+host: www.appleworld.today
+path: /blog/2017/6/5/ios-11-will-offer-some-ipad-specific-features
 
 ---
 

@@ -3,13 +3,11 @@ title: "Warrantless cell phone search gets a green light in California"
 date: 2011-01-04 18:06:00 +0000
 external-url: http://arstechnica.com/tech-policy/2011/01/warrantless-cell-phone-search-gets-a-green-light-in-california/
 hash: 233f5bc091d7d9ca3758487a6c10f6e1
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /tech-policy/2011/01/warrantless-cell-phone-search-gets-a-green-light-in-california/
+year: 2011
+month: 01
+scheme: http
+host: arstechnica.com
+path: /tech-policy/2011/01/warrantless-cell-phone-search-gets-a-green-light-in-california/
 
 ---
 

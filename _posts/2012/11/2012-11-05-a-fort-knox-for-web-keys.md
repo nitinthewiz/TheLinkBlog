@@ -3,13 +3,11 @@ title: "A Fort Knox for Web crypto keys: Inside Symantecs SSL certificate vault"
 date: 2012-11-05 18:01:33 +0000
 external-url: http://arstechnica.com/security/2012/11/inside-symantecs-ssl-certificate-vault/
 hash: 91a21dd1485921bcb93c0ee59047cd3c
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /security/2012/11/inside-symantecs-ssl-certificate-vault/
+year: 2012
+month: 11
+scheme: http
+host: arstechnica.com
+path: /security/2012/11/inside-symantecs-ssl-certificate-vault/
 
 ---
 

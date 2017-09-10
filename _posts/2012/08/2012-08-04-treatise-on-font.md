@@ -3,13 +3,11 @@ title: "Treatise on Font Rasterisation"
 date: 2012-08-04 11:57:42 +0000
 external-url: https://freddie.witherden.org/pages/font-rasterisation/
 hash: 776bdd0cdbb20bb9ed7fd6ceb4037396
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: https
-    host: freddie.witherden.org
-    path: /pages/font-rasterisation/
+year: 2012
+month: 08
+scheme: https
+host: freddie.witherden.org
+path: /pages/font-rasterisation/
 
 ---
 

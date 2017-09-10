@@ -3,13 +3,11 @@ title: "Mark Zuckerberg on Facebook Home, Money, and the Future of Communication
 date: 2013-04-05 18:30:20 +0000
 external-url: http://www.wired.com/2013/04/facebookqa/
 hash: 512c43704ea9f96d1ea27f3bb696cf03
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2013/04/facebookqa/
+year: 2013
+month: 04
+scheme: http
+host: www.wired.com
+path: /2013/04/facebookqa/
 
 ---
 

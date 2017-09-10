@@ -3,13 +3,11 @@ title: "The IM Conversation In Which 19-Year-Old Zuckerberg Decided To Build Fac
 date: 2012-02-01 23:17:03 +0000
 external-url: http://www.businessinsider.com/exclusive-the-im-conversation-in-which-19-year-old-zuckerberg-decided-to-build-facebook-this-years-100-billion-ipo-2012-1
 hash: a3a4cc108fd59559292f3a4d5098a4fd
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /exclusive-the-im-conversation-in-which-19-year-old-zuckerberg-decided-to-build-facebook-this-years-100-billion-ipo-2012-1
+year: 2012
+month: 02
+scheme: http
+host: www.businessinsider.com
+path: /exclusive-the-im-conversation-in-which-19-year-old-zuckerberg-decided-to-build-facebook-this-years-100-billion-ipo-2012-1
 
 ---
 

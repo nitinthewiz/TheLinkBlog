@@ -3,13 +3,11 @@ title: "Twitter Trends: Twist"
 date: 2008-04-23 15:08:05 +0000
 external-url: http://techcrunch.com/2008/04/23/twitter-trends-twist/
 hash: 383823ace932f82ead1fd5225f164d57
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/04/23/twitter-trends-twist/
+year: 2008
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2008/04/23/twitter-trends-twist/
 
 ---
 

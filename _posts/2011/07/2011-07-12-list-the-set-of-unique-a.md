@@ -3,13 +3,11 @@ title: "List the set of unique values for a property - Semantic MediaWiki Commun
 date: 2011-07-12 00:25:20 +0000
 external-url: http://smw.referata.com/wiki/List_the_set_of_unique_values_for_a_property
 hash: 230f3a95a8a779f71d1ccc6189694834
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: smw.referata.com
-    path: /wiki/List_the_set_of_unique_values_for_a_property
+year: 2011
+month: 07
+scheme: http
+host: smw.referata.com
+path: /wiki/List_the_set_of_unique_values_for_a_property
 
 ---
 

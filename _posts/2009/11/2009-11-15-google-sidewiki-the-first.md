@@ -3,13 +3,11 @@ title: "Google Sidewiki: The first 50 days of valuable entries and new API featu
 date: 2009-11-15 06:09:51 +0000
 external-url: http://googleblog.blogspot.com/2009/11/google-sidewiki-first-50-days-of.html
 hash: d53d17ba45bac50aa8f2b69397417e7f
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2009/11/google-sidewiki-first-50-days-of.html
+year: 2009
+month: 11
+scheme: http
+host: googleblog.blogspot.com
+path: /2009/11/google-sidewiki-first-50-days-of.html
 
 ---
 

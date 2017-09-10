@@ -3,13 +3,11 @@ title: "Where Do Product Roadmaps Come From? - Inside Intercom"
 date: 2015-06-21 00:41:41 +0000
 external-url: https://blog.intercom.io/where-do-product-roadmaps-come-from/
 hash: a2be0374dab475fabb0c0ae98a2c4d40
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: https
-    host: blog.intercom.io
-    path: /where-do-product-roadmaps-come-from/
+year: 2015
+month: 06
+scheme: https
+host: blog.intercom.io
+path: /where-do-product-roadmaps-come-from/
 
 ---
 

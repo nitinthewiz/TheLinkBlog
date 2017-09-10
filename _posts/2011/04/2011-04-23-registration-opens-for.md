@@ -3,13 +3,11 @@ title: "Registration Opens for Minnesota’s Seminal Tech unConference"
 date: 2011-04-23 20:53:42 +0000
 external-url: http://tech.mn/news/2011/04/23/minnebar-spring-2011/
 hash: a9232b3f8d5dfb54df698a7637d7ca93
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2011/04/23/minnebar-spring-2011/
+year: 2011
+month: 04
+scheme: http
+host: tech.mn
+path: /news/2011/04/23/minnebar-spring-2011/
 
 ---
 

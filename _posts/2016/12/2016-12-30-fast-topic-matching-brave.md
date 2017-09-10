@@ -3,13 +3,11 @@ title: "Fast Topic Matching – Brave New Geek"
 date: 2016-12-30 11:46:38 +0000
 external-url: http://bravenewgeek.com/fast-topic-matching/
 hash: 4574fb37a6603cfbe2f42e60f6f22077
-annum:
-    year: 2016
-    month: 12
-url-parts:
-    scheme: http
-    host: bravenewgeek.com
-    path: /fast-topic-matching/
+year: 2016
+month: 12
+scheme: http
+host: bravenewgeek.com
+path: /fast-topic-matching/
 
 ---
 

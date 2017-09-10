@@ -3,13 +3,11 @@ title: "User Behavioral Analytics - Guardian Analytics"
 date: 2015-04-08 23:28:16 +0000
 external-url: http://www.guardiananalytics.com/
 hash: 08299a95392085ca75347a189954e0f7
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: www.guardiananalytics.com
-    path: /
+year: 2015
+month: 04
+scheme: http
+host: www.guardiananalytics.com
+path: /
 
 ---
 

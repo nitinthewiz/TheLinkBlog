@@ -3,13 +3,11 @@ title: "The Best Advice We Overheard at First Round's CTO Unconference | First R
 date: 2017-06-22 12:16:38 +0000
 external-url: http://firstround.com/review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/
 hash: 468c368653bfe200ff84d31b68e638f7
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: http
-    host: firstround.com
-    path: /review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/
+year: 2017
+month: 06
+scheme: http
+host: firstround.com
+path: /review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/
 
 ---
 

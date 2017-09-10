@@ -3,13 +3,11 @@ title: "The Avon Barksdale Story"
 date: 2010-01-08 13:21:23 +0000
 external-url: http://kottke.org/10/01/the-avon-barksdale-story
 hash: de063275b7fc67d3c84cbfc785510fbc
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/01/the-avon-barksdale-story
+year: 2010
+month: 01
+scheme: http
+host: kottke.org
+path: /10/01/the-avon-barksdale-story
 
 ---
 

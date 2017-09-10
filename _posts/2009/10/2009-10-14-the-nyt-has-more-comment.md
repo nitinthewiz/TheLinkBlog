@@ -3,13 +3,11 @@ title: "The NYT Has More Comment Moderators Than HuffPo Has Reporters"
 date: 2009-10-14 01:59:40 +0000
 external-url: http://www.businessinsider.com/the-nyt-has-more-comment-moderators-than-huffpo-has-reporters-2009-10
 hash: 2cea53eb94b9e32bed7de808b3359dba
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /the-nyt-has-more-comment-moderators-than-huffpo-has-reporters-2009-10
+year: 2009
+month: 10
+scheme: http
+host: www.businessinsider.com
+path: /the-nyt-has-more-comment-moderators-than-huffpo-has-reporters-2009-10
 
 ---
 

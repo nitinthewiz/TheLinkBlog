@@ -3,13 +3,11 @@ title: "My Must-Have iOS Apps, 2015 Edition"
 date: 2015-12-23 11:04:25 +0000
 external-url: https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/
 hash: 845d850de7fbf3ab927dd1679f967ae0
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /roundups/my-must-have-ios-apps-2015-edition/
+year: 2015
+month: 12
+scheme: https
+host: www.macstories.net
+path: /roundups/my-must-have-ios-apps-2015-edition/
 
 ---
 

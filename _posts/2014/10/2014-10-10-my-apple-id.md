@@ -3,13 +3,11 @@ title: "My Apple ID"
 date: 2014-10-10 12:23:11 +0000
 external-url: https://appleid.apple.com/
 hash: d38204f2e46fcb4690ab573ecd205ea1
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: appleid.apple.com
-    path: /
+year: 2014
+month: 10
+scheme: https
+host: appleid.apple.com
+path: /
 
 ---
 

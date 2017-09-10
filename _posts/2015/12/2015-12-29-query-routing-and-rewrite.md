@@ -3,13 +3,11 @@ title: "Query Routing and Rewrite: Introducing pgbouncer-rr for Amazon Redshift 
 date: 2015-12-29 17:36:11 +0000
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx3G7177U6YHY5I/Query-Routing-and-Rewrite-Introducing-pgbouncer-rr-for-Amazon-Redshift-and-Postg
 hash: a6414c0f933d9d9d5f3071db026877e8
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /bigdata/post/Tx3G7177U6YHY5I/Query-Routing-and-Rewrite-Introducing-pgbouncer-rr-for-Amazon-Redshift-and-Postg
+year: 2015
+month: 12
+scheme: http
+host: blogs.aws.amazon.com
+path: /bigdata/post/Tx3G7177U6YHY5I/Query-Routing-and-Rewrite-Introducing-pgbouncer-rr-for-Amazon-Redshift-and-Postg
 
 ---
 

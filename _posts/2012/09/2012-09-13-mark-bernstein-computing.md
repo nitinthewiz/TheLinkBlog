@@ -3,13 +3,11 @@ title: "Mark Bernstein: NeoVictorian Computing"
 date: 2012-09-13 02:05:28 +0000
 external-url: http://www.markbernstein.org/NeoVictorian.html
 hash: 3e323f91c04faf464e7664d346da5b54
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: www.markbernstein.org
-    path: /NeoVictorian.html
+year: 2012
+month: 09
+scheme: http
+host: www.markbernstein.org
+path: /NeoVictorian.html
 
 ---
 

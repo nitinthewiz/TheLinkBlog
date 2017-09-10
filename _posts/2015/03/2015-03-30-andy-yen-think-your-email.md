@@ -3,13 +3,11 @@ title: "Andy Yen: Think your email's private? Think again | Talk Video | TED.com
 date: 2015-03-30 00:50:53 +0000
 external-url: http://www.ted.com/talks/andy_yen_think_your_email_s_private_think_again
 hash: 4559872e25553cc39792c6403564249a
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/andy_yen_think_your_email_s_private_think_again
+year: 2015
+month: 03
+scheme: http
+host: www.ted.com
+path: /talks/andy_yen_think_your_email_s_private_think_again
 
 ---
 

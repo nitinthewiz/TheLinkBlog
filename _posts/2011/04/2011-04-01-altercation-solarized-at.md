@@ -3,13 +3,11 @@ title: "altercation/solarized at master - GitHub"
 date: 2011-04-01 14:21:11 +0000
 external-url: https://github.com/altercation/solarized
 hash: b758b1cad96034aa5bbcf31d8ee04d68
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: https
-    host: github.com
-    path: /altercation/solarized
+year: 2011
+month: 04
+scheme: https
+host: github.com
+path: /altercation/solarized
 
 ---
 

@@ -3,13 +3,11 @@ title: "Surfin' Safari - Blog Archive » Introduction to WebKit Content Blockers
 date: 2015-06-15 04:02:06 +0000
 external-url: https://www.webkit.org/blog/3476/content-blockers-first-look/
 hash: 87636ded7c18a5694a895a68f781ab4c
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: https
-    host: www.webkit.org
-    path: /blog/3476/content-blockers-first-look/
+year: 2015
+month: 06
+scheme: https
+host: www.webkit.org
+path: /blog/3476/content-blockers-first-look/
 
 ---
 

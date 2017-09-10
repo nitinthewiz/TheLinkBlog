@@ -3,13 +3,11 @@ title: "MGTwitterEngine"
 date: 2008-02-22 16:33:16 +0000
 external-url: http://mjtsai.com/blog/2008/02/22/mgtwitterengine/
 hash: 7245d5556225b5d7f66fd7fdb24bdfc4
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: mjtsai.com
-    path: /blog/2008/02/22/mgtwitterengine/
+year: 2008
+month: 02
+scheme: http
+host: mjtsai.com
+path: /blog/2008/02/22/mgtwitterengine/
 
 ---
 

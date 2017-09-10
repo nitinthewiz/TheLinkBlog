@@ -3,13 +3,11 @@ title: "Will OS X 10.7 “Lion” Be The King Of The Apple Jungle, The Last Of I
 date: 2010-10-14 23:11:22 +0000
 external-url: http://techcrunch.com/2010/10/13/os-x-lion-10-7/
 hash: c38a36fa9f41c5a5c94e8cf823b8eb87
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2010/10/13/os-x-lion-10-7/
+year: 2010
+month: 10
+scheme: http
+host: techcrunch.com
+path: /2010/10/13/os-x-lion-10-7/
 
 ---
 

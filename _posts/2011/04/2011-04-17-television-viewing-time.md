@@ -3,13 +3,11 @@ title: "Television viewing time and mortality: the Austral... [Circulation. 2010
 date: 2011-04-17 10:53:49 +0000
 external-url: http://www.ncbi.nlm.nih.gov/pubmed/20065160
 hash: ff9ee2e7bacfaccf36fcfb89b90ee800
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.ncbi.nlm.nih.gov
-    path: /pubmed/20065160
+year: 2011
+month: 04
+scheme: http
+host: www.ncbi.nlm.nih.gov
+path: /pubmed/20065160
 
 ---
 

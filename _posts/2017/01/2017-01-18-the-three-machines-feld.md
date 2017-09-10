@@ -3,13 +3,11 @@ title: "The Three Machines - Feld Thoughts"
 date: 2017-01-18 17:52:05 +0000
 external-url: http://www.feld.com/archives/2017/01/the-three-machines.html
 hash: 522f90057878d13da38e0c4698c76375
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: www.feld.com
-    path: /archives/2017/01/the-three-machines.html
+year: 2017
+month: 01
+scheme: http
+host: www.feld.com
+path: /archives/2017/01/the-three-machines.html
 
 ---
 

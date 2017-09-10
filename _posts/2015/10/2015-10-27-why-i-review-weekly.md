@@ -3,13 +3,11 @@ title: "Why I Review Weekly"
 date: 2015-10-27 02:08:41 +0000
 external-url: http://www.myproductivemac.com/blog/why-i-review-weekly26102015
 hash: d654a580e6dd88c16cccf182097c3558
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/why-i-review-weekly26102015
+year: 2015
+month: 10
+scheme: http
+host: www.myproductivemac.com
+path: /blog/why-i-review-weekly26102015
 
 ---
 

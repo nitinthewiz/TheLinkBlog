@@ -3,13 +3,11 @@ title: "Gantt, PERT, or Task Calendar: Which Scheduling Model is Best for Your P
 date: 2010-12-27 17:00:13 +0000
 external-url: http://gigaom.com/collaboration/gantt-pert-or-task-calendar-which-scheduling-model-is-best-for-your-project/
 hash: 8d73257e3ce6ab741da6c75a3f3ca28b
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /collaboration/gantt-pert-or-task-calendar-which-scheduling-model-is-best-for-your-project/
+year: 2010
+month: 12
+scheme: http
+host: gigaom.com
+path: /collaboration/gantt-pert-or-task-calendar-which-scheduling-model-is-best-for-your-project/
 
 ---
 

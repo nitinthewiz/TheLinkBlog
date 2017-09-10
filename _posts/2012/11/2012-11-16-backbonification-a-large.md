@@ -3,13 +3,11 @@ title: "Backbonification: migrating a large JavaScript project from DOM spaghett
 date: 2012-11-16 12:01:41 +0000
 external-url: http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/
 hash: 92b7dcaa974f69dd7bd12c0edfc3e968
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.ofbrooklyn.com
-    path: /2012/11/13/backbonification-migrating-javascript-to-backbone/
+year: 2012
+month: 11
+scheme: http
+host: www.ofbrooklyn.com
+path: /2012/11/13/backbonification-migrating-javascript-to-backbone/
 
 ---
 

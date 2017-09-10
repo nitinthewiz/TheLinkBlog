@@ -3,13 +3,11 @@ title: "Open Source North"
 date: 2015-10-05 11:45:02 +0000
 external-url: http://opensourcenorth.com/
 hash: 0729e2f156812027350d541e19d2bb72
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: opensourcenorth.com
-    path: /
+year: 2015
+month: 10
+scheme: http
+host: opensourcenorth.com
+path: /
 
 ---
 

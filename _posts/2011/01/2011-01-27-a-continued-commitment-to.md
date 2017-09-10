@@ -3,13 +3,11 @@ title: "A Continued Commitment to Security Facebook"
 date: 2011-01-27 12:25:41 +0000
 external-url: https://www.facebook.com/notes/facebook/a-continued-commitment-to-security/486790652130
 hash: 0e2de4acb649d02c3ebf1e54596e3c7f
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: www.facebook.com
-    path: /notes/facebook/a-continued-commitment-to-security/486790652130
+year: 2011
+month: 01
+scheme: https
+host: www.facebook.com
+path: /notes/facebook/a-continued-commitment-to-security/486790652130
 
 ---
 

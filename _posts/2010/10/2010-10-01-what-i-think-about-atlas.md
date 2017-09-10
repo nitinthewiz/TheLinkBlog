@@ -3,13 +3,11 @@ title: "What I Think About Atlas Shrugged"
 date: 2010-10-01 21:19:39 +0000
 external-url: http://whatever.scalzi.com/2010/10/01/what-i-think-about-atlas-shrugged/
 hash: a2f15c8067256dee29712a6ea83aa188
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: whatever.scalzi.com
-    path: /2010/10/01/what-i-think-about-atlas-shrugged/
+year: 2010
+month: 10
+scheme: http
+host: whatever.scalzi.com
+path: /2010/10/01/what-i-think-about-atlas-shrugged/
 
 ---
 

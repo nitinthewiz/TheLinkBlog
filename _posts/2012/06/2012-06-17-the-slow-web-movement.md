@@ -3,13 +3,11 @@ title: "The Slow Web Movement"
 date: 2012-06-17 00:01:47 +0000
 external-url: http://blog.idonethis.com/post/21267449208/the-slow-web-movement
 hash: b9377430bab2ea291e86b273af86a6b4
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: blog.idonethis.com
-    path: /post/21267449208/the-slow-web-movement
+year: 2012
+month: 06
+scheme: http
+host: blog.idonethis.com
+path: /post/21267449208/the-slow-web-movement
 
 ---
 

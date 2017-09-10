@@ -3,13 +3,11 @@ title: "Girls Around Me"
 date: 2012-04-02 18:49:18 +0000
 external-url: http://girlsaround.me/
 hash: 2ae33c1ef55a2413c23b5ee6fa90dbac
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: girlsaround.me
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: girlsaround.me
+path: /
 
 ---
 

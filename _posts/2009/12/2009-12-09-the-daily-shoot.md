@@ -3,13 +3,11 @@ title: "The Daily Shoot"
 date: 2009-12-09 03:45:02 +0000
 external-url: http://www.clarkware.com/blog/2009/12/07/the-daily-shoot
 hash: 5d760108f5cf0074bf90a4cf1e526553
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: www.clarkware.com
-    path: /blog/2009/12/07/the-daily-shoot
+year: 2009
+month: 12
+scheme: http
+host: www.clarkware.com
+path: /blog/2009/12/07/the-daily-shoot
 
 ---
 

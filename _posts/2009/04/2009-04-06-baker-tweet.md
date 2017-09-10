@@ -3,13 +3,11 @@ title: "Baker Tweet"
 date: 2009-04-06 01:22:55 +0000
 external-url: http://www.todayandtomorrow.net/2009/04/06/baker-tweet/
 hash: 44c44e7aee65865944917e9e9a0a4907
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.todayandtomorrow.net
-    path: /2009/04/06/baker-tweet/
+year: 2009
+month: 04
+scheme: http
+host: www.todayandtomorrow.net
+path: /2009/04/06/baker-tweet/
 
 ---
 

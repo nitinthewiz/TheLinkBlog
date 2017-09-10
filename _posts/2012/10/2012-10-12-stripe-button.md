@@ -3,13 +3,11 @@ title: "Stripe Button"
 date: 2012-10-12 18:19:55 +0000
 external-url: https://stripe.com/docs/checkout
 hash: 52488baba729cc68bccc1aacd55c4311
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: https
-    host: stripe.com
-    path: /docs/checkout
+year: 2012
+month: 10
+scheme: https
+host: stripe.com
+path: /docs/checkout
 
 ---
 

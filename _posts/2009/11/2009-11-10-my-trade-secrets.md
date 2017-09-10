@@ -3,13 +3,11 @@ title: "My \"Trade Secrets\""
 date: 2009-11-10 16:29:51 +0000
 external-url: http://blog.chasejarvis.com/blog/2009/11/my-trade-secrets/
 hash: 708a5eb0028fcd31ea69289036d4d2db
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: blog.chasejarvis.com
-    path: /blog/2009/11/my-trade-secrets/
+year: 2009
+month: 11
+scheme: http
+host: blog.chasejarvis.com
+path: /blog/2009/11/my-trade-secrets/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Are you sure you want to be in San Francisco?"
 date: 2008-04-22 16:23:00 +0000
 external-url: http://www.37signals.com/svn/posts/987-are-you-sure-you-want-to-be-in-san-francisco
 hash: 58509442b87d47f62b1470d14477cc02
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/987-are-you-sure-you-want-to-be-in-san-francisco
+year: 2008
+month: 04
+scheme: http
+host: www.37signals.com
+path: /svn/posts/987-are-you-sure-you-want-to-be-in-san-francisco
 
 ---
 

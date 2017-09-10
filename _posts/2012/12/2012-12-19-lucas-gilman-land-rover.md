@@ -3,13 +3,11 @@ title: "Lucas Gilman - Land Rover Story Challenge"
 date: 2012-12-19 22:16:56 +0000
 external-url: http://500px.com/lucasgilman/stories/63869/land-rover-story-challenge
 hash: 7c6f85f4fa7b9c55b9a3ff5bf5893d5b
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: 500px.com
-    path: /lucasgilman/stories/63869/land-rover-story-challenge
+year: 2012
+month: 12
+scheme: http
+host: 500px.com
+path: /lucasgilman/stories/63869/land-rover-story-challenge
 
 ---
 

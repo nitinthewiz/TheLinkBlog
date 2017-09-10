@@ -3,13 +3,11 @@ title: "On the Road to Recap:"
 date: 2016-04-24 11:45:53 +0000
 external-url: http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/
 hash: 55dbd9094b4eed23296904c2464011f6
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: abovethecrowd.com
-    path: /2016/04/21/on-the-road-to-recap/
+year: 2016
+month: 04
+scheme: http
+host: abovethecrowd.com
+path: /2016/04/21/on-the-road-to-recap/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Manage your Wordpress source code with Git"
 date: 2008-04-28 03:45:15 +0000
 external-url: http://whereslou.com/2008/04/27/manage-your-wordpress-source-code-with-git
 hash: dd863bd28c7aad361ae4d06421871e43
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: whereslou.com
-    path: /2008/04/27/manage-your-wordpress-source-code-with-git
+year: 2008
+month: 04
+scheme: http
+host: whereslou.com
+path: /2008/04/27/manage-your-wordpress-source-code-with-git
 
 ---
 

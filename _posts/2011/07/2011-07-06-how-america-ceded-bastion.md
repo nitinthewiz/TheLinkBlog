@@ -3,13 +3,11 @@ title: "How America Ceded Capitalism’s Bastion to German Boerse"
 date: 2011-07-06 15:01:01 +0000
 external-url: http://www.bloomberg.com/news/2011-07-06/how-america-ceded-capitalism-s-bastion-to-germans.html
 hash: 93aba5576a9301fe55ac34a77d071553
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.bloomberg.com
-    path: /news/2011-07-06/how-america-ceded-capitalism-s-bastion-to-germans.html
+year: 2011
+month: 07
+scheme: http
+host: www.bloomberg.com
+path: /news/2011-07-06/how-america-ceded-capitalism-s-bastion-to-germans.html
 
 ---
 

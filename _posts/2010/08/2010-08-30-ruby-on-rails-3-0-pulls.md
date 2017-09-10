@@ -3,13 +3,11 @@ title: "Ruby on Rails 3.0 pulls into station with Merb in tow"
 date: 2010-08-30 17:10:00 +0000
 external-url: http://arstechnica.com/information-technology/2010/08/ruby-on-rails-30-released/
 hash: 03c7787598e459c014c7b4d56efcfd8c
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /information-technology/2010/08/ruby-on-rails-30-released/
+year: 2010
+month: 08
+scheme: http
+host: arstechnica.com
+path: /information-technology/2010/08/ruby-on-rails-30-released/
 
 ---
 

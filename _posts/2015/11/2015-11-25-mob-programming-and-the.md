@@ -3,13 +3,11 @@ title: "Mob Programming, and the importance of fun at work"
 date: 2015-11-25 12:50:02 +0000
 external-url: http://codurance.com/2014/07/15/mob-programming/
 hash: b2e673b2272f0961021e3ee9187b9f13
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: codurance.com
-    path: /2014/07/15/mob-programming/
+year: 2015
+month: 11
+scheme: http
+host: codurance.com
+path: /2014/07/15/mob-programming/
 
 ---
 

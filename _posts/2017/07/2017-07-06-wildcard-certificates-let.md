@@ -3,13 +3,11 @@ title: "Wildcard Certificates Coming January 2018 —Let's Encrypt"
 date: 2017-07-06 18:41:08 +0000
 external-url: https://letsencrypt.org//2017/07/06/wildcard-certificates-coming-jan-2018.html
 hash: 41e86ea74506034c8245a7206744c79e
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: letsencrypt.org
-    path: //2017/07/06/wildcard-certificates-coming-jan-2018.html
+year: 2017
+month: 07
+scheme: https
+host: letsencrypt.org
+path: //2017/07/06/wildcard-certificates-coming-jan-2018.html
 
 ---
 

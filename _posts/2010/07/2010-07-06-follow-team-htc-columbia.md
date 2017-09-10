@@ -3,13 +3,11 @@ title: "Follow Team HTC-Columbia on Google Maps"
 date: 2010-07-06 14:38:00 +0000
 external-url: http://googleblog.blogspot.com/2010/07/follow-team-htc-columbia-on-google-maps.html
 hash: 6c5b695d5780d3335d56188d08675336
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2010/07/follow-team-htc-columbia-on-google-maps.html
+year: 2010
+month: 07
+scheme: http
+host: googleblog.blogspot.com
+path: /2010/07/follow-team-htc-columbia-on-google-maps.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Winternetizer, Web 2.snow - zachstronaut"
 date: 2011-12-15 20:50:41 +0000
 external-url: http://www.zachstronaut.com/projects/winternetizer/
 hash: e903f7b84a107bf0ebfae7365d31c036
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.zachstronaut.com
-    path: /projects/winternetizer/
+year: 2011
+month: 12
+scheme: http
+host: www.zachstronaut.com
+path: /projects/winternetizer/
 
 ---
 

@@ -3,13 +3,11 @@ title: "New Verification Integration With Asynch"
 date: 2010-08-24 03:35:00 +0000
 external-url: http://analytics.blogspot.com/2010/08/new-verification-integration-with.html
 hash: e5eaa40449cdc93320cfc1a070e935df
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: analytics.blogspot.com
-    path: /2010/08/new-verification-integration-with.html
+year: 2010
+month: 08
+scheme: http
+host: analytics.blogspot.com
+path: /2010/08/new-verification-integration-with.html
 
 ---
 

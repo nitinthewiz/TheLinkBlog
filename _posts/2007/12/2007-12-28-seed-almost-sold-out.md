@@ -3,13 +3,11 @@ title: "SEED almost sold out"
 date: 2007-12-28 15:13:00 +0000
 external-url: http://signalvnoise.com/posts/751-seed-almost-sold-out
 hash: 1fbaf9dc389433cefebe075a6bc61138
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/751-seed-almost-sold-out
+year: 2007
+month: 12
+scheme: http
+host: signalvnoise.com
+path: /posts/751-seed-almost-sold-out
 
 ---
 

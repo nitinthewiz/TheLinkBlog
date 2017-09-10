@@ -3,13 +3,11 @@ title: "Text of Steve Jobs' Commencement address (2005)"
 date: 2011-10-07 15:08:50 +0000
 external-url: http://news.stanford.edu/news/2005/june15/jobs-061505.html
 hash: 149de6f092f2783955ca5236abfeeb89
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: news.stanford.edu
-    path: /news/2005/june15/jobs-061505.html
+year: 2011
+month: 10
+scheme: http
+host: news.stanford.edu
+path: /news/2005/june15/jobs-061505.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "A taste of what's coming in Rails 2.1"
 date: 2008-04-02 00:28:00 +0000
 external-url: http://weblog.rubyonrails.org/2008/4/1/a-taste-of-what-s-coming-in-rails-2-1/
 hash: 40c2a8a0284164b27b1157af55dd08db
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: weblog.rubyonrails.org
-    path: /2008/4/1/a-taste-of-what-s-coming-in-rails-2-1/
+year: 2008
+month: 04
+scheme: http
+host: weblog.rubyonrails.org
+path: /2008/4/1/a-taste-of-what-s-coming-in-rails-2-1/
 
 ---
 

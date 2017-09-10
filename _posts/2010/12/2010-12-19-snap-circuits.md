@@ -3,13 +3,11 @@ title: "Snap Circuits"
 date: 2010-12-19 18:35:50 +0000
 external-url: http://www.elenco.com/product/productlist/snap_circuits&amp;reg;=OTM=
 hash: b05e04c52c1b1109bc636c3c25b49fd9
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.elenco.com
-    path: /product/productlist/snap_circuits&amp
+year: 2010
+month: 12
+scheme: http
+host: www.elenco.com
+path: /product/productlist/snap_circuits&amp
 
 ---
 

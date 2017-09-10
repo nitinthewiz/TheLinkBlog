@@ -3,13 +3,11 @@ title: "Timeline of Brisket on Big Green Egg on Vimeo"
 date: 2008-08-09 01:16:30 +0000
 external-url: http://www.vimeo.com/1494533
 hash: fcf0c3a832640131a4e4023cbcb0ffae
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: www.vimeo.com
-    path: /1494533
+year: 2008
+month: 08
+scheme: http
+host: www.vimeo.com
+path: /1494533
 
 ---
 

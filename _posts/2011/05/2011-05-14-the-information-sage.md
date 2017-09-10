@@ -3,13 +3,11 @@ title: "The Information Sage"
 date: 2011-05-14 00:59:11 +0000
 external-url: http://www.washingtonmonthly.com/magazine/mayjune_2011/features/the_information_sage029137.php
 hash: 765e46098f6b93fae41ce16437aa5e62
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.washingtonmonthly.com
-    path: /magazine/mayjune_2011/features/the_information_sage029137.php
+year: 2011
+month: 05
+scheme: http
+host: www.washingtonmonthly.com
+path: /magazine/mayjune_2011/features/the_information_sage029137.php
 
 ---
 

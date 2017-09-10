@@ -3,13 +3,11 @@ title: "Identifying Unused AWS Resources to Control Costs - LogicMonitor"
 date: 2015-09-29 20:05:42 +0000
 external-url: http://www.logicmonitor.com/blog/2015/09/29/identifying-unused-aws-resources-to-control-costs/
 hash: 53690947f70322655fef34b3c757f605
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: www.logicmonitor.com
-    path: /blog/2015/09/29/identifying-unused-aws-resources-to-control-costs/
+year: 2015
+month: 09
+scheme: http
+host: www.logicmonitor.com
+path: /blog/2015/09/29/identifying-unused-aws-resources-to-control-costs/
 
 ---
 

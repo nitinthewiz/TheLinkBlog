@@ -3,13 +3,11 @@ title: "Origin Meals"
 date: 2017-02-25 15:17:48 +0000
 external-url: https://www.originmeals.com/
 hash: 31722d341bb692f134b889b80c83f205
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: www.originmeals.com
-    path: /
+year: 2017
+month: 02
+scheme: https
+host: www.originmeals.com
+path: /
 
 ---
 

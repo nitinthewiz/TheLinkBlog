@@ -3,13 +3,11 @@ title: "MacServerIP"
 date: 2007-02-16 04:30:19 +0000
 external-url: http://www.cyansoftware.com/MacServerIP.htm
 hash: ab8de8fc188131505a199d69be7a55c8
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.cyansoftware.com
-    path: /MacServerIP.htm
+year: 2007
+month: 02
+scheme: http
+host: www.cyansoftware.com
+path: /MacServerIP.htm
 
 ---
 

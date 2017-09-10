@@ -3,13 +3,11 @@ title: "How the Amazon SQS FIFO API Works | AWS Developer Blog"
 date: 2016-11-28 12:45:45 +0000
 external-url: https://aws.amazon.com/blogs/developer/how-the-amazon-sqs-fifo-api-works/
 hash: 0017119962ed567d925f634ac0bc551d
-annum:
-    year: 2016
-    month: 11
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/developer/how-the-amazon-sqs-fifo-api-works/
+year: 2016
+month: 11
+scheme: https
+host: aws.amazon.com
+path: /blogs/developer/how-the-amazon-sqs-fifo-api-works/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Sarah Palin Explains Paul Revere’s Midnight Ride"
 date: 2011-06-04 02:18:30 +0000
 external-url: http://gawker.com/5808271/sarah-palin-explains-paul-reveres-midnight-ride
 hash: 9ea04e228d9c5c6fe1cfdfaf444aa1bc
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: gawker.com
-    path: /5808271/sarah-palin-explains-paul-reveres-midnight-ride
+year: 2011
+month: 06
+scheme: http
+host: gawker.com
+path: /5808271/sarah-palin-explains-paul-reveres-midnight-ride
 
 ---
 

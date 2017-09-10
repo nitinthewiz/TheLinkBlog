@@ -3,13 +3,11 @@ title: "The rise and fall of the Gopher protocol | MinnPost"
 date: 2016-08-14 23:15:27 +0000
 external-url: https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol
 hash: dc64f30951a9553b1bc2de7b85f1fc7d
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: www.minnpost.com
-    path: /business/2016/08/rise-and-fall-gopher-protocol
+year: 2016
+month: 08
+scheme: https
+host: www.minnpost.com
+path: /business/2016/08/rise-and-fall-gopher-protocol
 
 ---
 

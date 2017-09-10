@@ -3,13 +3,11 @@ title: "Put Your Cognitive Surplus to Good Use"
 date: 2010-07-20 05:20:18 +0000
 external-url: http://lifehacker.com/5590940/put-your-cognitive-surplus-to-good-use
 hash: 91d579cf3f29efb5cda3fa2474a96558
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5590940/put-your-cognitive-surplus-to-good-use
+year: 2010
+month: 07
+scheme: http
+host: lifehacker.com
+path: /5590940/put-your-cognitive-surplus-to-good-use
 
 ---
 

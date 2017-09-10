@@ -3,13 +3,11 @@ title: "The James Damore Google manifesto is a toxic exercise in generalization 
 date: 2017-08-11 13:15:58 +0000
 external-url: https://withoutbullshit.com/blog/james-damore-google-manifesto-toxic-exercise-generalization
 hash: 4a68dc44c61917c2c47571e2fa6038ab
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: withoutbullshit.com
-    path: /blog/james-damore-google-manifesto-toxic-exercise-generalization
+year: 2017
+month: 08
+scheme: https
+host: withoutbullshit.com
+path: /blog/james-damore-google-manifesto-toxic-exercise-generalization
 
 ---
 

@@ -3,13 +3,11 @@ title: "MultiMarkdown"
 date: 2011-05-22 18:21:21 +0000
 external-url: http://fletcherpenney.net/multimarkdown/
 hash: 541ebb4c081b5e67404236a0795146a3
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: fletcherpenney.net
-    path: /multimarkdown/
+year: 2011
+month: 05
+scheme: http
+host: fletcherpenney.net
+path: /multimarkdown/
 
 ---
 

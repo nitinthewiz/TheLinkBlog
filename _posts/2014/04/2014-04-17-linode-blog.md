@@ -3,13 +3,11 @@ title: "Linode Blog"
 date: 2014-04-17 14:21:08 +0000
 external-url: https://blog.linode.com/2014/04/17/linode-cloud-ssds-double-ram-much-more/
 hash: c7719877c14cc227c7bb74e87d90d5b6
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: https
-    host: blog.linode.com
-    path: /2014/04/17/linode-cloud-ssds-double-ram-much-more/
+year: 2014
+month: 04
+scheme: https
+host: blog.linode.com
+path: /2014/04/17/linode-cloud-ssds-double-ram-much-more/
 
 ---
 

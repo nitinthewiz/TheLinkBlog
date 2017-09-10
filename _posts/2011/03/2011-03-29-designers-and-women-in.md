@@ -3,13 +3,11 @@ title: "Designers and women in open source"
 date: 2011-03-29 22:55:16 +0000
 external-url: http://vi.to/designers-and-women-in-open-source.html
 hash: 938d1c5f7475f2834048f8b329dfbacf
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: vi.to
-    path: /designers-and-women-in-open-source.html
+year: 2011
+month: 03
+scheme: http
+host: vi.to
+path: /designers-and-women-in-open-source.html
 
 ---
 

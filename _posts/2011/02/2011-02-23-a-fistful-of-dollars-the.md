@@ -3,13 +3,11 @@ title: "A Fistful Of Dollars: The Story of a Kiva.org Loan"
 date: 2011-02-23 01:20:30 +0000
 external-url: http://vimeo.com/2769845
 hash: f6370eae26ec5b250cf958365e642da0
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /2769845
+year: 2011
+month: 02
+scheme: http
+host: vimeo.com
+path: /2769845
 
 ---
 

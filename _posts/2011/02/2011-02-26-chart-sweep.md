@@ -3,13 +3,11 @@ title: "Chart Sweep"
 date: 2011-02-26 02:15:03 +0000
 external-url: http://evolution-control.com/index.php/experiments/mp3s/104-chart-sweep
 hash: 0f429f3d27412356dd07c4d990db466e
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: evolution-control.com
-    path: /index.php/experiments/mp3s/104-chart-sweep
+year: 2011
+month: 02
+scheme: http
+host: evolution-control.com
+path: /index.php/experiments/mp3s/104-chart-sweep
 
 ---
 

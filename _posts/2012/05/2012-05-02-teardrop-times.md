@@ -3,13 +3,11 @@ title: "Teardrop Times"
 date: 2012-05-02 14:03:25 +0000
 external-url: http://teardroptimes.wordpress.com/
 hash: 658a0aa24989dbc3ade81052ae402aa7
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: teardroptimes.wordpress.com
-    path: /
+year: 2012
+month: 05
+scheme: http
+host: teardroptimes.wordpress.com
+path: /
 
 ---
 

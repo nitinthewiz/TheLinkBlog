@@ -3,13 +3,11 @@ title: "Smoothie Charts"
 date: 2012-03-19 18:08:32 +0000
 external-url: http://smoothiecharts.org/
 hash: 0dca0be0681ac0d89bb9ffa7d08e0f39
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: smoothiecharts.org
-    path: /
+year: 2012
+month: 03
+scheme: http
+host: smoothiecharts.org
+path: /
 
 ---
 

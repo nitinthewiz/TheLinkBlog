@@ -3,13 +3,11 @@ title: "Or Maybe Not..."
 date: 2011-10-06 16:57:00 +0000
 external-url: http://wesolver.blogspot.com/2011/10/or-maybe-not.html
 hash: a22cd3762bb7e45459a1b558631bfdca
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: wesolver.blogspot.com
-    path: /2011/10/or-maybe-not.html
+year: 2011
+month: 10
+scheme: http
+host: wesolver.blogspot.com
+path: /2011/10/or-maybe-not.html
 
 ---
 

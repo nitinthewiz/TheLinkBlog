@@ -3,13 +3,11 @@ title: "Michael Wolfe's answer to Engineering Management: Why are software devel
 date: 2012-02-01 13:39:20 +0000
 external-url: http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe
 hash: 0970d1f11286fea155dc19978102f34c
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.quora.com
-    path: /Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe
+year: 2012
+month: 02
+scheme: http
+host: www.quora.com
+path: /Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe
 
 ---
 

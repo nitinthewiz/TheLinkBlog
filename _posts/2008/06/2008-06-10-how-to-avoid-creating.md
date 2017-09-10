@@ -3,13 +3,11 @@ title: "How To Avoid Creating These Terrible Favicons"
 date: 2008-06-10 06:38:24 +0000
 external-url: http://performancing.co.uk/
 hash: ac598792c2158c6a2dc44347a13bd1af
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: performancing.co.uk
-    path: /
+year: 2008
+month: 06
+scheme: http
+host: performancing.co.uk
+path: /
 
 ---
 

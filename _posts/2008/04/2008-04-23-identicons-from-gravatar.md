@@ -3,13 +3,11 @@ title: "Identicons from Gravatar"
 date: 2008-04-23 05:34:04 +0000
 external-url: http://ma.tt/2008/04/identicons-from-gravatar/
 hash: bb150338e05b00b8aff845236b38b77a
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2008/04/identicons-from-gravatar/
+year: 2008
+month: 04
+scheme: http
+host: ma.tt
+path: /2008/04/identicons-from-gravatar/
 
 ---
 

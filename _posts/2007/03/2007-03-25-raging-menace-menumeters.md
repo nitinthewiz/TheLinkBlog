@@ -3,13 +3,11 @@ title: "Raging Menace - MenuMeters"
 date: 2007-03-25 19:09:34 +0000
 external-url: http://www.ragingmenace.com/software/menumeters/
 hash: 92b51bba76acd562aed35c4ff46c7092
-annum:
-    year: 2007
-    month: 03
-url-parts:
-    scheme: http
-    host: www.ragingmenace.com
-    path: /software/menumeters/
+year: 2007
+month: 03
+scheme: http
+host: www.ragingmenace.com
+path: /software/menumeters/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Central Park of the web"
 date: 2016-06-18 14:33:15 +0000
 external-url: http://scripting.com/2016/06/18/1324.html
 hash: 787708cba3d1f32920bb061ed52c0b7b
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /2016/06/18/1324.html
+year: 2016
+month: 06
+scheme: http
+host: scripting.com
+path: /2016/06/18/1324.html
 
 ---
 

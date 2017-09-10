@@ -3,13 +3,11 @@ title: "AWS Price Reduction 42 - EC2, S3, RDS, ElastiCache, and Elastic MapReduc
 date: 2014-03-27 20:46:56 +0000
 external-url: http://aws.typepad.com/aws/2014/03/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce.html
 hash: f13f29c757b129dab92422d0f6af2e92
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: aws.typepad.com
-    path: /aws/2014/03/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce.html
+year: 2014
+month: 03
+scheme: http
+host: aws.typepad.com
+path: /aws/2014/03/aws-price-reduction-42-ec2-s3-rds-elasticache-and-elastic-mapreduce.html
 
 ---
 

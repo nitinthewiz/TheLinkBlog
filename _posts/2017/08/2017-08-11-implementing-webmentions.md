@@ -3,13 +3,11 @@ title: "Implementing Webmentions"
 date: 2017-08-11 13:12:43 +0000
 external-url: https://allinthehead.com/retro/378/implementing-webmentions
 hash: 500b6d80a5966d28ed5a5e14a51745c5
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: allinthehead.com
-    path: /retro/378/implementing-webmentions
+year: 2017
+month: 08
+scheme: https
+host: allinthehead.com
+path: /retro/378/implementing-webmentions
 
 ---
 

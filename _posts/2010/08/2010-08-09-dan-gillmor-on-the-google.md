@@ -3,13 +3,11 @@ title: "Dan Gillmor on the Google-Verizon Net Neutrality Plan"
 date: 2010-08-09 23:36:15 +0000
 external-url: http://www.salon.com/technology/dan_gillmor/2010/08/09/google_verizon_deal
 hash: 9efdf5cbc7155353070702ac335a0d57
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.salon.com
-    path: /technology/dan_gillmor/2010/08/09/google_verizon_deal
+year: 2010
+month: 08
+scheme: http
+host: www.salon.com
+path: /technology/dan_gillmor/2010/08/09/google_verizon_deal
 
 ---
 

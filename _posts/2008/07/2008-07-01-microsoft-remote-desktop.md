@@ -3,13 +3,11 @@ title: "Microsoft Remote Desktop Connection 2 now available"
 date: 2008-07-01 22:30:00 +0000
 external-url: http://www.tuaw.com/2008/07/01/microsoft-remote-desktop-connection-2-now-available/
 hash: b767f38850e8935de391ecb0612e06fa
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/07/01/microsoft-remote-desktop-connection-2-now-available/
+year: 2008
+month: 07
+scheme: http
+host: www.tuaw.com
+path: /2008/07/01/microsoft-remote-desktop-connection-2-now-available/
 
 ---
 

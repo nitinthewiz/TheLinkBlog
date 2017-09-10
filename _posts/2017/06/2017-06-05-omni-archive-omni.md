@@ -3,13 +3,11 @@ title: "Omni Archive | OMNI"
 date: 2017-06-05 00:14:11 +0000
 external-url: https://omni.media/channel/omni-archive
 hash: cb16be870d85319dd1f47b4c33823c45
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: omni.media
-    path: /channel/omni-archive
+year: 2017
+month: 06
+scheme: https
+host: omni.media
+path: /channel/omni-archive
 
 ---
 

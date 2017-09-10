@@ -3,13 +3,11 @@ title: "The New Backpack's First 24 Hours"
 date: 2008-02-20 16:03:00 +0000
 external-url: http://signalvnoise.com/posts/863-the-new-backpacks-first-24-hours
 hash: 30880f4214c7c94d11d2f912099ee95a
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/863-the-new-backpacks-first-24-hours
+year: 2008
+month: 02
+scheme: http
+host: signalvnoise.com
+path: /posts/863-the-new-backpacks-first-24-hours
 
 ---
 

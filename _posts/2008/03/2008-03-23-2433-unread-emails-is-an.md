@@ -3,13 +3,11 @@ title: "2,433 Unread Emails Is An Opportunity For An Entrepreneur"
 date: 2008-03-23 22:23:21 +0000
 external-url: http://techcrunch.com/2008/03/23/a-crisis-in-communication/
 hash: 0e1427428fa2ea264a7ceb37b608d70e
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/03/23/a-crisis-in-communication/
+year: 2008
+month: 03
+scheme: http
+host: techcrunch.com
+path: /2008/03/23/a-crisis-in-communication/
 
 ---
 

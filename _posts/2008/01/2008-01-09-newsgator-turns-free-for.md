@@ -3,13 +3,11 @@ title: "Newsgator turns NetNewsWire free for everyone"
 date: 2008-01-09 20:00:00 +0000
 external-url: http://www.tuaw.com/2008/01/09/netgator-turns-netnewswire-free-for-everyone/
 hash: 078334a7a933362fc9e5bb2cea825e1c
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/01/09/netgator-turns-netnewswire-free-for-everyone/
+year: 2008
+month: 01
+scheme: http
+host: www.tuaw.com
+path: /2008/01/09/netgator-turns-netnewswire-free-for-everyone/
 
 ---
 

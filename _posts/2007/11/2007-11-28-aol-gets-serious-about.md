@@ -3,13 +3,11 @@ title: "AOL Gets Serious About Finance"
 date: 2007-11-28 05:16:13 +0000
 external-url: http://techcrunch.com/2007/11/27/aol-gets-serious-about-finance/
 hash: 738ecd64332849b722909541d2a8dbfe
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/11/27/aol-gets-serious-about-finance/
+year: 2007
+month: 11
+scheme: http
+host: techcrunch.com
+path: /2007/11/27/aol-gets-serious-about-finance/
 
 ---
 

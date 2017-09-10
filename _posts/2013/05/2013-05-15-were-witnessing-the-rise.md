@@ -3,13 +3,11 @@ title: "Were witnessing the rise of the graph in big data"
 date: 2013-05-15 17:18:20 +0000
 external-url: http://gigaom.com/2013/05/14/were-witnessing-the-rise-of-the-graph-in-big-data/
 hash: 81b01f1a87340b5d47af9816e45de37e
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2013/05/14/were-witnessing-the-rise-of-the-graph-in-big-data/
+year: 2013
+month: 05
+scheme: http
+host: gigaom.com
+path: /2013/05/14/were-witnessing-the-rise-of-the-graph-in-big-data/
 
 ---
 

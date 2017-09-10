@@ -3,13 +3,11 @@ title: "GitHub Flow"
 date: 2011-09-02 02:41:09 +0000
 external-url: http://scottchacon.com/2011/08/31/github-flow.html
 hash: 5669f09e770c1bae1f4a84a753eff260
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: scottchacon.com
-    path: /2011/08/31/github-flow.html
+year: 2011
+month: 09
+scheme: http
+host: scottchacon.com
+path: /2011/08/31/github-flow.html
 
 ---
 

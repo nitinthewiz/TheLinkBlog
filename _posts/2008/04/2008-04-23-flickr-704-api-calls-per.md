@@ -3,13 +3,11 @@ title: "Flickr: 704 API Calls per Second"
 date: 2008-04-23 06:10:41 +0000
 external-url: http://www.programmableweb.com/2008/04/23/flickr-704-api-calls-per-second
 hash: b57bffd234414ff9cdc5f3211c0cb3dc
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.programmableweb.com
-    path: /2008/04/23/flickr-704-api-calls-per-second
+year: 2008
+month: 04
+scheme: http
+host: www.programmableweb.com
+path: /2008/04/23/flickr-704-api-calls-per-second
 
 ---
 

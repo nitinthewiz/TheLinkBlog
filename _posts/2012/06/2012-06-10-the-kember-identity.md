@@ -3,13 +3,11 @@ title: "The Kember Identity"
 date: 2012-06-10 21:22:29 +0000
 external-url: http://elliottkember.com/kember_identity.html
 hash: 675d4130e1df0d48450fe0eda5b1d45a
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: elliottkember.com
-    path: /kember_identity.html
+year: 2012
+month: 06
+scheme: http
+host: elliottkember.com
+path: /kember_identity.html
 
 ---
 

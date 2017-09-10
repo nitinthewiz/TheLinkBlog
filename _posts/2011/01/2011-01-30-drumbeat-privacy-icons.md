@@ -3,13 +3,11 @@ title: "Drumbeat - Privacy Icons"
 date: 2011-01-30 17:39:41 +0000
 external-url: https://www.drumbeat.org/en-US/
 hash: dbd7623e1da190513bc4756e54007c9d
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: www.drumbeat.org
-    path: /en-US/
+year: 2011
+month: 01
+scheme: https
+host: www.drumbeat.org
+path: /en-US/
 
 ---
 

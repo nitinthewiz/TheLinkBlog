@@ -3,13 +3,11 @@ title: "Here Comes Trouble: The Thin Edge of SIP"
 date: 2007-12-28 11:30:35 +0000
 external-url: http://gigaom.com/2007/12/28/here-comes-trouble-the-thin-edge-of-sip/
 hash: 95ba276adf4baef0fded9d1f929d6923
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/28/here-comes-trouble-the-thin-edge-of-sip/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/28/here-comes-trouble-the-thin-edge-of-sip/
 
 ---
 

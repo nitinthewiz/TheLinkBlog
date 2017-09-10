@@ -3,13 +3,11 @@ title: "Corporate Surveillance in Everyday Life"
 date: 2017-06-10 19:31:25 +0000
 external-url: http://crackedlabs.org/en/corporate-surveillance
 hash: 6ae92dda7d7caa908a5565da6d9a98dc
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: http
-    host: crackedlabs.org
-    path: /en/corporate-surveillance
+year: 2017
+month: 06
+scheme: http
+host: crackedlabs.org
+path: /en/corporate-surveillance
 
 ---
 

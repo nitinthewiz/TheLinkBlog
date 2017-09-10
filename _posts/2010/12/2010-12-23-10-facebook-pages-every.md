@@ -3,13 +3,11 @@ title: "10 Facebook Pages Every Advertiser Should Follow"
 date: 2010-12-23 16:28:33 +0000
 external-url: http://allfacebook.com/10-facebook-pages-every-advertiser-should-follow_b26784
 hash: e7cbd3801a882d0e6b59b731ac8b54cd
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /10-facebook-pages-every-advertiser-should-follow_b26784
+year: 2010
+month: 12
+scheme: http
+host: allfacebook.com
+path: /10-facebook-pages-every-advertiser-should-follow_b26784
 
 ---
 

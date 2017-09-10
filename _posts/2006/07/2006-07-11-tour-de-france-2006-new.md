@@ -3,13 +3,11 @@ title: "Tour de France 2006 - New York Times"
 date: 2006-07-11 00:47:47 +0000
 external-url: http://www.nytimes.com/packages/html/sports/tdf2006/index.html
 hash: 0ecc422d525e75b32d11d0f6fe2184ee
-annum:
-    year: 2006
-    month: 07
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /packages/html/sports/tdf2006/index.html
+year: 2006
+month: 07
+scheme: http
+host: www.nytimes.com
+path: /packages/html/sports/tdf2006/index.html
 
 ---
 

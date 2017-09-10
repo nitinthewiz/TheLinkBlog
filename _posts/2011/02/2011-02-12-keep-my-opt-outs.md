@@ -3,13 +3,11 @@ title: "Keep My Opt-Outs"
 date: 2011-02-12 16:33:08 +0000
 external-url: https://chrome.google.com/webstore/detail/keep-my-opt-outs/hhnjdplhmcnkiecampfdgfjilccfpfoe
 hash: 4900aac0ef5b2f85b586bc06e3e210a5
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: https
-    host: chrome.google.com
-    path: /webstore/detail/keep-my-opt-outs/hhnjdplhmcnkiecampfdgfjilccfpfoe
+year: 2011
+month: 02
+scheme: https
+host: chrome.google.com
+path: /webstore/detail/keep-my-opt-outs/hhnjdplhmcnkiecampfdgfjilccfpfoe
 
 ---
 

@@ -3,13 +3,11 @@ title: "Facebook is broken | TechCrunch"
 date: 2017-06-07 02:44:51 +0000
 external-url: https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/
 hash: 44c56df112d5222dd9d338af85a431bf
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: techcrunch.com
-    path: /2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/
+year: 2017
+month: 06
+scheme: https
+host: techcrunch.com
+path: /2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/
 
 ---
 

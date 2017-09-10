@@ -3,13 +3,11 @@ title: "Screenshots from developers"
 date: 2015-10-30 04:09:38 +0000
 external-url: https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/
 hash: 5c4a3717d0be2f0cfecf22c5c8750458
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: anders.unix.se
-    path: /2015/10/28/screenshots-from-developers--unix-people-2002/
+year: 2015
+month: 10
+scheme: https
+host: anders.unix.se
+path: /2015/10/28/screenshots-from-developers--unix-people-2002/
 
 ---
 

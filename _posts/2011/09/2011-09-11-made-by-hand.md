@@ -3,13 +3,11 @@ title: "Made By Hand"
 date: 2011-09-11 13:54:06 +0000
 external-url: http://thisismadebyhand.com/
 hash: f0a098a3fb5a27c827118b84139a6c4e
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: thisismadebyhand.com
-    path: /
+year: 2011
+month: 09
+scheme: http
+host: thisismadebyhand.com
+path: /
 
 ---
 

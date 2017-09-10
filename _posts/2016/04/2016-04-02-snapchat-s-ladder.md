@@ -3,13 +3,11 @@ title: "Snapchat's Ladder"
 date: 2016-04-02 09:04:10 +0000
 external-url: https://stratechery.com/2016/snapchats-ladder/
 hash: 97358a2da0558a910fa025b4cfb5ad41
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: stratechery.com
-    path: /2016/snapchats-ladder/
+year: 2016
+month: 04
+scheme: https
+host: stratechery.com
+path: /2016/snapchats-ladder/
 
 ---
 

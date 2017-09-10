@@ -3,13 +3,11 @@ title: "The Art of Computer Typography"
 date: 2012-05-28 02:22:23 +0000
 external-url: http://signalvnoise.com/posts/3183-the-art-of-computer-typography
 hash: 48849cbea68d22f0c0892545eca70d09
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/3183-the-art-of-computer-typography
+year: 2012
+month: 05
+scheme: http
+host: signalvnoise.com
+path: /posts/3183-the-art-of-computer-typography
 
 ---
 

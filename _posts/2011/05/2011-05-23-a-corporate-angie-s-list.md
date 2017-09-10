@@ -3,13 +3,11 @@ title: "A corporate 'Angie's List' could help small firms  | StarTribune.com"
 date: 2011-05-23 02:52:01 +0000
 external-url: http://www.startribune.com/business/122373499.html
 hash: 288890c69121baec647d6eebbeaae8cb
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/122373499.html
+year: 2011
+month: 05
+scheme: http
+host: www.startribune.com
+path: /business/122373499.html
 
 ---
 

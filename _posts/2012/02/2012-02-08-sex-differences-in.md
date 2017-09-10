@@ -3,13 +3,11 @@ title: "Sex differences in intimate relationships"
 date: 2012-02-08 05:09:34 +0000
 external-url: http://arxiv.org/pdf/1201.5722v1.pdf
 hash: 739c4bb20d9529857fdeacf17f277a3f
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: arxiv.org
-    path: /pdf/1201.5722v1.pdf
+year: 2012
+month: 02
+scheme: http
+host: arxiv.org
+path: /pdf/1201.5722v1.pdf
 
 ---
 

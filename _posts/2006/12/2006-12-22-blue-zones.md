@@ -3,13 +3,11 @@ title: "Blue Zones"
 date: 2006-12-22 01:56:50 +0000
 external-url: http://www.bluezones.com/
 hash: 759011a2eb6c30f5b55384e2900ed32f
-annum:
-    year: 2006
-    month: 12
-url-parts:
-    scheme: http
-    host: www.bluezones.com
-    path: /
+year: 2006
+month: 12
+scheme: http
+host: www.bluezones.com
+path: /
 
 ---
 

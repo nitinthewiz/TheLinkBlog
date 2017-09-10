@@ -3,13 +3,11 @@ title: "Sex Trafficking of Americans: The Girls Next Door"
 date: 2011-05-25 00:35:38 +0000
 external-url: http://www.vanityfair.com/politics/features/2011/05/sex-trafficking-201105
 hash: 70b5d850e8dcc8aa059b9d9ed91e342c
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.vanityfair.com
-    path: /politics/features/2011/05/sex-trafficking-201105
+year: 2011
+month: 05
+scheme: http
+host: www.vanityfair.com
+path: /politics/features/2011/05/sex-trafficking-201105
 
 ---
 

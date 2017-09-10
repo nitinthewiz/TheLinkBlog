@@ -3,13 +3,11 @@ title: "Facebook Marketing Platform 8thBridge Graphite Gets New Features"
 date: 2012-10-11 16:48:03 +0000
 external-url: http://allfacebook.com/8thbridge-graphite-new-features_b101773
 hash: dd3d2df8142d735a0f95c73d33f7aeab
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /8thbridge-graphite-new-features_b101773
+year: 2012
+month: 10
+scheme: http
+host: allfacebook.com
+path: /8thbridge-graphite-new-features_b101773
 
 ---
 

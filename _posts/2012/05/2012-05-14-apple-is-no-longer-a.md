@@ -3,13 +3,11 @@ title: "Apple is no longer a premium brand"
 date: 2012-05-14 21:29:11 +0000
 external-url: https://garrick.typerighter.com/0d87589f88c544654ae329c8e6fe88f2.html
 hash: e380bd5af4389319dec32056ab7a4cd1
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: https
-    host: garrick.typerighter.com
-    path: /0d87589f88c544654ae329c8e6fe88f2.html
+year: 2012
+month: 05
+scheme: https
+host: garrick.typerighter.com
+path: /0d87589f88c544654ae329c8e6fe88f2.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Improving communication across distributed teams | Twitter Blogs"
 date: 2015-09-06 18:49:10 +0000
 external-url: https://blog.twitter.com/2015/improving-communication-across-distributed-teams
 hash: d36358f39dc354d420fe3b5798f8148f
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: blog.twitter.com
-    path: /2015/improving-communication-across-distributed-teams
+year: 2015
+month: 09
+scheme: https
+host: blog.twitter.com
+path: /2015/improving-communication-across-distributed-teams
 
 ---
 

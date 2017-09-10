@@ -3,13 +3,11 @@ title: "The MacPorts Project"
 date: 2008-05-25 03:06:19 +0000
 external-url: http://www.macports.org/
 hash: e0aba9e83c421c378ea196cdbe332600
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.macports.org
-    path: /
+year: 2008
+month: 05
+scheme: http
+host: www.macports.org
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "#BlackLivesMatter puts the Catholic vision of higher education to the te
 date: 2016-07-08 00:01:47 +0000
 external-url: http://americamagazine.org/issue/catholic-universities-and-blacklivesmatter
 hash: 6663676197410ecde52d38b1ff9e496c
-annum:
-    year: 2016
-    month: 07
-url-parts:
-    scheme: http
-    host: americamagazine.org
-    path: /issue/catholic-universities-and-blacklivesmatter
+year: 2016
+month: 07
+scheme: http
+host: americamagazine.org
+path: /issue/catholic-universities-and-blacklivesmatter
 
 ---
 

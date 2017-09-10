@@ -3,13 +3,11 @@ title: "Michael Lewis: Obamas Way"
 date: 2012-10-04 02:17:05 +0000
 external-url: http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama
 hash: 352ed3eb5eb67fc63a7fcf1975eb5942
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.vanityfair.com
-    path: /politics/2012/10/michael-lewis-profile-barack-obama
+year: 2012
+month: 10
+scheme: http
+host: www.vanityfair.com
+path: /politics/2012/10/michael-lewis-profile-barack-obama
 
 ---
 

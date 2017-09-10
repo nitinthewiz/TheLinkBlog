@@ -3,13 +3,11 @@ title: "Dvorak's nutrition and wellness guide for people passionate about health
 date: 2012-02-10 02:24:37 +0000
 external-url: http://annadvorak.com/
 hash: b596b9cb3aa1f6726a960329d29bbab8
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: annadvorak.com
-    path: /
+year: 2012
+month: 02
+scheme: http
+host: annadvorak.com
+path: /
 
 ---
 

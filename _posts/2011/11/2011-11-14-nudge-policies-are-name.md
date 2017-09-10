@@ -3,13 +3,11 @@ title: "'Nudge' policies are another name for coercion"
 date: 2011-11-14 05:06:36 +0000
 external-url: http://www.newscientist.com/article/mg21228376.500-nudge-policies-are-another-name-for-coercion.html
 hash: 68cd779918776d32967c85a79798e3d0
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: www.newscientist.com
-    path: /article/mg21228376.500-nudge-policies-are-another-name-for-coercion.html
+year: 2011
+month: 11
+scheme: http
+host: www.newscientist.com
+path: /article/mg21228376.500-nudge-policies-are-another-name-for-coercion.html
 
 ---
 

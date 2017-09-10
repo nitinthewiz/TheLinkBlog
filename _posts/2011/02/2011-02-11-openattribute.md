@@ -3,13 +3,11 @@ title: "OpenAttribute"
 date: 2011-02-11 06:08:00 +0000
 external-url: http://openattribute.com/
 hash: 226f3843a9e99300170313537480dcd2
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: openattribute.com
-    path: /
+year: 2011
+month: 02
+scheme: http
+host: openattribute.com
+path: /
 
 ---
 

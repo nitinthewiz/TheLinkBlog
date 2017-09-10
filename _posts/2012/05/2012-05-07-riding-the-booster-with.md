@@ -3,15 +3,13 @@ title: "Riding the Booster with enhanced sound"
 date: 2012-05-07 16:11:44 +0000
 external-url: http://www.youtube.com/watch?v=2aCOyOvOw5c
 hash: ccdb3a0615969a0975b69cab3edfdbff
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.youtube.com
-    path: /watch
-    query:
-        v: "2aCOyOvOw5c"
+year: 2012
+month: 05
+scheme: http
+host: www.youtube.com
+path: /watch
+query:
+    v: "2aCOyOvOw5c"
 ---
 
 Very cool video, amazing perspective on space shuttle lift off.

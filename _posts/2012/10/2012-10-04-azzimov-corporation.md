@@ -3,13 +3,11 @@ title: "Azzimov Corporation"
 date: 2012-10-04 17:46:44 +0000
 external-url: http://www.azzimovcorporation.com/
 hash: 32c205cca9e3c576ff1e68c1110eab0e
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.azzimovcorporation.com
-    path: /
+year: 2012
+month: 10
+scheme: http
+host: www.azzimovcorporation.com
+path: /
 
 ---
 

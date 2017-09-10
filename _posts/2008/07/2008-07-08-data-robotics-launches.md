@@ -3,13 +3,11 @@ title: "DATA ROBOTICS LAUNCHES SECOND GENERATION DROBO"
 date: 2008-07-08 16:45:26 +0000
 external-url: http://photoshopnews.com/2008/07/08/data-robotics-launches-second-generation-drobo/
 hash: 19ee3affc22391e1b5f9de802e79b09a
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: photoshopnews.com
-    path: /2008/07/08/data-robotics-launches-second-generation-drobo/
+year: 2008
+month: 07
+scheme: http
+host: photoshopnews.com
+path: /2008/07/08/data-robotics-launches-second-generation-drobo/
 
 ---
 

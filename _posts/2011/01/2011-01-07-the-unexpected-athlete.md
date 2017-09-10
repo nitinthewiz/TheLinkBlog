@@ -3,13 +3,11 @@ title: "The unexpected athlete"
 date: 2011-01-07 16:50:01 +0000
 external-url: http://kottke.org/11/01/the-unexpected-athlete
 hash: 8e52773f35969e174faaa890ec963c58
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /11/01/the-unexpected-athlete
+year: 2011
+month: 01
+scheme: http
+host: kottke.org
+path: /11/01/the-unexpected-athlete
 
 ---
 

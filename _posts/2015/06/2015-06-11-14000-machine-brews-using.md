@@ -3,13 +3,11 @@ title: "$14,000 Machine Brews Coffee Using Algorithms | WIRED"
 date: 2015-06-11 12:01:18 +0000
 external-url: http://www.wired.com/2015/06/14000-machine-brews-coffee-using-algorithms/
 hash: 92f9686205a26325a8350cb1cce7a73d
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2015/06/14000-machine-brews-coffee-using-algorithms/
+year: 2015
+month: 06
+scheme: http
+host: www.wired.com
+path: /2015/06/14000-machine-brews-coffee-using-algorithms/
 
 ---
 

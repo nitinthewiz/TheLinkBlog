@@ -3,13 +3,11 @@ title: "This Sucks!…Try This: Only In America, Volume 2"
 date: 2007-10-09 17:07:40 +0000
 external-url: http://jasonhare.com/2006/09/18/this-suckstry-this-only-in-america-volume-2/
 hash: 60db9d22b2b0c4813bc8762840e1444d
-annum:
-    year: 2007
-    month: 10
-url-parts:
-    scheme: http
-    host: jasonhare.com
-    path: /2006/09/18/this-suckstry-this-only-in-america-volume-2/
+year: 2007
+month: 10
+scheme: http
+host: jasonhare.com
+path: /2006/09/18/this-suckstry-this-only-in-america-volume-2/
 
 ---
 

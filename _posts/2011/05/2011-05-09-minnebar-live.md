@@ -3,13 +3,11 @@ title: "Minnebar Live"
 date: 2011-05-09 06:54:41 +0000
 external-url: http://theuptake.org/live-video-post/minnebar-live/
 hash: 7d58edff9ee3c73ac32150e0513588f0
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: theuptake.org
-    path: /live-video-post/minnebar-live/
+year: 2011
+month: 05
+scheme: http
+host: theuptake.org
+path: /live-video-post/minnebar-live/
 
 ---
 

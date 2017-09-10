@@ -3,13 +3,11 @@ title: "10k slices and more"
 date: 2008-06-02 20:11:00 +0000
 external-url: http://www.slicehost.com/articles/2008/6/2/10k-slices-and-more
 hash: 133bea000dce3e6abb88a5f15da964de
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.slicehost.com
-    path: /articles/2008/6/2/10k-slices-and-more
+year: 2008
+month: 06
+scheme: http
+host: www.slicehost.com
+path: /articles/2008/6/2/10k-slices-and-more
 
 ---
 

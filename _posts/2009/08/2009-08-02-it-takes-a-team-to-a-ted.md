@@ -3,13 +3,11 @@ title: "It Takes a Team to Photograph a TED"
 date: 2009-08-02 04:08:29 +0000
 external-url: http://blog.duncandavidson.com/2009/07/it-takes-a-team-to-photograph.html
 hash: c43a056d5d2380da77a21530e9c43d77
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: blog.duncandavidson.com
-    path: /2009/07/it-takes-a-team-to-photograph.html
+year: 2009
+month: 08
+scheme: http
+host: blog.duncandavidson.com
+path: /2009/07/it-takes-a-team-to-photograph.html
 
 ---
 

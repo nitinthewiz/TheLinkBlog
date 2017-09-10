@@ -3,13 +3,11 @@ title: "Zsh is your friend"
 date: 2012-02-03 21:44:25 +0000
 external-url: http://mikegrouchy.com/blog/zsh-is-your-friend.html
 hash: 1903657be0983317b1223cf5b8161464
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: mikegrouchy.com
-    path: /blog/zsh-is-your-friend.html
+year: 2012
+month: 02
+scheme: http
+host: mikegrouchy.com
+path: /blog/zsh-is-your-friend.html
 
 ---
 

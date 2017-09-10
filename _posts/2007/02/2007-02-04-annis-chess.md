@@ -3,13 +3,11 @@ title: "Annis Chess"
 date: 2007-02-04 01:10:04 +0000
 external-url: http://home.fnal.gov/~annis/chess/
 hash: fbec1abfe59dfaeadd3a75dc55fb34eb
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: home.fnal.gov
-    path: /~annis/chess/
+year: 2007
+month: 02
+scheme: http
+host: home.fnal.gov
+path: /~annis/chess/
 
 ---
 

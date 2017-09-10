@@ -3,13 +3,11 @@ title: "iPad Pro Review: A New Canvas"
 date: 2015-11-12 02:43:50 +0000
 external-url: https://www.macstories.net/stories/ipad-pro-review/
 hash: ff7256a9e24afd142acdb35b470bd300
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /stories/ipad-pro-review/
+year: 2015
+month: 11
+scheme: https
+host: www.macstories.net
+path: /stories/ipad-pro-review/
 
 ---
 

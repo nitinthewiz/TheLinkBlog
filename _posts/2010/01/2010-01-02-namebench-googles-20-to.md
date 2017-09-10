@@ -3,13 +3,11 @@ title: "Namebench: Google’s 20% Project To Find The Fastest DNS Server"
 date: 2010-01-02 05:21:58 +0000
 external-url: http://techcrunch.com/2010/01/01/namebench-google-dns/
 hash: c86ced7e4525d66f015fb3c8814c6dae
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2010/01/01/namebench-google-dns/
+year: 2010
+month: 01
+scheme: http
+host: techcrunch.com
+path: /2010/01/01/namebench-google-dns/
 
 ---
 

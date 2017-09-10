@@ -3,13 +3,11 @@ title: "Translating Eliot Spitzer Resignation Speech"
 date: 2008-03-12 18:59:13 +0000
 external-url: http://www.opticality.com/blog/2008/03/12/translating-eliot-spitzer-resignation-speech/
 hash: ce2e9cf3535730f4a249700322bda70b
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.opticality.com
-    path: /blog/2008/03/12/translating-eliot-spitzer-resignation-speech/
+year: 2008
+month: 03
+scheme: http
+host: www.opticality.com
+path: /blog/2008/03/12/translating-eliot-spitzer-resignation-speech/
 
 ---
 

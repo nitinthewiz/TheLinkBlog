@@ -3,13 +3,11 @@ title: "Ryan Singel: Twitters Response to WikiLeaks Subpoena Should Be the Indus
 date: 2011-01-11 20:43:52 +0000
 external-url: http://www.wired.com/2011/01/twitter/
 hash: c91981b432cbdae6845604d5faf1ef7c
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.wired.com
-    path: /2011/01/twitter/
+year: 2011
+month: 01
+scheme: http
+host: www.wired.com
+path: /2011/01/twitter/
 
 ---
 

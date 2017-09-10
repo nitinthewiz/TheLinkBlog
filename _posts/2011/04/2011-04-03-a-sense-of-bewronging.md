@@ -3,13 +3,11 @@ title: "A sense of bewronging"
 date: 2011-04-03 10:52:59 +0000
 external-url: http://blogs.law.harvard.edu/doc/2011/04/02/a-sense-of-bewronging/
 hash: 2438acb687d1b5c99fb37bfc3b74f551
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: blogs.law.harvard.edu
-    path: /doc/2011/04/02/a-sense-of-bewronging/
+year: 2011
+month: 04
+scheme: http
+host: blogs.law.harvard.edu
+path: /doc/2011/04/02/a-sense-of-bewronging/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Highlight - Show & Tell"
 date: 2007-07-25 05:16:17 +0000
 external-url: http://krugazor.free.fr/software/highlight/
 hash: 2642878f362ac4be893bf17204ce6429
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: krugazor.free.fr
-    path: /software/highlight/
+year: 2007
+month: 07
+scheme: http
+host: krugazor.free.fr
+path: /software/highlight/
 
 ---
 

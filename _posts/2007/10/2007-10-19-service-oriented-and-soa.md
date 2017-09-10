@@ -3,13 +3,11 @@ title: "Service Oriented Architecture and Mainframe SOA"
 date: 2007-10-19 16:32:19 +0000
 external-url: http://www.rocketsoftware.com/brand/rocket-datashadow
 hash: d626e6329a815d344c48b33896a8258e
-annum:
-    year: 2007
-    month: 10
-url-parts:
-    scheme: http
-    host: www.rocketsoftware.com
-    path: /brand/rocket-datashadow
+year: 2007
+month: 10
+scheme: http
+host: www.rocketsoftware.com
+path: /brand/rocket-datashadow
 
 ---
 

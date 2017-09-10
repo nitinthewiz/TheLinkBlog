@@ -3,13 +3,11 @@ title: "GraphDive"
 date: 2012-10-04 17:49:04 +0000
 external-url: http://www.sociablelabs.com/
 hash: 21736aa9fd83ee1d1dd2db1d0b2871f3
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.sociablelabs.com
-    path: /
+year: 2012
+month: 10
+scheme: http
+host: www.sociablelabs.com
+path: /
 
 ---
 

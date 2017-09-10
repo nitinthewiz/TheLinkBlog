@@ -3,13 +3,11 @@ title: "Fast-growing Code42 software could be a public company within a couple y
 date: 2017-09-03 03:38:45 +0000
 external-url: http://www.startribune.com/fast-growing-code42-software-could-be-a-public-company-within-a-couple-years/441783683/
 hash: 24c08a3f162cebd031f3d3d053bdac18
-annum:
-    year: 2017
-    month: 09
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /fast-growing-code42-software-could-be-a-public-company-within-a-couple-years/441783683/
+year: 2017
+month: 09
+scheme: http
+host: www.startribune.com
+path: /fast-growing-code42-software-could-be-a-public-company-within-a-couple-years/441783683/
 
 ---
 

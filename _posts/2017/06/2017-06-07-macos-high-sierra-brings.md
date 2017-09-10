@@ -3,13 +3,11 @@ title: "macOS High Sierra Brings Current Improvements, Future Developments – M
 date: 2017-06-07 17:19:30 +0000
 external-url: https://www.macstories.net/news/macos-high-sierra-brings-current-improvement-future-developments/
 hash: 3c86edb054a45532722856d5fd31fa65
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /news/macos-high-sierra-brings-current-improvement-future-developments/
+year: 2017
+month: 06
+scheme: https
+host: www.macstories.net
+path: /news/macos-high-sierra-brings-current-improvement-future-developments/
 
 ---
 

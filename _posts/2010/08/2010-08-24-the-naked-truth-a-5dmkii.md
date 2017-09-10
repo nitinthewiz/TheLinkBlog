@@ -3,13 +3,11 @@ title: "The naked truth – a 5DmkII report by AFP’s Ed Jones on the first 3D 
 date: 2010-08-24 22:47:02 +0000
 external-url: http://www.dslrnewsshooter.com/2010/08/24/the-naked-truth-a-5dmkii-report-by-afps-ed-jones-on-the-first-3d-porn-movie/
 hash: f4240734980fe3c568de7a7fae5d741a
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.dslrnewsshooter.com
-    path: /2010/08/24/the-naked-truth-a-5dmkii-report-by-afps-ed-jones-on-the-first-3d-porn-movie/
+year: 2010
+month: 08
+scheme: http
+host: www.dslrnewsshooter.com
+path: /2010/08/24/the-naked-truth-a-5dmkii-report-by-afps-ed-jones-on-the-first-3d-porn-movie/
 
 ---
 

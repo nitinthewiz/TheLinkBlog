@@ -3,13 +3,11 @@ title: "Jume: Getting Things Done With Your Friends"
 date: 2010-11-02 14:00:43 +0000
 external-url: http://gigaom.com/2010/11/02/242340/
 hash: 130d7d231f5b641b94c7e2836a4cdb99
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/11/02/242340/
+year: 2010
+month: 11
+scheme: http
+host: gigaom.com
+path: /2010/11/02/242340/
 
 ---
 

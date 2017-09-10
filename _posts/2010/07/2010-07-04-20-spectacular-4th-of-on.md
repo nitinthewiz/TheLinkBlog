@@ -3,13 +3,11 @@ title: "20 Spectacular 4th of July Fireworks Displays on Flickr"
 date: 2010-07-04 21:39:06 +0000
 external-url: http://mashable.com/2010/07/04/4th-of-july-2010-fireworks/
 hash: 750bd8cd66aa9c2d6af85e384fbfb14a
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: mashable.com
-    path: /2010/07/04/4th-of-july-2010-fireworks/
+year: 2010
+month: 07
+scheme: http
+host: mashable.com
+path: /2010/07/04/4th-of-july-2010-fireworks/
 
 ---
 

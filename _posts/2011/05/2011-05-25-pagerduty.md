@@ -3,13 +3,11 @@ title: "PagerDuty"
 date: 2011-05-25 22:19:56 +0000
 external-url: http://www.pagerduty.com/tour/mobile-alert-response
 hash: cd77875dac047e8267ff5b80dc8c5ebe
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.pagerduty.com
-    path: /tour/mobile-alert-response
+year: 2011
+month: 05
+scheme: http
+host: www.pagerduty.com
+path: /tour/mobile-alert-response
 
 ---
 

@@ -3,13 +3,11 @@ title: "Not your father's IBM"
 date: 2012-04-24 13:09:25 +0000
 external-url: http://www.cringely.com/2012/04/18/not-your-fathers-ibm/
 hash: 4c5f7d2fad9720d1021a36bff3542846
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.cringely.com
-    path: /2012/04/18/not-your-fathers-ibm/
+year: 2012
+month: 04
+scheme: http
+host: www.cringely.com
+path: /2012/04/18/not-your-fathers-ibm/
 
 ---
 

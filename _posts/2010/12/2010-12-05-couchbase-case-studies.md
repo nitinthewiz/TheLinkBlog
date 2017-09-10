@@ -3,13 +3,11 @@ title: "Couchbase Case Studies"
 date: 2010-12-05 12:21:18 +0000
 external-url: http://www.couchbase.com/customer-stories
 hash: 94715221f346dced1579401e8cafa7a6
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.couchbase.com
-    path: /customer-stories
+year: 2010
+month: 12
+scheme: http
+host: www.couchbase.com
+path: /customer-stories
 
 ---
 

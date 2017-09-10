@@ -3,13 +3,11 @@ title: "The Internet is going to get a whole lot slower next week"
 date: 2008-01-08 10:43:22 +0000
 external-url: http://9to5mac.com/2008/01/08/the-internet-is-going-to-get-a-whole-lot-slower-next-week/
 hash: ad1c65026397e81da05166bb1ce819bb
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2008/01/08/the-internet-is-going-to-get-a-whole-lot-slower-next-week/
+year: 2008
+month: 01
+scheme: http
+host: 9to5mac.com
+path: /2008/01/08/the-internet-is-going-to-get-a-whole-lot-slower-next-week/
 
 ---
 

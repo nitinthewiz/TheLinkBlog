@@ -3,13 +3,11 @@ title: "Gregorys Coffee"
 date: 2014-12-12 12:27:13 +0000
 external-url: http://www.gregoryscoffee.com/
 hash: 6dd515f72b2522526a97af163e0eaa92
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: www.gregoryscoffee.com
-    path: /
+year: 2014
+month: 12
+scheme: http
+host: www.gregoryscoffee.com
+path: /
 
 ---
 

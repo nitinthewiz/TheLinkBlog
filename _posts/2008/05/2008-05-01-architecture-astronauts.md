@@ -3,13 +3,11 @@ title: "Architecture astronauts take over"
 date: 2008-05-01 05:01:57 +0000
 external-url: http://www.joelonsoftware.com/items/2008/05/01.html
 hash: e5c51a4d53f5d4e77805a6a1a77a7379
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.joelonsoftware.com
-    path: /items/2008/05/01.html
+year: 2008
+month: 05
+scheme: http
+host: www.joelonsoftware.com
+path: /items/2008/05/01.html
 
 ---
 

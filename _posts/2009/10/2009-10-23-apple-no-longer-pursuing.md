@@ -3,13 +3,11 @@ title: "Apple no longer pursuing ZFS as the next generation file system for OS X
 date: 2009-10-23 23:48:50 +0000
 external-url: http://9to5mac.com/ZFS-apple-sun-oracle
 hash: 9943aeae49be08825e432d2ba7b8a32c
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /ZFS-apple-sun-oracle
+year: 2009
+month: 10
+scheme: http
+host: 9to5mac.com
+path: /ZFS-apple-sun-oracle
 
 ---
 

@@ -3,13 +3,11 @@ title: "Google+ Introductory Videos"
 date: 2011-06-28 20:26:46 +0000
 external-url: http://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html
 hash: 0af930d559eb7ad1d00a88caebd2ecb5
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2011/06/introducing-google-project-real-life.html
+year: 2011
+month: 06
+scheme: http
+host: googleblog.blogspot.com
+path: /2011/06/introducing-google-project-real-life.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "SPS Commerce acquires Leadtec | SPS Commerce"
 date: 2014-10-14 03:30:17 +0000
 external-url: http://www.spscommerce.com/leadtec/
 hash: 7e5531046c1954b019038f97eb6d3f28
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.spscommerce.com
-    path: /leadtec/
+year: 2014
+month: 10
+scheme: http
+host: www.spscommerce.com
+path: /leadtec/
 
 ---
 

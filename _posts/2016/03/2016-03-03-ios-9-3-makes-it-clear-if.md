@@ -3,13 +3,11 @@ title: "iOS 9.3 makes it abundantly clear if your work iPhone is being tracked b
 date: 2016-03-03 01:06:29 +0000
 external-url: http://9to5mac.com/2016/03/02/ios-9-3-makes-it-abundantly-clear-if-your-work-iphone-is-being-tracked-by-your-employer/
 hash: d2f27f5d29665a3efb455cc98e5adc3b
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2016/03/02/ios-9-3-makes-it-abundantly-clear-if-your-work-iphone-is-being-tracked-by-your-employer/
+year: 2016
+month: 03
+scheme: http
+host: 9to5mac.com
+path: /2016/03/02/ios-9-3-makes-it-abundantly-clear-if-your-work-iphone-is-being-tracked-by-your-employer/
 
 ---
 

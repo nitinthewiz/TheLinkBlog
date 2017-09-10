@@ -3,13 +3,11 @@ title: "5 Ideas for Using Lightroom’s Smart Collections"
 date: 2010-10-06 04:00:05 +0000
 external-url: http://lightroomkillertips.com/2010/5-ideas-for-using-lightrooms-smart-collections/
 hash: 57692b34da0ea15f1be13163999e2cfb
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: lightroomkillertips.com
-    path: /2010/5-ideas-for-using-lightrooms-smart-collections/
+year: 2010
+month: 10
+scheme: http
+host: lightroomkillertips.com
+path: /2010/5-ideas-for-using-lightrooms-smart-collections/
 
 ---
 

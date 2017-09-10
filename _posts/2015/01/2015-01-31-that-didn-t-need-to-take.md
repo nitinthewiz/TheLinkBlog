@@ -3,13 +3,11 @@ title: "That Didn't Need To Take An Hour - Feld Thoughts"
 date: 2015-01-31 02:54:10 +0000
 external-url: http://www.feld.com/archives/2015/01/didnt-need-take-hour.html
 hash: 700d343cd2bfafa8ff8ab7cfbe68065c
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: http
-    host: www.feld.com
-    path: /archives/2015/01/didnt-need-take-hour.html
+year: 2015
+month: 01
+scheme: http
+host: www.feld.com
+path: /archives/2015/01/didnt-need-take-hour.html
 
 ---
 

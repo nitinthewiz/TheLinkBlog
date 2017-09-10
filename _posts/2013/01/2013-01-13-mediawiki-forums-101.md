@@ -3,14 +3,12 @@ title: "MediaWiki Forums - $wgRestrictionLevels 101"
 date: 2013-01-13 20:43:13 +0000
 external-url: http://ww2.mwusers.com/forums/content.php?129-wgRestrictionLevels-101
 hash: 2aaf2ebe3a15e790039bec62533a716b
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: ww2.mwusers.com
-    path: /forums/content.php
-    query:
+year: 2013
+month: 01
+scheme: http
+host: ww2.mwusers.com
+path: /forums/content.php
+query:
 ---
 
 Very helpful post to explain how to setup new protection levels inside MediaWiki.

@@ -3,13 +3,11 @@ title: "iPad Diaries: Advanced File Management and Research with DEVONthink – 
 date: 2017-02-18 13:30:58 +0000
 external-url: https://www.macstories.net/ios/ipad-diaries-advanced-file-management-and-research-with-devonthink/
 hash: 1e91b07ae115db255c093e0335de8521
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: www.macstories.net
-    path: /ios/ipad-diaries-advanced-file-management-and-research-with-devonthink/
+year: 2017
+month: 02
+scheme: https
+host: www.macstories.net
+path: /ios/ipad-diaries-advanced-file-management-and-research-with-devonthink/
 
 ---
 

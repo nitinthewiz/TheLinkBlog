@@ -3,13 +3,11 @@ title: "May/June update"
 date: 2008-06-19 17:01:45 +0000
 external-url: http://www.hillsidelounge.com/wp/2008/06/20/mayjune-update
 hash: 3dffb9e382c60ba0d0c898e956c6f103
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.hillsidelounge.com
-    path: /wp/2008/06/20/mayjune-update
+year: 2008
+month: 06
+scheme: http
+host: www.hillsidelounge.com
+path: /wp/2008/06/20/mayjune-update
 
 ---
 

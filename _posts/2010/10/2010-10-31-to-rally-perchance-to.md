@@ -3,13 +3,11 @@ title: "To rally, perchance to dream"
 date: 2010-10-31 01:15:12 +0000
 external-url: http://www.buzzmachine.com/2010/10/30/to-rally-perchance-to-dream/
 hash: 908505ce83d6133a2557d246a001c332
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.buzzmachine.com
-    path: /2010/10/30/to-rally-perchance-to-dream/
+year: 2010
+month: 10
+scheme: http
+host: www.buzzmachine.com
+path: /2010/10/30/to-rally-perchance-to-dream/
 
 ---
 

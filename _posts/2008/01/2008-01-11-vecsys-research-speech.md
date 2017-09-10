@@ -3,13 +3,11 @@ title: "Vecsys-Research, speech processing, speech recognition home page"
 date: 2008-01-11 16:37:59 +0000
 external-url: http://www.vocapia.com/
 hash: 04b947995e1500ee668723bdb348f2a1
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.vocapia.com
-    path: /
+year: 2008
+month: 01
+scheme: http
+host: www.vocapia.com
+path: /
 
 ---
 

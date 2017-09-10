@@ -3,13 +3,11 @@ title: "The New Favicon • The Breakroom"
 date: 2015-12-22 11:42:31 +0000
 external-url: http://blog.iconfactory.com/2015/11/the-new-favicon/
 hash: b85ee921b339a74682afaabf6543a486
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.iconfactory.com
-    path: /2015/11/the-new-favicon/
+year: 2015
+month: 12
+scheme: http
+host: blog.iconfactory.com
+path: /2015/11/the-new-favicon/
 
 ---
 

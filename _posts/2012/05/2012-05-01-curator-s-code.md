@@ -3,13 +3,11 @@ title: "Curator's code"
 date: 2012-05-01 16:38:20 +0000
 external-url: http://www.curatorscode.org/
 hash: 901f7a3856ee3e7c4cf5ae9b0890d2e6
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.curatorscode.org
-    path: /
+year: 2012
+month: 05
+scheme: http
+host: www.curatorscode.org
+path: /
 
 ---
 

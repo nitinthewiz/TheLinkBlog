@@ -3,13 +3,11 @@ title: "1Password Leaks Your Data"
 date: 2015-10-20 03:15:26 +0000
 external-url: http://myers.io/2015/10/22/1password-leaks-your-data/
 hash: c281d8f9e58234a8ad7d32234da1db00
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: myers.io
-    path: /2015/10/22/1password-leaks-your-data/
+year: 2015
+month: 10
+scheme: http
+host: myers.io
+path: /2015/10/22/1password-leaks-your-data/
 
 ---
 

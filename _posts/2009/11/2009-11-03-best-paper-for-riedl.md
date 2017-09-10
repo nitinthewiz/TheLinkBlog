@@ -3,15 +3,13 @@ title: "Best Paper for Riedl"
 date: 2009-11-03 21:35:13 +0000
 external-url: http://www.cs.umn.edu/news/news.php?id=911
 hash: ffe87af9729cdd06aa90f5cd0917591e
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: www.cs.umn.edu
-    path: /news/news.php
-    query:
-        id: "911"
+year: 2009
+month: 11
+scheme: http
+host: www.cs.umn.edu
+path: /news/news.php
+query:
+    id: "911"
 ---
 
 

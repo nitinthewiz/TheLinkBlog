@@ -3,13 +3,11 @@ title: "Busy to Death – Barry O'Reilly"
 date: 2017-07-06 02:39:20 +0000
 external-url: https://barryoreilly.com/2017/05/31/busy-to-death/amp/
 hash: 218011e2cafe4e101ec274b34489ef0d
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: barryoreilly.com
-    path: /2017/05/31/busy-to-death/amp/
+year: 2017
+month: 07
+scheme: https
+host: barryoreilly.com
+path: /2017/05/31/busy-to-death/amp/
 
 ---
 

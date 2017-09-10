@@ -3,13 +3,11 @@ title: "George Jardine on the Lightroom 3 Develop Module"
 date: 2010-11-16 21:47:38 +0000
 external-url: http://blogs.adobe.com/lightroomjournal/2010/11/george-jardine-on-the-lightroom-3-develop-module.html
 hash: c340fee7e343da957c708fca0a5972bd
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: blogs.adobe.com
-    path: /lightroomjournal/2010/11/george-jardine-on-the-lightroom-3-develop-module.html
+year: 2010
+month: 11
+scheme: http
+host: blogs.adobe.com
+path: /lightroomjournal/2010/11/george-jardine-on-the-lightroom-3-develop-module.html
 
 ---
 

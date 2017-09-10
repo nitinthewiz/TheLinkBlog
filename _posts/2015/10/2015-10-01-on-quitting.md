@@ -3,13 +3,11 @@ title: "On Quitting:"
 date: 2015-10-01 11:01:37 +0000
 external-url: http://lindaeliasen.com/version-history/2015/9/28/on-quitting
 hash: 0b735b5a50466b6a7446c842ffc27226
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: lindaeliasen.com
-    path: /version-history/2015/9/28/on-quitting
+year: 2015
+month: 10
+scheme: http
+host: lindaeliasen.com
+path: /version-history/2015/9/28/on-quitting
 
 ---
 

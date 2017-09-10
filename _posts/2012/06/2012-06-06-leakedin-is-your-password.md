@@ -3,13 +3,11 @@ title: "LeakedIn: Is your password safe?"
 date: 2012-06-06 23:20:01 +0000
 external-url: http://leakedin.org//
 hash: 99fdfaa56b93ac2f69996f757ee0d9be
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: leakedin.org
-    path: //
+year: 2012
+month: 06
+scheme: http
+host: leakedin.org
+path: //
 
 ---
 

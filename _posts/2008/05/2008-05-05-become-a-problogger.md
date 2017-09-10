@@ -3,13 +3,11 @@ title: "Become a ProBlogger Premium Sponsor"
 date: 2008-05-05 12:15:41 +0000
 external-url: http://www.problogger.net/archives/2008/05/05/become-a-problogger-premium-sponsor/
 hash: 4cafdd85804055278820ca1472c3fd4e
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.problogger.net
-    path: /archives/2008/05/05/become-a-problogger-premium-sponsor/
+year: 2008
+month: 05
+scheme: http
+host: www.problogger.net
+path: /archives/2008/05/05/become-a-problogger-premium-sponsor/
 
 ---
 

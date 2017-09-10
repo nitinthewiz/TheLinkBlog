@@ -3,13 +3,11 @@ title: "The Cactus Blossoms"
 date: 2012-12-09 13:44:02 +0000
 external-url: http://www.thecactusblossoms.com/
 hash: 4d03203ff41d1aa45dc5f92f9c2b6acb
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.thecactusblossoms.com
-    path: /
+year: 2012
+month: 12
+scheme: http
+host: www.thecactusblossoms.com
+path: /
 
 ---
 

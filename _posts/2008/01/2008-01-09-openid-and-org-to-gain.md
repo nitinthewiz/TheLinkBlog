@@ -3,13 +3,11 @@ title: "OpenID and DataPortability.org to gain major support"
 date: 2008-01-09 21:24:00 +0000
 external-url: http://arstechnica.com/information-technology/2008/01/openid-and-dataportability-to-gain-major-support/
 hash: 22b65fc97858e6f321d27acf8d981a73
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /information-technology/2008/01/openid-and-dataportability-to-gain-major-support/
+year: 2008
+month: 01
+scheme: http
+host: arstechnica.com
+path: /information-technology/2008/01/openid-and-dataportability-to-gain-major-support/
 
 ---
 

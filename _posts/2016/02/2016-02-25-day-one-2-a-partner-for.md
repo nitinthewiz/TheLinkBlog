@@ -3,13 +3,11 @@ title: "Day One 2: A Partner for Lifetime"
 date: 2016-02-25 14:31:30 +0000
 external-url: http://macbucket.com/day-one-2-journal-app-review/
 hash: 83ad92c1d34b95ec533b25fa42112f17
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: macbucket.com
-    path: /day-one-2-journal-app-review/
+year: 2016
+month: 02
+scheme: http
+host: macbucket.com
+path: /day-one-2-journal-app-review/
 
 ---
 

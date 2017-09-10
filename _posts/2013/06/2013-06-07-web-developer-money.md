@@ -3,13 +3,11 @@ title: "Web developer money"
 date: 2013-06-07 04:04:14 +0000
 external-url: http://aeon.co/magazine/living-together/james-somers-web-developer-money/
 hash: fef0e2a4f9b2ef4a4a02b3de81661457
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: aeon.co
-    path: /magazine/living-together/james-somers-web-developer-money/
+year: 2013
+month: 06
+scheme: http
+host: aeon.co
+path: /magazine/living-together/james-somers-web-developer-money/
 
 ---
 

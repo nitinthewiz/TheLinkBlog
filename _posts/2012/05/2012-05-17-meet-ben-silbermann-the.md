@@ -3,13 +3,11 @@ title: "Meet Ben Silbermann, The Brilliant Young Co-Founder Of Pinterest"
 date: 2012-05-17 16:31:54 +0000
 external-url: http://www.businessinsider.com/pinterest-2012-3
 hash: bd98e7c85b23db834a20205316c36b85
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /pinterest-2012-3
+year: 2012
+month: 05
+scheme: http
+host: www.businessinsider.com
+path: /pinterest-2012-3
 
 ---
 

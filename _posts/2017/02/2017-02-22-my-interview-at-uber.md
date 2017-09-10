@@ -3,13 +3,11 @@ title: "My Interview at Uber"
 date: 2017-02-22 12:48:54 +0000
 external-url: https://www.alexkras.com/my-interview-at-uber/
 hash: 5ffd7e5f0fa257f4eb05f56ad9ef0f19
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: www.alexkras.com
-    path: /my-interview-at-uber/
+year: 2017
+month: 02
+scheme: https
+host: www.alexkras.com
+path: /my-interview-at-uber/
 
 ---
 

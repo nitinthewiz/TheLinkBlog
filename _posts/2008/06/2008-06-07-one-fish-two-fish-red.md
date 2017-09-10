@@ -3,13 +3,11 @@ title: "One Fish, Two Fish, Red Fish, Blue Fish"
 date: 2008-06-07 01:48:00 +0000
 external-url: http://googleblog.blogspot.com/2008/06/one-fish-two-fish-red-fish-blue-fish.html
 hash: 25db0a15104cffda349d5e5c9d368274
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2008/06/one-fish-two-fish-red-fish-blue-fish.html
+year: 2008
+month: 06
+scheme: http
+host: googleblog.blogspot.com
+path: /2008/06/one-fish-two-fish-red-fish-blue-fish.html
 
 ---
 

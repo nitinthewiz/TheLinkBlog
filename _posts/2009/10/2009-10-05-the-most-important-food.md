@@ -3,13 +3,11 @@ title: "The Most Important Food Article in Years"
 date: 2009-10-05 17:24:54 +0000
 external-url: http://blogs.mspmag.com/chowandagain/2009/10/the-most-import.html
 hash: 57f898ff0218506c3a97ae2bcb38ac44
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: blogs.mspmag.com
-    path: /chowandagain/2009/10/the-most-import.html
+year: 2009
+month: 10
+scheme: http
+host: blogs.mspmag.com
+path: /chowandagain/2009/10/the-most-import.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Introducing Tent - the decentralized social web"
 date: 2012-08-23 02:42:34 +0000
 external-url: https://tent.io/blog/introducing-tent
 hash: a58a4cf58b7a246b031c6a410b9f4167
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: https
-    host: tent.io
-    path: /blog/introducing-tent
+year: 2012
+month: 08
+scheme: https
+host: tent.io
+path: /blog/introducing-tent
 
 ---
 

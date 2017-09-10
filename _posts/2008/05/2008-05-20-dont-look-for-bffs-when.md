@@ -3,13 +3,11 @@ title: "Dont Look For BFFs When Pitching For VC Dollars"
 date: 2008-05-20 07:59:58 +0000
 external-url: http://techcrunch.com/2008/05/19/dont-look-for-bffs-when-pitching-for-vc-dollars/
 hash: d40386933e56a6e50af368c96d1dd823
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/05/19/dont-look-for-bffs-when-pitching-for-vc-dollars/
+year: 2008
+month: 05
+scheme: http
+host: techcrunch.com
+path: /2008/05/19/dont-look-for-bffs-when-pitching-for-vc-dollars/
 
 ---
 

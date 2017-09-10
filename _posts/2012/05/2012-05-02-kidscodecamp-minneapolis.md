@@ -3,13 +3,11 @@ title: "KidsCodeCamp Minneapolis"
 date: 2012-05-02 20:24:27 +0000
 external-url: https://www.eventbrite.com/e/kidscodecamp-minneapolis-tickets-3042364795
 hash: f181fa1df093901869b38bd6ce21aa10
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: https
-    host: www.eventbrite.com
-    path: /e/kidscodecamp-minneapolis-tickets-3042364795
+year: 2012
+month: 05
+scheme: https
+host: www.eventbrite.com
+path: /e/kidscodecamp-minneapolis-tickets-3042364795
 
 ---
 

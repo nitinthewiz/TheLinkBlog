@@ -3,13 +3,11 @@ title: "Need a Baby Name? Nymbler Has A Hunch About What You Might Like."
 date: 2007-12-28 16:45:29 +0000
 external-url: http://techcrunch.com/2007/12/28/need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like/
 hash: 995154b9169a2b62c400c586e2c4661a
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/28/need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/28/need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like/
 
 ---
 

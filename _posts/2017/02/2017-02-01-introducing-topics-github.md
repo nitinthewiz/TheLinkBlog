@@ -3,13 +3,11 @@ title: "Introducing Topics · GitHub"
 date: 2017-02-01 04:47:43 +0000
 external-url: https://github.com/blog/2309-introducing-topics
 hash: fcc29dc680ee8b14b852d74b65513dda
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/2309-introducing-topics
+year: 2017
+month: 02
+scheme: https
+host: github.com
+path: /blog/2309-introducing-topics
 
 ---
 

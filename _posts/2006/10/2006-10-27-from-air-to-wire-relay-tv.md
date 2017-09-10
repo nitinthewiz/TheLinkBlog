@@ -3,13 +3,11 @@ title: "From Air to Wire : Relay Digital TV Channels to Your LAN — UCTV"
 date: 2006-10-27 03:44:05 +0000
 external-url: http://uctv.canberra.edu.au/clug/
 hash: db4580b3a8a5235123f447344c296f28
-annum:
-    year: 2006
-    month: 10
-url-parts:
-    scheme: http
-    host: uctv.canberra.edu.au
-    path: /clug/
+year: 2006
+month: 10
+scheme: http
+host: uctv.canberra.edu.au
+path: /clug/
 
 ---
 

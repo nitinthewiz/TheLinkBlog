@@ -3,13 +3,11 @@ title: "“If you don’t like it, don’t use it. It’s that simple.” ORLY? 
 date: 2011-08-15 00:05:14 +0000
 external-url: http://socialmediacollective.org/2011/08/11/if-you-dont-like-it-dont-use-it-its-that-simple-orly/
 hash: a0ac255a1ad44e9d1b28789c7ced179c
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: socialmediacollective.org
-    path: /2011/08/11/if-you-dont-like-it-dont-use-it-its-that-simple-orly/
+year: 2011
+month: 08
+scheme: http
+host: socialmediacollective.org
+path: /2011/08/11/if-you-dont-like-it-dont-use-it-its-that-simple-orly/
 
 ---
 

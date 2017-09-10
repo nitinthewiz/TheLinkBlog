@@ -3,13 +3,11 @@ title: "Stephen Wolfram Aims to Democratize His Software - NYTimes.com"
 date: 2015-12-15 20:14:57 +0000
 external-url: http://bits.blogs.nytimes.com/2015/12/14/stephen-wolfram-seeks-to-democratize-his-software/
 hash: 48e88049af14ba4d1bc06631d002cd5a
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: bits.blogs.nytimes.com
-    path: /2015/12/14/stephen-wolfram-seeks-to-democratize-his-software/
+year: 2015
+month: 12
+scheme: http
+host: bits.blogs.nytimes.com
+path: /2015/12/14/stephen-wolfram-seeks-to-democratize-his-software/
 
 ---
 

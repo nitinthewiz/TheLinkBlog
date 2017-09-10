@@ -3,13 +3,11 @@ title: "SEO Job Interview: Ten Tips For Corporate Search Engine Optimization Job
 date: 2007-09-20 15:17:43 +0000
 external-url: http://www.selfseo.com/story-19117.php
 hash: 6171102af7fabbbee6886e796e3107a1
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.selfseo.com
-    path: /story-19117.php
+year: 2007
+month: 09
+scheme: http
+host: www.selfseo.com
+path: /story-19117.php
 
 ---
 

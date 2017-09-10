@@ -3,13 +3,11 @@ title: "Eat the frog!"
 date: 2012-11-06 16:35:03 +0000
 external-url: http://home.earthlink.net/~denmartin/etf.html
 hash: bbc55d509f268ac1a8b303bbd5b3c6f7
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: home.earthlink.net
-    path: /~denmartin/etf.html
+year: 2012
+month: 11
+scheme: http
+host: home.earthlink.net
+path: /~denmartin/etf.html
 
 ---
 

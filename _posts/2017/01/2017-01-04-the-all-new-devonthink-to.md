@@ -3,13 +3,11 @@ title: "The All New DEVONthink To Go for iOS"
 date: 2017-01-04 23:12:49 +0000
 external-url: http://www.macdrifter.com/2016/09/the-all-new-devonthink-to-go-for-ios.html
 hash: abac99e59273563632fb4fe0716d2ec8
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: www.macdrifter.com
-    path: /2016/09/the-all-new-devonthink-to-go-for-ios.html
+year: 2017
+month: 01
+scheme: http
+host: www.macdrifter.com
+path: /2016/09/the-all-new-devonthink-to-go-for-ios.html
 
 ---
 

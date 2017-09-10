@@ -3,13 +3,11 @@ title: "BBC - Future - These unlucky people have names that break computers"
 date: 2016-03-27 11:21:06 +0000
 external-url: http://www.bbc.com/future/story/20160325-the-names-that-break-computer-systems
 hash: 0608012bc268bf3cb0d2f98546029fe9
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: www.bbc.com
-    path: /future/story/20160325-the-names-that-break-computer-systems
+year: 2016
+month: 03
+scheme: http
+host: www.bbc.com
+path: /future/story/20160325-the-names-that-break-computer-systems
 
 ---
 

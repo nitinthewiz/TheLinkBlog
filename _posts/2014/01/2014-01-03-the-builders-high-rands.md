@@ -3,13 +3,11 @@ title: "The Builders High Rands in Repose"
 date: 2014-01-03 13:07:19 +0000
 external-url: http://randsinrepose.com/archives/the-builders-high/
 hash: adf40c679bbaec6f8f4b2eb85daf2ed6
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: randsinrepose.com
-    path: /archives/the-builders-high/
+year: 2014
+month: 01
+scheme: http
+host: randsinrepose.com
+path: /archives/the-builders-high/
 
 ---
 

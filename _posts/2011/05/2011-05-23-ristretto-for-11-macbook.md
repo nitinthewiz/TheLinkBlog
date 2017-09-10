@@ -3,13 +3,11 @@ title: "Ristretto for 11\" MacBook Air"
 date: 2011-05-23 01:53:13 +0000
 external-url: http://www.tombihn.com/page/001/PROD/300/TB0221
 hash: 4e4f2d63a34cdc5cd7b39a7da1cb1bc6
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tombihn.com
-    path: /page/001/PROD/300/TB0221
+year: 2011
+month: 05
+scheme: http
+host: www.tombihn.com
+path: /page/001/PROD/300/TB0221
 
 ---
 

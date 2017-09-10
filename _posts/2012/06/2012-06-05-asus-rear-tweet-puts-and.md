@@ -3,13 +3,11 @@ title: "ASUS' 'Rear' Tweet Puts Sexism Front And Center"
 date: 2012-06-05 18:33:37 +0000
 external-url: http://www.huffingtonpost.com/2012/06/04/asus-rear-tweet_n_1567696.html
 hash: 9dbadc852471914c04f8af4556de6ab9
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.huffingtonpost.com
-    path: /2012/06/04/asus-rear-tweet_n_1567696.html
+year: 2012
+month: 06
+scheme: http
+host: www.huffingtonpost.com
+path: /2012/06/04/asus-rear-tweet_n_1567696.html
 
 ---
 

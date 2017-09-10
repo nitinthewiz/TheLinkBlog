@@ -3,13 +3,11 @@ title: "Exceptional Letterpress Strategy - Slanted Viewpoint"
 date: 2013-07-31 01:35:27 +0000
 external-url: http://www.tedlandau.com/slantedviewpoint/index.php/archives/2013/1219
 hash: fc6bfc31987c1b0134c07012339cc9ee
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tedlandau.com
-    path: /slantedviewpoint/index.php/archives/2013/1219
+year: 2013
+month: 07
+scheme: http
+host: www.tedlandau.com
+path: /slantedviewpoint/index.php/archives/2013/1219
 
 ---
 

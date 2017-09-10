@@ -3,13 +3,11 @@ title: "Lonely Planet's Digital Director Brough Leaving"
 date: 2010-11-24 19:58:48 +0000
 external-url: http://gigaom.com/2010/11/24/419-lonely-planets-digital-director-brough-leaving/
 hash: 0ce980d61cfe3db2633b1a327aa9ff6d
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/11/24/419-lonely-planets-digital-director-brough-leaving/
+year: 2010
+month: 11
+scheme: http
+host: gigaom.com
+path: /2010/11/24/419-lonely-planets-digital-director-brough-leaving/
 
 ---
 

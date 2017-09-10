@@ -3,13 +3,11 @@ title: "The Next Wave | Edge.org"
 date: 2015-07-21 12:01:40 +0000
 external-url: http://edge.org/conversation/john_markoff-the-next-wave
 hash: 5f7b1dd969de888e2a0347e9406ba8a5
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: edge.org
-    path: /conversation/john_markoff-the-next-wave
+year: 2015
+month: 07
+scheme: http
+host: edge.org
+path: /conversation/john_markoff-the-next-wave
 
 ---
 

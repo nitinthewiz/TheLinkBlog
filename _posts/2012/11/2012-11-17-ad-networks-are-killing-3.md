@@ -3,13 +3,11 @@ title: "Ad networks are killing the Internet. My answer is Cringely 3.0"
 date: 2012-11-17 03:51:27 +0000
 external-url: http://www.cringely.com/2012/11/02/ad-networks-are-killing-the-internet-my-answer-is-cringely-3-0/
 hash: 5cd9c6493704c1d8567ad7269f5b573f
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.cringely.com
-    path: /2012/11/02/ad-networks-are-killing-the-internet-my-answer-is-cringely-3-0/
+year: 2012
+month: 11
+scheme: http
+host: www.cringely.com
+path: /2012/11/02/ad-networks-are-killing-the-internet-my-answer-is-cringely-3-0/
 
 ---
 

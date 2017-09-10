@@ -3,13 +3,11 @@ title: "Portland Picnic Music+Arts Festival"
 date: 2012-08-24 19:52:14 +0000
 external-url: http://www.picnicportland.com/
 hash: faa7fe3f5383509f94ed2904c2c7323e
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.picnicportland.com
-    path: /
+year: 2012
+month: 08
+scheme: http
+host: www.picnicportland.com
+path: /
 
 ---
 

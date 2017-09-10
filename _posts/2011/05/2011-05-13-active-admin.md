@@ -3,13 +3,11 @@ title: "Active Admin"
 date: 2011-05-13 19:27:32 +0000
 external-url: http://activeadmin.info/
 hash: 00042ae45ddc026270eee57132fde7c0
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: activeadmin.info
-    path: /
+year: 2011
+month: 05
+scheme: http
+host: activeadmin.info
+path: /
 
 ---
 

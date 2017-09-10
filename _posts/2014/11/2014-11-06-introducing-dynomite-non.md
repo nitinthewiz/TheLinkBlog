@@ -3,13 +3,11 @@ title: "Introducing Dynomite - Making Non-Distributed Databases, Distributed"
 date: 2014-11-06 03:27:41 +0000
 external-url: http://techblog.netflix.com/2014/11/introducing-dynomite.html
 hash: bb629d6eca581352516b898972883289
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: techblog.netflix.com
-    path: /2014/11/introducing-dynomite.html
+year: 2014
+month: 11
+scheme: http
+host: techblog.netflix.com
+path: /2014/11/introducing-dynomite.html
 
 ---
 

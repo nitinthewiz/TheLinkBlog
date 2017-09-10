@@ -3,13 +3,11 @@ title: "The Macintosh/iPhone Mind Meld"
 date: 2009-09-04 03:55:55 +0000
 external-url: http://tidbits.com/article/10529
 hash: 092896cc76913ce4dd40e1924977e0dd
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: tidbits.com
-    path: /article/10529
+year: 2009
+month: 09
+scheme: http
+host: tidbits.com
+path: /article/10529
 
 ---
 

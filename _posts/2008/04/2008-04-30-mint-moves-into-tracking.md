@@ -3,13 +3,11 @@ title: "Mint Moves Into Investment Tracking"
 date: 2008-04-30 06:54:13 +0000
 external-url: http://techcrunch.com/2008/04/29/mint-moves-into-investment-tracking/
 hash: 6df2c46bfeb3e5933ae047807beaddb7
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/04/29/mint-moves-into-investment-tracking/
+year: 2008
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2008/04/29/mint-moves-into-investment-tracking/
 
 ---
 

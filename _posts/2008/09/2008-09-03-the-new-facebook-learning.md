@@ -3,13 +3,11 @@ title: "The New Facebook: Learning From Old Mistakes"
 date: 2008-09-03 17:24:53 +0000
 external-url: https://blog.compete.com/2008/09/03/facebook-new-old-version/
 hash: 94d75556557dec7999afcf9fbac39726
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: https
-    host: blog.compete.com
-    path: /2008/09/03/facebook-new-old-version/
+year: 2008
+month: 09
+scheme: https
+host: blog.compete.com
+path: /2008/09/03/facebook-new-old-version/
 
 ---
 

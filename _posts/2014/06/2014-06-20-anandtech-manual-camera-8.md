@@ -3,13 +3,11 @@ title: "AnandTech - Manual Camera Controls in iOS 8"
 date: 2014-06-20 04:45:08 +0000
 external-url: http://www.anandtech.com/show/8131/manual-camera-controls-in-ios-8
 hash: 28b35e93e313c8a647e58e9d9b107b6a
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: http
-    host: www.anandtech.com
-    path: /show/8131/manual-camera-controls-in-ios-8
+year: 2014
+month: 06
+scheme: http
+host: www.anandtech.com
+path: /show/8131/manual-camera-controls-in-ios-8
 
 ---
 

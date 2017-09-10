@@ -3,13 +3,11 @@ title: "Nanoproduct"
 date: 2012-04-10 16:51:31 +0000
 external-url: http://www.neo.com/nanoproduct/
 hash: 445671a79a444e5508739bfcccb832f2
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.neo.com
-    path: /nanoproduct/
+year: 2012
+month: 04
+scheme: http
+host: www.neo.com
+path: /nanoproduct/
 
 ---
 

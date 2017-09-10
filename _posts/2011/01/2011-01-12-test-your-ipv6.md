@@ -3,13 +3,11 @@ title: "Test your IPv6"
 date: 2011-01-12 17:23:25 +0000
 external-url: http://test-ipv6.com/
 hash: c978a45f28b11183990903579321dc6f
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: test-ipv6.com
-    path: /
+year: 2011
+month: 01
+scheme: http
+host: test-ipv6.com
+path: /
 
 ---
 

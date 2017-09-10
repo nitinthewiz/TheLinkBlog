@@ -3,13 +3,11 @@ title: "Passenger (mod rails for Apache) launches"
 date: 2008-04-11 18:27:00 +0000
 external-url: http://weblog.rubyonrails.org/2008/4/11/passenger-mod_rails-for-apache-launches/
 hash: 00851850a7f7db68f80c4ebf20ea46ad
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: weblog.rubyonrails.org
-    path: /2008/4/11/passenger-mod_rails-for-apache-launches/
+year: 2008
+month: 04
+scheme: http
+host: weblog.rubyonrails.org
+path: /2008/4/11/passenger-mod_rails-for-apache-launches/
 
 ---
 

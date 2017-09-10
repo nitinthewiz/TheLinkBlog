@@ -3,13 +3,11 @@ title: "When URL shorteners fail"
 date: 2009-11-13 21:46:35 +0000
 external-url: http://kottke.org/09/11/when-url-shorteners-fail
 hash: d4a3e75336d43c0ce2adc57259b4dc48
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /09/11/when-url-shorteners-fail
+year: 2009
+month: 11
+scheme: http
+host: kottke.org
+path: /09/11/when-url-shorteners-fail
 
 ---
 

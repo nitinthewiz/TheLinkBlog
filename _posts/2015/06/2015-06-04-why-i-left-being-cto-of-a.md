@@ -3,13 +3,11 @@ title: "Why I left being CTO of The New York Times, joined a startup, and am ple
 date: 2015-06-04 23:19:10 +0000
 external-url: http://qz.com/408018/why-i-left-my-cto-job-at-the-new-york-times-joined-a-startup-and-am-pledging-20-of-my-equity-to-charity/
 hash: 840b16ad8161445621e413aa9c812fe5
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: qz.com
-    path: /408018/why-i-left-my-cto-job-at-the-new-york-times-joined-a-startup-and-am-pledging-20-of-my-equity-to-charity/
+year: 2015
+month: 06
+scheme: http
+host: qz.com
+path: /408018/why-i-left-my-cto-job-at-the-new-york-times-joined-a-startup-and-am-pledging-20-of-my-equity-to-charity/
 
 ---
 

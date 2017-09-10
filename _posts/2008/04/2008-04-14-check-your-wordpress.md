@@ -3,13 +3,11 @@ title: "Check Your WordPress Security"
 date: 2008-04-14 19:01:06 +0000
 external-url: http://www.red-sweater.com/blog/488/check-your-wordpress-security
 hash: 126fc4bf79a06eee4a097a012144fa87
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/488/check-your-wordpress-security
+year: 2008
+month: 04
+scheme: http
+host: www.red-sweater.com
+path: /blog/488/check-your-wordpress-security
 
 ---
 

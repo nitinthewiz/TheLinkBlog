@@ -3,13 +3,11 @@ title: "Electroluminescent wire"
 date: 2012-08-07 20:03:36 +0000
 external-url: http://en.wikipedia.org/wiki/Electroluminescent_wire
 hash: b569ec5b46dea535defb1c7cc1bc4311
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Electroluminescent_wire
+year: 2012
+month: 08
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Electroluminescent_wire
 
 ---
 

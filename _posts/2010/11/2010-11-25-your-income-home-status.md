@@ -3,13 +3,11 @@ title: "Your Income, Home Ownership & Parenthood Status Now Available as an API"
 date: 2010-11-25 02:00:01 +0000
 external-url: http://www.readwriteweb.com/archives/your_income_home_ownership_parenthood_status_privacy_api.php
 hash: 4c7a0001e3a1205afd3ab7d965614b10
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/your_income_home_ownership_parenthood_status_privacy_api.php
+year: 2010
+month: 11
+scheme: http
+host: www.readwriteweb.com
+path: /archives/your_income_home_ownership_parenthood_status_privacy_api.php
 
 ---
 

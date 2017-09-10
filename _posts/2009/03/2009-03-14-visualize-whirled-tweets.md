@@ -3,13 +3,11 @@ title: "Visualize Whirled Tweets"
 date: 2009-03-14 04:03:17 +0000
 external-url: http://blog.twitter.com/2009/03/visualize-whirled-tweets.html
 hash: 13b00655c7fb1592cf4d724f93b00444
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2009/03/visualize-whirled-tweets.html
+year: 2009
+month: 03
+scheme: http
+host: blog.twitter.com
+path: /2009/03/visualize-whirled-tweets.html
 
 ---
 

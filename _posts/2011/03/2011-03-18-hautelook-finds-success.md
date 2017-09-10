@@ -3,13 +3,11 @@ title: "HauteLook finds success with customized multichannel consumer experience
 date: 2011-03-18 18:28:25 +0000
 external-url: http://blog.nrf.com/2011/03/10/hautelook-finds-success-with-customized-multichannel-consumer-experience/
 hash: 21f6556b5f79f170cd4969d833f1024c
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.nrf.com
-    path: /2011/03/10/hautelook-finds-success-with-customized-multichannel-consumer-experience/
+year: 2011
+month: 03
+scheme: http
+host: blog.nrf.com
+path: /2011/03/10/hautelook-finds-success-with-customized-multichannel-consumer-experience/
 
 ---
 

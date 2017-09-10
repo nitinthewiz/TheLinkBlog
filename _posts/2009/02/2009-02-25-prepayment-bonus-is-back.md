@@ -3,13 +3,11 @@ title: "Prepayment bonus is back"
 date: 2009-02-25 04:07:17 +0000
 external-url: http://www.rackspace.com/cloud/vps/
 hash: 6be148dd846b11c21e8d144ba063048c
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: www.rackspace.com
-    path: /cloud/vps/
+year: 2009
+month: 02
+scheme: http
+host: www.rackspace.com
+path: /cloud/vps/
 
 ---
 

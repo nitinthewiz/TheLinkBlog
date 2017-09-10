@@ -3,13 +3,11 @@ title: "New MindNode Screencast Series"
 date: 2016-08-02 19:50:03 +0000
 external-url: https://mindnode.com/support/screencasts
 hash: 76934f18488f4fa420bba721bdbb0ccf
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: mindnode.com
-    path: /support/screencasts
+year: 2016
+month: 08
+scheme: https
+host: mindnode.com
+path: /support/screencasts
 
 ---
 

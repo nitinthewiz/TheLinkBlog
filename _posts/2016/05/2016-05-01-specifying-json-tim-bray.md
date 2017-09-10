@@ -3,13 +3,11 @@ title: "Specifying JSON —Tim Bray “I find myself tasked with polishing and p
 date: 2016-05-01 04:05:48 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2016/04/30/JSON-Schema-funnies
 hash: 6beb59936894ee8ecafa6748d7a6fcdc
-annum:
-    year: 2016
-    month: 05
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2016/04/30/JSON-Schema-funnies
+year: 2016
+month: 05
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2016/04/30/JSON-Schema-funnies
 
 ---
 

@@ -3,13 +3,11 @@ title: "Behind the Work: Joshua Lindstrom of Fika Coffee"
 date: 2013-07-24 03:13:40 +0000
 external-url: http://www.wtip.org/drupal/content/behind-work-joshua-lindstrom-fika-coffee
 hash: 92d463726a40e4d41693c83a73c4e377
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: www.wtip.org
-    path: /drupal/content/behind-work-joshua-lindstrom-fika-coffee
+year: 2013
+month: 07
+scheme: http
+host: www.wtip.org
+path: /drupal/content/behind-work-joshua-lindstrom-fika-coffee
 
 ---
 

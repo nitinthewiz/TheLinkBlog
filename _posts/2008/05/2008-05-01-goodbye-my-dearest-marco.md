@@ -3,13 +3,11 @@ title: "Goodbye, my dearest Marco..."
 date: 2008-05-01 11:54:23 +0000
 external-url: http://minigirl.typepad.com/mini_girl/2008/05/christopher-mar.html
 hash: 18d39d44271d2c1b139e0dd39e4ff9c0
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: minigirl.typepad.com
-    path: /mini_girl/2008/05/christopher-mar.html
+year: 2008
+month: 05
+scheme: http
+host: minigirl.typepad.com
+path: /mini_girl/2008/05/christopher-mar.html
 
 ---
 

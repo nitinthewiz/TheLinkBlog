@@ -3,13 +3,11 @@ title: "Trace chemicals in everyday food packaging cause worry over cumulative t
 date: 2012-04-18 05:23:30 +0000
 external-url: http://www.washingtonpost.com/national/health-science/trace-chemicals-in-everyday-food-packaging-cause-worry-over-cumulative-threat/2012/04/16/gIQAUILvMT_story.html
 hash: c736daf2c1daff82c76e697f4c136338
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.washingtonpost.com
-    path: /national/health-science/trace-chemicals-in-everyday-food-packaging-cause-worry-over-cumulative-threat/2012/04/16/gIQAUILvMT_story.html
+year: 2012
+month: 04
+scheme: http
+host: www.washingtonpost.com
+path: /national/health-science/trace-chemicals-in-everyday-food-packaging-cause-worry-over-cumulative-threat/2012/04/16/gIQAUILvMT_story.html
 
 ---
 

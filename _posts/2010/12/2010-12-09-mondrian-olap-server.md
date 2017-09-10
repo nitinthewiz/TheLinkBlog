@@ -3,13 +3,11 @@ title: "Mondrian OLAP server"
 date: 2010-12-09 05:09:41 +0000
 external-url: http://en.wikipedia.org/wiki/Mondrian_OLAP_server
 hash: 76ecdd2f40f5147dfe4ebce0f8508714
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Mondrian_OLAP_server
+year: 2010
+month: 12
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Mondrian_OLAP_server
 
 ---
 

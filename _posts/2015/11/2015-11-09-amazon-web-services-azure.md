@@ -3,13 +3,11 @@ title: "Amazon Web Services versus Microsoft Azure, Google, Oracle - Business In
 date: 2015-11-09 02:59:41 +0000
 external-url: http://www.businessinsider.com/why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10
 hash: 2b0033e8160cfa992cefe5e7ef9c2512
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10
+year: 2015
+month: 11
+scheme: http
+host: www.businessinsider.com
+path: /why-amazon-is-so-hard-to-topple-in-the-cloud-and-where-everybody-else-falls-2015-10
 
 ---
 

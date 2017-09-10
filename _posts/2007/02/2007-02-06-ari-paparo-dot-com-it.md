@@ -3,13 +3,11 @@ title: "Ari Paparo Dot Com: Getting it Right"
 date: 2007-02-06 15:11:31 +0000
 external-url: http://www.aripaparo.com/archive/001456.html
 hash: 3c3ccffc2c923407c016fcad526fbec0
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.aripaparo.com
-    path: /archive/001456.html
+year: 2007
+month: 02
+scheme: http
+host: www.aripaparo.com
+path: /archive/001456.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "MySQL Migration Toolkit"
 date: 2007-08-05 14:22:20 +0000
 external-url: http://www.mysql.com/products/tools/migration-toolkit/
 hash: cf825b0c6f8bc5e1a7cb488886253068
-annum:
-    year: 2007
-    month: 08
-url-parts:
-    scheme: http
-    host: www.mysql.com
-    path: /products/tools/migration-toolkit/
+year: 2007
+month: 08
+scheme: http
+host: www.mysql.com
+path: /products/tools/migration-toolkit/
 
 ---
 

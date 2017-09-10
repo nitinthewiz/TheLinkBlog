@@ -3,13 +3,11 @@ title: "Oliver’s Simple Fluid Dynamics Simulator"
 date: 2009-06-10 22:03:27 +0000
 external-url: http://nerget.com/fluidSim/
 hash: b381446799f1f4501ec957b6e69ae8d0
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: nerget.com
-    path: /fluidSim/
+year: 2009
+month: 06
+scheme: http
+host: nerget.com
+path: /fluidSim/
 
 ---
 

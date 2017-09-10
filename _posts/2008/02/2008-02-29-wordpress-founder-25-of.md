@@ -3,13 +3,11 @@ title: "WordPress Founder: 25% Of Blogs Are Spam"
 date: 2008-02-29 19:00:00 +0000
 external-url: http://www.businessinsider.com/2008/2/wordpress-founder-25-percent-of-blogs-are-spam
 hash: 5640212a7f56e947bc806ecb6d0a1436
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/2/wordpress-founder-25-percent-of-blogs-are-spam
+year: 2008
+month: 02
+scheme: http
+host: www.businessinsider.com
+path: /2008/2/wordpress-founder-25-percent-of-blogs-are-spam
 
 ---
 

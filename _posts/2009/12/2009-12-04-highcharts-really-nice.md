@@ -3,13 +3,11 @@ title: "Highcharts: Really nice charting API"
 date: 2009-12-04 11:36:06 +0000
 external-url: http://ajaxian.com/archives/highcharts-really-nice-charting-api
 hash: 24e4db909e8df5f47c68284c5ec38436
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/highcharts-really-nice-charting-api
+year: 2009
+month: 12
+scheme: http
+host: ajaxian.com
+path: /archives/highcharts-really-nice-charting-api
 
 ---
 

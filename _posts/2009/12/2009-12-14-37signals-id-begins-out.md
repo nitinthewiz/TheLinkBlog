@@ -3,13 +3,11 @@ title: "37signals ID begins rolling out"
 date: 2009-12-14 03:14:45 +0000
 external-url: http://productblog.37signals.com/products/2009/12/37signals-id-whats-new.html
 hash: 6c487e995bb8f11d3c0d709f5aacea0c
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: productblog.37signals.com
-    path: /products/2009/12/37signals-id-whats-new.html
+year: 2009
+month: 12
+scheme: http
+host: productblog.37signals.com
+path: /products/2009/12/37signals-id-whats-new.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "TableFlip - Simple Table Editor for Mac"
 date: 2016-10-23 19:53:41 +0000
 external-url: http://tableflipapp.com/
 hash: 4334c55ded55caa3920ce8b68182a507
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: tableflipapp.com
-    path: /
+year: 2016
+month: 10
+scheme: http
+host: tableflipapp.com
+path: /
 
 ---
 

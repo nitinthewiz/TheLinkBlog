@@ -3,13 +3,11 @@ title: "Four videos of Wikipedia’s volunteers"
 date: 2010-09-25 01:05:30 +0000
 external-url: http://blog.wikimedia.org/blog/2010/09/24/four-videos-of-wikipedias-volunteers/
 hash: d987509d75ebd784e23f267dd971c0c0
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /blog/2010/09/24/four-videos-of-wikipedias-volunteers/
+year: 2010
+month: 09
+scheme: http
+host: blog.wikimedia.org
+path: /blog/2010/09/24/four-videos-of-wikipedias-volunteers/
 
 ---
 

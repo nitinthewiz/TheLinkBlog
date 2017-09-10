@@ -3,13 +3,11 @@ title: "A Brief History of the UUID · Segment Blog"
 date: 2017-06-09 02:06:36 +0000
 external-url: https://segment.com/blog/a-brief-history-of-the-uuid/
 hash: e3dbba64e2be40656516ebf78ad6083a
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: segment.com
-    path: /blog/a-brief-history-of-the-uuid/
+year: 2017
+month: 06
+scheme: https
+host: segment.com
+path: /blog/a-brief-history-of-the-uuid/
 
 ---
 

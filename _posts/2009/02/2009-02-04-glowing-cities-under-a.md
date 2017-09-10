@@ -3,13 +3,11 @@ title: "Glowing Cities Under a Nighttime Sky"
 date: 2009-02-04 19:49:27 +0000
 external-url: http://www.todayandtomorrow.net/2009/01/28/glowing-cities-under-a-nighttime-sky/
 hash: 60315a372fc548b9b7cc637bfe12725a
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: www.todayandtomorrow.net
-    path: /2009/01/28/glowing-cities-under-a-nighttime-sky/
+year: 2009
+month: 02
+scheme: http
+host: www.todayandtomorrow.net
+path: /2009/01/28/glowing-cities-under-a-nighttime-sky/
 
 ---
 

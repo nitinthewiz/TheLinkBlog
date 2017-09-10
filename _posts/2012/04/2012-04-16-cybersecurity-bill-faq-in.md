@@ -3,13 +3,11 @@ title: "Cybersecurity Bill FAQ: The Disturbing Privacy Dangers in CISPA and How 
 date: 2012-04-16 18:18:22 +0000
 external-url: https://www.eff.org/cybersecurity-bill-faq
 hash: 9f0756110814dd4dc130c6fe52dedd33
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /cybersecurity-bill-faq
+year: 2012
+month: 04
+scheme: https
+host: www.eff.org
+path: /cybersecurity-bill-faq
 
 ---
 

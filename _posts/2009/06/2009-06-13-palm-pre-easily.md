@@ -3,13 +3,11 @@ title: "Palm Pre Easily Jailbroken"
 date: 2009-06-13 04:30:38 +0000
 external-url: http://blog.steventroughtonsmith.com/2009/06/wwdcpalm-pre-rollercoaster-week.html
 hash: a70cd2589011b3adc10660c49a21a108
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: blog.steventroughtonsmith.com
-    path: /2009/06/wwdcpalm-pre-rollercoaster-week.html
+year: 2009
+month: 06
+scheme: http
+host: blog.steventroughtonsmith.com
+path: /2009/06/wwdcpalm-pre-rollercoaster-week.html
 
 ---
 

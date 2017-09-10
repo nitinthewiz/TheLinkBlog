@@ -3,13 +3,11 @@ title: "OpenID Marches On"
 date: 2008-04-24 22:00:00 +0000
 external-url: https://gigaom.com/2008/04/24/openid-marches-on/
 hash: 967cfa8d3e830a39db495d84df14f5c6
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/04/24/openid-marches-on/
+year: 2008
+month: 04
+scheme: https
+host: gigaom.com
+path: /2008/04/24/openid-marches-on/
 
 ---
 

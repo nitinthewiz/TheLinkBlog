@@ -3,13 +3,11 @@ title: "ExpanDrive"
 date: 2008-03-25 21:41:50 +0000
 external-url: http://www.expandrive.com/
 hash: 20f16be3529e3fd69c9318b0db7e3a23
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.expandrive.com
-    path: /
+year: 2008
+month: 03
+scheme: http
+host: www.expandrive.com
+path: /
 
 ---
 

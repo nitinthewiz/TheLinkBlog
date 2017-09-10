@@ -3,13 +3,11 @@ title: "Report: Google to acquire Brightcove for $500 to 700 million"
 date: 2009-09-16 19:14:13 +0000
 external-url: http://venturebeat.com/2009/09/16/report-google-to-acquire-brightcove-for-500-to-700-million/
 hash: 12eba8859a9ed0648590a62047527c7d
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/09/16/report-google-to-acquire-brightcove-for-500-to-700-million/
+year: 2009
+month: 09
+scheme: http
+host: venturebeat.com
+path: /2009/09/16/report-google-to-acquire-brightcove-for-500-to-700-million/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Web We Lost - Anil Dash"
 date: 2012-12-14 22:20:38 +0000
 external-url: http://dashes.com/anil/2012/12/the-web-we-lost.html
 hash: f715e87912f379270c7c30cdcce686f2
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: dashes.com
-    path: /anil/2012/12/the-web-we-lost.html
+year: 2012
+month: 12
+scheme: http
+host: dashes.com
+path: /anil/2012/12/the-web-we-lost.html
 
 ---
 

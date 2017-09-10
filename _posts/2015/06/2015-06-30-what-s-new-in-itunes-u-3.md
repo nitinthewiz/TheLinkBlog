@@ -3,13 +3,11 @@ title: "What's new in iTunes U 3.0 — Fraser Speirs"
 date: 2015-06-30 01:11:11 +0000
 external-url: http://www.speirs.org/blog/2015/6/26/whats-new-in-itunes-u-30
 hash: 2573959c0775dba2a4c6d6b2e9eaafc5
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.speirs.org
-    path: /blog/2015/6/26/whats-new-in-itunes-u-30
+year: 2015
+month: 06
+scheme: http
+host: www.speirs.org
+path: /blog/2015/6/26/whats-new-in-itunes-u-30
 
 ---
 

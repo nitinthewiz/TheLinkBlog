@@ -3,13 +3,11 @@ title: "The message from the Wikipedia Blackout: Please leave the Internet alone
 date: 2012-01-20 19:44:07 +0000
 external-url: http://blog.wikimedia.org/2012/01/20/the-message-from-the-wikipedia-blackout-please-leave-the-internet-alone/
 hash: d1a785bd626e39e11e64ec546920a1fe
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2012/01/20/the-message-from-the-wikipedia-blackout-please-leave-the-internet-alone/
+year: 2012
+month: 01
+scheme: http
+host: blog.wikimedia.org
+path: /2012/01/20/the-message-from-the-wikipedia-blackout-please-leave-the-internet-alone/
 
 ---
 

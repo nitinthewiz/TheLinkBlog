@@ -3,13 +3,11 @@ title: "Macheist bundle completely unlocked"
 date: 2008-01-14 22:30:00 +0000
 external-url: http://www.tuaw.com/2008/01/14/macheist-bundle-completely-unlocked/
 hash: b4443874f5a0eaa7df35952181eb86d5
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/01/14/macheist-bundle-completely-unlocked/
+year: 2008
+month: 01
+scheme: http
+host: www.tuaw.com
+path: /2008/01/14/macheist-bundle-completely-unlocked/
 
 ---
 

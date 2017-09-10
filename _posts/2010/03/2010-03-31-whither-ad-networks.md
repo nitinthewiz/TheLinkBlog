@@ -3,13 +3,11 @@ title: "Whither Ad Networks?"
 date: 2010-03-31 04:07:39 +0000
 external-url: http://www.cogmap.com/blog/2010/03/30/whither-ad-networks/
 hash: 5c7a8e33191291c5f95e20d78404a303
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: www.cogmap.com
-    path: /blog/2010/03/30/whither-ad-networks/
+year: 2010
+month: 03
+scheme: http
+host: www.cogmap.com
+path: /blog/2010/03/30/whither-ad-networks/
 
 ---
 

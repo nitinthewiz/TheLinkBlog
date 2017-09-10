@@ -3,13 +3,11 @@ title: "Bluetooth Ambient Orb"
 date: 2008-03-21 17:19:56 +0000
 external-url: http://flat-earth.ece.cmu.edu/~agr/bt_orb/
 hash: 2412a17502f75a8dbb5e4c69fddd369c
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: flat-earth.ece.cmu.edu
-    path: /~agr/bt_orb/
+year: 2008
+month: 03
+scheme: http
+host: flat-earth.ece.cmu.edu
+path: /~agr/bt_orb/
 
 ---
 

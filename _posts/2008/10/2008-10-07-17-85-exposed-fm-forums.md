@@ -3,13 +3,11 @@ title: "17-85 Exposed - FM Forums"
 date: 2008-10-07 21:59:57 +0000
 external-url: http://www.fredmiranda.com/forum/topic/694090
 hash: 0d85015d4e1ae827274b53a2b90510e0
-annum:
-    year: 2008
-    month: 10
-url-parts:
-    scheme: http
-    host: www.fredmiranda.com
-    path: /forum/topic/694090
+year: 2008
+month: 10
+scheme: http
+host: www.fredmiranda.com
+path: /forum/topic/694090
 
 ---
 

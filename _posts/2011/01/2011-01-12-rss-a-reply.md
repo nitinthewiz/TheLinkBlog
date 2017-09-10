@@ -3,13 +3,11 @@ title: "RSS: A Reply"
 date: 2011-01-12 03:08:12 +0000
 external-url: http://camendesign.com/blog/rss_a_reply
 hash: 7b3cfef53e17d01d455bc84381d5e1b1
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: camendesign.com
-    path: /blog/rss_a_reply
+year: 2011
+month: 01
+scheme: http
+host: camendesign.com
+path: /blog/rss_a_reply
 
 ---
 

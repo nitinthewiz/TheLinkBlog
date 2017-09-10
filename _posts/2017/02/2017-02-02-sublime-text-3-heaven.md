@@ -3,13 +3,11 @@ title: "Sublime Text 3 Heaven"
 date: 2017-02-02 20:37:56 +0000
 external-url: https://www.kennethreitz.org/essays/sublime-text-3-heaven
 hash: 77e54202e2e4d857e64210aa53d7ae07
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: www.kennethreitz.org
-    path: /essays/sublime-text-3-heaven
+year: 2017
+month: 02
+scheme: https
+host: www.kennethreitz.org
+path: /essays/sublime-text-3-heaven
 
 ---
 

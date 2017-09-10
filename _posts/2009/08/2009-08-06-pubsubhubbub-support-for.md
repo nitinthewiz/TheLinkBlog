@@ -3,13 +3,11 @@ title: "PubSubHubbub support for Reader shared items"
 date: 2009-08-06 03:51:10 +0000
 external-url: http://googlereader.blogspot.com/2009/08/pubsubhubbub-support-for-reader-shared.html
 hash: 252648231de5981281ce581202a13621
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: googlereader.blogspot.com
-    path: /2009/08/pubsubhubbub-support-for-reader-shared.html
+year: 2009
+month: 08
+scheme: http
+host: googlereader.blogspot.com
+path: /2009/08/pubsubhubbub-support-for-reader-shared.html
 
 ---
 

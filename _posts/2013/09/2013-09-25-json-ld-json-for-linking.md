@@ -3,13 +3,11 @@ title: "JSON-LD - JSON for Linking Data"
 date: 2013-09-25 19:31:13 +0000
 external-url: http://json-ld.org/
 hash: 9435feecd1340dbba82de93d99b67714
-annum:
-    year: 2013
-    month: 09
-url-parts:
-    scheme: http
-    host: json-ld.org
-    path: /
+year: 2013
+month: 09
+scheme: http
+host: json-ld.org
+path: /
 
 ---
 

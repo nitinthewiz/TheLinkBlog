@@ -3,13 +3,11 @@ title: "In defense of Unix - All this"
 date: 2016-03-08 03:46:07 +0000
 external-url: http://leancrew.com/all-this/2016/03/in-defense-of-unix/
 hash: d3df82f4848b42e723909b8e6fb6735d
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: leancrew.com
-    path: /all-this/2016/03/in-defense-of-unix/
+year: 2016
+month: 03
+scheme: http
+host: leancrew.com
+path: /all-this/2016/03/in-defense-of-unix/
 
 ---
 

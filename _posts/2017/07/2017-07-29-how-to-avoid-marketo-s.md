@@ -3,13 +3,11 @@ title: "How to avoid Marketo's outage and the twitter storm —LogicMonitor"
 date: 2017-07-29 04:18:23 +0000
 external-url: https://www.logicmonitor.com/blog/avoid-front-page-news-outage-like-marketo/
 hash: db5c7356a762547eff6cf48b087c4b19
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.logicmonitor.com
-    path: /blog/avoid-front-page-news-outage-like-marketo/
+year: 2017
+month: 07
+scheme: https
+host: www.logicmonitor.com
+path: /blog/avoid-front-page-news-outage-like-marketo/
 
 ---
 

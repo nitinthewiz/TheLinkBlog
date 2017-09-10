@@ -3,13 +3,11 @@ title: "Medica Partners with CaringBridge to Connect Families and Friends when H
 date: 2011-01-26 21:21:06 +0000
 external-url: http://www.caringbridge.org/newsrelease/view/nr_20110126
 hash: c7127fa98a96d79e47a606fcb32b4fb8
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.caringbridge.org
-    path: /newsrelease/view/nr_20110126
+year: 2011
+month: 01
+scheme: http
+host: www.caringbridge.org
+path: /newsrelease/view/nr_20110126
 
 ---
 

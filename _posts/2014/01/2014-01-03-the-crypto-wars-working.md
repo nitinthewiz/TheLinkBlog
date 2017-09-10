@@ -3,13 +3,11 @@ title: "The Crypto Wars: Governments Working to Undermine Encryption | Electroni
 date: 2014-01-03 16:15:48 +0000
 external-url: https://www.eff.org/document/crypto-wars-governments-working-undermine-encryption
 hash: 10e4fbc3038972b80cd9c36cdd386887
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /document/crypto-wars-governments-working-undermine-encryption
+year: 2014
+month: 01
+scheme: https
+host: www.eff.org
+path: /document/crypto-wars-governments-working-undermine-encryption
 
 ---
 

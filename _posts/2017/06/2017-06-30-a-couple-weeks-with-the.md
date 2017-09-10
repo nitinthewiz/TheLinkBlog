@@ -3,13 +3,11 @@ title: "A couple weeks with the iOS 11 beta —Six Colors"
 date: 2017-06-30 00:33:15 +0000
 external-url: https://sixcolors.com/post/2017/06/a-couple-weeks-with-the-ios-11-beta/
 hash: ffde9f8fa23a0a8a165bcd70d1fa72ca
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: sixcolors.com
-    path: /post/2017/06/a-couple-weeks-with-the-ios-11-beta/
+year: 2017
+month: 06
+scheme: https
+host: sixcolors.com
+path: /post/2017/06/a-couple-weeks-with-the-ios-11-beta/
 
 ---
 

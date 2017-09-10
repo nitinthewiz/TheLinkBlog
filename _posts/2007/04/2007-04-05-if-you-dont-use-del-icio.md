@@ -3,13 +3,11 @@ title: "If You Don’t Use Del.icio.us, You Will Now"
 date: 2007-04-05 21:09:16 +0000
 external-url: http://www.techcrunch.com/2007/04/05/if-you-dont-use-delicious-you-will-now/
 hash: 02bb7838859ef66c77fd46f4aad0b235
-annum:
-    year: 2007
-    month: 04
-url-parts:
-    scheme: http
-    host: www.techcrunch.com
-    path: /2007/04/05/if-you-dont-use-delicious-you-will-now/
+year: 2007
+month: 04
+scheme: http
+host: www.techcrunch.com
+path: /2007/04/05/if-you-dont-use-delicious-you-will-now/
 
 ---
 

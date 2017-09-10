@@ -3,13 +3,11 @@ title: "persevere-framework - Persevere - REST JSON database, distributed comput
 date: 2012-01-06 16:11:55 +0000
 external-url: http://code.google.com/p/persevere-framework/
 hash: 2d96b919e9c2fb1345ff77338440728c
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: code.google.com
-    path: /p/persevere-framework/
+year: 2012
+month: 01
+scheme: http
+host: code.google.com
+path: /p/persevere-framework/
 
 ---
 

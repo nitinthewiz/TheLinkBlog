@@ -3,13 +3,11 @@ title: "Announcing LinkedIn Mobile (includes an iPhone version)"
 date: 2008-02-25 02:21:30 +0000
 external-url: http://blog.linkedin.com/2008/02/24/linkedin-mobile-2/
 hash: 939f9a05abfb8c7600cfcca53cd189ef
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.linkedin.com
-    path: /2008/02/24/linkedin-mobile-2/
+year: 2008
+month: 02
+scheme: http
+host: blog.linkedin.com
+path: /2008/02/24/linkedin-mobile-2/
 
 ---
 

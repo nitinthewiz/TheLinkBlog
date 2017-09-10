@@ -3,13 +3,11 @@ title: "Getting Real and Design"
 date: 2008-12-31 19:48:00 +0000
 external-url: https://signalvnoise.com/posts/1497-getting-real-and-design
 hash: 8b936332c14af85a65b8bfb4a41ba2cc
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/1497-getting-real-and-design
+year: 2008
+month: 12
+scheme: https
+host: signalvnoise.com
+path: /posts/1497-getting-real-and-design
 
 ---
 

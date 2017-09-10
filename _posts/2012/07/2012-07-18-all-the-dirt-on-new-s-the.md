@@ -3,13 +3,11 @@ title: "All The Dirt on New S. Mpls Resto The Lynn, & Kopplins Comes West"
 date: 2012-07-18 03:56:29 +0000
 external-url: http://mspmag.com/Blogs/Dara/December-2013/sneak-peek-all-the-dirt-on-new-s-mpls-resto-the-ly/
 hash: 66e9d64ef206f742af29390d473f5933
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: mspmag.com
-    path: /Blogs/Dara/December-2013/sneak-peek-all-the-dirt-on-new-s-mpls-resto-the-ly/
+year: 2012
+month: 07
+scheme: http
+host: mspmag.com
+path: /Blogs/Dara/December-2013/sneak-peek-all-the-dirt-on-new-s-mpls-resto-the-ly/
 
 ---
 

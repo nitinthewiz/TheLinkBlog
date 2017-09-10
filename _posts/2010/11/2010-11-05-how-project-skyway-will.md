@@ -3,13 +3,11 @@ title: "How Project Skyway Will Be Different"
 date: 2010-11-05 16:45:55 +0000
 external-url: http://www.projectskyway.com/how-project-skyway-will-be-different/
 hash: ee6a508c8465fcadf26546eb6934572c
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.projectskyway.com
-    path: /how-project-skyway-will-be-different/
+year: 2010
+month: 11
+scheme: http
+host: www.projectskyway.com
+path: /how-project-skyway-will-be-different/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Launching in 2015: A Certificate Authority to Encrypt the Entire Web | E
 date: 2014-11-19 03:40:55 +0000
 external-url: https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web
 hash: 24200a3db4c92dab7a9fb01d77c281df
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2014/11/certificate-authority-encrypt-entire-web
+year: 2014
+month: 11
+scheme: https
+host: www.eff.org
+path: /deeplinks/2014/11/certificate-authority-encrypt-entire-web
 
 ---
 

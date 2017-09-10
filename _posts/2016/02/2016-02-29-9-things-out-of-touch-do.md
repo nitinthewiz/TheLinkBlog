@@ -3,13 +3,11 @@ title: "9 Things Out of Touch Leaders Do"
 date: 2016-02-29 21:01:05 +0000
 external-url: https://www.glassdoor.com/employers/blog/9-things-out-of-touch-leaders-do/
 hash: e135ffa5089289bb193726cf3e045dbe
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.glassdoor.com
-    path: /employers/blog/9-things-out-of-touch-leaders-do/
+year: 2016
+month: 02
+scheme: https
+host: www.glassdoor.com
+path: /employers/blog/9-things-out-of-touch-leaders-do/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Im Not The Product, But I Play One On The Internet"
 date: 2012-12-19 13:31:24 +0000
 external-url: http://powazek.com/posts/3229
 hash: 97951b8c330a92fa9b406a2662de8622
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: powazek.com
-    path: /posts/3229
+year: 2012
+month: 12
+scheme: http
+host: powazek.com
+path: /posts/3229
 
 ---
 

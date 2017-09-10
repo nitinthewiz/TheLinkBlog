@@ -3,13 +3,11 @@ title: "Introducing Badger: A fast key-value store written natively in Go - Dgra
 date: 2017-05-16 10:34:43 +0000
 external-url: https://open.dgraph.io/post/badger/
 hash: 59c7f65af75d608171432c6607051164
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: open.dgraph.io
-    path: /post/badger/
+year: 2017
+month: 05
+scheme: https
+host: open.dgraph.io
+path: /post/badger/
 
 ---
 

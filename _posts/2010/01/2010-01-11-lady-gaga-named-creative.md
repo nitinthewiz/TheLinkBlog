@@ -3,13 +3,11 @@ title: "Lady GaGa Named Creative Director at Polaroid"
 date: 2010-01-11 03:53:16 +0000
 external-url: http://www.aphotoeditor.com/2010/01/08/lady-gaga-named-creative-director-at-polaroid/
 hash: 5abde7bf246fa58c1a0d45f3ae47c7ca
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: www.aphotoeditor.com
-    path: /2010/01/08/lady-gaga-named-creative-director-at-polaroid/
+year: 2010
+month: 01
+scheme: http
+host: www.aphotoeditor.com
+path: /2010/01/08/lady-gaga-named-creative-director-at-polaroid/
 
 ---
 

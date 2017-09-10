@@ -3,13 +3,11 @@ title: "Welcome to Medium"
 date: 2012-08-16 03:02:05 +0000
 external-url: https://medium.com/about/9e53ca408c48
 hash: 40f7d5ccd4c34d4890711294231c3791
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /about/9e53ca408c48
+year: 2012
+month: 08
+scheme: https
+host: medium.com
+path: /about/9e53ca408c48
 
 ---
 

@@ -3,13 +3,11 @@ title: "New Action Links make third-party Facebook apps more interactive"
 date: 2012-05-04 15:49:53 +0000
 external-url: http://venturebeat.com/2012/05/02/new-action-links-make-third-party-facebook-apps-more-interactive/
 hash: 82aa05c36b51db99c7b14f1ea5562a14
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2012/05/02/new-action-links-make-third-party-facebook-apps-more-interactive/
+year: 2012
+month: 05
+scheme: http
+host: venturebeat.com
+path: /2012/05/02/new-action-links-make-third-party-facebook-apps-more-interactive/
 
 ---
 

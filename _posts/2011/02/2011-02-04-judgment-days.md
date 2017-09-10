@@ -3,13 +3,11 @@ title: "Judgment Days"
 date: 2011-02-04 22:13:03 +0000
 external-url: http://www.newyorker.com/magazine/2011/02/14/judgment-days
 hash: 37e1de7b2a2fae43aadf4dcddc68840d
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: www.newyorker.com
-    path: /magazine/2011/02/14/judgment-days
+year: 2011
+month: 02
+scheme: http
+host: www.newyorker.com
+path: /magazine/2011/02/14/judgment-days
 
 ---
 

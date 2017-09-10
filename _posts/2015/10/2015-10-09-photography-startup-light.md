@@ -3,13 +3,11 @@ title: "Photography Startup Light Takes on DSLR With the Point-And-Shoot L16 Cam
 date: 2015-10-09 23:10:44 +0000
 external-url: http://recode.net/2015/10/07/photography-startup-light-takes-on-dslr-with-the-point-and-shoot-l16-camera/
 hash: 97167bbd2b7b1841b45eb86de77b239f
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: recode.net
-    path: /2015/10/07/photography-startup-light-takes-on-dslr-with-the-point-and-shoot-l16-camera/
+year: 2015
+month: 10
+scheme: http
+host: recode.net
+path: /2015/10/07/photography-startup-light-takes-on-dslr-with-the-point-and-shoot-l16-camera/
 
 ---
 

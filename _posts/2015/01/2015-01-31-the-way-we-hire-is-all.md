@@ -3,13 +3,11 @@ title: "The Way We Hire Is All Wrong — Backchannel — Medium"
 date: 2015-01-31 02:51:44 +0000
 external-url: https://medium.com/backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e
 hash: 1d0ffd40321406219476ea2e66090f76
-annum:
-    year: 2015
-    month: 01
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e
+year: 2015
+month: 01
+scheme: https
+host: medium.com
+path: /backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e
 
 ---
 

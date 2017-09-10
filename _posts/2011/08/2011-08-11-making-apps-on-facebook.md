@@ -3,13 +3,11 @@ title: "Making Apps on Facebook more engaging and social"
 date: 2011-08-11 17:00:00 +0000
 external-url: http://developers.facebook.com/blog/post/538/
 hash: 2aa16d1d71532ebbbe8ae83be4683524
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: developers.facebook.com
-    path: /blog/post/538/
+year: 2011
+month: 08
+scheme: http
+host: developers.facebook.com
+path: /blog/post/538/
 
 ---
 

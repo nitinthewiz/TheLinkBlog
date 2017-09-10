@@ -3,13 +3,11 @@ title: "Apple’s $29 Snow Leopard OS forgoes wows in favor of customer retentio
 date: 2009-08-25 04:22:41 +0000
 external-url: http://venturebeat.com/2009/08/24/apples-29-snow-leopard-os-forgoes-wows-in-favor-of-customer-retention/
 hash: 1e02e593a1715132b16b8e5ed2bb213e
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/08/24/apples-29-snow-leopard-os-forgoes-wows-in-favor-of-customer-retention/
+year: 2009
+month: 08
+scheme: http
+host: venturebeat.com
+path: /2009/08/24/apples-29-snow-leopard-os-forgoes-wows-in-favor-of-customer-retention/
 
 ---
 

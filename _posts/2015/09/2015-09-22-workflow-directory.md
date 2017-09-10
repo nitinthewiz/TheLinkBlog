@@ -3,13 +3,11 @@ title: "Workflow Directory"
 date: 2015-09-22 01:37:29 +0000
 external-url: http://workflow.directory/
 hash: 3f3cd017a4a97cf397ead4523e36e3ba
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: workflow.directory
-    path: /
+year: 2015
+month: 09
+scheme: http
+host: workflow.directory
+path: /
 
 ---
 

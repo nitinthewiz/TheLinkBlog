@@ -3,13 +3,11 @@ title: "The eero programming language"
 date: 2012-07-09 21:09:34 +0000
 external-url: http://eerolanguage.org/
 hash: 136c4ab9e8257cb73538392d52ad2298
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: eerolanguage.org
-    path: /
+year: 2012
+month: 07
+scheme: http
+host: eerolanguage.org
+path: /
 
 ---
 

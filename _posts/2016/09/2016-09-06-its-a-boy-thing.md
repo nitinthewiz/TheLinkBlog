@@ -3,13 +3,11 @@ title: "It’s a boy thing"
 date: 2016-09-06 01:06:35 +0000
 external-url: https://www.1843magazine.com/features/its-a-boy-thing
 hash: 71790df4b63c9f0b8f1ccec28416f44d
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: https
-    host: www.1843magazine.com
-    path: /features/its-a-boy-thing
+year: 2016
+month: 09
+scheme: https
+host: www.1843magazine.com
+path: /features/its-a-boy-thing
 
 ---
 

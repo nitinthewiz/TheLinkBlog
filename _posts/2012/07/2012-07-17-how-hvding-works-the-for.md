@@ -3,13 +3,11 @@ title: "How Hvding works - The invisible helmet for bicyclists"
 date: 2012-07-17 09:55:22 +0000
 external-url: http://www.hovding.com/how_hovding_works/
 hash: 2c98f74c54d905d5ae63207696bb3a80
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.hovding.com
-    path: /how_hovding_works/
+year: 2012
+month: 07
+scheme: http
+host: www.hovding.com
+path: /how_hovding_works/
 
 ---
 

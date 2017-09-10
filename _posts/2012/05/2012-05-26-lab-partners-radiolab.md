@@ -3,13 +3,11 @@ title: "Lab Partners - Radiolab"
 date: 2012-05-26 21:19:20 +0000
 external-url: http://www.radiolab.org/labpartners/
 hash: d51ce86138cf83b4a7277165f49aac94
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.radiolab.org
-    path: /labpartners/
+year: 2012
+month: 05
+scheme: http
+host: www.radiolab.org
+path: /labpartners/
 
 ---
 

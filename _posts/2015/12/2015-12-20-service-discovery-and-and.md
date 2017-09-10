@@ -3,13 +3,11 @@ title: "Service discovery and load balancing with DCOS and marathon-lb: Part 2 -
 date: 2015-12-20 02:59:00 +0000
 external-url: https://mesosphere.com/blog/2015/12/13/service-discovery-and-load-balancing-with-dcos-and-marathon-lb-part-2/
 hash: 11359acc1ae08a7f47dd29aa5a659fdb
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: mesosphere.com
-    path: /blog/2015/12/13/service-discovery-and-load-balancing-with-dcos-and-marathon-lb-part-2/
+year: 2015
+month: 12
+scheme: https
+host: mesosphere.com
+path: /blog/2015/12/13/service-discovery-and-load-balancing-with-dcos-and-marathon-lb-part-2/
 
 ---
 

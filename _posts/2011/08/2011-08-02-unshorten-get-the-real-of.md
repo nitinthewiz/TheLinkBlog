@@ -3,13 +3,11 @@ title: "Unshorten - Get the real location of a short URL"
 date: 2011-08-02 16:48:43 +0000
 external-url: http://www.unshorten.com/index.php
 hash: 99c0cc73ed202f126160acc0d1e7209f
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: www.unshorten.com
-    path: /index.php
+year: 2011
+month: 08
+scheme: http
+host: www.unshorten.com
+path: /index.php
 
 ---
 

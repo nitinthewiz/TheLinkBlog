@@ -3,13 +3,11 @@ title: "WordPress 2.9, oh so fine"
 date: 2009-12-19 05:44:31 +0000
 external-url: http://wordpress.org/development/2009/12/wordpress-2-9/
 hash: 94cabe39deab212f833bf08635c6e766
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: wordpress.org
-    path: /development/2009/12/wordpress-2-9/
+year: 2009
+month: 12
+scheme: http
+host: wordpress.org
+path: /development/2009/12/wordpress-2-9/
 
 ---
 

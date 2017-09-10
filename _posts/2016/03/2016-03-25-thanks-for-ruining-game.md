@@ -3,13 +3,11 @@ title: "Thanks For Ruining Another Game Forever, Computers"
 date: 2016-03-25 23:41:25 +0000
 external-url: http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/
 hash: 81da6d5d9e00c965970d149a7375bb03
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.codinghorror.com
-    path: /thanks-for-ruining-another-game-forever-computers/
+year: 2016
+month: 03
+scheme: http
+host: blog.codinghorror.com
+path: /thanks-for-ruining-another-game-forever-computers/
 
 ---
 

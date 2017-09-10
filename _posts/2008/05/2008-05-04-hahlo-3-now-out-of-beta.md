@@ -3,13 +3,11 @@ title: "Hahlo 3: now out of beta"
 date: 2008-05-04 16:30:00 +0000
 external-url: http://www.tuaw.com/2008/05/04/hahlo-3-now-out-of-beta/
 hash: 0fc347e318eb1a76af5815b079f66b6d
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/05/04/hahlo-3-now-out-of-beta/
+year: 2008
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2008/05/04/hahlo-3-now-out-of-beta/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Hadoop Needs Better Bridges to Fulfill the Big Data Promise"
 date: 2012-06-26 21:20:57 +0000
 external-url: http://readwrite.com/2012/06/26/hadoop-needs-better-bridges-to-fulfill-big-data-promise
 hash: 798c8cb09d5b6b37e18bae816d95a7c3
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2012/06/26/hadoop-needs-better-bridges-to-fulfill-big-data-promise
+year: 2012
+month: 06
+scheme: http
+host: readwrite.com
+path: /2012/06/26/hadoop-needs-better-bridges-to-fulfill-big-data-promise
 
 ---
 

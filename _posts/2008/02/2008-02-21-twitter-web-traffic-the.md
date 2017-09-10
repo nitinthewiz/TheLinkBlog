@@ -3,13 +3,11 @@ title: "Twitter Web Traffic Around the World"
 date: 2008-02-21 02:03:00 +0000
 external-url: http://blog.twitter.com/2008/02/twitter-web-traffic-around-world.html
 hash: 6c7fc0146969d6dcf1a1274682e7d732
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2008/02/twitter-web-traffic-around-world.html
+year: 2008
+month: 02
+scheme: http
+host: blog.twitter.com
+path: /2008/02/twitter-web-traffic-around-world.html
 
 ---
 

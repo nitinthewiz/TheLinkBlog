@@ -3,13 +3,11 @@ title: "The story behind the new GitHub Enterprise"
 date: 2014-11-12 00:01:06 +0000
 external-url: https://github.com/blog/1919-the-story-behind-the-new-github-enterprise
 hash: 66917a70b3ae8a18580cfa21859ba0d4
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/1919-the-story-behind-the-new-github-enterprise
+year: 2014
+month: 11
+scheme: https
+host: github.com
+path: /blog/1919-the-story-behind-the-new-github-enterprise
 
 ---
 

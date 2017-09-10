@@ -3,13 +3,11 @@ title: "Rough seas"
 date: 2010-09-21 14:39:41 +0000
 external-url: http://kottke.org/10/09/rough-seas
 hash: 6867b196017edf407a0880ee5913b8f6
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/09/rough-seas
+year: 2010
+month: 09
+scheme: http
+host: kottke.org
+path: /10/09/rough-seas
 
 ---
 

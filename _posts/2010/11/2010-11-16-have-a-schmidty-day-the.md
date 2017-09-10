@@ -3,13 +3,11 @@ title: "Have a Schmidty day, Google chases the ‘iWallet’"
 date: 2010-11-16 13:54:12 +0000
 external-url: http://9to5mac.com/2010/11/16/have-a-scmidty-day-google-chases-the-iwallet/
 hash: 7b5067339d72879217405070728b9531
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2010/11/16/have-a-scmidty-day-google-chases-the-iwallet/
+year: 2010
+month: 11
+scheme: http
+host: 9to5mac.com
+path: /2010/11/16/have-a-scmidty-day-google-chases-the-iwallet/
 
 ---
 

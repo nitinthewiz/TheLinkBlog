@@ -3,13 +3,11 @@ title: "Goat Aurora Over Greenland"
 date: 2012-10-04 16:50:48 +0000
 external-url: http://apod.nasa.gov/apod/ap121003.html
 hash: d607dd5a5495c80b9a6e25d68432f2c9
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: apod.nasa.gov
-    path: /apod/ap121003.html
+year: 2012
+month: 10
+scheme: http
+host: apod.nasa.gov
+path: /apod/ap121003.html
 
 ---
 

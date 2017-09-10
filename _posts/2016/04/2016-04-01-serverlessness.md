@@ -3,13 +3,11 @@ title: "Serverlessness"
 date: 2016-04-01 11:37:20 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2016/03/31/Serverlessness
 hash: ef7cfb54d702c1efedfed10f34173a2e
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2016/03/31/Serverlessness
+year: 2016
+month: 04
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2016/03/31/Serverlessness
 
 ---
 

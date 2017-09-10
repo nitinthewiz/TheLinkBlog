@@ -3,13 +3,11 @@ title: "Google Pre-Launches New iPhone Interface"
 date: 2007-12-05 05:36:05 +0000
 external-url: http://techcrunch.com/2007/12/04/google-pre-launches-new-iphone-interface/
 hash: 9bd9da0f554879ed248228eb13337c61
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2007/12/04/google-pre-launches-new-iphone-interface/
+year: 2007
+month: 12
+scheme: http
+host: techcrunch.com
+path: /2007/12/04/google-pre-launches-new-iphone-interface/
 
 ---
 

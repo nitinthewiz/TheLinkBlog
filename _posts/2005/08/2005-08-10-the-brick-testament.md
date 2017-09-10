@@ -3,13 +3,11 @@ title: "The Brick Testament"
 date: 2005-08-10 20:33:14 +0000
 external-url: http://www.thebricktestament.com/genesis/index.html
 hash: b80def16b4c1c9cfd2c93bf95f936525
-annum:
-    year: 2005
-    month: 08
-url-parts:
-    scheme: http
-    host: www.thebricktestament.com
-    path: /genesis/index.html
+year: 2005
+month: 08
+scheme: http
+host: www.thebricktestament.com
+path: /genesis/index.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "How a Radical Shift Left Zappos Reeling"
 date: 2016-03-08 03:42:17 +0000
 external-url: http://fortune.com/zappos-tony-hsieh-holacracy/
 hash: e7d451f72802f32d30c12f1941608605
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: fortune.com
-    path: /zappos-tony-hsieh-holacracy/
+year: 2016
+month: 03
+scheme: http
+host: fortune.com
+path: /zappos-tony-hsieh-holacracy/
 
 ---
 

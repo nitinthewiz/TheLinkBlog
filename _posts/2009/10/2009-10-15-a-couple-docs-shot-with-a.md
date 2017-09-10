@@ -3,13 +3,11 @@ title: "A Couple Docs Shot With A Stills Camera"
 date: 2009-10-15 05:08:03 +0000
 external-url: http://www.aphotoeditor.com/2009/10/14/a-couple-docs-shot-with-a-stills-camera/
 hash: f02dc5f325a2b58b3cfc2caa71f2ea92
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.aphotoeditor.com
-    path: /2009/10/14/a-couple-docs-shot-with-a-stills-camera/
+year: 2009
+month: 10
+scheme: http
+host: www.aphotoeditor.com
+path: /2009/10/14/a-couple-docs-shot-with-a-stills-camera/
 
 ---
 

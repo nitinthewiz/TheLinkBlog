@@ -3,13 +3,11 @@ title: "Why We're Here: Twin Cities"
 date: 2011-01-31 19:36:47 +0000
 external-url: http://vimeo.com/19115634
 hash: 383bece8285e27e87e4f87f82929aa90
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /19115634
+year: 2011
+month: 01
+scheme: http
+host: vimeo.com
+path: /19115634
 
 ---
 

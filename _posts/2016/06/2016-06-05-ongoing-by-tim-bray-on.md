@@ -3,13 +3,11 @@ title: "ongoing by Tim Bray · On the Left"
 date: 2016-06-05 03:16:18 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2016/06/04/On-the-Left
 hash: 733e377210d960bf7a8ace27144324f7
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2016/06/04/On-the-Left
+year: 2016
+month: 06
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2016/06/04/On-the-Left
 
 ---
 

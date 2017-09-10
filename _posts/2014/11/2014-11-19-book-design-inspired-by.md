@@ -3,13 +3,11 @@ title: "Book design inspired by Edward Tufte - LaTeX Template on writeLaTeX"
 date: 2014-11-19 03:44:43 +0000
 external-url: https://www.writelatex.com/templates/book-design-inspired-by-edward-tufte/gcfbtdjfqdjh#.VGwR_ott7KA
 hash: a06c9606d7df88ca158b9aa5a5a9bfcb
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: https
-    host: www.writelatex.com
-    path: /templates/book-design-inspired-by-edward-tufte/gcfbtdjfqdjh
+year: 2014
+month: 11
+scheme: https
+host: www.writelatex.com
+path: /templates/book-design-inspired-by-edward-tufte/gcfbtdjfqdjh
 
 ---
 

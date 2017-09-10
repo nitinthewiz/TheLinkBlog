@@ -3,13 +3,11 @@ title: "Wikimedia Celebrates Hewlett Grant"
 date: 2009-08-23 21:22:10 +0000
 external-url: http://www.readwriteweb.com/archives/wikimedia_celebrates_hewlett_grant.php
 hash: 6850e0b6c4043f85a2360ac9f3d09496
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/wikimedia_celebrates_hewlett_grant.php
+year: 2009
+month: 08
+scheme: http
+host: www.readwriteweb.com
+path: /archives/wikimedia_celebrates_hewlett_grant.php
 
 ---
 

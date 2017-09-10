@@ -3,16 +3,14 @@ title: "The Cult of the Big Green Egg - United Tastes - NYTimes.com"
 date: 2011-07-13 18:14:45 +0000
 external-url: http://www.nytimes.com/2011/07/13/dining/the-cult-of-the-big-green-egg-united-tastes.html?_r=1&pagewanted=all?src=tptw
 hash: c87bb2dcb19ce41c08c70b4f30afa054
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /2011/07/13/dining/the-cult-of-the-big-green-egg-united-tastes.html
-    query:
-        _r: "1"
-        pagewanted: "all?src=tptw"
+year: 2011
+month: 07
+scheme: http
+host: www.nytimes.com
+path: /2011/07/13/dining/the-cult-of-the-big-green-egg-united-tastes.html
+query:
+    _r: "1"
+    pagewanted: "all?src=tptw"
 ---
 
 

@@ -3,13 +3,11 @@ title: "Djay for iPad Coming"
 date: 2010-11-19 10:00:17 +0000
 external-url: http://macapper.com/2010/11/19/djay-for-ipad-coming/
 hash: c9806b1ec513a978ecb6a04b122a2210
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2010/11/19/djay-for-ipad-coming/
+year: 2010
+month: 11
+scheme: http
+host: macapper.com
+path: /2010/11/19/djay-for-ipad-coming/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Midnight Sun"
 date: 2011-10-25 12:25:36 +0000
 external-url: http://vimeo.com/30581015
 hash: 63378c9f66309139638e1e340344a3c5
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /30581015
+year: 2011
+month: 10
+scheme: http
+host: vimeo.com
+path: /30581015
 
 ---
 

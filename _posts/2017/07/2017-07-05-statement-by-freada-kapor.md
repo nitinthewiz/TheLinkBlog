@@ -3,13 +3,11 @@ title: "Statement by Freada Kapor Klein and Mitch Kapor on the Resignation of Da
 date: 2017-07-05 22:47:25 +0000
 external-url: http://www.kaporcenter.org/press-coverage-posts/statement-by-freada-kapor-klein-and-mitch-kapor-on-the-resignation-of-dave-mcclure/
 hash: 1a7ffede7960f0d11a8de2bac3f8fcb4
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.kaporcenter.org
-    path: /press-coverage-posts/statement-by-freada-kapor-klein-and-mitch-kapor-on-the-resignation-of-dave-mcclure/
+year: 2017
+month: 07
+scheme: http
+host: www.kaporcenter.org
+path: /press-coverage-posts/statement-by-freada-kapor-klein-and-mitch-kapor-on-the-resignation-of-dave-mcclure/
 
 ---
 

@@ -3,13 +3,11 @@ title: "All OmniFocus scripts updated for a Start-based workflow"
 date: 2013-01-03 01:53:42 +0000
 external-url: http://bylr.net/3/2011/07/all-omnifocus-scripts-updated-for-a-start-based-workflow/
 hash: 74a83ab355cd46024568270677267914
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: bylr.net
-    path: /3/2011/07/all-omnifocus-scripts-updated-for-a-start-based-workflow/
+year: 2013
+month: 01
+scheme: http
+host: bylr.net
+path: /3/2011/07/all-omnifocus-scripts-updated-for-a-start-based-workflow/
 
 ---
 

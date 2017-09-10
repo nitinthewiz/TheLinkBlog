@@ -3,13 +3,11 @@ title: "Erin McKean: Redefining the dictionary"
 date: 2007-09-13 03:17:38 +0000
 external-url: http://www.ted.com/talks/erin_mckean_redefines_the_dictionary
 hash: 4ae22cdf2836ee5de04c8be6f3ebfff9
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /talks/erin_mckean_redefines_the_dictionary
+year: 2007
+month: 09
+scheme: http
+host: www.ted.com
+path: /talks/erin_mckean_redefines_the_dictionary
 
 ---
 

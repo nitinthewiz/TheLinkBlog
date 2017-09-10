@@ -3,13 +3,11 @@ title: "Moo Shoes - Vegan Shoes NYC"
 date: 2012-05-21 03:34:50 +0000
 external-url: http://www.mooshoes.com/
 hash: a51693e55846bc30d7f1d2118d769b73
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.mooshoes.com
-    path: /
+year: 2012
+month: 05
+scheme: http
+host: www.mooshoes.com
+path: /
 
 ---
 

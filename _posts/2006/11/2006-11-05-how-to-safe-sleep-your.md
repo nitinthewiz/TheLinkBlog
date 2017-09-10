@@ -3,13 +3,11 @@ title: "How to Safe Sleep (Hibernate) Your Mac"
 date: 2006-11-05 17:56:10 +0000
 external-url: http://www.andrewescobar.com/archive/2005/11/11/how-to-safe-sleep-your-mac/
 hash: d9473083d1d40ae7b736a4da9f90b4c2
-annum:
-    year: 2006
-    month: 11
-url-parts:
-    scheme: http
-    host: www.andrewescobar.com
-    path: /archive/2005/11/11/how-to-safe-sleep-your-mac/
+year: 2006
+month: 11
+scheme: http
+host: www.andrewescobar.com
+path: /archive/2005/11/11/how-to-safe-sleep-your-mac/
 
 ---
 

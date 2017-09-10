@@ -3,13 +3,11 @@ title: "Twitter Meter"
 date: 2008-03-02 02:28:00 +0000
 external-url: http://blog.twitter.com/2008/03/twitter-meter.html
 hash: d83ce537527bb733c625edaf639afffe
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2008/03/twitter-meter.html
+year: 2008
+month: 03
+scheme: http
+host: blog.twitter.com
+path: /2008/03/twitter-meter.html
 
 ---
 

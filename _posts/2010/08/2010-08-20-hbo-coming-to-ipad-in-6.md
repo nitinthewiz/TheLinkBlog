@@ -3,13 +3,11 @@ title: "HBO coming to iPad in 6 months"
 date: 2010-08-20 15:54:03 +0000
 external-url: http://9to5mac.com/hbo-ipad-in-6-months
 hash: 7bfc951e609fe29990527f97dee1eb4c
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /hbo-ipad-in-6-months
+year: 2010
+month: 08
+scheme: http
+host: 9to5mac.com
+path: /hbo-ipad-in-6-months
 
 ---
 

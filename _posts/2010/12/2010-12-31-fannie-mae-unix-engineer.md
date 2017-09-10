@@ -3,13 +3,11 @@ title: "Fannie Mae UNIX Engineer Gets 41 Months for Planting Logic Bomb - The Ne
 date: 2010-12-31 05:38:45 +0000
 external-url: http://blog.executivebiz.com/2010/12/fannie-mae-unix-engineer-gets-41-months-for-planting-logic-bomb/
 hash: 515b60cb28f82d03b0c551cdfceb5fc6
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.executivebiz.com
-    path: /2010/12/fannie-mae-unix-engineer-gets-41-months-for-planting-logic-bomb/
+year: 2010
+month: 12
+scheme: http
+host: blog.executivebiz.com
+path: /2010/12/fannie-mae-unix-engineer-gets-41-months-for-planting-logic-bomb/
 
 ---
 

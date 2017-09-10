@@ -3,13 +3,11 @@ title: "WriteRoom Hog Bay Software"
 date: 2007-02-22 04:45:37 +0000
 external-url: http://www.hogbaysoftware.com/products/writeroom
 hash: ac7a62f42d88ea939853104694e11c4a
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.hogbaysoftware.com
-    path: /products/writeroom
+year: 2007
+month: 02
+scheme: http
+host: www.hogbaysoftware.com
+path: /products/writeroom
 
 ---
 

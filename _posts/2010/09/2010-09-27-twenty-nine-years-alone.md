@@ -3,13 +3,11 @@ title: "Twenty-nine years alone"
 date: 2010-09-27 16:20:12 +0000
 external-url: http://kottke.org/10/09/twenty-nine-years-alone
 hash: 1850b5003fa79c3b5088689001c609ab
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/09/twenty-nine-years-alone
+year: 2010
+month: 09
+scheme: http
+host: kottke.org
+path: /10/09/twenty-nine-years-alone
 
 ---
 

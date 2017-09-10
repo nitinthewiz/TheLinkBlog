@@ -3,13 +3,11 @@ title: "Four LED light bulbs reviewed for normal use"
 date: 2012-04-11 21:42:11 +0000
 external-url: http://www.marco.org/2012/04/09/led-light-bulbs-reviewed
 hash: debbb9681f2b4b2ceb71e7f5d8b9b973
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2012/04/09/led-light-bulbs-reviewed
+year: 2012
+month: 04
+scheme: http
+host: www.marco.org
+path: /2012/04/09/led-light-bulbs-reviewed
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dow Jones' Sale Price Of Fin Solutions Shockingly Low: $13.5 Million, On
 date: 2009-11-26 05:35:56 +0000
 external-url: https://gigaom.com/2009/11/25/419-dow-jones-sale-price-of-fin-solutions-shockingly-low-13-5-million-on-14/
 hash: 668f908b14b791f0f1238c9b3edc888c
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2009/11/25/419-dow-jones-sale-price-of-fin-solutions-shockingly-low-13-5-million-on-14/
+year: 2009
+month: 11
+scheme: https
+host: gigaom.com
+path: /2009/11/25/419-dow-jones-sale-price-of-fin-solutions-shockingly-low-13-5-million-on-14/
 
 ---
 

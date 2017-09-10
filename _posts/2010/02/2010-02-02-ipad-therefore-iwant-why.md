@@ -3,13 +3,11 @@ title: "iPad therefore iWant? Probably. Why? iDunno"
 date: 2010-02-02 05:02:02 +0000
 external-url: http://www.aphotoeditor.com/2010/02/01/ipad-therefore-iwant-probably-why-idunno/
 hash: 4f9d270b5a416abc5d0296e33addeda1
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: www.aphotoeditor.com
-    path: /2010/02/01/ipad-therefore-iwant-probably-why-idunno/
+year: 2010
+month: 02
+scheme: http
+host: www.aphotoeditor.com
+path: /2010/02/01/ipad-therefore-iwant-probably-why-idunno/
 
 ---
 

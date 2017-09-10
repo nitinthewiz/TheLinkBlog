@@ -3,13 +3,11 @@ title: "Day One Premium and the Future"
 date: 2017-07-06 02:35:34 +0000
 external-url: http://www.macdrifter.com/2017/07/day-one-premium-and-the-future.html
 hash: 7eba0ff5e22bf76470bbd54869a9c42b
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.macdrifter.com
-    path: /2017/07/day-one-premium-and-the-future.html
+year: 2017
+month: 07
+scheme: http
+host: www.macdrifter.com
+path: /2017/07/day-one-premium-and-the-future.html
 
 ---
 

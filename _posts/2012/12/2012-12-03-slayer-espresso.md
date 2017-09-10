@@ -3,13 +3,11 @@ title: "Slayer Espresso"
 date: 2012-12-03 02:07:18 +0000
 external-url: http://www.slayerespresso.com/
 hash: 47896fd2d1ce3ff8c11762b7b24049a0
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.slayerespresso.com
-    path: /
+year: 2012
+month: 12
+scheme: http
+host: www.slayerespresso.com
+path: /
 
 ---
 

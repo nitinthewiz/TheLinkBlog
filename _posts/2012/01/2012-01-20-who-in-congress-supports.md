@@ -3,13 +3,11 @@ title: "Who in Congress Supports SOPA and PIPA/PROTECT-IP?"
 date: 2012-01-20 22:27:56 +0000
 external-url: http://projects.propublica.org/sopa/
 hash: df07a9ab06a8553752c26bdd6089fbae
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: http
-    host: projects.propublica.org
-    path: /sopa/
+year: 2012
+month: 01
+scheme: http
+host: projects.propublica.org
+path: /sopa/
 
 ---
 

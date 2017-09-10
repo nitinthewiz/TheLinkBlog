@@ -3,13 +3,11 @@ title: "Avoiding Bogus Alerts Using AWS-Based Proxies & Outsourced BGP for Distr
 date: 2014-03-06 03:20:00 +0000
 external-url: http://blog.logicmonitor.com/2014/03/05/avoiding-bogus-alerts-using-aws-based-proxies-outsourced-bgp-for-distributed-monitoring/
 hash: 93c20dc5cd6f08670c7538d11c46b9e4
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.logicmonitor.com
-    path: /2014/03/05/avoiding-bogus-alerts-using-aws-based-proxies-outsourced-bgp-for-distributed-monitoring/
+year: 2014
+month: 03
+scheme: http
+host: blog.logicmonitor.com
+path: /2014/03/05/avoiding-bogus-alerts-using-aws-based-proxies-outsourced-bgp-for-distributed-monitoring/
 
 ---
 

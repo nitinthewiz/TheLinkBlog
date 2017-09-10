@@ -3,13 +3,11 @@ title: "IPhone WebKit Goodness: 3D CSS Transforms and ontouch events"
 date: 2008-04-07 06:01:15 +0000
 external-url: http://ajaxian.com/archives/iphone-webkit-goodness-3d-css-transforms-and-ontouch-events
 hash: da7d5d936929b79c0653b4c27360fff0
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/iphone-webkit-goodness-3d-css-transforms-and-ontouch-events
+year: 2008
+month: 04
+scheme: http
+host: ajaxian.com
+path: /archives/iphone-webkit-goodness-3d-css-transforms-and-ontouch-events
 
 ---
 

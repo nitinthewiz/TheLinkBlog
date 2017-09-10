@@ -3,13 +3,11 @@ title: "Semantic MediaWiki: A promising platform for the development of web geos
 date: 2013-10-08 01:40:24 +0000
 external-url: http://geospatialelucubrations.blogspot.com/2013/10/semantic-mediawiki-promising-platform.html
 hash: fb11050bbe0fc5d0f4a7d7991bac46cb
-annum:
-    year: 2013
-    month: 10
-url-parts:
-    scheme: http
-    host: geospatialelucubrations.blogspot.com
-    path: /2013/10/semantic-mediawiki-promising-platform.html
+year: 2013
+month: 10
+scheme: http
+host: geospatialelucubrations.blogspot.com
+path: /2013/10/semantic-mediawiki-promising-platform.html
 
 ---
 

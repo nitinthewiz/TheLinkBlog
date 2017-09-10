@@ -3,13 +3,11 @@ title: "The Power of Open"
 date: 2011-07-15 20:14:55 +0000
 external-url: http://thepowerofopen.org/
 hash: 57f4d94a0732ec2806f080ab648b8b06
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: thepowerofopen.org
-    path: /
+year: 2011
+month: 07
+scheme: http
+host: thepowerofopen.org
+path: /
 
 ---
 

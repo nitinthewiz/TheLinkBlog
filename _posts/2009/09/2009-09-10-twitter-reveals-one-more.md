@@ -3,13 +3,11 @@ title: "Twitter reveals one more branch of its retention strategy"
 date: 2009-09-10 12:07:58 +0000
 external-url: http://venturebeat.com/2009/09/09/twitter-reveals-one-more-branch-of-its-retention-strategy/
 hash: 04a915d22792484ba78958cd7a5f7343
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/09/09/twitter-reveals-one-more-branch-of-its-retention-strategy/
+year: 2009
+month: 09
+scheme: http
+host: venturebeat.com
+path: /2009/09/09/twitter-reveals-one-more-branch-of-its-retention-strategy/
 
 ---
 

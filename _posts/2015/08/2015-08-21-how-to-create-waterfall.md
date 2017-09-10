@@ -3,13 +3,11 @@ title: "How to create waterfall chart in Excel 2010 - 2013"
 date: 2015-08-21 21:30:44 +0000
 external-url: https://www.ablebits.com/office-addins-blog/2014/07/25/waterfall-chart-in-excel/
 hash: 790ba9b5f60cca7a1b2b64a8c17ffc2e
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: https
-    host: www.ablebits.com
-    path: /office-addins-blog/2014/07/25/waterfall-chart-in-excel/
+year: 2015
+month: 08
+scheme: https
+host: www.ablebits.com
+path: /office-addins-blog/2014/07/25/waterfall-chart-in-excel/
 
 ---
 

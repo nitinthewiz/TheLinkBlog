@@ -3,13 +3,11 @@ title: "Ghostwriting Widespread in Medical Journals, Study Says - NYTimes.com"
 date: 2009-10-05 17:26:01 +0000
 external-url: http://www.nytimes.com/2009/09/11/business/11ghost.html
 hash: 2fdbecdf06b0ce6d333a19e813be4f5f
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.nytimes.com
-    path: /2009/09/11/business/11ghost.html
+year: 2009
+month: 10
+scheme: http
+host: www.nytimes.com
+path: /2009/09/11/business/11ghost.html
 
 ---
 

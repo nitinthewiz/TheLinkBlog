@@ -3,13 +3,11 @@ title: "StarTribune.com vs. Minnesota Public Radio’s Website"
 date: 2009-11-16 06:01:51 +0000
 external-url: http://www.thedeets.com/2009/11/16/startribune-com-vs-minnesota-public-radios-website/
 hash: 68ff060e2eeb162790583722838a9286
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: www.thedeets.com
-    path: /2009/11/16/startribune-com-vs-minnesota-public-radios-website/
+year: 2009
+month: 11
+scheme: http
+host: www.thedeets.com
+path: /2009/11/16/startribune-com-vs-minnesota-public-radios-website/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Keybase.io - Tim Bray"
 date: 2014-03-21 12:51:06 +0000
 external-url: https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase
 hash: 435d361751a3d6861721504a8d1d604a
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: https
-    host: www.tbray.org
-    path: /ongoing/When/201x/2014/03/19/Keybase
+year: 2014
+month: 03
+scheme: https
+host: www.tbray.org
+path: /ongoing/When/201x/2014/03/19/Keybase
 
 ---
 

@@ -3,13 +3,11 @@ title: "NetLogo Models Library: Ethnocentrism"
 date: 2017-01-19 14:36:01 +0000
 external-url: http://ccl.northwestern.edu/netlogo/models/Ethnocentrism
 hash: 21921f3b9ae9f267f35c12ecdc2b36db
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: ccl.northwestern.edu
-    path: /netlogo/models/Ethnocentrism
+year: 2017
+month: 01
+scheme: http
+host: ccl.northwestern.edu
+path: /netlogo/models/Ethnocentrism
 
 ---
 

@@ -3,13 +3,11 @@ title: "40 Examples of Brilliant Responsive Website Layouts"
 date: 2012-06-28 13:42:36 +0000
 external-url: http://speckyboy.com/2012/02/29/40-examples-of-brilliant-responsive-website-layouts/
 hash: 2dcbb3c6f0c0628db36e354dc48a67e5
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: speckyboy.com
-    path: /2012/02/29/40-examples-of-brilliant-responsive-website-layouts/
+year: 2012
+month: 06
+scheme: http
+host: speckyboy.com
+path: /2012/02/29/40-examples-of-brilliant-responsive-website-layouts/
 
 ---
 

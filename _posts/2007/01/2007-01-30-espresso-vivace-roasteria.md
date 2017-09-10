@@ -3,13 +3,11 @@ title: "Espresso Vivace Roasteria"
 date: 2007-01-30 15:46:14 +0000
 external-url: http://www.espressovivace.com/blends.html
 hash: d2b4b98cc9379d2c362fa0cf1aad8f7c
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.espressovivace.com
-    path: /blends.html
+year: 2007
+month: 01
+scheme: http
+host: www.espressovivace.com
+path: /blends.html
 
 ---
 

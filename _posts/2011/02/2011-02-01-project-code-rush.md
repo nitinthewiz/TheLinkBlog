@@ -3,13 +3,11 @@ title: "Project Code Rush"
 date: 2011-02-01 19:02:01 +0000
 external-url: http://clickmovement.org/coderush
 hash: 911b03e01e1da7a901ee5d4352c47a9d
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: clickmovement.org
-    path: /coderush
+year: 2011
+month: 02
+scheme: http
+host: clickmovement.org
+path: /coderush
 
 ---
 

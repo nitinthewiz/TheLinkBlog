@@ -3,13 +3,11 @@ title: "Open Semantic Data Association (OSDA)"
 date: 2013-01-29 17:53:42 +0000
 external-url: http://opensemanticdata.org/
 hash: 824b53733625a4ef181c33706fec88db
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: opensemanticdata.org
-    path: /
+year: 2013
+month: 01
+scheme: http
+host: opensemanticdata.org
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "A Guide to Python's Magic Methods"
 date: 2012-03-19 18:06:50 +0000
 external-url: http://www.rafekettler.com/magicmethods.html
 hash: 52d075f8541edfe46af04b3ffd69322a
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.rafekettler.com
-    path: /magicmethods.html
+year: 2012
+month: 03
+scheme: http
+host: www.rafekettler.com
+path: /magicmethods.html
 
 ---
 

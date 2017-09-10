@@ -3,13 +3,11 @@ title: "I'm hiring a personal iOS prototyper by Jason Fried of 37signals"
 date: 2012-11-06 22:20:14 +0000
 external-url: https://signalvnoise.com/posts/3307-im-hiring-a-personal-ios-prototyper
 hash: 0da7c8f08c64fba23a334dd374e22202
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/3307-im-hiring-a-personal-ios-prototyper
+year: 2012
+month: 11
+scheme: https
+host: signalvnoise.com
+path: /posts/3307-im-hiring-a-personal-ios-prototyper
 
 ---
 

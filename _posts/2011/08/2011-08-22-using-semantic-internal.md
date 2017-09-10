@@ -3,13 +3,11 @@ title: "Using Semantic Internal Objects to build dynamic Book gallery « jmresea
 date: 2011-08-22 04:59:06 +0000
 external-url: http://jmresearchgroup.wordpress.com/2011/08/20/using-semantic-internal-objects-to-build-dynamic-book-gallery/
 hash: 139d0f8b4a438640fdebc1c9568b4e52
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: jmresearchgroup.wordpress.com
-    path: /2011/08/20/using-semantic-internal-objects-to-build-dynamic-book-gallery/
+year: 2011
+month: 08
+scheme: http
+host: jmresearchgroup.wordpress.com
+path: /2011/08/20/using-semantic-internal-objects-to-build-dynamic-book-gallery/
 
 ---
 

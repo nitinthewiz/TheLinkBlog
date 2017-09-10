@@ -3,13 +3,11 @@ title: "An Exhaustive Study of Twitter Users Across the World"
 date: 2012-10-11 19:55:31 +0000
 external-url: http://www.beevolve.com/twitter-statistics/
 hash: 71a06586f7a1b8895f44d2f529d6fb91
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.beevolve.com
-    path: /twitter-statistics/
+year: 2012
+month: 10
+scheme: http
+host: www.beevolve.com
+path: /twitter-statistics/
 
 ---
 

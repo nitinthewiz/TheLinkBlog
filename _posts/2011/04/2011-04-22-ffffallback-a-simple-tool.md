@@ -3,13 +3,11 @@ title: "FFFFALLBACK - A simple tool for bulletproof web typography."
 date: 2011-04-22 22:11:04 +0000
 external-url: http://ffffallback.com/
 hash: 737bcc868b4cbc80955a6463fec15713
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: ffffallback.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: ffffallback.com
+path: /
 
 ---
 

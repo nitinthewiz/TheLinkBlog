@@ -3,13 +3,11 @@ title: "DrupalCon Code of Conduct (Revised Draft)"
 date: 2012-06-15 21:09:45 +0000
 external-url: https://groups.drupal.org/node/235308
 hash: 67102792dca409883c76111abc919575
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: https
-    host: groups.drupal.org
-    path: /node/235308
+year: 2012
+month: 06
+scheme: https
+host: groups.drupal.org
+path: /node/235308
 
 ---
 

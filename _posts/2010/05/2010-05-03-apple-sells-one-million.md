@@ -3,13 +3,11 @@ title: "Apple Sells One Million iPads"
 date: 2010-05-03 22:45:16 +0000
 external-url: http://www.cnbc.com/id/36911690
 hash: 2d6d5c525f4379406e957b48c925257b
-annum:
-    year: 2010
-    month: 05
-url-parts:
-    scheme: http
-    host: www.cnbc.com
-    path: /id/36911690
+year: 2010
+month: 05
+scheme: http
+host: www.cnbc.com
+path: /id/36911690
 
 ---
 

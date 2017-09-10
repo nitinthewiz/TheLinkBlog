@@ -3,13 +3,11 @@ title: "Richat Structure - Wikipedia, the free encyclopedia"
 date: 2013-02-23 02:07:14 +0000
 external-url: http://en.wikipedia.org/wiki/Richat_Structure
 hash: 1843dea6a514abd879a0b6801c7a6812
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Richat_Structure
+year: 2013
+month: 02
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Richat_Structure
 
 ---
 

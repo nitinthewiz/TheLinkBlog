@@ -3,13 +3,11 @@ title: "Bitcoin Is Broken"
 date: 2013-11-05 15:29:58 +0000
 external-url: http://hackingdistributed.com/2013/11/04/bitcoin-is-broken/
 hash: e84c048b87d982fbc30134df3dc2bd6d
-annum:
-    year: 2013
-    month: 11
-url-parts:
-    scheme: http
-    host: hackingdistributed.com
-    path: /2013/11/04/bitcoin-is-broken/
+year: 2013
+month: 11
+scheme: http
+host: hackingdistributed.com
+path: /2013/11/04/bitcoin-is-broken/
 
 ---
 

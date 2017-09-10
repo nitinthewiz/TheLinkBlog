@@ -3,13 +3,11 @@ title: "Caine's Arcade"
 date: 2012-04-12 22:08:27 +0000
 external-url: http://vimeo.com/40000072
 hash: e3b3e8b146d922ee74f5e5a50cc53401
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /40000072
+year: 2012
+month: 04
+scheme: http
+host: vimeo.com
+path: /40000072
 
 ---
 

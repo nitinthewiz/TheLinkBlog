@@ -3,13 +3,11 @@ title: "Chinese official on SMS voting: txtng votes ripe 4 abuse"
 date: 2008-03-05 20:28:00 +0000
 external-url: http://arstechnica.com/gadgets/2008/03/chinese-official-on-sms-voting-txtng-votes-ripe-4-abuse/
 hash: 384ca64789fe87c401329129214f0c40
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /gadgets/2008/03/chinese-official-on-sms-voting-txtng-votes-ripe-4-abuse/
+year: 2008
+month: 03
+scheme: http
+host: arstechnica.com
+path: /gadgets/2008/03/chinese-official-on-sms-voting-txtng-votes-ripe-4-abuse/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Fear and Loathing and Windows 8"
 date: 2012-06-01 05:10:43 +0000
 external-url: http://mobileopportunity.blogspot.com/2012/05/fear-and-loathing-and-windows-8.html
 hash: 70de030901c8ec917a3ee3311fa9dff2
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: mobileopportunity.blogspot.com
-    path: /2012/05/fear-and-loathing-and-windows-8.html
+year: 2012
+month: 06
+scheme: http
+host: mobileopportunity.blogspot.com
+path: /2012/05/fear-and-loathing-and-windows-8.html
 
 ---
 

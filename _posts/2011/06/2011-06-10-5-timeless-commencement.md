@@ -3,13 +3,11 @@ title: "5 Timeless Commencement Addresses"
 date: 2011-06-10 21:54:22 +0000
 external-url: http://www.brainpickings.org/index.php/2011/06/10/best-commencement-graduation-speeches/
 hash: ec391e4bfc17581baa3c9fa2447367ec
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.brainpickings.org
-    path: /index.php/2011/06/10/best-commencement-graduation-speeches/
+year: 2011
+month: 06
+scheme: http
+host: www.brainpickings.org
+path: /index.php/2011/06/10/best-commencement-graduation-speeches/
 
 ---
 

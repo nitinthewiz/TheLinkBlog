@@ -3,13 +3,11 @@ title: "Bay Area to Standard American English Translator."
 date: 2015-07-29 08:09:37 +0000
 external-url: http://www.mcsweeneys.net/articles/bay-area-to-standard-american-english-translator
 hash: 00df71e22ee13337af7d93c1441d38ca
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: www.mcsweeneys.net
-    path: /articles/bay-area-to-standard-american-english-translator
+year: 2015
+month: 07
+scheme: http
+host: www.mcsweeneys.net
+path: /articles/bay-area-to-standard-american-english-translator
 
 ---
 

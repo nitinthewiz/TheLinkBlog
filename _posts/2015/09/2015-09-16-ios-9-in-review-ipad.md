@@ -3,13 +3,11 @@ title: "iOS 9 in review: iPad productivity"
 date: 2015-09-16 16:24:43 +0000
 external-url: http://sixcolors.com/post/2015/09/ios-9-in-review-ipad-productivity/
 hash: 57311627d4c6901fb3fb893874af6b11
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: sixcolors.com
-    path: /post/2015/09/ios-9-in-review-ipad-productivity/
+year: 2015
+month: 09
+scheme: http
+host: sixcolors.com
+path: /post/2015/09/ios-9-in-review-ipad-productivity/
 
 ---
 

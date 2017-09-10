@@ -3,13 +3,11 @@ title: "What If Social Networks Just Arent Profitable?"
 date: 2012-07-17 10:04:54 +0000
 external-url: http://powazek.com/posts/3024
 hash: 05df52064dd97fe64d8cd775c7f049d6
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: powazek.com
-    path: /posts/3024
+year: 2012
+month: 07
+scheme: http
+host: powazek.com
+path: /posts/3024
 
 ---
 

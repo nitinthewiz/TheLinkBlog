@@ -3,13 +3,11 @@ title: "I Just Fell In Love With FriendFeed"
 date: 2008-03-25 14:10:51 +0000
 external-url: http://avc.blogs.com/a_vc/2008/03/i-just-fell-in.html
 hash: 8cbb6aca543d6cae0cb2e7905ceb11cf
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: avc.blogs.com
-    path: /a_vc/2008/03/i-just-fell-in.html
+year: 2008
+month: 03
+scheme: http
+host: avc.blogs.com
+path: /a_vc/2008/03/i-just-fell-in.html
 
 ---
 

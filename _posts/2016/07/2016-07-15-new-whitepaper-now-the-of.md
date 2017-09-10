@@ -3,13 +3,11 @@ title: "New Whitepaper Now Available: The Security Perspective of the AWS Cloud 
 date: 2016-07-15 10:46:37 +0000
 external-url: http://blogs.aws.amazon.com/security/post/Tx1X3HU67FA1F2N/New-Whitepaper-Now-Available-The-Security-Perspective-of-the-AWS-Cloud-Adoption
 hash: 776ab9cba2f68a484474c5b46dd2f457
-annum:
-    year: 2016
-    month: 07
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /security/post/Tx1X3HU67FA1F2N/New-Whitepaper-Now-Available-The-Security-Perspective-of-the-AWS-Cloud-Adoption
+year: 2016
+month: 07
+scheme: http
+host: blogs.aws.amazon.com
+path: /security/post/Tx1X3HU67FA1F2N/New-Whitepaper-Now-Available-The-Security-Perspective-of-the-AWS-Cloud-Adoption
 
 ---
 

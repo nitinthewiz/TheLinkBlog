@@ -3,13 +3,11 @@ title: "Major glitch in Bitcoin network sparks sell-off; price temporarily falls
 date: 2013-03-12 16:14:12 +0000
 external-url: http://arstechnica.com/business/2013/03/major-glitch-in-bitcoin-network-sparks-sell-off-price-temporarily-falls-23/
 hash: b409b3683c9d24e0d931f2915db61f74
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /business/2013/03/major-glitch-in-bitcoin-network-sparks-sell-off-price-temporarily-falls-23/
+year: 2013
+month: 03
+scheme: http
+host: arstechnica.com
+path: /business/2013/03/major-glitch-in-bitcoin-network-sparks-sell-off-price-temporarily-falls-23/
 
 ---
 

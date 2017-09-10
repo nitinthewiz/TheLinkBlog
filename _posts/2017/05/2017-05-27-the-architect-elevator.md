@@ -3,13 +3,11 @@ title: "The Architect Elevator — Visiting the upper floors"
 date: 2017-05-27 03:23:24 +0000
 external-url: https://martinfowler.com/articles/architect-elevator.html
 hash: 5b6a42f6b8ec3788b2f2f169b1bf1d89
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: martinfowler.com
-    path: /articles/architect-elevator.html
+year: 2017
+month: 05
+scheme: https
+host: martinfowler.com
+path: /articles/architect-elevator.html
 
 ---
 

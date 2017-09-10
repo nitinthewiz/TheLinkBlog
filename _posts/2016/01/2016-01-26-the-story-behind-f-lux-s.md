@@ -3,13 +3,11 @@ title: "The Story Behind f.lux, the Night Owl's Color-Shifting Sleep App of Choi
 date: 2016-01-26 10:28:01 +0000
 external-url: http://motherboard.vice.com/en_ca/read/the-story-behind-flux-the-night-owls-color-shifting-sleep-app-of-choice
 hash: 0122c17e4b6ce0e7414dcf2d1cfc4037
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: motherboard.vice.com
-    path: /en_ca/read/the-story-behind-flux-the-night-owls-color-shifting-sleep-app-of-choice
+year: 2016
+month: 01
+scheme: http
+host: motherboard.vice.com
+path: /en_ca/read/the-story-behind-flux-the-night-owls-color-shifting-sleep-app-of-choice
 
 ---
 

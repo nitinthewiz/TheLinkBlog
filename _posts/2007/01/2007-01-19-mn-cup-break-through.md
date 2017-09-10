@@ -3,13 +3,11 @@ title: "MN Cup (Break Through Ideas)"
 date: 2007-01-19 21:34:24 +0000
 external-url: http://www.breakthroughideas.org/
 hash: 568759e026d6ee8f133b842579dbfe15
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.breakthroughideas.org
-    path: /
+year: 2007
+month: 01
+scheme: http
+host: www.breakthroughideas.org
+path: /
 
 ---
 

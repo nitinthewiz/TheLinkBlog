@@ -3,13 +3,11 @@ title: "A Peek At Brightkite For the iPhone"
 date: 2008-10-17 02:32:34 +0000
 external-url: http://techcrunch.com/2008/10/16/a-peek-at-brightkite-for-the-iphone/
 hash: a0575dbace0a195f523218d64e5c666c
-annum:
-    year: 2008
-    month: 10
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/10/16/a-peek-at-brightkite-for-the-iphone/
+year: 2008
+month: 10
+scheme: http
+host: techcrunch.com
+path: /2008/10/16/a-peek-at-brightkite-for-the-iphone/
 
 ---
 

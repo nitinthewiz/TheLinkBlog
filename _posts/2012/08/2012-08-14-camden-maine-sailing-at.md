@@ -3,13 +3,11 @@ title: "Camden Maine Sailing At Its Best - Schooner Olad"
 date: 2012-08-14 01:35:37 +0000
 external-url: http://www.maineschooners.com/
 hash: b0d4d35ffb1bb2276b72b2a15ac7e7fb
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.maineschooners.com
-    path: /
+year: 2012
+month: 08
+scheme: http
+host: www.maineschooners.com
+path: /
 
 ---
 

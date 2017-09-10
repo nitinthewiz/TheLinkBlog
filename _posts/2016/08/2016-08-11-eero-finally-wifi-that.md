@@ -3,13 +3,11 @@ title: "eero - Finally, WiFi that works"
 date: 2016-08-11 02:27:04 +0000
 external-url: https://eero.com/
 hash: a49430980456df6865d79f7996226abf
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: eero.com
-    path: /
+year: 2016
+month: 08
+scheme: https
+host: eero.com
+path: /
 
 ---
 

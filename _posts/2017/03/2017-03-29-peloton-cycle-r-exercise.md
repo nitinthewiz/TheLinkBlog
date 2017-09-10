@@ -3,13 +3,11 @@ title: "Peloton Cycle ®| Exercise Bike With Indoor Cycling Classes Streamed Liv
 date: 2017-03-29 02:45:22 +0000
 external-url: https://www.pelotoncycle.com/
 hash: 16d70db80a79e2d1909fff0d0b69096c
-annum:
-    year: 2017
-    month: 03
-url-parts:
-    scheme: https
-    host: www.pelotoncycle.com
-    path: /
+year: 2017
+month: 03
+scheme: https
+host: www.pelotoncycle.com
+path: /
 
 ---
 

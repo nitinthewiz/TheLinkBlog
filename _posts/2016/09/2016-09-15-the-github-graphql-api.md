@@ -3,13 +3,11 @@ title: "The GitHub GraphQL API"
 date: 2016-09-15 10:42:18 +0000
 external-url: http://githubengineering.com/the-github-graphql-api/
 hash: d9457ea0fba660a5011e8671f44f212c
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: http
-    host: githubengineering.com
-    path: /the-github-graphql-api/
+year: 2016
+month: 09
+scheme: http
+host: githubengineering.com
+path: /the-github-graphql-api/
 
 ---
 

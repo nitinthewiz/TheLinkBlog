@@ -3,13 +3,11 @@ title: "The Tiger Oil Memos"
 date: 2010-08-09 22:52:47 +0000
 external-url: http://www.lettersofnote.com/2010/08/tiger-oil-memos.html
 hash: 3885f7415e720ff0732f25e1af2b3391
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.lettersofnote.com
-    path: /2010/08/tiger-oil-memos.html
+year: 2010
+month: 08
+scheme: http
+host: www.lettersofnote.com
+path: /2010/08/tiger-oil-memos.html
 
 ---
 

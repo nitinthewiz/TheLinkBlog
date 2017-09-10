@@ -3,13 +3,11 @@ title: "8thBridge Graphite Social Commerce Platform Taps Facebook Open Graph Act
 date: 2012-04-25 21:56:05 +0000
 external-url: http://allfacebook.com/8thbridge-graphite_b87035
 hash: 8f410a369cce7436c4be33a871e505da
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /8thbridge-graphite_b87035
+year: 2012
+month: 04
+scheme: http
+host: allfacebook.com
+path: /8thbridge-graphite_b87035
 
 ---
 

@@ -3,13 +3,11 @@ title: "EFF Calls on Websites to Implement HTTPS As Part of Data Privacy Day"
 date: 2012-01-24 03:53:19 +0000
 external-url: https://www.eff.org/deeplinks/2012/01/eff-calls-websites-implement-https-part-data-privacy-day
 hash: 5365f8476fce663db8fdac0a1673b47e
-annum:
-    year: 2012
-    month: 01
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2012/01/eff-calls-websites-implement-https-part-data-privacy-day
+year: 2012
+month: 01
+scheme: https
+host: www.eff.org
+path: /deeplinks/2012/01/eff-calls-websites-implement-https-part-data-privacy-day
 
 ---
 

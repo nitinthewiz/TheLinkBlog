@@ -3,13 +3,11 @@ title: "Auto Complete Crashing | SPS Commerce Customer Community"
 date: 2015-09-02 18:58:17 +0000
 external-url: https://supportcenter.spscommerce.com/spscommerce/topics/auto-complete-crashing
 hash: 048a5b4b2bda1d9e901d8a75dcd4f171
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: supportcenter.spscommerce.com
-    path: /spscommerce/topics/auto-complete-crashing
+year: 2015
+month: 09
+scheme: https
+host: supportcenter.spscommerce.com
+path: /spscommerce/topics/auto-complete-crashing
 
 ---
 

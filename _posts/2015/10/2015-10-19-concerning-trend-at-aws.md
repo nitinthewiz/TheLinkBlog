@@ -3,13 +3,11 @@ title: "Concerning Trend at AWS re:Play"
 date: 2015-10-19 12:57:22 +0000
 external-url: http://mjknox.com/women-in-tech/re:invent/2015/10/09/re:Play-Horroshow.html
 hash: 99d5c2adeba8c45e9e0f22d39660af9e
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: mjknox.com
-    path: /women-in-tech/re:invent/2015/10/09/re:Play-Horroshow.html
+year: 2015
+month: 10
+scheme: http
+host: mjknox.com
+path: /women-in-tech/re:invent/2015/10/09/re:Play-Horroshow.html
 
 ---
 

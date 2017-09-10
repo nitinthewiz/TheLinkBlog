@@ -3,13 +3,11 @@ title: "Backing up a MediaWiki wiki"
 date: 2012-06-16 00:47:56 +0000
 external-url: http://www.mediawiki.org/wiki/Manual:Backing_up_a_wiki
 hash: e321d1691fdbec6ca920681a86bea8d0
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Manual:Backing_up_a_wiki
+year: 2012
+month: 06
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Manual:Backing_up_a_wiki
 
 ---
 

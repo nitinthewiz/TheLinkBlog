@@ -3,13 +3,11 @@ title: "What's the Best Cloud? Probably GCP"
 date: 2016-03-13 02:45:44 +0000
 external-url: https://quizlet.com/blog/whats-the-best-cloud-probably-gcp
 hash: b6113c2460ea83061c84b9d0c57b232c
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: quizlet.com
-    path: /blog/whats-the-best-cloud-probably-gcp
+year: 2016
+month: 03
+scheme: https
+host: quizlet.com
+path: /blog/whats-the-best-cloud-probably-gcp
 
 ---
 

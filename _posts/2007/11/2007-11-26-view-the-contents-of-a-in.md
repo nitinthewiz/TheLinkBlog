@@ -3,13 +3,11 @@ title: "View the Contents of a Zip File in Quick Look with Zip Quick Look"
 date: 2007-11-26 23:00:00 +0000
 external-url: http://lifehacker.com/326410/view-the-contents-of-a-zip-file-in-quick-look-with-zip-quick-look
 hash: 1cb2a6631feeecd15e027e1e4e9d45a9
-annum:
-    year: 2007
-    month: 11
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /326410/view-the-contents-of-a-zip-file-in-quick-look-with-zip-quick-look
+year: 2007
+month: 11
+scheme: http
+host: lifehacker.com
+path: /326410/view-the-contents-of-a-zip-file-in-quick-look-with-zip-quick-look
 
 ---
 

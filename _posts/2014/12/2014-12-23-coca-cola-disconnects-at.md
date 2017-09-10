@@ -3,13 +3,11 @@ title: "Coca-Cola Disconnects Voice Mail at Headquarters - Bloomberg"
 date: 2014-12-23 00:39:16 +0000
 external-url: http://mobile.bloomberg.com/news/2014-12-22/coca-cola-disconnects-voice-mail-at-headquarters.html
 hash: dab648919f87daea3806025d5e328cfb
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: mobile.bloomberg.com
-    path: /news/2014-12-22/coca-cola-disconnects-voice-mail-at-headquarters.html
+year: 2014
+month: 12
+scheme: http
+host: mobile.bloomberg.com
+path: /news/2014-12-22/coca-cola-disconnects-voice-mail-at-headquarters.html
 
 ---
 

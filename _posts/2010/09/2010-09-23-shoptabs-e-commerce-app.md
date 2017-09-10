@@ -3,13 +3,11 @@ title: "ShopTab’s E-Commerce Facebook App: Simple and Easy to Use"
 date: 2010-09-23 16:02:01 +0000
 external-url: http://www.insidefacebook.com/2010/09/23/shoptab%e2%80%99s-e-commerce-facebook/
 hash: acc9592b2475a10b8d4143d7cdd89c60
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: www.insidefacebook.com
-    path: /2010/09/23/shoptab%e2%80%99s-e-commerce-facebook/
+year: 2010
+month: 09
+scheme: http
+host: www.insidefacebook.com
+path: /2010/09/23/shoptab%e2%80%99s-e-commerce-facebook/
 
 ---
 

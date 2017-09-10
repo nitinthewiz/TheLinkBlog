@@ -3,13 +3,11 @@ title: "Kubb - Uncyclopedia, the content-free encyclopedia"
 date: 2012-07-18 02:10:29 +0000
 external-url: http://uncyclopedia.wikia.com/wiki/Talk:Kubb
 hash: 226bbaba586cf5aff06c0ae815ebc2e8
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: uncyclopedia.wikia.com
-    path: /wiki/Talk:Kubb
+year: 2012
+month: 07
+scheme: http
+host: uncyclopedia.wikia.com
+path: /wiki/Talk:Kubb
 
 ---
 

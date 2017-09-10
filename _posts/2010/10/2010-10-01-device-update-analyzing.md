@@ -3,13 +3,11 @@ title: "Device update: Analyzing the publishing value chain"
 date: 2010-10-01 14:30:00 +0000
 external-url: http://radar.oreilly.com/2010/10/device-update-analyzing-the-pu.html
 hash: 801fe2f89f34796edfc36f40185df9b8
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2010/10/device-update-analyzing-the-pu.html
+year: 2010
+month: 10
+scheme: http
+host: radar.oreilly.com
+path: /2010/10/device-update-analyzing-the-pu.html
 
 ---
 

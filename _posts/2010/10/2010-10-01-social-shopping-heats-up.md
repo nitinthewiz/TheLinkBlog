@@ -3,13 +3,11 @@ title: "Social Shopping Heats Up On Facebook"
 date: 2010-10-01 18:22:26 +0000
 external-url: http://allfacebook.com/social-shopping-facebook_b18910
 hash: fd0f1bf64963ac3e31388582dc6fd89a
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /social-shopping-facebook_b18910
+year: 2010
+month: 10
+scheme: http
+host: allfacebook.com
+path: /social-shopping-facebook_b18910
 
 ---
 

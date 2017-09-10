@@ -3,13 +3,11 @@ title: "Al Franken Introduces First Location Privacy Bill In Senate"
 date: 2011-06-16 21:52:45 +0000
 external-url: http://gigaom.com/2011/06/17/419-al-franken-introduces-first-location-privacy-bill-in-senate/
 hash: c7566d1aa87f19062f87a89e39a8b4f6
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2011/06/17/419-al-franken-introduces-first-location-privacy-bill-in-senate/
+year: 2011
+month: 06
+scheme: http
+host: gigaom.com
+path: /2011/06/17/419-al-franken-introduces-first-location-privacy-bill-in-senate/
 
 ---
 

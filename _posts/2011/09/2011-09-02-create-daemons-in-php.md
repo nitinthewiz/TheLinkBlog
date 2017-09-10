@@ -3,13 +3,11 @@ title: "Create daemons in PHP"
 date: 2011-09-02 14:20:42 +0000
 external-url: http://kevin.vanzonneveld.net/techblog/article/create_daemons_in_php/
 hash: 412fea15ff233a6b77a8bcfb5d0439de
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: kevin.vanzonneveld.net
-    path: /techblog/article/create_daemons_in_php/
+year: 2011
+month: 09
+scheme: http
+host: kevin.vanzonneveld.net
+path: /techblog/article/create_daemons_in_php/
 
 ---
 

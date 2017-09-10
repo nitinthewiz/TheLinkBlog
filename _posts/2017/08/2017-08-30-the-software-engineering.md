@@ -3,13 +3,11 @@ title: "The software engineering rule of 3 · Erik Bernhardsson"
 date: 2017-08-30 12:09:40 +0000
 external-url: https://erikbern.com/2017/08/29/the-software-engineering-rule-of-3.html
 hash: f308b37e9d27f4afaa55bde658a2d5de
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: erikbern.com
-    path: /2017/08/29/the-software-engineering-rule-of-3.html
+year: 2017
+month: 08
+scheme: https
+host: erikbern.com
+path: /2017/08/29/the-software-engineering-rule-of-3.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Twitpic - Share photos and videos on Twitter"
 date: 2011-05-13 14:12:01 +0000
 external-url: http://twitpic.com/terms.do
 hash: 0dbd3ff4092ed6bc7b1b50f9de5a13dc
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: twitpic.com
-    path: /terms.do
+year: 2011
+month: 05
+scheme: http
+host: twitpic.com
+path: /terms.do
 
 ---
 

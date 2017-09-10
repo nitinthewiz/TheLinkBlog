@@ -3,13 +3,11 @@ title: "What the hell were we thinking?"
 date: 2010-08-05 04:44:58 +0000
 external-url: http://blogs.discovermagazine.com/badastronomy/2010/07/21/what-the-hell-were-we-thinking/
 hash: 2c3f4d0559aae6decd654e4f16b8443f
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: blogs.discovermagazine.com
-    path: /badastronomy/2010/07/21/what-the-hell-were-we-thinking/
+year: 2010
+month: 08
+scheme: http
+host: blogs.discovermagazine.com
+path: /badastronomy/2010/07/21/what-the-hell-were-we-thinking/
 
 ---
 

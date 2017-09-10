@@ -3,13 +3,11 @@ title: "The Six Sins of Mergers and Acquisitions"
 date: 2016-06-28 14:52:05 +0000
 external-url: https://jackwelch.strayer.edu/blog/the-six-deadly-sins-of-ma-listen-up-linkedin-and-microsoft/
 hash: de3070c1d56ed6affab0ff8958bb60f8
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: https
-    host: jackwelch.strayer.edu
-    path: /blog/the-six-deadly-sins-of-ma-listen-up-linkedin-and-microsoft/
+year: 2016
+month: 06
+scheme: https
+host: jackwelch.strayer.edu
+path: /blog/the-six-deadly-sins-of-ma-listen-up-linkedin-and-microsoft/
 
 ---
 

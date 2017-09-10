@@ -3,13 +3,11 @@ title: "I Don't Understand What Anyone Is Saying Anymore"
 date: 2011-12-09 12:03:19 +0000
 external-url: http://blogs.hbr.org/2011/12/i-dont-understand-what-anyone/
 hash: b1d4171ff3cb9c5bc9fd2cffd6abeda4
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: blogs.hbr.org
-    path: /2011/12/i-dont-understand-what-anyone/
+year: 2011
+month: 12
+scheme: http
+host: blogs.hbr.org
+path: /2011/12/i-dont-understand-what-anyone/
 
 ---
 

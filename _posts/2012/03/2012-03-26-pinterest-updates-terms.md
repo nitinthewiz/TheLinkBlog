@@ -3,13 +3,11 @@ title: "Pinterest Updates Terms Of Service As It Preps An API And Private Pinboa
 date: 2012-03-26 21:41:29 +0000
 external-url: http://techcrunch.com/2012/03/24/pinterest-terms-api-copyrigh/
 hash: 6aae0a4c3a6c011a87b9041d9a1056be
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2012/03/24/pinterest-terms-api-copyrigh/
+year: 2012
+month: 03
+scheme: http
+host: techcrunch.com
+path: /2012/03/24/pinterest-terms-api-copyrigh/
 
 ---
 

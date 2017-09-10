@@ -3,13 +3,11 @@ title: "ExpanDrive - Bring your remote files closer to home."
 date: 2008-03-25 20:41:50 +0000
 external-url: http://www.magnetk.com/expandrive
 hash: 038f508a7562ddbe56e1817db8da02c3
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.magnetk.com
-    path: /expandrive
+year: 2008
+month: 03
+scheme: http
+host: www.magnetk.com
+path: /expandrive
 
 ---
 

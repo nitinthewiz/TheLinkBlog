@@ -3,13 +3,11 @@ title: "MarsEdit 2.1.4 available"
 date: 2008-06-18 22:00:00 +0000
 external-url: http://www.tuaw.com/2008/06/18/marsedit-2-1-4-available/
 hash: 2a42d3c90d88b6fa834f589fdd951d45
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/18/marsedit-2-1-4-available/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/18/marsedit-2-1-4-available/
 
 ---
 

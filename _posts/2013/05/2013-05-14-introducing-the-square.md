@@ -3,13 +3,11 @@ title: "Introducing the Square Stand"
 date: 2013-05-14 22:38:32 +0000
 external-url: https://squareup.com/stand
 hash: 9a0645f68e927265160e62d0ca6f51ca
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: https
-    host: squareup.com
-    path: /stand
+year: 2013
+month: 05
+scheme: https
+host: squareup.com
+path: /stand
 
 ---
 

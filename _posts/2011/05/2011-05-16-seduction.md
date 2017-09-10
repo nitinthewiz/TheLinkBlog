@@ -3,13 +3,11 @@ title: "SEDUCTION"
 date: 2011-05-16 12:01:52 +0000
 external-url: http://www.ginandtacos.com/2011/05/16/seduction/
 hash: 325ef4eaaeff11fc251d59351837cd1c
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.ginandtacos.com
-    path: /2011/05/16/seduction/
+year: 2011
+month: 05
+scheme: http
+host: www.ginandtacos.com
+path: /2011/05/16/seduction/
 
 ---
 

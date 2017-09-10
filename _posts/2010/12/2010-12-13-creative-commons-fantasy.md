@@ -3,13 +3,11 @@ title: "Creative Commons Fantasy Portrait Marathon by Justin Nichol — Kickstar
 date: 2010-12-13 23:40:29 +0000
 external-url: http://www.kickstarter.com/projects/1318318905/creative-commons-fantasy-portrait-marathon
 hash: 05ab882e5b295d1b2fb43e698a762474
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.kickstarter.com
-    path: /projects/1318318905/creative-commons-fantasy-portrait-marathon
+year: 2010
+month: 12
+scheme: http
+host: www.kickstarter.com
+path: /projects/1318318905/creative-commons-fantasy-portrait-marathon
 
 ---
 

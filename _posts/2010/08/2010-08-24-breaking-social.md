@@ -3,13 +3,11 @@ title: "Breaking Social Networking Interconnections"
 date: 2010-08-24 18:27:50 +0000
 external-url: http://www.opticality.com/blog/2010/08/24/breaking-social-networking-interconnections/
 hash: 09f7fbf6a05675e64ffbd20ed2b8fba6
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.opticality.com
-    path: /blog/2010/08/24/breaking-social-networking-interconnections/
+year: 2010
+month: 08
+scheme: http
+host: www.opticality.com
+path: /blog/2010/08/24/breaking-social-networking-interconnections/
 
 ---
 

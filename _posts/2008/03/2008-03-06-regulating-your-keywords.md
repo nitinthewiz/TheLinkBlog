@@ -3,13 +3,11 @@ title: "Regulating Your Keywords"
 date: 2008-03-06 17:49:54 +0000
 external-url: http://blogs.oreilly.com/lightroom/2008/03/regulating-your-keywords.html
 hash: 08d1ad5676fff43488bd9fd7338c2d8c
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: blogs.oreilly.com
-    path: /lightroom/2008/03/regulating-your-keywords.html
+year: 2008
+month: 03
+scheme: http
+host: blogs.oreilly.com
+path: /lightroom/2008/03/regulating-your-keywords.html
 
 ---
 

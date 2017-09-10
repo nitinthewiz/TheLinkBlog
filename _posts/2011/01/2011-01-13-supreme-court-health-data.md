@@ -3,13 +3,11 @@ title: "Supreme Court Health Data Case Could Sway Online Privacy Debate"
 date: 2011-01-13 12:20:12 +0000
 external-url: http://gigaom.com/2011/01/13/419-supreme-court-health-data-case-could-sway-online-privacy-debate/
 hash: 43e1ab68ab14532a62b5be13f42e0b98
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2011/01/13/419-supreme-court-health-data-case-could-sway-online-privacy-debate/
+year: 2011
+month: 01
+scheme: http
+host: gigaom.com
+path: /2011/01/13/419-supreme-court-health-data-case-could-sway-online-privacy-debate/
 
 ---
 

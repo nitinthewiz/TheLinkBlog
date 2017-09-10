@@ -3,13 +3,11 @@ title: "Instapaper: Save interesting web pages for reading later"
 date: 2010-12-03 05:08:18 +0000
 external-url: https://www.instapaper.com/
 hash: 20044e8224d2a6cc19820793900f5bbb
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: https
-    host: www.instapaper.com
-    path: /
+year: 2010
+month: 12
+scheme: https
+host: www.instapaper.com
+path: /
 
 ---
 

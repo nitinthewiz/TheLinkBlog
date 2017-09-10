@@ -3,13 +3,11 @@ title: "There goes the sun, total solar eclipse 2017 - The Boston Globe"
 date: 2017-08-21 23:04:37 +0000
 external-url: http://www.bostonglobe.com/news/bigpicture/2017/08/21/there-goes-sun-total-solar-eclipse/txO5gaCugLPTHKdQYhUhSO/story.html
 hash: 6f2ef55e4c0d4d64564f055c4031ddc1
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: http
-    host: www.bostonglobe.com
-    path: /news/bigpicture/2017/08/21/there-goes-sun-total-solar-eclipse/txO5gaCugLPTHKdQYhUhSO/story.html
+year: 2017
+month: 08
+scheme: http
+host: www.bostonglobe.com
+path: /news/bigpicture/2017/08/21/there-goes-sun-total-solar-eclipse/txO5gaCugLPTHKdQYhUhSO/story.html
 
 ---
 

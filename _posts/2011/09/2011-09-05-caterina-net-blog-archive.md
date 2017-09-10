@@ -3,13 +3,11 @@ title: "Caterina.net» Blog Archive » Make things"
 date: 2011-09-05 00:19:03 +0000
 external-url: http://caterina.net/wp-archives/98
 hash: d6ab2a0857eb5a9beafbd987308404fe
-annum:
-    year: 2011
-    month: 09
-url-parts:
-    scheme: http
-    host: caterina.net
-    path: /wp-archives/98
+year: 2011
+month: 09
+scheme: http
+host: caterina.net
+path: /wp-archives/98
 
 ---
 

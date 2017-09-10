@@ -3,13 +3,11 @@ title: "Apple's System Preference icon goes Green"
 date: 2008-10-21 16:00:00 +0000
 external-url: http://www.tuaw.com/2008/10/21/apples-system-preference-icon-goes-green/
 hash: e017866cbf94414cd675230a02bce2a0
-annum:
-    year: 2008
-    month: 10
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/10/21/apples-system-preference-icon-goes-green/
+year: 2008
+month: 10
+scheme: http
+host: www.tuaw.com
+path: /2008/10/21/apples-system-preference-icon-goes-green/
 
 ---
 

@@ -3,13 +3,11 @@ title: "BMW Using Internet Protocol Inside Cars"
 date: 2007-12-01 22:26:00 +0000
 external-url: http://www.therawfeed.com
 hash: 6376475d7ff0e42714cceea33c0ed6cc
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.therawfeed.com
-    path: 
+year: 2007
+month: 12
+scheme: http
+host: www.therawfeed.com
+path: 
 
 ---
 

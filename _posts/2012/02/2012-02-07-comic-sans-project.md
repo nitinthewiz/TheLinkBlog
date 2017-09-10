@@ -3,13 +3,11 @@ title: "Comic Sans Project"
 date: 2012-02-07 17:38:01 +0000
 external-url: http://comicsansproject.tumblr.com/
 hash: 9b19e2b7d33c4ce22d1270871099dc2e
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: comicsansproject.tumblr.com
-    path: /
+year: 2012
+month: 02
+scheme: http
+host: comicsansproject.tumblr.com
+path: /
 
 ---
 

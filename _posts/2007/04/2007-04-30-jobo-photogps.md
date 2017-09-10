@@ -3,13 +3,11 @@ title: "JOBO photoGPS"
 date: 2007-04-30 23:11:26 +0000
 external-url: http://www.jobo.com/photoGPS.447.0.html
 hash: f16489faa10caf35a6751a13e853fc53
-annum:
-    year: 2007
-    month: 04
-url-parts:
-    scheme: http
-    host: www.jobo.com
-    path: /photoGPS.447.0.html
+year: 2007
+month: 04
+scheme: http
+host: www.jobo.com
+path: /photoGPS.447.0.html
 
 ---
 

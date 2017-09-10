@@ -3,13 +3,11 @@ title: "Living the Simple Life : zenhabits"
 date: 2014-07-27 19:22:52 +0000
 external-url: http://zenhabits.net/simple/
 hash: 209d7a7201c26da7637d0bac3547f642
-annum:
-    year: 2014
-    month: 07
-url-parts:
-    scheme: http
-    host: zenhabits.net
-    path: /simple/
+year: 2014
+month: 07
+scheme: http
+host: zenhabits.net
+path: /simple/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Wordpress, Couchdb and Ruby"
 date: 2011-02-19 16:56:35 +0000
 external-url: http://log4p.com/2009/05/28/wordpress-couchdb-and-ruby/
 hash: 57ed3a7d337ca25f363d7b57c025cb4d
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: log4p.com
-    path: /2009/05/28/wordpress-couchdb-and-ruby/
+year: 2011
+month: 02
+scheme: http
+host: log4p.com
+path: /2009/05/28/wordpress-couchdb-and-ruby/
 
 ---
 

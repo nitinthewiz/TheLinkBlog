@@ -3,13 +3,11 @@ title: "Smallest Federated Wiki"
 date: 2012-04-18 17:32:30 +0000
 external-url: http://code.fed.wiki.org/view/welcome-visitors/view/smallest-federated-wiki
 hash: 17bd2b7231684d9f6947f5bb809cc4bc
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: code.fed.wiki.org
-    path: /view/welcome-visitors/view/smallest-federated-wiki
+year: 2012
+month: 04
+scheme: http
+host: code.fed.wiki.org
+path: /view/welcome-visitors/view/smallest-federated-wiki
 
 ---
 

@@ -3,13 +3,11 @@ title: "RedEye by saharshoza"
 date: 2016-07-21 17:52:51 +0000
 external-url: http://saharshoza.github.io/RedEye/
 hash: 59f665652d77be70a8d6f5969818a8fc
-annum:
-    year: 2016
-    month: 07
-url-parts:
-    scheme: http
-    host: saharshoza.github.io
-    path: /RedEye/
+year: 2016
+month: 07
+scheme: http
+host: saharshoza.github.io
+path: /RedEye/
 
 ---
 

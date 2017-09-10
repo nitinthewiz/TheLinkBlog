@@ -3,13 +3,11 @@ title: "WELY End of the Road Radio"
 date: 2011-01-16 15:09:12 +0000
 external-url: http://wely.com/
 hash: 47e44a7f718f71be27c7dfeb86bc7699
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: wely.com
-    path: /
+year: 2011
+month: 01
+scheme: http
+host: wely.com
+path: /
 
 ---
 

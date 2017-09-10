@@ -3,13 +3,11 @@ title: "Vanity Spreads to Top-Level Domain Names"
 date: 2008-06-26 17:08:28 +0000
 external-url: http://db.tidbits.com/article/9669
 hash: 703b1c3be7178a75f459f8a5da444cdd
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: db.tidbits.com
-    path: /article/9669
+year: 2008
+month: 06
+scheme: http
+host: db.tidbits.com
+path: /article/9669
 
 ---
 

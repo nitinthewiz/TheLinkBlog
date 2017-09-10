@@ -3,13 +3,11 @@ title: "Reserve Your Name At About.Me"
 date: 2010-09-11 04:06:22 +0000
 external-url: http://techcrunch.com/2010/09/10/reserve-your-name-at-about-me/
 hash: 7349a29eace267f81ccef93ab670e637
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2010/09/10/reserve-your-name-at-about-me/
+year: 2010
+month: 09
+scheme: http
+host: techcrunch.com
+path: /2010/09/10/reserve-your-name-at-about-me/
 
 ---
 

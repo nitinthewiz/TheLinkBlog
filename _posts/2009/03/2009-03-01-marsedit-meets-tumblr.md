@@ -3,13 +3,11 @@ title: "MarsEdit Meets Tumblr"
 date: 2009-03-01 08:05:42 +0000
 external-url: http://www.red-sweater.com/blog/751/marsedit-meets-tumblr
 hash: 371892dcfdd4732bb15fe9a90526d358
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/751/marsedit-meets-tumblr
+year: 2009
+month: 03
+scheme: http
+host: www.red-sweater.com
+path: /blog/751/marsedit-meets-tumblr
 
 ---
 

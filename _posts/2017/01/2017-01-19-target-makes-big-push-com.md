@@ -3,13 +3,11 @@ title: "Target makes big push into soccer marketing - StarTribune.com"
 date: 2017-01-19 13:09:04 +0000
 external-url: http://www.startribune.com/target-makes-big-push-into-soccer-marketing/411148435/
 hash: fca2b6953dbc570445fe5fce305fa66c
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /target-makes-big-push-into-soccer-marketing/411148435/
+year: 2017
+month: 01
+scheme: http
+host: www.startribune.com
+path: /target-makes-big-push-into-soccer-marketing/411148435/
 
 ---
 

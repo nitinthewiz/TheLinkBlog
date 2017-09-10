@@ -3,13 +3,11 @@ title: "A Fresh Take on Contexts"
 date: 2017-01-12 20:23:38 +0000
 external-url: https://simplicitybliss.com/a-fresh-take-on-contexts-6e17adea4b93#.vbp2je7vk
 hash: c046c30fb2920f4e11a353e30c4791b9
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: simplicitybliss.com
-    path: /a-fresh-take-on-contexts-6e17adea4b93
+year: 2017
+month: 01
+scheme: https
+host: simplicitybliss.com
+path: /a-fresh-take-on-contexts-6e17adea4b93
 
 ---
 

@@ -3,13 +3,11 @@ title: "Life With TED - Micromanaging Your Carbon Footprint"
 date: 2009-10-21 04:39:13 +0000
 external-url: http://radar.oreilly.com/2009/10/life-with-ted---micromanaging.html
 hash: 763b46b58273d8bb2479f50803be1ea4
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2009/10/life-with-ted---micromanaging.html
+year: 2009
+month: 10
+scheme: http
+host: radar.oreilly.com
+path: /2009/10/life-with-ted---micromanaging.html
 
 ---
 

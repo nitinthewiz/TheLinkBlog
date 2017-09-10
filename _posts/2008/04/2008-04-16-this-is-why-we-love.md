@@ -3,13 +3,11 @@ title: "This is why we love Microsoft"
 date: 2008-04-16 22:00:00 +0000
 external-url: http://fakesteve.blogspot.com/2008/04/this-is-why-we-love-microsoft.html
 hash: d484e17c1b23d5e66ac7be54292005b4
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: fakesteve.blogspot.com
-    path: /2008/04/this-is-why-we-love-microsoft.html
+year: 2008
+month: 04
+scheme: http
+host: fakesteve.blogspot.com
+path: /2008/04/this-is-why-we-love-microsoft.html
 
 ---
 

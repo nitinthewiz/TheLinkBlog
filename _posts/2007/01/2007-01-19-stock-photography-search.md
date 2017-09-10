@@ -3,13 +3,11 @@ title: "Stock Photography: Search Royalty Free Images & Photos | iStockphoto.com
 date: 2007-01-19 21:33:23 +0000
 external-url: http://www.istockphoto.com/
 hash: 808199960a13943829d9bbcf05dd5d4f
-annum:
-    year: 2007
-    month: 01
-url-parts:
-    scheme: http
-    host: www.istockphoto.com
-    path: /
+year: 2007
+month: 01
+scheme: http
+host: www.istockphoto.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Apple's new batteries are bewildering MacBook Pro owners"
 date: 2009-06-15 16:37:34 +0000
 external-url: http://9to5mac.com/MAcbook-pro-2009-battery
 hash: 5b41406f84e64548f2733ca704ee181c
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /MAcbook-pro-2009-battery
+year: 2009
+month: 06
+scheme: http
+host: 9to5mac.com
+path: /MAcbook-pro-2009-battery
 
 ---
 

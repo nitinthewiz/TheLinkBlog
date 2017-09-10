@@ -3,13 +3,11 @@ title: "What We Learnt By Talking To 50 Companies About DevOps - Contino"
 date: 2014-11-13 14:40:58 +0000
 external-url: http://contino.co.uk/devops-learnings/
 hash: 7a79cf5dea6fae7df671d5ed2634e31d
-annum:
-    year: 2014
-    month: 11
-url-parts:
-    scheme: http
-    host: contino.co.uk
-    path: /devops-learnings/
+year: 2014
+month: 11
+scheme: http
+host: contino.co.uk
+path: /devops-learnings/
 
 ---
 

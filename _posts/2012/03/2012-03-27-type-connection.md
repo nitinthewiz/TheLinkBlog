@@ -3,13 +3,11 @@ title: "Type Connection"
 date: 2012-03-27 22:56:48 +0000
 external-url: http://www.typeconnection.com/about.php
 hash: 0e2e9aeda71ab94cfdbde7551101d68b
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.typeconnection.com
-    path: /about.php
+year: 2012
+month: 03
+scheme: http
+host: www.typeconnection.com
+path: /about.php
 
 ---
 

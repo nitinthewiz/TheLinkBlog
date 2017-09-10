@@ -3,13 +3,11 @@ title: "Digital cathedrals"
 date: 2012-10-19 16:51:21 +0000
 external-url: http://blog.wikimedia.org/2012/10/19/digital-cathedrals/
 hash: 00eaf8ab82f04165394230d02ba90060
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2012/10/19/digital-cathedrals/
+year: 2012
+month: 10
+scheme: http
+host: blog.wikimedia.org
+path: /2012/10/19/digital-cathedrals/
 
 ---
 

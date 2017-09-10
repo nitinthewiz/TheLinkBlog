@@ -3,13 +3,11 @@ title: "New gear and new friends at the Canon Expo"
 date: 2009-11-04 16:05:01 +0000
 external-url: http://www.dslrnewsshooter.com/2009/11/04/new-gear-and-new-friends-at-the-canon-expo/
 hash: 2db145c0b526c4166dfe870aeadf9221
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: www.dslrnewsshooter.com
-    path: /2009/11/04/new-gear-and-new-friends-at-the-canon-expo/
+year: 2009
+month: 11
+scheme: http
+host: www.dslrnewsshooter.com
+path: /2009/11/04/new-gear-and-new-friends-at-the-canon-expo/
 
 ---
 

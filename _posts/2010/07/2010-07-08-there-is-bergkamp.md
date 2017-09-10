@@ -3,13 +3,11 @@ title: "There is Bergkamp"
 date: 2010-07-08 16:04:14 +0000
 external-url: http://kottke.org/10/07/there-is-bergkamp
 hash: f01ca182e8a99ba6b2c4258078347509
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /10/07/there-is-bergkamp
+year: 2010
+month: 07
+scheme: http
+host: kottke.org
+path: /10/07/there-is-bergkamp
 
 ---
 

@@ -3,13 +3,11 @@ title: "Giraffe : A Graphite Dashboard with a long neck"
 date: 2012-12-18 19:02:43 +0000
 external-url: http://kenhub.github.io/giraffe/
 hash: 266e38bc9566edb30a64da4472df9c05
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: kenhub.github.io
-    path: /giraffe/
+year: 2012
+month: 12
+scheme: http
+host: kenhub.github.io
+path: /giraffe/
 
 ---
 

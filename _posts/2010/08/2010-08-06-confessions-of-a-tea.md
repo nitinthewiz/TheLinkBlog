@@ -3,13 +3,11 @@ title: "Confessions of a Tea Party Casualty"
 date: 2010-08-06 16:11:35 +0000
 external-url: http://motherjones.com/politics/2010/08/bob-inglis-tea-party-casualty
 hash: e5c69b06333b9d4f79e21926f7bc741d
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: motherjones.com
-    path: /politics/2010/08/bob-inglis-tea-party-casualty
+year: 2010
+month: 08
+scheme: http
+host: motherjones.com
+path: /politics/2010/08/bob-inglis-tea-party-casualty
 
 ---
 

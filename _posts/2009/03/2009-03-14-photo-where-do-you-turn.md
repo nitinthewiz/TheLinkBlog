@@ -3,13 +3,11 @@ title: "PHOTO: Where do you turn when you need \"Happy Birthday"
 date: 2009-03-14 04:42:01 +0000
 external-url: http://www.37signals.com/svn/posts/1632-where-do-you-turn-when-you-need-happy-birthday
 hash: f1700a689155303eeec614190525a223
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/1632-where-do-you-turn-when-you-need-happy-birthday
+year: 2009
+month: 03
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1632-where-do-you-turn-when-you-need-happy-birthday
 
 ---
 

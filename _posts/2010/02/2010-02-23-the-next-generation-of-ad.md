@@ -3,13 +3,11 @@ title: "The next generation of ad serving for online publishers"
 date: 2010-02-23 16:57:53 +0000
 external-url: http://googleblog.blogspot.com/2010/02/next-generation-of-ad-serving-for.html
 hash: 6374a2d9a212ca621eb81ac01ce9da00
-annum:
-    year: 2010
-    month: 02
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2010/02/next-generation-of-ad-serving-for.html
+year: 2010
+month: 02
+scheme: http
+host: googleblog.blogspot.com
+path: /2010/02/next-generation-of-ad-serving-for.html
 
 ---
 

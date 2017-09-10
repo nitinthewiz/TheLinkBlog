@@ -3,13 +3,11 @@ title: "Learn About the Rest of the Security and Compliance Track Sessions Being
 date: 2015-10-02 03:34:42 +0000
 external-url: http://blogs.aws.amazon.com/security/post/Tx3MVARAUBQYVVM/Learn-About-the-Rest-of-the-Security-and-Compliance-Track-Sessions-Being-Offered
 hash: 58f851b97b085c3d5f153e887bd315a0
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /security/post/Tx3MVARAUBQYVVM/Learn-About-the-Rest-of-the-Security-and-Compliance-Track-Sessions-Being-Offered
+year: 2015
+month: 10
+scheme: http
+host: blogs.aws.amazon.com
+path: /security/post/Tx3MVARAUBQYVVM/Learn-About-the-Rest-of-the-Security-and-Compliance-Track-Sessions-Being-Offered
 
 ---
 

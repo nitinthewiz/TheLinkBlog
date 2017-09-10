@@ -3,13 +3,11 @@ title: "Microsoft Needs to Empty Windows Trash, Reboot"
 date: 2008-06-30 03:02:25 +0000
 external-url: http://db.tidbits.com/article/9674
 hash: 90116d607c4a267f64b4f54553f6d55e
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: db.tidbits.com
-    path: /article/9674
+year: 2008
+month: 06
+scheme: http
+host: db.tidbits.com
+path: /article/9674
 
 ---
 

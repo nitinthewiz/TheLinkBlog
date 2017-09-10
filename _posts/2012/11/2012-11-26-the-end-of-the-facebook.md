@@ -3,13 +3,11 @@ title: "The End of the Facebook Like Bubble"
 date: 2012-11-26 15:48:02 +0000
 external-url: http://digiday.com/brands/the-end-of-the-facebook-like-bubble/
 hash: 53f198210260e3a15f72ff2f84b21212
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: digiday.com
-    path: /brands/the-end-of-the-facebook-like-bubble/
+year: 2012
+month: 11
+scheme: http
+host: digiday.com
+path: /brands/the-end-of-the-facebook-like-bubble/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Getting HBase Running on Amazon EMR and Connecting it to Amazon Kinesis 
 date: 2014-12-16 19:11:44 +0000
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx3CFT0COINZ4N8/Getting-HBase-Running-on-Amazon-EMR-and-Connecting-it-to-Amazon-Kinesis
 hash: 8c8c6d25baef7cee79909d36d4084937
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /bigdata/post/Tx3CFT0COINZ4N8/Getting-HBase-Running-on-Amazon-EMR-and-Connecting-it-to-Amazon-Kinesis
+year: 2014
+month: 12
+scheme: http
+host: blogs.aws.amazon.com
+path: /bigdata/post/Tx3CFT0COINZ4N8/Getting-HBase-Running-on-Amazon-EMR-and-Connecting-it-to-Amazon-Kinesis
 
 ---
 

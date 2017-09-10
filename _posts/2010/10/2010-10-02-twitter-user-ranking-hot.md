@@ -3,13 +3,11 @@ title: "Twitter User Ranking Company Klout Hires Product Hot-Shot"
 date: 2010-10-02 00:20:18 +0000
 external-url: http://www.readwriteweb.com/archives/klout_staff_hotchkiss.php
 hash: 471aa3e904fa8ac43941fed335634752
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/klout_staff_hotchkiss.php
+year: 2010
+month: 10
+scheme: http
+host: www.readwriteweb.com
+path: /archives/klout_staff_hotchkiss.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "inessential: Blogs by Women: the OPML File"
 date: 2015-11-25 04:23:11 +0000
 external-url: http://inessential.com/2015/11/19/blogs_by_women_opml_file
 hash: 9ead1265845e4f2cb8cf72b93e0aa8b2
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: inessential.com
-    path: /2015/11/19/blogs_by_women_opml_file
+year: 2015
+month: 11
+scheme: http
+host: inessential.com
+path: /2015/11/19/blogs_by_women_opml_file
 
 ---
 

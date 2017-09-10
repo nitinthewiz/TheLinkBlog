@@ -3,13 +3,11 @@ title: "Lua previewed on Wikimedia blog"
 date: 2012-07-02 16:30:43 +0000
 external-url: http://blog.wikimedia.org/2012/07/02/lua-previewed/
 hash: 927d4be633d6c0006d8692db438a9982
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: blog.wikimedia.org
-    path: /2012/07/02/lua-previewed/
+year: 2012
+month: 07
+scheme: http
+host: blog.wikimedia.org
+path: /2012/07/02/lua-previewed/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Minnesota Business Announces BEST 100 COMPANIES TO WORK FOR"
 date: 2012-04-17 04:34:34 +0000
 external-url: http://minnesotabusiness.com/blog/minnesota-business-announces-best-100-companies-work
 hash: fb2a0a6ae8eca1d90e3d1ca212b09380
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: minnesotabusiness.com
-    path: /blog/minnesota-business-announces-best-100-companies-work
+year: 2012
+month: 04
+scheme: http
+host: minnesotabusiness.com
+path: /blog/minnesota-business-announces-best-100-companies-work
 
 ---
 

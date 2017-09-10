@@ -3,13 +3,11 @@ title: "The Why and How of Ansible and Docker - The Changelog"
 date: 2014-08-31 09:04:14 +0000
 external-url: http://thechangelog.com/ansible-docker/
 hash: b4376a96de837b08616201e8157ed800
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: thechangelog.com
-    path: /ansible-docker/
+year: 2014
+month: 08
+scheme: http
+host: thechangelog.com
+path: /ansible-docker/
 
 ---
 

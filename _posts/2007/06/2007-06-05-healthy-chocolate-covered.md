@@ -3,13 +3,11 @@ title: "Healthy chocolate covered candy drops and bars"
 date: 2007-06-05 03:38:52 +0000
 external-url: http://www.figamajigs.com/
 hash: bb61a3c4d63b317a8022a81225ed5ccd
-annum:
-    year: 2007
-    month: 06
-url-parts:
-    scheme: http
-    host: www.figamajigs.com
-    path: /
+year: 2007
+month: 06
+scheme: http
+host: www.figamajigs.com
+path: /
 
 ---
 

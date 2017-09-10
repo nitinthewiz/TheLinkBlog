@@ -3,13 +3,11 @@ title: "Introducing the WebKit FTL JIT"
 date: 2014-05-14 03:23:33 +0000
 external-url: https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/
 hash: 2a342d3ffe1c4941a693942909076107
-annum:
-    year: 2014
-    month: 05
-url-parts:
-    scheme: https
-    host: www.webkit.org
-    path: /blog/3362/introducing-the-webkit-ftl-jit/
+year: 2014
+month: 05
+scheme: https
+host: www.webkit.org
+path: /blog/3362/introducing-the-webkit-ftl-jit/
 
 ---
 

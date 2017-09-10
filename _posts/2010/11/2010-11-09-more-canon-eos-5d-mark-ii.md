@@ -3,13 +3,11 @@ title: "More Canon EOS 5D Mark II aerial flying with Quadrocopter"
 date: 2010-11-09 15:15:29 +0000
 external-url: http://blog.planet5d.com/2010/11/more-canon-eos-5d-mark-ii-aerial-flying-with-quadrocopter/
 hash: 325d4e33cebf550018fa3a7a3f385740
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: blog.planet5d.com
-    path: /2010/11/more-canon-eos-5d-mark-ii-aerial-flying-with-quadrocopter/
+year: 2010
+month: 11
+scheme: http
+host: blog.planet5d.com
+path: /2010/11/more-canon-eos-5d-mark-ii-aerial-flying-with-quadrocopter/
 
 ---
 

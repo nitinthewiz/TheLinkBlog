@@ -3,13 +3,11 @@ title: "Privacy Does Matter"
 date: 2014-10-14 03:29:46 +0000
 external-url: http://iconnectdots.com/2014/10/privacy-does-matter.html
 hash: 7bf27d330598e1b96a9fa51c2f7faee1
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: iconnectdots.com
-    path: /2014/10/privacy-does-matter.html
+year: 2014
+month: 10
+scheme: http
+host: iconnectdots.com
+path: /2014/10/privacy-does-matter.html
 
 ---
 

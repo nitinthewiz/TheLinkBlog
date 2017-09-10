@@ -3,13 +3,11 @@ title: "Minnesota’s Startup Scene in Twin Cities Business Magazine"
 date: 2010-10-02 20:34:26 +0000
 external-url: http://garrickvanburen.com/archive/minnesotas-startup-scene-in-twin-cities-business-magazine
 hash: 6f81c3389bf65364f9284b2b2eb6f9f5
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: garrickvanburen.com
-    path: /archive/minnesotas-startup-scene-in-twin-cities-business-magazine
+year: 2010
+month: 10
+scheme: http
+host: garrickvanburen.com
+path: /archive/minnesotas-startup-scene-in-twin-cities-business-magazine
 
 ---
 

@@ -3,13 +3,11 @@ title: "Sorry, Sidekick users: it’s probably time to say a good-bye for good t
 date: 2009-10-12 20:44:37 +0000
 external-url: http://venturebeat.com/2009/10/12/sorry-sidekick-users-its-probably-time-to-say-a-permanent-buh-bye-to-all-your-contacts-calendar-entries-and-photographs/
 hash: 235313b287e9c98f83c2f8671c35533d
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/10/12/sorry-sidekick-users-its-probably-time-to-say-a-permanent-buh-bye-to-all-your-contacts-calendar-entries-and-photographs/
+year: 2009
+month: 10
+scheme: http
+host: venturebeat.com
+path: /2009/10/12/sorry-sidekick-users-its-probably-time-to-say-a-permanent-buh-bye-to-all-your-contacts-calendar-entries-and-photographs/
 
 ---
 

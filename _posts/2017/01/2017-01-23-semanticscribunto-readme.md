@@ -3,13 +3,11 @@ title: "SemanticScribunto/README.md at master · SemanticMediaWiki/SemanticScrib
 date: 2017-01-23 16:16:52 +0000
 external-url: https://github.com/SemanticMediaWiki/SemanticScribunto/blob/master/docs/README.md
 hash: 10dedea38becc2fe3e7c6a538625532a
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: github.com
-    path: /SemanticMediaWiki/SemanticScribunto/blob/master/docs/README.md
+year: 2017
+month: 01
+scheme: https
+host: github.com
+path: /SemanticMediaWiki/SemanticScribunto/blob/master/docs/README.md
 
 ---
 

@@ -3,13 +3,11 @@ title: "A New Kind of Science: A 15-Year View – Backchannel"
 date: 2017-05-17 12:14:58 +0000
 external-url: https://backchannel.com/a-new-kind-of-science-a-15-year-view-4f5668abe54f
 hash: 7f92fca1a7eb9d93b72fe4e360b4238f
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: backchannel.com
-    path: /a-new-kind-of-science-a-15-year-view-4f5668abe54f
+year: 2017
+month: 05
+scheme: https
+host: backchannel.com
+path: /a-new-kind-of-science-a-15-year-view-4f5668abe54f
 
 ---
 

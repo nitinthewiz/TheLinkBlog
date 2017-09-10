@@ -3,13 +3,11 @@ title: "ExtremeZ-IP"
 date: 2007-02-16 04:28:16 +0000
 external-url: http://www.grouplogic.com/enterprise-file-sharing/mac-windows-file-sharing/
 hash: ceb743097d37ea1de4a1ef34aa9b8034
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.grouplogic.com
-    path: /enterprise-file-sharing/mac-windows-file-sharing/
+year: 2007
+month: 02
+scheme: http
+host: www.grouplogic.com
+path: /enterprise-file-sharing/mac-windows-file-sharing/
 
 ---
 

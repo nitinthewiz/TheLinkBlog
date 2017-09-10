@@ -3,13 +3,11 @@ title: "Paths to $5M for a startup founder"
 date: 2012-04-11 17:51:25 +0000
 external-url: http://www.gabrielweinberg.com/blog/2010/06/paths-to-5m-for-a-startup-founder.html
 hash: d0ab838b1eb2af7aa8b3116afe87450e
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.gabrielweinberg.com
-    path: /blog/2010/06/paths-to-5m-for-a-startup-founder.html
+year: 2012
+month: 04
+scheme: http
+host: www.gabrielweinberg.com
+path: /blog/2010/06/paths-to-5m-for-a-startup-founder.html
 
 ---
 

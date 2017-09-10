@@ -3,13 +3,11 @@ title: "Computational & Mathematical Organization Theory, Volume 10, Number 1"
 date: 2011-11-10 14:45:06 +0000
 external-url: http://link.springer.com/article/10.1023%2FB%3ACMOT.0000032580.12184.c0
 hash: 7c33c4ef9ff3c258cfd6fabaa900eede
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: link.springer.com
-    path: /article/10.1023%2FB%3ACMOT.0000032580.12184.c0
+year: 2011
+month: 11
+scheme: http
+host: link.springer.com
+path: /article/10.1023%2FB%3ACMOT.0000032580.12184.c0
 
 ---
 

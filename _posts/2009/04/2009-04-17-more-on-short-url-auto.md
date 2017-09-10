@@ -3,13 +3,11 @@ title: "More on Short URL Auto-Discovery"
 date: 2009-04-17 02:57:37 +0000
 external-url: http://sites.google.com/a/snaplog.com/wiki/short_url
 hash: 4b710829852a931443e7ce68a48a8bde
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: sites.google.com
-    path: /a/snaplog.com/wiki/short_url
+year: 2009
+month: 04
+scheme: http
+host: sites.google.com
+path: /a/snaplog.com/wiki/short_url
 
 ---
 

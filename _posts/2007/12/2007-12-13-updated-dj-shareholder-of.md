@@ -3,13 +3,11 @@ title: "Updated: @ DJ Shareholder Meeting: Shareholders Approve Sale Of Dow Jone
 date: 2007-12-13 22:39:36 +0000
 external-url: http://gigaom.com/2007/12/13/419-dj-shareholder-meeting/
 hash: 458dc0633bb137d00070bc0ad46aed9b
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/13/419-dj-shareholder-meeting/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/13/419-dj-shareholder-meeting/
 
 ---
 

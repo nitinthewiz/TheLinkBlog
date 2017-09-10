@@ -3,13 +3,11 @@ title: "Github January 28th Incident Report"
 date: 2016-02-04 01:12:27 +0000
 external-url: https://github.com/blog/2106-january-28th-incident-report
 hash: 8e52958ef2a59735017779e080a0ca3c
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/2106-january-28th-incident-report
+year: 2016
+month: 02
+scheme: https
+host: github.com
+path: /blog/2106-january-28th-incident-report
 
 ---
 

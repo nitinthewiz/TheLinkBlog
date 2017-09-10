@@ -3,13 +3,11 @@ title: "Wisconsin Equal Pay Law Repealed Because \"Money Is More Important For M
 date: 2012-04-11 22:46:57 +0000
 external-url: http://www.care2.com/causes/wisconsin-equal-pay-law-repealed-because-money-is-more-important-for-men.html
 hash: 0d1313dcce863b2779616362d7ce8715
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.care2.com
-    path: /causes/wisconsin-equal-pay-law-repealed-because-money-is-more-important-for-men.html
+year: 2012
+month: 04
+scheme: http
+host: www.care2.com
+path: /causes/wisconsin-equal-pay-law-repealed-because-money-is-more-important-for-men.html
 
 ---
 

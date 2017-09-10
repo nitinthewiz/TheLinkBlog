@@ -3,13 +3,11 @@ title: "Finally, Facebook 3.0 for the iPhone Is Here"
 date: 2009-08-28 02:58:01 +0000
 external-url: http://gigaom.com/2009/08/27/finally-facebook-3-0-for-the-iphone-is-here/
 hash: 35bdca2bb801cb08e21ab817b596294b
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2009/08/27/finally-facebook-3-0-for-the-iphone-is-here/
+year: 2009
+month: 08
+scheme: http
+host: gigaom.com
+path: /2009/08/27/finally-facebook-3-0-for-the-iphone-is-here/
 
 ---
 

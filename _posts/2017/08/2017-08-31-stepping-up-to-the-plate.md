@@ -3,13 +3,11 @@ title: "Stepping Up to the Plate: A Story About Being On-Call - PagerDuty"
 date: 2017-08-31 01:26:04 +0000
 external-url: https://www.pagerduty.com/blog/intern-insights-on-call-experience/
 hash: fb88cafba5b8df83a590656c1d6ee0b2
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.pagerduty.com
-    path: /blog/intern-insights-on-call-experience/
+year: 2017
+month: 08
+scheme: https
+host: www.pagerduty.com
+path: /blog/intern-insights-on-call-experience/
 
 ---
 

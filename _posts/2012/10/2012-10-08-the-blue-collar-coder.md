@@ -3,13 +3,11 @@ title: "The Blue Collar Coder"
 date: 2012-10-08 15:30:34 +0000
 external-url: http://dashes.com/anil/2012/10/the-blue-collar-coder.html
 hash: 2692f0e179697c712ed67a443d65e873
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: dashes.com
-    path: /anil/2012/10/the-blue-collar-coder.html
+year: 2012
+month: 10
+scheme: http
+host: dashes.com
+path: /anil/2012/10/the-blue-collar-coder.html
 
 ---
 

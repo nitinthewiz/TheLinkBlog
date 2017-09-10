@@ -3,13 +3,11 @@ title: "XY Bias: How Male Biology Students See Their Female Peers"
 date: 2016-02-19 08:35:58 +0000
 external-url: http://www.theatlantic.com/science/archive/2016/02/male-biology-students-underestimate-their-female-peers/462924/
 hash: bf5c2e329410a0896181ffd867c08e7e
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /science/archive/2016/02/male-biology-students-underestimate-their-female-peers/462924/
+year: 2016
+month: 02
+scheme: http
+host: www.theatlantic.com
+path: /science/archive/2016/02/male-biology-students-underestimate-their-female-peers/462924/
 
 ---
 

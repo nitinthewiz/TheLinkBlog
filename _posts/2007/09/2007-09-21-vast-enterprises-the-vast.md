@@ -3,13 +3,11 @@ title: "VAST Enterprises - Introducing the VAST Composite Paver System - Composi
 date: 2007-09-21 18:02:47 +0000
 external-url: http://vast-enterprises.com/
 hash: 3c8fa41b8d7ea0afa4c9961c7aee80b6
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: vast-enterprises.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: vast-enterprises.com
+path: /
 
 ---
 

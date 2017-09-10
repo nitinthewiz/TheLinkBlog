@@ -3,13 +3,11 @@ title: "Agentzh's Nginx Tutorials (version 2012.03.24)"
 date: 2012-03-25 20:29:41 +0000
 external-url: http://openresty.org/download/agentzh-nginx-tutorials-en.html
 hash: 8ce73d20786454163c89dc0d0bfc24ea
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: openresty.org
-    path: /download/agentzh-nginx-tutorials-en.html
+year: 2012
+month: 03
+scheme: http
+host: openresty.org
+path: /download/agentzh-nginx-tutorials-en.html
 
 ---
 

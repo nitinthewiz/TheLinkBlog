@@ -3,13 +3,11 @@ title: "Cranked RSS Reader - Never miss the best stories"
 date: 2013-12-25 02:34:24 +0000
 external-url: http://cranked.io/
 hash: 4ac6cfacb8b682d3ae92d5fc8cac3612
-annum:
-    year: 2013
-    month: 12
-url-parts:
-    scheme: http
-    host: cranked.io
-    path: /
+year: 2013
+month: 12
+scheme: http
+host: cranked.io
+path: /
 
 ---
 

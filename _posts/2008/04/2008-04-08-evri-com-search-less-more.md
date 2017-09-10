@@ -3,13 +3,11 @@ title: "evri.com - search less. understand more."
 date: 2008-04-08 21:58:22 +0000
 external-url: http://www.evri.com/
 hash: 1ab5f620f3dab3854d6aa6dbfb12206e
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.evri.com
-    path: /
+year: 2008
+month: 04
+scheme: http
+host: www.evri.com
+path: /
 
 ---
 

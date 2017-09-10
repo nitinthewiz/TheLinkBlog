@@ -3,13 +3,11 @@ title: "Cooper Flags"
 date: 2011-03-09 17:12:57 +0000
 external-url: http://www.cooperflags.com/roofs.cfm
 hash: 5240eae72bb79d592b6746764492fcc7
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.cooperflags.com
-    path: /roofs.cfm
+year: 2011
+month: 03
+scheme: http
+host: www.cooperflags.com
+path: /roofs.cfm
 
 ---
 

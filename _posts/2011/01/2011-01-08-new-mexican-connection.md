@@ -3,13 +3,11 @@ title: "New Mexican Connection"
 date: 2011-01-08 15:48:22 +0000
 external-url: http://www.newmexicanconnection.com/
 hash: 1de62ac8cb20c41f2e5183c69e62b1fa
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.newmexicanconnection.com
-    path: /
+year: 2011
+month: 01
+scheme: http
+host: www.newmexicanconnection.com
+path: /
 
 ---
 

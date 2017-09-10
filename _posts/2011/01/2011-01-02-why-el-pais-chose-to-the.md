@@ -3,13 +3,11 @@ title: "Why EL PAÍS chose to publish the leaks"
 date: 2011-01-02 14:32:32 +0000
 external-url: http://www.elpais.com/articulo/english/Why/PAIS/chose/to/publish/the/leaks/elpepueng/20101223elpeng_3/Ten
 hash: 2e019b55677f16bdddcdd39674e85529
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.elpais.com
-    path: /articulo/english/Why/PAIS/chose/to/publish/the/leaks/elpepueng/20101223elpeng_3/Ten
+year: 2011
+month: 01
+scheme: http
+host: www.elpais.com
+path: /articulo/english/Why/PAIS/chose/to/publish/the/leaks/elpepueng/20101223elpeng_3/Ten
 
 ---
 

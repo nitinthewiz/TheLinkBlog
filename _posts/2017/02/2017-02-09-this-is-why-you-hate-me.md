@@ -3,13 +3,11 @@ title: "This Is Why You Hate Me – Medium"
 date: 2017-02-09 22:16:38 +0000
 external-url: https://medium.com/@davepell/this-is-why-you-hate-me-5b553f2a0dae#.ux4onfkr1
 hash: ab3874f6e0d69fd0a175abf2a6b73cf1
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@davepell/this-is-why-you-hate-me-5b553f2a0dae
+year: 2017
+month: 02
+scheme: https
+host: medium.com
+path: /@davepell/this-is-why-you-hate-me-5b553f2a0dae
 
 ---
 

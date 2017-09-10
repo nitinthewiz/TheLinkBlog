@@ -3,13 +3,11 @@ title: "Reconsider"
 date: 2015-11-07 10:42:41 +0000
 external-url: https://signalvnoise.com/posts/3972-reconsider
 hash: 80bff6c5deafe4bac5a3a65b996445c1
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/3972-reconsider
+year: 2015
+month: 11
+scheme: https
+host: signalvnoise.com
+path: /posts/3972-reconsider
 
 ---
 

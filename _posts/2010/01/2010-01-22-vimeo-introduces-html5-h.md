@@ -3,13 +3,11 @@ title: "Vimeo Introduces HTML5 H.264 Player"
 date: 2010-01-22 01:56:45 +0000
 external-url: http://vimeo.com/blog:268
 hash: bb6751444bc39ea05baf93802924799b
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /blog:268
+year: 2010
+month: 01
+scheme: http
+host: vimeo.com
+path: /blog:268
 
 ---
 

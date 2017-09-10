@@ -3,13 +3,11 @@ title: "SPS Commerce buys Canadian data analytics firm ToolBox Solutions - StarT
 date: 2016-01-07 13:27:46 +0000
 external-url: http://www.startribune.com/sps-commerce-buys-canadian-data-analytics-firm/364399231/
 hash: 355cfc148d4bc7a94fb6005e44afd6bc
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /sps-commerce-buys-canadian-data-analytics-firm/364399231/
+year: 2016
+month: 01
+scheme: http
+host: www.startribune.com
+path: /sps-commerce-buys-canadian-data-analytics-firm/364399231/
 
 ---
 

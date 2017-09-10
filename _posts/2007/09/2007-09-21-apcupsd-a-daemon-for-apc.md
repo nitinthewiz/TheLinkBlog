@@ -3,13 +3,11 @@ title: "Apcupsd, a daemon for controlling APC UPSes"
 date: 2007-09-21 15:43:37 +0000
 external-url: http://www.apcupsd.com/index.html
 hash: ff165a2a563f8faeb7c268a02311ed18
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.apcupsd.com
-    path: /index.html
+year: 2007
+month: 09
+scheme: http
+host: www.apcupsd.com
+path: /index.html
 
 ---
 

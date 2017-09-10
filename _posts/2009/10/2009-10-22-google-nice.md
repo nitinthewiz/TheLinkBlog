@@ -3,13 +3,11 @@ title: "@google Nice!"
 date: 2009-10-22 03:42:29 +0000
 external-url: http://blog.twitter.com/2009/10/google-nice.html
 hash: c42a8d56b37daec05e2e8d718471e486
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2009/10/google-nice.html
+year: 2009
+month: 10
+scheme: http
+host: blog.twitter.com
+path: /2009/10/google-nice.html
 
 ---
 

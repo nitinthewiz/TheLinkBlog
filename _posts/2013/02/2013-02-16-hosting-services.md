@@ -3,13 +3,11 @@ title: "Hosting services - MediaWiki"
 date: 2013-02-16 01:03:40 +0000
 external-url: http://www.mediawiki.org/wiki/Hosting_services
 hash: 4e89e21185c5cb23b4327c2478aa721a
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Hosting_services
+year: 2013
+month: 02
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Hosting_services
 
 ---
 

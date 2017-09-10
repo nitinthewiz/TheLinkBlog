@@ -3,13 +3,11 @@ title: "Fitts's law"
 date: 2010-12-07 04:34:45 +0000
 external-url: http://en.wikipedia.org/wiki/Fitts%27s_law
 hash: 32171e8591875c175c08953f69190b05
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Fitts%27s_law
+year: 2010
+month: 12
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Fitts%27s_law
 
 ---
 

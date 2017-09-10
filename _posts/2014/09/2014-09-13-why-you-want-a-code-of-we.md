@@ -3,13 +3,11 @@ title: "Why You Want a Code of Conduct & How We Made One - Incisive.nu"
 date: 2014-09-13 18:44:45 +0000
 external-url: http://incisive.nu/2014/codes-of-conduct/
 hash: da326e2666ffd45f896695663cd332ba
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: incisive.nu
-    path: /2014/codes-of-conduct/
+year: 2014
+month: 09
+scheme: http
+host: incisive.nu
+path: /2014/codes-of-conduct/
 
 ---
 

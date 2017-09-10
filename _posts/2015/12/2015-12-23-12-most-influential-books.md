@@ -3,13 +3,11 @@ title: "12 Most Influential Books Every Software Engineer Needs to Read | The Cu
 date: 2015-12-23 16:03:24 +0000
 external-url: http://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
 hash: c49bc9433e68e8c6764fa52b86b3bf93
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: jasonroell.com
-    path: /2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
+year: 2015
+month: 12
+scheme: http
+host: jasonroell.com
+path: /2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
 
 ---
 

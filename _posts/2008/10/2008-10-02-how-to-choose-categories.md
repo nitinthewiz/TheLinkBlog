@@ -3,13 +3,11 @@ title: "How to Choose Categories for Your Blog"
 date: 2008-10-02 19:01:44 +0000
 external-url: http://www.problogger.net/archives/2008/10/03/how-to-choose-categories-for-your-blog/
 hash: 7595067a73f0a5a27e808bc164e82ae4
-annum:
-    year: 2008
-    month: 10
-url-parts:
-    scheme: http
-    host: www.problogger.net
-    path: /archives/2008/10/03/how-to-choose-categories-for-your-blog/
+year: 2008
+month: 10
+scheme: http
+host: www.problogger.net
+path: /archives/2008/10/03/how-to-choose-categories-for-your-blog/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The @unitedstates project"
 date: 2014-06-02 02:03:23 +0000
 external-url: http://theunitedstates.io/
 hash: c2f0f00b360a80644d3a148c1506fc76
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: http
-    host: theunitedstates.io
-    path: /
+year: 2014
+month: 06
+scheme: http
+host: theunitedstates.io
+path: /
 
 ---
 

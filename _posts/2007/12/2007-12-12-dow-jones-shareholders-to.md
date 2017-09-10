@@ -3,13 +3,11 @@ title: "Dow Jones Shareholders Set To Approve Sale To News Corp."
 date: 2007-12-12 19:40:01 +0000
 external-url: http://gigaom.com/2007/12/12/419-dow-jones-shareholders-officially-approve-sale/
 hash: 966b25cbf7823282b82b6dab12a27f5c
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/12/419-dow-jones-shareholders-officially-approve-sale/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/12/419-dow-jones-shareholders-officially-approve-sale/
 
 ---
 

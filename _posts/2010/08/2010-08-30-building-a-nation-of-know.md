@@ -3,13 +3,11 @@ title: "Building a Nation of Know-Nothings"
 date: 2010-08-30 15:48:53 +0000
 external-url: http://opinionator.blogs.nytimes.com/2010/08/25/building-a-nation-of-know-nothings/
 hash: b6da16b46defba2945449b4fd6cf0676
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: opinionator.blogs.nytimes.com
-    path: /2010/08/25/building-a-nation-of-know-nothings/
+year: 2010
+month: 08
+scheme: http
+host: opinionator.blogs.nytimes.com
+path: /2010/08/25/building-a-nation-of-know-nothings/
 
 ---
 

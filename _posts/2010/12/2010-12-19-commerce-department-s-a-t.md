@@ -3,13 +3,11 @@ title: "Commerce Department's Online Privacy Report a Positive Step, But Self-Re
 date: 2010-12-19 02:13:18 +0000
 external-url: https://www.eff.org/deeplinks/2010/12/commerce-departments-online-privacy-report
 hash: bffe964ff6eeebd51a021977b893def4
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2010/12/commerce-departments-online-privacy-report
+year: 2010
+month: 12
+scheme: https
+host: www.eff.org
+path: /deeplinks/2010/12/commerce-departments-online-privacy-report
 
 ---
 

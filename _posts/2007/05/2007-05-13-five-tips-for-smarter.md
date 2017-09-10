@@ -3,13 +3,11 @@ title: "Five Tips for Smarter Playlists"
 date: 2007-05-13 06:43:03 +0000
 external-url: http://www.davidgagne.net/2006/11/14/five-tips-for-smarter-playlists/
 hash: c8d9449de6cc5c90d52a6a1da1f7286c
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: www.davidgagne.net
-    path: /2006/11/14/five-tips-for-smarter-playlists/
+year: 2007
+month: 05
+scheme: http
+host: www.davidgagne.net
+path: /2006/11/14/five-tips-for-smarter-playlists/
 
 ---
 

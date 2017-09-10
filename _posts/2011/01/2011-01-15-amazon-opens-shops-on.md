@@ -3,13 +3,11 @@ title: "Amazon Opens Shops On Facebook"
 date: 2011-01-15 01:35:26 +0000
 external-url: http://allfacebook.com/amazon-open-shops-on-facebook_b29231
 hash: 1642f46b52b6651955c36d134cb6ae05
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /amazon-open-shops-on-facebook_b29231
+year: 2011
+month: 01
+scheme: http
+host: allfacebook.com
+path: /amazon-open-shops-on-facebook_b29231
 
 ---
 

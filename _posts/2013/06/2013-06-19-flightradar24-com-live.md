@@ -3,13 +3,11 @@ title: "Flightradar24.com - Live flight tracker!"
 date: 2013-06-19 15:31:48 +0000
 external-url: http://www.flightradar24.com/
 hash: 70267f68e3aa6474ce288651545b8250
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: www.flightradar24.com
-    path: /
+year: 2013
+month: 06
+scheme: http
+host: www.flightradar24.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Alvenda changes name, plots a big ’11"
 date: 2011-01-28 20:58:30 +0000
 external-url: http://www.bizjournals.com/twincities/blog/in_private/2011/01/alvenda-changes-name-plots-a-big-11.html
 hash: 549acbb40dbdd4db5db7d4842ce7b3f9
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.bizjournals.com
-    path: /twincities/blog/in_private/2011/01/alvenda-changes-name-plots-a-big-11.html
+year: 2011
+month: 01
+scheme: http
+host: www.bizjournals.com
+path: /twincities/blog/in_private/2011/01/alvenda-changes-name-plots-a-big-11.html
 
 ---
 

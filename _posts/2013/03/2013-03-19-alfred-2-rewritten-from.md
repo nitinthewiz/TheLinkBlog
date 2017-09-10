@@ -3,13 +3,11 @@ title: "Alfred 2: Rewritten From The Ground Up, Workflows, Themes, and More"
 date: 2013-03-19 22:56:18 +0000
 external-url: http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/
 hash: 14c06f25e58a7fdaa84ab04cecf345d4
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.macstories.net
-    path: /reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/
+year: 2013
+month: 03
+scheme: http
+host: www.macstories.net
+path: /reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/
 
 ---
 

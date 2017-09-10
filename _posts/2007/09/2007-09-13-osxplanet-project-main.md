@@ -3,13 +3,11 @@ title: "OSXplanet Project - Main"
 date: 2007-09-13 19:14:37 +0000
 external-url: http://www.osxplanet.com/
 hash: dbf93c970706442dfa3ed6e505aca192
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.osxplanet.com
-    path: /
+year: 2007
+month: 09
+scheme: http
+host: www.osxplanet.com
+path: /
 
 ---
 

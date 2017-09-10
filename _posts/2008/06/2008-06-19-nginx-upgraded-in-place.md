@@ -3,13 +3,11 @@ title: "NginX Upgraded In Place"
 date: 2008-06-19 21:49:24 +0000
 external-url: http://www.opticality.com/blog/2008/06/19/nginx-upgraded-in-place/
 hash: 76d379b6049d67acabc55d36e968f7ee
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.opticality.com
-    path: /blog/2008/06/19/nginx-upgraded-in-place/
+year: 2008
+month: 06
+scheme: http
+host: www.opticality.com
+path: /blog/2008/06/19/nginx-upgraded-in-place/
 
 ---
 

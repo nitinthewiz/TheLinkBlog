@@ -3,13 +3,11 @@ title: "OmniFocus Push-Triggered Sync - Support - The Omni Group"
 date: 2015-06-04 01:15:17 +0000
 external-url: https://support.omnigroup.com/omnifocus-push-architecture
 hash: f069dbf34a88220b1ce97d26f280f3b1
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: https
-    host: support.omnigroup.com
-    path: /omnifocus-push-architecture
+year: 2015
+month: 06
+scheme: https
+host: support.omnigroup.com
+path: /omnifocus-push-architecture
 
 ---
 

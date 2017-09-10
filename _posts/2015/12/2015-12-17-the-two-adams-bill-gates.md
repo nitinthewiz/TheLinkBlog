@@ -3,13 +3,11 @@ title: "The Two Adams | Bill Gates"
 date: 2015-12-17 00:57:48 +0000
 external-url: http://www.gatesnotes.com/Books/The-Road-to-Character
 hash: 05d1e294b485abfa7b8e4ce0ebc1fd28
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: www.gatesnotes.com
-    path: /Books/The-Road-to-Character
+year: 2015
+month: 12
+scheme: http
+host: www.gatesnotes.com
+path: /Books/The-Road-to-Character
 
 ---
 

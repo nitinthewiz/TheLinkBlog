@@ -3,13 +3,11 @@ title: "Statistics on Friendfeed usage provide interesting insights"
 date: 2008-04-10 02:09:44 +0000
 external-url: http://vanelsas.wordpress.com/2008/04/09/statistics-on-friendfeed-usage-provide-interesting-insights/
 hash: 6aa83b21b5993a38d8c1e7fb63fe9de5
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: vanelsas.wordpress.com
-    path: /2008/04/09/statistics-on-friendfeed-usage-provide-interesting-insights/
+year: 2008
+month: 04
+scheme: http
+host: vanelsas.wordpress.com
+path: /2008/04/09/statistics-on-friendfeed-usage-provide-interesting-insights/
 
 ---
 

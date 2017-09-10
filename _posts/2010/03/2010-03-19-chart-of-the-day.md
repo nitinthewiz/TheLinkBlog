@@ -3,15 +3,13 @@ title: "Chart Of The Day"
 date: 2010-03-19 03:16:55 +0000
 external-url: http://www.pheedcontent.com/click.phdo?i=20e66efca2ae95978cfb46017a538055
 hash: 5737c5ef3ddbaaac2adb7042194a71d7
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: www.pheedcontent.com
-    path: /click.phdo
-    query:
-        i: "20e66efca2ae95978cfb46017a538055"
+year: 2010
+month: 03
+scheme: http
+host: www.pheedcontent.com
+path: /click.phdo
+query:
+    i: "20e66efca2ae95978cfb46017a538055"
 ---
 
   

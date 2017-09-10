@@ -3,13 +3,11 @@ title: "Berners-Lee Warns Against Facebook Fragmenting The Web"
 date: 2010-11-22 19:52:15 +0000
 external-url: http://allfacebook.com/berners-lee-warns-against-facebook-fragmenting-the-web_b24195
 hash: 8a06cf3c7df959dcd87d945e7317102e
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /berners-lee-warns-against-facebook-fragmenting-the-web_b24195
+year: 2010
+month: 11
+scheme: http
+host: allfacebook.com
+path: /berners-lee-warns-against-facebook-fragmenting-the-web_b24195
 
 ---
 

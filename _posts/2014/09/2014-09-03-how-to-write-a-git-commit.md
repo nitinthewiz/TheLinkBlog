@@ -3,13 +3,11 @@ title: "How to Write a Git Commit Message"
 date: 2014-09-03 02:25:48 +0000
 external-url: http://chris.beams.io/posts/git-commit/
 hash: 41f665de079966732af97c6adea4d9fc
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: chris.beams.io
-    path: /posts/git-commit/
+year: 2014
+month: 09
+scheme: http
+host: chris.beams.io
+path: /posts/git-commit/
 
 ---
 

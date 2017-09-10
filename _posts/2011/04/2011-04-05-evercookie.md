@@ -3,13 +3,11 @@ title: "Evercookie"
 date: 2011-04-05 19:21:35 +0000
 external-url: http://en.wikipedia.org/wiki/Evercookie
 hash: 73ff121038011e66aee9be003a2a9746
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Evercookie
+year: 2011
+month: 04
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Evercookie
 
 ---
 

@@ -3,13 +3,11 @@ title: "Process Managers: The Good, the Bad, and the Ugly"
 date: 2013-04-24 15:10:01 +0000
 external-url: http://blog.crocodoc.com/post/48703468992/process-managers-the-good-the-bad-and-the-ugly
 hash: 59f6073ff083dda852ab7603142fb824
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.crocodoc.com
-    path: /post/48703468992/process-managers-the-good-the-bad-and-the-ugly
+year: 2013
+month: 04
+scheme: http
+host: blog.crocodoc.com
+path: /post/48703468992/process-managers-the-good-the-bad-and-the-ugly
 
 ---
 

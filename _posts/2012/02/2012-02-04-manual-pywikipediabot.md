@@ -3,13 +3,11 @@ title: "Manual:Pywikipediabot"
 date: 2012-02-04 12:09:49 +0000
 external-url: http://www.mediawiki.org/wiki/Manual:Pywikibot
 hash: 28e5748de533733b4312e3ca872877c7
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Manual:Pywikibot
+year: 2012
+month: 02
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Manual:Pywikibot
 
 ---
 

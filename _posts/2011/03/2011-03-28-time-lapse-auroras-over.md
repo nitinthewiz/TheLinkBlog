@@ -3,13 +3,11 @@ title: "Time Lapse Auroras Over Norway"
 date: 2011-03-28 15:32:02 +0000
 external-url: http://apod.nasa.gov/apod/ap110328.html
 hash: d9ad23db9cd5629a426d3507cb569e02
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: apod.nasa.gov
-    path: /apod/ap110328.html
+year: 2011
+month: 03
+scheme: http
+host: apod.nasa.gov
+path: /apod/ap110328.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Teens Turn to Social Coding to Protect Privacy on Social Nets"
 date: 2011-01-22 12:26:30 +0000
 external-url: http://www.pbs.org/mediashift/2011/01/teens-turn-to-social-coding-to-protect-privacy-on-social-nets021/
 hash: 3521589d584371ca03b9f94eacc47bff
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.pbs.org
-    path: /mediashift/2011/01/teens-turn-to-social-coding-to-protect-privacy-on-social-nets021/
+year: 2011
+month: 01
+scheme: http
+host: www.pbs.org
+path: /mediashift/2011/01/teens-turn-to-social-coding-to-protect-privacy-on-social-nets021/
 
 ---
 

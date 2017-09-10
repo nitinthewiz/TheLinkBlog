@@ -3,13 +3,11 @@ title: "SparkleShare - Sharing work made easy"
 date: 2011-05-04 03:38:44 +0000
 external-url: http://sparkleshare.org/
 hash: dc5cc41b89985e10c77c5b9f82724e11
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: sparkleshare.org
-    path: /
+year: 2011
+month: 05
+scheme: http
+host: sparkleshare.org
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Abandoned Six Flags in New Orleans"
 date: 2010-11-05 17:15:00 +0000
 external-url: http://laughingsquid.com/a-post-apocalyptic-tour-of-the-abandoned-six-flags-in-new-orleans/
 hash: ad018309f3efa829f7a8f2f4b814e055
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: laughingsquid.com
-    path: /a-post-apocalyptic-tour-of-the-abandoned-six-flags-in-new-orleans/
+year: 2010
+month: 11
+scheme: http
+host: laughingsquid.com
+path: /a-post-apocalyptic-tour-of-the-abandoned-six-flags-in-new-orleans/
 
 ---
 

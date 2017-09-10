@@ -3,13 +3,11 @@ title: "Star Tribune 50: The 26th Annual Report"
 date: 2017-05-22 20:32:28 +0000
 external-url: http://apps.startribune.com/top_100_business/revenueView.php
 hash: 5e8ae1f4ba022fd6a787b19d70c3790e
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: http
-    host: apps.startribune.com
-    path: /top_100_business/revenueView.php
+year: 2017
+month: 05
+scheme: http
+host: apps.startribune.com
+path: /top_100_business/revenueView.php
 
 ---
 

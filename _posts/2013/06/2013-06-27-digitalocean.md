@@ -3,13 +3,11 @@ title: "DigitalOcean"
 date: 2013-06-27 21:44:10 +0000
 external-url: https://www.digitalocean.com/
 hash: 9eb1eb2b5e161daeea7e90d696fd86ce
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: https
-    host: www.digitalocean.com
-    path: /
+year: 2013
+month: 06
+scheme: https
+host: www.digitalocean.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Matasano Security"
 date: 2012-03-19 20:54:19 +0000
 external-url: http://www.matasano.com/
 hash: f83a5bc9b50d5434816481f9c1f636ac
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: www.matasano.com
-    path: /
+year: 2012
+month: 03
+scheme: http
+host: www.matasano.com
+path: /
 
 ---
 

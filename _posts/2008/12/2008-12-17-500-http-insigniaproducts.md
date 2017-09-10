@@ -3,13 +3,11 @@ title: "(500) http://insigniaproducts.com/products/digital-cameras.html"
 date: 2008-12-17 16:09:11 +0000
 external-url: http://insigniaproducts.com/products/digital-cameras.html
 hash: 87e8f9ca62e8af20d216a016f61a93cf
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: insigniaproducts.com
-    path: /products/digital-cameras.html
+year: 2008
+month: 12
+scheme: http
+host: insigniaproducts.com
+path: /products/digital-cameras.html
 
 ---
 

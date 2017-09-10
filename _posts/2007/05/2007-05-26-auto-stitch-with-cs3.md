@@ -3,13 +3,11 @@ title: "Auto-Stitch with Photoshop CS3"
 date: 2007-05-26 19:56:34 +0000
 external-url: http://www.creativepro.com/story/howto/25060.html
 hash: ed53b88bff7e884a369d7f90427f74e2
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: www.creativepro.com
-    path: /story/howto/25060.html
+year: 2007
+month: 05
+scheme: http
+host: www.creativepro.com
+path: /story/howto/25060.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "X1 Water Bike - Sportzy"
 date: 2014-10-26 23:20:09 +0000
 external-url: https://sportzy.com/x1-water-bike
 hash: d6af1bea9c7a252a9ca3b75f8009f6a2
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: sportzy.com
-    path: /x1-water-bike
+year: 2014
+month: 10
+scheme: https
+host: sportzy.com
+path: /x1-water-bike
 
 ---
 

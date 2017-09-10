@@ -3,13 +3,11 @@ title: "The CEO Mentor and Coach"
 date: 2010-08-25 11:40:38 +0000
 external-url: http://www.avc.com/a_vc/2010/08/the-ceo-mentor-and-coach.html
 hash: a042b859f6552b0a7549f3c7609649cc
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: www.avc.com
-    path: /a_vc/2010/08/the-ceo-mentor-and-coach.html
+year: 2010
+month: 08
+scheme: http
+host: www.avc.com
+path: /a_vc/2010/08/the-ceo-mentor-and-coach.html
 
 ---
 

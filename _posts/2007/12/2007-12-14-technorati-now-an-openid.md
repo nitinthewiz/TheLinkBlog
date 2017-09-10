@@ -3,13 +3,11 @@ title: "Technorati Now An OpenID Authentication Provider Plus Another Beneficial
 date: 2007-12-14 22:46:19 +0000
 external-url: http://www.centernetworks.com/technorati-openid-authentication-provider/
 hash: f23f77318effc4449d0049dcdeb25e29
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.centernetworks.com
-    path: /technorati-openid-authentication-provider/
+year: 2007
+month: 12
+scheme: http
+host: www.centernetworks.com
+path: /technorati-openid-authentication-provider/
 
 ---
 

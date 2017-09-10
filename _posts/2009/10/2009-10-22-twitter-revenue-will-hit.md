@@ -3,13 +3,11 @@ title: "Twitter Revenue Will Hit $4 Million This Year"
 date: 2009-10-22 04:31:28 +0000
 external-url: http://www.businessinsider.com/twitter-will-earn-4-million-this-year-2009-10
 hash: 3ce366d574151d73cbd381c8af1019bb
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /twitter-will-earn-4-million-this-year-2009-10
+year: 2009
+month: 10
+scheme: http
+host: www.businessinsider.com
+path: /twitter-will-earn-4-million-this-year-2009-10
 
 ---
 

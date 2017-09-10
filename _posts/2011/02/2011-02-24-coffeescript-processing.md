@@ -3,13 +3,11 @@ title: "CoffeeScript + Processing.js == Crazy Delicious"
 date: 2011-02-24 12:10:03 +0000
 external-url: http://dry.ly/2011/02/21/coffeescript--processingjs--crazy-delicious/
 hash: dad717f1ebd1081a686186e36b526c0c
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: dry.ly
-    path: /2011/02/21/coffeescript--processingjs--crazy-delicious/
+year: 2011
+month: 02
+scheme: http
+host: dry.ly
+path: /2011/02/21/coffeescript--processingjs--crazy-delicious/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Secret Tesla Motors Master Plan (just between you and me) | Tesla Mo
 date: 2016-04-03 15:19:48 +0000
 external-url: https://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me
 hash: 0b4feceb986417f7236dc46aa91cc626
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: https
-    host: www.teslamotors.com
-    path: /blog/secret-tesla-motors-master-plan-just-between-you-and-me
+year: 2016
+month: 04
+scheme: https
+host: www.teslamotors.com
+path: /blog/secret-tesla-motors-master-plan-just-between-you-and-me
 
 ---
 

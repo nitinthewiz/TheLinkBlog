@@ -3,13 +3,11 @@ title: "My OmniFocus experiment the beginning (kinda)"
 date: 2011-02-07 16:05:31 +0000
 external-url: http://www.practicallyefficient.com/home/2011/02/07/my-omnifocus-experiment-the-beginning-kinda
 hash: f0cf2a44a94ec9c4a4c5abbe1134ac18
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: www.practicallyefficient.com
-    path: /home/2011/02/07/my-omnifocus-experiment-the-beginning-kinda
+year: 2011
+month: 02
+scheme: http
+host: www.practicallyefficient.com
+path: /home/2011/02/07/my-omnifocus-experiment-the-beginning-kinda
 
 ---
 

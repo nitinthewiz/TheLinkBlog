@@ -3,13 +3,11 @@ title: "Some unsolicited feedback for the Fields project from my time with the R
 date: 2015-05-30 14:29:49 +0000
 external-url: https://danielbachhuber.com/2015/05/28/some-unsolicited-feedback-for-the-fields-project-from-my-time-with-the-rest-api-project/
 hash: ced147c7280257efe38b5e293e8dd0a8
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: https
-    host: danielbachhuber.com
-    path: /2015/05/28/some-unsolicited-feedback-for-the-fields-project-from-my-time-with-the-rest-api-project/
+year: 2015
+month: 05
+scheme: https
+host: danielbachhuber.com
+path: /2015/05/28/some-unsolicited-feedback-for-the-fields-project-from-my-time-with-the-rest-api-project/
 
 ---
 

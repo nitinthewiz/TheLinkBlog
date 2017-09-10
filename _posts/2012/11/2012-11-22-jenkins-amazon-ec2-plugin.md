@@ -3,13 +3,11 @@ title: "Jenkins Amazon EC2 Plugin"
 date: 2012-11-22 04:32:28 +0000
 external-url: https://wiki.jenkins-ci.org/display/JENKINS/Amazon%2BEC2%2BPlugin
 hash: d51032dd07ec279d9145a709547f8aa5
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: wiki.jenkins-ci.org
-    path: /display/JENKINS/Amazon%2BEC2%2BPlugin
+year: 2012
+month: 11
+scheme: https
+host: wiki.jenkins-ci.org
+path: /display/JENKINS/Amazon%2BEC2%2BPlugin
 
 ---
 

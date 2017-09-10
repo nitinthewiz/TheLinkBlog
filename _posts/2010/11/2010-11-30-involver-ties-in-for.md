@@ -3,13 +3,11 @@ title: "Involver Ties In WordPress For Better Facebook Posts"
 date: 2010-11-30 19:49:07 +0000
 external-url: http://allfacebook.com/involver-ties-in-wordpress-for-better-facebook-posts_b24724
 hash: 2484a93c9257cce4f51698df507ca1d9
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /involver-ties-in-wordpress-for-better-facebook-posts_b24724
+year: 2010
+month: 11
+scheme: http
+host: allfacebook.com
+path: /involver-ties-in-wordpress-for-better-facebook-posts_b24724
 
 ---
 

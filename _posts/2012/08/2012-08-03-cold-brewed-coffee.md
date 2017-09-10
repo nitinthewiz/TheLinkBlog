@@ -3,13 +3,11 @@ title: "Cold-brewed coffee results"
 date: 2012-08-03 18:54:38 +0000
 external-url: http://www.marco.org/2009/08/23/cold-brewed-coffee-results
 hash: fce5306e43de9663dedd63b84e1327ba
-annum:
-    year: 2012
-    month: 08
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2009/08/23/cold-brewed-coffee-results
+year: 2012
+month: 08
+scheme: http
+host: www.marco.org
+path: /2009/08/23/cold-brewed-coffee-results
 
 ---
 

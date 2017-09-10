@@ -3,13 +3,11 @@ title: "New iTunes ad featuring Coldplay"
 date: 2008-05-21 14:30:00 +0000
 external-url: http://www.tuaw.com/2008/05/21/new-itunes-ad-featuring-coldplay/
 hash: d012737402ad1952ad0fd994cf249d6a
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/05/21/new-itunes-ad-featuring-coldplay/
+year: 2008
+month: 05
+scheme: http
+host: www.tuaw.com
+path: /2008/05/21/new-itunes-ad-featuring-coldplay/
 
 ---
 

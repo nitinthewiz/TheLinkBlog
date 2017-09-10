@@ -3,13 +3,11 @@ title: "Happy Birthday Kickstarter!"
 date: 2011-04-28 17:28:30 +0000
 external-url: http://blog.kickstarter.com/post/5014573685/happy-birthday-kickstarter
 hash: 828ab55d9baa1536a8bdcec4d864a50a
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.kickstarter.com
-    path: /post/5014573685/happy-birthday-kickstarter
+year: 2011
+month: 04
+scheme: http
+host: blog.kickstarter.com
+path: /post/5014573685/happy-birthday-kickstarter
 
 ---
 

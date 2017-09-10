@@ -3,13 +3,11 @@ title: "Kubb Documentary Preview"
 date: 2014-02-24 02:08:28 +0000
 external-url: http://vimeo.com/87409409
 hash: ffdf84fbd0a08db18c71be032627eb37
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /87409409
+year: 2014
+month: 02
+scheme: http
+host: vimeo.com
+path: /87409409
 
 ---
 

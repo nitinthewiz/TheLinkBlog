@@ -3,13 +3,11 @@ title: "Top-Rated Charities"
 date: 2005-12-21 16:06:05 +0000
 external-url: http://www.charitywatch.org/toprated.html
 hash: 47d23d3e33c947c351b716c3f8c3963e
-annum:
-    year: 2005
-    month: 12
-url-parts:
-    scheme: http
-    host: www.charitywatch.org
-    path: /toprated.html
+year: 2005
+month: 12
+scheme: http
+host: www.charitywatch.org
+path: /toprated.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Collective Intelligence FOO Camp"
 date: 2008-02-27 00:04:46 +0000
 external-url: http://www.grouplens.org/node/204
 hash: 54a2eb071b25a69bcb87f44badc20885
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.grouplens.org
-    path: /node/204
+year: 2008
+month: 02
+scheme: http
+host: www.grouplens.org
+path: /node/204
 
 ---
 

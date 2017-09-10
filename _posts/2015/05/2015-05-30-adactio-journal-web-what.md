@@ -3,13 +3,11 @@ title: "Adactio: Journal—Web! What is it good for?"
 date: 2015-05-30 14:49:58 +0000
 external-url: https://adactio.com/journal/9016
 hash: c9425e43a74f7d895935db61c32d64a3
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: https
-    host: adactio.com
-    path: /journal/9016
+year: 2015
+month: 05
+scheme: https
+host: adactio.com
+path: /journal/9016
 
 ---
 

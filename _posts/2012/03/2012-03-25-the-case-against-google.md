@@ -3,13 +3,11 @@ title: "The Case Against Google"
 date: 2012-03-25 20:25:35 +0000
 external-url: http://gizmodo.com/5895010/the-case-against-google
 hash: 6ebc176e33149b57b97e0fbf442d6bae
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: gizmodo.com
-    path: /5895010/the-case-against-google
+year: 2012
+month: 03
+scheme: http
+host: gizmodo.com
+path: /5895010/the-case-against-google
 
 ---
 

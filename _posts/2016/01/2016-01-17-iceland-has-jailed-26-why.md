@@ -3,13 +3,11 @@ title: "Iceland has jailed 26 bankers, why won't we?"
 date: 2016-01-17 02:55:00 +0000
 external-url: http://www.independent.co.uk/voices/iceland-has-jailed-26-bankers-why-wont-we-a6735411.html
 hash: bb03cd326028946b1bbdb696f870881e
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.independent.co.uk
-    path: /voices/iceland-has-jailed-26-bankers-why-wont-we-a6735411.html
+year: 2016
+month: 01
+scheme: http
+host: www.independent.co.uk
+path: /voices/iceland-has-jailed-26-bankers-why-wont-we-a6735411.html
 
 ---
 

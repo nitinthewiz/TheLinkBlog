@@ -3,13 +3,11 @@ title: "Twitter's Summer Funding: $4.8 Million of a $5.4 Million Round"
 date: 2007-12-11 00:14:26 +0000
 external-url: http://gigaom.com/2007/12/11/419-twitters-funding-48-million-of-54-million-round/
 hash: 3b4c3e88ada9e5bbf402c9cc1e4de447
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/11/419-twitters-funding-48-million-of-54-million-round/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/11/419-twitters-funding-48-million-of-54-million-round/
 
 ---
 

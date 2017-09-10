@@ -3,13 +3,11 @@ title: "Hyperlocal cooties"
 date: 2013-03-11 05:04:40 +0000
 external-url: http://buzzmachine.com/2013/03/08/hyperlocal-cooties/
 hash: edf12d4adaa52358d7c86e07332ca1b2
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: buzzmachine.com
-    path: /2013/03/08/hyperlocal-cooties/
+year: 2013
+month: 03
+scheme: http
+host: buzzmachine.com
+path: /2013/03/08/hyperlocal-cooties/
 
 ---
 

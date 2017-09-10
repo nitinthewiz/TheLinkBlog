@@ -3,13 +3,11 @@ title: "Murdoch: Digital Could Make Up 75 Percent Of Dow Jones Revs"
 date: 2008-06-19 21:55:48 +0000
 external-url: http://gigaom.com/2008/06/20/419-murdoch-digital-could-make-up-75-percent-of-dow-jones-revs/
 hash: 33a46f9faf10597ad650e0de293f8e92
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/06/20/419-murdoch-digital-could-make-up-75-percent-of-dow-jones-revs/
+year: 2008
+month: 06
+scheme: http
+host: gigaom.com
+path: /2008/06/20/419-murdoch-digital-could-make-up-75-percent-of-dow-jones-revs/
 
 ---
 

@@ -3,13 +3,11 @@ title: "10‭ ‬Ways to Be Productive with Backpack"
 date: 2007-05-27 11:55:54 +0000
 external-url: http://webworkerdaily.com/2007/05/25/10%E2%80%AD-%E2%80%ACways-to-be-productive-with-backpack/
 hash: 38e7bb2770aca9c016296ceaa739ff3e
-annum:
-    year: 2007
-    month: 05
-url-parts:
-    scheme: http
-    host: webworkerdaily.com
-    path: /2007/05/25/10%E2%80%AD-%E2%80%ACways-to-be-productive-with-backpack/
+year: 2007
+month: 05
+scheme: http
+host: webworkerdaily.com
+path: /2007/05/25/10%E2%80%AD-%E2%80%ACways-to-be-productive-with-backpack/
 
 ---
 

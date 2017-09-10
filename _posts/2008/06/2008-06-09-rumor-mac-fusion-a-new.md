@@ -3,13 +3,11 @@ title: "Rumor: Mac Fusion - a new developer Mac"
 date: 2008-06-09 04:46:00 +0000
 external-url: http://www.tuaw.com/2008/06/08/rumor-mac-fusion-a-new-developer-mac/
 hash: dca1a139f835b6691b01151b969a9b9a
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/08/rumor-mac-fusion-a-new-developer-mac/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/08/rumor-mac-fusion-a-new-developer-mac/
 
 ---
 

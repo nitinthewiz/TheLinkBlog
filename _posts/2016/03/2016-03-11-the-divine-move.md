@@ -3,13 +3,11 @@ title: "The Divine Move"
 date: 2016-03-11 01:56:18 +0000
 external-url: https://medium.com/@rafael_j/the-divine-move-a444229c2e64#.6tyr5agyp
 hash: 22f853b648a82f0a61b423b2a0d58664
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@rafael_j/the-divine-move-a444229c2e64
+year: 2016
+month: 03
+scheme: https
+host: medium.com
+path: /@rafael_j/the-divine-move-a444229c2e64
 
 ---
 

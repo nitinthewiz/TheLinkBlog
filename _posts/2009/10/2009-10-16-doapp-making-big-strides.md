@@ -3,13 +3,11 @@ title: "DoApp Making Big Strides with ‘Mobile Local News’ App"
 date: 2009-10-16 23:55:53 +0000
 external-url: http://minnov8.com/2009/10/16/doapp-making-big-strides-with-mobile-local-news-app/#utm_source=rss&utm_medium=rss&utm_campaign=doapp-making-big-strides-with-mobile-local-news-app
 hash: c86e9b3ed40161844c586f9d24cdb9ef
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: minnov8.com
-    path: /2009/10/16/doapp-making-big-strides-with-mobile-local-news-app/
+year: 2009
+month: 10
+scheme: http
+host: minnov8.com
+path: /2009/10/16/doapp-making-big-strides-with-mobile-local-news-app/
 
 ---
 

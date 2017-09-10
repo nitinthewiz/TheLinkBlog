@@ -3,13 +3,11 @@ title: "Lightroom 3 beta now available"
 date: 2009-10-22 04:25:49 +0000
 external-url: http://blogs.adobe.com/lightroomjournal/2009/10/lightroom_3_beta_now_available.html
 hash: a9fafe1baa4cb4c1fa84518c1321d839
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: blogs.adobe.com
-    path: /lightroomjournal/2009/10/lightroom_3_beta_now_available.html
+year: 2009
+month: 10
+scheme: http
+host: blogs.adobe.com
+path: /lightroomjournal/2009/10/lightroom_3_beta_now_available.html
 
 ---
 

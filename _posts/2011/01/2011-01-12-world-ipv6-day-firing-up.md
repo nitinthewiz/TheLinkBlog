@@ -3,13 +3,11 @@ title: "World IPv6 Day: firing up the engines on the new Internet protocol"
 date: 2011-01-12 17:24:03 +0000
 external-url: http://googleblog.blogspot.com/2011/01/world-ipv6-day-firing-up-engines-on-new.html
 hash: 210bc4f524e0ba0ebcfdc7c3954f14d1
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2011/01/world-ipv6-day-firing-up-engines-on-new.html
+year: 2011
+month: 01
+scheme: http
+host: googleblog.blogspot.com
+path: /2011/01/world-ipv6-day-firing-up-engines-on-new.html
 
 ---
 

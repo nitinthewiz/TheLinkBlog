@@ -3,13 +3,11 @@ title: "Nasdaq Launches Enterprise-Wide Blockchain Technology Initiative"
 date: 2015-05-12 01:36:32 +0000
 external-url: http://www.reuters.com/article/2015/05/11/idUSnGNX1Bn0Cg+1d2+GNW20150511
 hash: 812ee1f32a1c4092bf39fc6aee1ea23c
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: www.reuters.com
-    path: /article/2015/05/11/idUSnGNX1Bn0Cg+1d2+GNW20150511
+year: 2015
+month: 05
+scheme: http
+host: www.reuters.com
+path: /article/2015/05/11/idUSnGNX1Bn0Cg+1d2+GNW20150511
 
 ---
 

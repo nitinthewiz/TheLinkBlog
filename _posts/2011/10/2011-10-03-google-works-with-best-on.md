@@ -3,13 +3,11 @@ title: "Google works with Best Buy on 'circular' ads"
 date: 2011-10-03 13:09:14 +0000
 external-url: http://www.bizjournals.com/twincities/morning_roundup/2011/10/google-works-with-best-buy-on.html
 hash: 5ba8ed2bc62a9c0c179d5f8e40becf6c
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.bizjournals.com
-    path: /twincities/morning_roundup/2011/10/google-works-with-best-buy-on.html
+year: 2011
+month: 10
+scheme: http
+host: www.bizjournals.com
+path: /twincities/morning_roundup/2011/10/google-works-with-best-buy-on.html
 
 ---
 

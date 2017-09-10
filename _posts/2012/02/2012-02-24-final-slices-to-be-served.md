@@ -3,13 +3,11 @@ title: "Final slices to be served at Plymouth pizza place"
 date: 2012-02-24 19:55:57 +0000
 external-url: http://bit.ly/1fOcboC
 hash: 63d4a7795cdcd322c1b7477e3a058f05
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: bit.ly
-    path: /1fOcboC
+year: 2012
+month: 02
+scheme: http
+host: bit.ly
+path: /1fOcboC
 
 ---
 

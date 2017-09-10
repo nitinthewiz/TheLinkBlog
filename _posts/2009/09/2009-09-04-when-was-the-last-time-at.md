@@ -3,13 +3,11 @@ title: "When was the last time you heard someone talk about the great bargain th
 date: 2009-09-04 00:21:57 +0000
 external-url: http://marthaandtom.com/2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/
 hash: ba467218a0c9450add0799ed4df849c1
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: marthaandtom.com
-    path: /2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/
+year: 2009
+month: 09
+scheme: http
+host: marthaandtom.com
+path: /2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/
 
 ---
 

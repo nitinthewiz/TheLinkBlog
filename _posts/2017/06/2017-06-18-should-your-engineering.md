@@ -3,13 +3,11 @@ title: "Should your Engineering Lead be fired? – It’s Your Turn"
 date: 2017-06-18 02:38:26 +0000
 external-url: https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3
 hash: 4ac686b4bf8e691294b480d2d1a97f29
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: itsyourturnblog.com
-    path: /should-your-engineering-lead-be-fired-9f43314863d3
+year: 2017
+month: 06
+scheme: https
+host: itsyourturnblog.com
+path: /should-your-engineering-lead-be-fired-9f43314863d3
 
 ---
 

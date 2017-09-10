@@ -3,13 +3,11 @@ title: "Nutrition Facts Label Programs and Materials > How to Understand and Use
 date: 2011-12-25 12:05:43 +0000
 external-url: http://www.fda.gov/Food/ResourcesForYou/Consumers/NFLPM/ucm274593.htm
 hash: e9c539cf51dd91cbd1008fa346890396
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.fda.gov
-    path: /Food/ResourcesForYou/Consumers/NFLPM/ucm274593.htm
+year: 2011
+month: 12
+scheme: http
+host: www.fda.gov
+path: /Food/ResourcesForYou/Consumers/NFLPM/ucm274593.htm
 
 ---
 

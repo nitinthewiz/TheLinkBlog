@@ -3,13 +3,11 @@ title: "Don't Forget About Your Personal Blog"
 date: 2008-08-02 02:37:49 +0000
 external-url: http://performancing.com/blogging/dont-forget-about-your-personal-blog
 hash: abd3c2be978af8163b94a996420d98f9
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: performancing.com
-    path: /blogging/dont-forget-about-your-personal-blog
+year: 2008
+month: 08
+scheme: http
+host: performancing.com
+path: /blogging/dont-forget-about-your-personal-blog
 
 ---
 

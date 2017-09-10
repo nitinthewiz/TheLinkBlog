@@ -3,13 +3,11 @@ title: "Manager Security Incident"
 date: 2012-03-02 15:37:54 +0000
 external-url: http://status.linode.com
 hash: 8d208acde94a4fcd97de9f843e4a3796
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: status.linode.com
-    path: 
+year: 2012
+month: 03
+scheme: http
+host: status.linode.com
+path: 
 
 ---
 

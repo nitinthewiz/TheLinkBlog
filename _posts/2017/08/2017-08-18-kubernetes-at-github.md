@@ -3,13 +3,11 @@ title: "Kubernetes at GitHub | GitHub Engineering"
 date: 2017-08-18 12:17:31 +0000
 external-url: https://githubengineering.com/kubernetes-at-github/
 hash: acce3029906b492d2de48c83a810f79b
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: githubengineering.com
-    path: /kubernetes-at-github/
+year: 2017
+month: 08
+scheme: https
+host: githubengineering.com
+path: /kubernetes-at-github/
 
 ---
 

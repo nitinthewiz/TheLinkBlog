@@ -3,13 +3,11 @@ title: "Researcher-Entrepreneur JV CircLabs To Offer Publishers New Ad-Targeting
 date: 2009-05-28 13:58:15 +0000
 external-url: http://www.paidcontent.org/entry/419-entrepreneurs-researchers-try-to-save-journalism-with-circlabs-jv/
 hash: 631ecb62524420519d388c309aac4c31
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.paidcontent.org
-    path: /entry/419-entrepreneurs-researchers-try-to-save-journalism-with-circlabs-jv/
+year: 2009
+month: 05
+scheme: http
+host: www.paidcontent.org
+path: /entry/419-entrepreneurs-researchers-try-to-save-journalism-with-circlabs-jv/
 
 ---
 

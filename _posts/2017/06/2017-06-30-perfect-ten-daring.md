@@ -3,13 +3,11 @@ title: "★ Perfect Ten —Daring Fireball"
 date: 2017-06-30 00:31:02 +0000
 external-url: https://daringfireball.net/2017/06/perfect_ten
 hash: 930bebdc0b959c7bd28c87fa76abc8f1
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: daringfireball.net
-    path: /2017/06/perfect_ten
+year: 2017
+month: 06
+scheme: https
+host: daringfireball.net
+path: /2017/06/perfect_ten
 
 ---
 

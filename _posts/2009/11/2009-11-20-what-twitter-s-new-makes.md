@@ -3,13 +3,11 @@ title: "What Twitter's New Geolocation Makes Possible"
 date: 2009-11-20 05:40:07 +0000
 external-url: http://www.readwriteweb.com/archives/twitter_location_api_possible_uses.php
 hash: ee49848f917602f8462a2abb7a0f66b7
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/twitter_location_api_possible_uses.php
+year: 2009
+month: 11
+scheme: http
+host: www.readwriteweb.com
+path: /archives/twitter_location_api_possible_uses.php
 
 ---
 

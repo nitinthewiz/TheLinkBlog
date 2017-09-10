@@ -3,13 +3,11 @@ title: "How To Hide Your Facebook Application Activity From Others"
 date: 2010-10-21 16:27:06 +0000
 external-url: http://allfacebook.com/how-to-hide-your-facebook-application-activity-from-others_b20903
 hash: ada75079f66941fd0530a9464a65dbef
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /how-to-hide-your-facebook-application-activity-from-others_b20903
+year: 2010
+month: 10
+scheme: http
+host: allfacebook.com
+path: /how-to-hide-your-facebook-application-activity-from-others_b20903
 
 ---
 

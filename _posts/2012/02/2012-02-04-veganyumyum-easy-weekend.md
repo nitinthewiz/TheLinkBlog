@@ -3,13 +3,11 @@ title: "VeganYumYum » Easy Weekend Pancakes"
 date: 2012-02-04 14:21:08 +0000
 external-url: http://veganyumyum.com/2008/02/easy-weekend-pancakes/
 hash: e114ef4f94b3ad34508b6219ffa9eb48
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: veganyumyum.com
-    path: /2008/02/easy-weekend-pancakes/
+year: 2012
+month: 02
+scheme: http
+host: veganyumyum.com
+path: /2008/02/easy-weekend-pancakes/
 
 ---
 

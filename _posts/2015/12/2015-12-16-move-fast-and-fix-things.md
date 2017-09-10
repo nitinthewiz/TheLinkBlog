@@ -3,13 +3,11 @@ title: "Move Fast and Fix Things"
 date: 2015-12-16 11:35:06 +0000
 external-url: http://githubengineering.com/move-fast/
 hash: cb4c99af9f456cf8b22087fdf903cbeb
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: githubengineering.com
-    path: /move-fast/
+year: 2015
+month: 12
+scheme: http
+host: githubengineering.com
+path: /move-fast/
 
 ---
 

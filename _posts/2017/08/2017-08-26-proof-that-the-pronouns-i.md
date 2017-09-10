@@ -3,13 +3,11 @@ title: "Proof that the pronouns \"I,\" \"we,\" and \"you\" improve not just your
 date: 2017-08-26 01:09:14 +0000
 external-url: https://withoutbullshit.com/blog/proof-pronouns-improve-not-just-writing-stock-price
 hash: bc1f0795f15a1270a49af05b13bef49a
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: withoutbullshit.com
-    path: /blog/proof-pronouns-improve-not-just-writing-stock-price
+year: 2017
+month: 08
+scheme: https
+host: withoutbullshit.com
+path: /blog/proof-pronouns-improve-not-just-writing-stock-price
 
 ---
 

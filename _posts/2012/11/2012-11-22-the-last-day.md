@@ -3,13 +3,11 @@ title: "The last day"
 date: 2012-11-22 04:36:15 +0000
 external-url: http://pando.com/2012/11/20/the-last-day/
 hash: d6d8be15d0939c88b76dc1a724299397
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: pando.com
-    path: /2012/11/20/the-last-day/
+year: 2012
+month: 11
+scheme: http
+host: pando.com
+path: /2012/11/20/the-last-day/
 
 ---
 

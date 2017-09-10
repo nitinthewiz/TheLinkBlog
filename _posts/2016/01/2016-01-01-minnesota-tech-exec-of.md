@@ -3,13 +3,11 @@ title: "Minnesota Tech Exec Of The Year 2015: Luna Ahmed"
 date: 2016-01-01 12:57:57 +0000
 external-url: http://tech.mn/news/2015/12/31/minnesota-tech-exec-of-the-year-2015-luna-ahmed-ilm-professional-services/
 hash: 42da3007036804b60846d869d0035610
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2015/12/31/minnesota-tech-exec-of-the-year-2015-luna-ahmed-ilm-professional-services/
+year: 2016
+month: 01
+scheme: http
+host: tech.mn
+path: /news/2015/12/31/minnesota-tech-exec-of-the-year-2015-luna-ahmed-ilm-professional-services/
 
 ---
 

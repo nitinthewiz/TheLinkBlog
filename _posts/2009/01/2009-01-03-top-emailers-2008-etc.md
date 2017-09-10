@@ -3,13 +3,11 @@ title: "Top Emailers 2008, etc"
 date: 2009-01-03 17:27:09 +0000
 external-url: http://ma.tt/2009/01/top-emailers-2008-etc/
 hash: 3fd40f1e778af4447b9faacddecf53b8
-annum:
-    year: 2009
-    month: 01
-url-parts:
-    scheme: http
-    host: ma.tt
-    path: /2009/01/top-emailers-2008-etc/
+year: 2009
+month: 01
+scheme: http
+host: ma.tt
+path: /2009/01/top-emailers-2008-etc/
 
 ---
 

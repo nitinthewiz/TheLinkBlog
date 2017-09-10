@@ -3,13 +3,11 @@ title: "The 451 status code is now supported | GitHub Developer Guide"
 date: 2016-03-18 23:56:06 +0000
 external-url: https://developer.github.com/changes/2016-03-17-the-451-status-code-is-now-supported/
 hash: dfd8ad4ca7d7baee33885f68aee3463d
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: developer.github.com
-    path: /changes/2016-03-17-the-451-status-code-is-now-supported/
+year: 2016
+month: 03
+scheme: https
+host: developer.github.com
+path: /changes/2016-03-17-the-451-status-code-is-now-supported/
 
 ---
 

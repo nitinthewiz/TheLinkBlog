@@ -3,13 +3,11 @@ title: "Leveling Up Your Organization With System Reviews"
 date: 2015-12-23 10:42:12 +0000
 external-url: https://codeascraft.com/2015/12/21/leveling-up-with-system-reviews/
 hash: ebfb49281706086aecf734ca50aaced3
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: codeascraft.com
-    path: /2015/12/21/leveling-up-with-system-reviews/
+year: 2015
+month: 12
+scheme: https
+host: codeascraft.com
+path: /2015/12/21/leveling-up-with-system-reviews/
 
 ---
 

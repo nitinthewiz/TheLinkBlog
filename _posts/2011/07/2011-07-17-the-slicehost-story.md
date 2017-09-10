@@ -3,13 +3,11 @@ title: "The Slicehost Story"
 date: 2011-07-17 05:06:24 +0000
 external-url: http://37signals.com/founderstories/slicehost
 hash: 60ac6e9103c2aa59bedfc2c007e7f5d2
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: 37signals.com
-    path: /founderstories/slicehost
+year: 2011
+month: 07
+scheme: http
+host: 37signals.com
+path: /founderstories/slicehost
 
 ---
 

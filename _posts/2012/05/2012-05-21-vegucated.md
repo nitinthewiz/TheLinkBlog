@@ -3,13 +3,11 @@ title: "Vegucated"
 date: 2012-05-21 03:37:37 +0000
 external-url: http://www.getvegucated.com/
 hash: d079bebc97dacff0f7a1d271bdd827d1
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.getvegucated.com
-    path: /
+year: 2012
+month: 05
+scheme: http
+host: www.getvegucated.com
+path: /
 
 ---
 

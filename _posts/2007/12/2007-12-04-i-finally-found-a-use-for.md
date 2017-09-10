@@ -3,13 +3,11 @@ title: "I finally found a use for Twitter"
 date: 2007-12-04 12:46:00 +0000
 external-url: http://lasersoptional.com/2007/12/i-finally-found-use-for-twitter.html
 hash: 56453110df648c421dbe0ee2d1638cc2
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: lasersoptional.com
-    path: /2007/12/i-finally-found-use-for-twitter.html
+year: 2007
+month: 12
+scheme: http
+host: lasersoptional.com
+path: /2007/12/i-finally-found-use-for-twitter.html
 
 ---
 

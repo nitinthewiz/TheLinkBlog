@@ -3,15 +3,13 @@ title: "Weblog Tools Collection: First Look At WordPress 2.7"
 date: 2008-09-02 12:15:07 +0000
 external-url: http://weblogtoolscollection.com/?p=4040
 hash: 0535f9e7a10371379def0e07c603cddf
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: http
-    host: weblogtoolscollection.com
-    path: /
-    query:
-        p: "4040"
+year: 2008
+month: 09
+scheme: http
+host: weblogtoolscollection.com
+path: /
+query:
+    p: "4040"
 ---
 
 Although tentatively scheduled for November, WordPress 2.7 looks to be as big of a release since WordPress 2.5, perhaps even bigger. Before reading the rest of this post, please keep in mind that what you see in the following screenshots is by no means a representation of the final product. Also keep in mind that WordPress 2.7 should not be used on a live blog as 2.7 is no where near stable. What you see here is not necessarily what you’ll get. This post will highlight WordPress 2.7 at its current stage of development. Please keep this in mind as you read through the post and make comments. Also, click on any of the thumbnails to see the full size of the image.

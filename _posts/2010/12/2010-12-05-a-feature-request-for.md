@@ -3,13 +3,11 @@ title: "A feature request for blogging tool vendors"
 date: 2010-12-05 16:32:55 +0000
 external-url: http://scripting.com/stories/2010/12/05/aFeatureRequestForBlogging.html
 hash: 1fca034de1f08ddc7261e0f416cde5c1
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: scripting.com
-    path: /stories/2010/12/05/aFeatureRequestForBlogging.html
+year: 2010
+month: 12
+scheme: http
+host: scripting.com
+path: /stories/2010/12/05/aFeatureRequestForBlogging.html
 
 ---
 

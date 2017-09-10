@@ -3,13 +3,11 @@ title: "Water Clock"
 date: 2009-04-21 04:46:24 +0000
 external-url: http://www.todayandtomorrow.net/2009/04/21/water-clock/
 hash: 7dfa418e8d2d0cbc4c23cd88d8ee5fbf
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.todayandtomorrow.net
-    path: /2009/04/21/water-clock/
+year: 2009
+month: 04
+scheme: http
+host: www.todayandtomorrow.net
+path: /2009/04/21/water-clock/
 
 ---
 

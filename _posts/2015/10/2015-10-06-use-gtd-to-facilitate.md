@@ -3,13 +3,11 @@ title: "Use GTD to facilitate Work-Life Integration"
 date: 2015-10-06 03:47:16 +0000
 external-url: http://gtdforcios.com/2015/10/05/use-gtd-to-facilitate-work-life-integration/
 hash: 2d562b6e442e76def27bcfdcccca6e36
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: gtdforcios.com
-    path: /2015/10/05/use-gtd-to-facilitate-work-life-integration/
+year: 2015
+month: 10
+scheme: http
+host: gtdforcios.com
+path: /2015/10/05/use-gtd-to-facilitate-work-life-integration/
 
 ---
 

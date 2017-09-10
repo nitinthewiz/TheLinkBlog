@@ -3,13 +3,11 @@ title: "Google Green"
 date: 2012-05-16 20:34:21 +0000
 external-url: http://www.google.com/green/
 hash: 83a5eca4774c450191104b9f5acdc5d2
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.google.com
-    path: /green/
+year: 2012
+month: 05
+scheme: http
+host: www.google.com
+path: /green/
 
 ---
 

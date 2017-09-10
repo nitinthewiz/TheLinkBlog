@@ -3,13 +3,11 @@ title: "Black Widow: Saturday Afternoon Freakout!"
 date: 2009-05-18 03:25:13 +0000
 external-url: http://www.friday.com/bbum/2009/05/16/black-widow-saturday-afternoon-freakout/
 hash: 58734e64957c1adf9c3501baf9a06b88
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.friday.com
-    path: /bbum/2009/05/16/black-widow-saturday-afternoon-freakout/
+year: 2009
+month: 05
+scheme: http
+host: www.friday.com
+path: /bbum/2009/05/16/black-widow-saturday-afternoon-freakout/
 
 ---
 

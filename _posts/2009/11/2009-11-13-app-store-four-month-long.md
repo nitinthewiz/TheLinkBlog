@@ -3,13 +3,11 @@ title: "App Store Four-Month-Long Wait for a Bug Fix to Be Accepted of the Week:
 date: 2009-11-13 16:07:01 +0000
 external-url: http://weblog.rogueamoeba.com/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
 hash: b29abe2d58982cb8d4dd3597bcc35dba
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: weblog.rogueamoeba.com
-    path: /2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
+year: 2009
+month: 11
+scheme: http
+host: weblog.rogueamoeba.com
+path: /2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
 
 ---
 

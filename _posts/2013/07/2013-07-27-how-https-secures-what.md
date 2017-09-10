@@ -3,13 +3,11 @@ title: "How HTTPS Secures Connections: What Every Web Dev Should Know"
 date: 2013-07-27 04:21:30 +0000
 external-url: http://blog.hartleybrody.com/https-certificates/
 hash: fa3de29c19b580ddb591bfeb0d6d06f9
-annum:
-    year: 2013
-    month: 07
-url-parts:
-    scheme: http
-    host: blog.hartleybrody.com
-    path: /https-certificates/
+year: 2013
+month: 07
+scheme: http
+host: blog.hartleybrody.com
+path: /https-certificates/
 
 ---
 

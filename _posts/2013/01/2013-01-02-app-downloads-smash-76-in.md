@@ -3,13 +3,11 @@ title: "App downloads smash records1.76 billion in one weekduring the holidays -
 date: 2013-01-02 21:39:02 +0000
 external-url: http://arstechnica.com/gadgets/2013/01/app-downloads-smash-records-1-76-billion-in-one-week-during-the-holidays/
 hash: 4ae3b9a7c9a5de531c87485efbe1a495
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /gadgets/2013/01/app-downloads-smash-records-1-76-billion-in-one-week-during-the-holidays/
+year: 2013
+month: 01
+scheme: http
+host: arstechnica.com
+path: /gadgets/2013/01/app-downloads-smash-records-1-76-billion-in-one-week-during-the-holidays/
 
 ---
 

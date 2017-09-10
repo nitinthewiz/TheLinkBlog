@@ -3,13 +3,11 @@ title: "THE MARMALADE Identity"
 date: 2012-12-25 21:16:11 +0000
 external-url: http://vimeo.com/43455552
 hash: 4b30381581b490d7df9f5f85ebe78898
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /43455552
+year: 2012
+month: 12
+scheme: http
+host: vimeo.com
+path: /43455552
 
 ---
 

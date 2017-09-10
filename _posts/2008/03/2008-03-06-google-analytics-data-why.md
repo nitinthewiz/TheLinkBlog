@@ -3,13 +3,11 @@ title: "Google Analytics Data Sharing: Why Not Go All The Way?"
 date: 2008-03-06 05:04:39 +0000
 external-url: http://techcrunch.com/2008/03/05/google-analytics-data-sharing-why-not-go-all-the-way/
 hash: 01be2e9e949b2ba77d08a6227f32ed9b
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/03/05/google-analytics-data-sharing-why-not-go-all-the-way/
+year: 2008
+month: 03
+scheme: http
+host: techcrunch.com
+path: /2008/03/05/google-analytics-data-sharing-why-not-go-all-the-way/
 
 ---
 

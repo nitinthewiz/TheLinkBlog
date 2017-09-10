@@ -3,13 +3,11 @@ title: "Delicious Library 2 has Arrived!"
 date: 2008-05-27 10:52:00 +0000
 external-url: http://blog.delicious-monster.com/2008/05/delicious-library-2-has-arrived.html
 hash: 1c2f8c1bdf14b6ef672f6692a2683959
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: blog.delicious-monster.com
-    path: /2008/05/delicious-library-2-has-arrived.html
+year: 2008
+month: 05
+scheme: http
+host: blog.delicious-monster.com
+path: /2008/05/delicious-library-2-has-arrived.html
 
 ---
 

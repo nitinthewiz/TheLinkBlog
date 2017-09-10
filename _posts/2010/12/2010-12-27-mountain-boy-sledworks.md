@@ -3,13 +3,11 @@ title: "Mountain Boy Sledworks - Handmade Wooden Sleds & Wagons - Silverton, Col
 date: 2010-12-27 20:54:49 +0000
 external-url: http://www.mountainboysleds.com/index.html
 hash: afad413dddc73fb7064e03af817d322d
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.mountainboysleds.com
-    path: /index.html
+year: 2010
+month: 12
+scheme: http
+host: www.mountainboysleds.com
+path: /index.html
 
 ---
 

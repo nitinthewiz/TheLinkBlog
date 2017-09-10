@@ -3,13 +3,11 @@ title: "Gun violence in America: Newtowns horror - The Economist"
 date: 2012-12-19 18:58:25 +0000
 external-url: http://www.economist.com/news/leaders/21568735-only-drastic-gun-control-could-make-big-difference-small-measures-can-help-bit-newtowns
 hash: 85c96675913e6e818f12f5d861b634f1
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.economist.com
-    path: /news/leaders/21568735-only-drastic-gun-control-could-make-big-difference-small-measures-can-help-bit-newtowns
+year: 2012
+month: 12
+scheme: http
+host: www.economist.com
+path: /news/leaders/21568735-only-drastic-gun-control-could-make-big-difference-small-measures-can-help-bit-newtowns
 
 ---
 

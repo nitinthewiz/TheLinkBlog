@@ -3,13 +3,11 @@ title: "America: From Freedom to Fascism"
 date: 2006-10-09 20:10:36 +0000
 external-url: http://youneed2see.com/political/52/America:_From_Freedom_to_Fascism
 hash: aa91411eedabe2466d64eba20ac69d54
-annum:
-    year: 2006
-    month: 10
-url-parts:
-    scheme: http
-    host: youneed2see.com
-    path: /political/52/America:_From_Freedom_to_Fascism
+year: 2006
+month: 10
+scheme: http
+host: youneed2see.com
+path: /political/52/America:_From_Freedom_to_Fascism
 
 ---
 

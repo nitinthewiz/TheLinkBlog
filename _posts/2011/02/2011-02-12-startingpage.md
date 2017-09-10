@@ -3,13 +3,11 @@ title: "Startingpage"
 date: 2011-02-12 16:32:34 +0000
 external-url: https://startpage.com/
 hash: c24873ea343d386ae171885e5d9e266e
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: https
-    host: startpage.com
-    path: /
+year: 2011
+month: 02
+scheme: https
+host: startpage.com
+path: /
 
 ---
 

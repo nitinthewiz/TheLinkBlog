@@ -3,13 +3,11 @@ title: "Now Reading"
 date: 2007-07-22 00:29:03 +0000
 external-url: http://robm.me.uk/projects/plugins/wordpress/now-reading#toc-screenshots
 hash: 99bea7c2461da99913558c21049ee625
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: robm.me.uk
-    path: /projects/plugins/wordpress/now-reading
+year: 2007
+month: 07
+scheme: http
+host: robm.me.uk
+path: /projects/plugins/wordpress/now-reading
 
 ---
 

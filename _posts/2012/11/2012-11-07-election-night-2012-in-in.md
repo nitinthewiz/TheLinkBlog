@@ -3,13 +3,11 @@ title: "Election Night 2012: Reactions in Photos - In Focus - The Atlantic"
 date: 2012-11-07 23:10:44 +0000
 external-url: http://www.theatlantic.com/infocus/2012/11/election-night-2012-reactions-in-photos/100401/
 hash: 439301d659849f3996d09b4fdbe945f7
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /infocus/2012/11/election-night-2012-reactions-in-photos/100401/
+year: 2012
+month: 11
+scheme: http
+host: www.theatlantic.com
+path: /infocus/2012/11/election-night-2012-reactions-in-photos/100401/
 
 ---
 

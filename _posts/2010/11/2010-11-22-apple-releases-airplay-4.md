@@ -3,13 +3,11 @@ title: "Apple releases AirPlay video for 4.2 iPad feature"
 date: 2010-11-22 20:25:00 +0000
 external-url: http://www.tuaw.com/2010/11/22/apple-releases-new-airplay-video/
 hash: 72128e5616425cc9c78d0e9d2e65f6cb
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2010/11/22/apple-releases-new-airplay-video/
+year: 2010
+month: 11
+scheme: http
+host: www.tuaw.com
+path: /2010/11/22/apple-releases-new-airplay-video/
 
 ---
 

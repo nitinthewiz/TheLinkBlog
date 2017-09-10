@@ -3,13 +3,11 @@ title: "Apple iOS 5 hands-on preview"
 date: 2011-06-09 03:55:58 +0000
 external-url: http://www.engadget.com/wwdc-2011/apple-ios-5-hands-on-preview/
 hash: 71618e49e4a6b0ca189131a4656b5de5
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.engadget.com
-    path: /wwdc-2011/apple-ios-5-hands-on-preview/
+year: 2011
+month: 06
+scheme: http
+host: www.engadget.com
+path: /wwdc-2011/apple-ios-5-hands-on-preview/
 
 ---
 

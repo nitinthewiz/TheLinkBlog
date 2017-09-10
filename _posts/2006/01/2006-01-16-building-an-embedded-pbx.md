@@ -3,13 +3,11 @@ title: "Building an Embedded Asterisk PBX"
 date: 2006-01-16 21:30:41 +0000
 external-url: http://www.tomsguide.com/us/how-to-asterisk-pbx%2Creview-623.html
 hash: 6aa67c356ccf5be9b37964e4eae935db
-annum:
-    year: 2006
-    month: 01
-url-parts:
-    scheme: http
-    host: www.tomsguide.com
-    path: /us/how-to-asterisk-pbx%2Creview-623.html
+year: 2006
+month: 01
+scheme: http
+host: www.tomsguide.com
+path: /us/how-to-asterisk-pbx%2Creview-623.html
 
 ---
 

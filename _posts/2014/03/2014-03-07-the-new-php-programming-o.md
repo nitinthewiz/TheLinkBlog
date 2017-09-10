@@ -3,13 +3,11 @@ title: "The new PHP - Programming - O'Reilly Media"
 date: 2014-03-07 02:25:27 +0000
 external-url: http://radar.oreilly.com/2014/03/the-new-php.html
 hash: fd4a9759fb201f25334e632f2d06f8d6
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2014/03/the-new-php.html
+year: 2014
+month: 03
+scheme: http
+host: radar.oreilly.com
+path: /2014/03/the-new-php.html
 
 ---
 

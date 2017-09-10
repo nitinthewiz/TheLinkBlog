@@ -3,13 +3,11 @@ title: "What Is Facebook, Really?"
 date: 2011-02-04 02:35:26 +0000
 external-url: http://blogs.hbr.org/2011/02/what-is-facebook-is-becoming/
 hash: 097ee12e33c244d897a18ffb39427de5
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: blogs.hbr.org
-    path: /2011/02/what-is-facebook-is-becoming/
+year: 2011
+month: 02
+scheme: http
+host: blogs.hbr.org
+path: /2011/02/what-is-facebook-is-becoming/
 
 ---
 

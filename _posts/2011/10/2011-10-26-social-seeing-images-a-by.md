@@ -3,13 +3,11 @@ title: "Social Seeing: Images Online - A talk by George Oates"
 date: 2011-10-26 15:40:51 +0000
 external-url: https://events.umn.edu/016537
 hash: 1f8f867a73651da89fdda897c4a91ad5
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: https
-    host: events.umn.edu
-    path: /016537
+year: 2011
+month: 10
+scheme: https
+host: events.umn.edu
+path: /016537
 
 ---
 

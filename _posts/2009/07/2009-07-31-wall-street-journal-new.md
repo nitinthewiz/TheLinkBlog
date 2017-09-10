@@ -3,13 +3,11 @@ title: "Wall Street Journal Creating New “LinkedIn Killer” Called WSJ Connec
 date: 2009-07-31 09:55:24 +0000
 external-url: http://techcrunch.com/2009/07/30/wall-street-journal-creating-new-linkedin-killer-called-wsj-connect/
 hash: 05ee386794d2d347ef4ace3c44ae21e3
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/07/30/wall-street-journal-creating-new-linkedin-killer-called-wsj-connect/
+year: 2009
+month: 07
+scheme: http
+host: techcrunch.com
+path: /2009/07/30/wall-street-journal-creating-new-linkedin-killer-called-wsj-connect/
 
 ---
 

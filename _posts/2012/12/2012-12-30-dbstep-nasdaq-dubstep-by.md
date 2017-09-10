@@ -3,13 +3,11 @@ title: "DBstep - NASDAQ Dubstep by Motin"
 date: 2012-12-30 16:41:05 +0000
 external-url: http://soundcloud.com/motin/dbstep-nasdaq-dubstep
 hash: 3d82ed8bdce1336eb27e12cf219502bf
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: soundcloud.com
-    path: /motin/dbstep-nasdaq-dubstep
+year: 2012
+month: 12
+scheme: http
+host: soundcloud.com
+path: /motin/dbstep-nasdaq-dubstep
 
 ---
 

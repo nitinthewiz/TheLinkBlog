@@ -3,13 +3,11 @@ title: "How To Build A Product Roadmap Everyone Understands"
 date: 2016-02-10 15:24:26 +0000
 external-url: https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.pnfp4irpp
 hash: 4dd1e401ac8ca3bc911c420e18d76724
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5
+year: 2016
+month: 02
+scheme: https
+host: medium.com
+path: /@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5
 
 ---
 

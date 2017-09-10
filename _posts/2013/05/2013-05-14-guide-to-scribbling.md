@@ -3,13 +3,11 @@ title: "Guide to Scribbling"
 date: 2013-05-14 18:27:43 +0000
 external-url: http://test2.wikipedia.org/wiki/Wikipedia:Guide_to_Scribbling
 hash: 59aeae13b8d632f9ab0fde70e523b1c2
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: test2.wikipedia.org
-    path: /wiki/Wikipedia:Guide_to_Scribbling
+year: 2013
+month: 05
+scheme: http
+host: test2.wikipedia.org
+path: /wiki/Wikipedia:Guide_to_Scribbling
 
 ---
 

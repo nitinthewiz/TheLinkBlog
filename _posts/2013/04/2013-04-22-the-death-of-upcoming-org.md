@@ -3,13 +3,11 @@ title: "The Death of Upcoming.org"
 date: 2013-04-22 21:38:50 +0000
 external-url: http://waxy.org/2013/04/the_death_of_upcomingorg/
 hash: d43dcadda35952f09ffb8453318fb411
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: waxy.org
-    path: /2013/04/the_death_of_upcomingorg/
+year: 2013
+month: 04
+scheme: http
+host: waxy.org
+path: /2013/04/the_death_of_upcomingorg/
 
 ---
 

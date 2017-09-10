@@ -3,13 +3,11 @@ title: "The Fury and Failure of Donald Trump - Rolling Stone"
 date: 2016-10-16 11:13:45 +0000
 external-url: http://www.rollingstone.com/politics/features/the-fury-and-failure-of-donald-trump-w444943
 hash: 00d80aab86f266d422864f034f56fbe0
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: www.rollingstone.com
-    path: /politics/features/the-fury-and-failure-of-donald-trump-w444943
+year: 2016
+month: 10
+scheme: http
+host: www.rollingstone.com
+path: /politics/features/the-fury-and-failure-of-donald-trump-w444943
 
 ---
 

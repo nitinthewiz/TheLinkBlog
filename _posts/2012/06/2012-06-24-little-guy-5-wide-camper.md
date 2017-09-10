@@ -3,13 +3,11 @@ title: "Little Guy 5-Wide Platform Teardrop Camper Trailer"
 date: 2012-06-24 03:40:17 +0000
 external-url: http://www.golittleguy.com/product/5-wide-platform
 hash: 14cbe25870cdb853ea3616e1671681ec
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.golittleguy.com
-    path: /product/5-wide-platform
+year: 2012
+month: 06
+scheme: http
+host: www.golittleguy.com
+path: /product/5-wide-platform
 
 ---
 

@@ -3,13 +3,11 @@ title: "Toyota Unintended Acceleration and the Big Bowl of “Spaghetti” Code 
 date: 2015-06-02 11:58:44 +0000
 external-url: http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code
 hash: a0970b3bd0a6506f43f4e8045a2efea0
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.safetyresearch.net
-    path: /blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code
+year: 2015
+month: 06
+scheme: http
+host: www.safetyresearch.net
+path: /blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code
 
 ---
 

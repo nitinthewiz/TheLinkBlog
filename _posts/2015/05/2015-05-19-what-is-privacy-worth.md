@@ -3,13 +3,11 @@ title: "What is privacy worth?"
 date: 2015-05-19 13:35:58 +0000
 external-url: http://www.futureofprivacy.org/wp-content/uploads/2010/07/privacy-worth-acquisti-FPF.pdf
 hash: ace8ef1b9dfb952673e03e94614cd10c
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: www.futureofprivacy.org
-    path: /wp-content/uploads/2010/07/privacy-worth-acquisti-FPF.pdf
+year: 2015
+month: 05
+scheme: http
+host: www.futureofprivacy.org
+path: /wp-content/uploads/2010/07/privacy-worth-acquisti-FPF.pdf
 
 ---
 

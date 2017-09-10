@@ -3,13 +3,11 @@ title: "is @hodgeman on #mprtwitter a hedge that @jojeda & @thingles wouldn't be
 date: 2009-03-16 17:01:25 +0000
 external-url: http://twitter.com/garrickvanburen/statuses/1336815497
 hash: 5ca5d1ef15f2e64031091abc423d8e6b
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: twitter.com
-    path: /garrickvanburen/statuses/1336815497
+year: 2009
+month: 03
+scheme: http
+host: twitter.com
+path: /garrickvanburen/statuses/1336815497
 
 ---
 

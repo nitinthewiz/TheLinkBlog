@@ -3,13 +3,11 @@ title: "Insightful applications: The next inflection in big data"
 date: 2016-02-03 11:04:13 +0000
 external-url: https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data
 hash: 94eccc890dfd6df524dfb04f766275ab
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: www.oreilly.com
-    path: /ideas/insightful-applications-the-next-inflection-in-big-data
+year: 2016
+month: 02
+scheme: https
+host: www.oreilly.com
+path: /ideas/insightful-applications-the-next-inflection-in-big-data
 
 ---
 

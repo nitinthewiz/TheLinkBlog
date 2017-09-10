@@ -3,13 +3,11 @@ title: "The Netflix Tech Blog: Java in Flames"
 date: 2015-12-21 18:22:41 +0000
 external-url: http://techblog.netflix.com/2015/07/java-in-flames.html
 hash: dde2e08bf23d191c3198f667dd8fd740
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: techblog.netflix.com
-    path: /2015/07/java-in-flames.html
+year: 2015
+month: 12
+scheme: http
+host: techblog.netflix.com
+path: /2015/07/java-in-flames.html
 
 ---
 

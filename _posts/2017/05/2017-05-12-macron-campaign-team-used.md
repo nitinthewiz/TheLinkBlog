@@ -3,13 +3,11 @@ title: "Macron campaign team used honeypot accounts to fake out Fancy Bear | Ars
 date: 2017-05-12 19:37:42 +0000
 external-url: https://arstechnica.com/security/2017/05/macron-campaign-team-used-honeypot-accounts-to-fake-out-fancy-bear/
 hash: 3eb7dae24e99da26fa99cacd078eff89
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: arstechnica.com
-    path: /security/2017/05/macron-campaign-team-used-honeypot-accounts-to-fake-out-fancy-bear/
+year: 2017
+month: 05
+scheme: https
+host: arstechnica.com
+path: /security/2017/05/macron-campaign-team-used-honeypot-accounts-to-fake-out-fancy-bear/
 
 ---
 

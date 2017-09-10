@@ -3,13 +3,11 @@ title: "Cloudcraft"
 date: 2015-12-12 18:04:10 +0000
 external-url: https://cloudcraft.co/
 hash: b89f1bff410cdba1a2d2102de18adb1e
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: cloudcraft.co
-    path: /
+year: 2015
+month: 12
+scheme: https
+host: cloudcraft.co
+path: /
 
 ---
 

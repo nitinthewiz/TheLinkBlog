@@ -3,13 +3,11 @@ title: "Semantic MediaWiki - semantic-mediawiki.org"
 date: 2011-07-31 22:46:52 +0000
 external-url: http://semantic-mediawiki.org/wiki/Semantic_MediaWiki
 hash: 18aadf426f6005251b59db5de19d265d
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: semantic-mediawiki.org
-    path: /wiki/Semantic_MediaWiki
+year: 2011
+month: 07
+scheme: http
+host: semantic-mediawiki.org
+path: /wiki/Semantic_MediaWiki
 
 ---
 

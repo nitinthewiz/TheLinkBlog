@@ -3,13 +3,11 @@ title: "The Curse of Cow Clicker: How a Cheeky Satire Became a Videogame Hit"
 date: 2012-02-08 23:07:32 +0000
 external-url: http://archive.wired.com/magazine/2011/12/ff_cowclicker/all/
 hash: f86037ef4ce925e47f2ac19fa03edadf
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: archive.wired.com
-    path: /magazine/2011/12/ff_cowclicker/all/
+year: 2012
+month: 02
+scheme: http
+host: archive.wired.com
+path: /magazine/2011/12/ff_cowclicker/all/
 
 ---
 

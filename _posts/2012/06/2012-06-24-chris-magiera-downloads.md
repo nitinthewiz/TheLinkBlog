@@ -3,13 +3,11 @@ title: "Chris Magiera Downloads"
 date: 2012-06-24 07:06:19 +0000
 external-url: http://moargh.de/downloads/
 hash: 2021ad8249a583671f63d84ccf7fccea
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: moargh.de
-    path: /downloads/
+year: 2012
+month: 06
+scheme: http
+host: moargh.de
+path: /downloads/
 
 ---
 

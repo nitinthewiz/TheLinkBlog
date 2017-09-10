@@ -3,13 +3,11 @@ title: "Why Twenty is my latest mobile gaming obsession | Ars Technica"
 date: 2015-05-31 10:44:35 +0000
 external-url: http://arstechnica.com/gaming/2015/05/why-twenty-is-my-latest-mobile-gaming-obsession/#p3
 hash: ab3d750087e3eb818d57f5f952e7a95c
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /gaming/2015/05/why-twenty-is-my-latest-mobile-gaming-obsession/
+year: 2015
+month: 05
+scheme: http
+host: arstechnica.com
+path: /gaming/2015/05/why-twenty-is-my-latest-mobile-gaming-obsession/
 
 ---
 

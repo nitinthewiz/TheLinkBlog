@@ -3,13 +3,11 @@ title: "Iconfactory prepares Twitterrific for the App Store"
 date: 2008-06-11 01:05:15 +0000
 external-url: http://www.tuaw.com/2008/06/10/iconfactory-prepares-twitterrific-for-the-app-store/
 hash: 400ef306d61b9247f5da3437afff00cc
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2008/06/10/iconfactory-prepares-twitterrific-for-the-app-store/
+year: 2008
+month: 06
+scheme: http
+host: www.tuaw.com
+path: /2008/06/10/iconfactory-prepares-twitterrific-for-the-app-store/
 
 ---
 

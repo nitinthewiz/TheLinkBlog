@@ -3,13 +3,11 @@ title: "Day One and the Apple Watch"
 date: 2016-03-31 03:00:52 +0000
 external-url: http://www.myproductivemac.com/blog/day-one-and-the-apple-watch3032016
 hash: 13b1d04cb0db85eb85a6c520e39b5a4d
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/day-one-and-the-apple-watch3032016
+year: 2016
+month: 03
+scheme: http
+host: www.myproductivemac.com
+path: /blog/day-one-and-the-apple-watch3032016
 
 ---
 

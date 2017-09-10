@@ -3,13 +3,11 @@ title: "VC admits he hates boring PowerPoints"
 date: 2008-03-21 05:41:21 +0000
 external-url: http://scobleizer.com/2008/03/20/vc-admits-he-hates-boring-powerpoints/
 hash: b6d6cd6408b24898e4708e244b82b5a2
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: scobleizer.com
-    path: /2008/03/20/vc-admits-he-hates-boring-powerpoints/
+year: 2008
+month: 03
+scheme: http
+host: scobleizer.com
+path: /2008/03/20/vc-admits-he-hates-boring-powerpoints/
 
 ---
 

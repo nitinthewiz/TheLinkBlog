@@ -3,13 +3,11 @@ title: "Wall of Awesome"
 date: 2012-11-27 16:33:50 +0000
 external-url: http://wallofaweso.me/
 hash: cce192784938221d5b3ed6e8be155a8d
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: wallofaweso.me
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: wallofaweso.me
+path: /
 
 ---
 

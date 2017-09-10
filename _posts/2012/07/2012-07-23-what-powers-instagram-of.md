@@ -3,13 +3,11 @@ title: "What Powers Instagram: Hundreds of Instances, Dozens of Technologies"
 date: 2012-07-23 02:18:07 +0000
 external-url: http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of
 hash: 20c1eca19a3baf5d75b013d8de66e31f
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: instagram-engineering.tumblr.com
-    path: /post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of
+year: 2012
+month: 07
+scheme: http
+host: instagram-engineering.tumblr.com
+path: /post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of
 
 ---
 

@@ -3,13 +3,11 @@ title: "My list of ideas, if you're looking for inspiration | jacquesmattheij.co
 date: 2011-04-30 10:19:44 +0000
 external-url: http://jacquesmattheij.com/My+list+of+ideas+for+when+you+are+looking+for+inspiration
 hash: 72efd8a28429d4b7f5900ba6eac00a74
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: jacquesmattheij.com
-    path: /My+list+of+ideas+for+when+you+are+looking+for+inspiration
+year: 2011
+month: 04
+scheme: http
+host: jacquesmattheij.com
+path: /My+list+of+ideas+for+when+you+are+looking+for+inspiration
 
 ---
 

@@ -3,13 +3,11 @@ title: "Six Principles for Making New Things"
 date: 2008-02-28 17:10:58 +0000
 external-url: http://www.paulgraham.com/newthings.html
 hash: aadb257f06a7ea989deca1ef7e67b597
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.paulgraham.com
-    path: /newthings.html
+year: 2008
+month: 02
+scheme: http
+host: www.paulgraham.com
+path: /newthings.html
 
 ---
 

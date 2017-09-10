@@ -3,13 +3,11 @@ title: "Treesaver: HTML5, JavaScript library for creating magazine style layouts
 date: 2011-02-07 05:04:14 +0000
 external-url: http://thechangelog.com/treesaver-javascript-library-for-creating-column-and-pag/
 hash: 17465c608c1ae54f8e25afaa9a800ff6
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: thechangelog.com
-    path: /treesaver-javascript-library-for-creating-column-and-pag/
+year: 2011
+month: 02
+scheme: http
+host: thechangelog.com
+path: /treesaver-javascript-library-for-creating-column-and-pag/
 
 ---
 

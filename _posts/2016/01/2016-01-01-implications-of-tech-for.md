@@ -3,13 +3,11 @@ title: "Implications of Tech Stack Complexity for Executives | ThoughtWorks"
 date: 2016-01-01 14:38:43 +0000
 external-url: https://www.thoughtworks.com/insights/blog/implications-tech-stack-complexity-executives
 hash: a76ce34ab30b1ac04b8b6dabd6438b61
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: www.thoughtworks.com
-    path: /insights/blog/implications-tech-stack-complexity-executives
+year: 2016
+month: 01
+scheme: https
+host: www.thoughtworks.com
+path: /insights/blog/implications-tech-stack-complexity-executives
 
 ---
 

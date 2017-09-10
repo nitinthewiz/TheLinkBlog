@@ -3,13 +3,11 @@ title: "Many Huffington Post Readers Hate Site's New Facebook-Powered Recommenda
 date: 2011-01-07 01:48:21 +0000
 external-url: http://www.readwriteweb.com/archives/many_huffington_post_readers_hate_sites_new_facebo.php
 hash: fbb9185bf0cb0a284895aaf8b113fb05
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/many_huffington_post_readers_hate_sites_new_facebo.php
+year: 2011
+month: 01
+scheme: http
+host: www.readwriteweb.com
+path: /archives/many_huffington_post_readers_hate_sites_new_facebo.php
 
 ---
 

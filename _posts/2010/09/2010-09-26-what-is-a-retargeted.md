@@ -3,13 +3,11 @@ title: "What is a Retargeted Click Worth?"
 date: 2010-09-26 20:59:08 +0000
 external-url: http://www.cogmap.com/blog/2010/09/26/what-is-a-retargeted-click-worth/
 hash: 12cca9b73d534a84226afe56ecdc23ca
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: www.cogmap.com
-    path: /blog/2010/09/26/what-is-a-retargeted-click-worth/
+year: 2010
+month: 09
+scheme: http
+host: www.cogmap.com
+path: /blog/2010/09/26/what-is-a-retargeted-click-worth/
 
 ---
 

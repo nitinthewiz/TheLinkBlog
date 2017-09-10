@@ -3,13 +3,11 @@ title: "The tiniest Lego: a tale of nanoscale motors, rotors, switches and pumps
 date: 2015-09-07 12:44:09 +0000
 external-url: http://www.nature.com/news/the-tiniest-lego-a-tale-of-nanoscale-motors-rotors-switches-and-pumps-1.18262
 hash: 025dad73c243dace61cd248723cd29cf
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: www.nature.com
-    path: /news/the-tiniest-lego-a-tale-of-nanoscale-motors-rotors-switches-and-pumps-1.18262
+year: 2015
+month: 09
+scheme: http
+host: www.nature.com
+path: /news/the-tiniest-lego-a-tale-of-nanoscale-motors-rotors-switches-and-pumps-1.18262
 
 ---
 

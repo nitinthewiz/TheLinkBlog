@@ -3,13 +3,11 @@ title: "Lightroom 4 Presets for Vintage Effects, HDR Effects, and More tutorial"
 date: 2012-05-20 18:54:04 +0000
 external-url: http://www.slrlounge.com/store-product/lightroom-presets/
 hash: 896e7d3945a792989480d331ad9e8c51
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.slrlounge.com
-    path: /store-product/lightroom-presets/
+year: 2012
+month: 05
+scheme: http
+host: www.slrlounge.com
+path: /store-product/lightroom-presets/
 
 ---
 

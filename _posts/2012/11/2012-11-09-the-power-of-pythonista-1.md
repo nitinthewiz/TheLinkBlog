@@ -3,13 +3,11 @@ title: "The Power of Pythonista 1.2"
 date: 2012-11-09 20:44:57 +0000
 external-url: http://www.macdrifter.com/2012/11/the-power-of-pythonista-12.html
 hash: ac81ec6a5c1197549eb1ce343bc0f208
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.macdrifter.com
-    path: /2012/11/the-power-of-pythonista-12.html
+year: 2012
+month: 11
+scheme: http
+host: www.macdrifter.com
+path: /2012/11/the-power-of-pythonista-12.html
 
 ---
 

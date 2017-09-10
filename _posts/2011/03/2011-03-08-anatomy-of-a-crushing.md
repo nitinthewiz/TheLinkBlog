@@ -3,13 +3,11 @@ title: "Anatomy of a Crushing"
 date: 2011-03-08 19:37:24 +0000
 external-url: http://blog.pinboard.in/2011/03/anatomy_of_a_crushing/
 hash: 75ad73084aa8046c3418dd2cc7ba3825
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.pinboard.in
-    path: /2011/03/anatomy_of_a_crushing/
+year: 2011
+month: 03
+scheme: http
+host: blog.pinboard.in
+path: /2011/03/anatomy_of_a_crushing/
 
 ---
 

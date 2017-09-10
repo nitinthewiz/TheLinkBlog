@@ -3,13 +3,11 @@ title: "Amazon and Pampers Bring Diaper Shopping to Facebook"
 date: 2010-10-01 21:01:52 +0000
 external-url: http://mashable.com/2010/10/01/amazon-facebook-webstore/
 hash: 10d996f9790be5c2f6a210ed3eba7d2c
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: mashable.com
-    path: /2010/10/01/amazon-facebook-webstore/
+year: 2010
+month: 10
+scheme: http
+host: mashable.com
+path: /2010/10/01/amazon-facebook-webstore/
 
 ---
 

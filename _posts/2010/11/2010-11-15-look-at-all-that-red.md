@@ -3,13 +3,11 @@ title: "LOOK AT ALL THAT RED!"
 date: 2010-11-15 04:04:04 +0000
 external-url: http://www.ginandtacos.com/2010/11/15/look-at-all-that-red/
 hash: 4a02bc397d2c794eafb2a28d3a53e6fa
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.ginandtacos.com
-    path: /2010/11/15/look-at-all-that-red/
+year: 2010
+month: 11
+scheme: http
+host: www.ginandtacos.com
+path: /2010/11/15/look-at-all-that-red/
 
 ---
 

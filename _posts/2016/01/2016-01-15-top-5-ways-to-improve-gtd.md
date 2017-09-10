@@ -3,13 +3,11 @@ title: "Top 5 Ways to Improve Your GTD Practice in 2016"
 date: 2016-01-15 20:57:33 +0000
 external-url: http://www.next-action.eu/2016/01/15/top-5-ways-to-improve-your-gtd-practice-in-2016/
 hash: 387d9238acc9b29e654d80cb9125394f
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.next-action.eu
-    path: /2016/01/15/top-5-ways-to-improve-your-gtd-practice-in-2016/
+year: 2016
+month: 01
+scheme: http
+host: www.next-action.eu
+path: /2016/01/15/top-5-ways-to-improve-your-gtd-practice-in-2016/
 
 ---
 

@@ -3,13 +3,11 @@ title: "A literary appreciation of the Olson/Zoneinfo/tz database"
 date: 2011-03-07 11:56:07 +0000
 external-url: http://blog.jonudell.net/2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/
 hash: aed3e2dfa190af727603b4de1f233702
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: blog.jonudell.net
-    path: /2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/
+year: 2011
+month: 03
+scheme: http
+host: blog.jonudell.net
+path: /2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/
 
 ---
 

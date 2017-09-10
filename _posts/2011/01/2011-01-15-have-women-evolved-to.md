@@ -3,13 +3,11 @@ title: "Have women evolved to protect themselves from sexual assault?"
 date: 2011-01-15 16:59:25 +0000
 external-url: http://www.slate.com/articles/health_and_science/science/2011/01/darwins_rape_whistle.html
 hash: 1e5913b29a692e0b7112b6b9afcaddfd
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.slate.com
-    path: /articles/health_and_science/science/2011/01/darwins_rape_whistle.html
+year: 2011
+month: 01
+scheme: http
+host: www.slate.com
+path: /articles/health_and_science/science/2011/01/darwins_rape_whistle.html
 
 ---
 

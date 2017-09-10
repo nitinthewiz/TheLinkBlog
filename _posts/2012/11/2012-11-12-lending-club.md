@@ -3,13 +3,11 @@ title: "Lending Club"
 date: 2012-11-12 22:56:11 +0000
 external-url: https://www.lendingclub.com
 hash: 308112db62e5eb1bc8c5d441ec2e1335
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: www.lendingclub.com
-    path: 
+year: 2012
+month: 11
+scheme: https
+host: www.lendingclub.com
+path: 
 
 ---
 

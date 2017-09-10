@@ -3,13 +3,11 @@ title: "Sweet Science Ice Cream"
 date: 2014-07-18 19:37:53 +0000
 external-url: http://www.sweetscienceicecream.com/
 hash: db7d8ce1a4b2d386d93e999d416900da
-annum:
-    year: 2014
-    month: 07
-url-parts:
-    scheme: http
-    host: www.sweetscienceicecream.com
-    path: /
+year: 2014
+month: 07
+scheme: http
+host: www.sweetscienceicecream.com
+path: /
 
 ---
 

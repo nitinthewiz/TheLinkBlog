@@ -3,13 +3,11 @@ title: "Indie Fever"
 date: 2008-01-10 18:36:37 +0000
 external-url: http://www.red-sweater.com/blog/447/indie-fever
 hash: 43d26ce01e62d2a06bfdd3ad737e6ac6
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: www.red-sweater.com
-    path: /blog/447/indie-fever
+year: 2008
+month: 01
+scheme: http
+host: www.red-sweater.com
+path: /blog/447/indie-fever
 
 ---
 

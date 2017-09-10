@@ -3,13 +3,11 @@ title: "Are we too old to trick or treat? Ask Metafilter"
 date: 2009-10-06 16:48:34 +0000
 external-url: http://www.kungfugrippe.com/post/204206094/are-we-too-old-to-trick-or-treat-ask-metafilter
 hash: 3be0576af1a78bb7f649247e311fb9c6
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.kungfugrippe.com
-    path: /post/204206094/are-we-too-old-to-trick-or-treat-ask-metafilter
+year: 2009
+month: 10
+scheme: http
+host: www.kungfugrippe.com
+path: /post/204206094/are-we-too-old-to-trick-or-treat-ask-metafilter
 
 ---
 

@@ -3,13 +3,11 @@ title: "Typora — a minimal markdown editor for Mac and Windows"
 date: 2016-10-06 00:53:26 +0000
 external-url: http://www.typora.io/
 hash: 8bb30dbd900ba80a4787cd4fc503fe32
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: www.typora.io
-    path: /
+year: 2016
+month: 10
+scheme: http
+host: www.typora.io
+path: /
 
 ---
 

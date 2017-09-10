@@ -3,13 +3,11 @@ title: "Apache ZooKeeper"
 date: 2012-11-29 17:17:01 +0000
 external-url: http://zookeeper.apache.org/
 hash: 2461c5e00510d74da763e7fb6288e76b
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: zookeeper.apache.org
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: zookeeper.apache.org
+path: /
 
 ---
 

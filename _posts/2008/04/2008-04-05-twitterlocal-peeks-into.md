@@ -3,13 +3,11 @@ title: "TwitterLocal Peeks into the Real World"
 date: 2008-04-05 16:00:00 +0000
 external-url: https://gigaom.com/2008/04/05/twitterlocal-peeks-into-the-real-world/
 hash: b47780f78b9408a4692fff0b0d6f0e07
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/04/05/twitterlocal-peeks-into-the-real-world/
+year: 2008
+month: 04
+scheme: https
+host: gigaom.com
+path: /2008/04/05/twitterlocal-peeks-into-the-real-world/
 
 ---
 

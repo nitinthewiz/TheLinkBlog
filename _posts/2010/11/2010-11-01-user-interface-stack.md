@@ -3,13 +3,11 @@ title: "User Interface - Stack Exchange"
 date: 2010-11-01 19:39:15 +0000
 external-url: http://ux.stackexchange.com/
 hash: a7151fb512cae5359cfa3e7b04e61a9b
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: ux.stackexchange.com
-    path: /
+year: 2010
+month: 11
+scheme: http
+host: ux.stackexchange.com
+path: /
 
 ---
 

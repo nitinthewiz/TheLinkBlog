@@ -3,13 +3,11 @@ title: "Private IPs for your slices"
 date: 2008-08-07 15:37:00 +0000
 external-url: http://www.slicehost.com/articles/2008/8/7/private-ips-for-your-slices
 hash: e04a82f99c786591d973ad45394c67ae
-annum:
-    year: 2008
-    month: 08
-url-parts:
-    scheme: http
-    host: www.slicehost.com
-    path: /articles/2008/8/7/private-ips-for-your-slices
+year: 2008
+month: 08
+scheme: http
+host: www.slicehost.com
+path: /articles/2008/8/7/private-ips-for-your-slices
 
 ---
 

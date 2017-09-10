@@ -3,13 +3,11 @@ title: "Facebook to Accept OpenIDs on its Website"
 date: 2009-04-28 04:51:03 +0000
 external-url: http://www.janrain.com/blogs/2009/04/facebook-to-accept-openids-on-its.html
 hash: cbff78d53095097e71e901a6272fe8fe
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: www.janrain.com
-    path: /blogs/2009/04/facebook-to-accept-openids-on-its.html
+year: 2009
+month: 04
+scheme: http
+host: www.janrain.com
+path: /blogs/2009/04/facebook-to-accept-openids-on-its.html
 
 ---
 

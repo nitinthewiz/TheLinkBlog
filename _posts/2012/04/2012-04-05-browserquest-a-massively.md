@@ -3,13 +3,11 @@ title: "BrowserQuest a massively multiplayer HTML5 game experiment"
 date: 2012-04-05 20:36:59 +0000
 external-url: https://hacks.mozilla.org/2012/03/browserquest/
 hash: 42a329a186d2a23584c39a456abdcffc
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: https
-    host: hacks.mozilla.org
-    path: /2012/03/browserquest/
+year: 2012
+month: 04
+scheme: https
+host: hacks.mozilla.org
+path: /2012/03/browserquest/
 
 ---
 

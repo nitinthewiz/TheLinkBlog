@@ -3,13 +3,11 @@ title: "Jer's Novel Writer"
 date: 2006-11-09 06:15:44 +0000
 external-url: http://jerssoftwarehut.com/jers-novel-writer
 hash: 4124e235cefa646d33ef75334b1cfb83
-annum:
-    year: 2006
-    month: 11
-url-parts:
-    scheme: http
-    host: jerssoftwarehut.com
-    path: /jers-novel-writer
+year: 2006
+month: 11
+scheme: http
+host: jerssoftwarehut.com
+path: /jers-novel-writer
 
 ---
 

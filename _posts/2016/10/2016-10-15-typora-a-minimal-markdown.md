@@ -3,13 +3,11 @@ title: "Typora — a minimal markdown reading & writing app"
 date: 2016-10-15 12:24:13 +0000
 external-url: https://www.typora.io/
 hash: 296962dfbc1e5e630a5a2327fc8e2074
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: www.typora.io
-    path: /
+year: 2016
+month: 10
+scheme: https
+host: www.typora.io
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Winter trip to Joe's Valley 2011 on Vimeo"
 date: 2011-12-18 03:01:13 +0000
 external-url: http://vimeo.com/33829870
 hash: a7e614bbea1ff94672d7b0afa079b42c
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /33829870
+year: 2011
+month: 12
+scheme: http
+host: vimeo.com
+path: /33829870
 
 ---
 

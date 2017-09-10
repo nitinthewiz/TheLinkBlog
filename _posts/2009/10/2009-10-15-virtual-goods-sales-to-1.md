@@ -3,13 +3,11 @@ title: "Virtual goods sales to hit $1 billion in 2009 as social games pay off bi
 date: 2009-10-15 05:05:12 +0000
 external-url: http://venturebeat.com/2009/10/14/virtual-goods-sales-to-hit-1-billion-in-2009-as-social-games-pay-off-big/
 hash: 9e322a8dc6f595af83effcd9264ffeb0
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/10/14/virtual-goods-sales-to-hit-1-billion-in-2009-as-social-games-pay-off-big/
+year: 2009
+month: 10
+scheme: http
+host: venturebeat.com
+path: /2009/10/14/virtual-goods-sales-to-hit-1-billion-in-2009-as-social-games-pay-off-big/
 
 ---
 

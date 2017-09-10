@@ -3,13 +3,11 @@ title: "Inside The Strange, Paranoid World Of Julian Assange"
 date: 2016-10-24 01:35:13 +0000
 external-url: https://www.buzzfeed.com/jamesball/heres-what-i-learned-about-julian-assange#.xhnpnzO9p
 hash: 90352ac0313caded957aa1290d108780
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: www.buzzfeed.com
-    path: /jamesball/heres-what-i-learned-about-julian-assange
+year: 2016
+month: 10
+scheme: https
+host: www.buzzfeed.com
+path: /jamesball/heres-what-i-learned-about-julian-assange
 
 ---
 

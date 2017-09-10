@@ -3,13 +3,11 @@ title: "FriendFeed Finally Gets iPhone-Friendly"
 date: 2008-07-01 01:45:40 +0000
 external-url: http://techcrunch.com/2008/06/30/friendfeed-finally-gets-iphone-friendly/
 hash: 3e8693e5333b7bc095c72d60c9ddd14d
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/06/30/friendfeed-finally-gets-iphone-friendly/
+year: 2008
+month: 07
+scheme: http
+host: techcrunch.com
+path: /2008/06/30/friendfeed-finally-gets-iphone-friendly/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Speed as a Habit"
 date: 2015-07-22 12:19:43 +0000
 external-url: http://firstround.com/review/speed-as-a-habit/
 hash: 0dece35143749bf974911a2dc8e96ace
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: firstround.com
-    path: /review/speed-as-a-habit/
+year: 2015
+month: 07
+scheme: http
+host: firstround.com
+path: /review/speed-as-a-habit/
 
 ---
 

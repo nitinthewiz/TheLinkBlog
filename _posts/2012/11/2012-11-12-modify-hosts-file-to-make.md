@@ -3,13 +3,11 @@ title: "Modify hosts file to make DuckDuckGo replace Yahoo Search"
 date: 2012-11-12 22:54:24 +0000
 external-url: https://duck.co/help/desktop/hosts-file
 hash: 5ab200d1a393ccf8d92bcc2f84b1876b
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: duck.co
-    path: /help/desktop/hosts-file
+year: 2012
+month: 11
+scheme: https
+host: duck.co
+path: /help/desktop/hosts-file
 
 ---
 

@@ -3,13 +3,11 @@ title: "Ovolab - Geophoto - description"
 date: 2007-04-30 04:23:16 +0000
 external-url: http://www.ovolab.com/geophoto/
 hash: 8b929b0fab118c28ba275a3eb7f64e6d
-annum:
-    year: 2007
-    month: 04
-url-parts:
-    scheme: http
-    host: www.ovolab.com
-    path: /geophoto/
+year: 2007
+month: 04
+scheme: http
+host: www.ovolab.com
+path: /geophoto/
 
 ---
 

@@ -3,13 +3,11 @@ title: "The GTD Approach To Maximizing Productivity With Trello"
 date: 2017-06-24 02:02:17 +0000
 external-url: https://blog.trello.com/gtd-getting-things-done-maximizing-productivity-trello
 hash: 41f0f91cf2d4b71d274dc3d5d962198d
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: blog.trello.com
-    path: /gtd-getting-things-done-maximizing-productivity-trello
+year: 2017
+month: 06
+scheme: https
+host: blog.trello.com
+path: /gtd-getting-things-done-maximizing-productivity-trello
 
 ---
 

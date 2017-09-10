@@ -3,13 +3,11 @@ title: "Your Content, Your Copyright: TwitPic Updates Terms Of Service"
 date: 2011-05-10 21:30:07 +0000
 external-url: http://www.readwriteweb.com/archives/your_content_your_copyright_twitpic_updates_terms.php
 hash: ea22f2821a6c53efdb65c8b3a62f274b
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/your_content_your_copyright_twitpic_updates_terms.php
+year: 2011
+month: 05
+scheme: http
+host: www.readwriteweb.com
+path: /archives/your_content_your_copyright_twitpic_updates_terms.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "THINGS I CAN'T MAKE UP"
 date: 2011-04-13 04:41:29 +0000
 external-url: http://www.ginandtacos.com/2011/04/13/things-i-cant-make-up/
 hash: 01a7b95adc6c4d009e1c7e1b433dda17
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.ginandtacos.com
-    path: /2011/04/13/things-i-cant-make-up/
+year: 2011
+month: 04
+scheme: http
+host: www.ginandtacos.com
+path: /2011/04/13/things-i-cant-make-up/
 
 ---
 

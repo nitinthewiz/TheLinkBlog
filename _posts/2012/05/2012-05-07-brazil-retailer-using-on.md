@@ -3,13 +3,11 @@ title: "Brazil retailer using Facebook likes on its clothing hangers"
 date: 2012-05-07 16:28:48 +0000
 external-url: http://venturebeat.com/2012/05/06/brazil-facebook-lies/
 hash: 36695c229709f1620a92681f22d763e3
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2012/05/06/brazil-facebook-lies/
+year: 2012
+month: 05
+scheme: http
+host: venturebeat.com
+path: /2012/05/06/brazil-facebook-lies/
 
 ---
 

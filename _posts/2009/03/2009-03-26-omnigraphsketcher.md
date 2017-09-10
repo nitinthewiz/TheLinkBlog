@@ -3,13 +3,11 @@ title: "OmniGraphSketcher"
 date: 2009-03-26 02:45:24 +0000
 external-url: http://www.omnigroup.com/applications/omnigraphsketcher/
 hash: deab65a36bd1995db8da12332ae71762
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.omnigroup.com
-    path: /applications/omnigraphsketcher/
+year: 2009
+month: 03
+scheme: http
+host: www.omnigroup.com
+path: /applications/omnigraphsketcher/
 
 ---
 

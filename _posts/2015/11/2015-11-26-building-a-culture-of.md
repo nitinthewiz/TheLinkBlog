@@ -3,13 +3,11 @@ title: "building a culture of innovation"
 date: 2015-11-26 03:33:55 +0000
 external-url: http://blogs.atlassian.com/2015/11/how-atlassian-builds-innovation-culture/
 hash: 505abf0834ba8e4a75f483e6a602035f
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: blogs.atlassian.com
-    path: /2015/11/how-atlassian-builds-innovation-culture/
+year: 2015
+month: 11
+scheme: http
+host: blogs.atlassian.com
+path: /2015/11/how-atlassian-builds-innovation-culture/
 
 ---
 

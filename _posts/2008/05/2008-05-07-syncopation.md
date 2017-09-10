@@ -3,13 +3,11 @@ title: "Syncopation"
 date: 2008-05-07 17:13:22 +0000
 external-url: http://www.sonzea.com/syncopation/index.html
 hash: 863062304d3369c3b2948ef08a90d546
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.sonzea.com
-    path: /syncopation/index.html
+year: 2008
+month: 05
+scheme: http
+host: www.sonzea.com
+path: /syncopation/index.html
 
 ---
 

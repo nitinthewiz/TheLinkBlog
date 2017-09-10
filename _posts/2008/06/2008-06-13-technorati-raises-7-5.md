@@ -3,13 +3,11 @@ title: "Technorati Raises $7.5 Million, Crashes"
 date: 2008-06-13 19:52:00 +0000
 external-url: http://www.businessinsider.com/2008/6/technorati-series-d
 hash: 264136c387d60ad613b9beb11efb5f87
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/6/technorati-series-d
+year: 2008
+month: 06
+scheme: http
+host: www.businessinsider.com
+path: /2008/6/technorati-series-d
 
 ---
 

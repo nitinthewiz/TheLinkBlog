@@ -3,13 +3,11 @@ title: "Milestone: 100 Million Certificates Issued - Let's Encrypt - Free SSL/TL
 date: 2017-06-29 09:49:23 +0000
 external-url: https://letsencrypt.org/2017/06/28/hundred-million-certs.html
 hash: 171e8f8f3037a332483683d574c70a58
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: letsencrypt.org
-    path: /2017/06/28/hundred-million-certs.html
+year: 2017
+month: 06
+scheme: https
+host: letsencrypt.org
+path: /2017/06/28/hundred-million-certs.html
 
 ---
 

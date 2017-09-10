@@ -3,13 +3,11 @@ title: "Titanium Software"
 date: 2007-07-28 19:28:01 +0000
 external-url: http://www.titanium.free.fr/pgs2/english/onyx_tiger.html
 hash: 346ff4899db4053f8856d9b9059dc68f
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www.titanium.free.fr
-    path: /pgs2/english/onyx_tiger.html
+year: 2007
+month: 07
+scheme: http
+host: www.titanium.free.fr
+path: /pgs2/english/onyx_tiger.html
 
 ---
 

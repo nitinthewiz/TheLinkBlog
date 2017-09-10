@@ -3,13 +3,11 @@ title: "FolderShare.com"
 date: 2005-09-24 00:32:02 +0000
 external-url: https://www.foldershare.com/
 hash: c7500f84804286e83a8c50a7de609ab8
-annum:
-    year: 2005
-    month: 09
-url-parts:
-    scheme: https
-    host: www.foldershare.com
-    path: /
+year: 2005
+month: 09
+scheme: https
+host: www.foldershare.com
+path: /
 
 ---
 

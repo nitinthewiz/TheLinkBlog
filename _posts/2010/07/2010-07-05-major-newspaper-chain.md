@@ -3,13 +3,11 @@ title: "Major Newspaper Chain Goes Open Source"
 date: 2010-07-05 02:55:00 +0000
 external-url: http://www.readwriteweb.com/archives/major_newspaper_chain_goes_open_source.php
 hash: f4949632580eea727043dc28adda4a80
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/major_newspaper_chain_goes_open_source.php
+year: 2010
+month: 07
+scheme: http
+host: www.readwriteweb.com
+path: /archives/major_newspaper_chain_goes_open_source.php
 
 ---
 

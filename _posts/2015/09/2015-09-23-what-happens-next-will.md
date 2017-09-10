@@ -3,13 +3,11 @@ title: "What Happens Next Will Amaze You"
 date: 2015-09-23 03:38:11 +0000
 external-url: http://idlewords.com/talks/what_happens_next_will_amaze_you.htm
 hash: eb1c89b36be08054c24d20ece897b2d4
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: idlewords.com
-    path: /talks/what_happens_next_will_amaze_you.htm
+year: 2015
+month: 09
+scheme: http
+host: idlewords.com
+path: /talks/what_happens_next_will_amaze_you.htm
 
 ---
 

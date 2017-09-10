@@ -3,13 +3,11 @@ title: "Berners-Lee, Cool URIs don't change (W3C)"
 date: 2011-06-01 16:37:03 +0000
 external-url: http://www.w3.org/Provider/Style/URI.html
 hash: 55d11ab0bb63a0aaaac1a38be8ef3ab1
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.w3.org
-    path: /Provider/Style/URI.html
+year: 2011
+month: 06
+scheme: http
+host: www.w3.org
+path: /Provider/Style/URI.html
 
 ---
 

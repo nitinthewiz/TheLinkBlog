@@ -3,13 +3,11 @@ title: "Pchart4mw extension for creating charts"
 date: 2012-05-04 02:54:09 +0000
 external-url: http://code.google.com/p/pchart4mw/
 hash: b51817a51dccaf3c4a624f4fc3b6f0e4
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: code.google.com
-    path: /p/pchart4mw/
+year: 2012
+month: 05
+scheme: http
+host: code.google.com
+path: /p/pchart4mw/
 
 ---
 

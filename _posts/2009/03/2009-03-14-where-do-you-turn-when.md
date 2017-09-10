@@ -3,13 +3,11 @@ title: "Where do you turn when you need Happy Birthday"
 date: 2009-03-14 05:42:01 +0000
 external-url: http://signalvnoise.com/posts/1632-where-do-you-turn-when-you-need-happy-birthday
 hash: 762ee995515aaf8b2d4f56b21181d944
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: signalvnoise.com
-    path: /posts/1632-where-do-you-turn-when-you-need-happy-birthday
+year: 2009
+month: 03
+scheme: http
+host: signalvnoise.com
+path: /posts/1632-where-do-you-turn-when-you-need-happy-birthday
 
 ---
 

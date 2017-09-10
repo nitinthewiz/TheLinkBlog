@@ -3,13 +3,11 @@ title: "Ngx pagespeed Examples Directory"
 date: 2013-04-24 17:07:36 +0000
 external-url: http://ngxpagespeed.com/ngx_pagespeed_example/
 hash: a123c3f4aec5db914c2a593a301f99bd
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: http
-    host: ngxpagespeed.com
-    path: /ngx_pagespeed_example/
+year: 2013
+month: 04
+scheme: http
+host: ngxpagespeed.com
+path: /ngx_pagespeed_example/
 
 ---
 

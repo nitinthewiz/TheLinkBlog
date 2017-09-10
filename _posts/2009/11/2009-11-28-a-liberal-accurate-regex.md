@@ -3,13 +3,11 @@ title: "★ A Liberal, Accurate Regex Pattern for Matching URLs"
 date: 2009-11-28 05:11:13 +0000
 external-url: http://daringfireball.net/2009/11/liberal_regex_for_matching_urls
 hash: 9c3505d505573a6af525b008749cb7ed
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: daringfireball.net
-    path: /2009/11/liberal_regex_for_matching_urls
+year: 2009
+month: 11
+scheme: http
+host: daringfireball.net
+path: /2009/11/liberal_regex_for_matching_urls
 
 ---
 

@@ -3,13 +3,11 @@ title: "The Learning Water Meter - FLUID"
 date: 2017-07-14 01:14:11 +0000
 external-url: http://www.fluidwatermeter.com/
 hash: 1e91db77c8c87ecae425286c88e5b5e7
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: http
-    host: www.fluidwatermeter.com
-    path: /
+year: 2017
+month: 07
+scheme: http
+host: www.fluidwatermeter.com
+path: /
 
 ---
 

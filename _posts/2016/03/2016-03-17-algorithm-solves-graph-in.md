@@ -3,13 +3,11 @@ title: "Algorithm Solves Graph Isomorphism in Record Time | Quanta Magazine"
 date: 2016-03-17 11:53:51 +0000
 external-url: https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
 hash: b430abca62b8e2ac2411954ade5a6ac6
-annum:
-    year: 2016
-    month: 03
-url-parts:
-    scheme: https
-    host: www.quantamagazine.org
-    path: /20151214-graph-isomorphism-algorithm/
+year: 2016
+month: 03
+scheme: https
+host: www.quantamagazine.org
+path: /20151214-graph-isomorphism-algorithm/
 
 ---
 

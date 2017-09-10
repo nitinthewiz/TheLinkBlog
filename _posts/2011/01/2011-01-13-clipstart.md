@@ -3,13 +3,11 @@ title: "Clipstart"
 date: 2011-01-13 04:30:11 +0000
 external-url: http://riverfold.com/software/clipstart/
 hash: ddc3bab142620517b3bff86302620519
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: riverfold.com
-    path: /software/clipstart/
+year: 2011
+month: 01
+scheme: http
+host: riverfold.com
+path: /software/clipstart/
 
 ---
 

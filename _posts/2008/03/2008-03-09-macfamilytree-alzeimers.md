@@ -3,13 +3,11 @@ title: "MacFamilyTree - Alzeimers Cure?"
 date: 2008-03-09 11:00:02 +0000
 external-url: http://macapper.com/2008/03/09/macfamilytree-alzeimers-cure/
 hash: 6fc2ce2920cba05961a3405590b20753
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2008/03/09/macfamilytree-alzeimers-cure/
+year: 2008
+month: 03
+scheme: http
+host: macapper.com
+path: /2008/03/09/macfamilytree-alzeimers-cure/
 
 ---
 

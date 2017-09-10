@@ -3,13 +3,11 @@ title: "Software Developers’ Growing Elitism Problem"
 date: 2015-11-28 17:08:02 +0000
 external-url: http://techcrunch.com/2015/11/27/software-developers-growing-elitism-problem/
 hash: 4c2f7128be76a088a6003a725e05da79
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2015/11/27/software-developers-growing-elitism-problem/
+year: 2015
+month: 11
+scheme: http
+host: techcrunch.com
+path: /2015/11/27/software-developers-growing-elitism-problem/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Copyright in a Networked World"
 date: 2010-11-25 15:25:35 +0000
 external-url: http://cyberlaw.stanford.edu/node/6560
 hash: 0a4bdbefd0bacdec9f92cb86667b19c9
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: cyberlaw.stanford.edu
-    path: /node/6560
+year: 2010
+month: 11
+scheme: http
+host: cyberlaw.stanford.edu
+path: /node/6560
 
 ---
 

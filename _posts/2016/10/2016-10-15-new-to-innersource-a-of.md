@@ -3,13 +3,11 @@ title: "New to InnerSource? A panel of experts talk through the corporate versio
 date: 2016-10-15 10:23:09 +0000
 external-url: https://github.com/blog/2266-new-to-innersource-a-panel-of-experts-talk-through-the-corporate-version-of-open-source
 hash: c2f25602a49fdbfef7214008fa59824f
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: github.com
-    path: /blog/2266-new-to-innersource-a-panel-of-experts-talk-through-the-corporate-version-of-open-source
+year: 2016
+month: 10
+scheme: https
+host: github.com
+path: /blog/2266-new-to-innersource-a-panel-of-experts-talk-through-the-corporate-version-of-open-source
 
 ---
 

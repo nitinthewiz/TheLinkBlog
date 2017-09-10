@@ -3,13 +3,11 @@ title: "Type rendering: operating systems"
 date: 2010-10-15 15:16:22 +0000
 external-url: http://blog.typekit.com/2010/10/15/type-rendering-operating-systems/
 hash: 46d058f7a8bd0b744eb31dbee7395171
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.typekit.com
-    path: /2010/10/15/type-rendering-operating-systems/
+year: 2010
+month: 10
+scheme: http
+host: blog.typekit.com
+path: /2010/10/15/type-rendering-operating-systems/
 
 ---
 

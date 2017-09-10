@@ -3,13 +3,11 @@ title: "Everything We Know About What Data Brokers Know About You"
 date: 2013-03-08 18:06:21 +0000
 external-url: http://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you
 hash: 46f09d0784555dcf86e6921c5b112cc8
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.propublica.org
-    path: /article/everything-we-know-about-what-data-brokers-know-about-you
+year: 2013
+month: 03
+scheme: http
+host: www.propublica.org
+path: /article/everything-we-know-about-what-data-brokers-know-about-you
 
 ---
 

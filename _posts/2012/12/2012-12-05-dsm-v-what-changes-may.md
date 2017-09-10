@@ -3,13 +3,11 @@ title: "DSM-V: What Changes May Mean - Autism Research Institute"
 date: 2012-12-05 03:28:27 +0000
 external-url: http://www.autism.com/news_dsmV
 hash: eb53c1fd88bd871b57145617ed2e170c
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.autism.com
-    path: /news_dsmV
+year: 2012
+month: 12
+scheme: http
+host: www.autism.com
+path: /news_dsmV
 
 ---
 

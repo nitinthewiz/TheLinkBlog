@@ -3,13 +3,11 @@ title: "VMware Offers Disaster Recovery As A Service - InformationWeek"
 date: 2014-04-17 13:28:49 +0000
 external-url: http://www.informationweek.com/cloud/infrastructure-as-a-service/vmware-offers-disaster-recovery-as-a-service/d/d-id/1204466
 hash: 6db48453353099e91a061afaa1d4d83e
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: http
-    host: www.informationweek.com
-    path: /cloud/infrastructure-as-a-service/vmware-offers-disaster-recovery-as-a-service/d/d-id/1204466
+year: 2014
+month: 04
+scheme: http
+host: www.informationweek.com
+path: /cloud/infrastructure-as-a-service/vmware-offers-disaster-recovery-as-a-service/d/d-id/1204466
 
 ---
 

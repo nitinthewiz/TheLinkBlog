@@ -3,13 +3,11 @@ title: "Hydra: Give Your Photos Range"
 date: 2008-06-15 11:00:57 +0000
 external-url: http://macapper.com/2008/06/15/hydra-give-your-photos-range/
 hash: b2a8067801ff18997dc92d089ba0dfd6
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: macapper.com
-    path: /2008/06/15/hydra-give-your-photos-range/
+year: 2008
+month: 06
+scheme: http
+host: macapper.com
+path: /2008/06/15/hydra-give-your-photos-range/
 
 ---
 

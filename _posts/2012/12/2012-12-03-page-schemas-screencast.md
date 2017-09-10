@@ -3,13 +3,11 @@ title: "Page Schemas screencast"
 date: 2012-12-03 17:21:54 +0000
 external-url: http://www.ykatkov.name/2012/12/02/page-schemas-screencast/
 hash: 7327e99c18c043ae809cacd3bf395266
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.ykatkov.name
-    path: /2012/12/02/page-schemas-screencast/
+year: 2012
+month: 12
+scheme: http
+host: www.ykatkov.name
+path: /2012/12/02/page-schemas-screencast/
 
 ---
 

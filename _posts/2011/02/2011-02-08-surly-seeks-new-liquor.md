@@ -3,13 +3,11 @@ title: "Surly Seeks New Liquor Laws for $20M Brewery"
 date: 2011-02-08 22:06:38 +0000
 external-url: http://tcbmag.blogs.com/daily_developments/2011/02/surly-seeks-new-liquor-laws-for-20m-brewery-.html
 hash: f34a4d7e327a48733a224fa34f22622b
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: tcbmag.blogs.com
-    path: /daily_developments/2011/02/surly-seeks-new-liquor-laws-for-20m-brewery-.html
+year: 2011
+month: 02
+scheme: http
+host: tcbmag.blogs.com
+path: /daily_developments/2011/02/surly-seeks-new-liquor-laws-for-20m-brewery-.html
 
 ---
 

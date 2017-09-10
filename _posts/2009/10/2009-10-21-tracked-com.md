@@ -3,13 +3,11 @@ title: "Tracked.com"
 date: 2009-10-21 14:45:53 +0000
 external-url: http://www.avc.com/a_vc/2009/10/trackedcom.html
 hash: 894ac784c754d490552f10f60f8ea0b5
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.avc.com
-    path: /a_vc/2009/10/trackedcom.html
+year: 2009
+month: 10
+scheme: http
+host: www.avc.com
+path: /a_vc/2009/10/trackedcom.html
 
 ---
 

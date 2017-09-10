@@ -3,13 +3,11 @@ title: "DVR Software Firm ReplayTV Sold To DirecTV"
 date: 2007-12-13 18:36:37 +0000
 external-url: https://gigaom.com/2007/12/13/419-dvr-software-firm-replaytv-sold-to-directv/
 hash: d7f11633f029d25a3ece8c176a402ad4
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2007/12/13/419-dvr-software-firm-replaytv-sold-to-directv/
+year: 2007
+month: 12
+scheme: https
+host: gigaom.com
+path: /2007/12/13/419-dvr-software-firm-replaytv-sold-to-directv/
 
 ---
 

@@ -3,13 +3,11 @@ title: "State of On-Call 2015"
 date: 2015-12-13 14:27:06 +0000
 external-url: https://victorops.com/wp-content/uploads/2015/12/VictorOps-InfoGraphic-Final-2.pdf
 hash: c4d29d013fada2376354e09f66c20eda
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: victorops.com
-    path: /wp-content/uploads/2015/12/VictorOps-InfoGraphic-Final-2.pdf
+year: 2015
+month: 12
+scheme: https
+host: victorops.com
+path: /wp-content/uploads/2015/12/VictorOps-InfoGraphic-Final-2.pdf
 
 ---
 

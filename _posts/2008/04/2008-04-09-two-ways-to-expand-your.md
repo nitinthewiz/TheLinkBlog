@@ -3,13 +3,11 @@ title: "Two Ways to Expand Your Twitter Network"
 date: 2008-04-09 22:00:00 +0000
 external-url: https://gigaom.com/2008/04/09/two-ways-to-expand-your-twitter-network/
 hash: dbbd5df1957bbf64f3d125d51c5a90bc
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2008/04/09/two-ways-to-expand-your-twitter-network/
+year: 2008
+month: 04
+scheme: https
+host: gigaom.com
+path: /2008/04/09/two-ways-to-expand-your-twitter-network/
 
 ---
 

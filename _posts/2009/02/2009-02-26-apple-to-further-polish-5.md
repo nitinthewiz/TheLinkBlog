@@ -3,13 +3,11 @@ title: "Apple to further polish Leopard with 10.5.7 update"
 date: 2009-02-26 04:11:08 +0000
 external-url: http://appleinsider.com/articles/09/02/25/apple_to_further_polish_leopard_with_10_5_7_update
 hash: fc8a866592d1ca413fc4b7f4479dffaa
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: appleinsider.com
-    path: /articles/09/02/25/apple_to_further_polish_leopard_with_10_5_7_update
+year: 2009
+month: 02
+scheme: http
+host: appleinsider.com
+path: /articles/09/02/25/apple_to_further_polish_leopard_with_10_5_7_update
 
 ---
 

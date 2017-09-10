@@ -3,13 +3,11 @@ title: "Michael Lewis Princeton Commencement Remarks"
 date: 2012-06-06 22:52:07 +0000
 external-url: http://www.businessinsider.com/michael-lewis-princeton-commencement-remarks-2012-6
 hash: 8fcf6496d54134092bbb0c0444546eca
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /michael-lewis-princeton-commencement-remarks-2012-6
+year: 2012
+month: 06
+scheme: http
+host: www.businessinsider.com
+path: /michael-lewis-princeton-commencement-remarks-2012-6
 
 ---
 

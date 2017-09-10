@@ -3,13 +3,11 @@ title: "One Rubric Changed Box's Engineering Performance — Here's How | First 
 date: 2017-08-29 16:11:25 +0000
 external-url: http://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/
 hash: f79aa617424fbc67ae7b57782bd31f02
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: http
-    host: firstround.com
-    path: /review/one-rubric-changed-boxs-engineering-performance-heres-how/
+year: 2017
+month: 08
+scheme: http
+host: firstround.com
+path: /review/one-rubric-changed-boxs-engineering-performance-heres-how/
 
 ---
 

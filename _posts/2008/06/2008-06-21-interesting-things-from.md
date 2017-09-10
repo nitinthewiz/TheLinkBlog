@@ -3,13 +3,11 @@ title: "Interesting Things Learned From Google Trends"
 date: 2008-06-21 01:51:07 +0000
 external-url: http://www.inquisitr.com/1174/interesting-things-learned-from-google-trends/
 hash: 1fa2c57042412284f68336a0d2aaeb4b
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.inquisitr.com
-    path: /1174/interesting-things-learned-from-google-trends/
+year: 2008
+month: 06
+scheme: http
+host: www.inquisitr.com
+path: /1174/interesting-things-learned-from-google-trends/
 
 ---
 

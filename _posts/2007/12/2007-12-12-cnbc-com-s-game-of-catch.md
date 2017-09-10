@@ -3,13 +3,11 @@ title: "CNBC.com's Game Of Catch-Up Continues; Yahoo Syndication Deal Includes E
 date: 2007-12-12 20:33:25 +0000
 external-url: https://gigaom.com/2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
 hash: 7390a6155d7f781e52579d1792dacdc2
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
+year: 2007
+month: 12
+scheme: https
+host: gigaom.com
+path: /2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
 
 ---
 

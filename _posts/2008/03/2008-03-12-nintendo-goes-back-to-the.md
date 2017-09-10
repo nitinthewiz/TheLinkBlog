@@ -3,13 +3,11 @@ title: "Nintendo Goes Back To The Well For A Wii Hit"
 date: 2008-03-12 20:28:00 +0000
 external-url: http://www.businessinsider.com/2008/3/mario-kart-for-wii-announced-for-april
 hash: 9b9874721ccba22b2de2e2835040d14d
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/3/mario-kart-for-wii-announced-for-april
+year: 2008
+month: 03
+scheme: http
+host: www.businessinsider.com
+path: /2008/3/mario-kart-for-wii-announced-for-april
 
 ---
 

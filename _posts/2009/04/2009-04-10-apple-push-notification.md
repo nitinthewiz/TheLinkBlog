@@ -3,13 +3,11 @@ title: "Apple Push Notification server open to developers"
 date: 2009-04-10 04:53:53 +0000
 external-url: http://9to5mac.com/push-notification-servers-open
 hash: 6fd48d92d8569866ac6c4bdb972e293d
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /push-notification-servers-open
+year: 2009
+month: 04
+scheme: http
+host: 9to5mac.com
+path: /push-notification-servers-open
 
 ---
 

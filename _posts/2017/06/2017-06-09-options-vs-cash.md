@@ -3,13 +3,11 @@ title: "Options vs. cash"
 date: 2017-06-09 02:08:10 +0000
 external-url: https://danluu.com/startup-options/
 hash: a3b4b12e3e2b84610a8ef229d21e4901
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: https
-    host: danluu.com
-    path: /startup-options/
+year: 2017
+month: 06
+scheme: https
+host: danluu.com
+path: /startup-options/
 
 ---
 

@@ -3,13 +3,11 @@ title: "ShoppeSimple Network"
 date: 2011-11-09 17:13:03 +0000
 external-url: http://www.shoppesimplenetwork.com/
 hash: c6a9d0a25d10683044d0e07ae5001725
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: www.shoppesimplenetwork.com
-    path: /
+year: 2011
+month: 11
+scheme: http
+host: www.shoppesimplenetwork.com
+path: /
 
 ---
 

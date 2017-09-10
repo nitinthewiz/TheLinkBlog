@@ -3,13 +3,11 @@ title: "Finding the natural size for your company"
 date: 2008-06-06 16:39:00 +0000
 external-url: http://www.37signals.com/svn/posts/1068-finding-the-natural-size-for-your-company
 hash: 6668588362250cdc43264391135754fd
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/1068-finding-the-natural-size-for-your-company
+year: 2008
+month: 06
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1068-finding-the-natural-size-for-your-company
 
 ---
 

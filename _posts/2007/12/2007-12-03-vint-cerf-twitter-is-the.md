@@ -3,13 +3,11 @@ title: "Vint Cerf: \"Twitter Is The Future!\""
 date: 2007-12-03 16:17:00 +0000
 external-url: http://blog.twitter.com/2007/12/vint-cerf-twitter-is-future.html
 hash: 0fabe2f466ff2af23aaf22a3a97b73c5
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2007/12/vint-cerf-twitter-is-future.html
+year: 2007
+month: 12
+scheme: http
+host: blog.twitter.com
+path: /2007/12/vint-cerf-twitter-is-future.html
 
 ---
 

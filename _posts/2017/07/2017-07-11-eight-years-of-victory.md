@@ -3,13 +3,11 @@ title: "Eight Years of Victory (Pinboard Blog)"
 date: 2017-07-11 04:01:10 +0000
 external-url: https://blog.pinboard.in/2017/07/eight_years_of_victory/
 hash: ffbcc400dcbb9c979e603c497f0ad172
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: blog.pinboard.in
-    path: /2017/07/eight_years_of_victory/
+year: 2017
+month: 07
+scheme: https
+host: blog.pinboard.in
+path: /2017/07/eight_years_of_victory/
 
 ---
 

@@ -3,13 +3,11 @@ title: "A Review of Perl 6 – Evan Miller"
 date: 2017-08-18 12:15:11 +0000
 external-url: http://www.evanmiller.org/a-review-of-perl-6.html
 hash: 68fa6d736646213375c087d34d1997e9
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: http
-    host: www.evanmiller.org
-    path: /a-review-of-perl-6.html
+year: 2017
+month: 08
+scheme: http
+host: www.evanmiller.org
+path: /a-review-of-perl-6.html
 
 ---
 

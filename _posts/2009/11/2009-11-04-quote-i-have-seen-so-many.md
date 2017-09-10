@@ -3,13 +3,11 @@ title: "QUOTE: I have seen so many young entrepreneurs and"
 date: 2009-11-04 16:03:55 +0000
 external-url: http://37signals.com/svn/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 hash: ced2e07d9401f7926c6c77cf9e132899
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: 37signals.com
-    path: /svn/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
+year: 2009
+month: 11
+scheme: http
+host: 37signals.com
+path: /svn/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 
 ---
 

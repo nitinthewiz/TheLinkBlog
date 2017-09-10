@@ -3,13 +3,11 @@ title: "Mozilla Thimble"
 date: 2012-06-18 22:52:54 +0000
 external-url: https://thimble.webmaker.org/en-US/
 hash: 3df7eb9dfddc082f0ddac55a0057c078
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: https
-    host: thimble.webmaker.org
-    path: /en-US/
+year: 2012
+month: 06
+scheme: https
+host: thimble.webmaker.org
+path: /en-US/
 
 ---
 

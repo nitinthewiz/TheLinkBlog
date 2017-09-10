@@ -3,13 +3,11 @@ title: "My Life as a Turkey"
 date: 2011-11-22 15:48:57 +0000
 external-url: http://www.pbs.org/wnet/nature/episodes/my-life-as-a-turkey/introduction/7268/
 hash: d3c3b9887229eb6110a9d2c99c0f58c7
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: www.pbs.org
-    path: /wnet/nature/episodes/my-life-as-a-turkey/introduction/7268/
+year: 2011
+month: 11
+scheme: http
+host: www.pbs.org
+path: /wnet/nature/episodes/my-life-as-a-turkey/introduction/7268/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dialect Survey Results"
 date: 2007-07-17 18:26:02 +0000
 external-url: http://www4.uwm.edu/FLL/linguistics/dialect/maps.html
 hash: 34d622af0a300becfb0312825633c55f
-annum:
-    year: 2007
-    month: 07
-url-parts:
-    scheme: http
-    host: www4.uwm.edu
-    path: /FLL/linguistics/dialect/maps.html
+year: 2007
+month: 07
+scheme: http
+host: www4.uwm.edu
+path: /FLL/linguistics/dialect/maps.html
 
 ---
 

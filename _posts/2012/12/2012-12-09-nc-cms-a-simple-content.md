@@ -3,13 +3,11 @@ title: "Nc-cms: a simple content management system for simple websites"
 date: 2012-12-09 13:47:56 +0000
 external-url: http://www.nconsulting.ca/nc-cms/
 hash: 501d6efeaa737adfe3af03f4fc1a975c
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.nconsulting.ca
-    path: /nc-cms/
+year: 2012
+month: 12
+scheme: http
+host: www.nconsulting.ca
+path: /nc-cms/
 
 ---
 

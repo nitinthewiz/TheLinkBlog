@@ -3,13 +3,11 @@ title: "The Interpreter"
 date: 2014-03-27 18:28:27 +0000
 external-url: http://www.interpretermag.com/
 hash: d9933960fabc0200484d53748bb63890
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: www.interpretermag.com
-    path: /
+year: 2014
+month: 03
+scheme: http
+host: www.interpretermag.com
+path: /
 
 ---
 

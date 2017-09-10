@@ -3,13 +3,11 @@ title: "Homebrew, the perfect gift for command line lovers"
 date: 2009-12-26 04:53:24 +0000
 external-url: http://www.tuaw.com/2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/
 hash: a9e47f61a49caddb2240ebfbb73620ec
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/
+year: 2009
+month: 12
+scheme: http
+host: www.tuaw.com
+path: /2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/
 
 ---
 

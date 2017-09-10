@@ -3,13 +3,11 @@ title: "The Manipulator"
 date: 2011-04-26 00:42:17 +0000
 external-url: http://www.jillgreenberg.com
 hash: cc8c93d2510133f314aa1f217a85c7f3
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.jillgreenberg.com
-    path: 
+year: 2011
+month: 04
+scheme: http
+host: www.jillgreenberg.com
+path: 
 
 ---
 

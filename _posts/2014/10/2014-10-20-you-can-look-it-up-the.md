@@ -3,13 +3,11 @@ title: "You Can Look It Up: The Wikipedia Story"
 date: 2014-10-20 04:12:16 +0000
 external-url: http://www.thedailybeast.com/articles/2014/10/19/you-can-look-it-up-the-wikipedia-story.html
 hash: 707c6984d517ea184db1f81fa0bde0b9
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.thedailybeast.com
-    path: /articles/2014/10/19/you-can-look-it-up-the-wikipedia-story.html
+year: 2014
+month: 10
+scheme: http
+host: www.thedailybeast.com
+path: /articles/2014/10/19/you-can-look-it-up-the-wikipedia-story.html
 
 ---
 

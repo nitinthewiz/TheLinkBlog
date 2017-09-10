@@ -3,13 +3,11 @@ title: "DanielRapp/Noisy - GitHub"
 date: 2011-03-07 13:45:06 +0000
 external-url: https://github.com/DanielRapp/Noisy
 hash: de1b4b7cc8ad438f107bc61faa2dffaa
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: https
-    host: github.com
-    path: /DanielRapp/Noisy
+year: 2011
+month: 03
+scheme: https
+host: github.com
+path: /DanielRapp/Noisy
 
 ---
 

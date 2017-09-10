@@ -3,13 +3,11 @@ title: "Accidentally Released Documents Show How Goldman et al Engaged in 'Naked
 date: 2012-06-05 03:36:21 +0000
 external-url: http://www.rollingstone.com/politics/blogs/taibblog/accidentally-released-and-incredibly-embarrassing-documents-show-how-goldman-et-al-engaged-in-naked-short-selling-20120515
 hash: ef84cd3b16dfe462a26f3deaba9669f2
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: www.rollingstone.com
-    path: /politics/blogs/taibblog/accidentally-released-and-incredibly-embarrassing-documents-show-how-goldman-et-al-engaged-in-naked-short-selling-20120515
+year: 2012
+month: 06
+scheme: http
+host: www.rollingstone.com
+path: /politics/blogs/taibblog/accidentally-released-and-incredibly-embarrassing-documents-show-how-goldman-et-al-engaged-in-naked-short-selling-20120515
 
 ---
 

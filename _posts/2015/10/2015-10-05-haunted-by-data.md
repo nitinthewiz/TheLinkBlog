@@ -3,13 +3,11 @@ title: "Haunted By Data"
 date: 2015-10-05 01:40:59 +0000
 external-url: http://idlewords.com/talks/haunted_by_data.htm
 hash: 01947487e656f1c77bd112b1da5bab24
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: http
-    host: idlewords.com
-    path: /talks/haunted_by_data.htm
+year: 2015
+month: 10
+scheme: http
+host: idlewords.com
+path: /talks/haunted_by_data.htm
 
 ---
 

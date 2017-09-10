@@ -3,13 +3,11 @@ title: "Yfrog Photo : yfrog.com/20k7gp  - Shared by thingles"
 date: 2010-07-30 13:06:05 +0000
 external-url: http://yfrog.com/20k7gp
 hash: 01e69b0efff52007ee18047a607cd8be
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: yfrog.com
-    path: /20k7gp
+year: 2010
+month: 07
+scheme: http
+host: yfrog.com
+path: /20k7gp
 
 ---
 

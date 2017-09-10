@@ -3,13 +3,11 @@ title: "AWS Service Terms"
 date: 2016-02-10 03:48:13 +0000
 external-url: https://aws.amazon.com/service-terms/
 hash: d033e8e317f04b49d061e781e15cb332
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /service-terms/
+year: 2016
+month: 02
+scheme: https
+host: aws.amazon.com
+path: /service-terms/
 
 ---
 

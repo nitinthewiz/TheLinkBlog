@@ -3,13 +3,11 @@ title: "Loyal dog watches over master's grave for 6 years"
 date: 2012-12-13 16:56:51 +0000
 external-url: http://www.channel4000.ibsys.live.ib-qa.com/shared-content/pets/Loyal-dog-watches-over-master-s-grave-for-6-years/-/420382/16604256/-/1188yvl/-/index.html
 hash: 1f2182b3f04a0b2d2ec08505bb75ff62
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: www.channel4000.ibsys.live.ib-qa.com
-    path: /shared-content/pets/Loyal-dog-watches-over-master-s-grave-for-6-years/-/420382/16604256/-/1188yvl/-/index.html
+year: 2012
+month: 12
+scheme: http
+host: www.channel4000.ibsys.live.ib-qa.com
+path: /shared-content/pets/Loyal-dog-watches-over-master-s-grave-for-6-years/-/420382/16604256/-/1188yvl/-/index.html
 
 ---
 

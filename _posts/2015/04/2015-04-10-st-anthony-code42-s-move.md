@@ -3,13 +3,11 @@ title: "St. Anthony: Code42's business 'move' is focused growth with an eye to a
 date: 2015-04-10 13:41:58 +0000
 external-url: http://www.startribune.com/business/297860171.html
 hash: bb042449c86cc9cecaff3bf0e28caa9c
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: www.startribune.com
-    path: /business/297860171.html
+year: 2015
+month: 04
+scheme: http
+host: www.startribune.com
+path: /business/297860171.html
 
 ---
 

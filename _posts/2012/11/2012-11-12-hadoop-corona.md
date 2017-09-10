@@ -3,13 +3,11 @@ title: "Hadoop Corona"
 date: 2012-11-12 16:21:00 +0000
 external-url: https://github.com/facebook/hadoop-20/tree/master/src/contrib/corona
 hash: 9c8423c347028ef74a8a71bfee096860
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: github.com
-    path: /facebook/hadoop-20/tree/master/src/contrib/corona
+year: 2012
+month: 11
+scheme: https
+host: github.com
+path: /facebook/hadoop-20/tree/master/src/contrib/corona
 
 ---
 

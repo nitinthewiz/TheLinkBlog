@@ -3,13 +3,11 @@ title: "Amazon's Bezos Invests in Twitter"
 date: 2008-06-24 21:14:42 +0000
 external-url: http://readwrite.com/2008/06/24/amazons_bezos_invests_in_twitt
 hash: 518b9ba686ab79b450cfeafd37b62d0e
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2008/06/24/amazons_bezos_invests_in_twitt
+year: 2008
+month: 06
+scheme: http
+host: readwrite.com
+path: /2008/06/24/amazons_bezos_invests_in_twitt
 
 ---
 

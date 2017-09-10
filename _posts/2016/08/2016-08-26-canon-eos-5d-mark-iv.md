@@ -3,13 +3,11 @@ title: "Canon EOS 5D Mark IV First Impressions Review"
 date: 2016-08-26 00:34:50 +0000
 external-url: http://www.dpreview.com/reviews/canon-eos-5d-mark-iv-first-impressions-review
 hash: d36d84e64116a9f7e2691d4258ef606b
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: http
-    host: www.dpreview.com
-    path: /reviews/canon-eos-5d-mark-iv-first-impressions-review
+year: 2016
+month: 08
+scheme: http
+host: www.dpreview.com
+path: /reviews/canon-eos-5d-mark-iv-first-impressions-review
 
 ---
 

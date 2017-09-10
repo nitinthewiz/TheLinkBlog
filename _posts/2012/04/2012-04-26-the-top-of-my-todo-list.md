@@ -3,13 +3,11 @@ title: "The Top of My Todo List"
 date: 2012-04-26 05:58:42 +0000
 external-url: http://www.paulgraham.com/todo.html
 hash: b748a771b2df99a7ff544d236f6dc762
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.paulgraham.com
-    path: /todo.html
+year: 2012
+month: 04
+scheme: http
+host: www.paulgraham.com
+path: /todo.html
 
 ---
 

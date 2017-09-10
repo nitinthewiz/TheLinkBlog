@@ -3,13 +3,11 @@ title: "Coming Soon: The Cisco Blade Server?"
 date: 2008-03-21 19:00:20 +0000
 external-url: http://gigaom.com/2008/03/21/coming-soon-the-cisco-blade-server/
 hash: a041298fe0e3e3ac3332c36d8d594d33
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/03/21/coming-soon-the-cisco-blade-server/
+year: 2008
+month: 03
+scheme: http
+host: gigaom.com
+path: /2008/03/21/coming-soon-the-cisco-blade-server/
 
 ---
 

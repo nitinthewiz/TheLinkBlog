@@ -3,13 +3,11 @@ title: "Focus Collection"
 date: 2015-06-20 01:41:27 +0000
 external-url: http://www.joedarnell.com/focus/
 hash: 960502d0a5b3ed0f59b704530010d07e
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.joedarnell.com
-    path: /focus/
+year: 2015
+month: 06
+scheme: http
+host: www.joedarnell.com
+path: /focus/
 
 ---
 

@@ -3,13 +3,11 @@ title: "What’s Your Security Maturity Level? — Krebs on Security"
 date: 2015-04-27 16:08:05 +0000
 external-url: http://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/
 hash: 2a85a40dd20b4d03989a654139a0a2dc
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: krebsonsecurity.com
-    path: /2015/04/whats-your-security-maturity-level/
+year: 2015
+month: 04
+scheme: http
+host: krebsonsecurity.com
+path: /2015/04/whats-your-security-maturity-level/
 
 ---
 

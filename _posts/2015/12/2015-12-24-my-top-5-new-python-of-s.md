@@ -3,13 +3,11 @@ title: "My top 5 ‘new’ Python modules of 2015 « Robin's Blog"
 date: 2015-12-24 17:06:00 +0000
 external-url: http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/
 hash: 7de470e42c00e3fd02de50507d18ca59
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: http
-    host: blog.rtwilson.com
-    path: /my-top-5-new-python-modules-of-2015/
+year: 2015
+month: 12
+scheme: http
+host: blog.rtwilson.com
+path: /my-top-5-new-python-modules-of-2015/
 
 ---
 

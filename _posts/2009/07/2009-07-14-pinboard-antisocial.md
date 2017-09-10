@@ -3,13 +3,11 @@ title: "Pinboard — Antisocial Bookmarking"
 date: 2009-07-14 00:26:32 +0000
 external-url: http://pinboard.in/
 hash: f647277f54d87fea81a1d88fc26d56c2
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: pinboard.in
-    path: /
+year: 2009
+month: 07
+scheme: http
+host: pinboard.in
+path: /
 
 ---
 

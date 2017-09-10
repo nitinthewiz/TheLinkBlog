@@ -3,13 +3,11 @@ title: "Hash of the Titan: How Google bakes security all the way into silicon â€
 date: 2017-08-30 02:26:12 +0000
 external-url: https://www.theregister.co.uk/2017/08/25/google_titan_security_silicon/
 hash: dbc8e650a3c88ffe75706e994f87000b
-annum:
-    year: 2017
-    month: 08
-url-parts:
-    scheme: https
-    host: www.theregister.co.uk
-    path: /2017/08/25/google_titan_security_silicon/
+year: 2017
+month: 08
+scheme: https
+host: www.theregister.co.uk
+path: /2017/08/25/google_titan_security_silicon/
 
 ---
 

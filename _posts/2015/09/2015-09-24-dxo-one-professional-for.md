@@ -3,13 +3,11 @@ title: "DxO ONE | Professional Quality Connected Camera for iPhone | www.dxo.com
 date: 2015-09-24 22:06:40 +0000
 external-url: http://www.dxo.com/us/dxo-one#
 hash: ceda29df813e7ff61be2e9ccbdb3ecc7
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: www.dxo.com
-    path: /us/dxo-one
+year: 2015
+month: 09
+scheme: http
+host: www.dxo.com
+path: /us/dxo-one
 
 ---
 

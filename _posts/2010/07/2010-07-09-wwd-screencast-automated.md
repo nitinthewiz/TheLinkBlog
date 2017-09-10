@@ -3,13 +3,11 @@ title: "WWD Screencast: Automated Screenshots With Fake"
 date: 2010-07-09 23:00:50 +0000
 external-url: http://gigaom.com/2010/07/09/wwd-screencast-automated-screenshots-with-fake/
 hash: efe34431feb8fa85d43243c2285875fa
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/07/09/wwd-screencast-automated-screenshots-with-fake/
+year: 2010
+month: 07
+scheme: http
+host: gigaom.com
+path: /2010/07/09/wwd-screencast-automated-screenshots-with-fake/
 
 ---
 

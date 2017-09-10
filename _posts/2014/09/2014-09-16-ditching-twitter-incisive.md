@@ -3,13 +3,11 @@ title: "Ditching Twitter - Incisive.nu"
 date: 2014-09-16 03:27:40 +0000
 external-url: http://incisive.nu/2014/ditching-twitter/
 hash: d29921266f30b0616292eb8b0649c25e
-annum:
-    year: 2014
-    month: 09
-url-parts:
-    scheme: http
-    host: incisive.nu
-    path: /2014/ditching-twitter/
+year: 2014
+month: 09
+scheme: http
+host: incisive.nu
+path: /2014/ditching-twitter/
 
 ---
 

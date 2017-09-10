@@ -3,13 +3,11 @@ title: "Hey, Did I Miss Anything?"
 date: 2012-05-22 02:43:40 +0000
 external-url: http://danharmon.tumblr.com/post/23339272200/hey-did-i-miss-anything
 hash: c5afc68543e8e9c805300e61fed111b0
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: danharmon.tumblr.com
-    path: /post/23339272200/hey-did-i-miss-anything
+year: 2012
+month: 05
+scheme: http
+host: danharmon.tumblr.com
+path: /post/23339272200/hey-did-i-miss-anything
 
 ---
 

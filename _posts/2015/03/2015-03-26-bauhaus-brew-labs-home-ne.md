@@ -3,13 +3,11 @@ title: "Bauhaus Brew Labs | Home | Craft Lager | Minnesota Craft Beer | German C
 date: 2015-03-26 01:17:25 +0000
 external-url: http://bauhausbrewlabs.com/
 hash: 41324fa7081a93746b8184b58f4c759c
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: bauhausbrewlabs.com
-    path: /
+year: 2015
+month: 03
+scheme: http
+host: bauhausbrewlabs.com
+path: /
 
 ---
 

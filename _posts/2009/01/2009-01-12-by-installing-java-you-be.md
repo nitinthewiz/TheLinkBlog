@@ -3,13 +3,11 @@ title: "â€œBy installing Java, you will be able to experience the power of Javaâ
 date: 2009-01-12 20:12:39 +0000
 external-url: http://www.joelonsoftware.com/items/2009/01/12.html
 hash: 4ccc14054b145a63111db7f1067c337e
-annum:
-    year: 2009
-    month: 01
-url-parts:
-    scheme: http
-    host: www.joelonsoftware.com
-    path: /items/2009/01/12.html
+year: 2009
+month: 01
+scheme: http
+host: www.joelonsoftware.com
+path: /items/2009/01/12.html
 
 ---
 

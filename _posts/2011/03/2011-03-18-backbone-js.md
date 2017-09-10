@@ -3,13 +3,11 @@ title: "Backbone.js"
 date: 2011-03-18 18:30:38 +0000
 external-url: http://documentcloud.github.com/backbone/
 hash: adf17eb443f4417d98405095c62859d1
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: documentcloud.github.com
-    path: /backbone/
+year: 2011
+month: 03
+scheme: http
+host: documentcloud.github.com
+path: /backbone/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Deferred Email"
 date: 2015-07-09 00:35:55 +0000
 external-url: http://macsparky.com/blog/2015/7/deferred-email
 hash: 8a15d9d0c74d9f805baa8db12f7d3aa3
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: http
-    host: macsparky.com
-    path: /blog/2015/7/deferred-email
+year: 2015
+month: 07
+scheme: http
+host: macsparky.com
+path: /blog/2015/7/deferred-email
 
 ---
 

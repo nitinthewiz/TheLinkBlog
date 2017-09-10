@@ -3,13 +3,11 @@ title: "The Ultimate Guide to Solving iOS Battery Drain"
 date: 2014-04-08 12:42:45 +0000
 external-url: http://appinstructor.com/blog/2014/the-ultimate-guide-to-solving-ios-battery-drain
 hash: 8ccb19856267c0d3ffbdd98eeec6d2d8
-annum:
-    year: 2014
-    month: 04
-url-parts:
-    scheme: http
-    host: appinstructor.com
-    path: /blog/2014/the-ultimate-guide-to-solving-ios-battery-drain
+year: 2014
+month: 04
+scheme: http
+host: appinstructor.com
+path: /blog/2014/the-ultimate-guide-to-solving-ios-battery-drain
 
 ---
 

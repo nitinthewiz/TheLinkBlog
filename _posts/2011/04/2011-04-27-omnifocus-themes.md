@@ -3,13 +3,11 @@ title: "Omnifocus Themes"
 date: 2011-04-27 15:53:23 +0000
 external-url: http://ofthemes.com/
 hash: a579a2f75fbedd40d3590d64f13bd131
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: ofthemes.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: ofthemes.com
+path: /
 
 ---
 

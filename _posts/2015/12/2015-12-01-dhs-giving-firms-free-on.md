@@ -3,13 +3,11 @@ title: "DHS Giving Firms Free Penetration Tests — Krebs on Security"
 date: 2015-12-01 15:11:09 +0000
 external-url: https://krebsonsecurity.com/2015/12/dhs-giving-firms-free-penetration-tests/
 hash: 54e06fd1f480a154294b7ff39478c074
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: krebsonsecurity.com
-    path: /2015/12/dhs-giving-firms-free-penetration-tests/
+year: 2015
+month: 12
+scheme: https
+host: krebsonsecurity.com
+path: /2015/12/dhs-giving-firms-free-penetration-tests/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Prowl: Growl Client for iPhone"
 date: 2009-07-07 15:29:20 +0000
 external-url: http://prowl.weks.net/
 hash: 078e62fdf26ede990c4db3e862aaae9e
-annum:
-    year: 2009
-    month: 07
-url-parts:
-    scheme: http
-    host: prowl.weks.net
-    path: /
+year: 2009
+month: 07
+scheme: http
+host: prowl.weks.net
+path: /
 
 ---
 

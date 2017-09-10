@@ -3,13 +3,11 @@ title: "[Back to] The Future of Typography - Presentation Notes"
 date: 2009-05-18 03:36:07 +0000
 external-url: http://kernest.com/blog/archive/back-to-the-future-of-typography-presentation-notes
 hash: 6cde0ee6b39c467be35eef87b6a859a4
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: kernest.com
-    path: /blog/archive/back-to-the-future-of-typography-presentation-notes
+year: 2009
+month: 05
+scheme: http
+host: kernest.com
+path: /blog/archive/back-to-the-future-of-typography-presentation-notes
 
 ---
 

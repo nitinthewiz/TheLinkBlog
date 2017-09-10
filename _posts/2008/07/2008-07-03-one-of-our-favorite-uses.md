@@ -3,13 +3,11 @@ title: "One of our favorite uses for Backpack: How to pages"
 date: 2008-07-03 15:34:57 +0000
 external-url: http://37signals.blogs.com/products/2008/07/one-of-our-favo.html
 hash: de2217ff0b022a8de6f0f2d7f148bb20
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: 37signals.blogs.com
-    path: /products/2008/07/one-of-our-favo.html
+year: 2008
+month: 07
+scheme: http
+host: 37signals.blogs.com
+path: /products/2008/07/one-of-our-favo.html
 
 ---
 

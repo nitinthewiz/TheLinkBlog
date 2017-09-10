@@ -3,13 +3,11 @@ title: "Formative Labs Will Turn Energy Saving Into A Game On The Wings Of Impre
 date: 2010-10-12 00:10:52 +0000
 external-url: http://techcrunch.com/2010/10/11/formative-labs-funding/
 hash: 37d6e694c5d73fd9dec1d0a8f94da7e5
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2010/10/11/formative-labs-funding/
+year: 2010
+month: 10
+scheme: http
+host: techcrunch.com
+path: /2010/10/11/formative-labs-funding/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Carbon dioxide in carbonated beverages induces ghrelin release and incre
 date: 2017-05-17 01:21:48 +0000
 external-url: https://www.ncbi.nlm.nih.gov/pubmed/28228348
 hash: 0750eb26672b23bd188116771c934cff
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: www.ncbi.nlm.nih.gov
-    path: /pubmed/28228348
+year: 2017
+month: 05
+scheme: https
+host: www.ncbi.nlm.nih.gov
+path: /pubmed/28228348
 
 ---
 

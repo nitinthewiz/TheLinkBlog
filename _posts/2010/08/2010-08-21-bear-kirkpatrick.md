@@ -3,13 +3,11 @@ title: "Bear Kirkpatrick"
 date: 2010-08-21 14:45:00 +0000
 external-url: http://artnudes.blogspot.com/2010/08/bear-kirkpatrick.html
 hash: 50eec84b5a0986b1a01c884fd475bc40
-annum:
-    year: 2010
-    month: 08
-url-parts:
-    scheme: http
-    host: artnudes.blogspot.com
-    path: /2010/08/bear-kirkpatrick.html
+year: 2010
+month: 08
+scheme: http
+host: artnudes.blogspot.com
+path: /2010/08/bear-kirkpatrick.html
 
 ---
 

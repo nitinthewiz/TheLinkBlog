@@ -3,13 +3,11 @@ title: "Rupert Murdoch, Blogger?"
 date: 2008-05-12 18:51:00 +0000
 external-url: http://www.businessinsider.com/2008/5/rupert-murdoch-blogger-
 hash: ecf4f0650681c26a3a38b7e0ad6b4652
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /2008/5/rupert-murdoch-blogger-
+year: 2008
+month: 05
+scheme: http
+host: www.businessinsider.com
+path: /2008/5/rupert-murdoch-blogger-
 
 ---
 

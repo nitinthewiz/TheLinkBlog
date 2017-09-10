@@ -3,13 +3,11 @@ title: "OpenStreetBlock"
 date: 2011-04-07 17:02:51 +0000
 external-url: http://transit.frumin.net/openstreetblock/
 hash: d9e06229003706ae3637d261598b9dda
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: transit.frumin.net
-    path: /openstreetblock/
+year: 2011
+month: 04
+scheme: http
+host: transit.frumin.net
+path: /openstreetblock/
 
 ---
 

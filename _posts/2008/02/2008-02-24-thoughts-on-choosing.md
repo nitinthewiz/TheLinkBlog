@@ -3,13 +3,11 @@ title: "Thoughts On Choosing Board Members"
 date: 2008-02-24 12:55:21 +0000
 external-url: http://avc.blogs.com/a_vc/2008/02/thoughts-on-cho.html
 hash: 1ad6893a00b4d9bdc07d884b557dfeab
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: avc.blogs.com
-    path: /a_vc/2008/02/thoughts-on-cho.html
+year: 2008
+month: 02
+scheme: http
+host: avc.blogs.com
+path: /a_vc/2008/02/thoughts-on-cho.html
 
 ---
 

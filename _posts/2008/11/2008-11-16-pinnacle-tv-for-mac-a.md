@@ -3,13 +3,11 @@ title: "Pinnacle TV for Mac: A Great Gift"
 date: 2008-11-16 22:54:17 +0000
 external-url: http://iconnectdots.com/2008/11/pinnacle-tv-for-mac-a-great-gift.html
 hash: d5facd3db10e4b7acaa2b60410b53b6f
-annum:
-    year: 2008
-    month: 11
-url-parts:
-    scheme: http
-    host: iconnectdots.com
-    path: /2008/11/pinnacle-tv-for-mac-a-great-gift.html
+year: 2008
+month: 11
+scheme: http
+host: iconnectdots.com
+path: /2008/11/pinnacle-tv-for-mac-a-great-gift.html
 
 ---
 

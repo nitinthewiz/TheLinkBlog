@@ -3,13 +3,11 @@ title: "How to Record a Podcast with People in Multiple Locations"
 date: 2012-06-01 14:40:47 +0000
 external-url: http://hivelogic.com/articles/how-to-record-a-podcast-with-people-in-multiple-locations/
 hash: 1c7d0a73f8a1c61896b1f893b8f7fcfb
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: hivelogic.com
-    path: /articles/how-to-record-a-podcast-with-people-in-multiple-locations/
+year: 2012
+month: 06
+scheme: http
+host: hivelogic.com
+path: /articles/how-to-record-a-podcast-with-people-in-multiple-locations/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Multitasking Is Rubbish"
 date: 2016-04-01 00:23:53 +0000
 external-url: http://www.myproductivemac.com/blog/multitasking-is-rubbish3132016
 hash: d27e2acaa2da3e5b7af0f14a4eb34d2b
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: www.myproductivemac.com
-    path: /blog/multitasking-is-rubbish3132016
+year: 2016
+month: 04
+scheme: http
+host: www.myproductivemac.com
+path: /blog/multitasking-is-rubbish3132016
 
 ---
 

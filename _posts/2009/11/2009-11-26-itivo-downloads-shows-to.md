@@ -3,13 +3,11 @@ title: "ITiVo Downloads Shows to Your Mac for On-the-Go Viewing"
 date: 2009-11-26 05:42:38 +0000
 external-url: http://lifehacker.com/5412096/itivo-downloads-shows-to-your-mac-for-on%2Bthe%2Bgo-viewing
 hash: 5c4db861e98aa9d77048b63fea7c6a7c
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /5412096/itivo-downloads-shows-to-your-mac-for-on%2Bthe%2Bgo-viewing
+year: 2009
+month: 11
+scheme: http
+host: lifehacker.com
+path: /5412096/itivo-downloads-shows-to-your-mac-for-on%2Bthe%2Bgo-viewing
 
 ---
 

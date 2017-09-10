@@ -3,13 +3,11 @@ title: "Open Sourcing Iris and Oncall | LinkedIn Engineering"
 date: 2017-07-06 02:37:32 +0000
 external-url: https://engineering.linkedin.com/blog/2017/06/open-sourcing-iris-and-oncall
 hash: 6814bc7b9deaccfa61f8bb0ccfded773
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: engineering.linkedin.com
-    path: /blog/2017/06/open-sourcing-iris-and-oncall
+year: 2017
+month: 07
+scheme: https
+host: engineering.linkedin.com
+path: /blog/2017/06/open-sourcing-iris-and-oncall
 
 ---
 

@@ -3,13 +3,11 @@ title: "Facebook Launches Graph API Explorer for Testing and Revamps Developer A
 date: 2011-06-29 19:00:29 +0000
 external-url: http://www.insidefacebook.com/2011/06/29/graph-api-explorer-developer-app/
 hash: 8bd4ed5b1a8d15a4125d731c4a812623
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: www.insidefacebook.com
-    path: /2011/06/29/graph-api-explorer-developer-app/
+year: 2011
+month: 06
+scheme: http
+host: www.insidefacebook.com
+path: /2011/06/29/graph-api-explorer-developer-app/
 
 ---
 

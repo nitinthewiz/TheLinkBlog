@@ -3,13 +3,11 @@ title: "I have seen so many young entrepreneurs and"
 date: 2009-11-04 16:03:55 +0000
 external-url: https://signalvnoise.com/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 hash: eee30fcf88a1422155066d6e18069b5d
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: https
-    host: signalvnoise.com
-    path: /posts/1999-i-have-seen-so-many-young-entrepreneurs-and
+year: 2009
+month: 11
+scheme: https
+host: signalvnoise.com
+path: /posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 
 ---
 

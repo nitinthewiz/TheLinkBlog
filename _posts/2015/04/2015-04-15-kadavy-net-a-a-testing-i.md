@@ -3,13 +3,11 @@ title: "kadavy.net | A/A Testing: How I increased conversions 300% by doing abso
 date: 2015-04-15 05:56:34 +0000
 external-url: http://kadavy.net/blog/posts/aa-testing/
 hash: 96cd902cfa608702c5c00ea91879aa2c
-annum:
-    year: 2015
-    month: 04
-url-parts:
-    scheme: http
-    host: kadavy.net
-    path: /blog/posts/aa-testing/
+year: 2015
+month: 04
+scheme: http
+host: kadavy.net
+path: /blog/posts/aa-testing/
 
 ---
 

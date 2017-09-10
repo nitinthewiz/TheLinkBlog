@@ -3,13 +3,11 @@ title: "Arthur Ventures"
 date: 2011-04-27 16:30:40 +0000
 external-url: http://www.arthurventures.com/
 hash: 6e7b6183b1b14111896c4b7436d40372
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.arthurventures.com
-    path: /
+year: 2011
+month: 04
+scheme: http
+host: www.arthurventures.com
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dreaming technology in the Twin Cities"
 date: 2012-05-24 03:01:01 +0000
 external-url: http://finance-commerce.com/2012/05/dreaming-technology-in-the-twin-cities/
 hash: 03998771af87715d98f58636b4b72caf
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: finance-commerce.com
-    path: /2012/05/dreaming-technology-in-the-twin-cities/
+year: 2012
+month: 05
+scheme: http
+host: finance-commerce.com
+path: /2012/05/dreaming-technology-in-the-twin-cities/
 
 ---
 

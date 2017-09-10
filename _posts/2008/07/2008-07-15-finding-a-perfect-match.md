@@ -3,13 +3,11 @@ title: "Finding A Perfect Match"
 date: 2008-07-15 03:07:00 +0000
 external-url: http://blog.twitter.com/2008/07/finding-perfect-match.html
 hash: 5e7311e9c6d8893496f252a1c77ad230
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2008/07/finding-perfect-match.html
+year: 2008
+month: 07
+scheme: http
+host: blog.twitter.com
+path: /2008/07/finding-perfect-match.html
 
 ---
 

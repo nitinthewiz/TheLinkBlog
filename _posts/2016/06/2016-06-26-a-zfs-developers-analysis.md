@@ -3,13 +3,11 @@ title: "A ZFS developer’s analysis of the good and bad in Apple’s new APFS f
 date: 2016-06-26 14:12:39 +0000
 external-url: http://arstechnica.com/apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/
 hash: 855400cd46b6c9e7683b5ace58a55234
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/
+year: 2016
+month: 06
+scheme: http
+host: arstechnica.com
+path: /apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/
 
 ---
 

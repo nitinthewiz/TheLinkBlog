@@ -3,13 +3,11 @@ title: "There's More to Life Than Being Happy - Emily Esfahani Smith - The Atlan
 date: 2013-02-23 19:49:01 +0000
 external-url: http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/
 hash: 4245a4564c0f69e49bb16811a45f74cd
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: www.theatlantic.com
-    path: /health/archive/2013/01/theres-more-to-life-than-being-happy/266805/
+year: 2013
+month: 02
+scheme: http
+host: www.theatlantic.com
+path: /health/archive/2013/01/theres-more-to-life-than-being-happy/266805/
 
 ---
 

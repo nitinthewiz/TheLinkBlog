@@ -3,13 +3,11 @@ title: "Programming Language Popularity"
 date: 2012-02-17 22:14:49 +0000
 external-url: http://langpop.com/
 hash: 2273a80a326bf4f97e177e73387357e3
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: langpop.com
-    path: /
+year: 2012
+month: 02
+scheme: http
+host: langpop.com
+path: /
 
 ---
 

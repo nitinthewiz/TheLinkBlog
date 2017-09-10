@@ -3,13 +3,11 @@ title: "Use Hazel with ImageOptim to process images for the web"
 date: 2013-11-16 17:02:03 +0000
 external-url: http://wordius.com/use-hazel-with-imageoptim-to-automate-your-image-processing-workflow/
 hash: 6c374cfbbcbedd088689da28cb256598
-annum:
-    year: 2013
-    month: 11
-url-parts:
-    scheme: http
-    host: wordius.com
-    path: /use-hazel-with-imageoptim-to-automate-your-image-processing-workflow/
+year: 2013
+month: 11
+scheme: http
+host: wordius.com
+path: /use-hazel-with-imageoptim-to-automate-your-image-processing-workflow/
 
 ---
 

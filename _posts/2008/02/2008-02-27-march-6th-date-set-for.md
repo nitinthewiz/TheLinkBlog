@@ -3,13 +3,11 @@ title: "March 6th Date Set for Apples iPhone Software Roadmap Event"
 date: 2008-02-27 20:33:35 +0000
 external-url: http://techcrunch.com/2008/02/27/march-6th-date-set-for-apples-iphone-software-roadmap-event/
 hash: a291d5f3fd111223d84c4eeac32d1876
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/02/27/march-6th-date-set-for-apples-iphone-software-roadmap-event/
+year: 2008
+month: 02
+scheme: http
+host: techcrunch.com
+path: /2008/02/27/march-6th-date-set-for-apples-iphone-software-roadmap-event/
 
 ---
 

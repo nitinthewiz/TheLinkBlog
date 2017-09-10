@@ -3,13 +3,11 @@ title: "OmniPresence document syncing ships this week"
 date: 2013-05-21 03:33:46 +0000
 external-url: http://www.omnigroup.com/blog/omnipresence-document-syncing-ships-this-week
 hash: 6a759cedfdb301c9eff898480b205796
-annum:
-    year: 2013
-    month: 05
-url-parts:
-    scheme: http
-    host: www.omnigroup.com
-    path: /blog/omnipresence-document-syncing-ships-this-week
+year: 2013
+month: 05
+scheme: http
+host: www.omnigroup.com
+path: /blog/omnipresence-document-syncing-ships-this-week
 
 ---
 

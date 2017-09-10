@@ -3,13 +3,11 @@ title: "Apple Rumor Site Think Secret Shutting Down On Settlement"
 date: 2007-12-21 05:56:19 +0000
 external-url: http://gigaom.com/2007/12/20/419-apple-gossip-site-thinksecret-shutting-down-on-settlement/
 hash: 6def35be2993ad120554d2bca4d6dd40
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2007/12/20/419-apple-gossip-site-thinksecret-shutting-down-on-settlement/
+year: 2007
+month: 12
+scheme: http
+host: gigaom.com
+path: /2007/12/20/419-apple-gossip-site-thinksecret-shutting-down-on-settlement/
 
 ---
 

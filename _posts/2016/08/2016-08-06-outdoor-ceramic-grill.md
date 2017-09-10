@@ -3,13 +3,11 @@ title: "Outdoor Ceramic Grill Carts | Sloan Outdoor Kitchens Sloan Outdoor Kitch
 date: 2016-08-06 21:37:02 +0000
 external-url: https://sloanoutdoors.com/outdoor-ceramic-grill-carts/
 hash: 2f8c48b5c31470588226b7a8d5908963
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: sloanoutdoors.com
-    path: /outdoor-ceramic-grill-carts/
+year: 2016
+month: 08
+scheme: https
+host: sloanoutdoors.com
+path: /outdoor-ceramic-grill-carts/
 
 ---
 

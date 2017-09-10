@@ -3,13 +3,11 @@ title: "Day One 2.0 is here"
 date: 2016-02-04 04:36:37 +0000
 external-url: http://thesweetsetup.com/day-one-2-0-is-here/
 hash: 6485cc5d669c02d4746864f266d96266
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: thesweetsetup.com
-    path: /day-one-2-0-is-here/
+year: 2016
+month: 02
+scheme: http
+host: thesweetsetup.com
+path: /day-one-2-0-is-here/
 
 ---
 

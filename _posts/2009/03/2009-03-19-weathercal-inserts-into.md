@@ -3,13 +3,11 @@ title: "WeatherCal Inserts Updating Forecasts into iCal"
 date: 2009-03-19 01:48:43 +0000
 external-url: http://db.tidbits.com/article/10147
 hash: 4ced3f3a7792eb65d8a2ff916b22118c
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: db.tidbits.com
-    path: /article/10147
+year: 2009
+month: 03
+scheme: http
+host: db.tidbits.com
+path: /article/10147
 
 ---
 

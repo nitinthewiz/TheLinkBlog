@@ -3,13 +3,11 @@ title: "Security Assertion Markup Language"
 date: 2011-03-31 17:04:29 +0000
 external-url: http://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 hash: 962f890e9d804ab3f44aba261a7c5300
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: en.wikipedia.org
-    path: /wiki/Security_Assertion_Markup_Language
+year: 2011
+month: 03
+scheme: http
+host: en.wikipedia.org
+path: /wiki/Security_Assertion_Markup_Language
 
 ---
 

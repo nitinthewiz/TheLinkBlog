@@ -3,13 +3,11 @@ title: "A2 Web Hosting : : PHP 5.2.x Hosting, MySQL 5.0.x/4.1.x Hosting, Postgre
 date: 2007-09-26 14:41:56 +0000
 external-url: http://www.a2hosting.com/index.php
 hash: 5444583596cc48f826d2b52e0e7c87b3
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.a2hosting.com
-    path: /index.php
+year: 2007
+month: 09
+scheme: http
+host: www.a2hosting.com
+path: /index.php
 
 ---
 

@@ -3,13 +3,11 @@ title: "Dorthy.com: A (Semantic) Search Engine for Dreams"
 date: 2009-08-23 21:21:26 +0000
 external-url: http://www.readwriteweb.com/archives/dorthy_a_semantic_search_engine_for_dreams.php
 hash: 5ddbaaf51ae50d13f5b3c3ca5aa0ebfc
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/dorthy_a_semantic_search_engine_for_dreams.php
+year: 2009
+month: 08
+scheme: http
+host: www.readwriteweb.com
+path: /archives/dorthy_a_semantic_search_engine_for_dreams.php
 
 ---
 

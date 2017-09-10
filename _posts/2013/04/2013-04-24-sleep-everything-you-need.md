@@ -3,13 +3,11 @@ title: "Sleep: Everything You Need To Know The Healthy Life Medium"
 date: 2013-04-24 01:41:57 +0000
 external-url: https://medium.com/the-healthy-life/b65f8e19ed18
 hash: 89ac4684bbb7f7aab9b0ac4450ac7df5
-annum:
-    year: 2013
-    month: 04
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /the-healthy-life/b65f8e19ed18
+year: 2013
+month: 04
+scheme: https
+host: medium.com
+path: /the-healthy-life/b65f8e19ed18
 
 ---
 

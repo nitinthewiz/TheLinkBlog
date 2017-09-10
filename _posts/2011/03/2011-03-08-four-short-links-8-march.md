@@ -3,13 +3,11 @@ title: "Four short links: 8 March 2011"
 date: 2011-03-08 11:00:00 +0000
 external-url: http://radar.oreilly.com/2011/03/four-short-links-8-march-2011.html
 hash: 789ffcc3dd2597efc1686251aab9074c
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2011/03/four-short-links-8-march-2011.html
+year: 2011
+month: 03
+scheme: http
+host: radar.oreilly.com
+path: /2011/03/four-short-links-8-march-2011.html
 
 ---
 

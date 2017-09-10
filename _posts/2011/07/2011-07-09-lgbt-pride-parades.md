@@ -3,13 +3,11 @@ title: "LGBT pride parades"
 date: 2011-07-09 16:09:48 +0000
 external-url: http://www.boston.com/bigpicture/2011/07/lgbt_pride_parades.html
 hash: 970f59b06f00ba6172090fff8c737e6c
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.boston.com
-    path: /bigpicture/2011/07/lgbt_pride_parades.html
+year: 2011
+month: 07
+scheme: http
+host: www.boston.com
+path: /bigpicture/2011/07/lgbt_pride_parades.html
 
 ---
 

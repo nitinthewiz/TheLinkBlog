@@ -3,13 +3,11 @@ title: "Fracture | Glass Photos"
 date: 2015-06-09 11:52:30 +0000
 external-url: http://www.fractureme.com/
 hash: 7fff56f454baaa9019a886373e751e0d
-annum:
-    year: 2015
-    month: 06
-url-parts:
-    scheme: http
-    host: www.fractureme.com
-    path: /
+year: 2015
+month: 06
+scheme: http
+host: www.fractureme.com
+path: /
 
 ---
 

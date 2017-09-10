@@ -3,13 +3,11 @@ title: "My Twitter Quantity Experiment"
 date: 2010-03-05 02:15:40 +0000
 external-url: https://gigaom.com/2010/03/04/my-twitter-quantity-experiment/
 hash: 19b92e0c95c692ace136fae4902f2523
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: https
-    host: gigaom.com
-    path: /2010/03/04/my-twitter-quantity-experiment/
+year: 2010
+month: 03
+scheme: https
+host: gigaom.com
+path: /2010/03/04/my-twitter-quantity-experiment/
 
 ---
 

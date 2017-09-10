@@ -3,13 +3,11 @@ title: "Dead Man's Switch"
 date: 2011-08-21 10:50:08 +0000
 external-url: http://beta.deadmansswitch.net/
 hash: 0b787377fc6c53ead497cfe31253a1d7
-annum:
-    year: 2011
-    month: 08
-url-parts:
-    scheme: http
-    host: beta.deadmansswitch.net
-    path: /
+year: 2011
+month: 08
+scheme: http
+host: beta.deadmansswitch.net
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Now Available: AWS Certificate Manager"
 date: 2016-01-22 02:03:22 +0000
 external-url: http://blogs.aws.amazon.com/security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
 hash: ac484fe9cbb83dc59cf55d798df07011
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: blogs.aws.amazon.com
-    path: /security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
+year: 2016
+month: 01
+scheme: http
+host: blogs.aws.amazon.com
+path: /security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
 
 ---
 

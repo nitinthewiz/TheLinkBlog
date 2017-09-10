@@ -3,13 +3,11 @@ title: "Delicious&#39; New Flavors: Refined Search, Interactive Graphs, &amp; Mu
 date: 2009-10-01 00:25:38 +0000
 external-url: http://www.readwriteweb.com/archives/delicious_new_flavors.php
 hash: aed06843bc1b695862580a86e13cf050
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/delicious_new_flavors.php
+year: 2009
+month: 10
+scheme: http
+host: www.readwriteweb.com
+path: /archives/delicious_new_flavors.php
 
 ---
 

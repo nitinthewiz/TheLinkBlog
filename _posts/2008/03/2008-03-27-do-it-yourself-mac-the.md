@@ -3,13 +3,11 @@ title: "Do It Yourself .Mac - The Network People, Inc."
 date: 2008-03-27 16:17:51 +0000
 external-url: http://www.tnpi.net/wiki/Do_It_Yourself_.Mac
 hash: e4f1ef2cd1ebb4b638166cc946bd5c79
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.tnpi.net
-    path: /wiki/Do_It_Yourself_.Mac
+year: 2008
+month: 03
+scheme: http
+host: www.tnpi.net
+path: /wiki/Do_It_Yourself_.Mac
 
 ---
 

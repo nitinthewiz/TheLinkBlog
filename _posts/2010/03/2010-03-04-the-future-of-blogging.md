@@ -3,13 +3,11 @@ title: "The Future of Blogging"
 date: 2010-03-04 04:37:05 +0000
 external-url: http://gigaom.com/collaboration/the-future-of-blogging/
 hash: 56338ab1eca433adf09488cad4ffd838
-annum:
-    year: 2010
-    month: 03
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /collaboration/the-future-of-blogging/
+year: 2010
+month: 03
+scheme: http
+host: gigaom.com
+path: /collaboration/the-future-of-blogging/
 
 ---
 

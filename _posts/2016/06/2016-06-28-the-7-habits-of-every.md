@@ -3,13 +3,11 @@ title: "The 7 Habits of Every User"
 date: 2016-06-28 10:52:06 +0000
 external-url: https://medium.com/@chuck/the-7-habits-of-every-user-b6eaca8fba4b#.ya84frixk
 hash: 6c8a183271417a0a109685d00a97fa04
-annum:
-    year: 2016
-    month: 06
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@chuck/the-7-habits-of-every-user-b6eaca8fba4b
+year: 2016
+month: 06
+scheme: https
+host: medium.com
+path: /@chuck/the-7-habits-of-every-user-b6eaca8fba4b
 
 ---
 

@@ -3,13 +3,11 @@ title: "A peek at In/Out, an internal app at 37signals"
 date: 2008-04-17 19:16:00 +0000
 external-url: http://www.37signals.com/svn/posts/976-a-peek-at-inout-an-internal-app-at-37signals
 hash: 135199da92f9dac2c1835f8bb82c23d5
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: www.37signals.com
-    path: /svn/posts/976-a-peek-at-inout-an-internal-app-at-37signals
+year: 2008
+month: 04
+scheme: http
+host: www.37signals.com
+path: /svn/posts/976-a-peek-at-inout-an-internal-app-at-37signals
 
 ---
 

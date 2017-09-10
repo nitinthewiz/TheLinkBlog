@@ -3,13 +3,11 @@ title: "Great Example of the Pressure of Quarter to Quarter Earnings"
 date: 2009-02-24 05:24:14 +0000
 external-url: http://www.cogmap.com/blog/2009/02/17/great-example-of-the-pressure-of-quarter-to-quarter-earnings/
 hash: a10393e9db9508148211884fc9bb3786
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: www.cogmap.com
-    path: /blog/2009/02/17/great-example-of-the-pressure-of-quarter-to-quarter-earnings/
+year: 2009
+month: 02
+scheme: http
+host: www.cogmap.com
+path: /blog/2009/02/17/great-example-of-the-pressure-of-quarter-to-quarter-earnings/
 
 ---
 

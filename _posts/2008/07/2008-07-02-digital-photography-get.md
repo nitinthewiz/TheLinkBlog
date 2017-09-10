@@ -3,13 +3,11 @@ title: "Digital Photography: Get Better Fireworks Photos This Fourth of July"
 date: 2008-07-02 10:43:39 +0000
 external-url: http://lifehacker.com/397649/get-better-fireworks-photos-this-fourth-of-july
 hash: cf8ea91b2d981596d5888cabf3976b45
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: lifehacker.com
-    path: /397649/get-better-fireworks-photos-this-fourth-of-july
+year: 2008
+month: 07
+scheme: http
+host: lifehacker.com
+path: /397649/get-better-fireworks-photos-this-fourth-of-july
 
 ---
 

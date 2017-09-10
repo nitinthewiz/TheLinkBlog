@@ -3,13 +3,11 @@ title: "If money doesn't make you happy, then you probably aren't spending it ri
 date: 2012-05-08 21:08:49 +0000
 external-url: http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&%20WILSON%20%282011%29.pdf
 hash: 0d5c01d39e3418891110a7e82f4c471e
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.wjh.harvard.edu
-    path: /~dtg/DUNN%20GILBERT%20&%20WILSON%20%282011%29.pdf
+year: 2012
+month: 05
+scheme: http
+host: www.wjh.harvard.edu
+path: /~dtg/DUNN%20GILBERT%20&%20WILSON%20%282011%29.pdf
 
 ---
 

@@ -3,13 +3,11 @@ title: "Finding Oregon"
 date: 2011-12-01 04:18:12 +0000
 external-url: http://vimeo.com/32852978
 hash: ef3258832240bcd8fc64ef3ce569ff22
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /32852978
+year: 2011
+month: 12
+scheme: http
+host: vimeo.com
+path: /32852978
 
 ---
 

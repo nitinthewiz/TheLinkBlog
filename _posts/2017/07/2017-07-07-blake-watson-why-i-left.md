@@ -3,13 +3,11 @@ title: "Blake Watson | Why I left Facebook"
 date: 2017-07-07 19:05:26 +0000
 external-url: https://www.blakewatson.com/journal/why-i-left-facebook/
 hash: cef8aae957ec1b95ac40d519a25f031d
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.blakewatson.com
-    path: /journal/why-i-left-facebook/
+year: 2017
+month: 07
+scheme: https
+host: www.blakewatson.com
+path: /journal/why-i-left-facebook/
 
 ---
 

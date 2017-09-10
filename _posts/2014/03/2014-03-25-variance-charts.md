@@ -3,13 +3,11 @@ title: "Variance Charts"
 date: 2014-03-25 02:15:27 +0000
 external-url: https://variancecharts.com/
 hash: 0e847aa68d407186e2b030724c68b57f
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: https
-    host: variancecharts.com
-    path: /
+year: 2014
+month: 03
+scheme: https
+host: variancecharts.com
+path: /
 
 ---
 

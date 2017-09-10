@@ -3,13 +3,11 @@ title: "In the age of APIs why do 2 million companies interact via B2B networks?
 date: 2015-08-26 00:43:18 +0000
 external-url: http://blogs.gartner.com/benoit_lheureux/2015/08/25/in-the-age-of-apis-why-do-2-million-companies-interact-via-b2b-networks-hint-b2b-tower-of-bable/
 hash: 5eaf04fb1ff26b2e93d99284e5bfd18c
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: blogs.gartner.com
-    path: /benoit_lheureux/2015/08/25/in-the-age-of-apis-why-do-2-million-companies-interact-via-b2b-networks-hint-b2b-tower-of-bable/
+year: 2015
+month: 08
+scheme: http
+host: blogs.gartner.com
+path: /benoit_lheureux/2015/08/25/in-the-age-of-apis-why-do-2-million-companies-interact-via-b2b-networks-hint-b2b-tower-of-bable/
 
 ---
 

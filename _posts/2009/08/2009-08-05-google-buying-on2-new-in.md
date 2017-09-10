@@ -3,13 +3,11 @@ title: "Google buying On2; New twist in the hope for Open Video"
 date: 2009-08-05 17:09:08 +0000
 external-url: http://ajaxian.com/archives/google-buying-on2-new-twist-in-the-hope-for-open-video
 hash: d8dd89cbc17caf15eca03ff74f6885d1
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/google-buying-on2-new-twist-in-the-hope-for-open-video
+year: 2009
+month: 08
+scheme: http
+host: ajaxian.com
+path: /archives/google-buying-on2-new-twist-in-the-hope-for-open-video
 
 ---
 

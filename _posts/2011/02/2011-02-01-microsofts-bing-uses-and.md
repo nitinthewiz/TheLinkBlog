@@ -3,13 +3,11 @@ title: "Microsoft’s Bing uses Google search results—and denies it"
 date: 2011-02-01 23:43:14 +0000
 external-url: http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html
 hash: 85c363b299af55f2c15be82dff17464e
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: http
-    host: googleblog.blogspot.com
-    path: /2011/02/microsofts-bing-uses-google-search.html
+year: 2011
+month: 02
+scheme: http
+host: googleblog.blogspot.com
+path: /2011/02/microsofts-bing-uses-google-search.html
 
 ---
 

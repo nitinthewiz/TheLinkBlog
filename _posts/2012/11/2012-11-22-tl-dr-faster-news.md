@@ -3,13 +3,11 @@ title: "TL;DR Faster News"
 date: 2012-11-22 13:57:47 +0000
 external-url: http://toolong-didntread.com/
 hash: 0cd15116f1447c038b8d821e215208ec
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: toolong-didntread.com
-    path: /
+year: 2012
+month: 11
+scheme: http
+host: toolong-didntread.com
+path: /
 
 ---
 

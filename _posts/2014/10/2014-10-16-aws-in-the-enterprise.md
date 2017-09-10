@@ -3,13 +3,11 @@ title: "AWS in the Enterprise"
 date: 2014-10-16 22:12:56 +0000
 external-url: https://medium.com/aws-enterprise-collection/aws-in-the-enterprise-b1af6fb8946c
 hash: 382a92621ae01ad7e7f6b4e647ec071f
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /aws-enterprise-collection/aws-in-the-enterprise-b1af6fb8946c
+year: 2014
+month: 10
+scheme: https
+host: medium.com
+path: /aws-enterprise-collection/aws-in-the-enterprise-b1af6fb8946c
 
 ---
 

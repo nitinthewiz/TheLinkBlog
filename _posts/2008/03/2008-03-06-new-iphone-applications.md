@@ -3,13 +3,11 @@ title: "New iPhone applications to appear tonight"
 date: 2008-03-06 11:57:24 +0000
 external-url: http://9to5mac.com/2008/03/06/new-iphone-applications-to-appear-tonight/
 hash: d92c26ef525f3aaa7c42bec088c6a978
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2008/03/06/new-iphone-applications-to-appear-tonight/
+year: 2008
+month: 03
+scheme: http
+host: 9to5mac.com
+path: /2008/03/06/new-iphone-applications-to-appear-tonight/
 
 ---
 

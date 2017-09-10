@@ -3,13 +3,11 @@ title: "Swurl: Your Lifestream, Made Beautiful"
 date: 2008-07-03 23:23:38 +0000
 external-url: http://readwrite.com/2008/07/03/swurl_your_lifestream_made_bea
 hash: bdbee51847f3c1e6f0c7b2b31e4d0741
-annum:
-    year: 2008
-    month: 07
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2008/07/03/swurl_your_lifestream_made_bea
+year: 2008
+month: 07
+scheme: http
+host: readwrite.com
+path: /2008/07/03/swurl_your_lifestream_made_bea
 
 ---
 

@@ -3,13 +3,11 @@ title: "Slowpokes to get penalized in Google search rankings?"
 date: 2009-11-14 11:40:50 +0000
 external-url: http://venturebeat.com/2009/11/13/slowpokes-to-get-penalized-in-google-search-rankings/
 hash: 4c5c86c39ae52cbc309047032c29409e
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: venturebeat.com
-    path: /2009/11/13/slowpokes-to-get-penalized-in-google-search-rankings/
+year: 2009
+month: 11
+scheme: http
+host: venturebeat.com
+path: /2009/11/13/slowpokes-to-get-penalized-in-google-search-rankings/
 
 ---
 

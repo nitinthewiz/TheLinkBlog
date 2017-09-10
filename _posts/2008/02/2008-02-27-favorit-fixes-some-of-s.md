@@ -3,13 +3,11 @@ title: "Favorit fixes some of Google Reader's shortcomings, adds own"
 date: 2008-02-27 23:32:00 +0000
 external-url: http://www.cnet.com/8301-17939_109-9881104-2.html
 hash: b6283d24c07a297e2d92531255c8ac93
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.cnet.com
-    path: /8301-17939_109-9881104-2.html
+year: 2008
+month: 02
+scheme: http
+host: www.cnet.com
+path: /8301-17939_109-9881104-2.html
 
 ---
 

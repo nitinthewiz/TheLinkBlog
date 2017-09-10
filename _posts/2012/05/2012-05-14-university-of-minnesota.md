@@ -3,13 +3,11 @@ title: "University of Minnesota Open Textbook Catalog"
 date: 2012-05-14 02:50:16 +0000
 external-url: http://open.umn.edu/opentextbooks/
 hash: 056883c583ee802d8b5b7c005d5cbd03
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: open.umn.edu
-    path: /opentextbooks/
+year: 2012
+month: 05
+scheme: http
+host: open.umn.edu
+path: /opentextbooks/
 
 ---
 

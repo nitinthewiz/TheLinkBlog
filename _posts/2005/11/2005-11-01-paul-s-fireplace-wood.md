@@ -3,13 +3,11 @@ title: "Paul's Fireplace Wood"
 date: 2005-11-01 13:19:25 +0000
 external-url: http://firewood.com
 hash: 2959cb7c07bd5a91d46bfbe53687593f
-annum:
-    year: 2005
-    month: 11
-url-parts:
-    scheme: http
-    host: firewood.com
-    path: 
+year: 2005
+month: 11
+scheme: http
+host: firewood.com
+path: 
 
 ---
 

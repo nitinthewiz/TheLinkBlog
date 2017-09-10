@@ -3,13 +3,11 @@ title: "Minnesota open data"
 date: 2012-04-25 21:34:28 +0000
 external-url: http://www.mn.gov/data/data.html
 hash: c4c3159a37b4d03bb5a8eb6e7651f32d
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: www.mn.gov
-    path: /data/data.html
+year: 2012
+month: 04
+scheme: http
+host: www.mn.gov
+path: /data/data.html
 
 ---
 

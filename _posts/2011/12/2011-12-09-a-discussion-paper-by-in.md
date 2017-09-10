@@ -3,13 +3,11 @@ title: "A discussion paper by Melanie Sill, Executive in Residence, USC Annenber
 date: 2011-12-09 17:54:03 +0000
 external-url: http://www.annenberginnovationlab.org/OpenJournalism/
 hash: 8ddbc97ec534e546109393b533fcf04b
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: www.annenberginnovationlab.org
-    path: /OpenJournalism/
+year: 2011
+month: 12
+scheme: http
+host: www.annenberginnovationlab.org
+path: /OpenJournalism/
 
 ---
 

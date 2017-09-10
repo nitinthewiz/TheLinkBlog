@@ -3,13 +3,11 @@ title: "Guatemala is no 'Paradise' for women and girls"
 date: 2007-12-12 14:51:00 +0000
 external-url: http://www.minnpost.com/arts-culture/2007/12/guatemala-no-paradise-women-and-girls
 hash: 70e4d5e8c3116423a86b79c9871e5085
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.minnpost.com
-    path: /arts-culture/2007/12/guatemala-no-paradise-women-and-girls
+year: 2007
+month: 12
+scheme: http
+host: www.minnpost.com
+path: /arts-culture/2007/12/guatemala-no-paradise-women-and-girls
 
 ---
 

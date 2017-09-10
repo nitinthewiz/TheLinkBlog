@@ -3,13 +3,11 @@ title: "Spanner: Googles Globally-Distributed Database"
 date: 2012-09-17 15:13:55 +0000
 external-url: http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/spanner-osdi2012.pdf
 hash: e816cb745e21dd705904757e72338101
-annum:
-    year: 2012
-    month: 09
-url-parts:
-    scheme: http
-    host: static.googleusercontent.com
-    path: /external_content/untrusted_dlcp/research.google.com/en/us/archive/spanner-osdi2012.pdf
+year: 2012
+month: 09
+scheme: http
+host: static.googleusercontent.com
+path: /external_content/untrusted_dlcp/research.google.com/en/us/archive/spanner-osdi2012.pdf
 
 ---
 

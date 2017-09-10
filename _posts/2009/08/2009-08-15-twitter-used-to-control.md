@@ -3,13 +3,11 @@ title: "Twitter Used to Control Botnet"
 date: 2009-08-15 05:03:59 +0000
 external-url: http://gigaom.com/2009/08/14/twitter-used-to-control-botnet/
 hash: f11faa92b42bad34057b459755f44c92
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2009/08/14/twitter-used-to-control-botnet/
+year: 2009
+month: 08
+scheme: http
+host: gigaom.com
+path: /2009/08/14/twitter-used-to-control-botnet/
 
 ---
 

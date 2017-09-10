@@ -3,13 +3,11 @@ title: "90% of IPv4 address space used; IPv6 move looking messy"
 date: 2010-01-22 02:05:00 +0000
 external-url: http://arstechnica.com/tech-policy/news/2010/01/90-of-ipv4-address-space-used-ipv6-move-looking-messy.ars
 hash: e2c83ac3a57e0c15cbfbf6e19065875a
-annum:
-    year: 2010
-    month: 01
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /tech-policy/news/2010/01/90-of-ipv4-address-space-used-ipv6-move-looking-messy.ars
+year: 2010
+month: 01
+scheme: http
+host: arstechnica.com
+path: /tech-policy/news/2010/01/90-of-ipv4-address-space-used-ipv6-move-looking-messy.ars
 
 ---
 

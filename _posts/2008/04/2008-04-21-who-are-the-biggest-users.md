@@ -3,13 +3,11 @@ title: "Who Are The Biggest Users of Amazon Web Services? Its Not Startups."
 date: 2008-04-21 23:58:48 +0000
 external-url: http://techcrunch.com/2008/04/21/who-are-the-biggest-users-of-amazon-web-services-its-not-startups/
 hash: d80fc1f6ac1d02246d97292087829ca5
-annum:
-    year: 2008
-    month: 04
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2008/04/21/who-are-the-biggest-users-of-amazon-web-services-its-not-startups/
+year: 2008
+month: 04
+scheme: http
+host: techcrunch.com
+path: /2008/04/21/who-are-the-biggest-users-of-amazon-web-services-its-not-startups/
 
 ---
 

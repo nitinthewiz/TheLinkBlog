@@ -3,13 +3,11 @@ title: "Extension:Approved Revs - MediaWiki"
 date: 2011-10-16 12:57:35 +0000
 external-url: http://www.mediawiki.org/wiki/Extension:Approved_Revs
 hash: 98a437303f9932a43980cfbbeb645dc5
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.mediawiki.org
-    path: /wiki/Extension:Approved_Revs
+year: 2011
+month: 10
+scheme: http
+host: www.mediawiki.org
+path: /wiki/Extension:Approved_Revs
 
 ---
 

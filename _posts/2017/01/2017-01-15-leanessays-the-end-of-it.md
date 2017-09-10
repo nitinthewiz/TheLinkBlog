@@ -3,13 +3,11 @@ title: "LeanEssays: The End of Enterprise IT"
 date: 2017-01-15 14:26:29 +0000
 external-url: http://www.leanessays.com/2017/01/the-end-of-enterprise-it.html
 hash: f9a32c5c929e382a50f924a37f9c18fd
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: http
-    host: www.leanessays.com
-    path: /2017/01/the-end-of-enterprise-it.html
+year: 2017
+month: 01
+scheme: http
+host: www.leanessays.com
+path: /2017/01/the-end-of-enterprise-it.html
 
 ---
 

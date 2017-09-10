@@ -3,13 +3,11 @@ title: "Reaffirming the White House's Commitment to Net Neutrality | We the Peop
 date: 2014-10-10 22:29:41 +0000
 external-url: https://petitions.whitehouse.gov/response/reaffirming-white-houses-commitment-net-neutrality
 hash: 0da56100e55f2f7c693b64aaf52baa25
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: https
-    host: petitions.whitehouse.gov
-    path: /response/reaffirming-white-houses-commitment-net-neutrality
+year: 2014
+month: 10
+scheme: https
+host: petitions.whitehouse.gov
+path: /response/reaffirming-white-houses-commitment-net-neutrality
 
 ---
 

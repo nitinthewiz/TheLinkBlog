@@ -3,13 +3,11 @@ title: "Rules Engine"
 date: 2014-06-11 20:38:36 +0000
 external-url: http://martinfowler.com/bliki/RulesEngine.html
 hash: 5d583de72c52957861c83c6dc88aefa1
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: http
-    host: martinfowler.com
-    path: /bliki/RulesEngine.html
+year: 2014
+month: 06
+scheme: http
+host: martinfowler.com
+path: /bliki/RulesEngine.html
 
 ---
 

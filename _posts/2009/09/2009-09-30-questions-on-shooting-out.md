@@ -3,15 +3,13 @@ title: "Questions on shooting video with DSLRs? Check out Dan Chung’s DSLR New
 date: 2009-09-30 04:16:29 +0000
 external-url: http://mediastorm.org/blog/?p=1242
 hash: 8a5f676409f70a28e71368510e987bda
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: mediastorm.org
-    path: /blog/
-    query:
-        p: "1242"
+year: 2009
+month: 09
+scheme: http
+host: mediastorm.org
+path: /blog/
+query:
+    p: "1242"
 ---
 
 If you haven’t seen it yet, you should head over to Dan Chung’s DSLR News Shooter blog.  He’s creating a great resource for anyone using DSLRs to shoot HD video. We’re excited to see this blog develop- we’re still trying to figure this relatively new world of DSLR video out ourselves, and his behind the scenes looks at how he’s doing work are super-helpful.  

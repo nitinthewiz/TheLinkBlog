@@ -3,13 +3,11 @@ title: "We're Eating Less Meat. Why?"
 date: 2012-04-20 02:54:44 +0000
 external-url: http://opinionator.blogs.nytimes.com/2012/01/10/were-eating-less-meat-why/
 hash: b87703f52d8db802e35777c7f838c033
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: opinionator.blogs.nytimes.com
-    path: /2012/01/10/were-eating-less-meat-why/
+year: 2012
+month: 04
+scheme: http
+host: opinionator.blogs.nytimes.com
+path: /2012/01/10/were-eating-less-meat-why/
 
 ---
 

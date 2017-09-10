@@ -3,13 +3,11 @@ title: "Minneapolis Facebook Developer Garage"
 date: 2008-01-04 19:59:00 +0000
 external-url: http://railspikes.com/2008/1/4/minneapolis-facebook-developer-garage
 hash: f11845e921573dc3f6744b527d3f92a3
-annum:
-    year: 2008
-    month: 01
-url-parts:
-    scheme: http
-    host: railspikes.com
-    path: /2008/1/4/minneapolis-facebook-developer-garage
+year: 2008
+month: 01
+scheme: http
+host: railspikes.com
+path: /2008/1/4/minneapolis-facebook-developer-garage
 
 ---
 

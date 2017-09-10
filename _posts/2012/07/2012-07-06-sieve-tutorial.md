@@ -3,13 +3,11 @@ title: "Sieve Tutorial"
 date: 2012-07-06 01:59:15 +0000
 external-url: http://www.tty1.net/blog/2011/sieve-tutorial_en.html
 hash: 5f056fe05657a900433fcfde39125473
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.tty1.net
-    path: /blog/2011/sieve-tutorial_en.html
+year: 2012
+month: 07
+scheme: http
+host: www.tty1.net
+path: /blog/2011/sieve-tutorial_en.html
 
 ---
 

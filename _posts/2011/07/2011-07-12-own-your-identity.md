@@ -3,13 +3,11 @@ title: "Own your identity"
 date: 2011-07-12 05:53:53 +0000
 external-url: http://www.marco.org/2011/07/11/own-your-identity
 hash: 5a2663bd1a398e9a9d9a41b65846716c
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.marco.org
-    path: /2011/07/11/own-your-identity
+year: 2011
+month: 07
+scheme: http
+host: www.marco.org
+path: /2011/07/11/own-your-identity
 
 ---
 

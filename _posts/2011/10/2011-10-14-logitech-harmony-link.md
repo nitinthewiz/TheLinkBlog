@@ -3,13 +3,11 @@ title: "Logitech Harmony Link"
 date: 2011-10-14 20:53:48 +0000
 external-url: http://www.logitech.com/en-us/support/harmony-link
 hash: 3bc153acac2c53bfc8bd406194c7de75
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: www.logitech.com
-    path: /en-us/support/harmony-link
+year: 2011
+month: 10
+scheme: http
+host: www.logitech.com
+path: /en-us/support/harmony-link
 
 ---
 

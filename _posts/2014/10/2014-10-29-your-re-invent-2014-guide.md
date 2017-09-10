@@ -3,13 +3,11 @@ title: "Your re:Invent 2014 Survival Guide"
 date: 2014-10-29 10:46:43 +0000
 external-url: http://blog.cloudability.com/reinvent-2014-survival-guide/
 hash: 667f7253ba789f9ee849291a138e6630
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: blog.cloudability.com
-    path: /reinvent-2014-survival-guide/
+year: 2014
+month: 10
+scheme: http
+host: blog.cloudability.com
+path: /reinvent-2014-survival-guide/
 
 ---
 

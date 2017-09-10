@@ -3,13 +3,11 @@ title: "The New New Software Development Game"
 date: 2015-08-04 15:22:59 +0000
 external-url: http://www.devopsdays.org/events/2015-minneapolis/proposals/The%20New%20New%20Software%20Development%20Game/
 hash: 3bff987b153c7ef29471a5908ce49671
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: www.devopsdays.org
-    path: /events/2015-minneapolis/proposals/The%20New%20New%20Software%20Development%20Game/
+year: 2015
+month: 08
+scheme: http
+host: www.devopsdays.org
+path: /events/2015-minneapolis/proposals/The%20New%20New%20Software%20Development%20Game/
 
 ---
 

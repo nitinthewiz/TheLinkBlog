@@ -3,13 +3,11 @@ title: "Modern Mirrorless: Canon EOS M5 First Impressions Review"
 date: 2016-09-15 10:36:52 +0000
 external-url: http://www.dpreview.com/reviews/canon-eos-m5-first-impressions-review
 hash: b35944408f5d37c25d9bde33393f2a01
-annum:
-    year: 2016
-    month: 09
-url-parts:
-    scheme: http
-    host: www.dpreview.com
-    path: /reviews/canon-eos-m5-first-impressions-review
+year: 2016
+month: 09
+scheme: http
+host: www.dpreview.com
+path: /reviews/canon-eos-m5-first-impressions-review
 
 ---
 

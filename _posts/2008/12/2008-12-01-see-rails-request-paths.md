@@ -3,13 +3,11 @@ title: "See Rails request paths in 'top'"
 date: 2008-12-01 00:17:55 +0000
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2008/11/trivial-request-logging-for-rails.html
 hash: e6f847b89e71bd71d811b57b7d9a197f
-annum:
-    year: 2008
-    month: 12
-url-parts:
-    scheme: http
-    host: pragdave.blogs.pragprog.com
-    path: /pragdave/2008/11/trivial-request-logging-for-rails.html
+year: 2008
+month: 12
+scheme: http
+host: pragdave.blogs.pragprog.com
+path: /pragdave/2008/11/trivial-request-logging-for-rails.html
 
 ---
 

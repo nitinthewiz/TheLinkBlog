@@ -3,13 +3,11 @@ title: "Private browsing and Search - Stop online tracking and malware"
 date: 2012-03-26 02:12:01 +0000
 external-url: https://disconnect.me/
 hash: 9e2271fb55293b1dcccbd51bbb6caefc
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: https
-    host: disconnect.me
-    path: /
+year: 2012
+month: 03
+scheme: https
+host: disconnect.me
+path: /
 
 ---
 

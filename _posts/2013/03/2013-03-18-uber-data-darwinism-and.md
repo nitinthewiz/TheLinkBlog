@@ -3,13 +3,11 @@ title: "Uber, Data Darwinism and the future of work"
 date: 2013-03-18 03:04:44 +0000
 external-url: http://gigaom.com/2013/03/17/uber-data-darwinism-and-the-future-of-work/
 hash: ffb4df9d81fd030e3ec1ef0f5e50aeac
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2013/03/17/uber-data-darwinism-and-the-future-of-work/
+year: 2013
+month: 03
+scheme: http
+host: gigaom.com
+path: /2013/03/17/uber-data-darwinism-and-the-future-of-work/
 
 ---
 

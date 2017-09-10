@@ -3,13 +3,11 @@ title: "JPMorgan Trading Loss May Reach $9 Billion"
 date: 2012-06-28 19:39:55 +0000
 external-url: http://dealbook.nytimes.com/2012/06/28/jpmorgan-trading-loss-may-reach-9-billion/
 hash: 5dc16cc908e2bf8137e617eed1c3352b
-annum:
-    year: 2012
-    month: 06
-url-parts:
-    scheme: http
-    host: dealbook.nytimes.com
-    path: /2012/06/28/jpmorgan-trading-loss-may-reach-9-billion/
+year: 2012
+month: 06
+scheme: http
+host: dealbook.nytimes.com
+path: /2012/06/28/jpmorgan-trading-loss-may-reach-9-billion/
 
 ---
 

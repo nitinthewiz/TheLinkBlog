@@ -3,13 +3,11 @@ title: "JStat: a JavaScript statistical library"
 date: 2012-11-28 15:35:33 +0000
 external-url: https://github.com/jstat/jstat
 hash: 61570b4c4476ff9cb67887340f9a0171
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: https
-    host: github.com
-    path: /jstat/jstat
+year: 2012
+month: 11
+scheme: https
+host: github.com
+path: /jstat/jstat
 
 ---
 

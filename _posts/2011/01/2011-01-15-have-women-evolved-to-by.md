@@ -3,13 +3,11 @@ title: "Have women evolved to protect themselves from rapists? - By Jesse Bering
 date: 2011-01-15 16:59:25 +0000
 external-url: http://www.slate.com/id/2281138/pagenum/all/#p2
 hash: 11ed16c53140fc32fc98ee191d564209
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.slate.com
-    path: /id/2281138/pagenum/all/
+year: 2011
+month: 01
+scheme: http
+host: www.slate.com
+path: /id/2281138/pagenum/all/
 
 ---
 

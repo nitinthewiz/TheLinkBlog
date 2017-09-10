@@ -3,13 +3,11 @@ title: "TED | Talks | Erin McKean: Redefining the dictionary (video)"
 date: 2007-09-13 02:17:38 +0000
 external-url: http://www.ted.com/index.php/talks/view/id/161
 hash: 043ed76f77001594f542faf67a94768e
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: www.ted.com
-    path: /index.php/talks/view/id/161
+year: 2007
+month: 09
+scheme: http
+host: www.ted.com
+path: /index.php/talks/view/id/161
 
 ---
 

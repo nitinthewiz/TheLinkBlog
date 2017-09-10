@@ -3,13 +3,11 @@ title: "Newspaper: Article scraping & curation"
 date: 2014-02-02 01:28:16 +0000
 external-url: http://newspaper.readthedocs.org/en/latest/
 hash: e5e4cf4c27e9ce70c953af34e53b1ee9
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: newspaper.readthedocs.org
-    path: /en/latest/
+year: 2014
+month: 02
+scheme: http
+host: newspaper.readthedocs.org
+path: /en/latest/
 
 ---
 

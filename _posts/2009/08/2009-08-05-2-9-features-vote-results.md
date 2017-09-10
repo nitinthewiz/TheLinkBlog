@@ -3,13 +3,11 @@ title: "2.9 Features Vote Results"
 date: 2009-08-05 16:55:40 +0000
 external-url: http://wordpress.org/development/2009/07/2-9-vote-results/
 hash: 67d6bd130c663eb113bdc1fc55c62157
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: wordpress.org
-    path: /development/2009/07/2-9-vote-results/
+year: 2009
+month: 08
+scheme: http
+host: wordpress.org
+path: /development/2009/07/2-9-vote-results/
 
 ---
 

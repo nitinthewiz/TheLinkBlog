@@ -3,13 +3,11 @@ title: "Newspapers Weigh in on Obama's Speech"
 date: 2008-03-19 15:12:48 +0000
 external-url: http://www.dailykos.com/story/2008/03/19/479729/-Newspapers-Weigh-in-on-Obama-s-Speech
 hash: 1bdbc2539e52498a02057aa3c3069f5a
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: www.dailykos.com
-    path: /story/2008/03/19/479729/-Newspapers-Weigh-in-on-Obama-s-Speech
+year: 2008
+month: 03
+scheme: http
+host: www.dailykos.com
+path: /story/2008/03/19/479729/-Newspapers-Weigh-in-on-Obama-s-Speech
 
 ---
 

@@ -3,13 +3,11 @@ title: "P2: The New Prologue"
 date: 2009-03-11 14:57:09 +0000
 external-url: http://raanan.com/2009/03/10/p2-the-new-prologue/
 hash: ffc6a2c505698f1e1af6df9e131194c2
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: raanan.com
-    path: /2009/03/10/p2-the-new-prologue/
+year: 2009
+month: 03
+scheme: http
+host: raanan.com
+path: /2009/03/10/p2-the-new-prologue/
 
 ---
 

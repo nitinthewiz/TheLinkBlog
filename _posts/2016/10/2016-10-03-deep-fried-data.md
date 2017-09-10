@@ -3,13 +3,11 @@ title: "Deep-Fried Data"
 date: 2016-10-03 08:54:51 +0000
 external-url: http://idlewords.com/talks/deep_fried_data.htm
 hash: 7838336483e5adefdd9fce9d76feccf8
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: http
-    host: idlewords.com
-    path: /talks/deep_fried_data.htm
+year: 2016
+month: 10
+scheme: http
+host: idlewords.com
+path: /talks/deep_fried_data.htm
 
 ---
 

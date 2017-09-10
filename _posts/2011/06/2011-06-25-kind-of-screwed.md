@@ -3,13 +3,11 @@ title: "Kind of Screwed"
 date: 2011-06-25 23:11:59 +0000
 external-url: http://waxy.org/2011/06/kind_of_screwed/
 hash: 8faf37f2905dcb21943f9e40dd6c1d6d
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: waxy.org
-    path: /2011/06/kind_of_screwed/
+year: 2011
+month: 06
+scheme: http
+host: waxy.org
+path: /2011/06/kind_of_screwed/
 
 ---
 

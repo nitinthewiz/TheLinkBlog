@@ -3,13 +3,11 @@ title: "Social Media Upending Privacy in Real World"
 date: 2013-02-11 19:15:41 +0000
 external-url: http://bits.blogs.nytimes.com/2012/10/14/seeking-privacy-in-a-networked-age/
 hash: e45c072460ddeef3c3a98a9de95c281b
-annum:
-    year: 2013
-    month: 02
-url-parts:
-    scheme: http
-    host: bits.blogs.nytimes.com
-    path: /2012/10/14/seeking-privacy-in-a-networked-age/
+year: 2013
+month: 02
+scheme: http
+host: bits.blogs.nytimes.com
+path: /2012/10/14/seeking-privacy-in-a-networked-age/
 
 ---
 

@@ -3,13 +3,11 @@ title: "8thBridge Launches New Social Commerce Platform Called Graphite; Multi-c
 date: 2012-04-25 21:58:08 +0000
 external-url: http://digitalintelligencetoday.com/8thbridge-launches-new-social-commerce-platform-called-graphite-multi-channel-integration-is-selling-point/
 hash: c19fbdac237eedac0366b7ca81201364
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: digitalintelligencetoday.com
-    path: /8thbridge-launches-new-social-commerce-platform-called-graphite-multi-channel-integration-is-selling-point/
+year: 2012
+month: 04
+scheme: http
+host: digitalintelligencetoday.com
+path: /8thbridge-launches-new-social-commerce-platform-called-graphite-multi-channel-integration-is-selling-point/
 
 ---
 

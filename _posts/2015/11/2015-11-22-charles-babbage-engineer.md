@@ -3,13 +3,11 @@ title: "Charles Babbage, perfectionist engineer"
 date: 2015-11-22 22:11:50 +0000
 external-url: http://www.recursion.org/2015/11/22/charles-babbage-perfectionist-engineer
 hash: 2760cbe97fda7e2692ec0c5bf6e35061
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: www.recursion.org
-    path: /2015/11/22/charles-babbage-perfectionist-engineer
+year: 2015
+month: 11
+scheme: http
+host: www.recursion.org
+path: /2015/11/22/charles-babbage-perfectionist-engineer
 
 ---
 

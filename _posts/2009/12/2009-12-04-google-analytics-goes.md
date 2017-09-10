@@ -3,13 +3,11 @@ title: "Google Analytics goes async"
 date: 2009-12-04 03:14:37 +0000
 external-url: http://www.stevesouders.com/blog/2009/12/01/google-analytics-goes-async/
 hash: 0dba1c60568c64d3ed1833ec1a6c300a
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: www.stevesouders.com
-    path: /blog/2009/12/01/google-analytics-goes-async/
+year: 2009
+month: 12
+scheme: http
+host: www.stevesouders.com
+path: /blog/2009/12/01/google-analytics-goes-async/
 
 ---
 

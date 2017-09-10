@@ -3,13 +3,11 @@ title: "Work on Stuff that Matters: First Principles"
 date: 2011-03-28 11:19:41 +0000
 external-url: http://radar.oreilly.com/2009/01/work-on-stuff-that-matters-fir.html
 hash: 173406fea0a407be6594c47b42101336
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2009/01/work-on-stuff-that-matters-fir.html
+year: 2011
+month: 03
+scheme: http
+host: radar.oreilly.com
+path: /2009/01/work-on-stuff-that-matters-fir.html
 
 ---
 

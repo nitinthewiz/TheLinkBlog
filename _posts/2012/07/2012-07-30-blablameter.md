@@ -3,13 +3,11 @@ title: "BlaBlaMeter"
 date: 2012-07-30 20:48:19 +0000
 external-url: http://www.blablameter.com/
 hash: e159d7fbaede4e8c2927e4b657aac916
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: www.blablameter.com
-    path: /
+year: 2012
+month: 07
+scheme: http
+host: www.blablameter.com
+path: /
 
 ---
 

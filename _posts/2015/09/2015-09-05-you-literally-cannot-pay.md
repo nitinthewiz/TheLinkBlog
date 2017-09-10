@@ -3,13 +3,11 @@ title: "You literally cannot pay me to speak without a Code of Conduct - Rachel 
 date: 2015-09-05 12:26:32 +0000
 external-url: http://rachelnabors.com/2015/09/01/code-of-conduct/
 hash: 883d40f822dc0af899f270079fd6ed5c
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: http
-    host: rachelnabors.com
-    path: /2015/09/01/code-of-conduct/
+year: 2015
+month: 09
+scheme: http
+host: rachelnabors.com
+path: /2015/09/01/code-of-conduct/
 
 ---
 

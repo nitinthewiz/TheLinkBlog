@@ -3,13 +3,11 @@ title: "Subway Map Visualization jQuery Plugin"
 date: 2011-12-18 12:50:04 +0000
 external-url: http://kalyani.com/2010/10/subway-map-visualization-jquery-plugin/
 hash: b7bd78f5f93285981884aa7f32dba34f
-annum:
-    year: 2011
-    month: 12
-url-parts:
-    scheme: http
-    host: kalyani.com
-    path: /2010/10/subway-map-visualization-jquery-plugin/
+year: 2011
+month: 12
+scheme: http
+host: kalyani.com
+path: /2010/10/subway-map-visualization-jquery-plugin/
 
 ---
 

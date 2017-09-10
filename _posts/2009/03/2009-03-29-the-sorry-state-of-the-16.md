@@ -3,13 +3,11 @@ title: "The Sorry State of the Newspaper Industry: Advertising Income Fell 16.6%
 date: 2009-03-29 04:59:53 +0000
 external-url: http://www.readwriteweb.com/archives/the_sorry_state_of_the_newspaper_industry_advertising_falls_16_precent.php
 hash: 020ab71ccacf34c6fa196c0e11d77dc1
-annum:
-    year: 2009
-    month: 03
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /archives/the_sorry_state_of_the_newspaper_industry_advertising_falls_16_precent.php
+year: 2009
+month: 03
+scheme: http
+host: www.readwriteweb.com
+path: /archives/the_sorry_state_of_the_newspaper_industry_advertising_falls_16_precent.php
 
 ---
 

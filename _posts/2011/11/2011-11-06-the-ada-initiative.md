@@ -3,13 +3,11 @@ title: "The Ada Initiative"
 date: 2011-11-06 21:31:04 +0000
 external-url: http://adainitiative.org/
 hash: a6fd9d66ff08a1378ba2469b448c7427
-annum:
-    year: 2011
-    month: 11
-url-parts:
-    scheme: http
-    host: adainitiative.org
-    path: /
+year: 2011
+month: 11
+scheme: http
+host: adainitiative.org
+path: /
 
 ---
 

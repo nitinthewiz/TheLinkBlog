@@ -3,13 +3,11 @@ title: "The reactive manifesto"
 date: 2013-12-11 10:20:03 +0000
 external-url: http://www.reactivemanifesto.org/#the-need-to-go-reactive
 hash: 5242b23bfda429bcb7f3a1c1fd6436b8
-annum:
-    year: 2013
-    month: 12
-url-parts:
-    scheme: http
-    host: www.reactivemanifesto.org
-    path: /
+year: 2013
+month: 12
+scheme: http
+host: www.reactivemanifesto.org
+path: /
 
 ---
 

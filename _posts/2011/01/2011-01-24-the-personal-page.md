@@ -3,13 +3,11 @@ title: "The Personal Page"
 date: 2011-01-24 09:41:54 +0000
 external-url: https://github.com/weightshift/The-Personal-Page
 hash: 4f88a336e5e95d0fb9403c7ed75399e6
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: github.com
-    path: /weightshift/The-Personal-Page
+year: 2011
+month: 01
+scheme: https
+host: github.com
+path: /weightshift/The-Personal-Page
 
 ---
 

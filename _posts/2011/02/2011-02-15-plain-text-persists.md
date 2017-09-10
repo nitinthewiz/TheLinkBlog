@@ -3,13 +3,11 @@ title: "Plain Text Persists"
 date: 2011-02-15 16:19:18 +0000
 external-url: https://garrickvanburen.com/archive/plain-text-persists/
 hash: 8eae28475c7d3e490a34d62124d5c521
-annum:
-    year: 2011
-    month: 02
-url-parts:
-    scheme: https
-    host: garrickvanburen.com
-    path: /archive/plain-text-persists/
+year: 2011
+month: 02
+scheme: https
+host: garrickvanburen.com
+path: /archive/plain-text-persists/
 
 ---
 

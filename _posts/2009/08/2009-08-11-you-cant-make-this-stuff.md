@@ -3,13 +3,11 @@ title: "You Can’t Make This Stuff Up, Part Two"
 date: 2009-08-11 03:21:55 +0000
 external-url: http://www.washingtonmonthly.com/archives/individual/2009_08/019423.php
 hash: d750d79379a4aae8ab7b6fd20fc95c05
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: www.washingtonmonthly.com
-    path: /archives/individual/2009_08/019423.php
+year: 2009
+month: 08
+scheme: http
+host: www.washingtonmonthly.com
+path: /archives/individual/2009_08/019423.php
 
 ---
 

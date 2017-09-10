@@ -3,13 +3,11 @@ title: "Retail Info Systems 2013 Review & Outlook"
 date: 2012-12-10 21:12:40 +0000
 external-url: http://risnews.edgl.com/retail-trends/2013-Review---Outlook83548
 hash: df29c190450e657f9b742dea37d2f66c
-annum:
-    year: 2012
-    month: 12
-url-parts:
-    scheme: http
-    host: risnews.edgl.com
-    path: /retail-trends/2013-Review---Outlook83548
+year: 2012
+month: 12
+scheme: http
+host: risnews.edgl.com
+path: /retail-trends/2013-Review---Outlook83548
 
 ---
 

@@ -3,13 +3,11 @@ title: "Twitter Should Move Away from Ruby"
 date: 2009-04-10 11:41:47 +0000
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2009/04/twitter-should-move-away-from-ruby.html
 hash: 67d43cf7c5dd75878d19d9137942b875
-annum:
-    year: 2009
-    month: 04
-url-parts:
-    scheme: http
-    host: pragdave.blogs.pragprog.com
-    path: /pragdave/2009/04/twitter-should-move-away-from-ruby.html
+year: 2009
+month: 04
+scheme: http
+host: pragdave.blogs.pragprog.com
+path: /pragdave/2009/04/twitter-should-move-away-from-ruby.html
 
 ---
 

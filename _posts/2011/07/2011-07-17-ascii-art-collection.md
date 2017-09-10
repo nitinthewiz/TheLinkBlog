@@ -3,13 +3,11 @@ title: "Ascii Art Collection"
 date: 2011-07-17 04:30:33 +0000
 external-url: http://www.ascii-art.de/ascii/
 hash: 35bdd0a14c28005f94aa341eac31d83c
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.ascii-art.de
-    path: /ascii/
+year: 2011
+month: 07
+scheme: http
+host: www.ascii-art.de
+path: /ascii/
 
 ---
 

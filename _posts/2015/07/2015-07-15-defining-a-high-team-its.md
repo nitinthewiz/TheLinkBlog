@@ -3,13 +3,11 @@ title: "Defining a High Performance Team: It’s not just about Structure"
 date: 2015-07-15 02:44:01 +0000
 external-url: https://medium.com/we-build-vend/defining-a-high-performance-team-it-s-not-just-about-structure-9417150b659d
 hash: 00c116676a15f383235c39fe7038a91b
-annum:
-    year: 2015
-    month: 07
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /we-build-vend/defining-a-high-performance-team-it-s-not-just-about-structure-9417150b659d
+year: 2015
+month: 07
+scheme: https
+host: medium.com
+path: /we-build-vend/defining-a-high-performance-team-it-s-not-just-about-structure-9417150b659d
 
 ---
 

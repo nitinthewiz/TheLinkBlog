@@ -3,13 +3,11 @@ title: "Market Segmentation and My Minneapolis iPhone Programming Class On June 
 date: 2009-05-21 04:33:17 +0000
 external-url: http://www.unpossible.com/2009/05/19/market-segmentation-and-my-minneapolis-iphone-programming-class-on-june-13-14/
 hash: 8ad2bb4e95f3c53e6ec77ebe8ab3dfba
-annum:
-    year: 2009
-    month: 05
-url-parts:
-    scheme: http
-    host: www.unpossible.com
-    path: /2009/05/19/market-segmentation-and-my-minneapolis-iphone-programming-class-on-june-13-14/
+year: 2009
+month: 05
+scheme: http
+host: www.unpossible.com
+path: /2009/05/19/market-segmentation-and-my-minneapolis-iphone-programming-class-on-june-13-14/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Customer Proprietary Network Information (CPNI) Restriction Request"
 date: 2012-07-13 03:01:42 +0000
 external-url: https://www.att.com/ecpnioptout/InitiateCPNIForm.action
 hash: 104e4cfbde3c694fc946bee76b2823da
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: https
-    host: www.att.com
-    path: /ecpnioptout/InitiateCPNIForm.action
+year: 2012
+month: 07
+scheme: https
+host: www.att.com
+path: /ecpnioptout/InitiateCPNIForm.action
 
 ---
 

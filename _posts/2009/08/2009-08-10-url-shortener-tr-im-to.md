@@ -3,13 +3,11 @@ title: "URL Shortener tr.im to Discontinue Service"
 date: 2009-08-10 16:01:38 +0000
 external-url: http://tr.im/
 hash: d8fb52c487c397c5ac2d1ee709f17e11
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: tr.im
-    path: /
+year: 2009
+month: 08
+scheme: http
+host: tr.im
+path: /
 
 ---
 

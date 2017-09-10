@@ -3,13 +3,11 @@ title: "Play Wordy Birdie on Twitter"
 date: 2008-02-29 21:14:00 +0000
 external-url: http://blog.twitter.com/2008/02/play-wordy-birdie-on-twitter.html
 hash: d6b2be431fba6a9277b6c5bb7878e3ab
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.twitter.com
-    path: /2008/02/play-wordy-birdie-on-twitter.html
+year: 2008
+month: 02
+scheme: http
+host: blog.twitter.com
+path: /2008/02/play-wordy-birdie-on-twitter.html
 
 ---
 

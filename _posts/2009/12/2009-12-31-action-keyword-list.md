@@ -3,13 +3,11 @@ title: "Action Keyword List"
 date: 2009-12-31 06:10:32 +0000
 external-url: http://www.pixiq.com/article/action-keyword-list
 hash: 5aad00c89c45e5cc8be4696d4bff6cc9
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: www.pixiq.com
-    path: /article/action-keyword-list
+year: 2009
+month: 12
+scheme: http
+host: www.pixiq.com
+path: /article/action-keyword-list
 
 ---
 

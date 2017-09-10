@@ -3,13 +3,11 @@ title: "Tease! Tease! Tease!"
 date: 2009-09-08 02:53:11 +0000
 external-url: http://www.scripting.com/stories/2009/09/07/teaseTeaseTease.html
 hash: 7da007dbb84f7ff415c664553a0e9edb
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: www.scripting.com
-    path: /stories/2009/09/07/teaseTeaseTease.html
+year: 2009
+month: 09
+scheme: http
+host: www.scripting.com
+path: /stories/2009/09/07/teaseTeaseTease.html
 
 ---
 

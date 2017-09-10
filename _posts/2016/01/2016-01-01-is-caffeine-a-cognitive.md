@@ -3,13 +3,11 @@ title: "Is Caffeine a Cognitive Enhancer?"
 date: 2016-01-01 12:46:12 +0000
 external-url: https://www.gwern.net/docs/nootropics/2010-nehlig.pdf
 hash: 5658b7b76739fb6bddbcf306d74bdacf
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: https
-    host: www.gwern.net
-    path: /docs/nootropics/2010-nehlig.pdf
+year: 2016
+month: 01
+scheme: https
+host: www.gwern.net
+path: /docs/nootropics/2010-nehlig.pdf
 
 ---
 

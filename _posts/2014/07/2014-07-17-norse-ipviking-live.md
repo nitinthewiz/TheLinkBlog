@@ -3,13 +3,11 @@ title: "Norse IPViking Live"
 date: 2014-07-17 20:39:29 +0000
 external-url: http://map.ipviking.com/
 hash: a9217ed0f19b17b60b6b573cafcf17d5
-annum:
-    year: 2014
-    month: 07
-url-parts:
-    scheme: http
-    host: map.ipviking.com
-    path: /
+year: 2014
+month: 07
+scheme: http
+host: map.ipviking.com
+path: /
 
 ---
 

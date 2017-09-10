@@ -3,13 +3,11 @@ title: "Poetic Table of the Elements: A Periodic Table of Poetry"
 date: 2008-02-09 12:06:12 +0000
 external-url: http://www.everypoet.com/absurdities/elements/
 hash: d3f942b572b72bb238de57fe85e73bd2
-annum:
-    year: 2008
-    month: 02
-url-parts:
-    scheme: http
-    host: www.everypoet.com
-    path: /absurdities/elements/
+year: 2008
+month: 02
+scheme: http
+host: www.everypoet.com
+path: /absurdities/elements/
 
 ---
 

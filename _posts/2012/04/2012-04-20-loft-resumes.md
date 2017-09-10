@@ -3,13 +3,11 @@ title: "Loft Resumes"
 date: 2012-04-20 02:35:48 +0000
 external-url: http://loftresumes.com/
 hash: 1d10c76158e89260048686c44eeb6d3c
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: loftresumes.com
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: loftresumes.com
+path: /
 
 ---
 

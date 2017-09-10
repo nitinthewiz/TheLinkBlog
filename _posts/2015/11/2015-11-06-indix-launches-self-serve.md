@@ -3,13 +3,11 @@ title: "Indix Launches Self-Serve Access to Product API"
 date: 2015-11-06 12:23:44 +0000
 external-url: http://www.prnewswire.com/news-releases/indix-launches-self-serve-access-to-product-api-300171143.html
 hash: c7d8beab2a833a410bf2a9e025ba3638
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: http
-    host: www.prnewswire.com
-    path: /news-releases/indix-launches-self-serve-access-to-product-api-300171143.html
+year: 2015
+month: 11
+scheme: http
+host: www.prnewswire.com
+path: /news-releases/indix-launches-self-serve-access-to-product-api-300171143.html
 
 ---
 

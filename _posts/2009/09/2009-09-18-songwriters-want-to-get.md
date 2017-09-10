@@ -3,13 +3,11 @@ title: "Songwriters want to get paid for 30-second song previews"
 date: 2009-09-18 05:49:33 +0000
 external-url: http://arstechnica.com/apple/news/2009/09/songwriters-want-to-get-paid-for-30-second-song-previews.ars
 hash: 016f0b56fd317b4cdbc1e30d89a0b1bd
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: arstechnica.com
-    path: /apple/news/2009/09/songwriters-want-to-get-paid-for-30-second-song-previews.ars
+year: 2009
+month: 09
+scheme: http
+host: arstechnica.com
+path: /apple/news/2009/09/songwriters-want-to-get-paid-for-30-second-song-previews.ars
 
 ---
 

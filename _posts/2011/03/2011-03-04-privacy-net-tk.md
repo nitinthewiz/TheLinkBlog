@@ -3,13 +3,11 @@ title: "privacy-net.tk"
 date: 2011-03-04 19:46:30 +0000
 external-url: http://www.privacy-net.tk/
 hash: 698528d0b24b9cbc6f268e367c2deb2b
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: www.privacy-net.tk
-    path: /
+year: 2011
+month: 03
+scheme: http
+host: www.privacy-net.tk
+path: /
 
 ---
 

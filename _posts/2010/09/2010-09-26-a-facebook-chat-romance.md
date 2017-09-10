@@ -3,13 +3,11 @@ title: "A Facebook Chat Romance That Wasnt"
 date: 2010-09-26 18:50:33 +0000
 external-url: http://allfacebook.com/watch-a-facebook-chat-romance-that-wasnt_b19407
 hash: 2faad3a929fdc6c70af583733b0ec839
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: allfacebook.com
-    path: /watch-a-facebook-chat-romance-that-wasnt_b19407
+year: 2010
+month: 09
+scheme: http
+host: allfacebook.com
+path: /watch-a-facebook-chat-romance-that-wasnt_b19407
 
 ---
 

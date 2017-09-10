@@ -3,13 +3,11 @@ title: "Official Adobe Statment on version 1.4"
 date: 2008-03-17 01:10:00 +0000
 external-url: http://lightroom-blog.com/2008/03/17/official-adobe-statment-on-version-1-4/
 hash: b8f613376cff1c9a84bf2f36c48fa69f
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: lightroom-blog.com
-    path: /2008/03/17/official-adobe-statment-on-version-1-4/
+year: 2008
+month: 03
+scheme: http
+host: lightroom-blog.com
+path: /2008/03/17/official-adobe-statment-on-version-1-4/
 
 ---
 

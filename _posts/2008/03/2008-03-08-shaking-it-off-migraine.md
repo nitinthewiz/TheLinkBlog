@@ -3,13 +3,11 @@ title: "Shaking It Off - Migraine - Opinion Blog"
 date: 2008-03-08 22:46:29 +0000
 external-url: http://migraine.blogs.nytimes.com/2008/03/05/shaking-it-off/
 hash: 8a12bac94dbe8154f97bf308d3ab3e6f
-annum:
-    year: 2008
-    month: 03
-url-parts:
-    scheme: http
-    host: migraine.blogs.nytimes.com
-    path: /2008/03/05/shaking-it-off/
+year: 2008
+month: 03
+scheme: http
+host: migraine.blogs.nytimes.com
+path: /2008/03/05/shaking-it-off/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Shit That Siri Says"
 date: 2011-10-14 14:43:36 +0000
 external-url: http://shitthatsirisays.tumblr.com/
 hash: 4df0453105aa7e3762c8190ccf41c47f
-annum:
-    year: 2011
-    month: 10
-url-parts:
-    scheme: http
-    host: shitthatsirisays.tumblr.com
-    path: /
+year: 2011
+month: 10
+scheme: http
+host: shitthatsirisays.tumblr.com
+path: /
 
 ---
 

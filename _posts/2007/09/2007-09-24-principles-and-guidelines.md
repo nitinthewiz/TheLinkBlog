@@ -3,13 +3,11 @@ title: "Principles and Guidelines for the Modern Photowalker"
 date: 2007-09-24 18:38:31 +0000
 external-url: http://thomashawk.com/2007/09/principles-and-guidelines-for-modern.html
 hash: 15d1506bdd1b86c783f1330c02e3f56d
-annum:
-    year: 2007
-    month: 09
-url-parts:
-    scheme: http
-    host: thomashawk.com
-    path: /2007/09/principles-and-guidelines-for-modern.html
+year: 2007
+month: 09
+scheme: http
+host: thomashawk.com
+path: /2007/09/principles-and-guidelines-for-modern.html
 
 ---
 

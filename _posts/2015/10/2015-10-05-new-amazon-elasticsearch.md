@@ -3,13 +3,11 @@ title: "New – Amazon Elasticsearch Service | AWS Official Blog"
 date: 2015-10-05 01:43:35 +0000
 external-url: https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
 hash: c8a442df75fea61df1e76d81e5f02447
-annum:
-    year: 2015
-    month: 10
-url-parts:
-    scheme: https
-    host: aws.amazon.com
-    path: /blogs/aws/new-amazon-elasticsearch-service/
+year: 2015
+month: 10
+scheme: https
+host: aws.amazon.com
+path: /blogs/aws/new-amazon-elasticsearch-service/
 
 ---
 

@@ -3,13 +3,11 @@ title: "A very handy 1Password tip"
 date: 2012-02-14 20:32:19 +0000
 external-url: http://www.tuaw.com/2012/02/14/a-very-handy-1password-tip/
 hash: 1b234333001f3cd500531293c3792543
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: www.tuaw.com
-    path: /2012/02/14/a-very-handy-1password-tip/
+year: 2012
+month: 02
+scheme: http
+host: www.tuaw.com
+path: /2012/02/14/a-very-handy-1password-tip/
 
 ---
 

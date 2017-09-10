@@ -3,13 +3,11 @@ title: "Anchorage By Winter"
 date: 2012-07-23 02:16:46 +0000
 external-url: http://vimeo.com/45105667
 hash: ad280305dc1d4c91f7b49eb0c49077f7
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: vimeo.com
-    path: /45105667
+year: 2012
+month: 07
+scheme: http
+host: vimeo.com
+path: /45105667
 
 ---
 

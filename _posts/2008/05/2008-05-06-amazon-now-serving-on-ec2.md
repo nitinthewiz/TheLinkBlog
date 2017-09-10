@@ -3,13 +3,11 @@ title: "Amazon Now Serving OpenSolaris on EC2"
 date: 2008-05-06 03:36:38 +0000
 external-url: http://gigaom.com/2008/05/05/amazon-opensolaris-on-ec2/
 hash: 9498cad9331d65b926e8d2b51197a3f7
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/05/05/amazon-opensolaris-on-ec2/
+year: 2008
+month: 05
+scheme: http
+host: gigaom.com
+path: /2008/05/05/amazon-opensolaris-on-ec2/
 
 ---
 

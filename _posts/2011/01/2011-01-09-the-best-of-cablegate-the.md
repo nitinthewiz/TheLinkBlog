@@ -3,13 +3,11 @@ title: "The Best of Cablegate: Instances Where Public Discourse Benefited from t
 date: 2011-01-09 00:37:44 +0000
 external-url: https://www.eff.org/deeplinks/2011/01/cablegate-disclosures-have-furthered-investigative
 hash: 5760c2b20ee8cc30480274cda16919c4
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2011/01/cablegate-disclosures-have-furthered-investigative
+year: 2011
+month: 01
+scheme: https
+host: www.eff.org
+path: /deeplinks/2011/01/cablegate-disclosures-have-furthered-investigative
 
 ---
 

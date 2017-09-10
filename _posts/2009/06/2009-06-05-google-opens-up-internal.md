@@ -3,13 +3,11 @@ title: "Google Opens Up Internal Speed Tool To Developers"
 date: 2009-06-05 04:05:08 +0000
 external-url: http://techcrunch.com/2009/06/04/google-opens-up-internal-speed-tool-to-the-public/
 hash: 510512331e738587c7c5ebb6b93dd98d
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: techcrunch.com
-    path: /2009/06/04/google-opens-up-internal-speed-tool-to-the-public/
+year: 2009
+month: 06
+scheme: http
+host: techcrunch.com
+path: /2009/06/04/google-opens-up-internal-speed-tool-to-the-public/
 
 ---
 

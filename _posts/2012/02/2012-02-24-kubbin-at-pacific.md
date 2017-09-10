@@ -3,13 +3,11 @@ title: "Kubbin’ at Pacific Wonderland Woodworks"
 date: 2012-02-24 01:41:14 +0000
 external-url: http://pacificwonderland.wordpress.com/2011/11/10/kubbin/
 hash: a2bb3cb80ca292985bfa62e0dda46e16
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: pacificwonderland.wordpress.com
-    path: /2011/11/10/kubbin/
+year: 2012
+month: 02
+scheme: http
+host: pacificwonderland.wordpress.com
+path: /2011/11/10/kubbin/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Why major creative breakthroughs happen in your late thirties Quartz"
 date: 2014-02-18 01:31:32 +0000
 external-url: http://qz.com/177694/why-major-creative-breakthroughs-happen-in-your-late-thirties/
 hash: 3e91c634cb731118d4fd94ce3d167757
-annum:
-    year: 2014
-    month: 02
-url-parts:
-    scheme: http
-    host: qz.com
-    path: /177694/why-major-creative-breakthroughs-happen-in-your-late-thirties/
+year: 2014
+month: 02
+scheme: http
+host: qz.com
+path: /177694/why-major-creative-breakthroughs-happen-in-your-late-thirties/
 
 ---
 

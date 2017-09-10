@@ -3,13 +3,11 @@ title: "An Email Charter"
 date: 2011-07-01 03:38:40 +0000
 external-url: http://emailcharter.org/
 hash: 364a4e93a77dbbd95c779b91475c430c
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: emailcharter.org
-    path: /
+year: 2011
+month: 07
+scheme: http
+host: emailcharter.org
+path: /
 
 ---
 

@@ -3,13 +3,11 @@ title: "Cloud Data Protection Solution"
 date: 2012-05-09 18:03:31 +0000
 external-url: http://www.web7.creativebasic.com/Default.aspx
 hash: fd250dbca84bfa541f3d41e1cf40737d
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: www.web7.creativebasic.com
-    path: /Default.aspx
+year: 2012
+month: 05
+scheme: http
+host: www.web7.creativebasic.com
+path: /Default.aspx
 
 ---
 

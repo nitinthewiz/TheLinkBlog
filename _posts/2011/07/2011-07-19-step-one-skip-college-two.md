@@ -3,13 +3,11 @@ title: "Step one: skip college. Step two: launch a tech startup"
 date: 2011-07-19 00:36:08 +0000
 external-url: http://tech.mn/news/2011/07/18/syncmyad-nathan-reimnitz/
 hash: 1444a2b73fc579526a24ff650702dcac
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: tech.mn
-    path: /news/2011/07/18/syncmyad-nathan-reimnitz/
+year: 2011
+month: 07
+scheme: http
+host: tech.mn
+path: /news/2011/07/18/syncmyad-nathan-reimnitz/
 
 ---
 

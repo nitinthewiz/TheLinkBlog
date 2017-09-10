@@ -3,13 +3,11 @@ title: "Marketers like that you Like"
 date: 2010-11-29 21:34:40 +0000
 external-url: http://www.marketplace.org/topics/tech/marketers-you
 hash: 411d2765cd5848716bbd4aa45f6917f3
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.marketplace.org
-    path: /topics/tech/marketers-you
+year: 2010
+month: 11
+scheme: http
+host: www.marketplace.org
+path: /topics/tech/marketers-you
 
 ---
 

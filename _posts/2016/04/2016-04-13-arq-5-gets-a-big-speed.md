@@ -3,13 +3,11 @@ title: "Arq 5 gets a big speed boost"
 date: 2016-04-13 03:57:39 +0000
 external-url: http://brettterpstra.com/2016/04/12/arq-5-gets-a-big-speed-boost/
 hash: d22f036d676b9fceff0c242f62137bd7
-annum:
-    year: 2016
-    month: 04
-url-parts:
-    scheme: http
-    host: brettterpstra.com
-    path: /2016/04/12/arq-5-gets-a-big-speed-boost/
+year: 2016
+month: 04
+scheme: http
+host: brettterpstra.com
+path: /2016/04/12/arq-5-gets-a-big-speed-boost/
 
 ---
 

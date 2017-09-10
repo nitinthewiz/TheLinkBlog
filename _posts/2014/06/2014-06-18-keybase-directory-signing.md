@@ -3,13 +3,11 @@ title: "Keybase directory signing"
 date: 2014-06-18 12:27:33 +0000
 external-url: https://keybase.io/docs/command_line/code_signing
 hash: 16b79fcb9a7d5d1021d30954301f31eb
-annum:
-    year: 2014
-    month: 06
-url-parts:
-    scheme: https
-    host: keybase.io
-    path: /docs/command_line/code_signing
+year: 2014
+month: 06
+scheme: https
+host: keybase.io
+path: /docs/command_line/code_signing
 
 ---
 

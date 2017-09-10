@@ -3,13 +3,11 @@ title: "Modern Microprocessors - A 90 Minute Guide!"
 date: 2011-04-12 03:58:23 +0000
 external-url: http://www.lighterra.com/papers/modernmicroprocessors/
 hash: 9f5dd06cdfcf5d725bebd88242e903da
-annum:
-    year: 2011
-    month: 04
-url-parts:
-    scheme: http
-    host: www.lighterra.com
-    path: /papers/modernmicroprocessors/
+year: 2011
+month: 04
+scheme: http
+host: www.lighterra.com
+path: /papers/modernmicroprocessors/
 
 ---
 

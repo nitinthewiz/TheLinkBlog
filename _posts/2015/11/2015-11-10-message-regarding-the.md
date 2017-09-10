@@ -3,13 +3,11 @@ title: "Message Regarding the ProtonMail DDoS Attacks - ProtonMail Blog"
 date: 2015-11-10 16:16:33 +0000
 external-url: https://protonmail.com/blog/protonmail-ddos-attacks/
 hash: 5f10a61c47b89fb9c0e0a9180f4e6203
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: protonmail.com
-    path: /blog/protonmail-ddos-attacks/
+year: 2015
+month: 11
+scheme: https
+host: protonmail.com
+path: /blog/protonmail-ddos-attacks/
 
 ---
 

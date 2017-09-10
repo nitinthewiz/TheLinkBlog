@@ -3,13 +3,11 @@ title: "4 Ways to Roll Your Own Dropbox Alternative"
 date: 2011-05-04 03:39:28 +0000
 external-url: http://www.readwriteweb.com/cloud/2011/05/4-ways-to-build-your-own-dropbox.php
 hash: b9016ac3ab5a961cf1cec61af446064e
-annum:
-    year: 2011
-    month: 05
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /cloud/2011/05/4-ways-to-build-your-own-dropbox.php
+year: 2011
+month: 05
+scheme: http
+host: www.readwriteweb.com
+path: /cloud/2011/05/4-ways-to-build-your-own-dropbox.php
 
 ---
 

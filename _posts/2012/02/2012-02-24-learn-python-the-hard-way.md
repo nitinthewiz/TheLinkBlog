@@ -3,13 +3,11 @@ title: "Learn Python The Hard Way | A Beginner Programming Book"
 date: 2012-02-24 04:37:26 +0000
 external-url: http://learnpythonthehardway.org/
 hash: b1af87fd99f3b0c94fe41e479971602d
-annum:
-    year: 2012
-    month: 02
-url-parts:
-    scheme: http
-    host: learnpythonthehardway.org
-    path: /
+year: 2012
+month: 02
+scheme: http
+host: learnpythonthehardway.org
+path: /
 
 ---
 

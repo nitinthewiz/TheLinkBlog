@@ -3,13 +3,11 @@ title: "Google Buys reCAPTCHA To Aid Book Digitization"
 date: 2009-09-16 19:22:19 +0000
 external-url: http://m.paidcontent.org/article/419-google-buys-recaptcha/
 hash: acc774ebfc6435d95a3a3e5802c9e07c
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-google-buys-recaptcha/
+year: 2009
+month: 09
+scheme: http
+host: m.paidcontent.org
+path: /article/419-google-buys-recaptcha/
 
 ---
 

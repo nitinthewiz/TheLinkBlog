@@ -3,15 +3,13 @@ title: "Debt Metaphor - YouTube"
 date: 2014-08-07 18:10:19 +0000
 external-url: https://www.youtube.com/watch?v=pqeJFYwnkjE
 hash: 3df74cc3b06f9b62d6916b26b94f3bf4
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: https
-    host: www.youtube.com
-    path: /watch
-    query:
-        v: "pqeJFYwnkjE"
+year: 2014
+month: 08
+scheme: https
+host: www.youtube.com
+path: /watch
+query:
+    v: "pqeJFYwnkjE"
 ---
 
 #TechnicalDebt Metaphor explained by @WardCunningham 

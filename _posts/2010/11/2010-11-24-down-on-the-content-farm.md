@@ -3,13 +3,11 @@ title: "DOWN ON THE (CONTENT) FARM: Here's Why I Would Never Invest In Demand Me
 date: 2010-11-24 02:44:13 +0000
 external-url: http://www.businessinsider.com/demand-media-2010-11
 hash: 4004da00947607226ae70105a99bacb0
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: www.businessinsider.com
-    path: /demand-media-2010-11
+year: 2010
+month: 11
+scheme: http
+host: www.businessinsider.com
+path: /demand-media-2010-11
 
 ---
 

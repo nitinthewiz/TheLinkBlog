@@ -3,13 +3,11 @@ title: "Introducing Keybase Chat"
 date: 2017-02-09 15:58:26 +0000
 external-url: https://keybase.io/blog/keybase-chat
 hash: b9fb5e3615890337bf62cca64fd3aa30
-annum:
-    year: 2017
-    month: 02
-url-parts:
-    scheme: https
-    host: keybase.io
-    path: /blog/keybase-chat
+year: 2017
+month: 02
+scheme: https
+host: keybase.io
+path: /blog/keybase-chat
 
 ---
 

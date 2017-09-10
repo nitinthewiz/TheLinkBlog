@@ -3,13 +3,11 @@ title: "The loss of @towerbridge from a cultural point of view"
 date: 2011-06-15 09:53:24 +0000
 external-url: http://stef.io/2011/6/the-loss-of-towerbridge-from-a-cultural-point
 hash: 843443d2b2bb29683582003952663989
-annum:
-    year: 2011
-    month: 06
-url-parts:
-    scheme: http
-    host: stef.io
-    path: /2011/6/the-loss-of-towerbridge-from-a-cultural-point
+year: 2011
+month: 06
+scheme: http
+host: stef.io
+path: /2011/6/the-loss-of-towerbridge-from-a-cultural-point
 
 ---
 

@@ -3,13 +3,11 @@ title: "Cacti Scripts and Templates (Cisco Routers and Switches,Mysql,Apache,qma
 date: 2006-12-29 21:48:33 +0000
 external-url: http://www.debianhelp.co.uk/cactitemplates.htm
 hash: cfcf78ab437b11bdc3c9c259ecbee2f8
-annum:
-    year: 2006
-    month: 12
-url-parts:
-    scheme: http
-    host: www.debianhelp.co.uk
-    path: /cactitemplates.htm
+year: 2006
+month: 12
+scheme: http
+host: www.debianhelp.co.uk
+path: /cactitemplates.htm
 
 ---
 

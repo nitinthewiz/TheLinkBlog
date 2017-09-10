@@ -3,13 +3,11 @@ title: "Raid Battles and New Gym Features are Coming! - Pokémon GO"
 date: 2017-06-20 21:10:07 +0000
 external-url: http://pokemongolive.com/en/post/raids
 hash: 1386e97fd9595f24daca25488f07e0fd
-annum:
-    year: 2017
-    month: 06
-url-parts:
-    scheme: http
-    host: pokemongolive.com
-    path: /en/post/raids
+year: 2017
+month: 06
+scheme: http
+host: pokemongolive.com
+path: /en/post/raids
 
 ---
 

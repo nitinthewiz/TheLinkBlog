@@ -3,13 +3,11 @@ title: "A life less posted"
 date: 2012-11-05 18:03:15 +0000
 external-url: http://www.elezea.com/2012/11/a-life-less-posted/
 hash: 3270ffa7fda6af2863ce69c936f1649d
-annum:
-    year: 2012
-    month: 11
-url-parts:
-    scheme: http
-    host: www.elezea.com
-    path: /2012/11/a-life-less-posted/
+year: 2012
+month: 11
+scheme: http
+host: www.elezea.com
+path: /2012/11/a-life-less-posted/
 
 ---
 

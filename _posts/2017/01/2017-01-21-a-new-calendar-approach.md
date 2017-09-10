@@ -3,13 +3,11 @@ title: "A new calendar approach for 2017 – Medium"
 date: 2017-01-21 05:11:22 +0000
 external-url: https://medium.com/@danielmall/a-new-calendar-approach-for-2017-dd91a0314c26#.gg1d0dlx9
 hash: 4f46999418974256fc2062b435808a2a
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: medium.com
-    path: /@danielmall/a-new-calendar-approach-for-2017-dd91a0314c26
+year: 2017
+month: 01
+scheme: https
+host: medium.com
+path: /@danielmall/a-new-calendar-approach-for-2017-dd91a0314c26
 
 ---
 

@@ -3,13 +3,11 @@ title: "Slyce-The Want Engine-Acquires Mobile App Agency Drivetrain; Appoints Pr
 date: 2014-10-23 14:49:38 +0000
 external-url: http://www.marketwired.com/press-release/slyce-the-want-engine-acquires-mobile-app-agency-drivetrain-appoints-prominent-cto-drive-tsx-venture-slc-1959422.htm
 hash: 7c4f2215d693b345736598889886ec5a
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: www.marketwired.com
-    path: /press-release/slyce-the-want-engine-acquires-mobile-app-agency-drivetrain-appoints-prominent-cto-drive-tsx-venture-slc-1959422.htm
+year: 2014
+month: 10
+scheme: http
+host: www.marketwired.com
+path: /press-release/slyce-the-want-engine-acquires-mobile-app-agency-drivetrain-appoints-prominent-cto-drive-tsx-venture-slc-1959422.htm
 
 ---
 

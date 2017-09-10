@@ -3,13 +3,11 @@ title: "Four New Types of CIO for the Future"
 date: 2011-03-04 01:15:09 +0000
 external-url: http://readwrite.com/2011/03/03/four-new-types-of-cio-for-the
 hash: 081db221527ac4427e0dae769861956f
-annum:
-    year: 2011
-    month: 03
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2011/03/03/four-new-types-of-cio-for-the
+year: 2011
+month: 03
+scheme: http
+host: readwrite.com
+path: /2011/03/03/four-new-types-of-cio-for-the
 
 ---
 

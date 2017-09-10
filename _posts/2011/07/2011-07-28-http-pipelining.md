@@ -3,13 +3,11 @@ title: "HTTP Pipelining"
 date: 2011-07-28 08:20:50 +0000
 external-url: http://www.blaze.io/mobile/http-pipelining-big-in-mobile/
 hash: e3a0c2f66cb702cc19921c1f0cd8ce9e
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: www.blaze.io
-    path: /mobile/http-pipelining-big-in-mobile/
+year: 2011
+month: 07
+scheme: http
+host: www.blaze.io
+path: /mobile/http-pipelining-big-in-mobile/
 
 ---
 

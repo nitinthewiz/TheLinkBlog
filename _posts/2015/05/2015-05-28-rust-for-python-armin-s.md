@@ -3,13 +3,11 @@ title: "Rust for Python Programmers | Armin Ronacher's Thoughts and Writings"
 date: 2015-05-28 03:46:33 +0000
 external-url: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 hash: 9d28baef79b0f98f1e6d2663a29c7dbe
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: lucumr.pocoo.org
-    path: /2015/5/27/rust-for-pythonistas/
+year: 2015
+month: 05
+scheme: http
+host: lucumr.pocoo.org
+path: /2015/5/27/rust-for-pythonistas/
 
 ---
 

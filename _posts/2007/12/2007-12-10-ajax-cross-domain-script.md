@@ -3,13 +3,11 @@ title: "Ajax Cross Domain Script"
 date: 2007-12-10 11:16:12 +0000
 external-url: http://ajaxian.com/archives/ajax-cross-domain-script
 hash: 4deb3c466565541a84b6795c5e05b8c0
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: ajaxian.com
-    path: /archives/ajax-cross-domain-script
+year: 2007
+month: 12
+scheme: http
+host: ajaxian.com
+path: /archives/ajax-cross-domain-script
 
 ---
 

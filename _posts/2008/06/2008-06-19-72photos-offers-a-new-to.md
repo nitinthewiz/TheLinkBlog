@@ -3,13 +3,11 @@ title: "72Photos Offers a New, Sleek Alternative to Flickr"
 date: 2008-06-19 19:58:36 +0000
 external-url: http://readwrite.com/2008/06/19/72photos_offers_a_new_sleek_flickr_alternative
 hash: 9be159c0e23f461cec06e2a800f6f273
-annum:
-    year: 2008
-    month: 06
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2008/06/19/72photos_offers_a_new_sleek_flickr_alternative
+year: 2008
+month: 06
+scheme: http
+host: readwrite.com
+path: /2008/06/19/72photos_offers_a_new_sleek_flickr_alternative
 
 ---
 

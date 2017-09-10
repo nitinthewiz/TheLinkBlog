@@ -3,13 +3,11 @@ title: "Web 2.0, Please Meet Your Host, the Internet"
 date: 2008-05-07 12:55:14 +0000
 external-url: http://gigaom.com/2008/05/07/web-20-please-meet-your-host-the-internet/
 hash: b0b2ef5c6c05f49602f72dc075dc33f5
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2008/05/07/web-20-please-meet-your-host-the-internet/
+year: 2008
+month: 05
+scheme: http
+host: gigaom.com
+path: /2008/05/07/web-20-please-meet-your-host-the-internet/
 
 ---
 

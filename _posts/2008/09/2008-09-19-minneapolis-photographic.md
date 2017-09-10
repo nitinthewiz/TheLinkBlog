@@ -3,13 +3,11 @@ title: "Minneapolis Photographic Society - Welcome"
 date: 2008-09-19 15:43:33 +0000
 external-url: http://www.mplsphoto.com/mps/site/index.php
 hash: e80aad41989f81061748fed10b43c4ae
-annum:
-    year: 2008
-    month: 09
-url-parts:
-    scheme: http
-    host: www.mplsphoto.com
-    path: /mps/site/index.php
+year: 2008
+month: 09
+scheme: http
+host: www.mplsphoto.com
+path: /mps/site/index.php
 
 ---
 

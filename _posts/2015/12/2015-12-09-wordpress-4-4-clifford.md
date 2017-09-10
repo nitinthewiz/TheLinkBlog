@@ -3,13 +3,11 @@ title: "WordPress 4.4 “Clifford”"
 date: 2015-12-09 06:30:02 +0000
 external-url: https://wordpress.org/news/2015/12/clifford/
 hash: 02ec76da0e1f36cc154627ce193cf11d
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: wordpress.org
-    path: /news/2015/12/clifford/
+year: 2015
+month: 12
+scheme: https
+host: wordpress.org
+path: /news/2015/12/clifford/
 
 ---
 

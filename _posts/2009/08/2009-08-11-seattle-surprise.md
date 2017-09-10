@@ -3,13 +3,11 @@ title: "Seattle Surprise"
 date: 2009-08-11 03:29:01 +0000
 external-url: http://newspaperdeathwatch.com/seattle-surprise-2.html
 hash: 32fdd1c05cd5719183d24159260ac0f5
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: newspaperdeathwatch.com
-    path: /seattle-surprise-2.html
+year: 2009
+month: 08
+scheme: http
+host: newspaperdeathwatch.com
+path: /seattle-surprise-2.html
 
 ---
 

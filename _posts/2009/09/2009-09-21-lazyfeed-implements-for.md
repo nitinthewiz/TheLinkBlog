@@ -3,13 +3,11 @@ title: "Lazyfeed Implements RSSCloud/PubSubHubBub for \"Real Real Time\""
 date: 2009-09-21 03:35:57 +0000
 external-url: http://www.readwriteweb.com/start/2009/09/lazyfeed-implements-rsscloudpu.php
 hash: 5255bb5dd41c4704b72686245792429f
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: www.readwriteweb.com
-    path: /start/2009/09/lazyfeed-implements-rsscloudpu.php
+year: 2009
+month: 09
+scheme: http
+host: www.readwriteweb.com
+path: /start/2009/09/lazyfeed-implements-rsscloudpu.php
 
 ---
 

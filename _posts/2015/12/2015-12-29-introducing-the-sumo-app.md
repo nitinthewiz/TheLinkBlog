@@ -3,13 +3,11 @@ title: "Introducing the Sumo Logic App for AWS Config"
 date: 2015-12-29 03:23:37 +0000
 external-url: https://www.sumologic.com/2015/12/22/introducing-the-sumo-logic-app-for-aws-config/
 hash: 0e276f1a09be6665a3891b2382da4f04
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: www.sumologic.com
-    path: /2015/12/22/introducing-the-sumo-logic-app-for-aws-config/
+year: 2015
+month: 12
+scheme: https
+host: www.sumologic.com
+path: /2015/12/22/introducing-the-sumo-logic-app-for-aws-config/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Learn from social media | EventBurn"
 date: 2010-10-21 18:16:41 +0000
 external-url: http://www.eventburn.com
 hash: aeaacffe4a7c7da75d9f413e7c7cb493
-annum:
-    year: 2010
-    month: 10
-url-parts:
-    scheme: http
-    host: www.eventburn.com
-    path: 
+year: 2010
+month: 10
+scheme: http
+host: www.eventburn.com
+path: 
 
 ---
 

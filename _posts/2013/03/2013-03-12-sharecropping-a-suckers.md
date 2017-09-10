@@ -3,13 +3,11 @@ title: "Sharecropping: A Suckers Game Then and Now"
 date: 2013-03-12 16:20:32 +0000
 external-url: http://www.mediaorchard.com/2013/02/sharecropping-a-suckers-game-then-and-now/
 hash: 0a5288e0605a1fbe88f225f1b1678fbd
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: www.mediaorchard.com
-    path: /2013/02/sharecropping-a-suckers-game-then-and-now/
+year: 2013
+month: 03
+scheme: http
+host: www.mediaorchard.com
+path: /2013/02/sharecropping-a-suckers-game-then-and-now/
 
 ---
 

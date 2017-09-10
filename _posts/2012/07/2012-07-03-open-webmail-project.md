@@ -3,13 +3,11 @@ title: "Open WebMail Project"
 date: 2012-07-03 21:53:01 +0000
 external-url: http://openwebmail.org/
 hash: 86eae7bfa88a03ab87ba167871370a13
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: http
-    host: openwebmail.org
-    path: /
+year: 2012
+month: 07
+scheme: http
+host: openwebmail.org
+path: /
 
 ---
 

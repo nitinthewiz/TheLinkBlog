@@ -3,13 +3,11 @@ title: "MinneBar Officially Full"
 date: 2009-11-05 04:14:51 +0000
 external-url: http://minnestar.org/2009/11/minnebar-officially-full/
 hash: f7478358448fc4d24f2d9352c80f43a7
-annum:
-    year: 2009
-    month: 11
-url-parts:
-    scheme: http
-    host: minnestar.org
-    path: /2009/11/minnebar-officially-full/
+year: 2009
+month: 11
+scheme: http
+host: minnestar.org
+path: /2009/11/minnebar-officially-full/
 
 ---
 

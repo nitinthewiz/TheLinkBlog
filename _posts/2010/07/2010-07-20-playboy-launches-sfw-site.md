@@ -3,13 +3,11 @@ title: "Playboy Launches SFW Site TheSmokingJacket"
 date: 2010-07-20 16:25:46 +0000
 external-url: http://gigaom.com/2010/07/20/419-playboy-launches-sfw-site-thesmokingjacket/
 hash: d5333d0ba05a55e617863fd1f3637123
-annum:
-    year: 2010
-    month: 07
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2010/07/20/419-playboy-launches-sfw-site-thesmokingjacket/
+year: 2010
+month: 07
+scheme: http
+host: gigaom.com
+path: /2010/07/20/419-playboy-launches-sfw-site-thesmokingjacket/
 
 ---
 

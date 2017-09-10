@@ -3,13 +3,11 @@ title: "Mybrainhavoc"
 date: 2012-04-19 04:13:51 +0000
 external-url: http://mybrainhavoc.wordpress.com/
 hash: 4c3e5fe603437280d8e12df03d183c0d
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: mybrainhavoc.wordpress.com
-    path: /
+year: 2012
+month: 04
+scheme: http
+host: mybrainhavoc.wordpress.com
+path: /
 
 ---
 

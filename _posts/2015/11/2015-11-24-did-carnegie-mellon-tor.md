@@ -3,13 +3,11 @@ title: "Did Carnegie Mellon Attack Tor for the FBI? - Schneier on Security"
 date: 2015-11-24 12:33:00 +0000
 external-url: https://www.schneier.com/blog/archives/2015/11/did_carnegie-me.html
 hash: d4128089f9307e4fbf39c2ccc7f79707
-annum:
-    year: 2015
-    month: 11
-url-parts:
-    scheme: https
-    host: www.schneier.com
-    path: /blog/archives/2015/11/did_carnegie-me.html
+year: 2015
+month: 11
+scheme: https
+host: www.schneier.com
+path: /blog/archives/2015/11/did_carnegie-me.html
 
 ---
 

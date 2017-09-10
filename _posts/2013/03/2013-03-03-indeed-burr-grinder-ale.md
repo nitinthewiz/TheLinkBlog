@@ -3,13 +3,11 @@ title: "Indeed Burr Grinder Coffee Ale Release"
 date: 2013-03-03 02:34:23 +0000
 external-url: http://mnbeer.com/2013/02/28/indeed-burr-grider-coffee-ale-release/
 hash: 0716998e789e721a4b5ce5b2de9c49d5
-annum:
-    year: 2013
-    month: 03
-url-parts:
-    scheme: http
-    host: mnbeer.com
-    path: /2013/02/28/indeed-burr-grider-coffee-ale-release/
+year: 2013
+month: 03
+scheme: http
+host: mnbeer.com
+path: /2013/02/28/indeed-burr-grider-coffee-ale-release/
 
 ---
 

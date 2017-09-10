@@ -3,13 +3,11 @@ title: "The ShadowlandLightroom Development Story"
 date: 2007-02-11 22:48:29 +0000
 external-url: http://www.photoshopnews.com/2006/01/09/the-shadowlandlightroom-development-story/
 hash: e0770c8f72f57c460fc79f0957d4f19f
-annum:
-    year: 2007
-    month: 02
-url-parts:
-    scheme: http
-    host: www.photoshopnews.com
-    path: /2006/01/09/the-shadowlandlightroom-development-story/
+year: 2007
+month: 02
+scheme: http
+host: www.photoshopnews.com
+path: /2006/01/09/the-shadowlandlightroom-development-story/
 
 ---
 

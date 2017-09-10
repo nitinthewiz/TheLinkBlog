@@ -3,13 +3,11 @@ title: "Government-created climate of fear"
 date: 2011-01-13 05:14:01 +0000
 external-url: http://www.salon.com/2011/01/10/fear_12/
 hash: 4872e5b1233c11886e850241aeaf3eb1
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: www.salon.com
-    path: /2011/01/10/fear_12/
+year: 2011
+month: 01
+scheme: http
+host: www.salon.com
+path: /2011/01/10/fear_12/
 
 ---
 

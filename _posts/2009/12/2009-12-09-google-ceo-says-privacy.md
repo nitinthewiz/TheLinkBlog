@@ -3,13 +3,11 @@ title: "Google CEO Says Privacy Worries Are For Wrongdoers"
 date: 2009-12-09 03:42:24 +0000
 external-url: http://yro.slashdot.org/story/09/12/08/0127219/google-ceo-says-privacy-worries-are-for-wrongdoers
 hash: 314193c8d8582cf2bc1de6a02b0ec0ac
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: yro.slashdot.org
-    path: /story/09/12/08/0127219/google-ceo-says-privacy-worries-are-for-wrongdoers
+year: 2009
+month: 12
+scheme: http
+host: yro.slashdot.org
+path: /story/09/12/08/0127219/google-ceo-says-privacy-worries-are-for-wrongdoers
 
 ---
 

@@ -3,13 +3,11 @@ title: "Hamburger style guide"
 date: 2009-09-19 10:10:38 +0000
 external-url: http://kottke.org/09/09/hamburger-style-guide
 hash: 8d5822787ed461baca755b60e26372ee
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: kottke.org
-    path: /09/09/hamburger-style-guide
+year: 2009
+month: 09
+scheme: http
+host: kottke.org
+path: /09/09/hamburger-style-guide
 
 ---
 

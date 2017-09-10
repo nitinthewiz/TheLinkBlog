@@ -3,13 +3,11 @@ title: "Apple's Tim Cook leads different - Fortune"
 date: 2015-03-28 02:19:31 +0000
 external-url: http://fortune.com/2015/03/26/tim-cook/
 hash: 7ea2653767c37cdfa9e45ba6c08fab16
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: fortune.com
-    path: /2015/03/26/tim-cook/
+year: 2015
+month: 03
+scheme: http
+host: fortune.com
+path: /2015/03/26/tim-cook/
 
 ---
 

@@ -3,13 +3,11 @@ title: "neveragain.tech"
 date: 2016-12-14 12:13:57 +0000
 external-url: http://neveragain.tech/
 hash: 79c09fb9d095b48be5be119894636bab
-annum:
-    year: 2016
-    month: 12
-url-parts:
-    scheme: http
-    host: neveragain.tech
-    path: /
+year: 2016
+month: 12
+scheme: http
+host: neveragain.tech
+path: /
 
 ---
 

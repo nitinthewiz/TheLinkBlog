@@ -3,13 +3,11 @@ title: "Advanced NFL Stats: Play-by-Play Data"
 date: 2013-01-04 17:55:45 +0000
 external-url: http://www.advancedfootballanalytics.com
 hash: 90f7bf4574e7a276ad2f3a355d6b38c6
-annum:
-    year: 2013
-    month: 01
-url-parts:
-    scheme: http
-    host: www.advancedfootballanalytics.com
-    path: 
+year: 2013
+month: 01
+scheme: http
+host: www.advancedfootballanalytics.com
+path: 
 
 ---
 

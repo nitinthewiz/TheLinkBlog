@@ -3,13 +3,11 @@ title: "Amazon Redshift - What You Need To Know"
 date: 2013-10-04 21:21:27 +0000
 external-url: http://dailytechnology.net/2013/08/03/redshift-what-you-need-to-know/
 hash: d123b0ba1e3f95c36910ebbe301586b6
-annum:
-    year: 2013
-    month: 10
-url-parts:
-    scheme: http
-    host: dailytechnology.net
-    path: /2013/08/03/redshift-what-you-need-to-know/
+year: 2013
+month: 10
+scheme: http
+host: dailytechnology.net
+path: /2013/08/03/redshift-what-you-need-to-know/
 
 ---
 

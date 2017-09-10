@@ -3,13 +3,11 @@ title: "Smoke-in-D\"s BBQ"
 date: 2013-06-01 21:23:44 +0000
 external-url: http://smokeindsbbq.com/
 hash: f0d483d9114de27a2277555ffa84062b
-annum:
-    year: 2013
-    month: 06
-url-parts:
-    scheme: http
-    host: smokeindsbbq.com
-    path: /
+year: 2013
+month: 06
+scheme: http
+host: smokeindsbbq.com
+path: /
 
 ---
 

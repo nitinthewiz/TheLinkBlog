@@ -3,13 +3,11 @@ title: "Get HTTPS for free!"
 date: 2015-12-05 17:31:57 +0000
 external-url: https://gethttpsforfree.com/
 hash: 46ed0ca1929eb4b843ff8f1cb27ee344
-annum:
-    year: 2015
-    month: 12
-url-parts:
-    scheme: https
-    host: gethttpsforfree.com
-    path: /
+year: 2015
+month: 12
+scheme: https
+host: gethttpsforfree.com
+path: /
 
 ---
 

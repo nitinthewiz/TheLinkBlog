@@ -3,13 +3,11 @@ title: "LasCon 2014 DevOoops"
 date: 2014-12-30 16:51:07 +0000
 external-url: http://www.slideshare.net/chrisgates/lascon-2014-devooops
 hash: 0c0b606b197383358028dec26534c3e7
-annum:
-    year: 2014
-    month: 12
-url-parts:
-    scheme: http
-    host: www.slideshare.net
-    path: /chrisgates/lascon-2014-devooops
+year: 2014
+month: 12
+scheme: http
+host: www.slideshare.net
+path: /chrisgates/lascon-2014-devooops
 
 ---
 

@@ -3,13 +3,11 @@ title: "Video: CouchDB, MongoDB, RavenDB and SimpleDB Compared"
 date: 2011-01-04 02:40:00 +0000
 external-url: http://readwrite.com/2011/01/03/video-nosql-comparison
 hash: 232bd587e65fc17f55ae93ee57c13168
-annum:
-    year: 2011
-    month: 01
-url-parts:
-    scheme: http
-    host: readwrite.com
-    path: /2011/01/03/video-nosql-comparison
+year: 2011
+month: 01
+scheme: http
+host: readwrite.com
+path: /2011/01/03/video-nosql-comparison
 
 ---
 

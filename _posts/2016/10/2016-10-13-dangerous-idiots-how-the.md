@@ -3,13 +3,11 @@ title: "Dangerous idiots: how the liberal media elite failed working-class Ameri
 date: 2016-10-13 23:31:09 +0000
 external-url: https://www.theguardian.com/media/2016/oct/13/liberal-media-bias-working-class-americans
 hash: 99b67847fb826b08f4d9fe069db97966
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: www.theguardian.com
-    path: /media/2016/oct/13/liberal-media-bias-working-class-americans
+year: 2016
+month: 10
+scheme: https
+host: www.theguardian.com
+path: /media/2016/oct/13/liberal-media-bias-working-class-americans
 
 ---
 

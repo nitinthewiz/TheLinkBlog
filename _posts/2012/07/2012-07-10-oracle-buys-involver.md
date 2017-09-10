@@ -3,13 +3,11 @@ title: "Oracle Buys Involver"
 date: 2012-07-10 19:12:57 +0000
 external-url: https://blogs.oracle.com/socialspotlight/
 hash: daa1b6ce6e729af66382a0da4837a764
-annum:
-    year: 2012
-    month: 07
-url-parts:
-    scheme: https
-    host: blogs.oracle.com
-    path: /socialspotlight/
+year: 2012
+month: 07
+scheme: https
+host: blogs.oracle.com
+path: /socialspotlight/
 
 ---
 

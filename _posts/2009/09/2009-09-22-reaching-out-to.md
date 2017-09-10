@@ -3,13 +3,11 @@ title: "Reaching out to Photographers"
 date: 2009-09-22 04:06:27 +0000
 external-url: http://blog.duncandavidson.com/2009/09/photo-community-outreach.html
 hash: fda66c953ba5eb2a507c9e4e7efde84c
-annum:
-    year: 2009
-    month: 09
-url-parts:
-    scheme: http
-    host: blog.duncandavidson.com
-    path: /2009/09/photo-community-outreach.html
+year: 2009
+month: 09
+scheme: http
+host: blog.duncandavidson.com
+path: /2009/09/photo-community-outreach.html
 
 ---
 

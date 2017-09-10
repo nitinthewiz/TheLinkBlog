@@ -3,13 +3,11 @@ title: "Did everybody see what just happened? The pendulum has swung."
 date: 2012-04-09 16:24:05 +0000
 external-url: http://blog.42floors.com/did-everybody-see-what-just-happened-the-pendulum-has-swung
 hash: 95e51c8619f41886bff15f95511837a4
-annum:
-    year: 2012
-    month: 04
-url-parts:
-    scheme: http
-    host: blog.42floors.com
-    path: /did-everybody-see-what-just-happened-the-pendulum-has-swung
+year: 2012
+month: 04
+scheme: http
+host: blog.42floors.com
+path: /did-everybody-see-what-just-happened-the-pendulum-has-swung
 
 ---
 

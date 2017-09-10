@@ -3,13 +3,11 @@ title: "DevOps: Tools Vs Culture - ActiveState"
 date: 2014-08-26 03:37:50 +0000
 external-url: http://www.activestate.com/blog/2014/08/devops-tools-vs-culture
 hash: 7d19f92a3ddd6758df19f04764352af2
-annum:
-    year: 2014
-    month: 08
-url-parts:
-    scheme: http
-    host: www.activestate.com
-    path: /blog/2014/08/devops-tools-vs-culture
+year: 2014
+month: 08
+scheme: http
+host: www.activestate.com
+path: /blog/2014/08/devops-tools-vs-culture
 
 ---
 

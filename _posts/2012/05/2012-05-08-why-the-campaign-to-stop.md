@@ -3,13 +3,11 @@ title: "Why the Campaign to Stop America's Obesity Crisis Keeps Failing"
 date: 2012-05-08 01:33:54 +0000
 external-url: http://mag.newsweek.com/2012/05/06/why-the-campaign-to-stop-america-s-obesity-crisis-keeps-failing.html
 hash: d72ae11b4107f5a71f08e1db7a1e3bf0
-annum:
-    year: 2012
-    month: 05
-url-parts:
-    scheme: http
-    host: mag.newsweek.com
-    path: /2012/05/06/why-the-campaign-to-stop-america-s-obesity-crisis-keeps-failing.html
+year: 2012
+month: 05
+scheme: http
+host: mag.newsweek.com
+path: /2012/05/06/why-the-campaign-to-stop-america-s-obesity-crisis-keeps-failing.html
 
 ---
 

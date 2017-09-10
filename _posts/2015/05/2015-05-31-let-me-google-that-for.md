@@ -3,13 +3,11 @@ title: "Let Me Google That for You - Bridget Kromhout"
 date: 2015-05-31 21:59:27 +0000
 external-url: http://bridgetkromhout.com/blog/2015/05/31/let-me-google-that-for-you/
 hash: 57612dbece6800c36344a5a0aafe6f18
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: http
-    host: bridgetkromhout.com
-    path: /blog/2015/05/31/let-me-google-that-for-you/
+year: 2015
+month: 05
+scheme: http
+host: bridgetkromhout.com
+path: /blog/2015/05/31/let-me-google-that-for-you/
 
 ---
 

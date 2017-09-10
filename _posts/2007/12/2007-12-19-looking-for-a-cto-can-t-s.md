@@ -3,13 +3,11 @@ title: "Looking for a CTO? Can't find one? Here's why"
 date: 2007-12-19 12:28:36 +0000
 external-url: http://www.thisisgoingtobebig.com/blog/2007/12/19/looking-for-a-cto-cant-find-one-heres-why.html
 hash: 34a0ef4d16552f445df563aafc8b2fd6
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.thisisgoingtobebig.com
-    path: /blog/2007/12/19/looking-for-a-cto-cant-find-one-heres-why.html
+year: 2007
+month: 12
+scheme: http
+host: www.thisisgoingtobebig.com
+path: /blog/2007/12/19/looking-for-a-cto-cant-find-one-heres-why.html
 
 ---
 

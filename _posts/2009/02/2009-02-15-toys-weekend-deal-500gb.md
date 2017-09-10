@@ -3,13 +3,11 @@ title: "Toys weekend deal: 500GB Pocket Drive, $104.99"
 date: 2009-02-15 04:42:06 +0000
 external-url: http://9to5mac.com/2009/02/14/toys-weekend-deal-500gb-pocket-drive-104-99/
 hash: 1144aaf1867e2403e19fe626051c771d
-annum:
-    year: 2009
-    month: 02
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /2009/02/14/toys-weekend-deal-500gb-pocket-drive-104-99/
+year: 2009
+month: 02
+scheme: http
+host: 9to5mac.com
+path: /2009/02/14/toys-weekend-deal-500gb-pocket-drive-104-99/
 
 ---
 

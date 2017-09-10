@@ -3,13 +3,11 @@ title: "New directions in web architecture. Again."
 date: 2010-11-16 18:00:00 +0000
 external-url: http://radar.oreilly.com/2010/11/new-directions-in-web-architec.html
 hash: c65729bb27e5e77526ae8eee4dd0e0a6
-annum:
-    year: 2010
-    month: 11
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2010/11/new-directions-in-web-architec.html
+year: 2010
+month: 11
+scheme: http
+host: radar.oreilly.com
+path: /2010/11/new-directions-in-web-architec.html
 
 ---
 

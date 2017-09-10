@@ -3,13 +3,11 @@ title: "tamperdata"
 date: 2006-11-10 20:02:44 +0000
 external-url: http://tamperdata.mozdev.org/index.html
 hash: b6deb6650b4ef702c468f1abe65dd2e8
-annum:
-    year: 2006
-    month: 11
-url-parts:
-    scheme: http
-    host: tamperdata.mozdev.org
-    path: /index.html
+year: 2006
+month: 11
+scheme: http
+host: tamperdata.mozdev.org
+path: /index.html
 
 ---
 

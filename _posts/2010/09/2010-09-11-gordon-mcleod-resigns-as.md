@@ -3,13 +3,11 @@ title: "Gordon McLeod Resigns As President, WSJ Digital"
 date: 2010-09-11 04:25:14 +0000
 external-url: http://m.paidcontent.org/article/419-gordon-mcleod-resigns-as-president-wsj-digital-network/
 hash: 373718c39925518de301bd2c8130d890
-annum:
-    year: 2010
-    month: 09
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-gordon-mcleod-resigns-as-president-wsj-digital-network/
+year: 2010
+month: 09
+scheme: http
+host: m.paidcontent.org
+path: /article/419-gordon-mcleod-resigns-as-president-wsj-digital-network/
 
 ---
 

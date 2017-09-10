@@ -3,13 +3,11 @@ title: "How Did the Originators of the Agile Manifesto Turn from Technology Lead
 date: 2016-08-30 13:52:19 +0000
 external-url: https://www.infoq.com/articles/manifesto-originators
 hash: ca1f39327ec5811dd5000e14c2a54968
-annum:
-    year: 2016
-    month: 08
-url-parts:
-    scheme: https
-    host: www.infoq.com
-    path: /articles/manifesto-originators
+year: 2016
+month: 08
+scheme: https
+host: www.infoq.com
+path: /articles/manifesto-originators
 
 ---
 

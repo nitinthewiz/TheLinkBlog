@@ -3,13 +3,11 @@ title: "Canon EOS 5D Mark II 21.1MP Digital SLR Camera Body for $2,500 + free  s
 date: 2009-06-05 01:15:40 +0000
 external-url: http://9to5mac.com/canon-5D-lowest-price
 hash: dfd2adf4ddd700075ba561665591334f
-annum:
-    year: 2009
-    month: 06
-url-parts:
-    scheme: http
-    host: 9to5mac.com
-    path: /canon-5D-lowest-price
+year: 2009
+month: 06
+scheme: http
+host: 9to5mac.com
+path: /canon-5D-lowest-price
 
 ---
 

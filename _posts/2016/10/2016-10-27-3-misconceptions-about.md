@@ -3,13 +3,11 @@ title: "3 Misconceptions About Red Teaming – RedTeam Security"
 date: 2016-10-27 20:30:34 +0000
 external-url: https://www.redteamsecure.com/3-misconceptions-about-red-teaming/
 hash: 573e978166ae1a427dc357aa3f676d80
-annum:
-    year: 2016
-    month: 10
-url-parts:
-    scheme: https
-    host: www.redteamsecure.com
-    path: /3-misconceptions-about-red-teaming/
+year: 2016
+month: 10
+scheme: https
+host: www.redteamsecure.com
+path: /3-misconceptions-about-red-teaming/
 
 ---
 

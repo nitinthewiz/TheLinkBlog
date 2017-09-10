@@ -3,13 +3,11 @@ title: "The rise of networked platforms for physical world services - O'Reilly R
 date: 2015-08-19 12:19:07 +0000
 external-url: http://radar.oreilly.com/2015/08/the-rise-of-networked-platforms-for-physical-world-services.html
 hash: bfff604a59acb6af6303fa080889738e
-annum:
-    year: 2015
-    month: 08
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2015/08/the-rise-of-networked-platforms-for-physical-world-services.html
+year: 2015
+month: 08
+scheme: http
+host: radar.oreilly.com
+path: /2015/08/the-rise-of-networked-platforms-for-physical-world-services.html
 
 ---
 

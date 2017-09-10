@@ -3,13 +3,11 @@ title: "Email is harder than you think"
 date: 2016-02-06 13:00:49 +0000
 external-url: http://blog.frontapp.com/2016/02/04/email-is-harder-than-you-thought/
 hash: dc142952a84a7741ba4bb290b51a89e4
-annum:
-    year: 2016
-    month: 02
-url-parts:
-    scheme: http
-    host: blog.frontapp.com
-    path: /2016/02/04/email-is-harder-than-you-thought/
+year: 2016
+month: 02
+scheme: http
+host: blog.frontapp.com
+path: /2016/02/04/email-is-harder-than-you-thought/
 
 ---
 

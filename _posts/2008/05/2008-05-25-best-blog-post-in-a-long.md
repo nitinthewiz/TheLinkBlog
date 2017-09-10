@@ -3,13 +3,11 @@ title: "Best Blog Post In A Long Time"
 date: 2008-05-25 16:18:52 +0000
 external-url: http://avc.blogs.com/a_vc/2008/05/best-blog-post.html
 hash: 05566b9900d9a9d6d855342413fa6101
-annum:
-    year: 2008
-    month: 05
-url-parts:
-    scheme: http
-    host: avc.blogs.com
-    path: /a_vc/2008/05/best-blog-post.html
+year: 2008
+month: 05
+scheme: http
+host: avc.blogs.com
+path: /a_vc/2008/05/best-blog-post.html
 
 ---
 

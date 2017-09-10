@@ -3,13 +3,11 @@ title: "A Dispatch from Cloud City – State of the Union 2016 – Platformonomi
 date: 2016-01-15 20:34:33 +0000
 external-url: http://www.platformonomics.com/2016/01/a-dispatch-from-cloud-city-state-of-the-union-2016/
 hash: ecb144aa749d3e2f51b978821e5a65d0
-annum:
-    year: 2016
-    month: 01
-url-parts:
-    scheme: http
-    host: www.platformonomics.com
-    path: /2016/01/a-dispatch-from-cloud-city-state-of-the-union-2016/
+year: 2016
+month: 01
+scheme: http
+host: www.platformonomics.com
+path: /2016/01/a-dispatch-from-cloud-city-state-of-the-union-2016/
 
 ---
 

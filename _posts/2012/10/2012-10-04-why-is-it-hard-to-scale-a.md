@@ -3,13 +3,11 @@ title: "Why is it hard to scale a database, in layman's terms?"
 date: 2012-10-04 02:16:01 +0000
 external-url: http://www.quora.com/Database-Systems/Why-is-it-hard-to-scale-a-database-in-layman%E2%80%99s-terms
 hash: deb8846f27b3c95436c0fb0c299657f5
-annum:
-    year: 2012
-    month: 10
-url-parts:
-    scheme: http
-    host: www.quora.com
-    path: /Database-Systems/Why-is-it-hard-to-scale-a-database-in-layman%E2%80%99s-terms
+year: 2012
+month: 10
+scheme: http
+host: www.quora.com
+path: /Database-Systems/Why-is-it-hard-to-scale-a-database-in-layman%E2%80%99s-terms
 
 ---
 

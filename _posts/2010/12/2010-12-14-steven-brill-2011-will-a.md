@@ -3,13 +3,11 @@ title: "Steven Brill: 2011 will bring ebook battles, paywall successes, and a ne
 date: 2010-12-14 02:00:12 +0000
 external-url: http://www.niemanlab.org/2010/12/steve-brill-2011-will-bring-ebook-battles-paywall-successes-and-a-new-model-for-long-form-articles/
 hash: e959dd524fc785a2e30e49b18261f09c
-annum:
-    year: 2010
-    month: 12
-url-parts:
-    scheme: http
-    host: www.niemanlab.org
-    path: /2010/12/steve-brill-2011-will-bring-ebook-battles-paywall-successes-and-a-new-model-for-long-form-articles/
+year: 2010
+month: 12
+scheme: http
+host: www.niemanlab.org
+path: /2010/12/steve-brill-2011-will-bring-ebook-battles-paywall-successes-and-a-new-model-for-long-form-articles/
 
 ---
 

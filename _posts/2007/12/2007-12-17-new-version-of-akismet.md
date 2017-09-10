@@ -3,13 +3,11 @@ title: "New Version of Akismet"
 date: 2007-12-17 16:58:19 +0000
 external-url: http://www.bloggingpro.com/archives/2007/12/17/new-version-of-akismet/
 hash: 67fbb9714ad1416dffaaa04a7afa0ff2
-annum:
-    year: 2007
-    month: 12
-url-parts:
-    scheme: http
-    host: www.bloggingpro.com
-    path: /archives/2007/12/17/new-version-of-akismet/
+year: 2007
+month: 12
+scheme: http
+host: www.bloggingpro.com
+path: /archives/2007/12/17/new-version-of-akismet/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Why PouchDB? CouchDB in the browser"
 date: 2012-03-27 17:45:10 +0000
 external-url: http://arandomurl.com/2012/03/27/pouchdb-is-couchdb-in-the-browser.html
 hash: 60f8e32355b8815a450373cc569fdf76
-annum:
-    year: 2012
-    month: 03
-url-parts:
-    scheme: http
-    host: arandomurl.com
-    path: /2012/03/27/pouchdb-is-couchdb-in-the-browser.html
+year: 2012
+month: 03
+scheme: http
+host: arandomurl.com
+path: /2012/03/27/pouchdb-is-couchdb-in-the-browser.html
 
 ---
 

@@ -3,13 +3,11 @@ title: "Thomson Reuters Laying Off 240 Across Legal Publishing Division"
 date: 2009-12-04 06:00:35 +0000
 external-url: http://gigaom.com/2009/12/04/419-thomson-reuters-laying-off-240-across-legal-publishing-division/
 hash: 73d770491939ae828fe33f83b77bc37e
-annum:
-    year: 2009
-    month: 12
-url-parts:
-    scheme: http
-    host: gigaom.com
-    path: /2009/12/04/419-thomson-reuters-laying-off-240-across-legal-publishing-division/
+year: 2009
+month: 12
+scheme: http
+host: gigaom.com
+path: /2009/12/04/419-thomson-reuters-laying-off-240-across-legal-publishing-division/
 
 ---
 

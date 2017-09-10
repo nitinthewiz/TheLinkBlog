@@ -3,13 +3,11 @@ title: "Report: Apple’s iTunes Store to go DRM-free, offer labels more flexibl
 date: 2009-01-06 03:51:17 +0000
 external-url: http://macdailynews.com/2009/01/05/report_apples_itunes_store_to_go_drm_free/
 hash: 54257d6662fd0eb0875633523cbe69fe
-annum:
-    year: 2009
-    month: 01
-url-parts:
-    scheme: http
-    host: macdailynews.com
-    path: /2009/01/05/report_apples_itunes_store_to_go_drm_free/
+year: 2009
+month: 01
+scheme: http
+host: macdailynews.com
+path: /2009/01/05/report_apples_itunes_store_to_go_drm_free/
 
 ---
 

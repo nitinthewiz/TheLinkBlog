@@ -3,13 +3,11 @@ title: "HBO to finally offer stand-alone streaming service"
 date: 2014-10-16 01:02:52 +0000
 external-url: http://insidetv.ew.com/2014/10/15/hbo-online-streaming-service/
 hash: 19b57b5ed6385b5edbbff28822f2440a
-annum:
-    year: 2014
-    month: 10
-url-parts:
-    scheme: http
-    host: insidetv.ew.com
-    path: /2014/10/15/hbo-online-streaming-service/
+year: 2014
+month: 10
+scheme: http
+host: insidetv.ew.com
+path: /2014/10/15/hbo-online-streaming-service/
 
 ---
 

@@ -3,13 +3,11 @@ title: "OTask: CLI for OmniFocus"
 date: 2011-07-05 21:06:45 +0000
 external-url: http://brettterpstra.com/otask-cli-for-omnifocus/?
 hash: b512da3a232ceb1dce63723fc359ee96
-annum:
-    year: 2011
-    month: 07
-url-parts:
-    scheme: http
-    host: brettterpstra.com
-    path: /otask-cli-for-omnifocus/
+year: 2011
+month: 07
+scheme: http
+host: brettterpstra.com
+path: /otask-cli-for-omnifocus/
 
 ---
 

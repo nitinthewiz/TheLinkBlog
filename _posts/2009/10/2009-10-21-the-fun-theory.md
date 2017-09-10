@@ -3,13 +3,11 @@ title: "The Fun Theory"
 date: 2009-10-21 04:36:56 +0000
 external-url: http://radar.oreilly.com/2009/10/the-fun-theory.html
 hash: ec6524bb7535a85729ff3dcae240beff
-annum:
-    year: 2009
-    month: 10
-url-parts:
-    scheme: http
-    host: radar.oreilly.com
-    path: /2009/10/the-fun-theory.html
+year: 2009
+month: 10
+scheme: http
+host: radar.oreilly.com
+path: /2009/10/the-fun-theory.html
 
 ---
 

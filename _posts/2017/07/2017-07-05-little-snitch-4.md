@@ -3,13 +3,11 @@ title: "Little Snitch 4"
 date: 2017-07-05 22:37:31 +0000
 external-url: https://www.obdev.at/products/littlesnitch/index.html
 hash: 489a355dc918438a0aa334b1149172e7
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.obdev.at
-    path: /products/littlesnitch/index.html
+year: 2017
+month: 07
+scheme: https
+host: www.obdev.at
+path: /products/littlesnitch/index.html
 
 ---
 

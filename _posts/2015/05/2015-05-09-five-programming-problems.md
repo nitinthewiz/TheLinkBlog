@@ -3,13 +3,11 @@ title: "Five programming problems every Software Engineer should be able to solv
 date: 2015-05-09 22:07:41 +0000
 external-url: https://blog.svpino.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour
 hash: b85477078137282a28e1dc84f19472ab
-annum:
-    year: 2015
-    month: 05
-url-parts:
-    scheme: https
-    host: blog.svpino.com
-    path: /2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour
+year: 2015
+month: 05
+scheme: https
+host: blog.svpino.com
+path: /2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour
 
 ---
 

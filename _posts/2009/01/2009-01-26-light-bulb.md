@@ -3,13 +3,11 @@ title: "Light Bulb"
 date: 2009-01-26 01:06:36 +0000
 external-url: http://www.todayandtomorrow.net/2009/01/26/light-bulb/
 hash: 674ccee3db14e201a41194ccfda5948d
-annum:
-    year: 2009
-    month: 01
-url-parts:
-    scheme: http
-    host: www.todayandtomorrow.net
-    path: /2009/01/26/light-bulb/
+year: 2009
+month: 01
+scheme: http
+host: www.todayandtomorrow.net
+path: /2009/01/26/light-bulb/
 
 ---
 

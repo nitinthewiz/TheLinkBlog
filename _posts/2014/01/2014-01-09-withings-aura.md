@@ -3,13 +3,11 @@ title: "Withings Aura"
 date: 2014-01-09 01:16:01 +0000
 external-url: http://www.withings.com/us/aura/
 hash: 840da9ef3bec79288095c0b3adca7f2d
-annum:
-    year: 2014
-    month: 01
-url-parts:
-    scheme: http
-    host: www.withings.com
-    path: /us/aura/
+year: 2014
+month: 01
+scheme: http
+host: www.withings.com
+path: /us/aura/
 
 ---
 

@@ -3,13 +3,11 @@ title: "Lightroom 3.0 Now Available"
 date: 2010-06-08 04:53:11 +0000
 external-url: http://blogs.adobe.com/lightroomjournal/2010/06/lightroom_30_now_available.html
 hash: e3d5854344497999050aff2bf08eab49
-annum:
-    year: 2010
-    month: 06
-url-parts:
-    scheme: http
-    host: blogs.adobe.com
-    path: /lightroomjournal/2010/06/lightroom_30_now_available.html
+year: 2010
+month: 06
+scheme: http
+host: blogs.adobe.com
+path: /lightroomjournal/2010/06/lightroom_30_now_available.html
 
 ---
 

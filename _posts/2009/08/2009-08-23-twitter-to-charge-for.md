@@ -3,13 +3,11 @@ title: "Twitter To Charge For Premium Accounts Later This Year"
 date: 2009-08-23 03:22:36 +0000
 external-url: http://m.paidcontent.org/article/419-twitter-to-get-premium-accounts-later-this-year/
 hash: c4c62c1044edad67997290bf6fbab5ac
-annum:
-    year: 2009
-    month: 08
-url-parts:
-    scheme: http
-    host: m.paidcontent.org
-    path: /article/419-twitter-to-get-premium-accounts-later-this-year/
+year: 2009
+month: 08
+scheme: http
+host: m.paidcontent.org
+path: /article/419-twitter-to-get-premium-accounts-later-this-year/
 
 ---
 

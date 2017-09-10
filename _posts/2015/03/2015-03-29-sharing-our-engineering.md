@@ -3,13 +3,11 @@ title: "Sharing Our Engineering Ladder — RTR Dress Code"
 date: 2015-03-29 21:50:52 +0000
 external-url: http://dresscode.renttherunway.com/blog/ladder
 hash: 15e089a63e74902a191346457a894651
-annum:
-    year: 2015
-    month: 03
-url-parts:
-    scheme: http
-    host: dresscode.renttherunway.com
-    path: /blog/ladder
+year: 2015
+month: 03
+scheme: http
+host: dresscode.renttherunway.com
+path: /blog/ladder
 
 ---
 

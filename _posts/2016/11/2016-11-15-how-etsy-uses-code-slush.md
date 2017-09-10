@@ -3,13 +3,11 @@ title: "How Etsy Uses Code Slush to Manage Development During the Holidays —Co
 date: 2016-11-15 10:55:02 +0000
 external-url: https://codeascraft.com/2016/10/16/code-slush-holidays/
 hash: 6738258f814b6c40fca7e86284cdd721
-annum:
-    year: 2016
-    month: 11
-url-parts:
-    scheme: https
-    host: codeascraft.com
-    path: /2016/10/16/code-slush-holidays/
+year: 2016
+month: 11
+scheme: https
+host: codeascraft.com
+path: /2016/10/16/code-slush-holidays/
 
 ---
 

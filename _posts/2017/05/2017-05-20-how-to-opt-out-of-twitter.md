@@ -3,13 +3,11 @@ title: "How to Opt Out of Twitter's New Privacy Settings — EFF Updates"
 date: 2017-05-20 02:31:45 +0000
 external-url: https://www.eff.org/deeplinks/2017/05/how-opt-out-twitters-new-privacy-settings
 hash: 6a2c1133a0f01f4169bdf4fdc1faf8a9
-annum:
-    year: 2017
-    month: 05
-url-parts:
-    scheme: https
-    host: www.eff.org
-    path: /deeplinks/2017/05/how-opt-out-twitters-new-privacy-settings
+year: 2017
+month: 05
+scheme: https
+host: www.eff.org
+path: /deeplinks/2017/05/how-opt-out-twitters-new-privacy-settings
 
 ---
 

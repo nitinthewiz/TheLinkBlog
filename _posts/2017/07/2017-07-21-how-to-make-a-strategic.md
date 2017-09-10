@@ -3,13 +3,11 @@ title: "How to Make a Strategic, Value-Driven Business Case for Your DevOps…"
 date: 2017-07-21 04:02:12 +0000
 external-url: https://www.contino.io/insights/how-to-make-a-strategic-value-driven-business-case-for-your-devops-initiative
 hash: 4da2d79d02521f33efe121056183a8bb
-annum:
-    year: 2017
-    month: 07
-url-parts:
-    scheme: https
-    host: www.contino.io
-    path: /insights/how-to-make-a-strategic-value-driven-business-case-for-your-devops-initiative
+year: 2017
+month: 07
+scheme: https
+host: www.contino.io
+path: /insights/how-to-make-a-strategic-value-driven-business-case-for-your-devops-initiative
 
 ---
 

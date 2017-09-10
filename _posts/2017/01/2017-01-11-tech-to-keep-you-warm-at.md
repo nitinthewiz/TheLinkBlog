@@ -3,13 +3,11 @@ title: "Tech To Keep You Warm At Night — Katie Floyd"
 date: 2017-01-11 01:32:13 +0000
 external-url: https://katiefloyd.com/blog/tech-to-keep-you-warm-at-night
 hash: 726f1ec37892b76b2a70d89d969628cb
-annum:
-    year: 2017
-    month: 01
-url-parts:
-    scheme: https
-    host: katiefloyd.com
-    path: /blog/tech-to-keep-you-warm-at-night
+year: 2017
+month: 01
+scheme: https
+host: katiefloyd.com
+path: /blog/tech-to-keep-you-warm-at-night
 
 ---
 

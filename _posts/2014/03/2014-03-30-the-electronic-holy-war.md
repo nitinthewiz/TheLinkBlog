@@ -3,13 +3,11 @@ title: "The Electronic Holy War"
 date: 2014-03-30 01:45:05 +0000
 external-url: http://www.newyorker.com/tech/elements/the-electronic-holy-war
 hash: 3326d83ea86dd6ba238647adaabb617b
-annum:
-    year: 2014
-    month: 03
-url-parts:
-    scheme: http
-    host: www.newyorker.com
-    path: /tech/elements/the-electronic-holy-war
+year: 2014
+month: 03
+scheme: http
+host: www.newyorker.com
+path: /tech/elements/the-electronic-holy-war
 
 ---
 

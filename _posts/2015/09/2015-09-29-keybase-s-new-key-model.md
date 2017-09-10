@@ -3,13 +3,11 @@ title: "Keybase's New Key Model"
 date: 2015-09-29 03:30:05 +0000
 external-url: https://keybase.io/blog/keybase-new-key-model
 hash: 0fb29592cb0e1da94e48667a0ae1bbd0
-annum:
-    year: 2015
-    month: 09
-url-parts:
-    scheme: https
-    host: keybase.io
-    path: /blog/keybase-new-key-model
+year: 2015
+month: 09
+scheme: https
+host: keybase.io
+path: /blog/keybase-new-key-model
 
 ---
 

@@ -3,13 +3,11 @@ title: "Cepstral Text-to-Speech"
 date: 2006-11-16 12:27:29 +0000
 external-url: http://www.cepstral.com/
 hash: 0d246dec26b1e52c2502887fe29eea54
-annum:
-    year: 2006
-    month: 11
-url-parts:
-    scheme: http
-    host: www.cepstral.com
-    path: /
+year: 2006
+month: 11
+scheme: http
+host: www.cepstral.com
+path: /
 
 ---
 
