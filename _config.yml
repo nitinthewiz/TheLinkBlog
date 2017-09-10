@@ -39,7 +39,7 @@ defaults:
     values:
       layout:       "post"
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ['README.md', 'tools']
 
 gems:
   - jekyll-seo-tag
