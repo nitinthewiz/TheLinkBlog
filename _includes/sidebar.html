@@ -1,13 +1,14 @@
     <div id="sidebar">
       <nav>
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/annums">Annums</a></li>
-          <li><a href="/collections">Collections</a></li>
-          <li><a href="http://micro.thingelstad.com/">micro.blog</a></li>
-          <li><a href="http://thingelstad.com/">thingelstad.com</a></li>
-          <li><a href="/feeds/">Feeds</a></li>
+          <li><a href="{% link index.html %}"><i class="fa fa-paper-plane" aria-hidden="true"></i> Home</a></li>
+          <li><a href="{% link about/index.md %}"><i class="fa fa-info" aria-hidden="true"></i> About</a></li>
+          <li><a href="{% link annums/index.html %}"><i class="fa fa-calendar" aria-hidden="true"></i> Annums</a></li>
+          <li><a href="{% link collections/index.html %}"><i class="fa fa-folder-open" aria-hidden="true"></i> Collections</a></li>
+          <li><a href="{% link search.html %}"><i class="fa fa-search" aria-hidden="true"></i> Search</a></li>
+          <li><a href="{% link feeds/index.md %}"><i class="fa fa-rss" aria-hidden="true"></i> Feeds</a></li>
+          <li><a href="http://micro.thingelstad.com/"><i class="fa fa-external-link" aria-hidden="true"></i> micro.blog</a></li>
+          <li><a href="http://thingelstad.com/"><i class="fa fa-external-link" aria-hidden="true"></i> blog</a></li>
         </ul>
       </nav>
     </div>
