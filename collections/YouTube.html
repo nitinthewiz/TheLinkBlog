@@ -10,6 +10,7 @@ title: YouTube
 {% for item in collection limit: 30 %}
 	{% if item.query.v %}
 <h3>{{ item.title }}</h3>
+{{ item.content }}
 {% include embed/youtube.html youtube_id=item.query.v %}
     {% endif %}
 {% endfor %}
