@@ -1,5 +1,5 @@
 ---
-title: "Untitled (http://idlewords.com/images/pinboard_spike.png)"
+title: "Pinboard.in Apache Requests Per Minute"
 date: 2010-12-30 03:42:21 +0000
 external-url: http://idlewords.com/images/pinboard_spike.png
 hash: bfb498abafca90b4c694848451046c73

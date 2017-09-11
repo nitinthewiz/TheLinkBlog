@@ -1,5 +1,5 @@
 ---
-title: "Untitled (http://www.slideshare.net/jiaxinwang/facets-of-applied-smw)"
+title: "Facets of applied SMW"
 date: 2011-09-21 15:33:22 +0000
 external-url: http://www.slideshare.net/jiaxinwang/facets-of-applied-smw
 hash: f9604cab8baa40be0bf82d7324f8339c
