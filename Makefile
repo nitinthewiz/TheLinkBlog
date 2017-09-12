@@ -30,7 +30,7 @@ refresh:
 	git add _posts/*
 
 	@echo "\nCommitting changes..."
-	git commit -a -m 'Refreshed links from Pinboard.'
+	git commit -a -S -m 'Refreshed links from Pinboard.'
 
 	@echo "\nPushing to GitHub..."
 	git push
