@@ -14,4 +14,6 @@ query:
     app: "desktop"
 ---
 
-http://www.devopsdays.org/events/2015-minneapolis/proposals/Helping%20Developers%20Monitor%20Their%20Own%20Application/
+I'm a developer. I barely know what Nagios is, let alone how to set it up or configure new alerts. But I do know a lot about the application I'm working on, and I know how to code. By building a framework for easily adding new monitoring rules, the operations team at Swiftype has opened up application-level monitoring for the whole development team. I'll talk about the tools we wrote and explain how they allow developers to easily add new monitoring checks that probe our application (including web services, queues, and database) and alert the team by email, chat, or phone.
+
+I'll show how to use the monitoring framework we wrote, but I'll also use this collaboration as a jumping off point to discuss how I think developers and operations can work together to build software faster and keep it reliable, based on our experiences at Swiftype.
