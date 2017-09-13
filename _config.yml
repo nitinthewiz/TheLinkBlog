@@ -45,3 +45,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-sitemap
+
