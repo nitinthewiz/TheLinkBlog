@@ -17,6 +17,15 @@ local:
 	$J serve --watch --drafts --limit_posts 100
 
 refresh:
+	@echo "\nDeleting all posts..."
+	rm -r _posts/*
+
+	@echo "\nGenerating posts..."
+	tools/generate_posts.py
+
+	@echo "\nDone."
+
+refresh_push:
 	@echo "Updating repo from GitHub..."
 	git pull
 
