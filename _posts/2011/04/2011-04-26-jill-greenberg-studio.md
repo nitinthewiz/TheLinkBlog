@@ -1,5 +1,5 @@
 ---
-title: "The Manipulator"
+title: "Jill Greenberg Studio"
 date: 2011-04-26 00:42:17 +0000
 external-url: http://www.jillgreenberg.com
 hash: cc8c93d2510133f314aa1f217a85c7f3
