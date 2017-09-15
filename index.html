@@ -21,7 +21,7 @@ title: Link Thing
 
 		{% if post.external-url %}
 			<h1>
-				<a href="{{ post.external-url }}"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;{{ post.title }}</a>&nbsp;<a class="anchor" href="{{ post.url }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+				<a href="{{ post.external-url }}">{{ post.title }}</a>&nbsp;<a class="anchor" href="{{ post.url }}"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
 			</h1>
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
