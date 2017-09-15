@@ -10,9 +10,9 @@ title: Link Thing
     {% capture curr_date %}{{ post.date | date: "%b %-d, %Y" }}{% endcapture %}
     {% capture next_date %}{{ post.next.date | date: "%b %-d, %Y" }}{% endcapture %}
     {% if curr_date != next_date %}
-    <h3>{{ post.date | date: "%b %-d, %Y" }}</h3>
+    <h3>{{ post.date | date: "%A, %B %-d, %Y" }}</h3>
     {% elsif curr_page != paginator.page %}
-    <h3>{{ post.date | date: "%b %-d, %Y" }}</h3>    
+    <h3>{{ post.date | date: "%A, %B %-d, %Y" }}</h3>    
     {% endif %}
     {% capture curr_page %}{{ paginator.page }}{% endcapture %}
     {% assign curr_page = curr_page | plus: 0 %}
