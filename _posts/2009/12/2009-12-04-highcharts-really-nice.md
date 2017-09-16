@@ -26,10 +26,10 @@ JAVASCRIPT:
  
 
 
-var chart1 = new Highcharts.Chart({
+var chart1 = new Highcharts.Chart(&#123;
 
 
-         chart: {
+         chart: &#123;
 
 
             renderTo: 'chart-container-1',
@@ -38,43 +38,43 @@ var chart1 = new Highcharts.Chart({
             defaultSeriesType: 'bar'
 
 
-         },
+         &#125;,
 
 
-         title: {
+         title: &#123;
 
 
             text: 'Fruit Consumption'
 
 
-         },
+         &#125;,
 
 
-         xAxis: {
+         xAxis: &#123;
 
 
             categories: ['Apples', 'Bananas', 'Oranges]
 
 
-         },
+         &#125;,
 
 
-         yAxis: {
+         yAxis: &#123;
 
 
-            title: {
+            title: &#123;
 
 
                text: 'Fruit eaten'
 
 
-            }
+            &#125;
 
 
-         },
+         &#125;,
 
 
-         series: [{
+         series: [&#123;
 
 
             name: 'Jane',
@@ -83,7 +83,7 @@ var chart1 = new Highcharts.Chart({
             data: [1, 0, 4]
 
 
-         }, {
+         &#125;, &#123;
 
 
             name: 'John',
@@ -92,10 +92,10 @@ var chart1 = new Highcharts.Chart({
             data: [5, 7, 3]
 
 
-         }]
+         &#125;]
 
 
-      });
+      &#125;);
 
  
 

@@ -28,13 +28,13 @@ var conn = new TCPSocket(hostname, port)
 
 
 
-conn.onopen = function() { alert('connection opened!') }
+conn.onopen = function() &#123; alert('connection opened!') &#125;
 
 
-conn.onread = function(data) { alert('RECEIVE: ' + data) }
+conn.onread = function(data) &#123; alert('RECEIVE: ' + data) &#125;
 
 
-conn.onclose = function(data) { alert('connection closed!') }
+conn.onclose = function(data) &#123; alert('connection closed!') &#125;
 
 
 

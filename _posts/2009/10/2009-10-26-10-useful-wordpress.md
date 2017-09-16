@@ -68,9 +68,9 @@ With these CSS classes now added, you can now give a custom style to all posts t
 
 The other important piece of this code is id="post-<?php the_ID(); ?>". By displaying the ID of the post here, we’re able to style a particular post. As an example:
 
-#post-876{
+#post-876&#123;
 background:#ccc;
-}
+&#125;
 Source:
 
 
@@ -88,7 +88,7 @@ Simply paste this code after the the_content() function in your single.php file:
 <?php
 $original_post = $post;
 $tags = wp_get_post_tags($post->ID);
-if ($tags) {
+if ($tags) &#123;
   echo '<h2>Related Posts</h2>';
   $first_tag = $tags[0]->term_id;
   $args=array(
@@ -98,14 +98,14 @@ if ($tags) {
     'caller_get_posts'=>1
    );
   $my_query = new WP_Query($args);
-  if( $my_query->have_posts() ) {
+  if( $my_query->have_posts() ) &#123;
     echo "<ul>";
     while ($my_query->have_posts()) : $my_query->the_post(); ?>
       <li><img src="<?php bloginfo('template_directory'); ?>/timthumb/timthumb.php?src=<?php echo get_post_meta($post->ID, "post-img", true); ?>&h=40&w=40&zc=1" alt="" /><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></li>
     <?php endwhile;
     echo "</ul>";
-  }
-}
+  &#125;
+&#125;
 $post = $original_post;
 wp_reset_query();
 ?>
@@ -137,7 +137,7 @@ Here is a custom loop that displays the first three posts different than the res
 $postnum = 0;
 while (have_posts()) : the_post(); ?>
 
-<?php if ($postnum <= 3){ ?>
+<?php if ($postnum <= 3)&#123; ?>
 <div <?php post_class() ?> id="post-<?php the_ID(); ?>">
   <div class="date"><span><?php the_time('M j') ?></span></div>
     <h2>(<?php echo $postnum;?>)<a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2>
@@ -149,7 +149,7 @@ while (have_posts()) : the_post(); ?>
   </div>
 </div>
 
-<?php } else {
+<?php &#125; else &#123;
 <div <?php post_class( 'single ' . $end ); ?> id="post-<?php the_ID(); ?>">
 <div class="post-content">
 <h3><a href="<?php the_permalink() ?>">(<?php echo $postnum; ?>)<?php the_title(); ?></a> <?php edit_post_link('_', '', ''); ?></h3>
@@ -158,7 +158,7 @@ while (have_posts()) : the_post(); ?>
 </div>
 </div><!-- End post -->
 
-<?php }
+<?php &#125;
 endwhile;
 ?>
 
@@ -208,11 +208,11 @@ The solution.
 In your single.php file, find the call to the the_title() function and replace it with the following code:
 
 <?php $title = get_post_meta($post->ID, "custom-title", true);
-if ($title != "") {
+if ($title != "") &#123;
 echo "<h1>".$title."</h1>";
-} else { ?>
+&#125; else &#123; ?>
 <h1><?php the_title(); ?></h1>
-<?php } ?>
+<?php &#125; ?>
 
 Once that’s done, you can rewrite the post’s title by creating a field named custom-title. Its value will be your custom title for this post.
 
@@ -265,12 +265,12 @@ As you probably know, WordPress lets you decide whether to allow readers to crea
 The solution.
 To achieve this hack, we’ll use a shortcode. The first step is to create it. Open your functions.php file and paste the following code:
 
-function member_check_shortcode($atts, $content = null) {
-  if (is_user_logged_in() && !is_null($content) && !is_feed()) {
+function member_check_shortcode($atts, $content = null) &#123;
+  if (is_user_logged_in() && !is_null($content) && !is_feed()) &#123;
     return $content;
-  } else {
+  &#125; else &#123;
     return 'Sorry, this part is only available to our members. Click here to become a member!';
-}
+&#125;
 
 add_shortcode('member', 'member_check_shortcode');
 
@@ -305,16 +305,16 @@ This code is really easy to implement. Just paste it wherever you’d like your 
 <h2>Popular Posts</h2>
 <ul>
 <?php $result = $wpdb->get_results("SELECT comment_count,ID,post_title FROM $wpdb->posts ORDER BY comment_count DESC LIMIT 0 , 5");
-foreach ($result as $post) {
+foreach ($result as $post) &#123;
 setup_postdata($post);
 $postid = $post->ID;
 $title = $post->post_title;
 $commentcount = $post->comment_count;
-if ($commentcount != 0) { ?>
+if ($commentcount != 0) &#123; ?>
 <li><a href="<?php echo get_permalink($postid); ?>" title="<?php echo $title ?>">
 
-<?php echo $title ?></a> {<?php echo $commentcount ?>}</li>
-<?php } } ?>
+<?php echo $title ?></a> &#123;<?php echo $commentcount ?>&#125;</li>
+<?php &#125; &#125; ?>
 </ul>
 
 Code explanation.
@@ -338,7 +338,7 @@ The solution.
 To create our drop-down menu of tags, we first have to paste the two functions below into the functions.php file of our WordPress theme:
 
 <?php
-function dropdown_tag_cloud( $args = '' ) {
+function dropdown_tag_cloud( $args = '' ) &#123;
 $defaults = array(
 'smallest' => 8, 'largest' => 22, 'unit' => 'pt', 'number' => 45,
 'format' => 'flat', 'orderby' => 'name', 'order' => 'ASC',
@@ -356,9 +356,9 @@ if ( is_wp_error( $return ) )
 return false;
 else
 echo apply_filters( 'dropdown_tag_cloud', $return, $args );
-}
+&#125;
 
-function dropdown_generate_tag_cloud( $tags, $args = '' ) {
+function dropdown_generate_tag_cloud( $tags, $args = '' ) &#123;
 global $wp_rewrite;
 $defaults = array(
 'smallest' => 8, 'largest' => 22, 'unit' => 'pt', 'number' => 45,
@@ -370,13 +370,13 @@ extract($args);
 if ( !$tags )
 return;
 $counts = $tag_links = array();
-foreach ( (array) $tags as $tag ) {
+foreach ( (array) $tags as $tag ) &#123;
 $counts[$tag->name] = $tag->count;
 $tag_links[$tag->name] = get_tag_link( $tag->term_id );
 if ( is_wp_error( $tag_links[$tag->name] ) )
 return $tag_links[$tag->name];
 $tag_ids[$tag->name] = $tag->term_id;
-}
+&#125;
 
 $min_count = min($counts);
 $spread = max($counts) - $min_count;
@@ -400,12 +400,12 @@ $a = array();
 
 $rel = ( is_object($wp_rewrite) && $wp_rewrite->using_permalinks() ) ? ' rel="tag"' : '';
 
-foreach ( $counts as $tag => $count ) {
+foreach ( $counts as $tag => $count ) &#123;
 $tag_id = $tag_ids[$tag];
 $tag_link = clean_url($tag_links[$tag]);
 $tag = str_replace(' ', '&nbsp;', wp_specialchars( $tag ));
 $a[] = "\t<option value='$tag_link'>$tag ($count)</option>";
-}
+&#125;
 
 switch ( $format ) :
 case 'array' :
@@ -422,7 +422,7 @@ break;
 endswitch;
 
 return apply_filters( 'dropdown_generate_tag_cloud', $return, $tags, $args );
-}
+&#125;
 ?>
 
 Once you’ve pasted this function in your functions.php file, you can use it to create your drop-down menu of tags. Just open the file where you want the list to be displayed and paste the following code:
@@ -453,9 +453,9 @@ But images can be a pain to deal with, especially because of their various sizes
 The solution.
 The first thing to do is create the shortcode. Paste the following code in your functions.php file:
 
-function imageresizer( $atts, $content = null ) {
+function imageresizer( $atts, $content = null ) &#123;
 return '<img src="http://media2.smashingmagazine.com/wp-content/uploads/2009/10//timthumb/timthumb.php?src='.$content.'&w=590" alt="" />';
-}
+&#125;
 
 add_shortcode('img', 'imageresizer');
 Now, you can use the following syntax to add an automatically resized image to your blog post:

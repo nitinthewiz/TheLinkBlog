@@ -118,10 +118,10 @@ Success Story 3: Groovy Builders
 
   result = new StringWriter
   xml = new groovy.xml.MarkupBuilder(result)
-  xml.person(category: 'employee') {
+  xml.person(category: 'employee') &#123;
     name('dave')
     likes('programming')
-  }
+  &#125;
   println result
 
 
@@ -251,16 +251,16 @@ RSpec is another behavior-driven testing framework. Here's part of a specificati
 
   describe "(empty)" do
 
-    it { @stack.should be_empty }
+    it &#123; @stack.should be_empty &#125;
 
     it_should_behave_like "non-full Stack"
 
     it "should complain when sent #peek" do
-      lambda { @stack.peek }.should raise_error(StackUnderflowError)
+      lambda &#123; @stack.peek &#125;.should raise_error(StackUnderflowError)
     end
 
     it "should complain when sent #pop" do
-      lambda { @stack.pop }.should raise_error(StackUnderflowError)
+      lambda &#123; @stack.pop &#125;.should raise_error(StackUnderflowError)
     end
 
   end
@@ -275,7 +275,7 @@ follows the underscore is a predicate method to be called (after adding a questi
 @result.empty? in this case). Then we have another way of using _should_ in the phrase
 it_should_behave_like—all one word. Then there's a third way of using should when we reach should
 raise_error. And, of course, all these uses of _should_ differ from the use in test/spec, even though both
-strive for an English-like interface. The same kinds of dissonance occur with the use of it in the first three lines (it {...} vs. it_should_... vs. it "...").
+strive for an English-like interface. The same kinds of dissonance occur with the use of it in the first three lines (it &#123;...&#125; vs. it_should_... vs. it "...").
 
 
 

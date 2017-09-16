@@ -11,4 +11,4 @@ path: /
 
 ---
 
-"} From the coffee shop to the conference room.
+"&#125; From the coffee shop to the conference room.

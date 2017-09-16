@@ -11,4 +11,4 @@ path: /wiki/Wikipedia:Lua
 
 ---
 
-Lua is a programming language that is now available, via the Scribunto MediaWiki extension, on the English Wikipedia. Lua code can now be embedded into wiki templates by employing the "{{#invoke:}}" functionality of Scribunto. This extension supports Lua 5.1 as of July 2015.
+Lua is a programming language that is now available, via the Scribunto MediaWiki extension, on the English Wikipedia. Lua code can now be embedded into wiki templates by employing the "&#123;&#123;#invoke:&#125;&#125;" functionality of Scribunto. This extension supports Lua 5.1 as of July 2015.

@@ -48,9 +48,9 @@ the original styles and edit them here.
 /*
 Now, for a demonstration, let's make all the anchors red.
 */
-a {
+a &#123;
 color:red;
-}
+&#125;
 3. Refresh your blog’s theme directory in the WordPress admin. You should see a theme called “A Child Theme Test”. It’s using the classic theme as a Parent Theme. If you look at the code  above you should see a line that starts with “Template” it’s there that we defined that Parent Theme as “classic”, the folder name of our Parent Theme (which could be any installed theme).
 
 4. Activate your new Child Theme and check out your blog. Are all the links in the main content area red? Congratulations. You just made a WordPress Child Theme. You can now edit your WordPress theme of choice—in this instance, the Classic theme—through CSS alone without having to modify any of the original template files. (If you’re a more advanced WordPress developer you can also include a functions.php file in your Child Theme that lets you interact with WordPress and your themes just like a plugin. But that’s another story altogether.)

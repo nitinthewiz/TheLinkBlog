@@ -160,7 +160,7 @@ I used this magic incantation, which requires exiftool:
 
 
 
-exiftool -q -p 'mv ${filename} JF7_00${filenumber}.NEF;'  *.nef  | sh
+exiftool -q -p 'mv $&#123;filename&#125; JF7_00$&#123;filenumber&#125;.NEF;'  *.nef  | sh
 
 
 

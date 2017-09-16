@@ -11,4 +11,4 @@ path: /less/
 
 ---
 
-{Less} extends CSS with variables, nested rules, operators and more. If you're still building websites without it, you're an idiot. This app makes it dead simple to use {Less} by automatically compiling *.less files into standard CSS.
+&#123;Less&#125; extends CSS with variables, nested rules, operators and more. If you're still building websites without it, you're an idiot. This app makes it dead simple to use &#123;Less&#125; by automatically compiling *.less files into standard CSS.

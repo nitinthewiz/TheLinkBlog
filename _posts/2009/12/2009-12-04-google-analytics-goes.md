@@ -29,14 +29,14 @@ var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-XXXXX-X']);
 _gaq.push(['_trackPageview']);
 
-(function() {
+(function() &#123;
 var ga = document.createElement('script');
 ga.src = ('https:' == document.location.protocol ?
     'https://ssl' : 'http://www') +
     '.google-analytics.com/ga.js';
 ga.setAttribute('async', 'true');
 document.documentElement.firstChild.appendChild(ga);
-})();
+&#125;)();
 It’s extremely cool to see this pattern being evangelized for such a major piece of the Internet. A few items of note:
 
 

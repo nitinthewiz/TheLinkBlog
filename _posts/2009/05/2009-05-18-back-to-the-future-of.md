@@ -37,17 +37,17 @@ As of CSS3 - the @font-face declaration is officially a standard way of specifyi
 
 EXAMPLE
 
-@font-face {
+@font-face &#123;
   font-family:‘Fotin-Regular’;
   src: url(‘/fotin.otf’);
-}
+&#125;
 
-p {
+p &#123;
   font-family:‘Fotin-Regular’;
   font-size: 3.2em;
   letter-spacing: 1px;
   text-align: center;
-}
+&#125;
 
 
 BROWSER SUPPORT

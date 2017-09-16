@@ -105,10 +105,10 @@ JAVASCRIPT:
 
 
 
-Event.observe(window, 'load', function() { 
+Event.observe(window, 'load', function() &#123; 
 
 
- cf = new ProtoFlow($("protoflow"), {captions: 'protoCaptions'});
+ cf = new ProtoFlow($("protoflow"), &#123;captions: 'protoCaptions'&#125;);
 
 
-});
+&#125;);

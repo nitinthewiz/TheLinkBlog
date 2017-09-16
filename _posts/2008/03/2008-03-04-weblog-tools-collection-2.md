@@ -79,11 +79,11 @@ Your code would look something along the lines of:
  
 
 
-if (function_exists('get_avatar')) {
+if (function_exists('get_avatar')) &#123;
  //2.5 code
- } else {
+ &#125; else &#123;
  //alternate gravatar code for < 2.5
- }
+ &#125;
 
 Further Reading
 For more reading on the get_avatar function, please read Ryan Boren’s Avatars in WordPress 2.5, which he covers several additional points not mentioned here.
