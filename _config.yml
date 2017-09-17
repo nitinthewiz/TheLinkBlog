@@ -41,7 +41,7 @@ defaults:
 
 exclude: ['README.md', 'tools']
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-redirect-from
