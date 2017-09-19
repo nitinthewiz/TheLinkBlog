@@ -1,19 +1,14 @@
 ---
 title: "Bento for iPhone"
-date: 2009-05-06 01:56:48 +0000
-external-url: http://www.filemaker.com/products/bento/iphone.html
-hash: a0d91b1b44ced50e8edb267b2f1249d9
+date: 2009-05-06 02:56:48 +0000
+external-url: http://info.filemaker.com/Bento_Statement.html
+hash: fd24644d0b0be59a5d4c4a19ac785943
 year: 2009
 month: 05
 scheme: http
-host: www.filemaker.com
-path: /products/bento/iphone.html
+host: info.filemaker.com
+path: /Bento_Statement.html
 
 ---
 
-$5 iPhone version of Filemaker’s new database app. Works by itself, but also syncs with the Mac version.
-
-
-
- ★ 
-
+$5 iPhone version of Filemakers new database app. Works by itself, but also syncs with the Mac version.

@@ -1,13 +1,13 @@
 ---
-title: "Brave New Thermostat: How the iPod’s Creator Is Making Home Heating Sexy | Gadget Lab | Wired.com"
-date: 2011-10-26 18:20:31 +0000
-external-url: http://www.wired.com/gadgetlab/2011/10/nest_thermostat/all/1
-hash: af0f8145738cdcad4fe73e550dccc551
+title: "Brave New Thermostat: How the iPods Creator Is Making Home Heating"
+date: 2011-10-26 19:20:31 +0000
+external-url: http://www.wired.com/2011/10/nest_thermostat/
+hash: a8f1cb3728dbd84485e2549b43ef286a
 year: 2011
 month: 10
 scheme: http
 host: www.wired.com
-path: /gadgetlab/2011/10/nest_thermostat/all/1
+path: /2011/10/nest_thermostat/
 
 ---
 

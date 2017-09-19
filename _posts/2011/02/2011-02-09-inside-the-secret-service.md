@@ -1,13 +1,13 @@
 ---
 title: "Inside the Secret Service"
 date: 2011-02-09 01:48:43 +0000
-external-url: http://www.theatlantic.com/magazine/archive/2011/03/inside-the-secret-service/308390/
-hash: be9b241fd5abfe7a8ddbff9bc0dc3ab4
+external-url: http://www.theatlantic.com/magazine/print/1969/12/inside-the-secret-service/8390/
+hash: b740e56c5b355418b44f24fdff80f47d
 year: 2011
 month: 02
 scheme: http
 host: www.theatlantic.com
-path: /magazine/archive/2011/03/inside-the-secret-service/308390/
+path: /magazine/print/1969/12/inside-the-secret-service/8390/
 
 ---
 

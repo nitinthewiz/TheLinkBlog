@@ -1,13 +1,13 @@
 ---
-title: "Delicious&#39; New Flavors: Refined Search, Interactive Graphs, &amp; Much More"
-date: 2009-10-01 00:25:38 +0000
-external-url: http://www.readwriteweb.com/archives/delicious_new_flavors.php
-hash: aed06843bc1b695862580a86e13cf050
+title: "Delicious' New Flavors: Refined Search, Interactive Graphs, & Much More"
+date: 2009-10-01 01:25:38 +0000
+external-url: http://readwrite.com/2009/09/30/delicious_new_flavors
+hash: ab8adb64256371460201aa36ca7c3b78
 year: 2009
 month: 10
 scheme: http
-host: www.readwriteweb.com
-path: /archives/delicious_new_flavors.php
+host: readwrite.com
+path: /2009/09/30/delicious_new_flavors
 
 ---
 
@@ -54,6 +54,3 @@ Data on links is now available in a much more digestible format, complete with g
 Especially for mobile users and those with social media obsessions, this new suite of features seems to be as useful as well as fun to play with.
 
 Discuss
-
-       
-

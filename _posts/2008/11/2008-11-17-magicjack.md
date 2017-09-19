@@ -1,14 +1,14 @@
 ---
-title: "MagicJack"
+title: "magicJack"
 date: 2008-11-17 14:47:21 +0000
-external-url: http://www.magicjack.com/index.html
-hash: 9d1c79aec946c69fda2c3a8600e8ad36
+external-url: http://www.magicjack.com/6/index.asp
+hash: 71d0e29f957cbdfbb7dcf0575040809f
 year: 2008
 month: 11
 scheme: http
 host: www.magicjack.com
-path: /index.html
+path: /6/index.asp
 
 ---
 
-Anyone using a Magic Jack?
+Anyone using a Magic Jack? 

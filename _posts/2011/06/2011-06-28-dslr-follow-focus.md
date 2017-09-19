@@ -1,13 +1,13 @@
 ---
 title: "DSLR Follow Focus"
-date: 2011-06-28 02:18:03 +0000
-external-url: http://www.dslrsolutions.net/dslr-follow-focus
-hash: 05bae3c53aaf2bad477362b843e1936e
+date: 2011-06-28 03:18:03 +0000
+external-url: http://www.dslrsolutions.net/dslr-follow-focus/
+hash: c5ade2e60579c0466d2f3c29364f6fcb
 year: 2011
 month: 06
 scheme: http
 host: www.dslrsolutions.net
-path: /dslr-follow-focus
+path: /dslr-follow-focus/
 
 ---
 

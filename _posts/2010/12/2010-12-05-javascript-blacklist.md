@@ -1,13 +1,13 @@
 ---
 title: "JavaScript Blacklist"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://safariextensions.tumblr.com/post/698140225/post-javascript-blacklist-06-14-10
-hash: dea4a92aa362884aa614ae7ef7f8b159
+external-url: http://homepage.mac.com/drewthaler/jsblacklist/
+hash: 55d1044f1ea75317ceb1efe7aba8640b
 year: 2010
 month: 12
 scheme: http
-host: safariextensions.tumblr.com
-path: /post/698140225/post-javascript-blacklist-06-14-10
+host: homepage.mac.com
+path: /drewthaler/jsblacklist/
 
 ---
 

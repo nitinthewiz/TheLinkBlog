@@ -1,13 +1,13 @@
 ---
 title: "Tracked.com"
-date: 2009-10-21 14:45:53 +0000
-external-url: http://www.avc.com/a_vc/2009/10/trackedcom.html
-hash: 894ac784c754d490552f10f60f8ea0b5
+date: 2009-10-21 15:45:53 +0000
+external-url: http://avc.com/2009/10/trackedcom/
+hash: b8ef85aebf0323560c7118be5bd24a29
 year: 2009
 month: 10
 scheme: http
-host: www.avc.com
-path: /a_vc/2009/10/trackedcom.html
+host: avc.com
+path: /2009/10/trackedcom/
 
 ---
 
@@ -19,8 +19,3 @@ Contrast that with services like LinkedIn or Crunchbase. These services are comp
 There is one more piece to Tracked.com that is important to talk about. Tracked.com is social. Users have a profile in the service and can send messages to each other in the service (and via twitter and facebook very shortly). Objects in the service (news, quotes, charts, public filings, companies, people) can be sent around like links in twitter and facebook.
 I like to say that Tracked.com is what sits in the triangle that you can form with Yahoo! Finance on one point, LinkedIn on another point, and Twitter on the third point. It is not designed to compete with these services. It is designed to complement them and extend their usage models.
 But as I said yesterday, it's a lot better to spend 15 minutes using a service than reading about it. So go check out Tracked.com and let me know what you think of it.
-
-
-
-           
-

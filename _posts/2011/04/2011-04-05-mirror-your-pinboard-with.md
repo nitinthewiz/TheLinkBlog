@@ -1,17 +1,14 @@
 ---
-title: "Mirror your Pinboard bookmarks with OpenMeta tags - Brett Terpstra"
-date: 2011-04-05 03:29:37 +0000
-external-url: http://brettterpstra.com/mirror-your-pinboard-bookmarks-with-openmeta-tags/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrettTerpstra+%28Brett+Terpstra%29
-hash: c7afd8dab2ce13d54c40bd2c302754f9
+title: "Mirror your Pinboard bookmarks with OpenMeta tags"
+date: 2011-04-05 04:29:37 +0000
+external-url: http://brettterpstra.com//2011/04/02/mirror-your-pinboard-bookmarks-with-openmeta-tags/
+hash: cda0df54a78e0dc9a1a50212d435b186
 year: 2011
 month: 04
 scheme: http
 host: brettterpstra.com
-path: /mirror-your-pinboard-bookmarks-with-openmeta-tags/
-query:
-    utm_source: "feedburner"
-    utm_medium: "feed"
-    utm_campaign: "Feed: BrettTerpstra (Brett Terpstra)"
+path: //2011/04/02/mirror-your-pinboard-bookmarks-with-openmeta-tags/
+
 ---
 
-
+I wrote a script a while back that would watch for changes in my Delicious bookmarks and mirror new ones to .webloc files on my drive, applying OpenMeta tags so that they were locally searchable with Spotlight and other OpenMeta applications. I stopped using Delicious, though, and started using Pinboard, which I mentioned recently that I adore. In the process of revamping the script it became a little more involved than the original.

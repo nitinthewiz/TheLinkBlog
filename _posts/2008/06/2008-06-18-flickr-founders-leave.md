@@ -1,13 +1,13 @@
 ---
 title: "Flickr Founders Leave Yahoo"
-date: 2008-06-18 01:10:31 +0000
-external-url: http://paidcontent.org/article/419-flickr-founders-leave-yahoo/
-hash: 67b74333b27666355d4dca7dea9783bb
+date: 2008-06-18 02:10:31 +0000
+external-url: http://gigaom.com/2008/06/18/419-flickr-founders-leave-yahoo/
+hash: 8c29eaa96f7fc94001b18c92d23fadb8
 year: 2008
 month: 06
 scheme: http
-host: paidcontent.org
-path: /article/419-flickr-founders-leave-yahoo/
+host: gigaom.com
+path: /2008/06/18/419-flickr-founders-leave-yahoo/
 
 ---
 
@@ -15,8 +15,3 @@ Flickr, one of the few acquisitions that Yahoo (NSDQ: YHOO) has not messed up, a
 
 
 ContentNext's EconCeleb Seminar examines what drives the economics of celebrity content. July 23, 2008 at the Roosevelt Hotel, Hollywood. Learn more.
-
-
-
-    
-

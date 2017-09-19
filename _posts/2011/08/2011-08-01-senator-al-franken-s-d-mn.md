@@ -1,12 +1,12 @@
 ---
 title: "Senator Al Franken's (D-MN) 24-page letter to the Federal Communications Commission and Department of Justice"
-date: 2011-08-01 16:47:17 +0000
-external-url: http://franken.senate.gov/files/letter/110726_Letter_DOJ_FCC_ATT_TMobile_Merger.pdf
-hash: bc7149c6df8c1531b67eea3300ddacae
+date: 2011-08-01 17:47:17 +0000
+external-url: http://www.franken.senate.gov/files/letter/110726_Letter_DOJ_FCC_ATT_TMobile_Merger.pdf
+hash: 9d81596740b9b46a071a11728d8a5b11
 year: 2011
 month: 08
 scheme: http
-host: franken.senate.gov
+host: www.franken.senate.gov
 path: /files/letter/110726_Letter_DOJ_FCC_ATT_TMobile_Merger.pdf
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: "New MediaWiki extension: Semantic Watchlist"
-date: 2011-08-01 04:22:39 +0000
-external-url: http://blog.bn2vs.com/2011/07/30/new-mediawiki-extension-semantic-watchlist/
-hash: e62f09cad6ab6c52c429c5763e67810e
+date: 2011-08-01 05:22:39 +0000
+external-url: http://www.bn2vs.com/blog/2011/07/30/new-mediawiki-extension-semantic-watchlist/
+hash: c23abdb4798933d90b83a28f051dc7a6
 year: 2011
 month: 08
 scheme: http
-host: blog.bn2vs.com
-path: /2011/07/30/new-mediawiki-extension-semantic-watchlist/
+host: www.bn2vs.com
+path: /blog/2011/07/30/new-mediawiki-extension-semantic-watchlist/
 
 ---
 

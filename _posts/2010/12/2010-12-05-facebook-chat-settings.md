@@ -1,11 +1,11 @@
 ---
 title: "Facebook Chat Settings"
 date: 2010-12-05 12:21:18 +0000
-external-url: https://www.facebook.com/sitetour/chat.php
-hash: 14cef12c34f823719f55dd4cec61eb66
+external-url: http://www.facebook.com/sitetour/chat.php
+hash: b9f859af83c59e0e8a1ba5713ec82fd7
 year: 2010
 month: 12
-scheme: https
+scheme: http
 host: www.facebook.com
 path: /sitetour/chat.php
 

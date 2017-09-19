@@ -1,13 +1,13 @@
 ---
 title: "Apple seeds Mac OS X 10.5.3 Update to developers"
-date: 2008-03-28 15:58:00 +0000
-external-url: http://www.macdailynews.com/index.php/weblog/comments/apple_seeds_mac_os_x_1053_update_to_developers/
-hash: 78b6567652894d20b7bb7360506de57f
+date: 2008-03-28 16:58:00 +0000
+external-url: http://macdailynews.com/2008/03/28/apple_seeds_mac_os_x_1053_update_to_developers/
+hash: 0918e4ed2633c752f3fe55fd64095470
 year: 2008
 month: 03
 scheme: http
-host: www.macdailynews.com
-path: /index.php/weblog/comments/apple_seeds_mac_os_x_1053_update_to_developers/
+host: macdailynews.com
+path: /2008/03/28/apple_seeds_mac_os_x_1053_update_to_developers/
 
 ---
 

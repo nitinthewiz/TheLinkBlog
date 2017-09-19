@@ -1,14 +1,14 @@
 ---
-title: "minutes.io"
-date: 2011-05-24 06:05:46 +0000
-external-url: http://minutes.io/
-hash: ac5e801b6a19558ea0b88036916d1db8
+title: "Minutes.io"
+date: 2011-05-24 07:05:46 +0000
+external-url: https://minutes.io
+hash: d3ed04fce8b83781e9f6a1e64bc01f4f
 year: 2011
 month: 05
-scheme: http
+scheme: https
 host: minutes.io
-path: /
+path: 
 
 ---
 
-mınutes.io makes it a breeze to take notes while conversing with others, and send them right away. Plus, it's free, you can use it in your browser without an internet connection, and you don't even need to sign up!
+mnutes.io makes it a breeze to take notes while conversing with others, and send them right away. Plus, it's free, you can use it in your browser without an internet connection, and you don't even need to sign up!

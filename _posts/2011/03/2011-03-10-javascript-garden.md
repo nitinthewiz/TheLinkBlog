@@ -1,12 +1,12 @@
 ---
 title: "JavaScript Garden"
 date: 2011-03-10 11:54:10 +0000
-external-url: http://bonsaiden.github.io/JavaScript-Garden/
-hash: 1a6beade73b701420ce943d404afd8ff
+external-url: http://bonsaiden.github.com/JavaScript-Garden/
+hash: 64b1f2c2ca095caa581929ec9ecd911b
 year: 2011
 month: 03
 scheme: http
-host: bonsaiden.github.io
+host: bonsaiden.github.com
 path: /JavaScript-Garden/
 
 ---

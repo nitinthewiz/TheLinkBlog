@@ -1,19 +1,14 @@
 ---
 title: "Bouncing Beholder"
-date: 2010-09-13 17:43:43 +0000
-external-url: http://marijn.haverbeke.nl/js1k.html
-hash: 93ca9aa193743966d072d3b6d3b6b2c3
+date: 2010-09-13 18:43:43 +0000
+external-url: http://marijnhaverbeke.nl/js1k/
+hash: c0239e5cd0ac3623e9ac9cb2dac430c5
 year: 2010
 month: 09
 scheme: http
-host: marijn.haverbeke.nl
-path: /js1k.html
+host: marijnhaverbeke.nl
+path: /js1k/
 
 ---
 
-From Marijn Haverbeke, “a JavaScript platform game that fits in 1024 bytes”.
-
-
-
- ★ 
-
+From Marijn Haverbeke, a JavaScript platform game that fits in 1024 bytes.

@@ -1,13 +1,13 @@
 ---
 title: "W3 Total Cache"
-date: 2011-04-08 01:45:31 +0000
-external-url: http://wordpress.org/extend/plugins/w3-total-cache/
-hash: 7e30f8845c5eb9fcd7211286b9974044
+date: 2011-04-08 02:45:31 +0000
+external-url: http://wordpress.org/plugins/w3-total-cache/
+hash: cfd1097b013425659fc7a7a53101a3c7
 year: 2011
 month: 04
 scheme: http
 host: wordpress.org
-path: /extend/plugins/w3-total-cache/
+path: /plugins/w3-total-cache/
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Dropbox TOS Includes Broad Copyright License - Slashdot"
-date: 2011-07-04 04:41:19 +0000
-external-url: http://hardware.slashdot.org/story/11/07/02/0515218/Dropbox-TOS-Includes-Broad-Copyright-License
-hash: bf86ea29a036a6a5f321a4728f6a27f9
+date: 2011-07-04 05:41:19 +0000
+external-url: http://beta.slashdot.org/story/154182
+hash: c113f16ede6232519a3404b6b24f44e5
 year: 2011
 month: 07
 scheme: http
-host: hardware.slashdot.org
-path: /story/11/07/02/0515218/Dropbox-TOS-Includes-Broad-Copyright-License
+host: beta.slashdot.org
+path: /story/154182
 
 ---
 

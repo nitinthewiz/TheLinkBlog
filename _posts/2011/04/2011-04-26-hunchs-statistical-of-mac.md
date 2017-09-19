@@ -1,15 +1,14 @@
 ---
-title: "Hunch’s Statistical Profiles of Self-Described Mac vs. PC People"
-date: 2011-04-26 21:29:52 +0000
-external-url: http://blog.hunch.com/?p=45344
-hash: 17206c2adcc98041b96acfc0578132b6
+title: "Hunchs Statistical Profiles of Self-Described Mac vs. PC People"
+date: 2011-04-26 22:29:52 +0000
+external-url: http://www.ebay.com/
+hash: 6c26ac1526200c8a3d65b9587134b5f7
 year: 2011
 month: 04
 scheme: http
-host: blog.hunch.com
+host: www.ebay.com
 path: /
-query:
-    p: "45344"
+
 ---
 
 

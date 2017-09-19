@@ -1,12 +1,12 @@
 ---
-title: "Tweaking OmniFocus: Project TemplateApplescript"
+title: "Tweaking OmniFocus: Project Template Applescript"
 date: 2011-01-15 22:11:33 +0000
-external-url: http://macsparky.com/blog/2011/1/14/tweaking-omnifocus-project-template-applescript.html
-hash: bdd42d566ed0e610df6054c0efd2b02c
+external-url: http://www.macsparky.com/blog/2011/1/14/tweaking-omnifocus-project-template-applescript.html
+hash: e9463300aa3fb18dcf4b0ed2c8b82b6e
 year: 2011
 month: 01
 scheme: http
-host: macsparky.com
+host: www.macsparky.com
 path: /blog/2011/1/14/tweaking-omnifocus-project-template-applescript.html
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Batch Categories"
-date: 2008-10-08 16:25:52 +0000
-external-url: http://robm.me.uk/projects/plugins/wordpress/batch-categories
-hash: b6ae9a744e0b36079153367e115cfd1d
+date: 2008-10-08 17:25:52 +0000
+external-url: https://robm.me.uk/projects/plugins/wordpress/batch-categories
+hash: e93b95f4eb4bd0881b0e91f88ff8162f
 year: 2008
 month: 10
-scheme: http
+scheme: https
 host: robm.me.uk
 path: /projects/plugins/wordpress/batch-categories
 

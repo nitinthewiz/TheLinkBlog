@@ -1,14 +1,15 @@
 ---
 title: "Apple close to movie distribution deal with Fox - report"
 date: 2007-12-03 20:45:00 +0000
-external-url: http://appleinsider.com/articles/07/12/03/apple_close_to_movie_distribution_deal_with_fox_report
-hash: bdfe2400e14fc2914748d21d8f51f44f
+external-url: http://www.appleinsider.com/article.php?id=3478
+hash: ba04509402d62d7558a929e164965ff6
 year: 2007
 month: 12
 scheme: http
-host: appleinsider.com
-path: /articles/07/12/03/apple_close_to_movie_distribution_deal_with_fox_report
-
+host: www.appleinsider.com
+path: /article.php
+query:
+    id: "3478"
 ---
 
 NewsCorp's Twentieth Century Fox is close to striking a deal with Apple to offer digital copies of its major motion pictures through iTunes, according to one Wall Street analyst.

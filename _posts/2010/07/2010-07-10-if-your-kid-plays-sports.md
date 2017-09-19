@@ -1,14 +1,15 @@
 ---
 title: "If Your Kid Plays Sports, You MUST Follow This Startup"
-date: 2010-07-10 11:00:00 +0000
-external-url: http://www.businessinsider.com/if-your-kid-plays-sports-you-must-follow-this-startup-2010-7
-hash: c864edf75132db25632b39bf680f7eb0
+date: 2010-07-10 12:00:00 +0000
+external-url: http://www.businessinsider.com/if-your-kid-plays-sports-you-must-follow-this-startup-2010-7?op=1
+hash: 7d2fedbce0b06da5deb6ed7c77cc77e2
 year: 2010
 month: 07
 scheme: http
 host: www.businessinsider.com
 path: /if-your-kid-plays-sports-you-must-follow-this-startup-2010-7
-
+query:
+    op: "1"
 ---
 
 Keeping track of amateur, youth, and high school sports -- as a  parent, player, or fan -- has long been a crapshoot. It's usually  difficult or impossible for fans or local media to keep solid track of  how teams and players are performing, and the information is usually  sparse and/or old. Especially for sports that aren't football.
@@ -41,8 +42,4 @@ The good news is that there is a real need for this sort of service. I spent a l
 This is the sort of service that, if it becomes  popular enough, could potentially get picked up by a company like STATS Inc., Yahoo,  ESPN, CBS, Fox, or anyone else interested in amateur sports. (There is  also already competition here -- ESPN has loaned its name to an iPhone app  called iScore, for example.)
 
 The year-and-a-half-old Fungo Media is up to five employees now. Among them, CEO  Sullivan is a former minor league baseball player for the Cleveland   Indians and five of his angel investors are big-league baseball   players. Cofounder and CTO Kiril Savino used to work at DoubleClick,  and staffer Calvin Kuo used to lead the user interface team at Major  League Baseball Advanced Media, the league's (very successful) Internet  arm.
-Here's a "spray chart" of a batter's hitsHere's a live pitch-by-pitch box scoreHere's a few screenshots of GameChanger's iPhone app, including the scoring controls (right)Now, don't miss...The Next 5 Apple Gadgets To Waste Your Time Obsessing AboutJoin the conversation about this story »
-
-
-       
-
+Here's a "spray chart" of a batter's hitsHere's a live pitch-by-pitch box scoreHere's a few screenshots of GameChanger's iPhone app, including the scoring controls (right)Now, don't miss...The Next 5 Apple Gadgets To Waste Your Time Obsessing AboutJoin the conversation about this story

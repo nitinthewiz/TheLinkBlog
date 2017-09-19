@@ -1,14 +1,17 @@
 ---
-title: "Man quits job, makes living suing e-mail spammers - Yahoo Finance"
+title: "Man quits job, makes living suing e-mail spammers - Yahoo! Finance"
 date: 2010-12-27 18:36:26 +0000
-external-url: http://www.salon.com/2010/12/26/us_anti_spam_crusader/
-hash: 1ce0b47b428f5fc9a4290ed62481e128
+external-url: http://finance.yahoo.com/news/Man-quits-job-makes-living-apf-4229922732.html?x=0&sec=topStories&pos=main&asset=&ccode=
+hash: f7ceac00a4ca657cf6b711acf87623e9
 year: 2010
 month: 12
 scheme: http
-host: www.salon.com
-path: /2010/12/26/us_anti_spam_crusader/
-
+host: finance.yahoo.com
+path: /news/Man-quits-job-makes-living-apf-4229922732.html
+query:
+    x: "0"
+    sec: "topStories"
+    pos: "main"
 ---
 
-In this Dec. 22, 2010 photo, attorney Daniel Balsam, who hates spam so much that he launched a Website Danhatesspam.com, poses outside in San Francisco. From San Francisco Superior Court small claims court to the 9th U.S. Circuit Court of Appeals, San Francisco-based Balsam has been wielding a one-man crusade against e-mail marketers he alleges run afoul of federal and state anti-spamming laws with dozens of lawsuits filed even before he graduated law school in 2008.
+

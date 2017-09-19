@@ -1,13 +1,13 @@
 ---
 title: "Happy Birthday - the Wiki Celebrates its Sweet 16"
-date: 2011-03-25 09:15:21 +0000
-external-url: http://www.readwriteweb.com/cloud/2011/03/happy-birthday---the-wiki-cele.php
-hash: 00333623c5a3a69610a48aabb05eb2fd
+date: 2011-03-25 10:15:21 +0000
+external-url: http://readwrite.com/2011/03/24/happy-birthday---the-wiki-cele
+hash: 724f10c121ad78a84fd0bab462376ee8
 year: 2011
 month: 03
 scheme: http
-host: www.readwriteweb.com
-path: /cloud/2011/03/happy-birthday---the-wiki-cele.php
+host: readwrite.com
+path: /2011/03/24/happy-birthday---the-wiki-cele
 
 ---
 
@@ -48,6 +48,3 @@ I learned about RSS in 2003 and decided to do a Webcast called RSS Winterfest. I
 Thank you, Ward. It's a great day to celebrate!
 
 Discuss
-
-       
-

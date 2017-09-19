@@ -1,11 +1,11 @@
 ---
-title: "Everlong - Foo Fighters Piano Cover"
+title: "Everlong - Foo Fighters Piano Cover - YouTube"
 date: 2012-02-25 16:44:49 +0000
-external-url: https://www.youtube.com/watch?v=iwWLpXuqAjk
-hash: 4e006bff6ac6a1b4831b6b6a3329ec8f
+external-url: http://www.youtube.com/watch?v=iwWLpXuqAjk
+hash: 1d7b78753b75f9ef475763582e144dc1
 year: 2012
 month: 02
-scheme: https
+scheme: http
 host: www.youtube.com
 path: /watch
 query:

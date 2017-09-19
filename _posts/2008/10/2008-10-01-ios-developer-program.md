@@ -1,14 +1,14 @@
 ---
-title: "iOS Developer Program - Apple Developer"
-date: 2008-10-01 15:32:12 +0000
-external-url: http://developer.apple.com/programs/ios/
-hash: af0c93985aca1c348789b57838e42e6b
+title: "IOS Developer Program - Apple Developer"
+date: 2008-10-01 16:32:12 +0000
+external-url: https://developer.apple.com/programs/ios/
+hash: ee78904680a5a4ab1da8cb46ecd5676e
 year: 2008
 month: 10
-scheme: http
+scheme: https
 host: developer.apple.com
 path: /programs/ios/
 
 ---
 
-via iPhoneDevMN list, iPhone NDA is dropped! 
+via iPhoneDevMN list, iPhone NDA is dropped!

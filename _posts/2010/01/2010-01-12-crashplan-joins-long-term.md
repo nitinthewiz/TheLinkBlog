@@ -1,14 +1,14 @@
 ---
 title: "CrashPlan Joins Long-Term TidBITS Sponsors"
 date: 2010-01-12 01:22:32 +0000
-external-url: http://tidbits.com/article/10909
-hash: ecf7a24e8f700400517a0416fe471228
+external-url: http://tidbits.com/article/10909?rss=
+hash: 2da56a47e934727315c4bc0eb552e8c7
 year: 2010
 month: 01
 scheme: http
 host: tidbits.com
 path: /article/10909
-
+query:
 ---
 
 We're pleased to welcome Code42 Software, makers of the backup software CrashPlan, to the coterie of long-term TidBITS sponsors. Backup software is one of those topics near and dear to our hearts, since a solid backup strategy has prevented us from losing essential data (not to mention untold hours of work) on numerous occasions over the last 20 years.
@@ -30,5 +30,11 @@ travel, and more, and without the support of our sponsors and direct contributio
  
  
 
+ 
+Read and post comments about this article | Tweet this article
 
-Read and post comments about this article
+Fetch Softworks: Fetch 5.5 lets you edit remote files withany application, or Quick Look them for a snappy preview.Best of all, uploads are faster and more reliable than ever.Download your free trial version! <http://fetchsoftworks.com/>
+
+ 
+Copyright © 2010 Adam C. Engst. TidBITS is copyright © 2010 TidBITS Publishing Inc. If you're reading this article on a Web site other than TidBITS.com, please let us know, because if it was republished without attribution, by a commercial site, or in modified form, it violates our Creative Commons License.
+

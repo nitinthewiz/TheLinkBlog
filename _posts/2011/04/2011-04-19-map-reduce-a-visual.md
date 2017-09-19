@@ -1,13 +1,13 @@
 ---
-title: "Map / Reduce – A visual explanation"
-date: 2011-04-19 21:35:54 +0000
-external-url: http://ayende.com/Blog/archive/2010/03/14/map-reduce-ndash-a-visual-explanation.aspx
-hash: a66a259b583fb2cb62906489e8d24516
+title: "Map Reduce A visual explanation"
+date: 2011-04-19 22:35:54 +0000
+external-url: http://ayende.com/blog/4435/map-reduce-a-visual-explanation
+hash: 2de746083369f841ae4103080b5a1e5b
 year: 2011
 month: 04
 scheme: http
 host: ayende.com
-path: /Blog/archive/2010/03/14/map-reduce-ndash-a-visual-explanation.aspx
+path: /blog/4435/map-reduce-a-visual-explanation
 
 ---
 

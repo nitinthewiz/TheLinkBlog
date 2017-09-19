@@ -1,13 +1,13 @@
 ---
 title: "David Allen Getting Things Done"
 date: 2007-02-10 05:49:47 +0000
-external-url: http://gettingthingsdone.com
-hash: 52894252160d1362ba064a8ae876bfc6
+external-url: http://www.davidco.com/
+hash: bb913b16510493ce069097659b244643
 year: 2007
 month: 02
 scheme: http
-host: gettingthingsdone.com
-path: 
+host: www.davidco.com
+path: /
 
 ---
 

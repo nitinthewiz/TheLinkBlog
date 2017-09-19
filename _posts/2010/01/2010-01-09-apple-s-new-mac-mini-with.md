@@ -1,13 +1,13 @@
 ---
 title: "Apple's new Mac mini, server surprise with strong sales start"
 date: 2010-01-09 01:47:52 +0000
-external-url: http://appleinsider.com/articles/10/01/08/apples_new_mac_mini_server_surprise_with_strong_sales_start
-hash: 4b41129eb2d623ec73ee0b70b1eb36da
+external-url: http://www.appleinsider.com/articles/10/01/08/apples_new_mac_mini_server_surprise_with_strong_sales_start.html
+hash: 733cf317596c93e8ba6e434599121b00
 year: 2010
 month: 01
 scheme: http
-host: appleinsider.com
-path: /articles/10/01/08/apples_new_mac_mini_server_surprise_with_strong_sales_start
+host: www.appleinsider.com
+path: /articles/10/01/08/apples_new_mac_mini_server_surprise_with_strong_sales_start.html
 
 ---
 

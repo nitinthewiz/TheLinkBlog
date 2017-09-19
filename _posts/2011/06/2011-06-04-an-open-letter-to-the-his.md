@@ -1,13 +1,13 @@
 ---
 title: "An Open Letter to the Gentleman Blow-Drying His Balls in the Gym Locker Room"
-date: 2011-06-04 02:21:54 +0000
-external-url: http://www.mcsweeneys.net/links/openletters/27blowdry.html
-hash: 10952449a1ab6bfc242ac79b677f1b43
+date: 2011-06-04 03:21:54 +0000
+external-url: http://www.mcsweeneys.net/articles/an-open-letter-to-the-gentleman-blow-drying-his-balls-in-the-gym-locker-room
+hash: 25d1526ab40154e5392d34273406be03
 year: 2011
 month: 06
 scheme: http
 host: www.mcsweeneys.net
-path: /links/openletters/27blowdry.html
+path: /articles/an-open-letter-to-the-gentleman-blow-drying-his-balls-in-the-gym-locker-room
 
 ---
 

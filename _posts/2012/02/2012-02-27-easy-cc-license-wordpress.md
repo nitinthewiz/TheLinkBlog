@@ -1,13 +1,13 @@
 ---
-title: "Easy CC License WordPress Plugins"
+title: "Easy CC License « WordPress Plugins"
 date: 2012-02-27 20:08:27 +0000
-external-url: http://wordpress.org/plugins/easy-cc-license/stats/
-hash: 923877727231276e5f2386219a747545
+external-url: http://wordpress.org/extend/plugins/easy-cc-license/stats/
+hash: b838aa04b6a0d9b312922af3e1e9f155
 year: 2012
 month: 02
 scheme: http
 host: wordpress.org
-path: /plugins/easy-cc-license/stats/
+path: /extend/plugins/easy-cc-license/stats/
 
 ---
 

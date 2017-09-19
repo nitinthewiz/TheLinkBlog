@@ -1,13 +1,13 @@
 ---
 title: "FLEX - US punk & hardcore discography"
-date: 2007-09-29 10:47:24 +0000
-external-url: http://www.fuzzlogic.com/flex/
-hash: 76ddacdf1afa934c3addfb703facdda6
+date: 2007-09-29 11:47:24 +0000
+external-url: http://www.fuzzlogic.com/flex/doku.php
+hash: 4ef9b2d770f328d4314e7b75b2ea02e7
 year: 2007
 month: 09
 scheme: http
 host: www.fuzzlogic.com
-path: /flex/
+path: /flex/doku.php
 
 ---
 

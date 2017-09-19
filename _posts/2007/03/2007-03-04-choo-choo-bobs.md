@@ -1,12 +1,12 @@
 ---
 title: "Choo Choo Bobs"
 date: 2007-03-04 16:28:04 +0000
-external-url: http://choochoobobs.com/
-hash: cbf3cbcdb5f3dc47cf83ef18441292e0
+external-url: http://www.choochoobobs.com/
+hash: a252e0e12353df71b8c9df849ab2c540
 year: 2007
 month: 03
 scheme: http
-host: choochoobobs.com
+host: www.choochoobobs.com
 path: /
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: "The One-Percenters"
-date: 2011-04-12 03:56:34 +0000
-external-url: http://blogs.suntimes.com/ebert/2011/04/the_one-percenters.html
-hash: 2394cfe498451a4ca4edc439151eab29
+date: 2011-04-12 04:56:34 +0000
+external-url: http://www.rogerebert.com/rogers-journal/the-one-percenters
+hash: a8f11c933179885b47af362908ec0d50
 year: 2011
 month: 04
 scheme: http
-host: blogs.suntimes.com
-path: /ebert/2011/04/the_one-percenters.html
+host: www.rogerebert.com
+path: /rogers-journal/the-one-percenters
 
 ---
 

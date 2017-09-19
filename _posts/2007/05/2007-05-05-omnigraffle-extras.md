@@ -1,13 +1,13 @@
 ---
 title: "OmniGraffle - Extras"
-date: 2007-05-05 19:32:49 +0000
-external-url: http://www.omnigroup.com/applications/omnigraffle/extras/
-hash: 732e1b612408539e10b980960ca61bbc
+date: 2007-05-05 20:32:49 +0000
+external-url: http://www.omnigroup.com/omnigraffle
+hash: 0bc7c5707c6388930ee1d7559529830f
 year: 2007
 month: 05
 scheme: http
 host: www.omnigroup.com
-path: /applications/omnigraffle/extras/
+path: /omnigraffle
 
 ---
 

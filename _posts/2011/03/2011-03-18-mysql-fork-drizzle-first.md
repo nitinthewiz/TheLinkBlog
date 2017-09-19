@@ -1,17 +1,17 @@
 ---
 title: "MySQL Fork Drizzle Finally Releases First General Availability Version"
-date: 2011-03-18 11:07:01 +0000
-external-url: http://www.readwriteweb.com/hack/2011/03/drizzle-a-new-fork-of-mysql.php
-hash: 3a4ed0245d0a1463fc4f582fec65023a
+date: 2011-03-18 12:07:01 +0000
+external-url: http://readwrite.com/2011/03/17/drizzle-a-new-fork-of-mysql
+hash: 6d8d0c5a04fe8721617ff411e310d14c
 year: 2011
 month: 03
 scheme: http
-host: www.readwriteweb.com
-path: /hack/2011/03/drizzle-a-new-fork-of-mysql.php
+host: readwrite.com
+path: /2011/03/17/drizzle-a-new-fork-of-mysql
 
 ---
 
- Drizzle, a lightweight fork of MySQL, released its first general availability version today. Drizzle is designed for multicore environments and cloud applications. Unlike NoSQL databases, Drizzle still uses structure queried language. Instead, it attempts to improve performance by cutting the database server down to its core.
+Drizzle, a lightweight fork of MySQL, released its first general availability version today. Drizzle is designed for multicore environments and cloud applications. Unlike NoSQL databases, Drizzle still uses structure queried language. Instead, it attempts to improve performance by cutting the database server down to its core.
 
 Sponsor
 
@@ -40,6 +40,3 @@ Drizzle dispenses with views, triggers, prepared statements, and much more. Inst
 We covered Drizzle in our look at non-relational databases back in 2009.
 
 Discuss
-
-       
-

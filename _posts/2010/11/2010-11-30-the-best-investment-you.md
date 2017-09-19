@@ -1,14 +1,14 @@
 ---
 title: "The best investment advice you'll never get"
 date: 2010-11-30 14:27:10 +0000
-external-url: http://www.modernluxury.com/san-francisco/story/the-best-investment-advice-youll-never-get
-hash: a67a66e580f753af415fada473fc1c0e
+external-url: http://www.sanfranmag.com/story/best-investment-advice-youll-never-get
+hash: 9de60bdc1f756d24f2d7af8b8ef09f3e
 year: 2010
 month: 11
 scheme: http
-host: www.modernluxury.com
-path: /san-francisco/story/the-best-investment-advice-youll-never-get
+host: www.sanfranmag.com
+path: /story/best-investment-advice-youll-never-get
 
 ---
 
-As Googles historic August 2004 IPO approached, the companys senior vice president, Jonathan Rosenberg, realized he was about to spawn hundreds of impetuous young multimillionaires. They would, he feared, become the prey of Wall Street brokers, financial advisers, and wealth managers, all offering their own get-even-richer investment schemes. Scores of them from firms like J.P. Morgan Chase, UBS, Morgan Stanley, and Presidio Financial Partners were already circling company headquarters in Mountain View with hopes of presenting their wares to some soon-to-be-very-wealthy new clients.
+

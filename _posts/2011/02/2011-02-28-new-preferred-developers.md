@@ -1,17 +1,18 @@
 ---
 title: "New Preferred Developers and Open Application Round"
 date: 2011-02-28 10:25:00 +0000
-external-url: https://developers.facebook.com/blog/post/470/
-hash: 18bba2eaae55431ffba1acb39a64921f
+external-url: http://developers.facebook.com/blog/post/470
+hash: 1a47dec91bb7e285abadf1cda670f2c4
 year: 2011
 month: 02
-scheme: https
+scheme: http
 host: developers.facebook.com
-path: /blog/post/470/
+path: /blog/post/470
 
 ---
 
-We often hear from companies looking for guidance on maximizing their Facebook presence. To better meet each entitys needs, we introduced the Preferred Developer Consultant (PDC) program in December 2009 to connect companies and brands to the resources they need to build with Facebook products and technologies.
+
+We often hear from companies looking for guidance on maximizing their Facebook presence. To better meet each entity’s needs, we introduced the Preferred Developer Consultant (PDC) program in December 2009 to connect companies and brands to the resources they need to build with Facebook products and technologies.
 
 
 
@@ -36,14 +37,16 @@ What separates a PDC from most other digital development firms is the ability to
 
 
 
-Today, were pleased to announce the addition of 17 companies to the PDC program; see the full list of Facebook Preferred Developer Consultants.
+Today, we’re pleased to announce the addition of 17 companies to the PDC program; see the full list of Facebook Preferred Developer Consultants.
 
 
 
 
-Were also now accepting submissions for the next round of PDCs. Submissions for this round will be open through the month of March. If you'd like to join the program, you can submit your company for review with our PDC submission form. Please also note our expectations and criteria for accepting PDCs. Finally, with this new round of applications, we're deprecating prefdevconsultant@fb.com; anyone who has submitted their interest there will be invited to submit an official application soon.
+We’re also now accepting submissions for the next round of PDCs. Submissions for this round will be open through the month of March. If you'd like to join the program, you can submit your company for review with our PDC submission form. Please also note our expectations and criteria for accepting PDCs. Finally, with this new round of applications, we're deprecating prefdevconsultant@fb.com; anyone who has submitted their interest there will be invited to submit an official application soon.
 
 
 
 
 Matt looks forward to seeing what the PDCs will come up with next.
+
+

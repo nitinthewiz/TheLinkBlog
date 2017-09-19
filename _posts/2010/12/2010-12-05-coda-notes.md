@@ -1,13 +1,13 @@
 ---
 title: "Coda Notes"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://www.panic.com/blog/coda-notes-for-safari-now-available/
-hash: a6cdc825a1b36dbd863becd8f2c03b3d
+external-url: http://www.panic.com/blog/2010/07/coda-notes-for-safari-now-available/
+hash: a40f896f85d07339e5c7783c760139cb
 year: 2010
 month: 12
 scheme: http
 host: www.panic.com
-path: /blog/coda-notes-for-safari-now-available/
+path: /blog/2010/07/coda-notes-for-safari-now-available/
 
 ---
 

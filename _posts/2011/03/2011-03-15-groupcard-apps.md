@@ -1,12 +1,12 @@
 ---
 title: "GroupCard Apps"
-date: 2011-03-15 19:46:43 +0000
-external-url: http://www.groupcardapps.com/
-hash: 599fea9e5a335bfbb923f8a0ab8a6446
+date: 2011-03-15 20:46:43 +0000
+external-url: http://groupcardapps.com/
+hash: 196060c816eca25be532b48bd34a6740
 year: 2011
 month: 03
 scheme: http
-host: www.groupcardapps.com
+host: groupcardapps.com
 path: /
 
 ---

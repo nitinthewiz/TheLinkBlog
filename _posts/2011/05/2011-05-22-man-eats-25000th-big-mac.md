@@ -1,15 +1,14 @@
 ---
 title: "Man Eats 25,000th Big Mac"
-date: 2011-05-22 18:17:01 +0000
-external-url: http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/05/17/national/a140342D23.DTL
-hash: 5f63e76078490eccd7ccc5d6f4682243
+date: 2011-05-22 19:17:01 +0000
+external-url: http://www.usatoday.com/news/offbeat/2011-05-21-big-mac-milestone_n.htm
+hash: 9f4363bd6962560174e8cb656cdf0284
 year: 2011
 month: 05
 scheme: http
-host: www.sfgate.com
-path: /cgi-bin/article.cgi
-query:
-    f: "/n/a/2011/05/17/national/a140342D23.DTL"
+host: www.usatoday.com
+path: /news/offbeat/2011-05-21-big-mac-milestone_n.htm
+
 ---
 
-A retired prison guard ate his 25,000th Big Mac on Tuesday, 39 years to the day after eating his first ... nine.
+Don Gorske was honored after reaching the meaty milestone during a ceremony at a McDonald's in his hometown of Fond du Lac, Wisconsin. Surely McDonald's most loyal customer, Guinness World Records recognized Gorske's feat three years and 2,000 Big Macs ago, and the 57-year-old says he has no desire to stop.

@@ -1,13 +1,13 @@
 ---
-title: "Google Data APIs (Beta) Developer's Guide - Using the C# Client Library"
-date: 2007-05-29 19:12:12 +0000
-external-url: http://code.google.com/apis/gdata/client-cs.html
-hash: b615db6e6c098526db01701e1be7d3ca
+title: "Google Data APIs (Beta) Developer's Guide - Using the C- Client Library"
+date: 2007-05-29 20:12:12 +0000
+external-url: https://developers.google.com/gdata/client-cs
+hash: 1724146765b88515cd828e6b04278648
 year: 2007
 month: 05
-scheme: http
-host: code.google.com
-path: /apis/gdata/client-cs.html
+scheme: https
+host: developers.google.com
+path: /gdata/client-cs
 
 ---
 

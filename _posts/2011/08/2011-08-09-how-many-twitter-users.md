@@ -1,15 +1,14 @@
 ---
 title: "How many Twitter users started later with Twitter than you did"
-date: 2011-08-09 06:23:12 +0000
-external-url: http://twopcharts.com/howlongontwitter?source=&user=thingles
-hash: 1a8f6aa5022f9e3aeaa407e6e99604db
+date: 2011-08-09 07:23:12 +0000
+external-url: http://twopcharts.com/howlongontwitter/thingles
+hash: fd9fad1164b0ca1a3480844f4bccfd20
 year: 2011
 month: 08
 scheme: http
 host: twopcharts.com
-path: /howlongontwitter
-query:
-    user: "thingles"
+path: /howlongontwitter/thingles
+
 ---
 
 Jamie Thingelstad has been on Twitter longer than 99.98% of all other Twitter users.

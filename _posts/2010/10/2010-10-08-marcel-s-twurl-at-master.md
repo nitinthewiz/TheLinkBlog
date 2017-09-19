@@ -1,14 +1,14 @@
 ---
-title: "marcel's twurl at master - GitHub"
-date: 2010-10-08 04:38:14 +0000
-external-url: https://github.com/marcel/twurl
-hash: 87d941a43bb7026ef4594b4b3931b8c6
+title: "Marcel's twurl at master"
+date: 2010-10-08 05:38:14 +0000
+external-url: https://github.com/twitter/twurl
+hash: 385d218deb64eed8b4a47c48cf3ff8a7
 year: 2010
 month: 10
 scheme: https
 host: github.com
-path: /marcel/twurl
+path: /twitter/twurl
 
 ---
 
-i've decided to use twitter from the command line. 
+i've decided to use twitter from the command line.

@@ -1,13 +1,13 @@
 ---
-title: "Facebook Retail 101: Exclusivity creates a frenzy  | Shop.org Blog"
-date: 2010-10-08 19:18:38 +0000
-external-url: http://blog.shop.org/2010/10/06/facebook-retail-101-exclusivity-creates-a-frenzy/
-hash: 2cacc740cd74c44ede29991a9ef8e06b
+title: "Facebook Retail 101: Exclusivity creates a frenzy Shop.org Blog"
+date: 2010-10-08 20:18:38 +0000
+external-url: https://nrf.com/news
+hash: ea4d532e291a228a95c877939b4dca1a
 year: 2010
 month: 10
-scheme: http
-host: blog.shop.org
-path: /2010/10/06/facebook-retail-101-exclusivity-creates-a-frenzy/
+scheme: https
+host: nrf.com
+path: /news
 
 ---
 

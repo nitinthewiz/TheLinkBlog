@@ -1,14 +1,14 @@
 ---
 title: "Indecision 2012: Ron Paul and the Top Tier"
-date: 2011-08-18 17:43:47 +0000
-external-url: http://www.hulu.com/watch/268553/the-daily-show-with-jon-stewart-indecision-2012-ron-paul-and-the-top-tier
-hash: 6f14a818e5cd58cafc1821ff394968f0
+date: 2011-08-18 18:43:47 +0000
+external-url: http://thedailyshow.cc.com/watch/mon-august-15-2011/indecision-2012---corn-polled-edition---ron-paul---the-top-tier
+hash: b1a51759a94a7d4a0078644ba1e3440b
 year: 2011
 month: 08
 scheme: http
-host: www.hulu.com
-path: /watch/268553/the-daily-show-with-jon-stewart-indecision-2012-ron-paul-and-the-top-tier
+host: thedailyshow.cc.com
+path: /watch/mon-august-15-2011/indecision-2012---corn-polled-edition---ron-paul---the-top-tier
 
 ---
 
-Speaking of “nah nah, can’t hear you”, here’s Jon Stewart on the cable news channel’s treatment of Ron Paul in the nascent Republican primary race.
+Speaking of nah nah, cant hear you, heres Jon Stewart on the cable news channels treatment of Ron Paul in the nascent Republican primary race.

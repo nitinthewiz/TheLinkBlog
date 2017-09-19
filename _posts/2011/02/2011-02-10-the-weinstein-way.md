@@ -1,14 +1,15 @@
 ---
 title: "The Weinstein Way"
 date: 2011-02-10 04:41:43 +0000
-external-url: http://www.vanityfair.com/hollywood/features/2004/02/weinstein-miramax-200402
-hash: dcf85cacaf5342599620ba59dcff8db9
+external-url: http://m.vanityfair.com/hollywood/features/2004/02/weinstein-miramax-200402?printable=true
+hash: 48697ff63731b076287a3454cb413c7d
 year: 2011
 month: 02
 scheme: http
-host: www.vanityfair.com
+host: m.vanityfair.com
 path: /hollywood/features/2004/02/weinstein-miramax-200402
-
+query:
+    printable: "true"
 ---
 
-Harvey Weinstein lost not only his beloved Miramax studio, and millions of dollars, but also his passion for filmmaking. Bryan Burrough tells how Hollywoods last true impresario returned in triumphjust in time for Oscar season. Photographs by Victor Demarchelier.
+

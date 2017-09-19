@@ -1,13 +1,13 @@
 ---
-title: "Two spaces after a period: Why you should never, ever do it."
+title: "Two spaces after a period: Why you should never, ever do it. - By Farhad Manjoo - Slate Magazine"
 date: 2011-01-15 22:08:30 +0000
-external-url: http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html
-hash: 0cd0fe35089a18cdcd5393f0d63cc349
+external-url: http://www.slate.com/id/2281146/pagenum/all/
+hash: 2c79aab449c84455586943c0eba2f8ce
 year: 2011
 month: 01
 scheme: http
 host: www.slate.com
-path: /articles/technology/technology/2011/01/space_invaders.html
+path: /id/2281146/pagenum/all/
 
 ---
 

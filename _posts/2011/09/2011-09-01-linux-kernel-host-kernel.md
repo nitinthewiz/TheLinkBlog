@@ -1,13 +1,13 @@
 ---
 title: "Linux Kernel Host Kernel.org Breached"
-date: 2011-09-01 02:17:24 +0000
-external-url: http://www.readwriteweb.com/enterprise/2011/08/linux-kernel-host-kernelorg-br.php
-hash: 579de2b7fe20abd2627e15f68e109a1b
+date: 2011-09-01 03:17:24 +0000
+external-url: http://readwrite.com/2011/08/31/linux-kernel-host-kernelorg-br
+hash: 3215f1e865e0949d5ce98fc5b58d21d5
 year: 2011
 month: 09
 scheme: http
-host: www.readwriteweb.com
-path: /enterprise/2011/08/linux-kernel-host-kernelorg-br.php
+host: readwrite.com
+path: /2011/08/31/linux-kernel-host-kernelorg-br
 
 ---
 

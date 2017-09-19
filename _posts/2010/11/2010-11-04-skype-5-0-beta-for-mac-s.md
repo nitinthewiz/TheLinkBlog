@@ -1,13 +1,13 @@
 ---
 title: "Skype 5.0 Beta for Mac Arrives... But Where's Facebook?"
-date: 2010-11-04 16:10:47 +0000
-external-url: http://www.readwriteweb.com/archives/skype_50_beta_for_mac_arrivesbut_wheres_facebook.php
-hash: 6b6343c8ae2e6c2187a18642f1cbb9e2
+date: 2010-11-04 17:10:47 +0000
+external-url: http://readwrite.com/2010/11/04/skype_50_beta_for_mac_arrivesbut_wheres_facebook
+hash: d7eb2a055e296c23b36b5b396e703781
 year: 2010
 month: 11
 scheme: http
-host: www.readwriteweb.com
-path: /archives/skype_50_beta_for_mac_arrivesbut_wheres_facebook.php
+host: readwrite.com
+path: /2010/11/04/skype_50_beta_for_mac_arrivesbut_wheres_facebook
 
 ---
 
@@ -49,6 +49,3 @@ There's one big thing missing from this new Mac version, of course - Facebook in
 
 
 Discuss
-
-       
-

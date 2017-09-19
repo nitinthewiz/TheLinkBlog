@@ -1,15 +1,16 @@
 ---
 title: "The Daily Shoot"
 date: 2009-12-09 03:45:02 +0000
-external-url: http://www.clarkware.com/blog/2009/12/07/the-daily-shoot
-hash: 5d760108f5cf0074bf90a4cf1e526553
+external-url: http://www.clarkware.com/cgi/blosxom/2009/12/07#TheDailyShoot
+hash: ee90584bdf60c7910b42bc569acf072f
 year: 2009
 month: 12
 scheme: http
 host: www.clarkware.com
-path: /blog/2009/12/07/the-daily-shoot
+path: /cgi/blosxom/2009/12/07
 
 ---
+
 
 I love to make photographs, and yet I don't practice the craft and art of photography enough. Now and
 then I'll get on a shooting kick for a few days. It's usually when the family gets together, the light
@@ -41,7 +42,7 @@ Then to share your photo, upload it to your photo sharing site of choice and pos
 
 
 
-When you're practicing, it's often inspiring to see what other people are doing if only so you don't feel alone.  So this weekend we launched a revision to the companion web site to help out with that.  No account necessaryit's all driven from Twitter replies! You can catch up on all the assignments and view all the photos submitted for a particular assignment.  You can also check out all the photographers who have participated.  If you'd rather get your daily assignments via RSS, there's an RSS feed for that.  And if you have suggestions for future assignments, please let us know! (Thanks to Patrick Lenz and Urban Hafner for some of the code that powers the new site!)
+When you're practicing, it's often inspiring to see what other people are doing if only so you don't feel alone.  So this weekend we launched a revision to the companion web site to help out with that.  No account necessary—it's all driven from Twitter replies! You can catch up on all the assignments and view all the photos submitted for a particular assignment.  You can also check out all the photographers who have participated.  If you'd rather get your daily assignments via RSS, there's an RSS feed for that.  And if you have suggestions for future assignments, please let us know! (Thanks to Patrick Lenz and Urban Hafner for some of the code that powers the new site!)
 
 
 
@@ -59,3 +60,5 @@ It's inspiring to see how other photogs interpret an assignment, and I'm learnin
 You can start today! It's easy: Keep your eye open for something blue, and make a photo. Upload it
 somewhere, reply with a link, and you've joined The Daily Shoot community. Tomorrow we'll have
 another fun assignment to help you practice. We'd love to have you join us!
+
+

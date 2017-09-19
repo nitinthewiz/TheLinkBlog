@@ -1,14 +1,14 @@
 ---
 title: "BetterSearch"
-date: 2005-08-04 21:57:38 +0000
-external-url: http://bettersearch.g-blog.net/
-hash: c580ab9c9c34b2dbe0afc80f1083f9e1
+date: 2005-08-04 22:57:38 +0000
+external-url: https://addons.mozilla.org/en-US/firefox/addon/bettersearch/
+hash: f211b6ab08370b3e23df9250afacd935
 year: 2005
 month: 08
-scheme: http
-host: bettersearch.g-blog.net
-path: /
+scheme: https
+host: addons.mozilla.org
+path: /en-US/firefox/addon/bettersearch/
 
 ---
 
-A Firefox Extension For Enhancing Search Engines
+An addon for Firefox which enhances Google, Bing, Yahoo! and Yandex search with all their international flavours by adding previews (thumbnails) and additional functionality.

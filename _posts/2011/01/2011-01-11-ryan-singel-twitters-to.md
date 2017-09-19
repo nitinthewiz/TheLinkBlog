@@ -1,13 +1,13 @@
 ---
-title: "Ryan Singel: Twitters Response to WikiLeaks Subpoena Should Be the Industry Standard"
+title: "Ryan Singel: ‘Twitter’s Response to WikiLeaks Subpoena Should Be the Industry Standard’"
 date: 2011-01-11 20:43:52 +0000
-external-url: http://www.wired.com/2011/01/twitter/
-hash: c91981b432cbdae6845604d5faf1ef7c
+external-url: http://www.wired.com/threatlevel/2011/01/twitter/
+hash: b978f30df737c7c6209e7752d119875d
 year: 2011
 month: 01
 scheme: http
 host: www.wired.com
-path: /2011/01/twitter/
+path: /threatlevel/2011/01/twitter/
 
 ---
 
@@ -25,3 +25,8 @@ Twitter beta-tested a spine.
 
 
 Indeed. Bravo.
+
+
+
+ ★ 
+

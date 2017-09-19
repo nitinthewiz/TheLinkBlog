@@ -1,15 +1,15 @@
 ---
-title: "Lawrence Lessig: The unstoppable walk to political reform - YouTube"
-date: 2014-04-04 17:49:31 +0000
-external-url: https://www.youtube.com/watch?v=mWfCqsFP05A
-hash: 87f59a65eeb86c115f60679fde8ecb52
+title: "Lawrence Lessig: The unstoppable walk to political reform"
+date: 2014-04-04 23:33:26 +0000
+external-url: http://www.youtube.com/watch?v=mWfCqsFP05A
+hash: a35d877b7739f260ff33d070ea6e47a5
 year: 2014
 month: 04
-scheme: https
+scheme: http
 host: www.youtube.com
 path: /watch
 query:
     v: "mWfCqsFP05A"
 ---
 
-"The unstoppable walk to political reform" by @lessig 
+Seven years ago, Internet activist Aaron Swartz convinced Lawrence Lessig to take up the fight for political reform. A year after Swartz's tragic death, Lessig continues his campaign to free US politics from the stranglehold of corruption. In this fiery, deeply personal talk, he calls for all citizens to engage, and a offers a heartfelt reminder to never give up hope.

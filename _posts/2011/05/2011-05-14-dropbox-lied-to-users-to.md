@@ -1,13 +1,13 @@
 ---
 title: "Dropbox Lied to Users About Data Security, Complaint to FTC Alleges"
-date: 2011-05-14 15:14:54 +0000
-external-url: http://m.wired.com/threatlevel/2011/05/dropbox-ftc/
-hash: b87c4e0d33a66fdde324d86da07f1a40
+date: 2011-05-14 16:14:54 +0000
+external-url: http://www.wired.com/2011/05/dropbox-ftc/
+hash: 3bca98202648af3fc8d8cf2350252331
 year: 2011
 month: 05
 scheme: http
-host: m.wired.com
-path: /threatlevel/2011/05/dropbox-ftc/
+host: www.wired.com
+path: /2011/05/dropbox-ftc/
 
 ---
 

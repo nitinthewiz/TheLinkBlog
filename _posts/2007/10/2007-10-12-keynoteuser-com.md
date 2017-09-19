@@ -1,14 +1,14 @@
 ---
 title: "KeynoteUser.com"
-date: 2007-10-12 15:43:11 +0000
-external-url: http://keynoteuser.com/index.php
-hash: 5bea21308658805b2ca591e5880109a2
+date: 2007-10-12 16:43:11 +0000
+external-url: http://keynoteuser.com/
+hash: 0c2f3484fdbb91cd752319c071e718d7
 year: 2007
 month: 10
 scheme: http
 host: keynoteuser.com
-path: /index.php
+path: /
 
 ---
 
-Keynote Themes | Keynote News | Keynote Resources
+Keynote Themes

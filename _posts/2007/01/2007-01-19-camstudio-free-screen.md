@@ -1,12 +1,12 @@
 ---
 title: "CamStudio - Free Screen Recording Software"
 date: 2007-01-19 05:43:08 +0000
-external-url: http://camstudio.org/
-hash: be5e3aadc2e13889bfc39b4c7504bf66
+external-url: http://www.camstudio.org/
+hash: f07261460bc7ec8288d9ed9db5cbcc76
 year: 2007
 month: 01
 scheme: http
-host: camstudio.org
+host: www.camstudio.org
 path: /
 
 ---

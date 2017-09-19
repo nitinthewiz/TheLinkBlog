@@ -1,13 +1,13 @@
 ---
 title: "On Twitter: What's Valuation Got to Do With Revenue?"
-date: 2009-09-17 01:54:12 +0000
-external-url: http://www.readwriteweb.com/archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
-hash: 92860a5090b064e4615d7cd97bdcb9a2
+date: 2009-09-17 02:54:12 +0000
+external-url: http://readwrite.com/2009/09/16/on_twitter_whats_valuation_got_to_do_with_revenue
+hash: 4a4beb42cda566c5a9bc8d804ee2c584
 year: 2009
 month: 09
 scheme: http
-host: www.readwriteweb.com
-path: /archives/on_twitter_whats_valuation_got_to_do_with_revenue.php
+host: readwrite.com
+path: /2009/09/16/on_twitter_whats_valuation_got_to_do_with_revenue
 
 ---
 
@@ -28,6 +28,3 @@ In the past, ReadWriteWeb has looked at Twitter's platform potential. The servic
 In late May, Facebook had a valuation of $10 billion dollars based on a $200 million investment from Digital Sky Technologies. And like Twitter, while we've seen huge traffic numbers, Facebook only yesterday announced becoming cash-flow positive. If Twitter is attempting to become the "pulse of the planet" as suggested by the widely criticized leak of the company's internal documents, then perhaps $1 billion dollars isn't entirely off. Does Twitter have the assets to warrant such a high valuation, or are we looking at the makings of a speculative investment disaster? Let us know your thoughts in the comments below. 
 
 Discuss
-
-        
-

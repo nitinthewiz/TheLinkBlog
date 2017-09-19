@@ -1,14 +1,14 @@
 ---
 title: "Jamie (Minneapolis, MN)'s review of Traffic: Why We Drive the Way We Do"
-date: 2010-03-19 04:10:56 +0000
-external-url: http://www.goodreads.com/review/show/94742339
-hash: 21a63fe79139e5172f4ac4e77328b45d
+date: 2010-03-19 05:10:56 +0000
+external-url: http://www.goodreads.com/
+hash: c4e684e1502d38e6d4b76322ae21b39b
 year: 2010
 month: 03
 scheme: http
 host: www.goodreads.com
-path: /review/show/94742339
+path: /
 
 ---
 
-4 of 5 stars to Traffic by Tom Vanderbilt 
+4 of 5 stars to Traffic by Tom Vanderbilt

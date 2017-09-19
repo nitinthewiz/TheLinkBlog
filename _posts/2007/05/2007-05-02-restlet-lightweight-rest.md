@@ -1,12 +1,12 @@
 ---
 title: "Restlet - Lightweight REST framework for Java"
-date: 2007-05-02 19:55:31 +0000
-external-url: http://www.restlet.org/
-hash: e6713a91ba22dd984b21e8a5d904014c
+date: 2007-05-02 20:55:31 +0000
+external-url: http://restlet.com/
+hash: ef555e6fed935f928ab9d956e76d00e6
 year: 2007
 month: 05
 scheme: http
-host: www.restlet.org
+host: restlet.com
 path: /
 
 ---

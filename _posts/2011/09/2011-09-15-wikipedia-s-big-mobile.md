@@ -1,13 +1,13 @@
 ---
 title: "Wikipedia's Big Mobile Plans Have Begun"
-date: 2011-09-15 02:03:43 +0000
-external-url: http://www.readwriteweb.com/archives/wikipedias_big_mobile_plans_have_begun.php
-hash: 332b59748928960c3904e2a5c4abfd7e
+date: 2011-09-15 03:03:43 +0000
+external-url: http://readwrite.com/2011/09/14/wikipedias_big_mobile_plans_have_begun
+hash: c906252329532d44f336293750a2c61b
 year: 2011
 month: 09
 scheme: http
-host: www.readwriteweb.com
-path: /archives/wikipedias_big_mobile_plans_have_begun.php
+host: readwrite.com
+path: /2011/09/14/wikipedias_big_mobile_plans_have_begun
 
 ---
 

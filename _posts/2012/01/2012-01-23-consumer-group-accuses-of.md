@@ -1,13 +1,13 @@
 ---
 title: "Consumer group accuses Hollywood of 'threatening politicians'"
 date: 2012-01-23 02:52:28 +0000
-external-url: http://thehill.com/policy/technology/205491-consumer-group-accuses-hollywood-of-threatening-politicians
-hash: 3ee0ee91196e49377c6ba96b2eaebf36
+external-url: http://thehill.com/blogs/hillicon-valley/technology/205491-consumer-group-accuses-hollywood-of-threatening-politicians
+hash: bec2dbaf0b5d9ec3f5038f61d160d506
 year: 2012
 month: 01
 scheme: http
 host: thehill.com
-path: /policy/technology/205491-consumer-group-accuses-hollywood-of-threatening-politicians
+path: /blogs/hillicon-valley/technology/205491-consumer-group-accuses-hollywood-of-threatening-politicians
 
 ---
 

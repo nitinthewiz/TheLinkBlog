@@ -1,13 +1,13 @@
 ---
 title: "SlideShowPro for Lightroom"
-date: 2008-10-08 12:53:00 +0000
-external-url: http://slideshowpro.net/products/slideshowpro/slideshowpro_for_lightroom
-hash: baceaefc7a17ab80032879bae2c85cbc
+date: 2008-10-08 13:53:00 +0000
+external-url: http://slideshowpro.net/products/slideshowpro_player/
+hash: fd3ac2080d2adce63bc5d349b6491f4c
 year: 2008
 month: 10
 scheme: http
 host: slideshowpro.net
-path: /products/slideshowpro/slideshowpro_for_lightroom
+path: /products/slideshowpro_player/
 
 ---
 

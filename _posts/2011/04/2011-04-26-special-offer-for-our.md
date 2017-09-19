@@ -1,13 +1,13 @@
 ---
-title: "“Special Offer for Our Valued Readers”"
-date: 2011-04-26 15:04:28 +0000
-external-url: http://www.newyorker.com/humor/2011/04/25/110425sh_shouts_gillespie
-hash: d4aa765fff0a737bb587c6fe22e48a7a
+title: "Special Offer for Our Valued Readers"
+date: 2011-04-26 16:04:28 +0000
+external-url: http://www.newyorker.com/magazine/2011/04/25/paywall
+hash: 693b7216b762d7e86c253fc525c6d48e
 year: 2011
 month: 04
 scheme: http
 host: www.newyorker.com
-path: /humor/2011/04/25/110425sh_shouts_gillespie
+path: /magazine/2011/04/25/paywall
 
 ---
 

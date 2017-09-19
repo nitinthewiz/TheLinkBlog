@@ -1,12 +1,12 @@
 ---
-title: "Support for Same-Sex Marriage by Age and State Sociological Images"
+title: "Support for Same-Sex Marriage by Age and State  »  Sociological Images"
 date: 2009-11-10 16:13:18 +0000
-external-url: http://thesocietypages.org/socimages/2009/11/05/support-for-same-sex-marriage-by-age-and-state/
-hash: b2b32a2b5ed378fd68fbae764782dbf3
+external-url: http://contexts.org/socimages/2009/11/05/support-for-same-sex-marriage-by-age-and-state/
+hash: 3a7c0750fc0962624a842dec92018cd3
 year: 2009
 month: 11
 scheme: http
-host: thesocietypages.org
+host: contexts.org
 path: /socimages/2009/11/05/support-for-same-sex-marriage-by-age-and-state/
 
 ---

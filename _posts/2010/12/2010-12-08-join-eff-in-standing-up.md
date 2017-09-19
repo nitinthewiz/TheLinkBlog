@@ -1,11 +1,11 @@
 ---
 title: "Join EFF in Standing up Against Internet Censorship"
 date: 2010-12-08 03:50:14 +0000
-external-url: https://www.eff.org/deeplinks/2010/12/join-eff-in-standing-up-against-internet-censorship
-hash: 99f3a00aa6e891b6973bc0d7eeae0339
+external-url: http://www.eff.org/deeplinks/2010/12/join-eff-in-standing-up-against-internet-censorship
+hash: 584d0edeb9fb3d82d97b9255648e73c4
 year: 2010
 month: 12
-scheme: https
+scheme: http
 host: www.eff.org
 path: /deeplinks/2010/12/join-eff-in-standing-up-against-internet-censorship
 

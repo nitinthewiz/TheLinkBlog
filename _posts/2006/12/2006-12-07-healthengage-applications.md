@@ -1,13 +1,13 @@
 ---
 title: "HealthEngage Applications and Services."
 date: 2006-12-07 11:33:47 +0000
-external-url: http://www.healthengage.com/home/
-hash: f3a29e87c25548aa9e32579200832448
+external-url: http://www.healthengage.com/
+hash: e7ab033e4d2db9a4a6780e56c18099cf
 year: 2006
 month: 12
 scheme: http
 host: www.healthengage.com
-path: /home/
+path: /
 
 ---
 

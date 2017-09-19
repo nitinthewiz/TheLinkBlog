@@ -1,13 +1,13 @@
 ---
 title: "Apple TV sales rise 300%, will see continued investment"
 date: 2009-01-22 04:30:49 +0000
-external-url: http://appleinsider.com/articles/09/01/21/apple_tv_sales_rise_300_will_see_continued_investment
-hash: 80641e8428f56ca92e12c2447c43fa46
+external-url: http://www.appleinsider.com/articles/09/01/21/apple_tv_sales_rise_300_will_see_continued_investment.html
+hash: de44ad165824c01eab7e24b0b472d24a
 year: 2009
 month: 01
 scheme: http
-host: appleinsider.com
-path: /articles/09/01/21/apple_tv_sales_rise_300_will_see_continued_investment
+host: www.appleinsider.com
+path: /articles/09/01/21/apple_tv_sales_rise_300_will_see_continued_investment.html
 
 ---
 

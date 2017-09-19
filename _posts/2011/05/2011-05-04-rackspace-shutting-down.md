@@ -1,13 +1,13 @@
 ---
 title: "Rackspace Shutting Down Slicehost"
-date: 2011-05-04 03:37:24 +0000
-external-url: http://www.readwriteweb.com/cloud/2011/05/rackspace-shutting-down-sliceh.php
-hash: 04101a1125f7431952e42b97f092472d
+date: 2011-05-04 04:37:24 +0000
+external-url: http://readwrite.com/2011/05/03/rackspace-shutting-down-sliceh
+hash: dea3096fc49ead2e7db90b8b1db2ae51
 year: 2011
 month: 05
 scheme: http
-host: www.readwriteweb.com
-path: /cloud/2011/05/rackspace-shutting-down-sliceh.php
+host: readwrite.com
+path: /2011/05/03/rackspace-shutting-down-sliceh
 
 ---
 

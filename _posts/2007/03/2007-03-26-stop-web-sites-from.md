@@ -1,13 +1,13 @@
 ---
-title: "Stop web sites from resizing Firefox windows - Lifehacker"
-date: 2007-03-26 20:06:54 +0000
-external-url: http://www.lifehacker.com/software/firefox/stop-web-sites-from-resizing-firefox-windows-247048.php
-hash: 14b853c18303ee90b03985fe127541f3
+title: "Stop web sites from resizing Firefox windows"
+date: 2007-03-26 21:06:54 +0000
+external-url: http://lifehacker.com/247048/stop-web-sites-from-resizing-firefox-windows
+hash: 5fb60c7b4d55faa39888bf7496a9925e
 year: 2007
 month: 03
 scheme: http
-host: www.lifehacker.com
-path: /software/firefox/stop-web-sites-from-resizing-firefox-windows-247048.php
+host: lifehacker.com
+path: /247048/stop-web-sites-from-resizing-firefox-windows
 
 ---
 

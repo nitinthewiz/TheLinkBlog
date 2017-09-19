@@ -1,12 +1,12 @@
 ---
 title: "Camtasia Studio"
 date: 2007-01-19 05:38:52 +0000
-external-url: http://www.techsmith.com/camtasia.asp
-hash: 8dac2e3308b266b64eaea746bbc5ba05
+external-url: http://techsmith.com/camtasia.asp
+hash: e1322c62581081ff8a49c13578a10304
 year: 2007
 month: 01
 scheme: http
-host: www.techsmith.com
+host: techsmith.com
 path: /camtasia.asp
 
 ---

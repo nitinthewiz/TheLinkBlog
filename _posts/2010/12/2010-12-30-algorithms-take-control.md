@@ -1,13 +1,13 @@
 ---
 title: "Algorithms Take Control of Wall Street"
 date: 2010-12-30 15:03:23 +0000
-external-url: http://www.wired.com/2010/12/ff_ai_flashtrading/
-hash: fadcfb644702720f26adde4f43c781c0
+external-url: http://www.wired.com/magazine/2010/12/ff_ai_flashtrading/all/1
+hash: d0c79328153eca81a3454607e36bd158
 year: 2010
 month: 12
 scheme: http
 host: www.wired.com
-path: /2010/12/ff_ai_flashtrading/
+path: /magazine/2010/12/ff_ai_flashtrading/all/1
 
 ---
 

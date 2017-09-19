@@ -1,13 +1,13 @@
 ---
 title: "Star Tribune To Give Some 'Deeper' Stories To Print Subscribers Exclusively"
-date: 2009-03-31 04:18:07 +0000
-external-url: http://m.paidcontent.org/article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
-hash: 0ec9a99670bba0d78a0987ff464b8268
+date: 2009-03-31 05:18:07 +0000
+external-url: https://gigaom.com/2009/03/30/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
+hash: 6684f45575f04793e6fa08d99a46267e
 year: 2009
 month: 03
-scheme: http
-host: m.paidcontent.org
-path: /article/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
+scheme: https
+host: gigaom.com
+path: /2009/03/30/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
 
 ---
 
@@ -28,5 +28,3 @@ Star-Tribune Files For Bankruptcy; Minneapolis Newspaper Seeks Lower Labor Costs
 
 Promo:
 Check out the best business jobs in digital media. Go here for paidContent.org Job Board.
-    
-

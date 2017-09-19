@@ -1,13 +1,13 @@
 ---
 title: "Urban Photo Data Uncovers Local Hot Spots"
-date: 2010-06-09 21:14:35 +0000
-external-url: http://www.readwriteweb.com/archives/cool_local_places_without_tourists.php
-hash: aa45b09cc4291380b14b225b86fbfa36
+date: 2010-06-09 22:14:35 +0000
+external-url: http://readwrite.com/2010/06/09/cool_local_places_without_tourists
+hash: e603a1ce6261888062da560baa96d3d1
 year: 2010
 month: 06
 scheme: http
-host: www.readwriteweb.com
-path: /archives/cool_local_places_without_tourists.php
+host: readwrite.com
+path: /2010/06/09/cool_local_places_without_tourists
 
 ---
 
@@ -43,6 +43,3 @@ In the visualization above, yellow markers could be either tourist or local.
 What other pivot points can you imagine comparing location and photos with?  Duration of proximity by photographer is a pretty neat one.
 
 Discuss
-
-       
-

@@ -1,13 +1,13 @@
 ---
 title: "Wind Powering America: State Wind Resource Maps"
-date: 2007-05-27 12:49:16 +0000
-external-url: http://www.eere.energy.gov/windandhydro/windpoweringamerica/wind_maps.asp
-hash: 0d2cb9f8c5e5b3906561bd4b3514b938
+date: 2007-05-27 13:49:16 +0000
+external-url: http://apps2.eere.energy.gov/wind/windexchange/wind_maps.asp
+hash: 635bde5759e6206b10d4876209be7380
 year: 2007
 month: 05
 scheme: http
-host: www.eere.energy.gov
-path: /windandhydro/windpoweringamerica/wind_maps.asp
+host: apps2.eere.energy.gov
+path: /wind/windexchange/wind_maps.asp
 
 ---
 

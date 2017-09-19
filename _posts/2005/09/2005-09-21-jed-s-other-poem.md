@@ -1,14 +1,14 @@
 ---
 title: "Jed's Other Poem"
-date: 2005-09-21 02:25:31 +0000
-external-url: http://www.stewdio.org/jed/
-hash: 8febae4afd706b7ebf64707e6469ca46
+date: 2005-09-21 03:25:31 +0000
+external-url: http://stewd.io/jed/
+hash: a12b03d512fceab61ae7efce91b5184c
 year: 2005
 month: 09
 scheme: http
-host: www.stewdio.org
+host: stewd.io
 path: /jed/
 
 ---
 
-Totally whacky Apple ][ music video
+

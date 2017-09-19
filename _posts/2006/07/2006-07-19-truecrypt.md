@@ -1,12 +1,12 @@
 ---
 title: "TrueCrypt"
-date: 2006-07-19 03:25:04 +0000
-external-url: http://www.truecrypt.org/
-hash: 14b795d16e0cfee72bab8502955f945e
+date: 2006-07-19 04:25:04 +0000
+external-url: http://truecrypt.sourceforge.net/
+hash: da3eade9dbef48beba95671c8f02bf7b
 year: 2006
 month: 07
 scheme: http
-host: www.truecrypt.org
+host: truecrypt.sourceforge.net
 path: /
 
 ---

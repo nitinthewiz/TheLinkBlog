@@ -1,13 +1,13 @@
 ---
 title: "Python and Django on Heroku"
-date: 2011-09-29 14:30:47 +0000
-external-url: http://blog.heroku.com/archives/2011/9/28/python_and_django/
-hash: bd316a82fa80179237c1b4a2042e2d8a
+date: 2011-09-29 15:30:47 +0000
+external-url: https://blog.heroku.com/archives/2011/9/28/python_and_django
+hash: e292b212d53b7d160294e028f0f146f8
 year: 2011
 month: 09
-scheme: http
+scheme: https
 host: blog.heroku.com
-path: /archives/2011/9/28/python_and_django/
+path: /archives/2011/9/28/python_and_django
 
 ---
 

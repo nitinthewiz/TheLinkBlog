@@ -1,14 +1,15 @@
 ---
 title: "Second-gen iPhone in final phase; Apple TV update planned - report"
 date: 2007-12-12 15:00:00 +0000
-external-url: http://appleinsider.com/articles/07/12/12/second_gen_iphone_in_final_phase_apple_tv_update_planned_report
-hash: 4d28e042a59a8a419ea0a9189dfdb82f
+external-url: http://www.appleinsider.com/article.php?id=3510
+hash: 09eee62db73bd2bd392f770d6ed8e1a2
 year: 2007
 month: 12
 scheme: http
-host: appleinsider.com
-path: /articles/07/12/12/second_gen_iphone_in_final_phase_apple_tv_update_planned_report
-
+host: www.appleinsider.com
+path: /article.php
+query:
+    id: "3510"
 ---
 
 After meeting with key component suppliers and manufacturers in Asia, researchers for investment bank Goldman Sachs said this week they believe Apple will introduce two revisions to the iPhone in 2008 -- one minor, one major -- in addition to an Appl...

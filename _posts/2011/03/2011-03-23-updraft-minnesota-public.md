@@ -1,13 +1,13 @@
 ---
-title: "Updraft | Minnesota Public Radio"
-date: 2011-03-23 22:32:40 +0000
-external-url: http://minnesota.publicradio.org/collections/special/columns/updraft/
-hash: 1142ad56451aa7a9e0d5f165449b18eb
+title: "Updraft Minnesota Public Radio"
+date: 2011-03-23 23:32:40 +0000
+external-url: http://blogs.mprnews.org/updraft/
+hash: 9082c7d02d62d8af7aee0e1c5ed6fce4
 year: 2011
 month: 03
 scheme: http
-host: minnesota.publicradio.org
-path: /collections/special/columns/updraft/
+host: blogs.mprnews.org
+path: /updraft/
 
 ---
 

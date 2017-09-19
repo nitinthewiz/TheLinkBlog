@@ -1,12 +1,12 @@
 ---
 title: "TinkerTool"
-date: 2006-06-27 21:43:20 +0000
-external-url: http://www.bresink.de/osx/TinkerTool.html
-hash: 47fba690efbb607054dc39fea3ad1b98
+date: 2006-06-27 22:43:20 +0000
+external-url: http://www.bresink.com/osx/TinkerTool.html
+hash: d6fe68f7fabe8124a7c211f3163dbfd2
 year: 2006
 month: 06
 scheme: http
-host: www.bresink.de
+host: www.bresink.com
 path: /osx/TinkerTool.html
 
 ---

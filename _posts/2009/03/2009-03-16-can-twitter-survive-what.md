@@ -1,14 +1,14 @@
 ---
 title: "Can Twitter Survive What is About to Happen to It?"
-date: 2009-03-16 03:01:53 +0000
-external-url: http://www.twine.com/item/123c9051b-g8/can-twitter-survive-what-is-about-to-happen-to-it
-hash: be400a3f5e701142be4f79eef7f32baf
+date: 2009-03-16 04:01:53 +0000
+external-url: http://www.novaspivack.com/uncategorized/can-twitter-survive-what-is-about-to-happen-to-it
+hash: d09f4e55d48c70788dd139deb75c34bb
 year: 2009
 month: 03
 scheme: http
-host: www.twine.com
-path: /item/123c9051b-g8/can-twitter-survive-what-is-about-to-happen-to-it
+host: www.novaspivack.com
+path: /uncategorized/can-twitter-survive-what-is-about-to-happen-to-it
 
 ---
 
-Comments
+I am worried about Twitter. I love it the way it is today. But its about to change big time, and I wonder whether it can survive the transition.

@@ -1,13 +1,13 @@
 ---
 title: "WordPress e-Commerce Plugin"
 date: 2008-11-23 16:54:51 +0000
-external-url: http://getshopped.org/
-hash: dc0231326d08d16375e79ca538f6d23a
+external-url: http://www.instinct.co.nz/e-commerce/
+hash: 0f236c996113d0298c24e1380f145861
 year: 2008
 month: 11
 scheme: http
-host: getshopped.org
-path: /
+host: www.instinct.co.nz
+path: /e-commerce/
 
 ---
 

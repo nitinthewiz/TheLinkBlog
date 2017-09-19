@@ -1,12 +1,12 @@
 ---
 title: "Asciiflow - ASCII Flow Diagram Tool"
-date: 2011-06-14 22:40:55 +0000
-external-url: http://www.asciiflow.com/
-hash: d70101200c658adc51fa01448075fa98
+date: 2011-06-14 23:40:55 +0000
+external-url: http://asciiflow.com/
+hash: 65b8326ee9d8cb855c673cfbcc6b82fc
 year: 2011
 month: 06
 scheme: http
-host: www.asciiflow.com
+host: asciiflow.com
 path: /
 
 ---

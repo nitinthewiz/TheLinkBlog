@@ -1,13 +1,13 @@
 ---
 title: "NiftyURLs"
 date: 2011-01-28 11:30:42 +0000
-external-url: http://www.betterprogramming.com/niftyurls-a-django-powered-popurls-script.html
-hash: 24f4746b9ae1c492443a81ebd8a6c09e
+external-url: http://www.pythondaddy.com/niftyurls.html
+hash: 1ec174dd35d84ff4c5bfae820ef33d54
 year: 2011
 month: 01
 scheme: http
-host: www.betterprogramming.com
-path: /niftyurls-a-django-powered-popurls-script.html
+host: www.pythondaddy.com
+path: /niftyurls.html
 
 ---
 

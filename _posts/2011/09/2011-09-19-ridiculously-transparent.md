@@ -1,12 +1,12 @@
 ---
 title: "Ridiculously Transparent"
-date: 2011-09-19 01:26:52 +0000
-external-url: http://bhorowitz.com/2011/09/02/ridiculously-transparent/
-hash: 9c8236e7cff489e736f46187b4127ded
+date: 2011-09-19 02:26:52 +0000
+external-url: http://www.bhorowitz.com/2011/09/02/ridiculously-transparent/
+hash: d37cced6e867d701a7680a2ed12905dc
 year: 2011
 month: 09
 scheme: http
-host: bhorowitz.com
+host: www.bhorowitz.com
 path: /2011/09/02/ridiculously-transparent/
 
 ---

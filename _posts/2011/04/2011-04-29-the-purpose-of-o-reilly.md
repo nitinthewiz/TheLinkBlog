@@ -1,8 +1,8 @@
 ---
 title: "The purpose of gamification - O'Reilly Radar"
-date: 2011-04-29 11:09:17 +0000
-external-url: http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html#comments
-hash: d689d7c0955be78cc2673b26375eff92
+date: 2011-04-29 12:09:17 +0000
+external-url: http://radar.oreilly.com/2011/04/gamification-purpose-marketing.html
+hash: ace335326eea1e87924fdcded8d92799
 year: 2011
 month: 04
 scheme: http

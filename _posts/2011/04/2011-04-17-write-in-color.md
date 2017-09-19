@@ -1,12 +1,12 @@
 ---
 title: "Write In Color"
-date: 2011-04-17 22:35:23 +0000
-external-url: http://melodygodfred.com/2011/04/15/a-mothers-prayer-for-its-child-by-tina-fey/
-hash: db17ca28e317393ec45b17d10a195eba
+date: 2011-04-17 23:35:23 +0000
+external-url: http://www.writeincolor.com/2011/04/15/a-mothers-prayer-for-its-child-by-tina-fey/
+hash: 690e1a331bd515d35d62f048bec66c53
 year: 2011
 month: 04
 scheme: http
-host: melodygodfred.com
+host: www.writeincolor.com
 path: /2011/04/15/a-mothers-prayer-for-its-child-by-tina-fey/
 
 ---

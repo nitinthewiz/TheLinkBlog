@@ -1,15 +1,14 @@
 ---
 title: "Facebook Statistics"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://newsroom.fb.com/content/default.aspx?NewsAreaId=22
-hash: c3f76d467dcd2c32489dee29b89eda53
+external-url: http://www.facebook.com/press/info.php?statistics
+hash: b07b57725b4e3a369de7223d5d8c9039
 year: 2010
 month: 12
 scheme: http
-host: newsroom.fb.com
-path: /content/default.aspx
+host: www.facebook.com
+path: /press/info.php
 query:
-    NewsAreaId: "22"
 ---
 
 

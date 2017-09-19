@@ -1,13 +1,13 @@
 ---
-title: "WordPress › Delicious XML Importer « WordPress Plugins"
-date: 2011-03-25 04:04:01 +0000
-external-url: http://wordpress.org/extend/plugins/delicious-xml-importer/changelog/
-hash: 1fa98bf4d2af218c32fea1769a99f2cb
+title: "WordPress Delicious XML Importer WordPress Plugins"
+date: 2011-03-25 05:04:01 +0000
+external-url: http://wordpress.org/plugins/delicious-xml-importer/changelog/
+hash: 7ccbc452da18d4a9ec503a3ee6deef80
 year: 2011
 month: 03
 scheme: http
 host: wordpress.org
-path: /extend/plugins/delicious-xml-importer/changelog/
+path: /plugins/delicious-xml-importer/changelog/
 
 ---
 

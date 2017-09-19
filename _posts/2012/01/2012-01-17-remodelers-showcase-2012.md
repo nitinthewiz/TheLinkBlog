@@ -1,15 +1,14 @@
 ---
 title: "Remodelers Showcase: Spring 2012 Preview"
 date: 2012-01-17 22:47:14 +0000
-external-url: http://www.quartersawndesignbuild.com/whatnot/?p=998
-hash: bceccfc3f8c323b3cc34a7d69a446b9a
+external-url: http://networkedblogs.com/sOt4M
+hash: 61e47aabce5c0cf2529a891b56ec9a04
 year: 2012
 month: 01
 scheme: http
-host: www.quartersawndesignbuild.com
-path: /whatnot/
-query:
-    p: "998"
+host: networkedblogs.com
+path: /sOt4M
+
 ---
 
-Remodelers Showcase: Spring 2012 Preview
+Remodelers Showcase: Spring 2012 Preview 

@@ -1,13 +1,13 @@
 ---
-title: "Is the world too big to fail? - Salon.com Mobile"
-date: 2011-04-22 10:15:12 +0000
-external-url: http://mobile.salon.com/news/politics/war_room/2011/04/21/global_empire_united_states_iraq_noam_chomsky
-hash: 96ef9e86f54f6a6636cc1ce531fa2349
+title: "Is the world too big to fail?"
+date: 2011-04-22 11:15:12 +0000
+external-url: http://www.salon.com/2011/04/21/global_empire_united_states_iraq_noam_chomsky/
+hash: ad9c5b153eede33e94bc9dc9b33233d5
 year: 2011
 month: 04
 scheme: http
-host: mobile.salon.com
-path: /news/politics/war_room/2011/04/21/global_empire_united_states_iraq_noam_chomsky
+host: www.salon.com
+path: /2011/04/21/global_empire_united_states_iraq_noam_chomsky/
 
 ---
 

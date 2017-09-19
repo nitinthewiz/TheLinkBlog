@@ -1,14 +1,14 @@
 ---
-title: "Researchers Expose Cunning Online Tracking Service That Can’t Be Dodged | Epicenter | Wired.com"
-date: 2011-08-03 18:32:02 +0000
-external-url: http://www.wired.com/epicenter/2011/07/undeletable-cookie
-hash: 54dc6c0f301555f59959dacba167ec95
+title: "Researchers Expose Cunning Online Tracking Service That Cant Be Dodged"
+date: 2011-08-03 19:32:02 +0000
+external-url: http://www.wired.com/2011/07/undeletable-cookie/
+hash: b3d1627715e274befc0ead13557d5119
 year: 2011
 month: 08
 scheme: http
 host: www.wired.com
-path: /epicenter/2011/07/undeletable-cookie
+path: /2011/07/undeletable-cookie/
 
 ---
 
-Researchers at U.C. Berkeley have discovered that some of the net’s most popular sites are using a tracking service that can’t be evaded — even when users block cookies, turn off storage in Flash, or use browsers’ “incognito” functions.
+Researchers at U.C. Berkeley have discovered that some of the nets most popular sites are using a tracking service that cant be evaded  even when users block cookies, turn off storage in Flash, or use browsers incognito functions.

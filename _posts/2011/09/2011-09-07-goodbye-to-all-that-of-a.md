@@ -1,13 +1,13 @@
 ---
 title: "Goodbye to All That: Reflections of a GOP Operative Who Left the Cult"
-date: 2011-09-07 03:12:40 +0000
-external-url: http://www.truth-out.org/goodbye-all-reflections-gop-operative-who-left-cult/1314907779
-hash: 7e9be36aa22ac2f8eeb11f1a37b76917
+date: 2011-09-07 04:12:40 +0000
+external-url: http://truth-out.org/opinion/item/3079:goodbye-to-all-that-reflections-of-a-gop-operative-who-left-the-cult
+hash: 4b29630dc402fb7ae5e7441279a57b57
 year: 2011
 month: 09
 scheme: http
-host: www.truth-out.org
-path: /goodbye-all-reflections-gop-operative-who-left-cult/1314907779
+host: truth-out.org
+path: /opinion/item/3079:goodbye-to-all-that-reflections-of-a-gop-operative-who-left-the-cult
 
 ---
 

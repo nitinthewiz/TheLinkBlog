@@ -1,13 +1,13 @@
 ---
 title: "Confluence Case Study: Dow Jones & Company"
 date: 2008-02-05 19:34:33 +0000
-external-url: https://www.atlassian.com/company/customers/case-studies/
-hash: 833807b77be1936dec9af9248a925c40
+external-url: http://www.atlassian.com/software/confluence/casestudies/dowjones.jsp
+hash: 74805513245f91a96220826195b49b06
 year: 2008
 month: 02
-scheme: https
+scheme: http
 host: www.atlassian.com
-path: /company/customers/case-studies/
+path: /software/confluence/casestudies/dowjones.jsp
 
 ---
 

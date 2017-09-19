@@ -1,13 +1,13 @@
 ---
 title: "How-To: Download embedded videos"
-date: 2007-05-08 21:07:26 +0000
-external-url: http://uneasysilence.com/archive/2005/04/2597/
-hash: b12bbd7ead61f64ba7eb95b53af91a37
+date: 2007-05-08 22:07:26 +0000
+external-url: http://www.waoanime.tv
+hash: 22e7c56c459ff16ea1c3d1b4bdcaa60c
 year: 2007
 month: 05
 scheme: http
-host: uneasysilence.com
-path: /archive/2005/04/2597/
+host: www.waoanime.tv
+path: 
 
 ---
 

@@ -1,15 +1,14 @@
 ---
 title: "Human Brain Limits Twitter Friends To 150"
-date: 2011-05-31 02:40:01 +0000
-external-url: http://www.technologyreview.com/blog/arxiv/26824/?p1=Blogs
-hash: e152beaf2cddfae95a864271d8ec3589
+date: 2011-05-31 03:40:01 +0000
+external-url: http://www.technologyreview.com/view/424146/human-brain-limits-twitter-friends-to-150/
+hash: 4e9b7fd99c10eb7251d37eb94add1914
 year: 2011
 month: 05
 scheme: http
 host: www.technologyreview.com
-path: /blog/arxiv/26824/
-query:
-    p1: "Blogs"
+path: /view/424146/human-brain-limits-twitter-friends-to-150/
+
 ---
 
 The number of people we can truly be friends with is constant, regardless of social networking services like Twitter, according to a new study of the network.

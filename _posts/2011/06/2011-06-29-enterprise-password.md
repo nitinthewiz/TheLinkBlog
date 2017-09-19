@@ -1,12 +1,12 @@
 ---
 title: "Enterprise Password Management Software"
-date: 2011-06-29 16:34:35 +0000
-external-url: http://www.thycotic.com/products_secretserver_overview.html
-hash: 4990ffe03cce58b30c6addeb4e332556
+date: 2011-06-29 17:34:35 +0000
+external-url: http://thycotic.com/products_secretserver_overview.html
+hash: da85dc213a9bbba98ae83ea72dcf7351
 year: 2011
 month: 06
 scheme: http
-host: www.thycotic.com
+host: thycotic.com
 path: /products_secretserver_overview.html
 
 ---

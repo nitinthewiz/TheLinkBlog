@@ -1,13 +1,13 @@
 ---
 title: "MinneBar 2010 - Barcamp - Unconference- Eventbrite"
-date: 2009-10-23 03:22:54 +0000
-external-url: http://minnebar.eventbrite.com/
-hash: b098598dd1d5ee974dcadeec0da7afee
+date: 2009-10-23 04:22:54 +0000
+external-url: http://www.eventbrite.com/e/minnebar-8-registration-5791232733
+hash: 9a6396e5cb3d54d8bc998384dc206c85
 year: 2009
 month: 10
 scheme: http
-host: minnebar.eventbrite.com
-path: /
+host: www.eventbrite.com
+path: /e/minnebar-8-registration-5791232733
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Opt Out of Behavioral Advertising"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://www.networkadvertising.org/choices/
-hash: cbc68fd67fb5795217fada1f63fbe03a
+external-url: http://www.networkadvertising.org/managing/opt_out.asp
+hash: 472e58709d5d127dc5ac603580a8edb7
 year: 2010
 month: 12
 scheme: http
 host: www.networkadvertising.org
-path: /choices/
+path: /managing/opt_out.asp
 
 ---
 

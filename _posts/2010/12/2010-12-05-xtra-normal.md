@@ -1,12 +1,12 @@
 ---
 title: "Xtra Normal"
 date: 2010-12-05 12:21:18 +0000
-external-url: https://thecollegeshop.com/
-hash: d5f2b0d212f99e4ec683dbce45c7cbc6
+external-url: http://www.xtranormal.com/
+hash: 4a466402dc166b9a6f053637defbd17c
 year: 2010
 month: 12
-scheme: https
-host: thecollegeshop.com
+scheme: http
+host: www.xtranormal.com
 path: /
 
 ---

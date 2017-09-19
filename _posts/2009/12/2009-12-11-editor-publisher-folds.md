@@ -1,14 +1,21 @@
 ---
-title: "Editor & Publisher Folds"
+title: "Editor &amp; Publisher Folds"
 date: 2009-12-11 03:38:56 +0000
-external-url: http://www.poynter.org/latest-news/mediawire/99821/nielsen-folds-editor-publisher-and-kirkus-reviews/
-hash: 62a63b2660e70fe42ce7e237a12a8bdb
+external-url: http://www.poynter.org/column.asp?id=45&aid=174719
+hash: e9221856c52f88f8aee3bb9d59fbb710
 year: 2009
 month: 12
 scheme: http
 host: www.poynter.org
-path: /latest-news/mediawire/99821/nielsen-folds-editor-publisher-and-kirkus-reviews/
-
+path: /column.asp
+query:
+    id: "45"
+    aid: "174719"
 ---
 
 Speaking of the collapse of the newspaper industry.
+
+
+
+ ★ 
+

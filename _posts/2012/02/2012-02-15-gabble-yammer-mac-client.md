@@ -1,13 +1,13 @@
 ---
 title: "Gabble - Yammer Mac client"
 date: 2012-02-15 20:11:11 +0000
-external-url: http://gabbleapp.com
-hash: 40149b2622102707ee91d52d1302b4eb
+external-url: http://gabbleapp.com/
+hash: aa0154a69f7cf4078a7ab06121f9878d
 year: 2012
 month: 02
 scheme: http
 host: gabbleapp.com
-path: 
+path: /
 
 ---
 

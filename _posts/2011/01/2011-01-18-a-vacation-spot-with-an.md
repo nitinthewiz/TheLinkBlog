@@ -1,8 +1,8 @@
 ---
-title: "A Vacation Spot With An Afterglow MetaFilter"
+title: "A Vacation Spot With An Afterglow | MetaFilter"
 date: 2011-01-18 03:51:57 +0000
-external-url: http://www.metafilter.com/98485/A-Vacation-Spot-With-An-Afterglow
-hash: df4c07a692adf25c09aed91a98138102
+external-url: http://www.metafilter.com/98485/A-Vacation-Spot-With-An-Afterglow#3418653
+hash: 704c697a8b4f852d20754894c2e2fd3c
 year: 2011
 month: 01
 scheme: http

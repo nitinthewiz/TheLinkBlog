@@ -1,12 +1,12 @@
 ---
 title: "My Life As An RSS Junkie"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://medialoper.com/columns/thats-what-i-like/my-life-as-an-rss-junkie/
-hash: 796ecb5310fbe9a9c238fd032a9e9865
+external-url: http://www.medialoper.com/columns/thats-what-i-like/my-life-as-an-rss-junkie/
+hash: ab46b2e18d24032a848e5de50d785a74
 year: 2010
 month: 12
 scheme: http
-host: medialoper.com
+host: www.medialoper.com
 path: /columns/thats-what-i-like/my-life-as-an-rss-junkie/
 
 ---

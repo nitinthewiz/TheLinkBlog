@@ -1,12 +1,12 @@
 ---
-title: "Photo Matt » Random Image Script"
-date: 2007-05-04 03:40:41 +0000
-external-url: http://photomatt.net/scripts/randomimage/
-hash: d5a608ace6e1b65e7ebdf23b34174f40
+title: "Photo Matt Random Image Script"
+date: 2007-05-04 04:40:41 +0000
+external-url: http://ma.tt/scripts/randomimage/
+hash: 1659cdbfdae609fef9d2c5441ad63c3a
 year: 2007
 month: 05
 scheme: http
-host: photomatt.net
+host: ma.tt
 path: /scripts/randomimage/
 
 ---

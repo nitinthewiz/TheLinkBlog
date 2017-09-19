@@ -1,13 +1,13 @@
 ---
 title: "Help Clean Up Minnehaha Creek"
-date: 2011-06-15 09:31:11 +0000
-external-url: http://southwestminneapolis.patch.com/articles/help-clean-up-minnehaha-creek
-hash: 1dcbfe7198b91e1082a7947f18371d26
+date: 2011-06-15 10:31:11 +0000
+external-url: http://patch.com/southwestminneapolis/help-clean-up-minnehaha-creek
+hash: 56d9ebe096d1b5601041f92b844def48
 year: 2011
 month: 06
 scheme: http
-host: southwestminneapolis.patch.com
-path: /articles/help-clean-up-minnehaha-creek
+host: patch.com
+path: /southwestminneapolis/help-clean-up-minnehaha-creek
 
 ---
 

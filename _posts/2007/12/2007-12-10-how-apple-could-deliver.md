@@ -1,13 +1,13 @@
 ---
 title: "How Apple could deliver workable iTunes video rentals"
 date: 2007-12-10 21:38:00 +0000
-external-url: http://macdailynews.com/2007/12/10/how_apple_could_deliver_workable_itunes_video_rentals/
-hash: 441033a778c264b25b5341d68e1dd399
+external-url: http://www.macdailynews.com/index.php/weblog/comments/how_apple_could_deliver_workable_itunes_video_rentals/
+hash: 2979842560cd9d2941405fc77f1063ae
 year: 2007
 month: 12
 scheme: http
-host: macdailynews.com
-path: /2007/12/10/how_apple_could_deliver_workable_itunes_video_rentals/
+host: www.macdailynews.com
+path: /index.php/weblog/comments/how_apple_could_deliver_workable_itunes_video_rentals/
 
 ---
 

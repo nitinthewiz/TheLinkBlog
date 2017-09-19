@@ -1,12 +1,12 @@
 ---
 title: "Social Technographics: Conversationalists get onto the ladder"
 date: 2010-01-21 02:14:00 +0000
-external-url: http://forrester.typepad.com/groundswell/2010/01/conversationalists-get-onto-the-ladder.html
-hash: e953a9e39aab7825af6cecfa9af29d82
+external-url: http://blogs.forrester.com/groundswell/2010/01/conversationalists-get-onto-the-ladder.html
+hash: c96600c17fbe4359b08164f530fdedd1
 year: 2010
 month: 01
 scheme: http
-host: forrester.typepad.com
+host: blogs.forrester.com
 path: /groundswell/2010/01/conversationalists-get-onto-the-ladder.html
 
 ---
@@ -26,3 +26,5 @@ As in any social environment, people have found lots of uses for this data, some
 3. Segment your audience; build different strategies for different segments. (Social is so prevalent now that a single approach for your company is probably too broad.)
 How will you use it?
 Note: For Forrester clients, full access to the research is available here.
+
+

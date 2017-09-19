@@ -1,13 +1,13 @@
 ---
-title: "Top ten laughably bad tech ads - Crave at CNET.co.uk"
-date: 2007-09-20 15:48:21 +0000
-external-url: http://crave.cnet.co.uk/0,39029477,49292857,00.htm
-hash: 2d118259ec30ea4d01672fee2ffe4cfc
+title: "Top ten laughably bad tech ads"
+date: 2007-09-20 16:48:21 +0000
+external-url: http://www.cnet.com/_uk_redir_/gadgets/top-ten-laughably-bad-tech-ads-49292857/
+hash: c1ce8620b754342e1900912dd0237083
 year: 2007
 month: 09
 scheme: http
-host: crave.cnet.co.uk
-path: /0,39029477,49292857,00.htm
+host: www.cnet.com
+path: /_uk_redir_/gadgets/top-ten-laughably-bad-tech-ads-49292857/
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "Honeywell goes after Nest Learning Thermostat for patent infringement The Verge"
+title: "Honeywell goes after Nest Learning Thermostat for patent infringement | The Verge"
 date: 2012-02-08 05:02:46 +0000
-external-url: http://www.theverge.com/2012/2/6/2775190/honeywell-goes-after-nests-learning-thermostat-for-patent-infringement
-hash: d81e7a77f363446ffc16b0b2c6eee2e4
+external-url: http://mobile.theverge.com/2012/2/6/2775190/honeywell-goes-after-nests-learning-thermostat-for-patent-infringement
+hash: 62625f8b9633f471337410f460071395
 year: 2012
 month: 02
 scheme: http
-host: www.theverge.com
+host: mobile.theverge.com
 path: /2012/2/6/2775190/honeywell-goes-after-nests-learning-thermostat-for-patent-infringement
 
 ---

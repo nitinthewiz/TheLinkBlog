@@ -1,11 +1,11 @@
 ---
-title: "Animated Sheet Music: \"So What\" by Miles Davis - YouTube"
-date: 2011-08-24 16:02:26 +0000
-external-url: http://www.youtube.com/watch?v=FPv9-rWITrM
-hash: e8f293def50102ae35409cd582b730cb
+title: "Animated Sheet Music: So What by Miles Davis"
+date: 2011-08-24 17:02:26 +0000
+external-url: https://www.youtube.com/watch?v=FPv9-rWITrM
+hash: bbdab40fc4ae9a59bb5524d10a92cafb
 year: 2011
 month: 08
-scheme: http
+scheme: https
 host: www.youtube.com
 path: /watch
 query:

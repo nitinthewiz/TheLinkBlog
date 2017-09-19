@@ -1,14 +1,14 @@
 ---
 title: "Why Windows 7 is not the answer"
-date: 2009-05-04 03:07:28 +0000
-external-url: http://blog.dustincurtis.com/day-8045-windows-7-is-not-the-answer
-hash: cd5c0b52a2301036ab4a883cebdbef64
+date: 2009-05-04 04:07:28 +0000
+external-url: https://www.flickr.com/photos/quarkfactor/3493155706/
+hash: d7894b9ebccba36d4b11c80fb0756ef1
 year: 2009
 month: 05
-scheme: http
-host: blog.dustincurtis.com
-path: /day-8045-windows-7-is-not-the-answer
+scheme: https
+host: www.flickr.com
+path: /photos/quarkfactor/3493155706/
 
 ---
 
-Comments
+

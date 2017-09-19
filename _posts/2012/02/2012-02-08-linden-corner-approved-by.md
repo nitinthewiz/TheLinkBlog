@@ -1,13 +1,13 @@
 ---
-title: "Linden Corner Approved By Planning Commission"
+title: "Linden Corner Approved By Planning Commission - Southwest Minneapolis, MN Patch"
 date: 2012-02-08 05:29:25 +0000
-external-url: http://patch.com/southwestminneapolis/linden-corner-approved-by-planning-commission
-hash: 7bffd3c72acf54d0d0b120b907c03728
+external-url: http://southwestminneapolis.patch.com/articles/linden-corner-approved-by-planning-commission
+hash: e93eb3919ea02ce52ed1cd7c6d3d50fa
 year: 2012
 month: 02
 scheme: http
-host: patch.com
-path: /southwestminneapolis/linden-corner-approved-by-planning-commission
+host: southwestminneapolis.patch.com
+path: /articles/linden-corner-approved-by-planning-commission
 
 ---
 

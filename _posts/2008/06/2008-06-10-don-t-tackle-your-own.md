@@ -1,13 +1,13 @@
 ---
 title: "Don't tackle your own good news"
-date: 2008-06-10 14:01:00 +0000
-external-url: http://www.37signals.com/svn/posts/1070-dont-tackle-your-own-good-news
-hash: d4ae838201f534816082d10e9cf97096
+date: 2008-06-10 15:01:00 +0000
+external-url: http://signalvnoise.com/posts/1070-dont-tackle-your-own-good-news
+hash: 0daa728f9c100306932361462310e6bb
 year: 2008
 month: 06
 scheme: http
-host: www.37signals.com
-path: /svn/posts/1070-dont-tackle-your-own-good-news
+host: signalvnoise.com
+path: /posts/1070-dont-tackle-your-own-good-news
 
 ---
 
@@ -19,7 +19,7 @@ But at the last minute, we changed our minds and decided to let old customers ke
 
 
 
-Why? We didn’t want the excitement of the new launch to be drowned out by customers upset by a rate hike. We feared the new Backpack’s good vibes would get hijacked by pricing naysayers. So we took that possibility off the table.
+Why? We didnt want the excitement of the new launch to be drowned out by customers upset by a rate hike. We feared the new Backpacks good vibes would get hijacked by pricing naysayers. So we took that possibility off the table.
 
 
 
@@ -27,7 +27,4 @@ The result: A decent number of people thanked us for grandfathering them at the 
 
 
 
-Lesson learned: Don’t tackle your own good news. The blogosphere can be an unforgiving place. Take pains to eliminate any negative aspects that might overshadow a launch or other good news.
-
-  
-
+Lesson learned: Dont tackle your own good news. The blogosphere can be an unforgiving place. Take pains to eliminate any negative aspects that might overshadow a launch or other good news.

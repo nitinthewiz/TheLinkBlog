@@ -1,13 +1,13 @@
 ---
-title: "Coworking / CoworkingMinneapolis"
-date: 2007-06-04 04:49:15 +0000
-external-url: http://coworking.pbwiki.com/CoworkingMinneapolis
-hash: fec955f3d1623a9b684ca48c8fab0487
+title: "Coworking CoworkingMinneapolis"
+date: 2007-06-04 05:49:15 +0000
+external-url: http://wiki.coworking.org/w/page/16583588/CoworkingMinneapolis
+hash: fff7f3d588e20f89bba331afc0ecc0a3
 year: 2007
 month: 06
 scheme: http
-host: coworking.pbwiki.com
-path: /CoworkingMinneapolis
+host: wiki.coworking.org
+path: /w/page/16583588/CoworkingMinneapolis
 
 ---
 

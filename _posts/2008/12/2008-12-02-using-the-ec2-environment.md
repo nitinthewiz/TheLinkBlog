@@ -1,17 +1,17 @@
 ---
 title: "Using the EC2 environment for fewer moving parts"
 date: 2008-12-02 12:37:00 +0000
-external-url: https://signalvnoise.com/posts/1440-using-the-ec2-environment-for-fewer-moving-parts
-hash: 226a6531d4615d6549ca9f9db7c42e0a
+external-url: http://www.37signals.com/svn/posts/1440-using-the-ec2-environment-for-fewer-moving-parts
+hash: 963a4c3375c5ca4186b0dfa55c31f723
 year: 2008
 month: 12
-scheme: https
-host: signalvnoise.com
-path: /posts/1440-using-the-ec2-environment-for-fewer-moving-parts
+scheme: http
+host: www.37signals.com
+path: /svn/posts/1440-using-the-ec2-environment-for-fewer-moving-parts
 
 ---
 
-One highlight of Amazons EC2 is having a wide range of generally available services to help reduce moving parts.
+One highlight of Amazon’s EC2 is having a wide range of generally available services to help reduce moving parts.
 
 
 
@@ -23,11 +23,11 @@ Another vital EC2 feature is passing arbitrary data to an instance. Many bundled
 
 
 
-While reading Tim Dysingers article on using EC2 as a simple DNS, I thought this was a great way to remove the need for an internal DNS server on EC2 for smaller setups. We use a similar technique: specifying a single EC2 Security Group for a host as its identifier. Each server generates its hosts file every minute. Simple, effective and one fewer moving part.
+While reading Tim Dysinger’s article on using EC2 as a simple DNS, I thought this was a great way to remove the need for an internal DNS server on EC2 for smaller setups. We use a similar technique: specifying a single EC2 Security Group for a host as its identifier. Each server generates its hosts file every minute. Simple, effective and one fewer moving part.
 
 
 
-Security groups are useful for describing roles and other identifying information about each host. We use this information to generate Nagios monitoring configuration files. For example, a security group named role: app will automatically enable HTTP checks and Passenger memory checks.
+Security groups are useful for describing roles and other identifying information about each host. We use this information to generate Nagios monitoring configuration files. For example, a security group named “role: app” will automatically enable HTTP checks and Passenger memory checks.
 
 
 
@@ -35,4 +35,7 @@ All this means less dependence on a centralized configuration server or pushing 
 
 
 
-As your applications complexity increases, youll thank yourself for the opportunity to reduce the complexity underneath it.
+As your application’s complexity increases, you’ll thank yourself for the opportunity to reduce the complexity underneath it.
+
+  
+

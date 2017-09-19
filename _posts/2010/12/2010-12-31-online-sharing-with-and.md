@@ -1,13 +1,13 @@
 ---
-title: "Online Sharing With StumbleUpon and Gmail Is Outpacing Facebook"
+title: "Online Sharing With StumbleUpon and Gmail Is Outpacing Facebook - Nicholas Jackson - Technology - The Atlantic"
 date: 2010-12-31 05:38:23 +0000
-external-url: http://www.theatlantic.com/technology/archive/2010/12/online-sharing-with-stumbleupon-and-gmail-is-outpacing-facebook/68695/
-hash: 942106a27d1f85ccfb4198b6a0eb7116
+external-url: http://www.theatlantic.com/technology/archive/2010/12/online-sharing-with-stumbleupon-and-gmail-is-outpacing-facebook/68695
+hash: c409572e57e42c1d80a2b3202655d632
 year: 2010
 month: 12
 scheme: http
 host: www.theatlantic.com
-path: /technology/archive/2010/12/online-sharing-with-stumbleupon-and-gmail-is-outpacing-facebook/68695/
+path: /technology/archive/2010/12/online-sharing-with-stumbleupon-and-gmail-is-outpacing-facebook/68695
 
 ---
 

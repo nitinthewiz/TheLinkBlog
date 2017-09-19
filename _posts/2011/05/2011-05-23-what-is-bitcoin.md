@@ -1,13 +1,13 @@
 ---
 title: "What is Bitcoin?"
-date: 2011-05-23 01:55:31 +0000
-external-url: http://www.weusecoins.com/
-hash: aef9e11a5b1851e3dd566833bed3ad83
+date: 2011-05-23 02:55:31 +0000
+external-url: https://www.weusecoins.com/en/
+hash: e97abdc015f14a9e9d4b044c6057edd7
 year: 2011
 month: 05
-scheme: http
+scheme: https
 host: www.weusecoins.com
-path: /
+path: /en/
 
 ---
 

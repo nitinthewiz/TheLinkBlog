@@ -1,13 +1,13 @@
 ---
 title: "Wikimedia Celebrates Hewlett Grant"
-date: 2009-08-23 21:22:10 +0000
-external-url: http://www.readwriteweb.com/archives/wikimedia_celebrates_hewlett_grant.php
-hash: 6850e0b6c4043f85a2360ac9f3d09496
+date: 2009-08-23 22:22:10 +0000
+external-url: http://readwrite.com/2009/08/20/wikimedia_celebrates_hewlett_grant
+hash: 785a7f26335d4f8896a058b37b99c5af
 year: 2009
 month: 08
 scheme: http
-host: www.readwriteweb.com
-path: /archives/wikimedia_celebrates_hewlett_grant.php
+host: readwrite.com
+path: /2009/08/20/wikimedia_celebrates_hewlett_grant
 
 ---
 
@@ -32,6 +32,3 @@ Three days ago the organization celebrated Wikipedia's 3 millionth English artic
 In true crowd sourced Wikimedia fashion, the organization launched a public wiki for community strategic planning. To add your input in how the community is shaped in the next 5 years, visit the Call for Proposals page.
 
 Discuss
-
-        
-

@@ -1,16 +1,14 @@
 ---
 title: "Idaho Falls newspaper rescinds AP cancellation"
-date: 2009-10-15 04:59:14 +0000
-external-url: http://www.poynter.org/column.asp?id=45&aid=171731
-hash: d0cd1428e08aa46c292d5e28b32a263c
+date: 2009-10-15 05:59:14 +0000
+external-url: http://www.poynter.org/latest-news/mediawire/98847/idaho-falls-newspaper-rescinds-ap-cancellation/
+hash: 4df0d5732cff977135c603f436d96329
 year: 2009
 month: 10
 scheme: http
 host: www.poynter.org
-path: /column.asp
-query:
-    id: "45"
-    aid: "171731"
+path: /latest-news/mediawire/98847/idaho-falls-newspaper-rescinds-ap-cancellation/
+
 ---
 
 Editor & Publisher

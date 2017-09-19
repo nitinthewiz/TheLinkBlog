@@ -1,11 +1,11 @@
 ---
 title: "Now Reading"
-date: 2007-07-22 00:29:03 +0000
-external-url: http://robm.me.uk/projects/plugins/wordpress/now-reading#toc-screenshots
-hash: 99bea7c2461da99913558c21049ee625
+date: 2007-07-22 01:29:03 +0000
+external-url: https://robm.me.uk/projects/plugins/wordpress/now-reading
+hash: 9ba358d6dd01c30d1c0e1e812e23eb69
 year: 2007
 month: 07
-scheme: http
+scheme: https
 host: robm.me.uk
 path: /projects/plugins/wordpress/now-reading
 

@@ -1,13 +1,13 @@
 ---
 title: "Why Developers Should Pay Attention to Node.js"
 date: 2010-12-14 01:33:53 +0000
-external-url: http://readwrite.com/2010/10/20/why-developers-should-pay-atte
-hash: 02600a910df2e7b69d984d9ab6e5caee
+external-url: http://www.readwriteweb.com/hack/2010/10/why-developers-should-pay-atte.php
+hash: 2ec603c5f1e1c24c2fbde6d47aedd5fc
 year: 2010
 month: 12
 scheme: http
-host: readwrite.com
-path: /2010/10/20/why-developers-should-pay-atte
+host: www.readwriteweb.com
+path: /hack/2010/10/why-developers-should-pay-atte.php
 
 ---
 

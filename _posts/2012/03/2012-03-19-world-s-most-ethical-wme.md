@@ -1,13 +1,13 @@
 ---
 title: "World's Most Ethical (WME) Companies"
-date: 2012-03-19 04:26:02 +0000
-external-url: http://www.ethisphere.com/wme/
-hash: 34da71fbed229e400308037b24801b1c
+date: 2012-03-19 05:26:02 +0000
+external-url: http://ethisphere.com/worlds-most-ethical/wme-faq/
+hash: a79bf2039d19eba550ab91cc96f56e2f
 year: 2012
 month: 03
 scheme: http
-host: www.ethisphere.com
-path: /wme/
+host: ethisphere.com
+path: /worlds-most-ethical/wme-faq/
 
 ---
 

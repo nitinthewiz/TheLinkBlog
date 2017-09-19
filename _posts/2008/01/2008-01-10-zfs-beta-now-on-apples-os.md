@@ -1,13 +1,13 @@
 ---
-title: "ZFS beta now on Apples Mac OS X Leopard"
+title: "ZFS beta now on Apple’s Mac OS X Leopard"
 date: 2008-01-10 14:21:00 +0000
-external-url: http://macdailynews.com/2008/01/10/zfs_beta_now_on_apples_mac_os_x_leopard/
-hash: c24d5bd1d5473b8f06f0dbb8e9912f95
+external-url: http://www.macdailynews.com/index.php/weblog/comments/zfs_beta_now_on_apples_mac_os_x_leopard/
+hash: 77a6fb751bb1c14273357fef52dbe130
 year: 2008
 month: 01
 scheme: http
-host: macdailynews.com
-path: /2008/01/10/zfs_beta_now_on_apples_mac_os_x_leopard/
+host: www.macdailynews.com
+path: /index.php/weblog/comments/zfs_beta_now_on_apples_mac_os_x_leopard/
 
 ---
 

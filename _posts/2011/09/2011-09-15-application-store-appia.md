@@ -1,13 +1,13 @@
 ---
 title: "Application Store Appia Partners With Zedge to Broaden Reach"
-date: 2011-09-15 16:15:00 +0000
-external-url: http://www.readwriteweb.com/mobile/2011/09/application-store-appia-partne.php
-hash: 3cec766f07aa21de032e962fba04329c
+date: 2011-09-15 17:15:00 +0000
+external-url: http://readwrite.com/2011/09/15/application-store-appia-partne
+hash: 4fdaba10e54e786d85a0ae74aa237e67
 year: 2011
 month: 09
 scheme: http
-host: www.readwriteweb.com
-path: /mobile/2011/09/application-store-appia-partne.php
+host: readwrite.com
+path: /2011/09/15/application-store-appia-partne
 
 ---
 
@@ -33,6 +33,3 @@ Those are robust numbers. Yet, it is curious that most U.S. users probably have 
 
 
 Discuss
-
-       
-

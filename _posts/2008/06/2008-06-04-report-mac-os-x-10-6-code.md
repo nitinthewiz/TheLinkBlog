@@ -1,13 +1,13 @@
 ---
-title: "Report: Mac OS X 10.6 code-named ‘Snow Leopard’ and will be Intel-only"
-date: 2008-06-04 20:08:00 +0000
-external-url: http://www.macdailynews.com/index.php/weblog/comments/report_mac_os_x_106_code_named_snow_leopard_and_will_be_intel_only/
-hash: 83a3f5f5d27c9cf4599d2e636647469e
+title: "Report: Mac OS X 10.6 code-named Snow Leopard and will be Intel-only"
+date: 2008-06-04 21:08:00 +0000
+external-url: http://macdailynews.com/2008/06/04/report_mac_os_x_106_code_named_snow_leopard_and_will_be_intel_only/
+hash: 3eedae94482589bf501a518281a56931
 year: 2008
 month: 06
 scheme: http
-host: www.macdailynews.com
-path: /index.php/weblog/comments/report_mac_os_x_106_code_named_snow_leopard_and_will_be_intel_only/
+host: macdailynews.com
+path: /2008/06/04/report_mac_os_x_106_code_named_snow_leopard_and_will_be_intel_only/
 
 ---
 

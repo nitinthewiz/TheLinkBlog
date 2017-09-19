@@ -1,13 +1,13 @@
 ---
-title: "Showing the difference between a 19 and 22 suitcase"
+title: "Showing the difference between a 19\" and 22\" suitcase"
 date: 2008-12-22 16:29:00 +0000
-external-url: http://signalvnoise.com/posts/1481-showing-the-difference-between-a-19-and-22-suitcase
-hash: 89fda7aebefb09a92ceec65d9674ef52
+external-url: http://www.37signals.com/svn/posts/1481-showing-the-difference-between-a-19-and-22-suitcase
+hash: d8fa603be0893ad6ed3913a771d6a04e
 year: 2008
 month: 12
 scheme: http
-host: signalvnoise.com
-path: /posts/1481-showing-the-difference-between-a-19-and-22-suitcase
+host: www.37signals.com
+path: /svn/posts/1481-showing-the-difference-between-a-19-and-22-suitcase
 
 ---
 
@@ -19,7 +19,7 @@ What size rolling luggage to buy? Shopping at Amazon, it feels like a shot in th
 
 
 
-Lots of closeups of handles and wheels, but whats the difference between a 19 or 22 bag? Theres no real guidance.
+Lots of closeups of handles and wheels, but what’s the difference between a 19” or 22” bag? There’s no real guidance.
 
 
 
@@ -38,3 +38,6 @@ eBags also offers a Rolling Luggage Size Guide.
 
 
 Sometimes, a little context makes all the difference.
+
+  
+

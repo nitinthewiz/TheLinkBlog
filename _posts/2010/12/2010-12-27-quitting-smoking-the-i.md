@@ -1,12 +1,12 @@
 ---
 title: "Quitting Smoking: The Hardest Thing I Have Ever Done"
 date: 2010-12-27 20:42:11 +0000
-external-url: http://om.co/2010/12/27/quitting-smoking-the-hardest-thing-i-have-ever-done/
-hash: 213786e9133544d5301bb91c0ac2aeae
+external-url: http://omis.me/2010/12/27/quitting-smoking-the-hardest-thing-i-have-ever-done/
+hash: 374efc7d5ee3a097bb35af17e78ed1b5
 year: 2010
 month: 12
 scheme: http
-host: om.co
+host: omis.me
 path: /2010/12/27/quitting-smoking-the-hardest-thing-i-have-ever-done/
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Intro to Stock and Options"
-date: 2011-05-24 05:46:04 +0000
-external-url: http://www.scribd.com/doc/55945011/Intro-to-Stock-and-Options
-hash: 505d7b86904b3ddee7ac46e7c2eabc23
+date: 2011-05-24 06:46:04 +0000
+external-url: http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee
+hash: 4576cce8361599254c4343ae742dd089
 year: 2011
 month: 05
 scheme: http
 host: www.scribd.com
-path: /doc/55945011/Intro-to-Stock-and-Options
+path: /doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee
 
 ---
 

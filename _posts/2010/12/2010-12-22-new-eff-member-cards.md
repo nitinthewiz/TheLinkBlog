@@ -1,11 +1,11 @@
 ---
 title: "New EFF Member Cards"
 date: 2010-12-22 05:00:19 +0000
-external-url: https://www.eff.org/deeplinks/2010/12/new-eff-member-cards
-hash: a699035f445ee6e0613f06c1886d93c6
+external-url: http://www.eff.org/deeplinks/2010/12/new-eff-member-cards
+hash: f356136c40a4db545a5827b0503388df
 year: 2010
 month: 12
-scheme: https
+scheme: http
 host: www.eff.org
 path: /deeplinks/2010/12/new-eff-member-cards
 

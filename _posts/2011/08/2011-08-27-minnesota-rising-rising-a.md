@@ -1,14 +1,14 @@
 ---
-title: "Minnesota Rising: Minnesota Rising 2011 Un/Conference: Building A Network For What's Next"
-date: 2011-08-27 21:14:29 +0000
-external-url: http://www.minnesotarising.org/p/minnesota-rising-2011-unconference.html
-hash: 411eba0b9d53cf6fccee0c6df60a9c24
+title: "Minnesota Rising: Minnesota Rising 2011 UnConference: Building A Network For What's Next"
+date: 2011-08-27 22:14:29 +0000
+external-url: http://www.eventbrite.com/e/minnesota-rising-2011-unconference-building-a-network-for-whats-next-tickets-2171998506
+hash: aebd4c7abd050d980a8cbdcb9684ff59
 year: 2011
 month: 08
 scheme: http
-host: www.minnesotarising.org
-path: /p/minnesota-rising-2011-unconference.html
+host: www.eventbrite.com
+path: /e/minnesota-rising-2011-unconference-building-a-network-for-whats-next-tickets-2171998506
 
 ---
 
-Put 10/22 on the calendar for the @minnesotarising un/conference @cocomsp w/ @dkix et al -> 
+The Minnesota Rising 2011 Un/Conference: Building A Network For Whats Next will be held on Saturday, October 22, 2011 from 10:00AM  4:00PM at the CoCo coworking and collaborative space in St. Paul, MN. Hosted by and for emerging leaders, the Un/Conference will engage emerging leaders across Minnesota in an energizing day of innovative learning and dialogue, skill-building, and network-building with their peers!

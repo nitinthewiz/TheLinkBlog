@@ -1,12 +1,12 @@
 ---
-title: "Bitcoin P2P Currency: The Most Dangerous Project We've Ever Seen"
-date: 2011-05-18 10:25:52 +0000
-external-url: http://launch.is/blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html
-hash: 9e39aed0d99c3b75b974d7bc94a0857c
+title: "Bitcoin P2P Currency: The Most Dangerous Project We've EverSeen"
+date: 2011-05-18 11:25:52 +0000
+external-url: http://blog.launch.co/blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html
+hash: 2c9df1f803fa9117f31bda5fb6698abd
 year: 2011
 month: 05
 scheme: http
-host: launch.is
+host: blog.launch.co
 path: /blog/l019-bitcoin-p2p-currency-the-most-dangerous-project-weve-ev.html
 
 ---

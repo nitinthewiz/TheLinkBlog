@@ -1,13 +1,13 @@
 ---
 title: "Microsoft releases Remote Desktop Connection Client for Mac 2"
-date: 2008-07-01 22:14:00 +0000
-external-url: http://www.macdailynews.com/index.php/weblog/comments/microsoft_releases_remote_desktop_connection_client_for_mac_2/
-hash: 462453870380b69758e61dd5f2c6db31
+date: 2008-07-01 23:14:00 +0000
+external-url: http://macdailynews.com/2008/07/01/microsoft_releases_remote_desktop_connection_client_for_mac_2/
+hash: 2e0808315e0501ccf708ceba6a935cf1
 year: 2008
 month: 07
 scheme: http
-host: www.macdailynews.com
-path: /index.php/weblog/comments/microsoft_releases_remote_desktop_connection_client_for_mac_2/
+host: macdailynews.com
+path: /2008/07/01/microsoft_releases_remote_desktop_connection_client_for_mac_2/
 
 ---
 

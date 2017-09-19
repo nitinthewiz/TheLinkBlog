@@ -1,13 +1,13 @@
 ---
 title: "Audible Commit Messages with CommitBot"
-date: 2010-10-15 13:14:33 +0000
-external-url: http://blog.gleitzman.com/post/1216562825
-hash: 21917590b8932ea8b9d24415f1dae8dd
+date: 2010-10-15 14:14:33 +0000
+external-url: http://blog.gleitzman.com/post/1216562825/audible-commit-messages-with-commitbot
+hash: 089cdf8ac51642d1253420209e7bc617
 year: 2010
 month: 10
 scheme: http
 host: blog.gleitzman.com
-path: /post/1216562825
+path: /post/1216562825/audible-commit-messages-with-commitbot
 
 ---
 
@@ -19,5 +19,4 @@ I enjoy a good commit message as much as the next coder. (For the non-nerds in t
 
 The code is relatively straightforward. Every couple seconds, CommitBot looks for new commits, parses hash tags from the message (#female for a female voice, #novelty for weirder voices, #silent for silent commit messages, etc.), pauses whatever music is playing in the office, and announces the message.
 
-Intrigued? I’m happy. Feel free to grab the source here (tested on OSX).
-
+Intrigued? Im happy. Feel free to grab the source here (tested on OSX).

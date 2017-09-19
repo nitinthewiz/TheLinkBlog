@@ -1,12 +1,12 @@
 ---
-title: "Craft Coffee artisan coffee of the month tasting boxes delivered monthly"
+title: "Craft Coffee | artisan coffee of the month tasting boxes delivered monthly"
 date: 2011-12-27 21:09:08 +0000
-external-url: http://www.craftcoffee.com/
-hash: 51e5a7e48c3db9656f4ccca23520b213
+external-url: http://craftcoffee.com/
+hash: 3678a6caf5479bffdfd141b90f290a80
 year: 2011
 month: 12
 scheme: http
-host: www.craftcoffee.com
+host: craftcoffee.com
 path: /
 
 ---

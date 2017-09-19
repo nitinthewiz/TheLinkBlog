@@ -1,19 +1,14 @@
 ---
 title: "New Facebook Feature"
-date: 2009-07-30 05:01:35 +0000
-external-url: http://mnteractive.com/archive/1363
-hash: 978a9050ed7a6d6cc8917edbc4cdea63
+date: 2009-07-30 06:01:35 +0000
+external-url: http://dev.mnteractive.com/archive/new-facebook-feature/
+hash: 8bf0bee4e02ad812cd6798c77658dc5d
 year: 2009
 month: 07
 scheme: http
-host: mnteractive.com
-path: /archive/1363
+host: dev.mnteractive.com
+path: /archive/new-facebook-feature/
 
 ---
 
-Dear Facebook:
-
-Please add this feature. Thank you. 
-
-
-
+Dear Facebook: Please add this feature. Thank you.

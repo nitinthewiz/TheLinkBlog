@@ -1,14 +1,14 @@
 ---
 title: "Want to Know the Difference Between a CTO and a VP Engineering?"
-date: 2011-03-18 04:03:29 +0000
-external-url: http://www.bothsidesofthetable.com/2010/04/19/want-to-know-the-difference-between-a-cto-and-a-vp-engineering/
-hash: 1bcee93c70362bf11a05b262481ea1a6
+date: 2011-03-18 05:03:29 +0000
+external-url: http://www.bothsidesofthetable.com/want-to-know-difference-between-a-cto-and-a-vp-of-engineering/
+hash: 4f686e158a617b05b34ac35d83f0b434
 year: 2011
 month: 03
 scheme: http
 host: www.bothsidesofthetable.com
-path: /2010/04/19/want-to-know-the-difference-between-a-cto-and-a-vp-engineering/
+path: /want-to-know-difference-between-a-cto-and-a-vp-of-engineering/
 
 ---
 
-Agree. Follow @msuster - great thinker RT @main: Want to Know the Difference Between a CTO & a VP Engineering? 
+Because more technology people probably read startup blogs Im guessing this post will come under more scrutiny.  The terms CTO and VP Engineering have such stigmas associated with what they are that Im sure some people will feel uncomfortable with the definitions Ive put forward.  Still, I believe Im offering an accurate representation of the ideal configuration of the main technology leaders.

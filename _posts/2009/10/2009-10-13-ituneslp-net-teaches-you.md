@@ -1,13 +1,13 @@
 ---
-title: "iTunesLP.net Teaches You to Create, Lets You Download iTunes LPs [DIY]"
-date: 2009-10-13 21:32:02 +0000
-external-url: http://lifehacker.com/5380731/ituneslpnet-teaches-you-to-create-lets-you-download-itunes-lps
-hash: b73373a79e6f9306775ee5a7e101cbd6
+title: "ITunesLP.net Teaches You to Create, Lets You Download iTunes LPs"
+date: 2009-10-13 22:32:02 +0000
+external-url: http://lifehacker.com/5380731/ituneslpnet-teaches-you-to-create-lets-you-download-free-itunes-lps
+hash: 4b5d5ff2b7468e9712f3fccb2eac606c
 year: 2009
 month: 10
 scheme: http
 host: lifehacker.com
-path: /5380731/ituneslpnet-teaches-you-to-create-lets-you-download-itunes-lps
+path: /5380731/ituneslpnet-teaches-you-to-create-lets-you-download-free-itunes-lps
 
 ---
 

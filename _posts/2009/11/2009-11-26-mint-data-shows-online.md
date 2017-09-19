@@ -1,13 +1,13 @@
 ---
 title: "Mint Data Shows Online Retail Rebounding"
 date: 2009-11-26 06:26:11 +0000
-external-url: http://readwrite.com/2009/11/24/mint_data_shows_online_retail_rebounding
-hash: 33f15f086b9d34b31bc2cd2ced7142d3
+external-url: http://www.readwriteweb.com/archives/mint_data_shows_online_retail_rebounding.php
+hash: 8f6fffbb87a7192b85835bb4e3e0b883
 year: 2009
 month: 11
 scheme: http
-host: readwrite.com
-path: /2009/11/24/mint_data_shows_online_retail_rebounding
+host: www.readwriteweb.com
+path: /archives/mint_data_shows_online_retail_rebounding.php
 
 ---
 
@@ -46,3 +46,6 @@ Online Retail Thriving: 8% Growth Expected This Holiday Season
 Top Internet Trends of 2000-2009: E-commerce
 
 Discuss
+
+       
+

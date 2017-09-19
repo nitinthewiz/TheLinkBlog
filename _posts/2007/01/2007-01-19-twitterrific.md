@@ -1,13 +1,13 @@
 ---
 title: "Twitterrific"
 date: 2007-01-19 05:23:06 +0000
-external-url: http://twitterrific.com/ios
-hash: cf1cd546b5dc7a099cfdcc09611e191b
+external-url: http://iconfactory.com/software/twitterrific
+hash: 7ca6fbd8562e120544e5224d6988c9e6
 year: 2007
 month: 01
 scheme: http
-host: twitterrific.com
-path: /ios
+host: iconfactory.com
+path: /software/twitterrific
 
 ---
 

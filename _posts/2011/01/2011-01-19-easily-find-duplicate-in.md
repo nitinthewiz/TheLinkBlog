@@ -1,14 +1,14 @@
 ---
-title: "Easily find duplicate passwords in your logins"
+title: "Easily find duplicate passwords in your logins - Agile BlogAgile Blog"
 date: 2011-01-19 01:14:14 +0000
-external-url: https://agilebits.com/easily-find-duplicate-passwords-in-your-logins/
-hash: c2b9f1c01a1473724ddf9688d8a0f78e
+external-url: http://blog.agile.ws/easily-find-duplicate-passwords-in-your-logins/
+hash: 0308a1cbb1e5cbea7fd57b95e42dec78
 year: 2011
 month: 01
-scheme: https
-host: agilebits.com
+scheme: http
+host: blog.agile.ws
 path: /easily-find-duplicate-passwords-in-your-logins/
 
 ---
 
-Tip: Create a smart folder of all logins that use a particular password, then change them at your convenience.
+Tip: Create a smart folder of all logins that use a particular password, then change them at your convenience. 

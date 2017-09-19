@@ -16,3 +16,5 @@ I [linked to this W3C DRM decision](https://links.thingelstad.com/2017/07/the-w3
 > You have to search long and hard to find an independent technologist who believes that DRM is possible, let alone a good idea. Yet, somewhere along the way, the business values of those outside the web got important enough, and the values of technologists who built it got disposable enough, that even the wise elders who make our standards voted for something they know to be a fool's errand.
 
 I’m not sure what I think about leaving the [W3C](https://www.w3.org) to protest this but I do believe the EFF is on the right side of this position.
+
+Check out [Gruber's comments](https://daringfireball.net/linked/2017/09/18/eff-w3c-drm) on the same article. 

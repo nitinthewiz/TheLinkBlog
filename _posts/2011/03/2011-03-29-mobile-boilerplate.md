@@ -1,13 +1,13 @@
 ---
 title: "Mobile Boilerplate"
-date: 2011-03-29 15:39:23 +0000
-external-url: http://html5boilerplate.com/mobile/
-hash: a3d3b575000482d3b24811abaa38c93a
+date: 2011-03-29 16:39:23 +0000
+external-url: http://html5boilerplate.com/html5boilerplate.com/dist/mobile/
+hash: 4ef059c34c76ceaa638b740b056c8f26
 year: 2011
 month: 03
 scheme: http
 host: html5boilerplate.com
-path: /mobile/
+path: /html5boilerplate.com/dist/mobile/
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "magnetosphere"
-date: 2007-10-13 03:33:04 +0000
-external-url: http://software.barbariangroup.com/magnetosphere/
-hash: f0be19c8ea66daf0dcf579d5885d1ff0
+title: "Magnetosphere"
+date: 2007-10-13 04:33:04 +0000
+external-url: http://barbariangroup.com/
+hash: 8781890c781d6c6244e36b4147aa475e
 year: 2007
 month: 10
 scheme: http
-host: software.barbariangroup.com
-path: /magnetosphere/
+host: barbariangroup.com
+path: /
 
 ---
 

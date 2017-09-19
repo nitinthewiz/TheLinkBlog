@@ -1,13 +1,13 @@
 ---
 title: "Organic Valley - Stock Prospectus"
 date: 2008-11-15 15:41:30 +0000
-external-url: http://www.organicvalley.coop/about-us/invest/stock-prospectus/
-hash: 11a61c5b4a320621ee83776988709bb2
+external-url: http://www.organicvalley.coop/our-story/invest/stock-prospectus/
+hash: c550efd9f414d86f1f9c4048945779b2
 year: 2008
 month: 11
 scheme: http
 host: www.organicvalley.coop
-path: /about-us/invest/stock-prospectus/
+path: /our-story/invest/stock-prospectus/
 
 ---
 

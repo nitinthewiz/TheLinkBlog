@@ -1,13 +1,13 @@
 ---
 title: "Inhumane Treatment of WikiLeaks Soldier Bradley Manning"
 date: 2011-01-27 23:55:51 +0000
-external-url: http://blog.amnestyusa.org/us/inhumane-treatment-of-wikileaks-soldier-bradley-manning/
-hash: 3de28eb7505246a22edd1a416bb48933
+external-url: http://blog.amnestyusa.org/waronterror/inhumane-treatment-of-wikileaks-soldier-bradley-manning/
+hash: c583b2a97e5eb0467b0c5f056de45354
 year: 2011
 month: 01
 scheme: http
 host: blog.amnestyusa.org
-path: /us/inhumane-treatment-of-wikileaks-soldier-bradley-manning/
+path: /waronterror/inhumane-treatment-of-wikileaks-soldier-bradley-manning/
 
 ---
 

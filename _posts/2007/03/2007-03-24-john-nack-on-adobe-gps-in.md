@@ -1,13 +1,13 @@
 ---
 title: "John Nack on Adobe: GPS in cameras, Flash, Lightroom"
-date: 2007-03-24 03:50:01 +0000
-external-url: http://blogs.adobe.com/jnack/2007/03/gps_in_cameras.html
-hash: 0fb7e7c98bc9758beaf07e8ee1f34e1e
+date: 2007-03-24 04:50:01 +0000
+external-url: http://blogs.adobe.com/jnack/2007/03/gps_in_cameras_flash_lightroom.html
+hash: 6d56603a3b5328934d828348ce462d4d
 year: 2007
 month: 03
 scheme: http
 host: blogs.adobe.com
-path: /jnack/2007/03/gps_in_cameras.html
+path: /jnack/2007/03/gps_in_cameras_flash_lightroom.html
 
 ---
 

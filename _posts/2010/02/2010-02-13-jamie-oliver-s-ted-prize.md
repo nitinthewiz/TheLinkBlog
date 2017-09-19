@@ -1,13 +1,13 @@
 ---
-title: "Jamie Oliver's TED Prize wish: Teach every child about food"
+title: "Jamie Oliver's TED Prize wish: Teach every child about food | Video on TED.com"
 date: 2010-02-13 02:35:12 +0000
-external-url: http://www.ted.com/talks/jamie_oliver
-hash: fff57c494446bb102e18406f0954ed02
+external-url: http://www.ted.com/talks/jamie_oliver.html
+hash: b43540f80212714370a942a50d464a48
 year: 2010
 month: 02
 scheme: http
 host: www.ted.com
-path: /talks/jamie_oliver
+path: /talks/jamie_oliver.html
 
 ---
 

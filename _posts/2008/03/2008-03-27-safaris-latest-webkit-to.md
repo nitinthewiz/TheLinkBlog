@@ -1,13 +1,13 @@
 ---
-title: "Safari’s latest WebKit public build first to score perfect 100 in Acid3 test"
-date: 2008-03-27 14:00:00 +0000
-external-url: http://www.macdailynews.com/index.php/weblog/comments/safaris_latest_webkit_public_build_first_to_score_perfect_100_acid3/
-hash: ed0b52bc29e0697cd5b1c546d5b6637b
+title: "Safaris latest WebKit public build first to score perfect 100 in Acid3 test"
+date: 2008-03-27 15:00:00 +0000
+external-url: http://macdailynews.com/2008/03/27/safaris_latest_webkit_public_build_first_to_score_perfect_100_acid3/
+hash: 858c1a4cd75810cb29feb463395fcc4a
 year: 2008
 month: 03
 scheme: http
-host: www.macdailynews.com
-path: /index.php/weblog/comments/safaris_latest_webkit_public_build_first_to_score_perfect_100_acid3/
+host: macdailynews.com
+path: /2008/03/27/safaris_latest_webkit_public_build_first_to_score_perfect_100_acid3/
 
 ---
 

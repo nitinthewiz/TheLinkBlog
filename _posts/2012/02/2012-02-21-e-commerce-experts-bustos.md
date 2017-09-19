@@ -1,14 +1,14 @@
 ---
-title: "E-Commerce Experts Bustos & Gerten on F-Commerce -Fail or Fan-tastic? Social Commerce Today"
+title: "E-Commerce Experts Bustos & Gerten on F-Commerce – #Fail or Fan-tastic? | Social Commerce Today"
 date: 2012-02-21 16:21:00 +0000
-external-url: http://digitalintelligencetoday.com/e-commerce-experts-bustos-gerten-on-f-commerce-fail-or-fan-tastic/
-hash: 8c8d04309ea9e9fc86687bef8b45af60
+external-url: http://socialcommercetoday.com/e-commerce-experts-bustos-gerten-on-f-commerce-fail-or-fan-tastic/
+hash: aefd77b9b18977bc34619879e171c711
 year: 2012
 month: 02
 scheme: http
-host: digitalintelligencetoday.com
+host: socialcommercetoday.com
 path: /e-commerce-experts-bustos-gerten-on-f-commerce-fail-or-fan-tastic/
 
 ---
 
-So two e-commerce experts,Get ElasticsLinda Bustosand8thBridgesWade Gerten,have weighed in on the newsand ensuing debate that a number of brands including JC Penney, Gamestop, Nordstrom and GAPare shutting up shop on Facebook.
+So two e-commerce experts, Get Elastic‘s Linda Bustos and 8thBridge‘s Wade Gerten, have weighed in on the news and ensuing debate that a number of brands including JC Penney, Gamestop, Nordstrom and GAP are shutting up shop on Facebook.

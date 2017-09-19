@@ -1,13 +1,13 @@
 ---
-title: "We’re in the information business"
-date: 2010-08-04 20:08:24 +0000
-external-url: http://stdout.be/2010/we-are-in-the-information-business/
-hash: a01c4906d069417b122fde9edbdbbf21
+title: "Were in the information business"
+date: 2010-08-04 21:08:24 +0000
+external-url: http://debrouwere.org/2010/04/22/we-are-in-the-information-business/
+hash: dfaed403d24a7b115ed7d65905f8d006
 year: 2010
 month: 08
 scheme: http
-host: stdout.be
-path: /2010/we-are-in-the-information-business/
+host: debrouwere.org
+path: /2010/04/22/we-are-in-the-information-business/
 
 ---
 

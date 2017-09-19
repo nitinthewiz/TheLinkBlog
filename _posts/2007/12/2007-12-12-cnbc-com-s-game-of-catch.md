@@ -1,13 +1,13 @@
 ---
 title: "CNBC.com's Game Of Catch-Up Continues; Yahoo Syndication Deal Includes Europe, Asia"
 date: 2007-12-12 20:33:25 +0000
-external-url: https://gigaom.com/2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
-hash: 7390a6155d7f781e52579d1792dacdc2
+external-url: http://paidcontent.org/article/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
+hash: 7b58f838520aba080e13a4d86cfdff7a
 year: 2007
 month: 12
-scheme: https
-host: gigaom.com
-path: /2007/12/12/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
+scheme: http
+host: paidcontent.org
+path: /article/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
 
 ---
 
@@ -32,3 +32,6 @@ Related
 CNBC.com And Microsoft Partner On Ad Sales, MSN Money Content Syndication
 @ FOBM: Q&A: CNBC President Mark Hoffman; 'We're Not Interested In Everybody'
 CNBC.com's New Push; MSN Deal Going Away
+
+    
+

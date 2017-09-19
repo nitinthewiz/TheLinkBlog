@@ -1,13 +1,13 @@
 ---
 title: "Panoramic Photography"
-date: 2005-09-22 15:00:32 +0000
-external-url: http://www.shutterbug.net/features/0705panoramic/index.html
-hash: bf780f793acf061914a5083c26b6229f
+date: 2005-09-22 16:00:32 +0000
+external-url: http://www.shutterbug.com/content/panoramic-photography-your-digital-camera-gear-and-guide-maximum-panoramic-power
+hash: 10c428132ad748f33b578442deaa65d0
 year: 2005
 month: 09
 scheme: http
-host: www.shutterbug.net
-path: /features/0705panoramic/index.html
+host: www.shutterbug.com
+path: /content/panoramic-photography-your-digital-camera-gear-and-guide-maximum-panoramic-power
 
 ---
 

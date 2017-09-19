@@ -1,13 +1,13 @@
 ---
 title: "Postling: Etsy Founders Do Social Media for Small Business"
-date: 2009-08-06 05:56:46 +0000
-external-url: http://www.readwriteweb.com/enterprise/2009/08/postling-etsy-founders-do-social-media-for-small-business.php
-hash: f5e636830ab6ae676371d0ea66c814ea
+date: 2009-08-06 06:56:46 +0000
+external-url: http://readwrite.com/2009/08/05/postling-etsy-founders-do-social-media-for-small-business
+hash: 17a42116787200db35d57f648e3552dd
 year: 2009
 month: 08
 scheme: http
-host: www.readwriteweb.com
-path: /enterprise/2009/08/postling-etsy-founders-do-social-media-for-small-business.php
+host: readwrite.com
+path: /2009/08/05/postling-etsy-founders-do-social-media-for-small-business
 
 ---
 
@@ -56,6 +56,3 @@ Though it looks like the team at Postling is working on listening capabilities r
 Tip of the hat to Bre Pettis.
 
 Discuss
-
-       
-

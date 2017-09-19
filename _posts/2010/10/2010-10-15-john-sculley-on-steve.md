@@ -1,13 +1,13 @@
 ---
 title: "John Sculley on Steve Jobs"
-date: 2010-10-15 02:01:14 +0000
-external-url: http://www.cultofmac.com/john-sculley-on-steve-jobs-the-full-interview-transcript/63295
-hash: d81fa5e46dd7caff7e4477d49cb3cf40
+date: 2010-10-15 03:01:14 +0000
+external-url: http://www.cultofmac.com/63295/john-sculley-on-steve-jobs-the-full-interview-transcript/
+hash: 9073ab7e83d23fb59d69809721367fb1
 year: 2010
 month: 10
 scheme: http
 host: www.cultofmac.com
-path: /john-sculley-on-steve-jobs-the-full-interview-transcript/63295
+path: /63295/john-sculley-on-steve-jobs-the-full-interview-transcript/
 
 ---
 
@@ -27,9 +27,4 @@ was done, how it was built.
 
 
 
-Fascinating, considering the iPod’s central role in Apple’s renaissance.
-
-
-
- ★ 
-
+Fascinating, considering the iPods central role in Apples renaissance.

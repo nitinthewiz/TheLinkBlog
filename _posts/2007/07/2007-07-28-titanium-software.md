@@ -1,14 +1,14 @@
 ---
 title: "Titanium Software"
-date: 2007-07-28 19:28:01 +0000
-external-url: http://www.titanium.free.fr/pgs2/english/onyx_tiger.html
-hash: 346ff4899db4053f8856d9b9059dc68f
+date: 2007-07-28 20:28:01 +0000
+external-url: http://www.titanium.free.fr/forums.php
+hash: 04a15e349c280d42efbfb3fb65fc94c4
 year: 2007
 month: 07
 scheme: http
 host: www.titanium.free.fr
-path: /pgs2/english/onyx_tiger.html
+path: /forums.php
 
 ---
 
-It allows you to run misc tasks of system maintenance, to configure some hidden parameters of the Finder, Dock, Dashboard, Exposé, Safari, Login window and of some of Apple's own applications, to delete caches, to remove a certain number of files and fol
+It allows you to run misc tasks of system maintenance, to configure some hidden parameters of the Finder, Dock, Dashboard, Expos, Safari, Login window and of some of Apple's own applications, to delete caches, to remove a certain number of files and fol

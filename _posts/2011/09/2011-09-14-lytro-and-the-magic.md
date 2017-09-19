@@ -1,13 +1,13 @@
 ---
 title: "Lytro and the Magic Camera"
-date: 2011-09-14 17:23:36 +0000
-external-url: http://bhorowitz.com/2011/06/21/lytro-and-the-magic-camera/
-hash: e825c9b943e15281d374287c6a4cb588
+date: 2011-09-14 18:23:36 +0000
+external-url: http://www.bhorowitz.com/lytro_and_the_magic_camera
+hash: 3d21e38ddab55d1a43888463a7ca0314
 year: 2011
 month: 09
 scheme: http
-host: bhorowitz.com
-path: /2011/06/21/lytro-and-the-magic-camera/
+host: www.bhorowitz.com
+path: /lytro_and_the_magic_camera
 
 ---
 

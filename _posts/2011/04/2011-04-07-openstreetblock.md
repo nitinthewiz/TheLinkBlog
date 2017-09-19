@@ -1,13 +1,13 @@
 ---
 title: "OpenStreetBlock"
-date: 2011-04-07 17:02:51 +0000
-external-url: http://transit.frumin.net/openstreetblock/
-hash: d9e06229003706ae3637d261598b9dda
+date: 2011-04-07 18:02:51 +0000
+external-url: https://github.com/fruminator/openstreetblock
+hash: 5eb4b2d8e1c70cda87b1733dc10f8a43
 year: 2011
 month: 04
-scheme: http
-host: transit.frumin.net
-path: /openstreetblock/
+scheme: https
+host: github.com
+path: /fruminator/openstreetblock
 
 ---
 

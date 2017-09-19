@@ -1,16 +1,15 @@
 ---
 title: "Learn Cocoa With Me"
-date: 2008-09-04 16:46:00 +0000
-external-url: http://www.clarkware.com/cgi/blosxom/2008/09/04#LearnCocoaWithMe
-hash: e37f581fc3c70f1743ac56ab60e3fbaa
+date: 2008-09-04 17:46:00 +0000
+external-url: http://www.clarkware.com/blog/2008/09/04/learn-cocoa-with-me
+hash: 9885bbd92628e48ef36432ef2508373c
 year: 2008
 month: 09
 scheme: http
 host: www.clarkware.com
-path: /cgi/blosxom/2008/09/04
+path: /blog/2008/09/04/learn-cocoa-with-me
 
 ---
-
 
 One of the perks of running a training outfit is I get to pick the topics that I want to learn better and the instructors I'd want to teach me.  (Ok, the abundant snacks are perks too, but everybody gets those.)  Why Cocoa? Well, it's a lot of fun to learn. And Mac OS X applications are cool. Oh, and you need to know Cocoa and the Mac development tool chain to create iPhone applications.  Need I say more?  :-)
 
@@ -38,5 +37,3 @@ So if you're planning to build GUI applications on the Mac (or the iPhone), this
 
 
 I hope to see you there!
-
-

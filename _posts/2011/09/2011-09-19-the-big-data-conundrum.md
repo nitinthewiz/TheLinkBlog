@@ -1,14 +1,14 @@
 ---
 title: "The Big Data Conundrum"
-date: 2011-09-19 01:26:49 +0000
-external-url: http://bhorowitz.com/2011/09/08/the-big-data-conundrum/
-hash: 75e5392455ca462b3f1b6b6617287529
+date: 2011-09-19 02:26:49 +0000
+external-url: http://www.businessinsider.com/the-big-data-conundrum-2011-9
+hash: 73a600e83a595f675cb5a1d45475e574
 year: 2011
 month: 09
 scheme: http
-host: bhorowitz.com
-path: /2011/09/08/the-big-data-conundrum/
+host: www.businessinsider.com
+path: /the-big-data-conundrum-2011-9
 
 ---
 
-
+But even as Hadoop is fast becoming the de-facto data management platform for Big Data, it remains a low-level infrastructure tool incapable of being helped by traditional BI products  which cant scale effectively  and isnt intuitive enough for the average business user.

@@ -1,11 +1,11 @@
 ---
 title: "Steve Jobs Presents to the Cupertino City Council"
-date: 2011-06-10 12:03:33 +0000
-external-url: http://www.youtube.com/watch?v=gtuz5OmOh_M
-hash: 035d765aeac6250549455cb684a50cc1
+date: 2011-06-10 13:03:33 +0000
+external-url: https://www.youtube.com/watch?v=gtuz5OmOh_M
+hash: 04f2f6c9511d85bb0f5455a6e011b185
 year: 2011
 month: 06
-scheme: http
+scheme: https
 host: www.youtube.com
 path: /watch
 query:

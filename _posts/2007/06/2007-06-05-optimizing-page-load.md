@@ -1,13 +1,13 @@
 ---
 title: "Optimizing Page Load Times"
-date: 2007-06-05 21:58:05 +0000
-external-url: http://slashdot.org/articles/06/10/30/0329258.shtml
-hash: dfa42f58721c2f13a2eb3f562abebac4
+date: 2007-06-05 22:58:05 +0000
+external-url: http://slashdot.org/story/06/10/30/0329258/optimizing-page-load-times
+hash: f25bb48eb9dd4bc95224f819a6c79b88
 year: 2007
 month: 06
 scheme: http
 host: slashdot.org
-path: /articles/06/10/30/0329258.shtml
+path: /story/06/10/30/0329258/optimizing-page-load-times
 
 ---
 

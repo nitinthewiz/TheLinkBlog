@@ -1,13 +1,13 @@
 ---
 title: "Facebook Snags Open Web Community Leader Recordon"
-date: 2009-08-25 04:05:27 +0000
-external-url: http://www.readwriteweb.com/archives/facebook_snags_open_web_community_leader_recordon.php
-hash: 04328dfde57777e3d052a962de5cb28d
+date: 2009-08-25 05:05:27 +0000
+external-url: http://readwrite.com/2009/08/24/facebook_snags_open_web_community_leader_recordon
+hash: 288dccd4220779a112fde1c3fd99207d
 year: 2009
 month: 08
 scheme: http
-host: www.readwriteweb.com
-path: /archives/facebook_snags_open_web_community_leader_recordon.php
+host: readwrite.com
+path: /2009/08/24/facebook_snags_open_web_community_leader_recordon
 
 ---
 
@@ -46,6 +46,3 @@ Facebook recently announced that it will be expanding its staff by as much as 50
 Photo by Joi Ito.
 
 Discuss
-
-        
-

@@ -1,13 +1,13 @@
 ---
 title: "Homemade Pop Tarts"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://smittenkitchen.com/blog/2010/04/homemade-pop-tarts/
-hash: 63de9c7289f8cb460f669d63db0103eb
+external-url: http://smittenkitchen.com/2010/04/homemade-pop-tarts/#more-6169
+hash: 26dde2e1a0f38568b7bad2b610253e5e
 year: 2010
 month: 12
 scheme: http
 host: smittenkitchen.com
-path: /blog/2010/04/homemade-pop-tarts/
+path: /2010/04/homemade-pop-tarts/
 
 ---
 

@@ -1,19 +1,14 @@
 ---
 title: "2010: The year in review"
 date: 2010-12-30 14:26:17 +0000
-external-url: http://www.startribune.com/lifestyle/taste/112618099.html
-hash: 53a956acddfbf67b8857561e2b83ca5a
+external-url: http://www.startribune.com/2010-the-year-in-review/112618099/
+hash: 972573f1ce00ffab2f596fbf059ba4cd
 year: 2010
 month: 12
 scheme: http
 host: www.startribune.com
-path: /lifestyle/taste/112618099.html
+path: /2010-the-year-in-review/112618099/
 
 ---
 
-Good list of notable happenings in the Twin Cities foodie scene from 2010.
-
-<blockquote>
-A rundown of the Twin Cities dining scene over the past year.
-</blockquote>
-
+Our cup overfloweth! Beautiful words (& nice pic) in Rick Nelson's @startribune 2010 year in review: 

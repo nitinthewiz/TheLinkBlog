@@ -1,13 +1,13 @@
 ---
 title: "Major Newspaper Chain Goes Open Source"
-date: 2010-07-05 02:55:00 +0000
-external-url: http://www.readwriteweb.com/archives/major_newspaper_chain_goes_open_source.php
-hash: f4949632580eea727043dc28adda4a80
+date: 2010-07-05 03:55:00 +0000
+external-url: http://readwrite.com/2010/07/04/major_newspaper_chain_goes_open_source
+hash: e7fc46a6f764d2ecd4f08ac261ad2224
 year: 2010
 month: 07
 scheme: http
-host: www.readwriteweb.com
-path: /archives/major_newspaper_chain_goes_open_source.php
+host: readwrite.com
+path: /2010/07/04/major_newspaper_chain_goes_open_source
 
 ---
 
@@ -30,6 +30,3 @@ Newspapers have seen a sustained drop in readership, and therefore in revenues, 
 Ben photo by Mark Skrobola
 
 Discuss
-
-       
-

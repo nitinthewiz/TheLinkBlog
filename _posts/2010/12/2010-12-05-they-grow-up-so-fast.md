@@ -1,14 +1,14 @@
 ---
 title: "They Grow Up So Fast"
 date: 2010-12-05 21:11:40 +0000
-external-url: http://www.theatlantic.com/daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
-hash: 4d4dfef413951fae6dbd1f3e72eb91fa
+external-url: http://andrewsullivan.theatlantic.com/the_daily_dish/2010/12/they-grow-up-so-fast.html
+hash: 93b76823600e19dabd64f395b43996aa
 year: 2010
 month: 12
 scheme: http
-host: www.theatlantic.com
-path: /daily-dish/archive/2010/12/they-grow-up-so-fast/179050/
+host: andrewsullivan.theatlantic.com
+path: /the_daily_dish/2010/12/they-grow-up-so-fast.html
 
 ---
 
-For anyone who has, or was, a child :-)  A little break from WikiLeaks for things more awesome.
+For anyone who has, or was, a child :-)  A little break from Wikileaks for things more awesome.

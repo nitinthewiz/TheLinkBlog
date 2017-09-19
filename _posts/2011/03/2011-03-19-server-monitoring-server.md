@@ -1,11 +1,11 @@
 ---
 title: "Server monitoring - Server Density"
-date: 2011-03-19 10:29:22 +0000
-external-url: http://www.serverdensity.com/
-hash: 8bd13601659339ea1d4231d8592bd6eb
+date: 2011-03-19 11:29:22 +0000
+external-url: https://www.serverdensity.com/
+hash: 82274e144ead7edb75ac84da223e2c44
 year: 2011
 month: 03
-scheme: http
+scheme: https
 host: www.serverdensity.com
 path: /
 

@@ -1,13 +1,13 @@
 ---
 title: "The Best Films of 2011 - Roger Ebert's Journal"
 date: 2011-12-19 17:21:00 +0000
-external-url: http://www.rogerebert.com/rogers-journal/the-best-films-of-2011
-hash: dd1d31fb419afe1fbfea380aa94b491e
+external-url: http://blogs.suntimes.com/ebert/2011/12/the_best_films_of_2011.html
+hash: 5b76fe760e512362a0bf4e6f6055f3cf
 year: 2011
 month: 12
 scheme: http
-host: www.rogerebert.com
-path: /rogers-journal/the-best-films-of-2011
+host: blogs.suntimes.com
+path: /ebert/2011/12/the_best_films_of_2011.html
 
 ---
 

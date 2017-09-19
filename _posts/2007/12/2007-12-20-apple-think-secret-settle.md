@@ -1,13 +1,13 @@
 ---
 title: "Apple, Think Secret settle lawsuit; Think Secret will no longer be published"
 date: 2007-12-20 13:20:01 +0000
-external-url: http://macdailynews.com/2007/12/20/apple_think_secret_settle_lawsuit_think_secret_will_no_longer_be_published/
-hash: 111573e1d890f13eb71f6d3df2768b7b
+external-url: http://www.macdailynews.com/index.php/weblog/comments/apple_think_secret_settle_lawsuit_think_secret_will_no_longer_be_published/
+hash: c1003481844ba4fe40b4759ca1cfd360
 year: 2007
 month: 12
 scheme: http
-host: macdailynews.com
-path: /2007/12/20/apple_think_secret_settle_lawsuit_think_secret_will_no_longer_be_published/
+host: www.macdailynews.com
+path: /index.php/weblog/comments/apple_think_secret_settle_lawsuit_think_secret_will_no_longer_be_published/
 
 ---
 

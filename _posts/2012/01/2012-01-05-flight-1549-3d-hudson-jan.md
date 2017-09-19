@@ -1,14 +1,15 @@
 ---
-title: "Flight 1549 3D Reconstruction, Hudson River Ditching Jan 15, 2009"
+title: "Flight 1549 3D Reconstruction, Hudson River Ditching Jan 15, 2009 - YouTube"
 date: 2012-01-05 13:17:41 +0000
-external-url: http://www.youtube.com/watch?v=tE_5eiYn0D0
-hash: f5b485ebc3b489f69756408c7b185f74
+external-url: http://www.youtube.com/watch?feature=player_popout&v=tE_5eiYn0D0
+hash: 046cc956aad6b9031da5bb3630966b82
 year: 2012
 month: 01
 scheme: http
 host: www.youtube.com
 path: /watch
 query:
+    feature: "player_popout"
     v: "tE_5eiYn0D0"
 ---
 

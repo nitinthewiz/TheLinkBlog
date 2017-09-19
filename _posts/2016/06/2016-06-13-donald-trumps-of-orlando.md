@@ -1,15 +1,14 @@
 ---
 title: "Donald Trump’s Exploitation of Orlando"
-date: 2016-06-13 03:53:50 +0000
-external-url: http://www.newyorker.com/news/daily-comment/donald-trumps-exploitation-of-orlando?mbid=social_facebook
-hash: 3f0f24c45d636c5d95ce9f24913225c4
+date: 2016-06-13 19:03:34 +0000
+external-url: http://www.newyorker.com/news/daily-comment/donald-trumps-exploitation-of-orlando
+hash: 18b95b16b9973e7f3c29e985c07ca2d9
 year: 2016
 month: 06
 scheme: http
 host: www.newyorker.com
 path: /news/daily-comment/donald-trumps-exploitation-of-orlando
-query:
-    mbid: "social_facebook"
+
 ---
 
 In the rhetoric of Donald Trump, mendacity and cynicism compete for equal time. It is hard to say which prevailed today as the Republican Party standard-bearer, a man who pretends to the most

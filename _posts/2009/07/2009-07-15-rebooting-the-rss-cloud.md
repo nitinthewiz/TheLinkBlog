@@ -1,12 +1,12 @@
 ---
 title: "Rebooting the RSS cloud"
-date: 2009-07-15 03:57:12 +0000
-external-url: http://www.scripting.com/stories/2009/07/14/rebootingTheRssCloud.html
-hash: 7658f2ff02cc471643126b01a1526523
+date: 2009-07-15 04:57:12 +0000
+external-url: http://scripting.com/stories/2009/07/14/rebootingTheRssCloud.html
+hash: 8b9bbd924bf9692a51e90188c1af35a1
 year: 2009
 month: 07
 scheme: http
-host: www.scripting.com
+host: scripting.com
 path: /stories/2009/07/14/rebootingTheRssCloud.html
 
 ---

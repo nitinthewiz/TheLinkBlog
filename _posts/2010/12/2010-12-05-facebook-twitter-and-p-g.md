@@ -1,13 +1,13 @@
 ---
 title: "Facebook, Twitter and P&G"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://www.ventureblog.com/2010/01/facebook-twitter-and-pg.html
-hash: 71074553dedf8e2a20809a53f54485d4
+external-url: http://ventureblog.com/articles/2010/01/facebook_twitter_and_pg.php
+hash: f3f33dbbddfb7923885045eb0f6410ce
 year: 2010
 month: 12
 scheme: http
-host: www.ventureblog.com
-path: /2010/01/facebook-twitter-and-pg.html
+host: ventureblog.com
+path: /articles/2010/01/facebook_twitter_and_pg.php
 
 ---
 

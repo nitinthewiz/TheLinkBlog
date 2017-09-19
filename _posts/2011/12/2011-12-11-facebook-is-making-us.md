@@ -1,13 +1,13 @@
 ---
-title: "Facebook Is Making Us Miserable"
+title: "Facebook Is Making Us Miserable - Daniel Gulati - Harvard Business Review"
 date: 2011-12-11 01:50:03 +0000
-external-url: http://blogs.hbr.org/2011/12/facebook-is-making-us-miserabl/
-hash: 1ae8a3e724a06a8a99a4d7b132a5300c
+external-url: http://blogs.hbr.org/cs/2011/12/facebook_is_making_us_miserabl.html
+hash: cd7ca7370691a982071a929b43c8fe99
 year: 2011
 month: 12
 scheme: http
 host: blogs.hbr.org
-path: /2011/12/facebook-is-making-us-miserabl/
+path: /cs/2011/12/facebook_is_making_us_miserabl.html
 
 ---
 

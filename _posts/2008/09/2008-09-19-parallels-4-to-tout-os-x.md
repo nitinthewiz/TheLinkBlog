@@ -1,13 +1,13 @@
 ---
-title: "Parallels 4 to tout OS X Server VM,  dual-core, new interface"
-date: 2008-09-19 14:00:00 +0000
-external-url: http://www.appleinsider.com/articles/08/09/19/parallels_4_to_tout_os_x_server_vm_dual_core_new_interface.html
-hash: 8816573b4482f7badb7a6695b99a6200
+title: "Parallels 4 to tout OS X Server VM, dual-core, new interface"
+date: 2008-09-19 15:00:00 +0000
+external-url: http://appleinsider.com/articles/08/09/19/parallels_4_to_tout_os_x_server_vm_dual_core_new_interface
+hash: 414d77efbece1ad52be1066e5169da51
 year: 2008
 month: 09
 scheme: http
-host: www.appleinsider.com
-path: /articles/08/09/19/parallels_4_to_tout_os_x_server_vm_dual_core_new_interface.html
+host: appleinsider.com
+path: /articles/08/09/19/parallels_4_to_tout_os_x_server_vm_dual_core_new_interface
 
 ---
 

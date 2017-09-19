@@ -1,13 +1,13 @@
 ---
 title: "Markdown Is the New Word 5.1"
-date: 2011-05-22 18:20:05 +0000
-external-url: http://forkbombr.net/markdown-new-word51/
-hash: efd58e14ab48b1093395a69d8d966ef9
+date: 2011-05-22 19:20:05 +0000
+external-url: http://www.512pixels.net/blog/2011/05/markdown-new-word51
+hash: f90ff04ca302194b2bf65a8e382ef27f
 year: 2011
 month: 05
 scheme: http
-host: forkbombr.net
-path: /markdown-new-word51/
+host: www.512pixels.net
+path: /blog/2011/05/markdown-new-word51
 
 ---
 

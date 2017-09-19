@@ -1,19 +1,14 @@
 ---
 title: "Biolab Disaster"
-date: 2010-09-13 21:10:48 +0000
-external-url: http://www.phoboslab.org/biolab/
-hash: e7ab7dfc17567c672ba3a4cf8951d32a
+date: 2010-09-13 22:10:48 +0000
+external-url: http://playbiolab.com/
+hash: 667ae0ab10451572de732c40c7f588c8
 year: 2010
 month: 09
 scheme: http
-host: www.phoboslab.org
-path: /biolab/
+host: playbiolab.com
+path: /
 
 ---
 
-Fabulous jump-run-shoot platform game by Dominic Szablewski — pure HTML5 and JavaScript, no Flash, no plugins. Super fun.
-
-
-
- ★ 
-
+Fabulous jump-run-shoot platform game by Dominic Szablewski  pure HTML5 and JavaScript, no Flash, no plugins. Super fun.

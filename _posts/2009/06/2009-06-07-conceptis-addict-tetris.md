@@ -1,12 +1,12 @@
 ---
-title: "Conceptis addict: Congratulations Tetris -25 years!"
-date: 2009-06-07 11:29:49 +0000
-external-url: http://conceptisaddict.blogspot.com/2009/06/congratulations-tetris-25-years.html
-hash: 8b5eef796bd0966c87ad7fa9bc42adf4
+title: "Conceptis addict: Congratulations Tetris -25 years"
+date: 2009-06-07 12:29:49 +0000
+external-url: http://www.puzzlingqueen.com/2009/06/congratulations-tetris-25-years.html
+hash: 7cb0c2ac16e53688924f8a472d8dc04d
 year: 2009
 month: 06
 scheme: http
-host: conceptisaddict.blogspot.com
+host: www.puzzlingqueen.com
 path: /2009/06/congratulations-tetris-25-years.html
 
 ---

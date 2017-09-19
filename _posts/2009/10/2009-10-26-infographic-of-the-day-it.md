@@ -1,13 +1,13 @@
 ---
 title: "Infographic of the Day: It's a Small World, Afterall"
-date: 2009-10-26 04:18:33 +0000
-external-url: http://www.fastcompany.com/blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
-hash: c9e2b720e390d1b114f81d1910633ace
+date: 2009-10-26 05:18:33 +0000
+external-url: http://www.fastcompany.com/1419125/infographic-day-its-small-world-afterall
+hash: 2761f5daedafa604e70644dec8754e65
 year: 2009
 month: 10
 scheme: http
 host: www.fastcompany.com
-path: /blog/cliff-kuang/design-innovation/infographic-day-its-small-world-afterall
+path: /1419125/infographic-day-its-small-world-afterall
 
 ---
 
@@ -29,7 +29,3 @@ The most remote place: Tibet, parts of which are as much as three weeks away fro
 
 
 Check out the New Scientist's entire gallery of 11 different maps.
-
-
- 
-

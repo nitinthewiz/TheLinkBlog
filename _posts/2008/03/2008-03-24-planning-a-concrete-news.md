@@ -1,12 +1,12 @@
 ---
 title: "Planning a concrete driveway? News from the City of Minnetonka"
-date: 2008-03-24 15:34:31 +0000
-external-url: http://www.eminnetonka.com/news.cfm?story_id=ConcreteDriveways
-hash: 6311652cbc48af1118d3ab82b61cfbcf
+date: 2008-03-24 16:34:31 +0000
+external-url: http://eminnetonka.com/news.cfm?story_id=ConcreteDriveways
+hash: ec706ea75409b885f7102107c3f653e0
 year: 2008
 month: 03
 scheme: http
-host: www.eminnetonka.com
+host: eminnetonka.com
 path: /news.cfm
 query:
     story_id: "ConcreteDriveways"

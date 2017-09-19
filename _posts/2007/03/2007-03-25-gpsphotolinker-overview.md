@@ -1,12 +1,12 @@
 ---
 title: "GPSPhotoLinker: Overview"
-date: 2007-03-25 03:07:01 +0000
-external-url: http://oregonstate.edu/~earlyj/gpsphotolinker/
-hash: dc3f6e72cde101eeb06d99baa4b6e360
+date: 2007-03-25 04:07:01 +0000
+external-url: http://people.oregonstate.edu/~earlyj/gpsphotolinker/
+hash: 38a0a6b002253d553f20c09924cb9d6b
 year: 2007
 month: 03
 scheme: http
-host: oregonstate.edu
+host: people.oregonstate.edu
 path: /~earlyj/gpsphotolinker/
 
 ---

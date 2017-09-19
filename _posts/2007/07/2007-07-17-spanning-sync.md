@@ -1,12 +1,12 @@
 ---
 title: "Spanning Sync"
-date: 2007-07-17 22:58:23 +0000
-external-url: http://www.spanningsync.com/
-hash: e17ec96ff683c90f3054242b05cf7041
+date: 2007-07-17 23:58:23 +0000
+external-url: http://spanningsync.com/
+hash: be87d1f9e8704cdc72ecc7c9af80776d
 year: 2007
 month: 07
 scheme: http
-host: www.spanningsync.com
+host: spanningsync.com
 path: /
 
 ---

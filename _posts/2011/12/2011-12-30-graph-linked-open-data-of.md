@@ -1,14 +1,14 @@
 ---
 title: "Graph Linked Open Data of Sparql.pro"
 date: 2011-12-30 16:09:50 +0000
-external-url: http://www.sparql.pro/wiki/Main_Page
-hash: 6841861897a8b8559fc8a19717e7ac15
+external-url: http://www.sparql.pro/
+hash: 0b05f49e30a2471633c209efbc8c622b
 year: 2011
 month: 12
 scheme: http
 host: www.sparql.pro
-path: /wiki/Main_Page
+path: /
 
 ---
 
-- a Semantic MediaWiki directory of semantic web resources:  (via @LinkedWiki)
+ - a Semantic MediaWiki directory of semantic web resources:  (via @LinkedWiki)

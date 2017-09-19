@@ -1,16 +1,15 @@
 ---
-title: "Announcing Pragmatic Screencasts!"
-date: 2008-05-27 16:45:00 +0000
-external-url: http://www.clarkware.com/cgi/blosxom/2008/05/27#AnnouncingPragmaticScreencasts
-hash: a00c1fff14bef3eb9ad0688b54570894
+title: "Announcing Pragmatic Screencasts"
+date: 2008-05-27 17:45:00 +0000
+external-url: http://www.clarkware.com/blog/2008/05/27/announcing-pragmatic-screencasts
+hash: beba0d250e13aeacbf560eec7cf62ae6
 year: 2008
 month: 05
 scheme: http
 host: www.clarkware.com
-path: /cgi/blosxom/2008/05/27
+path: /blog/2008/05/27/announcing-pragmatic-screencasts
 
 ---
-
 
 I learn something new every time I watch a developer work.  Sometimes it's the little things, like a new command-line trick or a method I've never used.  Other times it's the big things that you can only learn while watching them "in the zone": their thought processes, how they refactor code, when they choose one technique over another, how they troubleshoot problems along the way, and so on.  Indeed, the best way to get inside a developer's head is to watch him work.  So I try to shoulder-surf as much as I can because it helps me find ways to improve my development workflow.
 
@@ -19,7 +18,7 @@ I learn something new every time I watch a developer work.  Sometimes it's the l
 
 I've had the good fortune to meet experienced developers working with a number
 of different languages and tools. Unfortunately, I can't always sit next to
-them as they build applications. So I did the next best thing—I asked
+them as they build applications. So I did the next best thingI asked
 them to record what's going on inside their head while incrementally building
 an application. And I took on the role of development editor so they could
 focus on showing you how they work. That turned into a bigger project than any
@@ -56,5 +55,3 @@ This is very much an organic project. We'll be releasing new episodes every
 couple weeks or so, and we're planning to release new screencasts on other
 topics, as well.  (Let me know if you're interested in becoming a screencast creator.)  Make sure to check out the free previews, and we hope you'll
 join us for the full season!
-
-

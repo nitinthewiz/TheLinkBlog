@@ -1,13 +1,13 @@
 ---
 title: "Snow Leopard's Grand Central, Open CL boost app by 50%"
-date: 2009-09-18 04:48:53 +0000
-external-url: http://www.appleinsider.com/articles/09/09/17/snow_leopards_grand_central_open_cl_boost_app_by_50.html
-hash: 012059bbfaf44d983f55f4186fa0ddcf
+date: 2009-09-18 05:48:53 +0000
+external-url: http://appleinsider.com/articles/09/09/17/snow_leopards_grand_central_open_cl_boost_app_by_50
+hash: 3be9be8db09ad5a89bf030a0ff7c595f
 year: 2009
 month: 09
 scheme: http
-host: www.appleinsider.com
-path: /articles/09/09/17/snow_leopards_grand_central_open_cl_boost_app_by_50.html
+host: appleinsider.com
+path: /articles/09/09/17/snow_leopards_grand_central_open_cl_boost_app_by_50
 
 ---
 

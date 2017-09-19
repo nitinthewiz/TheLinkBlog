@@ -1,12 +1,12 @@
 ---
 title: "New in Campfire: Formatted Tweets"
 date: 2010-02-03 05:25:47 +0000
-external-url: http://productblogarchive.37signals.com/products/2010/01/new-in-campfire-formatted-tweets.html
-hash: 9f6452c751902a261c79a3691de7061a
+external-url: http://productblog.37signals.com/products/2010/01/new-in-campfire-formatted-tweets.html
+hash: 551f0e7cfad7e8d541a60c30f9fa4d81
 year: 2010
 month: 02
 scheme: http
-host: productblogarchive.37signals.com
+host: productblog.37signals.com
 path: /products/2010/01/new-in-campfire-formatted-tweets.html
 
 ---
@@ -33,3 +33,4 @@ Now you can actually read the tweet in the chat - you don't have to click over t
 
 
 We think you'll find this new feature really useful. Thanks again for using Campfire!
+

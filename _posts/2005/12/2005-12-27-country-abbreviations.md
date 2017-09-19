@@ -1,13 +1,13 @@
 ---
 title: "Country Abbreviations"
 date: 2005-12-27 14:55:41 +0000
-external-url: http://sustainablesources.com/resources/country-abbreviations/
-hash: e1ede037382a6f5a3e9bf9585ecbfd62
+external-url: http://www.greenbuilder.com/general/countries.html
+hash: 59cf5d3438d5b8eca8d99631d82fc6e9
 year: 2005
 month: 12
 scheme: http
-host: sustainablesources.com
-path: /resources/country-abbreviations/
+host: www.greenbuilder.com
+path: /general/countries.html
 
 ---
 

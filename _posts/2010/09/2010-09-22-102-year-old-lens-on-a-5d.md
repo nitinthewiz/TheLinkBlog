@@ -1,20 +1,15 @@
 ---
 title: "102-Year-Old Lens on a Canon 5D Mark II DSLR"
-date: 2010-09-22 22:34:30 +0000
-external-url: http://www.cinema5d.com/viewtopic.php?p=133996
-hash: f71aaad4deb17da37acc36ccd39d2f77
+date: 2010-09-22 23:34:30 +0000
+external-url: http://forums.planet5d.com/viewtopic.php?p=133996
+hash: c3a841ca8c00ccaf5602137d36611ee6
 year: 2010
 month: 09
 scheme: http
-host: www.cinema5d.com
+host: forums.planet5d.com
 path: /viewtopic.php
 query:
     p: "133996"
 ---
 
 Dreamlike results.
-
-
-
- ★ 
-

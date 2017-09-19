@@ -1,12 +1,12 @@
 ---
 title: "Matasano Security"
-date: 2012-03-19 20:54:19 +0000
-external-url: http://www.matasano.com/
-hash: f83a5bc9b50d5434816481f9c1f636ac
+date: 2012-03-19 21:54:19 +0000
+external-url: http://matasano.com/
+hash: be3f50eb230e465c12d2f5c0dd937b3d
 year: 2012
 month: 03
 scheme: http
-host: www.matasano.com
+host: matasano.com
 path: /
 
 ---

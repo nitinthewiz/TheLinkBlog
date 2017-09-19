@@ -1,15 +1,14 @@
 ---
-title: "The blog of all and sundry » How to name a startup"
-date: 2008-03-26 11:40:57 +0000
-external-url: http://www.cederman.com/?p=30
-hash: 3b935dde31da128b407e216e496869f7
+title: "The blog of all and sundry How to name a startup"
+date: 2008-03-26 12:40:57 +0000
+external-url: http://www.cederman.com/2008/03/how-to-name-a-startup/
+hash: 6509a95a843050d187ceefee0047779a
 year: 2008
 month: 03
 scheme: http
 host: www.cederman.com
-path: /
-query:
-    p: "30"
+path: /2008/03/how-to-name-a-startup/
+
 ---
 
 

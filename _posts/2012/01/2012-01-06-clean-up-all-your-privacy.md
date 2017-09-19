@@ -1,13 +1,13 @@
 ---
 title: "Clean up ALL Your Applications Privacy Settings in 2 Minutes"
 date: 2012-01-06 02:34:54 +0000
-external-url: http://mypermissions.com
-hash: c8cc812a0d400f072dcf3b5a82bcf38e
+external-url: http://mypermissions.org/
+hash: 4bcfafa7091b7baefdb10dafab320892
 year: 2012
 month: 01
 scheme: http
-host: mypermissions.com
-path: 
+host: mypermissions.org
+path: /
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Graph Databases: Connecting the Dots in Big Data Big Data"
+title: "Graph Databases: Connecting the Dots in Big Data | Big Data | DATAVERSITY"
 date: 2012-01-06 20:20:29 +0000
-external-url: http://www.dataversity.net/graph-databases-connecting-the-dots-in-big-data/
-hash: 114f5e4e21024098842b74ec8c4dfc5b
+external-url: http://www.dataversity.net/archives/7736
+hash: 262c6bf280725b4c95d641aa66cf5cf4
 year: 2012
 month: 01
 scheme: http
 host: www.dataversity.net
-path: /graph-databases-connecting-the-dots-in-big-data/
+path: /archives/7736
 
 ---
 

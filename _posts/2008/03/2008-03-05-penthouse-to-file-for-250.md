@@ -1,13 +1,13 @@
 ---
 title: "Penthouse To File For $250 Million IPO"
 date: 2008-03-05 21:41:00 +0000
-external-url: http://gigaom.com/2008/03/06/419-penthouse-to-file-for-250-million-ipo/
-hash: de6fbe4bf9b6a14616285dfd2aa2245d
+external-url: http://www.paidcontent.org/entry/419-penthouse-to-file-for-250-million-ipo/
+hash: 81816365155f01612b26b60cf43a3fe1
 year: 2008
 month: 03
 scheme: http
-host: gigaom.com
-path: /2008/03/06/419-penthouse-to-file-for-250-million-ipo/
+host: www.paidcontent.org
+path: /entry/419-penthouse-to-file-for-250-million-ipo/
 
 ---
 
@@ -22,3 +22,4 @@ Related
 
 
 Penthouse Buys Adult-themed Social Net Various Inc. For $500 Million
+

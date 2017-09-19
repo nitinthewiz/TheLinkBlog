@@ -1,11 +1,11 @@
 ---
 title: "Gorgeous Map of the Facebook World"
 date: 2010-12-20 22:58:31 +0000
-external-url: https://www.facebook.com/note.php?note_id=469716398919&id=9445547199
-hash: 36d9480a49dc9720f336d17e305dd48a
+external-url: http://www.facebook.com/note.php?note_id=469716398919&id=9445547199
+hash: 82335fd3aa809dded2f8399a13d52839
 year: 2010
 month: 12
-scheme: https
+scheme: http
 host: www.facebook.com
 path: /note.php
 query:

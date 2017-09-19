@@ -1,12 +1,12 @@
 ---
 title: "Slowcop - Make your website faster"
 date: 2011-02-24 12:05:54 +0000
-external-url: http://slowcop.com/
-hash: bac7db1f796179091e16dd8483a009ff
+external-url: http://www.slowcop.com/
+hash: fedff5635f91341d1d1b4cf1bb69a8f3
 year: 2011
 month: 02
 scheme: http
-host: slowcop.com
+host: www.slowcop.com
 path: /
 
 ---

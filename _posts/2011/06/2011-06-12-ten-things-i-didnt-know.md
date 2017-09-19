@@ -1,12 +1,12 @@
 ---
-title: "Ten things I didn’t know about MongoDB"
-date: 2011-06-12 10:54:00 +0000
-external-url: http://slowping.com/2011/ten-things-i-didnt-know-about-mongodb/
-hash: 13cf7c9bad625e5c9a0d0ba8f27b0e93
+title: "Ten things I didnt know about MongoDB"
+date: 2011-06-12 11:54:00 +0000
+external-url: http://www.slowping.com/2011/ten-things-i-didnt-know-about-mongodb/
+hash: 70fe3cc3e347794da80021d5a49e7acb
 year: 2011
 month: 06
 scheme: http
-host: slowping.com
+host: www.slowping.com
 path: /2011/ten-things-i-didnt-know-about-mongodb/
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Apple's new batteries are bewildering MacBook Pro owners"
-date: 2009-06-15 16:37:34 +0000
-external-url: http://9to5mac.com/MAcbook-pro-2009-battery
-hash: 5b41406f84e64548f2733ca704ee181c
+date: 2009-06-15 17:37:34 +0000
+external-url: http://9to5mac.com/2009/06/14/apples-new-batteries-are-bewildering-macbook-pro-owners/
+hash: 9c3e29174d3b3def385a61382646705b
 year: 2009
 month: 06
 scheme: http
 host: 9to5mac.com
-path: /MAcbook-pro-2009-battery
+path: /2009/06/14/apples-new-batteries-are-bewildering-macbook-pro-owners/
 
 ---
 
@@ -20,11 +20,3 @@ path: /MAcbook-pro-2009-battery
 
 
 Notice that Apple doesn't release the name of their battery technologist?  That way they can keep their technology in-house longer.
-
-
-
- 
-
-
-          
-

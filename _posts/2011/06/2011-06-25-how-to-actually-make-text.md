@@ -1,13 +1,13 @@
 ---
 title: "How to Actually Make Text Look Interesting"
-date: 2011-06-25 19:24:25 +0000
-external-url: http://getspace.org/typographic-contras-minimalist-web-design/
-hash: 95d8536931a1b16473b044b816699194
+date: 2011-06-25 20:24:25 +0000
+external-url: http://getspace.org/
+hash: b56fd2edc0e5d69ac70a98285e39d40d
 year: 2011
 month: 06
 scheme: http
 host: getspace.org
-path: /typographic-contras-minimalist-web-design/
+path: /
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Amazon Acquires Popular iPhone E-Reader App Stanza"
-date: 2009-04-28 04:56:47 +0000
-external-url: http://m.paidcontent.org/article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
-hash: 2ac9683457797297b4f3991eea1b6ed5
+date: 2009-04-28 05:56:47 +0000
+external-url: http://gigaom.com/2009/04/28/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
+hash: 33d65b8f1c09cfbd1b1a3ee388110a54
 year: 2009
 month: 04
 scheme: http
-host: m.paidcontent.org
-path: /article/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
+host: gigaom.com
+path: /2009/04/28/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
 
 ---
 
@@ -33,5 +33,3 @@ The Latest iPhone App Sale: MindMeister Acquires MindMaker
 Must Attend Event: EconSM: Social Meets Mobile, May 14th in San Francisco. Speakers include Seth Sternberg, (CEO and Co-Founder, Meebo), Kevin Thau, (Director, Mobile Business Development, Twitter), and George Linardos, (VP, Product Management, Media, Nokia) among many more. See full list and register at www.econsm.com.
 
 Get 10% off the the early registration fee by using code "EconSM0910"
-    
-

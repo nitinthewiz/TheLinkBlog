@@ -1,13 +1,13 @@
 ---
 title: "What Happens When A 35-Year-Old Man Retakes The SAT?"
-date: 2012-03-21 02:04:20 +0000
-external-url: http://deadspin.com/5893189/what-happens-when-a-35+year+old-man-retakes-the-sat
-hash: 80eec975bd4905f09c898cd4c481d480
+date: 2012-03-21 03:04:20 +0000
+external-url: http://deadspin.com/5893189/what-happens-when-a-35%2Byear%2Bold-man-retakes-the-sat
+hash: 4717a3b6e6a17213ae76ca692218459a
 year: 2012
 month: 03
 scheme: http
 host: deadspin.com
-path: /5893189/what-happens-when-a-35+year+old-man-retakes-the-sat
+path: /5893189/what-happens-when-a-35%2Byear%2Bold-man-retakes-the-sat
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "FreedomBox"
 date: 2011-03-04 20:23:34 +0000
-external-url: https://wiki.debian.org/FreedomBox
-hash: 0f17a2f3fad636d622e96fb9cee0ca4e
+external-url: http://wiki.debian.org/FreedomBox
+hash: 37c136d47774b209265c7d24a29bda5f
 year: 2011
 month: 03
-scheme: https
+scheme: http
 host: wiki.debian.org
 path: /FreedomBox
 

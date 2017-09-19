@@ -1,8 +1,8 @@
 ---
-title: "devopsdays Minneapolis 2015 - Luke Francl - Helping developers monitor their own application"
-date: 2015-07-18 23:45:32 +0000
-external-url: https://www.youtube.com/watch?feature=youtu.be&v=Swa31wqw5MI&app=desktop
-hash: 7c9f09e4b94ec7939160bb0d0f14808d
+title: "devopsdays Minneapolis 2015 - Mary Poppendieck - The New New Software Game"
+date: 2015-07-18 23:45:46 +0000
+external-url: https://www.youtube.com/watch?feature=youtu.be&v=K2_yPtAB7Lw&app=desktop
+hash: e02b62d021203571e580c4ac2b20c53b
 year: 2015
 month: 07
 scheme: https
@@ -10,10 +10,12 @@ host: www.youtube.com
 path: /watch
 query:
     feature: "youtu.be"
-    v: "Swa31wqw5MI"
+    v: "K2_yPtAB7Lw"
     app: "desktop"
 ---
 
-I'm a developer. I barely know what Nagios is, let alone how to set it up or configure new alerts. But I do know a lot about the application I'm working on, and I know how to code. By building a framework for easily adding new monitoring rules, the operations team at Swiftype has opened up application-level monitoring for the whole development team. I'll talk about the tools we wrote and explain how they allow developers to easily add new monitoring checks that probe our application (including web services, queues, and database) and alert the team by email, chat, or phone.
+We spent a lot of time over the last decade talking about teams, stories, and WIP. We laid the groundwork for a big change in the way software is developed. Now is the time to change the conversation – from process to technology.  We agree that we must dramatically shorten the feedback loop from idea to outcome – but how?
 
-I'll show how to use the monitoring framework we wrote, but I'll also use this collaboration as a jumping off point to discuss how I think developers and operations can work together to build software faster and keep it reliable, based on our experiences at Swiftype.
+It’s time to focus on the tools and techniques that make it possible for small teams to deploy small changes to large systems very rapidly and very safely. Consider architecture:  we are learning how to break monolithic systems into micro services – small, independently deployable components. Look at packaging: we now have standard containers that move freely across environments. Examine reliability: contract tests have proven effective at isolating the impact of component changes.
+
+In the end the important question is:  How long does it take you to deploy a single line a code, learn something useful, and act on the information?

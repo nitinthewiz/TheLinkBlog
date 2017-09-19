@@ -1,12 +1,12 @@
 ---
 title: "New in Basecamp: Redesigned messages section"
 date: 2010-02-10 04:52:07 +0000
-external-url: http://productblogarchive.37signals.com/products/2010/02/new-in-basecamp-redesigned-messages-section.html
-hash: a8880cfc4a29e82a7b5e7f3fb1b21d91
+external-url: http://productblog.37signals.com/products/2010/02/new-in-basecamp-redesigned-messages-section.html
+hash: 0441d1cd06f7c6346fa7030cbd01a5c7
 year: 2010
 month: 02
 scheme: http
-host: productblogarchive.37signals.com
+host: productblog.37signals.com
 path: /products/2010/02/new-in-basecamp-redesigned-messages-section.html
 
 ---
@@ -62,3 +62,4 @@ The updates are live and in your account right now. Check it out with your own d
 
 
 Thanks again for using Basecamp.
+

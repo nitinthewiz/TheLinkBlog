@@ -1,12 +1,12 @@
 ---
 title: "Prowl: Growl Client for iPhone"
-date: 2009-07-07 15:29:20 +0000
-external-url: http://prowl.weks.net/
-hash: 078e62fdf26ede990c4db3e862aaae9e
+date: 2009-07-07 16:29:20 +0000
+external-url: http://www.prowlapp.com/
+hash: 852c815c59537f9b32f7b435bdf69c91
 year: 2009
 month: 07
 scheme: http
-host: prowl.weks.net
+host: www.prowlapp.com
 path: /
 
 ---
@@ -20,8 +20,3 @@ New $3 iPhone app by Zachary West:
 
 
 Great idea. This opens up iPhone push notifications for anything you can think of.
-
-
-
- ★ 
-

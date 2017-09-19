@@ -1,14 +1,14 @@
 ---
 title: "The Men Who Stole the World"
 date: 2010-12-01 09:07:11 +0000
-external-url: http://content.time.com/time/specials/packages/article/0%2C28804%2C2032304_2032746_2032903%2C00.html
-hash: 1d0aa6f8701af49242b411967aa33100
+external-url: http://www.time.com/time/specials/packages/printout/0,29239,2032304_2032746_2032903,00.html
+hash: 31108f56fdc6cb6854e8a6812828c4ff
 year: 2010
 month: 12
 scheme: http
-host: content.time.com
-path: /time/specials/packages/article/0%2C28804%2C2032304_2032746_2032903%2C00.html
+host: www.time.com
+path: /time/specials/packages/printout/0,29239,2032304_2032746_2032903,00.html
 
 ---
 
-The end of history? More like the start. The 21st century runs on fast-forward, and the only way to keep up is to stop and figure out what really happened.
+

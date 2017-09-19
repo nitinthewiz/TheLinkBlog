@@ -1,17 +1,14 @@
 ---
-title: "OmniFocus Perspectives Galore – Basics & Today View"
-date: 2011-03-25 03:26:34 +0000
-external-url: http://simplicityisbliss.com/2011/03/21/omnifocus-perspectives-galore-basics-today-view/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheBrooksReview+%28The+Brooks+Review%29
-hash: bf0a4e769caa1de5e4607070d5d7eb4f
+title: "OmniFocus Perspectives Galore Basics & Today View"
+date: 2011-03-25 04:26:34 +0000
+external-url: http://simplicitybliss.com/21/omnifocus-perspectives-galore-basics-today-view/
+hash: 360a06d8e67b55e409e353b2e3875a6f
 year: 2011
 month: 03
 scheme: http
-host: simplicityisbliss.com
-path: /2011/03/21/omnifocus-perspectives-galore-basics-today-view/
-query:
-    utm_source: "feedburner"
-    utm_medium: "feed"
-    utm_campaign: "Feed: TheBrooksReview (The Brooks Review)"
+host: simplicitybliss.com
+path: /21/omnifocus-perspectives-galore-basics-today-view/
+
 ---
 
 

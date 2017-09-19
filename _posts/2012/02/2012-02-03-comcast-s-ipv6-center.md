@@ -1,12 +1,12 @@
 ---
 title: "Comcast's IPv6 Information Center"
 date: 2012-02-03 05:27:26 +0000
-external-url: http://xfinity.comcast.net/
-hash: c01043b8cbfc4eeec6225dc75a65ad74
+external-url: http://www.comcast6.net/
+hash: e0929cc6c17641808bc9b2150e2559b4
 year: 2012
 month: 02
 scheme: http
-host: xfinity.comcast.net
+host: www.comcast6.net
 path: /
 
 ---

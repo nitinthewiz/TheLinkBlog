@@ -1,19 +1,14 @@
 ---
 title: "Aoife O'Donovan"
 date: 2012-03-03 03:40:42 +0000
-external-url: http://aoifeodonovan.com/
-hash: 71adefccbff06a2cc2d77ce6e7a6b2ef
+external-url: http://www.aoifeodonovan.com/
+hash: 1dae47466ae4d25a303ee774546c5b3c
 year: 2012
 month: 03
 scheme: http
-host: aoifeodonovan.com
+host: www.aoifeodonovan.com
 path: /
 
 ---
 
-Unbelievable voice.
-
-<blockquote>
-Professional Web site for Aoife O'Donovan. Singer for Crooked Still.
-</blockquote>
 

@@ -1,19 +1,14 @@
 ---
-title: "Case Study: Race Across America"
+title: "CASE STUDY: RACE ACROSS AMERICA | Jesse Oxford"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://oxcreates.com/portfolio/case-study-race-across-america
-hash: 3c1cc9819d149569cd9c8e7605bd890a
+external-url: http://jesseoxford.com/portfolio/case-study-race-across-america
+hash: ece34a94d1d8c1d815de0edc562d6c68
 year: 2010
 month: 12
 scheme: http
-host: oxcreates.com
+host: jesseoxford.com
 path: /portfolio/case-study-race-across-america
 
 ---
 
-Case study on how he shot the Race Across America.
-
-<blockquote>
-
-</blockquote>
 

@@ -1,14 +1,14 @@
 ---
 title: "BBEdit 10 Improves UI, HTML Markup, and EPUB Editing"
-date: 2011-07-20 03:17:46 +0000
-external-url: http://tidbits.com/article/12348?rss
-hash: d0a0a53aa36c4ba3bc059d7826373ebd
+date: 2011-07-20 04:17:46 +0000
+external-url: http://tidbits.com/article/12348
+hash: 6d3ea9bbfc2349ce8561edf9f54b08be
 year: 2011
 month: 07
 scheme: http
 host: tidbits.com
 path: /article/12348
-query:
+
 ---
 
 I finally decided to make the jump to BBEdit with this release. Initial impressions are very good.

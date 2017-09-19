@@ -1,13 +1,13 @@
 ---
 title: "How I Use OmniFocus to Organize My Life"
-date: 2010-10-15 00:59:11 +0000
-external-url: http://clickontyler.com/blog/2010/10/how-i-use-omnifocus-to-organize-my-life/
-hash: c306b8007aae3fab97767c4978cdc930
+date: 2010-10-15 01:59:11 +0000
+external-url: http://tyler.io/2010/10/how-i-use-omnifocus-to-organize-my-life/
+hash: fa90cc554ae19805fa5448ea403c6f39
 year: 2010
 month: 10
 scheme: http
-host: clickontyler.com
-path: /blog/2010/10/how-i-use-omnifocus-to-organize-my-life/
+host: tyler.io
+path: /2010/10/how-i-use-omnifocus-to-organize-my-life/
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "How Dennis Kucinich Landed Smoking Hot Liz, In 8 Minutes!"
-date: 2007-11-01 16:39:04 +0000
-external-url: http://jezebel.com/gossip/gauging-interest-rates/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes-317463.php
-hash: 376c140e091530a3e1cafb6efb45edb7
+title: "How Dennis Kucinich Landed Smoking Hot Liz, In 8 Minutes"
+date: 2007-11-01 17:39:04 +0000
+external-url: http://jezebel.com/317463/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes
+hash: cec32268b8aecac2cff209d409ce4912
 year: 2007
 month: 11
 scheme: http
 host: jezebel.com
-path: /gossip/gauging-interest-rates/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes-317463.php
+path: /317463/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes
 
 ---
 

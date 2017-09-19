@@ -1,14 +1,14 @@
 ---
 title: "Zone Manager (Zoninator)"
-date: 2011-05-18 03:49:33 +0000
-external-url: http://wordpress.org/extend/plugins/zoninator/
-hash: eaf64d6e009e04914312694b77850904
+date: 2011-05-18 04:49:33 +0000
+external-url: https://wordpress.org/plugins/zoninator/
+hash: 8023b0677554e20277ea09247f4d32a4
 year: 2011
 month: 05
-scheme: http
+scheme: https
 host: wordpress.org
-path: /extend/plugins/zoninator/
+path: /plugins/zoninator/
 
 ---
 
-Building CMS sites with WordPress ?  Check out @mjangda Zone Manager plugin -- really powerful: 
+Building CMS sites with WordPress ?  Check out @mjangda Zone Manager plugin -- really powerful:

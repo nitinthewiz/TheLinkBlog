@@ -1,13 +1,13 @@
 ---
-title: "Facebook is Great, but Does it Really Work for Fundraising? | NetWitsThinkTank.com"
-date: 2011-04-11 18:38:04 +0000
-external-url: http://www.netwitsthinktank.com/online-fundraising/facebook-is-great-but-does-it-really-work-for-fundraising.htm
-hash: 5b10106a548753c7356a29a8bd8e01ed
+title: "Facebook is Great, but Does it Really Work for Fundraising?"
+date: 2011-04-11 19:38:04 +0000
+external-url: http://npengage.com/social-media/facebook-great-but-does-really-work-for-fundraising/
+hash: 4c7eb5c1ece6430f7749a5d000d956ab
 year: 2011
 month: 04
 scheme: http
-host: www.netwitsthinktank.com
-path: /online-fundraising/facebook-is-great-but-does-it-really-work-for-fundraising.htm
+host: npengage.com
+path: /social-media/facebook-great-but-does-really-work-for-fundraising/
 
 ---
 

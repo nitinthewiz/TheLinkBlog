@@ -1,13 +1,13 @@
 ---
-title: "Do Not Track Check - DNT HTTP Header"
+title: "\"Do Not Track\" Check - DNT HTTP Header"
 date: 2011-02-01 20:05:39 +0000
-external-url: http://myuseragentinfo.appspot.com/
-hash: 44f9122d439fd39ba108f5e036ab70c4
+external-url: http://blog.arpitnext.com/tools/dnt.php
+hash: c25fc84e2b2c5d3dfc3e42a3cb3332d4
 year: 2011
 month: 02
 scheme: http
-host: myuseragentinfo.appspot.com
-path: /
+host: blog.arpitnext.com
+path: /tools/dnt.php
 
 ---
 

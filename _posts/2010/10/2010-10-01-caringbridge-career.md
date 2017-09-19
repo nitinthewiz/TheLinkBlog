@@ -1,14 +1,14 @@
 ---
 title: "CaringBridge Career Opportunities."
-date: 2010-10-01 02:13:11 +0000
-external-url: http://www.caringbridge.org/careers
-hash: 726b9dc63f8aad750f68bc8ff508647a
+date: 2010-10-01 03:13:11 +0000
+external-url: http://www.caringbridge.org/about-us/career-opportunities
+hash: 2fc4bbea61a086d557a5d84eb40d6e92
 year: 2010
 month: 10
 scheme: http
 host: www.caringbridge.org
-path: /careers
+path: /about-us/career-opportunities
 
 ---
 
-Interested in working at a wonderful #mpls based #nonprofit? Check out @CaringBridge opportunities! 
+Interested in working at a wonderful #mpls based #nonprofit? Check out @CaringBridge opportunities!

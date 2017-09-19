@@ -1,12 +1,12 @@
 ---
 title: "Stephen Hawking: 'There is no heaven; it's a fairy story'"
-date: 2011-05-17 17:15:45 +0000
-external-url: http://www.guardian.co.uk/science/2011/may/15/stephen-hawking-interview-there-is-no-heaven
-hash: c865e99dd0b80f7acfc610d96dbc722f
+date: 2011-05-17 18:15:45 +0000
+external-url: http://www.theguardian.com/science/2011/may/15/stephen-hawking-interview-there-is-no-heaven
+hash: 8a8391bd23b75d6180eb8212e8385685
 year: 2011
 month: 05
 scheme: http
-host: www.guardian.co.uk
+host: www.theguardian.com
 path: /science/2011/may/15/stephen-hawking-interview-there-is-no-heaven
 
 ---

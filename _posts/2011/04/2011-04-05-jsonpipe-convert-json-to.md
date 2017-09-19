@@ -1,14 +1,19 @@
 ---
-title: "jsonpipe: Convert JSON to a UNIX-friendly line-based format using Python"
-date: 2011-04-05 20:53:54 +0000
-external-url: http://thechangelog.com/post/4363724820/jsonpipe-convert-json-to-a-unix-friendly-line-based-form
-hash: 19b771899e2d70771c9b02a3c61716dd
+title: "Jsonpipe: Convert JSON to a UNIX-friendly line-based format using Python"
+date: 2011-04-05 21:53:54 +0000
+external-url: http://thechangelog.com/jsonpipe-convert-json-to-a-unix-friendly-line-based-form/
+hash: 52ae86cbcb9517f65ef337ca967984c6
 year: 2011
 month: 04
 scheme: http
 host: thechangelog.com
-path: /post/4363724820/jsonpipe-convert-json-to-a-unix-friendly-line-based-form
+path: /jsonpipe-convert-json-to-a-unix-friendly-line-based-form/
 
 ---
 
 Get your bash on and grep json like a star. :-)
+
+<blockquote>
+
+</blockquote>
+

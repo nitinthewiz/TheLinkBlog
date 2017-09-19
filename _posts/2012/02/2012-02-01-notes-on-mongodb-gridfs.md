@@ -1,13 +1,13 @@
 ---
-title: "Notes on MongoDB, GridFS, sharding and deploying in the cloud Viktor Petersson.com"
+title: "Notes on MongoDB, GridFS, sharding and deploying in the cloud | Viktor Petersson.com"
 date: 2012-02-01 09:51:57 +0000
-external-url: http://blog.viktorpetersson.com/post/92729957389/notes-on-mongodb-gridfs-and-sharding-in-the-cloud
-hash: 644bcda10213384e016c746e3b1a0f61
+external-url: http://viktorpetersson.com/2012/01/29/notes-on-mongodb-gridfs-and-sharding-in-the-cloud/
+hash: d1ccb289b3282025cde75d7ec3966f00
 year: 2012
 month: 02
 scheme: http
-host: blog.viktorpetersson.com
-path: /post/92729957389/notes-on-mongodb-gridfs-and-sharding-in-the-cloud
+host: viktorpetersson.com
+path: /2012/01/29/notes-on-mongodb-gridfs-and-sharding-in-the-cloud/
 
 ---
 

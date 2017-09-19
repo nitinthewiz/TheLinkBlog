@@ -1,13 +1,13 @@
 ---
-title: "Run Linux on... JavaScript?!"
-date: 2011-05-18 02:56:48 +0000
-external-url: http://www.readwriteweb.com/hack/2011/05/run-linux-on-javascript.php
-hash: 2eed465f1b992308d37622a7dc54948c
+title: "Run Linux on... JavaScript?"
+date: 2011-05-18 03:56:48 +0000
+external-url: http://readwrite.com/2011/05/17/run-linux-on-javascript
+hash: 01e14bea9224df1073fcc48929057bc4
 year: 2011
 month: 05
 scheme: http
-host: www.readwriteweb.com
-path: /hack/2011/05/run-linux-on-javascript.php
+host: readwrite.com
+path: /2011/05/17/run-linux-on-javascript
 
 ---
 

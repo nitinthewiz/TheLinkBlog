@@ -1,8 +1,8 @@
 ---
-title: "Storyist » How to Get Ready for NaNoWriMo"
-date: 2010-10-08 04:40:35 +0000
-external-url: http://storyist.com/support/howto/get-ready-for-nanowrimo/#
-hash: c1c79c0f3a28f352542a95af1ee21df9
+title: "Storyist How to Get Ready for NaNoWriMo"
+date: 2010-10-08 05:40:35 +0000
+external-url: http://storyist.com/support/howto/get-ready-for-nanowrimo/
+hash: a7a6e4209403c2c6bb1c32ca2d4fe2a8
 year: 2010
 month: 10
 scheme: http

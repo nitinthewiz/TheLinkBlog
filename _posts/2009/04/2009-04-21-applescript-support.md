@@ -1,14 +1,14 @@
 ---
 title: "AppleScript support"
-date: 2009-04-21 04:21:56 +0000
-external-url: http://getsatisfaction.com/atebits/topics/applescript_support3
-hash: dc3a381f76b44dcac05f6d25522a36cd
+date: 2009-04-21 05:21:56 +0000
+external-url: http://retired.getsatisfaction.com/
+hash: c5de96653a3002ac446d626014639817
 year: 2009
 month: 04
 scheme: http
-host: getsatisfaction.com
-path: /atebits/topics/applescript_support3
+host: retired.getsatisfaction.com
+path: /
 
 ---
 
-@ktangen They are adding Growl.  I've also suggested AppleScript support. 
+@ktangen They are adding Growl.  I've also suggested AppleScript support.

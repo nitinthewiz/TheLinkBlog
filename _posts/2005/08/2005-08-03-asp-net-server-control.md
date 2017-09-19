@@ -1,12 +1,12 @@
 ---
 title: "ASP.NET Server Control for Displaying RSS Feeds"
-date: 2005-08-03 19:36:14 +0000
-external-url: http://aspnet.4guysfromrolla.com/articles/102903-1.aspx
-hash: e8eb6ffa6c0ee7869092c10df4f1bb44
+date: 2005-08-03 20:36:14 +0000
+external-url: http://www.4guysfromrolla.com/articles/102903-1.aspx
+hash: 6bb393ff67cdc21b01f1770c0a1766ed
 year: 2005
 month: 08
 scheme: http
-host: aspnet.4guysfromrolla.com
+host: www.4guysfromrolla.com
 path: /articles/102903-1.aspx
 
 ---

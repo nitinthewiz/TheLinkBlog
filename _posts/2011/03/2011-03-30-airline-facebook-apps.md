@@ -1,17 +1,19 @@
 ---
-title: "Airline Facebook Apps, Will Others Follow? | AVIATION WEEK"
-date: 2011-03-30 15:28:08 +0000
-external-url: http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=comm&id=news/avd/2011/03/30/11.xml&headline=Airline%20Facebook%20Apps,%20Will%20Others%20Follow
-hash: 290ce2ffa0c788d13b6d172226f9e77b
+title: "Airline Facebook Apps, Will Others Follow?"
+date: 2011-03-30 16:28:08 +0000
+external-url: http://aviationweek.com/penton_404_redirect_call/legacy/article/avd_03_30_2011_p04-01-302852
+hash: e8a5a9f749fff3c051d1d19977e419fa
 year: 2011
 month: 03
 scheme: http
-host: www.aviationweek.com
-path: /aw/generic/story_channel.jsp
-query:
-    channel: "comm"
-    id: "news/avd/2011/03/30/11.xml"
-    headline: "Airline Facebook Apps, Will Others Follow"
+host: aviationweek.com
+path: /penton_404_redirect_call/legacy/article/avd_03_30_2011_p04-01-302852
+
 ---
 
+Coverage of the Delta Ticket Counter application we made.
+
+<blockquote>
+Delta Air Lines has enhanced and exported its Facebook booking application, and Malaysia Airlines has debuted one that makes greater use of the features of social networking. But now the question will become how the carriers will grade the success and value of their effortsand whether, based on the results, other carriers will feel compelled to follow.
+</blockquote>
 

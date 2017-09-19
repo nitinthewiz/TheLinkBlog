@@ -1,13 +1,13 @@
 ---
 title: "Dotcom-Monitor.com"
 date: 2005-12-20 20:29:35 +0000
-external-url: https://www.dotcom-monitor.com/
-hash: 4609fc5ab496e1b60fa4e748530d8816
+external-url: http://www.dotcom-monitor.com/index.asp
+hash: 6bfcaf3006f94ab5513b256cc8340a6a
 year: 2005
 month: 12
-scheme: https
+scheme: http
 host: www.dotcom-monitor.com
-path: /
+path: /index.asp
 
 ---
 

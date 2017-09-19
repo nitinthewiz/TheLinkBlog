@@ -1,13 +1,13 @@
 ---
-title: "Frank Hornstein sees tougher sledding ahead for transit and land-use reform Cityscape"
+title: "Frank Hornstein sees tougher sledding ahead for transit and land-use reform  | Cityscape"
 date: 2010-12-14 14:35:11 +0000
-external-url: http://www.minnpost.com/cityscape/2010/12/frank-hornstein-sees-tougher-sledding-ahead-transit-and-land-use-reform
-hash: 22a56c4e3af5a3fd4d8bad64dbc41e47
+external-url: http://www.minnpost.com/steveberg/2010/12/14/24187/frank_hornstein_sees_tougher_sledding_ahead_for_transit_and_land-use_reform
+hash: 1a9d60932c3651e368c1bb4ff2abd46d
 year: 2010
 month: 12
 scheme: http
 host: www.minnpost.com
-path: /cityscape/2010/12/frank-hornstein-sees-tougher-sledding-ahead-transit-and-land-use-reform
+path: /steveberg/2010/12/14/24187/frank_hornstein_sees_tougher_sledding_ahead_for_transit_and_land-use_reform
 
 ---
 

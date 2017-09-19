@@ -1,13 +1,13 @@
 ---
-title: "Homebrew — MacPorts driving you to drink? Try Homebrew!"
-date: 2011-09-29 06:18:55 +0000
-external-url: http://mxcl.github.com/homebrew/
-hash: 889eef8117346b4f5afeacd6e6a88763
+title: "Homebrew MacPorts driving you to drink? Try Homebrew"
+date: 2011-09-29 07:18:55 +0000
+external-url: http://brew.sh
+hash: f8a15813a845576f5b44756dd3a3555a
 year: 2011
 month: 09
 scheme: http
-host: mxcl.github.com
-path: /homebrew/
+host: brew.sh
+path: 
 
 ---
 

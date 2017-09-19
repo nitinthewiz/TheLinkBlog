@@ -1,12 +1,12 @@
 ---
 title: "Reaching out to Photographers"
-date: 2009-09-22 04:06:27 +0000
-external-url: http://blog.duncandavidson.com/2009/09/photo-community-outreach.html
-hash: fda66c953ba5eb2a507c9e4e7efde84c
+date: 2009-09-22 05:06:27 +0000
+external-url: http://duncandavidson.com/2009/09/photo-community-outreach.html
+hash: 1514bf244f4a1615d60d0f1ba92b39f9
 year: 2009
 month: 09
 scheme: http
-host: blog.duncandavidson.com
+host: duncandavidson.com
 path: /2009/09/photo-community-outreach.html
 
 ---
@@ -26,5 +26,4 @@ The venue for the event was an indoor skatepark. This gave everyone a chance to 
 So far, I've been lucky enough to trek up to Seattle for two of Chase's events. He's done a few more over the years and from what I hear, they've all been awesome. So far, I've not seen anything else like it anywhere else in the country and that's a shame.
 
 
-To be sure, part of the secret sauce is that Chase has been super generous with his time, access, and staff. He's also got a kick ass studio to retreat to after the shooting ends to party it up in. But, really, I think this sort of thing should be possible to do anywhere. All it needs is somebody—or a few people—to get together and sort out how they want to reach out to photographers in their area. It could be anywhere. New York. Albuquerque. Kansas City. Sacramento. Anywhere.
-
+To be sure, part of the secret sauce is that Chase has been super generous with his time, access, and staff. He's also got a kick ass studio to retreat to after the shooting ends to party it up in. But, really, I think this sort of thing should be possible to do anywhere. All it needs is somebodyor a few peopleto get together and sort out how they want to reach out to photographers in their area. It could be anywhere. New York. Albuquerque. Kansas City. Sacramento. Anywhere.

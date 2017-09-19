@@ -1,13 +1,13 @@
 ---
 title: "Productivity Whitepaper"
 date: 2007-02-10 05:51:11 +0000
-external-url: http://patrickrhone.com/2006/05/12/org-fu-uberpost-productivity-whitepaper/
-hash: 79a9fc1eb536ecd9b3c153c9593c15dc
+external-url: http://patrickrhone.com/journal/archives/2006/05/175.html
+hash: 3d92d34193719bf9805c28349fa254e6
 year: 2007
 month: 02
 scheme: http
 host: patrickrhone.com
-path: /2006/05/12/org-fu-uberpost-productivity-whitepaper/
+path: /journal/archives/2006/05/175.html
 
 ---
 

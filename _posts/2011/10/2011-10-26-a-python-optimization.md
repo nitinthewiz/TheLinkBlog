@@ -1,15 +1,14 @@
 ---
 title: "A Python Optimization Anecdote"
-date: 2011-10-26 18:39:43 +0000
-external-url: http://tech.dropbox.com/?p=89
-hash: 36112f5acfca8518f308e14deab2e442
+date: 2011-10-26 19:39:43 +0000
+external-url: https://tech.dropbox.com/2011/10/a-python-optimization-anecdote/
+hash: f3f7018efe39ce0630101f750517e4ae
 year: 2011
 month: 10
-scheme: http
+scheme: https
 host: tech.dropbox.com
-path: /
-query:
-    p: "89"
+path: /2011/10/a-python-optimization-anecdote/
+
 ---
 
-One of my biggest projects during this internship was optimizing Python for dynamic page generation on the website. By the end of the summer, I optimized many of dropbox.com’s pages to render 5 times faster. This came with a fair share of challenges though, which I’d like to write about today:
+One of my biggest projects during this internship was optimizing Python for dynamic page generation on the website. By the end of the summer, I optimized many of dropbox.coms pages to render 5 times faster. This came with a fair share of challenges though, which Id like to write about today:

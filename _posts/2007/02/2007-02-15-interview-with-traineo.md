@@ -1,13 +1,13 @@
 ---
 title: "Interview with traineo CEO Alasdair McLean-Foreman"
 date: 2007-02-15 15:38:55 +0000
-external-url: http://www.centernetworks.com/interview-with-traineo-ceo/
-hash: ae44e3cd019ac280592a97eda2e92afd
+external-url: http://www.centernetworks.com/interview-with-traineo-ceo
+hash: c70796a5d98f24c95320979e9257e493
 year: 2007
 month: 02
 scheme: http
 host: www.centernetworks.com
-path: /interview-with-traineo-ceo/
+path: /interview-with-traineo-ceo
 
 ---
 

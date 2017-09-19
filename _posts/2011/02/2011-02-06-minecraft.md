@@ -1,12 +1,12 @@
 ---
 title: "Minecraft"
 date: 2011-02-06 12:14:07 +0000
-external-url: https://minecraft.net/
-hash: cb88d6fa3fb58dba579e841a3b1a484c
+external-url: http://www.minecraft.net/
+hash: ceaea6264b9738b1339db2d41c93e72e
 year: 2011
 month: 02
-scheme: https
-host: minecraft.net
+scheme: http
+host: www.minecraft.net
 path: /
 
 ---

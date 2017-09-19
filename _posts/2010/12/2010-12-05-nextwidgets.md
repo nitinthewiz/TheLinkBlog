@@ -1,12 +1,12 @@
 ---
 title: "NextWidgets"
 date: 2010-12-05 12:21:18 +0000
-external-url: http://alensa.com/
-hash: 048e90f7f1073e6c6e66e38624716ce4
+external-url: http://nextwidgets.com/
+hash: 0d511c06385fe546485193e74b43567a
 year: 2010
 month: 12
 scheme: http
-host: alensa.com
+host: nextwidgets.com
 path: /
 
 ---

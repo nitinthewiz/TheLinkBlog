@@ -1,13 +1,13 @@
 ---
 title: "TweetDumpr"
-date: 2008-04-23 02:10:23 +0000
-external-url: http://bradkellett.com/tweetdumpr/
-hash: d7975389b38d64ef3ca8e8f4382fdf8e
+date: 2008-04-23 03:10:23 +0000
+external-url: http://bradkellett.com/experiments/tweetdumpr/
+hash: d6a1807a9ebe2715566798b4d104ffb1
 year: 2008
 month: 04
 scheme: http
 host: bradkellett.com
-path: /tweetdumpr/
+path: /experiments/tweetdumpr/
 
 ---
 

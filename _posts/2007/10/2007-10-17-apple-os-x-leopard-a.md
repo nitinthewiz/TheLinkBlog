@@ -1,14 +1,14 @@
 ---
 title: "Apple OS X Leopard: A beautiful upgrade"
-date: 2007-10-17 15:29:33 +0000
-external-url: http://weblog.infoworld.com/yager/archives/2007/10/take_me_home_le.html
-hash: 4b62b282d1cb5d9f6c687783d576c200
+date: 2007-10-17 16:29:33 +0000
+external-url: http://www.infoworld.com/t/platforms/apple-os-x-leopard-beautiful-upgrade-086
+hash: 9380c69b553a48143d04b99a2bf28d46
 year: 2007
 month: 10
 scheme: http
-host: weblog.infoworld.com
-path: /yager/archives/2007/10/take_me_home_le.html
+host: www.infoworld.com
+path: /t/platforms/apple-os-x-leopard-beautiful-upgrade-086
 
 ---
 
-Finally, a PC Unix that everyone can love. OS X Leopard is a triumph of customer-focused engineering
+Finally, a PC Unix that everyone can love. OS X Leopard is a triumph of customer-focused engineering Apple's announcement of the impending delivery of OS X Leopard (release 10.5 of Mac and Xserve operating systems) marks the public debut of an engineering achievement that dwarfs iPhone, iPod, Windows, and Linux.

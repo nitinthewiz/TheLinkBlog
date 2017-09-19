@@ -1,12 +1,12 @@
 ---
-title: "An Oral History of Friday Night Lights - Grantland"
-date: 2011-07-15 18:30:37 +0000
-external-url: http://www.grantland.com/story/_/id/6766070/clear-eyes-full-hearts-lose
-hash: 28349b264690dc6dd6df06c83d8a560d
+title: "An Oral History of Friday Night Lights"
+date: 2011-07-15 19:30:37 +0000
+external-url: http://grantland.com/story/_/id/6766070/clear-eyes-full-hearts-lose
+hash: 2e9e9ef8f199842c7c45c796d5366a24
 year: 2011
 month: 07
 scheme: http
-host: www.grantland.com
+host: grantland.com
 path: /story/_/id/6766070/clear-eyes-full-hearts-lose
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Collusion"
 date: 2012-03-02 02:02:55 +0000
-external-url: http://www.mozilla.org/en-US/lightbeam/
-hash: a2ac39719ba4e57d7559e548571234a2
+external-url: http://www.mozilla.org/en-US/collusion/
+hash: 9211a486abf355dd628fd0fbf2dbe10b
 year: 2012
 month: 03
 scheme: http
 host: www.mozilla.org
-path: /en-US/lightbeam/
+path: /en-US/collusion/
 
 ---
 

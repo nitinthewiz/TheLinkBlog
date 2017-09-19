@@ -1,15 +1,14 @@
 ---
 title: "Mass Incarceration and Criminal Justice in America"
 date: 2012-02-06 17:16:42 +0000
-external-url: http://www.newyorker.com/magazine/2012/01/30/the-caging-of-america?currentPage=all
-hash: 61aeb396845c7d6bbbf08a93597607f4
+external-url: http://www.newyorker.com/arts/critics/atlarge/2012/01/30/120130crat_atlarge_gopnik
+hash: f61f96475f5329946132c9984cbf60ca
 year: 2012
 month: 02
 scheme: http
 host: www.newyorker.com
-path: /magazine/2012/01/30/the-caging-of-america
-query:
-    currentPage: "all"
+path: /arts/critics/atlarge/2012/01/30/120130crat_atlarge_gopnik
+
 ---
 
-Six million people are under correctional supervision in the U.S.more than were in Stalins gulags.
+Six million people are under correctional supervision in the U.S.—more than were in Stalin’s gulags.

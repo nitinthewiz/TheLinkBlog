@@ -1,14 +1,14 @@
 ---
-title: "An Interview With WikiLeaks Julian Assange"
+title: "An Interview With WikiLeaks’ Julian Assange"
 date: 2010-11-30 20:16:37 +0000
-external-url: http://www.forbes.com/sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
-hash: 86fbfd565b52f96dcda74a5b7a3f9f4b
+external-url: http://blogs.forbes.com/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
+hash: 24c1cf113653876863358ff4810473ef
 year: 2010
 month: 11
 scheme: http
-host: www.forbes.com
-path: /sites/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
+host: blogs.forbes.com
+path: /andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
 
 ---
 
-In my assessment a must read, if you haven't yet: An Interview With WikiLeaks Julian Assange at Forbes
+In my assessment a must read, if you haven't yet: An Interview With WikiLeaks’ Julian Assange at Forbes 

@@ -1,13 +1,13 @@
 ---
 title: "Chartwell"
-date: 2011-03-25 03:19:18 +0000
-external-url: http://www.tktype.com/chartwell.php
-hash: e83ee2b8d71dba2791b6dc5b05bc065a
+date: 2011-03-25 04:19:18 +0000
+external-url: https://www.scribbletone.com/typefaces/ff-chartwell
+hash: 79448dfe6066766f31db107589a80688
 year: 2011
 month: 03
-scheme: http
-host: www.tktype.com
-path: /chartwell.php
+scheme: https
+host: www.scribbletone.com
+path: /typefaces/ff-chartwell
 
 ---
 
