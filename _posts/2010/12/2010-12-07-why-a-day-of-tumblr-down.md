@@ -1,17 +1,14 @@
 ---
 title: "Why a Day of Tumblr Down Time Matters to the Entire Web & World"
 date: 2010-12-07 03:00:44 +0000
-external-url: http://www.readwriteweb.com/archives/why_a_day_of_tumblr_down_time_matters_to_the_entire_web.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+readwriteweb+%28ReadWriteWeb%29
-hash: 35306b5e515cb8ff1d0b39b900da7dd0
+external-url: http://readwrite.com/2010/12/06/why_a_day_of_tumblr_down_time_matters_to_the_entire_web/
+hash: 60b6c6bfa5c7eeeb9d84d1cd7908030c
 year: 2010
 month: 12
 scheme: http
-host: www.readwriteweb.com
-path: /archives/why_a_day_of_tumblr_down_time_matters_to_the_entire_web.php
-query:
-    utm_source: "feedburner"
-    utm_medium: "feed"
-    utm_campaign: "Feed: readwriteweb (ReadWriteWeb)"
+host: readwrite.com
+path: /2010/12/06/why_a_day_of_tumblr_down_time_matters_to_the_entire_web/
+
 ---
 
-Good post. I even left a comment: RT @davewiner: Why a Day of Tumblr Down Time Matters to the Entire Web and World. 
+Good post. I even left a comment: RT @davewiner: Why a Day of Tumblr Down Time Matters to the Entire Web and World.

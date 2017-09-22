@@ -1,17 +1,14 @@
 ---
-title: "Computer platforms with the biggest buzz will be the biggest malware targets in 2011 | VentureBeat"
+title: "Computer platforms with the biggest buzz will be the biggest malware targets in 2011"
 date: 2010-12-28 07:23:28 +0000
-external-url: http://venturebeat.com/2010/12/27/computer-platforms-with-the-biggest-buzz-will-be-the-biggest-malware-targets-in-2011/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29
-hash: 7b29ff8221c4b6a5bce4f6ee3a18e75e
+external-url: https://venturebeat.com/2010/12/27/computer-platforms-with-the-biggest-buzz-will-be-the-biggest-malware-targets-in-2011/
+hash: 968855b6d92b8803b242ae338172995a
 year: 2010
 month: 12
-scheme: http
+scheme: https
 host: venturebeat.com
 path: /2010/12/27/computer-platforms-with-the-biggest-buzz-will-be-the-biggest-malware-targets-in-2011/
-query:
-    utm_source: "feedburner"
-    utm_medium: "feed"
-    utm_campaign: "Feed: Venturebeat (VentureBeat)"
+
 ---
 
-"More than 3,000 such short-URL links are being created a minute now"  #malwaretargets @VentureBeat  
+There will be no shortage of computer security threats for 2011. Among the most prominent will be new threats to geolocation services, mobile devices, and Apple machines, according to researchers at Intels McAfee security division.

@@ -1,14 +1,17 @@
 ---
 title: "Gordon Gekko Reborn: 1987-2010"
 date: 2010-11-22 23:05:58 +0000
-external-url: http://www.economonitor.com/nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
-hash: d896279227940abe249191bf604a2f2d
+external-url: http://www.roubini.com/roubini-monitor/260045/gordon_gekko_reborn__1987-2010?utm_source=Nouriel+Roubini%27s+EconoMonitor&utm_medium=twitter&utm_campaign=Feed%3A+NourielRoubinisGlobalEconomonitor+%28Nouriel+Roubini%27s+Global+EconoMonitor%29
+hash: eb359618291f13eaf577667a0263f572
 year: 2010
 month: 11
 scheme: http
-host: www.economonitor.com
-path: /nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
-
+host: www.roubini.com
+path: /roubini-monitor/260045/gordon_gekko_reborn__1987-2010
+query:
+    utm_source: "Nouriel Roubini's EconoMonitor"
+    utm_medium: "twitter"
+    utm_campaign: "Feed: NourielRoubinisGlobalEconomonitor (Nouriel Roubini's Global EconoMonitor)"
 ---
 
-In 1987 Gordon Gekko declared that greed is good, the creed of a decade of corporate and financial sector excesses  the rise of junk bonds and the real estate bubble  that ended up in a bust by 1988-89 with the collapse of the junk bond market and the S&L crisis following the real estate bust of the late 1980s and triggered a banking crisis and a painful recession in 1990.
+

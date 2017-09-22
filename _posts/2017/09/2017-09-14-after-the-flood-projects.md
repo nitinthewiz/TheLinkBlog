@@ -11,4 +11,4 @@ path: /projects/atf-spark
 
 ---
 
-Wait a second… [sparklines](https://en.wikipedia.org/wiki/Sparkline) generated from a font! Mind blown! 🤓
+Wait a second… [sparklines](https://en.wikipedia.org/wiki/Sparkline) generated from a font! Mind blown! 🤓 Tools & Toys has a good [article on this with examples](http://toolsandtoys.net/atf-spark-typeface/). 
