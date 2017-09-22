@@ -49,11 +49,7 @@ defaults:
 
 exclude: ['README.md', 'tools']
 
-gems:
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-plugins_dir:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
