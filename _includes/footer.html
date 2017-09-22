@@ -1,8 +1,41 @@
   <footer id="footer">
+    
+    <div class="footer-link">
+
+      {% if site.social.microblog %}
+      <a href="https://micro.blog/{{ site.social.microblog }}" rel="me" /><i class="fa fa-comment" aria-hidden="true"></i></a>
+      {% endif %}
+
+      {% if site.social.pinboard %}
+      <a href="https://pinboard.in/u:{{ site.social.pinboard }}" rel="me" /><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>
+      {% endif %}
+
+      {% if site.social.twitter %}
+      <a href="https://twitter.com/{{ site.social.twitter }}" rel="me"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      {% endif %}
+
+      {% if site.social.github %}
+      <a href="https://github.com/{{ site.social.github }}" rel="me"><i class="fa fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+
+      {% if site.social.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" rel="me"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+      {% endif %}
+
+      {% if site.social.email %}
+      <a href="mailto:{{ site.social.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+
+    </div>
+
+    <br />
+
     {% include cc.html %}
-    <p>Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> and <a href="https://pages.github.com" rel="nofollow">GitHub Pages</a>.<br/>
+
+    <p>Built using <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> and served with <a href="https://www.netlify.com" rel="nofollow">Netlify</a>.<br/>
     Source at <a href="https://github.com/thingles/links.github.io" rel="nofollow">thingles/links.github.io</a> and content from <a href="https://pinboard.in/u:thingles" rel="nofollow">Pinboard</a>.<br/>
     Theme heavily modified from source by <a href="http://www.webmaster-source.com" rel="nofollow">Matt Harzewski</a></p>
+  
   </footer>
 
   {% if site.google_analytics and jekyll.environment == 'production' %}

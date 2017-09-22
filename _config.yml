@@ -4,6 +4,14 @@ title: Link Thing
 description: Links by Jamie Thingelstad
 author: Jamie Thingelstad
 
+social:
+  twitter:          thingles
+  github:           thingles
+  linkedin:         jthingelstad
+  email:            jamie@thingelstad.com
+  microblog:        jthingelstad
+  pinboard:         thingles
+
 url: https://links.thingelstad.com
 baseurl: ""
 
@@ -41,9 +49,12 @@ defaults:
 
 exclude: ['README.md', 'tools']
 
-plugins:
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-redirect-from
   - jekyll-sitemap
 
