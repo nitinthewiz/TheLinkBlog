@@ -1,13 +1,13 @@
 ---
 title: "The Netflix Tech Blog: Node.js in Flames"
 date: 2014-11-21 04:12:00 +0000
-external-url: http://techblog.netflix.com/2014/11/nodejs-in-flames.html
-hash: 6114f8c168e4e589d01b53e932d2a2ea
+external-url: https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4
+hash: f45b980862af5480f9e6dcaeb5828b9a
 year: 2014
 month: 11
-scheme: http
-host: techblog.netflix.com
-path: /2014/11/nodejs-in-flames.html
+scheme: https
+host: medium.com
+path: /netflix-techblog/node-js-in-flames-ddd073803aa4
 
 ---
 

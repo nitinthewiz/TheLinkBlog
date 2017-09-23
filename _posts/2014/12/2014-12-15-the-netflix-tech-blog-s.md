@@ -1,13 +1,13 @@
 ---
 title: "The Netflix Tech Blog: Introducing Atlas: Netflix's Primary Telemetry Platform"
 date: 2014-12-15 11:51:42 +0000
-external-url: http://techblog.netflix.com/2014/12/introducing-atlas-netflixs-primary.html
-hash: ea36b7d25f074c1dbea535bcd6a31db3
+external-url: https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a
+hash: 572ed99a4032c56fc42034b1434394fa
 year: 2014
 month: 12
-scheme: http
-host: techblog.netflix.com
-path: /2014/12/introducing-atlas-netflixs-primary.html
+scheme: https
+host: medium.com
+path: /netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Introducing Dynomite - Making Non-Distributed Databases, Distributed"
 date: 2014-11-06 03:27:41 +0000
-external-url: http://techblog.netflix.com/2014/11/introducing-dynomite.html
-hash: bb629d6eca581352516b898972883289
+external-url: https://medium.com/netflix-techblog/introducing-dynomite-making-non-distributed-databases-distributed-c7bce3d89404
+hash: 2140f4be849b3de795ca776270696d30
 year: 2014
 month: 11
-scheme: http
-host: techblog.netflix.com
-path: /2014/11/introducing-dynomite.html
+scheme: https
+host: medium.com
+path: /netflix-techblog/introducing-dynomite-making-non-distributed-databases-distributed-c7bce3d89404
 
 ---
 
