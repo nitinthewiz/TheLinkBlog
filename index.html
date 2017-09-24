@@ -26,7 +26,10 @@ title: Link Thing
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
-		<h4>{{ post.host }}</h4>
+		<div class="host">
+			{% if post.scheme == 'https' %} <i class="fa fa-lock" aria-hidden="true"></i> {% endif %}
+			{{ post.host }}
+		</div>
 
 		<div class="post-content">{{ post.content }}</div>
 

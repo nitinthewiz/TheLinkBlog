@@ -8,7 +8,10 @@ layout: default
 			<a href="{{ page.external-url }} onclick="trackOutboundLink('{{ post.external-url }}'); return false;"">{{ page.title }}</a> 
 			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
 		</h1>
-		<h3>{{ page.host }}</h3>
+		<div class="host">
+			{% if page.scheme == 'https' %} <i class="fa fa-lock" aria-hidden="true"></i> {% endif %}
+			{{ page.host }}
+		</div>
 
 	{% else %}
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
