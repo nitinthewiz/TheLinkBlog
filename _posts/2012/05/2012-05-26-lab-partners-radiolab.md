@@ -13,7 +13,5 @@ path: /labpartners/
 
 This seems like the right way for RadioLab to engage members online. Give more depth to the already great content. The only thing missing is some way for me to indicate my "Lab Partner" status on my blog.
 
-<blockquote>
-A Lab Partners membership is a way to support Radiolab and gain access to exclusive online benefits. There are two Lab Partners membership levels: $75 and $365.
-</blockquote>
+> A Lab Partners membership is a way to support Radiolab and gain access to exclusive online benefits. There are two Lab Partners membership levels: $75 and $365.
 

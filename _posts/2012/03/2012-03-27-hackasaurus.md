@@ -13,7 +13,5 @@ path: /en-US/goggles/
 
 Great to see Mozilla continuing to push open efforts like this.
 
-<blockquote>
-Remix, make and share webpages instantly.
-</blockquote>
+> Remix, make and share webpages instantly.
 

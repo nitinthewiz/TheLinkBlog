@@ -1,20 +1,14 @@
 ---
-title: "Bay Area to Standard American English Translator."
+title: "Bay Area to Standard American English Translator - McSweeney’s Internet Tendency"
 date: 2015-07-29 08:09:37 +0000
-external-url: http://www.mcsweeneys.net/articles/bay-area-to-standard-american-english-translator
-hash: 00df71e22ee13337af7d93c1441d38ca
+external-url: https://www.mcsweeneys.net/articles/bay-area-to-standard-american-english-translator
+hash: 39e197f589db6545cefc607fa3da0bea
 year: 2015
 month: 07
-scheme: http
+scheme: https
 host: www.mcsweeneys.net
 path: /articles/bay-area-to-standard-american-english-translator
 
 ---
 
-Bay Area: 
- “Who are you again?” 
-\ˈhü\ \ˈär\ \ˈyü\ \e-ˈgān\ 
- English: 
- “What company do you work for?” 
- - -  Bay Area: 
- “Do you live in this ...
+
