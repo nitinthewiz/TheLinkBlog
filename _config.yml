@@ -55,7 +55,7 @@ defaults:
   - scope:
       path:         ""
     values:
-      image:        /assets/links-logo.png
+      image:        /assets/logo/links-logo-grey-dark.png
 
 
 exclude: ['README.md', 'tools']

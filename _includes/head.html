@@ -24,6 +24,10 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
   <!-- Jekyll SEO Tag -->
-  {% seo %}
+  <!-- I don't like the Twitter card type that jekyll-seo-tag outputs so I capture it and override it -->
+  {% capture seo_out %}
+  {% seo title=false %}
+  {% endcapture %}
+  {{ seo_out | replace: '"summary_large_image"', '"summary"' }}
 
 </head>
