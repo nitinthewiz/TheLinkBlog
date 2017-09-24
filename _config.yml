@@ -2,7 +2,9 @@
 # Basic
 title: Link Thing
 description: Links by Jamie Thingelstad
-author: Jamie Thingelstad
+author:
+  name: Jamie Thingelstad
+  twitter: thingles
 
 social:
   twitter:          thingles
@@ -28,24 +30,33 @@ feed_posts:         50
 # Analytics
 google_analytics:   UA-49944629-15
 
+# SEO
+twitter:
+  username: thingles
+logo: /assets/links-logo.png
+lang: en_US
+
 markdown: kramdown
 kramdown:
   input: GFM
 
 # Scopes
 defaults:
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "pages"
     values:
       layout:       "page"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "posts"
     values:
       layout:       "post"
+  - scope:
+      path:         ""
+    values:
+      image:        /assets/links-logo.png
+
 
 exclude: ['README.md', 'tools']
 
