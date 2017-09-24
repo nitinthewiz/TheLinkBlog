@@ -5,7 +5,7 @@ layout: null
 	"version": "https://jsonfeed.org/version/1",
 	"title": {{ site.title | jsonify }},
 	"author": {
-		"name": {{ site.author | jsonify }},
+		"name": {{ site.author.name | jsonify }},
 		"url": "{{ site.url }}{% link about/index.md %}",
 		"avatar": "https://s.gravatar.com/avatar/54e9f4f6495f7b7a218ae7051a173645?s=500"
 	},
