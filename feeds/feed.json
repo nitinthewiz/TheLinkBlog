@@ -12,7 +12,8 @@ layout: null
 	"description": {{ site.description | jsonify }},
 	"home_page_url": "{{ site.url }}/",
 	"feed_url": "{{ site.url }}/feed.json",
-	"icon": "https://s.gravatar.com/avatar/54e9f4f6495f7b7a218ae7051a173645?s=500",
+	"icon": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}",
+	"favicon": "{{ site.url }}{{ site.baseurl }}/favicon-32x32.png",
 	"items": [
 		{% for post in site.posts limit: site.feed_posts %}
 		{

@@ -33,7 +33,7 @@ google_analytics:   UA-49944629-15
 # SEO
 twitter:
   username: thingles
-logo: /assets/links-logo.png
+logo: /assets/logo/links-logo-grey-trans.png
 lang: en_US
 
 markdown: kramdown
