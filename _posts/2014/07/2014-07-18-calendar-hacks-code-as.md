@@ -13,7 +13,6 @@ path: /2014/07/15/calendar-hacks/
 
 Good tips. I do many of these myself. Very Google Calendar focused though.
 
-<blockquote>
-As an engineering manager, theres one major realization you have: managers go to lots of meetings. After chatting with a bunch of fellow engineering managers at Etsy, I realized that people have awesome hacks for managing their calendars and time. Here are some of the best ones from a recent poll of Etsy engineering managers!
-</blockquote>
+> As an engineering manager, theres one major realization you have: managers go to lots of meetings. After chatting with a bunch of fellow engineering managers at Etsy, I realized that people have awesome hacks for managing their calendars and time. Here are some of the best ones from a recent poll of Etsy engineering managers!
+
 

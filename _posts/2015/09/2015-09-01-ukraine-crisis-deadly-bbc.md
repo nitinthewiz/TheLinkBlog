@@ -13,4 +13,4 @@ path: /news/world-europe-34105925
 
 Was about 1 mile away having dinner last night from where these protests happened. 
 
-<blockquote>One national guard member has been killed and over 100 injured in violent protests outside Ukraine's parliament, the interior ministry said.</blockquote>
+> One national guard member has been killed and over 100 injured in violent protests outside Ukraine's parliament, the interior ministry said.

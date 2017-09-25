@@ -13,4 +13,4 @@ path: /press-release/slyce-the-want-engine-acquires-mobile-app-agency-drivetrain
 
 That sure is a lot of detail in a press release.
 
-<blockquote>The aggregate purchase price to be paid by Slyce for Drivetrain is comprised as follows: (i) US$1.5 million in cash payable at closing; (ii) US$1.0 million in Common Shares payable at closing at an issue price of US$0.539 (or approximately CDN$0.608) per share, such that 1,855,288 Common Shares of Slyce will be issued; and (iii) up to US$1.0 million in deferred cash payments payable in certain circumstances over a period of 24 months following the closing.</blockquote>
+> The aggregate purchase price to be paid by Slyce for Drivetrain is comprised as follows: (i) US$1.5 million in cash payable at closing; (ii) US$1.0 million in Common Shares payable at closing at an issue price of US$0.539 (or approximately CDN$0.608) per share, such that 1,855,288 Common Shares of Slyce will be issued; and (iii) up to US$1.0 million in deferred cash payments payable in certain circumstances over a period of 24 months following the closing.

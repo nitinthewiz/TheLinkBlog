@@ -11,8 +11,7 @@ path: /
 
 ---
 
-<blockquote>
-Getting started on the right foot can be a challenge, but what if you already had something that inspired you though? A phrase, a quote or even a list?
+> Getting started on the right foot can be a challenge, but what if you already had something that inspired you though? A phrase, a quote or even a list?
+> 
+> Every day, at your preferred hour, we'll pick a random snippet of inspiration from your own collection and email it to you.
 
-Every day, at your preferred hour, we'll pick a random snippet of inspiration from your own collection and email it to you.
-</blockquote>

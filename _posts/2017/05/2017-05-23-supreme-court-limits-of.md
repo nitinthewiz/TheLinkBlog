@@ -13,6 +13,6 @@ path: /politics/courts_law/supreme-court-makes-it-harder-for-patent-trolls-to-fi
 
 This is a good thing. Patent trolls plague the tech industry and this should remove some of the gaming. There is still a long way to go on patent reform though. This line caught my eye though.
 
-<blockquote>That has resulted in nearly half of the lawsuits being filed in the Eastern District of Texas in Marshall, where cases move quickly and the court is seen as sympathetic to plaintiffs.</blockquote>
+> That has resulted in nearly half of the lawsuits being filed in the Eastern District of Texas in Marshall, where cases move quickly and the court is seen as sympathetic to plaintiffs.
 
 That by itself should be enough to validate that we need some significant focus on improving patent litigation.

@@ -11,6 +11,4 @@ path: /article/xerox-parc-materials-scientists-print-two-thirds-of-a-battery-in-
 
 ---
 
-<blockquote>
-The new battery-printing method simplifies that process. In April at a Materials Research Society meeting in San Francisco, PARC's Corie Cobb presented nozzles and materials that would enable manufacturers to print two thirds of a battery in one go. The two-headed printing nozzle can simultaneously extrude a lithium-ion cathode and a polymer separator.
-</blockquote>
+> The new battery-printing method simplifies that process. In April at a Materials Research Society meeting in San Francisco, PARC's Corie Cobb presented nozzles and materials that would enable manufacturers to print two thirds of a battery in one go. The two-headed printing nozzle can simultaneously extrude a lithium-ion cathode and a polymer separator.

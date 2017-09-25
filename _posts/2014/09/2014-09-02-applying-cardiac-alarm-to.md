@@ -13,7 +13,6 @@ path: /2014/08/26/cardiac-alarms-and-ops/
 
 Very real problem.
 
-<blockquote>
-One of the most difficult challenges we face in the operations field right now is "alert fatigue". Alert fatigue is a term the tech industry has borrowed from a similar term used in the medical industry, "alarm fatigue" - a phenomenon of people being so desensitised to the alarm noise from monitors that they fail to notice or react in time.
-</blockquote>
+> One of the most difficult challenges we face in the operations field right now is "alert fatigue". Alert fatigue is a term the tech industry has borrowed from a similar term used in the medical industry, "alarm fatigue" - a phenomenon of people being so desensitised to the alarm noise from monitors that they fail to notice or react in time.
+
 

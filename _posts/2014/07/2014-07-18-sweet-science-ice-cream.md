@@ -13,7 +13,6 @@ path: /
 
 Crazy good ice cream. Wow.
 
-<blockquote>
-I craft my ice cream with natural, organic, and local ingredients.  I make an all-natural ice cream that tastes amazing without all those extra things, like high fructose corn syrup, chemicals, stabilizers, artificial flavors and additives.  Processed or synthetic ingredients may afford shortcuts in the kitchen, but they seriously affect quality, texture, and taste.  That's where the science comes in.  I use precise cooking methods to invite the highest-quality ingredients to work together and create a truly great ice cream.
-</blockquote>
+> I craft my ice cream with natural, organic, and local ingredients.  I make an all-natural ice cream that tastes amazing without all those extra things, like high fructose corn syrup, chemicals, stabilizers, artificial flavors and additives.  Processed or synthetic ingredients may afford shortcuts in the kitchen, but they seriously affect quality, texture, and taste.  That's where the science comes in.  I use precise cooking methods to invite the highest-quality ingredients to work together and create a truly great ice cream.
+
 

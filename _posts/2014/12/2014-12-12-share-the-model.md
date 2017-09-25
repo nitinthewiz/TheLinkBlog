@@ -11,6 +11,5 @@ path: /about-us/sharethemodel/
 
 ---
 
-<blockquote>
-The 1-1-1 Pledge is an effort to invite technology entrepreneurs and their companies to commit resources (time, equity, product) and integrate philanthropy into their business.
-</blockquote>
+> The 1-1-1 Pledge is an effort to invite technology entrepreneurs and their companies to commit resources (time, equity, product) and integrate philanthropy into their business.
+

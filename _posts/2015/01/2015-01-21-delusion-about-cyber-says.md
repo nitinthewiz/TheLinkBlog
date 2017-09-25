@@ -13,4 +13,4 @@ path: /news/2240238466/Delusion-about-cyber-security-growing-says-Cisco-report
 
 The quote alone is possibly all you need to read:
 
-<blockquote>A Cisco benchmark revealed 90% of respondents said they were confident in their cyber security capabilies, yet 60% are not patching software and systems, while only 10% are running the latest version of Microsoft’s Internet Explorer.</blockquote>
+> A Cisco benchmark revealed 90% of respondents said they were confident in their cyber security capabilies, yet 60% are not patching software and systems, while only 10% are running the latest version of Microsoft’s Internet Explorer.

@@ -13,7 +13,5 @@ path: /2014/09/19/not-a-promotion-a-career-change/
 
 Spot on.
 
-<blockquote>
-Management is not a promotion. It is a career change.
-</blockquote>
+> Management is not a promotion. It is a career change.
 

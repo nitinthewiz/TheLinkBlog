@@ -11,4 +11,6 @@ path: /ConradIrwin/aws-name-server
 
 ---
 
-Interesting. This could be used as a poor alternative to proper discovery.  <blockquote> A DNS server that serves up your ec2 instances by name. </blockquote> 
+Interesting. This could be used as a poor alternative to proper discovery.
+
+> A DNS server that serves up your ec2 instances by name.

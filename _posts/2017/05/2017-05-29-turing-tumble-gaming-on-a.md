@@ -12,4 +12,6 @@ query:
     token: "1f87b430"
 ---
 
-<blockquote>Build mechanical computers powered by marbles to solve logic puzzles. Escape planet Eniac and discover how computers "think".</blockquote> This isn't a live project yet but it sure looks cool! I’m hoping the author launches it! I’m looking forward to being a backer!
+> Build mechanical computers powered by marbles to solve logic puzzles. Escape planet Eniac and discover how computers "think".
+
+This isn't a live project yet but it sure looks cool! I’m hoping the author launches it! I’m looking forward to being a backer!

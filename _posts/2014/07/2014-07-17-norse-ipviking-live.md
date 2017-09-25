@@ -13,7 +13,5 @@ path: /
 
 Very cool real-time visualization of Internet attacks.
 
-<blockquote>
-Every second, Norse collects and analyzes live threat intelligence from darknets in hundreds of locations in over 40 countries. The attacks shown are based on a small subset of live flows against the Norse honeypot infrastructure, representing actual worldwide cyber attacks by bad actors. At a glance, one can see which countries are aggressors or targets at the moment, using which type of attacks (services-ports).
-</blockquote>
+> Every second, Norse collects and analyzes live threat intelligence from darknets in hundreds of locations in over 40 countries. The attacks shown are based on a small subset of live flows against the Norse honeypot infrastructure, representing actual worldwide cyber attacks by bad actors. At a glance, one can see which countries are aggressors or targets at the moment, using which type of attacks (services-ports).
 

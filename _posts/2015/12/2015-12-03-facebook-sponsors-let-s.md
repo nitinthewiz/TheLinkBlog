@@ -11,7 +11,6 @@ path: /2015/12/03/facebook-sponsorship.html
 
 ---
 
-<blockquote>We’re happy to share today that Facebook is the newest Gold sponsor of Let’s Encrypt. Facebook has taken multiple important steps to support and advance encryption this year, and we are glad to see Let’s Encrypt as the latest example.
-</blockquote>
+> We’re happy to share today that Facebook is the newest Gold sponsor of Let’s Encrypt. Facebook has taken multiple important steps to support and advance encryption this year, and we are glad to see Let’s Encrypt as the latest example.
 
 So we assume Facebook will get copies of all the private keys?
