@@ -13,7 +13,3 @@ path: /70463645
 
 Gorgeous timelapse video of Iceland.
 
-<blockquote>
-
-</blockquote>
-

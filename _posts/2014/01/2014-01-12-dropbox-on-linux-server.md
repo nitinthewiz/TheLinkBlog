@@ -13,7 +13,3 @@ path: /linode-setup%3adropbox
 
 Good init.d script to launch dropbox at system level.
 
-<blockquote>
-
-</blockquote>
-

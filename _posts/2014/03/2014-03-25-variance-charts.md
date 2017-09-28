@@ -13,7 +13,4 @@ path: /
 
 Gorgeous.
 
-<blockquote>
-Variance empowers engineers, designers, journalists, scientists, and analysts to build elegant bespoke data graphics for the web, using only HTML & CSS. Our intuitive, markup-based grammar emphasizes clear, practical graphics and serves as the foundation for a wide range of visualizations.
-</blockquote>
-
+> Variance empowers engineers, designers, journalists, scientists, and analysts to build elegant bespoke data graphics for the web, using only HTML & CSS. Our intuitive, markup-based grammar emphasizes clear, practical graphics and serves as the foundation for a wide range of visualizations.

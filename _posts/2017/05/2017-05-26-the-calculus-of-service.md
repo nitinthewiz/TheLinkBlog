@@ -1,14 +1,16 @@
 ---
 title: "The Calculus of Service Availability - ACM Queue"
 date: 2017-05-26 19:51:45 +0000
-external-url: https://tinyurl.com/l5w3ful
-hash: af9d19a2494fc53b079803bf5619032c
+external-url: https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i
+hash: 8ddadeb8bdfa6571d1d4894c602c7d42
 year: 2017
 month: 05
 scheme: https
-host: tinyurl.com
-path: /l5w3ful
-
+host: queue.acm.org
+path: /detail.cfm
+query:
+    id: "3096459"
+    __s: "dnkxuaws9pogqdnxmx8i"
 ---
 
 

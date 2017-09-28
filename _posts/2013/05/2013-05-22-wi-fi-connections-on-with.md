@@ -13,7 +13,3 @@ path: /2013/05/21/aebs-wifi-downgrade
 
 I've been having this issue occasionally from my MacBook Pro at home. :-\
 
-<blockquote>
-
-</blockquote>
-

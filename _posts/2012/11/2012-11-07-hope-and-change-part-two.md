@@ -13,7 +13,6 @@ query:
 
 Thoughts from Tom Friedman on yesterday's election. I read this as governing trumps gamesmanship.
 
-<blockquote>
-No one can know for sure what complex emotional chemistry tipped this election Obamas way, but heres my guess: In the end, it came down to a majority of Americans believing that whatever his faults, Obama was trying his hardest to fix what ails the country and that he had to do it with a Republican Party that, in its gut, did not want to meet him halfway but wanted him to fail  so that it could swoop in and pick up the pieces.
-</blockquote>
+> No one can know for sure what complex emotional chemistry tipped this election Obamas way, but heres my guess: In the end, it came down to a majority of Americans believing that whatever his faults, Obama was trying his hardest to fix what ails the country and that he had to do it with a Republican Party that, in its gut, did not want to meet him halfway but wanted him to fail  so that it could swoop in and pick up the pieces.
+
 

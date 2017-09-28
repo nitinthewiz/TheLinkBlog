@@ -13,7 +13,5 @@ path: /2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-partic
 
 I don't pretend to understand the significance of the Higgs but assuming this discovery holds this is pretty amazing.
 
-<blockquote>
-Physicists working at CERNs Large Hadron Collider said Wednesday that they had discovered a new subatomic particle that looks for all the world like the Higgs boson, a potential key to understanding why elementary particles have mass and indeed to the existence of diversity and life in the universe.
-</blockquote>
+> Physicists working at CERNs Large Hadron Collider said Wednesday that they had discovered a new subatomic particle that looks for all the world like the Higgs boson, a potential key to understanding why elementary particles have mass and indeed to the existence of diversity and life in the universe.
 

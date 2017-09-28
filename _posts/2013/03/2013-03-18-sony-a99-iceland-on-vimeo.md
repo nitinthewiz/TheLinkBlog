@@ -13,7 +13,3 @@ path: /54415810
 
 The timelapse of the northern lights is incredible.
 
-<blockquote>
-
-</blockquote>
-

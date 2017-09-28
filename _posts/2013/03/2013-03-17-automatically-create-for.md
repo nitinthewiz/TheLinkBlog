@@ -13,7 +13,3 @@ path: /articles/46-automatically-create-annotations-for-your-feeds-in-piwik
 
 Great idea!
 
-<blockquote>
-
-</blockquote>
-

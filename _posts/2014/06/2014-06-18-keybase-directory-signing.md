@@ -13,7 +13,4 @@ path: /docs/command_line/code_signing
 
 This is a very cool new feature. I really like what Keybase.io is working on with encryption and validating identity.
 
-<blockquote>
-By convention, directory signing stinks. You have to archive, and then, outside of the archive, you can distribute signed statements about the archive. Verification is even more gnarly: you have to hash, unpack, check an external statement, download a key, and verify the key via a web of trust or other source. This is the Keybase alternative.
-</blockquote>
-
+> By convention, directory signing stinks. You have to archive, and then, outside of the archive, you can distribute signed statements about the archive. Verification is even more gnarly: you have to hash, unpack, check an external statement, download a key, and verify the key via a web of trust or other source. This is the Keybase alternative.

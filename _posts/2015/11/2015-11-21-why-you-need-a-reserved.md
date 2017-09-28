@@ -1,14 +1,14 @@
 ---
 title: "Why you need a Reserved Instances Czar"
 date: 2015-11-21 02:05:44 +0000
-external-url: http://bit.ly/1PEp0Zn
-hash: 942e4d2d6a443712d54474c467ffedb1
+external-url: https://blog.cloudability.com/why-your-org-needs-a-reserved-instances-czar/
+hash: 45bb54e823267c1a889a1365b1ac61e8
 year: 2015
 month: 11
-scheme: http
-host: bit.ly
-path: /1PEp0Zn
+scheme: https
+host: blog.cloudability.com
+path: /why-your-org-needs-a-reserved-instances-czar/
 
 ---
 
-If you
+If you’re spending more than $100k a month on AWS, it’s about time you appointed a Reserved Instances czar.

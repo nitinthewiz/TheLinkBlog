@@ -13,7 +13,6 @@ path: /2013/09/06/us/nsa-foils-much-internet-encryption.html
 
 Amazing article.
 
-<blockquote>
-The National Security Agency is winning its long-running secret war on encryption, using supercomputers, technical trickery, court orders and behind-the-scenes persuasion to undermine the major tools protecting the privacy of everyday communications in the Internet age, according to newly disclosed documents.
-</blockquote>
+> The National Security Agency is winning its long-running secret war on encryption, using supercomputers, technical trickery, court orders and behind-the-scenes persuasion to undermine the major tools protecting the privacy of everyday communications in the Internet age, according to newly disclosed documents.
+
 

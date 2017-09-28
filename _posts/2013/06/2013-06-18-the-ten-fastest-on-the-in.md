@@ -13,7 +13,3 @@ path: /information-technology/2013/06/the-ten-fastest-supercomputers-on-the-plan
 
 Hot!
 
-<blockquote>
-
-</blockquote>
-

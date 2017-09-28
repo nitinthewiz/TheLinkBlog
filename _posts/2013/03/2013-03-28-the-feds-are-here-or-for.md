@@ -13,7 +13,3 @@ path: /the-feds-are-here-or-aliasing-for-those-tight-spots/
 
 Oh my.
 
-<blockquote>
-
-</blockquote>
-

@@ -13,7 +13,3 @@ path: /69445362
 
 Amazing video.
 
-<blockquote>
-
-</blockquote>
-

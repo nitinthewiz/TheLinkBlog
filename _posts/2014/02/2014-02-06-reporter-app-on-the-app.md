@@ -14,4 +14,3 @@ query:
 
 Nicholas Felton’s new Reporter app is out. 
 
-⇒ 

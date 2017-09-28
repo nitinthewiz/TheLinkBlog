@@ -15,7 +15,3 @@ query:
 
 Presentation on ethics and technology.
 
-<blockquote>
-
-</blockquote>
-

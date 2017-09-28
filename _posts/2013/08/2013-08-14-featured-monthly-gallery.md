@@ -13,7 +13,3 @@ path: /Other/Featured-Monthly-Gallery/30496618_WptrQP
 
 Amazing Iceland photos.
 
-<blockquote>
-
-</blockquote>
-

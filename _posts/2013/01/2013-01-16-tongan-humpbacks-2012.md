@@ -13,7 +13,3 @@ path: /49743214
 
 Amazing video footage taken underwater with a RED.
 
-<blockquote>
-
-</blockquote>
-

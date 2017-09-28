@@ -13,7 +13,3 @@ path: /
 
 Disturbing.
 
-<blockquote>
-
-</blockquote>
-

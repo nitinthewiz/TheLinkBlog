@@ -13,7 +13,4 @@ path: /
 
 We need more of this.
 
-<blockquote>
-OpenWatch is a participatory citizen media project which uses mobile technology to enable public monitoring of authority figures.
-</blockquote>
-
+> OpenWatch is a participatory citizen media project which uses mobile technology to enable public monitoring of authority figures.

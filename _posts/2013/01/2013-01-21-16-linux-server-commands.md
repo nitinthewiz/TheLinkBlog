@@ -13,7 +13,4 @@ path: /t5/Feature-Articles/16-Linux-Server-Monitoring-Commands-You-Really-Need-T
 
 Had not seen nmon before. Very useful.
 
-<blockquote>
-Want to know what's really going on with your server? Then you need to know these essential commands. Once you've mastered them, you'll be well on your way to being an expert Linux system administrator.
-</blockquote>
-
+> Want to know what's really going on with your server? Then you need to know these essential commands. Once you've mastered them, you'll be well on your way to being an expert Linux system administrator.

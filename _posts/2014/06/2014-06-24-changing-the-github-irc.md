@@ -13,7 +13,4 @@ path: /computing/changing-the-github-irc-hooks-notification-events/
 
 Super useful command to make the IRC web hook in GitHub syndicate issues and issue comments.
 
-<blockquote>
-As joind.in uses GitHub to host its source code, we use the IRC hook to receive notifications to the IRC channel (#joind.in on freenode) when interesting things happen on the GitHub repositories.
-</blockquote>
-
+> As joind.in uses GitHub to host its source code, we use the IRC hook to receive notifications to the IRC channel (#joind.in on freenode) when interesting things happen on the GitHub repositories.

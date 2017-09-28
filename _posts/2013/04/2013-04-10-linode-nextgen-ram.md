@@ -13,7 +13,3 @@ path: /2013/04/09/linode-nextgen-ram-upgrade/
 
 Linode continues to be awesome.
 
-<blockquote>
-
-</blockquote>
-

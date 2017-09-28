@@ -13,7 +13,3 @@ path: /
 
 Another community Kubb site!
 
-<blockquote>
-
-</blockquote>
-

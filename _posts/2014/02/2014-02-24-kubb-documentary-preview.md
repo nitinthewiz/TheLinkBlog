@@ -13,7 +13,5 @@ path: /87409409
 
 This looks super cool!
 
-<blockquote>
-Game of Throws: Two Teams Aim for the U.S. National Kubb Championship. Starring the Kubbsicles and Team Knockerheads. Coming in March 2014 from SkyMotion Media.
-</blockquote>
+> Game of Throws: Two Teams Aim for the U.S. National Kubb Championship. Starring the Kubbsicles and Team Knockerheads. Coming in March 2014 from SkyMotion Media.
 

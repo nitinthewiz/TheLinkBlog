@@ -13,7 +13,6 @@ path: /article/20140307/hold-tight-helmet-cam-footage-4-time-iditarod-champ-jeff
 
 Global warming? Nah.
 
-<blockquote>
-The 2014 Iditarod trail includes some of the toughest mushing in the history of the race, veterans say. Mushers were battered and bruised on snowless ground, especially early along the race. Four-time winner Jeff King shot this footage using a helmet cam between Rainy Pass, in the Alaska Range, and the Rohn checkpoint on Monday, March 3.
-</blockquote>
+> The 2014 Iditarod trail includes some of the toughest mushing in the history of the race, veterans say. Mushers were battered and bruised on snowless ground, especially early along the race. Four-time winner Jeff King shot this footage using a helmet cam between Rainy Pass, in the Alaska Range, and the Rohn checkpoint on Monday, March 3.
+
 

@@ -13,7 +13,4 @@ path: /story/local/2012/09/12/3748385/
 
 Looks like this will finally be an enjoyable theater to go to!
 
-<blockquote>
-Gone are the old seats, now replaced with more spacious seats and two-person sofas. Also gone is the old projector which was swapped out for digital equipment. And there's a new screen which is 40 percent larger than the previous one.
-</blockquote>
-
+> Gone are the old seats, now replaced with more spacious seats and two-person sofas. Also gone is the old projector which was swapped out for digital equipment. And there's a new screen which is 40 percent larger than the previous one.

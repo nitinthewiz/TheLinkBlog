@@ -13,8 +13,5 @@ path: /pickadate.js/
 
 A date picker that is fast and doesn't suck. Amazing.
 
-<blockquote>
-The mobile-friendly, responsive, andlightweight
-jQuery date & time input picker.
-</blockquote>
+> The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 

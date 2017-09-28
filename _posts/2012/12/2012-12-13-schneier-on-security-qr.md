@@ -13,7 +13,6 @@ path: /blog/archives/2012/12/qr_code_scams.html
 
 I don't know that I will ever scan a QR code, but I surely would never scan one using a tool that doesn't ask for my approval before going to the target URL. It should also ask for my approval on every redirect that is sent as well.
 
-<blockquote>
-One of the warning signs seems to be a sticker with the code, rather than a code embedded in an advertising poster.
-</blockquote>
+> One of the warning signs seems to be a sticker with the code, rather than a code embedded in an advertising poster.
+
 

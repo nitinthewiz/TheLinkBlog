@@ -13,7 +13,3 @@ path: /groups/business-news/p/new-coffee-shop-opens-on-50th-street
 
 I really hope these new owners can make a go of this location.
 
-<blockquote>
-
-</blockquote>
-

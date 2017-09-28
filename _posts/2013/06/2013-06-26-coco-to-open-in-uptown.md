@@ -13,7 +13,3 @@ path: /2013/06/25/coco-to-open-in-uptown/
 
 This is awesome news!
 
-<blockquote>
-
-</blockquote>
-

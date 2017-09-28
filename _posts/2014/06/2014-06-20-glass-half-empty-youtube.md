@@ -14,7 +14,4 @@ query:
 
 Hilarious.
 
-<blockquote>
-Jason Jones investigates an emerging form of discrimination that Google Glass "explorers" in San Francisco must face.
-</blockquote>
-
+> Jason Jones investigates an emerging form of discrimination that Google Glass "explorers" in San Francisco must face.

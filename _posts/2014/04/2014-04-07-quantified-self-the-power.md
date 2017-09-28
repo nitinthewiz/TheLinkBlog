@@ -13,7 +13,3 @@ path: /blog/2014/3/31/day-one-launch-center-pro
 
 Really cool "form building" method to create Day One entries using LaunchCenter Pro.
 
-<blockquote>
-
-</blockquote>
-

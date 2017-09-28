@@ -13,7 +13,3 @@ path: /
 
 Funny.
 
-<blockquote>
-
-</blockquote>
-

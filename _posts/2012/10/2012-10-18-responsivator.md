@@ -13,7 +13,5 @@ path: /Responsivator/
 
 Useful.
 
-<blockquote>
-View & share how sites look at different screen sizes.
-</blockquote>
+> View & share how sites look at different screen sizes.
 

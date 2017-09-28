@@ -14,7 +14,4 @@ query:
 
 So very cool!
 
-<blockquote>
-Stephen Wolfram introduces the Wolfram Language in this video that shows how the symbolic programming language enables powerful functional programming, querying of large databases, flexible interactivity, easy deployment, and much, much more.
-</blockquote>
-
+> Stephen Wolfram introduces the Wolfram Language in this video that shows how the symbolic programming language enables powerful functional programming, querying of large databases, flexible interactivity, easy deployment, and much, much more.

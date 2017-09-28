@@ -13,7 +13,3 @@ path: /
 
 Great stuff to reflect on when you've had a frustrating day. :-)
 
-<blockquote>
-
-</blockquote>
-

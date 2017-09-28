@@ -13,7 +13,4 @@ path: /
 
 Awesome!
 
-<blockquote>
-
-</blockquote>
 

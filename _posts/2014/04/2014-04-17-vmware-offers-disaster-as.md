@@ -13,7 +13,4 @@ path: /cloud/infrastructure-as-a-service/vmware-offers-disaster-recovery-as-a-se
 
 Interesting model. Seems like partially a way to over-subscribe host memory and CPU.
 
-<blockquote>
-If a company opts to buy vCloud Hybrid Service-Disaster Recovery for $835 a month, it can put as many virtual machines as it wishes under its protection, but there is a practical limit: It can supply 10 GHz of CPU (roughly four Ivy Bridge Xeon cores) and 20 GB of RAM, says Mathew Lodge, VP of VMware's vCloud Hybrid Service. The service also includes 1 TB of storage.
-</blockquote>
-
+> If a company opts to buy vCloud Hybrid Service-Disaster Recovery for $835 a month, it can put as many virtual machines as it wishes under its protection, but there is a practical limit: It can supply 10 GHz of CPU (roughly four Ivy Bridge Xeon cores) and 20 GB of RAM, says Mathew Lodge, VP of VMware's vCloud Hybrid Service. The service also includes 1 TB of storage.

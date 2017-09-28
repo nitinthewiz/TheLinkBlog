@@ -13,7 +13,5 @@ path: /
 
 Very cool!
 
-<blockquote>
-Kids of all ages are learning to code while playing with Bo & Yana.
-</blockquote>
+> Kids of all ages are learning to code while playing with Bo & Yana.
 

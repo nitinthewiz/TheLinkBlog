@@ -13,7 +13,4 @@ path: /medium-long/15308056cfae
 
 Very good article that resonants strongly with me. A growing feeling of digital overload, where mobile is filling in all the gaps of analog with screens feels like a problem building.
 
-<blockquote>
-We are on our phones too much. They were built to enhance our lives, not consume them. Be a human.
-</blockquote>
-
+> We are on our phones too much. They were built to enhance our lives, not consume them. Be a human.

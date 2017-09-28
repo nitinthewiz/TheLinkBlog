@@ -13,7 +13,3 @@ path: /708394.html
 
 Good write up from Mark Gritter on his Minnebar 8 experience.
 
-<blockquote>
-
-</blockquote>
-

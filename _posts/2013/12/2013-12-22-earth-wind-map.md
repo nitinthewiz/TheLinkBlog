@@ -13,7 +13,3 @@ path: /
 
 Amazing visual. Zoom into to see the detail.
 
-<blockquote>
-
-</blockquote>
-

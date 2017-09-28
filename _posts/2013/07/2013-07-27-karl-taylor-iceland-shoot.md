@@ -14,7 +14,3 @@ query:
 
 I think you probably have to have been to Iceland to relate to this wind. It's amazing how steady and strong the wind can be there.
 
-<blockquote>
-
-</blockquote>
-

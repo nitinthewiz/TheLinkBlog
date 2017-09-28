@@ -13,7 +13,3 @@ path: /alfred-dev-doctor/
 
 Wow, very cool Alfred 2 workflow.
 
-<blockquote>
-
-</blockquote>
-

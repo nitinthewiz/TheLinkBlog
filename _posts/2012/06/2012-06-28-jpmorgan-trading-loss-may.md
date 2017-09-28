@@ -13,7 +13,4 @@ path: /2012/06/28/jpmorgan-trading-loss-may-reach-9-billion/
 
 It blows me away that a bank can lose $9 billion dollars so easily.
 
-<blockquote>
-Losses on JPMorgan Chases bungled trade could total as much as $9 billion, far exceeding earlier public estimates, according to people who have been briefed on the situation.
-</blockquote>
-
+> Losses on JPMorgan Chases bungled trade could total as much as $9 billion, far exceeding earlier public estimates, according to people who have been briefed on the situation.

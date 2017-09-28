@@ -13,7 +13,3 @@ path: /
 
 Nice overview of some differntiating features of Postgres.
 
-<blockquote>
-
-</blockquote>
-
