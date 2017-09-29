@@ -11,4 +11,6 @@ path: /2013/06/23/siri-asks-for-help-pronouncing-names-in-ios-7/
 
 ---
 
-I just spent a few minutes trying to do this on my phone until I read that it is an iOS 7 feature.  <blockquote> When Siri first launched, many users found lots of names were pronounced incorrectly and couldnt do much beyond adding phonetic spellings manually for each contact. With iOS 7, it appears that Siri can now take initiative for learning proper pronunciations. </blockquote> 
+I just spent a few minutes trying to do this on my phone until I read that it is an iOS 7 feature.
+
+> When Siri first launched, many users found lots of names were pronounced incorrectly and couldnt do much beyond adding phonetic spellings manually for each contact. With iOS 7, it appears that Siri can now take initiative for learning proper pronunciations. 
