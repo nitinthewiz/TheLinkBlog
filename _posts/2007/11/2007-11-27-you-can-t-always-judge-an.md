@@ -11,4 +11,4 @@ path: /gadgets/2007/11/amazon-kindle-review/
 
 ---
 
-Amazon wants to change how you shop for and read books with its new device, the Kindle.  Does its 1980s design aesthetic hide the heart of a true revolution in books? Read More...
+Amazon wants to change how you shop for and read books with its new device, the Kindle.  Does its 1980s design aesthetic hide the heart of a true revolution in books?

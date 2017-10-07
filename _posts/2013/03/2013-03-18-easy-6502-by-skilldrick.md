@@ -13,7 +13,5 @@ path: /easy6502/
 
 Running a 6502 assembler simulator in Javascript? Yeah, that's cool.
 
-<blockquote>
-In this tiny ebook Im going to show you how to get started writing 6502 assembly language. The 6502 processor was massive in the seventies and eighties, powering famous computers like the BBC Micro, Atari 2600, Commodore 64, Apple II, and the Nintendo Entertainment System. Bender in Futurama has a 6502 processor for a brain. Even the Terminator was programmed in 6502.
-</blockquote>
+> In this tiny ebook Im going to show you how to get started writing 6502 assembly language. The 6502 processor was massive in the seventies and eighties, powering famous computers like the BBC Micro, Atari 2600, Commodore 64, Apple II, and the Nintendo Entertainment System. Bender in Futurama has a 6502 processor for a brain. Even the Terminator was programmed in 6502.
 
