@@ -17,7 +17,5 @@ query:
 
 Awesome news!
 
-<blockquote>
-A city committee today voted 5-0 to implement single sort recycling in Minneapolis, 30 years after the city began its curbside recycling program.
-</blockquote>
+> A city committee today voted 5-0 to implement single sort recycling in Minneapolis, 30 years after the city began its curbside recycling program.
 

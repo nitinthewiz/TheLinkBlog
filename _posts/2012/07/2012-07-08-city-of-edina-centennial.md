@@ -14,7 +14,5 @@ query:
 
 This putting course sounds like it would be a lot of fun. I bet there would be a good spot to play Kubb around here too.
 
-<blockquote>
-Not miniature golf, it's golf in miniature! Centennial Lakes Park's 18 manicured bent grass greens range in length from 57 to 125 feet and are surrounded by sand traps, ponds, boulders and planter beds.
-</blockquote>
+> Not miniature golf, it's golf in miniature! Centennial Lakes Park's 18 manicured bent grass greens range in length from 57 to 125 feet and are surrounded by sand traps, ponds, boulders and planter beds.
 

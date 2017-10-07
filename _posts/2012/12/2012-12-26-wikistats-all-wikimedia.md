@@ -13,7 +13,3 @@ path: /wikimedias_html.php
 
 Shows all Wikimedia projects in a table with current statistics.
 
-<blockquote>
-
-</blockquote>
-

@@ -14,7 +14,5 @@ query:
 
 Truly LOL funny.
 
-<blockquote>
-I can fit a screwdriver in my pee hole!
-</blockquote>
+> I can fit a screwdriver in my pee hole!
 
