@@ -11,4 +11,4 @@ path: /
 
 ---
 
-Check if you have an account that has been compromised in a data breach.
+Great service that allows you to register your email address and it will notify you if that email address appears in compromised data breach. 👏
