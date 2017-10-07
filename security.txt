@@ -1,0 +1,11 @@
+---
+layout: null
+---
+# Our security address
+Contact: security@thingelstad.com
+
+# Our PGP key
+Encryption: https://www.thingelstad.com/about/secure/
+
+# Our disclosure policy
+Disclosure: Full

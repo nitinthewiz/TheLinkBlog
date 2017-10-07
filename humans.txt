@@ -1,0 +1,14 @@
+---
+layout: null
+---
+/* TEAM */
+Author: Jamie Thingelstad
+Site: https://thingelstad.com/
+Twitter: @thingles          
+Location: Minnesota, United States
+
+/* SITE */
+Last update: {{ site.time }}
+Pages: {{ site.pages | size }}
+Posts: {{ site.posts | size }}
+Software: Jekyll
