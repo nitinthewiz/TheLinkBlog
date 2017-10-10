@@ -13,7 +13,5 @@ path: /documents/pdfs/The_Pearl_Project.pdf
 
 An exhaustive account of the kidnapping and murder of reporter Danny Pearl
 
-<blockquote>
-After the September 11, 2001, attacks, Dannys reporting had led him from India, where he was The Wall Street Journals South Asia bureau chief, to Pakistan. Danny had been chasing a Boston Globe story identifying shoe bomber Richard Reids alleged facilitator in Pakistan. That lead had turned out to have fatal conse- quences.
-</blockquote>
+> After the September 11, 2001, attacks, Dannys reporting had led him from India, where he was The Wall Street Journals South Asia bureau chief, to Pakistan. Danny had been chasing a Boston Globe story identifying shoe bomber Richard Reids alleged facilitator in Pakistan. That lead had turned out to have fatal conse- quences.
 

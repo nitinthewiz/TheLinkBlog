@@ -13,7 +13,3 @@ path: /article/2009/03/19/us-cisco-idUSTRE52I3OK20090319
 
 Its a good acquisition for Cisco, but I hope they let the Flip continue to be the Flip.
 
-<blockquote>
-
-</blockquote>
-

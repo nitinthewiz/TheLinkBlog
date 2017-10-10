@@ -11,9 +11,4 @@ path: /2005/08/03/ipod-my-baby-my-god/
 
 ---
 
-Mazie needs one of these
-
-<blockquote>
-
-</blockquote>
-
+Mazie needs one of these.

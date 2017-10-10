@@ -11,4 +11,4 @@ path: /news/2005/08/10
 
 ---
 
-Supposedly someone cracked the developer OS X x86 to run on any Intel box.  <blockquote>  </blockquote> 
+Supposedly someone cracked the developer OS X x86 to run on any Intel box.  

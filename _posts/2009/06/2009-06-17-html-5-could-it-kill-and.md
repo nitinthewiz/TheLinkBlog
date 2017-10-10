@@ -12,8 +12,3 @@ path: /d/application-development/html5-could-it-kill-flash-and-silverlight-291
 ---
 
 Yes.
-
-<blockquote>
-
-</blockquote>
-

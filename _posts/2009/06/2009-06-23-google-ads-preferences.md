@@ -12,4 +12,4 @@ query:
     hl: "en"
 ---
 
-See what Google thinks of you  <blockquote>  </blockquote> 
+See what Google thinks of you.

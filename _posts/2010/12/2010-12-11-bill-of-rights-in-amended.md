@@ -13,7 +13,3 @@ path: /2010/12/10/bill-of-rights-in-cyberspace-amended-2/
 
 The idea is to have principles we can point to when dealing with such events as WikiLeaks, Google/Verizon, Google/China, and so on.
 
-<blockquote>
-
-</blockquote>
-
