@@ -1,7 +1,17 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>
+  {% if page.title %}
+    {{ site.title }}
+    -
+    {{ page.title }}
+  {% else %}
+    {{ site.title }} {% if paginator.page > 1 %} (Page {{ paginator.page }}) {% endif %}
+    - 
+    {{ site.posts | size }} {{ site.description }}
+  {% endif %}
+  </title>
   <meta name="viewport" content="width=device-width">
 
   <!-- Fonts & Stylesheets -->
