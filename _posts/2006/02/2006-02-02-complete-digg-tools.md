@@ -1,13 +1,13 @@
 ---
 title: "Complete Digg Tools Collection"
 date: 2006-02-02 12:10:15 +0000
-external-url: http://pchere.blogspot.com/2005/09/complete-digg-tools-collection.html
-hash: 8518d89f0536ce08a1db09b675df8628
+external-url: http://www.quickonlinetips.com/archives/2005/09/complete-digg-tools-collection/
+hash: 8306d37ec08461fab616929133666888
 year: 2006
 month: 02
 scheme: http
-host: pchere.blogspot.com
-path: /2005/09/complete-digg-tools-collection.html
+host: www.quickonlinetips.com
+path: /archives/2005/09/complete-digg-tools-collection/
 
 ---
 

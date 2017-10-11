@@ -1,13 +1,13 @@
 ---
 title: "Web Equation"
 date: 2012-02-03 21:36:41 +0000
-external-url: http://webdemo.visionobjects.com/equation.html?locale=default
-hash: 9804dcf4c1f946f1ee889dc8969c0ca1
+external-url: http://webdemo.myscript.com/portal.html?locale=default
+hash: c30eea3165eb42213894950a3adc8d42
 year: 2012
 month: 02
 scheme: http
-host: webdemo.visionobjects.com
-path: /equation.html
+host: webdemo.myscript.com
+path: /portal.html
 query:
     locale: "default"
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Chariot Sidecarrier"
-date: 2005-09-01 12:36:05 +0000
-external-url: http://www.thule.com/en/global/thule-chariot
-hash: a34ac29254433c53fc083e8f114cda41
+date: 2005-09-01 11:36:05 +0000
+external-url: http://www.chariotcarriers.com/html_english/sidecarrier.htm
+hash: 47fbdde0ddd21c4fb8afb94139c856cf
 year: 2005
 month: 09
 scheme: http
-host: www.thule.com
-path: /en/global/thule-chariot
+host: www.chariotcarriers.com
+path: /html_english/sidecarrier.htm
 
 ---
 

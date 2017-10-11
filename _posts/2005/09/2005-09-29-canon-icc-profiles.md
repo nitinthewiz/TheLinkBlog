@@ -1,14 +1,14 @@
 ---
 title: "Canon ICC Profiles"
-date: 2005-09-29 01:45:41 +0000
-external-url: http://www.wandb.com/?f
-hash: e10340f621528ae9229fe660bbf9ccba
+date: 2005-09-29 00:45:41 +0000
+external-url: http://www.wandb.com/icc.htm
+hash: 20065c992363e3a4f83b25c7fd8c868f
 year: 2005
 month: 09
 scheme: http
 host: www.wandb.com
-path: /
-query:
+path: /icc.htm
+
 ---
 
 Variety of ICC profiles for different photo paper and Canon printers.
