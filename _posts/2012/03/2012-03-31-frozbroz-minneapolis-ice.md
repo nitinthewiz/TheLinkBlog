@@ -13,7 +13,5 @@ path: /
 
 These guys are crazy serious about there ice cream. Need to try it!
 
-<blockquote>
-Because making our own base is crucial to the quality and breadth of flavors we create, we have no choice but to get the expensive pasteurization equipment required to get legal with the man.
-</blockquote>
+> Because making our own base is crucial to the quality and breadth of flavors we create, we have no choice but to get the expensive pasteurization equipment required to get legal with the man.
 

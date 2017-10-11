@@ -13,7 +13,5 @@ path: /rfletcher/safari-json-formatter
 
 If you use Safari, and you ever look at raw JSON output, install this extension.
 
-<blockquote>
-A Safari extension which makes valid JSON documents human-readable.
-</blockquote>
+> A Safari extension which makes valid JSON documents human-readable.
 

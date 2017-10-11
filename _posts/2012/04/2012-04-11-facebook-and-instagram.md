@@ -13,7 +13,5 @@ path: /daily/intelligencer/2012/04/facebook-and-instagram-when-your-favorite-app
 
 Filled with so many brilliant quips.
 
-<blockquote>
-To some users, this looks like a sellout. And thats because it is.
-</blockquote>
+> To some users, this looks like a sellout. And thats because it is.
 

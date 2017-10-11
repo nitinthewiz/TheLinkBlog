@@ -13,7 +13,5 @@ path: /the-ten-commandments-of-egoless-programming
 
 Favorite line "Don't be the guy coding in the dark office emerging only to buy cola. The guy in the room is out of touch, out of sight, and out of control and has no place in an open, collaborative environment." So true. The days of lone ranger programmers that don't interact well with others get shorter and shorter. Systems today are about integrating and communicating with others. Few devs can live in a cone of silence.
 
-<blockquote>
-The Ten Commandments of Egoless Programming, as originally established in Jerry Weinberg's book The Psychology of Computer Programming:
-</blockquote>
+> The Ten Commandments of Egoless Programming, as originally established in Jerry Weinberg's book The Psychology of Computer Programming:
 

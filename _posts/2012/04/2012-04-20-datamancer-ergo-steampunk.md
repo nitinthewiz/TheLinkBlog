@@ -13,7 +13,5 @@ path: /keyboards/ergo1/ergo1.htm
 
 This looks exceptionally cool.
 
-<blockquote>
-This keyboard was commissioned by a female client and has some elegant, feminine design features such as violet LEDs, an acanthus-leaf pattern etched into the brass, and a soft burgundy wrist pad that is removable for cleaning.
-</blockquote>
+> This keyboard was commissioned by a female client and has some elegant, feminine design features such as violet LEDs, an acanthus-leaf pattern etched into the brass, and a soft burgundy wrist pad that is removable for cleaning.
 

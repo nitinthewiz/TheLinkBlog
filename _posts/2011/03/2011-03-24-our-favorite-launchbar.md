@@ -13,7 +13,3 @@ path: /2011/03/23/our-favorite-launchbar-feature
 
 I'm a launchbar user and didn't even know this feature. Very handy!
 
-<blockquote>
-
-</blockquote>
-

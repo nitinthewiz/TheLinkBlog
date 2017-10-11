@@ -13,7 +13,5 @@ path: /2012/05/dreaming-technology-in-the-twin-cities/
 
 Article about the panel I was on at the Collaborative event.
 
-<blockquote>
-The iPad offers a great shopping experience for users, said Thingelstad of 8thBridge, which has found success with software that allows e-commerce sites to be more social with customers through Facebook.
-</blockquote>
+> The iPad offers a great shopping experience for users, said Thingelstad of 8thBridge, which has found success with software that allows e-commerce sites to be more social with customers through Facebook.
 

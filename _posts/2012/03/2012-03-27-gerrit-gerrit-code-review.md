@@ -11,4 +11,6 @@ path: /p/gerrit/
 
 ---
 
-Being used by WikiMedia for code reviews on MediaWiki.  <blockquote> Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system. </blockquote> 
+Being used by WikiMedia for code reviews on MediaWiki.
+
+> Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.

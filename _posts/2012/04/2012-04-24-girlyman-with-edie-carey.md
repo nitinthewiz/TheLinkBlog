@@ -13,7 +13,5 @@ path: /blog/2012/04/23/girlyman-with-edie-carey-at-city-winery/
 
 Hadar's writeup on the Girlyman show that we saw during our NYC trip.
 
-<blockquote>
-Our party also included a family who traveled from MN specifically to see this show!
-</blockquote>
+> Our party also included a family who traveled from MN specifically to see this show!
 

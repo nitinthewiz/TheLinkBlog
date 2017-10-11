@@ -13,7 +13,3 @@ path: /abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/
 
 It would be really interesting to determine how software could help more organizations work effectively in this matter.
 
-<blockquote>
-
-</blockquote>
-

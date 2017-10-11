@@ -11,4 +11,6 @@ path: /
 
 ---
 
-Ultimately this is just a mashup of social data jammed into an iPhone App. And, arguably while this is at best in poor taste, it does highlight privacy issues around social sharing.  <blockquote> Girls Around Me is a revolutionary new city scanner app than turns your town into a dating paradise! </blockquote> 
+Ultimately this is just a mashup of social data jammed into an iPhone App. And, arguably while this is at best in poor taste, it does highlight privacy issues around social sharing.
+
+> Girls Around Me is a revolutionary new city scanner app than turns your town into a dating paradise! 

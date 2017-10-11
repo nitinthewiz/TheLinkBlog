@@ -13,7 +13,5 @@ path: /wiki/Wikidata/Notes/ContentHandler
 
 Interesting proposal that is very similar to an idea I pondered around blogging engines.
 
-<blockquote>
-This page describes how MediaWiki could be made to support content different from wikitext natively as page content.
-</blockquote>
+> This page describes how MediaWiki could be made to support content different from wikitext natively as page content.
 

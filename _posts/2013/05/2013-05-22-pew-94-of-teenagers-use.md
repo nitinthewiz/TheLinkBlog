@@ -13,7 +13,5 @@ path: /pew-the-average-teenager-has-425-4-facebook-friends-44847
 
 67% of teens use daily.
 
-<blockquote>
-According to the report, 95 percent of teens (12  17) use the internet, and 81 percent of them use social media sites. Facebook is by far the most heavily adopted social site, with 94 percent of social media teens reporting they have a profile there.
-</blockquote>
+> According to the report, 95 percent of teens (12  17) use the internet, and 81 percent of them use social media sites. Facebook is by far the most heavily adopted social site, with 94 percent of social media teens reporting they have a profile there.
 

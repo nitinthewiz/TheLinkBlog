@@ -13,7 +13,5 @@ path: /penton_404_redirect_call/legacy/article/avd_03_30_2011_p04-01-302852
 
 Coverage of the Delta Ticket Counter application we made.
 
-<blockquote>
-Delta Air Lines has enhanced and exported its Facebook booking application, and Malaysia Airlines has debuted one that makes greater use of the features of social networking. But now the question will become how the carriers will grade the success and value of their effortsand whether, based on the results, other carriers will feel compelled to follow.
-</blockquote>
+> Delta Air Lines has enhanced and exported its Facebook booking application, and Malaysia Airlines has debuted one that makes greater use of the features of social networking. But now the question will become how the carriers will grade the success and value of their effortsand whether, based on the results, other carriers will feel compelled to follow.
 

@@ -13,7 +13,3 @@ path: /blog/beverage_options
 
 I always get Ginger Ale when I fly. :-)
 
-<blockquote>
-
-</blockquote>
-

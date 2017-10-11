@@ -13,7 +13,5 @@ path: /
 
 Looks interesting, am somewhat skeptical it will ever get adopted.
 
-<blockquote>
-Web Intents is a framework for client-side service discovery and inter-application communication. Services register their intention to be able to handle an action on the user's behalf. Applications request to start an Action of a certain verb (share, edit, view, pick etc.) and the system will find the appropriate Services for the user to use based on the user's preference.
-</blockquote>
+> Web Intents is a framework for client-side service discovery and inter-application communication. Services register their intention to be able to handle an action on the user's behalf. Applications request to start an Action of a certain verb (share, edit, view, pick etc.) and the system will find the appropriate Services for the user to use based on the user's preference.
 

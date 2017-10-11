@@ -13,7 +13,5 @@ path: /view/welcome-visitors/view/smallest-federated-wiki
 
 The three videos here are worth watching. Ward Cunningham is the creator of the wiki, and his view on federated wikis is really compelling.
 
-<blockquote>
-Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization. Follow our open development on GitHub or just watch our work in progress videos here.
-</blockquote>
+> Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization. Follow our open development on GitHub or just watch our work in progress videos here.
 

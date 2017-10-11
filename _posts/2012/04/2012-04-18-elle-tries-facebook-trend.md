@@ -13,7 +13,5 @@ path: /2012/04/17/elle-facebook-fcommerce/
 
 The first customer launched from our new platform.
 
-<blockquote>
-Users can click love, want, own or buy! on each product page. By default, all interactions with the app are shared automatically on their Facebook Timeline  so even if users dont make a purchase, they can inadvertently draw curious friends in to interact with the app. Users can also click to buy each product on the retailers website.
-</blockquote>
+> Users can click love, want, own or buy! on each product page. By default, all interactions with the app are shared automatically on their Facebook Timeline  so even if users dont make a purchase, they can inadvertently draw curious friends in to interact with the app. Users can also click to buy each product on the retailers website.
 

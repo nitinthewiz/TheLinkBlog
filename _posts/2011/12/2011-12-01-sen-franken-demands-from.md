@@ -13,7 +13,5 @@ path: /2011/12/01/ars-technica-sen-franken-demands-answers-from-carrier-iq-sugge
 
 Happy to see our Senator pursuing this.
 
-<blockquote>
-Al demands answers from Carrier IQ, accused of secretly logging smartphone users' location & private info.
-</blockquote>
+> Al demands answers from Carrier IQ, accused of secretly logging smartphone users' location & private info.
 

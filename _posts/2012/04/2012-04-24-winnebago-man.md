@@ -15,7 +15,5 @@ query:
 
 The star of this movie is awesome, and totally reminds me of my friend Malibar!
 
-<blockquote>
-This entertaining documentary explores the phenomenon of Jack Rebney, who became an Internet sensation after a grainy, nearly 20-year-old video of him furiously swearing up a storm while filming a Winnebago sales video made the rounds online. Traveling to a mountaintop, filmmaker Ben Steinbauer tracks down Rebney -- who's become known in underground circles as the "Angriest Man in the World" -- and tries to discover what makes the loner tick.
-</blockquote>
+> This entertaining documentary explores the phenomenon of Jack Rebney, who became an Internet sensation after a grainy, nearly 20-year-old video of him furiously swearing up a storm while filming a Winnebago sales video made the rounds online. Traveling to a mountaintop, filmmaker Ben Steinbauer tracks down Rebney -- who's become known in underground circles as the "Angriest Man in the World" -- and tries to discover what makes the loner tick.
 

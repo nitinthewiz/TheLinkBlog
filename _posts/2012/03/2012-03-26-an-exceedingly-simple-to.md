@@ -11,4 +11,6 @@ path: /journal/
 
 ---
 
-There should be a service that just emails you everyday and you reply with your journal.  <blockquote> I wanted to make sure the journaling was as easy as possible, so I have no excuses. So I instituted a few rules that have worked very well for me. </blockquote> 
+There should be a service that just emails you everyday and you reply with your journal.
+
+> I wanted to make sure the journaling was as easy as possible, so I have no excuses. So I instituted a few rules that have worked very well for me.

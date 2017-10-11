@@ -11,4 +11,6 @@ path: /2011/06/13/the-loss-of-towerbridge-from-a-cultural-point-of-view/
 
 ---
 
-It seems so short-sighted that a museum has deleted all of this - all of the URLs pointing at this account are now broken. A genuinely interesting part of the bridge's, and the internet's history is now gone, whereas the opposite should have happened - this account should have been included in the museum's activity. People enjoyed the account, it proved an interesting and funny way of humanising the day-to-day operations of the structure in a way that hadn't been done before.  <blockquote> Sad news - the unofficial @towerbridge account has been shut down and replaced with an official one. </blockquote> 
+It seems so short-sighted that a museum has deleted all of this - all of the URLs pointing at this account are now broken. A genuinely interesting part of the bridge's, and the internet's history is now gone, whereas the opposite should have happened - this account should have been included in the museum's activity. People enjoyed the account, it proved an interesting and funny way of humanising the day-to-day operations of the structure in a way that hadn't been done before.
+
+> Sad news - the unofficial @towerbridge account has been shut down and replaced with an official one. 

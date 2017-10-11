@@ -13,7 +13,5 @@ path: /radio-archives/episode/461/take-the-money-and-run-for-office
 
 I've read Lessig's "Republic, Lost" which goes into great details on this topic. This show is a good primer. The direct quotes from congresspeople, the discussion of quotas, and the targets assigned by committees are pretty incredulous stuff.
 
-<blockquote>
-For anyone who has ever heard the term "Washington insider" and felt outside  we are with you. So this week, we go inside the rooms where the deals get made, to the actual moment that the checks change hands  and we ask the people writing and receiving the checks what, exactly, is the money buying?
-</blockquote>
+> For anyone who has ever heard the term "Washington insider" and felt outside  we are with you. So this week, we go inside the rooms where the deals get made, to the actual moment that the checks change hands  and we ask the people writing and receiving the checks what, exactly, is the money buying?
 

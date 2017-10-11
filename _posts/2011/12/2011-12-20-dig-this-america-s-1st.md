@@ -13,7 +13,3 @@ path: /
 
 A few years ago I was thinking of "Earthmover Camp". Here it is... someone actually did it. :-)
 
-<blockquote>
-
-</blockquote>
-

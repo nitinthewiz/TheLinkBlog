@@ -13,7 +13,5 @@ path: /archive/facebook-and-craigslist-feel-the-same/
 
 Brilliant observation by my friend Garrick.
 
-<blockquote>
-"Both are wrapped around boobs."
-</blockquote>
+> "Both are wrapped around boobs."
 

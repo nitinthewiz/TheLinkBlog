@@ -13,7 +13,5 @@ path: /p/abcjs/
 
 Shouldn't have surprised me that there is a Javascript library for music notation, there are a few for math and they are exceptionally good. This seems very cool.
 
-<blockquote>
-Javascript for rendering abc music notation
-</blockquote>
+> Javascript for rendering abc music notation
 

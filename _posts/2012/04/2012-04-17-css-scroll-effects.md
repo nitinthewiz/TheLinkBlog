@@ -13,7 +13,5 @@ path: /scroll-effects/
 
 Pretty crazy animations on lists all done in CSS.
 
-<blockquote>
-Silly list scroll effects.
-</blockquote>
+> Silly list scroll effects.
 

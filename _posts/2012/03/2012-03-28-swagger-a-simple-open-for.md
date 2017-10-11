@@ -13,7 +13,5 @@ path: /swagger/
 
 I've met the CTO at Wordnik and Swagger is something they are pretty proud of. Might be worth implementing a Python version.
 
-<blockquote>
-Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services.
-</blockquote>
+> Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services.
 

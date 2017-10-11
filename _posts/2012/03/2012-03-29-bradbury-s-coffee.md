@@ -13,7 +13,5 @@ path: /
 
 Coffee shop in Madison recommended by Greg from Urban Bean and also recommended by @chrismpls.
 
-<blockquote>
-We opened Bradburys in the winter of 2008, three months after the birth of our daughter Ruby.  We were challenged and inspired in the midst of a bleak Wisconsin winter by how to kick-off our menu, but thankfully there was more available than we could have thought:  incredible meats, cheeses, mushrooms, the sweetest spinach weve ever had. In regards to coffee, we chose a roaster with similar values of sustainability, commitment to family, connection to the land, and some of our favorite moments have been experiencing coffee with them.
-</blockquote>
+> We opened Bradburys in the winter of 2008, three months after the birth of our daughter Ruby.  We were challenged and inspired in the midst of a bleak Wisconsin winter by how to kick-off our menu, but thankfully there was more available than we could have thought:  incredible meats, cheeses, mushrooms, the sweetest spinach weve ever had. In regards to coffee, we chose a roaster with similar values of sustainability, commitment to family, connection to the land, and some of our favorite moments have been experiencing coffee with them.
 

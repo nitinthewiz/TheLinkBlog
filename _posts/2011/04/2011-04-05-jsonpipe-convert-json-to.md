@@ -13,7 +13,3 @@ path: /jsonpipe-convert-json-to-a-unix-friendly-line-based-form/
 
 Get your bash on and grep json like a star. :-)
 
-<blockquote>
-
-</blockquote>
-

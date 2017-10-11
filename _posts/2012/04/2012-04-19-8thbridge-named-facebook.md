@@ -13,7 +13,5 @@ path: /news-releases/8thbridge-named-facebook-preferred-marketing-developer-1481
 
 Good recognition for us.
 
-<blockquote>
-8thBridge, Inc. announced today it was recognized by the FacebookPreferred Marketing Developer team as a Facebook PMD. 8thBridge's acceptance into the Facebook PMD program follows an extensive review process by the PMD team.
-</blockquote>
+> 8thBridge, Inc. announced today it was recognized by the FacebookPreferred Marketing Developer team as a Facebook PMD. 8thBridge's acceptance into the Facebook PMD program follows an extensive review process by the PMD team.
 

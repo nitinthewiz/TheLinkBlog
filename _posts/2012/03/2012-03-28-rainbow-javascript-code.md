@@ -13,7 +13,5 @@ path: /making/rainbows
 
 I'm suspect of syntax highlighters in JavaScript, but this one looks pretty good.
 
-<blockquote>
-Rainbow is a code syntax highlighting library written in Javascript.
-</blockquote>
+> Rainbow is a code syntax highlighting library written in Javascript.
 
