@@ -6,6 +6,8 @@ from slugify import slugify
 import os
 from urlparse import urlparse, parse_qsl
 
+pb = pinboard.Pinboard(os.environ['PINBOARD_API'])
+
 def make_post(p):
     post_template = u"""---
 title: "{}"
@@ -51,17 +53,17 @@ def write_file(p):
     # Make directories
     dname = "_posts/{}".format(p.time.strftime('%Y/%m'))
     if not os.path.exists(dname):
-        print "Creating %s directory..." % dname
+        print "Creating %s directory" % dname
         os.makedirs(dname)
 
     fname = "{}/{}-{}.md".format(
         dname,
         p.time.strftime('%Y-%m-%d'),
-        slugify(p.description, max_length=25, word_boundary=True))
+        slugify(p.description, max_length=70, word_boundary=True))
 
     if not os.path.isfile(fname):
 
-        print "Writing %s..." % fname
+        print "Writing %s" % fname
 
         file = open(fname,"w") 
         file.write(make_post(p).encode('utf8'))      
@@ -69,15 +71,13 @@ def write_file(p):
 
     else:
 
-        print "ERROR: File %s exists! %s" % (fname, p.description)
+        print "ERROR: %s exists!" % (fname)
 
 
 def main():
     if 'PINBOARD_API' not in os.environ:
-        print "Please set PINBOARD_API environment variable..."
+        print "Please set PINBOARD_API environment variable."
         exit(1)
-
-    pb = pinboard.Pinboard(os.environ['PINBOARD_API'])
 
     #pins = pb.posts.recent()['posts']
     pins = pb.posts.all()
