@@ -1,0 +1,15 @@
+---
+title: "Rob Pikes Google Tech Talk on the Go Programming Language"
+date: 2010-04-27 18:16:14 +0000
+external-url: https://www.youtube.com/watch?v=rKnDgT73v8s
+hash: 9780d516775db695ecaae37de193215c
+year: 2010
+month: 04
+scheme: https
+host: www.youtube.com
+path: /watch
+query:
+    v: "rKnDgT73v8s"
+---
+
+

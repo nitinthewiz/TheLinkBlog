@@ -1,0 +1,14 @@
+---
+title: "An Interview With WikiLeaks’ Julian Assange"
+date: 2010-11-30 20:16:37 +0000
+external-url: http://blogs.forbes.com/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
+hash: 24c1cf113653876863358ff4810473ef
+year: 2010
+month: 11
+scheme: http
+host: blogs.forbes.com
+path: /andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
+
+---
+
+In my assessment a must read, if you haven't yet: An Interview With WikiLeaks’ Julian Assange at Forbes 

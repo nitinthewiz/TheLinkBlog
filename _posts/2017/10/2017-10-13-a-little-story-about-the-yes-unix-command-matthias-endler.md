@@ -1,0 +1,14 @@
+---
+title: "A Little Story About the `yes` Unix Command | Matthias Endler"
+date: 2017-10-13 01:22:54 +0000
+external-url: https://matthias-endler.de/2017/yes/
+hash: b297ceea687e4f240515787266baf4ac
+year: 2017
+month: 10
+scheme: https
+host: matthias-endler.de
+path: /2017/yes/
+
+---
+
+This is one of those delightful blog posts that dives into one of the most esoteric Unix commands out there, `yes` and then looks into how it is so incredibly fast! 🏅

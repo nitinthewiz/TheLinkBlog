@@ -1,0 +1,15 @@
+---
+title: "First Lady Michelle Obama live in Manchester, New Hampshire | Hillary Clinton"
+date: 2016-10-14 03:44:47 +0000
+external-url: https://www.youtube.com/watch?v=SJ45VLgbe_E
+hash: bc20d16829fc43e68534b8f1218a3ce5
+year: 2016
+month: 10
+scheme: https
+host: www.youtube.com
+path: /watch
+query:
+    v: "SJ45VLgbe_E"
+---
+
+
