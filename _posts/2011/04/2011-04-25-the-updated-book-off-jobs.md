@@ -1,13 +1,13 @@
 ---
 title: "The Updated Book off Jobs"
 date: 2011-04-25 17:13:12 +0000
-external-url: http://content.time.com/time/printout/0%2C8816%2C953633%2C00.html
-hash: 4b86e35268b40f6fee1849c582a3c07e
+external-url: http://content.time.com/time/magazine/article/0,9171,953633,00.html
+hash: e4e1966072ec83a465b86f1acefe8340
 year: 2011
 month: 04
 scheme: http
 host: content.time.com
-path: /time/printout/0%2C8816%2C953633%2C00.html
+path: /time/magazine/article/0,9171,953633,00.html
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "The worsening journalistic disgrace at Wired"
 date: 2010-12-27 16:50:26 +0000
-external-url: http://www.salon.com/2010/12/27/wired/
-hash: 859e2fe4c99893ae3e4773858704f464
+external-url: https://www.salon.com/2010/12/27/wired_5/
+hash: 944c3043678894a64507c09bbd78f4bb
 year: 2010
 month: 12
-scheme: http
+scheme: https
 host: www.salon.com
-path: /2010/12/27/wired/
+path: /2010/12/27/wired_5/
 
 ---
 

@@ -1,17 +1,14 @@
 ---
 title: "Amygdala FarmVille"
 date: 2011-04-07 09:30:31 +0000
-external-url: http://radar.oreilly.com/2011/04/amygdala-farmville.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+oreilly%2Fradar%2Fatom+%28O%27Reilly+Radar%29
-hash: c15b95029f06496b1526d20f04bb0e57
+external-url: http://radar.oreilly.com/2011/04/amygdala-farmville.html
+hash: f7984e4b48636e5707547c2a475daa0b
 year: 2011
 month: 04
 scheme: http
 host: radar.oreilly.com
 path: /2011/04/amygdala-farmville.html
-query:
-    utm_source: "feedburner"
-    utm_medium: "feed"
-    utm_campaign: "Feed: oreilly/radar/atom (O'Reilly Radar)"
+
 ---
 
 
