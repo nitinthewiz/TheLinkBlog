@@ -2,14 +2,14 @@
 layout: null
 ---
 [
-	{% for post in site.posts %}
-	{
-		"id": "{{ site.url }}{{ post.url }}",
-		"title": {{ post.title | jsonify }},
-		"date_published": "{{ post.date | date_to_xmlschema }}",
-		"url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-		"external_url": "{{ post.external-url }}",
-		"host": "{{ post.host }}"
-	}{% if forloop.last == false %},{% endif %}
-	{% endfor %}
+  {% for post in site.posts %}
+  {
+    "id": "{{ site.url }}{{ post.url }}",
+    "title": {{ post.title | jsonify }},
+    "date_published": "{{ post.date | date_to_xmlschema }}",
+    "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+    "external_url": "{{ post.external-url }}",
+    "host": "{{ post.host }}"
+  }{% if forloop.last == false %},{% endif %}
+  {% endfor %}
 ]
