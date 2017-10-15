@@ -1,6 +1,6 @@
 ---
 title: "Hackers slam 'Everquest II' economy"
-date: 2005-08-12 16:50:14 +0000
+date: 2005-08-12 11:50:14 -0500
 external-url: http://news.cnet.com/Hackers-slam-Everquest-II-economy/2100-1043_3-5829403.html?tag=nefd.top
 hash: bd1f6fbf5c6b349e0239abf93ab2b642
 year: 2005

@@ -1,6 +1,6 @@
 ---
 title: "Country Abbreviations"
-date: 2005-12-27 14:55:41 +0000
+date: 2005-12-27 08:55:41 -0600
 external-url: http://www.greenbuilder.com/general/countries.html
 hash: 59cf5d3438d5b8eca8d99631d82fc6e9
 year: 2005

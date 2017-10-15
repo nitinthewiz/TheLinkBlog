@@ -1,6 +1,6 @@
 ---
 title: "Industry Moves: Neil Budde Leaving Yahoo; Khemlani Expands Role To Include News"
-date: 2007-12-11 18:17:00 +0000
+date: 2007-12-11 12:17:00 -0600
 external-url: http://www.paidcontent.org/entry/419-industry-moves-neil-budde-leaving-yahoo-khemlani-expands-role-to-includ/
 hash: 88aeca64a25986865909d8ca37bd7859
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "Downtime Update: Itching for the Green Light"
-date: 2008-08-01 21:19:50 +0000
+date: 2008-08-01 16:19:50 -0500
 external-url: http://blog.cullect.com/archive/downtime-update-itching-for-the-green-light
 hash: 2303088f5ae0635e287276274ec02d88
 year: 2008

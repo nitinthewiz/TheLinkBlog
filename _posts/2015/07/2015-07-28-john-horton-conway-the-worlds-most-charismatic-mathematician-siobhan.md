@@ -1,6 +1,6 @@
 ---
 title: "John Horton Conway: the world’s most charismatic mathematician | Siobhan Roberts"
-date: 2015-07-28 11:46:56 +0000
+date: 2015-07-28 06:46:56 -0500
 external-url: http://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world
 hash: 473ca0b39856efe80c6ed00074b694ad
 year: 2015

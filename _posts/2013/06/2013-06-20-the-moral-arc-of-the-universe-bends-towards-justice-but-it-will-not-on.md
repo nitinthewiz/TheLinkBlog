@@ -1,6 +1,6 @@
 ---
 title: "The Moral Arc of the Universe Bends Towards Justice, But It Will Not Happen on Its Own"
-date: 2013-06-20 14:30:09 +0000
+date: 2013-06-20 09:30:09 -0500
 external-url: http://www.huffingtonpost.com/larry-brilliant-md/post_4834_b_3360016.html
 hash: 17cf12ab2f6f0d2cb573c8821eb19523
 year: 2013

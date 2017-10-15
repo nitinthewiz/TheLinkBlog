@@ -1,6 +1,6 @@
 ---
 title: "Using the EC2 environment for fewer moving parts"
-date: 2008-12-02 12:37:00 +0000
+date: 2008-12-02 06:37:00 -0600
 external-url: http://www.37signals.com/svn/posts/1440-using-the-ec2-environment-for-fewer-moving-parts
 hash: 963a4c3375c5ca4186b0dfa55c31f723
 year: 2008

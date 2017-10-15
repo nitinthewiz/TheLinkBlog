@@ -1,6 +1,6 @@
 ---
 title: "Facebook giveth, Facebook taketh: A curious case of video apps"
-date: 2012-05-14 21:24:48 +0000
+date: 2012-05-14 16:24:48 -0500
 external-url: http://gigaom.com/2012/05/14/facebook-giveth-facebook-taketh-a-curious-case-of-video-apps/
 hash: d9b81b4c810acb83ce3a4b457b7679f1
 year: 2012

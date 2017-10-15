@@ -1,6 +1,6 @@
 ---
 title: "Adorama Used"
-date: 2015-07-13 11:45:43 +0000
+date: 2015-07-13 06:45:43 -0500
 external-url: https://www.adorama.com/pages/usedQuote
 hash: b76e89763699ae9edad8a500308da707
 year: 2015

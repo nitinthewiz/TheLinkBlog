@@ -1,6 +1,6 @@
 ---
 title: "1,800 MySQL Servers with Two DBAs"
-date: 2008-04-22 15:36:00 +0000
+date: 2008-04-22 10:36:00 -0500
 external-url: http://perspectives.mvdirona.com/2008/04/22/1800MySQLServersWithTwoDBAs.aspx
 hash: ff91d062439067868788c86d3141a9dd
 year: 2008

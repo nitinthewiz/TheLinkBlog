@@ -1,6 +1,6 @@
 ---
 title: "Scrape 'N' Feed: The Greasy Tag"
-date: 2012-02-24 20:13:10 +0000
+date: 2012-02-24 14:13:10 -0600
 external-url: http://www.crummy.com/software/ScrapeNFeed/
 hash: 36e6d85a032226ee8638f011f68d432c
 year: 2012

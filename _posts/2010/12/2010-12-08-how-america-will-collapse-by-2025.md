@@ -1,6 +1,6 @@
 ---
 title: "How America will collapse (by 2025)"
-date: 2010-12-08 12:29:24 +0000
+date: 2010-12-08 06:29:24 -0600
 external-url: http://www.salon.com/news/feature/2010/12/06/america_collapse_2025
 hash: 956b49570b4a22eb77de8a9c8e2fa9b8
 year: 2010

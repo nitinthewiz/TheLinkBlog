@@ -1,6 +1,6 @@
 ---
 title: "New MindNode Screencast Series"
-date: 2016-08-02 19:50:03 +0000
+date: 2016-08-02 14:50:03 -0500
 external-url: https://mindnode.com/support/screencasts
 hash: 76934f18488f4fa420bba721bdbb0ccf
 year: 2016

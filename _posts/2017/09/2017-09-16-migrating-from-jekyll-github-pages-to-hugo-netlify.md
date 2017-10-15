@@ -1,6 +1,6 @@
 ---
 title: "Migrating from Jekyll+Github Pages to Hugo+Netlify"
-date: 2017-09-16 09:15:27 +0000
+date: 2017-09-16 04:15:27 -0500
 external-url: https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
 hash: 25fb407123ebcf5b7f3d6a54abad00a4
 year: 2017

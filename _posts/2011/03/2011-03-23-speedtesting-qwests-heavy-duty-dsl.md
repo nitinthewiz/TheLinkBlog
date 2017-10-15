@@ -1,6 +1,6 @@
 ---
 title: "Speedtesting Qwests Heavy Duty DSL"
-date: 2011-03-23 16:41:56 +0000
+date: 2011-03-23 11:41:56 -0500
 external-url: https://garrickvanburen.com/archive/speedtesting-qwests-heavy-duty-dsl/
 hash: 92085da245b175a36b0af7d986204bb5
 year: 2011

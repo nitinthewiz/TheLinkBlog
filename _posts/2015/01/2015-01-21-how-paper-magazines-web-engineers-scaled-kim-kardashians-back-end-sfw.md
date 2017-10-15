@@ -1,6 +1,6 @@
 ---
 title: "How PAPER Magazine’s web engineers scaled Kim Kardashian’s back-end (SFW) — The Message — Medium"
-date: 2015-01-21 23:41:11 +0000
+date: 2015-01-21 17:41:11 -0600
 external-url: https://medium.com/message/how-paper-magazines-web-engineers-scaled-kim-kardashians-back-end-sfw-6367f8d37688
 hash: 62221f880cf85924be157bdbef2b1726
 year: 2015

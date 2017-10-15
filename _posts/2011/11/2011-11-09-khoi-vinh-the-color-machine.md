@@ -1,6 +1,6 @@
 ---
 title: "Khoi Vinh - The Color Machine"
-date: 2011-11-09 11:51:18 +0000
+date: 2011-11-09 05:51:18 -0600
 external-url: http://thecolormachine.com/work/khoi-vinh/
 hash: e0ec4f570e160c2a08ec4c81b3722409
 year: 2011

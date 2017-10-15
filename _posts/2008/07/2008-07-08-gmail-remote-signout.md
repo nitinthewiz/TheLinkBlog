@@ -1,6 +1,6 @@
 ---
 title: "Gmail Remote Signout"
-date: 2008-07-08 21:00:55 +0000
+date: 2008-07-08 16:00:55 -0500
 external-url: https://gigaom.com/2008/07/08/gmail-remote-signout/
 hash: a8beece4899841b771d07b25b3edfb6c
 year: 2008

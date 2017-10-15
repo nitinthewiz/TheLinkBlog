@@ -1,6 +1,6 @@
 ---
 title: "spotify/luigi"
-date: 2014-12-10 22:40:17 +0000
+date: 2014-12-10 16:40:17 -0600
 external-url: https://github.com/spotify/luigi
 hash: 931fbef19c2f593e5da63e596aca4908
 year: 2014

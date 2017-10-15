@@ -1,6 +1,6 @@
 ---
 title: "How to make great iced coffee with an AeroPress"
-date: 2012-08-03 18:56:34 +0000
+date: 2012-08-03 13:56:34 -0500
 external-url: http://www.marco.org/2012/07/30/iced-coffee-with-aeropress
 hash: a405507d7bff8c972f3fcb1db133de18
 year: 2012

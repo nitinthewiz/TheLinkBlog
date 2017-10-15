@@ -1,6 +1,6 @@
 ---
 title: "Body By Victoria - The Hacker Factor Blog"
-date: 2013-01-28 14:02:45 +0000
+date: 2013-01-28 08:02:45 -0600
 external-url: http://www.hackerfactor.com/blog/index.php?/archives/322-Body-By-Victoria.html
 hash: 8da6440699397d43c9ccc0c4c2ae1a75
 year: 2013

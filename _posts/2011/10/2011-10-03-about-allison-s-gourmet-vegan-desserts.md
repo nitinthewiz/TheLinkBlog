@@ -1,6 +1,6 @@
 ---
 title: "About Allison's Gourmet Vegan Desserts"
-date: 2011-10-03 21:58:33 +0000
+date: 2011-10-03 16:58:33 -0500
 external-url: http://www.allisonsgourmet.com/vegan-desserts-bakery
 hash: 2eb5c55670234a1600bf5f2fbdff9965
 year: 2011

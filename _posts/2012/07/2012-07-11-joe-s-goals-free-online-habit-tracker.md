@@ -1,6 +1,6 @@
 ---
 title: "Joe's Goals - Free Online Habit Tracker"
-date: 2012-07-11 13:45:32 +0000
+date: 2012-07-11 08:45:32 -0500
 external-url: http://www.joesgoals.com/
 hash: dc7bb4d9fe664ccaa75de81697bec481
 year: 2012

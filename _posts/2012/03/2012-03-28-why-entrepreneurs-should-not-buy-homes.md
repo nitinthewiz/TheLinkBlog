@@ -1,6 +1,6 @@
 ---
 title: "Why Entrepreneurs Should Not Buy Homes"
-date: 2012-03-28 19:09:57 +0000
+date: 2012-03-28 14:09:57 -0500
 external-url: http://techcrunch.com/2012/03/24/entrepreneurs-should-not-buy-homes/
 hash: b7435ce18d6c38f21d61fae778668b7b
 year: 2012

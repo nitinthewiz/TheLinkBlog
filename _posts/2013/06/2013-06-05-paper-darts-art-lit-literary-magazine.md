@@ -1,6 +1,6 @@
 ---
 title: "Paper Darts: ART + LIT - Literary Magazine"
-date: 2013-06-05 15:32:55 +0000
+date: 2013-06-05 10:32:55 -0500
 external-url: http://paperdarts.org/
 hash: 23647169f87b134cc4ee7c8a2b3a6ea1
 year: 2013

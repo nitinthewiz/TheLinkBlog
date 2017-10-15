@@ -1,6 +1,6 @@
 ---
 title: "Facebook Falls Back to IPO Price"
-date: 2012-05-19 05:16:01 +0000
+date: 2012-05-19 00:16:01 -0500
 external-url: http://online.wsj.com/news/articles/SB10001424052702303448404577411903118364314
 hash: 93343cf201346398f53f26fce5c80c27
 year: 2012

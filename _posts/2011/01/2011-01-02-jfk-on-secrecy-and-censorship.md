@@ -1,6 +1,6 @@
 ---
 title: "JFK On Secrecy And Censorship"
-date: 2011-01-02 12:21:15 +0000
+date: 2011-01-02 06:21:15 -0600
 external-url: http://www.techdirt.com/articles/20101206/01134912143/jfk-secrecy-censorship.shtml
 hash: 6989ebd3e205a02187afa2948e3562a6
 year: 2011

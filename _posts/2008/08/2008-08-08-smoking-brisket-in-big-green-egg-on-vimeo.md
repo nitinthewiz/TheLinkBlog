@@ -1,6 +1,6 @@
 ---
 title: "Smoking Brisket in Big Green Egg on Vimeo"
-date: 2008-08-08 19:35:21 +0000
+date: 2008-08-08 14:35:21 -0500
 external-url: http://www.vimeo.com/1492678
 hash: 584201620a50f408e180751b2db53733
 year: 2008

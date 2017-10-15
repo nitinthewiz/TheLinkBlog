@@ -1,6 +1,6 @@
 ---
 title: "BusyContacts"
-date: 2016-02-22 17:11:50 +0000
+date: 2016-02-22 11:11:50 -0600
 external-url: http://www.busymac.com/busycontacts/
 hash: 0faf6a670465eb9492d4f5bcac2d9afb
 year: 2016

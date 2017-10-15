@@ -1,6 +1,6 @@
 ---
 title: "‘Monument Valley 2’ for iOS —Tools and Toys"
-date: 2017-06-07 17:16:38 +0000
+date: 2017-06-07 12:16:38 -0500
 external-url: http://toolsandtoys.net/monument-valley-2/
 hash: 56da89c2ee931b735db434dc3a834d51
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Promises of DevOps"
-date: 2015-12-06 17:59:43 +0000
+date: 2015-12-06 11:59:43 -0600
 external-url: http://markburgess.org/blog_devops.html
 hash: 894053a42abcfc0669a897d96be2abfa
 year: 2015

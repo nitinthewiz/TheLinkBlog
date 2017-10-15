@@ -1,6 +1,6 @@
 ---
 title: "The Art of Monitoring"
-date: 2016-06-10 14:08:28 +0000
+date: 2016-06-10 09:08:28 -0500
 external-url: https://artofmonitoring.com/
 hash: 7706b0d8ede2027e4624a47d8c4ee573
 year: 2016

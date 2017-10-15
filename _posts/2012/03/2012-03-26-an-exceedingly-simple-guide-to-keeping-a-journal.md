@@ -1,6 +1,6 @@
 ---
 title: "An Exceedingly Simple Guide to Keeping a Journal"
-date: 2012-03-26 17:07:41 +0000
+date: 2012-03-26 12:07:41 -0500
 external-url: http://zenhabits.net/journal/
 hash: 89917f67ab7a70ce27b1a2aae4408864
 year: 2012

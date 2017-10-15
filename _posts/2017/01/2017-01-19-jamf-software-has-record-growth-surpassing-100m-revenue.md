@@ -1,6 +1,6 @@
 ---
 title: "Jamf Software Has Record Growth Surpassing $100m Revenue"
-date: 2017-01-19 19:51:31 +0000
+date: 2017-01-19 13:51:31 -0600
 external-url: http://tech.mn/news/2017/01/19/jamf-software-has-record-growth-surpassing-100m-revenue/
 hash: 34a6393b7ee225ca8c3b495f92b7648b
 year: 2017

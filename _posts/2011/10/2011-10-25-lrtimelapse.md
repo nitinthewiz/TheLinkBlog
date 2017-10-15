@@ -1,6 +1,6 @@
 ---
 title: "LRTimelapse"
-date: 2011-10-25 12:24:14 +0000
+date: 2011-10-25 07:24:14 -0500
 external-url: http://lrtimelapse.com/
 hash: eeedce276fa90b0d1b0b469a8a5370c5
 year: 2011

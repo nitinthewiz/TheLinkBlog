@@ -1,6 +1,6 @@
 ---
 title: "MediaWiki Skins A visual feast - BlueSpice"
-date: 2013-06-19 22:17:07 +0000
+date: 2013-06-19 17:17:07 -0500
 external-url: http://blog.blue-spice.org/2012/10/01/mediawiki-skins-a-visual-feast/
 hash: eb5795e23f5c350601da542320fb3f0f
 year: 2013

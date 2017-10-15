@@ -1,6 +1,6 @@
 ---
 title: "You Can’t Protect Yourself from the Equifax Breach - TidBITS"
-date: 2017-09-15 09:07:43 +0000
+date: 2017-09-15 04:07:43 -0500
 external-url: http://tidbits.com/article/17457
 hash: f001c33b752f20e5cf51545572fedbea
 year: 2017

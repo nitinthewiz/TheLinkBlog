@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia:Lua"
-date: 2013-02-22 20:59:41 +0000
+date: 2013-02-22 14:59:41 -0600
 external-url: http://en.wikipedia.org/wiki/Wikipedia:Lua
 hash: 3ad106c6540997ef4e1429e27a3922a9
 year: 2013

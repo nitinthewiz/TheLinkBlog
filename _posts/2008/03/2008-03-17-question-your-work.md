@@ -1,6 +1,6 @@
 ---
 title: "Question your work"
-date: 2008-03-17 20:15:00 +0000
+date: 2008-03-17 15:15:00 -0500
 external-url: http://www.37signals.com/svn/posts/913-question-your-work
 hash: 4ed4d1feb3208559222f805a69131295
 year: 2008

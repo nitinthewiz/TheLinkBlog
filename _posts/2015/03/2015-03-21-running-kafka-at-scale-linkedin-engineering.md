@@ -1,6 +1,6 @@
 ---
 title: "Running Kafka At Scale | LinkedIn Engineering"
-date: 2015-03-21 22:57:41 +0000
+date: 2015-03-21 17:57:41 -0500
 external-url: https://engineering.linkedin.com/kafka/running-kafka-scale
 hash: dc2a8eba56cffce2b45ed470125a7b81
 year: 2015

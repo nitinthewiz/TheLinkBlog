@@ -1,6 +1,6 @@
 ---
 title: "The Best Books I Read in 2015 | Bill Gates"
-date: 2015-12-09 06:15:35 +0000
+date: 2015-12-09 00:15:35 -0600
 external-url: http://www.gatesnotes.com/About-Bill-Gates/Best-Books-2015
 hash: 69b8ee60108a09c6e49f5c20086410ab
 year: 2015

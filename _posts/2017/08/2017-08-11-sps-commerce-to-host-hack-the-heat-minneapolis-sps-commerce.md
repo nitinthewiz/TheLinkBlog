@@ -1,6 +1,6 @@
 ---
 title: "SPS Commerce to host Hack the Heat Minneapolis | SPS Commerce"
-date: 2017-08-11 13:17:34 +0000
+date: 2017-08-11 08:17:34 -0500
 external-url: http://www.spscommerce.com/blog/hack-the-heat-minneapolis-spsa/
 hash: 0e833921fe2643b2fb4682ef51ded88b
 year: 2017

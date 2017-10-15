@@ -1,6 +1,6 @@
 ---
 title: "The key value store everyone ignored (Postgresql)"
-date: 2011-12-12 16:59:52 +0000
+date: 2011-12-12 10:59:52 -0600
 external-url: http://blog.creapptives.com/post/14062057061/the-key-value-store-everyone-ignored-postgresql
 hash: e476474976ac992a55cbd1c3944d9c71
 year: 2011

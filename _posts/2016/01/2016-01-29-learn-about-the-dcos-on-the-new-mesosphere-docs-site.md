@@ -1,6 +1,6 @@
 ---
 title: "Learn about the DCOS on the new Mesosphere docs site"
-date: 2016-01-29 18:20:47 +0000
+date: 2016-01-29 12:20:47 -0600
 external-url: https://mesosphere.com/blog/2016/01/29/new-and-improved-docs-site/
 hash: 076d895b9c531323303f44260c69b5be
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "10 Lessons I Learned from a Year of Productivity Experiments"
-date: 2015-10-01 10:58:41 +0000
+date: 2015-10-01 05:58:41 -0500
 external-url: http://lifehacker.com/10-lessons-i-learned-from-a-year-of-productivity-experi-1584800618/1733434839
 hash: 530186643564120771ff6e51e099098b
 year: 2015

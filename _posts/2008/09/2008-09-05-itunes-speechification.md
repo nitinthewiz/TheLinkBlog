@@ -1,6 +1,6 @@
 ---
 title: "ITunes Speechification"
-date: 2008-09-05 19:00:00 +0000
+date: 2008-09-05 14:00:00 -0500
 external-url: http://www.tuaw.com/2008/09/05/itunes-speechification/
 hash: fd519a6fc2e5d3fcfc4dc70739bd4dbb
 year: 2008

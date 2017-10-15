@@ -1,6 +1,6 @@
 ---
 title: "Scribunto Lua reference manual"
-date: 2013-02-22 21:54:51 +0000
+date: 2013-02-22 15:54:51 -0600
 external-url: http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual
 hash: 99541bc2baf0d2db54562fe69550bc99
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Green Data Centres: a practical guide"
-date: 2007-09-21 15:33:38 +0000
+date: 2007-09-21 10:33:38 -0500
 external-url: http://www.datacentres.com/reports/dcgreen07.asp
 hash: c0546478349d310488ee0c63aa98b982
 year: 2007

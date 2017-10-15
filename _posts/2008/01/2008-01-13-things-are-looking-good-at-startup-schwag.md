@@ -1,6 +1,6 @@
 ---
 title: "Things Are Looking Good At Startup Schwag"
-date: 2008-01-13 20:47:24 +0000
+date: 2008-01-13 14:47:24 -0600
 external-url: http://techcrunch.com/2008/01/13/things-are-looking-good-at-startup-schwag/
 hash: cb7648be847222b7d3ecc484dc09002c
 year: 2008

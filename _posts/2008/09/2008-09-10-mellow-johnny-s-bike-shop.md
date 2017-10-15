@@ -1,6 +1,6 @@
 ---
 title: "Mellow Johnny's Bike Shop"
-date: 2008-09-10 06:20:42 +0000
+date: 2008-09-10 01:20:42 -0500
 external-url: http://www.mellowjohnnys.com/
 hash: 7604a754309d7a6a718a6e25be97747a
 year: 2008

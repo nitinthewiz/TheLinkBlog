@@ -1,6 +1,6 @@
 ---
 title: "15 Secrets of iMovie ’11"
-date: 2010-11-01 23:28:56 +0000
+date: 2010-11-01 18:28:56 -0500
 external-url: http://tidbits.com/article/11712?rss=
 hash: b55e5552169e62eb6157e996f167e315
 year: 2010

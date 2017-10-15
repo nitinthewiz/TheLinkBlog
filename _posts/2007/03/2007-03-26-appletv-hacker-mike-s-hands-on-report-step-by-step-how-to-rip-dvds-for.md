@@ -1,6 +1,6 @@
 ---
 title: "AppleTV Hacker: Mike's Hands on Report: Step By Step How To Rip DVDs for AppleTV with MediaFork"
-date: 2007-03-26 19:53:42 +0000
+date: 2007-03-26 14:53:42 -0500
 external-url: http://appletvhacker.blogspot.com/2007/03/mikes-hands-on-report-step-by-step-how.html
 hash: 0be3ae74c15a6f3beb11478d74984a0f
 year: 2007

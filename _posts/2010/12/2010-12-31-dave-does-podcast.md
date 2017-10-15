@@ -1,6 +1,6 @@
 ---
 title: "Dave Does Podcast!"
-date: 2010-12-31 15:26:04 +0000
+date: 2010-12-31 09:26:04 -0600
 external-url: http://scripting.com/stories/2010/12/31/daveDoesPodcast.html
 hash: 668af6d5a648c06b438296430945c7d9
 year: 2010

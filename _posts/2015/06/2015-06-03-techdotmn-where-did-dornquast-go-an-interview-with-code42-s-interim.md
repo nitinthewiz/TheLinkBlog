@@ -1,6 +1,6 @@
 ---
 title: "TECHdotMN Where Did Dornquast Go? An Interview With Code42's Interim CEO Mitch Coopet - TECHdotMN"
-date: 2015-06-03 20:07:23 +0000
+date: 2015-06-03 15:07:23 -0500
 external-url: http://tech.mn/news/2015/06/03/where-did-dornquast-go-an-interview-with-code42s-interim-ceo-mitch-coopet/
 hash: a1bf58f4072b333cfb593f7d1466490b
 year: 2015

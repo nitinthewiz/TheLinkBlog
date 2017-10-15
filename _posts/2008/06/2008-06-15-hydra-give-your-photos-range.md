@@ -1,6 +1,6 @@
 ---
 title: "Hydra: Give Your Photos Range"
-date: 2008-06-15 11:00:57 +0000
+date: 2008-06-15 06:00:57 -0500
 external-url: http://macapper.com/2008/06/15/hydra-give-your-photos-range/
 hash: b2a8067801ff18997dc92d089ba0dfd6
 year: 2008

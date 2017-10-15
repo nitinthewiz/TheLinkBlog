@@ -1,6 +1,6 @@
 ---
 title: "LimeSurvey"
-date: 2012-10-19 13:42:52 +0000
+date: 2012-10-19 08:42:52 -0500
 external-url: http://www.limesurvey.org/
 hash: d8f0f98151e772c020dbbaa60106f0ae
 year: 2012

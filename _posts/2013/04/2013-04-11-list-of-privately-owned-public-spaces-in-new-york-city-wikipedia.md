@@ -1,6 +1,6 @@
 ---
 title: "List of privately owned public spaces in New York City - Wikipedia"
-date: 2013-04-11 17:18:53 +0000
+date: 2013-04-11 12:18:53 -0500
 external-url: http://en.wikipedia.org/wiki/List_of_privately_owned_public_spaces_in_New_York_City
 hash: f39cd0f6e54dee89b794601c223da7bc
 year: 2013

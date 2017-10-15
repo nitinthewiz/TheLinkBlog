@@ -1,6 +1,6 @@
 ---
 title: "Facebook, You Needy Sonofabitch | Brad Frost"
-date: 2017-09-14 08:38:24 +0000
+date: 2017-09-14 03:38:24 -0500
 external-url: http://bradfrost.com/blog/post/facebook-you-needy-sonofabitch/
 hash: 46f6cdeaa14bb2e24ae19100f53fc385
 year: 2017

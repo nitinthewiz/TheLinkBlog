@@ -1,6 +1,6 @@
 ---
 title: "Go Database! Docs"
-date: 2013-03-01 13:57:19 +0000
+date: 2013-03-01 07:57:19 -0600
 external-url: http://zond.github.io/god/architecture.html
 hash: 95d6089e6668e9aee51420819570e374
 year: 2013

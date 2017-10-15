@@ -1,6 +1,6 @@
 ---
 title: "University of Minnesota Business and Community Economic Development Growth Accelerator Program"
-date: 2012-07-12 16:34:48 +0000
+date: 2012-07-12 11:34:48 -0500
 external-url: http://www.ced.umn.edu/gap.php
 hash: 46252141b2018b225c13143fe73d0ca2
 year: 2012

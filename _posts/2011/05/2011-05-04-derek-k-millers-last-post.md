@@ -1,6 +1,6 @@
 ---
 title: "Derek K. Miller’s Last Post"
-date: 2011-05-04 23:53:14 +0000
+date: 2011-05-04 18:53:14 -0500
 external-url: http://www.penmachine.com/2011/05/the-last-post
 hash: 048266e888359072f08164fce7fff50e
 year: 2011

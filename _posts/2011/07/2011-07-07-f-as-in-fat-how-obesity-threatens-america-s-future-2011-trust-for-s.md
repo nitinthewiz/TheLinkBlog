@@ -1,6 +1,6 @@
 ---
 title: "F as in Fat: How Obesity Threatens America's Future 2011 - Trust for America's Health"
-date: 2011-07-07 21:59:21 +0000
+date: 2011-07-07 16:59:21 -0500
 external-url: http://www.healthyamericans.org/report/88/
 hash: d0f5ce24dcefd267236b4ac8703de22f
 year: 2011

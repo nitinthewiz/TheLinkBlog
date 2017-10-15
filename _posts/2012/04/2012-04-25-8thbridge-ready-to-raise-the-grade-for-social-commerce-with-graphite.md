@@ -1,6 +1,6 @@
 ---
 title: "8thBridge ready to raise the grade for social commerce with Graphite"
-date: 2012-04-25 21:57:32 +0000
+date: 2012-04-25 16:57:32 -0500
 external-url: http://tech.mn/news/2012/04/24/8thbridge-graphite/
 hash: baca164f7d2bfa4a746d69110a97e827
 year: 2012

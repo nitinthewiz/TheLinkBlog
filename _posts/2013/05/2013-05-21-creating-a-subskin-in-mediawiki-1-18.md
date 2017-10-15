@@ -1,6 +1,6 @@
 ---
 title: "Creating a subskin in MediaWiki 1.18+"
-date: 2013-05-21 15:34:05 +0000
+date: 2013-05-21 10:34:05 -0500
 external-url: http://blog.redwerks.org/2012/02/28/mediawiki-subskin-tutorial/
 hash: 63fe3672811caccb41068572abc0e61f
 year: 2013

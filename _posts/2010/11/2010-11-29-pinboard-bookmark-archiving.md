@@ -1,6 +1,6 @@
 ---
 title: "Pinboard Bookmark Archiving"
-date: 2010-11-29 22:39:03 +0000
+date: 2010-11-29 16:39:03 -0600
 external-url: http://pinboard.in/blog/153/
 hash: 284a9ca70bed3aa0def4a786cdb2c215
 year: 2010

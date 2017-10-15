@@ -1,6 +1,6 @@
 ---
 title: "Deficit Reduction"
-date: 2011-01-16 15:18:10 +0000
+date: 2011-01-16 09:18:10 -0600
 external-url: http://avc.com/2011/01/deficit-reduction/
 hash: 0f85fbe5709d143b059dc55876ca45ee
 year: 2011

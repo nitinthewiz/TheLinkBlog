@@ -1,6 +1,6 @@
 ---
 title: "VerseLogic » Wordpress OpenID Plugin"
-date: 2007-04-24 12:44:17 +0000
+date: 2007-04-24 07:44:17 -0500
 external-url: http://verselogic.net/projects/wordpress/wordpress-openid-plugin/
 hash: 0bf144faebae42c53eb854f31fc84cde
 year: 2007

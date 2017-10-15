@@ -1,6 +1,6 @@
 ---
 title: "Bluehue on Vimeo"
-date: 2015-11-21 13:59:54 +0000
+date: 2015-11-21 07:59:54 -0600
 external-url: https://vimeo.com/134002940
 hash: 6a0a58fc63000cfc8e12fd3e370a4495
 year: 2015

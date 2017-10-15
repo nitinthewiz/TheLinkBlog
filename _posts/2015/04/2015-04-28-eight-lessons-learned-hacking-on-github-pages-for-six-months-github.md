@@ -1,6 +1,6 @@
 ---
 title: "Eight lessons learned hacking on GitHub Pages for six months · GitHub"
-date: 2015-04-28 10:31:55 +0000
+date: 2015-04-28 05:31:55 -0500
 external-url: https://github.com/blog/1992-eight-lessons-learned-hacking-on-github-pages-for-six-months
 hash: 6e520dac762566c598be3c3065d734f2
 year: 2015

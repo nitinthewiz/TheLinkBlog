@@ -1,6 +1,6 @@
 ---
 title: "AppFresh - All Software Updates for your Mac in One Place"
-date: 2007-07-28 20:27:34 +0000
+date: 2007-07-28 15:27:34 -0500
 external-url: http://metaquark.de/appfresh/mac
 hash: f8a59445e5299ec61f8534ce5cd1a3c3
 year: 2007

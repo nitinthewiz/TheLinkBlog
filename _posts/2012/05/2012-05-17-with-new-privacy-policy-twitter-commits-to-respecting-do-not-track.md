@@ -1,6 +1,6 @@
 ---
 title: "With New Privacy Policy, Twitter Commits to Respecting Do Not Track"
-date: 2012-05-17 22:39:18 +0000
+date: 2012-05-17 17:39:18 -0500
 external-url: https://www.eff.org/deeplinks/2012/05/new-privacy-policy-twitter-commits-respecting-do-not-track
 hash: 0c05d16160f5b96fb3c10a798246d102
 year: 2012

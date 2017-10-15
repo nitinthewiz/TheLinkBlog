@@ -1,6 +1,6 @@
 ---
 title: "The End of the Facebook Like Bubble"
-date: 2012-11-26 15:48:02 +0000
+date: 2012-11-26 09:48:02 -0600
 external-url: http://digiday.com/brands/the-end-of-the-facebook-like-bubble/
 hash: 53f198210260e3a15f72ff2f84b21212
 year: 2012

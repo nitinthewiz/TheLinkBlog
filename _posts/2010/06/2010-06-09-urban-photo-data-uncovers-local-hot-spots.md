@@ -1,6 +1,6 @@
 ---
 title: "Urban Photo Data Uncovers Local Hot Spots"
-date: 2010-06-09 22:14:35 +0000
+date: 2010-06-09 17:14:35 -0500
 external-url: http://readwrite.com/2010/06/09/cool_local_places_without_tourists
 hash: e603a1ce6261888062da560baa96d3d1
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Prowl: Growl Client for iPhone"
-date: 2009-07-07 16:29:20 +0000
+date: 2009-07-07 11:29:20 -0500
 external-url: http://www.prowlapp.com/
 hash: 852c815c59537f9b32f7b435bdf69c91
 year: 2009

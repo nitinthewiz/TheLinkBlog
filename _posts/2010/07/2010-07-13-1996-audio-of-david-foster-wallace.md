@@ -1,6 +1,6 @@
 ---
 title: "1996 audio of David Foster Wallace"
-date: 2010-07-13 19:13:18 +0000
+date: 2010-07-13 14:13:18 -0500
 external-url: http://kottke.org/10/07/1996-audio-of-david-foster-wallace
 hash: cb97bf7666fb579a71f17c5b83119234
 year: 2010

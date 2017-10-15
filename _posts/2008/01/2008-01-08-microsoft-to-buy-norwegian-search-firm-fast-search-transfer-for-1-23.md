@@ -1,6 +1,6 @@
 ---
 title: "Microsoft To Buy Norwegian Search Firm Fast Search & Transfer For $1.23 Billion"
-date: 2008-01-08 20:43:51 +0000
+date: 2008-01-08 14:43:51 -0600
 external-url: http://gigaom.com/2008/01/08/419-microsoft-to-buy-norwegian-search-firm-fast-search-transfer-for-123-bil/
 hash: e60674d98fc5b3ad7bf6d243c10a44d4
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "Text Editors in The Lord of the Rings"
-date: 2011-08-01 06:14:46 +0000
+date: 2011-08-01 01:14:46 -0500
 external-url: http://crookedtimber.org/2011/07/30/text-editors-in-the-lord-of-the-rings/
 hash: b96fae920450e7db747ca9ca9a84bd6f
 year: 2011

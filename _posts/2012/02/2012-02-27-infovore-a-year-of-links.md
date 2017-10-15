@@ -1,6 +1,6 @@
 ---
 title: "Infovore » A Year of Links"
-date: 2012-02-27 21:04:43 +0000
+date: 2012-02-27 15:04:43 -0600
 external-url: http://infovore.org/archives/2012/02/26/a-year-of-links/
 hash: d774c3935c26ce8f274e2154ca4a8025
 year: 2012

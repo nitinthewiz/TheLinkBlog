@@ -1,6 +1,6 @@
 ---
 title: "Breeze: Private email lists for small groups"
-date: 2013-01-07 18:51:59 +0000
+date: 2013-01-07 12:51:59 -0600
 external-url: https://basecamp.com/breeze
 hash: 331db6bbc065ab5998cd60e50e5c7ed7
 year: 2013

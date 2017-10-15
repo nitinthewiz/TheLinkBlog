@@ -1,6 +1,6 @@
 ---
 title: "Introducing new open-source tools for the Elixir community | Pinterest Engineering"
-date: 2016-01-02 19:27:47 +0000
+date: 2016-01-02 13:27:47 -0600
 external-url: https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community
 hash: 09b81018fd7a0bb8d157771859281719
 year: 2016

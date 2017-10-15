@@ -1,6 +1,6 @@
 ---
 title: "Video of Apple iPhone Roadmap event is up"
-date: 2008-03-06 20:39:00 +0000
+date: 2008-03-06 14:39:00 -0600
 external-url: http://www.tuaw.com/2008/03/06/video-of-apple-iphone-roadmap-event-is-up/
 hash: b1577c1e00aa89b4e2f6f2c980c9a2d4
 year: 2008

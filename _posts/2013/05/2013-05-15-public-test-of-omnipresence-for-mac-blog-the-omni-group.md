@@ -1,6 +1,6 @@
 ---
 title: "Public test of OmniPresence for Mac - Blog - The Omni Group"
-date: 2013-05-15 17:08:22 +0000
+date: 2013-05-15 12:08:22 -0500
 external-url: http://www.omnigroup.com/blog/public-test-of-omnipresence-for-mac
 hash: 42b2a3b9817a7624e0520a91ee868fff
 year: 2013

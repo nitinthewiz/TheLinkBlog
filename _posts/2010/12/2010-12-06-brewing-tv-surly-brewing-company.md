@@ -1,6 +1,6 @@
 ---
 title: "Brewing TV: Surly Brewing Company"
-date: 2010-12-06 19:22:45 +0000
+date: 2010-12-06 13:22:45 -0600
 external-url: http://www.brewingtv.com/episodes/2010/11/17/brewing-tv-episode-25-surly-brewing-company.html
 hash: fe22d4c723b492e54b2c4290433f6108
 year: 2010

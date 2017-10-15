@@ -1,6 +1,6 @@
 ---
 title: "Say hello to Bootstrap 2.0"
-date: 2012-02-03 21:43:29 +0000
+date: 2012-02-03 15:43:29 -0600
 external-url: https://dev.twitter.com/blog/say-hello-to-bootstrap-2
 hash: f596b9b750d6ad72bcfb0c8d26accc4f
 year: 2012

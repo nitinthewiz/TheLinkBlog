@@ -1,6 +1,6 @@
 ---
 title: "Murdoch's WSJ: More News, Less Business"
-date: 2008-04-25 17:04:00 +0000
+date: 2008-04-25 12:04:00 -0500
 external-url: http://www.businessinsider.com/2008/4/murdoch-s-wsj-it-really-is-different
 hash: 9b7cd71073a4c9e0bf01d7a436ae57f2
 year: 2008

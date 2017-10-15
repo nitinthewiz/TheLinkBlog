@@ -1,6 +1,6 @@
 ---
 title: "Nate Silver's Braying Idiot Detractors Show That Being Ignorant About Politics Is Like Being Ignorant About Sports"
-date: 2012-11-05 18:41:35 +0000
+date: 2012-11-05 12:41:35 -0600
 external-url: http://updates.deadspin.com/post/34780905169/nate-silvers-braying-idiot-detractors-show-that-being
 hash: 1023b06202b287b4af173c4644002ceb
 year: 2012

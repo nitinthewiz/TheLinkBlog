@@ -1,6 +1,6 @@
 ---
 title: "My Internet"
-date: 2012-06-19 21:15:39 +0000
+date: 2012-06-19 16:15:39 -0500
 external-url: http://inaquestionmark.blogspot.com/2012/05/my-internet.html
 hash: ebfdba2010b8241a6cf6e0693fa52c60
 year: 2012

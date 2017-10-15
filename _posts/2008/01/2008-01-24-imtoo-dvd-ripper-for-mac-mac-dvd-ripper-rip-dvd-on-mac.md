@@ -1,6 +1,6 @@
 ---
 title: "ImTOO DVD Ripper for Mac - Mac DVD Ripper Rip DVD on Mac"
-date: 2008-01-24 19:36:29 +0000
+date: 2008-01-24 13:36:29 -0600
 external-url: http://www.imtoo.com/dvd-ripper-mac.html
 hash: 0dcf30360172fbc026766149c6008880
 year: 2008

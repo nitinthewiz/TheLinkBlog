@@ -1,6 +1,6 @@
 ---
 title: "Monitoring our SumoLogic Usage for Faster Issue Resolution - LogicMonitor"
-date: 2015-07-21 16:49:14 +0000
+date: 2015-07-21 11:49:14 -0500
 external-url: http://www.logicmonitor.com/blog/2015/07/21/monitoring-our-sumologic-usage-for-faster-issue-resolution/
 hash: 29bea8881da154ec98a45d5bf7aa0bbd
 year: 2015

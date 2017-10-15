@@ -1,6 +1,6 @@
 ---
 title: "Nearly half of consumers will be social shoppers by 2021"
-date: 2012-05-24 19:15:03 +0000
+date: 2012-05-24 14:15:03 -0500
 external-url: http://www.siliconrepublic.com/new-media/item/27348-nearly-half-of-consumers-wi
 hash: 1ad685bee2994989a697aa844a88b549
 year: 2012

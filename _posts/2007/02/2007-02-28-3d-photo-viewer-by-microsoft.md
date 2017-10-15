@@ -1,6 +1,6 @@
 ---
 title: "3d Photo Viewer by Microsoft"
-date: 2007-02-28 20:14:35 +0000
+date: 2007-02-28 14:14:35 -0600
 external-url: http://digg.com/microsoft/3d_Photo_Viewer_by_Microsoft
 hash: edbb4b47b25b2180cff92c4cf64e86fc
 year: 2007

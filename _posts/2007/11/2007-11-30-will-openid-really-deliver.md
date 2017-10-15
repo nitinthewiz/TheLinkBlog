@@ -1,6 +1,6 @@
 ---
 title: "Will OpenID Really Deliver?"
-date: 2007-11-30 15:30:07 +0000
+date: 2007-11-30 09:30:07 -0600
 external-url: http://www.businessweek.com/the_thread/blogspotting/archives/2007/11/will_openid_rea.html?campaign_id=rss_blog_blogspotting
 hash: 59e6469de0d5066a3b6cb0ab98529cca
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "The Top of My Todo List"
-date: 2012-04-26 05:58:42 +0000
+date: 2012-04-26 00:58:42 -0500
 external-url: http://www.paulgraham.com/todo.html
 hash: b748a771b2df99a7ff544d236f6dc762
 year: 2012

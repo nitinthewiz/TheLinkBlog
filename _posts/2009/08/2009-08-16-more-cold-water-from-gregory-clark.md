@@ -1,6 +1,6 @@
 ---
 title: "More cold water from Gregory Clark"
-date: 2009-08-16 11:45:03 +0000
+date: 2009-08-16 06:45:03 -0500
 external-url: http://blogs.law.harvard.edu/philg/2009/08/13/more-cold-water-from-gregory-clark/
 hash: d6f1b3b0e760a99b39a82dc02de512a5
 year: 2009

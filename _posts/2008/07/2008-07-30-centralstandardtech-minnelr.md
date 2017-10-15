@@ -1,6 +1,6 @@
 ---
 title: "CentralStandardTech & MinneLR"
-date: 2008-07-30 16:03:06 +0000
+date: 2008-07-30 11:03:06 -0500
 external-url: http://minnov8.com/2008/07/30/cst-mlr/
 hash: 53c41c5460372fddb62b3cbcd4cf25c8
 year: 2008

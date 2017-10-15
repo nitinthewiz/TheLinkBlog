@@ -1,6 +1,6 @@
 ---
 title: "MyWallSt.net"
-date: 2007-01-19 21:47:32 +0000
+date: 2007-01-19 15:47:32 -0600
 external-url: http://www.mywallst.net/
 hash: 7a9304e509b0d192713eefdb7e8844c4
 year: 2007

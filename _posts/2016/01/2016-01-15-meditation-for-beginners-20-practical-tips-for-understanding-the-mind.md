@@ -1,6 +1,6 @@
 ---
 title: "Meditation for Beginners: 20 Practical Tips for Understanding the Mind"
-date: 2016-01-15 20:56:18 +0000
+date: 2016-01-15 14:56:18 -0600
 external-url: http://zenhabits.net/meditation-guide/
 hash: 4c9e39e907165ee8ea0b8e574c3c957e
 year: 2016

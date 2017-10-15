@@ -1,6 +1,6 @@
 ---
 title: "I don't care how good you are at programming"
-date: 2009-06-17 12:35:53 +0000
+date: 2009-06-17 07:35:53 -0500
 external-url: https://signalvnoise.com/posts/1768-i-dont-care-how-good-you-are-at-programming
 hash: 7259886af57df284e6423726c68651fa
 year: 2009

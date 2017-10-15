@@ -1,6 +1,6 @@
 ---
 title: "PirateBox"
-date: 2011-01-28 11:33:19 +0000
+date: 2011-01-28 05:33:19 -0600
 external-url: http://wiki.daviddarts.com/PirateBox
 hash: 7de9ae3d5e3b66597c130bd357b47420
 year: 2011

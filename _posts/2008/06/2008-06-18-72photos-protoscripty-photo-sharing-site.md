@@ -1,6 +1,6 @@
 ---
 title: "72photos: ProtoScripty Photo Sharing Site"
-date: 2008-06-18 11:00:39 +0000
+date: 2008-06-18 06:00:39 -0500
 external-url: http://ajaxian.com/archives/72photos-protoscripty-photo-sharing-site
 hash: 15765dda03d6c75eb802d70b58ca3b2e
 year: 2008

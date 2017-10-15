@@ -1,6 +1,6 @@
 ---
 title: "The Five Minute Journal – Intelligent Change Inc."
-date: 2017-02-01 17:32:37 +0000
+date: 2017-02-01 11:32:37 -0600
 external-url: https://www.intelligentchange.com/products/the-five-minute-journal
 hash: eb0b628069f86ffcb934e3191de09559
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Top Emailers 2008, etc"
-date: 2009-01-03 17:27:09 +0000
+date: 2009-01-03 11:27:09 -0600
 external-url: http://ma.tt/2009/01/top-emailers-2008-etc/
 hash: 3fd40f1e778af4447b9faacddecf53b8
 year: 2009

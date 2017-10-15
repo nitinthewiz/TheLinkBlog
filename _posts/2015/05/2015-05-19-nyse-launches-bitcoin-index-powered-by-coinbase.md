@@ -1,6 +1,6 @@
 ---
 title: "NYSE Launches Bitcoin Index Powered by Coinbase"
-date: 2015-05-19 16:56:17 +0000
+date: 2015-05-19 11:56:17 -0500
 external-url: https://blog.coinbase.com/2015/05/19/nyse-creates-bitcoin-index-powered-by-coinbase/
 hash: b062226b7e43411901c7382f83e144d0
 year: 2015

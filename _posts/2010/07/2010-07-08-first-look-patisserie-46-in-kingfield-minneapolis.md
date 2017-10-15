@@ -1,6 +1,6 @@
 ---
 title: "First Look: Patisserie 46 in Kingfield, Minneapolis"
-date: 2010-07-08 05:18:01 +0000
+date: 2010-07-08 00:18:01 -0500
 external-url: http://heavytable.com/first-look-patisserie-46-in-kingfield-minneapolis/
 hash: 9fe6e4bb263c0f6045dad89899536567
 year: 2010

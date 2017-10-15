@@ -1,6 +1,6 @@
 ---
 title: "CalorieKing - Diet & Weight Loss Software for Mac OS X"
-date: 2008-02-27 19:30:11 +0000
+date: 2008-02-27 13:30:11 -0600
 external-url: http://www.calorieking.com/software/ckdietdiarymac.php
 hash: b7dc2e645fd6094715e761ea44d151be
 year: 2008

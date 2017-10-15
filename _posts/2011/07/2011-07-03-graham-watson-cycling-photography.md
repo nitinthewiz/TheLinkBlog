@@ -1,6 +1,6 @@
 ---
 title: "Graham Watson Cycling Photography"
-date: 2011-07-03 12:26:19 +0000
+date: 2011-07-03 07:26:19 -0500
 external-url: http://www.grahamwatson.com/
 hash: f77807c8b915516d24ff44a16683699a
 year: 2011

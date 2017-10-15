@@ -1,6 +1,6 @@
 ---
 title: "Twitter cans another engineer"
-date: 2008-04-24 16:40:00 +0000
+date: 2008-04-24 11:40:00 -0500
 external-url: http://gawker.com/383525/twitter-cans-another-engineer
 hash: 8e9ab1b0e7a76dde80a28b299598d1af
 year: 2008

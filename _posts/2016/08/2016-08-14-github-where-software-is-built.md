@@ -1,6 +1,6 @@
 ---
 title: "GitHub · Where software is built"
-date: 2016-08-14 11:49:52 +0000
+date: 2016-08-14 06:49:52 -0500
 external-url: https://github.com/arielf/weight-loss/blob/master/README.md
 hash: cec55a5f1f8aaf3f6c9325e0b6156d6e
 year: 2016

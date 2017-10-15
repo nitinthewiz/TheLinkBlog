@@ -1,6 +1,6 @@
 ---
 title: "Constrained Application Protocol - Wikipedia, the free encyclopedia"
-date: 2015-04-28 17:52:28 +0000
+date: 2015-04-28 12:52:28 -0500
 external-url: https://en.wikipedia.org/wiki/Constrained_Application_Protocol
 hash: 4a7d5f5c822004cccd45a137e8b0b9c7
 year: 2015

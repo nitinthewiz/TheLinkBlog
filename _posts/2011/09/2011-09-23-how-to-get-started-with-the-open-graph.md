@@ -1,6 +1,6 @@
 ---
 title: "How To: Get Started with the Open Graph"
-date: 2011-09-23 10:30:00 +0000
+date: 2011-09-23 05:30:00 -0500
 external-url: https://developers.facebook.com/blog/post/564/
 hash: 4d7ae521ae168c178986a02a4ba6e944
 year: 2011

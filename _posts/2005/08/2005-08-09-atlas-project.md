@@ -1,6 +1,6 @@
 ---
 title: "Atlas Project"
-date: 2005-08-09 12:24:33 +0000
+date: 2005-08-09 07:24:33 -0500
 external-url: http://weblogs.asp.net/scottgu/416185
 hash: e6335741289421e831893735c98e6693
 year: 2005

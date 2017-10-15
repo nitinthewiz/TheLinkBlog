@@ -1,6 +1,6 @@
 ---
 title: "The Polymorphic Bench"
-date: 2012-03-23 17:36:55 +0000
+date: 2012-03-23 12:36:55 -0500
 external-url: http://www.polymorphicyouth.com/
 hash: 8d964df89acc6f69baad42e3c7872c9f
 year: 2012

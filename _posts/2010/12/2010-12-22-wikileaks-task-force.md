@@ -1,6 +1,6 @@
 ---
 title: "Wikileaks Task Force"
-date: 2010-12-22 21:33:57 +0000
+date: 2010-12-22 15:33:57 -0600
 external-url: http://www.theguardian.com/world/2010/dec/22/cia-wikileaks-taskforce-wtf
 hash: cb9019e0ac08dca72edc8703f33055da
 year: 2010

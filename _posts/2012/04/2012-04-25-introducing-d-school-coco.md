@@ -1,6 +1,6 @@
 ---
 title: "Introducing d.school @ CoCo"
-date: 2012-04-25 19:28:37 +0000
+date: 2012-04-25 14:28:37 -0500
 external-url: http://cocomsp.com/designthinking/
 hash: 66bea13c8cf24f43ee83ebbbaf0f8f60
 year: 2012

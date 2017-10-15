@@ -1,6 +1,6 @@
 ---
 title: "Not as SPDY as You Thought"
-date: 2012-06-13 14:24:33 +0000
+date: 2012-06-13 09:24:33 -0500
 external-url: http://www.guypo.com/technical/not-as-spdy-as-you-thought/
 hash: 0e12389f6d38c0c9d0d0b975c70b653a
 year: 2012

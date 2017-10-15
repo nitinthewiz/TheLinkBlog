@@ -1,6 +1,6 @@
 ---
 title: "Facebook Takes Action, Introduces Action Links to the Open Graph"
-date: 2012-06-04 19:19:52 +0000
+date: 2012-06-04 14:19:52 -0500
 external-url: http://pando.com/2012/06/04/facebook-takes-action-introduces-action-links-to-the-open-graph/
 hash: 25330fb3849fbfefdf761def8a293cb2
 year: 2012

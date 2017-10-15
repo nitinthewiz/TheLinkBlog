@@ -1,6 +1,6 @@
 ---
 title: "You literally cannot pay me to speak without a Code of Conduct - Rachel Nabors, award-winning cartoonist turned digital storyteller."
-date: 2015-09-05 12:26:32 +0000
+date: 2015-09-05 07:26:32 -0500
 external-url: http://rachelnabors.com/2015/09/01/code-of-conduct/
 hash: 883d40f822dc0af899f270079fd6ed5c
 year: 2015

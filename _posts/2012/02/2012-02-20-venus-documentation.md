@@ -1,6 +1,6 @@
 ---
 title: "Venus Documentation"
-date: 2012-02-20 22:54:38 +0000
+date: 2012-02-20 16:54:38 -0600
 external-url: http://intertwingly.net/code/venus/docs/index.html
 hash: e7b1e864f8999e29e17d3ed9cafbe49f
 year: 2012

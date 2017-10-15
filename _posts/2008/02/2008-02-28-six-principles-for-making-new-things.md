@@ -1,6 +1,6 @@
 ---
 title: "Six Principles for Making New Things"
-date: 2008-02-28 17:10:58 +0000
+date: 2008-02-28 11:10:58 -0600
 external-url: http://simpable.com/software/six-principles/
 hash: c404ab6ba721792d4906e7d11031a32b
 year: 2008

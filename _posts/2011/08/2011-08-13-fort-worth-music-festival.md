@@ -1,6 +1,6 @@
 ---
 title: "Fort Worth Music Festival"
-date: 2011-08-13 19:59:24 +0000
+date: 2011-08-13 14:59:24 -0500
 external-url: http://www.fwfest.com/
 hash: f2b3fc30d19947509ee5d7749980c1b4
 year: 2011

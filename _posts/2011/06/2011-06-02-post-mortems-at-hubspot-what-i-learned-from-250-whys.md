@@ -2,7 +2,7 @@
 title: "
 Post-Mortems at HubSpot: What I Learned From 250 Whys
 "
-date: 2011-06-02 11:07:44 +0000
+date: 2011-06-02 06:07:44 -0500
 external-url: http://dev.hubspot.com/bid/64771/Post-Mortems-at-HubSpot-What-I-Learned-From-250-Whys
 hash: 3328610cada97a555a79f01a11fe823b
 year: 2011

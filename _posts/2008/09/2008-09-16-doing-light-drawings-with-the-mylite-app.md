@@ -1,6 +1,6 @@
 ---
 title: "Doing Light Drawings With the myLite App"
-date: 2008-09-16 19:09:32 +0000
+date: 2008-09-16 14:09:32 -0500
 external-url: http://www.doapps.com/index.html
 hash: 61c250f8566645603e235fe30c99e74a
 year: 2008

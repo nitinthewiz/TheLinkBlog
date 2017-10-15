@@ -1,6 +1,6 @@
 ---
 title: "NGINX + PHP-FPM + APC = Awesome"
-date: 2010-12-17 16:14:06 +0000
+date: 2010-12-17 10:14:06 -0600
 external-url: http://interfacelab.com/nginx-php-fpm-apc-awesome/
 hash: 7ecd5126796b302a953af3826811dced
 year: 2010

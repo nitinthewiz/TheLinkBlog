@@ -1,6 +1,6 @@
 ---
 title: "Rove: don't Hussein Obama"
-date: 2008-02-27 18:50:49 +0000
+date: 2008-02-27 12:50:49 -0600
 external-url: http://www.dailykos.com/story/2008/02/27/465114/-Rove-don-t-Hussein-Obama
 hash: e41f3cabd390ed22426d2150548c6686
 year: 2008

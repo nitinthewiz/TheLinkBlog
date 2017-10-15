@@ -1,6 +1,6 @@
 ---
 title: "Canon WFT-E3A wireless file transmitter accessory review Cameralabs video"
-date: 2008-07-15 15:13:36 +0000
+date: 2008-07-15 10:13:36 -0500
 external-url: http://www.cameralabs.com/reviews/Canon_WFT_E3A/video_review.shtml
 hash: 43eea0578dd549c3199b231202bc0037
 year: 2008

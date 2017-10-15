@@ -1,6 +1,6 @@
 ---
 title: "Cowboys and Pit Crews"
-date: 2011-05-31 05:20:45 +0000
+date: 2011-05-31 00:20:45 -0500
 external-url: http://www.newyorker.com/news/news-desk/cowboys-and-pit-crews
 hash: 034e036c6375dce31e55dbd6c916d14f
 year: 2011

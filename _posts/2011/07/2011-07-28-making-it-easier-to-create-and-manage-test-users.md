@@ -1,6 +1,6 @@
 ---
 title: "Making it easier to create and manage Test Users"
-date: 2011-07-28 11:41:24 +0000
+date: 2011-07-28 06:41:24 -0500
 external-url: https://developers.facebook.com/blog/post/527/
 hash: d1a1089b85ddd8f105e3a414f2b67785
 year: 2011

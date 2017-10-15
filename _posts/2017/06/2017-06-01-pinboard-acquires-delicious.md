@@ -1,6 +1,6 @@
 ---
 title: "Pinboard Acquires Delicious"
-date: 2017-06-01 23:11:35 +0000
+date: 2017-06-01 18:11:35 -0500
 external-url: https://blog.pinboard.in/2017/06/pinboard_acquires_delicious/
 hash: 383f5c2a0501d723ac0da73c70fcdef4
 year: 2017

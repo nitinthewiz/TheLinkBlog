@@ -1,6 +1,6 @@
 ---
 title: "Replay it: Google search across the Twitter archive"
-date: 2010-04-14 15:10:19 +0000
+date: 2010-04-14 10:10:19 -0500
 external-url: http://googleblog.blogspot.com/2010/04/replay-it-google-search-across-twitter.html
 hash: 01d0d1d54110c10482a31da100908919
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "siftrss | Filter your RSS feeds and throw away the junk"
-date: 2017-08-28 23:39:39 +0000
+date: 2017-08-28 18:39:39 -0500
 external-url: https://siftrss.com/
 hash: 3b06aa24933a3212a28aa8224b11b1c8
 year: 2017

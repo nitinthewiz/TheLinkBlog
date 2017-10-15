@@ -1,6 +1,6 @@
 ---
 title: "PhantomJS: Headless WebKit with JavaScript API"
-date: 2012-06-27 12:25:26 +0000
+date: 2012-06-27 07:25:26 -0500
 external-url: http://phantomjs.org/
 hash: ea89378a5f448f52b8d7bdcfd6909022
 year: 2012

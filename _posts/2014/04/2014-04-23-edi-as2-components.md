@@ -1,6 +1,6 @@
 ---
 title: "EDI/AS2 Components"
-date: 2014-04-23 20:40:39 +0000
+date: 2014-04-23 15:40:39 -0500
 external-url: http://www.nsoftware.com/ibiz/edi/
 hash: 93845a0a4d73749ca5f5c1abbb3e28f5
 year: 2014

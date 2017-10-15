@@ -1,6 +1,6 @@
 ---
 title: "Caffeine control"
-date: 2008-04-12 22:00:00 +0000
+date: 2008-04-12 17:00:00 -0500
 external-url: http://www.tuaw.com/2008/04/12/caffeine-control/
 hash: df7192fbe0f2b6cb57513f3cba28e8d8
 year: 2008

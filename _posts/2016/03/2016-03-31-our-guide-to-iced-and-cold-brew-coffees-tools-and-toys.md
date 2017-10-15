@@ -1,6 +1,6 @@
 ---
 title: "Our Guide to Iced and Cold Brew Coffees — Tools and Toys"
-date: 2016-03-31 11:13:53 +0000
+date: 2016-03-31 06:13:53 -0500
 external-url: http://toolsandtoys.net/guides/our-guide-to-iced-and-cold-brew-coffees/
 hash: c63712fe9fd4648d1dfc8a465a8892b5
 year: 2016

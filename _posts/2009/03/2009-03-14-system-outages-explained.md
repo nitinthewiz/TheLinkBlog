@@ -1,6 +1,6 @@
 ---
 title: "System Outages Explained"
-date: 2009-03-14 05:40:12 +0000
+date: 2009-03-14 00:40:12 -0500
 external-url: https://uto.asu.edu/node/2847
 hash: d2b008d713f4c2df915fd190bb890cb6
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "LivingHomes Tour"
-date: 2007-04-16 19:25:12 +0000
+date: 2007-04-16 14:25:12 -0500
 external-url: http://www.livinghomes.net/tour.html
 hash: bb51c1d72d7db8cd104319c34eeca4dc
 year: 2007

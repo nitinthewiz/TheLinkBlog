@@ -1,6 +1,6 @@
 ---
 title: "Intercultural Development Inventory"
-date: 2017-04-26 20:29:11 +0000
+date: 2017-04-26 15:29:11 -0500
 external-url: https://idiinventory.com/
 hash: 9315b9e331f67acf86c8ec4dba6a1128
 year: 2017

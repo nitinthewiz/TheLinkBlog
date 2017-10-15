@@ -1,6 +1,6 @@
 ---
 title: "nginx – conversion complete"
-date: 2013-10-13 17:01:56 +0000
+date: 2013-10-13 12:01:56 -0500
 external-url: https://www.geekandi.com/2013/10/13/nginx-conversion-complete/
 hash: c98be74b2c21e37214acb5a93f8a982c
 year: 2013

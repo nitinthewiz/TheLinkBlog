@@ -1,6 +1,6 @@
 ---
 title: "Dumbo Wiki"
-date: 2012-11-28 20:39:56 +0000
+date: 2012-11-28 14:39:56 -0600
 external-url: https://github.com/klbostee/dumbo/wiki
 hash: 2b12fcbb59806ed6725f4661079b06f6
 year: 2012

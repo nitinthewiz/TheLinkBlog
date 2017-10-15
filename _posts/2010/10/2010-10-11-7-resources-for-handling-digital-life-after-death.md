@@ -1,6 +1,6 @@
 ---
 title: "7 Resources for Handling Digital Life After Death"
-date: 2010-10-11 21:02:48 +0000
+date: 2010-10-11 16:02:48 -0500
 external-url: http://mashable.com/2010/10/11/social-media-after-death/
 hash: 18514de5c2376cd93beb75d64b4873b4
 year: 2010

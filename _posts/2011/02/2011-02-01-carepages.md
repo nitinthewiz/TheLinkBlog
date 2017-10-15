@@ -1,6 +1,6 @@
 ---
 title: "CarePages"
-date: 2011-02-01 19:57:25 +0000
+date: 2011-02-01 13:57:25 -0600
 external-url: https://www.carepages.com/
 hash: 0f0ea88323da9d006406b5ca6f23be85
 year: 2011

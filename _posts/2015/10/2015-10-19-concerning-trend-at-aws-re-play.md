@@ -1,6 +1,6 @@
 ---
 title: "Concerning Trend at AWS re:Play"
-date: 2015-10-19 12:57:22 +0000
+date: 2015-10-19 07:57:22 -0500
 external-url: http://mjknox.com/women-in-tech/re:invent/2015/10/09/re:Play-Horroshow.html
 hash: 99d5c2adeba8c45e9e0f22d39660af9e
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "JustVector Social Icons 1.0"
-date: 2011-03-28 21:05:57 +0000
+date: 2011-03-28 16:05:57 -0500
 external-url: http://alexpeattie.com/projects/justvector_icons/
 hash: 74685995f39690d742cea4532f5e88c7
 year: 2011

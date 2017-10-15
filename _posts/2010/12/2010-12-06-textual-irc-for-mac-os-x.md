@@ -1,6 +1,6 @@
 ---
 title: "Textual: IRC for Mac OS X"
-date: 2010-12-06 19:04:05 +0000
+date: 2010-12-06 13:04:05 -0600
 external-url: http://www.codeux.com/textual/
 hash: a78cdb0825cc046c2bd4063dbca270ae
 year: 2010

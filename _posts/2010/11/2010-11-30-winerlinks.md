@@ -1,6 +1,6 @@
 ---
 title: "WinerLinks"
-date: 2010-11-30 16:11:48 +0000
+date: 2010-11-30 10:11:48 -0600
 external-url: http://wordpress.org/extend/plugins/winerlinks/
 hash: f93d31519407e73e07c4aeb1be1badaa
 year: 2010

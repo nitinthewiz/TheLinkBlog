@@ -1,6 +1,6 @@
 ---
 title: "Actions, not words, reveal our real values | Derek Sivers"
-date: 2017-06-18 15:06:21 +0000
+date: 2017-06-18 10:06:21 -0500
 external-url: https://sivers.org/arv
 hash: ff7955708f02537d165519dd34e70c6d
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "ExpanDrive - Bring your remote files closer to home."
-date: 2008-03-25 20:41:50 +0000
+date: 2008-03-25 15:41:50 -0500
 external-url: http://www.magnetk.com/expandrive
 hash: 038f508a7562ddbe56e1817db8da02c3
 year: 2008

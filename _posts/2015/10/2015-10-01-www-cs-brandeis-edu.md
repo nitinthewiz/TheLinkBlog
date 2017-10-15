@@ -1,6 +1,6 @@
 ---
 title: "www.cs.brandeis.edu"
-date: 2015-10-01 09:39:36 +0000
+date: 2015-10-01 04:39:36 -0500
 external-url: http://www.cs.brandeis.edu/~cs146a/handouts/papers/simon-complexity.pdf
 hash: 2ea579e1e07f0dfd5666353df52b84d1
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "iPhone 6s Camera Review: Switzerland"
-date: 2015-11-05 22:12:40 +0000
+date: 2015-11-05 16:12:40 -0600
 external-url: http://austinmann.com/trek/iphone-6s-camera-review-switzerland
 hash: dc124ccb7ad6224b9fc5a344fb45afce
 year: 2015

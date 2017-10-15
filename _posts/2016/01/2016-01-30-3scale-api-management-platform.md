@@ -1,6 +1,6 @@
 ---
 title: "3scale API Management Platform"
-date: 2016-01-30 19:40:30 +0000
+date: 2016-01-30 13:40:30 -0600
 external-url: http://www.3scale.net/
 hash: 5066c5c5657a4a55564e94f709ffe780
 year: 2016

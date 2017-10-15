@@ -1,6 +1,6 @@
 ---
 title: "Zen and the Art of Motorcycle Maintenance: An Inquiry into Values"
-date: 2012-01-06 19:26:26 +0000
+date: 2012-01-06 13:26:26 -0600
 external-url: http://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469
 hash: d4f3fa5ebc0b8d9a5581db678b7d6cb9
 year: 2012

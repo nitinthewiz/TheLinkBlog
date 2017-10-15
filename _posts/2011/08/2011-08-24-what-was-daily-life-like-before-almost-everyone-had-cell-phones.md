@@ -1,6 +1,6 @@
 ---
 title: "What was daily life like before almost everyone had cell phones?"
-date: 2011-08-24 13:29:56 +0000
+date: 2011-08-24 08:29:56 -0500
 external-url: http://www.quora.com/Mobile-Phones/What-was-daily-life-like-before-almost-everyone-had-cell-phones
 hash: 3d925275085c5e93b1c8fc8f67952597
 year: 2011

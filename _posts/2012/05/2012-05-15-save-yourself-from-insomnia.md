@@ -1,6 +1,6 @@
 ---
 title: "Save Yourself from Insomnia!"
-date: 2012-05-15 05:10:54 +0000
+date: 2012-05-15 00:10:54 -0500
 external-url: http://saveyourself.ca/articles/insomnia.php
 hash: 18212f602149a7815b9897a2b971e00b
 year: 2012

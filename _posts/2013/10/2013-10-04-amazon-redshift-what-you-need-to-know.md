@@ -1,6 +1,6 @@
 ---
 title: "Amazon Redshift - What You Need To Know"
-date: 2013-10-04 21:21:27 +0000
+date: 2013-10-04 16:21:27 -0500
 external-url: http://dailytechnology.net/2013/08/03/redshift-what-you-need-to-know/
 hash: d123b0ba1e3f95c36910ebbe301586b6
 year: 2013

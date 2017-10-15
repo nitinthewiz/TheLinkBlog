@@ -1,6 +1,6 @@
 ---
 title: "An alternate universe Marco.org"
-date: 2012-10-27 12:02:58 +0000
+date: 2012-10-27 07:02:58 -0500
 external-url: http://www.marco.org/2012/10/26/an-alternate-universe
 hash: 2050842a216b79b954fcb2cee88cf16a
 year: 2012

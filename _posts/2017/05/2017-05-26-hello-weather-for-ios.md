@@ -1,6 +1,6 @@
 ---
 title: "“Hello Weather” for iOS"
-date: 2017-05-26 19:47:54 +0000
+date: 2017-05-26 14:47:54 -0500
 external-url: http://toolsandtoys.net/hello-weather-for-ios/
 hash: 6aa2267f255987054eef5ee342bcab93
 year: 2017

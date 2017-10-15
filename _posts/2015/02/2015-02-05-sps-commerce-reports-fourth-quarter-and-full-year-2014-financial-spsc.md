@@ -1,6 +1,6 @@
 ---
 title: "SPS Commerce Reports Fourth Quarter and Full Year 2014 Financial Results (NASDAQ:SPSC)"
-date: 2015-02-05 22:03:06 +0000
+date: 2015-02-05 16:03:06 -0600
 external-url: http://investors.spscommerce.com/releasedetail.cfm?ReleaseID=895068
 hash: 7fc39c0c354402a4959e435ca5e1cca7
 year: 2015

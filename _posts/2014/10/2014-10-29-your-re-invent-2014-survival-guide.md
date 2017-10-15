@@ -1,6 +1,6 @@
 ---
 title: "Your re:Invent 2014 Survival Guide"
-date: 2014-10-29 10:46:43 +0000
+date: 2014-10-29 05:46:43 -0500
 external-url: http://blog.cloudability.com/reinvent-2014-survival-guide/
 hash: 667f7253ba789f9ee849291a138e6630
 year: 2014

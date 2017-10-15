@@ -1,6 +1,6 @@
 ---
 title: "Poetic Table of the Elements: A Periodic Table of Poetry"
-date: 2008-02-09 12:06:12 +0000
+date: 2008-02-09 06:06:12 -0600
 external-url: http://www.everypoet.com/absurdities/elements/
 hash: d3f942b572b72bb238de57fe85e73bd2
 year: 2008

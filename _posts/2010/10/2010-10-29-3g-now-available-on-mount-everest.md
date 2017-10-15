@@ -1,6 +1,6 @@
 ---
 title: "3G now available on Mount Everest"
-date: 2010-10-29 23:00:00 +0000
+date: 2010-10-29 18:00:00 -0500
 external-url: http://www.tuaw.com/2010/10/29/3g-now-available-on-mount-everest/
 hash: edb451d967fbaed57b3f814540f53f47
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Lockdown Marco.org"
-date: 2013-07-03 12:24:24 +0000
+date: 2013-07-03 07:24:24 -0500
 external-url: http://www.marco.org/2013/07/03/lockdown
 hash: 27c1daf4fc71c09f375be215c4563c8d
 year: 2013

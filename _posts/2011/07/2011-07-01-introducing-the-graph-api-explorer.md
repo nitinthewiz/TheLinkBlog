@@ -1,11 +1,11 @@
 ---
 title: "Introducing the Graph API Explorer"
-date: 2011-07-01 23:19:30 +0000
-external-url: http://developers.facebook.com/blog/post/517/
-hash: 0347e60649b5c64d2b70b1e42358b191
+date: 2011-07-01 19:19:30 -0500
+external-url: https://developers.facebook.com/blog/post/517/
+hash: a0156635ebfe56e3291a23a033d9edbb
 year: 2011
 month: 07
-scheme: http
+scheme: https
 host: developers.facebook.com
 path: /blog/post/517/
 

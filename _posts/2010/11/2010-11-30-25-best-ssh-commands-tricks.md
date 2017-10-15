@@ -1,6 +1,6 @@
 ---
 title: "25 Best SSH Commands / Tricks"
-date: 2010-11-30 13:33:35 +0000
+date: 2010-11-30 07:33:35 -0600
 external-url: http://blog.urfix.com/25-ssh-commands-tricks/
 hash: d140c006b5c4bba633bc1f0cf2f1be91
 year: 2010

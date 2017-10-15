@@ -1,6 +1,6 @@
 ---
 title: "CaringBridge News Releases."
-date: 2011-01-26 21:21:06 +0000
+date: 2011-01-26 15:21:06 -0600
 external-url: http://www.caringbridge.org/newsrelease
 hash: cb8bf31b73014fcd1aa97bccd11544ad
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Graphite - Enterprise Scalable Realtime Graphing - Graphite"
-date: 2011-03-23 11:21:29 +0000
+date: 2011-03-23 06:21:29 -0500
 external-url: http://graphite.wikidot.com/
 hash: 1326980a23ae8d7ee1e2b7e1b435569c
 year: 2011

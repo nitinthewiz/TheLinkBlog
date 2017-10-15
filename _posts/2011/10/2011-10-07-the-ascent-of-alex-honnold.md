@@ -1,6 +1,6 @@
 ---
 title: "The ascent of Alex Honnold"
-date: 2011-10-07 19:20:14 +0000
+date: 2011-10-07 14:20:14 -0500
 external-url: http://www.cbsnews.com/video/watch/?id=7383158n&tag=contentBody%3BstoryMediaBox
 hash: 31d4ea8cb1c4771be90c6eefee41b86c
 year: 2011

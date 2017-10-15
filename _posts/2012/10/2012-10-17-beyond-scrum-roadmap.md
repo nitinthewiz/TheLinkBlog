@@ -1,6 +1,6 @@
 ---
 title: "Beyond Scrum Roadmap"
-date: 2012-10-17 17:29:56 +0000
+date: 2012-10-17 12:29:56 -0500
 external-url: http://blog.assembla.com/assemblablog/tabid/12618/bid/90729/Beyond-Scrum-Roadmap.aspx
 hash: 82ab59d160a1c38ddbd0533f7db59c04
 year: 2012

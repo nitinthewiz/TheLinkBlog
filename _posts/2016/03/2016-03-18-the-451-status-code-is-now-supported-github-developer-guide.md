@@ -1,6 +1,6 @@
 ---
 title: "The 451 status code is now supported | GitHub Developer Guide"
-date: 2016-03-18 23:56:06 +0000
+date: 2016-03-18 18:56:06 -0500
 external-url: https://developer.github.com/changes/2016-03-17-the-451-status-code-is-now-supported/
 hash: dfd8ad4ca7d7baee33885f68aee3463d
 year: 2016

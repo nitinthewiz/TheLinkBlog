@@ -1,6 +1,6 @@
 ---
 title: "'Distracted walking' puts pedestrians in peril - StarTribune.com"
-date: 2015-12-19 15:25:14 +0000
+date: 2015-12-19 09:25:14 -0600
 external-url: http://www.startribune.com/distraction-is-putting-pedestrians-in-peril/363021741/
 hash: 2ccb4048552a2bae712e5a055d9db8b2
 year: 2015

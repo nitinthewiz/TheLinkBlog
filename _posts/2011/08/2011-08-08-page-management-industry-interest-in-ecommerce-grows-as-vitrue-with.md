@@ -1,6 +1,6 @@
 ---
 title: "Page Management Industry Interest in Ecommerce Grows as Vitrue Partners with Milyoni"
-date: 2011-08-08 15:05:49 +0000
+date: 2011-08-08 10:05:49 -0500
 external-url: http://www.insidefacebook.com/2011/08/02/vitrue-milyoni/
 hash: 0271fd065bfef06764a014bf44a4c5ee
 year: 2011

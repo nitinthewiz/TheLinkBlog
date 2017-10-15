@@ -1,6 +1,6 @@
 ---
 title: "An Open Web: 10 Things You Can Do Now"
-date: 2012-02-16 21:38:48 +0000
+date: 2012-02-16 15:38:48 -0600
 external-url: http://en.flossmanuals.net/an-open-web/distribution-how-to/
 hash: a7cb71acbc0fee9a9fe95a83bcdf97b3
 year: 2012

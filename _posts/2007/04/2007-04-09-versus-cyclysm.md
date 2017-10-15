@@ -1,6 +1,6 @@
 ---
 title: "Versus - Cyclysm"
-date: 2007-04-09 20:22:00 +0000
+date: 2007-04-09 15:22:00 -0500
 external-url: http://www.versus.com/cyclysm/
 hash: fc38137f0d1e441ef4f6470c468fd85c
 year: 2007

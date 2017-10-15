@@ -1,6 +1,6 @@
 ---
 title: "HBO coming to iPad in 6 months"
-date: 2010-08-20 16:54:03 +0000
+date: 2010-08-20 11:54:03 -0500
 external-url: http://9to5mac.com/2010/08/17/hbo-coming-to-ipad-in-6-months/
 hash: 1889bf64c394e30f20731a4e7d5ca86f
 year: 2010

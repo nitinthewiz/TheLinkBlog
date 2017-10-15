@@ -1,6 +1,6 @@
 ---
 title: "What I Think About Atlas Shrugged"
-date: 2010-10-01 21:19:39 +0000
+date: 2010-10-01 16:19:39 -0500
 external-url: http://whatever.scalzi.com/2010/10/01/what-i-think-about-atlas-shrugged/
 hash: a2f15c8067256dee29712a6ea83aa188
 year: 2010

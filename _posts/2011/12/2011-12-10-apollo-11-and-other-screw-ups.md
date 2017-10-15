@@ -1,6 +1,6 @@
 ---
 title: "Apollo 11 and Other Screw-Ups"
-date: 2011-12-10 06:07:59 +0000
+date: 2011-12-10 00:07:59 -0600
 external-url: http://www.doneyles.com/LM/Tales.html
 hash: 224c2ecdb7dd0e3d6c3d132795217d83
 year: 2011

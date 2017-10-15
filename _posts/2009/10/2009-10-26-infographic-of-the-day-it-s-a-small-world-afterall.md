@@ -1,6 +1,6 @@
 ---
 title: "Infographic of the Day: It's a Small World, Afterall"
-date: 2009-10-26 05:18:33 +0000
+date: 2009-10-26 00:18:33 -0500
 external-url: http://www.fastcompany.com/1419125/infographic-day-its-small-world-afterall
 hash: 2761f5daedafa604e70644dec8754e65
 year: 2009

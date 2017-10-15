@@ -1,6 +1,6 @@
 ---
 title: "Citi Field"
-date: 2009-04-18 11:36:46 +0000
+date: 2009-04-18 06:36:46 -0500
 external-url: http://scripting.com/stories/2009/04/18/citiField.html
 hash: b4665230ccae7a148fc9de028f374ba5
 year: 2009

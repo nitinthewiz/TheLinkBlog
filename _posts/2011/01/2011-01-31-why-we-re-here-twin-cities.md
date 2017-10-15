@@ -1,6 +1,6 @@
 ---
 title: "Why We're Here: Twin Cities"
-date: 2011-01-31 19:36:47 +0000
+date: 2011-01-31 13:36:47 -0600
 external-url: http://vimeo.com/19115634
 hash: 383bece8285e27e87e4f87f82929aa90
 year: 2011

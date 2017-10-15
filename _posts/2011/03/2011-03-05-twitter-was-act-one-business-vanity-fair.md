@@ -1,6 +1,6 @@
 ---
 title: "Twitter Was Act One | Business | Vanity Fair"
-date: 2011-03-05 06:39:09 +0000
+date: 2011-03-05 00:39:09 -0600
 external-url: http://m.vanityfair.com/business/features/2011/04/jack-dorsey-201104?printable=true
 hash: adc27b06a82d30ac28c628d498edf56d
 year: 2011

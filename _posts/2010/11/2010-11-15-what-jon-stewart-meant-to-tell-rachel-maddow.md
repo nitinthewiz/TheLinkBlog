@@ -1,6 +1,6 @@
 ---
 title: "What Jon Stewart Meant to Tell Rachel Maddow"
-date: 2010-11-15 18:09:12 +0000
+date: 2010-11-15 12:09:12 -0600
 external-url: http://pressthink.org/2010/11/what-jon-stewart-meant-to-tell-rachel-maddow/
 hash: a2a6b16e83bccb753281db3f8f649eb5
 year: 2010

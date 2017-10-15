@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Social Graphs for Businesses"
-date: 2015-02-03 16:07:49 +0000
+date: 2015-02-03 10:07:49 -0600
 external-url: https://hbr.org/2015/02/the-rise-of-social-graphs-for-businesses
 hash: 3290c59c47a28ce681f88a583d8aa82a
 year: 2015

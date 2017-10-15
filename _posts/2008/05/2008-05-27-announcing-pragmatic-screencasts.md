@@ -1,6 +1,6 @@
 ---
 title: "Announcing Pragmatic Screencasts"
-date: 2008-05-27 17:45:00 +0000
+date: 2008-05-27 12:45:00 -0500
 external-url: http://www.clarkware.com/blog/2008/05/27/announcing-pragmatic-screencasts
 hash: beba0d250e13aeacbf560eec7cf62ae6
 year: 2008

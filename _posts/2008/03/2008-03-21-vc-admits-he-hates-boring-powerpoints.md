@@ -1,6 +1,6 @@
 ---
 title: "VC admits he hates boring PowerPoints"
-date: 2008-03-21 06:41:21 +0000
+date: 2008-03-21 01:41:21 -0500
 external-url: http://scobleizer.com/?p=4156
 hash: 85a88601ae9e5e5e608d711c83cbf107
 year: 2008

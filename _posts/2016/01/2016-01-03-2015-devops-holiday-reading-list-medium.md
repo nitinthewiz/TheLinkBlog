@@ -1,6 +1,6 @@
 ---
 title: "2015 DevOps Holiday Reading List — Medium"
-date: 2016-01-03 14:15:32 +0000
+date: 2016-01-03 08:15:32 -0600
 external-url: https://medium.com/@millard3/2015-devops-holiday-reading-list-30c36ee260d3#.5fjpiwu19
 hash: 0849e707d08839cac60d572de0f23f36
 year: 2016

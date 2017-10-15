@@ -1,6 +1,6 @@
 ---
 title: "Calendar cross-publishing concepts « Jon Udell"
-date: 2007-03-10 07:13:34 +0000
+date: 2007-03-10 01:13:34 -0600
 external-url: http://blog.jonudell.net/2007/01/31/calendar-cross-publishing-concepts/
 hash: 50976f5db3cb756361804aed608770f8
 year: 2007

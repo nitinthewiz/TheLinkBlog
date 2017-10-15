@@ -1,6 +1,6 @@
 ---
 title: "Factiva Downplays FT Subscription Fee; Impact From A Free WSJ.com Is Uncertain"
-date: 2007-12-20 22:03:29 +0000
+date: 2007-12-20 16:03:29 -0600
 external-url: http://gigaom.com/2007/12/19/419-to-get-the-full-ftcom-factiva-users-must-decide-on-a-second-subscriptio/
 hash: 87c95d0ccebf9895d85dcd2003163ea8
 year: 2007

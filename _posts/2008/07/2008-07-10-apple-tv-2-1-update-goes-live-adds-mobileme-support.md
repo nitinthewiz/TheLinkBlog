@@ -1,6 +1,6 @@
 ---
 title: "Apple TV 2.1 update goes live, adds MobileMe support"
-date: 2008-07-10 14:30:00 +0000
+date: 2008-07-10 09:30:00 -0500
 external-url: http://www.tuaw.com/2008/07/10/apple-tv-2-1-update-goes-live-adds-mobileme-support/
 hash: c0d7af65bd165781f78a995a65c4bf7d
 year: 2008

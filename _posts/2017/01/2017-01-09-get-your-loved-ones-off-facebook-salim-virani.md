@@ -1,6 +1,6 @@
 ---
 title: "Get your loved ones off Facebook. - Salim Virani"
-date: 2017-01-09 20:54:58 +0000
+date: 2017-01-09 14:54:58 -0600
 external-url: http://www.salimvirani.com/facebook/
 hash: 8bb6a2816bdebecfa7ba587fd143adb2
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Vanity Spreads to Top-Level Domain Names"
-date: 2008-06-26 17:08:28 +0000
+date: 2008-06-26 12:08:28 -0500
 external-url: http://db.tidbits.com/article/9669
 hash: 703b1c3be7178a75f459f8a5da444cdd
 year: 2008

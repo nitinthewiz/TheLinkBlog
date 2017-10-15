@@ -1,6 +1,6 @@
 ---
 title: "Cacti: The Complete RRDTool-based Graphing Solution"
-date: 2009-04-11 14:52:29 +0000
+date: 2009-04-11 09:52:29 -0500
 external-url: http://www.cacti.net/
 hash: f83384515cac79fee8298bfbf23e651f
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "Approach - Holistic Productivity"
-date: 2017-01-28 12:26:01 +0000
+date: 2017-01-28 06:26:01 -0600
 external-url: https://holisticproductivity.net/approach/
 hash: f74ee86cf39e787772c9788aad5a82b7
 year: 2017

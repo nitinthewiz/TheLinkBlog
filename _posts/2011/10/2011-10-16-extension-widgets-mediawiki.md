@@ -1,6 +1,6 @@
 ---
 title: "Extension:Widgets - MediaWiki"
-date: 2011-10-16 12:56:29 +0000
+date: 2011-10-16 07:56:29 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Widgets
 hash: 263f2cfa438d53d0b27c3e5de7244b48
 year: 2011

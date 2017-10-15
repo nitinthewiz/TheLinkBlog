@@ -1,6 +1,6 @@
 ---
 title: "Digital cathedrals"
-date: 2012-10-19 16:51:21 +0000
+date: 2012-10-19 11:51:21 -0500
 external-url: http://blog.wikimedia.org/2012/10/19/digital-cathedrals/
 hash: 00eaf8ab82f04165394230d02ba90060
 year: 2012

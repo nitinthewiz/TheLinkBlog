@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness is for mere mortals…"
-date: 2015-12-31 14:50:53 +0000
+date: 2015-12-31 08:50:53 -0600
 external-url: http://patrickrhone.com/2015/12/30/mindfulness-is-for-mere-mortals/
 hash: 78fe51bd29423b0466d477b45d357ab0
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Lessig: Copyright isn't just hurting creativity: it's killing science Motherboard"
-date: 2011-04-28 23:10:32 +0000
+date: 2011-04-28 18:10:32 -0500
 external-url: http://motherboard.vice.com/2011/4/25/lessig-copyright-isn-t-just-hurting-creativity-it-s-killing-science-video--2
 hash: 02b2ae151cc3f2b1746a2f3002673faa
 year: 2011

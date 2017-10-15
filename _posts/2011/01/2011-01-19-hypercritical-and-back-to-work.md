@@ -1,6 +1,6 @@
 ---
 title: "Hypercritical and Back to Work"
-date: 2011-01-19 21:09:11 +0000
+date: 2011-01-19 15:09:11 -0600
 external-url: http://5by5.tv/hypercritical
 hash: e2fbb6f40229c5dc3043bd4cf782ddea
 year: 2011

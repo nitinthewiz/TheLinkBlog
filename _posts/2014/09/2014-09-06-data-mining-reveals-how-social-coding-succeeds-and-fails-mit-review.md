@@ -1,6 +1,6 @@
 ---
 title: "Data Mining Reveals How Social Coding Succeeds (And Fails) - MIT Technology Review"
-date: 2014-09-06 16:44:56 +0000
+date: 2014-09-06 11:44:56 -0500
 external-url: http://www.technologyreview.com/view/530511/data-mining-reveals-how-social-coding-succeeds-and-fails/
 hash: 587db41b798dba401350c56811ed2d9b
 year: 2014

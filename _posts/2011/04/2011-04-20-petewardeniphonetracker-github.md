@@ -1,6 +1,6 @@
 ---
 title: "PetewardeniPhoneTracker @ GitHub"
-date: 2011-04-20 18:38:28 +0000
+date: 2011-04-20 13:38:28 -0500
 external-url: http://petewarden.github.io/iPhoneTracker/
 hash: 6c10b094eb532d86ae019f8eb7eeab00
 year: 2011

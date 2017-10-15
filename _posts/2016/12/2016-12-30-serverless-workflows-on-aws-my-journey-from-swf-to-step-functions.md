@@ -1,6 +1,6 @@
 ---
 title: "Serverless Workflows on AWS: My Journey From SWF to Step Functions – Forrest Brazeal"
-date: 2016-12-30 20:03:11 +0000
+date: 2016-12-30 14:03:11 -0600
 external-url: https://forrestbrazeal.com/2016/12/29/serverless-workflows-on-aws-my-journey-from-swf-to-step-functions/
 hash: cef325d5ce7640735975a1789dde3101
 year: 2016

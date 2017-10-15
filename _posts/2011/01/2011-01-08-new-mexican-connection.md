@@ -1,6 +1,6 @@
 ---
 title: "New Mexican Connection"
-date: 2011-01-08 15:48:22 +0000
+date: 2011-01-08 09:48:22 -0600
 external-url: http://www.newmexicanconnection.com/
 hash: 1de62ac8cb20c41f2e5183c69e62b1fa
 year: 2011

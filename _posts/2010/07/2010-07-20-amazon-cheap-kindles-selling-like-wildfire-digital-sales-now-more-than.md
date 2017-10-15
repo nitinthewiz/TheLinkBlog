@@ -1,6 +1,6 @@
 ---
 title: "Amazon: Cheap Kindles selling like wildfire, digital sales now more than paper"
-date: 2010-07-20 05:26:09 +0000
+date: 2010-07-20 00:26:09 -0500
 external-url: http://9to5mac.com/2010/07/19/amazon-cheap-kindles-selling-like-wildfire-digital-sales-now-more-than-paper/
 hash: 5189bc9aa5ff686d8934770286c24a2c
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Google Maps Adds Biking Directions"
-date: 2010-03-10 06:12:44 +0000
+date: 2010-03-10 00:12:44 -0600
 external-url: http://gigaom.com/2010/03/09/google-maps-adds-biking-directions/
 hash: 9285a4018cd5afc94f90f78ea3b7e9fa
 year: 2010

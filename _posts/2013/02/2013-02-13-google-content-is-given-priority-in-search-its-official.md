@@ -1,6 +1,6 @@
 ---
 title: "Google+ content is given priority in search its official"
-date: 2013-02-13 20:31:52 +0000
+date: 2013-02-13 14:31:52 -0600
 external-url: http://blog.dlvr.it/2013/02/google-content-is-given-priority-in-search-its-official/
 hash: c83a4509b31329ef61be62b6774f99fa
 year: 2013

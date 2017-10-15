@@ -1,6 +1,6 @@
 ---
 title: "Mac OS X x86 for Everyone"
-date: 2005-08-11 22:56:38 +0000
+date: 2005-08-11 17:56:38 -0500
 external-url: http://www.hardmac.com/news/2005/08/10
 hash: bcfd86f981a6b322b7eb7434ddada6e0
 year: 2005

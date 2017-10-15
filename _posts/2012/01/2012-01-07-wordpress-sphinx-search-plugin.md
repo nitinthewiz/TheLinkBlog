@@ -1,6 +1,6 @@
 ---
 title: "WordPress Sphinx Search Plugin"
-date: 2012-01-07 11:50:25 +0000
+date: 2012-01-07 05:50:25 -0600
 external-url: http://wordpress.org/extend/plugins/wordpress-sphinx-plugin/
 hash: a97320a7fcd19d7d0b2308c58d2f1832
 year: 2012

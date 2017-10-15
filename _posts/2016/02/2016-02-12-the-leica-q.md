@@ -1,6 +1,6 @@
 ---
 title: "The Leica Q"
-date: 2016-02-12 18:00:06 +0000
+date: 2016-02-12 12:00:06 -0600
 external-url: http://craigmod.com/sputnik/leica_q/
 hash: 0d187ef6277fdb2ae643cfc4c37db2db
 year: 2016

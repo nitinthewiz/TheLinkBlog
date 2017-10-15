@@ -1,6 +1,6 @@
 ---
 title: "Marshall McLuhan - Wikipedia, the free encyclopedia"
-date: 2011-05-02 20:29:58 +0000
+date: 2011-05-02 15:29:58 -0500
 external-url: http://en.wikipedia.org/wiki/Marshall_McLuhan#Major_works
 hash: a530b077df595926aa87d7d631b4d043
 year: 2011

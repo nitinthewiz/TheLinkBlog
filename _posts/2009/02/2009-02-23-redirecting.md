@@ -1,6 +1,6 @@
 ---
 title: "Redirecting..."
-date: 2009-02-23 20:50:45 +0000
+date: 2009-02-23 14:50:45 -0600
 external-url: http://tinyurl.com/c7235v
 hash: c494f6eebdc6dff1e30efa391837ef7c
 year: 2009

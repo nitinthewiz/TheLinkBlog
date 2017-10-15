@@ -1,6 +1,6 @@
 ---
 title: "Google Finance China, new Finance homepage"
-date: 2008-04-24 22:03:00 +0000
+date: 2008-04-24 17:03:00 -0500
 external-url: http://googleblog.blogspot.com/2008/04/new-google-finance-china-new-finance.html
 hash: 9440af5e86505da807eb5f8b20d6f983
 year: 2008

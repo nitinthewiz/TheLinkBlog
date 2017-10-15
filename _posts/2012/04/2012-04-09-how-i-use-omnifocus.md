@@ -1,6 +1,6 @@
 ---
 title: "How I Use OmniFocus"
-date: 2012-04-09 17:00:39 +0000
+date: 2012-04-09 12:00:39 -0500
 external-url: http://technicallysimple.com/articles/how-i-use-omnifocus/
 hash: de573440e2e5e8c9738c4b65f53b7d3a
 year: 2012

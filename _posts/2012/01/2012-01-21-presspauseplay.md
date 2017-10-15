@@ -1,6 +1,6 @@
 ---
 title: "PressPausePlay"
-date: 2012-01-21 23:56:46 +0000
+date: 2012-01-21 17:56:46 -0600
 external-url: http://www.presspauseplay.com/
 hash: 31855eb91e9e461ddfc65093760e89b0
 year: 2012

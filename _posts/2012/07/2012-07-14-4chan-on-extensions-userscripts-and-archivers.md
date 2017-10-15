@@ -1,6 +1,6 @@
 ---
 title: "4chan - On Extensions, Userscripts, and Archivers"
-date: 2012-07-14 11:21:37 +0000
+date: 2012-07-14 06:21:37 -0500
 external-url: http://content.4chan.org/tmp/extensions.html
 hash: 8b84b36bd789c261c597515ee4945541
 year: 2012

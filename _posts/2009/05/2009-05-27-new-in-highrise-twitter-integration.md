@@ -1,6 +1,6 @@
 ---
 title: "New in Highrise: Twitter integration"
-date: 2009-05-27 15:46:14 +0000
+date: 2009-05-27 10:46:14 -0500
 external-url: http://productblog.37signals.com/products/2009/05/new-in-highrise-twitter-integration.html
 hash: 2389a814d9a0f0fdee3fd75fcf685c48
 year: 2009

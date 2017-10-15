@@ -1,6 +1,6 @@
 ---
 title: "Open Notice"
-date: 2012-11-26 09:26:36 +0000
+date: 2012-11-26 03:26:36 -0600
 external-url: http://opennotice.org/
 hash: 7af32cbfa25459df83da7221fd9c811a
 year: 2012

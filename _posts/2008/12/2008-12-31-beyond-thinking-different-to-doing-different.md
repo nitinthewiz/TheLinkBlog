@@ -1,6 +1,6 @@
 ---
 title: "Beyond Thinking Different to Doing Different"
-date: 2008-12-31 12:31:00 +0000
+date: 2008-12-31 06:31:00 -0600
 external-url: http://brandautopsy.typepad.com/brandautopsy/2008/12/beyond-thinking.html
 hash: 7163f7ab13da0d952f3373d8db75ecae
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "Delta Starts Selling Flights on Facebook"
-date: 2010-08-12 17:47:44 +0000
+date: 2010-08-12 12:47:44 -0500
 external-url: http://mashable.com/2010/08/12/delta-ticket-window/
 hash: e49164b41a8ccc25236939a753815269
 year: 2010

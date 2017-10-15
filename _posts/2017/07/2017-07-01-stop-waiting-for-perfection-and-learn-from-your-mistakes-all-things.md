@@ -1,6 +1,6 @@
 ---
 title: "Stop waiting for perfection and learn from your mistakes - All Things Distributed"
-date: 2017-07-01 10:03:01 +0000
+date: 2017-07-01 05:03:01 -0500
 external-url: http://www.allthingsdistributed.com/2017/06/stop-waiting-for-perfection.html
 hash: 85894f714d916c1890c46ba969476543
 year: 2017

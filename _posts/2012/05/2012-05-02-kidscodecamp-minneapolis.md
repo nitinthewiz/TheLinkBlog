@@ -1,6 +1,6 @@
 ---
 title: "KidsCodeCamp Minneapolis"
-date: 2012-05-02 20:24:27 +0000
+date: 2012-05-02 15:24:27 -0500
 external-url: https://www.eventbrite.com/e/kidscodecamp-minneapolis-tickets-3042364795
 hash: f181fa1df093901869b38bd6ce21aa10
 year: 2012

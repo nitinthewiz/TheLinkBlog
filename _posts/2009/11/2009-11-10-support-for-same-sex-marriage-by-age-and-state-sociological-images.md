@@ -1,6 +1,6 @@
 ---
 title: "Support for Same-Sex Marriage by Age and State  »  Sociological Images"
-date: 2009-11-10 16:13:18 +0000
+date: 2009-11-10 10:13:18 -0600
 external-url: http://contexts.org/socimages/2009/11/05/support-for-same-sex-marriage-by-age-and-state/
 hash: 3a7c0750fc0962624a842dec92018cd3
 year: 2009

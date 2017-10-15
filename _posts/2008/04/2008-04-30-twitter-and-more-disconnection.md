@@ -1,6 +1,6 @@
 ---
 title: "Twitter and more disconnection"
-date: 2008-04-30 18:05:00 +0000
+date: 2008-04-30 13:05:00 -0500
 external-url: http://weblogs.asp.net/jeff/twitter-and-more-disconnection
 hash: fa552d003076db4294b29e5cd830577e
 year: 2008

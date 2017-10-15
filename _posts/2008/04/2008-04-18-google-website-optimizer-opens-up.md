@@ -1,6 +1,6 @@
 ---
 title: "Google Website Optimizer Opens Up"
-date: 2008-04-18 19:00:00 +0000
+date: 2008-04-18 14:00:00 -0500
 external-url: http://gigaom.com/2008/04/18/google-website-optimizer-opens-up/
 hash: d62483df3d50debd6203fee8ec037489
 year: 2008

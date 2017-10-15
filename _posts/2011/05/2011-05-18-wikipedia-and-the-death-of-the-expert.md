@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia And The Death Of The Expert"
-date: 2011-05-18 11:13:51 +0000
+date: 2011-05-18 06:13:51 -0500
 external-url: http://www.theawl.com/2011/05/wikipedia-and-the-death-of-the-expert
 hash: e24563e3bdd42ad074c2f15b3b42e9f0
 year: 2011

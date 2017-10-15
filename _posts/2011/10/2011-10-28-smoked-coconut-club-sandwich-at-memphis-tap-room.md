@@ -1,6 +1,6 @@
 ---
 title: "Smoked coconut club sandwich at Memphis Tap Room"
-date: 2011-10-28 20:17:26 +0000
+date: 2011-10-28 15:17:26 -0500
 external-url: http://thisisgonnabegood.blogspot.com/2011/06/smoked-coconut-club-sandwich-at-memphis.html
 hash: e21ec6b34a3178ca8ad5dfdd3f5c9a27
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Goodbye ZDNet"
-date: 2008-12-11 21:28:10 +0000
+date: 2008-12-11 15:28:10 -0600
 external-url: http://www.zdnet.com/blog/social/goodbye-zdnet/610
 hash: a7dd6f11d492f0e07c96b3db66b8f8fc
 year: 2008

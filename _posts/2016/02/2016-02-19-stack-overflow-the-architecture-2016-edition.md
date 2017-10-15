@@ -1,6 +1,6 @@
 ---
 title: "Stack Overflow: The Architecture - 2016 Edition"
-date: 2016-02-19 08:33:32 +0000
+date: 2016-02-19 02:33:32 -0600
 external-url: http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
 hash: ea1602ea2c0ab2cdc46c9c5de995e696
 year: 2016

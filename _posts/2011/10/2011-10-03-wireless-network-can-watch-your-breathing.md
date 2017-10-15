@@ -1,6 +1,6 @@
 ---
 title: "Wireless network can watch your breathing"
-date: 2011-10-03 16:01:34 +0000
+date: 2011-10-03 11:01:34 -0500
 external-url: http://www.newscientist.com/article/dn20971-wireless-network-can-watch-your-breathing.html
 hash: 88647a9ffadb3c983c054e01eabdf454
 year: 2011

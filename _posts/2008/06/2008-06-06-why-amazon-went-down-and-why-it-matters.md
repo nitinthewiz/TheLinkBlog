@@ -1,6 +1,6 @@
 ---
 title: "Why Amazon Went Down, and Why It Matters"
-date: 2008-06-06 22:32:17 +0000
+date: 2008-06-06 17:32:17 -0500
 external-url: http://gigaom.com/2008/06/06/why-amazon-went-down-and-what-it-means-to-you/
 hash: b94adaeab77d5022cf3af0837114ff24
 year: 2008

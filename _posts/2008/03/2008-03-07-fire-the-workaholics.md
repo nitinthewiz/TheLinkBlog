@@ -1,6 +1,6 @@
 ---
 title: "Fire the workaholics"
-date: 2008-03-07 23:24:00 +0000
+date: 2008-03-07 17:24:00 -0600
 external-url: http://www.37signals.com/svn/posts/902-fire-the-workaholics
 hash: 29562c181e53e157b80276be18a17294
 year: 2008

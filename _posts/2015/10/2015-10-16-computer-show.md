@@ -1,6 +1,6 @@
 ---
 title: "Computer Show"
-date: 2015-10-16 22:34:17 +0000
+date: 2015-10-16 17:34:17 -0500
 external-url: http://computer.show
 hash: 56c3ff5166a681a3f8b2df453f873a64
 year: 2015

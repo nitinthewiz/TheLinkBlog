@@ -1,6 +1,6 @@
 ---
 title: "The New Apple TV: Our Complete Overview – MacStories"
-date: 2015-09-13 15:10:08 +0000
+date: 2015-09-13 10:10:08 -0500
 external-url: https://www.macstories.net/news/the-new-apple-tv-our-complete-overview/
 hash: dcb067290a70f1799a356a8066cb94a7
 year: 2015

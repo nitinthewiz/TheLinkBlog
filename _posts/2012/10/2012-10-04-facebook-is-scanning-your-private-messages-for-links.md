@@ -1,6 +1,6 @@
 ---
 title: "Facebook Is Scanning Your Private Messages For Links"
-date: 2012-10-04 23:06:32 +0000
+date: 2012-10-04 18:06:32 -0500
 external-url: http://thenextweb.com/facebook/2012/10/04/facebook-confirms-it-is-scanning-your-private-messages-for-links-so-it-can-increase-like-counters/
 hash: 05316a2a69d8ea9060c8d9e247b3f48f
 year: 2012

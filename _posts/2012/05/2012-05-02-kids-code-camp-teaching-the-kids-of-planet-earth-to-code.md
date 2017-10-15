@@ -1,6 +1,6 @@
 ---
 title: "Kids Code Camp - Teaching The Kids of Planet Earth To Code"
-date: 2012-05-02 20:26:03 +0000
+date: 2012-05-02 15:26:03 -0500
 external-url: http://kidscodecamp.com/
 hash: 0dbdaf37f9568bf30fa72eb3c4327327
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Sherry Turkle: Connected, but alone?"
-date: 2012-05-12 20:54:20 +0000
+date: 2012-05-12 15:54:20 -0500
 external-url: http://www.ted.com/talks/sherry_turkle_alone_together
 hash: 01db6371a8b7041caa871822d80cc265
 year: 2012

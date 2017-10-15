@@ -1,6 +1,6 @@
 ---
 title: "Lanyrd — ‘The Social Conference Directory’"
-date: 2010-09-12 21:27:40 +0000
+date: 2010-09-12 16:27:40 -0500
 external-url: http://lanyrd.com/
 hash: 90f7c1419d4689d4304296cd70fae0fc
 year: 2010

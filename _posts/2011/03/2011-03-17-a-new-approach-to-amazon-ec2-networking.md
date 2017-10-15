@@ -1,6 +1,6 @@
 ---
 title: "A New Approach to Amazon EC2 Networking"
-date: 2011-03-17 10:49:15 +0000
+date: 2011-03-17 05:49:15 -0500
 external-url: http://aws.typepad.com/aws/2011/03/new-approach-amazon-ec2-networking.html
 hash: d33c281d68e5d5073df8caa2c063105c
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Python built-in functions are awesome. Use them!"
-date: 2012-05-22 11:34:31 +0000
+date: 2012-05-22 06:34:31 -0500
 external-url: http://isbullsh.it/2012/05/05-Python-built-in-functions/
 hash: 38cce16320a1b541cb434624727ad8a1
 year: 2012

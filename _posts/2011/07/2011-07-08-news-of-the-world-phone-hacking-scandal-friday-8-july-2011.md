@@ -1,6 +1,6 @@
 ---
 title: "News of the World phone-hacking scandal - Friday 8 July 2011"
-date: 2011-07-08 22:03:50 +0000
+date: 2011-07-08 17:03:50 -0500
 external-url: http://www.theguardian.com/media/blog/2011/jul/08/news-of-the-world-phone-hacking-scandal
 hash: cfa0b6b3dea65f2db4d17b48ba21df15
 year: 2011

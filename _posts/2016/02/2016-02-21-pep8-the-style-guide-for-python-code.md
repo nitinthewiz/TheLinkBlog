@@ -1,6 +1,6 @@
 ---
 title: "PEP8: The Style Guide for Python Code"
-date: 2016-02-21 20:46:08 +0000
+date: 2016-02-21 14:46:08 -0600
 external-url: http://pep8.org/
 hash: 38704257e23292fd66c63360bd8b743f
 year: 2016

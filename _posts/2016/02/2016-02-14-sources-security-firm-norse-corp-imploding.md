@@ -1,6 +1,6 @@
 ---
 title: "Sources: Security Firm Norse Corp. Imploding"
-date: 2016-02-14 15:01:15 +0000
+date: 2016-02-14 09:01:15 -0600
 external-url: http://krebsonsecurity.com/2016/01/sources-security-firm-norse-corp-imploding/
 hash: 7bce7d7fd754379470ee36db082100af
 year: 2016

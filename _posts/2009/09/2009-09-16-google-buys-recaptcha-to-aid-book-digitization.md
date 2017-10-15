@@ -1,6 +1,6 @@
 ---
 title: "Google Buys reCAPTCHA To Aid Book Digitization"
-date: 2009-09-16 20:22:19 +0000
+date: 2009-09-16 15:22:19 -0500
 external-url: https://gigaom.com/2009/09/16/419-google-buys-recaptcha/
 hash: 5066e6c268b35e69645cb848204fe02b
 year: 2009

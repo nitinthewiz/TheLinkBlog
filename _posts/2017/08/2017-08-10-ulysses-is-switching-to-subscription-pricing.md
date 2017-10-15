@@ -1,6 +1,6 @@
 ---
 title: "Ulysses Is Switching to Subscription Pricing"
-date: 2017-08-10 19:45:32 +0000
+date: 2017-08-10 14:45:32 -0500
 external-url: https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd
 hash: d507f2c93a20ced666829dc05bd635ae
 year: 2017

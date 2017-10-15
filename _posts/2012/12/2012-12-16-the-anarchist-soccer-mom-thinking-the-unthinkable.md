@@ -1,6 +1,6 @@
 ---
 title: "The Anarchist Soccer Mom: Thinking the Unthinkable"
-date: 2012-12-16 13:20:30 +0000
+date: 2012-12-16 07:20:30 -0600
 external-url: http://anarchistsoccermom.blogspot.com/2012/12/thinking-unthinkable.html
 hash: 0d616c3311715fb5ada7060cdd76a234
 year: 2012

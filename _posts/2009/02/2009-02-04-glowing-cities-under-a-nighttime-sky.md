@@ -1,6 +1,6 @@
 ---
 title: "Glowing Cities Under a Nighttime Sky"
-date: 2009-02-04 19:49:27 +0000
+date: 2009-02-04 13:49:27 -0600
 external-url: http://www.todayandtomorrow.net/2009/01/28/glowing-cities-under-a-nighttime-sky/
 hash: 60315a372fc548b9b7cc637bfe12725a
 year: 2009

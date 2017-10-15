@@ -1,6 +1,6 @@
 ---
 title: "Tonic Barbers"
-date: 2012-02-02 17:33:55 +0000
+date: 2012-02-02 11:33:55 -0600
 external-url: http://www.tonicbarbers.com/
 hash: 6433f04b53a4cd0c7e3e6aaed71804b9
 year: 2012

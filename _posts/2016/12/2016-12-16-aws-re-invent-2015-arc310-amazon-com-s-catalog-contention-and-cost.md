@@ -1,6 +1,6 @@
 ---
 title: "AWS re:Invent 2015 | (ARC310) Amazon.com's Catalog Contention and Cost with Amazon Kinesis - YouTube"
-date: 2016-12-16 16:47:45 +0000
+date: 2016-12-16 10:47:45 -0600
 external-url: https://www.youtube.com/watch?v=9MZtBMjOFsQ
 hash: dd1f3644956144ea5f67657b718fd960
 year: 2016

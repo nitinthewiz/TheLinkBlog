@@ -1,6 +1,6 @@
 ---
 title: "Open Web Design"
-date: 2006-11-04 17:32:09 +0000
+date: 2006-11-04 11:32:09 -0600
 external-url: http://www.openwebdesign.org/
 hash: a85c1ed8fd86a9692218eab994616b7b
 year: 2006

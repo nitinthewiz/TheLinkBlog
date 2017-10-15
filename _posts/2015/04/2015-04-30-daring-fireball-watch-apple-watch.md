@@ -1,6 +1,6 @@
 ---
 title: "Daring Fireball: Watch, Apple Watch"
-date: 2015-04-30 11:28:38 +0000
+date: 2015-04-30 06:28:38 -0500
 external-url: http://daringfireball.net/2015/04/watch_apple_watch
 hash: 8c6b188ae8db38f6777bc2839226cbed
 year: 2015

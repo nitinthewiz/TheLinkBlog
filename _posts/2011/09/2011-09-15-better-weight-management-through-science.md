@@ -1,6 +1,6 @@
 ---
 title: "Better weight management through science"
-date: 2011-09-15 18:02:58 +0000
+date: 2011-09-15 13:02:58 -0500
 external-url: http://www.mayin.org/ajayshah/MISC/weightloss.html
 hash: cfdac8ec237fe285cc12ca639cb4326b
 year: 2011

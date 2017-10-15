@@ -1,6 +1,6 @@
 ---
 title: "Own your identity"
-date: 2011-07-12 05:53:53 +0000
+date: 2011-07-12 00:53:53 -0500
 external-url: http://www.marco.org/2011/07/11/own-your-identity
 hash: 5a2663bd1a398e9a9d9a41b65846716c
 year: 2011

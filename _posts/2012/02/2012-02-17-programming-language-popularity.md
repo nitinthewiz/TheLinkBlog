@@ -1,6 +1,6 @@
 ---
 title: "Programming Language Popularity"
-date: 2012-02-17 22:14:49 +0000
+date: 2012-02-17 16:14:49 -0600
 external-url: http://langpop.com/
 hash: 2273a80a326bf4f97e177e73387357e3
 year: 2012

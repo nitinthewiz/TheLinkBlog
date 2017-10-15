@@ -1,6 +1,6 @@
 ---
 title: "My Puny Human Brain"
-date: 2011-02-19 15:16:23 +0000
+date: 2011-02-19 09:16:23 -0600
 external-url: http://www.slate.com/articles/arts/culturebox/2011/02/my_puny_human_brain.html
 hash: 06b4338a75731ceeff3b3150263f5f3f
 year: 2011

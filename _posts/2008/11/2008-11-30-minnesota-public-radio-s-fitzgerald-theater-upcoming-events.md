@@ -1,6 +1,6 @@
 ---
 title: "Minnesota Public Radio's Fitzgerald Theater: Upcoming Events"
-date: 2008-11-30 17:36:31 +0000
+date: 2008-11-30 11:36:31 -0600
 external-url: http://fitzgeraldtheater.publicradio.org/events/
 hash: fcdc3e8cabeafb25f213d73e45777ae1
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "Recovering Photos from a Corrupt Memory Card with PhotoRec"
-date: 2008-12-03 13:03:34 +0000
+date: 2008-12-03 07:03:34 -0600
 external-url: http://regex.info/blog/2008-12-03/1016
 hash: 14bdb1068eadb5f2b5a893cb5ec3283d
 year: 2008

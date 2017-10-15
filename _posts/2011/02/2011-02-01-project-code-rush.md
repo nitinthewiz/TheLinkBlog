@@ -1,6 +1,6 @@
 ---
 title: "Project Code Rush"
-date: 2011-02-01 19:02:01 +0000
+date: 2011-02-01 13:02:01 -0600
 external-url: http://clickmovement.org/coderush
 hash: 911b03e01e1da7a901ee5d4352c47a9d
 year: 2011

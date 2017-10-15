@@ -1,6 +1,6 @@
 ---
 title: "WATCH: A Facebook Chat Romance That Wasn’t"
-date: 2010-09-26 17:50:33 +0000
+date: 2010-09-26 12:50:33 -0500
 external-url: http://www.allfacebook.com/watch-a-facebook-chat-romance-that-wasnt-2010-09
 hash: a0b83be361868c7191001a5e088ee618
 year: 2010

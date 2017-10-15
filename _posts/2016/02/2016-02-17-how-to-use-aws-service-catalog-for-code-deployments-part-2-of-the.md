@@ -1,6 +1,6 @@
 ---
 title: "How to Use AWS Service Catalog for Code Deployments: Part 2 of the Automating HIPAA Compliance Series"
-date: 2016-02-17 11:01:38 +0000
+date: 2016-02-17 05:01:38 -0600
 external-url: http://blogs.aws.amazon.com/security/post/TxAHB2MFO7QCIX/How-to-Automate-HIPAA-Compliance-Part-2-Use-the-AWS-Service-Catalog-for-Code-Dep
 hash: 1d1841dd200dc9d7ef549c51b875c60f
 year: 2016

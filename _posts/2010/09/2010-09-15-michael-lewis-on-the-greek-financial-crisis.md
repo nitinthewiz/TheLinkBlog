@@ -1,6 +1,6 @@
 ---
 title: "Michael Lewis on the Greek financial crisis"
-date: 2010-09-15 15:51:02 +0000
+date: 2010-09-15 10:51:02 -0500
 external-url: http://kottke.org/10/09/the-greek-financial-crisis
 hash: 8eccdff8beb4fc6edd83506aa6ce57ae
 year: 2010

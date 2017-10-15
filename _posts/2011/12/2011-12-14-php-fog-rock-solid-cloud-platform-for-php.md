@@ -1,6 +1,6 @@
 ---
 title: "PHP Fog — Rock Solid Cloud Platform for PHP"
-date: 2011-12-14 15:41:49 +0000
+date: 2011-12-14 09:41:49 -0600
 external-url: https://phpfog.com/
 hash: 62673c08076660d0dab601a1ba600045
 year: 2011

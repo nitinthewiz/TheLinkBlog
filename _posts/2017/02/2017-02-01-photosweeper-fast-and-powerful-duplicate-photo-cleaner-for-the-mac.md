@@ -1,6 +1,6 @@
 ---
 title: "PhotoSweeper - Fast and powerful duplicate photo cleaner for the Mac - Overmacs Team"
-date: 2017-02-01 18:57:36 +0000
+date: 2017-02-01 12:57:36 -0600
 external-url: http://overmacs.com/?p=photosweeper
 hash: 1dcfeca2c1c99d0fcc882a073a31f865
 year: 2017

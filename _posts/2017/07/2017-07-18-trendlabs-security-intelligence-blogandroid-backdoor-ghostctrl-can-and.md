@@ -1,6 +1,6 @@
 ---
 title: "TrendLabs Security Intelligence BlogAndroid Backdoor GhostCtrl can Silently Record Your Audio, Video, and More - TrendLabs Security Intelligence Blog"
-date: 2017-07-18 10:41:37 +0000
+date: 2017-07-18 05:41:37 -0500
 external-url: https://blog.trendmicro.com/trendlabs-security-intelligence/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more/
 hash: 702ead24210f2f36a65a354fe3ff3217
 year: 2017

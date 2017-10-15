@@ -1,6 +1,6 @@
 ---
 title: "Your Content, Your Copyright: TwitPic Updates Terms Of Service"
-date: 2011-05-10 22:30:07 +0000
+date: 2011-05-10 17:30:07 -0500
 external-url: http://readwrite.com/2011/05/10/your_content_your_copyright_twitpic_updates_terms
 hash: 5c09ed7e19eed74ecfbb74accda1370b
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Six Stunning Projects That Show the Power of Data Visualization"
-date: 2010-10-05 22:15:02 +0000
+date: 2010-10-05 17:15:02 -0500
 external-url: http://www.pbs.org/mediashift/2010/10/six-stunning-projects-that-show-the-power-of-data-visualization278.html
 hash: 27ec3bf7890722be30c4eb73b953f028
 year: 2010

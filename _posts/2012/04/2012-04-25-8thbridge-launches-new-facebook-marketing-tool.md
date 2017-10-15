@@ -1,6 +1,6 @@
 ---
 title: "8thBridge launches new Facebook marketing tool"
-date: 2012-04-25 21:58:33 +0000
+date: 2012-04-25 16:58:33 -0500
 external-url: http://www.startribune.com/blogs/148714865.html
 hash: 3995997ad5ec3392264abbdb6274ee46
 year: 2012

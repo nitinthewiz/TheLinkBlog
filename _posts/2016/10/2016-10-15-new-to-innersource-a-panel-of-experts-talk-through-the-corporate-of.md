@@ -1,6 +1,6 @@
 ---
 title: "New to InnerSource? A panel of experts talk through the corporate version of open source"
-date: 2016-10-15 10:23:09 +0000
+date: 2016-10-15 05:23:09 -0500
 external-url: https://github.com/blog/2266-new-to-innersource-a-panel-of-experts-talk-through-the-corporate-version-of-open-source
 hash: c2f25602a49fdbfef7214008fa59824f
 year: 2016

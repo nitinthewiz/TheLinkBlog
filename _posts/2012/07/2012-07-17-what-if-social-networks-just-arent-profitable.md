@@ -1,6 +1,6 @@
 ---
 title: "What If Social Networks Just Arent Profitable?"
-date: 2012-07-17 10:04:54 +0000
+date: 2012-07-17 05:04:54 -0500
 external-url: http://powazek.com/posts/3024
 hash: 05df52064dd97fe64d8cd775c7f049d6
 year: 2012

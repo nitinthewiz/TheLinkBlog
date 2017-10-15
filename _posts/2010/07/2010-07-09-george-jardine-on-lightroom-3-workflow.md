@@ -1,6 +1,6 @@
 ---
 title: "George Jardine on Lightroom 3 Workflow"
-date: 2010-07-09 18:21:57 +0000
+date: 2010-07-09 13:21:57 -0500
 external-url: http://lightroom-news.com/2010/07/09/george-jardine-on-lightroom-3-workflow/
 hash: ef0640274a7e54c4c3bf753cb49b8eaf
 year: 2010

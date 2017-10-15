@@ -1,6 +1,6 @@
 ---
 title: "VisionPRO Touchscreen Universal Programmable Thermostats"
-date: 2011-08-05 05:38:27 +0000
+date: 2011-08-05 00:38:27 -0500
 external-url: https://customer.honeywell.com/en-US/pages/product.aspx?cat=HonECC%20Catalog&pid=TH8110U1003/U
 hash: 4af20cd2ed9956b1fd1e8c20bcc1bc2e
 year: 2011

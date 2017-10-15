@@ -1,6 +1,6 @@
 ---
 title: "Minnebar Live! | The UpTake"
-date: 2011-05-09 05:54:41 +0000
+date: 2011-05-09 00:54:41 -0500
 external-url: http://www.theuptake.org/2011/05/07/minnebar-live/
 hash: 2906b96def5916d611a79371abbbedf9
 year: 2011

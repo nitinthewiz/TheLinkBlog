@@ -1,6 +1,6 @@
 ---
 title: "It's the Economy, Dummkopf"
-date: 2011-08-10 20:28:50 +0000
+date: 2011-08-10 15:28:50 -0500
 external-url: http://www.vanityfair.com/business/features/2011/09/europe-201109
 hash: b11c1c1eea311ff45bd4e33212c91480
 year: 2011

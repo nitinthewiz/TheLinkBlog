@@ -1,6 +1,6 @@
 ---
 title: "App Store Four-Month-Long Wait for a Bug Fix to Be Accepted of the Week: Airfoil Speakers Touch 1.0.1"
-date: 2009-11-13 16:07:01 +0000
+date: 2009-11-13 10:07:01 -0600
 external-url: http://www.rogueamoeba.com/utm/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/
 hash: 00ecff134af28a653e3c8bfe3e6c0866
 year: 2009

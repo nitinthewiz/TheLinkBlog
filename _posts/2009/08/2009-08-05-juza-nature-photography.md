@@ -1,6 +1,6 @@
 ---
 title: "Juza Nature Photography"
-date: 2009-08-05 17:17:34 +0000
+date: 2009-08-05 12:17:34 -0500
 external-url: http://www.juzaphoto.com/article.php?l=it&article=404
 hash: da053aedaa21cbcb947974c399e746e1
 year: 2009

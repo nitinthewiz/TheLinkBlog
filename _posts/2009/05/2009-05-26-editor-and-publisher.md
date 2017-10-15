@@ -1,6 +1,6 @@
 ---
 title: "Editor and Publisher"
-date: 2009-05-26 14:30:10 +0000
+date: 2009-05-26 09:30:10 -0500
 external-url: http://www.google.com/reader/about/
 hash: 4ca46b64dd2809dbf02afe9da4592318
 year: 2009

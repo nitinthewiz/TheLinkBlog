@@ -1,6 +1,6 @@
 ---
 title: "What I Learned from Losing $200 Million"
-date: 2015-12-26 09:21:02 +0000
+date: 2015-12-26 03:21:02 -0600
 external-url: http://nautil.us/issue/31/stress/what-i-learned-from-losing-200-million
 hash: c15a02cbf95b67182eb3a4436473dbc7
 year: 2015

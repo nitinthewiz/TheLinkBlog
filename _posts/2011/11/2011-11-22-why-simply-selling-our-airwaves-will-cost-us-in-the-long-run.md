@@ -1,6 +1,6 @@
 ---
 title: "Why Simply Selling Our Airwaves Will Cost Us in the Long Run"
-date: 2011-11-22 16:05:30 +0000
+date: 2011-11-22 10:05:30 -0600
 external-url: http://www.technologyreview.com/printer_friendly_article.aspx?id=39136
 hash: 23305fec32ba83f49dafc04016dd8f1a
 year: 2011

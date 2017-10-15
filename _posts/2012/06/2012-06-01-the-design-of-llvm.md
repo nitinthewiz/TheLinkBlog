@@ -1,6 +1,6 @@
 ---
 title: "The Design of LLVM"
-date: 2012-06-01 05:20:52 +0000
+date: 2012-06-01 00:20:52 -0500
 external-url: http://www.drdobbs.com/architecture-and-design/the-design-of-llvm/240001128
 hash: 4834d8a01df0408bec34f6cdc6643e84
 year: 2012

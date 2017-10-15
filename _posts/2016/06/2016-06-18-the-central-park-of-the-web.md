@@ -1,6 +1,6 @@
 ---
 title: "The Central Park of the web"
-date: 2016-06-18 14:33:15 +0000
+date: 2016-06-18 09:33:15 -0500
 external-url: http://scripting.com/2016/06/18/1324.html
 hash: 787708cba3d1f32920bb061ed52c0b7b
 year: 2016

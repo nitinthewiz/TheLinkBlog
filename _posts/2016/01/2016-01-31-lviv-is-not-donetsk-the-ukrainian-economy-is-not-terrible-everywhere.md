@@ -1,6 +1,6 @@
 ---
 title: "Lviv is not Donetsk: The Ukrainian economy is not terrible everywhere | The Economist"
-date: 2016-01-31 13:07:46 +0000
+date: 2016-01-31 07:07:46 -0600
 external-url: http://www.economist.com/blogs/freeexchange/2016/01/lviv-not-donetsk
 hash: 9c7b7fb4934ae8ea1e911b72715e5eb6
 year: 2016

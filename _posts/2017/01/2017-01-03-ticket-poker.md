@@ -1,6 +1,6 @@
 ---
 title: "Ticket Poker"
-date: 2017-01-03 12:51:06 +0000
+date: 2017-01-03 06:51:06 -0600
 external-url: https://www.ticket-poker.org/
 hash: 8674860f0afe5d64b54c134f937be4c0
 year: 2017

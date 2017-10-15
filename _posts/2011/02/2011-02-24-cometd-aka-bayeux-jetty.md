@@ -1,6 +1,6 @@
 ---
 title: "Cometd (aka Bayeux) - Jetty"
-date: 2011-02-24 17:40:44 +0000
+date: 2011-02-24 11:40:44 -0600
 external-url: http://docs.codehaus.org/display/JETTY/Cometd+(aka+Bayeux)
 hash: 3ec166558bac2fce53e71cb1af79dc87
 year: 2011

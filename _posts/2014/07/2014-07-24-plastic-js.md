@@ -1,6 +1,6 @@
 ---
 title: "Plastic.js"
-date: 2014-07-24 13:22:59 +0000
+date: 2014-07-24 08:22:59 -0500
 external-url: http://www.plasticjs.org
 hash: 08eb394f1a03d60fa1db5a1e7e8cfff2
 year: 2014

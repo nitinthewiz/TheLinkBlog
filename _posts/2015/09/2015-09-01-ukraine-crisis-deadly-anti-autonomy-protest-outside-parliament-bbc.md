@@ -1,6 +1,6 @@
 ---
 title: "Ukraine crisis: Deadly anti-autonomy protest outside parliament - BBC News"
-date: 2015-09-01 15:28:19 +0000
+date: 2015-09-01 10:28:19 -0500
 external-url: http://www.bbc.com/news/world-europe-34105925
 hash: dcc17af06eb9b4766a86c457e8533f60
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Introducing Times"
-date: 2012-02-03 21:34:40 +0000
+date: 2012-02-03 15:34:40 -0600
 external-url: http://nvie.com/posts/introducing-times/
 hash: 4e3df398069956c4240668280adfe802
 year: 2012

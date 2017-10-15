@@ -1,6 +1,6 @@
 ---
 title: "Erlywarn Site Monitoring. Instant notification if your web site goes down."
-date: 2011-10-12 16:44:29 +0000
+date: 2011-10-12 11:44:29 -0500
 external-url: http://erlywarn.com/
 hash: 2ef52dfc6e1b902651cf8ad3dcb95f94
 year: 2011

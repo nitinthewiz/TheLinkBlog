@@ -1,6 +1,6 @@
 ---
 title: "Google Prediction API"
-date: 2011-01-10 20:19:31 +0000
+date: 2011-01-10 14:19:31 -0600
 external-url: https://developers.google.com/prediction/
 hash: c0ee824c1a01d596ea78772b6dbf47c8
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "I Liked Everything I Saw on Facebook for Two Days. Heres What It Did to Me"
-date: 2014-08-13 17:35:24 +0000
+date: 2014-08-13 12:35:24 -0500
 external-url: http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/
 hash: eed35482289afe9ea26c0c1e7aa9a648
 year: 2014

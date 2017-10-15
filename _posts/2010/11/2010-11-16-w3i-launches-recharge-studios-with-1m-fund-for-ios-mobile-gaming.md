@@ -1,6 +1,6 @@
 ---
 title: "W3i Launches Recharge Studios with $1m+ Fund for iOS Mobile Gaming Startups"
-date: 2010-11-16 16:18:13 +0000
+date: 2010-11-16 10:18:13 -0600
 external-url: http://tech.mn/news/2010/11/16/w3i-launches-recharge-studios-1m-fund-for-ios-mobile-gaming-startups/
 hash: d48bd4f67de45bf4ba61f0f7b6b8ef59
 year: 2010

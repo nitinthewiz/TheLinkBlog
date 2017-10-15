@@ -1,6 +1,6 @@
 ---
 title: "Early Impacts of Let's Encrypt"
-date: 2016-02-22 15:12:24 +0000
+date: 2016-02-22 09:12:24 -0600
 external-url: https://tacticalsecret.com/early-impacts-of-letsencrypt/
 hash: 9a308b161aadf05176103cea07c58fb0
 year: 2016

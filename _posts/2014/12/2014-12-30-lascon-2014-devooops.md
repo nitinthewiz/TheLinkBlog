@@ -1,6 +1,6 @@
 ---
 title: "LasCon 2014 DevOoops"
-date: 2014-12-30 16:51:07 +0000
+date: 2014-12-30 10:51:07 -0600
 external-url: http://www.slideshare.net/chrisgates/lascon-2014-devooops
 hash: 0c0b606b197383358028dec26534c3e7
 year: 2014

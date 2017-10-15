@@ -1,6 +1,6 @@
 ---
 title: "Building with HTML5 Tech Talk"
-date: 2011-01-19 19:00:00 +0000
+date: 2011-01-19 13:00:00 -0600
 external-url: http://developers.facebook.com/blog/post/448
 hash: 86452f5b78e270533bc70fe39828c4a9
 year: 2011

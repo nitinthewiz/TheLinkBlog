@@ -1,6 +1,6 @@
 ---
 title: "Who uses Twitter - and how much?"
-date: 2010-12-09 14:21:25 +0000
+date: 2010-12-09 08:21:25 -0600
 external-url: http://www.mediapost.com/publications/article/140937/
 hash: 6495def9c24feca5d748e32cf31fe15d
 year: 2010

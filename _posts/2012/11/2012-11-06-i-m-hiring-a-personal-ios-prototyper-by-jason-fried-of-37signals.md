@@ -1,6 +1,6 @@
 ---
 title: "I'm hiring a personal iOS prototyper by Jason Fried of 37signals"
-date: 2012-11-06 22:20:14 +0000
+date: 2012-11-06 16:20:14 -0600
 external-url: https://signalvnoise.com/posts/3307-im-hiring-a-personal-ios-prototyper
 hash: 0da7c8f08c64fba23a334dd374e22202
 year: 2012

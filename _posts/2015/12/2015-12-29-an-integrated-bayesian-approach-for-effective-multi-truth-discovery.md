@@ -1,6 +1,6 @@
 ---
 title: "An Integrated Bayesian Approach for Effective Multi-Truth Discovery"
-date: 2015-12-29 11:36:44 +0000
+date: 2015-12-29 05:36:44 -0600
 external-url: http://cs.adelaide.edu.au/~qsheng/papers/cikm2015-2.pdf
 hash: add72014760b285d5051c8da67fa3e86
 year: 2015

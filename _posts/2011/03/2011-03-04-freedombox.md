@@ -1,6 +1,6 @@
 ---
 title: "FreedomBox"
-date: 2011-03-04 20:23:34 +0000
+date: 2011-03-04 14:23:34 -0600
 external-url: http://wiki.debian.org/FreedomBox
 hash: 37c136d47774b209265c7d24a29bda5f
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Vimeo Video School Offers Free Tutorials to Help Improve Your Video Skills [How To]"
-date: 2010-12-22 18:30:00 +0000
+date: 2010-12-22 12:30:00 -0600
 external-url: http://lifehacker.com/5715909/vimeo-video-school-offers-free-tutorials-to-help-improve-your-video-skills
 hash: a6f3707dd6f5e22f9cf1efff5da68568
 year: 2010

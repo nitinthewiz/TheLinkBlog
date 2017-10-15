@@ -1,6 +1,6 @@
 ---
 title: "A World Without Product Managers"
-date: 2012-06-16 17:59:23 +0000
+date: 2012-06-16 12:59:23 -0500
 external-url: http://tedbarnett.typepad.com/producteer/2012/06/a-world-without-product-managers.html
 hash: 80ed3f7bb73e849082b69cc658648507
 year: 2012

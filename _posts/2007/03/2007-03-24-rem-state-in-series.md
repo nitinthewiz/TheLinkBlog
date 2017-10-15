@@ -1,6 +1,6 @@
 ---
 title: "REM State » In-Series"
-date: 2007-03-24 12:23:30 +0000
+date: 2007-03-24 07:23:30 -0500
 external-url: http://remstate.com/projects/in-series/
 hash: 85020718d711477b11adadb9f6382748
 year: 2007

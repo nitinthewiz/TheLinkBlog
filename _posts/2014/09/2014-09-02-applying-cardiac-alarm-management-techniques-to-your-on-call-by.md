@@ -1,6 +1,6 @@
 ---
 title: "Applying cardiac alarm management techniques to your on-call - Fractional by Lindsay Holmwood"
-date: 2014-09-02 17:17:34 +0000
+date: 2014-09-02 12:17:34 -0500
 external-url: http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/
 hash: 0037ad54f030f0f8a1415ee39dccaa90
 year: 2014

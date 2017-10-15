@@ -1,6 +1,6 @@
 ---
 title: "Azzimov Corporation"
-date: 2012-10-04 17:46:44 +0000
+date: 2012-10-04 12:46:44 -0500
 external-url: http://www.azzimovcorporation.com/
 hash: 32c205cca9e3c576ff1e68c1110eab0e
 year: 2012

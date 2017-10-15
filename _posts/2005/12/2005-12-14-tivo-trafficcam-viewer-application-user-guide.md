@@ -1,6 +1,6 @@
 ---
 title: "TiVo TrafficCam Viewer Application User Guide"
-date: 2005-12-14 14:24:34 +0000
+date: 2005-12-14 08:24:34 -0600
 external-url: http://bitrazor.com/tc/doc/index.php
 hash: 4a11222bdfad700efbab02a36bd91ec0
 year: 2005

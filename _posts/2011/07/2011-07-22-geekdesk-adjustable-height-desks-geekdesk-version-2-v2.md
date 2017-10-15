@@ -1,6 +1,6 @@
 ---
 title: "GeekDesk Adjustable Height Desks - GeekDesk Version 2 (v2)"
-date: 2011-07-22 06:57:57 +0000
+date: 2011-07-22 01:57:57 -0500
 external-url: http://www.geekdesk.com/products
 hash: 73b09ea27ab9618ff9e8760e4d33b34a
 year: 2011

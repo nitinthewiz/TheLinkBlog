@@ -1,6 +1,6 @@
 ---
 title: "Eloqua, Demand Generation - Marketing Automation, Direct Marketing Solutions."
-date: 2006-04-19 21:15:28 +0000
+date: 2006-04-19 16:15:28 -0500
 external-url: http://www.eloqua.com/
 hash: f1d04be9a209db019a36941b634dbb18
 year: 2006

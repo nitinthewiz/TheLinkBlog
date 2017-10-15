@@ -1,6 +1,6 @@
 ---
 title: "Obama campaign memo to superdelegates"
-date: 2008-05-07 16:20:19 +0000
+date: 2008-05-07 11:20:19 -0500
 external-url: http://www.dailykos.com/story/2008/05/07/510830/-Obama-campaign-memo-to-superdelegates
 hash: 2c156353e015278a142452915b262b60
 year: 2008

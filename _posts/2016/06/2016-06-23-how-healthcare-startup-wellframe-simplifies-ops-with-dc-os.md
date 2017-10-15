@@ -1,6 +1,6 @@
 ---
 title: "How healthcare startup Wellframe simplifies ops with DC/OS"
-date: 2016-06-23 11:38:08 +0000
+date: 2016-06-23 06:38:08 -0500
 external-url: https://mesosphere.com/blog/2016/06/15/managing-complexity-tk-dcos/
 hash: db411f27fd35e6aec307e7ce5349d603
 year: 2016

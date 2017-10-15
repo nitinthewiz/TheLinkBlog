@@ -1,6 +1,6 @@
 ---
 title: "Quick Start Guide for using Sourcefire Snort on Amazon EC2"
-date: 2011-04-18 21:26:35 +0000
+date: 2011-04-18 16:26:35 -0500
 external-url: https://www.snort.org/assets/144/Snort_EC2_QuickStart.pdf
 hash: 6093dfcb730b453673840a7ef7a37245
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "YP-55 Support Site"
-date: 2005-11-29 14:47:09 +0000
+date: 2005-11-29 08:47:09 -0600
 external-url: http://www.cczclan.com/yp-55download.asp
 hash: 65f1dd84a6c2f296894b7c9bbc475b31
 year: 2005

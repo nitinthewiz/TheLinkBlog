@@ -1,6 +1,6 @@
 ---
 title: "Interview with Mårten Mickos • Productive! Magazine"
-date: 2013-11-22 15:29:08 +0000
+date: 2013-11-22 09:29:08 -0600
 external-url: http://productivemag.com/15/interview-with-marten-mickos
 hash: 69fcf4db54c999f7310b3bf4166d324a
 year: 2013

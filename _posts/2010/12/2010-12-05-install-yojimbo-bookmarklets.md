@@ -1,6 +1,6 @@
 ---
 title: "Install Yojimbo Bookmarklets"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://www.barebones.com/support/yojimbo/install_bookmarklets.html
 hash: 412e3c6ec982b756fe335522d7157561
 year: 2010

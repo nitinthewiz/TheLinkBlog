@@ -1,6 +1,6 @@
 ---
 title: "Ryan Boren: WordPress 2.6 Beta 1"
-date: 2008-06-24 06:04:09 +0000
+date: 2008-06-24 01:04:09 -0500
 external-url: http://ryan.boren.me/2008/06/23/wordpress-26-beta-1/
 hash: 473cddd3b9fe1bc5485abc84ecb4acce
 year: 2008

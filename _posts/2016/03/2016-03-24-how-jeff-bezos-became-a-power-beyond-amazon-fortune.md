@@ -1,6 +1,6 @@
 ---
 title: "How Jeff Bezos Became a Power Beyond Amazon - Fortune"
-date: 2016-03-24 21:13:23 +0000
+date: 2016-03-24 16:13:23 -0500
 external-url: http://fortune.com/amazon-jeff-bezos-prime/
 hash: b11c966eda80b3bb94dc91dd7f0dcfd6
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Wordpress Performance Comparison: Using Nginx, Apache, APC and Varnish in Different Scenarios"
-date: 2012-05-01 19:09:26 +0000
+date: 2012-05-01 14:09:26 -0500
 external-url: http://www.garron.me/en/linux/apache-vs-nginx-php-fpm-varnish-apc-wordpress-performance.html
 hash: bdde7f182c5ed4873125b13df44d9d57
 year: 2012

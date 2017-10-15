@@ -1,6 +1,6 @@
 ---
 title: "Monica - a CRM for your friends and family"
-date: 2017-06-07 11:35:33 +0000
+date: 2017-06-07 06:35:33 -0500
 external-url: https://monicahq.com/
 hash: 704eb2acd5810b35f377e690a1b335f6
 year: 2017

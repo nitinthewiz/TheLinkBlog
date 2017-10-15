@@ -1,6 +1,6 @@
 ---
 title: "Type Connection"
-date: 2012-03-27 22:56:48 +0000
+date: 2012-03-27 17:56:48 -0500
 external-url: http://www.typeconnection.com/about.php
 hash: 0e2e9aeda71ab94cfdbde7551101d68b
 year: 2012

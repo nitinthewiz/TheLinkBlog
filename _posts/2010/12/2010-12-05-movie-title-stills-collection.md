@@ -1,6 +1,6 @@
 ---
 title: "Movie Title Stills Collection"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://www.annyas.com/screenshots/
 hash: d2b16eca80a7b026b5c917d7ffd28490
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "There's more than one way to meet Santa"
-date: 2011-12-12 16:18:33 +0000
+date: 2011-12-12 10:18:33 -0600
 external-url: http://www.startribune.com/local/135384293.html
 hash: 7e91c2621d22f6a2e3a3c8832220d885
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "The lost infrastructure of social media. — Medium"
-date: 2016-08-12 12:27:32 +0000
+date: 2016-08-12 07:27:32 -0500
 external-url: https://medium.com/@anildash/the-lost-infrastructure-of-social-media-d2b95662ccd3#.1n44rab2a
 hash: f5896cec81a6e7d8990507146b0e08a8
 year: 2016

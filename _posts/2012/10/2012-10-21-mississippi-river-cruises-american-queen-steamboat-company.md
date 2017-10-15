@@ -1,6 +1,6 @@
 ---
 title: "Mississippi River Cruises - American Queen Steamboat Company"
-date: 2012-10-21 16:59:27 +0000
+date: 2012-10-21 11:59:27 -0500
 external-url: http://www.americanqueensteamboatcompany.com/
 hash: 476c6b5f9065db38511ad4b95bb2caf0
 year: 2012

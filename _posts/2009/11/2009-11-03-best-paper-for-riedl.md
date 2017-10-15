@@ -1,6 +1,6 @@
 ---
 title: "Best Paper for Riedl"
-date: 2009-11-03 21:35:13 +0000
+date: 2009-11-03 15:35:13 -0600
 external-url: http://www.cs.umn.edu/news/news.php?id=911
 hash: ffe87af9729cdd06aa90f5cd0917591e
 year: 2009

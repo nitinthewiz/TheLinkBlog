@@ -1,6 +1,6 @@
 ---
 title: "Tapulous: Christmas iPhone App Download Traffic Is Double Last Year’s"
-date: 2010-12-27 18:05:31 +0000
+date: 2010-12-27 12:05:31 -0600
 external-url: http://www.businessinsider.com/iphone-app-download-traffic-is-2x-what-it-was-last-christmas-says-tap-tap-revenge-maker-2010-12
 hash: 4c97c3b6b3fce971739464ad33468e96
 year: 2010

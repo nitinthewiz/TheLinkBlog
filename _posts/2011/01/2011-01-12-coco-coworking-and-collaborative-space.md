@@ -1,6 +1,6 @@
 ---
 title: "CoCo coworking and collaborative space"
-date: 2011-01-12 16:55:46 +0000
+date: 2011-01-12 10:55:46 -0600
 external-url: http://cocomsp.com/
 hash: 088455d81bc2ccab3418c92e0f2162fa
 year: 2011

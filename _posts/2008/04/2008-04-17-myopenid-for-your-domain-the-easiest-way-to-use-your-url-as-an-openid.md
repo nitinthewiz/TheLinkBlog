@@ -1,6 +1,6 @@
 ---
 title: "MyOpenID for Your Domain - The Easiest Way to Use Your URL as an OpenID"
-date: 2008-04-17 20:56:49 +0000
+date: 2008-04-17 15:56:49 -0500
 external-url: http://readwrite.com/2008/04/17/myopenid_for_your_domain
 hash: a54534ba6300936a8dc47ad881cf2015
 year: 2008

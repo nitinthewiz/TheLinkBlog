@@ -1,6 +1,6 @@
 ---
 title: "Typography for Lawyers"
-date: 2016-01-13 13:35:07 +0000
+date: 2016-01-13 07:35:07 -0600
 external-url: http://typographyforlawyers.com/
 hash: a903bfed67ede8707e38f9a739361af7
 year: 2016

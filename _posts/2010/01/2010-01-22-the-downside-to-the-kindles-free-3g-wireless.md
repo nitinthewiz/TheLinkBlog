@@ -1,6 +1,6 @@
 ---
 title: "The Downside to the Kindle’s Free 3G Wireless"
-date: 2010-01-22 18:47:02 +0000
+date: 2010-01-22 12:47:02 -0600
 external-url: http://www.amazon.com/gp/feature.html/?ie=UTF8&docId=1000476231
 hash: 05f28a1e8f5775aa686661ecb6c437c9
 year: 2010

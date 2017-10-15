@@ -1,6 +1,6 @@
 ---
 title: "Lytro and the Magic Camera"
-date: 2011-09-14 18:23:36 +0000
+date: 2011-09-14 13:23:36 -0500
 external-url: http://www.bhorowitz.com/lytro_and_the_magic_camera
 hash: 3d21e38ddab55d1a43888463a7ca0314
 year: 2011

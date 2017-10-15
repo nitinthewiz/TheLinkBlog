@@ -1,6 +1,6 @@
 ---
 title: "Beetailer Lets Ecommerce Web Stores Easily Import Products to a Facebook Page Storefront"
-date: 2011-03-23 12:17:31 +0000
+date: 2011-03-23 07:17:31 -0500
 external-url: http://www.insidefacebook.com/2011/03/21/beetailer-ecommerce-import-products/
 hash: 9391e7018101da6189fa15e2721757be
 year: 2011

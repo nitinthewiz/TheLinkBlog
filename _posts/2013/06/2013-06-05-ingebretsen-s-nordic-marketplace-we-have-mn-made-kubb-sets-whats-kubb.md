@@ -1,6 +1,6 @@
 ---
 title: "Ingebretsen's Nordic Marketplace: We have MN made Kubb sets! Whats Kubb, you ask!?"
-date: 2013-06-05 15:39:21 +0000
+date: 2013-06-05 10:39:21 -0500
 external-url: http://ingebretsens.wordpress.com/2013/06/04/we-have-mn-made-kubb-sets-whats-kubb-you-ask/
 hash: 7b4bf053e78e6f1c58f00d2f578f79ff
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "News Corp. Digital Chief: We Could Block Google In Months"
-date: 2009-11-13 16:36:10 +0000
+date: 2009-11-13 10:36:10 -0600
 external-url: http://www.businessinsider.com/news-corp-digital-chief-we-could-block-google-in-months-2009-11
 hash: f8afde2732e5ac40bd03cced84ddccad
 year: 2009

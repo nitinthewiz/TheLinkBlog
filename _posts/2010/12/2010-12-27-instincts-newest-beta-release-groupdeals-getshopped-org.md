@@ -1,6 +1,6 @@
 ---
 title: "Instinct’s Newest Beta Release – GroupDeals | GetShopped.org"
-date: 2010-12-27 15:44:54 +0000
+date: 2010-12-27 09:44:54 -0600
 external-url: http://getshopped.org/plugins/instincts-newest-beta-release-groupdeals/#
 hash: f6f81515cbdea8ba13f6305ab6982413
 year: 2010

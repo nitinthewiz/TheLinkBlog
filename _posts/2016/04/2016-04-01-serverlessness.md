@@ -1,6 +1,6 @@
 ---
 title: "Serverlessness"
-date: 2016-04-01 11:37:20 +0000
+date: 2016-04-01 06:37:20 -0500
 external-url: https://www.tbray.org/ongoing/When/201x/2016/03/31/Serverlessness
 hash: ef7cfb54d702c1efedfed10f34173a2e
 year: 2016

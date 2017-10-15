@@ -1,6 +1,6 @@
 ---
 title: "Facebook evolution presents new kind of social commerce"
-date: 2012-01-26 15:20:51 +0000
+date: 2012-01-26 09:20:51 -0600
 external-url: http://www.luxurydaily.com/facebook-evolution-presents-new-kind-of-social-commerce-wwd-speaker/
 hash: 07d54c03521c4005a9528ff345cd3eca
 year: 2012

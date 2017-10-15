@@ -1,6 +1,6 @@
 ---
 title: "Fonts for my website"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://kernest.com/styles/for-jamie
 hash: 9b18b6c891198b04ac6ed6ff45f29174
 year: 2010

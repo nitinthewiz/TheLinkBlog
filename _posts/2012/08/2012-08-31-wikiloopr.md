@@ -1,6 +1,6 @@
 ---
 title: "WikiLoopr"
-date: 2012-08-31 17:41:31 +0000
+date: 2012-08-31 12:41:31 -0500
 external-url: http://wikiloopr.com/
 hash: 06e6b86cc2ef4be36083f7197c906d56
 year: 2012

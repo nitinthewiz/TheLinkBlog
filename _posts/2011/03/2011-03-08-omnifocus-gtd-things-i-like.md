@@ -1,6 +1,6 @@
 ---
 title: "OmniFocus & GTD - Things I Like"
-date: 2011-03-08 19:58:53 +0000
+date: 2011-03-08 13:58:53 -0600
 external-url: http://andrewminer.tumblr.com/omnifocus
 hash: 6d488223f199edaad56884382ed5b0ad
 year: 2011

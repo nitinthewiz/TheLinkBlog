@@ -1,7 +1,7 @@
 ---
 title: "Jens Voigt joking about Astana (via Vendettaonly)
 No matter how..."
-date: 2010-09-23 14:04:43 +0000
+date: 2010-09-23 09:04:43 -0500
 external-url: http://mindtron.tumblr.com/post/1173001877
 hash: 975158d3cac0286b803bc0b91335ac0a
 year: 2010

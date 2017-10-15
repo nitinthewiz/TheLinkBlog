@@ -1,6 +1,6 @@
 ---
 title: "Go Grandmaster Lee Sedol Grabs Consolation Win Against Google’s AI"
-date: 2016-03-13 11:49:06 +0000
+date: 2016-03-13 06:49:06 -0500
 external-url: http://www.wired.com/2016/03/go-grandmaster-lee-sedol-grabs-consolation-win-googles-ai/
 hash: ba4fb239f90fa6474d4b01769a1aaff5
 year: 2016

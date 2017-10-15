@@ -1,6 +1,6 @@
 ---
 title: "Social Cooling"
-date: 2017-06-20 10:36:37 +0000
+date: 2017-06-20 05:36:37 -0500
 external-url: https://www.socialcooling.com/
 hash: 606e078d128d7c261f929febfb3c2e25
 year: 2017

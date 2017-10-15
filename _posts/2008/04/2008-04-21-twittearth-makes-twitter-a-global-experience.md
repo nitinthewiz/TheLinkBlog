@@ -1,6 +1,6 @@
 ---
 title: "TwittEarth Makes Twitter A Global Experience"
-date: 2008-04-21 07:06:46 +0000
+date: 2008-04-21 02:06:46 -0500
 external-url: http://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/
 hash: 79b1ecbb9c73f433a31edd49cc14b27d
 year: 2008

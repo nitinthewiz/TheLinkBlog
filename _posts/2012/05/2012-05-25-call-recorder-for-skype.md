@@ -1,6 +1,6 @@
 ---
 title: "Call Recorder for Skype"
-date: 2012-05-25 18:11:45 +0000
+date: 2012-05-25 13:11:45 -0500
 external-url: http://www.ecamm.com/mac/callrecorder/
 hash: 95833390abe703e2f45b90cf89d6d8d9
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "'Bloom County' And Opus The Penguin Return After A 25-Year Hiatus : NPR"
-date: 2016-02-15 21:50:19 +0000
+date: 2016-02-15 15:50:19 -0600
 external-url: http://www.npr.org/2015/10/12/447117474/bloom-county-and-opus-the-penguin-return-after-a-25-year-hiatus
 hash: 7b442f3ecf21ea520247c8b37574192c
 year: 2016

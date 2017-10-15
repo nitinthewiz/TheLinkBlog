@@ -1,6 +1,6 @@
 ---
 title: "LaptopVideo2Go .com"
-date: 2007-02-12 16:38:28 +0000
+date: 2007-02-12 10:38:28 -0600
 external-url: http://www.laptopvideo2go.com/
 hash: 13297d15db6200654121fd06788beb29
 year: 2007

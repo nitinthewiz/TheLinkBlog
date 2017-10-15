@@ -1,6 +1,6 @@
 ---
 title: "What is Traitorware?"
-date: 2011-03-04 20:28:42 +0000
+date: 2011-03-04 14:28:42 -0600
 external-url: https://www.eff.org/deeplinks/2010/12/what-traitorware
 hash: d8dbe59d5ab5ec9425385dfe968122c7
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Wikileaks’ Cables now available on Amazon, reviewers are not happy."
-date: 2010-12-10 12:54:14 +0000
+date: 2010-12-10 06:54:14 -0600
 external-url: http://thenextweb.com/media/2010/12/09/wikileaks-cables-now-available-on-amazon-reviewers-are-not-happy/
 hash: beac1b29bbf1b9dcee3488b23c34e722
 year: 2010

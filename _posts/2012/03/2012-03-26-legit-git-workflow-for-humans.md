@@ -1,6 +1,6 @@
 ---
 title: "Legit (Git Workflow for Humans)"
-date: 2012-03-26 19:28:40 +0000
+date: 2012-03-26 14:28:40 -0500
 external-url: http://www.git-legit.org/
 hash: 0f882ec0aa10424e413c7f0b0f053b06
 year: 2012

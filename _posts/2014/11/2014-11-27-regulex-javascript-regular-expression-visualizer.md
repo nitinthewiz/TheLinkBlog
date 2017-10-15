@@ -1,6 +1,6 @@
 ---
 title: "Regulex : JavaScript Regular Expression Visualizer."
-date: 2014-11-27 20:48:10 +0000
+date: 2014-11-27 14:48:10 -0600
 external-url: http://jex.im/regulex/
 hash: c4199e9abf6d53d9a5c8b4b43eee4711
 year: 2014

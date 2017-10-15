@@ -1,6 +1,6 @@
 ---
 title: "Bill Watterson's Speech at Kenyon College (1990)"
-date: 2012-07-05 19:14:13 +0000
+date: 2012-07-05 14:14:13 -0500
 external-url: http://www.serverunderground.com/archive/bill_watterson.html
 hash: dc12937499eef0d6a669a4bf45c43694
 year: 2012

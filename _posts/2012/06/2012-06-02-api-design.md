@@ -1,6 +1,6 @@
 ---
 title: "API Design"
-date: 2012-06-02 06:13:52 +0000
+date: 2012-06-02 01:13:52 -0500
 external-url: http://mattgemmell.com/api-design/
 hash: 821ac7a2c2ad41dc43aa18bea3be67ef
 year: 2012

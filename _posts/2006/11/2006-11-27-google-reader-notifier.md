@@ -1,6 +1,6 @@
 ---
 title: "Google Reader Notifier"
-date: 2006-11-27 21:52:32 +0000
+date: 2006-11-27 15:52:32 -0600
 external-url: http://troelsbay.eu/software/reader
 hash: 7486ecdc3a3273395332ee14574ddab8
 year: 2006

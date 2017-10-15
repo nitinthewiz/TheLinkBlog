@@ -1,6 +1,6 @@
 ---
 title: "16 mobile theses — Benedict Evans"
-date: 2015-12-29 11:46:04 +0000
+date: 2015-12-29 05:46:04 -0600
 external-url: http://ben-evans.com/benedictevans/2015/12/15/16-mobile-theses
 hash: c6c5bc7c610cdff9cfc8aa12a6ae03aa
 year: 2015

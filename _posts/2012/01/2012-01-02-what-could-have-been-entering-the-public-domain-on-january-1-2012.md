@@ -1,6 +1,6 @@
 ---
 title: "What Could Have Been Entering the Public Domain on January 1, 2012?"
-date: 2012-01-02 10:36:30 +0000
+date: 2012-01-02 04:36:30 -0600
 external-url: http://www.law.duke.edu/cspd/publicdomainday/2012/pre-1976
 hash: ad259e5b147921368482524cd9d88283
 year: 2012

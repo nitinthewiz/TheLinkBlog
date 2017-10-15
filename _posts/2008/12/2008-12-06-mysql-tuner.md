@@ -1,6 +1,6 @@
 ---
 title: "MySQL Tuner"
-date: 2008-12-06 15:16:00 +0000
+date: 2008-12-06 09:16:00 -0600
 external-url: http://wiki.mysqltuner.com/MySQLTuner
 hash: c4c216cd774a07ab27d63bafa37530f1
 year: 2008

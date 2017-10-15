@@ -1,6 +1,6 @@
 ---
 title: "Thanks for the Tax Cut!"
-date: 2010-12-21 11:49:56 +0000
+date: 2010-12-21 05:49:56 -0600
 external-url: http://www.nytimes.com/2010/12/21/opinion/21david.html?_r=3&hp
 hash: eb5a334c1919094c5011069cd6130030
 year: 2010

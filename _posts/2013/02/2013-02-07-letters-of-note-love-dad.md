@@ -1,6 +1,6 @@
 ---
 title: "Letters of Note: Love, Dad"
-date: 2013-02-07 16:43:46 +0000
+date: 2013-02-07 10:43:46 -0600
 external-url: http://www.lettersofnote.com/2012/05/love-dad.html
 hash: 094f91edf60e2a0344a1356f2bf8505e
 year: 2013

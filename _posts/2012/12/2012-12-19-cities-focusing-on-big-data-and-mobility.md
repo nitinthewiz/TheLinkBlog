@@ -1,6 +1,6 @@
 ---
 title: "Cities Focusing On Big Data And Mobility"
-date: 2012-12-19 13:33:31 +0000
+date: 2012-12-19 07:33:31 -0600
 external-url: http://www.businessinsider.com/cities-focusing-on-big-data-and-mobility-2012-12
 hash: 1e816ae3ccbba10f1ed1f46365082f1b
 year: 2012

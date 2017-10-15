@@ -1,6 +1,6 @@
 ---
 title: "HipChat Bots: A guide for the humans"
-date: 2016-02-24 19:19:22 +0000
+date: 2016-02-24 13:19:22 -0600
 external-url: https://blog.hipchat.com/2016/02/24/hipchat-bots-a-guide-for-the-humans/
 hash: bb2d820e3d4e19e72213a8a66aa61efd
 year: 2016

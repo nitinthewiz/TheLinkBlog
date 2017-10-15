@@ -1,6 +1,6 @@
 ---
 title: "Wikiteam - tools for archiving wikis"
-date: 2012-05-15 05:25:05 +0000
+date: 2012-05-15 00:25:05 -0500
 external-url: http://code.google.com/p/wikiteam/
 hash: 3e9e16411bd11ff438d436d69da55fdd
 year: 2012

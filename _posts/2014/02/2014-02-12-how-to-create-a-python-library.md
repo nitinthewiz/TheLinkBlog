@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Python Library"
-date: 2014-02-12 23:29:13 +0000
+date: 2014-02-12 17:29:13 -0600
 external-url: http://pypix.com/python/create-python-library/
 hash: a01de2b0c9ac84739a7cd74c2e66c3a8
 year: 2014

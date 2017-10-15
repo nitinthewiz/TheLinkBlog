@@ -1,6 +1,6 @@
 ---
 title: "Star Tribune To Give Some 'Deeper' Stories To Print Subscribers Exclusively"
-date: 2009-03-31 05:18:07 +0000
+date: 2009-03-31 00:18:07 -0500
 external-url: https://gigaom.com/2009/03/30/419-star-tribune-begins-holding-back-free-online-news-stories-next-week/
 hash: 6684f45575f04793e6fa08d99a46267e
 year: 2009

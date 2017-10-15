@@ -1,6 +1,6 @@
 ---
 title: "Stock and flow - Snarkmarket"
-date: 2013-03-04 12:03:02 +0000
+date: 2013-03-04 06:03:02 -0600
 external-url: http://snarkmarket.com/2010/4890
 hash: 83f4fbcfb69c8cafc91066b892128e99
 year: 2013

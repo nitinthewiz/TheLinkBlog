@@ -1,6 +1,6 @@
 ---
 title: "Prescott Studio"
-date: 2013-06-01 21:19:11 +0000
+date: 2013-06-01 16:19:11 -0500
 external-url: http://prescottstudio.com/
 hash: e36e63eb574339d522754d5d053b9024
 year: 2013

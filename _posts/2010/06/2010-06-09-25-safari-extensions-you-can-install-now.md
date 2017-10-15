@@ -1,6 +1,6 @@
 ---
 title: "25 Safari Extensions You Can Install Now"
-date: 2010-06-09 21:18:55 +0000
+date: 2010-06-09 16:18:55 -0500
 external-url: http://gigaom.com/apple/25-safari-extensions-you-can-install-now/
 hash: 8d1f8d99931e9c9e9c89cf1589f9835d
 year: 2010

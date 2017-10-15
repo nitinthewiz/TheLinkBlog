@@ -1,6 +1,6 @@
 ---
 title: "Time's hundred most influential"
-date: 2012-04-19 19:44:13 +0000
+date: 2012-04-19 14:44:13 -0500
 external-url: http://scripting.com/stories/2012/04/19/timesHundredMostInfluentia.html
 hash: 4338836d698c4bef7abe051fc802defc
 year: 2012

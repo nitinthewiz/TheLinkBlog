@@ -1,6 +1,6 @@
 ---
 title: "Kindle Statistics"
-date: 2009-09-20 15:01:24 +0000
+date: 2009-09-20 10:01:24 -0500
 external-url: http://ma.tt/2009/09/kindle-statistics/
 hash: d9201904f96b4bf8b03e1934ec40a59d
 year: 2009

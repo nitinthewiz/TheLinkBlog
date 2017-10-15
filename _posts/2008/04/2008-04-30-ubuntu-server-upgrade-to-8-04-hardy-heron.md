@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu Server Upgrade to 8.04 Hardy Heron"
-date: 2008-04-30 07:30:23 +0000
+date: 2008-04-30 02:30:23 -0500
 external-url: http://hostingfu.com/article/ubuntu-server-upgrade-8-04-hardy-heron
 hash: e2c8733207713f042c1c823775842678
 year: 2008

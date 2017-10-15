@@ -1,6 +1,6 @@
 ---
 title: "Jamie (Minneapolis, MN)'s review of Traffic: Why We Drive the Way We Do"
-date: 2010-03-19 05:10:56 +0000
+date: 2010-03-19 00:10:56 -0500
 external-url: http://www.goodreads.com/
 hash: c4e684e1502d38e6d4b76322ae21b39b
 year: 2010

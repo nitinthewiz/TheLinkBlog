@@ -1,6 +1,6 @@
 ---
 title: "persevere-framework - Persevere - REST JSON database, distributed computing, and persistent object mapping for JavaScript - Google Project Hosting"
-date: 2012-01-06 16:11:55 +0000
+date: 2012-01-06 10:11:55 -0600
 external-url: http://code.google.com/p/persevere-framework/
 hash: 2d96b919e9c2fb1345ff77338440728c
 year: 2012

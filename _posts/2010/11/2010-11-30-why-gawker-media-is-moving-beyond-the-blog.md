@@ -1,6 +1,6 @@
 ---
 title: "Why Gawker Media is moving beyond the blog"
-date: 2010-11-30 18:17:39 +0000
+date: 2010-11-30 12:17:39 -0600
 external-url: http://www.poynter.org/latest-news/mediawire/108606/why-gawker-media-is-moving-beyond-the-blog/
 hash: ee6f496eaa30beb8a32a65a6098c30a0
 year: 2010

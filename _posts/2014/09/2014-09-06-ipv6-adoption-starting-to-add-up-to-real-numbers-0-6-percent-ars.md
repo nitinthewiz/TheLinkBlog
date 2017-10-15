@@ -1,6 +1,6 @@
 ---
 title: "IPv6 adoption starting to add up to real numbers: 0.6 percent - Ars Technica"
-date: 2014-09-06 14:54:37 +0000
+date: 2014-09-06 09:54:37 -0500
 external-url: http://arstechnica.com/business/2014/08/ipv6-adoption-starting-to-add-up-to-real-numbers-0-6-percent/
 hash: 7dc1bd7f1b87ad5051c46661c0b1521d
 year: 2014

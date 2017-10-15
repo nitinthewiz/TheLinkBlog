@@ -1,6 +1,6 @@
 ---
 title: "IT must become a service provider, or die"
-date: 2014-10-25 12:51:50 +0000
+date: 2014-10-25 07:51:50 -0500
 external-url: http://redmonk.com/dberkholz/2014/09/29/it-must-become-a-service-provider-or-die/
 hash: 3b4bb1c14cd170197b8596458e7f5e6b
 year: 2014

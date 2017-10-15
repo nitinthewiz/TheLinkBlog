@@ -1,6 +1,6 @@
 ---
 title: "News Redux"
-date: 2011-07-26 19:22:20 +0000
+date: 2011-07-26 14:22:20 -0500
 external-url: http://andyrutledge.com/news-redux.php
 hash: e15f1868f7a2af63f32a6762248e8243
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "The Tragedy of Sarah Palin"
-date: 2011-05-13 20:32:37 +0000
+date: 2011-05-13 15:32:37 -0500
 external-url: http://www.theatlantic.com/magazine/archive/2011/06/the-tragedy-of-sarah-palin/308492/
 hash: f94b37e7aab95222ca9556c624480947
 year: 2011

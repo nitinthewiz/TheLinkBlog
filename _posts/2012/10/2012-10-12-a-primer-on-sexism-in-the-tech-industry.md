@@ -1,6 +1,6 @@
 ---
 title: "A primer on sexism in the tech industry"
-date: 2012-10-12 18:15:04 +0000
+date: 2012-10-12 13:15:04 -0500
 external-url: http://www.creativebloq.com/net/creative-bloq-welcomes-readers-net-magazine-9134344
 hash: 54c6768044edc48cbf6d276271607904
 year: 2012

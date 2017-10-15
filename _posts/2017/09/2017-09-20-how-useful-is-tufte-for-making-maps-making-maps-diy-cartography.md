@@ -1,6 +1,6 @@
 ---
 title: "How Useful is Tufte for Making Maps? | Making Maps: DIY Cartography"
-date: 2017-09-20 09:56:43 +0000
+date: 2017-09-20 04:56:43 -0500
 external-url: https://makingmaps.net/2007/08/16/how-useful-is-tufte-for-making-maps/
 hash: 14679c3e11e605203d5d6065224e047a
 year: 2017

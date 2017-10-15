@@ -1,6 +1,6 @@
 ---
 title: "Romney: I invented the Internet."
-date: 2007-12-20 17:36:05 +0000
+date: 2007-12-20 11:36:05 -0600
 external-url: http://www.dailykos.com/story/2007/12/20/424786/-Romney-I-invented-the-Internet
 hash: 88b1dd780112f1045295d4c18c9f5d16
 year: 2007

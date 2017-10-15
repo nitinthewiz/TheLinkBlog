@@ -1,6 +1,6 @@
 ---
 title: "Ha Ha, Your Medium Is Dying: Mocking Financial Magazine Videos"
-date: 2008-04-02 14:31:39 +0000
+date: 2008-04-02 09:31:39 -0500
 external-url: http://gawker.com/374919/ha-ha-your-medium-is-dying-mocking-financial-magazine-videos
 hash: 9b678d129cc8de49b27e2d350ad41d21
 year: 2008

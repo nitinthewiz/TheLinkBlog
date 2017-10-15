@@ -1,6 +1,6 @@
 ---
 title: "50 - One more thing…"
-date: 2017-10-01 15:04:40 +0000
+date: 2017-10-01 10:04:40 -0500
 external-url: https://tinyletter.com/patrickrhone/letters/50
 hash: eaa658b110bcb39ad0734d4210dd2217
 year: 2017

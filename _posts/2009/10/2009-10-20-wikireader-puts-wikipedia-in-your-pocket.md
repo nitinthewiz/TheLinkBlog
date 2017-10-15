@@ -1,6 +1,6 @@
 ---
 title: "WikiReader Puts Wikipedia in Your Pocket"
-date: 2009-10-20 15:04:03 +0000
+date: 2009-10-20 10:04:03 -0500
 external-url: http://tidbits.com/article/10650
 hash: f2cd5108b3dbf326c8eea3b20a82f840
 year: 2009

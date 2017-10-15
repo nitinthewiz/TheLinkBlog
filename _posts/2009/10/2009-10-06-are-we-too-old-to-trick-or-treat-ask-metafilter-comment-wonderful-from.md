@@ -1,6 +1,6 @@
 ---
 title: "Are we too old to trick or treat? | Ask Metafilter [comment] Wonderful  anecdote from MeFi: I..."
-date: 2009-10-06 15:48:34 +0000
+date: 2009-10-06 10:48:34 -0500
 external-url: http://www.kungfugrippe.com/post/204206094
 hash: 19c400e7776869dcdfbf9804e51fade1
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "David Callaway named EIC of USA Today"
-date: 2012-07-10 19:20:08 +0000
+date: 2012-07-10 14:20:08 -0500
 external-url: http://www.politico.com/blogs/media/2012/07/usa-today-to-name-david-callaway-editor-128503.html
 hash: 11988b430e95785daa5d5d2882774643
 year: 2012

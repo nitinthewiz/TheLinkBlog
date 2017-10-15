@@ -1,6 +1,6 @@
 ---
 title: "BumpTop 3D Desktop Prototype - www.bumptop.com"
-date: 2008-01-18 15:10:35 +0000
+date: 2008-01-18 09:10:35 -0600
 external-url: https://www.youtube.com/watch?v=M0ODskdEPnQ
 hash: dc9aae56768d9b28d69e37211ffa738d
 year: 2008

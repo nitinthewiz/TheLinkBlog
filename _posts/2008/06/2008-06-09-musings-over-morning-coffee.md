@@ -1,6 +1,6 @@
 ---
 title: "Musings Over Morning Coffee"
-date: 2008-06-09 13:25:54 +0000
+date: 2008-06-09 08:25:54 -0500
 external-url: http://www.dailykos.com/story/2008/06/09/532220/-Musings-Over-Morning-Coffee
 hash: 38044588f5fbd18a55c8e1fc76fd1505
 year: 2008

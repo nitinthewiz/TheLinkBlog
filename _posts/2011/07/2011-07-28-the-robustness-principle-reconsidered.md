@@ -1,6 +1,6 @@
 ---
 title: "The Robustness Principle Reconsidered"
-date: 2011-07-28 09:19:59 +0000
+date: 2011-07-28 04:19:59 -0500
 external-url: http://cacm.acm.org/magazines/2011/8/114933-the-robustness-principle-reconsidered/fulltext
 hash: f7907bdfe15322de2aa0636757ba19ee
 year: 2011

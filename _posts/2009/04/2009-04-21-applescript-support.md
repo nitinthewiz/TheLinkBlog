@@ -1,6 +1,6 @@
 ---
 title: "AppleScript support"
-date: 2009-04-21 05:21:56 +0000
+date: 2009-04-21 00:21:56 -0500
 external-url: http://retired.getsatisfaction.com/
 hash: c5de96653a3002ac446d626014639817
 year: 2009

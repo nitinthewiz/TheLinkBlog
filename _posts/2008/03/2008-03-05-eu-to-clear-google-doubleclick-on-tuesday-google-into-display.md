@@ -1,6 +1,6 @@
 ---
 title: "EU To Clear Google-DoubleClick on Tuesday, Google Into Display"
-date: 2008-03-05 23:37:00 +0000
+date: 2008-03-05 17:37:00 -0600
 external-url: http://www.businessinsider.com/2008/3/eu-to-clear-google-doubleclick-on-tuesday--about-time-
 hash: 3853823a4b0db616d0ec3793055d3adb
 year: 2008

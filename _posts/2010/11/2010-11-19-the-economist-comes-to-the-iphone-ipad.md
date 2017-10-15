@@ -1,6 +1,6 @@
 ---
 title: "The Economist Comes to the iPhone & iPad"
-date: 2010-11-19 19:56:22 +0000
+date: 2010-11-19 13:56:22 -0600
 external-url: http://mashable.com/2010/11/19/the-economist-iphone-ipad/
 hash: 11437f5de153f2810f61631912fe9771
 year: 2010

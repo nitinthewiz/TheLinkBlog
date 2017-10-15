@@ -1,6 +1,6 @@
 ---
 title: "Making Sense of Data"
-date: 2014-03-03 11:37:27 +0000
+date: 2014-03-03 05:37:27 -0600
 external-url: https://datasense.withgoogle.com/course
 hash: cc904d2259dfc168b05170f930dbab67
 year: 2014

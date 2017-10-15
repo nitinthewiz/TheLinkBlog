@@ -1,6 +1,6 @@
 ---
 title: "Online Ad Revenue"
-date: 2008-11-24 15:02:09 +0000
+date: 2008-11-24 09:02:09 -0600
 external-url: http://jasonschaeffer.net/2008/11/24/online-ad-revenue/
 hash: 1d589b6ab9d151a22fa3b4cf8217ee6f
 year: 2008

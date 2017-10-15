@@ -1,6 +1,6 @@
 ---
 title: "HOWTO: Rotate your video in QuickTime Pro - The Unofficial Apple Weblog (TUAW)"
-date: 2007-06-06 16:34:14 +0000
+date: 2007-06-06 11:34:14 -0500
 external-url: http://www.tuaw.com/2007/04/11/howto-rotate-your-video-in-quicktime-pro/
 hash: 09ceae21bee603916795a486c85a7637
 year: 2007

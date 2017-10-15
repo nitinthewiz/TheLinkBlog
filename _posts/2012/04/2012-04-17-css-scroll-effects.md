@@ -1,6 +1,6 @@
 ---
 title: "CSS Scroll Effects"
-date: 2012-04-17 19:07:32 +0000
+date: 2012-04-17 14:07:32 -0500
 external-url: http://lab.hakim.se/scroll-effects/
 hash: 5600fb36137bc6dd26035d01dc4b7a3f
 year: 2012

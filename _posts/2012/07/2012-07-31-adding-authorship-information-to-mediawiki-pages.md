@@ -1,6 +1,6 @@
 ---
 title: "Adding authorship information to MediaWiki pages"
-date: 2012-07-31 15:10:22 +0000
+date: 2012-07-31 10:10:22 -0500
 external-url: http://blog.xn--ssongsmat-v2a.nu/tag/katakana/feed/
 hash: a6124db30a75639696a0f526b1f5c414
 year: 2012

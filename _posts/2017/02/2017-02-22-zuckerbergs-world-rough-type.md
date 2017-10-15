@@ -1,6 +1,6 @@
 ---
 title: "Zuckerberg’s world | ROUGH TYPE"
-date: 2017-02-22 12:50:05 +0000
+date: 2017-02-22 06:50:05 -0600
 external-url: http://www.roughtype.com/?p=7651
 hash: f3d1b3ff4971dd0d3a66895241872d78
 year: 2017

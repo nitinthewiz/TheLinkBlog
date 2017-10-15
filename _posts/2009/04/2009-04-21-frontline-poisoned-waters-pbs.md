@@ -1,6 +1,6 @@
 ---
 title: "FRONTLINE: poisoned waters | PBS"
-date: 2009-04-21 15:34:03 +0000
+date: 2009-04-21 10:34:03 -0500
 external-url: http://www.pbs.org/wgbh/pages/frontline/poisonedwaters/
 hash: a7576c5d3a7e14ddce2b805a9a9f291a
 year: 2009

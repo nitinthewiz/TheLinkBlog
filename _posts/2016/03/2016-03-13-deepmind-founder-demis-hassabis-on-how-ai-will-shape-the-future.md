@@ -1,6 +1,6 @@
 ---
 title: "DeepMind founder Demis Hassabis on how AI will shape the future"
-date: 2016-03-13 12:02:55 +0000
+date: 2016-03-13 07:02:55 -0500
 external-url: http://www.theverge.com/2016/3/10/11192774/demis-hassabis-interview-alphago-google-deepmind-ai
 hash: 410d317d552b725d6e6097432c06efee
 year: 2016

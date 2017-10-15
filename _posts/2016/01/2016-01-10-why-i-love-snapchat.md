@@ -1,6 +1,6 @@
 ---
 title: "Why I love Snapchat"
-date: 2016-01-10 10:58:10 +0000
+date: 2016-01-10 04:58:10 -0600
 external-url: http://justinkan.com/why-i-love-snapchat
 hash: fb255cb371fabe6d9f0781640983fa2b
 year: 2016

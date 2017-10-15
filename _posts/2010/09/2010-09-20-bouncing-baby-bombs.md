@@ -1,6 +1,6 @@
 ---
 title: "Bouncing baby bombs"
-date: 2010-09-20 20:07:45 +0000
+date: 2010-09-20 15:07:45 -0500
 external-url: http://kottke.org/10/09/bouncing-baby-bombs
 hash: d713a7fb7863603e6d949be51d2a6543
 year: 2010

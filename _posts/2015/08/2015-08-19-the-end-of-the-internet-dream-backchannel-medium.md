@@ -1,6 +1,6 @@
 ---
 title: "The End of the Internet Dream? — Backchannel — Medium"
-date: 2015-08-19 12:19:41 +0000
+date: 2015-08-19 07:19:41 -0500
 external-url: https://medium.com/backchannel/the-end-of-the-internet-dream-ba060b17da61
 hash: 60fc8bdc37732b4bb27fe4a3614f538f
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Amazon Simple Workflow Service"
-date: 2014-02-26 23:57:35 +0000
+date: 2014-02-26 17:57:35 -0600
 external-url: http://aws.amazon.com/swf/
 hash: 2f3f396c9e60664b4aeb9db3259693a0
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: "Funding Math and Science Projects For Young Women"
-date: 2010-10-31 14:22:08 +0000
+date: 2010-10-31 09:22:08 -0500
 external-url: http://avc.com/2010/10/funding-math-and-science-projects-for-young-women/
 hash: f213f8374d41bb7523aef0eec1190bf2
 year: 2010

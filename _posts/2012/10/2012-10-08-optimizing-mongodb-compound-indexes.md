@@ -1,6 +1,6 @@
 ---
 title: "Optimizing MongoDB Compound Indexes"
-date: 2012-10-08 20:08:13 +0000
+date: 2012-10-08 15:08:13 -0500
 external-url: http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/
 hash: ab20af3bfec576cbca3c228d0e3d97f5
 year: 2012

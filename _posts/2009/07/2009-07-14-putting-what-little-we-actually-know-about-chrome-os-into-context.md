@@ -1,6 +1,6 @@
 ---
 title: "★ Putting What Little We Actually Know About Chrome OS Into Context"
-date: 2009-07-14 17:16:55 +0000
+date: 2009-07-14 12:16:55 -0500
 external-url: http://daringfireball.net/2009/07/chrome_os_context
 hash: f55af197d0063dcedd952801470c8b13
 year: 2009

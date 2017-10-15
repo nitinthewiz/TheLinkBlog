@@ -1,6 +1,6 @@
 ---
 title: "Randi Zuckerberg Runs in the Wrong Direction on Pseudonymity Online"
-date: 2011-08-03 16:34:52 +0000
+date: 2011-08-03 11:34:52 -0500
 external-url: https://www.eff.org/deeplinks/2011/08/randi-zuckerberg-runs-wrong-direction-pseudonymity
 hash: 3978fde148e76188c23c44f577213fe2
 year: 2011

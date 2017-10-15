@@ -1,6 +1,6 @@
 ---
 title: "General Compression – Dispatchable Wind -- energy on demand"
-date: 2007-05-23 11:55:28 +0000
+date: 2007-05-23 06:55:28 -0500
 external-url: http://www.generalcompression.com/
 hash: 716c53b638942bbb5c1101b9884af293
 year: 2007

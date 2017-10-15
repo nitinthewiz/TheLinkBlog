@@ -1,6 +1,6 @@
 ---
 title: "James Howard Kunstler: The tragedy of suburbia"
-date: 2007-08-23 14:25:53 +0000
+date: 2007-08-23 09:25:53 -0500
 external-url: http://www.ted.com/talks/james_howard_kunstler_dissects_suburbia
 hash: e94fe33fc8a3fcdd66dc664c12b292a4
 year: 2007

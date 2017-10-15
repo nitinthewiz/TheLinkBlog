@@ -1,6 +1,6 @@
 ---
 title: "Fast, easy, realtime metrics using Redis bitmaps"
-date: 2011-11-30 19:20:31 +0000
+date: 2011-11-30 13:20:31 -0600
 external-url: http://blog.getspool.com/2011/11/29/fast-easy-realtime-metrics-using-redis-bitmaps/
 hash: 39813907054f2be1d1b3ab31c2e8b795
 year: 2011

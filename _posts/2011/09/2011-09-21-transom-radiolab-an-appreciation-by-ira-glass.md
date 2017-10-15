@@ -1,6 +1,6 @@
 ---
 title: "Transom Radiolab: An Appreciation by Ira Glass"
-date: 2011-09-21 18:12:51 +0000
+date: 2011-09-21 13:12:51 -0500
 external-url: http://transom.org/2011/ira-glass-radiolab-appreciation/
 hash: bdbe66f02e8a73ec9f9ff5a337b1a4fb
 year: 2011

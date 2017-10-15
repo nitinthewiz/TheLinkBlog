@@ -1,6 +1,6 @@
 ---
 title: "Reinventing Performance Management - HBR"
-date: 2015-08-06 10:35:57 +0000
+date: 2015-08-06 05:35:57 -0500
 external-url: https://hbr.org/2015/04/reinventing-performance-management
 hash: d3b6f813057ce3d2e219a6055d6cb36c
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Check Your WordPress Security"
-date: 2008-04-14 19:01:06 +0000
+date: 2008-04-14 14:01:06 -0500
 external-url: http://www.red-sweater.com/blog/488/check-your-wordpress-security
 hash: 126fc4bf79a06eee4a097a012144fa87
 year: 2008

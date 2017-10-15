@@ -1,6 +1,6 @@
 ---
 title: "WSJ Staff To Move Into News Corp HQs?; Online Model Set For Now"
-date: 2008-03-27 05:46:50 +0000
+date: 2008-03-27 00:46:50 -0500
 external-url: https://gigaom.com/2008/03/27/419-wsj-staff-to-move-into-news-corp-hqs-online-model-set-for-now/
 hash: 0bab294e1b30345c1abd38c229620c47
 year: 2008

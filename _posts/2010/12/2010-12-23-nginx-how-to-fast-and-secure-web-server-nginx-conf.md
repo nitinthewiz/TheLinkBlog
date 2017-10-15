@@ -1,6 +1,6 @@
 ---
 title: "Nginx \"how to\" - Fast and Secure Web Server (nginx.conf)"
-date: 2010-12-23 16:46:32 +0000
+date: 2010-12-23 10:46:32 -0600
 external-url: https://calomel.org/nginx.html
 hash: 2a61faae90e49ba56101d8753641df07
 year: 2010

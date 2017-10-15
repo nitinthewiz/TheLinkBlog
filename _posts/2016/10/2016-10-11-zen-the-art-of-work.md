@@ -1,6 +1,6 @@
 ---
 title: "Zen& The Art of Work"
-date: 2016-10-11 15:49:40 +0000
+date: 2016-10-11 10:49:40 -0500
 external-url: http://www.zenandtheartofwork.com/
 hash: 5bb05c0ee56aef746b893cc0c4aa252f
 year: 2016

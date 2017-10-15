@@ -1,6 +1,6 @@
 ---
 title: "Is JPMorgan a farmer? - Salon.com"
-date: 2013-03-21 17:46:38 +0000
+date: 2013-03-21 12:46:38 -0500
 external-url: http://www.salon.com/2013/03/20/j_p_morgan_is_not_a_farmer/
 hash: 7f80da267eafa06e31a2c79045c2275a
 year: 2013

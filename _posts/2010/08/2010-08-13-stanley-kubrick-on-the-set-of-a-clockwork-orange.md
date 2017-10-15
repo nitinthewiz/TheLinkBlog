@@ -1,6 +1,6 @@
 ---
 title: "Stanley Kubrick, on the Set of A Clockwork Orange"
-date: 2010-08-13 16:20:21 +0000
+date: 2010-08-13 11:20:21 -0500
 external-url: http://www.theguardian.com/artanddesign/2010/aug/11/dmitri-kasterine-best-shot-photography
 hash: ed8a806a9266e6ce4cc59ba151488943
 year: 2010

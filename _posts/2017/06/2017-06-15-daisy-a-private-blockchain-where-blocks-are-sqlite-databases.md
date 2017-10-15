@@ -1,6 +1,6 @@
 ---
 title: "Daisy - a private blockchain where blocks are SQLite databases"
-date: 2017-06-15 11:09:21 +0000
+date: 2017-06-15 06:09:21 -0500
 external-url: https://github.com/ivoras/daisy
 hash: f695dc5f3e63603457b54e87a5bd6853
 year: 2017

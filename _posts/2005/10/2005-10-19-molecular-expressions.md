@@ -1,6 +1,6 @@
 ---
 title: "Molecular Expressions"
-date: 2005-10-19 23:22:26 +0000
+date: 2005-10-19 18:22:26 -0500
 external-url: http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/index.html
 hash: 2c85cf7c62f10f723d86b49e154946ab
 year: 2005

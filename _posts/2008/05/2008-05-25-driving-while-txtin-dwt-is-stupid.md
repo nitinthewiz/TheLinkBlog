@@ -1,6 +1,6 @@
 ---
 title: "Driving While TXTin (DWT) Is Stupid"
-date: 2008-05-25 16:35:15 +0000
+date: 2008-05-25 11:35:15 -0500
 external-url: https://gigaom.com/2008/05/25/driving-while-texting/
 hash: 51d586c7b45c8e7d3a9dc6e164bb8452
 year: 2008

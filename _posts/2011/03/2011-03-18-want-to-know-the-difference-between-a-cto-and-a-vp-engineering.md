@@ -1,6 +1,6 @@
 ---
 title: "Want to Know the Difference Between a CTO and a VP Engineering?"
-date: 2011-03-18 05:03:29 +0000
+date: 2011-03-18 00:03:29 -0500
 external-url: http://www.bothsidesofthetable.com/want-to-know-difference-between-a-cto-and-a-vp-of-engineering/
 hash: 4f686e158a617b05b34ac35d83f0b434
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "How to customize your AirPods on iOS"
-date: 2017-04-14 06:41:48 +0000
+date: 2017-04-14 01:41:48 -0500
 external-url: http://thesweetsetup.com/customize-airpods-ios/
 hash: 870fde1c6f36635165089de57a078b0e
 year: 2017

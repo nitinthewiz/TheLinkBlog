@@ -1,6 +1,6 @@
 ---
 title: "@jayrosen nyu: whatever happened to civic journalism?"
-date: 2013-04-16 15:56:40 +0000
+date: 2013-04-16 10:56:40 -0500
 external-url: https://twitter.com/jayrosen_nyu/status/324171927147143172
 hash: ce208928338239b46a503d62521c7527
 year: 2013

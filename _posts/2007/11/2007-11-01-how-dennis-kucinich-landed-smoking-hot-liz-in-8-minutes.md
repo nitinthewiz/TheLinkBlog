@@ -1,6 +1,6 @@
 ---
 title: "How Dennis Kucinich Landed Smoking Hot Liz, In 8 Minutes"
-date: 2007-11-01 17:39:04 +0000
+date: 2007-11-01 12:39:04 -0500
 external-url: http://jezebel.com/317463/how-dennis-kucinich-landed-smoking-hot-liz-in-8-minutes
 hash: cec32268b8aecac2cff209d409ce4912
 year: 2007

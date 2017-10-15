@@ -1,6 +1,6 @@
 ---
 title: "Incognito"
-date: 2010-12-11 16:53:48 +0000
+date: 2010-12-11 10:53:48 -0600
 external-url: http://www.orbicule.com/incognito/
 hash: b4f23a28d616d5da3f181d1eab6d7f1c
 year: 2010

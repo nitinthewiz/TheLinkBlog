@@ -1,6 +1,6 @@
 ---
 title: "Penn and Teller take on vaccines"
-date: 2010-09-03 08:16:54 +0000
+date: 2010-09-03 03:16:54 -0500
 external-url: http://blogs.discovermagazine.com/badastronomy/2010/08/30/penn-and-teller-take-on-vaccines/
 hash: d3b4cefa0ae20086c50d47dc785b5137
 year: 2010

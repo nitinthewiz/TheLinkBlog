@@ -1,6 +1,6 @@
 ---
 title: "Teenage Girl Blossoming Into Beautiful Object - The Onion"
-date: 2013-01-30 15:21:54 +0000
+date: 2013-01-30 09:21:54 -0600
 external-url: http://www.theonion.com/articles/teenage-girl-blossoming-into-beautiful-object%2C31061/
 hash: 7e6a721f54aedccd765ed18948bee09e
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "One to Watch: Delish"
-date: 2008-05-07 17:57:33 +0000
+date: 2008-05-07 12:57:33 -0500
 external-url: http://gigaom.com/2008/05/07/one-to-watch-delish/
 hash: 77c22ed0852877236e73cc3b8883e2bd
 year: 2008

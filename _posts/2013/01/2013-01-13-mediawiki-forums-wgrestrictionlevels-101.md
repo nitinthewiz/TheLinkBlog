@@ -1,6 +1,6 @@
 ---
 title: "MediaWiki Forums - $wgRestrictionLevels 101"
-date: 2013-01-13 20:43:13 +0000
+date: 2013-01-13 14:43:13 -0600
 external-url: http://ww2.mwusers.com/forums/content.php?129-wgRestrictionLevels-101
 hash: 2aaf2ebe3a15e790039bec62533a716b
 year: 2013

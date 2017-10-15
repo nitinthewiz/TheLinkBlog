@@ -1,6 +1,6 @@
 ---
 title: "Google Identifies Hiring Prospects Via Search Queries"
-date: 2015-08-26 17:43:47 +0000
+date: 2015-08-26 12:43:47 -0500
 external-url: http://thehustle.co/the-secret-google-interview-that-landed-me-a-job
 hash: 5318cff8e3933f290ef246bb8b8271bf
 year: 2015

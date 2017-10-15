@@ -1,6 +1,6 @@
 ---
 title: "Our favorite pro writing app for Mac - The Sweet Setup"
-date: 2015-06-26 07:01:21 +0000
+date: 2015-06-26 02:01:21 -0500
 external-url: http://thesweetsetup.com/apps/our-favorite-pro-writing-app-for-mac/
 hash: 22a1106114581c21d38054d7ab851364
 year: 2015

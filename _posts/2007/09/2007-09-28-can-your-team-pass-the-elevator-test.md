@@ -1,6 +1,6 @@
 ---
 title: "Can Your Team Pass The Elevator Test?"
-date: 2007-09-28 16:37:21 +0000
+date: 2007-09-28 11:37:21 -0500
 external-url: http://blog.codinghorror.com/can-your-team-pass-the-elevator-test
 hash: bcd9db12f03b29fe674bf20f5ef1ff6f
 year: 2007

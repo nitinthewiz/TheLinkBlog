@@ -1,6 +1,6 @@
 ---
 title: "Are We Entering the Post-Reader Era?"
-date: 2008-03-24 22:00:00 +0000
+date: 2008-03-24 17:00:00 -0500
 external-url: https://gigaom.com/2008/03/24/are-we-entering-the-post-reader-era/
 hash: 2b2c0cafc2098fc97094fd672273a223
 year: 2008

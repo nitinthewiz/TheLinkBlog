@@ -1,6 +1,6 @@
 ---
 title: "Dollar Shave Club"
-date: 2012-03-09 16:40:31 +0000
+date: 2012-03-09 10:40:31 -0600
 external-url: http://www.dollarshaveclub.com/
 hash: 5368c2179f4369d4432f5a76b4b008d0
 year: 2012

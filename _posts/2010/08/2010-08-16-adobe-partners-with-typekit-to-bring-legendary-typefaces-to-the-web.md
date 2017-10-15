@@ -1,6 +1,6 @@
 ---
 title: "Adobe partners with Typekit to bring legendary typefaces to the web"
-date: 2010-08-16 15:50:39 +0000
+date: 2010-08-16 10:50:39 -0500
 external-url: http://blog.typekit.com/2010/08/16/typekit-and-adobe/
 hash: 5d9a42dbe848e431f0acdf72d5840415
 year: 2010

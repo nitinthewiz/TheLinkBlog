@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Is and How to Stop Mistaking It for Something Else"
-date: 2012-06-27 22:37:01 +0000
+date: 2012-06-27 17:37:01 -0500
 external-url: http://www.worldofends.com/
 hash: 43c1e697346473533cfa94271419056b
 year: 2012

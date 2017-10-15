@@ -1,6 +1,6 @@
 ---
 title: "Confidant"
-date: 2015-11-05 11:48:13 +0000
+date: 2015-11-05 05:48:13 -0600
 external-url: https://lyft.github.io/confidant/
 hash: c5dcdef1f377857ec3860463ec0b4a23
 year: 2015

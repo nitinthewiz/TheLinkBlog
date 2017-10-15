@@ -1,6 +1,6 @@
 ---
 title: "U.S. National Kubb Championship"
-date: 2012-03-16 20:04:18 +0000
+date: 2012-03-16 15:04:18 -0500
 external-url: http://www.usakubb.org/
 hash: 20afcba86359dde93fa56220f64d53a3
 year: 2012

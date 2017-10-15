@@ -1,6 +1,6 @@
 ---
 title: "Mobile Is Where The Growth Is"
-date: 2012-07-02 16:28:20 +0000
+date: 2012-07-02 11:28:20 -0500
 external-url: http://avc.com/2012/07/mobile-is-where-the-growth-is/
 hash: a96dd76439a772dd6263d33244749957
 year: 2012

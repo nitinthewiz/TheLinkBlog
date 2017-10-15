@@ -1,6 +1,6 @@
 ---
 title: "Turing Tumble: Gaming on a Mechanical Computer by Paul Boswell — Kickstarter"
-date: 2017-05-29 22:25:24 +0000
+date: 2017-05-29 17:25:24 -0500
 external-url: https://www.kickstarter.com/projects/871405126/1160007775?token=1f87b430
 hash: ae0a76cb2db8b47a6ddb83996b6f8b6f
 year: 2017

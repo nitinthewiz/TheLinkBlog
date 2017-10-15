@@ -1,6 +1,6 @@
 ---
 title: "SPS Commerce Powers Omnichannel Collaboration With Latest Retail Analytics Enhancements - MarketWatch"
-date: 2014-10-07 13:15:53 +0000
+date: 2014-10-07 08:15:53 -0500
 external-url: http://www.marketwatch.com/story/sps-commerce-powers-omnichannel-collaboration-with-latest-retail-analytics-enhancements-2014-10-06?siteid=nbsh
 hash: b361593d5e207e9e819b677a416f1a6e
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: "8thBridge Introduces A New Era Of Social Commerce"
-date: 2012-04-25 21:57:14 +0000
+date: 2012-04-25 16:57:14 -0500
 external-url: http://www.socialyte.co/2012/04/24/8thbridge-introduces-a-new-era-of-social-commerce/
 hash: 260da93aa5808f7285a7ec3c439ec4cd
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Minnov8 Gang Podcast - Episode 37"
-date: 2009-05-27 20:57:57 +0000
+date: 2009-05-27 15:57:57 -0500
 external-url: http://minnov8.com/2009/05/23/m8-gang-podcast-episode-37/
 hash: 75adb95be31183df847b6406c34c2014
 year: 2009

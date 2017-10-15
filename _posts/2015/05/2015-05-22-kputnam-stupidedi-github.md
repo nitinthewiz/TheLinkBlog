@@ -1,6 +1,6 @@
 ---
 title: "kputnam/stupidedi · GitHub"
-date: 2015-05-22 15:54:40 +0000
+date: 2015-05-22 10:54:40 -0500
 external-url: https://github.com/kputnam/stupidedi
 hash: 8419ef2a39f1f215693d5c0072ab8419
 year: 2015

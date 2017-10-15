@@ -1,6 +1,6 @@
 ---
 title: "Rupertmurdoch: Look out Facebook! Hours ..."
-date: 2013-05-17 18:50:46 +0000
+date: 2013-05-17 13:50:46 -0500
 external-url: https://twitter.com/rupertmurdoch/status/335186684922716160
 hash: d5b22a31377002164c4a0a4c5f7ae406
 year: 2013

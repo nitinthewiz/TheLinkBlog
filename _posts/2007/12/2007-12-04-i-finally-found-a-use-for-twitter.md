@@ -1,6 +1,6 @@
 ---
 title: "I finally found a use for Twitter"
-date: 2007-12-04 12:46:00 +0000
+date: 2007-12-04 06:46:00 -0600
 external-url: http://lasersoptional.com/2007/12/i-finally-found-use-for-twitter.html
 hash: 56453110df648c421dbe0ee2d1638cc2
 year: 2007

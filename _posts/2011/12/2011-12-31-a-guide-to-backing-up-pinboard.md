@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Backing Up Pinboard"
-date: 2011-12-31 06:11:01 +0000
+date: 2011-12-31 00:11:01 -0600
 external-url: http://behindcompanies.com/2011/12/a-guide-to-backing-up-pinboard/
 hash: d3659fff03a528f23eb3fa18dc18fbf3
 year: 2011

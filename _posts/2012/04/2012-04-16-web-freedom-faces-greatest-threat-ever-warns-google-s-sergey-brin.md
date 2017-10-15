@@ -1,6 +1,6 @@
 ---
 title: "Web freedom faces greatest threat ever, warns Google's Sergey Brin"
-date: 2012-04-16 15:35:55 +0000
+date: 2012-04-16 10:35:55 -0500
 external-url: http://www.theguardian.com/technology/2012/apr/15/web-freedom-threat-google-brin
 hash: 9749f52d02706471ef740ab48daf48e0
 year: 2012

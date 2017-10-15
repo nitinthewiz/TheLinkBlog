@@ -1,6 +1,6 @@
 ---
 title: "Hardening WordPress with htaccess"
-date: 2007-10-18 17:40:20 +0000
+date: 2007-10-18 12:40:20 -0500
 external-url: http://blogsecurity.net/wordpress/article-210607
 hash: f6254e719f1361052d8ddfe1f75ee20b
 year: 2007

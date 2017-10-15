@@ -1,6 +1,6 @@
 ---
 title: "New Super Mario Bros. Wii review: impressive, and then some"
-date: 2009-11-16 06:03:04 +0000
+date: 2009-11-16 00:03:04 -0600
 external-url: http://arstechnica.com/gaming/reviews/2009/11/new-super-mario-bros-wii-review-impressive-and-then-some.ars
 hash: 3adf3aa4d314949a925418311ddf0c95
 year: 2009

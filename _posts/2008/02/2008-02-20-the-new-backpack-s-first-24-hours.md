@@ -1,6 +1,6 @@
 ---
 title: "The New Backpack's First 24 Hours"
-date: 2008-02-20 16:03:00 +0000
+date: 2008-02-20 10:03:00 -0600
 external-url: http://www.37signals.com/svn/posts/863-the-new-backpacks-first-24-hours
 hash: b07eb08191e43d83d8e721649a68037e
 year: 2008

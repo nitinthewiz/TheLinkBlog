@@ -1,6 +1,6 @@
 ---
 title: "Subscribe to AWS Public IP Address Changes via Amazon SNS"
-date: 2015-08-31 22:49:20 +0000
+date: 2015-08-31 17:49:20 -0500
 external-url: https://aws.amazon.com/blogs/aws/subscribe-to-aws-public-ip-address-changes-via-amazon-sns/
 hash: 8d5b64316ee9dcbc15ea2be71e7db59f
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Scrapy - An open source web scraping framework for Python"
-date: 2013-03-05 17:38:14 +0000
+date: 2013-03-05 11:38:14 -0600
 external-url: http://scrapy.org/
 hash: 8a08eb5d1b7b638db85709403c0378a5
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "A very handy 1Password tip"
-date: 2012-02-14 20:32:19 +0000
+date: 2012-02-14 14:32:19 -0600
 external-url: http://www.tuaw.com/2012/02/14/a-very-handy-1password-tip/
 hash: 1b234333001f3cd500531293c3792543
 year: 2012

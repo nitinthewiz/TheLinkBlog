@@ -1,6 +1,6 @@
 ---
 title: "I used to think social media was a force for good. Now the evidence says I was wrong | Matt Haig | Opinion | The Guardian"
-date: 2017-09-14 08:35:08 +0000
+date: 2017-09-14 03:35:08 -0500
 external-url: https://www.theguardian.com/commentisfree/2017/sep/06/social-media-good-evidence-platforms-insecurities-health
 hash: ab2566a035fd1a8a78c1bd61efc6f768
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Moving Fast With High Code Quality - Engineering at Quora - Quora"
-date: 2015-07-28 11:45:40 +0000
+date: 2015-07-28 06:45:40 -0500
 external-url: http://engineering.quora.com/Moving-Fast-With-High-Code-Quality?share=1
 hash: db85d2ec8b0992ea18e600cd3199a054
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Web Equation"
-date: 2012-02-03 21:36:41 +0000
+date: 2012-02-03 15:36:41 -0600
 external-url: http://webdemo.myscript.com/portal.html?locale=default
 hash: c30eea3165eb42213894950a3adc8d42
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Lock-Free Programming"
-date: 2012-06-15 19:55:13 +0000
+date: 2012-06-15 14:55:13 -0500
 external-url: http://preshing.com/20120612/an-introduction-to-lock-free-programming
 hash: 77bef3890d5bedf2c494d9cf21089e29
 year: 2012

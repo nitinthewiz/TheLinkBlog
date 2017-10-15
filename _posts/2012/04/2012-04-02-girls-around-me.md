@@ -1,6 +1,6 @@
 ---
 title: "Girls Around Me"
-date: 2012-04-02 18:49:18 +0000
+date: 2012-04-02 13:49:18 -0500
 external-url: http://girlsaround.me/
 hash: 2ae33c1ef55a2413c23b5ee6fa90dbac
 year: 2012

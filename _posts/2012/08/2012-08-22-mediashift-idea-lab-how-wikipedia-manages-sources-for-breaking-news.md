@@ -1,6 +1,6 @@
 ---
 title: "MediaShift Idea Lab . How Wikipedia Manages Sources for Breaking News | PBS"
-date: 2012-08-22 21:07:23 +0000
+date: 2012-08-22 16:07:23 -0500
 external-url: http://www.pbs.org/idealab/2012/08/how-wikipedia-manages-sources-for-breaking-news232.html
 hash: f73d272070bc97753fe8aea519f5c45c
 year: 2012

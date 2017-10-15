@@ -1,6 +1,6 @@
 ---
 title: "Dead Man's Switch"
-date: 2011-08-21 10:50:08 +0000
+date: 2011-08-21 05:50:08 -0500
 external-url: http://beta.deadmansswitch.net/
 hash: 0b787377fc6c53ead497cfe31253a1d7
 year: 2011

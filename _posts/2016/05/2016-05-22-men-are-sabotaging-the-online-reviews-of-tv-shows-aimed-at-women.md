@@ -1,6 +1,6 @@
 ---
 title: "Men Are Sabotaging The Online Reviews Of TV Shows Aimed At Women"
-date: 2016-05-22 11:25:25 +0000
+date: 2016-05-22 06:25:25 -0500
 external-url: http://fivethirtyeight.com/features/men-are-sabotaging-the-online-reviews-of-tv-shows-aimed-at-women/
 hash: e110616f882290aa0dbbf1a4aabf9965
 year: 2016

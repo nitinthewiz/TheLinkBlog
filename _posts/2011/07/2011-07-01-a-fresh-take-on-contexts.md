@@ -1,13 +1,13 @@
 ---
 title: "A Fresh Take on Contexts"
-date: 2011-07-01 23:18:44 +0000
-external-url: http://simplicityisbliss.com/2011/06/30/a-fresh-take-on-contexts/
-hash: 6cf22b1cf6eb26fb6b8db27835d14f7e
+date: 2011-07-01 19:18:44 -0500
+external-url: http://simplicitybliss.com/30/a-fresh-take-on-contexts/
+hash: 0df2813f6b8811516ae6a74355459612
 year: 2011
 month: 07
 scheme: http
-host: simplicityisbliss.com
-path: /2011/06/30/a-fresh-take-on-contexts/
+host: simplicitybliss.com
+path: /30/a-fresh-take-on-contexts/
 
 ---
 

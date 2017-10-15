@@ -1,6 +1,6 @@
 ---
 title: "Thom Hogan’s 2011 Camera Industry Predictions →"
-date: 2010-11-06 21:00:00 +0000
+date: 2010-11-06 16:00:00 -0500
 external-url: http://bythom.com/2011predictions.htm
 hash: 7e590ecece6f4b15e87b8e78f44d22fc
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Meet Atlassian Stash: Git Repository Management for Enterprise Teams"
-date: 2012-05-01 16:44:33 +0000
+date: 2012-05-01 11:44:33 -0500
 external-url: http://blogs.atlassian.com/2012/05/atlassian-stash-enterprise-git-repository-management/
 hash: bf91d88731f9a16497f32f84d29bc568
 year: 2012

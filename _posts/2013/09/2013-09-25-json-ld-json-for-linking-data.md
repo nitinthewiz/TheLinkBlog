@@ -1,6 +1,6 @@
 ---
 title: "JSON-LD - JSON for Linking Data"
-date: 2013-09-25 19:31:13 +0000
+date: 2013-09-25 14:31:13 -0500
 external-url: http://json-ld.org/
 hash: 9435feecd1340dbba82de93d99b67714
 year: 2013

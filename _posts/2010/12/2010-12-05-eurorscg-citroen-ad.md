@@ -1,6 +1,6 @@
 ---
 title: "EuroRSCG Citroen Ad"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://www.eurorscg.com/flash/#/Our-Work/TV-Showcase/CITROEN?id=3/3.4/3.4.1
 hash: 3e33aa5b76c0cf83268c57ec4df9fb42
 year: 2010

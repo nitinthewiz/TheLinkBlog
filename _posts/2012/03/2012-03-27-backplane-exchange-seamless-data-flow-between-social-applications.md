@@ -1,6 +1,6 @@
 ---
 title: "Backplane Exchange Seamless data flow between social applications"
-date: 2012-03-27 19:56:55 +0000
+date: 2012-03-27 14:56:55 -0500
 external-url: http://backplanex.com/
 hash: 7868eb6c038595e582c96b0183f8cd47
 year: 2012

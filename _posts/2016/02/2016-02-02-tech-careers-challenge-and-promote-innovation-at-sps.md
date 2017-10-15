@@ -1,6 +1,6 @@
 ---
 title: "Tech careers challenge and promote innovation at SPS"
-date: 2016-02-02 19:12:00 +0000
+date: 2016-02-02 13:12:00 -0600
 external-url: http://www.spscommerce.com/tech-careers-challenge-and-promote-innovation-at-sps/
 hash: e252d4b1854d1d67a79a9e50b433adff
 year: 2016

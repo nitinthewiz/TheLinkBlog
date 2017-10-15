@@ -1,6 +1,6 @@
 ---
 title: "Redis Presharding"
-date: 2011-02-28 14:29:40 +0000
+date: 2011-02-28 08:29:40 -0600
 external-url: http://antirez.com/post/redis-presharding.html
 hash: 37e5439d75899198b5b3adee799080d8
 year: 2011

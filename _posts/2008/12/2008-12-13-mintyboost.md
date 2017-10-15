@@ -1,6 +1,6 @@
 ---
 title: "MintyBoost"
-date: 2008-12-13 08:12:42 +0000
+date: 2008-12-13 02:12:42 -0600
 external-url: http://www.friday.com/bbum/2008/12/13/mintyboost/
 hash: 2d04ffc06dc3439a046675474b7b52c4
 year: 2008

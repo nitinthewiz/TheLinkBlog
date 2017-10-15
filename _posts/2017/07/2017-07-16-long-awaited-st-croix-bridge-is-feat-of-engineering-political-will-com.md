@@ -1,6 +1,6 @@
 ---
 title: "Long-awaited St. Croix bridge is feat of engineering, political will - StarTribune.com"
-date: 2017-07-16 20:10:14 +0000
+date: 2017-07-16 15:10:14 -0500
 external-url: http://www.startribune.com/bridge-over-protected-water-four-traffic-lanes-soon-will-open-high-above-the-st-croix/434505703/
 hash: 045c33610f6c6df2caff3006a0864423
 year: 2017

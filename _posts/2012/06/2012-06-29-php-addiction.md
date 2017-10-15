@@ -1,6 +1,6 @@
 ---
 title: "PHP Addiction"
-date: 2012-06-29 19:52:43 +0000
+date: 2012-06-29 14:52:43 -0500
 external-url: http://www.marco.org/2012/06/29/php-addiction
 hash: e02e3821aa76f6dd5ef532ae03fbd551
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Spark Festival"
-date: 2011-10-04 12:08:03 +0000
+date: 2011-10-04 07:08:03 -0500
 external-url: http://spark.umn.edu/about.php
 hash: 7832623e97c4103aa12dd8e0480225cb
 year: 2011

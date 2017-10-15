@@ -1,6 +1,6 @@
 ---
 title: "The eero programming language"
-date: 2012-07-09 21:09:34 +0000
+date: 2012-07-09 16:09:34 -0500
 external-url: http://eerolanguage.org/
 hash: 136c4ab9e8257cb73538392d52ad2298
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "AUTOMATICA - Nigel Stanford"
-date: 2017-09-19 12:04:24 +0000
+date: 2017-09-19 07:04:24 -0500
 external-url: https://nigelstanford.com/Automatica/
 hash: 8023922f587bc3338986f5b53adb9d22
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Green is the new Black"
-date: 2007-05-03 06:14:59 +0000
+date: 2007-05-03 01:14:59 -0500
 external-url: http://www.wallstreetandtech.com/green-is-the-new-black/199201958
 hash: 63c74a8504159c6fb189e22e28360657
 year: 2007

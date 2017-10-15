@@ -1,6 +1,6 @@
 ---
 title: "SPS Academy | Elimisha Children's Project"
-date: 2017-09-21 20:29:05 +0000
+date: 2017-09-21 15:29:05 -0500
 external-url: https://elimishachildrensproject.org/kenya-school/
 hash: afbf4e407946e22bd6d2545b5b400ef4
 year: 2017

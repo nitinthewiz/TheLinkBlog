@@ -1,6 +1,6 @@
 ---
 title: "App Developers Not Happy With Android"
-date: 2009-11-30 16:25:17 +0000
+date: 2009-11-30 10:25:17 -0600
 external-url: http://gigaom.com/2009/11/29/android-app-developers-not-happy/
 hash: eeb943d55597237c3ff5a48bb1c183a8
 year: 2009

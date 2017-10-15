@@ -1,6 +1,6 @@
 ---
 title: "Successful Git branching model"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://nvie.com/git-model
 hash: 61bc02add733ac2ac9fbc621bf4efbff
 year: 2010

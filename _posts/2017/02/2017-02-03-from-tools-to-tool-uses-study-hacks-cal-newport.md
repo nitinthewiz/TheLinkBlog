@@ -1,6 +1,6 @@
 ---
 title: "From Tools to Tool Uses - Study Hacks - Cal Newport"
-date: 2017-02-03 16:15:09 +0000
+date: 2017-02-03 10:15:09 -0600
 external-url: http://calnewport.com/blog/2017/02/01/from-tools-to-tool-uses/
 hash: 87399bfa66febe72c8ca0c9eaf056354
 year: 2017

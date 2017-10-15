@@ -1,6 +1,6 @@
 ---
 title: "The story of RSS-in-JSON —Scripting News"
-date: 2017-06-05 14:53:59 +0000
+date: 2017-06-05 09:53:59 -0500
 external-url: http://scripting.com/2017/06/05.html#a080612
 hash: 4057fff5d2a4b4e987c8386510bd26b5
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Safari 4’s Full-Page Zoom"
-date: 2009-06-15 15:26:29 +0000
+date: 2009-06-15 10:26:29 -0500
 external-url: http://mjtsai.com/blog/2009/06/15/safari-4s-full-page-zoom/
 hash: dbc51d4bc9a8bc5e697022173809e519
 year: 2009

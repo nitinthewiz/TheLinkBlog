@@ -1,6 +1,6 @@
 ---
 title: "HTML 5 Canvas and Audio Experiment"
-date: 2009-08-05 15:59:05 +0000
+date: 2009-08-05 10:59:05 -0500
 external-url: http://9elements.com/io/projects/html5/canvas/
 hash: 08efe87d0f13d60d16751cfd8a8adf50
 year: 2009

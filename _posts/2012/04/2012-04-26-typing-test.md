@@ -1,6 +1,6 @@
 ---
 title: "Typing Test"
-date: 2012-04-26 05:43:01 +0000
+date: 2012-04-26 00:43:01 -0500
 external-url: http://10fastfingers.com/typing-test/english
 hash: 99433859e9b34c6d0bffdd95500cc51a
 year: 2012

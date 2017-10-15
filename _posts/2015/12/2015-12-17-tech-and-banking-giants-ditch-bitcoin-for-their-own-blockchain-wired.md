@@ -1,6 +1,6 @@
 ---
 title: "Tech and Banking Giants Ditch Bitcoin for Their Own Blockchain - WIRED"
-date: 2015-12-17 10:57:53 +0000
+date: 2015-12-17 04:57:53 -0600
 external-url: http://www.wired.com/2015/12/big-tech-joins-big-banks-to-create-alternative-to-bitcoins-blockchain/
 hash: df4496fbb286a22a511f590f3de94050
 year: 2015

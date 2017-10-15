@@ -1,6 +1,6 @@
 ---
 title: "Google's recipe for recipes"
-date: 2011-04-01 14:40:59 +0000
+date: 2011-04-01 09:40:59 -0500
 external-url: http://www.roughtype.com/?p=1470
 hash: 997d17fe8cf09fedd6ad71e45aebab3f
 year: 2011

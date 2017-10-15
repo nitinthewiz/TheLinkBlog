@@ -1,6 +1,6 @@
 ---
 title: "Namaste, Bitches"
-date: 2015-12-19 21:28:32 +0000
+date: 2015-12-19 15:28:32 -0600
 external-url: http://www.namastebitchestheseries.com/
 hash: 94fc8d7c50a198849c5bb73dd6133dd6
 year: 2015

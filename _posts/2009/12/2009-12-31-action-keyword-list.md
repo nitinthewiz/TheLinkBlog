@@ -1,6 +1,6 @@
 ---
 title: "Action Keyword List"
-date: 2009-12-31 06:10:32 +0000
+date: 2009-12-31 00:10:32 -0600
 external-url: http://lightroom-blog.com/2009/12/action-keyword-list.html
 hash: 9195a0844edf0bfd9a3ad2c71658c361
 year: 2009

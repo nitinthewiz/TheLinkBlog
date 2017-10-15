@@ -1,6 +1,6 @@
 ---
 title: "Why are we racing to DevOps? | CIO"
-date: 2015-12-20 16:02:45 +0000
+date: 2015-12-20 10:02:45 -0600
 external-url: http://www.cio.com/article/3015237/application-development/why-are-we-racing-to-devops.html
 hash: 473e8bf3dc1d4c09966c9f1999b69981
 year: 2015

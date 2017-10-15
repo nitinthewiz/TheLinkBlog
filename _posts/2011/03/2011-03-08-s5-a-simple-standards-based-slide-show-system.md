@@ -1,6 +1,6 @@
 ---
 title: "S5: A Simple Standards-Based Slide Show System"
-date: 2011-03-08 22:16:51 +0000
+date: 2011-03-08 16:16:51 -0600
 external-url: http://meyerweb.com/eric/tools/s5/
 hash: 79ab6c018852ae137a4f7390a29fbaa9
 year: 2011

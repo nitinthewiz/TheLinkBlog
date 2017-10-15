@@ -1,6 +1,6 @@
 ---
 title: "Electroluminescent wire"
-date: 2012-08-07 20:03:36 +0000
+date: 2012-08-07 15:03:36 -0500
 external-url: http://en.wikipedia.org/wiki/Electroluminescent_wire
 hash: b569ec5b46dea535defb1c7cc1bc4311
 year: 2012

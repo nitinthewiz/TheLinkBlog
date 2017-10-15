@@ -1,6 +1,6 @@
 ---
 title: "Speakers, panelists, participants and prizes rolling in for Startup Weekend Twin Cities"
-date: 2010-08-16 19:33:59 +0000
+date: 2010-08-16 14:33:59 -0500
 external-url: http://tech.mn/news/2010/08/16/speakers-panelists-participants-and-prizes-rolling-in-for-startup-weekend-twin-cities/
 hash: cdda50f982e68a68d93980afb9640c99
 year: 2010

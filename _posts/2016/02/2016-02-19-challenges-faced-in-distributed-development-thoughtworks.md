@@ -1,6 +1,6 @@
 ---
 title: "Challenges Faced in Distributed Development | ThoughtWorks"
-date: 2016-02-19 13:08:02 +0000
+date: 2016-02-19 07:08:02 -0600
 external-url: https://www.thoughtworks.com/insights/blog/challenges-faced-distributed-development
 hash: 17a5f5d324bdbc96f76cc19f0514063e
 year: 2016

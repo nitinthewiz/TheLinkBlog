@@ -1,6 +1,6 @@
 ---
 title: "New House Climate Czar"
-date: 2010-11-24 18:29:27 +0000
+date: 2010-11-24 12:29:27 -0600
 external-url: http://www.talkingpointsmemo.com/archives/2010/11/new_house_climate_czar.php
 hash: c3cfc39fcf63b7e29bc67d38f3ff2b7c
 year: 2010

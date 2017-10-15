@@ -1,6 +1,6 @@
 ---
 title: "Nginx performance tips using ngx pagespeed - The NetDNA Blog"
-date: 2013-04-24 17:09:16 +0000
+date: 2013-04-24 12:09:16 -0500
 external-url: http://blog.maxcdn.com/blogredirect/nginx-performance-tips-with-the-google-pagespeed-team/
 hash: 8c1c952a691cfc2658ad40e92f918036
 year: 2013

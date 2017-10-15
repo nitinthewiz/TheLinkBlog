@@ -1,6 +1,6 @@
 ---
 title: "SEED almost sold out"
-date: 2007-12-28 15:13:00 +0000
+date: 2007-12-28 09:13:00 -0600
 external-url: http://www.37signals.com/svn/posts/751-seed-almost-sold-out
 hash: aa90ad77631960a41913c2125cfed6c9
 year: 2007

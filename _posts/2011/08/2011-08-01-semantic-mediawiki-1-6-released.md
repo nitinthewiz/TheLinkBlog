@@ -1,6 +1,6 @@
 ---
 title: "Semantic MediaWiki 1.6 released"
-date: 2011-08-01 07:15:57 +0000
+date: 2011-08-01 02:15:57 -0500
 external-url: http://www.bn2vs.com/blog/2011/07/30/semantic-mediawiki-1-6-released/
 hash: 972bd1aa29848dd93917d85be096cf03
 year: 2011

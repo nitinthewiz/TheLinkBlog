@@ -1,6 +1,6 @@
 ---
 title: "Make Your Own Kubb Set For Dirt Cheap - Jon Dyer's Blog"
-date: 2012-08-10 17:20:15 +0000
+date: 2012-08-10 12:20:15 -0500
 external-url: http://www.dyers.org/blog/archives/2007/09/10/make-your-own-kubb-set-for-dirt-cheap/
 hash: e3146a93c84b92e298923ce0fd02f9dd
 year: 2012

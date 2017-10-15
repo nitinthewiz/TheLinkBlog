@@ -1,6 +1,6 @@
 ---
 title: "The reactive manifesto"
-date: 2013-12-11 10:20:03 +0000
+date: 2013-12-11 04:20:03 -0600
 external-url: http://www.reactivemanifesto.org/#the-need-to-go-reactive
 hash: 5242b23bfda429bcb7f3a1c1fd6436b8
 year: 2013

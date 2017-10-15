@@ -1,6 +1,6 @@
 ---
 title: "Research Links Personality Traits to TV Viewing Habits"
-date: 2010-11-01 15:56:02 +0000
+date: 2010-11-01 10:56:02 -0500
 external-url: http://adage.com/article/news/research-links-personality-traits-tv-viewing-habits/146779/
 hash: cac54ffa45b14f4d525c3af1a62ac183
 year: 2010

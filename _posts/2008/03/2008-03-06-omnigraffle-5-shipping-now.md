@@ -1,6 +1,6 @@
 ---
 title: "OmniGraffle 5 shipping now"
-date: 2008-03-06 15:00:00 +0000
+date: 2008-03-06 09:00:00 -0600
 external-url: http://www.tuaw.com/2008/03/06/omnigraffle-5-shipping-now/
 hash: cd20bc7dc4ca71205e680e587b4314bb
 year: 2008

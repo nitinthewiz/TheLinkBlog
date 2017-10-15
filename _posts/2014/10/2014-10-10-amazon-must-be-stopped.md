@@ -1,6 +1,6 @@
 ---
 title: "Amazon Must Be Stopped"
-date: 2014-10-10 22:29:06 +0000
+date: 2014-10-10 17:29:06 -0500
 external-url: http://www.newrepublic.com/article/119769/amazons-monopoly-must-be-broken-radical-plan-tech-giant
 hash: b1d34ac2383871802085efabff5d2ddc
 year: 2014

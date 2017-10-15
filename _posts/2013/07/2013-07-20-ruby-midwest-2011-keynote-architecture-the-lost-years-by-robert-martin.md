@@ -1,6 +1,6 @@
 ---
 title: "Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin"
-date: 2013-07-20 12:19:43 +0000
+date: 2013-07-20 07:19:43 -0500
 external-url: https://www.youtube.com/watch?v=WpkDN78P884
 hash: 6bbeeded5fcb301fb8664135bf810c91
 year: 2013

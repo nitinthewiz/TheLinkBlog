@@ -1,6 +1,6 @@
 ---
 title: "SublimeChef"
-date: 2012-11-21 15:51:32 +0000
+date: 2012-11-21 09:51:32 -0600
 external-url: https://github.com/cabeca/SublimeChef
 hash: e67ed124f887742d265091107c3e6f88
 year: 2012

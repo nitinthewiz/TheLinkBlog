@@ -1,6 +1,6 @@
 ---
 title: "The Best Camera"
-date: 2009-09-22 22:13:56 +0000
+date: 2009-09-22 17:13:56 -0500
 external-url: http://blog.duncandavidson.com/2009/09/the-best-camera.html
 hash: 091081bf3066575ebe4ba57565379334
 year: 2009

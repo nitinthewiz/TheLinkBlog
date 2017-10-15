@@ -1,6 +1,6 @@
 ---
 title: "Rory Sutherland: Sweat the small stuff"
-date: 2012-05-12 20:46:05 +0000
+date: 2012-05-12 15:46:05 -0500
 external-url: http://www.ted.com/talks/rory_sutherland_sweat_the_small_stuff
 hash: dce6237537f1dd0dec2fb0d4f804e5fb
 year: 2012

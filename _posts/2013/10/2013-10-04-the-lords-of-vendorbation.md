@@ -1,6 +1,6 @@
 ---
 title: "The Lords of Vendorbation"
-date: 2013-10-04 22:28:27 +0000
+date: 2013-10-04 17:28:27 -0500
 external-url: http://www.zeldman.com/2013/09/07/the-lords-of-vendorbation/
 hash: 66978f9e4f1a4854c71d44d064417cda
 year: 2013

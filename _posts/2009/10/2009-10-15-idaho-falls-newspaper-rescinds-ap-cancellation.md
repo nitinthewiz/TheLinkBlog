@@ -1,6 +1,6 @@
 ---
 title: "Idaho Falls newspaper rescinds AP cancellation"
-date: 2009-10-15 05:59:14 +0000
+date: 2009-10-15 00:59:14 -0500
 external-url: http://www.poynter.org/latest-news/mediawire/98847/idaho-falls-newspaper-rescinds-ap-cancellation/
 hash: 4df0d5732cff977135c603f436d96329
 year: 2009

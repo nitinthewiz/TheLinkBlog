@@ -1,6 +1,6 @@
 ---
 title: "★ Ninjawords: iPhone Dictionary, Censored by Apple"
-date: 2009-08-05 16:05:23 +0000
+date: 2009-08-05 11:05:23 -0500
 external-url: http://daringfireball.net/2009/08/ninjawords
 hash: bf3bc39e11e2f96d6c223b49ba4b43e7
 year: 2009

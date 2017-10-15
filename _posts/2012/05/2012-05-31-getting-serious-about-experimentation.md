@@ -1,6 +1,6 @@
 ---
 title: "Getting serious about experimentation"
-date: 2012-05-31 20:34:24 +0000
+date: 2012-05-31 15:34:24 -0500
 external-url: http://sethgodin.typepad.com/seths_blog/2012/05/getting-serious-about-experimentation.html
 hash: a481a3db31d945e084dca7277293c2d0
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "The Coffee Fix: Can the $11,000 Clover Machine Save Starbucks?"
-date: 2008-09-30 22:48:16 +0000
+date: 2008-09-30 17:48:16 -0500
 external-url: http://archive.wired.com/gadgets/miscellaneous/magazine/16-08/mf_clover?currentPage=all
 hash: b0ab092939c09bc92b54296678be3008
 year: 2008

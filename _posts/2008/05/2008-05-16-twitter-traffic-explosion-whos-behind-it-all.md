@@ -1,6 +1,6 @@
 ---
 title: "Twitter Traffic Explosion: Whos behind it all?"
-date: 2008-05-16 13:22:52 +0000
+date: 2008-05-16 08:22:52 -0500
 external-url: https://blog.compete.com/2008/05/15/twitter-traffic-growth-usage-demographics/
 hash: 9bd0c1ca1f557d82d9fa0644b089d2bd
 year: 2008

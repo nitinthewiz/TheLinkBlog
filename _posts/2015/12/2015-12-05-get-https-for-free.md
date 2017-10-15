@@ -1,6 +1,6 @@
 ---
 title: "Get HTTPS for free!"
-date: 2015-12-05 17:31:57 +0000
+date: 2015-12-05 11:31:57 -0600
 external-url: https://gethttpsforfree.com/
 hash: 46ed0ca1929eb4b843ff8f1cb27ee344
 year: 2015

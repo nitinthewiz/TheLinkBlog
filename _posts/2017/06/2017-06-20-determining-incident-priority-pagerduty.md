@@ -1,6 +1,6 @@
 ---
 title: "Determining Incident Priority —PagerDuty"
-date: 2017-06-20 20:07:48 +0000
+date: 2017-06-20 15:07:48 -0500
 external-url: https://www.pagerduty.com/blog/determining-incident-priority/
 hash: 202e8b0fc8d1d3e49491ca1c44d966a6
 year: 2017

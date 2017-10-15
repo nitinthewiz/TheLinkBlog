@@ -1,6 +1,6 @@
 ---
 title: "Git - SVN Crash Course"
-date: 2008-04-03 18:58:48 +0000
+date: 2008-04-03 13:58:48 -0500
 external-url: http://git.or.cz/course/svn.html
 hash: a4c91e85e9cfddebf540b15d11dac1d6
 year: 2008

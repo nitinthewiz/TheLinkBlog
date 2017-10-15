@@ -1,6 +1,6 @@
 ---
 title: "A Daily Review Habit | Using OmniFocus"
-date: 2016-08-05 18:24:18 +0000
+date: 2016-08-05 13:24:18 -0500
 external-url: http://www.usingomnifocus.com/2016/08/a-daily-review-habit/
 hash: a432f9d7f1d6ee25cd8884070c927be5
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Give Me Something To Read Best of 2010"
-date: 2010-11-23 19:39:00 +0000
+date: 2010-11-23 13:39:00 -0600
 external-url: http://givemesomethingtoread.com/post/1660934095
 hash: 7f6fdcf99adfe6b04b741afe124bb5b0
 year: 2010

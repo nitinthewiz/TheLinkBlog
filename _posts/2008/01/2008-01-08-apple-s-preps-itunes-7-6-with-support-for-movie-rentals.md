@@ -1,6 +1,6 @@
 ---
 title: "Apple's preps iTunes 7.6 with support for movie rentals"
-date: 2008-01-08 19:00:00 +0000
+date: 2008-01-08 13:00:00 -0600
 external-url: http://www.appleinsider.com/article.php?id=3584
 hash: 5230406a0ca18aac2b1f5c4cbe97af9c
 year: 2008

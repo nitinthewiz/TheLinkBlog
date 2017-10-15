@@ -1,6 +1,6 @@
 ---
 title: "IYo Yo-Yo almost certainly doesn't work"
-date: 2008-09-27 14:00:00 +0000
+date: 2008-09-27 09:00:00 -0500
 external-url: http://www.tuaw.com/2008/09/27/iyo-yo-yo-almost-certainly-doesnt-work/
 hash: 2b40efad798f2a3a9f4eb07dd7e12b49
 year: 2008

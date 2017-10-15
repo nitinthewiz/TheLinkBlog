@@ -1,6 +1,6 @@
 ---
 title: "Advanced NFL Stats: Play-by-Play Data"
-date: 2013-01-04 17:55:45 +0000
+date: 2013-01-04 11:55:45 -0600
 external-url: http://www.advancedfootballanalytics.com
 hash: 90f7bf4574e7a276ad2f3a355d6b38c6
 year: 2013

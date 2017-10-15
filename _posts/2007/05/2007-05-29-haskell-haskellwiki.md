@@ -1,6 +1,6 @@
 ---
 title: "Haskell - HaskellWiki"
-date: 2007-05-29 18:58:12 +0000
+date: 2007-05-29 13:58:12 -0500
 external-url: http://www.haskell.org/haskellwiki/Haskell
 hash: 2fb2ad30140cf3695a3a625850c7f25c
 year: 2007

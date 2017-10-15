@@ -1,6 +1,6 @@
 ---
 title: "You know what’s really cool?"
-date: 2011-01-14 17:18:51 +0000
+date: 2011-01-14 11:18:51 -0600
 external-url: http://www.projectskyway.com/you-know-whats-really-cool-collaboration/
 hash: ec0a93c94ee3cb1dd100b9b22b23c0f7
 year: 2011

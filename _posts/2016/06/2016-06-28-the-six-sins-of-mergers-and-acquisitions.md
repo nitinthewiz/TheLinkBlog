@@ -1,6 +1,6 @@
 ---
 title: "The Six Sins of Mergers and Acquisitions"
-date: 2016-06-28 14:52:05 +0000
+date: 2016-06-28 09:52:05 -0500
 external-url: https://jackwelch.strayer.edu/blog/the-six-deadly-sins-of-ma-listen-up-linkedin-and-microsoft/
 hash: de3070c1d56ed6affab0ff8958bb60f8
 year: 2016

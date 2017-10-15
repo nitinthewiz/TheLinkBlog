@@ -1,6 +1,6 @@
 ---
 title: "Curator's code"
-date: 2012-05-01 16:38:20 +0000
+date: 2012-05-01 11:38:20 -0500
 external-url: http://www.curatorscode.org/
 hash: 901f7a3856ee3e7c4cf5ae9b0890d2e6
 year: 2012

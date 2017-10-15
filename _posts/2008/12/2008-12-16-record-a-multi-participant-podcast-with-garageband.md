@@ -1,6 +1,6 @@
 ---
 title: "Record a multi-participant podcast with GarageBand"
-date: 2008-12-16 14:00:00 +0000
+date: 2008-12-16 08:00:00 -0600
 external-url: http://www.tuaw.com/2008/12/16/record-a-multi-participant-podcast-with-garageband/
 hash: 9025af1f3fdb2db4bd69186b315d4002
 year: 2008

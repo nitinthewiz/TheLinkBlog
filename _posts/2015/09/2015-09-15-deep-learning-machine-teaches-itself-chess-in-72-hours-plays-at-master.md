@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Machine Teaches Itself Chess in 72 Hours, Plays at International Master Level | MIT Technology Review"
-date: 2015-09-15 18:00:58 +0000
+date: 2015-09-15 13:00:58 -0500
 external-url: http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
 hash: f9e7f306e811ed7f7a33ee9758bd3081
 year: 2015

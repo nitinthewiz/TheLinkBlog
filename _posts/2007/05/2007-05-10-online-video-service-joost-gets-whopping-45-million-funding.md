@@ -1,6 +1,6 @@
 ---
 title: "Online Video Service Joost Gets Whopping $45 Million Funding"
-date: 2007-05-10 16:53:34 +0000
+date: 2007-05-10 11:53:34 -0500
 external-url: http://gigaom.com/2007/05/10/419-online-video-service-joost-gets-whopping-45-million-funding-investors-i/
 hash: e54511b39a030f6d2e05d17adb537d2f
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "Marketers like that you Like"
-date: 2010-11-29 21:34:40 +0000
+date: 2010-11-29 15:34:40 -0600
 external-url: http://www.marketplace.org/topics/tech/marketers-you
 hash: 411d2765cd5848716bbd4aa45f6917f3
 year: 2010

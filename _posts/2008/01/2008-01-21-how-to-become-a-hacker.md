@@ -1,6 +1,6 @@
 ---
 title: "How To Become A Hacker"
-date: 2008-01-21 12:49:55 +0000
+date: 2008-01-21 06:49:55 -0600
 external-url: http://www.catb.org/~esr/faqs/hacker-howto.html
 hash: a82b7fea91a8789ce77d417c5a103050
 year: 2008

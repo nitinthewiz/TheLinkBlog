@@ -1,6 +1,6 @@
 ---
 title: "You Are Not a Curator, You Are Actually Just a Filthy Blogger"
-date: 2012-06-03 20:01:52 +0000
+date: 2012-06-03 15:01:52 -0500
 external-url: http://www.theawl.com/2012/06/you-are-not-a-curator-you-are-actually-just-a-blogger
 hash: fb85d23b44df5001ddaa106133e082e2
 year: 2012

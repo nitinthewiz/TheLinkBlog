@@ -1,6 +1,6 @@
 ---
 title: "musicForProgramming();"
-date: 2012-02-09 15:07:48 +0000
+date: 2012-02-09 09:07:48 -0600
 external-url: http://musicforprogramming.net/?c=one
 hash: c5bb94f36610178beeec1fd4bdbaa1a8
 year: 2012

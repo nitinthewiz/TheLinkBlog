@@ -1,6 +1,6 @@
 ---
 title: "How To Survive a Ground-Up Rewrite Without Losing Your Sanity"
-date: 2013-05-01 17:37:39 +0000
+date: 2013-05-01 12:37:39 -0500
 external-url: http://onstartups.com/tabid/3339/bid/97052/How-To-Survive-a-Ground-Up-Rewrite-Without-Losing-Your-Sanity.aspx
 hash: 1aead224dc0d5f3343bc48427c186a88
 year: 2013

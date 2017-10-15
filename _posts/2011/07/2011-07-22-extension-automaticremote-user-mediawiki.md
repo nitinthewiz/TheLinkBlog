@@ -1,6 +1,6 @@
 ---
 title: "Extension:AutomaticREMOTE USER - MediaWiki"
-date: 2011-07-22 13:30:21 +0000
+date: 2011-07-22 08:30:21 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:AutomaticREMOTE_USER
 hash: b4341f7018865475222ee3896b7b9ef1
 year: 2011

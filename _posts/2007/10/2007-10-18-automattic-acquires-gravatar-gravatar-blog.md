@@ -1,6 +1,6 @@
 ---
 title: "Automattic Acquires Gravatar Gravatar Blog"
-date: 2007-10-18 16:41:22 +0000
+date: 2007-10-18 11:41:22 -0500
 external-url: http://blog.gravatar.com/2007/10/18/automattic-gravatar/
 hash: 656e25c0aebdc706134cd37406381ec0
 year: 2007

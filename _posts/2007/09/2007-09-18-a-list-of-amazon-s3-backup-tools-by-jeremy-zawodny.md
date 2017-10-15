@@ -1,6 +1,6 @@
 ---
 title: "A List of Amazon S3 Backup Tools (by Jeremy Zawodny)"
-date: 2007-09-18 11:09:54 +0000
+date: 2007-09-18 06:09:54 -0500
 external-url: http://jeremy.zawodny.com/blog/archives/007641.html
 hash: 34129e0fcc2520d244131318ea977398
 year: 2007

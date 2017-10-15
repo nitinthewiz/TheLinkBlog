@@ -1,6 +1,6 @@
 ---
 title: "Frontend Masters Workshop Series"
-date: 2011-09-16 21:21:24 +0000
+date: 2011-09-16 16:21:24 -0500
 external-url: http://frontendmasters.com/
 hash: 207e475d0cabb8e1331bc89698705902
 year: 2011

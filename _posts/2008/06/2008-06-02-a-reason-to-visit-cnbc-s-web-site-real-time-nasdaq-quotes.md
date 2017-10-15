@@ -1,6 +1,6 @@
 ---
 title: "A Reason To Visit CNBC's Web Site: Real-Time NASDAQ Quotes"
-date: 2008-06-02 14:22:00 +0000
+date: 2008-06-02 09:22:00 -0500
 external-url: http://www.businessinsider.com/2008/6/found-a-reason-to-visit-cnbc-s-web-site
 hash: b1734a92f1f250db4adcbc85776cb7f1
 year: 2008

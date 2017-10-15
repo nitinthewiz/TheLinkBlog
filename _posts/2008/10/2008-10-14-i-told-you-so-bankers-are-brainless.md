@@ -1,6 +1,6 @@
 ---
 title: "I told you so: bankers are brainless"
-date: 2008-10-14 17:32:00 +0000
+date: 2008-10-14 12:32:00 -0500
 external-url: http://www.thetimes.co.uk/tto/money/article2200717.ece
 hash: c5e923e3c32c5e028472b81cf28a86f6
 year: 2008

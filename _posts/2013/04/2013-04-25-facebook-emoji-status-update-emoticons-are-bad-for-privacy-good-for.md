@@ -1,6 +1,6 @@
 ---
 title: "Facebook emoji: Status-update emoticons are bad for privacy, good for advertisers"
-date: 2013-04-25 22:07:46 +0000
+date: 2013-04-25 17:07:46 -0500
 external-url: http://www.slate.com/blogs/future_tense/2013/04/10/facebook_emoji_status_update_emoticons_are_bad_for_privacy_good_for_advertisers.html
 hash: 40bc511f365559524f70023a03b0f300
 year: 2013

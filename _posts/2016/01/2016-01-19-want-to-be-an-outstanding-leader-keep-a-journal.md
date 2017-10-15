@@ -1,6 +1,6 @@
 ---
 title: "Want to Be an Outstanding Leader? Keep a Journal."
-date: 2016-01-19 14:56:54 +0000
+date: 2016-01-19 08:56:54 -0600
 external-url: https://hbr.org/2016/01/want-to-be-an-outstanding-leader-keep-a-journal
 hash: 4667b0f8577230ef856f57ebfa714434
 year: 2016

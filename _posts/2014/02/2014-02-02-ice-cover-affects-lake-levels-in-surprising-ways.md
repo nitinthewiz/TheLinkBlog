@@ -1,6 +1,6 @@
 ---
 title: "Ice Cover Affects Lake Levels in Surprising Ways"
-date: 2014-02-02 13:41:55 +0000
+date: 2014-02-02 07:41:55 -0600
 external-url: http://newswatch.nationalgeographic.com/2014/01/27/ice-cover-affects-lake-levels-in-surprising-ways/
 hash: 74c6388cb16175a62dbd301d4c44c731
 year: 2014

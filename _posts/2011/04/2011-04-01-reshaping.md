@@ -1,6 +1,6 @@
 ---
 title: "Reshaping"
-date: 2011-04-01 19:00:00 +0000
+date: 2011-04-01 14:00:00 -0500
 external-url: http://www.tbray.org/ongoing/When/201x/2011/04/01/Straight-Right
 hash: 91a534a7239478d0d593417697af2d30
 year: 2011

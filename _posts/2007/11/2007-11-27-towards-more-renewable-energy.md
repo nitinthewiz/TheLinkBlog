@@ -1,6 +1,6 @@
 ---
 title: "Towards more renewable energy"
-date: 2007-11-27 17:02:00 +0000
+date: 2007-11-27 11:02:00 -0600
 external-url: http://googleblog.blogspot.com/2007/11/towards-more-renewable-energy.html
 hash: ad57cfdb275bf029612f78e6571dbc43
 year: 2007

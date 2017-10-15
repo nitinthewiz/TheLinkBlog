@@ -1,6 +1,6 @@
 ---
 title: "Twenty-nine years alone"
-date: 2010-09-27 16:20:12 +0000
+date: 2010-09-27 11:20:12 -0500
 external-url: http://kottke.org/10/09/twenty-nine-years-alone
 hash: 1850b5003fa79c3b5088689001c609ab
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Tracked.com"
-date: 2009-10-21 15:45:53 +0000
+date: 2009-10-21 10:45:53 -0500
 external-url: http://avc.com/2009/10/trackedcom/
 hash: b8ef85aebf0323560c7118be5bd24a29
 year: 2009

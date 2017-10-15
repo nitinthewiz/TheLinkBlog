@@ -1,6 +1,6 @@
 ---
 title: "The secrets of Node's success"
-date: 2011-06-12 10:46:43 +0000
+date: 2011-06-12 05:46:43 -0500
 external-url: http://radar.oreilly.com/2011/06/node-javascript-success.html
 hash: 9fed0fee2afd42b2b7c9cd6746c75dd8
 year: 2011

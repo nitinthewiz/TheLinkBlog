@@ -1,6 +1,6 @@
 ---
 title: "Cookie dough craze comes to Minnesota with not one, but two food trucks - StarTribune.com"
-date: 2017-05-18 23:59:05 +0000
+date: 2017-05-18 18:59:05 -0500
 external-url: http://www.startribune.com/cookie-dough-craze-comes-to-minnesota-with-not-one-but-two-food-trucks/422973123/
 hash: 232b59bb8473b0f421d91ba762c9c27b
 year: 2017

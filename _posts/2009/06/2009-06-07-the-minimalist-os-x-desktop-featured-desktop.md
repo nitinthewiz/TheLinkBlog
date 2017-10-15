@@ -1,6 +1,6 @@
 ---
 title: "The Minimalist OS X Desktop [Featured Desktop]"
-date: 2009-06-07 14:12:31 +0000
+date: 2009-06-07 09:12:31 -0500
 external-url: http://lifehacker.com/5280484/the-minimalist-os-x-desktop
 hash: f6f5526e6d2e6e8529d36ea7649d6ffd
 year: 2009

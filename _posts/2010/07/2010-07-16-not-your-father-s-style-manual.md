@@ -1,6 +1,6 @@
 ---
 title: "Not your father's style manual"
-date: 2010-07-16 21:44:26 +0000
+date: 2010-07-16 16:44:26 -0500
 external-url: http://kottke.org/10/07/not-your-fathers-style-manual
 hash: 1aab16bbaa156cec61950bf312ccbc1d
 year: 2010

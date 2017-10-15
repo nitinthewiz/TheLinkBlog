@@ -1,6 +1,6 @@
 ---
 title: "TST Media snags new VP for next growth phase"
-date: 2012-06-19 22:25:56 +0000
+date: 2012-06-19 17:25:56 -0500
 external-url: http://tech.mn/news/2012/06/11/jeff-liebl-tst-media/
 hash: f20c235ce2388a85df472d8bb3f63a9d
 year: 2012

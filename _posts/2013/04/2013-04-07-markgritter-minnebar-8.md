@@ -1,6 +1,6 @@
 ---
 title: "Markgritter: MinneBar 8"
-date: 2013-04-07 15:54:36 +0000
+date: 2013-04-07 10:54:36 -0500
 external-url: http://markgritter.livejournal.com/708394.html
 hash: 734afb8ff14f78c97e6fbd959d4ea662
 year: 2013

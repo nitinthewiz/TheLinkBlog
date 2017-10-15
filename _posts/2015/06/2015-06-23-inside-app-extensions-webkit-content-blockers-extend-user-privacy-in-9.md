@@ -1,6 +1,6 @@
 ---
 title: "Inside App Extensions: WebKit Content Blockers extend user privacy in iOS 9, OS X Safari 9"
-date: 2015-06-23 19:55:44 +0000
+date: 2015-06-23 14:55:44 -0500
 external-url: http://appleinsider.com/articles/15/06/15/inside-app-extensions-webkit-content-blockers-extend-user-privacy-in-ios-9-safari-9
 hash: e31b2e0b43426fa1a4ad3142304580a6
 year: 2015

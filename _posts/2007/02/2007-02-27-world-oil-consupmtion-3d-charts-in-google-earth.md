@@ -1,6 +1,6 @@
 ---
 title: "World Oil Consupmtion - 3D Charts in Google Earth"
-date: 2007-02-27 19:12:33 +0000
+date: 2007-02-27 13:12:33 -0600
 external-url: http://www.gearthblog.com/blog/archives/2007/02/world_oil_consupmtio.html
 hash: 1c1df14cef6503fac125648dd98c5cc6
 year: 2007

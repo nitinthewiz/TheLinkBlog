@@ -1,6 +1,6 @@
 ---
 title: "Narrative - automatic lifelogging camera"
-date: 2013-11-16 17:02:30 +0000
+date: 2013-11-16 11:02:30 -0600
 external-url: http://getnarrative.com/
 hash: 3ae7e81d22b8013dac1b83164b390569
 year: 2013

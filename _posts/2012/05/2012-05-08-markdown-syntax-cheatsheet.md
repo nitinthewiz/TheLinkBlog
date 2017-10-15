@@ -1,6 +1,6 @@
 ---
 title: "Markdown Syntax Cheatsheet"
-date: 2012-05-08 15:55:40 +0000
+date: 2012-05-08 10:55:40 -0500
 external-url: http://scottboms.com/downloads/documentation/markdown_cheatsheet.pdf
 hash: 39090e3e893ed872417ca1a5d035825e
 year: 2012

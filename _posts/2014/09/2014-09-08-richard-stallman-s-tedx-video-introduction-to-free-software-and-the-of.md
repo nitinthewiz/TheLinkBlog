@@ -1,6 +1,6 @@
 ---
 title: "Richard Stallman's TEDx video: \"Introduction to Free Software and the Liberation of Cyberspace\""
-date: 2014-09-08 18:31:26 +0000
+date: 2014-09-08 13:31:26 -0500
 external-url: https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society
 hash: fae6d640a15e7b3ec23fb67fce731c79
 year: 2014

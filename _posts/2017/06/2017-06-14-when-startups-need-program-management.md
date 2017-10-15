@@ -1,6 +1,6 @@
 ---
 title: "When startups need program management"
-date: 2017-06-14 10:59:41 +0000
+date: 2017-06-14 05:59:41 -0500
 external-url: https://blog.intercom.com/what-to-do-when-your-startup-needs-program-management/
 hash: 89d1414cbd2535b3f5d618cc5f6c4bbd
 year: 2017

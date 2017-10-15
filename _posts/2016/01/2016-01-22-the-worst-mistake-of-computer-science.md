@@ -1,6 +1,6 @@
 ---
 title: "The worst mistake of computer science"
-date: 2016-01-22 11:27:11 +0000
+date: 2016-01-22 05:27:11 -0600
 external-url: https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/
 hash: bb53962eca5f368c83d8955100e39089
 year: 2016

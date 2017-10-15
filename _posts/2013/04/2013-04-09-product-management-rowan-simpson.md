@@ -1,6 +1,6 @@
 ---
 title: "Product Management - Rowan Simpson"
-date: 2013-04-09 18:18:33 +0000
+date: 2013-04-09 13:18:33 -0500
 external-url: http://rowansimpson.com/2013/04/08/product-management/
 hash: 45c665fa0d193faffafd9694048362a3
 year: 2013

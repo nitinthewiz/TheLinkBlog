@@ -1,6 +1,6 @@
 ---
 title: "Klouchebag - The Standard for Asshattery"
-date: 2012-05-08 05:52:01 +0000
+date: 2012-05-08 00:52:01 -0500
 external-url: http://www.tomscott.com/klouchebag/
 hash: 7334737ef7027b494adbcd1d9ca35d79
 year: 2012

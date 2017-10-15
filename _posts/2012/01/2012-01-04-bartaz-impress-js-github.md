@@ -1,6 +1,6 @@
 ---
 title: "bartaz/impress.js - GitHub"
-date: 2012-01-04 22:11:11 +0000
+date: 2012-01-04 16:11:11 -0600
 external-url: https://github.com/bartaz/impress.js
 hash: 0f51360d6abdc03895457e28fbc33f2c
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Min | A smarter, faster web browser"
-date: 2017-10-09 10:12:30 +0000
+date: 2017-10-09 05:12:30 -0500
 external-url: https://minbrowser.github.io/min/
 hash: 560fe98b3f9ff20e642680c427e24b22
 year: 2017

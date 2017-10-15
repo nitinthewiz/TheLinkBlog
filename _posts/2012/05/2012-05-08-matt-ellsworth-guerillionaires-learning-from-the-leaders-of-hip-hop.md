@@ -1,6 +1,6 @@
 ---
 title: "Matt Ellsworth - Guerillionaires: Learning from the Leaders of Hip Hop & Business"
-date: 2012-05-08 21:12:17 +0000
+date: 2012-05-08 16:12:17 -0500
 external-url: https://www.youtube.com/watch?v=j4hWyWkshbk
 hash: 2632d0bc1a0611b51007bc5328d23969
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Why Facebook is Worth $50 Billion"
-date: 2011-01-05 22:25:39 +0000
+date: 2011-01-05 16:25:39 -0600
 external-url: http://allthingsd.com/20110103/why-is-facebook-worth-50-billion-check-out-these-charts/
 hash: 7d08cc97889286532d4379a4e266b000
 year: 2011

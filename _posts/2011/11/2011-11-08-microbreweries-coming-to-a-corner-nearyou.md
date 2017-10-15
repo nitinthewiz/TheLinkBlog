@@ -1,6 +1,6 @@
 ---
 title: "Microbreweries Coming To A Corner NearYou?"
-date: 2011-11-08 21:12:07 +0000
+date: 2011-11-08 15:12:07 -0600
 external-url: http://patch.com/southwestminneapolis/neighborhood-microbreweries-churches-alcohol
 hash: 70733a26d3c3208842ea2d4db018a129
 year: 2011

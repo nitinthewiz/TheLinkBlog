@@ -1,6 +1,6 @@
 ---
 title: "Elevation Dock Manufacturing"
-date: 2012-04-27 18:43:39 +0000
+date: 2012-04-27 13:43:39 -0500
 external-url: https://www.kickstarter.com/projects/hop/elevation-dock-the-best-dock-for-iphone/posts/215884
 hash: e3ef62788462f48dae4bc275a13d1ecc
 year: 2012

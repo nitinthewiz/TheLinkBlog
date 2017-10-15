@@ -1,6 +1,6 @@
 ---
 title: "This is where your smartphone battery begins"
-date: 2016-10-04 10:37:31 +0000
+date: 2016-10-04 05:37:31 -0500
 external-url: https://www.washingtonpost.com/graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/
 hash: 2cbf0907f562a54de5391bc1b02f148d
 year: 2016

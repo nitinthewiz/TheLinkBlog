@@ -1,6 +1,6 @@
 ---
 title: "Good Stuff Moving"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://goodstuffmoving.com/
 hash: c7e1d88d61a0b22967f1013741693144
 year: 2010

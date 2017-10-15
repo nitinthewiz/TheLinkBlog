@@ -1,6 +1,6 @@
 ---
 title: "Jon Stewart Targeting Jan. 7 Return?"
-date: 2007-12-17 22:56:00 +0000
+date: 2007-12-17 16:56:00 -0600
 external-url: http://www.businessinsider.com/2007/12/jon-stewart-targeting-jan-7-return
 hash: eec6388aaf39d2152ad97754fc31bbb4
 year: 2007

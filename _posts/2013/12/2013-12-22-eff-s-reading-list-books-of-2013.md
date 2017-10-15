@@ -1,6 +1,6 @@
 ---
 title: "EFF's Reading List: Books of 2013"
-date: 2013-12-22 19:55:28 +0000
+date: 2013-12-22 13:55:28 -0600
 external-url: https://www.eff.org/deeplinks/2013/12/effs-reading-list-books-2013
 hash: 0980746768f73f54f88e26405443e166
 year: 2013

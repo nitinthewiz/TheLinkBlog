@@ -1,6 +1,6 @@
 ---
 title: "Useful WordPress Tools, Themes and Plugins - Smashing WordPress"
-date: 2012-03-27 06:49:06 +0000
+date: 2012-03-27 01:49:06 -0500
 external-url: http://www.smashingmagazine.com/2012/03/22/useful-wordpress-tools-themes-plugins/
 hash: fccfe8504822b454e3f995ec5e186ddf
 year: 2012

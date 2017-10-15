@@ -1,6 +1,6 @@
 ---
 title: "Rupert Murdoch, Blogger?"
-date: 2008-05-12 18:51:00 +0000
+date: 2008-05-12 13:51:00 -0500
 external-url: http://www.businessinsider.com/2008/5/rupert-murdoch-blogger-
 hash: ecf4f0650681c26a3a38b7e0ad6b4652
 year: 2008

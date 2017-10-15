@@ -1,6 +1,6 @@
 ---
 title: "OpenBook Consulting | Processing a century of research on thinking and learning"
-date: 2017-01-27 23:32:58 +0000
+date: 2017-01-27 17:32:58 -0600
 external-url: https://consulting.openbooklearning.com/surveys
 hash: d2669a9dbda1010630abd27f8c33d6e0
 year: 2017

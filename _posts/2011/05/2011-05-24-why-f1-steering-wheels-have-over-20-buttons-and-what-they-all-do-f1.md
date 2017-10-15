@@ -1,6 +1,6 @@
 ---
 title: "Why F1 steering wheels have over 20 buttons – and what they all do | F1 technology"
-date: 2011-05-24 05:54:16 +0000
+date: 2011-05-24 00:54:16 -0500
 external-url: http://www.f1fanatic.co.uk/2011/04/22/steering-wheels/
 hash: 58c36d77cec718a0562bead6389a89fa
 year: 2011

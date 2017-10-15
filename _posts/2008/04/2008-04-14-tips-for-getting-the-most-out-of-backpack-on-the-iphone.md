@@ -1,6 +1,6 @@
 ---
 title: "Tips for getting the most out of Backpack on the iPhone"
-date: 2008-04-14 15:09:23 +0000
+date: 2008-04-14 10:09:23 -0500
 external-url: http://37signals.blogs.com/products/2008/04/tips-for-gettin.html
 hash: 7b5c13aeec676085f0de0777302c2b8b
 year: 2008

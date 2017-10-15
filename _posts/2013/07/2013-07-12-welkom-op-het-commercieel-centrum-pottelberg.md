@@ -1,6 +1,6 @@
 ---
 title: "Welkom op het Commercieel Centrum Pottelberg"
-date: 2013-07-12 18:35:27 +0000
+date: 2013-07-12 13:35:27 -0500
 external-url: http://pottelberg.com/
 hash: f7108bf37fb9636404a62512cdbae9b8
 year: 2013

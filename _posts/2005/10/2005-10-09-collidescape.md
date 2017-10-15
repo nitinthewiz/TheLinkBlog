@@ -1,6 +1,6 @@
 ---
 title: "collidEscape"
-date: 2005-10-09 23:50:20 +0000
+date: 2005-10-09 18:50:20 -0500
 external-url: http://www.lfdcollidescape.com/
 hash: 1a945b91df774c5c715b4b3ecdcefeae
 year: 2005

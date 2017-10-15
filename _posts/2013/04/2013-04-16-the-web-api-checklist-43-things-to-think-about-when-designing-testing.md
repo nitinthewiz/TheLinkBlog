@@ -1,6 +1,6 @@
 ---
 title: "The Web API Checklist 43 Things To Think About When Designing, Testing, and Releasing your API - Mathieu Fenniak"
-date: 2013-04-16 19:19:28 +0000
+date: 2013-04-16 14:19:28 -0500
 external-url: https://mathieu.fenniak.net/the-api-checklist/
 hash: eab0b9b96ecdf22dcdfad5a8ce099701
 year: 2013

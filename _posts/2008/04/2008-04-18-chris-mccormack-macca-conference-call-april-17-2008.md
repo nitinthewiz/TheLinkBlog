@@ -1,6 +1,6 @@
 ---
 title: "Chris McCormack, Macca Conference Call - April 17, 2008"
-date: 2008-04-18 14:49:57 +0000
+date: 2008-04-18 09:49:57 -0500
 external-url: http://iwilltri.com/2008/04/chris-mccormack-macca-conference-call-april-17-2008/
 hash: e9ee40798225474bf809dd91954faa7c
 year: 2008

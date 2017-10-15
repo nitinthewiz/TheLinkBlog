@@ -1,6 +1,6 @@
 ---
 title: "Super Mario Bros Recreated as Life Size Augmented Reality Game"
-date: 2017-06-23 10:35:18 +0000
+date: 2017-06-23 05:35:18 -0500
 external-url: https://www.youtube.com/watch?v=QN95nNDtxjo
 hash: 428e83606ae44e5979e996272f26a0d6
 year: 2017

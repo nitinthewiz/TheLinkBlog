@@ -1,6 +1,6 @@
 ---
 title: "Web designers should do their own HTML/CSS"
-date: 2008-06-05 17:33:00 +0000
+date: 2008-06-05 12:33:00 -0500
 external-url: https://signalvnoise.com/posts/1066-web-designers-should-do-their-own-htmlcss
 hash: 25f7029b1f87509e41f5258e9339900e
 year: 2008

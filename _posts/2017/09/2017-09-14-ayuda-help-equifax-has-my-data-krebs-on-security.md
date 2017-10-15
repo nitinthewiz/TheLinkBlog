@@ -1,6 +1,6 @@
 ---
 title: "Ayuda! (Help!) Equifax Has My Data! — Krebs on Security"
-date: 2017-09-14 08:38:39 +0000
+date: 2017-09-14 03:38:39 -0500
 external-url: https://krebsonsecurity.com/2017/09/ayuda-help-equifax-has-my-data/
 hash: c2caa7576038e4c0bcdd10c31adf4a02
 year: 2017

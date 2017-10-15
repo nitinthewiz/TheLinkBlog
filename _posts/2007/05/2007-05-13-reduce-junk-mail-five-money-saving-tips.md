@@ -1,6 +1,6 @@
 ---
 title: "Reduce Junk Mail: Five Money Saving Tips"
-date: 2007-05-13 05:16:39 +0000
+date: 2007-05-13 00:16:39 -0500
 external-url: http://queercents.com/2007/05/07/reduce-junk-mail-five-money-saving-tips/
 hash: d97ebb6381cd697dffa989ec0d457879
 year: 2007

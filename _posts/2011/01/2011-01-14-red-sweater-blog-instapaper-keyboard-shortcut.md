@@ -1,6 +1,6 @@
 ---
 title: "Red Sweater Blog – Instapaper Keyboard Shortcut"
-date: 2011-01-14 20:19:15 +0000
+date: 2011-01-14 14:19:15 -0600
 external-url: http://www.red-sweater.com/blog/1594/instapaper-keyboard-shortcut
 hash: 7756f7459f399eec364b1ea73fea5683
 year: 2011

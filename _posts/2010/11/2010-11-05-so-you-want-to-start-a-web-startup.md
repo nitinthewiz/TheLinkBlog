@@ -1,6 +1,6 @@
 ---
 title: "So You Want To Start A Web Startup?"
-date: 2010-11-05 18:28:13 +0000
+date: 2010-11-05 13:28:13 -0500
 external-url: http://techcrunch.com/2010/11/05/so-you-want-to-start-a-web-startup/
 hash: d6a9cd4c872ee3df9bd3af365731244c
 year: 2010

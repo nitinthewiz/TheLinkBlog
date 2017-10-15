@@ -1,6 +1,6 @@
 ---
 title: "A Taste of Salt: Like Puppet, Except It Doesnt Suck - Software Quality Matters Blog"
-date: 2013-06-27 06:20:20 +0000
+date: 2013-06-27 01:20:20 -0500
 external-url: http://blog.smartbear.com/devops/a-taste-of-salt-like-puppet-except-it-doesnt-suck/
 hash: 32d144e39f0e8614c216b70af17edf44
 year: 2013

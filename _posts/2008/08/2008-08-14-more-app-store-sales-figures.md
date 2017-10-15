@@ -1,6 +1,6 @@
 ---
 title: "More App Store sales figures"
-date: 2008-08-14 20:30:00 +0000
+date: 2008-08-14 15:30:00 -0500
 external-url: http://www.tuaw.com/2008/08/14/more-app-store-sales-figures/
 hash: 5a739cacd74cb45d9cbe0d252d05e329
 year: 2008

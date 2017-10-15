@@ -1,6 +1,6 @@
 ---
 title: "Why nerd culture must die « Pete Warden's blog"
-date: 2014-10-06 12:28:51 +0000
+date: 2014-10-06 07:28:51 -0500
 external-url: http://petewarden.com/2014/10/05/why-nerd-culture-must-die/
 hash: 77d3b0cffbab0650c24f77ef888f6ad9
 year: 2014

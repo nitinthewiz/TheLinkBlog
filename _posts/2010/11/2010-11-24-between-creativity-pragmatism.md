@@ -1,6 +1,6 @@
 ---
 title: "Between Creativity & Pragmatism"
-date: 2010-11-24 22:32:28 +0000
+date: 2010-11-24 16:32:28 -0600
 external-url: http://www.josephrueter.com
 hash: b48fea1ca601f71696064342eeb60ca3
 year: 2010

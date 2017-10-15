@@ -1,6 +1,6 @@
 ---
 title: "What Is Spacetime, Really?—Stephen Wolfram Blog"
-date: 2015-12-05 22:41:27 +0000
+date: 2015-12-05 16:41:27 -0600
 external-url: http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/
 hash: 0cd69f76153eae5ab27330fdb63b328c
 year: 2015

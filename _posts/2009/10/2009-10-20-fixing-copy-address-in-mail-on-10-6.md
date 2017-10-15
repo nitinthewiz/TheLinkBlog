@@ -1,6 +1,6 @@
 ---
 title: "Fixing “Copy Address” in Mail on 10.6"
-date: 2009-10-20 15:08:33 +0000
+date: 2009-10-20 10:08:33 -0500
 external-url: http://mjtsai.com/blog/2009/10/16/fixing-copy-address-in-mail-on-10-6/
 hash: 4e0f2b8d1a3bb5c2da4ce2b0652d7eb1
 year: 2009

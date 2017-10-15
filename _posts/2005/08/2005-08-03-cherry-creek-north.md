@@ -1,6 +1,6 @@
 ---
 title: "Cherry Creek North"
-date: 2005-08-03 14:56:59 +0000
+date: 2005-08-03 09:56:59 -0500
 external-url: http://cherrycreeknorth.com
 hash: 15bebbdf5dc887a876f1a9b8e1316527
 year: 2005

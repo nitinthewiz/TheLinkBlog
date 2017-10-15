@@ -1,6 +1,6 @@
 ---
 title: "New Facebook Feature"
-date: 2009-07-30 06:01:35 +0000
+date: 2009-07-30 01:01:35 -0500
 external-url: http://dev.mnteractive.com/archive/new-facebook-feature/
 hash: 8bf0bee4e02ad812cd6798c77658dc5d
 year: 2009

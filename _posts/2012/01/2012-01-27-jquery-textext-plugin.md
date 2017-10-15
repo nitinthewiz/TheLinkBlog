@@ -1,6 +1,6 @@
 ---
 title: "jQuery TextExt Plugin"
-date: 2012-01-27 21:14:21 +0000
+date: 2012-01-27 15:14:21 -0600
 external-url: http://textextjs.com/
 hash: 5512511c29376a5592253b950672820f
 year: 2012

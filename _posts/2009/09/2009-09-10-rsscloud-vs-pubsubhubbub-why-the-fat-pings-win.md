@@ -1,6 +1,6 @@
 ---
 title: "RSSCloud Vs. PubSubHubbub: Why The Fat Pings Win"
-date: 2009-09-10 11:49:02 +0000
+date: 2009-09-10 06:49:02 -0500
 external-url: http://techcrunch.com/2009/09/09/rsscloud-vs-pubsubhubbub-why-the-fat-pings-win/
 hash: a411c5d4dda43fa390413333ff9e048f
 year: 2009

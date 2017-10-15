@@ -1,6 +1,6 @@
 ---
 title: "Raging Menace - MenuMeters"
-date: 2007-03-25 19:09:34 +0000
+date: 2007-03-25 14:09:34 -0500
 external-url: http://www.ragingmenace.com/software/menumeters/
 hash: 92b51bba76acd562aed35c4ff46c7092
 year: 2007

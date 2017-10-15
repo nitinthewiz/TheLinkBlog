@@ -1,6 +1,6 @@
 ---
 title: "Does Facebook Commerce Deserve a Grade of 'F'?"
-date: 2012-02-28 17:33:50 +0000
+date: 2012-02-28 11:33:50 -0600
 external-url: http://risnews.edgl.com/retail-trends/Does-Facebook-Commerce-Deserve-a-Grade-of--F--78809
 hash: 5175810b3aff110f98d45a1e90d8fa75
 year: 2012

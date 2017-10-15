@@ -1,6 +1,6 @@
 ---
 title: "Airbnb just acquired a team of bitcoin and blockchain experts — Quartz"
-date: 2016-05-04 20:33:38 +0000
+date: 2016-05-04 15:33:38 -0500
 external-url: http://qz.com/657246/airbnb-just-acquired-a-team-of-bitcoin-and-blockchain-experts/
 hash: f74bb426e5ae23276976d4b080c468f7
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Judgment Days"
-date: 2011-02-04 22:13:03 +0000
+date: 2011-02-04 16:13:03 -0600
 external-url: http://www.newyorker.com/talk/comment/2011/02/14/110214taco_talk_remnick
 hash: 96eff21dac165e73328c49480aa13300
 year: 2011

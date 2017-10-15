@@ -1,6 +1,6 @@
 ---
 title: "Fartscroll.js by theonion"
-date: 2013-05-09 15:32:23 +0000
+date: 2013-05-09 10:32:23 -0500
 external-url: http://theonion.github.io/fartscroll.js/
 hash: d4c6c4df1462a1773288872ade089ae0
 year: 2013

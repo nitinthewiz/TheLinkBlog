@@ -1,6 +1,6 @@
 ---
 title: "Arthur Ventures"
-date: 2011-04-27 17:30:40 +0000
+date: 2011-04-27 12:30:40 -0500
 external-url: http://arthurventures.com/
 hash: 450e1f88a9d1e8c96188ad2bc0432b5e
 year: 2011

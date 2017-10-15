@@ -1,6 +1,6 @@
 ---
 title: "GBD 2010 change in leading causes and risks between 1990 and 2010 - Institute for Health Metrics and Evaluation"
-date: 2013-02-28 11:33:12 +0000
+date: 2013-02-28 05:33:12 -0600
 external-url: http://www.healthdata.org/gbd/visualizations/gbd-2010-change-leading-causes-and-risks-between-1990-and-2010
 hash: b9b00fa8f2bf51562cb1b8a9d77d2f2a
 year: 2013

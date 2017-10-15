@@ -1,6 +1,6 @@
 ---
 title: "Embracing HTTPS"
-date: 2014-11-15 14:47:25 +0000
+date: 2014-11-15 08:47:25 -0600
 external-url: http://open.blogs.nytimes.com/2014/11/13/embracing-https/?_r=0
 hash: c4751a2a6d6cbbe0cfcbab3c697daaa7
 year: 2014

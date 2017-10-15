@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Python's Magic Methods"
-date: 2012-03-19 18:06:50 +0000
+date: 2012-03-19 13:06:50 -0500
 external-url: http://www.rafekettler.com/magicmethods.html
 hash: 52d075f8541edfe46af04b3ffd69322a
 year: 2012

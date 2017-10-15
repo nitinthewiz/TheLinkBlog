@@ -1,6 +1,6 @@
 ---
 title: "Easy CC License « WordPress Plugins"
-date: 2012-02-27 20:08:27 +0000
+date: 2012-02-27 14:08:27 -0600
 external-url: http://wordpress.org/extend/plugins/easy-cc-license/stats/
 hash: b838aa04b6a0d9b312922af3e1e9f155
 year: 2012

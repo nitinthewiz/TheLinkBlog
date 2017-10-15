@@ -1,6 +1,6 @@
 ---
 title: "Information Wants to be Elite"
-date: 2008-03-08 19:27:03 +0000
+date: 2008-03-08 13:27:03 -0600
 external-url: http://www.grouplens.org/node/207
 hash: 5e6c8ffdec39808bacf274846a6c01c2
 year: 2008

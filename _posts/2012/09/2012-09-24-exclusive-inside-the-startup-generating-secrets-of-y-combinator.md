@@ -1,6 +1,6 @@
 ---
 title: "Exclusive: Inside the Startup-Generating Secrets of Y Combinator"
-date: 2012-09-24 18:25:23 +0000
+date: 2012-09-24 13:25:23 -0500
 external-url: http://www.vanityfair.com/business/2012/10/y-combinator-start-up-think-tank
 hash: 68ef9f57ef99f62ef4cb5bd9270b493f
 year: 2012

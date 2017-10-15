@@ -1,6 +1,6 @@
 ---
 title: "Camden travel guide - Wikitravel"
-date: 2012-08-13 11:43:14 +0000
+date: 2012-08-13 06:43:14 -0500
 external-url: http://wikitravel.org/en/Camden_%28Maine%29
 hash: 20ac1163950a25a32cbc778cbd1f7703
 year: 2012

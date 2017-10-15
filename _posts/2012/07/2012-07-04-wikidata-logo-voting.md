@@ -1,6 +1,6 @@
 ---
 title: "Wikidata Logo voting"
-date: 2012-07-04 14:39:09 +0000
+date: 2012-07-04 09:39:09 -0500
 external-url: http://meta.wikimedia.org/wiki/Wikidata/Logo_voting
 hash: 048feaa87fb373d37029fec2dbee152d
 year: 2012

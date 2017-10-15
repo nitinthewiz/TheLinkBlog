@@ -1,6 +1,6 @@
 ---
 title: "Safari JSON Formatter"
-date: 2012-04-02 22:54:41 +0000
+date: 2012-04-02 17:54:41 -0500
 external-url: https://github.com/rfletcher/safari-json-formatter
 hash: 220ed02d7636f568773f278f67ebe7ff
 year: 2012

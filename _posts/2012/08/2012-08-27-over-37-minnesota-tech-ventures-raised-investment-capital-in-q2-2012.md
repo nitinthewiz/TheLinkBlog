@@ -1,6 +1,6 @@
 ---
 title: "Over 37 Minnesota tech ventures raised investment capital in Q2 2012"
-date: 2012-08-27 21:35:32 +0000
+date: 2012-08-27 16:35:32 -0500
 external-url: http://tech.mn/news/2012/08/27/minnesota-startup-funding-q2-2012/
 hash: f74027358411e6a8e46caa227ffbc015
 year: 2012

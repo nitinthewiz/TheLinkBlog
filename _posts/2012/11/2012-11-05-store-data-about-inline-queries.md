@@ -1,6 +1,6 @@
 ---
 title: "Store data about inline queries"
-date: 2012-11-05 21:27:34 +0000
+date: 2012-11-05 15:27:34 -0600
 external-url: https://gerrit.wikimedia.org/r/#/c/31593/
 hash: f45219c12b991c2f04c89523459bdb8e
 year: 2012

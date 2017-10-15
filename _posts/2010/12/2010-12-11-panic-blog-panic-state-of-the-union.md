@@ -1,6 +1,6 @@
 ---
 title: "Panic Blog » Panic State of the Union"
-date: 2010-12-11 14:25:19 +0000
+date: 2010-12-11 08:25:19 -0600
 external-url: http://www.panic.com/blog/2010/10/panic-state-of-the-union/
 hash: 943f975b013eaf3f63d8ab5b2ad464a1
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Featured photographer Layne Kennedy BirdWatching Magazine"
-date: 2012-06-02 12:59:13 +0000
+date: 2012-06-02 07:59:13 -0500
 external-url: http://www.birdwatchingdaily.com/en/Online%20Extras/Featured%20Photographer/2012/06/Layne%20Kennedy.aspx
 hash: f5e97e9dea6898471070c5a6f44fe03c
 year: 2012

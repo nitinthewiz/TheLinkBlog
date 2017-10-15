@@ -1,6 +1,6 @@
 ---
 title: "Kubb-y Coolness!"
-date: 2012-06-05 13:26:45 +0000
+date: 2012-06-05 08:26:45 -0500
 external-url: http://www.mtholyoke.edu/~larso20e/example1.html
 hash: 3e6cb2cbecc80acf254d383d520f8e22
 year: 2012

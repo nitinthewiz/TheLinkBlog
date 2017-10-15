@@ -1,6 +1,6 @@
 ---
 title: "Cultivating great distributed teams — Towards a remarkable career"
-date: 2015-10-08 13:59:04 +0000
+date: 2015-10-08 08:59:04 -0500
 external-url: https://medium.com/towards-a-remarkable-career/cultivating-great-distributed-teams-836f46162570
 hash: 91bcddc01fc0fa1683d763deb3f68b52
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "David “DHH” Heinemeier Hansson: The Entrepreneurial and Unstoppable Stoic"
-date: 2017-06-25 22:33:21 +0000
+date: 2017-06-25 17:33:21 -0500
 external-url: https://dailystoic.com/dhh/
 hash: dcde2a723873c487ff95544a18f74777
 year: 2017

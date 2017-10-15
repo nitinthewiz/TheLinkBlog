@@ -1,6 +1,6 @@
 ---
 title: "There is Bergkamp"
-date: 2010-07-08 16:04:14 +0000
+date: 2010-07-08 11:04:14 -0500
 external-url: http://kottke.org/10/07/there-is-bergkamp
 hash: f01ca182e8a99ba6b2c4258078347509
 year: 2010

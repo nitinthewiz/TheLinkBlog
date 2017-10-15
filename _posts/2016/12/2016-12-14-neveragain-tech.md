@@ -1,6 +1,6 @@
 ---
 title: "neveragain.tech"
-date: 2016-12-14 12:13:57 +0000
+date: 2016-12-14 06:13:57 -0600
 external-url: http://neveragain.tech/
 hash: 79c09fb9d095b48be5be119894636bab
 year: 2016

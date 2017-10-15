@@ -1,6 +1,6 @@
 ---
 title: "Will a Commercial nginx Shake Up the Web Server Market?"
-date: 2011-08-05 13:53:59 +0000
+date: 2011-08-05 08:53:59 -0500
 external-url: http://readwrite.com/2011/08/04/will-a-commercial-nginx-shake
 hash: df0c54de15b6c7880003fa3c2b22a7cd
 year: 2011

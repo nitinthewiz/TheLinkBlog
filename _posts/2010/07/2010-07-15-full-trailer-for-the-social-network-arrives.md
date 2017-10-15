@@ -1,6 +1,6 @@
 ---
 title: "Full Trailer For The Social Network Arrives"
-date: 2010-07-15 18:46:27 +0000
+date: 2010-07-15 13:46:27 -0500
 external-url: http://allfacebook.com/full-trailer-for-the-social-network-arrives_b15695
 hash: a5108bc26328193ae264f2afeb0cf9f0
 year: 2010

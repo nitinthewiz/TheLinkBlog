@@ -1,6 +1,6 @@
 ---
 title: "Favicon - How To Create A Favicon.ico | PhotoshopSupport.com"
-date: 2007-05-03 16:18:35 +0000
+date: 2007-05-03 11:18:35 -0500
 external-url: http://www.photoshopsupport.com/tutorials/jennifer/favicon.html
 hash: f7f6228badcb612e046a5602edb65a3d
 year: 2007

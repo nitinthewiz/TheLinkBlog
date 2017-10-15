@@ -1,6 +1,6 @@
 ---
 title: "A Complete History of the Millennium Falcon"
-date: 2016-03-03 11:40:50 +0000
+date: 2016-03-03 05:40:50 -0600
 external-url: http://kitbashed.com/blog/a-complete-history-of-the-millennium-falcon
 hash: 5f664322663103c0f241ac181d1f51f8
 year: 2016

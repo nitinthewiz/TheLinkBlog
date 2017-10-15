@@ -1,6 +1,6 @@
 ---
 title: "Questions on shooting video with DSLRs? Check out Dan Chungs DSLR News Shooter Blog"
-date: 2009-09-30 05:16:29 +0000
+date: 2009-09-30 00:16:29 -0500
 external-url: http://mediastorm.com/blog/2009/09/29/questions-on-shooting-video-with-dslrs-check-out-dan-chungs-dslr-news-shooter-blog/
 hash: 5c726f8e21e95bd55345358915997f23
 year: 2009

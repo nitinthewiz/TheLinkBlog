@@ -1,6 +1,6 @@
 ---
 title: "NASA Satellite Measurements Imply Texas Wind Farm Impact on Surface Temperature"
-date: 2012-04-30 22:20:39 +0000
+date: 2012-04-30 17:20:39 -0500
 external-url: http://www.nasa.gov/topics/earth/features/tx-wind-farm.html
 hash: d74621a78095d04098850d000961fccd
 year: 2012

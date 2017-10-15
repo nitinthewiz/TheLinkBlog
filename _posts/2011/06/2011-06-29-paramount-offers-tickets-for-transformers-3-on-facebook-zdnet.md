@@ -1,6 +1,6 @@
 ---
 title: "Paramount offers tickets for Transformers 3 on Facebook | ZDNet"
-date: 2011-06-29 21:12:27 +0000
+date: 2011-06-29 16:12:27 -0500
 external-url: http://www.zdnet.com/blog/facebook/paramount-offers-tickets-for-transformers-3-on-facebook/1795
 hash: 1d238416d522650a3a7a816f393c3a0b
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Here’s why you only have a 0.2% chance of getting hired at Google"
-date: 2014-10-23 17:19:00 +0000
+date: 2014-10-23 12:19:00 -0500
 external-url: http://qz.com/285001/heres-why-you-only-have-a-0-2-chance-of-getting-hired-at-google/
 hash: 6d11851f9781685aa36fce20cbbaff16
 year: 2014

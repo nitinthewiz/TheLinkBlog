@@ -1,6 +1,6 @@
 ---
 title: "New features in Semantic Result Formats - YouTube"
-date: 2012-11-25 22:20:27 +0000
+date: 2012-11-25 16:20:27 -0600
 external-url: https://www.youtube.com/watch?v=iCo6up6Kftc
 hash: b047027d814df123a84fbeba522052df
 year: 2012

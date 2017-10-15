@@ -1,6 +1,6 @@
 ---
 title: "Like It or Not, WikiLeaks is a Media Entity: Tech News «"
-date: 2010-12-05 17:18:29 +0000
+date: 2010-12-05 11:18:29 -0600
 external-url: http://gigaom.com/2010/12/04/like-it-or-not-wikileaks-is-a-media-entity/
 hash: a84a8a391cfee52149b23e64addb9a65
 year: 2010

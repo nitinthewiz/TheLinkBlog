@@ -1,6 +1,6 @@
 ---
 title: "LitePlayer"
-date: 2012-06-12 16:17:39 +0000
+date: 2012-06-12 11:17:39 -0500
 external-url: https://github.com/thingles/coco-liteplayer
 hash: 4e593b1b09bf87dcafd31f4e185a1e2e
 year: 2012

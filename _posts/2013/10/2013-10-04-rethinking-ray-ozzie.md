@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Ray Ozzie"
-date: 2013-10-04 21:20:49 +0000
+date: 2013-10-04 16:20:49 -0500
 external-url: http://winsupersite.com/cloud/rethinking-ray-ozzie
 hash: db367f9b11ba8e2a2563db177dc05caa
 year: 2013

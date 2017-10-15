@@ -1,6 +1,6 @@
 ---
 title: "Skype 5.0 Beta for Mac Arrives... But Where's Facebook?"
-date: 2010-11-04 17:10:47 +0000
+date: 2010-11-04 12:10:47 -0500
 external-url: http://readwrite.com/2010/11/04/skype_50_beta_for_mac_arrivesbut_wheres_facebook
 hash: d7eb2a055e296c23b36b5b396e703781
 year: 2010

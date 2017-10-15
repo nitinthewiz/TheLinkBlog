@@ -1,6 +1,6 @@
 ---
 title: "Affero General Public License"
-date: 2011-03-20 18:11:03 +0000
+date: 2011-03-20 13:11:03 -0500
 external-url: http://en.wikipedia.org/wiki/Affero_General_Public_License
 hash: 519b0e4e8319deeaedd37aecdcc39b05
 year: 2011

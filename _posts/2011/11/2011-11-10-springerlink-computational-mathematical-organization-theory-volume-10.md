@@ -1,6 +1,6 @@
 ---
 title: "SpringerLink - Computational & Mathematical Organization Theory, Volume 10, Number 1"
-date: 2011-11-10 14:45:06 +0000
+date: 2011-11-10 08:45:06 -0600
 external-url: http://www.springerlink.com/content/q567773rj070xvj2/
 hash: c640b2b61002cf8181c46c0ab62610de
 year: 2011

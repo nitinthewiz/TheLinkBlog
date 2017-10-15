@@ -1,6 +1,6 @@
 ---
 title: "Caux Round Table"
-date: 2013-07-29 16:11:51 +0000
+date: 2013-07-29 11:11:51 -0500
 external-url: http://www.cauxroundtable.org/
 hash: cd2a27cf706f3da930554b1521577e2d
 year: 2013

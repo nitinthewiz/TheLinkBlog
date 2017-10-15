@@ -1,6 +1,6 @@
 ---
 title: "Wall of Awesome"
-date: 2012-11-27 16:33:50 +0000
+date: 2012-11-27 10:33:50 -0600
 external-url: http://wallofaweso.me/
 hash: cce192784938221d5b3ed6e8be155a8d
 year: 2012

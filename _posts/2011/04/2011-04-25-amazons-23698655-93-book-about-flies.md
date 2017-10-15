@@ -1,6 +1,6 @@
 ---
 title: "Amazon’s $23,698,655.93 book about flies"
-date: 2011-04-25 15:47:36 +0000
+date: 2011-04-25 10:47:36 -0500
 external-url: http://www.michaeleisen.org/blog/?p=358
 hash: ce4eed0abdf8c5e28d72ba08a9637a44
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "The 'Dancing Baby' Lawsuit Will Shape Future of Fair Use"
-date: 2010-10-30 05:38:25 +0000
+date: 2010-10-30 00:38:25 -0500
 external-url: http://gigaom.com/2010/10/29/419-the-dancing-baby-lawsuit-will-shape-future-of-fair-use/
 hash: ebce5fb97a1630acd3f6e281a70cae26
 year: 2010

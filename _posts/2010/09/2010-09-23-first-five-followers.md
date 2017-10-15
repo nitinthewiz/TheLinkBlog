@@ -1,6 +1,6 @@
 ---
 title: "First Five Followers"
-date: 2010-09-23 20:25:14 +0000
+date: 2010-09-23 15:25:14 -0500
 external-url: http://firstfivefollowers.com/
 hash: 50049a22f60de09781e71f5aeaa4d584
 year: 2010

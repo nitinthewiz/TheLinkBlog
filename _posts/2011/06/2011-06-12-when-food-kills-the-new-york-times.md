@@ -1,6 +1,6 @@
 ---
 title: "When Food Kills - The New York Times"
-date: 2011-06-12 05:40:34 +0000
+date: 2011-06-12 00:40:34 -0500
 external-url: http://www.nytimes.com/2011/06/12/opinion/12kristof.html?_r=3
 hash: cf731eee8eae1ecd8a3e5cffe8a904fd
 year: 2011

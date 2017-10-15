@@ -1,6 +1,6 @@
 ---
 title: "monitors.txt - lazy webapp monitoring"
-date: 2011-11-08 20:14:28 +0000
+date: 2011-11-08 14:14:28 -0600
 external-url: http://monitorstxt.org/
 hash: e8bed28dc89db27af0b8d55104a033a4
 year: 2011

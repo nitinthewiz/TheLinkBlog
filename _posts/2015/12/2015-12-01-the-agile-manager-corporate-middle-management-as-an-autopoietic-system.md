@@ -1,6 +1,6 @@
 ---
 title: "The Agile Manager: Corporate Middle Management as an Autopoietic System"
-date: 2015-12-01 09:39:59 +0000
+date: 2015-12-01 03:39:59 -0600
 external-url: http://www.rosspettit.com/2015/11/corporate-middle-management-as.html?m=1
 hash: 23f06c93c4f30565e16bb7d031fc7a4e
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Why Angry Birds is so successful and popular: a cognitive teardown of the user experience"
-date: 2011-12-19 19:18:30 +0000
+date: 2011-12-19 13:18:30 -0600
 external-url: http://www.mauronewmedia.com/blog/why-angry-birds-is-so-successful-a-cognitive-teardown-of-the-user-experience/
 hash: 9b30fa4c6dc169549ba96c89b70c7796
 year: 2011

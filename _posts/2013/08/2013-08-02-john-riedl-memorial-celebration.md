@@ -1,6 +1,6 @@
 ---
 title: "John Riedl Memorial Celebration"
-date: 2013-08-02 15:46:16 +0000
+date: 2013-08-02 10:46:16 -0500
 external-url: http://www.cs.umn.edu/RiedlMemorial
 hash: be8b0f362548849b0ed746dce864f61b
 year: 2013

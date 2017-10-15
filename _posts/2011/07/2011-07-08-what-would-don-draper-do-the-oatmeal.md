@@ -1,6 +1,6 @@
 ---
 title: "What Would Don Draper Do? - The Oatmeal"
-date: 2011-07-08 13:25:57 +0000
+date: 2011-07-08 08:25:57 -0500
 external-url: http://theoatmeal.com/comics/wwddd
 hash: 94d0929ca2519e57b60885a652f5a808
 year: 2011

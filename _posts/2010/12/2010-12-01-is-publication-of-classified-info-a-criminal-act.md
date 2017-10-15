@@ -1,6 +1,6 @@
 ---
 title: "Is Publication of Classified Info a Criminal Act?"
-date: 2010-12-01 07:42:56 +0000
+date: 2010-12-01 01:42:56 -0600
 external-url: http://www.fas.org/blog/secrecy/2010/09/public_class.html
 hash: 99f6b86b708f6c3c59d9a78351e3d616
 year: 2010

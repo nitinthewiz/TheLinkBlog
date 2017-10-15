@@ -1,6 +1,6 @@
 ---
 title: "Semantic MediaWiki 1.9.2 Release Notes"
-date: 2014-04-24 22:11:55 +0000
+date: 2014-04-24 17:11:55 -0500
 external-url: https://semantic-mediawiki.org/wiki/Semantic_MediaWiki_1.9.2
 hash: 54d4c7f3f6a632d1b91cea7d5dcf03e1
 year: 2014

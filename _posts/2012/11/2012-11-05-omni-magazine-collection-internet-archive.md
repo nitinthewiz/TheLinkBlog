@@ -1,6 +1,6 @@
 ---
 title: "OMNI Magazine Collection - Internet Archive"
-date: 2012-11-05 18:44:58 +0000
+date: 2012-11-05 12:44:58 -0600
 external-url: https://archive.org/details/omni-magazine
 hash: 7873434df1769cc03c51616adddf6b10
 year: 2012

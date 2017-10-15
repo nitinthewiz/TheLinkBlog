@@ -1,6 +1,6 @@
 ---
 title: "Paul's Fireplace Wood"
-date: 2005-11-01 13:19:25 +0000
+date: 2005-11-01 07:19:25 -0600
 external-url: http://firewood.com
 hash: 2959cb7c07bd5a91d46bfbe53687593f
 year: 2005

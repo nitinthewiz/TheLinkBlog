@@ -1,6 +1,6 @@
 ---
 title: "IT workers largely shielded from economy's woes"
-date: 2012-07-02 22:57:26 +0000
+date: 2012-07-02 17:57:26 -0500
 external-url: http://www.mprnews.org/story/2012/07/01/regional/tech-workers
 hash: 30444c1e9065eda1d73520845dd7c90d
 year: 2012

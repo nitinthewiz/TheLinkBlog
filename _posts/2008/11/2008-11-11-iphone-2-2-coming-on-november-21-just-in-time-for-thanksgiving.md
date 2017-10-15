@@ -1,6 +1,6 @@
 ---
 title: "IPhone 2.2 coming on November 21...just in time for Thanksgiving"
-date: 2008-11-11 18:09:26 +0000
+date: 2008-11-11 12:09:26 -0600
 external-url: http://9to5mac.com/2008/11/11/iphone-2-2-coming-on-november-21-just-in-time-for-thanksgiving/
 hash: 52385de20f80eea1d870a9106a817136
 year: 2008

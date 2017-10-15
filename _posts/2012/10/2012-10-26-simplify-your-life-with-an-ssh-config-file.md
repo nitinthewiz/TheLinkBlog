@@ -1,6 +1,6 @@
 ---
 title: "Simplify Your Life With an SSH Config File"
-date: 2012-10-26 05:14:08 +0000
+date: 2012-10-26 00:14:08 -0500
 external-url: http://nerderati.com/2011/03/simplify-your-life-with-an-ssh-config-file/
 hash: ce2e9d574bfc6cf3edd1b9caedfc1e04
 year: 2012

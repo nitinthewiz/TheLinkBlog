@@ -1,6 +1,6 @@
 ---
 title: "No cameras. No lights. Just data."
-date: 2008-07-14 15:47:00 +0000
+date: 2008-07-14 10:47:00 -0500
 external-url: http://googleblog.blogspot.com/2008/07/no-cameras-no-lights-just-data.html
 hash: 69e41827c5977a9bb68dbec3a914cef6
 year: 2008

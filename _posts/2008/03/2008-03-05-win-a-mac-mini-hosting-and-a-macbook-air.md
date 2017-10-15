@@ -1,6 +1,6 @@
 ---
 title: "Win a Mac mini, hosting and a MacBook Air"
-date: 2008-03-05 12:00:00 +0000
+date: 2008-03-05 06:00:00 -0600
 external-url: http://www.tuaw.com/2008/03/05/win-a-mac-mini-hosting-and-a-macbook-air/
 hash: 5f3d04d39ba960157261361a5c9cdd9e
 year: 2008

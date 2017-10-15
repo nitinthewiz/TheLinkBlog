@@ -1,6 +1,6 @@
 ---
 title: "Capella University Names Scott Kinney New President"
-date: 2012-01-06 16:00:35 +0000
+date: 2012-01-06 10:00:35 -0600
 external-url: http://investors.capellaeducation.com/phoenix.zhtml?c=189886&p=irol-newsArticle&ID=1645244&highlight=
 hash: a55fe976f5e010e06266c49a6df1ac88
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "A Sledgehammer Called OmniFocus"
-date: 2010-10-25 14:18:49 +0000
+date: 2010-10-25 09:18:49 -0500
 external-url: http://shawnblanc.net/2010/10/omnifocus/
 hash: 82bb6b551eca1c95a342cdb47ae15252
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Licensed Mugs From Star Wars, Marvel, & More | Geeki Tikis"
-date: 2017-10-07 20:43:09 +0000
+date: 2017-10-07 15:43:09 -0500
 external-url: http://geekitikis.com/
 hash: 89cc7651c529ec573e71ea67740727f8
 year: 2017

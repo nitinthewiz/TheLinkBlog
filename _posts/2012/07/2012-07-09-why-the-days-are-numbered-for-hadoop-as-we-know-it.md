@@ -1,6 +1,6 @@
 ---
 title: "Why the days are numbered for Hadoop as we know it"
-date: 2012-07-09 20:37:38 +0000
+date: 2012-07-09 15:37:38 -0500
 external-url: https://gigaom.com/2012/07/07/why-the-days-are-numbered-for-hadoop-as-we-know-it/
 hash: 1c9f43dffca38009e59a006c32e6f6d4
 year: 2012

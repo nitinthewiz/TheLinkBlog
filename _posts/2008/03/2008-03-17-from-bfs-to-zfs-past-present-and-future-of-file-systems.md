@@ -1,6 +1,6 @@
 ---
 title: "From BFS to ZFS: past, present, and future of file systems"
-date: 2008-03-17 05:58:00 +0000
+date: 2008-03-17 00:58:00 -0500
 external-url: http://arstechnica.com/gadgets/2008/03/past-present-future-file-systems/
 hash: 32f7ecdce34dcc2d6ce6fd46923ffdd6
 year: 2008

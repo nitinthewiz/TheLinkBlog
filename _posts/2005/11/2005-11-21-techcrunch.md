@@ -1,6 +1,6 @@
 ---
 title: "TechCrunch"
-date: 2005-11-21 12:06:32 +0000
+date: 2005-11-21 06:06:32 -0600
 external-url: http://www.techcrunch.com/
 hash: 2ac9d1d0b3c37e9902d3bb2d40e134e0
 year: 2005

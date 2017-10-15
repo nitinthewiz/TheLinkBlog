@@ -1,6 +1,6 @@
 ---
 title: "Biolab Disaster"
-date: 2010-09-13 22:10:48 +0000
+date: 2010-09-13 17:10:48 -0500
 external-url: http://playbiolab.com/
 hash: 667ae0ab10451572de732c40c7f588c8
 year: 2010

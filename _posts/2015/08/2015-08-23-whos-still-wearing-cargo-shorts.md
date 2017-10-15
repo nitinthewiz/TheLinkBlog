@@ -1,6 +1,6 @@
 ---
 title: "Who’s still wearing cargo shorts?"
-date: 2015-08-23 14:22:16 +0000
+date: 2015-08-23 09:22:16 -0500
 external-url: http://www.joeydevilla.com/2015/08/23/whos-still-wearing-cargo-shorts/
 hash: f51e82ba45c276b1c2f83c95a49fe590
 year: 2015

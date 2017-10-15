@@ -1,6 +1,6 @@
 ---
 title: "On Sarcasm and Trust"
-date: 2015-06-21 20:54:21 +0000
+date: 2015-06-21 15:54:21 -0500
 external-url: http://beero.ps/2015/06/21/on-sarcasm-and-trust/
 hash: 7e1382cf45a7e2f979265fbf16f6815d
 year: 2015

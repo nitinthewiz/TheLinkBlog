@@ -1,6 +1,6 @@
 ---
 title: "Wikidata - Notes - ContentHandler"
-date: 2012-03-26 16:11:59 +0000
+date: 2012-03-26 11:11:59 -0500
 external-url: http://meta.wikimedia.org/wiki/Wikidata/Notes/ContentHandler
 hash: 38aab13deb44aa66b82ffc3d69cc5f5b
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Around The World and Back Again: Violated: A traveler’s lost faith, a difficult lesson learned"
-date: 2011-07-28 08:36:38 +0000
+date: 2011-07-28 03:36:38 -0500
 external-url: http://ejroundtheworld.blogspot.com/2011/06/violated-travelers-lost-faith-difficult.html
 hash: d778f9bb74128e5a60e37bb35ff45fe2
 year: 2011

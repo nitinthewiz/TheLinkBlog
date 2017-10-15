@@ -1,6 +1,6 @@
 ---
 title: "Facebook: Starting Over"
-date: 2009-12-13 15:51:11 +0000
+date: 2009-12-13 09:51:11 -0600
 external-url: http://mediactive.com/2009/12/12/facebook-starting-over/
 hash: 89a96ad149c288c7bbcc560b72dc6ba1
 year: 2009

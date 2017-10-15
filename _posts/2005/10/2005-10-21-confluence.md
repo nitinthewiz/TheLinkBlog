@@ -1,6 +1,6 @@
 ---
 title: "Confluence"
-date: 2005-10-21 21:29:49 +0000
+date: 2005-10-21 16:29:49 -0500
 external-url: https://www.atlassian.com/software/confluence/
 hash: f5771cdcd9077d58284d2e44d900a7c8
 year: 2005

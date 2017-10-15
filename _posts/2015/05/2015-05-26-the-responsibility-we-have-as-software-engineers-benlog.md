@@ -1,6 +1,6 @@
 ---
 title: "the responsibility we have as software engineers | Benlog"
-date: 2015-05-26 10:31:25 +0000
+date: 2015-05-26 05:31:25 -0500
 external-url: http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/
 hash: ab433dd42d5ef08294b6ded3b47bc707
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Should I work for Free?"
-date: 2011-01-13 16:20:49 +0000
+date: 2011-01-13 10:20:49 -0600
 external-url: http://jhische.com/workforfree.html
 hash: 61b9ecffbf93e2d5bdf1edb44e89765d
 year: 2011

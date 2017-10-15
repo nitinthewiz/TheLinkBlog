@@ -1,6 +1,6 @@
 ---
 title: "MediaWiki User Groups"
-date: 2012-12-13 13:33:59 +0000
+date: 2012-12-13 07:33:59 -0600
 external-url: http://www.mediawiki.org/wiki/Groups
 hash: 72669533b82f2f39dd7b502fb6e848bb
 year: 2012

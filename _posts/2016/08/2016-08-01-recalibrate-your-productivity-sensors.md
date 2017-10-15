@@ -1,6 +1,6 @@
 ---
 title: "Recalibrate Your Productivity Sensors"
-date: 2016-08-01 10:46:01 +0000
+date: 2016-08-01 05:46:01 -0500
 external-url: http://www.tombartel.de//2016/07/05/recalibrate-your-productivity-sensors/
 hash: a3902e9ddd10a99e074c855531fd2a85
 year: 2016

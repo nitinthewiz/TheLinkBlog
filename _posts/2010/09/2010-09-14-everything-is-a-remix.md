@@ -1,6 +1,6 @@
 ---
 title: "Everything Is a Remix"
-date: 2010-09-14 19:10:59 +0000
+date: 2010-09-14 14:10:59 -0500
 external-url: http://everythingisaremix.info/
 hash: 868fd5b9593d753557faa672bf41c8f0
 year: 2010

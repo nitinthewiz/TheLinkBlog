@@ -1,6 +1,6 @@
 ---
 title: "Can your CTO still code? - Recode"
-date: 2017-06-16 17:45:07 +0000
+date: 2017-06-16 12:45:07 -0500
 external-url: https://www.recode.net/2017/6/15/15332486/cto-code-coding-skills-developer-education-engineer
 hash: 5a2b50a497fd6786a1692e93d55d20df
 year: 2017

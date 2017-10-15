@@ -1,6 +1,6 @@
 ---
 title: "Six Colors: Bigger than a Tweet"
-date: 2014-11-02 12:24:20 +0000
+date: 2014-11-02 06:24:20 -0600
 external-url: http://sixcolors.com/post/2014/10/bigger-than-a-tweet/
 hash: 5023bb8eecfc80a46db03ed806689edd
 year: 2014

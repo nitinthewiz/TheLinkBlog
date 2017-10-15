@@ -1,6 +1,6 @@
 ---
 title: "MarsEdit: Blogging Done Right"
-date: 2007-12-07 14:00:09 +0000
+date: 2007-12-07 08:00:09 -0600
 external-url: http://macapper.com/2007/12/07/marsedit-blogging-done-right/
 hash: f711f133a474c4396dab2d0eba8e746c
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "Look! Up in the sky! Itsits its an amazing optics display"
-date: 2012-11-01 15:16:23 +0000
+date: 2012-11-01 10:16:23 -0500
 external-url: http://blogs.discovermagazine.com/badastronomy/2012/11/01/look-up-in-the-sky-its-its-its-an-amazing-optics-display/
 hash: 8d79878e7a41f6c4d99cf8d268826b04
 year: 2012

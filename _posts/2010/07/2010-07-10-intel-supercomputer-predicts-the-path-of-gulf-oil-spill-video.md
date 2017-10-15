@@ -1,6 +1,6 @@
 ---
 title: "Intel supercomputer predicts the path of Gulf oil spill (video)"
-date: 2010-07-10 18:53:22 +0000
+date: 2010-07-10 13:53:22 -0500
 external-url: http://venturebeat.com/2010/07/10/intel-supercomputer-predicts-the-path-of-gulf-oil-spill/
 hash: e827c8cc1ea192144de855bfd9aa92aa
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "32 Unique RSS Icons usage"
-date: 2008-04-09 16:18:07 +0000
+date: 2008-04-09 11:18:07 -0500
 external-url: http://www.wpzoom.com/design/32-unique-rss-icons-usage/
 hash: 5f36979bc16378b844ecda1cac81e6a3
 year: 2008

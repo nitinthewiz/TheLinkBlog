@@ -1,6 +1,6 @@
 ---
 title: "Canon posts beautiful sample movie from the new EF 8-15mm f/4L Fisheye USM"
-date: 2010-10-13 20:23:10 +0000
+date: 2010-10-13 15:23:10 -0500
 external-url: http://blog.planet5d.com/2010/10/canon-posts-beautiful-sample-movie-from-the-new-ef-8-15mm-f4l-fisheye-usm/
 hash: 12ce4cf5dc7973d3229cffe7ad2627d7
 year: 2010

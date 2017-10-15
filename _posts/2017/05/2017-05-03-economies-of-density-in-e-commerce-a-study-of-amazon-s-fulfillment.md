@@ -1,6 +1,6 @@
 ---
 title: "Economies of Density in E-Commerce: A Study of Amazon's Fulfillment Center Network"
-date: 2017-05-03 10:47:51 +0000
+date: 2017-05-03 05:47:51 -0500
 external-url: https://www.nber.org/papers/w23361
 hash: 262f6da419a2bed3dec28097b091adb3
 year: 2017

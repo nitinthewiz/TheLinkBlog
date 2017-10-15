@@ -1,6 +1,6 @@
 ---
 title: "Visual Codes Generates QR Codes for iOS 11’s New Camera Features – MacStories"
-date: 2017-09-20 23:36:41 +0000
+date: 2017-09-20 18:36:41 -0500
 external-url: https://www.macstories.net/reviews/visual-codes-generates-qr-codes-for-ios-11s-new-camera-features/
 hash: 616382bb2cdc4d6865a0ceb05f33aa5e
 year: 2017

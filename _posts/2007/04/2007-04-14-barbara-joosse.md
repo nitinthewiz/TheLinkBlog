@@ -1,6 +1,6 @@
 ---
 title: "Barbara Joosse"
-date: 2007-04-14 19:43:28 +0000
+date: 2007-04-14 14:43:28 -0500
 external-url: http://www.barbarajoosse.com/
 hash: 9eda35bdcffded0337980fc3ac824482
 year: 2007

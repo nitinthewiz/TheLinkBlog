@@ -1,6 +1,6 @@
 ---
 title: "Impartiality: The Foxification of news"
-date: 2011-07-07 22:13:32 +0000
+date: 2011-07-07 17:13:32 -0500
 external-url: http://www.economist.com/node/18904112
 hash: 3a85cb0f85e7be1e83c664befc1ef8a4
 year: 2011

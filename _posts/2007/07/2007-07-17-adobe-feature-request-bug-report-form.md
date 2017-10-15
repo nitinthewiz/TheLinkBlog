@@ -1,11 +1,11 @@
 ---
 title: "Adobe - Feature Request/Bug Report Form"
-date: 2007-07-17 21:16:43 +0000
-external-url: http://www.adobe.com/cfusion/mmform/index.cfm?name=wishform
-hash: 7fa4817daa2bc660bfa166602f5832ea
+date: 2007-07-17 17:16:43 -0500
+external-url: https://www.adobe.com/cfusion/mmform/index.cfm?name=wishform
+hash: 172b01e6993bc556f4ddc9117cb8fdc4
 year: 2007
 month: 07
-scheme: http
+scheme: https
 host: www.adobe.com
 path: /cfusion/mmform/index.cfm
 query:

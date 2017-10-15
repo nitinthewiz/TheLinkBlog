@@ -1,6 +1,6 @@
 ---
 title: "Speakeasy - Speed Test"
-date: 2007-06-29 14:38:08 +0000
+date: 2007-06-29 09:38:08 -0500
 external-url: http://www.speakeasy.net/speedtest/
 hash: 45e77500c304fb592a1169d5fc4a5115
 year: 2007

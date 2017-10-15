@@ -1,6 +1,6 @@
 ---
 title: "Cacti Data Queries"
-date: 2010-12-09 18:52:33 +0000
+date: 2010-12-09 12:52:33 -0600
 external-url: http://docs.cacti.net/manual:087:3a_advanced_topics.3_data_queries
 hash: ae22bd702c471c47b782f716786746ff
 year: 2010

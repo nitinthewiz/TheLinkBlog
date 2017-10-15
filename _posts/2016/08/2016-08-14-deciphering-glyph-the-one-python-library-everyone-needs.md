@@ -1,6 +1,6 @@
 ---
 title: "Deciphering Glyph :: The One Python Library Everyone Needs"
-date: 2016-08-14 11:59:14 +0000
+date: 2016-08-14 06:59:14 -0500
 external-url: https://glyph.twistedmatrix.com/2016/08/attrs.html
 hash: 713a744df3c92c40c163a7518825f6b1
 year: 2016

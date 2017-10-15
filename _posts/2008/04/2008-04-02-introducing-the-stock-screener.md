@@ -1,6 +1,6 @@
 ---
 title: "Introducing the Stock Screener"
-date: 2008-04-02 14:16:00 +0000
+date: 2008-04-02 09:16:00 -0500
 external-url: http://googlefinanceblog.blogspot.com/2008/04/introducing-stock-screener-posted-by.html
 hash: 5702355f1168407b686a578e8a5bc55b
 year: 2008

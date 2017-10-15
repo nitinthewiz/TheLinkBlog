@@ -1,6 +1,6 @@
 ---
 title: "The economics and politics of Thomas the Tank Engine — Bull Market — Medium"
-date: 2015-12-30 14:28:40 +0000
+date: 2015-12-30 08:28:40 -0600
 external-url: https://medium.com/bull-market/the-economics-and-politics-of-thomas-the-tank-engine-8bbc05494b08#.of65pycdf
 hash: acf903134e9437440cc3f49d099a13ba
 year: 2015

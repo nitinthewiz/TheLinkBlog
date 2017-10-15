@@ -1,6 +1,6 @@
 ---
 title: "Protecting your time"
-date: 2016-08-29 10:34:08 +0000
+date: 2016-08-29 05:34:08 -0500
 external-url: http://nickytests.blogspot.co.uk/2016/08/protecting-time.html?m=1
 hash: eced7e08e54ffb47e342a9ba8bc9ed5a
 year: 2016

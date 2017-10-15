@@ -1,6 +1,6 @@
 ---
 title: "Amazon Jobs | Our Leadership Principles"
-date: 2015-06-26 21:26:02 +0000
+date: 2015-06-26 16:26:02 -0500
 external-url: https://www.amazon.jobs/principles
 hash: f0e8a20890b059427e48266cc457702a
 year: 2015

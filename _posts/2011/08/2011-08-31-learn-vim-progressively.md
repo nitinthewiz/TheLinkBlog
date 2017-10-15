@@ -1,6 +1,6 @@
 ---
 title: "Learn Vim Progressively"
-date: 2011-08-31 11:04:18 +0000
+date: 2011-08-31 06:04:18 -0500
 external-url: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
 hash: 38945b301e07af7cad22c21d03967ff0
 year: 2011

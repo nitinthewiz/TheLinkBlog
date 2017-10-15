@@ -1,6 +1,6 @@
 ---
 title: "Minneapolis Facebook Developer Garage"
-date: 2008-01-04 19:59:00 +0000
+date: 2008-01-04 13:59:00 -0600
 external-url: http://railspikes.com/2008/1/4/minneapolis-facebook-developer-garage
 hash: f11845e921573dc3f6744b527d3f92a3
 year: 2008

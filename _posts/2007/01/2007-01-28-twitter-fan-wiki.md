@@ -1,6 +1,6 @@
 ---
 title: "Twitter Fan Wiki"
-date: 2007-01-28 14:46:27 +0000
+date: 2007-01-28 08:46:27 -0600
 external-url: http://twitter.pbworks.com/
 hash: efbcc6e669ae987902121e6e7b42c840
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "At Twitter, The Future is You! - YouTube"
-date: 2014-08-26 14:36:37 +0000
+date: 2014-08-26 09:36:37 -0500
 external-url: http://www.youtube.com/watch?v=vccZkELgEsU
 hash: 632754b71546c4bcfd763e98e90726c7
 year: 2014

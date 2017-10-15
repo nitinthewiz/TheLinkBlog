@@ -1,6 +1,6 @@
 ---
 title: "Skeptical"
-date: 2010-09-27 15:06:45 +0000
+date: 2010-09-27 10:06:45 -0500
 external-url: http://www.woothemes.com/2010/09/skeptical/
 hash: 8b9884dc6186516d15708b387fd3ba8b
 year: 2010

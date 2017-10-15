@@ -1,6 +1,6 @@
 ---
 title: "Iceland Timelapse Compilatiion"
-date: 2012-09-25 15:08:25 +0000
+date: 2012-09-25 10:08:25 -0500
 external-url: http://vimeo.com/26880424
 hash: c5f3fb472c38815ab8dfb4db91e55048
 year: 2012

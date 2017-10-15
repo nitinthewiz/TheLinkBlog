@@ -1,6 +1,6 @@
 ---
 title: "JAlbum Skins & Templates"
-date: 2006-05-11 12:51:01 +0000
+date: 2006-05-11 07:51:01 -0500
 external-url: http://jalbum.net/en/skins/new
 hash: bb4ea3e9235e6ba560140a13fb100ecf
 year: 2006

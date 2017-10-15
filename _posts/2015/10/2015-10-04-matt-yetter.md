@@ -1,6 +1,6 @@
 ---
 title: "Matt Yetter"
-date: 2015-10-04 22:45:29 +0000
+date: 2015-10-04 17:45:29 -0500
 external-url: http://www.mattyetter.com/
 hash: 445f76f99caba9a0486983260ec08ece
 year: 2015

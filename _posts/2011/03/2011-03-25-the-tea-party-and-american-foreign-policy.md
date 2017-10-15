@@ -1,6 +1,6 @@
 ---
 title: "The Tea Party and American Foreign Policy"
-date: 2011-03-25 19:57:44 +0000
+date: 2011-03-25 14:57:44 -0500
 external-url: http://m.foreignaffairs.com/articles/67455/walter-russell-mead/the-tea-party-and-american-foreign-policy
 hash: 4ea858d7052aaf1ce5677465d894175b
 year: 2011

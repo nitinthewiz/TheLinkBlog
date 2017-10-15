@@ -1,6 +1,6 @@
 ---
 title: "Amazon Launches Facebook e-Commerce Store"
-date: 2010-10-01 16:06:26 +0000
+date: 2010-10-01 11:06:26 -0500
 external-url: http://readwrite.com/2010/10/01/amazon_launches_facebook_e-commerce_store
 hash: 95509540acd2c2c4446f7e06e0ef9958
 year: 2010

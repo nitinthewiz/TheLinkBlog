@@ -1,6 +1,6 @@
 ---
 title: "aws advent"
-date: 2014-12-14 19:30:19 +0000
+date: 2014-12-14 13:30:19 -0600
 external-url: http://awsadvent.tumblr.com/
 hash: 4fb94bbc9050d369af45c788ad9e1029
 year: 2014

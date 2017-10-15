@@ -1,6 +1,6 @@
 ---
 title: "Fenzo: OSS Scheduler for Apache Mesos Frameworks"
-date: 2015-08-30 20:06:27 +0000
+date: 2015-08-30 15:06:27 -0500
 external-url: https://medium.com/netflix-techblog/fenzo-oss-scheduler-for-apache-mesos-frameworks-5c340e77e543
 hash: b8fb419ec77786e46623a058db4f3107
 year: 2015

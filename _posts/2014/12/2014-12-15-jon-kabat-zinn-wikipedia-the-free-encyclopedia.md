@@ -1,6 +1,6 @@
 ---
 title: "Jon Kabat-Zinn - Wikipedia, the free encyclopedia"
-date: 2014-12-15 14:26:32 +0000
+date: 2014-12-15 08:26:32 -0600
 external-url: http://en.wikipedia.org/wiki/Jon_Kabat-Zinn
 hash: f59d599a29fdd5f69a655f079343cbb8
 year: 2014

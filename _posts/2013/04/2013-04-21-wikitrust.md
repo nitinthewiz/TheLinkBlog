@@ -1,6 +1,6 @@
 ---
 title: "WikiTrust"
-date: 2013-04-21 18:56:27 +0000
+date: 2013-04-21 13:56:27 -0500
 external-url: http://www.wikitrust.net/
 hash: e26513cc5964ae3c079a59780d655986
 year: 2013

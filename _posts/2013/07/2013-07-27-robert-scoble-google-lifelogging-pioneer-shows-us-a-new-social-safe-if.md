@@ -1,6 +1,6 @@
 ---
 title: "Robert Scoble - Google+ - Lifelogging pioneer shows us a new social \"safe\" If you"
-date: 2013-07-27 13:25:14 +0000
+date: 2013-07-27 08:25:14 -0500
 external-url: https://plus.google.com/%2BScobleizer/posts/SEzDPDsqonF
 hash: b48b676105054ef1e937fbbdd40b8c7a
 year: 2013

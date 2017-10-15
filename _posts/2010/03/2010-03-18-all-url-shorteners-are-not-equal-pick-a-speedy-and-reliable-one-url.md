@@ -1,6 +1,6 @@
 ---
 title: "All URL Shorteners are Not Equal; Pick a Speedy and Reliable One [URL Hacking]"
-date: 2010-03-18 16:27:07 +0000
+date: 2010-03-18 11:27:07 -0500
 external-url: http://lifehacker.com/5496415/all-url-shorteners-are-not-equal-pick-a-speedy-and-reliable-one
 hash: a0c7efc9b3fa33aa665ed07ba8e518e2
 year: 2010

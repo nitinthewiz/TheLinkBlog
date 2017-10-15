@@ -1,6 +1,6 @@
 ---
 title: "Mediawiki-Vagrant"
-date: 2013-05-07 21:16:16 +0000
+date: 2013-05-07 16:16:16 -0500
 external-url: http://www.mediawiki.org/wiki/MediaWiki-Vagrant
 hash: 3f3e3cc6ca9dff280e538c66cf431b17
 year: 2013

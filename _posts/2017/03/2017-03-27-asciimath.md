@@ -1,6 +1,6 @@
 ---
 title: "AsciiMath"
-date: 2017-03-27 16:54:12 +0000
+date: 2017-03-27 11:54:12 -0500
 external-url: http://asciimath.org/
 hash: 2117ceff8216665dabeb46037111bacc
 year: 2017

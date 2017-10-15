@@ -1,6 +1,6 @@
 ---
 title: "What's Up With the Market? Watch This"
-date: 2007-11-29 13:50:50 +0000
+date: 2007-11-29 07:50:50 -0600
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2007/11/whats-up-with-t.html
 hash: b4b4879be7406dada2e534321b043c66
 year: 2007

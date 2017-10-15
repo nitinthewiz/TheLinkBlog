@@ -1,6 +1,6 @@
 ---
 title: "My family uses Slack. It’s pretty interesting. | Labs"
-date: 2016-02-02 19:10:41 +0000
+date: 2016-02-02 13:10:41 -0600
 external-url: http://labs.earthpeople.se/2016/02/my-family-uses-slack/
 hash: 16c5fe677a28492709dd573c921823d1
 year: 2016

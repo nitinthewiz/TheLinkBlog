@@ -1,6 +1,6 @@
 ---
 title: "SociaLite"
-date: 2015-04-02 09:13:48 +0000
+date: 2015-04-02 04:13:48 -0500
 external-url: http://socialite-lang.github.io/
 hash: ffa01c2759d3c16d14709a654e88db63
 year: 2015

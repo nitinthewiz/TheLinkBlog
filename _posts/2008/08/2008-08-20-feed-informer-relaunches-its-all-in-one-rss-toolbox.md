@@ -1,6 +1,6 @@
 ---
 title: "Feed.Informer Relaunches Its All-in-one RSS Toolbox"
-date: 2008-08-20 09:52:16 +0000
+date: 2008-08-20 04:52:16 -0500
 external-url: http://readwrite.com/2008/08/19/feedinformer_relaunches_its_al
 hash: 32d8ac440bbf402e894153be9c746e43
 year: 2008

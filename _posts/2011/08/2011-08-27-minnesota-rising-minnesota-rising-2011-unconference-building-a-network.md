@@ -1,6 +1,6 @@
 ---
 title: "Minnesota Rising: Minnesota Rising 2011 UnConference: Building A Network For What's Next"
-date: 2011-08-27 22:14:29 +0000
+date: 2011-08-27 17:14:29 -0500
 external-url: http://www.eventbrite.com/e/minnesota-rising-2011-unconference-building-a-network-for-whats-next-tickets-2171998506
 hash: aebd4c7abd050d980a8cbdcb9684ff59
 year: 2011

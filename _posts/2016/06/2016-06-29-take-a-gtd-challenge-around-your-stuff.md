@@ -1,6 +1,6 @@
 ---
 title: "Take a GTD Challenge Around Your “Stuff”"
-date: 2016-06-29 23:28:15 +0000
+date: 2016-06-29 18:28:15 -0500
 external-url: http://gettingthingsdone.com/2016/06/take-a-gtd-challenge-around-your-stuff/
 hash: 25443b98d87bf346fdbc0dd60f8bdeb0
 year: 2016

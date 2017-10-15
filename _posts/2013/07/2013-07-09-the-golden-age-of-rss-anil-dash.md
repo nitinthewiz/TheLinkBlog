@@ -1,6 +1,6 @@
 ---
 title: "The Golden Age of RSS - Anil Dash"
-date: 2013-07-09 18:35:42 +0000
+date: 2013-07-09 13:35:42 -0500
 external-url: http://dashes.com/anil/2013/07/the-golden-age-of-rss.html
 hash: 46c13ef6bba50b714875406d227e0be6
 year: 2013

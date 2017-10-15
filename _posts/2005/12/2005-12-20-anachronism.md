@@ -1,6 +1,6 @@
 ---
 title: "Anachronism"
-date: 2005-12-20 13:46:43 +0000
+date: 2005-12-20 07:46:43 -0600
 external-url: http://en.wikipedia.org/wiki/Anachronism_%28game%29
 hash: 4e62f484f09aca0fe68cf3ada5e452bc
 year: 2005

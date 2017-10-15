@@ -1,6 +1,6 @@
 ---
 title: "2014 Summer of Code - Entries in Life"
-date: 2014-09-14 16:18:30 +0000
+date: 2014-09-14 11:18:30 -0500
 external-url: http://hexmode.com/2014/09/summer-of-code/
 hash: ecfcc0789e9c62a07ccc1e81ba0b6fe5
 year: 2014

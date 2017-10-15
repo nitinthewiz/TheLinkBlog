@@ -1,6 +1,6 @@
 ---
 title: "Graph Databases: Connecting the Dots in Big Data | Big Data | DATAVERSITY"
-date: 2012-01-06 20:20:29 +0000
+date: 2012-01-06 14:20:29 -0600
 external-url: http://www.dataversity.net/archives/7736
 hash: 262c6bf280725b4c95d641aa66cf5cf4
 year: 2012

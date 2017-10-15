@@ -1,6 +1,6 @@
 ---
 title: "Dont work. Be hated. Love someone."
-date: 2012-04-16 22:32:54 +0000
+date: 2012-04-16 17:32:54 -0500
 external-url: http://halfhalf.posterous.com/bye.html
 hash: 842e2e5be9de6b8c1fb6d731ff74a48c
 year: 2012

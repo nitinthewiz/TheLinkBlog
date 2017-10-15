@@ -1,6 +1,6 @@
 ---
 title: "Adam Mosseri - Data Informed, Not Data Driven"
-date: 2011-11-17 23:13:43 +0000
+date: 2011-11-17 17:13:43 -0600
 external-url: https://www.youtube.com/watch?v=bKZiXAFeBeY
 hash: 49e0f30a5d7cd695ebc1b84db4ebbb8d
 year: 2011

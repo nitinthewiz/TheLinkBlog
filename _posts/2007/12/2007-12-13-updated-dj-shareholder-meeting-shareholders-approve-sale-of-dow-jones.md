@@ -1,6 +1,6 @@
 ---
 title: "Updated: @ DJ Shareholder Meeting: Shareholders Approve Sale Of Dow Jones; 60.27 Percent Support"
-date: 2007-12-13 22:39:36 +0000
+date: 2007-12-13 16:39:36 -0600
 external-url: http://gigaom.com/2007/12/13/419-dj-shareholder-meeting/
 hash: 458dc0633bb137d00070bc0ad46aed9b
 year: 2007

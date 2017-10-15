@@ -1,6 +1,6 @@
 ---
 title: "LR/Enfuse V3.00 announced"
-date: 2008-09-01 20:52:49 +0000
+date: 2008-09-01 15:52:49 -0500
 external-url: http://lightroom-news.com/2008/09/01/lrenfuse-v300-announced/
 hash: ea4b1f3afbbb8c8ca6735d72d4597535
 year: 2008

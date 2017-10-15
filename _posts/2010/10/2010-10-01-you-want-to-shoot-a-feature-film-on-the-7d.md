@@ -1,6 +1,6 @@
 ---
 title: "You Want To Shoot A Feature Film On The 7D?"
-date: 2010-10-01 15:00:24 +0000
+date: 2010-10-01 10:00:24 -0500
 external-url: http://www.aphotoeditor.com/2010/10/01/you-want-to-shoot-a-feature-film-on-the-7d/
 hash: 998392b1e738179a5d7101372643534d
 year: 2010

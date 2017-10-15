@@ -1,6 +1,6 @@
 ---
 title: "Extension default namespaces"
-date: 2013-05-29 19:55:49 +0000
+date: 2013-05-29 14:55:49 -0500
 external-url: http://www.mediawiki.org/wiki/Extension_default_namespaces
 hash: 5750afb22f1b5bac8ca989cc1d126894
 year: 2013

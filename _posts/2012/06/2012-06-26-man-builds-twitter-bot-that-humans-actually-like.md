@@ -1,6 +1,6 @@
 ---
 title: "Man Builds Twitter Bot That Humans Actually Like"
-date: 2012-06-26 21:17:06 +0000
+date: 2012-06-26 16:17:06 -0500
 external-url: http://www.wired.com/2012/06/twitter_arm/
 hash: 4522d7f8c16fe715e4079c54b161d532
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Announcing SQL Server on Linux"
-date: 2016-03-07 23:59:27 +0000
+date: 2016-03-07 17:59:27 -0600
 external-url: http://blogs.microsoft.com/?p=67248
 hash: 24e52f125de978efdf96b5f1e39f179d
 year: 2016

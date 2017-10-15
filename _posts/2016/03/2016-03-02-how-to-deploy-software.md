@@ -1,6 +1,6 @@
 ---
 title: "How to Deploy Software"
-date: 2016-03-02 10:10:54 +0000
+date: 2016-03-02 04:10:54 -0600
 external-url: https://zachholman.com/posts/deploying-software
 hash: 7ef5299c7f07a915e505d66cbaae6489
 year: 2016

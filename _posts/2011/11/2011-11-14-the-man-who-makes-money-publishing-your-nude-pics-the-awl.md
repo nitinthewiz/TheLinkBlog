@@ -1,6 +1,6 @@
 ---
 title: "The Man Who Makes Money Publishing Your Nude Pics | The Awl"
-date: 2011-11-14 23:03:26 +0000
+date: 2011-11-14 17:03:26 -0600
 external-url: http://www.theawl.com/2011/11/the-man-who-makes-money-publishing-your-nude-pics
 hash: d2670054139bf937f903cee8477f663b
 year: 2011

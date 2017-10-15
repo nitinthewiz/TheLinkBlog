@@ -1,6 +1,6 @@
 ---
 title: "Swift Share - Manage Windows and Macintosh Share Points on Mac OS X"
-date: 2007-08-06 19:03:06 +0000
+date: 2007-08-06 14:03:06 -0500
 external-url: http://www.koingosw.com/products/swiftshare.php
 hash: 5319f37bada66d897edab74b82743e3a
 year: 2007

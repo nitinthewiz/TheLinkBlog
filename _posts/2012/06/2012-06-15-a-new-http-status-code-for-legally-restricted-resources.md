@@ -1,6 +1,6 @@
 ---
 title: "A New HTTP Status Code for Legally-restricted Resources"
-date: 2012-06-15 20:42:20 +0000
+date: 2012-06-15 15:42:20 -0500
 external-url: http://www.tbray.org/tmp/draft-tbray-http-legally-restricted-status.html
 hash: c86e4afe2f51ec4a5713a4d87cb2f701
 year: 2012

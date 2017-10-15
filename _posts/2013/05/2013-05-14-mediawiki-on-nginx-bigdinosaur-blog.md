@@ -1,6 +1,6 @@
 ---
 title: "MediaWiki on Nginx - Bigdinosaur Blog"
-date: 2013-05-14 15:18:09 +0000
+date: 2013-05-14 10:18:09 -0500
 external-url: http://blog.bigdinosaur.org/mediawiki-on-nginx
 hash: 79fa4fd816866b1aed997ff464e3c8ef
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Cry of G.O.P. in Campaign: All Is Dismal"
-date: 2014-10-10 23:17:04 +0000
+date: 2014-10-10 18:17:04 -0500
 external-url: http://www.nytimes.com/2014/10/10/us/politics/republican-strategy-midterm-elections.html?referrer=
 hash: 5a1283dd506ac7aafeed67dfa40cd2bc
 year: 2014

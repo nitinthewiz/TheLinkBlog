@@ -1,6 +1,6 @@
 ---
 title: "Brooke Lynne"
-date: 2012-04-28 12:57:29 +0000
+date: 2012-04-28 07:57:29 -0500
 external-url: http://brookelynne.tumblr.com/
 hash: ccd09ee266aee4db573c19fad3fc9871
 year: 2012

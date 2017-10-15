@@ -1,6 +1,6 @@
 ---
 title: "Google is Evil -Consumer Watchdog"
-date: 2010-09-03 18:18:51 +0000
+date: 2010-09-03 13:18:51 -0500
 external-url: http://9to5mac.com/2010/09/03/googles-evil-consumer-wactchdog/
 hash: 9c85b26957772387462bf6f6d832e1cb
 year: 2010

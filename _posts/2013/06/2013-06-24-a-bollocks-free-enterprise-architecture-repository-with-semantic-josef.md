@@ -1,6 +1,6 @@
 ---
 title: "A Bollocks-free Enterprise Architecture Repository with Semantic Mediawiki - Josef Assad"
-date: 2013-06-24 14:36:14 +0000
+date: 2013-06-24 09:36:14 -0500
 external-url: http://www.josefassad.com/enterprise_architecture_repository_with_semantic_mediawiki
 hash: e3f5880132c998336129bc8161354a4f
 year: 2013

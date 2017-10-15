@@ -1,6 +1,6 @@
 ---
 title: "Liaison Technologies Transforms Cloud-based Integration and Data Management on MapR - MarketWatch"
-date: 2015-06-25 14:48:05 +0000
+date: 2015-06-25 09:48:05 -0500
 external-url: http://www.marketwatch.com/story/liaison-technologies-transforms-cloud-based-integration-and-data-management-on-mapr-2015-06-25?siteid=nbkh
 hash: baad38306ed2a89567abe23c3fd00780
 year: 2015

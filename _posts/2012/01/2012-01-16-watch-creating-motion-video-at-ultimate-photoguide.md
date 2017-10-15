@@ -1,6 +1,6 @@
 ---
 title: "Watch \"Creating Motion\" Video at Ultimate PhotoGuide"
-date: 2012-01-16 22:57:23 +0000
+date: 2012-01-16 16:57:23 -0600
 external-url: http://video.ultimatephotoguide.com/video/Creating-Motion
 hash: 5f7ca743bcb0088a2058e802c79b3729
 year: 2012

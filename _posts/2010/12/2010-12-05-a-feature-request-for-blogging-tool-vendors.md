@@ -1,6 +1,6 @@
 ---
 title: "A feature request for blogging tool vendors"
-date: 2010-12-05 16:32:55 +0000
+date: 2010-12-05 10:32:55 -0600
 external-url: http://scripting.com/stories/2010/12/05/aFeatureRequestForBlogging.html
 hash: 1fca034de1f08ddc7261e0f416cde5c1
 year: 2010

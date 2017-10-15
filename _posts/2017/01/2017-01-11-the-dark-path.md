@@ -1,6 +1,6 @@
 ---
 title: "The Dark Path"
-date: 2017-01-11 18:06:21 +0000
+date: 2017-01-11 12:06:21 -0600
 external-url: http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html
 hash: 6c04f886cdaa034b325a69a3872f757a
 year: 2017

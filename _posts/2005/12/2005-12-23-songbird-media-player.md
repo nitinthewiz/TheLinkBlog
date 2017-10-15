@@ -1,6 +1,6 @@
 ---
 title: "Songbird Media Player"
-date: 2005-12-23 17:34:52 +0000
+date: 2005-12-23 11:34:52 -0600
 external-url: http://getsongbird.com
 hash: e3e639dfcb5717c450f8fc10b943ea10
 year: 2005

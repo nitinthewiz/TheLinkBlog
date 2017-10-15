@@ -1,6 +1,6 @@
 ---
 title: "A Physicist Turns the City Into an Equation - NYTimes.com"
-date: 2010-12-21 21:32:47 +0000
+date: 2010-12-21 15:32:47 -0600
 external-url: http://www.nytimes.com/2010/12/19/magazine/19Urban_West-t.html?_r=1
 hash: 687a3e16cf8cd84adb8bd8a24ee1290f
 year: 2010

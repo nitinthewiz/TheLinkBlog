@@ -1,6 +1,6 @@
 ---
 title: "The HTML5 Test"
-date: 2011-01-30 21:37:03 +0000
+date: 2011-01-30 15:37:03 -0600
 external-url: http://www.html5test.com/
 hash: fd32b8c1b3f446edcf742d1f7302db33
 year: 2011

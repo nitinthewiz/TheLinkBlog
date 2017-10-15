@@ -1,6 +1,6 @@
 ---
 title: "Postling: Etsy Founders Do Social Media for Small Business"
-date: 2009-08-06 06:56:46 +0000
+date: 2009-08-06 01:56:46 -0500
 external-url: http://readwrite.com/2009/08/05/postling-etsy-founders-do-social-media-for-small-business
 hash: 17a42116787200db35d57f648e3552dd
 year: 2009

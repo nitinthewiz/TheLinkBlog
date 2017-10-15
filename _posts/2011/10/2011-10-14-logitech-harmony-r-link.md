@@ -1,6 +1,6 @@
 ---
 title: "Logitech Harmony® Link"
-date: 2011-10-14 19:53:48 +0000
+date: 2011-10-14 14:53:48 -0500
 external-url: http://www.logitech.com/en-us/tablet-accessories/for-ipad/devices/harmony-link
 hash: cd412d5160cc71b221a3a8116c8a2e5a
 year: 2011

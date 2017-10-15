@@ -1,6 +1,6 @@
 ---
 title: "Dyson Plans Solar Powered Car"
-date: 2008-06-24 06:54:52 +0000
+date: 2008-06-24 01:54:52 -0500
 external-url: http://gas2.org/2008/06/24/dyson-plans-solar-powered-car/
 hash: 92455c2e0787c94cf97efec63bd32ca1
 year: 2008

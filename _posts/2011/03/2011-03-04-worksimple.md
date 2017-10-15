@@ -1,6 +1,6 @@
 ---
 title: "WorkSimple"
-date: 2011-03-04 20:11:48 +0000
+date: 2011-03-04 14:11:48 -0600
 external-url: http://getworksimple.com/
 hash: 2d0c1c48704c1a14489fc7382da38005
 year: 2011

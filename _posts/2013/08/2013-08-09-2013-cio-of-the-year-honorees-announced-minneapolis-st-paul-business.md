@@ -1,6 +1,6 @@
 ---
 title: "2013 CIO of the Year honorees announced - Minneapolis / St. Paul Business Journal"
-date: 2013-08-09 15:54:43 +0000
+date: 2013-08-09 10:54:43 -0500
 external-url: http://www.bizjournals.com/twincities/news/2013/08/09/2013-cio-of-the-year-awards.html
 hash: 71981beed848b6da01c61bc4f322d88e
 year: 2013

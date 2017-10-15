@@ -1,6 +1,6 @@
 ---
 title: "Data Modeling for NoSQL"
-date: 2012-11-12 16:53:08 +0000
+date: 2012-11-12 10:53:08 -0600
 external-url: http://www.slideshare.net/fehguy/data-modeling-for-nosql
 hash: cebca5149fca1073f5200205ef4a51f6
 year: 2012

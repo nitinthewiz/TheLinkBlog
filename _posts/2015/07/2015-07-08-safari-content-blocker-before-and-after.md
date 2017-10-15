@@ -1,6 +1,6 @@
 ---
 title: "★ Safari Content Blocker, Before and After"
-date: 2015-07-08 22:41:44 +0000
+date: 2015-07-08 17:41:44 -0500
 external-url: http://daringfireball.net/2015/07/safari_content_blocker_imore
 hash: aa6b43dc8d8dd0ebecc793bd2d70cf5a
 year: 2015

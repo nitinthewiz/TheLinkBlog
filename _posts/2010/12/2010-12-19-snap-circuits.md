@@ -1,6 +1,6 @@
 ---
 title: "Snap Circuits"
-date: 2010-12-19 18:35:50 +0000
+date: 2010-12-19 12:35:50 -0600
 external-url: http://www.elenco.com/product/productlist/snap_circuits&amp;reg;=OTM=
 hash: b05e04c52c1b1109bc636c3c25b49fd9
 year: 2010

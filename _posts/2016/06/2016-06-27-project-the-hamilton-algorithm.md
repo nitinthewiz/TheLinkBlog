@@ -1,6 +1,6 @@
 ---
 title: "Project The Hamilton Algorithm"
-date: 2016-06-27 10:31:54 +0000
+date: 2016-06-27 05:31:54 -0500
 external-url: https://source.opennews.org/en-US/articles/hamilton-algorithm/
 hash: fa3d94a2a9665a53557f33b8f9924aa9
 year: 2016

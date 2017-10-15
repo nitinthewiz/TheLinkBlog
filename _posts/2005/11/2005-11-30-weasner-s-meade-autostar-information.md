@@ -1,6 +1,6 @@
 ---
 title: "Weasner's Meade Autostar Information"
-date: 2005-11-30 11:44:33 +0000
+date: 2005-11-30 05:44:33 -0600
 external-url: http://www.weasner.com/etx/autostar_info.html
 hash: e9863001c8370659864ae566ecdb2eae
 year: 2005

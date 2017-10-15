@@ -1,6 +1,6 @@
 ---
 title: "Hyperlocal cooties"
-date: 2013-03-11 05:04:40 +0000
+date: 2013-03-11 00:04:40 -0500
 external-url: http://buzzmachine.com/2013/03/08/hyperlocal-cooties/
 hash: edf12d4adaa52358d7c86e07332ca1b2
 year: 2013

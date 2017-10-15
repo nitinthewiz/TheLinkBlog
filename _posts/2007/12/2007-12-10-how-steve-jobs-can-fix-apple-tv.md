@@ -1,6 +1,6 @@
 ---
 title: "How Steve Jobs Can Fix Apple TV"
-date: 2007-12-10 17:17:43 +0000
+date: 2007-12-10 11:17:43 -0600
 external-url: http://www.businessinsider.com/2007/12/how-apple-can-fix-apple-tv
 hash: 456d8f8dc24c5cad67b70e1c6abd8e57
 year: 2007

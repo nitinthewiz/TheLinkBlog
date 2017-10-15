@@ -1,6 +1,6 @@
 ---
 title: "EFF's Reading List from 2011 | Electronic Frontier Foundation"
-date: 2011-12-22 16:26:46 +0000
+date: 2011-12-22 10:26:46 -0600
 external-url: https://www.eff.org/deeplinks/2011/12/books-list-2011
 hash: 6e22c42d15083f20a480754e4e3faff7
 year: 2011

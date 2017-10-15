@@ -1,6 +1,6 @@
 ---
 title: "How To: Getting Started with Amazon EC2"
-date: 2008-04-07 19:23:06 +0000
+date: 2008-04-07 14:23:06 -0500
 external-url: http://paulstamatiou.com/how-to-getting-started-with-amazon-ec2
 hash: 3dd75b5728c0b7e1891d0dff57bc1f8b
 year: 2008

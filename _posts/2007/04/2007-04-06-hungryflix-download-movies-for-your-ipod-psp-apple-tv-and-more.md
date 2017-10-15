@@ -1,6 +1,6 @@
 ---
 title: "HungryFlix - Download Movies for your iPod, PSP, Apple TV and More!"
-date: 2007-04-06 14:00:42 +0000
+date: 2007-04-06 09:00:42 -0500
 external-url: http://www.hungryflix.com/
 hash: f53b2d5fdc62c0dd93d1872b7a91afea
 year: 2007

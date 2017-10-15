@@ -1,6 +1,6 @@
 ---
 title: "Why can't we run software that was written 25 years ago?"
-date: 2015-09-13 16:22:46 +0000
+date: 2015-09-13 11:22:46 -0500
 external-url: http://scripting.com/2015/09/13/whyCantWeRunSoftwareThatWasWritten25YearsAgo.html
 hash: 226f4ee8ac3bfc426e7b3420b43a3589
 year: 2015

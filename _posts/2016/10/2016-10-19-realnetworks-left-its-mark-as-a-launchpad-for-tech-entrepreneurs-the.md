@@ -1,6 +1,6 @@
 ---
 title: "RealNetworks left its mark as a launchpad for tech entrepreneurs | The Seattle Times"
-date: 2016-10-19 18:46:12 +0000
+date: 2016-10-19 13:46:12 -0500
 external-url: http://www.seattletimes.com/business/technology/realnetworks-left-its-mark-as-a-launchpad-for-tech-entrepreneurs/
 hash: 13710c0439f37ddc4af94024792e5cce
 year: 2016

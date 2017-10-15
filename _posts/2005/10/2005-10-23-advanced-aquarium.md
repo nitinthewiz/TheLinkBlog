@@ -1,6 +1,6 @@
 ---
 title: "Advanced Aquarium"
-date: 2005-10-23 15:05:47 +0000
+date: 2005-10-23 10:05:47 -0500
 external-url: http://www.advancedaquariummpls.com/
 hash: 142a40b0486421d1481dd7bbdf77ff9e
 year: 2005

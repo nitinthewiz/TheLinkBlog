@@ -1,6 +1,6 @@
 ---
 title: "How to use OpenID (a screencast)"
-date: 2007-04-22 06:28:00 +0000
+date: 2007-04-22 01:28:00 -0500
 external-url: http://blog.simonwillison.net//2006/openid-screencast/
 hash: e78019b1568a534c4aa6fe7d0b2e2769
 year: 2007

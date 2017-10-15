@@ -1,6 +1,6 @@
 ---
 title: "Facebook Tracking Platform Status"
-date: 2011-09-15 05:01:17 +0000
+date: 2011-09-15 00:01:17 -0500
 external-url: https://developers.facebook.com/blog/post/557/
 hash: 6086fbaf9a07b8e3cbfb71e5a9efc79c
 year: 2011

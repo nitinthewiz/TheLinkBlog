@@ -1,6 +1,6 @@
 ---
 title: "Online Advertising: Losing the Race to the Bottom (MP3)"
-date: 2010-08-23 15:24:27 +0000
+date: 2010-08-23 10:24:27 -0500
 external-url: http://audio.sxsw.com/2010/podcasts/031410i_OnlineAdvertisingLosingtheRacetotheBottom.mp3
 hash: ccb44b04cf39c4e65aa14bcb7cbfe23c
 year: 2010

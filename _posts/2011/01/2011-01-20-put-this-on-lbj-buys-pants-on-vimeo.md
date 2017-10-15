@@ -1,6 +1,6 @@
 ---
 title: "Put This On: LBJ Buys Pants on Vimeo"
-date: 2011-01-20 06:57:01 +0000
+date: 2011-01-20 00:57:01 -0600
 external-url: http://vimeo.com/18864216
 hash: 930a2f6196abe41e6f84f2381382542a
 year: 2011

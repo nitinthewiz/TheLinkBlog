@@ -1,6 +1,6 @@
 ---
 title: "MediaWiki Hooks"
-date: 2011-08-10 22:55:28 +0000
+date: 2011-08-10 17:55:28 -0500
 external-url: http://www.mediawiki.org/wiki/Manual:Hooks
 hash: c8878ebd1829ef1fb57436285ad53d01
 year: 2011

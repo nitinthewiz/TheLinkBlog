@@ -1,6 +1,6 @@
 ---
 title: "Jume: Getting Things Done With Your Friends"
-date: 2010-11-02 14:00:43 +0000
+date: 2010-11-02 09:00:43 -0500
 external-url: http://gigaom.com/2010/11/02/242340/
 hash: 130d7d231f5b641b94c7e2836a4cdb99
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "This Internet provider pledges to put your privacy first. Always."
-date: 2012-04-11 15:29:43 +0000
+date: 2012-04-11 10:29:43 -0500
 external-url: http://www.cnet.com/8301-31921_3-57412225-281.html
 hash: eb13ec879ee24383a448fa2a4101fd73
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Localtweeps :: Help localize your Twittersphere! :: Home"
-date: 2009-04-05 19:56:00 +0000
+date: 2009-04-05 14:56:00 -0500
 external-url: http://localtweeps.com
 hash: 7a29179572addc1ff45b364c9838a1ab
 year: 2009

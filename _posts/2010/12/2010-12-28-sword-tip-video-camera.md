@@ -1,6 +1,6 @@
 ---
 title: "Sword-tip video camera"
-date: 2010-12-28 15:22:56 +0000
+date: 2010-12-28 09:22:56 -0600
 external-url: http://kottke.org/10/12/sword-tip-video-camera
 hash: 1f7b6ee56113ac2597e45514d280f9b6
 year: 2010

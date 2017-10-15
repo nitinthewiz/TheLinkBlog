@@ -1,6 +1,6 @@
 ---
 title: "Rubbernet"
-date: 2011-04-27 15:54:04 +0000
+date: 2011-04-27 10:54:04 -0500
 external-url: http://rubbernetapp.com/
 hash: 80f7d76c733d4e0bb900c756bc0d9baf
 year: 2011

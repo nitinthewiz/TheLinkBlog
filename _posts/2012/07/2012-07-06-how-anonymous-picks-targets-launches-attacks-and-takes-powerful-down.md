@@ -1,6 +1,6 @@
 ---
 title: "How Anonymous Picks Targets, Launches Attacks, and Takes Powerful Organizations Down"
-date: 2012-07-06 17:35:59 +0000
+date: 2012-07-06 12:35:59 -0500
 external-url: http://www.wired.com/2012/07/ff_anonymous/
 hash: bd8f54e9d25edffdec95c85e4deb33cb
 year: 2012

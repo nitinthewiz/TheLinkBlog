@@ -1,6 +1,6 @@
 ---
 title: "tempalias - Temporary Email Aliases"
-date: 2011-02-12 16:28:45 +0000
+date: 2011-02-12 10:28:45 -0600
 external-url: http://tempalias.com/#/
 hash: 7e26efa60a04addbbb568792647b2069
 year: 2011

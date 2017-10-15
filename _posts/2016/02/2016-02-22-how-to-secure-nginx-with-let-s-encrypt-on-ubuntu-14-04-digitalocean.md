@@ -1,6 +1,6 @@
 ---
 title: "How To Secure Nginx with Let's Encrypt on Ubuntu 14.04 | DigitalOcean"
-date: 2016-02-22 15:08:48 +0000
+date: 2016-02-22 09:08:48 -0600
 external-url: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
 hash: eb16eb648ec0711c1956cb65796cc49f
 year: 2016

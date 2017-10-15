@@ -1,6 +1,6 @@
 ---
 title: "Finally: Tetris Dress"
-date: 2009-10-26 05:22:00 +0000
+date: 2009-10-26 00:22:00 -0500
 external-url: http://dressaday.com/2009/10/22/finally-tetris-dress/
 hash: 806f15706fb6db228b4d0d926a8b2d92
 year: 2009

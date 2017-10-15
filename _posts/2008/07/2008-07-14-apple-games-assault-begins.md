@@ -1,6 +1,6 @@
 ---
 title: "Apple games assault begins"
-date: 2008-07-14 15:14:37 +0000
+date: 2008-07-14 10:14:37 -0500
 external-url: http://9to5mac.com/2008/07/14/apple-games-assault-begins/
 hash: 359f3ca231cfbec622e22c821c668991
 year: 2008

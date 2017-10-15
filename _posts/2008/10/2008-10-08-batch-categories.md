@@ -1,6 +1,6 @@
 ---
 title: "Batch Categories"
-date: 2008-10-08 17:25:52 +0000
+date: 2008-10-08 12:25:52 -0500
 external-url: https://robm.me.uk/projects/plugins/wordpress/batch-categories
 hash: e93b95f4eb4bd0881b0e91f88ff8162f
 year: 2008

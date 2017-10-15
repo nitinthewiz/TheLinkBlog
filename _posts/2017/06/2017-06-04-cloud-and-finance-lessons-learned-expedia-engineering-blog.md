@@ -1,6 +1,6 @@
 ---
 title: "Cloud and Finance – Lessons learned | Expedia Engineering Blog"
-date: 2017-06-04 21:30:38 +0000
+date: 2017-06-04 16:30:38 -0500
 external-url: https://techblog.expedia.com/2017/05/19/cloud-and-finance-lessons-learned/
 hash: 7d2e814a4540638f4ebd8869d98d2d7b
 year: 2017

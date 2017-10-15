@@ -1,6 +1,6 @@
 ---
 title: "Gnuplotting · Create scientific plots using Gnuplot"
-date: 2012-01-23 22:14:16 +0000
+date: 2012-01-23 16:14:16 -0600
 external-url: http://www.gnuplotting.org/
 hash: be6271b630a7e707947a5c8ada8a80e9
 year: 2012

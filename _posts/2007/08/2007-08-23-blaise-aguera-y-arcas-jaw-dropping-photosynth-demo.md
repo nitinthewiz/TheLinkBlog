@@ -1,6 +1,6 @@
 ---
 title: "Blaise Aguera y Arcas: Jaw-dropping Photosynth demo"
-date: 2007-08-23 14:16:45 +0000
+date: 2007-08-23 09:16:45 -0500
 external-url: http://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth
 hash: 921ccbf94e0e66341486f99568711f1b
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "Sorting Algorithm Animations"
-date: 2010-12-19 21:21:57 +0000
+date: 2010-12-19 15:21:57 -0600
 external-url: http://www.sorting-algorithms.com/
 hash: 3c1387539ee03a51ef5403cc233c63f7
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Vimeo: Hey, People Are Watching Our Videos"
-date: 2008-06-24 20:24:00 +0000
+date: 2008-06-24 15:24:00 -0500
 external-url: http://www.businessinsider.com/2008/6/vimeo-hey-people-are-watching-our-videos-
 hash: c4da831235587e12fc507e4bc4a098c4
 year: 2008

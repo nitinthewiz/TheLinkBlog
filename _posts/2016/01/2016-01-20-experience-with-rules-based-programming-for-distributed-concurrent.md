@@ -1,6 +1,6 @@
 ---
 title: "Experience with Rules-Based Programming for Distributed Concurrent Fault-Tolerant Code"
-date: 2016-01-20 11:11:01 +0000
+date: 2016-01-20 05:11:01 -0600
 external-url: http://blog.acolyer.org/2016/01/19/dcft/
 hash: a9b2ef2681d9ca5022047d6b1ca507cb
 year: 2016

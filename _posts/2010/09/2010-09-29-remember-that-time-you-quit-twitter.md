@@ -1,6 +1,6 @@
 ---
 title: "“Remember that time you quit Twitter”"
-date: 2010-09-29 22:01:35 +0000
+date: 2010-09-29 17:01:35 -0500
 external-url: https://garrickvanburen.com/remember-that-time-you-quit-twitter/
 hash: 04adfaa555a352f77ddb988273b77f26
 year: 2010

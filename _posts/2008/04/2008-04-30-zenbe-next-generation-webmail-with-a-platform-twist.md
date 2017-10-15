@@ -1,6 +1,6 @@
 ---
 title: "Zenbe: Next-Generation Webmail, With A Platform Twist"
-date: 2008-04-30 15:59:26 +0000
+date: 2008-04-30 10:59:26 -0500
 external-url: http://techcrunch.com/2008/04/30/zenbe-next-generation-webmail-with-a-platform-twist/
 hash: e4cd3eb9bfb1df1b4543be2688e6df7e
 year: 2008

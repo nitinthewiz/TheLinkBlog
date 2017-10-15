@@ -1,6 +1,6 @@
 ---
 title: "GCDC X16-1C Usb-Accelerometer 3-axis Data Recorder"
-date: 2012-06-09 05:13:02 +0000
+date: 2012-06-09 00:13:02 -0500
 external-url: http://gcdataconcepts.com/xlr8r-1.html
 hash: 7c43cccf8865c06f618b56ba627205ba
 year: 2012

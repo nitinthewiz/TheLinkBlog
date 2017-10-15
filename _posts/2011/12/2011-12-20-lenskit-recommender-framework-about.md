@@ -1,6 +1,6 @@
 ---
 title: "LensKit Recommender Framework — About"
-date: 2011-12-20 23:41:30 +0000
+date: 2011-12-20 17:41:30 -0600
 external-url: http://lenskit.grouplens.org/
 hash: 47849358217f3eae75c583ce85cf894d
 year: 2011

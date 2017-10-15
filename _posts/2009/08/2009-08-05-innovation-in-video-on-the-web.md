@@ -1,6 +1,6 @@
 ---
 title: "Innovation in video on the web"
-date: 2009-08-05 16:41:40 +0000
+date: 2009-08-05 11:41:40 -0500
 external-url: http://googleblog.blogspot.com/2009/08/innovation-in-video-on-web.html
 hash: d19453ebd13092eb51ed2744efedbc41
 year: 2009

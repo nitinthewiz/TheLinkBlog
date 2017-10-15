@@ -1,6 +1,6 @@
 ---
 title: "Cloud outages, transparency, and trust"
-date: 2015-01-12 22:08:13 +0000
+date: 2015-01-12 16:08:13 -0600
 external-url: http://redmonk.com/dberkholz/2015/01/12/cloud-outages-transparency-and-trust/
 hash: 0fae7dd441b443ba06204175839a7d3a
 year: 2015

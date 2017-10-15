@@ -1,6 +1,6 @@
 ---
 title: "Perl 6 Introduction"
-date: 2015-11-29 13:46:03 +0000
+date: 2015-11-29 07:46:03 -0600
 external-url: http://perl6intro.com/
 hash: 3689fdcfb33eb85d4a2da14e7c9cbd49
 year: 2015

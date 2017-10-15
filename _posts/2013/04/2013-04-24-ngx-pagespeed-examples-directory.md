@@ -1,6 +1,6 @@
 ---
 title: "Ngx pagespeed Examples Directory"
-date: 2013-04-24 17:07:36 +0000
+date: 2013-04-24 12:07:36 -0500
 external-url: http://ngxpagespeed.com/ngx_pagespeed_example/
 hash: a123c3f4aec5db914c2a593a301f99bd
 year: 2013

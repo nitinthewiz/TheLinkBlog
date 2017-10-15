@@ -1,6 +1,6 @@
 ---
 title: "Why I like DST"
-date: 2013-03-11 17:16:30 +0000
+date: 2013-03-11 12:16:30 -0500
 external-url: http://www.leancrew.com/all-this/2013/03/why-i-like-dst/
 hash: 47942eaef5c1d3f50e11250fa88d9e85
 year: 2013

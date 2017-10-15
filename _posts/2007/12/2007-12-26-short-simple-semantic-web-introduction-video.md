@@ -1,6 +1,6 @@
 ---
 title: "Short Simple Semantic Web Introduction Video"
-date: 2007-12-26 22:53:00 +0000
+date: 2007-12-26 16:53:00 -0600
 external-url: http://danielabarbosa.blogspot.com/2007/12/short-simple-semantic-web-introduction.html
 hash: 4f3b1f13e28ff54e9aee7b5c295ba13f
 year: 2007

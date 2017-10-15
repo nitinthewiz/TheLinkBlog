@@ -1,6 +1,6 @@
 ---
 title: "Facebook Statistics"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://www.facebook.com/press/info.php?statistics
 hash: b07b57725b4e3a369de7223d5d8c9039
 year: 2010

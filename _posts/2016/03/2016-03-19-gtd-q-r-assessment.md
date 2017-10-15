@@ -1,6 +1,6 @@
 ---
 title: "GTD-Q® Assessment"
-date: 2016-03-19 18:33:29 +0000
+date: 2016-03-19 13:33:29 -0500
 external-url: http://gettingthingsdone.com/gtd-q/
 hash: e8c5fff5784486ce70ad3780c678b669
 year: 2016

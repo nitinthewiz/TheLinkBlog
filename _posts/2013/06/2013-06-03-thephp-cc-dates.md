@@ -1,6 +1,6 @@
 ---
 title: "thePHP.cc — Dates"
-date: 2013-06-03 13:09:25 +0000
+date: 2013-06-03 08:09:25 -0500
 external-url: http://thePHP.cc/dates
 hash: be1465334e74d96d63dcec04da15f1d4
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "The Ada Initiative"
-date: 2011-11-06 21:31:04 +0000
+date: 2011-11-06 15:31:04 -0600
 external-url: http://adainitiative.org/
 hash: a6fd9d66ff08a1378ba2469b448c7427
 year: 2011

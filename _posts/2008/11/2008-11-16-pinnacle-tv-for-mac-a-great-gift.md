@@ -1,6 +1,6 @@
 ---
 title: "Pinnacle TV for Mac: A Great Gift"
-date: 2008-11-16 22:54:17 +0000
+date: 2008-11-16 16:54:17 -0600
 external-url: http://iconnectdots.com/2008/11/pinnacle-tv-for-mac-a-great-gift.html
 hash: d5facd3db10e4b7acaa2b60410b53b6f
 year: 2008

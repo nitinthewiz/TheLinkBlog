@@ -1,6 +1,6 @@
 ---
 title: "The only wrong answer is 5050: Calculating the co-founder equity split - GeekWire"
-date: 2011-04-30 12:34:27 +0000
+date: 2011-04-30 07:34:27 -0500
 external-url: http://www.geekwire.com/2011/wrong-answer-5050-calculating-cofounder-equity-split/
 hash: 833582dc89b5975d0f9c756b9434ba56
 year: 2011

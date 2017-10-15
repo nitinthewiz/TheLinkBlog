@@ -1,6 +1,6 @@
 ---
 title: "Quilt is a data package manager"
-date: 2017-07-16 12:52:39 +0000
+date: 2017-07-16 07:52:39 -0500
 external-url: https://quiltdata.com/
 hash: db921577e2d6029ab6b20aeb9cd71bab
 year: 2017

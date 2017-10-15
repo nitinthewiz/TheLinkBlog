@@ -1,6 +1,6 @@
 ---
 title: "So, About That Deficit Commission ... - Megan McArdle - Business - The Atlantic"
-date: 2010-11-13 12:58:40 +0000
+date: 2010-11-13 06:58:40 -0600
 external-url: http://www.theatlantic.com/business/archive/2010/11/so-about-that-deficit-commission/66411
 hash: 6ff17f60530c8212f95f8cb82b1b678d
 year: 2010

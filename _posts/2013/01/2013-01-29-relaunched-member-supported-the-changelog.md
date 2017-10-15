@@ -1,6 +1,6 @@
 ---
 title: "Relaunched! Member supported - The Changelog"
-date: 2013-01-29 16:57:00 +0000
+date: 2013-01-29 10:57:00 -0600
 external-url: http://thechangelog.com/relaunched-member-supported/
 hash: d75f94c1793f9b433cc7609db1e65a3d
 year: 2013

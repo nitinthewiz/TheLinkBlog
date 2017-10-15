@@ -1,6 +1,6 @@
 ---
 title: "Analyzing One Million robots.txt Files"
-date: 2017-09-20 09:47:53 +0000
+date: 2017-09-20 04:47:53 -0500
 external-url: https://intoli.com/blog/analyzing-one-million-robots-txt-files/
 hash: 66456674ff710b9e7c3cce740c3e887b
 year: 2017

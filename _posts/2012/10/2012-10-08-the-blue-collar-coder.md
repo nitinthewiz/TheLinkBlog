@@ -1,6 +1,6 @@
 ---
 title: "The Blue Collar Coder"
-date: 2012-10-08 15:30:34 +0000
+date: 2012-10-08 10:30:34 -0500
 external-url: http://dashes.com/anil/2012/10/the-blue-collar-coder.html
 hash: 2692f0e179697c712ed67a443d65e873
 year: 2012

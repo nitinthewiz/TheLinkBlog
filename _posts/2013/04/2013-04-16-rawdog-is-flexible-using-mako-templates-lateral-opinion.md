@@ -1,6 +1,6 @@
 ---
 title: "Rawdog is flexible: using Mako templates - Lateral Opinion"
-date: 2013-04-16 22:31:33 +0000
+date: 2013-04-16 17:31:33 -0500
 external-url: http://ralsina.me/weblog/posts/BB779.html
 hash: 8565ae6206cceaaf216335e8cb3132c1
 year: 2013

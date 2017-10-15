@@ -1,6 +1,6 @@
 ---
 title: "How EA lost its soul"
-date: 2015-07-16 15:38:16 +0000
+date: 2015-07-16 10:38:16 -0500
 external-url: http://www.polygon.com/a/how-ea-lost-its-soul
 hash: 1f981451e1226bb6d2c36b51471b97f7
 year: 2015

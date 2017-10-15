@@ -1,6 +1,6 @@
 ---
 title: "Quarterlife Jumps To NBC, Bombs"
-date: 2008-02-27 17:20:00 +0000
+date: 2008-02-27 11:20:00 -0600
 external-url: http://www.businessinsider.com/2008/2/-quarterlife--bombs-on-nbc
 hash: 24569abf8b879b526de01232e3e18e7c
 year: 2008

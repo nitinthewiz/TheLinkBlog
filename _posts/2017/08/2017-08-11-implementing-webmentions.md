@@ -1,6 +1,6 @@
 ---
 title: "Implementing Webmentions"
-date: 2017-08-11 13:12:43 +0000
+date: 2017-08-11 08:12:43 -0500
 external-url: https://allinthehead.com/retro/378/implementing-webmentions
 hash: 500b6d80a5966d28ed5a5e14a51745c5
 year: 2017

@@ -1,6 +1,6 @@
 ---
 title: "Tonight's Sky"
-date: 2005-12-10 23:43:54 +0000
+date: 2005-12-10 17:43:54 -0600
 external-url: http://tonightssky.com/
 hash: 89759550f5b99752c6e25a0f016ab7ec
 year: 2005

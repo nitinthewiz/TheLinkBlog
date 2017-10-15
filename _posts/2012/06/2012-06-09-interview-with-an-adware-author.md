@@ -1,6 +1,6 @@
 ---
 title: "Interview with an Adware Author"
-date: 2012-06-09 05:25:11 +0000
+date: 2012-06-09 00:25:11 -0500
 external-url: http://philosecurity.org/2009/01/12/interview-with-an-adware-author
 hash: eb76380b16ebe88e3fc5934c12883a1e
 year: 2012

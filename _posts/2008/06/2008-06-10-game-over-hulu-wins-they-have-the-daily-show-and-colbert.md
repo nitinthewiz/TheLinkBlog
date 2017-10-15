@@ -1,6 +1,6 @@
 ---
 title: "Game Over. Hulu Wins. They Have The Daily Show. And Colbert."
-date: 2008-06-10 06:36:14 +0000
+date: 2008-06-10 01:36:14 -0500
 external-url: http://techcrunch.com/2008/06/09/game-over-hulu-wins-they-have-the-daily-show-and-colbert/
 hash: 670ffa6b6c958022402395e82ca28ed9
 year: 2008

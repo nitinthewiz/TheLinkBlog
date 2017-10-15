@@ -1,6 +1,6 @@
 ---
 title: "Partitioning Social Networks for Time-dependent Queries"
-date: 2011-04-18 18:57:47 +0000
+date: 2011-04-18 13:57:47 -0500
 external-url: http://research.microsoft.com/en-us/projects/ldg/a04-carrasco.pdf
 hash: 9f9e9350f239bf24a1ee13c988a70049
 year: 2011

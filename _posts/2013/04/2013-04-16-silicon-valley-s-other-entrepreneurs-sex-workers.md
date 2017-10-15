@@ -1,6 +1,6 @@
 ---
 title: "Silicon Valley's other entrepreneurs: Sex workers"
-date: 2013-04-16 05:04:55 +0000
+date: 2013-04-16 00:04:55 -0500
 external-url: http://money.cnn.com/2013/04/15/technology/silicon-valley-sex-workers/index.html
 hash: 82458e3552e13e99594f0f7c074cc268
 year: 2013

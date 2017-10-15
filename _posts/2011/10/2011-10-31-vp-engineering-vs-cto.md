@@ -1,6 +1,6 @@
 ---
 title: "VP Engineering vs CTO"
-date: 2011-10-31 17:52:25 +0000
+date: 2011-10-31 12:52:25 -0500
 external-url: http://avc.com/2011/10/vp-engineering-vs-cto/
 hash: 41626b0396e8c5cad792a641dc1552be
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Renny Gleeson: 404, the story of a page not found"
-date: 2012-05-12 20:41:41 +0000
+date: 2012-05-12 15:41:41 -0500
 external-url: http://www.ted.com/talks/renny_gleeson_404_the_story_of_a_page_not_found
 hash: 11532790b2a90ad3f35d609bd15bf853
 year: 2012

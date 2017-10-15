@@ -1,6 +1,6 @@
 ---
 title: "RoboHash Avatar WordPress Plugin"
-date: 2011-07-10 23:58:04 +0000
+date: 2011-07-10 18:58:04 -0500
 external-url: http://wordpress.org/plugins/robohash-avatar/
 hash: 5682d160d96569f65b5b04323ecf8a79
 year: 2011

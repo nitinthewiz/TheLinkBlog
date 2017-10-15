@@ -1,6 +1,6 @@
 ---
 title: "Steve Yegge on Server Side JavaScript"
-date: 2008-06-16 06:25:04 +0000
+date: 2008-06-16 01:25:04 -0500
 external-url: http://ajaxian.com/archives/steve-yegge-on-server-side-javascript
 hash: c08cd2b88726b62b8a76da00b3844842
 year: 2008

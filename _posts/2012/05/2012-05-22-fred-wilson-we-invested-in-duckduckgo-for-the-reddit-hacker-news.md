@@ -1,6 +1,6 @@
 ---
 title: "Fred Wilson: We invested in DuckDuckGo for the Reddit, Hacker News anarchists"
-date: 2012-05-22 11:23:54 +0000
+date: 2012-05-22 06:23:54 -0500
 external-url: http://venturebeat.com/2012/05/21/fred-wilson-duckduckgo-reddit-hacker-news/
 hash: f5dc9c43f39e31525a8ab7d2bd00b96c
 year: 2012

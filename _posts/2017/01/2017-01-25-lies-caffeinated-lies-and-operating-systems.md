@@ -1,6 +1,6 @@
 ---
 title: "Lies, Caffeinated Lies, and Operating Systems"
-date: 2017-01-25 12:58:25 +0000
+date: 2017-01-25 06:58:25 -0600
 external-url: http://www.ribbonfarm.com/2017/01/24/lies-caffeinated-lies-and-operating-systems/
 hash: 95432438e0523c943e819ab92a635fff
 year: 2017

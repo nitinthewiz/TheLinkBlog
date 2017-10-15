@@ -1,6 +1,6 @@
 ---
 title: "St. Anthony: Code42's business 'move' is focused growth with an eye to an IPO | Star Tribune"
-date: 2015-04-10 13:41:58 +0000
+date: 2015-04-10 08:41:58 -0500
 external-url: http://www.startribune.com/business/297860171.html
 hash: bb042449c86cc9cecaff3bf0e28caa9c
 year: 2015

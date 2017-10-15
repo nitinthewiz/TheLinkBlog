@@ -1,6 +1,6 @@
 ---
 title: "The New Facebook: Learning From Old Mistakes"
-date: 2008-09-03 17:24:53 +0000
+date: 2008-09-03 12:24:53 -0500
 external-url: https://blog.compete.com/2008/09/03/facebook-new-old-version/
 hash: 94d75556557dec7999afcf9fbac39726
 year: 2008

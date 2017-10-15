@@ -1,6 +1,6 @@
 ---
 title: "Bull jumps out of ring into stands"
-date: 2011-08-03 17:27:20 +0000
+date: 2011-08-03 12:27:20 -0500
 external-url: http://www.theguardian.com/world/2010/aug/19/bull-jumps-into-stands-spain
 hash: 84c6f58a1c58d1ea928c260a4f625c95
 year: 2011

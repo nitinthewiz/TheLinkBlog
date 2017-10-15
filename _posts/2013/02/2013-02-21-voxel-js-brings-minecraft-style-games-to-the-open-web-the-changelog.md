@@ -1,6 +1,6 @@
 ---
 title: "Voxel.js brings Minecraft-style games to the open web - The Changelog"
-date: 2013-02-21 11:56:54 +0000
+date: 2013-02-21 05:56:54 -0600
 external-url: http://thechangelog.com/voxel-js-brings-minecraft-style-games-to-the-open-web/
 hash: b17d0bea8e5101493049d0a5694c49a0
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Stupor Bowl race rides through Minneapolis"
-date: 2014-02-11 22:58:55 +0000
+date: 2014-02-11 16:58:55 -0600
 external-url: http://www.mprnews.org/story/2014/02/02/photos-stupor-bowl-race-rides-through-minneapolis
 hash: ad26d7fe3ded06717bcf2d89aa2050d3
 year: 2014

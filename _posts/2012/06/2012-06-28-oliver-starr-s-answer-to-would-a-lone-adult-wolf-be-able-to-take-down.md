@@ -1,6 +1,6 @@
 ---
 title: "Oliver Starr's answer to Would a lone adult wolf be able to take down an athletic adult human?"
-date: 2012-06-28 16:26:59 +0000
+date: 2012-06-28 11:26:59 -0500
 external-url: http://www.quora.com/Animal-Behavior-Ethology/Would-a-lone-adult-wolf-be-able-to-take-down-an-unarmed-athletic-adult-human
 hash: b116a96be14e37e99a2becaae268f684
 year: 2012

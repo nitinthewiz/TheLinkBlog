@@ -1,6 +1,6 @@
 ---
 title: "Xerox PARC Materials Scientists Print Two Thirds of a Battery in 1 Go - Scientific American"
-date: 2015-07-12 13:05:35 +0000
+date: 2015-07-12 08:05:35 -0500
 external-url: http://www.scientificamerican.com/article/xerox-parc-materials-scientists-print-two-thirds-of-a-battery-in-1-go/
 hash: 3772286c86a7b72accc0dacc80e3e2dd
 year: 2015

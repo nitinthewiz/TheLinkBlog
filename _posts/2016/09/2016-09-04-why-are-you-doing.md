@@ -1,6 +1,6 @@
 ---
 title: "Why are you doing?"
-date: 2016-09-04 22:49:36 +0000
+date: 2016-09-04 17:49:36 -0500
 external-url: https://sivers.org/why
 hash: 635281180f46266a20e876745311e394
 year: 2016

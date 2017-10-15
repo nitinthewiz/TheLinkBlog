@@ -1,6 +1,6 @@
 ---
 title: "Web 2.0 IT Conversations"
-date: 2005-08-23 23:41:45 +0000
+date: 2005-08-23 18:41:45 -0500
 external-url: http://web.archive.org/web/http://itc.conversationsnetwork.org/
 hash: 5182dd590c7210b8d26d40176bf34798
 year: 2005

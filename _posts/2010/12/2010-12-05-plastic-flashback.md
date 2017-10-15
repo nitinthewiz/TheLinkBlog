@@ -1,6 +1,6 @@
 ---
 title: "Plastic Flashback"
-date: 2010-12-05 12:47:32 +0000
+date: 2010-12-05 06:47:32 -0600
 external-url: http://www.thebigmoney.com/slideshow/plastic-flashback
 hash: 9a9522114a6b87668c715295e66c9792
 year: 2010

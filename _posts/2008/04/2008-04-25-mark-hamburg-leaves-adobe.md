@@ -1,6 +1,6 @@
 ---
 title: "Mark Hamburg leaves Adobe"
-date: 2008-04-25 16:14:01 +0000
+date: 2008-04-25 11:14:01 -0500
 external-url: http://lightroom-news.com/2008/04/25/mark-hamburg-leaves-adobe/
 hash: c98ae9f38261d0b0c5fd9b111d59291d
 year: 2008

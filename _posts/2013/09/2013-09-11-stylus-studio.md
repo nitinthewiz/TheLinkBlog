@@ -1,6 +1,6 @@
 ---
 title: "Stylus Studio"
-date: 2013-09-11 13:56:46 +0000
+date: 2013-09-11 08:56:46 -0500
 external-url: http://www.stylusstudio.com/download-xml-editor.html?gclid=CKLw-JGyw7kCFcwWMgod6nIA1A
 hash: affc2712ff32b7bed01e1f427b8ad01a
 year: 2013

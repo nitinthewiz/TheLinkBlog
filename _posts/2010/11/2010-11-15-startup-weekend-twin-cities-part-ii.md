@@ -1,6 +1,6 @@
 ---
 title: "Startup Weekend Twin Cities Part II"
-date: 2010-11-15 22:32:23 +0000
+date: 2010-11-15 16:32:23 -0600
 external-url: http://www.projectskyway.com/startup-weekend-twin-cities-part-ii/
 hash: 32a0b9b0ac0044a978b7a11005ac7187
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Jim Vogel - Blue Rain Gallery"
-date: 2007-02-11 17:39:32 +0000
+date: 2007-02-11 11:39:32 -0600
 external-url: http://blueraingallery.com/artists/jim_vogel/0
 hash: ac735220e717d26ffb4a21bfb7634d3d
 year: 2007

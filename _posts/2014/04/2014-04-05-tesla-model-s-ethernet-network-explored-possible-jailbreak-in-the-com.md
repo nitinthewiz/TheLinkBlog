@@ -1,6 +1,6 @@
 ---
 title: "Tesla Model S Ethernet Network Explored, Possible Jailbreak in the Future? - DragTimes.com Drag Racing, Fast Cars, Muscle Cars Blog"
-date: 2014-04-05 08:38:40 +0000
+date: 2014-04-05 03:38:40 -0500
 external-url: http://www.dragtimes.com/blog/tesla-model-s-ethernet-network-explored-possible-jailbreak-in-the-future
 hash: caf352544670a4da471841a6481d70bb
 year: 2014

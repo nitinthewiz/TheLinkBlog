@@ -1,6 +1,6 @@
 ---
 title: "The Truth That Dare Not Speak: The CES Keynote Sucked"
-date: 2008-01-07 09:51:50 +0000
+date: 2008-01-07 03:51:50 -0600
 external-url: http://techcrunch.com/2008/01/07/the-truth-that-dare-not-speak-the-ces-keynote-sucked/
 hash: 36b32ee9b7c21b0e17fe2a525aa9b112
 year: 2008

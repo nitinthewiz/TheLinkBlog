@@ -1,6 +1,6 @@
 ---
 title: "Bug 1055766 grep -R doesn't automatically search amazon"
-date: 2012-10-30 21:30:23 +0000
+date: 2012-10-30 16:30:23 -0500
 external-url: https://bugs.launchpad.net/bugs/1055766
 hash: 8c27f01084641f65c97dacfe5c223afc
 year: 2012

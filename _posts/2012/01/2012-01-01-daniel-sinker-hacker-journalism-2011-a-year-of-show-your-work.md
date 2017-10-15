@@ -1,6 +1,6 @@
 ---
 title: "daniel sinker • Hacker-Journalism 2011: A year of \"show your work\""
-date: 2012-01-01 23:50:54 +0000
+date: 2012-01-01 17:50:54 -0600
 external-url: http://sinker.tumblr.com/post/15050642729/hacker-journalism-2011-a-year-of-show-your-work
 hash: 9860d4853241c9d4c149f0818c10be6c
 year: 2012

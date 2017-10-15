@@ -1,6 +1,6 @@
 ---
 title: "Seeds of Mindfulness -- Courses in Mindfulness-Based Stress Reduction, Offered by Judith Lies"
-date: 2014-12-31 15:59:09 +0000
+date: 2014-12-31 09:59:09 -0600
 external-url: http://seedsofmindfulness.com/
 hash: 7f5ff19d5e8ae613568dfcea5ed62428
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: "Cyber Weapons: The New Arms Race"
-date: 2011-07-23 12:18:27 +0000
+date: 2011-07-23 07:18:27 -0500
 external-url: http://www.businessweek.com/magazine/cyber-weapons-the-new-arms-race-07212011.html
 hash: 28d12377bd406bcc1274a7b1649ffacb
 year: 2011

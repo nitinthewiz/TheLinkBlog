@@ -1,6 +1,6 @@
 ---
 title: "IPod My Baby"
-date: 2005-08-04 20:47:34 +0000
+date: 2005-08-04 15:47:34 -0500
 external-url: http://www.engadget.com/2005/08/03/ipod-my-baby-my-god/
 hash: 6361e44a297fafcf73411d13c703942a
 year: 2005

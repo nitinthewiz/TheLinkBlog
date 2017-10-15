@@ -1,6 +1,6 @@
 ---
 title: "2.9 Features Vote Results"
-date: 2009-08-05 16:55:40 +0000
+date: 2009-08-05 11:55:40 -0500
 external-url: http://wordpress.org/development/2009/07/2-9-vote-results/
 hash: 67d6bd130c663eb113bdc1fc55c62157
 year: 2009

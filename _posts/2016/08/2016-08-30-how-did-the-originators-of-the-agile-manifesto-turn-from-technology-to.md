@@ -1,6 +1,6 @@
 ---
 title: "How Did the Originators of the Agile Manifesto Turn from Technology Leaders to Leaders of a Cultural Change?"
-date: 2016-08-30 13:52:19 +0000
+date: 2016-08-30 08:52:19 -0500
 external-url: https://www.infoq.com/articles/manifesto-originators
 hash: ca1f39327ec5811dd5000e14c2a54968
 year: 2016

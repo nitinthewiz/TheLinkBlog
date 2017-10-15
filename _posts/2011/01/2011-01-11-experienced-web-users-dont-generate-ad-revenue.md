@@ -1,6 +1,6 @@
 ---
 title: "Experienced Web Users Don’t Generate Ad Revenue"
-date: 2011-01-11 13:00:16 +0000
+date: 2011-01-11 07:00:16 -0600
 external-url: http://www.thedeets.com/2011/01/11/experienced-web-users-dont-generate-ad-revenue/
 hash: 97db4fce7b82da4ee3cf6a4b207f886e
 year: 2011

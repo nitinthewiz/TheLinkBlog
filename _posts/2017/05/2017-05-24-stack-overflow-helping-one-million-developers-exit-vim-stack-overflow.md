@@ -1,6 +1,6 @@
 ---
 title: "Stack Overflow: Helping One Million Developers Exit Vim - Stack Overflow Blog"
-date: 2017-05-24 19:34:51 +0000
+date: 2017-05-24 14:34:51 -0500
 external-url: https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/#.WSR2gBF9z8k.twitter
 hash: a0df2e79aabd614855247dacaea8157f
 year: 2017

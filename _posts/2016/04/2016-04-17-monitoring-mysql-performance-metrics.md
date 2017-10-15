@@ -1,6 +1,6 @@
 ---
 title: "Monitoring MySQL performance metrics"
-date: 2016-04-17 11:24:58 +0000
+date: 2016-04-17 06:24:58 -0500
 external-url: https://www.datadoghq.com/blog/monitoring-mysql-performance-metrics/
 hash: 36fe02a450be8b6d19c485864e1c68ba
 year: 2016

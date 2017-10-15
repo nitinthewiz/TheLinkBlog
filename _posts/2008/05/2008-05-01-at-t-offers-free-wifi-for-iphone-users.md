@@ -1,6 +1,6 @@
 ---
 title: "AT&T offers free WiFi for iPhone users"
-date: 2008-05-01 13:00:00 +0000
+date: 2008-05-01 08:00:00 -0500
 external-url: http://www.tuaw.com/2008/05/01/atandt-offers-free-wifi-for-iphone-users/
 hash: c897f2b0b258fc95ff483d2b44e2a36c
 year: 2008

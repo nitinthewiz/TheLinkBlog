@@ -1,6 +1,6 @@
 ---
 title: "QUOTE: I have seen so many young entrepreneurs and"
-date: 2009-11-04 16:03:55 +0000
+date: 2009-11-04 10:03:55 -0600
 external-url: http://37signals.com/svn/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 hash: ced2e07d9401f7926c6c77cf9e132899
 year: 2009

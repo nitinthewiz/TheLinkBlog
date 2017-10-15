@@ -1,6 +1,6 @@
 ---
 title: "U.S. Olympic Table Tennis Trials - Photos - SI.com"
-date: 2012-06-21 19:57:52 +0000
+date: 2012-06-21 14:57:52 -0500
 external-url: http://sportsillustrated.cnn.com/multimedia/photo_gallery/1202/us.olympic.table.tennis.trials/content.1.html?eref=twitter_feed
 hash: 513e75364f9934679fb628b8aec07a5a
 year: 2012

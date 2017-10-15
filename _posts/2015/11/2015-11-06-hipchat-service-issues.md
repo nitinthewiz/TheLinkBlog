@@ -1,6 +1,6 @@
 ---
 title: "HipChat service issues"
-date: 2015-11-06 06:34:20 +0000
+date: 2015-11-06 00:34:20 -0600
 external-url: https://blog.hipchat.com/2015/11/05/hipchat-service-issues/
 hash: 032bfbd92af821fe0fd4ea8f8cca502e
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Data Collaboration and Visualization Platform"
-date: 2015-11-05 11:46:07 +0000
+date: 2015-11-05 05:46:07 -0600
 external-url: http://redash.io/
 hash: 5ab9f1b5b33d288bf9f72e7cecc75f37
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Happy Birthday Kickstarter"
-date: 2011-04-28 18:28:30 +0000
+date: 2011-04-28 13:28:30 -0500
 external-url: https://www.kickstarter.com/blog/happy-birthday-kickstarter
 hash: 052a21866a8b19528f47b37d413a70f1
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Please Don’t Litter"
-date: 2011-09-18 22:00:08 +0000
+date: 2011-09-18 17:00:08 -0500
 external-url: http://mazie.me/post/please-dont-litter/
 hash: db7fb21e85cf7ddbe7680cde6afe970e
 year: 2011

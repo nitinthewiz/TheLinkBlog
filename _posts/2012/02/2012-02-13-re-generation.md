@@ -1,6 +1,6 @@
 ---
 title: "RE:GENERATION"
-date: 2012-02-13 22:16:16 +0000
+date: 2012-02-13 16:16:16 -0600
 external-url: http://www.regenerationmusicproject.com/
 hash: 3daa9aed77393e403737541a25376d86
 year: 2012

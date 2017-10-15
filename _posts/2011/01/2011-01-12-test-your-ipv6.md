@@ -1,6 +1,6 @@
 ---
 title: "Test your IPv6"
-date: 2011-01-12 17:23:25 +0000
+date: 2011-01-12 11:23:25 -0600
 external-url: http://test-ipv6.com/
 hash: c978a45f28b11183990903579321dc6f
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "A User Manual To Working With Me"
-date: 2016-04-13 13:57:34 +0000
+date: 2016-04-13 08:57:34 -0500
 external-url: http://www.feld.com/archives/2016/04/user-manual-working.html
 hash: 5b6279583d32c04aac8a258d3b3edc5b
 year: 2016

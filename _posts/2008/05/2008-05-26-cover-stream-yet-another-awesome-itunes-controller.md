@@ -1,6 +1,6 @@
 ---
 title: "Cover Stream: Yet Another Awesome iTunes Controller"
-date: 2008-05-26 11:00:01 +0000
+date: 2008-05-26 06:00:01 -0500
 external-url: http://macapper.com/2008/05/26/cover-stream-yet-another-awesome-itunes-controller/
 hash: 97cfc2d9fb4b99576f0715c47707f9d5
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "U.S. Tries to Build Case Against WikiLeaks Founder"
-date: 2010-12-16 15:08:35 +0000
+date: 2010-12-16 09:08:35 -0600
 external-url: http://www.nytimes.com/2010/12/16/world/16wiki.html
 hash: 0653d885d842b99d0cc6c17916b956d4
 year: 2010

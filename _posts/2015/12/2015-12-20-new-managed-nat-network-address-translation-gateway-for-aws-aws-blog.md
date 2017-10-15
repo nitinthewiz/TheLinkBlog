@@ -1,6 +1,6 @@
 ---
 title: "New – Managed NAT (Network Address Translation) Gateway for AWS | AWS Official Blog"
-date: 2015-12-20 14:36:35 +0000
+date: 2015-12-20 08:36:35 -0600
 external-url: https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/
 hash: 5bc3716c42e8962664efd5e4cd6de2d6
 year: 2015

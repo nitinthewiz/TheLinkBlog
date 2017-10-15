@@ -1,6 +1,6 @@
 ---
 title: "Data Monday: Mobile Is Entertainment"
-date: 2012-12-10 16:12:14 +0000
+date: 2012-12-10 10:12:14 -0600
 external-url: http://www.lukew.com/ff/entry.asp?1673
 hash: df929fce8fa17c2a7315630e2abc22c1
 year: 2012

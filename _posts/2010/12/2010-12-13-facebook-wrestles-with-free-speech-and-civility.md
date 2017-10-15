@@ -1,6 +1,6 @@
 ---
 title: "Facebook Wrestles With Free Speech and Civility"
-date: 2010-12-13 14:28:50 +0000
+date: 2010-12-13 08:28:50 -0600
 external-url: http://www.nytimes.com/2010/12/13/technology/13facebook.html?_r=1
 hash: 4794971f332ca2730c9118da8bc37690
 year: 2010

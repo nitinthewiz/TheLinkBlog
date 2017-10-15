@@ -1,6 +1,6 @@
 ---
 title: "Sweet Science Ice Cream"
-date: 2014-07-18 19:37:53 +0000
+date: 2014-07-18 14:37:53 -0500
 external-url: http://www.sweetscienceicecream.com/
 hash: db7d8ce1a4b2d386d93e999d416900da
 year: 2014

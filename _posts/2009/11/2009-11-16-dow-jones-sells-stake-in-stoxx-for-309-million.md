@@ -1,6 +1,6 @@
 ---
 title: "Dow Jones Sells Stake In Stoxx For $309 Million"
-date: 2009-11-16 06:26:56 +0000
+date: 2009-11-16 00:26:56 -0600
 external-url: http://m.paidcontent.org/article/419-dow-jones-sells-stake-in-stoxx-for-309-million/
 hash: 5ad9f91042ff8bb1adb30e65d9c4437d
 year: 2009

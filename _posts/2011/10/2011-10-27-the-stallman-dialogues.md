@@ -1,6 +1,6 @@
 ---
 title: "The Stallman Dialogues"
-date: 2011-10-27 20:04:50 +0000
+date: 2011-10-27 15:04:50 -0500
 external-url: http://thestallmandialogues.com/
 hash: a171b9896b5489c18c41bbd5bc9ec2ca
 year: 2011

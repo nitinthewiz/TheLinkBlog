@@ -1,6 +1,6 @@
 ---
 title: "Metallica \"ear spanks\" management, reinstates online reviews"
-date: 2008-06-12 15:15:00 +0000
+date: 2008-06-12 10:15:00 -0500
 external-url: http://arstechnica.com/uncategorized/2008/06/metallica-to-bloggers-dont-review-our-music/
 hash: 892cc3a97081aa7a1d426245c328a6f4
 year: 2008

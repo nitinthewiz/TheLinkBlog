@@ -1,6 +1,6 @@
 ---
 title: "GroupCard Apps"
-date: 2011-03-15 20:46:43 +0000
+date: 2011-03-15 15:46:43 -0500
 external-url: http://groupcardapps.com/
 hash: 196060c816eca25be532b48bd34a6740
 year: 2011

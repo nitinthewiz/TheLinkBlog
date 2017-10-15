@@ -1,6 +1,6 @@
 ---
 title: "Muxtape: Beautifully simple"
-date: 2008-03-25 20:42:00 +0000
+date: 2008-03-25 15:42:00 -0500
 external-url: https://signalvnoise.com/posts/933-muxtape-beautifully-simple
 hash: 30628e73b58cc3906ceb73bf4e9bd33d
 year: 2008

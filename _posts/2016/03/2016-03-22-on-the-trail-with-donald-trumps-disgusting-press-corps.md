@@ -1,6 +1,6 @@
 ---
 title: "On the trail with Donald Trump’s “disgusting” press corps."
-date: 2016-03-22 17:59:05 +0000
+date: 2016-03-22 12:59:05 -0500
 external-url: http://www.slate.com/articles/news_and_politics/cover_story/2016/03/on_the_trail_with_donald_trump_s_disgusting_press_corps.html
 hash: 809242dd7007eb87a387cb8d2fbaa765
 year: 2016

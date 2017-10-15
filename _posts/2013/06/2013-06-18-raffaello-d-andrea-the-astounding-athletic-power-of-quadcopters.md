@@ -1,6 +1,6 @@
 ---
 title: "Raffaello D'Andrea: The astounding athletic power of quadcopters"
-date: 2013-06-18 17:17:15 +0000
+date: 2013-06-18 12:17:15 -0500
 external-url: http://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters
 hash: ac3bd48c435bd8df43ea5ac6dc67b69b
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Thesiss Next Opportunity: Un-WordPress Itself"
-date: 2010-07-23 16:29:31 +0000
+date: 2010-07-23 11:29:31 -0500
 external-url: https://garrickvanburen.com/archive/thesiss-next-opportunity-un-wordpress-itself/
 hash: 01af135aa85b6b2f9bab3e795f7cb5f9
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Review: Reeder 3 for iPhone"
-date: 2012-06-15 19:26:18 +0000
+date: 2012-06-15 14:26:18 -0500
 external-url: http://shawnblanc.net/2012/06/review-reeder-3-for-iphone/
 hash: 8ea51aaa629f625db7dca4c4e49e5677
 year: 2012

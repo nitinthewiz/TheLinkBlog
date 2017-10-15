@@ -1,6 +1,6 @@
 ---
 title: "WhereGoes?"
-date: 2017-05-28 21:13:27 +0000
+date: 2017-05-28 16:13:27 -0500
 external-url: http://wheregoes.com/
 hash: 5029bebcaf782f5be4b9672df8c34745
 year: 2017

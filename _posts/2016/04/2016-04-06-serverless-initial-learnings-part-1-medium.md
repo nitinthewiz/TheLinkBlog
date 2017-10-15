@@ -1,6 +1,6 @@
 ---
 title: "Serverless: Initial Learnings (part 1) — Medium"
-date: 2016-04-06 10:52:40 +0000
+date: 2016-04-06 05:52:40 -0500
 external-url: https://medium.com/@PaulDJohnston/serverless-initial-learnings-part-1-fa0dca6c189a#.n1ulk3n1a
 hash: 7615a2b96973324953a26253094bcf1f
 year: 2016

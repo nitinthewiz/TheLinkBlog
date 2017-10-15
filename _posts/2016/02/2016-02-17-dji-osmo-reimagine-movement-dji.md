@@ -1,6 +1,6 @@
 ---
 title: "DJI Osmo – Reimagine Movement | DJI"
-date: 2016-02-17 21:35:44 +0000
+date: 2016-02-17 15:35:44 -0600
 external-url: http://www.dji.com/product/osmo
 hash: 12c6feb7ac9de38c22b920458e7d48f0
 year: 2016

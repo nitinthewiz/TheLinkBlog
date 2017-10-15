@@ -1,6 +1,6 @@
 ---
 title: "IOS Developer Program - Apple Developer"
-date: 2008-10-01 16:32:12 +0000
+date: 2008-10-01 11:32:12 -0500
 external-url: https://developer.apple.com/programs/ios/
 hash: ee78904680a5a4ab1da8cb46ecd5676e
 year: 2008

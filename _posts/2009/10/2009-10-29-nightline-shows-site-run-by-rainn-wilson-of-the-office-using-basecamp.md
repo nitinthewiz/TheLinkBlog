@@ -1,6 +1,6 @@
 ---
 title: "Nightline shows site run by Rainn Wilson of The Office using Basecamp"
-date: 2009-10-29 17:06:03 +0000
+date: 2009-10-29 12:06:03 -0500
 external-url: http://productblogarchive.37signals.com/products/2009/10/nightline-shows-site-run-by-rainn-wilson-of-the-office-uses-basecamp.html
 hash: 3210df5717bb0eeadb65cf1be1d4b3dd
 year: 2009

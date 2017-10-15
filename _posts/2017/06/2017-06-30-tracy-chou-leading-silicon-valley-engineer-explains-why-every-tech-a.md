@@ -1,6 +1,6 @@
 ---
 title: "Tracy Chou, leading Silicon Valley engineer, explains why every tech worker needs a humanities education — Quartz"
-date: 2017-06-30 10:20:57 +0000
+date: 2017-06-30 05:20:57 -0500
 external-url: https://qz.com/1016900/tracy-chou-leading-silicon-valley-engineer-explains-why-every-tech-worker-needs-a-humanities-education/
 hash: 2f3334a90b31a261934603594cd74781
 year: 2017

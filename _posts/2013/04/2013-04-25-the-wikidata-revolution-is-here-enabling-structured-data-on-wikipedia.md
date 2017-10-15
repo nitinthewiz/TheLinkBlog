@@ -1,6 +1,6 @@
 ---
 title: "The Wikidata revolution is here: enabling structured data on Wikipedia Wikimedia blog"
-date: 2013-04-25 21:46:18 +0000
+date: 2013-04-25 16:46:18 -0500
 external-url: http://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/
 hash: 1f05757e5239ba4bb1948bf31484796d
 year: 2013

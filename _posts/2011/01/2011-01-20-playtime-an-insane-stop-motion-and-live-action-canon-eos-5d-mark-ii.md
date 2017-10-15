@@ -1,6 +1,6 @@
 ---
 title: "Playtime – an insane stop motion and live action Canon EOS 5D Mark II movie"
-date: 2011-01-20 13:55:15 +0000
+date: 2011-01-20 07:55:15 -0600
 external-url: http://blog.planet5d.com/2011/01/playtime-an-insane-stop-motion-and-live-action-canon-eos-5d-mark-ii-movie/
 hash: 0d5546fdb6265e6a7e05ad9005c5de02
 year: 2011

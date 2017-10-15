@@ -1,6 +1,6 @@
 ---
 title: "The Full Scale Millennium Falcon Project"
-date: 2012-10-18 19:39:39 +0000
+date: 2012-10-18 14:39:39 -0500
 external-url: http://fullscalefalcon.com/
 hash: d2a9d8f421de3afd1ce77da54accb201
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "detectdisplays - A command-line tool for Macs that detects attached displays. - Google Project Hosting"
-date: 2011-09-30 21:22:25 +0000
+date: 2011-09-30 16:22:25 -0500
 external-url: http://code.google.com/p/detectdisplays/
 hash: 2333b9546987d1fd9b94ea569e9d0273
 year: 2011

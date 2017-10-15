@@ -1,6 +1,6 @@
 ---
 title: "Object-Oriented Programming: A Disaster Story"
-date: 2016-01-23 23:00:34 +0000
+date: 2016-01-23 17:00:34 -0600
 external-url: https://medium.com/@brianwill/object-oriented-programming-a-personal-disaster-1b044c2383ab#.symutl4t5
 hash: 60f62c8db810455ce1500a108294fde1
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Wall Street Whitewash"
-date: 2010-12-17 20:10:32 +0000
+date: 2010-12-17 14:10:32 -0600
 external-url: http://www.nytimes.com/2010/12/17/opinion/17krugman.html
 hash: 49acea6a5c80bebb6c3a92cc6cbfcfb2
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "APC UPS Daemon"
-date: 2006-07-18 19:01:52 +0000
+date: 2006-07-18 14:01:52 -0500
 external-url: http://www.apcupsd.com/
 hash: 536073084b02fa2d085126908af71fe9
 year: 2006

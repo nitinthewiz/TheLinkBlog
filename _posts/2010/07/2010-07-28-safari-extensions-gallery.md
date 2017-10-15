@@ -1,6 +1,6 @@
 ---
 title: "Safari Extensions Gallery"
-date: 2010-07-28 15:40:14 +0000
+date: 2010-07-28 10:40:14 -0500
 external-url: http://extensions.apple.com/
 hash: 0d243ec5886a4b645bfb3ca871ff61a0
 year: 2010

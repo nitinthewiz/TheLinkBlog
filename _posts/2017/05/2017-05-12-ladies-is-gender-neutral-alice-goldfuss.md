@@ -1,6 +1,6 @@
 ---
 title: "'Ladies' Is Gender Neutral – Alice Goldfuss"
-date: 2017-05-12 19:39:17 +0000
+date: 2017-05-12 14:39:17 -0500
 external-url: http://blog.alicegoldfuss.com/ladies-is-gender-neutral/
 hash: 93bed6a071b8c357b2f38aeeece420a0
 year: 2017

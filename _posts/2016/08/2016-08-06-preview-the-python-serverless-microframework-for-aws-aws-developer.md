@@ -1,6 +1,6 @@
 ---
 title: "Preview the Python Serverless Microframework for AWS | AWS Developer Blog"
-date: 2016-08-06 21:50:38 +0000
+date: 2016-08-06 16:50:38 -0500
 external-url: https://aws.amazon.com/blogs/developer/preview-the-python-serverless-microframework-for-aws/
 hash: 539cbbaeaa89efe5f9b0bd674cd50fb5
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Equifax Breach Response Turns Dumpster Fire — Krebs on Security"
-date: 2017-09-14 08:36:29 +0000
+date: 2017-09-14 03:36:29 -0500
 external-url: https://krebsonsecurity.com/2017/09/equifax-breach-response-turns-dumpster-fire/
 hash: 72f40eebfc6878833c642630d3f455cf
 year: 2017

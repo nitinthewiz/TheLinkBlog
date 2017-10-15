@@ -1,6 +1,6 @@
 ---
 title: "Amazon EFS"
-date: 2015-04-17 17:41:21 +0000
+date: 2015-04-17 12:41:21 -0500
 external-url: http://www.slideshare.net/AmazonWebServices/amazon-efs
 hash: 7c7767edd35e81356d571aaf66fa6e64
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "Airbnb is running its own internal university to teach data science | TechCrunch"
-date: 2017-05-31 16:45:00 +0000
+date: 2017-05-31 11:45:00 -0500
 external-url: https://techcrunch.com/2017/05/24/airbnb-is-running-its-own-internal-university-to-teach-data-science/?ncid=rss
 hash: dd468f67bc5edfbc723df46aa8bf3cd7
 year: 2017

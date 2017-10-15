@@ -1,6 +1,6 @@
 ---
 title: "Dissecting Message Queues - Brave New Geek"
-date: 2014-09-06 14:57:24 +0000
+date: 2014-09-06 09:57:24 -0500
 external-url: http://www.bravenewgeek.com/dissecting-message-queues/
 hash: c5a95816af57470fa8a4fca8fbc9d00f
 year: 2014

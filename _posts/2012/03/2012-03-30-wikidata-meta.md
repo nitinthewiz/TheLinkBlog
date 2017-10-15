@@ -1,6 +1,6 @@
 ---
 title: "Wikidata - Meta"
-date: 2012-03-30 20:43:34 +0000
+date: 2012-03-30 15:43:34 -0500
 external-url: http://meta.wikimedia.org/wiki/Wikidata
 hash: d9081c03ee77db540f11b9dcb07571ca
 year: 2012

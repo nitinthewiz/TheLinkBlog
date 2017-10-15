@@ -1,6 +1,6 @@
 ---
 title: "How to Shoot a Fancy Stop-Motion Commercial on the Cheap (-ish)"
-date: 2010-07-27 15:42:43 +0000
+date: 2010-07-27 10:42:43 -0500
 external-url: http://blog.chasejarvis.com/blog/2010/07/how-to-shoot-a-fancy-stop-motion-commercial-on-the-cheap-ish/
 hash: 8f2cd911d94411ea71036920e3a6492a
 year: 2010

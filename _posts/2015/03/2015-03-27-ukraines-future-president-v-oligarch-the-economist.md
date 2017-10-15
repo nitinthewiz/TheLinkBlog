@@ -1,6 +1,6 @@
 ---
 title: "Ukraine’s future: President v oligarch | The Economist"
-date: 2015-03-27 17:48:24 +0000
+date: 2015-03-27 12:48:24 -0500
 external-url: http://www.economist.com/news/europe/21647355-building-nation-means-putting-plutocrats-their-place-president-v-oligarch?fsrc=scn/tw/te/bl/ed/presidentvoligarch
 hash: 944cb80aaf13ddef649339429fe3df3e
 year: 2015

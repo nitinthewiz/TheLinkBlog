@@ -1,6 +1,6 @@
 ---
 title: "Snapchat's Ladder"
-date: 2016-04-02 09:04:10 +0000
+date: 2016-04-02 04:04:10 -0500
 external-url: https://stratechery.com/2016/snapchats-ladder/
 hash: 97358a2da0558a910fa025b4cfb5ad41
 year: 2016

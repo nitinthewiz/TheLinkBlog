@@ -1,6 +1,6 @@
 ---
 title: "Your criticisms are completely wrong: Stallman on software patents, 20 years in"
-date: 2012-11-21 15:56:01 +0000
+date: 2012-11-21 09:56:01 -0600
 external-url: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 hash: 150a93188225cc582637de47d979b45d
 year: 2012

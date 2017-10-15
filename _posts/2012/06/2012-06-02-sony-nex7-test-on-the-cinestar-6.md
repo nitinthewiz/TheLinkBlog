@@ -1,6 +1,6 @@
 ---
 title: "Sony Nex7 Test on the Cinestar 6"
-date: 2012-06-02 13:38:32 +0000
+date: 2012-06-02 08:38:32 -0500
 external-url: http://vimeo.com/34198426
 hash: 3b185464bba588e7626cdaddcc91df89
 year: 2012

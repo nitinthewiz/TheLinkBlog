@@ -1,6 +1,6 @@
 ---
 title: "Cyberspace When You’re Dead"
-date: 2011-01-10 14:39:07 +0000
+date: 2011-01-10 08:39:07 -0600
 external-url: http://www.nytimes.com/2011/01/09/magazine/09Immortality-t.html?pagewanted=all
 hash: c694836f8678e2fc64aaf859e5fbdc21
 year: 2011

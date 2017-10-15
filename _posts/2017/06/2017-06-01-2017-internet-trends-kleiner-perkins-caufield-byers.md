@@ -1,6 +1,6 @@
 ---
 title: "2017 Internet Trends — Kleiner Perkins Caufield Byers"
-date: 2017-06-01 10:34:31 +0000
+date: 2017-06-01 05:34:31 -0500
 external-url: http://www.kpcb.com/internet-trends
 hash: bce66fce73d61ce48f27be42f73d3884
 year: 2017

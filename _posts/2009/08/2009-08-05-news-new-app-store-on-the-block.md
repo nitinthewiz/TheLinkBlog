@@ -1,6 +1,6 @@
 ---
 title: "News: New App Store on the Block"
-date: 2009-08-05 15:10:35 +0000
+date: 2009-08-05 10:10:35 -0500
 external-url: http://macapper.com/2009/08/05/news-new-app-store-on-the-block/
 hash: 3f69b0c1a28956b9d3d61613a2ab4dc1
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "Dark Social: We Have the Whole History of the Web Wrong"
-date: 2012-10-15 18:56:32 +0000
+date: 2012-10-15 13:56:32 -0500
 external-url: http://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/
 hash: 829212af73e71402220b8a3c3dc0b9fc
 year: 2012

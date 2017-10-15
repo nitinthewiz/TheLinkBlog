@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Kristof on U.S. Income Inequality"
-date: 2010-11-07 18:35:25 +0000
+date: 2010-11-07 12:35:25 -0600
 external-url: http://www.nytimes.com/2010/11/07/opinion/07kristof.html
 hash: 14b4f8801cf03b383f21eec0b3eaa7bb
 year: 2010

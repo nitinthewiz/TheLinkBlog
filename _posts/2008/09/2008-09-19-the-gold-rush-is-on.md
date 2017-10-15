@@ -1,6 +1,6 @@
 ---
 title: "The Gold Rush is On"
-date: 2008-09-19 05:21:12 +0000
+date: 2008-09-19 00:21:12 -0500
 external-url: http://inessential.com/2008/09/18/the_gold_rush_is_on
 hash: cd5b1f462b424b48d26d1dbf2566414e
 year: 2008

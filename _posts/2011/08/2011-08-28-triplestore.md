@@ -1,6 +1,6 @@
 ---
 title: "Triplestore"
-date: 2011-08-28 12:50:09 +0000
+date: 2011-08-28 07:50:09 -0500
 external-url: http://en.wikipedia.org/wiki/Triplestore
 hash: 851ebd981b61284e64d63f9d02f73656
 year: 2011

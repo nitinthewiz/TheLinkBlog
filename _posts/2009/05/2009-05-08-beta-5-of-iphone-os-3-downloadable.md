@@ -1,6 +1,6 @@
 ---
 title: "Beta 5 of iPhone OS 3 downloadable"
-date: 2009-05-08 12:36:37 +0000
+date: 2009-05-08 07:36:37 -0500
 external-url: http://www.tuaw.com/2009/05/07/beta-5-of-iphone-os-3-downloadable/
 hash: 5c864e6fec0c0e46bc327faaac1c4ea5
 year: 2009

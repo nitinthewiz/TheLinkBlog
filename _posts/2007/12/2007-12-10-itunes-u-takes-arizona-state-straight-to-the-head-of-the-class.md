@@ -1,6 +1,6 @@
 ---
 title: "iTunes U takes Arizona State “straight to the head of the class”"
-date: 2007-12-10 20:14:57 +0000
+date: 2007-12-10 14:14:57 -0600
 external-url: http://www.apple.com/education/profiles/asu/index.html?sr=hotnews?sr=hotnews.rss
 hash: 44202e0c1a6b2c9f9f0b4ab59caaeefa
 year: 2007

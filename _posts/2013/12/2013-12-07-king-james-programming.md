@@ -1,6 +1,6 @@
 ---
 title: "King James Programming"
-date: 2013-12-07 19:11:03 +0000
+date: 2013-12-07 13:11:03 -0600
 external-url: http://kingjamesprogramming.tumblr.com/
 hash: db3063510a55688e13dbdefb46bd53ef
 year: 2013

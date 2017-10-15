@@ -1,6 +1,6 @@
 ---
 title: "The Avon Barksdale Story"
-date: 2010-01-08 13:21:23 +0000
+date: 2010-01-08 07:21:23 -0600
 external-url: http://kottke.org/10/01/the-avon-barksdale-story
 hash: de063275b7fc67d3c84cbfc785510fbc
 year: 2010

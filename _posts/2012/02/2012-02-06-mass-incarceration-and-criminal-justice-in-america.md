@@ -1,6 +1,6 @@
 ---
 title: "Mass Incarceration and Criminal Justice in America"
-date: 2012-02-06 17:16:42 +0000
+date: 2012-02-06 11:16:42 -0600
 external-url: http://www.newyorker.com/arts/critics/atlarge/2012/01/30/120130crat_atlarge_gopnik
 hash: f61f96475f5329946132c9984cbf60ca
 year: 2012

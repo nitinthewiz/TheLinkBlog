@@ -1,6 +1,6 @@
 ---
 title: "Beautiful Type"
-date: 2013-01-29 15:05:40 +0000
+date: 2013-01-29 09:05:40 -0600
 external-url: http://beautifultype.net/
 hash: eac21b4f028ee73a507c9ff3bb1ed065
 year: 2013

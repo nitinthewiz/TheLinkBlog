@@ -1,6 +1,6 @@
 ---
 title: "'Margin Call': A Financial-Crisis Film"
-date: 2011-10-24 21:27:14 +0000
+date: 2011-10-24 16:27:14 -0500
 external-url: http://www.theatlantic.com/entertainment/archive/2011/10/margin-call-a-financial-crisis-film-thats-on-the-money/247116/
 hash: 13406c16ba3f510afb2b5494023e3f82
 year: 2011

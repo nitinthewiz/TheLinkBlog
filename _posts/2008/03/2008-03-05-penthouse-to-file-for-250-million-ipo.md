@@ -1,6 +1,6 @@
 ---
 title: "Penthouse To File For $250 Million IPO"
-date: 2008-03-05 21:41:00 +0000
+date: 2008-03-05 15:41:00 -0600
 external-url: http://www.paidcontent.org/entry/419-penthouse-to-file-for-250-million-ipo/
 hash: 81816365155f01612b26b60cf43a3fe1
 year: 2008

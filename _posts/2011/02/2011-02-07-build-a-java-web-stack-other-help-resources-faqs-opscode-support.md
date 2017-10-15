@@ -1,6 +1,6 @@
 ---
 title: "Build a Java Web Stack / Other Help Resources / FAQs - Opscode Support"
-date: 2011-02-07 21:53:50 +0000
+date: 2011-02-07 15:53:50 -0600
 external-url: http://help.opscode.com/kb/otherhelp/build-a-java-web-stack
 hash: b19f0665eb20be0e145665fda56b6f14
 year: 2011

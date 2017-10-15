@@ -1,6 +1,6 @@
 ---
 title: "Outdoor Wood Fired Pizza Oven | Fornetto"
-date: 2016-01-24 23:40:01 +0000
+date: 2016-01-24 17:40:01 -0600
 external-url: http://fornetto.com/
 hash: 656342660172f35b8c8cb4706c2fd042
 year: 2016

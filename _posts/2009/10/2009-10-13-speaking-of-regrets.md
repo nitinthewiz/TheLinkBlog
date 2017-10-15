@@ -1,6 +1,6 @@
 ---
 title: "Speaking of Regrets"
-date: 2009-10-13 21:33:40 +0000
+date: 2009-10-13 16:33:40 -0500
 external-url: http://daringfireball.net/linked/2009/10/13/thompson-unix
 hash: 329a81a262aea53ba3f82da07235445b
 year: 2009

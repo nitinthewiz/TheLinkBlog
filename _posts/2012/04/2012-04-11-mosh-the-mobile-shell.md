@@ -1,6 +1,6 @@
 ---
 title: "Mosh: the mobile shell"
-date: 2012-04-11 21:36:22 +0000
+date: 2012-04-11 16:36:22 -0500
 external-url: http://mosh.mit.edu/
 hash: 1dbb7c6413786d776dc1a5024930a539
 year: 2012

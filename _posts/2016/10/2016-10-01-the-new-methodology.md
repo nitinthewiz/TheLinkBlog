@@ -1,6 +1,6 @@
 ---
 title: "The New Methodology"
-date: 2016-10-01 19:46:42 +0000
+date: 2016-10-01 14:46:42 -0500
 external-url: http://martinfowler.com/articles/newMethodology.html
 hash: 8390795a5c83d1bc508259036686c0d1
 year: 2016

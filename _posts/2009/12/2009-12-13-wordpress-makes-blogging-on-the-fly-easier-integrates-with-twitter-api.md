@@ -1,6 +1,6 @@
 ---
 title: "WordPress Makes Blogging On The Fly Easier, Integrates With Twitter API"
-date: 2009-12-13 15:48:52 +0000
+date: 2009-12-13 09:48:52 -0600
 external-url: http://techcrunch.com/2009/12/12/wordpress-integrates-with-twitter-api/
 hash: 9b557cdd18bf3dd88a5516469a0e5505
 year: 2009

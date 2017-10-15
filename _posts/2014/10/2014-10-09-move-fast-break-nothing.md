@@ -1,6 +1,6 @@
 ---
 title: "move fast & break nothing"
-date: 2014-10-09 10:53:30 +0000
+date: 2014-10-09 05:53:30 -0500
 external-url: http://zachholman.com/talk/move-fast-break-nothing/
 hash: e2e9705af39a05e6d94ed9b0d2dc1fb3
 year: 2014

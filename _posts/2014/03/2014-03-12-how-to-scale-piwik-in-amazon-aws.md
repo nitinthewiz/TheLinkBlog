@@ -1,6 +1,6 @@
 ---
 title: "How to scale Piwik in Amazon AWS"
-date: 2014-03-12 12:27:53 +0000
+date: 2014-03-12 07:27:53 -0500
 external-url: http://forum.piwik.org/list.php?6
 hash: ce25636af09033cb0b8f535f8cc4794f
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: "WordPress Syntax mode for Panic Coda | A HitchHackers guide through WordPress"
-date: 2011-02-20 21:41:54 +0000
+date: 2011-02-20 15:41:54 -0600
 external-url: http://hitchhackerguide.com/2011/02/18/wordpress-syntax-mode-for-panic-coda/
 hash: ab8633f1808217b8cfd959acd4804ffe
 year: 2011

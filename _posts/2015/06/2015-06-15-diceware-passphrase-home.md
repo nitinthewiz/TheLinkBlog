@@ -1,6 +1,6 @@
 ---
 title: "Diceware Passphrase Home"
-date: 2015-06-15 19:20:17 +0000
+date: 2015-06-15 14:20:17 -0500
 external-url: http://world.std.com/~reinhold/diceware.html
 hash: 6aa4daba8fad874c279e6595028ce6dc
 year: 2015

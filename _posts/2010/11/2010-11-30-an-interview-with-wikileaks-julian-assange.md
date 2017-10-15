@@ -1,6 +1,6 @@
 ---
 title: "An Interview With WikiLeaks’ Julian Assange"
-date: 2010-11-30 20:16:37 +0000
+date: 2010-11-30 14:16:37 -0600
 external-url: http://blogs.forbes.com/andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
 hash: 24c1cf113653876863358ff4810473ef
 year: 2010

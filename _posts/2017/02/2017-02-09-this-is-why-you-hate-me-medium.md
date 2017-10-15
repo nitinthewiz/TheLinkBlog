@@ -1,6 +1,6 @@
 ---
 title: "This Is Why You Hate Me – Medium"
-date: 2017-02-09 22:16:38 +0000
+date: 2017-02-09 16:16:38 -0600
 external-url: https://medium.com/@davepell/this-is-why-you-hate-me-5b553f2a0dae#.ux4onfkr1
 hash: ab3874f6e0d69fd0a175abf2a6b73cf1
 year: 2017

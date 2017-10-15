@@ -1,6 +1,6 @@
 ---
 title: "The Most Influential Women in Technology 2011 - Sona Mehring"
-date: 2011-02-22 23:15:18 +0000
+date: 2011-02-22 17:15:18 -0600
 external-url: http://www.fastcompany.com/women-in-tech/2011/advocates/sona-mehring
 hash: 3b63d9b4e6655e392d26d794aa35efe0
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "SEDUCTION"
-date: 2011-05-16 12:01:52 +0000
+date: 2011-05-16 07:01:52 -0500
 external-url: http://www.ginandtacos.com/2011/05/16/seduction/
 hash: 325ef4eaaeff11fc251d59351837cd1c
 year: 2011

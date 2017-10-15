@@ -1,6 +1,6 @@
 ---
 title: "Relicensing the GraphQL specification – Lee Byron – Medium"
-date: 2017-09-27 10:23:29 +0000
+date: 2017-09-27 05:23:29 -0500
 external-url: https://medium.com/@leeb/relicensing-the-graphql-specification-e7d07a52301b
 hash: 46846bd18222a69d85418806de88213d
 year: 2017

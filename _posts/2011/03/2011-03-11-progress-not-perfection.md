@@ -1,6 +1,6 @@
 ---
 title: "Progress not perfection"
-date: 2011-03-11 07:04:00 +0000
+date: 2011-03-11 01:04:00 -0600
 external-url: http://wesolver.blogspot.com/2011/03/progress-not-perfection.html
 hash: 4e8b93706c09d25fdee5304c0944fe3d
 year: 2011

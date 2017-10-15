@@ -1,6 +1,6 @@
 ---
 title: "Pinterest Updates Terms Of Service As It Preps An API And Private Pinboards: More Copyright Friendly"
-date: 2012-03-26 21:41:29 +0000
+date: 2012-03-26 16:41:29 -0500
 external-url: http://techcrunch.com/2012/03/24/pinterest-terms-api-copyrigh/
 hash: 6aae0a4c3a6c011a87b9041d9a1056be
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Streetcards - Gaping Void"
-date: 2007-09-13 17:47:37 +0000
+date: 2007-09-13 12:47:37 -0500
 external-url: http://gapingvoid.streetcards.com/
 hash: 082aec06f197e4890cd016d0c7809b2e
 year: 2007

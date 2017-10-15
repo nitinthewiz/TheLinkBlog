@@ -1,6 +1,6 @@
 ---
 title: "Say Hello To HelloTxt As Status Update Service Space Heats Up"
-date: 2009-05-01 05:10:39 +0000
+date: 2009-05-01 00:10:39 -0500
 external-url: http://gigaom.com/2009/04/30/say-hello-to-hellotxt-as-status-update-service-space-heats-up/
 hash: 66966c6b7bfb001d0ba814b71508b45e
 year: 2009

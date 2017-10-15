@@ -1,6 +1,6 @@
 ---
 title: "What is a Bitcoin fork? – The Coinbase Blog"
-date: 2017-07-28 14:30:57 +0000
+date: 2017-07-28 09:30:57 -0500
 external-url: https://blog.coinbase.com/what-is-a-bitcoin-fork-cba07fe73ef1
 hash: d2c388f0893190b190334dff41ec7faa
 year: 2017

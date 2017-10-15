@@ -1,6 +1,6 @@
 ---
 title: "Max Levchin in Technology Review"
-date: 2012-07-04 19:34:54 +0000
+date: 2012-07-04 14:34:54 -0500
 external-url: http://www.technologyreview.com/qa/428186/max-levchin/
 hash: 763bc540b3570bfc82ee01918e5815f9
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Google buying On2; New twist in the hope for Open Video"
-date: 2009-08-05 17:09:08 +0000
+date: 2009-08-05 12:09:08 -0500
 external-url: http://ajaxian.com/archives/google-buying-on2-new-twist-in-the-hope-for-open-video
 hash: d8dd89cbc17caf15eca03ff74f6885d1
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "CISPA vote means companies can't promise to protect privacy"
-date: 2013-04-18 12:53:45 +0000
+date: 2013-04-18 07:53:45 -0500
 external-url: http://www.cnet.com/8301-13578_3-57579958-38.html
 hash: 16afc3660b257f3504497d89879c293d
 year: 2013

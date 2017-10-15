@@ -1,6 +1,6 @@
 ---
 title: "Twitter users sue Donald Trump for excluding them"
-date: 2017-07-16 10:17:49 +0000
+date: 2017-07-16 05:17:49 -0500
 external-url: https://www.economist.com/blogs/democracyinamerica/2017/07/blocked-president
 hash: 622e5e771277dfa34628e33848168a78
 year: 2017

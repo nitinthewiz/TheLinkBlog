@@ -1,6 +1,6 @@
 ---
 title: "Flash Free Visitor Maps for Piwik - Piwik Features Crowdfunding"
-date: 2012-12-18 20:25:28 +0000
+date: 2012-12-18 14:25:28 -0600
 external-url: http://crowdfunding.piwik.org/analytics-maps-world-country-city-region/
 hash: a587c348572c1f6e89a7e1a2f64c02b1
 year: 2012

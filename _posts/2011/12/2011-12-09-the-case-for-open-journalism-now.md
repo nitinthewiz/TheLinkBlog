@@ -1,6 +1,6 @@
 ---
 title: "The Case for Open Journalism Now"
-date: 2011-12-09 17:54:03 +0000
+date: 2011-12-09 11:54:03 -0600
 external-url: http://www.annenberginnovationlab.org/OpenJournalism/overview
 hash: 6123148259bdfe12d40c3252e3df5bb4
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Arrange your time and tasks according to these seven categories, and you’ll be a creativity machine"
-date: 2017-08-18 15:50:12 +0000
+date: 2017-08-18 10:50:12 -0500
 external-url: https://medium.com/the-mission/arrange-your-time-and-tasks-according-to-these-seven-categories-and-youll-be-a-creativity-machine-b142d2fff65
 hash: d2fb9406088621f6cc511bfad0eba018
 year: 2017

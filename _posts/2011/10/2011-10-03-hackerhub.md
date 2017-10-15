@@ -1,6 +1,6 @@
 ---
 title: "hackerhub"
-date: 2011-10-03 21:48:00 +0000
+date: 2011-10-03 16:48:00 -0500
 external-url: http://hackerhub.org/
 hash: aab4983eba7265f643dc7d70b946794b
 year: 2011

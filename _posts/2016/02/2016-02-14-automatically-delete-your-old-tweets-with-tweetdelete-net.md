@@ -1,6 +1,6 @@
 ---
 title: "Automatically delete your old tweets with TweetDelete.net"
-date: 2016-02-14 15:31:32 +0000
+date: 2016-02-14 09:31:32 -0600
 external-url: http://www.tweetdelete.net/
 hash: e844ac12bb9c4fbfeb874c5e3660ef35
 year: 2016

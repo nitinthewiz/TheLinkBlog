@@ -1,6 +1,6 @@
 ---
 title: "Lightroom 1.3.1 is Released"
-date: 2007-12-07 22:33:57 +0000
+date: 2007-12-07 16:33:57 -0600
 external-url: http://lightroom-news.com/2007/12/07/lightroom-131-is-released/
 hash: 23e1ddb41c47e3d7f1bbfc9384d30788
 year: 2007

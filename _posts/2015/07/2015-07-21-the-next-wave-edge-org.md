@@ -1,6 +1,6 @@
 ---
 title: "The Next Wave | Edge.org"
-date: 2015-07-21 12:01:40 +0000
+date: 2015-07-21 07:01:40 -0500
 external-url: http://edge.org/conversation/john_markoff-the-next-wave
 hash: 5f7b1dd969de888e2a0347e9406ba8a5
 year: 2015

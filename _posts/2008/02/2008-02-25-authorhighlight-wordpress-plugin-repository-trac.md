@@ -1,6 +1,6 @@
 ---
 title: "AuthorHighlight - WordPress Plugin Repository - Trac"
-date: 2008-02-25 16:31:14 +0000
+date: 2008-02-25 10:31:14 -0600
 external-url: http://dev.wp-plugins.org/wiki/AuthorHighlight
 hash: df1eb02bc8591886e15857f55618f708
 year: 2008

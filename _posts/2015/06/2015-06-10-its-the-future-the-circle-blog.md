@@ -1,6 +1,6 @@
 ---
 title: "It’s The Future | The Circle Blog"
-date: 2015-06-10 10:47:55 +0000
+date: 2015-06-10 05:47:55 -0500
 external-url: http://blog.circleci.com/its-the-future/
 hash: c49c76ef1aea72cabf73a382c7900429
 year: 2015

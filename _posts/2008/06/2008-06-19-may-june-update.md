@@ -1,6 +1,6 @@
 ---
 title: "May-June update"
-date: 2008-06-19 18:01:45 +0000
+date: 2008-06-19 13:01:45 -0500
 external-url: http://hillsidelounge.com/bye.html
 hash: 69a6f9a7c7aa9c8d347966b2cd50b574
 year: 2008

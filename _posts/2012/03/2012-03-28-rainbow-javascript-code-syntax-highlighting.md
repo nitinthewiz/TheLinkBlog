@@ -1,6 +1,6 @@
 ---
 title: "Rainbow - Javascript Code Syntax Highlighting"
-date: 2012-03-28 11:09:55 +0000
+date: 2012-03-28 06:09:55 -0500
 external-url: http://craig.is/making/rainbows
 hash: 359cb8019b77a91c46ee74d88644d5b7
 year: 2012

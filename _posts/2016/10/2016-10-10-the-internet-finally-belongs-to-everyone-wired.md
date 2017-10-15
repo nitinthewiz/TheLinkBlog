@@ -1,6 +1,6 @@
 ---
 title: "The Internet Finally Belongs to Everyone | WIRED"
-date: 2016-10-10 15:24:28 +0000
+date: 2016-10-10 10:24:28 -0500
 external-url: https://www.wired.com/2016/10/internet-finally-belongs-everyone/
 hash: fa06e3d332edb5b116b9df04a63f4223
 year: 2016

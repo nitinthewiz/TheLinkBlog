@@ -1,6 +1,6 @@
 ---
 title: "Lessons Learned in Software Development"
-date: 2015-04-21 12:10:13 +0000
+date: 2015-04-21 07:10:13 -0500
 external-url: http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/
 hash: 69f55dc0fc1958d1c165a75300aef06b
 year: 2015

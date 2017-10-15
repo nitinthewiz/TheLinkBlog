@@ -1,6 +1,6 @@
 ---
 title: "Swiss Alps with Kids | Kid-Friendly Hiking | Children's Adventure Trail in Mürren, Switzerland | Ciao Bambino Blog"
-date: 2011-08-15 21:23:55 +0000
+date: 2011-08-15 16:23:55 -0500
 external-url: http://www.ciaobambino.com/ciaobambinoblog/index.php/2011/08/kid-friendly-hiking-on-childrens-adventure-trail-murren-switzerland/
 hash: 13b3ac24b8db34b15e5f22b15146ca5b
 year: 2011

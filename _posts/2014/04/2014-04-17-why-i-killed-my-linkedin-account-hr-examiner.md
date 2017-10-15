@@ -1,6 +1,6 @@
 ---
 title: "Why I Killed My Linkedin Account - HR Examiner"
-date: 2014-04-17 20:52:55 +0000
+date: 2014-04-17 15:52:55 -0500
 external-url: http://www.hrexaminer.com/why-i-killed-my-linkedin-account/
 hash: 98c33aac1c0578227a5d7775ec4f84a6
 year: 2014

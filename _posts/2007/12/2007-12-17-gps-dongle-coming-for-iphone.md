@@ -1,6 +1,6 @@
 ---
 title: "GPS dongle coming for iPhone"
-date: 2007-12-17 15:00:00 +0000
+date: 2007-12-17 09:00:00 -0600
 external-url: http://www.tuaw.com/2007/12/17/gps-dongle-coming-for-iphone/
 hash: 5ebb28e10929b68851ae38bdd0f08c8d
 year: 2007

@@ -1,6 +1,6 @@
 ---
 title: "J. Arthur's Coffee"
-date: 2012-06-26 11:56:42 +0000
+date: 2012-06-26 06:56:42 -0500
 external-url: http://jarthurscoffee.com/
 hash: 374918a0b484392a50fe6c9932cdeb6d
 year: 2012

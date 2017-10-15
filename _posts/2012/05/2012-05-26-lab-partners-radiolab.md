@@ -1,6 +1,6 @@
 ---
 title: "Lab Partners - Radiolab"
-date: 2012-05-26 21:19:20 +0000
+date: 2012-05-26 16:19:20 -0500
 external-url: http://www.radiolab.org/labpartners/
 hash: d51ce86138cf83b4a7277165f49aac94
 year: 2012

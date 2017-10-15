@@ -1,6 +1,6 @@
 ---
 title: "How Apple Plans to Change the Way You Use the Next iPhone - Bloomberg"
-date: 2017-08-30 12:01:37 +0000
+date: 2017-08-30 07:01:37 -0500
 external-url: https://www.bloomberg.com/news/articles/2017-08-30/how-apple-plans-to-change-the-way-you-use-the-next-iphone
 hash: 4a048b30d1e01d8ba18cca25a1cf8410
 year: 2017

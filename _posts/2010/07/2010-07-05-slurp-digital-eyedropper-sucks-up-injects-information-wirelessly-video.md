@@ -1,6 +1,6 @@
 ---
 title: "Slurp digital eyedropper sucks up, injects information wirelessly (video)"
-date: 2010-07-05 21:19:00 +0000
+date: 2010-07-05 16:19:00 -0500
 external-url: http://www.engadget.com/2010/07/05/slurp-digital-eyedropper-sucks-up-injects-information-wirelessl/
 hash: 8a60d3369484c196bc76ebbae2982161
 year: 2010

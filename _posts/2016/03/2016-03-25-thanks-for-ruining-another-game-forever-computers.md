@@ -1,6 +1,6 @@
 ---
 title: "Thanks For Ruining Another Game Forever, Computers"
-date: 2016-03-25 23:41:25 +0000
+date: 2016-03-25 18:41:25 -0500
 external-url: http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/
 hash: 81da6d5d9e00c965970d149a7375bb03
 year: 2016

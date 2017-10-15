@@ -1,6 +1,6 @@
 ---
 title: "Silicon Valley Bank's Premium Wine Division"
-date: 2010-12-02 16:52:10 +0000
+date: 2010-12-02 10:52:10 -0600
 external-url: http://www.svb.com/winedivision
 hash: e350d071130ebf92ee5b6252cb2a700d
 year: 2010

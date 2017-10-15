@@ -1,6 +1,6 @@
 ---
 title: "Panther Express Closes $16 Million Series B"
-date: 2008-02-27 10:00:00 +0000
+date: 2008-02-27 04:00:00 -0600
 external-url: http://www.businessinsider.com/2008/2/panther-express-closes-16-million-series-b
 hash: d84b0413a52720ed52b6f97ffcc4e6d4
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "Source Code Pro"
-date: 2012-09-25 16:50:36 +0000
+date: 2012-09-25 11:50:36 -0500
 external-url: https://github.com/adobe/Source-Code-Pro
 hash: 2c13d1829e1a98d32097754d12867730
 year: 2012

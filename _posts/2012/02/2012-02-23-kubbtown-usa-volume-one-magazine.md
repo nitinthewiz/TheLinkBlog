@@ -1,6 +1,6 @@
 ---
 title: "Kubbtown, USA - Volume One Magazine"
-date: 2012-02-23 17:38:21 +0000
+date: 2012-02-23 11:38:21 -0600
 external-url: http://volumeone.org/articles/article/1513/FEATURE_Kubbtown_USA
 hash: 27f59c4b394319fb1e619298613659a3
 year: 2012

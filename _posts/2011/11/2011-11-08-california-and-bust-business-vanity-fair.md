@@ -1,6 +1,6 @@
 ---
 title: "California and Bust | Business | Vanity Fair"
-date: 2011-11-08 19:56:48 +0000
+date: 2011-11-08 13:56:48 -0600
 external-url: http://www.vanityfair.com/business/features/2011/11/michael-lewis-201111
 hash: 0d3ed46b6dd44322538c78c581f5f3c0
 year: 2011

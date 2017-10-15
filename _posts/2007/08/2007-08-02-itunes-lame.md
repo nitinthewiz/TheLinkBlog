@@ -1,6 +1,6 @@
 ---
 title: "ITunes-LAME"
-date: 2007-08-02 17:53:58 +0000
+date: 2007-08-02 12:53:58 -0500
 external-url: http://www.blacktree.com/projects/itunes-lame.html
 hash: 44449786cfcde98a98e714c3059b9bd2
 year: 2007

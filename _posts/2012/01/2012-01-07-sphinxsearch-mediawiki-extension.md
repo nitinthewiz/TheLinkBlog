@@ -1,6 +1,6 @@
 ---
 title: "SphinxSearch MediaWiki Extension"
-date: 2012-01-07 11:51:27 +0000
+date: 2012-01-07 05:51:27 -0600
 external-url: http://www.mediawiki.org/wiki/Extension:SphinxSearch
 hash: 5a0083ea91dc59165be08853e5db0080
 year: 2012

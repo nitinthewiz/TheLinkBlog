@@ -1,6 +1,6 @@
 ---
 title: "Michael Lewis Princeton Commencement Remarks"
-date: 2012-06-06 22:52:07 +0000
+date: 2012-06-06 17:52:07 -0500
 external-url: http://www.businessinsider.com/michael-lewis-princeton-commencement-remarks-2012-6
 hash: 8fcf6496d54134092bbb0c0444546eca
 year: 2012

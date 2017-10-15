@@ -1,6 +1,6 @@
 ---
 title: "PCMag Review:  Microsoft Windows Vista Service Pack 1"
-date: 2008-02-23 21:13:00 +0000
+date: 2008-02-23 15:13:00 -0600
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=42779
 hash: 9468d83e46ef64ab23e8230215658f81
 year: 2008

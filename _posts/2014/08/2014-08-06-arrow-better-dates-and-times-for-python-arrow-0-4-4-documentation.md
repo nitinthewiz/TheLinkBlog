@@ -1,6 +1,6 @@
 ---
 title: "Arrow: better dates and times for Python Arrow 0.4.4 documentation"
-date: 2014-08-06 17:53:36 +0000
+date: 2014-08-06 12:53:36 -0500
 external-url: http://crsmithdev.com/arrow/
 hash: 3caa476550b3c9f1ab49b0b1d723ed2c
 year: 2014

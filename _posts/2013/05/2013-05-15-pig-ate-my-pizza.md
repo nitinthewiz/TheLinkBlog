@@ -1,6 +1,6 @@
 ---
 title: "Pig Ate My Pizza"
-date: 2013-05-15 15:14:32 +0000
+date: 2013-05-15 10:14:32 -0500
 external-url: http://www.thrillist.com/eat/minneapolis/pig-ate-my-pizza
 hash: 5216f9462000f6ea067fed371458a470
 year: 2013

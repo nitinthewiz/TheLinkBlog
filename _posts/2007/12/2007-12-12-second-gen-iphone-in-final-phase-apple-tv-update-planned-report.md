@@ -1,6 +1,6 @@
 ---
 title: "Second-gen iPhone in final phase; Apple TV update planned - report"
-date: 2007-12-12 15:00:00 +0000
+date: 2007-12-12 09:00:00 -0600
 external-url: http://www.appleinsider.com/article.php?id=3510
 hash: 09eee62db73bd2bd392f770d6ed8e1a2
 year: 2007

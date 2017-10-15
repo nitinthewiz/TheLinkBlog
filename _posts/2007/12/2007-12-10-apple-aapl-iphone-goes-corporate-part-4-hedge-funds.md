@@ -1,6 +1,6 @@
 ---
 title: "Apple (AAPL) iPhone Goes Corporate, Part 4: Hedge Funds"
-date: 2007-12-10 20:46:55 +0000
+date: 2007-12-10 14:46:55 -0600
 external-url: http://www.businessinsider.com/2007/12/apple-aapl-iphone-goes-corporate-part-4-hedge-funds
 hash: 4d04038fd9e41aeee46a69efa1390f91
 year: 2007

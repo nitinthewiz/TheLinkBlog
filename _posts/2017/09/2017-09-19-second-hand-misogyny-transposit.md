@@ -1,6 +1,6 @@
 ---
 title: "Second-Hand Misogyny – Transposit"
-date: 2017-09-19 08:50:02 +0000
+date: 2017-09-19 03:50:02 -0500
 external-url: https://blog.transposit.com/second-hand-misogyny-a1d254350e86
 hash: 2300b15173d948108bf19c1e647485df
 year: 2017

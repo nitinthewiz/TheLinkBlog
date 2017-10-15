@@ -1,6 +1,6 @@
 ---
 title: "Evil Icons"
-date: 2014-12-15 13:25:35 +0000
+date: 2014-12-15 07:25:35 -0600
 external-url: http://evil-icons.io/
 hash: b0137eb5841344ea2896ed8c21d0c9e8
 year: 2014

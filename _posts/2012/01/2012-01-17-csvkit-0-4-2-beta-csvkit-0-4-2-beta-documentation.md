@@ -1,6 +1,6 @@
 ---
 title: "csvkit 0.4.2 (beta) — csvkit 0.4.2 (beta) documentation"
-date: 2012-01-17 21:59:06 +0000
+date: 2012-01-17 15:59:06 -0600
 external-url: http://csvkit.readthedocs.org/en/latest/index.html
 hash: 46f1d752cee4b7b3ffda10974f986756
 year: 2012

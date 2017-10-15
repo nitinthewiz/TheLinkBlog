@@ -1,6 +1,6 @@
 ---
 title: "We'll be right back"
-date: 2009-05-01 05:21:43 +0000
+date: 2009-05-01 00:21:43 -0500
 external-url: http://www.geni.com/blog/well-be-right-back-1-33431.html
 hash: 33cab16b05676d7a42c6853b2eddfb3a
 year: 2009

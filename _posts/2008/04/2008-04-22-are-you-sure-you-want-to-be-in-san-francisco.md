@@ -1,6 +1,6 @@
 ---
 title: "Are you sure you want to be in San Francisco?"
-date: 2008-04-22 16:23:00 +0000
+date: 2008-04-22 11:23:00 -0500
 external-url: http://www.37signals.com/svn/posts/987-are-you-sure-you-want-to-be-in-san-francisco
 hash: 58509442b87d47f62b1470d14477cc02
 year: 2008

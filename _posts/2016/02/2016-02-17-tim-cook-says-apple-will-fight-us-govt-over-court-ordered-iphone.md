@@ -1,6 +1,6 @@
 ---
 title: "Tim Cook says Apple will fight US gov’t over court-ordered iPhone backdoor"
-date: 2016-02-17 11:16:36 +0000
+date: 2016-02-17 05:16:36 -0600
 external-url: http://arstechnica.com/gadgets/2016/02/tim-cook-says-apple-will-fight-us-govt-over-court-ordered-iphone-backdoor/#p3
 hash: 216b02344b22f8b25e31da8518964b67
 year: 2016

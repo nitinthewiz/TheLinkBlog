@@ -1,6 +1,6 @@
 ---
 title: "HeartWatch 2 Review"
-date: 2016-02-13 15:36:32 +0000
+date: 2016-02-13 09:36:32 -0600
 external-url: https://www.macstories.net/reviews/heartwatch-2-review/
 hash: 10b577452eca6e75837d5da7c244fd74
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Customer Letter - Apple"
-date: 2016-02-17 10:58:30 +0000
+date: 2016-02-17 04:58:30 -0600
 external-url: http://www.apple.com/customer-letter/
 hash: 63b6065de012b2191ef2ff24a4890a74
 year: 2016

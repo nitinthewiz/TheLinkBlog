@@ -1,6 +1,6 @@
 ---
 title: "Vintage Overland"
-date: 2015-08-31 23:31:33 +0000
+date: 2015-08-31 18:31:33 -0500
 external-url: http://www.vintageoverland.com/
 hash: fb53afd469e4bb925d94e6485afc402d
 year: 2015

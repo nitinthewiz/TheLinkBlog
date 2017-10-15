@@ -1,6 +1,6 @@
 ---
 title: "Do Not Touch"
-date: 2013-04-16 19:16:04 +0000
+date: 2013-04-16 14:16:04 -0500
 external-url: http://donottouch.org/
 hash: c32db515c273d0b1aad5f6a843abebcf
 year: 2013

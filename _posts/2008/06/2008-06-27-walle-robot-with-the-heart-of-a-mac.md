@@ -1,6 +1,6 @@
 ---
 title: "WALLE - Robot with the heart of a Mac"
-date: 2008-06-27 20:00:00 +0000
+date: 2008-06-27 15:00:00 -0500
 external-url: http://www.tuaw.com/2008/06/27/wall-e-robot-with-the-heart-of-a-mac/
 hash: 62bd49478af186f2009eabf0323eba72
 year: 2008

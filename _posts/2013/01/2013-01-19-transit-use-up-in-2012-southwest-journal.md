@@ -1,6 +1,6 @@
 ---
 title: "Transit use up in 2012 - Southwest Journal"
-date: 2013-01-19 13:31:45 +0000
+date: 2013-01-19 07:31:45 -0600
 external-url: http://www.southwestjournal.com/news/news/transit-use-up-in-2012
 hash: 09c3a5e6c95a9e77aa882d505f524f3a
 year: 2013

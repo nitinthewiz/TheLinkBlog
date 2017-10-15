@@ -1,6 +1,6 @@
 ---
 title: "BBC - Future - The dystopian lake filled by the world’s tech lust"
-date: 2015-09-11 23:43:55 +0000
+date: 2015-09-11 18:43:55 -0500
 external-url: http://www.bbc.com/future/story/20150402-the-worst-place-on-earth
 hash: c87018d4d0616c394e5b2be57cf8beba
 year: 2015

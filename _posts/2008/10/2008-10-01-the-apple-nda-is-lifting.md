@@ -1,6 +1,6 @@
 ---
 title: "The Apple NDA is lifting..."
-date: 2008-10-01 17:28:58 +0000
+date: 2008-10-01 12:28:58 -0500
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2008/10/the-apple-nda-i.html
 hash: fbb0275b7d4f9bc7ca1d727e31a5d579
 year: 2008

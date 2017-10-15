@@ -1,6 +1,6 @@
 ---
 title: "Art Channel for Apple TV"
-date: 2016-03-03 13:11:54 +0000
+date: 2016-03-03 07:11:54 -0600
 external-url: http://macsparky.com/blog/2016/3/art-channel-for-apple-tv
 hash: a64f2558c3b40021094803f0b9541dd0
 year: 2016

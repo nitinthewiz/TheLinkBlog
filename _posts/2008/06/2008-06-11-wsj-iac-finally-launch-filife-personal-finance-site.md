@@ -1,6 +1,6 @@
 ---
 title: "WSJ, IAC (Finally) Launch FiLife Personal Finance Site"
-date: 2008-06-11 05:01:00 +0000
+date: 2008-06-11 00:01:00 -0500
 external-url: http://www.businessinsider.com/2008/6/wsj-iac-finally-launch-filife-personal-finance-site
 hash: 75ee645dafd7da16c0374e096932a431
 year: 2008

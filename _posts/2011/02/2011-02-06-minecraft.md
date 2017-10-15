@@ -1,6 +1,6 @@
 ---
 title: "Minecraft"
-date: 2011-02-06 12:14:07 +0000
+date: 2011-02-06 06:14:07 -0600
 external-url: http://www.minecraft.net/
 hash: ceaea6264b9738b1339db2d41c93e72e
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "On Starting a Long-Term Company"
-date: 2007-11-21 20:17:13 +0000
+date: 2007-11-21 14:17:13 -0600
 external-url: http://www.stephenwolfram.com/publications/starting-long-term-company/
 hash: 67af9acc22e862ae4357748b603b40d3
 year: 2007

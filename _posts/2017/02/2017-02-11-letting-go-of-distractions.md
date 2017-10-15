@@ -1,6 +1,6 @@
 ---
 title: "Letting Go of Distractions"
-date: 2017-02-11 18:28:38 +0000
+date: 2017-02-11 12:28:38 -0600
 external-url: https://zenhabits.net/distractions/
 hash: ebb85b4e1800b6e34c7613ce707cd9d0
 year: 2017

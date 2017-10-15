@@ -1,6 +1,6 @@
 ---
 title: "Why I love working with family people"
-date: 2008-04-24 21:45:00 +0000
+date: 2008-04-24 16:45:00 -0500
 external-url: http://signalvnoise.com/posts/996-why-i-love-working-with-family-people
 hash: adabc4837b81aa30daac0c654212d9bd
 year: 2008

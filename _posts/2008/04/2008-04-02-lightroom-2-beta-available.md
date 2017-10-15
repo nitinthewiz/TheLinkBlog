@@ -1,6 +1,6 @@
 ---
 title: "Lightroom 2 beta Available"
-date: 2008-04-02 06:05:07 +0000
+date: 2008-04-02 01:05:07 -0500
 external-url: http://blogs.adobe.com/lightroomjournal/2008/04/lightroom_2_beta_available.html
 hash: fab1a2df20f45a241e5815a62c9c257d
 year: 2008

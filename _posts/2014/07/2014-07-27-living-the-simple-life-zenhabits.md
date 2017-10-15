@@ -1,6 +1,6 @@
 ---
 title: "Living the Simple Life : zenhabits"
-date: 2014-07-27 19:22:52 +0000
+date: 2014-07-27 14:22:52 -0500
 external-url: http://zenhabits.net/simple/
 hash: 209d7a7201c26da7637d0bac3547f642
 year: 2014

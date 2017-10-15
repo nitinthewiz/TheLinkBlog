@@ -1,6 +1,6 @@
 ---
 title: "How We Calculate Your Carbon Footprint"
-date: 2011-07-09 12:35:27 +0000
+date: 2011-07-09 07:35:27 -0500
 external-url: http://carbonfund.org/how-we-calculate
 hash: 0b51819b5bfc9ce9e07ae151061c2082
 year: 2011

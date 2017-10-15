@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to APIs with Phoenix"
-date: 2016-02-19 17:28:39 +0000
+date: 2016-02-19 11:28:39 -0600
 external-url: http://blog.codeship.com/an-introduction-to-apis-with-phoenix/
 hash: 53bd594125416887afa2a4ad385ba04c
 year: 2016

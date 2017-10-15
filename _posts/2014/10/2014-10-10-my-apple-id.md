@@ -1,6 +1,6 @@
 ---
 title: "My Apple ID"
-date: 2014-10-10 12:23:11 +0000
+date: 2014-10-10 07:23:11 -0500
 external-url: https://appleid.apple.com/
 hash: d38204f2e46fcb4690ab573ecd205ea1
 year: 2014

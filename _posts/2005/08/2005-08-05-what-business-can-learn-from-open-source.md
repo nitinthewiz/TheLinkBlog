@@ -1,6 +1,6 @@
 ---
 title: "What Business Can Learn from Open Source"
-date: 2005-08-05 05:12:11 +0000
+date: 2005-08-05 00:12:11 -0500
 external-url: http://www.paulgraham.com/opensource.html
 hash: e92abf9937d3ab3601602cc6ddfdfc6b
 year: 2005

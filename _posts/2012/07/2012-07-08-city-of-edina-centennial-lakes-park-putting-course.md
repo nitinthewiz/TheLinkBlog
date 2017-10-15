@@ -1,6 +1,6 @@
 ---
 title: "City of Edina, Centennial Lakes Park, Putting Course"
-date: 2012-07-08 20:29:51 +0000
+date: 2012-07-08 15:29:51 -0500
 external-url: http://edinamn.gov/index.php?section=centennial-attractions#mcpge
 hash: c8e1aebbfc0aeacf4a297deeeab7b952
 year: 2012

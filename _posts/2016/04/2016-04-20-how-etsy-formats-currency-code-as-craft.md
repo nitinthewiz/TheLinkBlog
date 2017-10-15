@@ -1,6 +1,6 @@
 ---
 title: "How Etsy Formats Currency - Code as Craft"
-date: 2016-04-20 11:31:15 +0000
+date: 2016-04-20 06:31:15 -0500
 external-url: https://codeascraft.com/2016/04/19/how-etsy-formats-currency/
 hash: b99d145c181b5982fb60d3e233e14603
 year: 2016

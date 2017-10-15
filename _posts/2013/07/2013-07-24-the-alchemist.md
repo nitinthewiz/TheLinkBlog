@@ -1,6 +1,6 @@
 ---
 title: "The Alchemist"
-date: 2013-07-24 20:10:45 +0000
+date: 2013-07-24 15:10:45 -0500
 external-url: http://alchemistbeer.com/about-us/
 hash: 32810a22c9e4807561683e5634328eef
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Another Snow Leopard Tip: Option-Click Sound menu and get input/output options"
-date: 2009-09-03 05:16:55 +0000
+date: 2009-09-03 00:16:55 -0500
 external-url: http://9to5mac.com/2009/09/02/another-snow-leopard-tip-option-click-sound-menu-and-get-inputoutput-options/
 hash: cb80642bb50083fce5f15fb65d5297b9
 year: 2009

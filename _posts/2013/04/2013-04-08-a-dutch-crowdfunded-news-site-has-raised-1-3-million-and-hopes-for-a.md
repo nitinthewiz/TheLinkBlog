@@ -1,6 +1,6 @@
 ---
 title: "A Dutch crowdfunded news site has raised $1.3 million and hopes for a digital-native journalism"
-date: 2013-04-08 15:26:07 +0000
+date: 2013-04-08 10:26:07 -0500
 external-url: http://www.niemanlab.org/2013/04/a-dutch-crowdfunded-news-site-has-raised-1-3-million-and-hopes-for-a-digital-native-journalism/
 hash: 8d1247bd64d176dc8c669cedd22a43bd
 year: 2013

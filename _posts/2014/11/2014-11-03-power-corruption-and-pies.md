@@ -1,6 +1,6 @@
 ---
 title: "POWER, CORRUPTION AND PIES"
-date: 2014-11-03 10:22:25 +0000
+date: 2014-11-03 04:22:25 -0600
 external-url: http://www.powercorruptionandpies.com/
 hash: 7ebcb269bec23bc2e42d9a7458e30091
 year: 2014

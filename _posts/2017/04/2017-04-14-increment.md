@@ -1,6 +1,6 @@
 ---
 title: "Increment"
-date: 2017-04-14 23:24:52 +0000
+date: 2017-04-14 18:24:52 -0500
 external-url: https://increment.com/
 hash: 669f5211aba110dbe6957482dfa4f8f3
 year: 2017

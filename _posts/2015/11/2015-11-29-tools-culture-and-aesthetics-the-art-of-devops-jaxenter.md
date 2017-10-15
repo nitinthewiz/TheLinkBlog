@@ -1,6 +1,6 @@
 ---
 title: "Tools, Culture and Aesthetics – The Art of DevOps - JAXenter"
-date: 2015-11-29 13:45:15 +0000
+date: 2015-11-29 07:45:15 -0600
 external-url: https://jaxenter.com/tools-culture-and-aesthetics-the-art-of-devops-122535.html
 hash: aa0ac3303ef9817f6d6c7d319c0dfc34
 year: 2015

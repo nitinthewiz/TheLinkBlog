@@ -1,6 +1,6 @@
 ---
 title: "Final slices to be served at Plymouth pizza place | kare11.com"
-date: 2012-02-24 19:55:57 +0000
+date: 2012-02-24 13:55:57 -0600
 external-url: http://www.kare11.com/rss/article/963794/391/Final-slices-to-be-served-at-Plymouth-pizza-place
 hash: 03502cdcc745599abad560b96522b412
 year: 2012

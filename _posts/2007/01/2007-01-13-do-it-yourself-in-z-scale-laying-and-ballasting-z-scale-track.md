@@ -1,6 +1,6 @@
 ---
 title: "Do it Yourself in Z-scale: Laying and Ballasting Z-scale Track"
-date: 2007-01-13 23:52:00 +0000
+date: 2007-01-13 17:52:00 -0600
 external-url: http://www.zscale.org/articles/ballast.html
 hash: 5c638c7eb67c06977e1e9d58317d3f87
 year: 2007

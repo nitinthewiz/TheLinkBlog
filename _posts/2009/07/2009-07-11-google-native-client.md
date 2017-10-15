@@ -1,6 +1,6 @@
 ---
 title: "Google Native Client"
-date: 2009-07-11 18:14:09 +0000
+date: 2009-07-11 13:14:09 -0500
 external-url: http://code.google.com/p/nativeclient/
 hash: 20c9c05bc0baaa8e0a3e87c6bd486623
 year: 2009

@@ -1,6 +1,6 @@
 ---
 title: "Ovolab - Geophoto - description"
-date: 2007-04-30 05:23:16 +0000
+date: 2007-04-30 00:23:16 -0500
 external-url: http://www.ovolab.com/mac-apps/ovolab-geophoto/
 hash: 2c58b1cd4b52840ecc81d23614e49652
 year: 2007

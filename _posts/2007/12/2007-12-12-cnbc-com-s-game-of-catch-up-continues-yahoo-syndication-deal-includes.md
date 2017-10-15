@@ -1,6 +1,6 @@
 ---
 title: "CNBC.com's Game Of Catch-Up Continues; Yahoo Syndication Deal Includes Europe, Asia"
-date: 2007-12-12 20:33:25 +0000
+date: 2007-12-12 14:33:25 -0600
 external-url: http://paidcontent.org/article/419-cnbc-inks-distribution-deal-with-yahoo-finance-second-business-news-all/
 hash: 7b58f838520aba080e13a4d86cfdff7a
 year: 2007

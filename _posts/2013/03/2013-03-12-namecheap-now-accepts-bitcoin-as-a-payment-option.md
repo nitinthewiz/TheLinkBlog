@@ -1,6 +1,6 @@
 ---
 title: "Namecheap now accepts Bitcoin as a payment option"
-date: 2013-03-12 16:14:41 +0000
+date: 2013-03-12 11:14:41 -0500
 external-url: https://www.namecheap.com/support/payment/bitcoin.aspx
 hash: 9a11a7e8166bb37895a786627cf64c40
 year: 2013

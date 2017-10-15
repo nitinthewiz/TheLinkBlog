@@ -1,6 +1,6 @@
 ---
 title: "The Political Power of Social Media"
-date: 2011-01-09 19:37:38 +0000
+date: 2011-01-09 13:37:38 -0600
 external-url: http://www.foreignaffairs.com/articles/67038/clay-shirky/the-political-power-of-social-media
 hash: 431d4f110ac595a227fb54ebe4df096b
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "The state of gun violence in the US, explained in 7 minutes - Vox"
-date: 2016-02-26 16:48:53 +0000
+date: 2016-02-26 10:48:53 -0600
 external-url: http://www.vox.com/2016/2/22/11092704/gun-violence-facts
 hash: 4112a70dddcd67acfe9d9efa7dc86111
 year: 2016

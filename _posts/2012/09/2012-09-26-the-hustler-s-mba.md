@@ -1,6 +1,6 @@
 ---
 title: "The Hustler's MBA"
-date: 2012-09-26 17:13:03 +0000
+date: 2012-09-26 12:13:03 -0500
 external-url: http://tynan.com/hustle
 hash: 09cf3dd8ccc6291b696ce6c25cdf7360
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "NGiNX HTTP Push Module"
-date: 2009-11-19 12:44:12 +0000
+date: 2009-11-19 06:44:12 -0600
 external-url: http://ajaxian.com/archives/nginx-http-push-module
 hash: 128f2668a4fac96b8e89714d4f69f475
 year: 2009

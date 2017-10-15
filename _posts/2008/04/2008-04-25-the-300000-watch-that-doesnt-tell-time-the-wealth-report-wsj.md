@@ -1,6 +1,6 @@
 ---
 title: "The $300,000 Watch That Doesnt Tell Time - The Wealth Report - WSJ"
-date: 2008-04-25 21:57:10 +0000
+date: 2008-04-25 16:57:10 -0500
 external-url: http://blogs.wsj.com/wealth/2008/04/25/the-300000-watch-that-doesnt-tell-time/
 hash: a3419a8b0c0b6e5348edb0901ffb0e76
 year: 2008

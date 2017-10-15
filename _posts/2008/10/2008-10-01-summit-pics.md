@@ -1,6 +1,6 @@
 ---
 title: "Summit Pics"
-date: 2008-10-01 17:10:00 +0000
+date: 2008-10-01 12:10:00 -0500
 external-url: http://www.slicehost.com/articles/2008/10/1/summit-pics
 hash: 6f8d51af43ff4eee171fca7d98bc94be
 year: 2008

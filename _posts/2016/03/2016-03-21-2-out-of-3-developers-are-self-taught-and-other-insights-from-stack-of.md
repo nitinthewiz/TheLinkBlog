@@ -1,6 +1,6 @@
 ---
 title: "2 out of 3 developers are self-taught, and other insights from Stack Overflow’s 2016 survey of 50… — Free Code Camp — Medium"
-date: 2016-03-21 19:34:18 +0000
+date: 2016-03-21 14:34:18 -0500
 external-url: https://medium.freecodecamp.com/2-out-of-3-developers-are-self-taught-and-other-insights-from-stack-overflow-s-2016-survey-of-50-8cf0ee5d4c21#.rezljoitx
 hash: 9dae68ef39ff22736c6a6c2f32522ebf
 year: 2016

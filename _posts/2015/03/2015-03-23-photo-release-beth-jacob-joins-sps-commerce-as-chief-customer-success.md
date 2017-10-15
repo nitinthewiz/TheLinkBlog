@@ -1,6 +1,6 @@
 ---
 title: "Photo Release -- Beth Jacob Joins SPS Commerce as Chief Customer Success Officer - MarketWatch"
-date: 2015-03-23 14:06:31 +0000
+date: 2015-03-23 09:06:31 -0500
 external-url: http://www.marketwatch.com/story/photo-release----beth-jacob-joins-sps-commerce-as-chief-customer-success-officer-2015-03-23?siteid=nbsh
 hash: 7fef94c6e72986e31df4bd42570a9c7c
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "NASA Announces Results of Epic Space-Time Experiment"
-date: 2011-05-05 19:00:48 +0000
+date: 2011-05-05 14:00:48 -0500
 external-url: http://science.nasa.gov/science-news/science-at-nasa/2011/04may_epic/
 hash: dd652c3c75ebcacd73acf8441ef3db13
 year: 2011

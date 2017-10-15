@@ -1,6 +1,6 @@
 ---
 title: "CalDAV support comes to Google Calendar"
-date: 2008-07-28 23:00:00 +0000
+date: 2008-07-28 18:00:00 -0500
 external-url: http://www.tuaw.com/2008/07/28/caldav-support-comes-to-google-calendar/
 hash: 3020f1b3fd077271ee25b916c2f19650
 year: 2008

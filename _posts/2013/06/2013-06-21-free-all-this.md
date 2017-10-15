@@ -1,6 +1,6 @@
 ---
 title: "Free - All this"
-date: 2013-06-21 17:22:11 +0000
+date: 2013-06-21 12:22:11 -0500
 external-url: http://www.leancrew.com/all-this/2013/05/free/
 hash: c9a738b3bd75d00bbc3ea20a1560d584
 year: 2013

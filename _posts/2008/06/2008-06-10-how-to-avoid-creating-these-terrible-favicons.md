@@ -1,6 +1,6 @@
 ---
 title: "How To Avoid Creating These Terrible Favicons"
-date: 2008-06-10 06:38:24 +0000
+date: 2008-06-10 01:38:24 -0500
 external-url: http://performancing.co.uk/
 hash: ac598792c2158c6a2dc44347a13bd1af
 year: 2008

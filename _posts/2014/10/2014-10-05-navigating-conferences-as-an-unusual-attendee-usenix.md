@@ -1,6 +1,6 @@
 ---
 title: "Navigating Conferences as an Unusual Attendee | USENIX"
-date: 2014-10-05 17:19:30 +0000
+date: 2014-10-05 12:19:30 -0500
 external-url: https://www.usenix.org/blog/navigating-conferences-unusual-attendee
 hash: b86ad5b28a52bf39e26875a1767887cd
 year: 2014

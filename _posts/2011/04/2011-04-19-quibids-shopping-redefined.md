@@ -1,6 +1,6 @@
 ---
 title: "QuiBids - Shopping Redefined"
-date: 2011-04-19 20:27:16 +0000
+date: 2011-04-19 15:27:16 -0500
 external-url: http://www.quibids.com/
 hash: ec46783aad94ede63b7383c0bfd2c4b0
 year: 2011

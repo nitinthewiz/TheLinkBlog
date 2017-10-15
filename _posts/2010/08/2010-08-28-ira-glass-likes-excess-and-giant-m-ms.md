@@ -1,6 +1,6 @@
 ---
 title: "Ira Glass Likes Excess and Giant M&Ms"
-date: 2010-08-28 07:29:51 +0000
+date: 2010-08-28 02:29:51 -0500
 external-url: http://nymag.com/daily/intelligencer/2010/08/ira_glass_likes_excess_and_gia.html
 hash: 9ebbbb7f74aecebee4007b2a3d11df9d
 year: 2010

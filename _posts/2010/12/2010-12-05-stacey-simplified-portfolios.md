@@ -1,6 +1,6 @@
 ---
 title: "Stacey, Simplified portfolios"
-date: 2010-12-05 12:21:18 +0000
+date: 2010-12-05 06:21:18 -0600
 external-url: http://www.staceyapp.com/
 hash: 0ad5a57ee5f5658fb2ad70021edd9615
 year: 2010

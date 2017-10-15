@@ -1,6 +1,6 @@
 ---
 title: "Smokers & Grills from The Good One"
-date: 2012-08-17 18:52:52 +0000
+date: 2012-08-17 13:52:52 -0500
 external-url: http://thegood-one.com/
 hash: e2f04f25ee7b5e8c8a3b4cd0933afd8b
 year: 2012

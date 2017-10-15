@@ -1,6 +1,6 @@
 ---
 title: "AgileLIVE - Collaboration that Scales - Part 1"
-date: 2014-01-15 17:44:57 +0000
+date: 2014-01-15 11:44:57 -0600
 external-url: http://www.slideshare.net/VersionOne/agile-live-collaboration-that-scales071713
 hash: 4eb5590bea3db502b368bc5e5212fcb0
 year: 2014

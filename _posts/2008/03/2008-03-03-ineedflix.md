@@ -1,6 +1,6 @@
 ---
 title: "INeedFlix"
-date: 2008-03-03 14:00:00 +0000
+date: 2008-03-03 08:00:00 -0600
 external-url: http://www.tuaw.com/2008/03/03/ineedflix/
 hash: 9ed31a141e92ca38d4d2f22154cdfcea
 year: 2008

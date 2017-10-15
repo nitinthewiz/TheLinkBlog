@@ -1,6 +1,6 @@
 ---
 title: "Wicked Lasers"
-date: 2007-01-01 18:00:29 +0000
+date: 2007-01-01 12:00:29 -0600
 external-url: http://www.wickedlasers.com/
 hash: fdbfd062d1c65dc01d35ad593eb6548e
 year: 2007

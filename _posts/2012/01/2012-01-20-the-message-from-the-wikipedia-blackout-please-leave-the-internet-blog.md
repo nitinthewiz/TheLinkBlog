@@ -1,6 +1,6 @@
 ---
 title: "The message from the Wikipedia Blackout: Please leave the Internet alone — Wikimedia blog"
-date: 2012-01-20 19:44:07 +0000
+date: 2012-01-20 13:44:07 -0600
 external-url: http://blog.wikimedia.org/2012/01/20/the-message-from-the-wikipedia-blackout-please-leave-the-internet-alone/
 hash: d1a785bd626e39e11e64ec546920a1fe
 year: 2012

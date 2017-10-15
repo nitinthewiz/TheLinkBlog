@@ -1,6 +1,6 @@
 ---
 title: "The Interpreter"
-date: 2014-03-27 18:28:27 +0000
+date: 2014-03-27 13:28:27 -0500
 external-url: http://www.interpretermag.com/
 hash: d9933960fabc0200484d53748bb63890
 year: 2014

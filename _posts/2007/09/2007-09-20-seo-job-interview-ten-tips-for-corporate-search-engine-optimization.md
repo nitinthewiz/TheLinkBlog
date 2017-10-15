@@ -1,6 +1,6 @@
 ---
 title: "SEO Job Interview: Ten Tips For Corporate Search Engine Optimization Jobs Search"
-date: 2007-09-20 15:17:43 +0000
+date: 2007-09-20 10:17:43 -0500
 external-url: http://www.selfseo.com/story-19117.php
 hash: 6171102af7fabbbee6886e796e3107a1
 year: 2007

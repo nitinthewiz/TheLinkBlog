@@ -1,6 +1,6 @@
 ---
 title: "The Most Important Food Article in Years"
-date: 2009-10-05 18:24:54 +0000
+date: 2009-10-05 13:24:54 -0500
 external-url: http://mspmag.com/Blogs/Chow-Again/November-2013/the-most-important-food-article-in-years/
 hash: 5eb06102ce57664e25950aac59600fa4
 year: 2009

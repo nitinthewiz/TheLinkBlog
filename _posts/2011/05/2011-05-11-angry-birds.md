@@ -1,6 +1,6 @@
 ---
 title: "Angry Birds"
-date: 2011-05-11 19:46:31 +0000
+date: 2011-05-11 14:46:31 -0500
 external-url: http://chrome.angrybirds.com/
 hash: d95855380d1e3cefbb7ed01206ba696e
 year: 2011

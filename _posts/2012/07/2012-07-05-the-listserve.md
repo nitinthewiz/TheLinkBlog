@@ -1,6 +1,6 @@
 ---
 title: "The Listserve"
-date: 2012-07-05 20:21:32 +0000
+date: 2012-07-05 15:21:32 -0500
 external-url: http://thelistserve.com/
 hash: 6e4f25d981236483def35277866aa736
 year: 2012

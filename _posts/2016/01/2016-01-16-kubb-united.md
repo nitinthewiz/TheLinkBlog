@@ -1,6 +1,6 @@
 ---
 title: "Kubb United"
-date: 2016-01-16 15:22:31 +0000
+date: 2016-01-16 09:22:31 -0600
 external-url: http://kubbunited.com/
 hash: f6d97a7d9f943cbee05643c621849502
 year: 2016

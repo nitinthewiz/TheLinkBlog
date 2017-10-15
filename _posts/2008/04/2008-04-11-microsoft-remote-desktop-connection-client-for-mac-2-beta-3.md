@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Remote Desktop Connection Client for Mac 2 (Beta 3)"
-date: 2008-04-11 06:47:00 +0000
+date: 2008-04-11 01:47:00 -0500
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=43414
 hash: d0f015426badd5f9be9dd8b18fc8c149
 year: 2008

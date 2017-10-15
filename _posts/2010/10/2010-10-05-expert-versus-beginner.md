@@ -1,6 +1,6 @@
 ---
 title: "Expert versus beginner"
-date: 2010-10-05 23:21:00 +0000
+date: 2010-10-05 18:21:00 -0500
 external-url: http://bobulate.com/post/1251478603/expert-versus-beginner
 hash: 9f5e7386520d37858b9280ae8d5cc2ef
 year: 2010

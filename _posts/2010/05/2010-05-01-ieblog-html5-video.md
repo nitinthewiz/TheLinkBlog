@@ -1,6 +1,6 @@
 ---
 title: "IEBlog - HTML5 Video"
-date: 2010-05-01 05:37:56 +0000
+date: 2010-05-01 00:37:56 -0500
 external-url: http://blogs.msdn.com/b/ie/archive/2010/04/29/html5-video.aspx
 hash: ef88cd41af6c100bb8d64483d96eb79c
 year: 2010

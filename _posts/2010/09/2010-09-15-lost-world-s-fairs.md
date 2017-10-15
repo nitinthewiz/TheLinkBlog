@@ -1,6 +1,6 @@
 ---
 title: "Lost World's Fairs"
-date: 2010-09-15 21:36:37 +0000
+date: 2010-09-15 16:36:37 -0500
 external-url: http://kottke.org/10/09/lost-worlds-fairs
 hash: 9dfeae97dc58024d0be6e27c06176bd2
 year: 2010

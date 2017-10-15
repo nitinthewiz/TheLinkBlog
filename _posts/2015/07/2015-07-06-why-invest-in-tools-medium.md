@@ -1,6 +1,6 @@
 ---
 title: "Why Invest in Tools? — Medium"
-date: 2015-07-06 14:26:33 +0000
+date: 2015-07-06 09:26:33 -0500
 external-url: https://medium.com/@leeb/why-invest-in-tools-3240ce289930
 hash: 76fc4a499e429345f1ce375fc6acfe96
 year: 2015

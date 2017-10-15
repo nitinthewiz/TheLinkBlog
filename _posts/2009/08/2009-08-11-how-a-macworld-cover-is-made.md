@@ -1,6 +1,6 @@
 ---
 title: "How a Macworld Cover Is Made"
-date: 2009-08-11 21:51:35 +0000
+date: 2009-08-11 16:51:35 -0500
 external-url: http://blog.peterbelanger.com/2009/08/07/cover-creation/
 hash: bc67cfd17b33e486f276f4a8fc41a3bf
 year: 2009

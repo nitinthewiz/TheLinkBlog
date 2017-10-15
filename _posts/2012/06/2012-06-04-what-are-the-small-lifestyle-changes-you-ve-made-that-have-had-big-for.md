@@ -1,6 +1,6 @@
 ---
 title: "What are the small lifestyle changes you've made that have had big impacts for you?"
-date: 2012-06-04 16:39:20 +0000
+date: 2012-06-04 11:39:20 -0500
 external-url: http://www.reddit.com/r/Fitness/comments/pbjk1/what_are_the_small_lifestyle_changes_youve_made/
 hash: 156d70e70e1ee7c047743d41ebd45115
 year: 2012

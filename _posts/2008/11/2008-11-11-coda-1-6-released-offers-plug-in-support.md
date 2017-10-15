@@ -1,6 +1,6 @@
 ---
 title: "Coda 1.6 released, offers plug-in support"
-date: 2008-11-11 22:00:00 +0000
+date: 2008-11-11 16:00:00 -0600
 external-url: http://www.tuaw.com/2008/11/11/coda-1-6-released-offers-plug-in-support/
 hash: 90b23962eb2d581e0accb62f53a2b995
 year: 2008

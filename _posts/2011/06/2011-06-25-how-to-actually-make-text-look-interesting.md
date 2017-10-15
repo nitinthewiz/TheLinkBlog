@@ -1,6 +1,6 @@
 ---
 title: "How to Actually Make Text Look Interesting"
-date: 2011-06-25 20:24:25 +0000
+date: 2011-06-25 15:24:25 -0500
 external-url: http://getspace.org/
 hash: b56fd2edc0e5d69ac70a98285e39d40d
 year: 2011

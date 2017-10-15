@@ -1,6 +1,6 @@
 ---
 title: "Mule Design Studios Blog: Evening Edition"
-date: 2012-07-17 09:41:20 +0000
+date: 2012-07-17 04:41:20 -0500
 external-url: http://muledesign.com/2012/07/evening-edition/
 hash: 5ed4dde5db3a1a505703ea78d8300396
 year: 2012

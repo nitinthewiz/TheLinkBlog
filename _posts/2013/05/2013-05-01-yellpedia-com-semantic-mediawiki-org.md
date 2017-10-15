@@ -1,6 +1,6 @@
 ---
 title: "Yellpedia.com - semantic-mediawiki.org"
-date: 2013-05-01 14:45:53 +0000
+date: 2013-05-01 09:45:53 -0500
 external-url: http://semantic-mediawiki.org/wiki/Yellpedia.com
 hash: ff3e9ac95114837dfa0da3f0c63bf946
 year: 2013

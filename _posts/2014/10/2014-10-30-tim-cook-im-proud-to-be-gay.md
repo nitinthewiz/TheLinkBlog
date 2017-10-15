@@ -1,6 +1,6 @@
 ---
 title: "Tim Cook: ‘I’m Proud to Be Gay’"
-date: 2014-10-30 14:12:56 +0000
+date: 2014-10-30 09:12:56 -0500
 external-url: http://www.businessweek.com/articles/2014-10-30/tim-cook-im-proud-to-be-gay
 hash: 7b4898d44772f44f80e99879bc3518b1
 year: 2014

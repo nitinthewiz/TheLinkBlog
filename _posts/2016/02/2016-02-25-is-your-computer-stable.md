@@ -1,6 +1,6 @@
 ---
 title: "Is Your Computer Stable?"
-date: 2016-02-25 14:31:44 +0000
+date: 2016-02-25 08:31:44 -0600
 external-url: http://blog.codinghorror.com/
 hash: e8e803b9e32d4f3ae4896124d397519f
 year: 2016

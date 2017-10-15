@@ -1,6 +1,6 @@
 ---
 title: "Spark View Engine"
-date: 2009-03-10 13:53:50 +0000
+date: 2009-03-10 08:53:50 -0500
 external-url: http://scottw.com
 hash: 2aedb2c8a9858303e739a865b8164132
 year: 2009

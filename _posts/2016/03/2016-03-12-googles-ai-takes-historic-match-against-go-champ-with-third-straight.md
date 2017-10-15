@@ -1,6 +1,6 @@
 ---
 title: "Google’s AI Takes Historic Match Against Go Champ With Third Straight Win | WIRED"
-date: 2016-03-12 11:38:09 +0000
+date: 2016-03-12 05:38:09 -0600
 external-url: http://www.wired.com/2016/03/third-straight-win-googles-ai-claims-victory-historic-match-go-champ/
 hash: aac3a7f1097df42bc11cca1ae6b1f446
 year: 2016

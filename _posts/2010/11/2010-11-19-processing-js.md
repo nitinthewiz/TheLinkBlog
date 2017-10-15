@@ -1,6 +1,6 @@
 ---
 title: "Processing.js"
-date: 2010-11-19 17:25:01 +0000
+date: 2010-11-19 11:25:01 -0600
 external-url: http://processingjs.org/
 hash: a1a97156b5c4f206c41113ba4400e979
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Troubling New Ban On Photographers Covering Gulf Oil Spill"
-date: 2010-07-06 16:46:02 +0000
+date: 2010-07-06 11:46:02 -0500
 external-url: http://www.aphotoeditor.com/2010/07/06/troubling-new-ban-on-photographers-covering-gulf-oil-spill/
 hash: 0fb84fc51ff1aa6ad7e7648e0173429c
 year: 2010

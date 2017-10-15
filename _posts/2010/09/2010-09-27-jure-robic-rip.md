@@ -1,6 +1,6 @@
 ---
 title: "Jure Robic, RIP"
-date: 2010-09-27 18:04:36 +0000
+date: 2010-09-27 13:04:36 -0500
 external-url: http://kottke.org/10/09/jure-robic-rip
 hash: e338a81c5add67fc3660df4685978f29
 year: 2010

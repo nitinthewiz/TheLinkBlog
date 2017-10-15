@@ -1,6 +1,6 @@
 ---
 title: "Bradbury's Coffee"
-date: 2012-03-29 15:38:59 +0000
+date: 2012-03-29 10:38:59 -0500
 external-url: http://www.bradburyscoffee.com/
 hash: 15492942358d3f14d1b172e4ea386bcb
 year: 2012

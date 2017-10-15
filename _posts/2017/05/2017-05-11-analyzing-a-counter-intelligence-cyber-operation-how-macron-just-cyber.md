@@ -1,6 +1,6 @@
 ---
 title: "Analyzing a counter intelligence cyber operation: How Macron just changed cyber security forever"
-date: 2017-05-11 18:46:29 +0000
+date: 2017-05-11 13:46:29 -0500
 external-url: https://hackernoon.com/analyzing-a-counter-intelligence-cyber-operation-how-macron-just-changed-cyber-security-forever-22553abb038b
 hash: 2a4e24529e2e6012fe035affab74b550
 year: 2017

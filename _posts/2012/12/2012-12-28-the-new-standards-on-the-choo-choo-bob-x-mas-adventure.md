@@ -1,6 +1,6 @@
 ---
 title: "The New Standards on the Choo Choo Bob X-Mas Adventure!"
-date: 2012-12-28 20:33:58 +0000
+date: 2012-12-28 14:33:58 -0600
 external-url: http://www.youtube.com/watch?v=GHDypAqcJVU
 hash: ca5aa95c01907b097b62f48540dcf257
 year: 2012

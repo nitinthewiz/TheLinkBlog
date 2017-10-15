@@ -1,6 +1,6 @@
 ---
 title: "My Must-Have iOS Apps, 2015 Edition"
-date: 2015-12-23 11:04:25 +0000
+date: 2015-12-23 05:04:25 -0600
 external-url: https://www.macstories.net/roundups/my-must-have-ios-apps-2015-edition/
 hash: 845d850de7fbf3ab927dd1679f967ae0
 year: 2015

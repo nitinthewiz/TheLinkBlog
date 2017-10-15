@@ -1,6 +1,6 @@
 ---
 title: "Mindful Browsing - Control habit forming, distracting or aggravating websites."
-date: 2012-04-16 21:10:44 +0000
+date: 2012-04-16 16:10:44 -0500
 external-url: http://www.mindfulbrowsing.com/
 hash: 8b42d38ab5c20eae90a8d458165a13f4
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Building Global Community"
-date: 2017-02-22 12:50:20 +0000
+date: 2017-02-22 06:50:20 -0600
 external-url: https://www.facebook.com/notes/mark-zuckerberg/building-global-community/10103508221158471/
 hash: d974c43bc3a770e6d8a3c203d4462f52
 year: 2017

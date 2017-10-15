@@ -1,6 +1,6 @@
 ---
 title: "Alesti RSS Reader"
-date: 2006-02-20 16:06:57 +0000
+date: 2006-02-20 10:06:57 -0600
 external-url: http://www.alesti.org/
 hash: 661d0b5c9b41bec10504334983f6829a
 year: 2006

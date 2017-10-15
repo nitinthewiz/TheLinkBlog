@@ -1,6 +1,6 @@
 ---
 title: "Flash Player : Settings Manager - Global Storage Settings Panel"
-date: 2011-01-10 15:56:56 +0000
+date: 2011-01-10 09:56:56 -0600
 external-url: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html
 hash: 8ef6b226aeee1d2f8e0b619f9b52d693
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "NASA Eclipse 2017 Live - Streaming Video of August 21 Total Solar Eclipse | NASA"
-date: 2017-08-18 16:38:36 +0000
+date: 2017-08-18 11:38:36 -0500
 external-url: https://www.nasa.gov/eclipselive
 hash: 6138d401040340ca4315b420e9295446
 year: 2017

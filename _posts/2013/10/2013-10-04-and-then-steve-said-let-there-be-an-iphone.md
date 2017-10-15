@@ -1,6 +1,6 @@
 ---
 title: "And Then Steve Said, Let There Be an iPhone"
-date: 2013-10-04 21:16:59 +0000
+date: 2013-10-04 16:16:59 -0500
 external-url: http://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html?smid=tw-share&_r=1&pagewanted=all&
 hash: 10805d4107bd1aecd14785e0ef03d5aa
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Get great deals on Collectibles items on eBay.com!"
-date: 2010-12-09 23:29:52 +0000
+date: 2010-12-09 17:29:52 -0600
 external-url: http://shop.ebay.com/electronicfrontierfoundation/m.html
 hash: 1c5801990f50bd0b67eef22e218ba374
 year: 2010

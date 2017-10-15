@@ -1,6 +1,6 @@
 ---
 title: "12 Most Influential Books Every Software Engineer Needs to Read | The Curious Programmer"
-date: 2015-12-23 16:03:24 +0000
+date: 2015-12-23 10:03:24 -0600
 external-url: http://jasonroell.com/2015/03/16/12-most-infuential-books-every-software-engineer-needs-to-read/
 hash: c49bc9433e68e8c6764fa52b86b3bf93
 year: 2015

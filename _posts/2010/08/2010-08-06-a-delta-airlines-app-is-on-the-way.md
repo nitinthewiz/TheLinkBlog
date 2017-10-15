@@ -1,6 +1,6 @@
 ---
 title: "A Delta Airlines app is on the way"
-date: 2010-08-06 23:00:00 +0000
+date: 2010-08-06 18:00:00 -0500
 external-url: http://www.tuaw.com/2010/08/06/a-delta-airlines-app-is-on-the-way/
 hash: 2772c983205a5bb0f18127e8889e2d61
 year: 2010

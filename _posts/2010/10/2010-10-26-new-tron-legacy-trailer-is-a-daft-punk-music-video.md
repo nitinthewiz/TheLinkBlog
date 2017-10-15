@@ -1,6 +1,6 @@
 ---
 title: "New Tron: Legacy Trailer Is a Daft Punk Music Video"
-date: 2010-10-26 23:42:02 +0000
+date: 2010-10-26 18:42:02 -0500
 external-url: http://mashable.com/2010/10/26/tron-legacy-daft-pun/
 hash: 405b17dbcfc7c52867bc3d861831f03b
 year: 2010

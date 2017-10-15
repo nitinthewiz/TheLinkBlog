@@ -1,6 +1,6 @@
 ---
 title: "Twitpic takes pictures, literally"
-date: 2011-05-24 23:36:02 +0000
+date: 2011-05-24 18:36:02 -0500
 external-url: http://www.marketplace.org/topics/tech/twitpic-takes-pictures-literally
 hash: 099269061cfbc833d3d2de0bf9c25002
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Interview with Jamie Thingelstad - CTO - Wall Street Journal Digital Network"
-date: 2008-04-02 22:38:19 +0000
+date: 2008-04-02 17:38:19 -0500
 external-url: http://www.howsoftwareisbuilt.com/2008/04/02/interview-with-jamie-thingelstad-cto-wall-street-journal-digital-network/
 hash: acb676caf6cdcdae933892818b9a6001
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "The Leica M9, as a pro-hobbyist photographer Marco.org"
-date: 2012-12-29 12:39:32 +0000
+date: 2012-12-29 06:39:32 -0600
 external-url: http://www.marco.org/2012/12/28/leica-m9
 hash: a90c6a5873a6de5fef127a9d4379eac2
 year: 2012

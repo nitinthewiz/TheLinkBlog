@@ -1,6 +1,6 @@
 ---
 title: "Gary the Great: Vaynerchuk sets the example of how to succeed in business today"
-date: 2008-04-09 17:05:00 +0000
+date: 2008-04-09 12:05:00 -0500
 external-url: https://signalvnoise.com/posts/956-gary-the-great-vaynerchuk-sets-the-example-of-how-to-succeed-in-business-today
 hash: 465c642b61ec145f5192a5f7974d4fad
 year: 2008

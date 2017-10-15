@@ -1,6 +1,6 @@
 ---
 title: "Ride To Rewards"
-date: 2010-09-11 06:20:32 +0000
+date: 2010-09-11 01:20:32 -0500
 external-url: http://www.metrotransit.org/ride-to-rewards
 hash: dcb59c785305ac94d39a27a58462a579
 year: 2010

@@ -1,6 +1,6 @@
 ---
 title: "Help Create an Email Charter"
-date: 2011-06-11 19:15:28 +0000
+date: 2011-06-11 14:15:28 -0500
 external-url: http://tedchris.posterous.com/bye.html
 hash: ab29bbb0856ee0bfd94a74246161ef32
 year: 2011

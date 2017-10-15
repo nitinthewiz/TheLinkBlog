@@ -1,6 +1,6 @@
 ---
 title: "DigitalOcean"
-date: 2013-06-27 21:44:10 +0000
+date: 2013-06-27 16:44:10 -0500
 external-url: https://www.digitalocean.com/
 hash: 9eb1eb2b5e161daeea7e90d696fd86ce
 year: 2013

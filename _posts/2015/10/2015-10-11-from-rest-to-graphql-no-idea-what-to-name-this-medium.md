@@ -1,6 +1,6 @@
 ---
 title: "From REST to GraphQL — No Idea What to Name This — Medium"
-date: 2015-10-11 23:05:34 +0000
+date: 2015-10-11 18:05:34 -0500
 external-url: https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b
 hash: 69b00e4dda3dc06e585c2b7bc6bf1fc2
 year: 2015

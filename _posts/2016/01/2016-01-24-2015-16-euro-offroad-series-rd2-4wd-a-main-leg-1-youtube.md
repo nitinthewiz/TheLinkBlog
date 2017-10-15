@@ -1,6 +1,6 @@
 ---
 title: "2015/16 Euro Offroad Series Rd2 - 4wd A-Main Leg 1 - YouTube"
-date: 2016-01-24 18:10:05 +0000
+date: 2016-01-24 12:10:05 -0600
 external-url: https://www.youtube.com/watch?v=dPL48H4vlLY
 hash: 9d344d27acd423944b3b449a2b68d729
 year: 2016

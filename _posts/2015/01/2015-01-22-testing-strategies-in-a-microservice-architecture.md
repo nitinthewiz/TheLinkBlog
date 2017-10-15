@@ -1,6 +1,6 @@
 ---
 title: "Testing Strategies in a Microservice Architecture"
-date: 2015-01-22 15:45:42 +0000
+date: 2015-01-22 09:45:42 -0600
 external-url: http://martinfowler.com/articles/microservice-testing/
 hash: 2cbf7d965383dde186fe2215e4098fda
 year: 2015

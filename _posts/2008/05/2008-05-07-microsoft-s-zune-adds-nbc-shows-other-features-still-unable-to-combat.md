@@ -1,6 +1,6 @@
 ---
 title: "Microsoft's Zune Adds NBC Shows, Other Features; Still Unable To Combat"
-date: 2008-05-07 13:59:08 +0000
+date: 2008-05-07 08:59:08 -0500
 external-url: http://www.businessinsider.com/2008/5/microsoft-s-zune-gets-video-store-more-social-features
 hash: 088ca1ef06b03dc66d0a247ecd3121a5
 year: 2008

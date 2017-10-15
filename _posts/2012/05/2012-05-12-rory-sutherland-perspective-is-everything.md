@@ -1,6 +1,6 @@
 ---
 title: "Rory Sutherland: Perspective is everything"
-date: 2012-05-12 20:43:44 +0000
+date: 2012-05-12 15:43:44 -0500
 external-url: http://www.ted.com/talks/rory_sutherland_perspective_is_everything
 hash: af1016d7227a73192229d276dbf5016b
 year: 2012

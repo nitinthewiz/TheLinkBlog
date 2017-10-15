@@ -1,6 +1,6 @@
 ---
 title: "MARTHAANDTOM » When was the last time you heard someone talk about the great bargain they found at a farmer’s market?"
-date: 2009-09-03 23:21:57 +0000
+date: 2009-09-03 18:21:57 -0500
 external-url: http://marthaandtom.com/2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/#
 hash: fd783e2a92a094841b4dc25880bf10b2
 year: 2009

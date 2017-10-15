@@ -1,6 +1,6 @@
 ---
 title: "bookdown: Easy Book Publishing with R Markdown"
-date: 2017-02-22 12:34:16 +0000
+date: 2017-02-22 06:34:16 -0600
 external-url: https://bookdown.org/
 hash: 6e7388800305ea961c5c5e928cdd585c
 year: 2017

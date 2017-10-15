@@ -1,6 +1,6 @@
 ---
 title: "The View From Here: Exploring Minnesota's Craft-Beer Scene"
-date: 2013-06-24 22:25:02 +0000
+date: 2013-06-24 17:25:02 -0500
 external-url: https://events.umn.edu/027700
 hash: 8031b30068bfe1296ee0e8d5dcd6cdd7
 year: 2013

@@ -1,6 +1,6 @@
 ---
 title: "Cloudcraft"
-date: 2015-12-12 18:04:10 +0000
+date: 2015-12-12 12:04:10 -0600
 external-url: https://cloudcraft.co/
 hash: b89f1bff410cdba1a2d2102de18adb1e
 year: 2015

@@ -1,6 +1,6 @@
 ---
 title: "The founder of Pinboard on why understanding fandom is good for business - The Verge"
-date: 2017-06-16 10:24:14 +0000
+date: 2017-06-16 05:24:14 -0500
 external-url: https://www.theverge.com/2017/6/12/15746916/pinboard-founder-maciej-ceglowski-interview-yahoo-delicious-fandom
 hash: 37fd68932705a9fba7594e1c2a452bb8
 year: 2017

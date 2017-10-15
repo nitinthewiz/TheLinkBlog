@@ -1,6 +1,6 @@
 ---
 title: "TECHdotMN SPS Commerce CEO Archie Black Envisions A Billion Dollar SaaS Company - TECHdotMN"
-date: 2015-03-24 21:34:01 +0000
+date: 2015-03-24 16:34:01 -0500
 external-url: http://tech.mn/news/2015/03/24/sps-commerce-ceo-archie-black-wants-a-billion-dollar-saas-company/
 hash: 74d7298cd29dc49c90173211aea815a0
 year: 2015

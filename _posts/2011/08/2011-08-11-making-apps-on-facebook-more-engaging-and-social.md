@@ -1,6 +1,6 @@
 ---
 title: "Making Apps on Facebook more engaging and social"
-date: 2011-08-11 18:00:00 +0000
+date: 2011-08-11 13:00:00 -0500
 external-url: https://developers.facebook.com/blog/post/538/
 hash: 2c31197542406c1f1702b108f029ea65
 year: 2011

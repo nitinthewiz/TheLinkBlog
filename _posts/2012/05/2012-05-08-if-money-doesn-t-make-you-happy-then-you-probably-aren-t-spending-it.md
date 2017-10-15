@@ -1,6 +1,6 @@
 ---
 title: "If money doesn't make you happy, then you probably aren't spending it right"
-date: 2012-05-08 21:08:49 +0000
+date: 2012-05-08 16:08:49 -0500
 external-url: http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&%20WILSON%20%282011%29.pdf
 hash: 0d5c01d39e3418891110a7e82f4c471e
 year: 2012

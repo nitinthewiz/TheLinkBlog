@@ -1,6 +1,6 @@
 ---
 title: "Extension:Pchart4mw - MediaWiki"
-date: 2011-07-08 18:35:44 +0000
+date: 2011-07-08 13:35:44 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Pchart4mw
 hash: 574513f4ee217d555a8f50f4bbcc7faa
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "Delicious Library 2.0 is now shipping"
-date: 2008-05-27 05:45:00 +0000
+date: 2008-05-27 00:45:00 -0500
 external-url: http://www.tuaw.com/2008/05/26/delicious-library-2-0-is-now-shipping/
 hash: 6b21bfa104cca228770fb04c9c33791f
 year: 2008

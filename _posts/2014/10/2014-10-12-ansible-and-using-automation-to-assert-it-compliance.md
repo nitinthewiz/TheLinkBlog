@@ -1,6 +1,6 @@
 ---
 title: "Ansible and using Automation to Assert IT Compliance"
-date: 2014-10-12 21:40:06 +0000
+date: 2014-10-12 16:40:06 -0500
 external-url: http://www.ansible.com/blog/ansible-and-using-automation-to-assert-it-compliance
 hash: 7236c4fd661c3bb5503ec38bb23c59a3
 year: 2014

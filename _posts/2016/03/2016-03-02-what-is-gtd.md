@@ -1,6 +1,6 @@
 ---
 title: "What is GTD?"
-date: 2016-03-02 10:08:34 +0000
+date: 2016-03-02 04:08:34 -0600
 external-url: https://www.youtube.com/watch?v=7wfTXw9bfu4
 hash: d72194cca046b6c10e250e5691a122cf
 year: 2016

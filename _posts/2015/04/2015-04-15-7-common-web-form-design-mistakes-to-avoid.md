@@ -1,6 +1,6 @@
 ---
 title: "7 Common Web Form Design Mistakes to Avoid"
-date: 2015-04-15 21:38:25 +0000
+date: 2015-04-15 16:38:25 -0500
 external-url: http://www.formassembly.com/blog/web-form-design/
 hash: 321b3f76895d2353bde585356fc81b18
 year: 2015

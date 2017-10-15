@@ -1,6 +1,6 @@
 ---
 title: "Paul Steiger's ProPublica Opens For (Non-Profit) Business"
-date: 2008-06-10 22:49:06 +0000
+date: 2008-06-10 17:49:06 -0500
 external-url: http://gigaom.com/2008/06/11/419-paul-steigers-propublica-opens-for-non-profit-business/
 hash: a29c83a7fbb73392a0eda23dc32d891b
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "15 rules for communicating at GitHub » Ben Balter"
-date: 2014-11-12 12:47:55 +0000
+date: 2014-11-12 06:47:55 -0600
 external-url: http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 hash: 581efbf294396fe854f4c4a12fc8aeab
 year: 2014

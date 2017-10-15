@@ -1,6 +1,6 @@
 ---
 title: "Vecsys-Research, speech processing, speech recognition home page"
-date: 2008-01-11 16:37:59 +0000
+date: 2008-01-11 10:37:59 -0600
 external-url: http://www.vecsysresearch.com/
 hash: 1361e9723cff1338ad89ec35ea8d9f95
 year: 2008

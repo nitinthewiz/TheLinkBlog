@@ -1,6 +1,6 @@
 ---
 title: "OpenID Marches On"
-date: 2008-04-24 22:00:00 +0000
+date: 2008-04-24 17:00:00 -0500
 external-url: https://gigaom.com/2008/04/24/openid-marches-on/
 hash: 967cfa8d3e830a39db495d84df14f5c6
 year: 2008

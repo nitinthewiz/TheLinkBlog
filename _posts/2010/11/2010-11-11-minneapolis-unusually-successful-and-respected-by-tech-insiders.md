@@ -1,6 +1,6 @@
 ---
 title: "Minneapolis ‘Unusually Successful’ and ‘Respected by Tech Insiders’"
-date: 2010-11-11 15:24:21 +0000
+date: 2010-11-11 09:24:21 -0600
 external-url: http://minnov8.com/2010/11/11/minneapolis-unusually-successful-and-respected-by-tech-insiders/
 hash: e0051a898276469ac4f60d3029055782
 year: 2010

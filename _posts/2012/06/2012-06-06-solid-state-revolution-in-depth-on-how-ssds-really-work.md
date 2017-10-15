@@ -1,6 +1,6 @@
 ---
 title: "Solid-state revolution: in-depth on how SSDs really work"
-date: 2012-06-06 13:24:51 +0000
+date: 2012-06-06 08:24:51 -0500
 external-url: http://arstechnica.com/information-technology/2012/06/inside-the-ssd-revolution-how-solid-state-disks-really-work/
 hash: 0f9e256e3a956292798769cbe06b5a59
 year: 2012

@@ -1,6 +1,6 @@
 ---
 title: "Steve Jobs Made Me Miss My Flight"
-date: 2008-03-06 19:25:16 +0000
+date: 2008-03-06 13:25:16 -0600
 external-url: http://www.michaelnygard.com/blog/2008/03/steve_jobs_made_me_miss_my_fli.html
 hash: 366e28681269e00512d092ba96d96b5f
 year: 2008

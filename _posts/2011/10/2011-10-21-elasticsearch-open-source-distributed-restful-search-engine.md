@@ -1,6 +1,6 @@
 ---
 title: "elasticsearch - - Open Source, Distributed, RESTful, Search Engine"
-date: 2011-10-21 16:21:45 +0000
+date: 2011-10-21 11:21:45 -0500
 external-url: http://www.elasticsearch.org/
 hash: 5384764a16fab767ebcbc17d87758a24
 year: 2011

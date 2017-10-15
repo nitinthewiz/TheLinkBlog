@@ -1,6 +1,6 @@
 ---
 title: "The Future of Social Shopping"
-date: 2011-01-07 15:59:27 +0000
+date: 2011-01-07 09:59:27 -0600
 external-url: http://www.emarketer.com/Article.aspx?R=1008151
 hash: f05936a5e129366a137330d41bc60295
 year: 2011

@@ -1,6 +1,6 @@
 ---
 title: "GreenDisk"
-date: 2007-09-25 19:51:38 +0000
+date: 2007-09-25 14:51:38 -0500
 external-url: http://www.greendisk.com/
 hash: e7fd588a68c74e893e710040c12b3bd4
 year: 2007

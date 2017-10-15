@@ -1,6 +1,6 @@
 ---
 title: "DocumentSnap"
-date: 2011-06-19 11:53:47 +0000
+date: 2011-06-19 06:53:47 -0500
 external-url: http://www.documentsnap.com/
 hash: d87bcd487661990d80d9fa7dc1ea16dc
 year: 2011

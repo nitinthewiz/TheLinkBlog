@@ -1,6 +1,6 @@
 ---
 title: "Graph your Twitter Network in Neo4j"
-date: 2015-12-24 22:35:36 +0000
+date: 2015-12-24 16:35:36 -0600
 external-url: http://network.graphdemos.com/
 hash: dd602f18f34f2bbbe093e3e682b0e51d
 year: 2015

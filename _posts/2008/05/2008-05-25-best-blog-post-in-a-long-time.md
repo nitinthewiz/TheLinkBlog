@@ -1,6 +1,6 @@
 ---
 title: "Best Blog Post In A Long Time"
-date: 2008-05-25 16:18:52 +0000
+date: 2008-05-25 11:18:52 -0500
 external-url: http://avc.blogs.com/a_vc/2008/05/best-blog-post.html
 hash: 05566b9900d9a9d6d855342413fa6101
 year: 2008

@@ -1,6 +1,6 @@
 ---
 title: "The Dygraphs Blog"
-date: 2012-12-30 14:01:32 +0000
+date: 2012-12-30 08:01:32 -0600
 external-url: http://blog.dygraphs.com/
 hash: 14c63d7b9bbf9c8ac5e9108170689296
 year: 2012

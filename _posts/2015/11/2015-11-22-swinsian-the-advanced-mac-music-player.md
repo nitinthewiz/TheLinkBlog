@@ -1,6 +1,6 @@
 ---
 title: "Swinsian — The Advanced Mac Music Player"
-date: 2015-11-22 18:36:51 +0000
+date: 2015-11-22 12:36:51 -0600
 external-url: http://swinsian.com/
 hash: 3ffc33f6c720bac0a886bf4838f4a4b9
 year: 2015

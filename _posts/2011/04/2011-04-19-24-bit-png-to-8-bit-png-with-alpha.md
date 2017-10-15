@@ -1,6 +1,6 @@
 ---
 title: "24-bit PNG to 8-bit PNG with alpha"
-date: 2011-04-19 10:43:55 +0000
+date: 2011-04-19 05:43:55 -0500
 external-url: http://www.8bitalpha.com/
 hash: ae7536200ad31c673e442a654fe91aca
 year: 2011

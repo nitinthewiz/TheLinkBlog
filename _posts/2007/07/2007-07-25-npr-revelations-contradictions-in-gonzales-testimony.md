@@ -1,6 +1,6 @@
 ---
 title: "NPR : Revelations, Contradictions in Gonzales Testimony"
-date: 2007-07-25 15:57:57 +0000
+date: 2007-07-25 10:57:57 -0500
 external-url: http://www.npr.org/templates/story/story.php?storyId=12205388
 hash: b933c936b11cfd152827ea769b07f1ff
 year: 2007

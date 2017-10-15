@@ -1,6 +1,6 @@
 ---
 title: "PDF Now an ISO Standard"
-date: 2008-01-08 18:10:08 +0000
+date: 2008-01-08 12:10:08 -0600
 external-url: http://www.photoshopnews.com/2008/01/08/pdf-now-an-iso-standard/
 hash: 020b2ec7e9dd54e2a9e8073fe701352a
 year: 2008

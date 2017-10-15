@@ -1,6 +1,6 @@
 ---
 title: "SightSpeed"
-date: 2007-04-06 18:04:37 +0000
+date: 2007-04-06 13:04:37 -0500
 external-url: http://www.sightspeed.com/
 hash: 316ecf8b50ecbc73824f41004f8f6975
 year: 2007

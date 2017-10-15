@@ -1,6 +1,6 @@
 ---
 title: "Indie Fever"
-date: 2008-01-10 18:36:37 +0000
+date: 2008-01-10 12:36:37 -0600
 external-url: http://www.red-sweater.com/blog/447/indie-fever
 hash: 43d26ce01e62d2a06bfdd3ad737e6ac6
 year: 2008

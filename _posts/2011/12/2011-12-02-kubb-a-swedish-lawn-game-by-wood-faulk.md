@@ -1,6 +1,6 @@
 ---
 title: "Kubb, a Swedish lawn game by Wood & Faulk"
-date: 2011-12-02 10:27:47 +0000
+date: 2011-12-02 04:27:47 -0600
 external-url: http://woodandfaulk.com/make/kubb-a-swedish-lawn-game
 hash: 6598f7c496797750f24b926dcaff216c
 year: 2011

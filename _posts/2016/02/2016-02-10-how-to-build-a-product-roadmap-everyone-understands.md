@@ -1,6 +1,6 @@
 ---
 title: "How To Build A Product Roadmap Everyone Understands"
-date: 2016-02-10 15:24:26 +0000
+date: 2016-02-10 09:24:26 -0600
 external-url: https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.pnfp4irpp
 hash: 4dd1e401ac8ca3bc911c420e18d76724
 year: 2016

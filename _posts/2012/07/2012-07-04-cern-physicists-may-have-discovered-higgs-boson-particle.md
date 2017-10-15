@@ -1,6 +1,6 @@
 ---
 title: "CERN Physicists May Have Discovered Higgs Boson Particle"
-date: 2012-07-04 14:43:35 +0000
+date: 2012-07-04 09:43:35 -0500
 external-url: http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html
 hash: 189b4385b0e72a074c62491f7fe87188
 year: 2012

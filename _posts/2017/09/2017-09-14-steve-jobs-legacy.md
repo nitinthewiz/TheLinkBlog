@@ -1,6 +1,6 @@
 ---
 title: "Steve Jobs’ legacy"
-date: 2017-09-14 08:39:17 +0000
+date: 2017-09-14 03:39:17 -0500
 external-url: https://om.co/2017/09/13/18420/
 hash: 714604c0cca5b9e55a2761ca21804acc
 year: 2017

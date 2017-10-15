@@ -1,6 +1,6 @@
 ---
 title: "The Great Bank Robbery - Nassim Nicholas Taleb and Mark Spitznagel - Project Syndicate"
-date: 2011-09-04 23:23:21 +0000
+date: 2011-09-04 18:23:21 -0500
 external-url: http://www.project-syndicate.org/commentary/the-great-bank-robbery
 hash: 0bbb6d17f20cd1e7e81d6b3664cd09b4
 year: 2011

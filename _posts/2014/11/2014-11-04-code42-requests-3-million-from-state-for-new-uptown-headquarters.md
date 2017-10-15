@@ -1,6 +1,6 @@
 ---
 title: "Code42 requests $3 million from state for new Uptown headquarters"
-date: 2014-11-04 23:20:21 +0000
+date: 2014-11-04 17:20:21 -0600
 external-url: http://m.bizjournals.com/twincities/news/2014/11/03/code42-requests-3-million-from-state-for-new.html?r=full
 hash: e22235b27a863ebef7f234ba5405f356
 year: 2014

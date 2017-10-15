@@ -1,6 +1,6 @@
 ---
 title: "Mark Zuckerberg and Kevin Systrom on What Really Happened When Facebook Bought Instagram - Vanity Fair"
-date: 2013-05-08 20:03:32 +0000
+date: 2013-05-08 15:03:32 -0500
 external-url: http://www.vanityfair.com/business/2013/06/kara-swisher-instagram
 hash: 4dd47ade39b7153e9938cb3a8756e998
 year: 2013

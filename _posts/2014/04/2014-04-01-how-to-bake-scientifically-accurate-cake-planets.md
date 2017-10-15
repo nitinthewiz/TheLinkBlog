@@ -1,6 +1,6 @@
 ---
 title: "How to Bake Scientifically Accurate Cake Planets"
-date: 2014-04-01 18:16:05 +0000
+date: 2014-04-01 13:16:05 -0500
 external-url: http://www.waitwow.com/make-scientifically-accurate-cake-planets/
 hash: ee943ccaebcac8251316416f841dc367
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: "Twitter Your Signature"
-date: 2008-03-20 05:46:00 +0000
+date: 2008-03-20 00:46:00 -0500
 external-url: http://blog.twitter.com/2008/03/twitter-your-signature.html
 hash: 43b23809f123748b693af2e271c47318
 year: 2008

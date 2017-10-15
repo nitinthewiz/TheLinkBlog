@@ -1,6 +1,6 @@
 ---
 title: "Automating iOS: How Pythonista Changed My Workflow – MacStories"
-date: 2017-06-22 12:14:16 +0000
+date: 2017-06-22 07:14:16 -0500
 external-url: https://www.macstories.net/stories/automating-ios-how-pythonista-changed-my-workflow/
 hash: 0497c18bb8fd1064895859401e42fd0b
 year: 2017

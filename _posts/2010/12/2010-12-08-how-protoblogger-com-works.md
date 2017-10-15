@@ -1,6 +1,6 @@
 ---
 title: "How Protoblogger.com works"
-date: 2010-12-08 16:21:20 +0000
+date: 2010-12-08 10:21:20 -0600
 external-url: http://scripting.com/stories/2010/12/08/howProtobloggercomWorks.html
 hash: f47035470fcfcba911832deb31e667d2
 year: 2010

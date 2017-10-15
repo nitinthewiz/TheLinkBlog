@@ -1,6 +1,6 @@
 ---
 title: "re:Work - The five keys to a successful Google team"
-date: 2016-10-28 18:17:25 +0000
+date: 2016-10-28 13:17:25 -0500
 external-url: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 hash: e1f82f03b88ac7a83195e6e9ff383a6f
 year: 2016

@@ -1,6 +1,6 @@
 ---
 title: "Facebook No Longer The Second Largest Social Network"
-date: 2008-06-13 05:34:26 +0000
+date: 2008-06-13 00:34:26 -0500
 external-url: http://techcrunch.com/2008/06/12/facebook-no-longer-the-second-largest-social-network/
 hash: 15f989003b1e464c8714335f6de6c548
 year: 2008

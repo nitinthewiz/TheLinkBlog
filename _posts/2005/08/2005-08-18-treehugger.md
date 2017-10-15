@@ -1,6 +1,6 @@
 ---
 title: "Treehugger"
-date: 2005-08-18 13:03:40 +0000
+date: 2005-08-18 08:03:40 -0500
 external-url: http://www.treehugger.com/
 hash: 8524220e356fd62b52716d588c3ae07a
 year: 2005

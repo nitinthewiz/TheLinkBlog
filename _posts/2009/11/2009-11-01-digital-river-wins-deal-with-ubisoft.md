@@ -1,6 +1,6 @@
 ---
 title: "Digital River wins deal with Ubisoft"
-date: 2009-11-01 12:28:03 +0000
+date: 2009-11-01 06:28:03 -0600
 external-url: http://www.bizjournals.com/twincities/stories/2009/10/26/daily62.html
 hash: 721e5e661d4ba193a9a0ea71dd147775
 year: 2009

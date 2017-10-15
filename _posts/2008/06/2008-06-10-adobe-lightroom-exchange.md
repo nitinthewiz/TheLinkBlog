@@ -1,6 +1,6 @@
 ---
 title: "Adobe Lightroom Exchange"
-date: 2008-06-10 09:55:20 +0000
+date: 2008-06-10 04:55:20 -0500
 external-url: http://lightroom-news.com/2008/06/10/adobe-lightroom-exchange/
 hash: 4574722f5238a2baf6aa0eb66e38cb55
 year: 2008

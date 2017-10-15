@@ -1,6 +1,6 @@
 ---
 title: "Help Decide Which Size iPhone 6 to Buy with This Printable Guide - OSXDaily"
-date: 2014-09-12 08:19:34 +0000
+date: 2014-09-12 03:19:34 -0500
 external-url: http://osxdaily.com/2014/09/10/help-decide-iphone-6-to-buy-printable-guide/
 hash: e80650631d004a9113b54d3399afa298
 year: 2014

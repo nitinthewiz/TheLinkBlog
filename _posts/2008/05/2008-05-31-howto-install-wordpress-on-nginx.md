@@ -1,6 +1,6 @@
 ---
 title: "HOWTO: Install WordPress on Nginx"
-date: 2008-05-31 22:20:24 +0000
+date: 2008-05-31 17:20:24 -0500
 external-url: http://elasticdog.com/2008/02/howto-install-wordpress-on-nginx/
 hash: d1be27ad1e7ee443517ec2486a3d13f8
 year: 2008

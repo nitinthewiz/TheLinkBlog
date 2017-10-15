@@ -1,6 +1,6 @@
 ---
 title: "AwesomeChartJS"
-date: 2011-02-06 11:49:06 +0000
+date: 2011-02-06 05:49:06 -0600
 external-url: http://cyberpython.github.com/AwesomeChartJS/
 hash: c87237d294a258287fe6a6a640687fa5
 year: 2011

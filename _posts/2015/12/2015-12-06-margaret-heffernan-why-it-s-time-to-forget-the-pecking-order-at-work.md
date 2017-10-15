@@ -1,6 +1,6 @@
 ---
 title: "Margaret Heffernan: Why it's time to forget the pecking order at work | TED Talk | TED.com"
-date: 2015-12-06 17:16:40 +0000
+date: 2015-12-06 11:16:40 -0600
 external-url: https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=en
 hash: fe503e9cc846faa54e665a276a22f120
 year: 2015

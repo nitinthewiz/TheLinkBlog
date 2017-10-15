@@ -1,6 +1,6 @@
 ---
 title: "The IPv6 Numeric IP Format is a Serious Usability Problem"
-date: 2016-02-20 18:59:25 +0000
+date: 2016-02-20 12:59:25 -0600
 external-url: https://www.zerotier.com/blog/?p=724
 hash: 009c43054a2190240fec7692890f07b6
 year: 2016

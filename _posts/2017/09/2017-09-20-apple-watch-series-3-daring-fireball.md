@@ -1,6 +1,6 @@
 ---
 title: "★ Apple Watch Series 3 —Daring Fireball"
-date: 2017-09-20 17:05:44 +0000
+date: 2017-09-20 12:05:44 -0500
 external-url: https://daringfireball.net/2017/09/apple_watch_series_3
 hash: 7974a268c379d9d22d6788802d45d198
 year: 2017

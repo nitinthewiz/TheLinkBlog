@@ -1,6 +1,6 @@
 ---
 title: "Wordpress + Flickr + Creative Commons = Awesome New Plugin for Bloggers"
-date: 2008-02-22 19:15:46 +0000
+date: 2008-02-22 13:15:46 -0600
 external-url: http://readwrite.com/2008/02/22/wordpress_flickr_creative_commons
 hash: f8eb94ec38eef389184e420184165da3
 year: 2008

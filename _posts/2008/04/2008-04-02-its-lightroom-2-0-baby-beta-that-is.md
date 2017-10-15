@@ -1,6 +1,6 @@
 ---
 title: "Its Lightroom 2.0 Baby (Beta that is)"
-date: 2008-04-02 05:24:40 +0000
+date: 2008-04-02 00:24:40 -0500
 external-url: http://lightroomkillertips.com/its-lightroom-20-baby-beta-that-is/
 hash: ad9fd187a3ff53363e7319e8ace637f6
 year: 2008

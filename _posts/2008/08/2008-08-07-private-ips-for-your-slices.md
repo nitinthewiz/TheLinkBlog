@@ -1,6 +1,6 @@
 ---
 title: "Private IPs for your slices"
-date: 2008-08-07 15:37:00 +0000
+date: 2008-08-07 10:37:00 -0500
 external-url: http://www.slicehost.com/articles/2008/8/7/private-ips-for-your-slices
 hash: e04a82f99c786591d973ad45394c67ae
 year: 2008

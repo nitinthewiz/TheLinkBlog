@@ -1,6 +1,6 @@
 ---
 title: "Caddy - The HTTP/2 Web Server with Automatic HTTPS"
-date: 2017-07-13 16:31:52 +0000
+date: 2017-07-13 11:31:52 -0500
 external-url: https://caddyserver.com/
 hash: 2dcf74eca910104022d554471db0f554
 year: 2017
