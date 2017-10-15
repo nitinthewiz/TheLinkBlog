@@ -21,29 +21,8 @@ layout: default
 
 	<p class="meta">Posted on <span class="postdate"><a href="https://pinboard.in/u:thingles/before:{{ page.date | date: "%s" }}" rel="nofollow">{{ page.date | date: "%b %-d, %Y %l:%M:%S %p" }}</a></span></p>
 
-{% assign same_host = site.posts | where: "host", page.host %}
-{% if same_host.size > 1 %}
-<h3>Other links from {{ page.host }}</h3>
-<ul>
-{% for p in same_host %}
-	{% if p.url != page.url %}
-	<li><a href="{{p.url}}">{{ p.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
+	{% include post-host.html %}
 
-	<div class="postnavigation">
-
-		{% if page.previous %}
-			<a class="prev left" href="{{ page.previous.url }}">&larr; {{ page.previous.title | truncatewords: 5 }}</a>
-		{% endif %}
-
-		{% if page.next %}
-			<a class="next right" href="{{ page.next.url }}">{{ page.next.title | truncatewords: 5 }} &rarr;</a>
-		{% endif %}
-
-	</div>
-
+	{% include post-nav.html %}
 
 </article>

@@ -1,5 +1,5 @@
 ---
-title: "I have seen so many young entrepreneurs and"
+title: "I have seen so many young entrepreneurs and…"
 date: 2009-11-04 10:03:55 -0600
 external-url: https://signalvnoise.com/posts/1999-i-have-seen-so-many-young-entrepreneurs-and
 hash: eee30fcf88a1422155066d6e18069b5d

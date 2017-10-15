@@ -1,5 +1,5 @@
 ---
-title: "DATA ROBOTICS LAUNCHES SECOND GENERATION DROBO"
+title: "Data Robotics Launches Second Generation Drobo"
 date: 2008-07-08 11:45:26 -0500
 external-url: http://photoshopnews.com/2008/07/08/data-robotics-launches-second-generation-drobo/
 hash: 19ee3affc22391e1b5f9de802e79b09a

@@ -1,5 +1,5 @@
 ---
-title: "T-Shirts"
+title: "#84 T-Shirts | Stuff White People Like"
 date: 2008-03-07 09:41:06 -0600
 external-url: http://stuffwhitepeoplelike.com/2008/03/07/84-t-shirts/
 hash: df024c4e5f991a9aa56aa777e20e39aa
