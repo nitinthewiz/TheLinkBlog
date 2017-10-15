@@ -1,15 +1,16 @@
 ---
 layout: null
 ---
-Title, External URL, Host, Date, Time, DoW, Timestamp, Link URL
+Title, External URL, Host, Date, Time, DoW, Timestamp, Unix Timestamp, Link URL
 {% for post in site.posts %}
 {% capture line %}
 "{{ post.title | replace: '"', '""' }}",
 "{{ post.external-url }}",
 "{{ post.host }}",
-{{ post.date | date: "%-m/%-d/%Y"}},
-{{ post.date | date: "%l:%M:%S %p"}},
-{{ post.date | date: "%A"}},
+{{ post.date | date: "%-m/%-d/%Y" }},
+{{ post.date | date: "%l:%M:%S %p" }},
+{{ post.date | date: "%A" }},
 {{ post.date }},
+{{ post.date | date: "%s" }},
 {{ site.url }}{{ post.url }}
 {% endcapture %}{{ line | strip_newlines }}{% endfor %}

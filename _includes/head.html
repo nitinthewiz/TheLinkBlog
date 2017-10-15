@@ -16,22 +16,22 @@
 
   <!-- Fonts & Stylesheets -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/colors.css" />
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/style.css" />
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/colors.css" />
 
   <!-- Feeds -->
-  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ site.baseurl }}/feeds/feed.xml" />
-  <link rel="alternate" type="application/json" title="JSON Feed for {{ site.title }}" href="{{ site.baseurl }}/feeds/feed.json" />
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feeds/feed.xml" />
+  <link rel="alternate" type="application/json" title="JSON Feed for {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feeds/feed.json" />
   
   <!-- Webmentions -->
   <link rel="pingback" href="https://webmention.io/links.thingelstad.com/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/links.thingelstad.com/webmention" />
 
   <!-- Icons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/favicon-16x16.png">
+  <link rel="mask-icon" href="{{ site.url }}{{ site.baseurl }}/safari-pinned-tab.svg" color="#5bbad5">
 
   <!-- Jekyll SEO Tag -->
   <!-- I don't like the Twitter card type that jekyll-seo-tag outputs so I capture it and override it -->
