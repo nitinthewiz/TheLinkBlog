@@ -1,0 +1,11 @@
+{% assign same_host = site.posts | where: "host", page.host %}
+{% if same_host.size > 1 %}
+<h3>Other links from {{ page.host }}</h3>
+<ul>
+{% for p in same_host %}
+	{% if p.url != page.url %}
+	<li><a href="{{p.url}}">{{ p.title }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+{% endif %}

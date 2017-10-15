@@ -1,0 +1,11 @@
+	<div class="postnavigation">
+
+		{% if page.previous %}
+			<a class="prev left" href="{{ page.previous.url }}">&larr; {{ page.previous.title | truncatewords: 5 }}</a>
+		{% endif %}
+
+		{% if page.next %}
+			<a class="next right" href="{{ page.next.url }}">{{ page.next.title | truncatewords: 5 }} &rarr;</a>
+		{% endif %}
+
+	</div>
