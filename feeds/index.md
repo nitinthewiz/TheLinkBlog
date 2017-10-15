@@ -7,9 +7,9 @@ title: Feeds and Data
 
 Link Thing provides feeds that allow you to subscribe to new posts in whatever way you wish. You can subscribe using RSS or JSON feeds.
 
-The RSS feed is {{ site.url }}{% link feeds/feed.xml %}
+RSS: [{{ site.url }}{% link feeds/feed.xml %}]({{ site.url }}{% link feeds/feed.xml %})
 
-The JSON feed is {{ site.url }}{% link feeds/feed.json %}
+JSON: [{{ site.url }}{% link feeds/feed.json %}]({{ site.url }}{% link feeds/feed.json %})
 
 ## Full Archive
 
@@ -17,4 +17,8 @@ Link Thing is also a large database of {{ site.posts | size }} links! If you are
 
 The CSV file is the easiest to put into any spreadsheet and do quick analysis.
 
-{{ site.url }}{% link feeds/links.csv %}
+CSV: [{{ site.url }}{% link feeds/links.csv %}]({{ site.url }}{% link feeds/links.csv %})
+
+If you would rather work with JSON there is also a JSON file that has all links in it.
+
+JSON: [{{ site.url }}{% link feeds/links.json %}]({{ site.url }}{% link feeds/links.json %})
