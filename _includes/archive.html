@@ -1,0 +1,26 @@
+<h2>Archive for {{ include.year }}</h2>
+
+{% assign this_year = site.posts | where: 'year', include.year %}
+
+{% if this_year.size == 0 %}
+  <h3>No post found</h3>
+{% else %}
+  {% for post in this_year %}
+    {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
+    {% if month != nmonth %}
+    {% if forloop.first != true %}</ul>{% endif %}
+    <h3><i class="fa fa-calendar-o" aria-hidden="true"></i> <a name="{{ post.date | date: '%m' }}"></a>{{ post.date | date: '%B' }}</h3>
+    <ul>
+    {% endif %}
+    {% if post.external-url %}
+      <li>
+        <a href="{{ post.external-url }}" onclick="trackOutboundLink('{{ post.external-url }}'); return false;">{{ post.title }}</a>&nbsp;<a class="anchor" href="{{ post.url }}"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
+      </li>
+    {% else %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+    {% if forloop.last == true %}</ul>{% endif %}
+  {% endfor %}
+{% endif %}
+</div>

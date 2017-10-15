@@ -1,0 +1,13 @@
+---
+layout: default
+title: Annums
+---
+
+Links by year.
+
+{% assign by_year = site.posts | group_by: 'year' %}
+<ul>
+{% for year in by_year %}
+<li><a href="{{ year.name }}">{{ year.name }}</a>: {{ year.items | size }} links</li>
+{% endfor %}
+</ul>
