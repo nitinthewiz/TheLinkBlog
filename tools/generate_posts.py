@@ -1,17 +1,19 @@
 #!/usr/bin/python
 
 import pinboard
-import datetime
+from datetime import datetime
+from dateutil import tz
 from slugify import slugify
 import os
 from urlparse import urlparse, parse_qsl
 
 pb = pinboard.Pinboard(os.environ['PINBOARD_API'])
 
-def make_post(p):
+def make_post(p, timestamp):
+
     post_template = u"""---
 title: "{}"
-date: {} +0000
+date: {}
 external-url: {}
 hash: {}
 year: {}
@@ -36,11 +38,11 @@ path: {}
 
     return post_template.format(
         p.description.replace('"', '\\"'),
-        p.time,
+        timestamp.strftime('%Y-%m-%d %H:%M:%S %z'),
         p.url,
         p.hash,
-        p.time.strftime('%Y'),
-        p.time.strftime('%m'),
+        timestamp.strftime('%Y'),
+        timestamp.strftime('%m'),
         url_parts.scheme,
         url_parts.netloc,
         url_parts.path,
@@ -48,17 +50,17 @@ path: {}
         p.extended.replace('{', '&#123;').replace('}', '&#125;'))
 
 
-def write_file(p):
+def write_file(p, timestamp):
 
     # Make directories
-    dname = "_posts/{}".format(p.time.strftime('%Y/%m'))
+    dname = "_posts/{}".format(timestamp.strftime('%Y/%m'))
     if not os.path.exists(dname):
         print "Creating %s directory" % dname
         os.makedirs(dname)
 
     fname = "{}/{}-{}.md".format(
         dname,
-        p.time.strftime('%Y-%m-%d'),
+        timestamp.strftime('%Y-%m-%d'),
         slugify(p.description, max_length=70, word_boundary=True))
 
     if not os.path.isfile(fname):
@@ -66,7 +68,7 @@ def write_file(p):
         print "Writing %s" % fname
 
         file = open(fname,"w") 
-        file.write(make_post(p).encode('utf8'))      
+        file.write(make_post(p, timestamp).encode('utf8'))      
         file.close() 
 
     else:
@@ -79,12 +81,19 @@ def main():
         print "Please set PINBOARD_API environment variable."
         exit(1)
 
+    from_zone = tz.gettz('UTC')
+    to_zone = tz.gettz('America/Chicago')
+
     #pins = pb.posts.recent()['posts']
     pins = pb.posts.all()
 
     for p in pins:
         if p.shared and not p.toread:
-            write_file(p)
+            # Convert date from UTC to CDT
+            utc = p.time.replace(tzinfo=from_zone)
+            central = utc.astimezone(to_zone)
+
+            write_file(p, central)
 
 
 main()
