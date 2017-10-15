@@ -9,15 +9,3 @@ Links for {{ include.year }}.
 <li>Month {{ month.name }}: {{ month.items | size }}</li>
 {% endfor %}
 </ul>
-
-
-<h3>Top 20 hosts linked in {{ include.year }}</h3>
-
-{% assign by_host = this_year | group_by: 'host' %}
-
-<ul>
-{% for host in by_host limit: 20 %}
-<li>{{ host.name }}: {{ host.items | size }}</li>
-{% endfor %}
-</ul>
-
