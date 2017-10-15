@@ -1,5 +1,5 @@
 ---
-title: "Cacti Scripts and Templates (Cisco Routers and Switches,Mysql,Apache,qmail,postfix,Netapp,Netscree firewall,bind,Windows and many more"
+title: "Cacti Scripts and Templates"
 date: 2006-12-29 15:48:33 -0600
 external-url: http://www.debianhelp.co.uk/cactitemplates.htm
 hash: cfcf78ab437b11bdc3c9c259ecbee2f8
