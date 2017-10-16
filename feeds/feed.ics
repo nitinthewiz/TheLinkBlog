@@ -8,8 +8,8 @@ PRODID:-//links.thingelstad.com//Link Thing - Jamie Thingelstad//EN
 {% for post in site.posts limit: site.feed_posts %}
 BEGIN:VEVENT
 UID:{{ post.slug }}@links.thingelstad.com
-LOCATION:{% if post.external-url %}{{ post.external-url  | xml_escape }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}{% endif %}
-URL:{% if post.external-url %}{{ post.external-url  | xml_escape }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}{% endif %}
+LOCATION:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
+URL:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
 DTSTART;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
 DTEND;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
 SUMMARY:{{ post.title }}
