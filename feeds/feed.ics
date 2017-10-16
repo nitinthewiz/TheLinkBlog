@@ -4,16 +4,35 @@ layout: null
 BEGIN:VCALENDAR
 VERSION:2.0
 X-WR-CALNAME:Link Thing - Jamie Thingelstad
+X-WR-TIMEZONE:America/Chicago
 PRODID:-//links.thingelstad.com//Link Thing - Jamie Thingelstad//EN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
 {% for post in site.posts limit: site.feed_posts %}
 BEGIN:VEVENT
 UID:{{ post.slug }}@links.thingelstad.com
 LOCATION:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
-URL:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
+DTSTAMP:{{ site.time | date: "%Y%m%d" }}T{{ site.time | date: "%H%M%S" }}Z
 DTSTART;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
-DTEND;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
+DURATION:PT15M
 SUMMARY:{{ post.title }}
 DESCRIPTION:{{ site.url }}{{ site.baseurl }}{{ post.url }}
-END:VEVENT
-{% endfor %}
+URL:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
+END:VEVENT{% endfor %}
 END:VCALENDAR
