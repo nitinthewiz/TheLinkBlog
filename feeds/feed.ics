@@ -1,0 +1,19 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:Link Thing - Jamie Thingelstad
+PRODID:-//links.thingelstad.com//Link Thing - Jamie Thingelstad//EN
+{% for post in site.posts limit: site.feed_posts %}
+BEGIN:VEVENT
+UID:{{ post.slug }}@links.thingelstad.com
+LOCATION:{% if post.external-url %}{{ post.external-url  | xml_escape }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}{% endif %}
+URL:{% if post.external-url %}{{ post.external-url  | xml_escape }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}{% endif %}
+DTSTART;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
+DTEND;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
+SUMMARY:{{ post.title }}
+DESCRIPTION:{{ site.url }}{{ site.baseurl }}{{ post.url }}
+END:VEVENT
+{% endfor %}
+END:VCALENDAR

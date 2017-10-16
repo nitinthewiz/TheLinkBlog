@@ -11,6 +11,10 @@ RSS: [{{ site.url }}{% link feeds/feed.xml %}]({{ site.url }}{% link feeds/feed.
 
 JSON: [{{ site.url }}{% link feeds/feed.json %}]({{ site.url }}{% link feeds/feed.json %})
 
+There is also an iCalendar file that you can subscribe to using your calendar and see links on your calendar.
+
+ICS: [{{ site.url }}{% link feeds/feed.ics %}]({{ site.url }}{% link feeds/feed.ics %})
+
 ## Full Archive
 
 Link Thing is also a large database of {{ site.posts | size }} links! If you are curious to play with this database and so some analysis I also make the entire database easily downloadable.
