@@ -1,5 +1,5 @@
 ---
-title: "Bauhaus Brew Labs | Home | Craft Lager | Minnesota Craft Beer | German Craft Beer | Local Beer | NE Minneapolis | Bauhaus Is Your Haus | Bauhaus Brew Labs"
+title: "Bauhaus Brew Labs"
 date: 2015-03-25 20:17:25 -0500
 external-url: http://bauhausbrewlabs.com/
 hash: 41324fa7081a93746b8184b58f4c759c

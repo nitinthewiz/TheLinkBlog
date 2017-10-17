@@ -1,13 +1,13 @@
 ---
 title: "Watching Women Want"
 date: 2015-07-06 05:44:15 -0500
-external-url: http://thenewinquiry.com/blogs/the-beheld/watching-women-want/
-hash: 5fe35795f845adfbfd6fc6eea8081e65
+external-url: https://thenewinquiry.com/blog/watching-women-want/
+hash: 6d02ed330f84d6c9e92cf293aba8e78e
 year: 2015
 month: 07
-scheme: http
+scheme: https
 host: thenewinquiry.com
-path: /blogs/the-beheld/watching-women-want/
+path: /blog/watching-women-want/
 
 ---
 
