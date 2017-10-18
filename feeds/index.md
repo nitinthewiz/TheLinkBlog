@@ -27,6 +27,10 @@ If you would rather work with JSON there is also a JSON file that has all links 
 
 JSON: [{{ site.url }}{% link feeds/links.json %}]({{ site.url }}{% link feeds/links.json %})
 
+If you would like to use standard RSS there is a full archive of all links in RSS format.
+
+RSS: [{{ site.url }}{% link feeds/links.xml %}]({{ site.url }}{% link feeds/links.xml %})
+
 Lastly there is also an OPML file with all links outlined by year and month.
 
 OPML: [{{ site.url }}{% link feeds/links.opml %}]({{ site.url }}{% link feeds/links.opml %})
