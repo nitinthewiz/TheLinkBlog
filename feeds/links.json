@@ -4,12 +4,12 @@ layout: null
 [
   {% for post in site.posts %}
   {
-    "id": "{{ site.url }}{{ post.url }}",
     "title": {{ post.title | jsonify }},
     "date_published": "{{ post.date | date_to_xmlschema }}",
-    "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-    "external_url": "{{ post.external-url }}",
-    "host": "{{ post.host }}"
+    "epoch_date": {{ post.date | date: "%s" }},
+    "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }},
+    "external_url": {{ post.external-url | jsonify }},
+    "host": {{ post.host | jsonify }}
   }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]

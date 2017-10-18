@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{
+{% assign hosts = site.posts | map: 'host' %}
+{% assign u_hosts = hosts | uniq | sort %}
+{% for h in u_hosts %}
+"{{ h }}": [
+  {% assign this_host = site.posts | where: 'host', h %}
+  {% for post in this_host %}
+  {
+    "title": {{ post.title | jsonify }},
+    "date_published": "{{ post.date | date_to_xmlschema }}",
+    "epoch_date": {{ post.date | date: "%s" }},
+    "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }},
+    "external_url": {{ post.external-url | jsonify }}
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]{% if forloop.last == false %},{% endif %}
+{% endfor %}
+}

@@ -17,23 +17,21 @@ ICS: [{{ site.url }}{% link feeds/feed.ics %}]({{ site.url }}{% link feeds/feed.
 
 ## Full Archive
 
-Link Thing is also a large database of {{ site.posts | size }} links! If you are curious to play with this database and so some analysis I also make the entire database easily downloadable.
+Link Thing is also a large database of {{ site.posts | size }} links! If you are curious to play with this database and so some analysis you can easily download the entire dataset.
 
 The CSV file is the easiest to put into any spreadsheet and do quick analysis.
 
 CSV: [{{ site.url }}{% link feeds/links.csv %}]({{ site.url }}{% link feeds/links.csv %})
 
-If you would rather work with JSON there is also a JSON file that has all links in it.
-
-JSON: [{{ site.url }}{% link feeds/links.json %}]({{ site.url }}{% link feeds/links.json %})
-
-If you would like to use standard RSS there is a full archive of all links in RSS format.
+If you would like to use standard RSS there is a full archive of all links in RSS format. This file is the only one that contains the body content for each link.
 
 RSS: [{{ site.url }}{% link feeds/links.xml %}]({{ site.url }}{% link feeds/links.xml %})
 
-Lastly there is also an OPML file with all links outlined by year and month.
+If you would rather work with JSON there are multiple options. There is a JSON file that is a straight list of all posts in a reduced JSON Feed structure as well as a JSON file that is divided by hosts.
 
-OPML: [{{ site.url }}{% link feeds/links.opml %}]({{ site.url }}{% link feeds/links.opml %})
+JSON (array): [{{ site.url }}{% link feeds/links.json %}]({{ site.url }}{% link feeds/links.json %})
+
+JSON (host): [{{ site.url }}{% link feeds/links-by-host.json %}]({{ site.url }}{% link feeds/links-by-host.json %})
 
 ### Validation
 
