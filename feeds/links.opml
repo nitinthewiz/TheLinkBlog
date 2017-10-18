@@ -8,9 +8,15 @@ layout: null
     <dateCreated>{{ site.time | date_to_rfc822 }}</dateCreated>
     <dateModified>{{ site.time | date_to_rfc822 }}</dateModified>
   </head>
+{% assign hosts = site.posts | map: 'host' %}
+{% assign u_hosts = hosts | uniq %}
   <body>
-{% for post in site.posts %}{% capture month %}{{ post.date | date: '%Y%m' }}{% endcapture %}{% capture nmonth %}{{ post.next.date | date: '%Y%m' }}{% endcapture %}{% if month != nmonth %}{% if forloop.first != true %}</outline>{% endif %}
-    <outline text="{{ post.date | date: '%Y-%m' }}">{% endif %}
-      <outline text="{{ post.title | xml_escape }}" date="{{ post.date | date_to_rfc822 }}" url="{{ post.external-url  | xml_escape }}" link_url="{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}" />{% if forloop.last == true %}</outline>{% endif %}{% endfor %}
+{% for h in u_hosts %}
+	<outline text="{{ h }}">
+{% assign this_host = site.posts | where: 'host', h %}{% for p in this_host %}
+		<outline text="{{ p.title | xml_escape }}" date="{{ p.date | date_to_rfc822 }}" url="{{ p.external-url | xml_escape }}" link_url="{{ site.url }}{{ site.baseurl }}{{ p.url | xml_escape }}" description="{{ p.content | xml_escape }}" />
+{% endfor %}
+	</outline>
+{% endfor %}
   </body>
 </opml>
