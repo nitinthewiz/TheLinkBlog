@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+  <head>
+    <title>{{ site.title | xml_escape }}</title>
+    <dateCreated>{{ site.time | date_to_rfc822 }}</dateCreated>
+    <dateModified>{{ site.time | date_to_rfc822 }}</dateModified>
+  </head>
+  <body>
+{% for post in site.posts %}{% capture month %}{{ post.date | date: '%Y%m' }}{% endcapture %}{% capture nmonth %}{{ post.next.date | date: '%Y%m' }}{% endcapture %}{% if month != nmonth %}{% if forloop.first != true %}</outline>{% endif %}
+    <outline text="{{ post.date | date: '%Y-%m' }}">{% endif %}
+      <outline text="{{ post.title | xml_escape }}" date="{{ post.date | date_to_rfc822 }}" url="{{ post.external-url  | xml_escape }}" link_url="{{ site.url }}{{ site.baseurl }}{{ post.url | xml_escape }}" />{% if forloop.last == true %}</outline>{% endif %}{% endfor %}
+  </body>
+</opml>
