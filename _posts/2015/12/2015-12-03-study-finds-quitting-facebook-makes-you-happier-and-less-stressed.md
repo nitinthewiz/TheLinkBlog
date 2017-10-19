@@ -1,12 +1,12 @@
 ---
 title: "Study Finds Quitting Facebook Makes You Happier and Less Stressed"
 date: 2015-12-03 23:18:11 -0600
-external-url: http://m.huhmagazine.co.uk/10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed
-hash: bb621b3265bca26c0ce6242aab83b222
+external-url: http://www.huhmagazine.co.uk/10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed
+hash: b9f9b5c80d15717ff2ed842e3e3993a1
 year: 2015
 month: 12
 scheme: http
-host: m.huhmagazine.co.uk
+host: www.huhmagazine.co.uk
 path: /10779/study-finds-quitting-facebook-makes-you-happier-and-less-stressed
 
 ---

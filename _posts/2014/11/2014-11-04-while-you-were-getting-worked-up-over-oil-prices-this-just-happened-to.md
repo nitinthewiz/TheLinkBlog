@@ -1,13 +1,13 @@
 ---
 title: "While You Were Getting Worked Up Over Oil Prices, This Just Happened to Solar - Bloomberg"
 date: 2014-11-04 05:15:50 -0600
-external-url: http://mobile.bloomberg.com/news/2014-10-29/while-you-were-getting-worked-up-over-oil-prices-this-just-happened-to-solar.html
-hash: ad693f0722a1292cdb14bbeb395ceb66
+external-url: https://www.bloomberg.com/news/articles/2014-10-29/while-you-were-getting-worked-up-over-oil-prices-this-just-happened-to-solar
+hash: 38acc3e5ff8486b738c1ef7567304cb6
 year: 2014
 month: 11
-scheme: http
-host: mobile.bloomberg.com
-path: /news/2014-10-29/while-you-were-getting-worked-up-over-oil-prices-this-just-happened-to-solar.html
+scheme: https
+host: www.bloomberg.com
+path: /news/articles/2014-10-29/while-you-were-getting-worked-up-over-oil-prices-this-just-happened-to-solar
 
 ---
 
