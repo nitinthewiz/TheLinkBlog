@@ -11,4 +11,4 @@ path: /2017/i-dont-have-imposter-syndrome
 
 ---
 
-I hear people use the [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) term a lot and I really don't like it. Most successful people I know leap to tasks that are above their current skills. That is how many people gain skills. Usually, it’s a good thing in my experience.
+I hear people use the [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) term a lot and I really dislike it. Most successful people I know leap to tasks that are above their current skills. That is how many people gain skills. Usually, it’s a good thing in my experience. I’m not suggesting this isn't a real thing for some people, but I think it’s self-assigned far too often.
