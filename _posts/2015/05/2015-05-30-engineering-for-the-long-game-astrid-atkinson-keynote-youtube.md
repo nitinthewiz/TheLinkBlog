@@ -1,5 +1,6 @@
 ---
 title: "Engineering for the Long Game... - Astrid Atkinson Keynote - YouTube"
+slug: engineering-for-the-long-game-astrid-atkinson-keynote-youtube
 date: 2015-05-30 22:04:30 -0500
 external-url: https://www.youtube.com/watch?v=p0jGmgIrf_M&feature=youtu.be&app=desktop
 hash: 49603d741924aaecbdef848f936c2ecc

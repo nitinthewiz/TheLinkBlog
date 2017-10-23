@@ -1,5 +1,6 @@
 ---
 title: "McCain's Thirteen Cars"
+slug: mccain-s-thirteen-cars
 date: 2008-09-21 23:35:22 -0500
 external-url: http://www.dailykos.com/story/2008/09/21/605632/-McCain-s-Thirteen-Cars
 hash: e0021fb3ea4d5f5132d5b71a961a21c2

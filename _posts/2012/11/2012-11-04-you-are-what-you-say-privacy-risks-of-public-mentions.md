@@ -1,5 +1,6 @@
 ---
 title: "You Are What You Say: Privacy Risks of Public Mentions"
+slug: you-are-what-you-say-privacy-risks-of-public-mentions
 date: 2012-11-04 12:04:56 -0600
 external-url: http://www-users.cs.umn.edu/~dfrankow/files/privacy-sigir2006.pdf
 hash: a0c18413b8a709f0fbdd208ae7cb0e61

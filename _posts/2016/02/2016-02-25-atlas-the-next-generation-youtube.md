@@ -1,5 +1,6 @@
 ---
 title: "Atlas, The Next Generation - YouTube"
+slug: atlas-the-next-generation-youtube
 date: 2016-02-25 11:26:59 -0600
 external-url: https://www.youtube.com/watch?v=rVlhMGQgDkY
 hash: 00f97e32f988cdb8ffb2373189a80ae7

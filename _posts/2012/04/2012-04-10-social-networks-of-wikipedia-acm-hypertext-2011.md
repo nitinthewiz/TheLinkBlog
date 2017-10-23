@@ -1,5 +1,6 @@
 ---
 title: "Social Networks of Wikipedia ACM Hypertext 2011"
+slug: social-networks-of-wikipedia-acm-hypertext-2011
 date: 2012-04-10 17:39:41 -0500
 external-url: http://www.gnuband.org/papers/social_networks_of_wikipedia/
 hash: 324d760bfb6bc6ff75fe2ed16f9a123e

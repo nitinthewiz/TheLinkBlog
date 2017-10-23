@@ -1,5 +1,6 @@
 ---
 title: "All OmniFocus scripts updated for a Start-based workflow"
+slug: all-omnifocus-scripts-updated-for-a-start-based-workflow
 date: 2013-01-02 19:53:42 -0600
 external-url: http://bylr.net/3/2011/07/all-omnifocus-scripts-updated-for-a-start-based-workflow/
 hash: 74a83ab355cd46024568270677267914

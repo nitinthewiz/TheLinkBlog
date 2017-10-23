@@ -1,5 +1,6 @@
 ---
 title: "Hundreds of North Dakota Oil Spills Not Publicized"
+slug: hundreds-of-north-dakota-oil-spills-not-publicized
 date: 2013-10-27 21:07:47 -0500
 external-url: http://kstp.com/article/stories/s3200731.shtml
 hash: ccf422534d6c5b2d21ccf1142392625f

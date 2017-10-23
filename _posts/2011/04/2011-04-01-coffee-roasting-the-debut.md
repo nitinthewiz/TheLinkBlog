@@ -1,5 +1,6 @@
 ---
 title: "coffee roasting, the debut"
+slug: coffee-roasting-the-debut
 date: 2011-04-01 09:37:47 -0500
 external-url: http://lacocinadedavid.wordpress.com/2008/06/06/coffee-roasting-the-debut/
 hash: c9f164a8f9504a46620e75527a5d54ad

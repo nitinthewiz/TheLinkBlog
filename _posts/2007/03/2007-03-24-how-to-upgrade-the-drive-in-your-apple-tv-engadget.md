@@ -1,5 +1,6 @@
 ---
 title: "How-to: Upgrade the drive in your Apple TV - Engadget"
+slug: how-to-upgrade-the-drive-in-your-apple-tv-engadget
 date: 2007-03-24 22:24:48 -0500
 external-url: http://www.engadget.com/2007/03/23/how-to-upgrade-the-drive-in-your-apple-tv/
 hash: dd7cf0117b82afca0f551afbadac437d

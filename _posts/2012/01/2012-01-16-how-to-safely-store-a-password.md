@@ -1,5 +1,6 @@
 ---
 title: "How To Safely Store A Password"
+slug: how-to-safely-store-a-password
 date: 2012-01-16 13:43:22 -0600
 external-url: http://codahale.com/how-to-safely-store-a-password/
 hash: c04ed6573622742d6398da20145569dc

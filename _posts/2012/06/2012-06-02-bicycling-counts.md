@@ -1,5 +1,6 @@
 ---
 title: "Bicycling Counts"
+slug: bicycling-counts
 date: 2012-06-02 01:03:44 -0500
 external-url: http://www.minneapolismn.gov/bicycles/WCMS1P-093558
 hash: 462e511e0fd682fb839f00ab1e960e39

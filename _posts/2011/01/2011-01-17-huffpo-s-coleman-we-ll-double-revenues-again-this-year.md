@@ -1,5 +1,6 @@
 ---
 title: "HuffPo's Coleman: 'We'll Double Revenues Again This Year'"
+slug: huffpo-s-coleman-we-ll-double-revenues-again-this-year
 date: 2011-01-17 08:12:32 -0600
 external-url: http://gigaom.com/2011/01/14/419-huffpos-coleman-well-double-revenues-again-this-year/
 hash: c8331e1203b17fbf02f85dd0545407a7

@@ -1,5 +1,6 @@
 ---
 title: "Final Cut Pro X 10.0.6 is the most feature rich update to date"
+slug: final-cut-pro-x-10-0-6-is-the-most-feature-rich-update-to-date
 date: 2012-10-23 21:49:18 -0500
 external-url: http://www.philiphodgetts.com/2012/10/final-cut-pro-x-10-0-6/
 hash: 91f5fe2739ce4dde12866364ee7bca38

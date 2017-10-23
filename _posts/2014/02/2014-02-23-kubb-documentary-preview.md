@@ -1,5 +1,6 @@
 ---
 title: "Kubb Documentary Preview"
+slug: kubb-documentary-preview
 date: 2014-02-23 20:08:28 -0600
 external-url: http://vimeo.com/87409409
 hash: ffdf84fbd0a08db18c71be032627eb37

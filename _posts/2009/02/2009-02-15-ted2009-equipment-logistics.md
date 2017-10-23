@@ -1,5 +1,6 @@
 ---
 title: "TED2009 Equipment Logistics"
+slug: ted2009-equipment-logistics
 date: 2009-02-15 05:40:03 -0600
 external-url: http://duncandavidson.com/2009/02/ted2009-equipment-logistics.html
 hash: d75305d05eb618e4a82a1575cb54f055

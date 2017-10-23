@@ -1,5 +1,6 @@
 ---
 title: "Improve your communication with TextExpander"
+slug: improve-your-communication-with-textexpander
 date: 2015-12-10 08:33:45 -0600
 external-url: http://brettterpstra.com/2015/12/10/improve-your-communication-with-textexpander/
 hash: 074f051dde7dd4ac50b338712b28c73c

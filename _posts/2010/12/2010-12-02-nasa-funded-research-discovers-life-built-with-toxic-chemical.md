@@ -1,5 +1,6 @@
 ---
 title: "NASA-Funded Research Discovers Life Built With Toxic Chemical"
+slug: nasa-funded-research-discovers-life-built-with-toxic-chemical
 date: 2010-12-02 16:22:22 -0600
 external-url: http://www.nasa.gov/topics/universe/features/astrobiology_toxic_chemical.html
 hash: 44e2edde13707c0afd23c0a09ed1b04f

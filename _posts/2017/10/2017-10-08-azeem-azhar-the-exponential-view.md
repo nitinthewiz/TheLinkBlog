@@ -1,5 +1,6 @@
 ---
 title: "Azeem Azhar: The Exponential View"
+slug: azeem-azhar-the-exponential-view
 date: 2017-10-08 20:28:33 -0500
 external-url: http://us15.campaign-archive.com/home/?u=eee7b8043119f98544067854b&id=d581eab324
 hash: aa3f624a3c1f47557af81a0a73a413a1

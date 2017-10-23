@@ -1,5 +1,6 @@
 ---
 title: "Snow Removal Procedures - Metro Transit"
+slug: snow-removal-procedures-metro-transit
 date: 2011-12-01 16:35:08 -0600
 external-url: http://metrotransit.org/snow-removal-procedures.aspx
 hash: ba6b26a14a177a1d84e479128d882227

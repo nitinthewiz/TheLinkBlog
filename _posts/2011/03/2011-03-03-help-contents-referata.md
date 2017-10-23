@@ -1,5 +1,6 @@
 ---
 title: "Help:Contents - Referata"
+slug: help-contents-referata
 date: 2011-03-03 22:51:11 -0600
 external-url: http://www.referata.com/wiki/Help:Contents
 hash: f875774973d1931309819f9d2ee51929

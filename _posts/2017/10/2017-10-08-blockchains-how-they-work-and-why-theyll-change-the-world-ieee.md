@@ -1,5 +1,6 @@
 ---
 title: "Blockchains: How They Work and Why They’ll Change the World - IEEE Spectrum"
+slug: blockchains-how-they-work-and-why-theyll-change-the-world-ieee
 date: 2017-10-08 20:22:07 -0500
 external-url: https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world
 hash: ae3db4d3faadaf2d65572690cc2103bd

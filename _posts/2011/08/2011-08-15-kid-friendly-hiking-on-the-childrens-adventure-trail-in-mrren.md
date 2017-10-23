@@ -1,5 +1,6 @@
 ---
 title: "Kid-Friendly Hiking on the Childrens Adventure Trail in Mrren, Switzerland"
+slug: kid-friendly-hiking-on-the-childrens-adventure-trail-in-mrren
 date: 2011-08-15 17:23:55 -0500
 external-url: http://ciaobambino.com/ciaobambinoblog/index.php/2011/08/kid-friendly-hiking-on-childrens-adventure-trail-murren-switzerland/
 hash: fc668cf355f6be48198c8c45f77ca2b6

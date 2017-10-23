@@ -1,5 +1,6 @@
 ---
 title: "Dow Jones Shareholders Set To Approve Sale To News Corp."
+slug: dow-jones-shareholders-set-to-approve-sale-to-news-corp
 date: 2007-12-12 13:40:01 -0600
 external-url: http://gigaom.com/2007/12/12/419-dow-jones-shareholders-officially-approve-sale/
 hash: 966b25cbf7823282b82b6dab12a27f5c

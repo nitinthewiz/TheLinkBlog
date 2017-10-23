@@ -1,5 +1,6 @@
 ---
 title: "An alternate universe Marco.org"
+slug: an-alternate-universe-marco-org
 date: 2012-10-27 07:02:58 -0500
 external-url: http://www.marco.org/2012/10/26/an-alternate-universe
 hash: 2050842a216b79b954fcb2cee88cf16a

@@ -1,5 +1,6 @@
 ---
 title: "Cloudant: CouchDB hosting"
+slug: cloudant-couchdb-hosting
 date: 2010-12-05 06:21:18 -0600
 external-url: https://cloudant.com/
 hash: b20e509ee3906bab583716cc03304af0

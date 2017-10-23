@@ -1,5 +1,6 @@
 ---
 title: "BackusNaur Form"
+slug: backusnaur-form
 date: 2012-02-29 21:56:36 -0600
 external-url: http://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
 hash: 54f02430fe7af8b0371d6968485e0e06

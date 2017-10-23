@@ -1,5 +1,6 @@
 ---
 title: "The state of technology in Minnesota"
+slug: the-state-of-technology-in-minnesota
 date: 2012-05-07 11:25:08 -0500
 external-url: http://www.startribune.com/business/150227075.html
 hash: 9855ea522a0300d763729b5b6be17d4c

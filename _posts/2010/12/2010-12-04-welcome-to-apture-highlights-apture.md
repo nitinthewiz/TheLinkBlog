@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Apture Highlights! – Apture"
+slug: welcome-to-apture-highlights-apture
 date: 2010-12-04 21:18:43 -0600
 external-url: http://apture.com/extension/welcome/
 hash: 8a1de7e3d954fdcc02e66852ccfcf984

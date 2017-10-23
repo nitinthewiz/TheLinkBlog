@@ -1,5 +1,6 @@
 ---
 title: "In defense of Unix - All this"
+slug: in-defense-of-unix-all-this
 date: 2016-03-07 21:46:07 -0600
 external-url: http://leancrew.com/all-this/2016/03/in-defense-of-unix/
 hash: d3df82f4848b42e723909b8e6fb6735d

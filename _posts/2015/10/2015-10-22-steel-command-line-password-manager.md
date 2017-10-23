@@ -1,5 +1,6 @@
 ---
 title: "Steel - Command line password manager"
+slug: steel-command-line-password-manager
 date: 2015-10-22 04:10:45 -0500
 external-url: http://www.steelpasswordmanager.org/
 hash: f4410c9e3349d6802250aa57d53ee7ad

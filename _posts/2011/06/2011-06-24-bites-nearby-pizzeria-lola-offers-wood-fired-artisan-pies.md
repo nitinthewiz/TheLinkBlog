@@ -1,5 +1,6 @@
 ---
 title: "Bites Nearby: Pizzeria Lola Offers Wood-Fired Artisan Pies"
+slug: bites-nearby-pizzeria-lola-offers-wood-fired-artisan-pies
 date: 2011-06-24 18:39:03 -0500
 external-url: http://patch.com/southwestminneapolis/bites-nearby-pizzeria-lola-offers-wood-fired-artisan-pies
 hash: 7e8f9dc93aa7a691c2a6ecc57a9c199a

@@ -1,5 +1,6 @@
 ---
 title: "Michele Bachmann's Holy War"
+slug: michele-bachmann-s-holy-war
 date: 2011-06-24 17:50:33 -0500
 external-url: http://www.rollingstone.com/politics/news/michele-bachmanns-holy-war-20110622
 hash: 934600cf6058eacb0cf98754588bf8fb

@@ -1,5 +1,6 @@
 ---
 title: "acaia | lunar™ | acaia"
+slug: acaia-lunar-tm-acaia
 date: 2015-11-09 08:22:56 -0600
 external-url: http://acaia.co/products/acaia-lunar-1
 hash: 106c3fa73e77dff59051821fb6f76e32

@@ -1,5 +1,6 @@
 ---
 title: "1Password 6 for iOS"
+slug: 1password-6-for-ios
 date: 2015-09-16 13:00:43 -0500
 external-url: https://blog.agilebits.com/2015/09/16/1password-6-for-ios-the-extreme-makeover-edition-is-here/
 hash: 3f0a59a08b922556ba42cf022c30c534

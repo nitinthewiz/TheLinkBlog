@@ -1,5 +1,6 @@
 ---
 title: "Professional development and consulting - MediaWiki"
+slug: professional-development-and-consulting-mediawiki
 date: 2013-02-15 19:01:32 -0600
 external-url: http://www.mediawiki.org/wiki/Professional_development_and_consulting
 hash: f31e9ecb6ecb81c1fa57dc8d5ddfb8e2

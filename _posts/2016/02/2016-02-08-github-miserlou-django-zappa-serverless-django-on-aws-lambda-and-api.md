@@ -1,5 +1,6 @@
 ---
 title: "GitHub - Miserlou/django-zappa: Serverless Django on AWS Lambda and API Gateway"
+slug: github-miserlou-django-zappa-serverless-django-on-aws-lambda-and-api
 date: 2016-02-08 18:17:53 -0600
 external-url: https://github.com/Miserlou/django-zappa
 hash: 1ac03bb80c0327bbe6ae25d3b1b1f553

@@ -1,5 +1,6 @@
 ---
 title: "PaidContent blog network hires Dow Jones, Yahoo veteran as CEO"
+slug: paidcontent-blog-network-hires-dow-jones-yahoo-veteran-as-ceo
 date: 2008-03-27 00:54:45 -0500
 external-url: http://gawker.com/372737/paidcontent-blog-network-hires-dow-jones-yahoo-veteran-as-ceo
 hash: 825710a85dba47d82989f576c9db8bbd

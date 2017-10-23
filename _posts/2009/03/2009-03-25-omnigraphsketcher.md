@@ -1,5 +1,6 @@
 ---
 title: "OmniGraphSketcher"
+slug: omnigraphsketcher
 date: 2009-03-25 22:45:24 -0500
 external-url: http://www.omnigroup.com/omnigraphsketcher/
 hash: b772c4731c2aa181f1694b5a7537524b

@@ -1,5 +1,6 @@
 ---
 title: "What does sponsorship look like? | Lara Hogan"
+slug: what-does-sponsorship-look-like-lara-hogan
 date: 2017-05-16 20:26:21 -0500
 external-url: http://larahogan.me/blog/what-sponsorship-looks-like/
 hash: 436c4547039b89de2ef28e155bb48375

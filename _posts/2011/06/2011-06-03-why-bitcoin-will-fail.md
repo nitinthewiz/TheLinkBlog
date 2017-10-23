@@ -1,5 +1,6 @@
 ---
 title: "Why bitcoin will fail"
+slug: why-bitcoin-will-fail
 date: 2011-06-03 15:12:44 -0500
 external-url: http://apenwarr.ca/log/?m=201105#08
 hash: fd437abe352cc302341be505956b91d6

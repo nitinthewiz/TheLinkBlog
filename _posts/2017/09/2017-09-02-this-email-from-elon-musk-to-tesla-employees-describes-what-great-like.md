@@ -1,5 +1,6 @@
 ---
 title: "This Email From Elon Musk to Tesla Employees Describes What Great Communication Looks Like | Inc.com"
+slug: this-email-from-elon-musk-to-tesla-employees-describes-what-great-like
 date: 2017-09-02 22:38:26 -0500
 external-url: https://www.inc.com/justin-bariso/this-email-from-elon-musk-to-tesla-employees-descr.html
 hash: a210902a355e5c3cf1c853f959207742

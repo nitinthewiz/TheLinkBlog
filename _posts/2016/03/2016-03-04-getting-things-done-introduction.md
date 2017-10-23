@@ -1,5 +1,6 @@
 ---
 title: "Getting Things Done: Introduction"
+slug: getting-things-done-introduction
 date: 2016-03-04 10:08:17 -0600
 external-url: http://joebuhlig.com/getting-things-done-introduction/
 hash: 68e39b21faeab6d0ff7981b323cd40e3

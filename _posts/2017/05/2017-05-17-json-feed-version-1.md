@@ -1,5 +1,6 @@
 ---
 title: "JSON Feed: Version 1"
+slug: json-feed-version-1
 date: 2017-05-17 15:55:40 -0500
 external-url: https://jsonfeed.org/version/1
 hash: 17c2b0613c12c334b8a6053c7b18c5f1

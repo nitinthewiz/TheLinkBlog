@@ -1,5 +1,6 @@
 ---
 title: "Deferred Email"
+slug: deferred-email
 date: 2015-07-08 19:35:55 -0500
 external-url: http://macsparky.com/blog/2015/7/deferred-email
 hash: 8a15d9d0c74d9f805baa8db12f7d3aa3

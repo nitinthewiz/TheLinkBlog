@@ -1,5 +1,6 @@
 ---
 title: "The World Wide Web project"
+slug: the-world-wide-web-project
 date: 2013-05-01 12:43:11 -0500
 external-url: http://info.cern.ch/hypertext/WWW/TheProject.html
 hash: 19bc3666f7c49a90cb62457212686e8c

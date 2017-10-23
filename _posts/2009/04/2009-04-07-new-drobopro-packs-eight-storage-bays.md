@@ -1,5 +1,6 @@
 ---
 title: "New DroboPro packs eight storage bays"
+slug: new-drobopro-packs-eight-storage-bays
 date: 2009-04-07 20:19:33 -0500
 external-url: http://9to5mac.com/2009/04/07/new-drobopro-packs-eight-storage-bays/
 hash: c1474048ba286b1997b9d009e27ba334

@@ -1,5 +1,6 @@
 ---
 title: "GraphDive"
+slug: graphdive
 date: 2012-10-04 12:49:04 -0500
 external-url: http://www.sociablelabs.com/
 hash: 21736aa9fd83ee1d1dd2db1d0b2871f3

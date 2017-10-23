@@ -1,5 +1,6 @@
 ---
 title: "Understanding the prevalence of web traffic interception"
+slug: understanding-the-prevalence-of-web-traffic-interception
 date: 2017-09-15 04:23:33 -0500
 external-url: https://blog.cloudflare.com/understanding-the-prevalence-of-web-traffic-interception/
 hash: e4669f64de29e7abef57b6c75a2db728

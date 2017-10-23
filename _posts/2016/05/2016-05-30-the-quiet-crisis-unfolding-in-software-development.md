@@ -1,5 +1,6 @@
 ---
 title: "The Quiet Crisis unfolding in Software Development"
+slug: the-quiet-crisis-unfolding-in-software-development
 date: 2016-05-30 22:39:02 -0500
 external-url: https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.mkerbujvv
 hash: 89a6715c619f809aeaf5429d8d40df3f

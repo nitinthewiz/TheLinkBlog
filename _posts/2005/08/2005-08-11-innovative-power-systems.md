@@ -1,5 +1,6 @@
 ---
 title: "Innovative Power Systems"
+slug: innovative-power-systems
 date: 2005-08-11 18:32:54 -0500
 external-url: http://ips-solar.com
 hash: d05fcef51eac5094990cef971068ee3f

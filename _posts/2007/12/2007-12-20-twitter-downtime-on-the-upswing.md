@@ -1,5 +1,6 @@
 ---
 title: "Twitter Downtime On the Upswing"
+slug: twitter-downtime-on-the-upswing
 date: 2007-12-20 08:49:16 -0600
 external-url: http://techcrunch.com/2007/12/20/twitter-downtime-on-the-upswing/
 hash: 3d81d909b373b98235dee4ec67f89b65

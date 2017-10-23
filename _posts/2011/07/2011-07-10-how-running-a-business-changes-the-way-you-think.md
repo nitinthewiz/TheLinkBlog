@@ -1,5 +1,6 @@
 ---
 title: "How Running A Business Changes The Way You Think"
+slug: how-running-a-business-changes-the-way-you-think
 date: 2011-07-10 06:27:38 -0500
 external-url: http://www.kalzumeus.com/2011/07/08/business-psychology/
 hash: 9588967aacdb1c2d0b5d4b030f4c22d8

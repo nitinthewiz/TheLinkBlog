@@ -1,5 +1,6 @@
 ---
 title: "The Art of Computer Typography"
+slug: the-art-of-computer-typography
 date: 2012-05-27 21:22:23 -0500
 external-url: http://signalvnoise.com/posts/3183-the-art-of-computer-typography
 hash: 48849cbea68d22f0c0892545eca70d09

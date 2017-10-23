@@ -1,5 +1,6 @@
 ---
 title: "2016 Titans of Technology honorees announced"
+slug: 2016-titans-of-technology-honorees-announced
 date: 2016-03-04 22:30:33 -0600
 external-url: http://www.bizjournals.com/twincities/news/2016/03/04/2016-titans-of-technology-honorees-announced.html
 hash: ba580309478d02a6309bc7ae82c495fd

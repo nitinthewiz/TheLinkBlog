@@ -1,5 +1,6 @@
 ---
 title: "Overland GPS Tracking App for iPhone"
+slug: overland-gps-tracking-app-for-iphone
 date: 2017-10-07 23:32:32 -0500
 external-url: https://overland.p3k.io/
 hash: 6b3787d3af3b70640e32a6876ab720ad

@@ -1,5 +1,6 @@
 ---
 title: "Linea + iCloud: Your Sketches, Everywhere You Need Them • The Breakroom"
+slug: linea-icloud-your-sketches-everywhere-you-need-them-the-breakroom
 date: 2017-05-30 22:29:59 -0500
 external-url: http://blog.iconfactory.com/2017/05/linea-icloud-your-sketches-everywhere-you-need-them/
 hash: bbf90b5adbcf46fcfc7269adf63af36e

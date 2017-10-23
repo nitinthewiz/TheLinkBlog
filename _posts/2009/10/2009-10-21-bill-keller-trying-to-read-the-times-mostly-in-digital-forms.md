@@ -1,5 +1,6 @@
 ---
 title: "Bill Keller trying to read the Times “mostly in digital forms”"
+slug: bill-keller-trying-to-read-the-times-mostly-in-digital-forms
 date: 2009-10-21 09:55:34 -0500
 external-url: http://www.niemanlab.org/2009/10/bill-keller-trying-to-read-the-times-mostly-in-digital-forms/
 hash: 87539c05a1b3fab3c8c3103b7be8723a

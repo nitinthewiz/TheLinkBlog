@@ -1,5 +1,6 @@
 ---
 title: "A life less posted"
+slug: a-life-less-posted
 date: 2012-11-05 12:03:15 -0600
 external-url: http://www.elezea.com/2012/11/a-life-less-posted/
 hash: 3270ffa7fda6af2863ce69c936f1649d

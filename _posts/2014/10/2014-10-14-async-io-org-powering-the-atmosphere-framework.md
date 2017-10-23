@@ -1,5 +1,6 @@
 ---
 title: "Async-IO.org: Powering the Atmosphere Framework"
+slug: async-io-org-powering-the-atmosphere-framework
 date: 2014-10-14 10:39:51 -0500
 external-url: http://async-io.org/
 hash: d4d4eaa3eaf821d73b08218645cfd675

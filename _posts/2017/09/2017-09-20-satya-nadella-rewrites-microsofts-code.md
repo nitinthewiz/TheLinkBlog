@@ -1,5 +1,6 @@
 ---
 title: "Satya Nadella Rewrites Microsoft’s Code"
+slug: satya-nadella-rewrites-microsofts-code
 date: 2017-09-20 04:54:26 -0500
 external-url: https://www.fastcompany.com/40457458/satya-nadella-rewrites-microsofts-code
 hash: afd8efa0c6dd8a646084829597f4da71

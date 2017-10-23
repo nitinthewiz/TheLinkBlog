@@ -1,5 +1,6 @@
 ---
 title: "Journalism in the age of data"
+slug: journalism-in-the-age-of-data
 date: 2010-09-30 13:55:58 -0500
 external-url: http://kottke.org/10/09/journalism-in-the-age-of-data
 hash: 002c36655bdde332d98e1f437df9c6c8

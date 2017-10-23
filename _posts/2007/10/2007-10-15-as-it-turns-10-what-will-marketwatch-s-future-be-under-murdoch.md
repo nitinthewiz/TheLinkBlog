@@ -1,5 +1,6 @@
 ---
 title: "As it turns 10, what will MarketWatch's future be under Murdoch?"
+slug: as-it-turns-10-what-will-marketwatch-s-future-be-under-murdoch
 date: 2007-10-15 11:35:36 -0500
 external-url: http://www.sfgate.com/business/article/As-it-turns-10-what-will-MarketWatch-s-future-be-2518546.php
 hash: a0a88947442beca76c6d7309a0a32d06

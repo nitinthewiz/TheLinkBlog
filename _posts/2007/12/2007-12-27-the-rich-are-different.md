@@ -1,5 +1,6 @@
 ---
 title: "The Rich Are Different"
+slug: the-rich-are-different
 date: 2007-12-27 15:54:10 -0600
 external-url: http://www.dailykos.com/story/2007/12/27/426663/-The-Rich-Are-Different
 hash: ee8eed440f4544483eeb438c4e644906

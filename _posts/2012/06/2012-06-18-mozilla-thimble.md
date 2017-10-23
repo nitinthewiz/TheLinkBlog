@@ -1,5 +1,6 @@
 ---
 title: "Mozilla Thimble"
+slug: mozilla-thimble
 date: 2012-06-18 17:52:54 -0500
 external-url: https://thimble.webmaker.org/en-US/
 hash: 3df7eb9dfddc082f0ddac55a0057c078

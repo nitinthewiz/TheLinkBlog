@@ -1,5 +1,6 @@
 ---
 title: "Simplicity"
+slug: simplicity
 date: 2015-09-07 17:48:45 -0500
 external-url: http://www.kouroshdini.com/2015/09/07/simplicity/
 hash: b54c0ae14b63aa2394cfb98c12d41471

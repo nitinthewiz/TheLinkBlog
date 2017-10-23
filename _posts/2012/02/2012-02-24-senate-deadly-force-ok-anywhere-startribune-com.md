@@ -1,5 +1,6 @@
 ---
 title: "Senate: Deadly force OK anywhere | StarTribune.com"
+slug: senate-deadly-force-ok-anywhere-startribune-com
 date: 2012-02-24 08:09:39 -0600
 external-url: http://www.startribune.com/politics/statelocal/140229353.html
 hash: 2f0a988b078be9fec288c679a7cd876b

@@ -1,5 +1,6 @@
 ---
 title: "Interview with Brion Vibber, the WMF's first employee"
+slug: interview-with-brion-vibber-the-wmf-s-first-employee
 date: 2013-01-02 10:54:21 -0600
 external-url: http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2012-12-31/Interview
 hash: 17a6e86e77b1a15cefc9b9b7e101dec4

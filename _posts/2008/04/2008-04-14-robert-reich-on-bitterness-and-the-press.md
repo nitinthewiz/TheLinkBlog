@@ -1,5 +1,6 @@
 ---
 title: "Robert Reich on Bitterness and the Press"
+slug: robert-reich-on-bitterness-and-the-press
 date: 2008-04-14 13:07:00 -0500
 external-url: http://www.dailykos.com/story/2008/04/14/495360/-Robert-Reich-on-Bitterness-and-the-Press
 hash: f9d8beca69600374a4f0d00983f6ce4d

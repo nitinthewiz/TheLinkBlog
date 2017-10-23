@@ -1,5 +1,6 @@
 ---
 title: "Choosy helps those with Browser Commitment Phobia"
+slug: choosy-helps-those-with-browser-commitment-phobia
 date: 2009-07-15 12:09:15 -0500
 external-url: http://www.tuaw.com/2009/07/14/choosy-helps-those-with-browser-commitment-phobia/
 hash: abf8fdb1aa634b17b4878bceff06082c

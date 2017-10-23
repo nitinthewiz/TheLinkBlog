@@ -1,5 +1,6 @@
 ---
 title: "Legal Censorship: PayPal Makes a Habit of Deciding What Users Can Read | Electronic Frontier Foundation"
+slug: legal-censorship-paypal-makes-a-habit-of-deciding-what-users-can-read
 date: 2012-02-29 10:00:32 -0600
 external-url: https://www.eff.org/deeplinks/2012/02/legal-censorship-paypal-makes-habit-deciding-what-users-can-read
 hash: 88061a674d14c34ec833cbcc8c7067bf

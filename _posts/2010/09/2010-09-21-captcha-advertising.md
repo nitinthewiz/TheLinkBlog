@@ -1,5 +1,6 @@
 ---
 title: "CAPTCHA advertising"
+slug: captcha-advertising
 date: 2010-09-21 08:16:17 -0500
 external-url: http://kottke.org/10/09/captcha-advertising
 hash: d837bb4ee2db6ea6cc4b15933ae48784

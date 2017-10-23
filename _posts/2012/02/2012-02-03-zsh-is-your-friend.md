@@ -1,5 +1,6 @@
 ---
 title: "Zsh is your friend"
+slug: zsh-is-your-friend
 date: 2012-02-03 15:44:25 -0600
 external-url: http://mikegrouchy.com/blog/zsh-is-your-friend.html
 hash: 1903657be0983317b1223cf5b8161464

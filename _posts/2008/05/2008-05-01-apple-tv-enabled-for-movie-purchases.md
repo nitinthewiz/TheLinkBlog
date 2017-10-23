@@ -1,5 +1,6 @@
 ---
 title: "Apple TV enabled for movie purchases"
+slug: apple-tv-enabled-for-movie-purchases
 date: 2008-05-01 21:29:04 -0500
 external-url: http://ww35.appletvsource.com/content/view/613/
 hash: 52032367ff3de776820852870c18759d

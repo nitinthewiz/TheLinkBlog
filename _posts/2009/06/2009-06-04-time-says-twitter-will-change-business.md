@@ -1,5 +1,6 @@
 ---
 title: "Time says Twitter will change business"
+slug: time-says-twitter-will-change-business
 date: 2009-06-04 23:08:18 -0500
 external-url: http://venturebeat.com/2009/06/04/time-says-twitter-will-change-business/
 hash: c51b4c37f589f6055d5491242cba5472

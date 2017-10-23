@@ -1,5 +1,6 @@
 ---
 title: "A Review of Perl 6 – Evan Miller"
+slug: a-review-of-perl-6-evan-miller
 date: 2017-08-18 07:15:11 -0500
 external-url: http://www.evanmiller.org/a-review-of-perl-6.html
 hash: 68fa6d736646213375c087d34d1997e9

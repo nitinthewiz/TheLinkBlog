@@ -1,5 +1,6 @@
 ---
 title: "A Fireside Chat With Charlie Munger"
+slug: a-fireside-chat-with-charlie-munger
 date: 2016-03-07 18:35:40 -0600
 external-url: http://blogs.wsj.com/moneybeat/2014/09/12/a-fireside-chat-with-charlie-munger/
 hash: 2eb3d33fa0a9e7b82600a12679f4ec9d

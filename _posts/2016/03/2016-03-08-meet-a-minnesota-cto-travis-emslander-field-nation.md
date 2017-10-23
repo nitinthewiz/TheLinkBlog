@@ -1,5 +1,6 @@
 ---
 title: "Meet A Minnesota CTO: Travis Emslander, Field Nation"
+slug: meet-a-minnesota-cto-travis-emslander-field-nation
 date: 2016-03-08 18:52:26 -0600
 external-url: http://tech.mn/news/2016/03/08/meet-a-minnesota-cto-travis-emslander-field-nation/
 hash: 22d194dc6dd0c4c7d4d4ed5e10a04697

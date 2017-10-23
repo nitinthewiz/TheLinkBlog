@@ -1,5 +1,6 @@
 ---
 title: "Visualize Whirled Tweets"
+slug: visualize-whirled-tweets
 date: 2009-03-13 23:03:17 -0500
 external-url: http://blog.twitter.com/2009/03/visualize-whirled-tweets.html
 hash: 13b00655c7fb1592cf4d724f93b00444

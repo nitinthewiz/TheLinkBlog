@@ -1,5 +1,6 @@
 ---
 title: "Target deploys prolific group of social-media gurus to win over consumers - StarTribune.com"
+slug: target-deploys-prolific-group-of-social-media-gurus-to-win-over-com
 date: 2013-04-15 14:05:48 -0500
 external-url: http://www.startribune.com/business/202800651.html
 hash: dde8ad945ac7b928e93052e2d2bc81c5

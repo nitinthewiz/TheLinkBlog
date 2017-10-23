@@ -1,5 +1,6 @@
 ---
 title: "Eating Animals - Nicolette Hahn Niman - Health - The Atlantic"
+slug: eating-animals-nicolette-hahn-niman-health-the-atlantic
 date: 2011-12-23 19:30:54 -0600
 external-url: http://www.theatlantic.com/health/archive/2011/12/eating-animals/250179/
 hash: df3d29a6c54baf68a61c4d35f47787fc

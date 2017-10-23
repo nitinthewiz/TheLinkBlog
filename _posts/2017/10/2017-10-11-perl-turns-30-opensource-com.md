@@ -1,5 +1,6 @@
 ---
 title: "Perl turns 30 | Opensource.com"
+slug: perl-turns-30-opensource-com
 date: 2017-10-11 19:55:26 -0500
 external-url: https://opensource.com/article/17/10/perl-turns-30
 hash: 89627310919f4bf97baa23b847792430

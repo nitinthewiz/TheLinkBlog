@@ -1,5 +1,6 @@
 ---
 title: "Henchmon - Damned easy web app monitoring"
+slug: henchmon-damned-easy-web-app-monitoring
 date: 2011-11-08 14:14:15 -0600
 external-url: http://henchmon.kickoffpages.com
 hash: 88f86356d1f39299e99bc492948b50d5

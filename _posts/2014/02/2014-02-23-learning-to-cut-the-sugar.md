@@ -1,5 +1,6 @@
 ---
 title: "Learning to Cut the Sugar"
+slug: learning-to-cut-the-sugar
 date: 2014-02-23 08:46:39 -0600
 external-url: http://well.blogs.nytimes.com/2014/02/19/learning-to-cut-the-sugar/?_php=true&_type=blogs&src=xps&_r=1
 hash: 43e2e9a924239a853681751c6fe05271

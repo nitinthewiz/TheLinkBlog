@@ -1,5 +1,6 @@
 ---
 title: "Tiny URLs based on pk"
+slug: tiny-urls-based-on-pk
 date: 2008-06-17 14:59:29 -0500
 external-url: http://blog.leahculver.com/2008/06/tiny-urls-based-on-pk.html
 hash: f2ad6cf30daa9b365b6b10f9dc737872

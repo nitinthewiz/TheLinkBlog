@@ -1,5 +1,6 @@
 ---
 title: "A Fistful Of Dollars: The Story of a Kiva.org Loan"
+slug: a-fistful-of-dollars-the-story-of-a-kiva-org-loan
 date: 2011-02-22 19:20:30 -0600
 external-url: http://vimeo.com/2769845
 hash: f6370eae26ec5b250cf958365e642da0

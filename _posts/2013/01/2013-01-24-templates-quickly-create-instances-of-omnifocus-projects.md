@@ -1,5 +1,6 @@
 ---
 title: "\"Templates\": Quickly Create Instances Of Omnifocus Projects"
+slug: templates-quickly-create-instances-of-omnifocus-projects
 date: 2013-01-24 10:43:17 -0600
 external-url: http://pxldot.com/projects/
 hash: 178b4066f8a5801040839994e8f47d92

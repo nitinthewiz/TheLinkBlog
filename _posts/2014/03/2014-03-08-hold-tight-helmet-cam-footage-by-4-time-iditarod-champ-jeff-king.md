@@ -1,5 +1,6 @@
 ---
 title: "Hold tight! Helmet cam footage by 4-time Iditarod champ Jeff King"
+slug: hold-tight-helmet-cam-footage-by-4-time-iditarod-champ-jeff-king
 date: 2014-03-08 16:23:48 -0600
 external-url: http://www.adn.com/article/20140307/hold-tight-helmet-cam-footage-4-time-iditarod-champ-jeff-king
 hash: 80ec69902542fe9f92801756caef7984

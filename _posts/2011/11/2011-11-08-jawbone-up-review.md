@@ -1,5 +1,6 @@
 ---
 title: "Jawbone UP Review"
+slug: jawbone-up-review
 date: 2011-11-08 14:06:30 -0600
 external-url: http://shawnwall.tumblr.com/post/12432034722/jawbone-up-review
 hash: b0a2521946f00425b92e60945c096ca2

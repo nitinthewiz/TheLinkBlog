@@ -1,5 +1,6 @@
 ---
 title: "The Value of Optimizing for Resilience - DZone Performance"
+slug: the-value-of-optimizing-for-resilience-dzone-performance
 date: 2017-10-09 20:39:18 -0500
 external-url: https://dzone.com/articles/the-value-of-optimising-for-resilience
 hash: a3dcab75394736f84e8be394a37c4bec

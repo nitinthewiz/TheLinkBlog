@@ -1,5 +1,6 @@
 ---
 title: "RemixRats"
+slug: remixrats
 date: 2010-12-13 14:56:22 -0600
 external-url: http://remixrats.tumblr.com/
 hash: 8461989e37c4bc90965c8cc1b8dfe56f

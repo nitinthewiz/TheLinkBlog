@@ -1,5 +1,6 @@
 ---
 title: "Traditional Media Companies Fight The 'Lumbering Giant' Tag"
+slug: traditional-media-companies-fight-the-lumbering-giant-tag
 date: 2008-04-29 19:19:30 -0500
 external-url: https://gigaom.com/2008/04/30/419-econsm-traditional-media-companies-fight-the-lumbering-giant-tag/
 hash: a7834b85ae104561362415a725855c14

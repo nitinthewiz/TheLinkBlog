@@ -1,5 +1,6 @@
 ---
 title: "Researcher-Entrepreneur JV CircLabs To Offer Publishers New Ad-Targeting Service"
+slug: researcher-entrepreneur-jv-circlabs-to-offer-publishers-new-ad-service
 date: 2009-05-28 09:58:15 -0500
 external-url: https://gigaom.com/2009/05/27/419-entrepreneurs-researchers-try-to-save-journalism-with-circlabs-jv/
 hash: a357e23cdddd3902f9763d4a599ef318

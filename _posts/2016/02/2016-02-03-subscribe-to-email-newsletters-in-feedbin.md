@@ -1,5 +1,6 @@
 ---
 title: "Subscribe to Email Newsletters in Feedbin"
+slug: subscribe-to-email-newsletters-in-feedbin
 date: 2016-02-03 19:13:16 -0600
 external-url: https://feedbin.com/blog/2016/02/03/subscribe-to-email-newsletters-in-feedbin/
 hash: 3a673842c2e43ec8002e371714fc9f5b

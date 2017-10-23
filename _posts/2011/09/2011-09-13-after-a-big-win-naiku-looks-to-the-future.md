@@ -1,5 +1,6 @@
 ---
 title: "After a big win, Naiku looks to the future"
+slug: after-a-big-win-naiku-looks-to-the-future
 date: 2011-09-13 19:00:00 -0500
 external-url: http://www.thelinemedia.com/innovationnews/naikufuture091411.aspx
 hash: b7ecbecdd7f1bcf799b3f3e7cf2eec36

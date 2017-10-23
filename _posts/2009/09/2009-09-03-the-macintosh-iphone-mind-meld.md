@@ -1,5 +1,6 @@
 ---
 title: "The Macintosh/iPhone Mind Meld"
+slug: the-macintosh-iphone-mind-meld
 date: 2009-09-03 22:55:55 -0500
 external-url: http://tidbits.com/article/10529
 hash: 092896cc76913ce4dd40e1924977e0dd

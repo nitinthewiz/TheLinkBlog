@@ -1,5 +1,6 @@
 ---
 title: "Wiki Inventor Sticks a Fork in His Baby"
+slug: wiki-inventor-sticks-a-fork-in-his-baby
 date: 2012-07-05 14:39:28 -0500
 external-url: http://www.wired.com/2012/07/wiki-inventor/
 hash: 5c86a4528cc2040d215b72fafe14aed9

@@ -1,5 +1,6 @@
 ---
 title: "Board service: Every board needs a bit of maintenance Wikimedia blog"
+slug: board-service-every-board-needs-a-bit-of-maintenance-wikimedia-blog
 date: 2014-03-06 20:29:29 -0600
 external-url: http://blog.wikimedia.org/2014/02/28/board-service-every-board-needs-a-bit-of-maintenance/
 hash: d9bf5bb355063fd41dc85d971f7b5fc1

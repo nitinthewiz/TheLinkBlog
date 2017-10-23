@@ -1,5 +1,6 @@
 ---
 title: "How will HD Radio fare in 2008?"
+slug: how-will-hd-radio-fare-in-2008
 date: 2007-12-09 01:59:59 -0600
 external-url: http://gigaom.com/2007/12/08/how-will-hd-radio-fare-in-2008/
 hash: 110c36c2d7886a45f8b11fa51ab7e40a

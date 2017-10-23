@@ -1,5 +1,6 @@
 ---
 title: "htop explained"
+slug: htop-explained
 date: 2016-12-04 11:01:51 -0600
 external-url: https://peteris.rocks/blog/htop/
 hash: 5622c8843cfec74c8ed3c78a2c3c6030

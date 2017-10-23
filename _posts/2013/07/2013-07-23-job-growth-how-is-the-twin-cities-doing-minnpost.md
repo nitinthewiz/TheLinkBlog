@@ -1,5 +1,6 @@
 ---
 title: "Job growth: How is the Twin Cities doing? - MinnPost"
+slug: job-growth-how-is-the-twin-cities-doing-minnpost
 date: 2013-07-23 22:00:05 -0500
 external-url: http://www.minnpost.com/cityscape/2012/11/job-growth-how-twin-cities-doing
 hash: 34d4e631a086fbd2dba88e1374581a81

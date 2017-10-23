@@ -1,5 +1,6 @@
 ---
 title: "Special Offer for Our Valued Readers"
+slug: special-offer-for-our-valued-readers
 date: 2011-04-26 11:04:28 -0500
 external-url: http://www.newyorker.com/magazine/2011/04/25/paywall
 hash: 693b7216b762d7e86c253fc525c6d48e

@@ -1,5 +1,6 @@
 ---
 title: "Safari Extension Hides You from Google and Facebook"
+slug: safari-extension-hides-you-from-google-and-facebook
 date: 2010-10-12 13:42:14 -0500
 external-url: http://tidbits.com/article/11660
 hash: b95662ed63bbcc76359a939eb70e8988

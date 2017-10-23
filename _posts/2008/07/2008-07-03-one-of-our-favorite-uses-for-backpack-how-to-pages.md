@@ -1,5 +1,6 @@
 ---
 title: "One of our favorite uses for Backpack: How to pages"
+slug: one-of-our-favorite-uses-for-backpack-how-to-pages
 date: 2008-07-03 10:34:57 -0500
 external-url: http://37signals.blogs.com/products/2008/07/one-of-our-favo.html
 hash: de2217ff0b022a8de6f0f2d7f148bb20

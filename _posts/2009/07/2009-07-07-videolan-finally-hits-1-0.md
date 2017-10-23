@@ -1,5 +1,6 @@
 ---
 title: "VideoLAN finally hits 1.0"
+slug: videolan-finally-hits-1-0
 date: 2009-07-07 23:54:17 -0500
 external-url: http://9to5mac.com/2009/07/07/videolan-finally-hits-1-0/
 hash: 3ee50a31afd8db1b773643b7824c88d7

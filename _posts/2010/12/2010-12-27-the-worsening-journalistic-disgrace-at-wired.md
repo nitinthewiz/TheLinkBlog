@@ -1,5 +1,6 @@
 ---
 title: "The worsening journalistic disgrace at Wired"
+slug: the-worsening-journalistic-disgrace-at-wired
 date: 2010-12-27 10:50:26 -0600
 external-url: https://www.salon.com/2010/12/27/wired_5/
 hash: 944c3043678894a64507c09bbd78f4bb

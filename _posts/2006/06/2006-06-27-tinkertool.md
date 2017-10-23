@@ -1,5 +1,6 @@
 ---
 title: "TinkerTool"
+slug: tinkertool
 date: 2006-06-27 17:43:20 -0500
 external-url: http://www.bresink.com/osx/TinkerTool.html
 hash: d6fe68f7fabe8124a7c211f3163dbfd2

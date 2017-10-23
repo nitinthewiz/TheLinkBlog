@@ -1,5 +1,6 @@
 ---
 title: "Lightroom 3 beta now available"
+slug: lightroom-3-beta-now-available
 date: 2009-10-21 23:25:49 -0500
 external-url: http://blogs.adobe.com/lightroomjournal/2009/10/lightroom_3_beta_now_available.html
 hash: a9fafe1baa4cb4c1fa84518c1321d839

@@ -1,5 +1,6 @@
 ---
 title: "Jer's Novel Writer"
+slug: jer-s-novel-writer
 date: 2006-11-09 00:15:44 -0600
 external-url: http://jerssoftwarehut.com/jers-novel-writer
 hash: 4124e235cefa646d33ef75334b1cfb83

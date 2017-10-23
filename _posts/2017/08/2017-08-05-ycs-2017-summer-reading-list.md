@@ -1,5 +1,6 @@
 ---
 title: "YC’s 2017 Summer Reading List"
+slug: ycs-2017-summer-reading-list
 date: 2017-08-05 13:10:28 -0500
 external-url: https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 hash: 53a71b85852c078566a35185391c7211

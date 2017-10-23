@@ -1,5 +1,6 @@
 ---
 title: "Nine Ways Successful People Defeat Stress"
+slug: nine-ways-successful-people-defeat-stress
 date: 2012-12-18 17:02:07 -0600
 external-url: http://blogs.hbr.org/2012/12/nine-ways-successful-people-de/
 hash: 0a397d10e512a2d6d3f077050094b3a9

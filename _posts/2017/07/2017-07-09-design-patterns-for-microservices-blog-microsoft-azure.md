@@ -1,5 +1,6 @@
 ---
 title: "Design patterns for microservices | Blog | Microsoft Azure"
+slug: design-patterns-for-microservices-blog-microsoft-azure
 date: 2017-07-09 20:50:18 -0500
 external-url: https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/
 hash: edf1c0b9ad484cbc62f1ae011529c2d3

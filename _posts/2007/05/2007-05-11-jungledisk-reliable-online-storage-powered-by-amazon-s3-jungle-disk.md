@@ -1,5 +1,6 @@
 ---
 title: "JungleDisk - Reliable online storage powered by Amazon S3 - Jungle Disk"
+slug: jungledisk-reliable-online-storage-powered-by-amazon-s3-jungle-disk
 date: 2007-05-11 01:09:39 -0500
 external-url: https://www.jungledisk.com/
 hash: cd24479142bb075bcd91e21a3791d86e

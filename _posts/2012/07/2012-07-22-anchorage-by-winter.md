@@ -1,5 +1,6 @@
 ---
 title: "Anchorage By Winter"
+slug: anchorage-by-winter
 date: 2012-07-22 21:16:46 -0500
 external-url: http://vimeo.com/45105667
 hash: ad280305dc1d4c91f7b49eb0c49077f7

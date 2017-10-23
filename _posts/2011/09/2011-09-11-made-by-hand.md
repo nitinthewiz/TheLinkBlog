@@ -1,5 +1,6 @@
 ---
 title: "Made By Hand"
+slug: made-by-hand
 date: 2011-09-11 08:54:06 -0500
 external-url: http://thisismadebyhand.com/
 hash: f0a098a3fb5a27c827118b84139a6c4e

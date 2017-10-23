@@ -1,5 +1,6 @@
 ---
 title: "Prices so low, they're practically insane: Panic 3-day sale is on"
+slug: prices-so-low-they-re-practically-insane-panic-3-day-sale-is-on
 date: 2009-05-27 11:38:10 -0500
 external-url: http://www.tuaw.com/2009/05/27/prices-so-low-theyre-practically-insane-panic-3-day-sale-is-o/
 hash: f4ad7fa3629858740ddac94fa66a0088

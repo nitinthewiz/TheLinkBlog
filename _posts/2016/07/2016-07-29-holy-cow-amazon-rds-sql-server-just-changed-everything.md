@@ -1,5 +1,6 @@
 ---
 title: "HOLY COW. Amazon RDS SQL Server Just Changed Everything."
+slug: holy-cow-amazon-rds-sql-server-just-changed-everything
 date: 2016-07-29 13:00:42 -0500
 external-url: http://www.brentozar.com/archive/2016/07/holy-cow-amazon-rds-sql-server-just-changed-everything/
 hash: 17aa898e56da4a6b41cd4e3b9d9f257f

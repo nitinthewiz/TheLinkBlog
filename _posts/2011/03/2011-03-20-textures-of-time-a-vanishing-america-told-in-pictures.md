@@ -1,5 +1,6 @@
 ---
 title: "Textures of Time: A Vanishing America Told in Pictures"
+slug: textures-of-time-a-vanishing-america-told-in-pictures
 date: 2011-03-20 12:49:16 -0500
 external-url: http://weburbanist.com/2010/07/14/textures-of-time-a-vanishing-america-told-in-pictures/
 hash: 825eb28f2b01881088e0dfce18ff1c82

@@ -1,5 +1,6 @@
 ---
 title: "Is Facebook Making Us Lonely?"
+slug: is-facebook-making-us-lonely
 date: 2012-04-16 17:39:36 -0500
 external-url: http://www.theatlantic.com/magazine/archive/2012/05/is-facebook-making-us-lonely/308930/
 hash: f55a5b2b639ca13c5d85b074b959b800

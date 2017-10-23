@@ -1,5 +1,6 @@
 ---
 title: "Following, liking and people searching"
+slug: following-liking-and-people-searching
 date: 2009-07-16 10:44:18 -0500
 external-url: http://googlereader.blogspot.com/2009/07/following-liking-and-people-searching.html
 hash: 10fff1db732c46f6dba83d09338bda34

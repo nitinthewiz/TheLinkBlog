@@ -1,5 +1,6 @@
 ---
 title: "All the things you didn’t know you could do with SaneBox"
+slug: all-the-things-you-didnt-know-you-could-do-with-sanebox
 date: 2015-10-03 20:39:16 -0500
 external-url: http://blog.sanebox.com/2015/02/04/all-the-things-you-didnt-know-you-could-do-with/
 hash: 2774636281545afac7734465bbc6bce4

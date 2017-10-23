@@ -1,5 +1,6 @@
 ---
 title: "Netlify: All-in-one platform for automating modern web projects."
+slug: netlify-all-in-one-platform-for-automating-modern-web-projects
 date: 2017-09-16 10:25:05 -0500
 external-url: https://www.netlify.com/
 hash: 2bb89659621e2f9314324129711f5dbb

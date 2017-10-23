@@ -1,5 +1,6 @@
 ---
 title: "Why 16% of the code on the average site belongs to Facebook, and what that means"
+slug: why-16-of-the-code-on-the-average-site-belongs-to-facebook-and-what
 date: 2017-09-04 06:34:50 -0500
 external-url: https://medium.com/@BenRegenspan/why-16-of-the-code-on-the-average-site-belongs-to-facebook-and-what-that-means-68956cd731be
 hash: 91541b4de4b75d542503b99f6a32b07a

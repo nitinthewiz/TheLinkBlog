@@ -1,5 +1,6 @@
 ---
 title: "Scaling the Facebook data warehouse to 300 PB"
+slug: scaling-the-facebook-data-warehouse-to-300-pb
 date: 2014-04-16 18:48:35 -0500
 external-url: https://code.facebook.com/posts/229861827208629/scaling-the-facebook-data-warehouse-to-300-pb/
 hash: e4de21d437caf04e2ea8c9dfea70269a

@@ -1,5 +1,6 @@
 ---
 title: "Amazon Distribution Network Strategy | MWPVL International"
+slug: amazon-distribution-network-strategy-mwpvl-international
 date: 2017-01-08 22:31:08 -0600
 external-url: http://www.mwpvl.com/html/amazon_com.html
 hash: 9061667df717985470db218a38045539

@@ -1,5 +1,6 @@
 ---
 title: "E-Commerce Experts Bustos & Gerten on F-Commerce – #Fail or Fan-tastic? | Social Commerce Today"
+slug: e-commerce-experts-bustos-gerten-on-f-commerce-fail-or-fan-tastic
 date: 2012-02-21 10:21:00 -0600
 external-url: http://socialcommercetoday.com/e-commerce-experts-bustos-gerten-on-f-commerce-fail-or-fan-tastic/
 hash: aefd77b9b18977bc34619879e171c711

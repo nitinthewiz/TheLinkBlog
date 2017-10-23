@@ -1,5 +1,6 @@
 ---
 title: "Congress Moves to Overturn Obama-Era Online Privacy Rules - The New York Times"
+slug: congress-moves-to-overturn-obama-era-online-privacy-rules-the-new-york
 date: 2017-03-29 07:01:20 -0500
 external-url: https://www.nytimes.com/2017/03/28/technology/congress-votes-to-overturn-obama-era-online-privacy-rules.html?emc=edit_nn_20170329&nl=morning-briefing&nlid=12498434&te=1&_r=0
 hash: c7572d97398b46b93300f134a871aba9

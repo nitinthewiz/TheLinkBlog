@@ -1,5 +1,6 @@
 ---
 title: "Candor: Dan Grigsby [part 2] - TECHdotMN"
+slug: candor-dan-grigsby-part-2-techdotmn
 date: 2014-12-04 11:08:40 -0600
 external-url: http://tech.mn/news/2014/12/04/candor-dan-grigsby-part-2/
 hash: b6b00d6030ebec6d69091da423d25b91

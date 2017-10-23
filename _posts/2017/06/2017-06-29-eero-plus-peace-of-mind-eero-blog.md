@@ -1,5 +1,6 @@
 ---
 title: "eero, plus peace of mind —Eero Blog"
+slug: eero-plus-peace-of-mind-eero-blog
 date: 2017-06-29 19:37:08 -0500
 external-url: https://blog.eero.com/eero-plus-peace-mind/
 hash: b6d18ceaf81e5ab03828b36355deb6e7

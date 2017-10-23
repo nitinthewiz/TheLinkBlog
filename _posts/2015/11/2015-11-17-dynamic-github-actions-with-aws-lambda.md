@@ -1,5 +1,6 @@
 ---
 title: "Dynamic GitHub Actions with AWS Lambda"
+slug: dynamic-github-actions-with-aws-lambda
 date: 2015-11-17 23:19:16 -0600
 external-url: https://aws.amazon.com/blogs/compute/dynamic-github-actions-with-aws-lambda/
 hash: c552b60be9526faf95f8a7fdc263b334

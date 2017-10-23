@@ -1,5 +1,6 @@
 ---
 title: "I asked Tinder for my data. It sent me 800 pages of my deepest, darkest secrets | Technology | The Guardian"
+slug: i-asked-tinder-for-my-data-it-sent-me-800-pages-of-my-deepest-darkest
 date: 2017-09-27 05:43:50 -0500
 external-url: https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold
 hash: 6e28268a23d3ee371d4139916a79400c

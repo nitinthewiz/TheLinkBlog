@@ -1,5 +1,6 @@
 ---
 title: "New EOS Model Coming?"
+slug: new-eos-model-coming
 date: 2005-08-08 15:00:56 -0500
 external-url: http://www.fredmiranda.com/forum/topic/261553/4
 hash: 14ce200828831a7ed34b37e487d77534

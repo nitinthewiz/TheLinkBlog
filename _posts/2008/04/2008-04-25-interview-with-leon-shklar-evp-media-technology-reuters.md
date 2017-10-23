@@ -1,5 +1,6 @@
 ---
 title: "Interview with Leon Shklar - EVP - Media Technology - Reuters"
+slug: interview-with-leon-shklar-evp-media-technology-reuters
 date: 2008-04-25 20:05:14 -0500
 external-url: http://www.howsoftwareisbuilt.com/2008/04/26/interview-with-leon-shklar-evp-media-technology-reuters/
 hash: 0502454a65ab860ebf80efff0e1afa45

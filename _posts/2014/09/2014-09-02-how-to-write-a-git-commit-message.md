@@ -1,5 +1,6 @@
 ---
 title: "How to Write a Git Commit Message"
+slug: how-to-write-a-git-commit-message
 date: 2014-09-02 21:25:48 -0500
 external-url: http://chris.beams.io/posts/git-commit/
 hash: 41f665de079966732af97c6adea4d9fc

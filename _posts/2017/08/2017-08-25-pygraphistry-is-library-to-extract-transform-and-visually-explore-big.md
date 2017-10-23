@@ -1,5 +1,6 @@
 ---
 title: "PyGraphistry is library to extract, transform, and visually explore big graphs"
+slug: pygraphistry-is-library-to-extract-transform-and-visually-explore-big
 date: 2017-08-25 20:06:02 -0500
 external-url: https://github.com/graphistry/pygraphistry
 hash: ee9dd6fef0ad96d684d22e8b9c090c38

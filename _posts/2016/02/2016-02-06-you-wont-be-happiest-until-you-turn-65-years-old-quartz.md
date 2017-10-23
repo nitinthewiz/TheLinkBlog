@@ -1,5 +1,6 @@
 ---
 title: "You won’t be happiest until you turn 65 years old - Quartz"
+slug: you-wont-be-happiest-until-you-turn-65-years-old-quartz
 date: 2016-02-06 07:42:54 -0600
 external-url: http://qz.com/609982/you-wont-be-happiest-until-you-turn-65-years-old/
 hash: deb785bbe4f11d9bb101731a3f75019f

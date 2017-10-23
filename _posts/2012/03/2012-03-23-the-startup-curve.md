@@ -1,5 +1,6 @@
 ---
 title: "The Startup Curve"
+slug: the-startup-curve
 date: 2012-03-23 13:15:42 -0500
 external-url: http://avc.com/2012/03/the-startup-curve/
 hash: c53b6ab032900261eecf999fb1178922

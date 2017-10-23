@@ -1,5 +1,6 @@
 ---
 title: "★ A Liberal, Accurate Regex Pattern for Matching URLs"
+slug: a-liberal-accurate-regex-pattern-for-matching-urls
 date: 2009-11-27 23:11:13 -0600
 external-url: http://daringfireball.net/2009/11/liberal_regex_for_matching_urls
 hash: 9c3505d505573a6af525b008749cb7ed

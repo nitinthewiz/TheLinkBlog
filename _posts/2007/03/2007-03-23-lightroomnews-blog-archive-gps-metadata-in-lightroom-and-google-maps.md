@@ -1,5 +1,6 @@
 ---
 title: "LightroomNews » Blog Archive » GPS metadata in Lightroom and Google Maps"
+slug: lightroomnews-blog-archive-gps-metadata-in-lightroom-and-google-maps
 date: 2007-03-23 22:39:22 -0500
 external-url: http://lightroom-news.com/2007/03/23/gps-metadata-in-lightroom-and-google-maps/
 hash: 7eac0865761ccdb119587f257a4192cd

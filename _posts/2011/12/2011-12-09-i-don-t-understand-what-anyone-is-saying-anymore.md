@@ -1,5 +1,6 @@
 ---
 title: "I Don't Understand What Anyone Is Saying Anymore"
+slug: i-don-t-understand-what-anyone-is-saying-anymore
 date: 2011-12-09 06:03:19 -0600
 external-url: http://blogs.hbr.org/pallotta/2011/12/i-dont-understand-what-anyone.html
 hash: 459090c0790dc4a5b55b281db9d18c20

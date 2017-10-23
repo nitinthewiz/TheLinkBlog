@@ -1,5 +1,6 @@
 ---
 title: "CaringBridge Career Opportunities."
+slug: caringbridge-career-opportunities
 date: 2010-09-30 22:13:11 -0500
 external-url: http://www.caringbridge.org/about-us/career-opportunities
 hash: 2fc4bbea61a086d557a5d84eb40d6e92

@@ -1,5 +1,6 @@
 ---
 title: "Facebook is broken | TechCrunch"
+slug: facebook-is-broken-techcrunch
 date: 2017-06-06 21:44:51 -0500
 external-url: https://techcrunch.com/2017/06/04/when-you-look-into-the-news-feed-the-news-feed-looks-into-you/
 hash: 44c56df112d5222dd9d338af85a431bf

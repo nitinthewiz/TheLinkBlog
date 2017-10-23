@@ -1,5 +1,6 @@
 ---
 title: "The role of a Senior Developer - Matt Briggs"
+slug: the-role-of-a-senior-developer-matt-briggs
 date: 2015-06-29 19:07:54 -0500
 external-url: http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/
 hash: 903c1608675cf59049a918bef01bce45

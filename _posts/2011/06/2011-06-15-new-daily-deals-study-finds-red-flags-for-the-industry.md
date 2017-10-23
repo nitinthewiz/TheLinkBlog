@@ -1,5 +1,6 @@
 ---
 title: "New Daily Deals Study Finds Red Flags For The Industry"
+slug: new-daily-deals-study-finds-red-flags-for-the-industry
 date: 2011-06-15 05:27:45 -0500
 external-url: http://gigaom.com/2011/06/15/419-new-daily-deals-study-finds-red-flags-for-the-industry/
 hash: 52cf3365660f5b9d2bd3811790663223

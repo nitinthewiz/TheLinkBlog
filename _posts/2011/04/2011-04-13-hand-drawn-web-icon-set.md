@@ -1,5 +1,6 @@
 ---
 title: "Hand-drawn Web Icon Set"
+slug: hand-drawn-web-icon-set
 date: 2011-04-13 19:57:04 -0500
 external-url: http://177icons.com/hand-drawn-web-icon-set
 hash: 5dba0334ccd9680eb2f5e94200809afe

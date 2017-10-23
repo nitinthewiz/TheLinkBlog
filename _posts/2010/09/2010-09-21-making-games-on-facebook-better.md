@@ -1,5 +1,6 @@
 ---
 title: "Making Games on Facebook Better"
+slug: making-games-on-facebook-better
 date: 2010-09-21 13:20:00 -0500
 external-url: https://developers.facebook.com/blog/post/410/
 hash: af7941000f97a1b50b05148fae904dec

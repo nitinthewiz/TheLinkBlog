@@ -1,5 +1,6 @@
 ---
 title: "Macheist bundle completely unlocked"
+slug: macheist-bundle-completely-unlocked
 date: 2008-01-14 16:30:00 -0600
 external-url: http://www.tuaw.com/2008/01/14/macheist-bundle-completely-unlocked/
 hash: b4443874f5a0eaa7df35952181eb86d5

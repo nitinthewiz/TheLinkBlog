@@ -1,5 +1,6 @@
 ---
 title: "EventBurn: Big Green Egg"
+slug: eventburn-big-green-egg
 date: 2011-01-14 16:09:46 -0600
 external-url: http://www.eventburn.com/big_green_egg
 hash: 91f82fc554b81a3c9acfbba43454d843

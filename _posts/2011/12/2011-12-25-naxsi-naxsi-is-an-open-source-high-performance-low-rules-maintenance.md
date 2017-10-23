@@ -1,5 +1,6 @@
 ---
 title: "naxsi - Naxsi is an open source, high performance, low rules maintenance, Web Application Firewall module for Nginx - Google Project Hosting"
+slug: naxsi-naxsi-is-an-open-source-high-performance-low-rules-maintenance
 date: 2011-12-25 04:39:20 -0600
 external-url: http://code.google.com/p/naxsi/
 hash: ecc732e23986954ef76b5cbb34e307f2

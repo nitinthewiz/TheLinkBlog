@@ -1,5 +1,6 @@
 ---
 title: "Why HD Won't Save Radio, And Why Fred Wilson Thinks It Will"
+slug: why-hd-won-t-save-radio-and-why-fred-wilson-thinks-it-will
 date: 2008-01-09 09:51:04 -0600
 external-url: http://www.businessinsider.com/2008/1/why-hd-wont-save-radio
 hash: 5c23199cfe3364ba05798665e36c0a00

@@ -1,5 +1,6 @@
 ---
 title: "Bear Kirkpatrick"
+slug: bear-kirkpatrick
 date: 2010-08-21 09:45:00 -0500
 external-url: http://artnudes.blogspot.com/2010/08/bear-kirkpatrick.html
 hash: 50eec84b5a0986b1a01c884fd475bc40

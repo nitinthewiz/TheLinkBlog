@@ -1,5 +1,6 @@
 ---
 title: "WordPress now accepting payment in Bitcoin"
+slug: wordpress-now-accepting-payment-in-bitcoin
 date: 2012-11-16 11:26:31 -0600
 external-url: http://arstechnica.com/business/2012/11/wordpress-now-accepting-payment-in-bitcoin/
 hash: 38178677db49d538cadbb8f2c41d3412

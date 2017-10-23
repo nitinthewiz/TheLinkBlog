@@ -1,5 +1,6 @@
 ---
 title: "Redesigns and office pics"
+slug: redesigns-and-office-pics
 date: 2008-06-20 11:03:00 -0500
 external-url: http://www.slicehost.com/articles/2008/6/20/site-redesigns-and-office-photos
 hash: d088bc165ddb2cca6a4cff270f64bbb9

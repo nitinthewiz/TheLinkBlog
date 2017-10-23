@@ -1,5 +1,6 @@
 ---
 title: "InfiniteGraph, the Distributed Graph Database"
+slug: infinitegraph-the-distributed-graph-database
 date: 2012-01-06 16:38:27 -0600
 external-url: http://www.objectivity.com/infinitegraph
 hash: 821bf147e0d1d2687bf301256b6f61a2

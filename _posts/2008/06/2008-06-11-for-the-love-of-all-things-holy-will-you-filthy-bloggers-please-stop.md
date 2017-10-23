@@ -1,5 +1,6 @@
 ---
 title: "For the love of all things holy, will you filthy bloggers please stop doing this?"
+slug: for-the-love-of-all-things-holy-will-you-filthy-bloggers-please-stop
 date: 2008-06-11 09:15:00 -0500
 external-url: http://fakesteve.blogspot.com/2008/06/for-love-of-all-things-holy-will-you.html
 hash: a2e7949febdfbfa8f200c84d0f72433d

@@ -1,5 +1,6 @@
 ---
 title: "How I Managed My Inbox on Vacation"
+slug: how-i-managed-my-inbox-on-vacation
 date: 2016-09-16 20:33:58 -0500
 external-url: https://blog.sanebox.com/2016/09/15/manage-email-inbox-vacation/
 hash: fdb0613400a9d2193047100219f3bb6d

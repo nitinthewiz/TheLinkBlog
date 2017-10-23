@@ -1,5 +1,6 @@
 ---
 title: "The Keys to Employee Retention"
+slug: the-keys-to-employee-retention
 date: 2015-06-20 19:42:56 -0500
 external-url: https://getlighthouse.com/blog/employee-retention/
 hash: 9f2ee477e0fbfdcb967c912351eadb46

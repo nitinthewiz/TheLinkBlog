@@ -1,5 +1,6 @@
 ---
 title: "Announcing the Coco Framework for enterprise blockchain networks | Blog | Microsoft Azure"
+slug: announcing-the-coco-framework-for-enterprise-blockchain-networks-blog
 date: 2017-08-11 10:16:35 -0500
 external-url: https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
 hash: 93269b141f1baf334d9e8e8c9469f665

@@ -1,5 +1,6 @@
 ---
 title: "Building an Embedded Asterisk PBX"
+slug: building-an-embedded-asterisk-pbx
 date: 2006-01-16 15:30:41 -0600
 external-url: http://www.tomsguide.com/us/how-to-asterisk-pbx%2Creview-623.html
 hash: 6aa67c356ccf5be9b37964e4eae935db

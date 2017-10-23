@@ -1,5 +1,6 @@
 ---
 title: "YSlow for Firebug"
+slug: yslow-for-firebug
 date: 2007-07-25 08:51:26 -0500
 external-url: http://developer.yahoo.com/yslow/
 hash: e0ef18d76bef70ddf281bdfecb0137f8

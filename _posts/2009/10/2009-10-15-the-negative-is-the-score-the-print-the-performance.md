@@ -1,5 +1,6 @@
 ---
 title: "&quot;The Negative is the Score, the Print the Performance&quot;"
+slug: the-negative-is-the-score-the-print-the-performance
 date: 2009-10-15 00:06:37 -0500
 external-url: http://laynekennedy.blogspot.com/2009/10/negative-is-score-print-performance.html
 hash: aa7431551dd631cf0ce74841b9a50451

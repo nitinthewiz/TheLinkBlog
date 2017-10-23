@@ -1,5 +1,6 @@
 ---
 title: "Why You Want a Code of Conduct & How We Made One - Incisive.nu"
+slug: why-you-want-a-code-of-conduct-how-we-made-one-incisive-nu
 date: 2014-09-13 13:44:45 -0500
 external-url: http://incisive.nu/2014/codes-of-conduct/
 hash: da326e2666ffd45f896695663cd332ba

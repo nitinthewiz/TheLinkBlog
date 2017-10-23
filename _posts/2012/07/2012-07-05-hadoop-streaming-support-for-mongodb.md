@@ -1,5 +1,6 @@
 ---
 title: "Hadoop Streaming Support for MongoDB"
+slug: hadoop-streaming-support-for-mongodb
 date: 2012-07-05 20:39:14 -0500
 external-url: http://blog.mongodb.org/post/24610529795/hadoop-streaming-support-for-mongodb
 hash: d611d13500b46cfe9c2d6a94ddf930a5

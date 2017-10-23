@@ -1,5 +1,6 @@
 ---
 title: "Facebook Snags Open Web Community Leader Recordon"
+slug: facebook-snags-open-web-community-leader-recordon
 date: 2009-08-25 00:05:27 -0500
 external-url: http://readwrite.com/2009/08/24/facebook_snags_open_web_community_leader_recordon
 hash: 288dccd4220779a112fde1c3fd99207d

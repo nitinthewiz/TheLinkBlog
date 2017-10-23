@@ -1,5 +1,6 @@
 ---
 title: "AppZapper: a great big upgrade for a small utility"
+slug: appzapper-a-great-big-upgrade-for-a-small-utility
 date: 2010-01-07 20:53:32 -0600
 external-url: http://www.tuaw.com/2010/01/06/appzapper-a-great-big-upgrade-for-a-small-utility/
 hash: 3ba2a35a26a40b7ab29cc20c7eef33d8

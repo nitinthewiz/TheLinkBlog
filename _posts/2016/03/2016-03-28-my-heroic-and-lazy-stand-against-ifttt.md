@@ -1,5 +1,6 @@
 ---
 title: "My Heroic and Lazy Stand Against IFTTT"
+slug: my-heroic-and-lazy-stand-against-ifttt
 date: 2016-03-28 20:53:36 -0500
 external-url: https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/
 hash: 8c7961e41092a299fc1b0c219bc0d39b

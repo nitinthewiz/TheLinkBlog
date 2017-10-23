@@ -1,5 +1,6 @@
 ---
 title: "Peloton Cycle ®| Exercise Bike With Indoor Cycling Classes Streamed Live & On-Demand"
+slug: peloton-cycle-r-exercise-bike-with-indoor-cycling-classes-streamed-on
 date: 2017-03-28 21:45:22 -0500
 external-url: https://www.pelotoncycle.com/
 hash: 16d70db80a79e2d1909fff0d0b69096c

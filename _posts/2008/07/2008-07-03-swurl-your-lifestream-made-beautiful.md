@@ -1,5 +1,6 @@
 ---
 title: "Swurl: Your Lifestream, Made Beautiful"
+slug: swurl-your-lifestream-made-beautiful
 date: 2008-07-03 18:23:38 -0500
 external-url: http://readwrite.com/2008/07/03/swurl_your_lifestream_made_bea
 hash: bdbee51847f3c1e6f0c7b2b31e4d0741

@@ -1,5 +1,6 @@
 ---
 title: "Deploying Django on Heroku (Mac OS X)"
+slug: deploying-django-on-heroku-mac-os-x
 date: 2011-09-18 22:17:55 -0500
 external-url: http://blog.abhiomkar.in/2011/09/17/deploying-django-on-heroku-mac-os-x/
 hash: c8f155d256dcb051a8deb1b1e0b36a32

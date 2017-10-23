@@ -1,5 +1,6 @@
 ---
 title: "Capturing in the Moment - Inside OmniFocus"
+slug: capturing-in-the-moment-inside-omnifocus
 date: 2015-01-04 15:11:16 -0600
 external-url: http://inside.omnifocus.com/Sven-Fechner
 hash: 962c9e61b446cfda58d22430f51fe8c3

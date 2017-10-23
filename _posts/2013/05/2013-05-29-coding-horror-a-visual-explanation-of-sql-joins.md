@@ -1,5 +1,6 @@
 ---
 title: "Coding Horror: A Visual Explanation of SQL Joins"
+slug: coding-horror-a-visual-explanation-of-sql-joins
 date: 2013-05-29 13:04:59 -0500
 external-url: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins
 hash: b5590466fe8f578d22df360bd44cc87f

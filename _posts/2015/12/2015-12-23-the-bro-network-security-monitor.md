@@ -1,5 +1,6 @@
 ---
 title: "The Bro Network Security Monitor"
+slug: the-bro-network-security-monitor
 date: 2015-12-23 04:28:22 -0600
 external-url: https://www.bro.org/
 hash: 2a76c9015c8aa5f21d150cd1d3a99aed

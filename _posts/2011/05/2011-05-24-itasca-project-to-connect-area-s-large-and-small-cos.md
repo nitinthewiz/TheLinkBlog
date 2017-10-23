@@ -1,5 +1,6 @@
 ---
 title: "Itasca Project to Connect Area's Large and Small Cos."
+slug: itasca-project-to-connect-area-s-large-and-small-cos
 date: 2011-05-24 01:09:34 -0500
 external-url: http://tcbmag.blogs.com/daily_developments/2011/05/itasca-project-to-connect-areas-large-and-small-cos.html
 hash: a8fcc16df9e27ffc130aea747dccb8af

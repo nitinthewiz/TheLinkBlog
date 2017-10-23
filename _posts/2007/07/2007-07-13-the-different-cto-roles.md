@@ -1,5 +1,6 @@
 ---
 title: "The Different CTO Roles"
+slug: the-different-cto-roles
 date: 2007-07-13 10:57:43 -0500
 external-url: http://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html
 hash: 1eb1f0b078976f20f3081b25437f2daf

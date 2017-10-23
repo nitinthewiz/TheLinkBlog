@@ -1,5 +1,6 @@
 ---
 title: "\"Autistic Social Software\" :: Supernova 2004"
+slug: autistic-social-software-supernova-2004
 date: 2008-02-14 14:38:42 -0600
 external-url: http://www.danah.org/papers/Supernova2004.html
 hash: 1d4d54d3d78c7a36ee1568d1f09be251

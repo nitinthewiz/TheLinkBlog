@@ -1,5 +1,6 @@
 ---
 title: "Things 1.1Things Touch 1.3.5: Area Sync"
+slug: things-1-1things-touch-1-3-5-area-sync
 date: 2009-05-11 23:33:47 -0500
 external-url: http://www.tuaw.com/2009/05/11/things-1-1-things-touch-with-area-sync/
 hash: b771510d45cf63d90fb0ad5fe3d1eaff

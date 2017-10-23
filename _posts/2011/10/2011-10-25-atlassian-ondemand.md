@@ -1,5 +1,6 @@
 ---
 title: "Atlassian OnDemand"
+slug: atlassian-ondemand
 date: 2011-10-25 19:59:27 -0500
 external-url: http://www.atlassian.com/software/ondemand/overview
 hash: e2ed0d8d468b93bf6893e0cee4179f66

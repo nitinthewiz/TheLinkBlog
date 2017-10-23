@@ -1,5 +1,6 @@
 ---
 title: "Apache Camel - Wikipedia, the free encyclopedia"
+slug: apache-camel-wikipedia-the-free-encyclopedia
 date: 2015-07-16 19:07:31 -0500
 external-url: https://en.wikipedia.org/wiki/Apache_Camel?wprov=sfti1
 hash: bfcb286de2e2d8fe7740e65adb769325

@@ -1,5 +1,6 @@
 ---
 title: "Ambrosia Software, Inc. -- utilities/itoner"
+slug: ambrosia-software-inc-utilities-itoner
 date: 2007-09-21 10:46:03 -0500
 external-url: http://www.ambrosiasw.com/utilities/iToner/
 hash: 30c65dd0aa6cd2a94bfc5ecc701841b2

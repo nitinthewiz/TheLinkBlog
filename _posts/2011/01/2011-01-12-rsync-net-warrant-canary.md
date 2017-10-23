@@ -1,5 +1,6 @@
 ---
 title: "rsync.net Warrant Canary"
+slug: rsync-net-warrant-canary
 date: 2011-01-12 23:41:17 -0600
 external-url: http://www.rsync.net/resources/notices/canary.txt
 hash: 042b7e7645dbf041c1a39cf5d41706bb

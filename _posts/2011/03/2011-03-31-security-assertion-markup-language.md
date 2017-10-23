@@ -1,5 +1,6 @@
 ---
 title: "Security Assertion Markup Language"
+slug: security-assertion-markup-language
 date: 2011-03-31 12:04:29 -0500
 external-url: http://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 hash: 962f890e9d804ab3f44aba261a7c5300

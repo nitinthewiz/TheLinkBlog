@@ -1,5 +1,6 @@
 ---
 title: "20 Spectacular 4th of July Fireworks Displays on Flickr"
+slug: 20-spectacular-4th-of-july-fireworks-displays-on-flickr
 date: 2010-07-04 16:39:06 -0500
 external-url: http://mashable.com/2010/07/04/4th-of-july-2010-fireworks/
 hash: 750bd8cd66aa9c2d6af85e384fbfb14a

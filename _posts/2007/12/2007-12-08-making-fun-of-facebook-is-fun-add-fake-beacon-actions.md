@@ -1,5 +1,6 @@
 ---
 title: "Making Fun Of Facebook Is Fun: Add Fake Beacon Actions"
+slug: making-fun-of-facebook-is-fun-add-fake-beacon-actions
 date: 2007-12-08 18:38:13 -0600
 external-url: http://techcrunch.com/2007/12/08/making-fun-of-facebook-is-fun-add-fake-beacon-actions/
 hash: c17360f905e804457b90386374d5b030

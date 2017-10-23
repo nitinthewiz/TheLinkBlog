@@ -1,5 +1,6 @@
 ---
 title: "Blockbuster (BBI) Surrenders to Netflix, Jacks Prices"
+slug: blockbuster-bbi-surrenders-to-netflix-jacks-prices
 date: 2007-12-21 10:24:25 -0600
 external-url: http://www.businessinsider.com/2007/12/blockbuster-bbi-killing-off-online-rental-business
 hash: 268146c70a6caf4b77e693b2b397e59c

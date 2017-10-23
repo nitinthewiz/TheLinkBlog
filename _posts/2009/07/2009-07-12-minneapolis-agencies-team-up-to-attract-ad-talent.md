@@ -1,5 +1,6 @@
 ---
 title: "Minneapolis Agencies Team Up to Attract Ad Talent"
+slug: minneapolis-agencies-team-up-to-attract-ad-talent
 date: 2009-07-12 21:46:53 -0500
 external-url: http://www.nytimes.com/2009/07/13/business/media/13adcol.html
 hash: d3fd2cd30c6a105f1c64afc3d4f11066

@@ -1,5 +1,6 @@
 ---
 title: "Spend More Time Alone - Study Hacks - Cal Newport"
+slug: spend-more-time-alone-study-hacks-cal-newport
 date: 2017-09-24 07:49:59 -0500
 external-url: http://calnewport.com/blog/2017/09/24/spend-more-time-alone/
 hash: e9dfdf5a5697e64f1ea30157ed754265

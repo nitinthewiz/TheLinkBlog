@@ -1,5 +1,6 @@
 ---
 title: "Facebook (by Richard Stallman)"
+slug: facebook-by-richard-stallman
 date: 2015-03-15 21:01:36 -0500
 external-url: https://stallman.org/facebook.html
 hash: 4d6a2cb863b9c8363801defb469940c1

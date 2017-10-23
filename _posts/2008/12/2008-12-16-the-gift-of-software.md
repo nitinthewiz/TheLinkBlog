@@ -1,5 +1,6 @@
 ---
 title: "The Gift Of Software"
+slug: the-gift-of-software
 date: 2008-12-16 21:14:30 -0600
 external-url: http://www.red-sweater.com/blog/659/the-gift-of-software
 hash: 199aa739eb6056d812d867e59224db8c

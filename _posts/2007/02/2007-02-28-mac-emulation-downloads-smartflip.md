@@ -1,5 +1,6 @@
 ---
 title: "Mac Emulation Downloads » SmartFlip"
+slug: mac-emulation-downloads-smartflip
 date: 2007-02-28 15:11:19 -0600
 external-url: http://www.osx-e.com/downloads/applications/smartflip.html
 hash: 5fc4ae4edd1fd413958f578e9b04cc9a

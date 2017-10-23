@@ -1,5 +1,6 @@
 ---
 title: "Guaranteed Ride Home - Metro Transit"
+slug: guaranteed-ride-home-metro-transit
 date: 2012-03-07 16:50:49 -0600
 external-url: http://www.metrotransit.org/guaranteed-ride-home.aspx
 hash: d035af876ba8055987e0ead11581b0cd

@@ -1,5 +1,6 @@
 ---
 title: "Travel Norway – The Architectural Way"
+slug: travel-norway-the-architectural-way
 date: 2011-06-21 11:42:37 -0500
 external-url: http://www.flylyf.com/travel-norway-the-architectural-way/
 hash: c674127708666433fb205cc88da62255

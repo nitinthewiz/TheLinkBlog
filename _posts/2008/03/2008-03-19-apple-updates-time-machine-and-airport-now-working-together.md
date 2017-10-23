@@ -1,5 +1,6 @@
 ---
 title: "Apple updates Time Machine and Airport - Now working together"
+slug: apple-updates-time-machine-and-airport-now-working-together
 date: 2008-03-19 19:45:31 -0500
 external-url: http://9to5mac.com/2008/03/19/apple-updates-time-machine-and-airport-now-working-together/
 hash: f7dc2e7bb9918cb429b4b3937aa79d7a

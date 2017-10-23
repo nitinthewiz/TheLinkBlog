@@ -1,5 +1,6 @@
 ---
 title: "10 Technical Papers Every Programmer Should Read (At Least Twice)"
+slug: 10-technical-papers-every-programmer-should-read-at-least-twice
 date: 2011-09-11 08:52:11 -0500
 external-url: http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
 hash: ba30c0b60e1565e8efebf2161dc95720

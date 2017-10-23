@@ -1,5 +1,6 @@
 ---
 title: "» Former USA Today ad exec says killing the print edition would be ‘a friggin’ travesty’ JIMROMENESKO.COM"
+slug: former-usa-today-ad-exec-says-killing-the-print-edition-would-be-a-com
 date: 2015-05-23 21:00:07 -0500
 external-url: http://jimromenesko.com/2015/05/23/former-usa-today-ad-exec-says-killing-the-print-edition-would-be-a-friggin-travesty/
 hash: 0ef6eec71251dcfaef65c7ad6154a673

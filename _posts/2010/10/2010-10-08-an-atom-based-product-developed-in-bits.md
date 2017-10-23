@@ -1,5 +1,6 @@
 ---
 title: "‘An Atom-Based Product, Developed in Bits’"
+slug: an-atom-based-product-developed-in-bits
 date: 2010-10-08 10:48:45 -0500
 external-url: http://www.economist.com/blogs/babbage/2010/10/small-scale_production
 hash: 1aaf6692bbc3b56643cc46c9b854f093

@@ -1,5 +1,6 @@
 ---
 title: "The alarming drag of auto-nag - Next Action Associates"
+slug: the-alarming-drag-of-auto-nag-next-action-associates
 date: 2016-07-07 20:27:08 -0500
 external-url: http://www.next-action.eu/2016/07/07/alarming-drag-auto-nag/
 hash: 5caf24fae2cde1ca980a9be37ae74283

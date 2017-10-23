@@ -1,5 +1,6 @@
 ---
 title: "#define CTO"
+slug: define-cto
 date: 2014-10-28 20:40:06 -0500
 external-url: http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
 hash: 4ef3e84ac1a579a049ed99e6629fb578

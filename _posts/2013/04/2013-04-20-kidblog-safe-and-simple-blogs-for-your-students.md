@@ -1,5 +1,6 @@
 ---
 title: "Kidblog - Safe and simple blogs for your students"
+slug: kidblog-safe-and-simple-blogs-for-your-students
 date: 2013-04-20 07:53:13 -0500
 external-url: http://kidblog.org/home/
 hash: d303ba7a9e7e14df3d18139a7aa3d15a

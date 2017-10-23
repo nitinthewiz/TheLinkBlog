@@ -1,5 +1,6 @@
 ---
 title: "Regarding RailsConf 2008"
+slug: regarding-railsconf-2008
 date: 2008-06-04 07:42:00 -0500
 external-url: http://hivelogic.com/articles/2008/06/regarding-railsconf-2008
 hash: 52d74521c19801113307af2fc84e01ea

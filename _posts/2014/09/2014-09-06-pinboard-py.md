@@ -1,5 +1,6 @@
 ---
 title: "Pinboard.py"
+slug: pinboard-py
 date: 2014-09-06 09:59:26 -0500
 external-url: https://github.com/lionheart/pinboard.py
 hash: b4b2d7d1e2ec6ca21bb9db8933d3e81c

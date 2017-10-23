@@ -1,5 +1,6 @@
 ---
 title: "Ascii Art Collection"
+slug: ascii-art-collection
 date: 2011-07-16 23:30:33 -0500
 external-url: http://www.ascii-art.de/ascii/
 hash: 35bdd0a14c28005f94aa341eac31d83c

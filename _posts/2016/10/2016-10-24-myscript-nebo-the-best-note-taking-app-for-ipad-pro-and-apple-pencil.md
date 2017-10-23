@@ -1,5 +1,6 @@
 ---
 title: "MyScript Nebo: The best note-taking app for iPad Pro and Apple Pencil"
+slug: myscript-nebo-the-best-note-taking-app-for-ipad-pro-and-apple-pencil
 date: 2016-10-24 23:10:47 -0500
 external-url: http://www.appleworld.today/blog/2016/10/24/myscript-nebo-for-ipad-pro-and-apple-pencil
 hash: c8c55e368f95fe4de0969860ae060270

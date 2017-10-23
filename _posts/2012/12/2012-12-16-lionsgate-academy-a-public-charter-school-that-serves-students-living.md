@@ -1,5 +1,6 @@
 ---
 title: "Lionsgate Academy - A public charter school that serves students living with autism."
+slug: lionsgate-academy-a-public-charter-school-that-serves-students-living
 date: 2012-12-16 19:58:26 -0600
 external-url: http://www.lionsgateacademy.org/
 hash: 542140bd55cbcefc38abb07912e1f54b

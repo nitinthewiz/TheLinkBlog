@@ -1,5 +1,6 @@
 ---
 title: "Dads and Daughters"
+slug: dads-and-daughters
 date: 2007-04-14 15:29:51 -0500
 external-url: http://www.joekelly.org/
 hash: 025c508af11d7a8f0f19f9b58f70f6db

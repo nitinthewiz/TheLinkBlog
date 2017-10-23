@@ -1,5 +1,6 @@
 ---
 title: "The GraphInsight Software - Business Intelligence for graph data"
+slug: the-graphinsight-software-business-intelligence-for-graph-data
 date: 2012-04-10 17:37:22 -0500
 external-url: http://www.graphinsight.com/
 hash: 41a80c4597a551096b83edccda5e0850

@@ -1,5 +1,6 @@
 ---
 title: "Opting-out of Google Plus"
+slug: opting-out-of-google-plus
 date: 2011-06-30 05:36:25 -0500
 external-url: http://scripting.com/stories/2011/06/30/optingoutOfGooglePlus.html
 hash: 4dc366f5cd30bb9ca5da65eb9db1e2fe

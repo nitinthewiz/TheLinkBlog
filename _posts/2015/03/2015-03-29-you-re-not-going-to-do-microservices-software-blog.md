@@ -1,5 +1,6 @@
 ---
 title: "You're not going to do Microservices – Software Blog"
+slug: you-re-not-going-to-do-microservices-software-blog
 date: 2015-03-29 19:53:09 -0500
 external-url: http://blog.christianposta.com/microservices/youre-not-going-to-do-microservices/
 hash: 0ece0ae41acf13e4a61604955fef41fa

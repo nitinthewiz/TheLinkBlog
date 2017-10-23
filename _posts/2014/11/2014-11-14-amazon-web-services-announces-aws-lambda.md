@@ -1,5 +1,6 @@
 ---
 title: "Amazon Web Services Announces AWS Lambda"
+slug: amazon-web-services-announces-aws-lambda
 date: 2014-11-14 10:07:21 -0600
 external-url: http://www.streetinsider.com/Press+Releases/Amazon+Web+Services+Announces+AWS+Lambda/10010731.html
 hash: 696ed38a69679e1665deb4d8b76a9cc2

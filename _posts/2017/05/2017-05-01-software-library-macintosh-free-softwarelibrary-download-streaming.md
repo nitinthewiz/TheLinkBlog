@@ -1,5 +1,6 @@
 ---
 title: "Software Library: Macintosh : Free Softwarelibrary : Download & Streaming : Internet Archive"
+slug: software-library-macintosh-free-softwarelibrary-download-streaming
 date: 2017-05-01 11:45:10 -0500
 external-url: https://archive.org/details/softwarelibrary_mac
 hash: 9670a3262a314ad779d94de108c8c8ad

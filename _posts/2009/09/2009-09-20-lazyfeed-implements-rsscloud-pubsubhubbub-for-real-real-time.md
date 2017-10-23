@@ -1,5 +1,6 @@
 ---
 title: "Lazyfeed Implements RSSCloud/PubSubHubBub for “Real Real Time”"
+slug: lazyfeed-implements-rsscloud-pubsubhubbub-for-real-real-time
 date: 2009-09-20 23:35:57 -0500
 external-url: http://readwrite.com/2009/09/18/lazyfeed-implements-rsscloudpu
 hash: 8f08d226c21d66df75088ab96c39fd69

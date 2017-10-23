@@ -1,5 +1,6 @@
 ---
 title: "Enterprise DC/OS 1.7 steps ups support for security, stateful services and more"
+slug: enterprise-dc-os-1-7-steps-ups-support-for-security-stateful-services
 date: 2016-05-22 06:14:21 -0500
 external-url: https://mesosphere.com/blog/2016/05/20/enterprise-dcos-1-7-steps-ups-support-security-stateful-services/
 hash: a2f6107bad26104d58dcd2fd044bdb48

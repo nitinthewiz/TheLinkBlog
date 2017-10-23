@@ -1,5 +1,6 @@
 ---
 title: "Im Not The Product, But I Play One On The Internet"
+slug: im-not-the-product-but-i-play-one-on-the-internet
 date: 2012-12-19 07:31:24 -0600
 external-url: http://powazek.com/posts/3229
 hash: 97951b8c330a92fa9b406a2662de8622

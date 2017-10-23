@@ -1,5 +1,6 @@
 ---
 title: "How Do You Relate to Your Desk? [Video]"
+slug: how-do-you-relate-to-your-desk-video
 date: 2010-10-11 17:30:00 -0500
 external-url: http://lifehacker.com/5661351/how-do-you-relate-to-your-desk
 hash: efa543139980e500110eb2a4d8d79069

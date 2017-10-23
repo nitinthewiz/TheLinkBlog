@@ -1,5 +1,6 @@
 ---
 title: "Control bandwidth-sucking apps with TripMode"
+slug: control-bandwidth-sucking-apps-with-tripmode
 date: 2016-07-08 22:58:38 -0500
 external-url: https://sixcolors.com/post/2016/07/control-bandwidth-sucking-apps-with-tripmode/
 hash: 35e6af6784596cbbbfbe9fd40b9778c4

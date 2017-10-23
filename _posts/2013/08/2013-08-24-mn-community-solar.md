@@ -1,5 +1,6 @@
 ---
 title: "MN Community Solar"
+slug: mn-community-solar
 date: 2013-08-24 18:36:48 -0500
 external-url: http://mncommunitysolar.com/
 hash: adba14a259ea4b633ff97e235259d60b

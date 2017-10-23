@@ -1,5 +1,6 @@
 ---
 title: "4 Ways to Roll Your Own Dropbox Alternative"
+slug: 4-ways-to-roll-your-own-dropbox-alternative
 date: 2011-05-03 23:39:28 -0500
 external-url: http://readwrite.com/2011/05/03/4-ways-to-build-your-own-dropbox
 hash: 62c30bcf445373d60ab1dba6aaf4c777

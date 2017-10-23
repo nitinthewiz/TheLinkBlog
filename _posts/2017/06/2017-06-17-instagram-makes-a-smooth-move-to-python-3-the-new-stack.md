@@ -1,5 +1,6 @@
 ---
 title: "Instagram Makes a Smooth Move to Python 3 - The New Stack"
+slug: instagram-makes-a-smooth-move-to-python-3-the-new-stack
 date: 2017-06-17 19:45:10 -0500
 external-url: https://thenewstack.io/instagram-makes-smooth-move-python-3/
 hash: 3eeacdef0ad0337599fd22b81812584f

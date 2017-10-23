@@ -1,5 +1,6 @@
 ---
 title: "GreatSchools Burroughs Elementary School Overview"
+slug: greatschools-burroughs-elementary-school-overview
 date: 2010-12-03 11:17:10 -0600
 external-url: http://www.greatschools.org/minnesota/minneapolis/1289-Burroughs-Elementary-School/
 hash: f71be2aa0c0bdadba2af628b334f9cd9

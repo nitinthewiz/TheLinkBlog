@@ -1,5 +1,6 @@
 ---
 title: "Camtasia Studio"
+slug: camtasia-studio
 date: 2007-01-18 23:38:52 -0600
 external-url: http://techsmith.com/camtasia.asp
 hash: e1322c62581081ff8a49c13578a10304

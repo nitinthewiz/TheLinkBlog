@@ -1,5 +1,6 @@
 ---
 title: "Kubbin’ at Pacific Wonderland Woodworks"
+slug: kubbin-at-pacific-wonderland-woodworks
 date: 2012-02-23 19:41:14 -0600
 external-url: http://pacificwonderland.wordpress.com/2011/11/10/kubbin/
 hash: a2bb3cb80ca292985bfa62e0dda46e16

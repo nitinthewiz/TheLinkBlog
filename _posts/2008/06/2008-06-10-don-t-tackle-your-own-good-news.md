@@ -1,5 +1,6 @@
 ---
 title: "Don't tackle your own good news"
+slug: don-t-tackle-your-own-good-news
 date: 2008-06-10 10:01:00 -0500
 external-url: http://signalvnoise.com/posts/1070-dont-tackle-your-own-good-news
 hash: 0daa728f9c100306932361462310e6bb

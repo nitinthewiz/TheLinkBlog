@@ -1,5 +1,6 @@
 ---
 title: "Dinner Parties"
+slug: dinner-parties
 date: 2008-03-19 00:14:34 -0500
 external-url: http://stuffwhitepeoplelike.com/2008/03/18/88-dinner-parties/
 hash: e8215bf46180b840b939171b727f6208

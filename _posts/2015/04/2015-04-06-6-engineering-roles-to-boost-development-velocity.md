@@ -1,5 +1,6 @@
 ---
 title: "6 Engineering Roles to Boost Development Velocity"
+slug: 6-engineering-roles-to-boost-development-velocity
 date: 2015-04-06 21:51:47 -0500
 external-url: http://blog.newrelic.com/2015/04/06/engineering-roles/
 hash: 239d7f90df020a22cdcd80081633cb28

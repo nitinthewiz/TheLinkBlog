@@ -1,5 +1,6 @@
 ---
 title: "Jared Sinclair | Blog | Apple Watch Series 3 First Impression: Mindblown.gif"
+slug: jared-sinclair-blog-apple-watch-series-3-first-impression-mindblown
 date: 2017-09-26 21:23:43 -0500
 external-url: http://blog.jaredsinclair.com/post/165729874190/apple-watch-series-3-first-impression
 hash: 8844961d8c06204bf393a14663150f1c

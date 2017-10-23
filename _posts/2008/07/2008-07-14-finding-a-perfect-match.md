@@ -1,5 +1,6 @@
 ---
 title: "Finding A Perfect Match"
+slug: finding-a-perfect-match
 date: 2008-07-14 22:07:00 -0500
 external-url: http://blog.twitter.com/2008/07/finding-perfect-match.html
 hash: 5e7311e9c6d8893496f252a1c77ad230

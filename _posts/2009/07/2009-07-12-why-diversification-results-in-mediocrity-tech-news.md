@@ -1,5 +1,6 @@
 ---
 title: "Why Diversification Results In Mediocrity: Tech News «"
+slug: why-diversification-results-in-mediocrity-tech-news
 date: 2009-07-12 11:30:39 -0500
 external-url: http://gigaom.com/2009/07/12/diversification-mediocrity/
 hash: 9ecc5afda774ea2353d8b488abc5f0d6

@@ -1,5 +1,6 @@
 ---
 title: "An Exhaustive Study of Twitter Users Across the World"
+slug: an-exhaustive-study-of-twitter-users-across-the-world
 date: 2012-10-11 14:55:31 -0500
 external-url: http://www.beevolve.com/twitter-statistics/
 hash: 71a06586f7a1b8895f44d2f529d6fb91

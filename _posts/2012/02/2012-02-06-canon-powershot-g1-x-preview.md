@@ -1,5 +1,6 @@
 ---
 title: "Canon PowerShot G1 X Preview"
+slug: canon-powershot-g1-x-preview
 date: 2012-02-06 22:30:58 -0600
 external-url: http://www.dpreview.com/reviews/canong1x
 hash: 84e7d54003d8fc957a0c44f448393edb

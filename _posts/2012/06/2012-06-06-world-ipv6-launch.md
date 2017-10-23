@@ -1,5 +1,6 @@
 ---
 title: "World IPv6 Launch"
+slug: world-ipv6-launch
 date: 2012-06-06 08:23:11 -0500
 external-url: http://www.worldipv6launch.org/
 hash: 445946ed4ae8e372e1721793d8a99cf0

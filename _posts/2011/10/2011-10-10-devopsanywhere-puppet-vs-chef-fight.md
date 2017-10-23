@@ -1,5 +1,6 @@
 ---
 title: "devopsanywhere: Puppet vs. Chef, Fight!"
+slug: devopsanywhere-puppet-vs-chef-fight
 date: 2011-10-10 22:51:53 -0500
 external-url: http://devopsanywhere.blogspot.com/2011/10/puppet-vs-chef-fight.html
 hash: 5f21aa932b7053dc2cbecce905e84434

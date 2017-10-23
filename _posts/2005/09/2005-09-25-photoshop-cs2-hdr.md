@@ -1,5 +1,6 @@
 ---
 title: "Photoshop CS2 HDR"
+slug: photoshop-cs2-hdr
 date: 2005-09-25 09:34:54 -0500
 external-url: http://www.luminous-landscape.com/tutorials/hdr.shtml
 hash: acad165587657e9f1f1f26b9580b3d84

@@ -1,5 +1,6 @@
 ---
 title: "Klouchebag - The Standard for Asshattery"
+slug: klouchebag-the-standard-for-asshattery
 date: 2012-05-08 00:52:01 -0500
 external-url: http://www.tomscott.com/klouchebag/
 hash: 7334737ef7027b494adbcd1d9ca35d79

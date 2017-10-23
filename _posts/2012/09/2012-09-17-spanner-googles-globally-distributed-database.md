@@ -1,5 +1,6 @@
 ---
 title: "Spanner: Googles Globally-Distributed Database"
+slug: spanner-googles-globally-distributed-database
 date: 2012-09-17 10:13:55 -0500
 external-url: http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/spanner-osdi2012.pdf
 hash: e816cb745e21dd705904757e72338101

@@ -1,5 +1,6 @@
 ---
 title: "‘Weather Atlas’ for iOS —Tools and Toys"
+slug: weather-atlas-for-ios-tools-and-toys
 date: 2017-09-02 16:42:02 -0500
 external-url: http://toolsandtoys.net/weather-atlas-for-ios/
 hash: 3d9b93c741c4d77d73827567c6dff02e

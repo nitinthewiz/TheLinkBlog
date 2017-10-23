@@ -1,5 +1,6 @@
 ---
 title: "How to get started with Markdown using Byword"
+slug: how-to-get-started-with-markdown-using-byword
 date: 2016-03-03 19:55:29 -0600
 external-url: http://thesweetsetup.com/how-to-get-started-with-markdown-using-byword/
 hash: d92ddf55f8a33adb47ba1a43eb9b44cb

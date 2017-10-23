@@ -1,5 +1,6 @@
 ---
 title: "Jirafe - Analytics for Ecommerce CMS Systems"
+slug: jirafe-analytics-for-ecommerce-cms-systems
 date: 2012-02-06 11:28:15 -0600
 external-url: http://jirafe.com/
 hash: f5095b8c5a65ec9bfcc8bd05470c0cb6

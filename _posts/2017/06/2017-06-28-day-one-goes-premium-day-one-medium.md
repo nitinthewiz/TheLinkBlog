@@ -1,5 +1,6 @@
 ---
 title: "Day One Goes Premium – Day One – Medium"
+slug: day-one-goes-premium-day-one-medium
 date: 2017-06-28 15:02:32 -0500
 external-url: https://medium.com/day-one/day-one-goes-premium-424492fd0a5b
 hash: 7ee09334fc4d2d64d7e8f9a08984cb58

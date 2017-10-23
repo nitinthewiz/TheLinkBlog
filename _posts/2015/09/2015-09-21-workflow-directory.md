@@ -1,5 +1,6 @@
 ---
 title: "Workflow Directory"
+slug: workflow-directory
 date: 2015-09-21 20:37:29 -0500
 external-url: http://workflow.directory/
 hash: 3f3cd017a4a97cf397ead4523e36e3ba

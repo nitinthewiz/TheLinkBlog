@@ -1,5 +1,6 @@
 ---
 title: "Tweeps 2 OPML"
+slug: tweeps-2-opml
 date: 2014-12-29 21:38:45 -0600
 external-url: https://tweeps2opml.appspot.com/
 hash: 5f06650bbaff84552719766801ebc466

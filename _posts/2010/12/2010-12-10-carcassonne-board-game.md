@@ -1,5 +1,6 @@
 ---
 title: "Carcassonne (board game)"
+slug: carcassonne-board-game
 date: 2010-12-10 23:27:38 -0600
 external-url: http://en.wikipedia.org/wiki/Carcassonne_(board_game)
 hash: e0f38736bb3c432d420a2c16f0bd37ac

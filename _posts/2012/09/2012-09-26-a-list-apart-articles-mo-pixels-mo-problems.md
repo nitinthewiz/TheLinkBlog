@@ -1,5 +1,6 @@
 ---
 title: "A List Apart: Articles: Mo Pixels Mo Problems"
+slug: a-list-apart-articles-mo-pixels-mo-problems
 date: 2012-09-26 23:24:28 -0500
 external-url: http://alistapart.com/article/mo-pixels-mo-problems
 hash: ffad843ba0275bfc2bfe7151a14fa00b

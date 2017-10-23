@@ -1,5 +1,6 @@
 ---
 title: "CBS Poll: Bush at 25%; Obama Beats McCain By 6"
+slug: cbs-poll-bush-at-25-obama-beats-mccain-by-6
 date: 2008-06-04 23:10:59 -0500
 external-url: http://www.dailykos.com/story/2008/06/04/529824/-CBS-Poll-Bush-at-25-Obama-Beats-McCain-By-6
 hash: 6e721ecc2cddcafa1280b0711079058c

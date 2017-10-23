@@ -1,5 +1,6 @@
 ---
 title: "SmartGo Blog • SmartOthello Postmortem"
+slug: smartgo-blog-smartothello-postmortem
 date: 2017-06-29 12:55:09 -0500
 external-url: https://smartgo.com/blog/smartothello-postmortem.html
 hash: 6aa8bc9346a89fca479d2a1b670d1430

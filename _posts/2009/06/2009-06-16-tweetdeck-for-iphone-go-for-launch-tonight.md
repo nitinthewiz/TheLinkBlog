@@ -1,5 +1,6 @@
 ---
 title: "TweetDeck for iPhone go for launch tonight"
+slug: tweetdeck-for-iphone-go-for-launch-tonight
 date: 2009-06-16 21:25:27 -0500
 external-url: http://www.tuaw.com/2009/06/16/tweetdeck-for-iphone-go-for-launch-tonight/
 hash: 006d1e0ea9b199fca68c644ca9083b14

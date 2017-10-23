@@ -1,5 +1,6 @@
 ---
 title: "Yama 32oz Cold Brew Coffee Dripper"
+slug: yama-32oz-cold-brew-coffee-dripper
 date: 2011-12-02 16:25:58 -0600
 external-url: http://blacksmithcoffee.com/products/yama-6-8-cup-cold-brew-coffee-dripper
 hash: 712ad45c6d19a3ef947149c9ad094a3a

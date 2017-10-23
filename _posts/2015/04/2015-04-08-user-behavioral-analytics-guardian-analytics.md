@@ -1,5 +1,6 @@
 ---
 title: "User Behavioral Analytics - Guardian Analytics"
+slug: user-behavioral-analytics-guardian-analytics
 date: 2015-04-08 18:28:16 -0500
 external-url: http://www.guardiananalytics.com/
 hash: 08299a95392085ca75347a189954e0f7

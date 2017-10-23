@@ -1,5 +1,6 @@
 ---
 title: "2010 Feltron Annual Report"
+slug: 2010-feltron-annual-report
 date: 2011-02-07 13:32:26 -0600
 external-url: http://kottke.org/11/02/2010-feltron-annual-report
 hash: e2dbeb2b6bd5af2fdff7b715706f6ee5

@@ -1,5 +1,6 @@
 ---
 title: "Can Twitter Survive What is About to Happen to It?"
+slug: can-twitter-survive-what-is-about-to-happen-to-it
 date: 2009-03-15 23:01:53 -0500
 external-url: http://www.novaspivack.com/uncategorized/can-twitter-survive-what-is-about-to-happen-to-it
 hash: d09f4e55d48c70788dd139deb75c34bb

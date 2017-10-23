@@ -1,5 +1,6 @@
 ---
 title: "IPhone 4S Canon 5d MKII Side by Side Comparison"
+slug: iphone-4s-canon-5d-mkii-side-by-side-comparison
 date: 2011-10-18 21:52:41 -0500
 external-url: http://vimeo.com/30606785
 hash: 3bdaddb09c1cc6055ee1eed89e414021

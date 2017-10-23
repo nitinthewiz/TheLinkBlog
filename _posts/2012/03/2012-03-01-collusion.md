@@ -1,5 +1,6 @@
 ---
 title: "Collusion"
+slug: collusion
 date: 2012-03-01 20:02:55 -0600
 external-url: http://www.mozilla.org/en-US/collusion/
 hash: 9211a486abf355dd628fd0fbf2dbe10b

@@ -1,5 +1,6 @@
 ---
 title: "Coffee with Tim Cook auction closes at $610,000"
+slug: coffee-with-tim-cook-auction-closes-at-610000
 date: 2013-05-15 11:14:11 -0500
 external-url: http://www.tuaw.com/2013/05/15/coffee-with-tim-cook-auction-closes-at-610-000/
 hash: 76b5a4ff0a11ea80c36f63ff3af45390

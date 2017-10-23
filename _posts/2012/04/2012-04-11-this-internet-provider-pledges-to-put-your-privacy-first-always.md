@@ -1,5 +1,6 @@
 ---
 title: "This Internet provider pledges to put your privacy first. Always."
+slug: this-internet-provider-pledges-to-put-your-privacy-first-always
 date: 2012-04-11 10:29:43 -0500
 external-url: http://www.cnet.com/8301-31921_3-57412225-281.html
 hash: eb13ec879ee24383a448fa2a4101fd73

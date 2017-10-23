@@ -1,5 +1,6 @@
 ---
 title: "‘The Internet Is Broken’: @ev Is Trying to Salvage It - The New York Times"
+slug: the-internet-is-broken-ev-is-trying-to-salvage-it-the-new-york-times
 date: 2017-05-26 22:18:52 -0500
 external-url: https://www.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html?_r=1
 hash: 3b0436a40e5c30f66e86c32a730f67de

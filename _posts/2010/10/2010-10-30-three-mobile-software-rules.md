@@ -1,5 +1,6 @@
 ---
 title: "Three Mobile-Software Rules"
+slug: three-mobile-software-rules
 date: 2010-10-30 14:00:00 -0500
 external-url: http://www.tbray.org/ongoing/When/201x/2010/10/30/Three-Android-Software-Rules
 hash: e00a9eba94c45cbe488909a6b77fcd7c

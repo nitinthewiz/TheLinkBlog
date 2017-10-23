@@ -1,5 +1,6 @@
 ---
 title: "Flightradar24.com - Live flight tracker!"
+slug: flightradar24-com-live-flight-tracker
 date: 2013-06-19 10:31:48 -0500
 external-url: http://www.flightradar24.com/
 hash: 70267f68e3aa6474ce288651545b8250

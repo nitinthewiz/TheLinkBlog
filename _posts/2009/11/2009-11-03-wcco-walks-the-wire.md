@@ -1,5 +1,6 @@
 ---
 title: "WCCO Walks The Wire"
+slug: wcco-walks-the-wire
 date: 2009-11-03 19:52:24 -0600
 external-url: http://minnov8.com/2009/11/03/wcco-walks-the-wire/
 hash: 12fba9046b4f3feb7aa8d8637b839945

@@ -1,5 +1,6 @@
 ---
 title: "Swarm v. Fleet v. Kubernetes v. Mesos"
+slug: swarm-v-fleet-v-kubernetes-v-mesos
 date: 2015-10-24 12:38:45 -0500
 external-url: http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
 hash: 2069b39af13464aab9b3a824ca03e10e

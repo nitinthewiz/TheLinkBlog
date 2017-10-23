@@ -1,5 +1,6 @@
 ---
 title: "Will OS X 10.7 “Lion” Be The King Of The Apple Jungle, The Last Of Its Kind, Or Both?"
+slug: will-os-x-10-7-lion-be-the-king-of-the-apple-jungle-the-last-of-its-or
 date: 2010-10-14 18:11:22 -0500
 external-url: http://techcrunch.com/2010/10/13/os-x-lion-10-7/
 hash: c38a36fa9f41c5a5c94e8cf823b8eb87

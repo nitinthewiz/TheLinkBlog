@@ -1,5 +1,6 @@
 ---
 title: "SMWCon Fall 2012 Session Playlist"
+slug: smwcon-fall-2012-session-playlist
 date: 2012-11-16 07:00:54 -0600
 external-url: https://www.youtube.com/playlist?list=PLwtfwT1GnUQRaLki-YcF-_n8ndayi--W5
 hash: 5db5ee24f8568e7fbc95134dbe00d437

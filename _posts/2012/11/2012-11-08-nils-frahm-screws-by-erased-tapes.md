@@ -1,5 +1,6 @@
 ---
 title: "Nils Frahm - Screws by Erased Tapes"
+slug: nils-frahm-screws-by-erased-tapes
 date: 2012-11-08 06:56:16 -0600
 external-url: http://soundcloud.com/erasedtapes/sets/nils-frahm-screws
 hash: 90326ff241831f1901d1d1681f32e633

@@ -1,5 +1,6 @@
 ---
 title: "Technorati Raises $7.5 Million, Crashes"
+slug: technorati-raises-7-5-million-crashes
 date: 2008-06-13 14:52:00 -0500
 external-url: http://www.businessinsider.com/2008/6/technorati-series-d
 hash: 264136c387d60ad613b9beb11efb5f87

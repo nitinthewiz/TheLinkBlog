@@ -1,5 +1,6 @@
 ---
 title: "Dont Change Your Hair For Me"
+slug: dont-change-your-hair-for-me
 date: 2012-10-12 13:09:07 -0500
 external-url: http://www.tbray.org/ongoing/When/201x/2012/10/09/No-Takebacks
 hash: 42168832209109828d23b1ec5b2166af

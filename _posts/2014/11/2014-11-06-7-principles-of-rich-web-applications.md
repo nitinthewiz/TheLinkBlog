@@ -1,5 +1,6 @@
 ---
 title: "7 Principles of Rich Web Applications |"
+slug: 7-principles-of-rich-web-applications
 date: 2014-11-06 05:43:02 -0600
 external-url: http://rauchg.com/2014/7-principles-of-rich-web-applications/
 hash: 3e0c0fec634f61b01d6b1a0c98039366

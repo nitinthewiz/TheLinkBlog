@@ -1,5 +1,6 @@
 ---
 title: "Wikidata - Meta"
+slug: wikidata-meta
 date: 2012-03-30 15:43:34 -0500
 external-url: http://meta.wikimedia.org/wiki/Wikidata
 hash: d9081c03ee77db540f11b9dcb07571ca

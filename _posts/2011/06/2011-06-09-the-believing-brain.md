@@ -1,5 +1,6 @@
 ---
 title: "The Believing Brain"
+slug: the-believing-brain
 date: 2011-06-09 05:46:35 -0500
 external-url: http://www.sciencebasedmedicine.org/the-believing-brain/
 hash: 13d29b74039fde9302530a8d7bd36646

@@ -1,5 +1,6 @@
 ---
 title: "Closet's Getting Full"
+slug: closet-s-getting-full
 date: 2011-07-12 23:58:18 -0500
 external-url: http://www.ginandtacos.com/2011/07/13/closets-getting-full/
 hash: f12484a3cfdef8119bff372c7ac6b9f4

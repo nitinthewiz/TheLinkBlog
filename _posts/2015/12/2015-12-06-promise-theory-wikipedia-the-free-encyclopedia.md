@@ -1,5 +1,6 @@
 ---
 title: "Promise theory - Wikipedia, the free encyclopedia"
+slug: promise-theory-wikipedia-the-free-encyclopedia
 date: 2015-12-06 10:36:31 -0600
 external-url: https://en.wikipedia.org/wiki/Promise_theory
 hash: 4d52bdd7f00cd88c54f38da6d1036e3f

@@ -1,5 +1,6 @@
 ---
 title: "Medica Partners with CaringBridge to Connect Families and Friends when Health Matters Most"
+slug: medica-partners-with-caringbridge-to-connect-families-and-friends-when
 date: 2011-01-26 15:21:06 -0600
 external-url: http://www.caringbridge.org/newsrelease/view/nr_20110126
 hash: c7127fa98a96d79e47a606fcb32b4fb8

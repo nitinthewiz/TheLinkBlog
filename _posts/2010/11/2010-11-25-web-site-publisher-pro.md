@@ -1,5 +1,6 @@
 ---
 title: "Web Site Publisher Pro"
+slug: web-site-publisher-pro
 date: 2010-11-25 02:30:58 -0600
 external-url: http://lightroom-news.com/2010/11/25/web-site-publisher-pro/
 hash: 0461a46b7f92f186dfbf1e518d281495

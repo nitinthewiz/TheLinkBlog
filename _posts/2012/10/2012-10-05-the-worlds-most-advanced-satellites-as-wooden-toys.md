@@ -1,5 +1,6 @@
 ---
 title: "The Worlds Most Advanced Satellites, As Wooden Toys"
+slug: the-worlds-most-advanced-satellites-as-wooden-toys
 date: 2012-10-05 23:05:20 -0500
 external-url: http://www.fastcodesign.com/1670923/the-world-s-most-advanced-satellites-as-wooden-toys
 hash: 18f210b62b7690631a51ea8acdfda926

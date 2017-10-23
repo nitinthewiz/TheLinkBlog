@@ -1,5 +1,6 @@
 ---
 title: "Social Shopping Heats Up On Facebook"
+slug: social-shopping-heats-up-on-facebook
 date: 2010-10-01 13:22:26 -0500
 external-url: http://allfacebook.com/social-shopping-facebook_b18910
 hash: fd0f1bf64963ac3e31388582dc6fd89a

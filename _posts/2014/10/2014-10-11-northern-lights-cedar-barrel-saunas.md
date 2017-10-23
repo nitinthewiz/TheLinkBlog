@@ -1,5 +1,6 @@
 ---
 title: "Northern Lights Cedar Barrel Saunas"
+slug: northern-lights-cedar-barrel-saunas
 date: 2014-10-11 11:15:53 -0500
 external-url: http://www.cedarbarrelsaunas.com/
 hash: 79856f4f3f5b88a522166d3e095ceb77

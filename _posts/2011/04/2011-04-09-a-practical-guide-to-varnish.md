@@ -1,5 +1,6 @@
 ---
 title: "A Practical Guide to Varnish"
+slug: a-practical-guide-to-varnish
 date: 2011-04-09 06:32:36 -0500
 external-url: http://devblog.factual.com/practical-guide-to-varnish
 hash: 9969bc2f4e9d6736a477034c58a989c9

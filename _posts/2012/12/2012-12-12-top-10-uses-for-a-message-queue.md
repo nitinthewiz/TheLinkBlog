@@ -1,5 +1,6 @@
 ---
 title: "Top 10 Uses For A Message Queue"
+slug: top-10-uses-for-a-message-queue
 date: 2012-12-12 17:09:12 -0600
 external-url: http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html
 hash: ad88f011d269742c8bfc230c25cdc67e

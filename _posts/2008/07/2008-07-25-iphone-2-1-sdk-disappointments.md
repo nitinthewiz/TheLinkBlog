@@ -1,5 +1,6 @@
 ---
 title: "IPhone 2.1 SDK Disappointments"
+slug: iphone-2-1-sdk-disappointments
 date: 2008-07-25 18:00:00 -0500
 external-url: http://www.tuaw.com/2008/07/25/iphone-2-1-sdk-disappointments/
 hash: b6136d9fb5b1b51617da7c6fb4f1ae53

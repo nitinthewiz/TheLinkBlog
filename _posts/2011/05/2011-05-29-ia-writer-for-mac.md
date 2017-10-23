@@ -1,5 +1,6 @@
 ---
 title: "IA Writer for Mac"
+slug: ia-writer-for-mac
 date: 2011-05-29 08:34:51 -0500
 external-url: http://ia.net/blog/ia-writer-for-mac/
 hash: 28b23a188cb7856e606fab7cc4534720

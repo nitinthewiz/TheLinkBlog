@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu Karmic Koala Note //  Slicehost - VPS Hosting"
+slug: ubuntu-karmic-koala-note-slicehost-vps-hosting
 date: 2009-10-29 11:04:33 -0500
 external-url: http://www.slicehost.com/articles/2009/10/28/ubuntu-karmic-koala-note
 hash: bc6152f96401ced7eb0f6f782700058f

@@ -1,5 +1,6 @@
 ---
 title: "EFF and Facebook Stand Up for User Privacy and Control in California Case"
+slug: eff-and-facebook-stand-up-for-user-privacy-and-control-in-california
 date: 2013-05-29 17:22:36 -0500
 external-url: https://www.eff.org/deeplinks/2013/05/eff-and-facebook-stand-user-privacy-and-control-california-case
 hash: 557c876fc4d1976dad95b064bbcc0353

@@ -1,5 +1,6 @@
 ---
 title: "Esquire loses a man at his best"
+slug: esquire-loses-a-man-at-his-best
 date: 2016-03-30 04:33:39 -0500
 external-url: http://www.cjr.org/the_profile/david_granger_esquire.php
 hash: d981b046d4f76f3ce6479f3a6af1d507

@@ -1,5 +1,6 @@
 ---
 title: "WikiReader Puts Wikipedia in Your Pocket"
+slug: wikireader-puts-wikipedia-in-your-pocket
 date: 2009-10-20 10:04:03 -0500
 external-url: http://tidbits.com/article/10650
 hash: f2cd5108b3dbf326c8eea3b20a82f840

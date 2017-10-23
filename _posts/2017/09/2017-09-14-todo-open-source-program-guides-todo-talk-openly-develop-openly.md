@@ -1,5 +1,6 @@
 ---
 title: "TODO Open Source Program Guides // TODO: Talk openly, develop openly"
+slug: todo-open-source-program-guides-todo-talk-openly-develop-openly
 date: 2017-09-14 03:37:51 -0500
 external-url: http://todogroup.org/blog/open-source-guides/
 hash: 84f3506459f99885ba83adae017db561

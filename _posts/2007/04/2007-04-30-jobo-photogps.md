@@ -1,5 +1,6 @@
 ---
 title: "JOBO photoGPS"
+slug: jobo-photogps
 date: 2007-04-30 18:11:26 -0500
 external-url: http://www.jobo.com/photoGPS.447.0.html
 hash: f16489faa10caf35a6751a13e853fc53

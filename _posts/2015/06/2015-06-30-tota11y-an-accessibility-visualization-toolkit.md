@@ -1,5 +1,6 @@
 ---
 title: "tota11y – an accessibility visualization toolkit"
+slug: tota11y-an-accessibility-visualization-toolkit
 date: 2015-06-30 06:36:32 -0500
 external-url: http://khan.github.io/tota11y/
 hash: 57b1a9c4c224ec1e3bdb479dbabbf4e4

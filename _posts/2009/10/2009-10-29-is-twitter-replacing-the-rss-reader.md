@@ -1,5 +1,6 @@
 ---
 title: "Is Twitter Replacing the RSS Reader?"
+slug: is-twitter-replacing-the-rss-reader
 date: 2009-10-29 11:12:42 -0500
 external-url: http://gigaom.com/collaboration/is-twitter-replacing-the-rss-reader/
 hash: e13180306d995c761b50b18014037916

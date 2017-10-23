@@ -1,5 +1,6 @@
 ---
 title: "PayPal Announces It Will No Longer Handle Wikileaks Donations"
+slug: paypal-announces-it-will-no-longer-handle-wikileaks-donations
 date: 2010-12-05 00:00:22 -0600
 external-url: http://www.readwriteweb.com/archives/paypal_announces_it_will_no_longer_handle_wikileak.php
 hash: dc7819566a027da922e65b2babb55f66

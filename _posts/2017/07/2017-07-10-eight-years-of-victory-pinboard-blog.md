@@ -1,5 +1,6 @@
 ---
 title: "Eight Years of Victory (Pinboard Blog)"
+slug: eight-years-of-victory-pinboard-blog
 date: 2017-07-10 23:01:10 -0500
 external-url: https://blog.pinboard.in/2017/07/eight_years_of_victory/
 hash: ffbcc400dcbb9c979e603c497f0ad172

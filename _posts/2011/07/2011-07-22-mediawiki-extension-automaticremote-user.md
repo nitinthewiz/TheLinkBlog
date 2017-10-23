@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Extension AutomaticREMOTE USER"
+slug: mediawiki-extension-automaticremote-user
 date: 2011-07-22 09:30:21 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Auth_remoteuser
 hash: c1b367428ef25bdb7117f7d995f57e2b

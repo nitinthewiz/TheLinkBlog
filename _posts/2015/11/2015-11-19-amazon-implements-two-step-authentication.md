@@ -1,5 +1,6 @@
 ---
 title: "Amazon implements two-step authentication"
+slug: amazon-implements-two-step-authentication
 date: 2015-11-19 20:55:13 -0600
 external-url: https://sixcolors.com/post/2015/11/amazon-implements-two-step-authentication/
 hash: edd98a55bb7ca46d103e8936f29ae213

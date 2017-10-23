@@ -1,5 +1,6 @@
 ---
 title: "Renewable Resource Data Center (RReDC) Home Page"
+slug: renewable-resource-data-center-rredc-home-page
 date: 2007-05-27 07:46:48 -0500
 external-url: http://rredc.nrel.gov/
 hash: bc7f695de188914ae903d92421b641fe

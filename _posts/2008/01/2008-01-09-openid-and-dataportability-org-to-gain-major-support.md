@@ -1,5 +1,6 @@
 ---
 title: "OpenID and DataPortability.org to gain major support"
+slug: openid-and-dataportability-org-to-gain-major-support
 date: 2008-01-09 15:24:00 -0600
 external-url: http://arstechnica.com/information-technology/2008/01/openid-and-dataportability-to-gain-major-support/
 hash: 22b65fc97858e6f321d27acf8d981a73

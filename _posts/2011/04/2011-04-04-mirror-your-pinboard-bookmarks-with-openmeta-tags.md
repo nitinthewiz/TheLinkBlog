@@ -1,5 +1,6 @@
 ---
 title: "Mirror your Pinboard bookmarks with OpenMeta tags"
+slug: mirror-your-pinboard-bookmarks-with-openmeta-tags
 date: 2011-04-04 23:29:37 -0500
 external-url: http://brettterpstra.com//2011/04/02/mirror-your-pinboard-bookmarks-with-openmeta-tags/
 hash: cda0df54a78e0dc9a1a50212d435b186

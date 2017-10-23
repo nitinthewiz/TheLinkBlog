@@ -1,5 +1,6 @@
 ---
 title: "The Twilight of the CMS | TPM Media Labs"
+slug: the-twilight-of-the-cms-tpm-media-labs
 date: 2011-07-15 15:27:04 -0500
 external-url: http://labs.talkingpointsmemo.com/2011/07/the-twilight-of-the-cms.php
 hash: 050211de6e585cd98331ad13fcf8a893

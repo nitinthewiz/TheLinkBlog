@@ -1,5 +1,6 @@
 ---
 title: "Coffee Roasting, Mathematical Modelling, and Asymptotic Analysis"
+slug: coffee-roasting-mathematical-modelling-and-asymptotic-analysis
 date: 2017-09-30 21:34:28 -0500
 external-url: https://sinews.siam.org/Details-Page/coffee-roasting-mathematical-modelling-and-asymptotic-analysis
 hash: 949a1182bdd5d88e908165dde8565481

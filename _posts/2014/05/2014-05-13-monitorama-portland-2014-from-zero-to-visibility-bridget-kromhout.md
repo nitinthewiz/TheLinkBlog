@@ -1,5 +1,6 @@
 ---
 title: "Monitorama Portland 2014 - From Zero to Visibility - Bridget Kromhout"
+slug: monitorama-portland-2014-from-zero-to-visibility-bridget-kromhout
 date: 2014-05-13 23:42:02 -0500
 external-url: http://bridgetkromhout.com/speaking/2014/monitorama-portland/
 hash: ae1d5ba7809357140c3367bedd40fdb0

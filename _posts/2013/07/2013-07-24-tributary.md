@@ -1,5 +1,6 @@
 ---
 title: "Tributary"
+slug: tributary
 date: 2013-07-24 11:15:40 -0500
 external-url: http://tributary.io/
 hash: e83541ea8407c4a933647a456d96467a

@@ -1,5 +1,6 @@
 ---
 title: "Pythonista 2.0 Brings Action Extension, iPad Pro Support, Code Editor Improvements, and More"
+slug: pythonista-2-0-brings-action-extension-ipad-pro-support-code-editor
 date: 2016-01-13 04:09:34 -0600
 external-url: https://www.macstories.net/reviews/pythonista-2-0-brings-action-extension-ipad-pro-support-code-editor-improvements-and-more/
 hash: 9aa83bb721b84bc1bd3efaca72b8682e

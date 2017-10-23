@@ -1,5 +1,6 @@
 ---
 title: "Apple releases official Keynotes podcast"
+slug: apple-releases-official-keynotes-podcast
 date: 2008-06-06 17:30:00 -0500
 external-url: http://www.tuaw.com/2008/06/06/apple-releases-official-keynotes-podcast/
 hash: c6ee5e281027d418f262370380bdd5d6

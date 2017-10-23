@@ -1,5 +1,6 @@
 ---
 title: "The Infinity Binder"
+slug: the-infinity-binder
 date: 2016-01-13 14:55:01 -0600
 external-url: http://theinfinitybinder.com/
 hash: 2900f6ebb4254e5ea275e12ce1dd4ae0

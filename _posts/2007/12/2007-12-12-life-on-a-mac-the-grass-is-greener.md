@@ -1,5 +1,6 @@
 ---
 title: "Life on a Mac - the Grass is Greener"
+slug: life-on-a-mac-the-grass-is-greener
 date: 2007-12-12 10:19:52 -0600
 external-url: http://simpable.com/technology/greener-grass/
 hash: 30e09f3334004a2c4c24e0fe75173fec

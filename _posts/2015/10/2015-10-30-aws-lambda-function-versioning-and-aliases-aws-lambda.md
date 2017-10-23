@@ -1,5 +1,6 @@
 ---
 title: "AWS Lambda Function Versioning and Aliases - AWS Lambda"
+slug: aws-lambda-function-versioning-and-aliases-aws-lambda
 date: 2015-10-30 20:13:43 -0500
 external-url: http://docs.aws.amazon.com/lambda/latest/dg/versioning-aliases.html?adbsc=social_20151030_54349696
 hash: b8b3449362c4ef4f6fca7938f4b40ad4

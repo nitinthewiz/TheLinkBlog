@@ -1,5 +1,6 @@
 ---
 title: "Bold Poker — Deal with it."
+slug: bold-poker-deal-with-it
 date: 2015-08-14 22:32:41 -0500
 external-url: https://boldpoker.net/?ref=daringfireball
 hash: 59363951fccbdd32433b9518d3c67ceb

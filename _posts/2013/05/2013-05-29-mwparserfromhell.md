@@ -1,5 +1,6 @@
 ---
 title: "Mwparserfromhell"
+slug: mwparserfromhell
 date: 2013-05-29 12:18:22 -0500
 external-url: https://github.com/earwig/mwparserfromhell
 hash: c4e89e4a709517f3b4d435b6dc8f27a1

@@ -1,5 +1,6 @@
 ---
 title: "Wiki.js | A modern open-source Wiki software"
+slug: wiki-js-a-modern-open-source-wiki-software
 date: 2017-03-25 19:06:13 -0500
 external-url: https://wiki.requarks.io/
 hash: 02505d7a812526f6ab493c2b0722e8e9

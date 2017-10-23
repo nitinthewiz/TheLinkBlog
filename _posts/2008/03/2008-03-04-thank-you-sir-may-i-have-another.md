@@ -1,5 +1,6 @@
 ---
 title: "Thank you sir, may I have another?"
+slug: thank-you-sir-may-i-have-another
 date: 2008-03-04 10:12:32 -0600
 external-url: http://www.dailykos.com/story/2008/03/04/468324/-Thank-you-sir-may-I-have-another
 hash: bf811f9ec80d4b91de0836219ed4a121

@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Extension: Cite"
+slug: mediawiki-extension-cite
 date: 2011-10-16 07:56:04 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Cite/Cite.php
 hash: f7355a40eef83e5fbb797f293cacdfd7

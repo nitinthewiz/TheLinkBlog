@@ -1,5 +1,6 @@
 ---
 title: "Uncommon Sense - live @ WDS | Derek Sivers"
+slug: uncommon-sense-live-wds-derek-sivers
 date: 2015-12-08 06:01:29 -0600
 external-url: https://sivers.org/wds
 hash: 5c8b29768d59bae76da2c430211fc72b

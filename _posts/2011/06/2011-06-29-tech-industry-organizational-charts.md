@@ -1,5 +1,6 @@
 ---
 title: "Tech Industry Organizational Charts"
+slug: tech-industry-organizational-charts
 date: 2011-06-29 17:54:40 -0500
 external-url: http://www.bonkersworld.net/organizational-charts/
 hash: 834fce7d45375265adfc2782926471f3

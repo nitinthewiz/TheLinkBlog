@@ -1,5 +1,6 @@
 ---
 title: "Bento for iPhone"
+slug: bento-for-iphone
 date: 2009-05-05 21:56:48 -0500
 external-url: http://info.filemaker.com/Bento_Statement.html
 hash: fd24644d0b0be59a5d4c4a19ac785943

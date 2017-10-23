@@ -1,5 +1,6 @@
 ---
 title: "Franconia Sculpture Park"
+slug: franconia-sculpture-park
 date: 2012-09-24 13:49:00 -0500
 external-url: http://www.franconia.org/
 hash: 5f2cbdb26e0f3757e4823da489f02950

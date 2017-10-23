@@ -1,5 +1,6 @@
 ---
 title: "Press 3 for $15 million How Twilio got a touchtone term sheet"
+slug: press-3-for-15-million-how-twilio-got-a-touchtone-term-sheet
 date: 2012-04-17 17:49:23 -0500
 external-url: http://venturebeat.com/2012/04/16/twilio-company-culture/
 hash: 6d795cd637ae58daf5da4741f038ef98

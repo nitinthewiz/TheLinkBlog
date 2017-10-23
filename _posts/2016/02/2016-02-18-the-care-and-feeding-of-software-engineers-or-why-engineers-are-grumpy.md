@@ -1,5 +1,6 @@
 ---
 title: "The care and feeding of software engineers (or, why engineers are grumpy)"
+slug: the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy
 date: 2016-02-18 08:12:10 -0600
 external-url: https://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/
 hash: 14167110bd167a0c86c84f70e18d375e

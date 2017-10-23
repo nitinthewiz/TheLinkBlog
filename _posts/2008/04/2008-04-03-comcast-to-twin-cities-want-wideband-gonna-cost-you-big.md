@@ -1,5 +1,6 @@
 ---
 title: "Comcast to Twin Cities: Want WideBand? Gonna Cost You Big"
+slug: comcast-to-twin-cities-want-wideband-gonna-cost-you-big
 date: 2008-04-03 08:17:17 -0500
 external-url: http://gigaom.com/2008/04/02/comcast-docsis3-0-wideband/
 hash: 74caad491a79a4f579c41e27f6e41f6f

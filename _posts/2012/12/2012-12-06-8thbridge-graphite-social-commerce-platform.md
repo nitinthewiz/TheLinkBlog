@@ -1,5 +1,6 @@
 ---
 title: "8thBridge Graphite Social Commerce Platform"
+slug: 8thbridge-graphite-social-commerce-platform
 date: 2012-12-06 08:54:38 -0600
 external-url: http://www.youtube.com/watch?v=qA39BiI_AgI
 hash: 5740cd5a1f2439226201adf290b23800

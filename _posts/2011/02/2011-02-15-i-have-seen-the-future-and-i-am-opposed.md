@@ -1,5 +1,6 @@
 ---
 title: "I Have Seen the Future and I Am Opposed"
+slug: i-have-seen-the-future-and-i-am-opposed
 date: 2011-02-15 23:02:57 -0600
 external-url: http://core77.com/blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp
 hash: 33dd317ae2e983e6d829f71be4250ac1

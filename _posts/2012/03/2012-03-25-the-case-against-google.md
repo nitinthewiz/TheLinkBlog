@@ -1,5 +1,6 @@
 ---
 title: "The Case Against Google"
+slug: the-case-against-google
 date: 2012-03-25 15:25:35 -0500
 external-url: http://gizmodo.com/5895010/the-case-against-google
 hash: 6ebc176e33149b57b97e0fbf442d6bae

@@ -1,5 +1,6 @@
 ---
 title: "What San Francisco/Silicon Valley can learn from the Twittering company: Zappos"
+slug: what-san-francisco-silicon-valley-can-learn-from-the-twittering-zappos
 date: 2009-05-01 23:08:12 -0500
 external-url: http://scobleizer.com/2009/04/23/learn-from-zappos/
 hash: d29e6a51365f5f59dc5596929935bcf4

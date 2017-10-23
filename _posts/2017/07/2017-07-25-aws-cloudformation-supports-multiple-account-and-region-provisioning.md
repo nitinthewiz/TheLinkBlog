@@ -1,5 +1,6 @@
 ---
 title: "AWS CloudFormation Supports Multiple Account and Region Provisioning with StackSet"
+slug: aws-cloudformation-supports-multiple-account-and-region-provisioning
 date: 2017-07-25 22:02:55 -0500
 external-url: https://aws.amazon.com/about-aws/whats-new/2017/07/aws-cloudformation-supports-multiple-account-and-region-provisioning-with-stackset/
 hash: 70c237476511e486dbe453c1d982c436

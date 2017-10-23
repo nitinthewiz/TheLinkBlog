@@ -1,5 +1,6 @@
 ---
 title: "Delicious' New Flavors: Refined Search, Interactive Graphs, & Much More"
+slug: delicious-new-flavors-refined-search-interactive-graphs-much-more
 date: 2009-09-30 20:25:38 -0500
 external-url: http://readwrite.com/2009/09/30/delicious_new_flavors
 hash: ab8adb64256371460201aa36ca7c3b78

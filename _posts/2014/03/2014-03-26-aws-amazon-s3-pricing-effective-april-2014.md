@@ -1,5 +1,6 @@
 ---
 title: "AWS | Amazon S3 | Pricing Effective April 2014"
+slug: aws-amazon-s3-pricing-effective-april-2014
 date: 2014-03-26 14:03:52 -0500
 external-url: http://aws.amazon.com/s3/pricing/effective-april-2014/
 hash: f3982409b0e1009a85cfbfecbe8fabaa

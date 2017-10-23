@@ -1,5 +1,6 @@
 ---
 title: "Steak au Poivre with Truffle Microgreen Salad"
+slug: steak-au-poivre-with-truffle-microgreen-salad
 date: 2011-02-13 07:55:04 -0600
 external-url: http://www.seriouseats.com/recipes/2011/02/the-secret-ingredient-black-pepper-steak.html
 hash: ad9fd10838889d80a2dfca060ff96681

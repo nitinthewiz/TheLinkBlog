@@ -1,5 +1,6 @@
 ---
 title: "Terms of Services Kinda Like Open Licenses – But Evil"
+slug: terms-of-services-kinda-like-open-licenses-but-evil
 date: 2010-10-18 16:31:07 -0500
 external-url: http://garrickvanburen.com/archive/terms-of-services-kinda-like-open-licenses-but-evil
 hash: 223a37fcccde036cc32e044ee7947b13

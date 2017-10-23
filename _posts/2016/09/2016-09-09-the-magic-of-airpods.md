@@ -1,5 +1,6 @@
 ---
 title: "The Magic of AirPods"
+slug: the-magic-of-airpods
 date: 2016-09-09 20:47:25 -0500
 external-url: https://sixcolors.com/post/2016/09/the-magic-of-airpods/
 hash: 3a98deb490c3f9a1948f8cdfaf4b7c46

@@ -1,5 +1,6 @@
 ---
 title: "Sisyphus Industries"
+slug: sisyphus-industries
 date: 2017-06-04 19:48:49 -0500
 external-url: http://www.sisyphus-industries.com/
 hash: 8248a230de60e7a08d00f36ac7024c5b

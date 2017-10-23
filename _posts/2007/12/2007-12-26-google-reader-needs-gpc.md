@@ -1,5 +1,6 @@
 ---
 title: "Google Reader needs GPC"
+slug: google-reader-needs-gpc
 date: 2007-12-26 01:43:41 -0600
 external-url: http://scobleizer.com/2007/12/26/google-reader-needs-gpc/
 hash: f10155aae8c74ff75a8ddddb4ff7910d

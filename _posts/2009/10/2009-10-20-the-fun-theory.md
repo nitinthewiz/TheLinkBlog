@@ -1,5 +1,6 @@
 ---
 title: "The Fun Theory"
+slug: the-fun-theory
 date: 2009-10-20 23:36:56 -0500
 external-url: http://radar.oreilly.com/2009/10/the-fun-theory.html
 hash: ec6524bb7535a85729ff3dcae240beff

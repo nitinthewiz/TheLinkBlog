@@ -1,5 +1,6 @@
 ---
 title: "5D Mark II Video Improvements"
+slug: 5d-mark-ii-video-improvements
 date: 2009-05-26 23:54:09 -0500
 external-url: http://duncandavidson.com/2009/05/5d-mark-ii-video-improvements.html
 hash: a6d123b60502a1ec19313aa83a4f2ff7

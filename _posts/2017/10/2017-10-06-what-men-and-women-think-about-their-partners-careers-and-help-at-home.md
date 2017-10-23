@@ -1,5 +1,6 @@
 ---
 title: "What men and women think about their partners’ careers and help at home"
+slug: what-men-and-women-think-about-their-partners-careers-and-help-at-home
 date: 2017-10-06 19:24:37 -0500
 external-url: https://www.economist.com/blogs/graphicdetail/2017/10/daily-chart-2?cid1=cust/ddnew/email/n/n/2017105n/owned/n/n/ddnew/n/n/n/nna/Daily_Dispatch/email&etear=dailydispatch
 hash: 2858acb8decf5fd6d3a144aae924e1e2

@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Google Chrome OS"
+slug: introducing-the-google-chrome-os
 date: 2009-07-08 23:08:56 -0500
 external-url: http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html
 hash: a9af04046d35c203856e1b4e137e1a9c

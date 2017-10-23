@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Extension Social Sidebar"
+slug: mediawiki-extension-social-sidebar
 date: 2012-11-21 22:23:43 -0600
 external-url: http://www.mediawiki.org/wiki/Extension:Social_Sidebar
 hash: ef5af4909777e0bdecaa57965e85e5c3

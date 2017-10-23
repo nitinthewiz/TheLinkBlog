@@ -1,5 +1,6 @@
 ---
 title: "MacHeist II: Now Includes Snapz Pro X and Pixelmator"
+slug: macheist-ii-now-includes-snapz-pro-x-and-pixelmator
 date: 2008-01-14 09:42:30 -0600
 external-url: http://macapper.com/2008/01/14/macheist-ii-now-includes-snapz-pro-x/
 hash: 905d6d4875e9cd9deed1b25391b40423

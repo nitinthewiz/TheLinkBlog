@@ -1,5 +1,6 @@
 ---
 title: "Garricks SXSW 2009 Showcasing Artists Picks"
+slug: garricks-sxsw-2009-showcasing-artists-picks
 date: 2009-05-01 00:18:46 -0500
 external-url: https://garrickvanburen.com/archive/garricks-sxsw-2009-showcasing-artists-picks/
 hash: ec387d9351655841ea756dac1d984333

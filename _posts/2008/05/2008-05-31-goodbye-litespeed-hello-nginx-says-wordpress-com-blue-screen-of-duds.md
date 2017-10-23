@@ -1,5 +1,6 @@
 ---
 title: "Goodbye Litespeed, hello Nginx, says Wordpress.com « Blue Screen Of Duds"
+slug: goodbye-litespeed-hello-nginx-says-wordpress-com-blue-screen-of-duds
 date: 2008-05-31 17:30:12 -0500
 external-url: http://fatalerror.wordpress.com/2008/04/14/goodbye-litespeed-hello-nginx-wordpresscom/
 hash: 7266570c38902e9c2a20353b4e908dba

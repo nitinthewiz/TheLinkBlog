@@ -1,5 +1,6 @@
 ---
 title: "Airphones turns your iPhone or iPod Touch into a wireless headset"
+slug: airphones-turns-your-iphone-or-ipod-touch-into-a-wireless-headset
 date: 2009-02-26 22:53:47 -0600
 external-url: http://9to5mac.com/2009/02/26/airphones-turns-your-iphone-or-ipod-touch-into-a-wireless-headset/
 hash: a57947d1d2b46f1cfb803cfcc06f8733

@@ -1,5 +1,6 @@
 ---
 title: "Institute for Alternative Futures"
+slug: institute-for-alternative-futures
 date: 2011-03-10 11:05:48 -0600
 external-url: http://altfutures.org/
 hash: eac6da00d8448eddc2ffa0196c17b1b3

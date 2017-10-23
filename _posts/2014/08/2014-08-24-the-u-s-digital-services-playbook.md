@@ -1,5 +1,6 @@
 ---
 title: "The U.S. Digital Services Playbook"
+slug: the-u-s-digital-services-playbook
 date: 2014-08-24 11:17:08 -0500
 external-url: https://playbook.cio.gov/
 hash: 453b32d5199b5c977224a58d77efd2cf

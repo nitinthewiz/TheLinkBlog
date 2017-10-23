@@ -1,5 +1,6 @@
 ---
 title: "Haunted By Data"
+slug: haunted-by-data
 date: 2015-10-04 20:40:59 -0500
 external-url: http://idlewords.com/talks/haunted_by_data.htm
 hash: 01947487e656f1c77bd112b1da5bab24

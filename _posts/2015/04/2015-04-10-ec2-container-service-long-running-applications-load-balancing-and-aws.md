@@ -1,5 +1,6 @@
 ---
 title: "EC2 Container Service – Long-Running Applications, Load Balancing, and More | AWS Official Blog"
+slug: ec2-container-service-long-running-applications-load-balancing-and-aws
 date: 2015-04-10 20:08:01 -0500
 external-url: https://aws.amazon.com/blogs/aws/ec2-container-service-ready-for-production-use/
 hash: 5af1c684696bf4a637344bbf0636bdbe

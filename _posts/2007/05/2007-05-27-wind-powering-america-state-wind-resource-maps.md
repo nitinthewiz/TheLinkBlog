@@ -1,5 +1,6 @@
 ---
 title: "Wind Powering America: State Wind Resource Maps"
+slug: wind-powering-america-state-wind-resource-maps
 date: 2007-05-27 08:49:16 -0500
 external-url: http://apps2.eere.energy.gov/wind/windexchange/wind_maps.asp
 hash: 635bde5759e6206b10d4876209be7380

@@ -1,5 +1,6 @@
 ---
 title: "Just Make Crap"
+slug: just-make-crap
 date: 2013-07-18 10:35:14 -0500
 external-url: http://just.makecrap.com/
 hash: 048d87df69c28fec9aa1f466fcb39fad

@@ -1,5 +1,6 @@
 ---
 title: "How (and Why) I Switched from JIRA to Clubhouse"
+slug: how-and-why-i-switched-from-jira-to-clubhouse
 date: 2016-09-11 22:37:34 -0500
 external-url: http://log.liminastudio.com/programming/how-and-why-i-switched-from-jira-to-clubhouse
 hash: f4215618b34e01b6d949250e07718ae0

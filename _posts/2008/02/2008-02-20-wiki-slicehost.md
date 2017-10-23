@@ -1,5 +1,6 @@
 ---
 title: "wiki [Slicehost]"
+slug: wiki-slicehost
 date: 2008-02-20 23:43:58 -0600
 external-url: http://wiki.slicehost.com/doku.php
 hash: 57bc267d212f5697cf656b04ea7ee08f

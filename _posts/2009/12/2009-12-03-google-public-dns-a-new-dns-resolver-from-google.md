@@ -1,5 +1,6 @@
 ---
 title: "Google Public DNS: A New DNS Resolver From Google"
+slug: google-public-dns-a-new-dns-resolver-from-google
 date: 2009-12-03 21:18:33 -0600
 external-url: http://googlecode.blogspot.com/2009/12/introducing-google-public-dns-new-dns.html
 hash: f7f4003d83199e1eab40459dfcf1b7ff

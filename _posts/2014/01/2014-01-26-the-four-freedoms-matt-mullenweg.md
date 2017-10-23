@@ -1,5 +1,6 @@
 ---
 title: "The Four Freedoms | Matt Mullenweg"
+slug: the-four-freedoms-matt-mullenweg
 date: 2014-01-26 11:34:55 -0600
 external-url: http://ma.tt/2014/01/four-freedoms/
 hash: 45623f54746e1afd8ba1217eb4a5cd60

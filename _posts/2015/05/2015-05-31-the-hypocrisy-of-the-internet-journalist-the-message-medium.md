@@ -1,5 +1,6 @@
 ---
 title: "The Hypocrisy of the Internet Journalist — The Message — Medium"
+slug: the-hypocrisy-of-the-internet-journalist-the-message-medium
 date: 2015-05-31 10:35:04 -0500
 external-url: https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e
 hash: e3c36ed82814abceb1ed4e7c56a0bd1d

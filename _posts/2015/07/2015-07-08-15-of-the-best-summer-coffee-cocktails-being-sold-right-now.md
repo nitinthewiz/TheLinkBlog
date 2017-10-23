@@ -1,5 +1,6 @@
 ---
 title: "15 of the Best Summer Coffee Cocktails Being Sold Right Now"
+slug: 15-of-the-best-summer-coffee-cocktails-being-sold-right-now
 date: 2015-07-08 22:45:28 -0500
 external-url: http://dailycoffeenews.com/2015/07/08/15-of-the-best-summer-coffee-cocktails-being-sold-right-now/
 hash: a3b19ebac906772cc6e6a1ad677053bc

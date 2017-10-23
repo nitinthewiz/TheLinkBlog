@@ -1,5 +1,6 @@
 ---
 title: "Totally Scored :: Recent Sports Scores via RSS Feed"
+slug: totally-scored-recent-sports-scores-via-rss-feed
 date: 2007-09-13 09:50:40 -0500
 external-url: http://www.totallyscored.com/
 hash: 03219d7037bb10571d3daacc53fb5fea

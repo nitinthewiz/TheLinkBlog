@@ -1,5 +1,6 @@
 ---
 title: "Does class size really matter?"
+slug: does-class-size-really-matter
 date: 2011-08-07 08:21:25 -0500
 external-url: http://www.salon.com/2011/08/06/good_school_excerpt/
 hash: b0e00f9ab650e0768938b6257f0f3edc

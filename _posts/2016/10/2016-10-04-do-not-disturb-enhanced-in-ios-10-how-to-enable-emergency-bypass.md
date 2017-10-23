@@ -1,5 +1,6 @@
 ---
 title: "Do Not Disturb enhanced in iOS 10 - How to enable Emergency Bypass"
+slug: do-not-disturb-enhanced-in-ios-10-how-to-enable-emergency-bypass
 date: 2016-10-04 05:41:41 -0500
 external-url: http://www.appleworld.today/blog/2016/10/3/do-not-disturb-enhanced-in-ios-10-how-to-enable-emergency-bypass
 hash: 5cf40f15e9a4f382506bac430b1abbef

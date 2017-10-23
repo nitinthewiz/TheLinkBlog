@@ -1,5 +1,6 @@
 ---
 title: "Outdoor Dropcam Cases | Weatherproof Housing & Enclosure - Dropcases"
+slug: outdoor-dropcam-cases-weatherproof-housing-enclosure-dropcases
 date: 2014-12-16 09:10:27 -0600
 external-url: http://dropcases.com/
 hash: 53674b26a542fec9b6659eccb5bce1b0

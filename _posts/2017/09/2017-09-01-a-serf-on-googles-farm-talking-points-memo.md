@@ -1,5 +1,6 @@
 ---
 title: "A Serf on Google’s Farm – Talking Points Memo"
+slug: a-serf-on-googles-farm-talking-points-memo
 date: 2017-09-01 03:40:09 -0500
 external-url: http://talkingpointsmemo.com/edblog/a-serf-on-googles-farm
 hash: 1b52435d27b39e91d375a759c8abb5d3

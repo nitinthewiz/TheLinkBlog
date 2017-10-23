@@ -1,5 +1,6 @@
 ---
 title: "Voyager 1 Arrives at the Outward Reaches of the Solar Wind, Prepares To  Enter Interstellar Space"
+slug: voyager-1-arrives-at-the-outward-reaches-of-the-solar-wind-prepares-to
 date: 2010-12-15 10:14:13 -0600
 external-url: http://www.popsci.com/technology/article/2010-12/voyager-1-arrives-outward-reaches-solar-wind-prepares-interstellar-space
 hash: d0f9de3861ac94a2bad3c07ee672d062

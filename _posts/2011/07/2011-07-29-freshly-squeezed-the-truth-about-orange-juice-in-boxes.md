@@ -1,5 +1,6 @@
 ---
 title: "Freshly Squeezed: The Truth About Orange Juice in Boxes"
+slug: freshly-squeezed-the-truth-about-orange-juice-in-boxes
 date: 2011-07-29 15:59:59 -0500
 external-url: http://civileats.com/2009/05/06/freshly-squeezed-the-truth-about-orange-juice-in-boxes/
 hash: 00137b84481237b991abf7a964024401

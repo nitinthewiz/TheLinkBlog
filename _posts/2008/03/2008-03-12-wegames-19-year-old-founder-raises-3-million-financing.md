@@ -1,5 +1,6 @@
 ---
 title: "WeGames 19 Year Old Founder Raises $3 million Financing"
+slug: wegames-19-year-old-founder-raises-3-million-financing
 date: 2008-03-12 23:16:54 -0500
 external-url: http://techcrunch.com/2008/03/12/wegames-19-year-old-founder-raises-3-million-financing/
 hash: 988e8b1a8311579f37ea5f88f81f0619

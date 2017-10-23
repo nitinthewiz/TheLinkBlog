@@ -1,5 +1,6 @@
 ---
 title: "Open Web Design"
+slug: open-web-design
 date: 2006-11-04 11:32:09 -0600
 external-url: http://www.openwebdesign.org/
 hash: a85c1ed8fd86a9692218eab994616b7b

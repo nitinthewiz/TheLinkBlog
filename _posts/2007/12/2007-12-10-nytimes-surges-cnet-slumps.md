@@ -1,5 +1,6 @@
 ---
 title: "NYTimes Surges, CNet Slumps"
+slug: nytimes-surges-cnet-slumps
 date: 2007-12-10 10:35:20 -0600
 external-url: http://techcrunch.com/2007/12/10/nytimes-surges-cnet-slumps/
 hash: ab0b240d793a1199144e470b6159d343

@@ -1,5 +1,6 @@
 ---
 title: "Drive a Tank"
+slug: drive-a-tank
 date: 2011-06-20 08:52:50 -0500
 external-url: http://www.driveatank.com/
 hash: 51c31628900c4fc2f8a674ddd99f9971

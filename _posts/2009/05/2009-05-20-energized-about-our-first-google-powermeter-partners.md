@@ -1,5 +1,6 @@
 ---
 title: "Energized about our first Google PowerMeter partners"
+slug: energized-about-our-first-google-powermeter-partners
 date: 2009-05-20 23:37:03 -0500
 external-url: http://googleblog.blogspot.com/2009/05/energized-about-our-first-google.html
 hash: 6cc108c5d138be979af40015f3ce8bff

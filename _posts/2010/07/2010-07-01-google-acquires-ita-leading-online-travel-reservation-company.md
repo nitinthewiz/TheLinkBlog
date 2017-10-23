@@ -1,5 +1,6 @@
 ---
 title: "Google Acquires ITA, Leading Online Travel Reservation Company"
+slug: google-acquires-ita-leading-online-travel-reservation-company
 date: 2010-07-01 22:54:13 -0500
 external-url: http://searchengineland.com/google-takes-on-travel-sites-courts-ftc-action-with-ita-acquisition-45590
 hash: 9815f72d94e9b82aca46ac26bb5a549e

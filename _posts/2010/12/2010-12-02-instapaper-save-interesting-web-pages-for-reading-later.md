@@ -1,5 +1,6 @@
 ---
 title: "Instapaper: Save interesting web pages for reading later"
+slug: instapaper-save-interesting-web-pages-for-reading-later
 date: 2010-12-02 23:08:18 -0600
 external-url: http://www.instapaper.com/
 hash: 49794ca6470c108033723e428ca68719

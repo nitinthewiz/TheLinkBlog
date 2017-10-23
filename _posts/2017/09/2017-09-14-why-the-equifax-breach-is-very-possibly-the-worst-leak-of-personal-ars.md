@@ -1,5 +1,6 @@
 ---
 title: "Why the Equifax breach is very possibly the worst leak of personal info ever | Ars Technica"
+slug: why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-ars
 date: 2017-09-14 03:36:12 -0500
 external-url: https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/
 hash: 434dba91d18e658837974f638fd3d29d

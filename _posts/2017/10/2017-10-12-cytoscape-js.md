@@ -1,5 +1,6 @@
 ---
 title: "Cytoscape.js"
+slug: cytoscape-js
 date: 2017-10-12 22:04:30 -0500
 external-url: http://js.cytoscape.org/
 hash: 950a39732905277173f35e5bacb5035a

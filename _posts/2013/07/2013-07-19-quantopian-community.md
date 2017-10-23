@@ -1,5 +1,6 @@
 ---
 title: "Quantopian Community"
+slug: quantopian-community
 date: 2013-07-19 15:42:13 -0500
 external-url: https://www.quantopian.com/
 hash: dbe6cce91cf3c5ce51402ff8fae48437

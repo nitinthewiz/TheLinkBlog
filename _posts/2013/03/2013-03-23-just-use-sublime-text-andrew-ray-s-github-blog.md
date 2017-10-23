@@ -1,5 +1,6 @@
 ---
 title: "Just Use Sublime Text - Andrew Ray's Github Blog"
+slug: just-use-sublime-text-andrew-ray-s-github-blog
 date: 2013-03-23 21:12:01 -0500
 external-url: http://delvarworld.github.io/blog/2013/03/16/just-use-sublime-text/
 hash: b8a09c0f4379e5ede9d4f60d51f5ff8d

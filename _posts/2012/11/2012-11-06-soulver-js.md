@@ -1,5 +1,6 @@
 ---
 title: "Soulver.js"
+slug: soulver-js
 date: 2012-11-06 10:53:26 -0600
 external-url: https://github.com/vjeux/soulver.js#readme
 hash: 01669d4e0d6d05a49cb6bd6ea0b9bc86

@@ -1,5 +1,6 @@
 ---
 title: "Automatic - Your Smart Driving Assistant"
+slug: automatic-your-smart-driving-assistant
 date: 2013-03-12 12:56:54 -0500
 external-url: https://www.automatic.com/
 hash: 82b1cd9a476a8650d5b367e91efd081c

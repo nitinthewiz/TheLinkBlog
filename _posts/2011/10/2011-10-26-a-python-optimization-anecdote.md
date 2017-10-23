@@ -1,5 +1,6 @@
 ---
 title: "A Python Optimization Anecdote"
+slug: a-python-optimization-anecdote
 date: 2011-10-26 14:39:43 -0500
 external-url: https://tech.dropbox.com/2011/10/a-python-optimization-anecdote/
 hash: f3f7018efe39ce0630101f750517e4ae

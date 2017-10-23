@@ -1,5 +1,6 @@
 ---
 title: "Onboarding New Engineers: Pros And Cons Of Common Strategies"
+slug: onboarding-new-engineers-pros-and-cons-of-common-strategies
 date: 2015-11-16 19:45:51 -0600
 external-url: http://blog.statuspage.io/onboarding-new-engineers-pros-and-cons-of-common-strategies
 hash: 6125387b1bf6daf90f46c13ae55d0ce6

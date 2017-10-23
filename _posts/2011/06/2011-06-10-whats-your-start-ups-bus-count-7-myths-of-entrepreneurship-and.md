@@ -1,5 +1,6 @@
 ---
 title: "Whats Your Start-ups Bus Count? 7 Myths of Entrepreneurship and Programming"
+slug: whats-your-start-ups-bus-count-7-myths-of-entrepreneurship-and
 date: 2011-06-10 20:05:16 -0500
 external-url: http://fourhourworkweek.com/blog/2011/06/07/whats-your-start-up-bus-count-7-myths-of-entrepreneurship-and-programming/
 hash: 8279f79e0d3b636d2f22676459314747

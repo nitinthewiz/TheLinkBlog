@@ -1,5 +1,6 @@
 ---
 title: "Jed's Other Poem"
+slug: jed-s-other-poem
 date: 2005-09-20 21:25:31 -0500
 external-url: http://www.stewdio.org/jed/
 hash: 8febae4afd706b7ebf64707e6469ca46

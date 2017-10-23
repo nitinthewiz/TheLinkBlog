@@ -1,5 +1,6 @@
 ---
 title: "Disposable AppleScripts - All this"
+slug: disposable-applescripts-all-this
 date: 2017-06-02 20:55:43 -0500
 external-url: http://leancrew.com/all-this/2017/05/disposable-applescripts/
 hash: af79dbcb046a3a9e13b6cc93e7b65164

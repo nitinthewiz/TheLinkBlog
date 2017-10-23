@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Forums - $wgRestrictionLevels 101"
+slug: mediawiki-forums-wgrestrictionlevels-101
 date: 2013-01-13 14:43:13 -0600
 external-url: http://ww2.mwusers.com/forums/content.php?129-wgRestrictionLevels-101
 hash: 2aaf2ebe3a15e790039bec62533a716b

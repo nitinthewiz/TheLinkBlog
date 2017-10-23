@@ -1,5 +1,6 @@
 ---
 title: "Perl WakeOnLan"
+slug: perl-wakeonlan
 date: 2005-09-04 21:31:39 -0500
 external-url: http://gsd.di.uminho.pt/jpo/software/wakeonlan/
 hash: e5fab8ba8f48a651f6d6d3fe3f453bbb

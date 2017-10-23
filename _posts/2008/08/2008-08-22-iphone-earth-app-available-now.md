@@ -1,5 +1,6 @@
 ---
 title: "IPhone Earth App Available Now"
+slug: iphone-earth-app-available-now
 date: 2008-08-22 11:15:16 -0500
 external-url: http://www.gearthblog.com/blog/archives/2008/08/iphone_earth_app_available_now.html
 hash: 0377aed34d20b2de7647f075c000306d

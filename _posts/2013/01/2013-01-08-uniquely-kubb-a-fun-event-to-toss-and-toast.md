@@ -1,5 +1,6 @@
 ---
 title: "Uniquely Kubb - a fun event to toss and toast!"
+slug: uniquely-kubb-a-fun-event-to-toss-and-toast
 date: 2013-01-08 10:25:56 -0600
 external-url: http://www.loppet.org/cityoflakesloppet/2013/01/uniquely-kubb-special-awards-for-a-one-of-a-kind-event/
 hash: 6d446c2a23c5f2e2e00ab0184cbb38c3

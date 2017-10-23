@@ -1,5 +1,6 @@
 ---
 title: "ChimpFeedr RSS Feed Aggregator"
+slug: chimpfeedr-rss-feed-aggregator
 date: 2012-12-05 11:51:57 -0600
 external-url: http://chimpfeedr.com/
 hash: c37ce99b38bcc425dbe11265926ca00c

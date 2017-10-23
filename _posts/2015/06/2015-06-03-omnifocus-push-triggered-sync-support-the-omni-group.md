@@ -1,5 +1,6 @@
 ---
 title: "OmniFocus Push-Triggered Sync - Support - The Omni Group"
+slug: omnifocus-push-triggered-sync-support-the-omni-group
 date: 2015-06-03 20:15:17 -0500
 external-url: https://support.omnigroup.com/omnifocus-push-architecture
 hash: f069dbf34a88220b1ce97d26f280f3b1

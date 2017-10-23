@@ -1,5 +1,6 @@
 ---
 title: "Omni Group Automation"
+slug: omni-group-automation
 date: 2017-03-31 12:14:20 -0500
 external-url: https://omni-automation.com/
 hash: 01bd3f1cf64fe257535d00d5c203e689

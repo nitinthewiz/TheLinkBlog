@@ -1,5 +1,6 @@
 ---
 title: "Things about Blogging"
+slug: things-about-blogging
 date: 2011-03-17 05:54:35 -0500
 external-url: http://www.tbray.org/ongoing/When/201x/2011/03/07/BNotes
 hash: 05b07af1b1ea13981a9ff929672818ac

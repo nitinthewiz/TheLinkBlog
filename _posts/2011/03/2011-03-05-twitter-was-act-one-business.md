@@ -1,5 +1,6 @@
 ---
 title: "Twitter Was Act One Business"
+slug: twitter-was-act-one-business
 date: 2011-03-05 00:39:09 -0600
 external-url: http://www.vanityfair.com/business/features/2011/04/jack-dorsey-201104
 hash: 282a2c1d911e8f08e8764161f1f23bb8

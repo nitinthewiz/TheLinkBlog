@@ -1,5 +1,6 @@
 ---
 title: "Transmit 3.6.7 is available"
+slug: transmit-3-6-7-is-available
 date: 2008-11-26 06:00:00 -0600
 external-url: http://www.tuaw.com/2008/11/26/transmit-3-6-7-is-available/
 hash: 7675c7b98d92950d23f2e1611aa621cd

@@ -1,5 +1,6 @@
 ---
 title: "HandBrake"
+slug: handbrake
 date: 2006-02-02 05:39:58 -0600
 external-url: http://handbrake.m0k.org/
 hash: 4596327d6fbd016b4e845a85230a0da9

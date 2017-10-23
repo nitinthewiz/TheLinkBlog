@@ -1,5 +1,6 @@
 ---
 title: "Minnesota's biggest employers have a real need for skilled hands and minds - StarTribune.com"
+slug: minnesota-s-biggest-employers-have-a-real-need-for-skilled-hands-and
 date: 2017-05-26 22:19:13 -0500
 external-url: http://www.startribune.com/star-tribune-50-employers-seek-skilled-hands-minds/423210783/
 hash: 2199c10891eeacff00c164c72d23434a

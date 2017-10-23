@@ -1,5 +1,6 @@
 ---
 title: "Artist reaches new peak with Bloomington mural"
+slug: artist-reaches-new-peak-with-bloomington-mural
 date: 2007-10-28 20:42:27 -0500
 external-url: http://www.startribune.com/local/west/11549616.html
 hash: c3e4726f938c5cd2f49bab834fcbd296

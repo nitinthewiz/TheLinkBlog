@@ -1,5 +1,6 @@
 ---
 title: "Anker PowerDrive 2 — 24W Dual-USB Car Charger — Tools and Toys"
+slug: anker-powerdrive-2-24w-dual-usb-car-charger-tools-and-toys
 date: 2016-02-29 23:04:17 -0600
 external-url: http://toolsandtoys.net/anker-powerdrive-2-24w-dual-usb-car-charger/
 hash: cde44f3df1b08d30231c93ac16a19ab4

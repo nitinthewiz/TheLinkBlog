@@ -1,5 +1,6 @@
 ---
 title: "WorkSimple"
+slug: worksimple
 date: 2010-12-08 23:34:27 -0600
 external-url: http://www.getworksimple.com/
 hash: a0da63e97014e6d6f0c2602a573ddb17

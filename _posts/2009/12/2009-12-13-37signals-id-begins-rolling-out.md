@@ -1,5 +1,6 @@
 ---
 title: "37signals ID begins rolling out"
+slug: 37signals-id-begins-rolling-out
 date: 2009-12-13 21:14:45 -0600
 external-url: http://productblog.37signals.com/products/2009/12/37signals-id-whats-new.html
 hash: 6c487e995bb8f11d3c0d709f5aacea0c

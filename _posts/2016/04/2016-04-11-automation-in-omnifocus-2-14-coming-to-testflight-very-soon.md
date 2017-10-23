@@ -1,5 +1,6 @@
 ---
 title: "Automation in OmniFocus 2.14 (coming to TestFlight very soon)"
+slug: automation-in-omnifocus-2-14-coming-to-testflight-very-soon
 date: 2016-04-11 18:46:34 -0500
 external-url: https://discourse.omnigroup.com/t/automation-in-omnifocus-2-14-coming-to-testflight-very-soon/23985
 hash: 0fa13dfefdd54092e73e6500e6937dc8

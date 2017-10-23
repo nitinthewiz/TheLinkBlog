@@ -1,5 +1,6 @@
 ---
 title: "The End Of Hand Crafted Content"
+slug: the-end-of-hand-crafted-content
 date: 2009-12-13 09:45:01 -0600
 external-url: http://techcrunch.com/2009/12/13/the-end-of-hand-crafted-content/
 hash: 8ab2d0ad07d57faed5fe266a238cd1ec

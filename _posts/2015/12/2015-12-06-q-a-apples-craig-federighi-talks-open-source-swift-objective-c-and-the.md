@@ -1,5 +1,6 @@
 ---
 title: "Q&A: Apple’s Craig Federighi talks open source Swift, Objective-C and the next 20 years of development"
+slug: q-a-apples-craig-federighi-talks-open-source-swift-objective-c-and-the
 date: 2015-12-06 10:31:39 -0600
 external-url: http://thenextweb.com/apple/2015/12/03/qa-apples-craig-federighi-talks-open-source-swift-objective-c-and-the-next-20-years-of-development/
 hash: fba039703368602857197a80be390519

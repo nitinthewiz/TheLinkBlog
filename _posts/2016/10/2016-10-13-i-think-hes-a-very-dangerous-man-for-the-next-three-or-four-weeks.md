@@ -1,5 +1,6 @@
 ---
 title: "‘I Think He’s a Very Dangerous Man for the Next Three or Four Weeks’ - POLITICO Magazine"
+slug: i-think-hes-a-very-dangerous-man-for-the-next-three-or-four-weeks
 date: 2016-10-13 18:43:48 -0500
 external-url: http://www.politico.com/magazine/story/2016/10/donald-trump-2016-biographers-214350
 hash: 442e20f44d8855df45ee01990361b61a

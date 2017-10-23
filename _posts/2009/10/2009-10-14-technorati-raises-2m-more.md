@@ -1,5 +1,6 @@
 ---
 title: "Technorati raises $2M more"
+slug: technorati-raises-2m-more
 date: 2009-10-14 23:50:20 -0500
 external-url: http://venturebeat.com/2009/10/14/technorati-raises-2m-more/
 hash: 5189dce2c6b1fa58116e7b7e495ec23b

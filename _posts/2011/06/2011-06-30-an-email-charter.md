@@ -1,5 +1,6 @@
 ---
 title: "An Email Charter"
+slug: an-email-charter
 date: 2011-06-30 22:38:40 -0500
 external-url: http://emailcharter.org/
 hash: 364a4e93a77dbbd95c779b91475c430c

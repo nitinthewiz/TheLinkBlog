@@ -1,5 +1,6 @@
 ---
 title: "Test-driving VMware Fusion 2.0 Beta 1"
+slug: test-driving-vmware-fusion-2-0-beta-1
 date: 2008-05-07 07:00:00 -0500
 external-url: http://lifehacker.com/387819/test%2Bdriving-vmware-fusion-20-beta-1/gallery/
 hash: 337d5f0e1288db644d473be59d3c89be

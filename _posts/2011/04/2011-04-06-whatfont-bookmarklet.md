@@ -1,5 +1,6 @@
 ---
 title: "WhatFont Bookmarklet"
+slug: whatfont-bookmarklet
 date: 2011-04-06 20:28:38 -0500
 external-url: http://chengyinliu.com/whatfont.html
 hash: 3f187aa724ee7572c12dc33444cab9a4

@@ -1,5 +1,6 @@
 ---
 title: "Valcucine: Ricicla"
+slug: valcucine-ricicla
 date: 2005-10-20 17:38:30 -0500
 external-url: http://www.valcucinena.com/VCRicicla.html
 hash: 0ea526e6f2133f6f83ce5652562e0311

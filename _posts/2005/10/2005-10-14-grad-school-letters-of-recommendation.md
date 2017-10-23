@@ -1,5 +1,6 @@
 ---
 title: "Grad School Letters Of Recommendation"
+slug: grad-school-letters-of-recommendation
 date: 2005-10-14 04:52:01 -0500
 external-url: http://www.accepted.com/grad/LettersRec.aspx
 hash: fc8413d6dd8d2dbef0f40761f58124f0

@@ -1,5 +1,6 @@
 ---
 title: "Dopplr tracks your Carbon Footprint"
+slug: dopplr-tracks-your-carbon-footprint
 date: 2008-03-18 00:02:36 -0500
 external-url: http://cubicgarden.com/cubicgarden/science/?permalink=Dopplr-tracks-your-Carbon-Footprint.html
 hash: 96a867c22c8c690a7388122d291351ce

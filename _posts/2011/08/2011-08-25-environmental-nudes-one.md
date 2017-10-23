@@ -1,5 +1,6 @@
 ---
 title: "Environmental Nudes One"
+slug: environmental-nudes-one
 date: 2011-08-25 22:22:04 -0500
 external-url: http://www.blurb.com/bookstore/detail/2417251
 hash: a200ab9824fec0c7a558a549c89908ad

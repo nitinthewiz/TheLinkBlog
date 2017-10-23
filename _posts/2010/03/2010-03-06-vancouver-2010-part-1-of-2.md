@@ -1,5 +1,6 @@
 ---
 title: "Vancouver 2010, part 1 of 2"
+slug: vancouver-2010-part-1-of-2
 date: 2010-03-06 16:55:43 -0600
 external-url: http://www.boston.com/bigpicture/2010/02/vancouver_2010_part_1_of_2.html
 hash: 1c4c7a026588cba54e64f2c0aa8ba59d

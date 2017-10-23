@@ -1,5 +1,6 @@
 ---
 title: "Mint Makes Money Saving Into a Game (And We've Got Invites)"
+slug: mint-makes-money-saving-into-a-game-and-we-ve-got-invites
 date: 2009-05-01 00:14:21 -0500
 external-url: http://lifehacker.com/5233996/mint-makes-money-saving-into-a-game
 hash: bd23c688adbffb58eea08f2c2bbe4946

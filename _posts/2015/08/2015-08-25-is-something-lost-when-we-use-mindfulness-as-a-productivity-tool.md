@@ -1,5 +1,6 @@
 ---
 title: "Is Something Lost When We Use Mindfulness as a Productivity Tool?"
+slug: is-something-lost-when-we-use-mindfulness-as-a-productivity-tool
 date: 2015-08-25 23:02:11 -0500
 external-url: https://hbr.org/2015/08/is-something-lost-when-we-use-mindfulness-as-a-productivity-tool
 hash: 861916ccfd1fe934b73c0ba68b27ec3c

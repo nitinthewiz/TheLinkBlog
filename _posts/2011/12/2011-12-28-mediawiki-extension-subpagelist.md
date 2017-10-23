@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Extension SubPageList"
+slug: mediawiki-extension-subpagelist
 date: 2011-12-28 07:42:21 -0600
 external-url: http://www.mediawiki.org/wiki/Extension:SubPageList
 hash: 5d05910360fe6bdab99e2aec6fe68af7

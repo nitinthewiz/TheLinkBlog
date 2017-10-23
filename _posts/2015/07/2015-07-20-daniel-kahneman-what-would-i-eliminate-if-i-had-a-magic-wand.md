@@ -1,5 +1,6 @@
 ---
 title: "Daniel Kahneman: ‘What would I eliminate if I had a magic wand? Overconfidence’"
+slug: daniel-kahneman-what-would-i-eliminate-if-i-had-a-magic-wand
 date: 2015-07-20 20:27:54 -0500
 external-url: http://www.theguardian.com/books/2015/jul/18/daniel-kahneman-books-interview
 hash: c65c595ff77d23dc45c64d99f5e50e9f

@@ -1,5 +1,6 @@
 ---
 title: "Interview: Meet Dan Spitz, Anthrax Guitarist Turned Master Watchmaker"
+slug: interview-meet-dan-spitz-anthrax-guitarist-turned-master-watchmaker
 date: 2012-09-12 21:39:39 -0500
 external-url: http://www.hodinkee.com/blog/interview-meet-dan-spitz-anthrax-guitarist-turned-master-watchmaker
 hash: 2b3c4e3b933959eb865c6942c0a18bd7

@@ -1,5 +1,6 @@
 ---
 title: "Is Your State Losing Tech Jobs? - Dice Insights"
+slug: is-your-state-losing-tech-jobs-dice-insights
 date: 2015-08-12 14:15:45 -0500
 external-url: http://insights.dice.com/2015/08/12/is-your-state-losing-tech-jobs/?CMPID=AF_SD_UP_JS_AV_OG_DNA_
 hash: 01489a35552cff6a04e19f1ae5a0815a

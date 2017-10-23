@@ -1,5 +1,6 @@
 ---
 title: "OpenWatch Demand Marvelous Secrets"
+slug: openwatch-demand-marvelous-secrets
 date: 2011-07-17 09:14:46 -0500
 external-url: https://openwatch.net/
 hash: b120bc3f60d237511ace09cf968ee17b

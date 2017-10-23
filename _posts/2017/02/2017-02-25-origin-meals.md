@@ -1,5 +1,6 @@
 ---
 title: "Origin Meals"
+slug: origin-meals
 date: 2017-02-25 09:17:48 -0600
 external-url: https://www.originmeals.com/
 hash: 31722d341bb692f134b889b80c83f205

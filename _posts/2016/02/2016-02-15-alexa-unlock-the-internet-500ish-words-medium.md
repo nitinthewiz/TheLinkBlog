@@ -1,5 +1,6 @@
 ---
 title: "Alexa, Unlock the Internet — 500ish Words — Medium"
+slug: alexa-unlock-the-internet-500ish-words-medium
 date: 2016-02-15 19:35:50 -0600
 external-url: https://500ish.com/alexa-5f7924bffcf3#.hgyvn8gqh
 hash: 4cf54bf65961fd1695f9c3c3f36af43d

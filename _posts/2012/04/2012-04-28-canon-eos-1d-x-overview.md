@@ -1,5 +1,6 @@
 ---
 title: "Canon EOS-1D X overview"
+slug: canon-eos-1d-x-overview
 date: 2012-04-28 12:28:31 -0500
 external-url: http://www.dpreview.com/articles/5149972341/canon-eos-1d-x-overview
 hash: b4a23591b31c365d77735adcfc5e8b90

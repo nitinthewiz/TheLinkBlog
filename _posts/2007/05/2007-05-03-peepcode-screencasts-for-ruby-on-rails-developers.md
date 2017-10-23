@@ -1,5 +1,6 @@
 ---
 title: "PeepCode Screencasts for Ruby on Rails Developers"
+slug: peepcode-screencasts-for-ruby-on-rails-developers
 date: 2007-05-03 07:37:59 -0500
 external-url: http://peepcode.com/
 hash: 907218e8ae6e54831a5e6e02c3f6b61a

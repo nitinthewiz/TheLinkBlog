@@ -1,5 +1,6 @@
 ---
 title: "Derek Sivers Interviews"
+slug: derek-sivers-interviews
 date: 2016-03-27 06:10:20 -0500
 external-url: https://sivers.org/i
 hash: 1dbbf3f80a8717a4af5e539cedfb944d

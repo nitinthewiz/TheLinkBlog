@@ -1,5 +1,6 @@
 ---
 title: "Colorful Food"
+slug: colorful-food
 date: 2012-08-05 21:13:06 -0500
 external-url: http://www.amazon.com/Colorful-Food-Mindy-Brueggemann/dp/0985567600
 hash: db5bbb08259a3c5bd7a0997c6b63a09a

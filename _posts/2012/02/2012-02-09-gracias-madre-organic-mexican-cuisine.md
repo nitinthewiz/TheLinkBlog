@@ -1,5 +1,6 @@
 ---
 title: "Gracias Madre - Organic Mexican Cuisine"
+slug: gracias-madre-organic-mexican-cuisine
 date: 2012-02-09 18:43:09 -0600
 external-url: http://www.gracias-madre.com/web/
 hash: 3b54e74eeab14b2f3d444730da98c751

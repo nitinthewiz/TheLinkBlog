@@ -1,5 +1,6 @@
 ---
 title: "deaghean/omnifocus-perspective-icons"
+slug: deaghean-omnifocus-perspective-icons
 date: 2015-06-12 22:07:37 -0500
 external-url: https://github.com/deaghean/omnifocus-perspective-icons
 hash: dd8802b06201406d72640f52a29dbf17

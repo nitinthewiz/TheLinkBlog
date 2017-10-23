@@ -1,5 +1,6 @@
 ---
 title: "How To Get Facebooks Timeline Without The Wait"
+slug: how-to-get-facebooks-timeline-without-the-wait
 date: 2011-09-23 19:12:29 -0500
 external-url: http://allfacebook.com/facebook-timeline-no-wait_b59878
 hash: 6965b8c1b39ebe1a63667a8ed42aeae7

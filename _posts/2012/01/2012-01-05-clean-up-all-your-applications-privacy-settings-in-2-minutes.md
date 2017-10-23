@@ -1,5 +1,6 @@
 ---
 title: "Clean up ALL Your Applications Privacy Settings in 2 Minutes"
+slug: clean-up-all-your-applications-privacy-settings-in-2-minutes
 date: 2012-01-05 20:34:54 -0600
 external-url: http://mypermissions.org/
 hash: 4bcfafa7091b7baefdb10dafab320892

@@ -1,5 +1,6 @@
 ---
 title: "Process Managers: The Good, the Bad, and the Ugly"
+slug: process-managers-the-good-the-bad-and-the-ugly
 date: 2013-04-24 10:10:01 -0500
 external-url: http://blog.crocodoc.com/post/48703468992/process-managers-the-good-the-bad-and-the-ugly
 hash: 59f6073ff083dda852ab7603142fb824

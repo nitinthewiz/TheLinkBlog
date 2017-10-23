@@ -1,5 +1,6 @@
 ---
 title: "Riding the Booster with enhanced sound"
+slug: riding-the-booster-with-enhanced-sound
 date: 2012-05-07 11:11:44 -0500
 external-url: http://www.youtube.com/watch?v=2aCOyOvOw5c
 hash: ccdb3a0615969a0975b69cab3edfdbff

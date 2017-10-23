@@ -1,5 +1,6 @@
 ---
 title: "Remembering Alex King"
+slug: remembering-alex-king
 date: 2015-09-30 20:02:51 -0500
 external-url: http://ma.tt/2015/09/remembering-alex-king/
 hash: 6a0394cdaeadb9c45503d09f1d107972

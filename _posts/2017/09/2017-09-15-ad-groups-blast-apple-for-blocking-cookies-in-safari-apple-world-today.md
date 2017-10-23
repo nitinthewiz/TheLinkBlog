@@ -1,5 +1,6 @@
 ---
 title: "Ad groups blast apple for blocking cookies in Safari —Apple World Today"
+slug: ad-groups-blast-apple-for-blocking-cookies-in-safari-apple-world-today
 date: 2017-09-15 04:00:49 -0500
 external-url: https://www.appleworld.today/blog/2017/9/14/ad-groups-blast-apple-for-blocking-cookies-in-safari
 hash: 4015e96e82cc3ef58f2a90e9e646bc9b

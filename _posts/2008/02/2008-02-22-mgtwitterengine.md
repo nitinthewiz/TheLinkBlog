@@ -1,5 +1,6 @@
 ---
 title: "MGTwitterEngine"
+slug: mgtwitterengine
 date: 2008-02-22 10:33:16 -0600
 external-url: http://mjtsai.com/blog/2008/02/22/mgtwitterengine/
 hash: 7245d5556225b5d7f66fd7fdb24bdfc4

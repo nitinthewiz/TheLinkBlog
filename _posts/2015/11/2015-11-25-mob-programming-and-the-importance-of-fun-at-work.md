@@ -1,5 +1,6 @@
 ---
 title: "Mob Programming, and the importance of fun at work"
+slug: mob-programming-and-the-importance-of-fun-at-work
 date: 2015-11-25 06:50:02 -0600
 external-url: http://codurance.com/2014/07/15/mob-programming/
 hash: b2e673b2272f0961021e3ee9187b9f13

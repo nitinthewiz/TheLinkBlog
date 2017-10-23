@@ -1,5 +1,6 @@
 ---
 title: "Conde Nast has made $39,000 on its GQ iPhone app"
+slug: conde-nast-has-made-39000-on-its-gq-iphone-app
 date: 2010-01-21 15:03:51 -0600
 external-url: http://www.poynter.org/latest-news/mediawire/100343/conde-nast-has-made-39000-on-its-gq-iphone-app/
 hash: 3cb274baf1bb5e0f5c380ff4feb79626

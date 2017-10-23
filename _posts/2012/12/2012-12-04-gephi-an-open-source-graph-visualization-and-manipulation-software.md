@@ -1,5 +1,6 @@
 ---
 title: "Gephi, an open source graph visualization and manipulation software"
+slug: gephi-an-open-source-graph-visualization-and-manipulation-software
 date: 2012-12-04 14:43:49 -0600
 external-url: http://gephi.github.io/
 hash: 2b3522428e5e24adaf3929a509911603

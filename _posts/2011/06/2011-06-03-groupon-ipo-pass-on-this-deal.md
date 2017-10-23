@@ -1,5 +1,6 @@
 ---
 title: "Groupon IPO: Pass on this deal"
+slug: groupon-ipo-pass-on-this-deal
 date: 2011-06-03 15:52:53 -0500
 external-url: http://shortlogic.com/post/6142108636/groupon-ipo-pass-on-this-deal
 hash: 4345d9c18168ac81956cafbc8155d992

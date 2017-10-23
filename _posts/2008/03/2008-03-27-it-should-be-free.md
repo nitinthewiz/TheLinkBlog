@@ -1,5 +1,6 @@
 ---
 title: "It Should Be Free?"
+slug: it-should-be-free
 date: 2008-03-27 19:34:46 -0500
 external-url: http://www.red-sweater.com/blog/481/it-should-be-free
 hash: ece12aba0739f13e1b9b694f0e490771

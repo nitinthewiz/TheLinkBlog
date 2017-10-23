@@ -1,5 +1,6 @@
 ---
 title: "Designers Behind Facebook Timeline: 5 Keys To Creating A UI With Soul | Co.Design"
+slug: designers-behind-facebook-timeline-5-keys-to-creating-a-ui-with-soul
 date: 2011-12-21 15:21:37 -0600
 external-url: http://www.fastcodesign.com/1665414/designers-behind-facebook-timeline-5-lessons-for-creating-a-ui-with-soul
 hash: f070e6d99c6f409eb538604bccca34dd

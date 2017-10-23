@@ -1,5 +1,6 @@
 ---
 title: "66% Of Groupons Are \"Profitable\" For A Business"
+slug: 66-of-groupons-are-profitable-for-a-business
 date: 2010-12-11 02:45:01 -0600
 external-url: http://www.businessinsider.com/chart-of-the-day-groupon-promotions-2010-12
 hash: ed99e52076f1958928458942af74c9c0

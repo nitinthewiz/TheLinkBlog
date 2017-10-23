@@ -1,5 +1,6 @@
 ---
 title: "What the Internet Is and How to Stop Mistaking It for Something Else"
+slug: what-the-internet-is-and-how-to-stop-mistaking-it-for-something-else
 date: 2012-06-27 17:37:01 -0500
 external-url: http://www.worldofends.com/
 hash: 43c1e697346473533cfa94271419056b

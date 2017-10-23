@@ -1,5 +1,6 @@
 ---
 title: "Microservices, monoliths and laser nail guns: Etsy tech boss on finding the right focus — > S C A L E"
+slug: microservices-monoliths-and-laser-nail-guns-etsy-tech-boss-on-finding
 date: 2016-03-08 05:42:46 -0600
 external-url: https://medium.com/s-c-a-l-e/microservices-monoliths-and-laser-nail-guns-how-etsy-finds-the-right-focus-in-a-sea-of-cf718a92dc90#.w89dm4v2i
 hash: 37feebb2c69d518e82267f8fc4c79cbd

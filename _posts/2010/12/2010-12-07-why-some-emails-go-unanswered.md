@@ -1,5 +1,6 @@
 ---
 title: "Why some emails go unanswered"
+slug: why-some-emails-go-unanswered
 date: 2010-12-07 23:21:37 -0600
 external-url: http://theoatmeal.com/comics/unanswered_email
 hash: 98dc0f1edba64930a229833a0c2b3e7f

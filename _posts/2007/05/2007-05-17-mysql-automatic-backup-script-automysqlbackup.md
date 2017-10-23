@@ -1,5 +1,6 @@
 ---
 title: "Mysql automatic backup script - AutoMySQLBackup"
+slug: mysql-automatic-backup-script-automysqlbackup
 date: 2007-05-17 19:33:40 -0500
 external-url: http://www.debianhelp.co.uk/mysqlscript.htm
 hash: 07d68945d37cb01605ded3458dfc2f50

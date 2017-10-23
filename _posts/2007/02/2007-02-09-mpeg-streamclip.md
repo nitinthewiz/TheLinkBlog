@@ -1,5 +1,6 @@
 ---
 title: "MPEG Streamclip"
+slug: mpeg-streamclip
 date: 2007-02-09 15:18:49 -0600
 external-url: http://www.squared5.com/svideo/mpeg-streamclip-mac.html
 hash: 7b241ba6bf8f9d5443962835ec8e79a2

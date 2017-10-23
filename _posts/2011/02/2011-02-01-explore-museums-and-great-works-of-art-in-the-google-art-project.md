@@ -1,5 +1,6 @@
 ---
 title: "Explore museums and great works of art in the Google Art Project"
+slug: explore-museums-and-great-works-of-art-in-the-google-art-project
 date: 2011-02-01 08:18:05 -0600
 external-url: http://googleblog.blogspot.com/2011/02/explore-museums-and-great-works-of-art.html
 hash: 53447c2f1577e24b874d493f7123d3e8

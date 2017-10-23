@@ -1,5 +1,6 @@
 ---
 title: "I am Bradley Manning"
+slug: i-am-bradley-manning
 date: 2013-06-20 09:22:21 -0500
 external-url: http://iam.privatemanning.org/
 hash: 4cf5915610b1bb4b07548c524fa101cc

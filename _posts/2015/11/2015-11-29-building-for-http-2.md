@@ -1,5 +1,6 @@
 ---
 title: "Building for HTTP/2"
+slug: building-for-http-2
 date: 2015-11-29 16:54:24 -0600
 external-url: http://rmurphey.com/blog/2015/11/25/building-for-http2
 hash: bdf4e6b02fe7a96d53d65a9faca113e2

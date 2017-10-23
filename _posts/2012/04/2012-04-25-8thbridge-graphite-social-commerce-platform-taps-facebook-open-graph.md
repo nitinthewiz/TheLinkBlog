@@ -1,5 +1,6 @@
 ---
 title: "8thBridge Graphite Social Commerce Platform Taps Facebook Open Graph Action Verbs"
+slug: 8thbridge-graphite-social-commerce-platform-taps-facebook-open-graph
 date: 2012-04-25 16:56:05 -0500
 external-url: http://allfacebook.com/8thbridge-graphite_b87035
 hash: 8f410a369cce7436c4be33a871e505da

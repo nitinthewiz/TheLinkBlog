@@ -1,5 +1,6 @@
 ---
 title: "A Quick Introduction to Graphviz"
+slug: a-quick-introduction-to-graphviz
 date: 2017-09-28 20:38:41 -0500
 external-url: https://www.worthe-it.co.za/programming/2017/09/19/quick-introduction-to-graphviz.html
 hash: 9d6803800430147e693914e4699ab37c

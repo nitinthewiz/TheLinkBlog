@@ -1,5 +1,6 @@
 ---
 title: "Big data: a retailers guide to likes, tweets, reviews, customer data, and basically everything else"
+slug: big-data-a-retailers-guide-to-likes-tweets-reviews-customer-data-and
 date: 2012-11-26 10:09:49 -0600
 external-url: http://venturebeat.com/2012/11/19/big-data-a-retailers-guide-to-likes-tweets-reviews-customer-data-and-basically-everything-else-infographic/
 hash: 1632bf698f2b340c7cbf6175893986e9

@@ -1,5 +1,6 @@
 ---
 title: "Lookwork™"
+slug: lookwork-tm
 date: 2011-04-05 05:47:07 -0500
 external-url: http://lookwork.org/
 hash: f9c2ac8dd04d1ca5d96d14e575767675

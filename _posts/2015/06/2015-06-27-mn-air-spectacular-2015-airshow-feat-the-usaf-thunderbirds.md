@@ -1,5 +1,6 @@
 ---
 title: "MN Air Spectacular 2015 | Airshow feat. the USAF Thunderbirds"
+slug: mn-air-spectacular-2015-airshow-feat-the-usaf-thunderbirds
 date: 2015-06-27 00:25:53 -0500
 external-url: http://www.mnairspectacular.com/
 hash: f6e58cd2a469419d8b962e9ac1adc782

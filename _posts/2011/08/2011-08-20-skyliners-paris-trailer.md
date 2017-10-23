@@ -1,5 +1,6 @@
 ---
 title: "Skyliners Paris trailer"
+slug: skyliners-paris-trailer
 date: 2011-08-20 20:23:01 -0500
 external-url: http://kottke.org/11/08/skyliners-paris-trailer
 hash: 468a03461b08f97a5c996f588c820a3c

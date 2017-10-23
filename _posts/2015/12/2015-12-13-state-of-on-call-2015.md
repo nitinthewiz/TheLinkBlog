@@ -1,5 +1,6 @@
 ---
 title: "State of On-Call 2015"
+slug: state-of-on-call-2015
 date: 2015-12-13 08:27:06 -0600
 external-url: https://victorops.com/wp-content/uploads/2015/12/VictorOps-InfoGraphic-Final-2.pdf
 hash: c4d29d013fada2376354e09f66c20eda

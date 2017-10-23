@@ -1,5 +1,6 @@
 ---
 title: "Things I wish I knew about MongoDB a year ago"
+slug: things-i-wish-i-knew-about-mongodb-a-year-ago
 date: 2012-10-17 23:29:45 -0500
 external-url: http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/
 hash: 2b9ba93845e1ccdd1757e053a47e2b82

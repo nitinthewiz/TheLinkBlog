@@ -1,5 +1,6 @@
 ---
 title: "The Envrionmental Inverted Pyramid"
+slug: the-envrionmental-inverted-pyramid
 date: 2009-04-28 10:49:34 -0500
 external-url: http://fivethirtyeight.com/2009/04/envrionmental-inverted-pyramid.html
 hash: 0b328bd33099b4ac5710ef584eb78e36

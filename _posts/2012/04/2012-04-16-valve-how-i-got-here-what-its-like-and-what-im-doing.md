@@ -1,5 +1,6 @@
 ---
 title: "Valve: How I Got Here, What Its Like, and What Im Doing"
+slug: valve-how-i-got-here-what-its-like-and-what-im-doing
 date: 2012-04-16 23:58:56 -0500
 external-url: http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/
 hash: 466219d086d73577e4af56e33bbaaff9

@@ -1,5 +1,6 @@
 ---
 title: "My OmniFocus Contexts Explained"
+slug: my-omnifocus-contexts-explained
 date: 2015-08-24 21:10:56 -0500
 external-url: http://www.myproductivemac.com/blog/my-omnifocus-contexts-explained2482015
 hash: a47e13623207694f5dabd0326c29dd73

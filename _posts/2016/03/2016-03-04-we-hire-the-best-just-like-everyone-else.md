@@ -1,5 +1,6 @@
 ---
 title: "We Hire the Best, Just Like Everyone Else"
+slug: we-hire-the-best-just-like-everyone-else
 date: 2016-03-04 07:13:27 -0600
 external-url: http://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/
 hash: 9e281d9a780319ba27fc3e0bf42f47e7

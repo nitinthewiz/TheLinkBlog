@@ -1,5 +1,6 @@
 ---
 title: "kadavy.net | A/A Testing: How I increased conversions 300% by doing absolutely nothing"
+slug: kadavy-net-a-a-testing-how-i-increased-conversions-300-by-doing
 date: 2015-04-15 00:56:34 -0500
 external-url: http://kadavy.net/blog/posts/aa-testing/
 hash: 96cd902cfa608702c5c00ea91879aa2c

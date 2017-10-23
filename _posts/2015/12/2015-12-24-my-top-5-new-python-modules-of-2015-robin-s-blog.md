@@ -1,5 +1,6 @@
 ---
 title: "My top 5 ‘new’ Python modules of 2015 « Robin's Blog"
+slug: my-top-5-new-python-modules-of-2015-robin-s-blog
 date: 2015-12-24 11:06:00 -0600
 external-url: http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/
 hash: 7de470e42c00e3fd02de50507d18ca59

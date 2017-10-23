@@ -1,5 +1,6 @@
 ---
 title: "Semantic MediaWiki news | Jeroen on software"
+slug: semantic-mediawiki-news-jeroen-on-software
 date: 2015-02-19 21:03:47 -0600
 external-url: http://www.bn2vs.com/blog/2015/02/20/semantic-mediawiki-news/
 hash: 5a2f88a7608a2fb4d95a6d26eecfd1b4

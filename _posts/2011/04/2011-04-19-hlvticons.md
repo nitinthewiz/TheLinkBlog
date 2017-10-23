@@ -1,5 +1,6 @@
 ---
 title: "Hlvticons"
+slug: hlvticons
 date: 2011-04-19 17:32:48 -0500
 external-url: http://hlvticons.ch
 hash: ae6a02e12d1c1981f63c1fc3b83706c9

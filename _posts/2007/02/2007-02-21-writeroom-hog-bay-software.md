@@ -1,5 +1,6 @@
 ---
 title: "WriteRoom Hog Bay Software"
+slug: writeroom-hog-bay-software
 date: 2007-02-21 22:45:37 -0600
 external-url: http://www.hogbaysoftware.com/products/writeroom
 hash: ac7a62f42d88ea939853104694e11c4a

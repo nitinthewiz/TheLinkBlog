@@ -1,5 +1,6 @@
 ---
 title: "Introducing Safari 4, the world’s fastest and most innovative browser"
+slug: introducing-safari-4-the-worlds-fastest-and-most-innovative-browser
 date: 2009-02-24 21:01:32 -0600
 external-url: http://www.apple.com/safari/?sr=hotnews?sr=hotnews.rss
 hash: 8622e40ba5f6df76583be3ae2149e86f

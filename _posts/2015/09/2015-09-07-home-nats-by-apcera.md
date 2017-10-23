@@ -1,5 +1,6 @@
 ---
 title: "Home — NATS by Apcera"
+slug: home-nats-by-apcera
 date: 2015-09-07 07:47:07 -0500
 external-url: http://nats.io/
 hash: e8f1f5479b79895e32080852f55492d9

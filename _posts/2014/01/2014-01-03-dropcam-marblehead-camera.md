@@ -1,5 +1,6 @@
 ---
 title: "Dropcam Marblehead Camera"
+slug: dropcam-marblehead-camera
 date: 2014-01-03 15:00:35 -0600
 external-url: https://www.dropcam.com/p/MhdRoofTop
 hash: 1b4364e3d5c6a99d95dde0ff82dabac2

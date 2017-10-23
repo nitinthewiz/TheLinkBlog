@@ -1,5 +1,6 @@
 ---
 title: "CountUp.js"
+slug: countup-js
 date: 2014-01-13 19:32:47 -0600
 external-url: http://inorganik.github.io/countUp.js/
 hash: d4777793865552dad7dc9dab3e720c10

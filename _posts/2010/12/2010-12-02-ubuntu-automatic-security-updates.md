@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu Automatic Security Updates"
+slug: ubuntu-automatic-security-updates
 date: 2010-12-02 09:31:49 -0600
 external-url: https://help.ubuntu.com/community/AutomaticSecurityUpdates
 hash: e38a4952cbb438dc7790e0812c91b2e7

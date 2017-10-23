@@ -1,5 +1,6 @@
 ---
 title: "The Ten Essentials for Good API Documentation · An A List Apart Article"
+slug: the-ten-essentials-for-good-api-documentation-an-a-list-apart-article
 date: 2017-09-28 20:34:49 -0500
 external-url: https://alistapart.com/article/the-ten-essentials-for-good-api-documentation
 hash: 16e7afcccf025fb0f06e478553db4421

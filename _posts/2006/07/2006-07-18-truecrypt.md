@@ -1,5 +1,6 @@
 ---
 title: "TrueCrypt"
+slug: truecrypt
 date: 2006-07-18 22:25:04 -0500
 external-url: http://www.truecrypt.org/
 hash: 14b795d16e0cfee72bab8502955f945e

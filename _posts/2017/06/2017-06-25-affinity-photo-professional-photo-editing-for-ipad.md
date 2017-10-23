@@ -1,5 +1,6 @@
 ---
 title: "Affinity Photo - Professional photo editing for iPad"
+slug: affinity-photo-professional-photo-editing-for-ipad
 date: 2017-06-25 17:27:36 -0500
 external-url: https://affinity.serif.com/en-us/photo/ipad/
 hash: 1044478862d7bfbdddd0cfd3c0a7c127

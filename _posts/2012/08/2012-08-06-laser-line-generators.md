@@ -1,5 +1,6 @@
 ---
 title: "Laser Line Generators"
+slug: laser-line-generators
 date: 2012-08-06 04:37:30 -0500
 external-url: http://www.apinex.com/ret2/Laser-Line-Generators.html
 hash: a5fdcd2cd5c91cdf53593c818a4271c0

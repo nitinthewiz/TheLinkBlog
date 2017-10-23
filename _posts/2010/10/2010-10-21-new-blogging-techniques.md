@@ -1,5 +1,6 @@
 ---
 title: "New blogging techniques"
+slug: new-blogging-techniques
 date: 2010-10-21 20:28:39 -0500
 external-url: http://scripting.com/stories/2010/10/21/newBloggingTechniques.html
 hash: 78a05755b6e595b211179bff90cf3ebd

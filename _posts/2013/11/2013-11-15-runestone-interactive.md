@@ -1,5 +1,6 @@
 ---
 title: "Runestone Interactive"
+slug: runestone-interactive
 date: 2013-11-15 07:33:48 -0600
 external-url: http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index
 hash: a6291c2e058f2dc6099194d9d6714a54

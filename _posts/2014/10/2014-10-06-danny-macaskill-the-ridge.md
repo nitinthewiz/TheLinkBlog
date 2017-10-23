@@ -1,5 +1,6 @@
 ---
 title: "Danny Macaskill: The Ridge"
+slug: danny-macaskill-the-ridge
 date: 2014-10-06 19:53:52 -0500
 external-url: https://www.youtube.com/watch?v=xQ_IQS3VKjA
 hash: d7140abc29025c067713bab243bd5a33

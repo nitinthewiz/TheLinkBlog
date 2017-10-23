@@ -1,5 +1,6 @@
 ---
 title: "DigitalGlobe moves to the cloud with AWS Snowmobile | DigitalGlobe Blog"
+slug: digitalglobe-moves-to-the-cloud-with-aws-snowmobile-digitalglobe-blog
 date: 2017-05-16 15:35:30 -0500
 external-url: http://blog.digitalglobe.com/industry/digitalglobe-moves-to-the-cloud-with-aws-snowmobile/?__s=eiq1imj6p7qywsjw9eqs
 hash: 9f81d100f591ed9b1851ffa2f504ed2b

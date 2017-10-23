@@ -1,5 +1,6 @@
 ---
 title: "Startingpage"
+slug: startingpage
 date: 2011-02-12 10:32:34 -0600
 external-url: http://startingpage.com/
 hash: 9ebbb19145c0b0a892ff105a951a77da

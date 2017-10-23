@@ -1,5 +1,6 @@
 ---
 title: "Tools For jQuery Application Architecture"
+slug: tools-for-jquery-application-architecture
 date: 2011-04-13 17:59:51 -0500
 external-url: http://addyosmani.com/blog/tools-for-jquery-application-architecture-the-printable-chart/
 hash: 70b5c774ee1ab9a60f3ba29375290f97

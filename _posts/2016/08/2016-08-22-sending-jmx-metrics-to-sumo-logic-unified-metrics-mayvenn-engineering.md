@@ -1,5 +1,6 @@
 ---
 title: "Sending JMX Metrics to Sumo Logic Unified Metrics — Mayvenn Engineering"
+slug: sending-jmx-metrics-to-sumo-logic-unified-metrics-mayvenn-engineering
 date: 2016-08-22 14:08:09 -0500
 external-url: http://engineering.mayvenn.com/2016/08/21/Sending-JMX-Metrics-To-Sumo-Logic-Unified-Metrics/
 hash: 053bc6b61d6495ff5a5a0c7ee3d0c84d

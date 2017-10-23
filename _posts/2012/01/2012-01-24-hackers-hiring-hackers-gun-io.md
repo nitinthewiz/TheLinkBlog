@@ -1,5 +1,6 @@
 ---
 title: "Hackers Hiring Hackers | Gun.io"
+slug: hackers-hiring-hackers-gun-io
 date: 2012-01-24 23:05:29 -0600
 external-url: http://gun.io/
 hash: 650ab2adb236df71caa1169fa185b5b0

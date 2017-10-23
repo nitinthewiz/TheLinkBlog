@@ -1,5 +1,6 @@
 ---
 title: "The LIBOR scandal: The rotten heart of finance"
+slug: the-libor-scandal-the-rotten-heart-of-finance
 date: 2012-07-10 22:34:46 -0500
 external-url: http://www.economist.com/node/21558281
 hash: d9855f909adbb21e999e27946b49ff78

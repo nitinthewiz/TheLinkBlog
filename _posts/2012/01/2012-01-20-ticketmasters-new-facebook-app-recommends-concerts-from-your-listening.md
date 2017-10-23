@@ -1,5 +1,6 @@
 ---
 title: "Ticketmaster’s New Facebook App Recommends Concerts From Your Listening Activity"
+slug: ticketmasters-new-facebook-app-recommends-concerts-from-your-listening
 date: 2012-01-20 22:08:46 -0600
 external-url: http://techcrunch.com/2012/01/18/ticketmaster-recommended-listening/
 hash: 4a6699ef3cc5f9370366b7538e9e2f6b

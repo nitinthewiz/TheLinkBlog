@@ -1,5 +1,6 @@
 ---
 title: "Integrating 1Password and Launchbar for Superfast Logins"
+slug: integrating-1password-and-launchbar-for-superfast-logins
 date: 2012-09-17 10:09:23 -0500
 external-url: http://www.asianefficiency.com/technology/integrating-1password-launchbar-superfast-logins/
 hash: c6cae930b8f35662408d6cb91c455c50

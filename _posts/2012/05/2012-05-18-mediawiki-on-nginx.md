@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki on Nginx"
+slug: mediawiki-on-nginx
 date: 2012-05-18 20:42:51 -0500
 external-url: http://blog.bigdinosaur.org/mediawiki-on-nginx/
 hash: 58f1cf8c153975a4e07a525022217ecc

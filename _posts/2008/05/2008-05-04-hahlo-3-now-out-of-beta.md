@@ -1,5 +1,6 @@
 ---
 title: "Hahlo 3: now out of beta"
+slug: hahlo-3-now-out-of-beta
 date: 2008-05-04 11:30:00 -0500
 external-url: http://www.tuaw.com/2008/05/04/hahlo-3-now-out-of-beta/
 hash: 0fc347e318eb1a76af5815b079f66b6d

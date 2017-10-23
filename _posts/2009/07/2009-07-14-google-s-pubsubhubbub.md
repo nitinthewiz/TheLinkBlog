@@ -1,5 +1,6 @@
 ---
 title: "Google's Pubsubhubbub"
+slug: google-s-pubsubhubbub
 date: 2009-07-14 23:59:55 -0500
 external-url: http://scripting.com/stories/2009/07/10/googlesPubsubhubbub.html
 hash: 6b5d074727f08d994f0f432887eca374

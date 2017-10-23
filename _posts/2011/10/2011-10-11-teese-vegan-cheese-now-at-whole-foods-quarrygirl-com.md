@@ -1,5 +1,6 @@
 ---
 title: "teese vegan cheese now at whole foods! | quarrygirl.com"
+slug: teese-vegan-cheese-now-at-whole-foods-quarrygirl-com
 date: 2011-10-11 22:24:23 -0500
 external-url: http://www.quarrygirl.com/2011/10/11/teese-vegan-cheese-now-available-at-whole-foods/
 hash: a6d4e6fe3de3b790e31fa36ca574fd9b

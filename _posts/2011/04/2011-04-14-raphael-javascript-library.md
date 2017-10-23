@@ -1,5 +1,6 @@
 ---
 title: "Raphaël—JavaScript Library"
+slug: raphael-javascript-library
 date: 2011-04-14 10:06:33 -0500
 external-url: http://raphaeljs.com/
 hash: 774ed2b4bc58b9e8d309df41ddca160d

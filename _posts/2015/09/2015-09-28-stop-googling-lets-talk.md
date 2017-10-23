@@ -1,5 +1,6 @@
 ---
 title: "Stop Googling. Let’s Talk."
+slug: stop-googling-lets-talk
 date: 2015-09-28 20:06:53 -0500
 external-url: http://www.nytimes.com/2015/09/27/opinion/sunday/stop-googling-lets-talk.html
 hash: f4dee684f49ea794097382eaf42f6ebb

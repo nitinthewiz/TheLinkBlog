@@ -1,5 +1,6 @@
 ---
 title: "How a watch works"
+slug: how-a-watch-works
 date: 2010-09-07 09:54:36 -0500
 external-url: http://kottke.org/10/09/how-a-watch-works
 hash: 90e429cecd6960d0a62ed4eb972e8877

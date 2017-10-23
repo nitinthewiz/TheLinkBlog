@@ -1,5 +1,6 @@
 ---
 title: "My Incredibly Simple Guide To Stoicism — Learn Wisdom You Can Practically Use"
+slug: my-incredibly-simple-guide-to-stoicism-learn-wisdom-you-can-use
 date: 2017-10-06 19:23:33 -0500
 external-url: https://medium.com/the-mission/my-incredibly-simple-guide-to-stoicism-learn-wisdom-you-can-practically-use-67a0195298ee
 hash: faf6eb399ef035c18c50dfd386a6c87c

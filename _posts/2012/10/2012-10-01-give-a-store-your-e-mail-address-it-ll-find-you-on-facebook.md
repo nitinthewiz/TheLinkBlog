@@ -1,5 +1,6 @@
 ---
 title: "Give a store your e-mail address, it'll find you on Facebook"
+slug: give-a-store-your-e-mail-address-it-ll-find-you-on-facebook
 date: 2012-10-01 21:09:42 -0500
 external-url: http://arstechnica.com/business/2012/10/give-a-store-your-e-mail-address-itll-find-you-on-facebook/
 hash: 3bc7df5a6e935990b7a1543ba4e93ec9

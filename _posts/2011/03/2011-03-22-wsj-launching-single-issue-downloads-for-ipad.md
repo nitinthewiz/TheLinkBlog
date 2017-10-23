@@ -1,5 +1,6 @@
 ---
 title: "WSJ Launching Single-Issue Downloads For iPad"
+slug: wsj-launching-single-issue-downloads-for-ipad
 date: 2011-03-22 23:15:13 -0500
 external-url: https://gigaom.com/2011/03/22/419-wsj-launching-single-issue-downloads-for-ipad/
 hash: d753c976c7e60ab0cc8e861776f92af9

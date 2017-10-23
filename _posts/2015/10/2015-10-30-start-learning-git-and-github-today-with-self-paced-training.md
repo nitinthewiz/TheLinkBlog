@@ -1,5 +1,6 @@
 ---
 title: "Start Learning Git and GitHub Today with Self-Paced Training"
+slug: start-learning-git-and-github-today-with-self-paced-training
 date: 2015-10-30 21:13:49 -0500
 external-url: https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training
 hash: 87b3b893dbc3babe086c2d8ade243792

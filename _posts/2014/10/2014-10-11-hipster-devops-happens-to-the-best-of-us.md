@@ -1,5 +1,6 @@
 ---
 title: "Hipster DevOps Happens To The Best Of US"
+slug: hipster-devops-happens-to-the-best-of-us
 date: 2014-10-11 01:10:59 -0500
 external-url: http://www.mattstratton.com/devops/hipster-devops-happens-to-the-best-of-us
 hash: 619272bbf05eb11ba62a7c0726858bc1

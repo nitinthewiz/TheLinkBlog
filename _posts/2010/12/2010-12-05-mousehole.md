@@ -1,5 +1,6 @@
 ---
 title: "mouseHole"
+slug: mousehole
 date: 2010-12-05 06:16:23 -0600
 external-url: https://github.com/whymirror/mousehole
 hash: 79b6514646938a785754da253617f2e1

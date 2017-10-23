@@ -1,5 +1,6 @@
 ---
 title: "MN Cup (Break Through Ideas)"
+slug: mn-cup-break-through-ideas
 date: 2007-01-19 15:34:24 -0600
 external-url: http://www.breakthroughideas.org/
 hash: 568759e026d6ee8f133b842579dbfe15

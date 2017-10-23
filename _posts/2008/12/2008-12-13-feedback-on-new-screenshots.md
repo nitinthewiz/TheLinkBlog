@@ -1,5 +1,6 @@
 ---
 title: "Feedback on New Screenshots"
+slug: feedback-on-new-screenshots
 date: 2008-12-13 09:08:37 -0600
 external-url: http://getsatisfaction.com/benjaminragheb/topics/feedback_on_new_screenshots
 hash: bcbb1d2770ed9cc4f4aafde906e53b9e

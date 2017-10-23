@@ -1,5 +1,6 @@
 ---
 title: "The Weinstein Way"
+slug: the-weinstein-way
 date: 2011-02-09 22:41:43 -0600
 external-url: https://www.vanityfair.com/news/2004/02/weinstein-miramax-200402
 hash: 223a1198cbc5716b987fa62cce26e901

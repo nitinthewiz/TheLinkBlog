@@ -1,5 +1,6 @@
 ---
 title: "Viacom, Microsoft In $500 Million Ad, Promo Deal"
+slug: viacom-microsoft-in-500-million-ad-promo-deal
 date: 2007-12-19 09:00:27 -0600
 external-url: http://www.businessinsider.com/2007/12/viacom-microsoft-in-500-million-ad-promo-deal
 hash: 3f025775fc0cdc91ab1c27dba5c13196

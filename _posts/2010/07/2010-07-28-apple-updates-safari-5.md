@@ -1,5 +1,6 @@
 ---
 title: "Apple Updates Safari 5"
+slug: apple-updates-safari-5
 date: 2010-07-28 19:11:05 -0500
 external-url: http://www.apple.com/safari/?sr=hotnews.rss
 hash: 9ca8243a8319ef5dbc2aa98ee426deb8

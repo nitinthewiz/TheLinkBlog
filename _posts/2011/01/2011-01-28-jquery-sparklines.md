@@ -1,5 +1,6 @@
 ---
 title: "jQuery Sparklines"
+slug: jquery-sparklines
 date: 2011-01-28 21:52:33 -0600
 external-url: http://omnipotent.net/jquery.sparkline/
 hash: b20f7c9f32d1540d0cb35aa14cedc041

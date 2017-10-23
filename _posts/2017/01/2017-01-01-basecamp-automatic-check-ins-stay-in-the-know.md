@@ -1,5 +1,6 @@
 ---
 title: "Basecamp: Automatic Check-ins: Stay in the know"
+slug: basecamp-automatic-check-ins-stay-in-the-know
 date: 2017-01-01 21:26:17 -0600
 external-url: https://basecamp.com/3/checkins
 hash: 6e81374b2ec168c3a81f0919504e9a7a

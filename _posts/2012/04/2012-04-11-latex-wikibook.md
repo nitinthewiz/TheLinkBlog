@@ -1,5 +1,6 @@
 ---
 title: "LaTeX Wikibook"
+slug: latex-wikibook
 date: 2012-04-11 23:00:48 -0500
 external-url: http://en.wikibooks.org/wiki/LaTeX
 hash: ae660d4c1ae73dac41c91422eceffe78

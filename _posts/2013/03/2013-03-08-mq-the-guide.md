@@ -1,5 +1,6 @@
 ---
 title: "MQ - The Guide"
+slug: mq-the-guide
 date: 2013-03-08 16:11:44 -0600
 external-url: http://zguide.zeromq.org/page:all
 hash: b38673911ed1f83551a4121316018537

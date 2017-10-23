@@ -1,5 +1,6 @@
 ---
 title: "EarthRoamer"
+slug: earthroamer
 date: 2005-08-03 10:01:48 -0500
 external-url: http://earthroamer.com/
 hash: 51a230eb64f86dfde9ad5d6a0ea9ffb4

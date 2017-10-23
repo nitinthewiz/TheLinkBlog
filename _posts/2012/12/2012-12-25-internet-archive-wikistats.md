@@ -1,5 +1,6 @@
 ---
 title: "Internet Archive - Wikistats"
+slug: internet-archive-wikistats
 date: 2012-12-25 22:00:48 -0600
 external-url: http://web.archive.org/web/20080328042349/http://s23.org/wiki/Wikistats
 hash: b82fca0084f0890727eb6d0f911a9250

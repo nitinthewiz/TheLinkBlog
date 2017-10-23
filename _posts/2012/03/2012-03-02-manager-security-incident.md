@@ -1,5 +1,6 @@
 ---
 title: "Manager Security Incident"
+slug: manager-security-incident
 date: 2012-03-02 09:37:54 -0600
 external-url: http://status.linode.com/2012/03/manager-security-incident.html
 hash: 908acf63fde2aec5a623ed7f66324928

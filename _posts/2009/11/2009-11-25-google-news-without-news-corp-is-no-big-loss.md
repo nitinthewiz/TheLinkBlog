@@ -1,5 +1,6 @@
 ---
 title: "Google News Without News Corp. Is No Big Loss"
+slug: google-news-without-news-corp-is-no-big-loss
 date: 2009-11-25 23:39:42 -0600
 external-url: http://www.businessinsider.com/google-news-without-news-corp-is-no-big-loss-2009-11
 hash: 688360c35bec8ba0352130828c3db0ff

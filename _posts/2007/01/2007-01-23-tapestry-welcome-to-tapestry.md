@@ -1,5 +1,6 @@
 ---
 title: "Tapestry - Welcome to Tapestry"
+slug: tapestry-welcome-to-tapestry
 date: 2007-01-23 17:12:22 -0600
 external-url: http://tapestry.apache.org/
 hash: 88cbb3a3fd98373170d6caa58c3aca39

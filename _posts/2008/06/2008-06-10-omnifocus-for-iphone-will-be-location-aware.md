@@ -1,5 +1,6 @@
 ---
 title: "OmniFocus for iPhone will be location-aware"
+slug: omnifocus-for-iphone-will-be-location-aware
 date: 2008-06-10 20:04:11 -0500
 external-url: http://www.tuaw.com/2008/06/10/omnifocus-for-iphone-will-be-location-aware/
 hash: 5209e864029387b2242cf74d4b92a46d

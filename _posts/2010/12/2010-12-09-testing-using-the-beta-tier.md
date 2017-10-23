@@ -1,5 +1,6 @@
 ---
 title: "Testing Using The Beta Tier"
+slug: testing-using-the-beta-tier
 date: 2010-12-09 22:50:27 -0600
 external-url: https://developers.facebook.com/blog/post/438/
 hash: 58dbf1fb199ebbb586bc394e49679ee7

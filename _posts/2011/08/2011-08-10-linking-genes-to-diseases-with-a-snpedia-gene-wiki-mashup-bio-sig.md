@@ -1,5 +1,6 @@
 ---
 title: "Linking genes to diseases with a SNPedia-Gene Wiki mashup | Bio-Ontologies SIG"
+slug: linking-genes-to-diseases-with-a-snpedia-gene-wiki-mashup-bio-sig
 date: 2011-08-10 23:23:43 -0500
 external-url: http://bio-ontologies.knowledgeblog.org/250
 hash: 31bbc42a66e30f59edf549be54410086

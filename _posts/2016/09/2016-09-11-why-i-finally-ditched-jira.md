@@ -1,5 +1,6 @@
 ---
 title: "Why I Finally Ditched JIRA"
+slug: why-i-finally-ditched-jira
 date: 2016-09-11 22:37:42 -0500
 external-url: http://log.liminastudio.com/writing/commentary/why-i-finally-ditched-jira
 hash: 1fbd95aa7c05848135ab1d94d0974203

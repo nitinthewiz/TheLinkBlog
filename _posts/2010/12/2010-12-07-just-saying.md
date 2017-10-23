@@ -1,5 +1,6 @@
 ---
 title: "Just saying"
+slug: just-saying
 date: 2010-12-07 23:34:13 -0600
 external-url: http://www.buzzmachine.com/2010/12/07/just-saying/
 hash: 376a12d1817fb04c89b7b0f4fcd9e668

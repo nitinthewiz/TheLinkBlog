@@ -1,5 +1,6 @@
 ---
 title: "Ansible vs Chef · Nothing interesting..."
+slug: ansible-vs-chef-nothing-interesting
 date: 2016-02-29 10:36:55 -0600
 external-url: http://tjheeta.github.io/2015/04/15/ansible-vs-chef/
 hash: 70245037f64f32bbc1ec2f8028dfd50b

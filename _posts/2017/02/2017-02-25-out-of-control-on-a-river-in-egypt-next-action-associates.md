@@ -1,5 +1,6 @@
 ---
 title: "Out of control on a river in Egypt - Next Action Associates"
+slug: out-of-control-on-a-river-in-egypt-next-action-associates
 date: 2017-02-25 16:49:05 -0600
 external-url: http://www.next-action.eu/2017/02/23/control-river-egypt/
 hash: 418800ff6655848479a134a703f354fe

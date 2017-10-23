@@ -1,5 +1,6 @@
 ---
 title: "Edward Tufte’s “Slopegraphs”"
+slug: edward-tuftes-slopegraphs
 date: 2011-07-12 22:33:31 -0500
 external-url: http://charliepark.org/slopegraphs/
 hash: 0aa630156ea2a38cd134a266e9925799

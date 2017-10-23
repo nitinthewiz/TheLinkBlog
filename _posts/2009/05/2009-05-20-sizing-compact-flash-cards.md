@@ -1,5 +1,6 @@
 ---
 title: "Sizing Compact Flash Cards"
+slug: sizing-compact-flash-cards
 date: 2009-05-20 23:43:11 -0500
 external-url: http://duncandavidson.com/2009/05/sizing-compact-flash-cards.html
 hash: 56884be0c222b7fb6a97e77c39eac242

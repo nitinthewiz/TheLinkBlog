@@ -1,5 +1,6 @@
 ---
 title: "Open Semantic Data Association (OSDA)"
+slug: open-semantic-data-association-osda
 date: 2013-01-29 11:53:42 -0600
 external-url: http://opensemanticdata.org/
 hash: 824b53733625a4ef181c33706fec88db

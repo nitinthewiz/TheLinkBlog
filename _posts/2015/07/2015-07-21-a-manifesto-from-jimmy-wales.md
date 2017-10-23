@@ -1,5 +1,6 @@
 ---
 title: "A manifesto from Jimmy Wales"
+slug: a-manifesto-from-jimmy-wales
 date: 2015-07-21 06:17:24 -0500
 external-url: https://tpo.com/about
 hash: 7c51450f0432a90bffebd75fbe723199

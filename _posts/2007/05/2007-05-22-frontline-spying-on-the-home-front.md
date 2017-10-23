@@ -1,5 +1,6 @@
 ---
 title: "FRONTLINE: Spying on the home front"
+slug: frontline-spying-on-the-home-front
 date: 2007-05-22 06:07:27 -0500
 external-url: http://www.pbs.org/wgbh/pages/frontline/homefront/
 hash: f37f294d8dfa3983b0553c3b22435c78

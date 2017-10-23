@@ -1,5 +1,6 @@
 ---
 title: "Day One 2: A Partner for Lifetime"
+slug: day-one-2-a-partner-for-lifetime
 date: 2016-02-25 08:31:30 -0600
 external-url: http://macbucket.com/day-one-2-journal-app-review/
 hash: 83ad92c1d34b95ec533b25fa42112f17

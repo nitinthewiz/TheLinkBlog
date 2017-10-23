@@ -1,5 +1,6 @@
 ---
 title: "SPS Commerce acquires ToolBox Solutions | SPS Commerce"
+slug: sps-commerce-acquires-toolbox-solutions-sps-commerce
 date: 2016-01-07 14:28:36 -0600
 external-url: http://www.spscommerce.com/toolboxsolutions/
 hash: 47ddc78388dc91d4cd75f1014585a8e2

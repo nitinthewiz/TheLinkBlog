@@ -1,5 +1,6 @@
 ---
 title: "Making the leap to SSD on a MacBook"
+slug: making-the-leap-to-ssd-on-a-macbook
 date: 2010-12-03 14:40:35 -0600
 external-url: http://remiel.info/post/1601242301/making-the-leap-to-ssd-on-a-macbook
 hash: 50ab8508434fed2e6b0612332b752fb2

@@ -1,5 +1,6 @@
 ---
 title: "The Shining (film) - Wikipedia, the free encyclopedia"
+slug: the-shining-film-wikipedia-the-free-encyclopedia
 date: 2012-02-10 23:36:47 -0600
 external-url: http://en.wikipedia.org/wiki/The_Shining_(film)
 hash: 79f1910613c8f879762b1eae481f7b72

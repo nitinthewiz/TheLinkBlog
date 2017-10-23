@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Manual $wgResponsiveImages"
+slug: mediawiki-manual-wgresponsiveimages
 date: 2012-10-28 17:35:30 -0500
 external-url: http://www.mediawiki.org/wiki/Manual:%24wgResponsiveImages
 hash: 0222b68809583b7e9cec3ffdbc3043b6

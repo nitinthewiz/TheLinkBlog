@@ -1,5 +1,6 @@
 ---
 title: "Keep your Mac notebook battery in good shape"
+slug: keep-your-mac-notebook-battery-in-good-shape
 date: 2010-09-15 06:04:56 -0500
 external-url: http://9to5mac.com/2010/09/15/keep-your-mac-notebook-battery-in-good-shape/
 hash: 4a6e8a11a020af822320b84f8898cc17

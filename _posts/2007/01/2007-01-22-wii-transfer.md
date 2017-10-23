@@ -1,5 +1,6 @@
 ---
 title: "Wii Transfer"
+slug: wii-transfer
 date: 2007-01-22 21:21:07 -0600
 external-url: http://www.riverfold.com/software/wiitransfer/
 hash: 528eb2d25b8fb734aa7f54263d404987

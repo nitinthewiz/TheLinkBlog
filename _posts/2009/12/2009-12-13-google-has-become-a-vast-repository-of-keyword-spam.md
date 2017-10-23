@@ -1,5 +1,6 @@
 ---
 title: "Google Has Become A Vast Repository Of Keyword SPAM"
+slug: google-has-become-a-vast-repository-of-keyword-spam
 date: 2009-12-13 21:03:46 -0600
 external-url: http://www.businessinsider.com/dishwashers-and-how-google-consumes-its-own-tail-2009-12
 hash: d8820f2ca9642cede2da37b44a3b66ea

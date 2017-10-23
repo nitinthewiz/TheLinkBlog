@@ -1,5 +1,6 @@
 ---
 title: "The Three Machines - Feld Thoughts"
+slug: the-three-machines-feld-thoughts
 date: 2017-01-18 11:52:05 -0600
 external-url: http://www.feld.com/archives/2017/01/the-three-machines.html
 hash: 522f90057878d13da38e0c4698c76375

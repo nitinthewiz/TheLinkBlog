@@ -1,5 +1,6 @@
 ---
 title: "Vim: Seven habits of effective text editing by Bram Moolenaar"
+slug: vim-seven-habits-of-effective-text-editing-by-bram-moolenaar
 date: 2011-11-30 13:29:32 -0600
 external-url: http://www.moolenaar.net/habits.html
 hash: 7a4613e65407292627bad88c06dd1101

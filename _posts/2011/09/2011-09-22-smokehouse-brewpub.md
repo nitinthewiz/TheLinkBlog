@@ -1,5 +1,6 @@
 ---
 title: "Smokehouse Brewpub"
+slug: smokehouse-brewpub
 date: 2011-09-22 21:56:03 -0500
 external-url: http://www.northboundbrewpub.com/
 hash: a8231c56a2ec6586dd086dab7323b048

@@ -1,5 +1,6 @@
 ---
 title: "Daring Fireball: Fuck Facebook"
+slug: daring-fireball-fuck-facebook
 date: 2017-06-02 20:56:09 -0500
 external-url: https://daringfireball.net/2017/06/fuck_facebook
 hash: bfc96077e1ec8cdfe2c8e93b60d8b36a

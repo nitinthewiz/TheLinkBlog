@@ -1,5 +1,6 @@
 ---
 title: "Factors Associated With Closures of Emergency Departments in the United States"
+slug: factors-associated-with-closures-of-emergency-departments-in-the
 date: 2011-05-24 14:05:13 -0500
 external-url: http://jama.jamanetwork.com/article.aspx?articleid=1161864
 hash: 2cf634ac581292ee86d107916741a2a6

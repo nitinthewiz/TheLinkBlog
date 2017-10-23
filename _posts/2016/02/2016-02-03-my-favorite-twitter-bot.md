@@ -1,5 +1,6 @@
 ---
 title: "My Favorite Twitter Bot"
+slug: my-favorite-twitter-bot
 date: 2016-02-03 19:16:08 -0600
 external-url: https://clkoerner.com/2016/02/03/my-favorite-twitter-bot/
 hash: 10f09853bf8d0ac8a61ed98caa0056b3

@@ -1,5 +1,6 @@
 ---
 title: "Plain Text Persists"
+slug: plain-text-persists
 date: 2011-02-15 10:19:18 -0600
 external-url: http://garrickvanburen.com/archive/plain-text-persists
 hash: d8a1f5bbe4fd5eb06585537744a6ce21

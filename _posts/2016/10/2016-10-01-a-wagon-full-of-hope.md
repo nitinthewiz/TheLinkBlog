@@ -1,5 +1,6 @@
 ---
 title: "A wagon full of hope"
+slug: a-wagon-full-of-hope
 date: 2016-10-01 14:47:26 -0500
 external-url: http://www.next-action.eu/2016/09/29/wagon-full-hope/
 hash: 86380c04414495d6916ab60d40f726db

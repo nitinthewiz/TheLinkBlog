@@ -1,5 +1,6 @@
 ---
 title: "Richard Feynman and The Connection Machine"
+slug: richard-feynman-and-the-connection-machine
 date: 2011-01-08 18:01:03 -0600
 external-url: http://www.longnow.org/essays/richard-feynman-connection-machine/
 hash: 16acffc35738da0349e456fc26623029

@@ -1,5 +1,6 @@
 ---
 title: "Chartify – A Visualization Plugin for jQuery"
+slug: chartify-a-visualization-plugin-for-jquery
 date: 2011-06-02 06:18:57 -0500
 external-url: http://www.daytona.se/chartify
 hash: b43296ae3d3d0ccf701ff0146493d09c

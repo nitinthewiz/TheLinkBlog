@@ -1,5 +1,6 @@
 ---
 title: "The 2007 Road Trip Map"
+slug: the-2007-road-trip-map
 date: 2009-05-18 15:54:21 -0500
 external-url: http://duncandavidson.com/2009/05/the-2007-road-trip-map.html
 hash: a6df9024b3e5666841f8d0d9aa3f1b60

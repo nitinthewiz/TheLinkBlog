@@ -1,5 +1,6 @@
 ---
 title: "Prolost - Blog - Lightroom for Your Camera"
+slug: prolost-blog-lightroom-for-your-camera
 date: 2014-06-19 23:51:06 -0500
 external-url: http://prolost.com/lriphone
 hash: 617ead8f48e0fb0539c9c2691282266c

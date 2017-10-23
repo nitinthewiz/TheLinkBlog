@@ -1,5 +1,6 @@
 ---
 title: "PagerDuty Introduces Team Organization Feature - PagerDuty"
+slug: pagerduty-introduces-team-organization-feature-pagerduty
 date: 2015-04-15 23:10:01 -0500
 external-url: http://www.pagerduty.com/blog/pagerduty-introduces-team-organization-feature/
 hash: ec9c239850cb7db4bd3ccc091cab7a56

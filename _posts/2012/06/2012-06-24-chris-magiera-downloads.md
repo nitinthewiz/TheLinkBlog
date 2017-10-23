@@ -1,5 +1,6 @@
 ---
 title: "Chris Magiera Downloads"
+slug: chris-magiera-downloads
 date: 2012-06-24 02:06:19 -0500
 external-url: http://moargh.de/downloads/
 hash: 2021ad8249a583671f63d84ccf7fccea

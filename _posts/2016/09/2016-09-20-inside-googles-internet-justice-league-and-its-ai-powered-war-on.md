@@ -1,5 +1,6 @@
 ---
 title: "Inside Google’s Internet Justice League and Its AI-Powered War on Trolls"
+slug: inside-googles-internet-justice-league-and-its-ai-powered-war-on
 date: 2016-09-20 05:48:12 -0500
 external-url: https://www.wired.com/2016/09/inside-googles-internet-justice-league-ai-powered-war-trolls/
 hash: a3baac6016d69963a617b502e50e8241

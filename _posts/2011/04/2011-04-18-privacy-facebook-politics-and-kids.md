@@ -1,5 +1,6 @@
 ---
 title: "Privacy, Facebook, politics and kids"
+slug: privacy-facebook-politics-and-kids
 date: 2011-04-18 07:59:06 -0500
 external-url: http://craphound.com/?p=3427
 hash: 6acbb2b58a27d17c12e8d1891dd754c3

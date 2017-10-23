@@ -1,5 +1,6 @@
 ---
 title: "Smoothie Charts"
+slug: smoothie-charts
 date: 2012-03-19 13:08:32 -0500
 external-url: http://smoothiecharts.org/
 hash: 0dca0be0681ac0d89bb9ffa7d08e0f39

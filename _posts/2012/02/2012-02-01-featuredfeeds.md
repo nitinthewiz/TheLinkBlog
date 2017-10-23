@@ -1,5 +1,6 @@
 ---
 title: "FeaturedFeeds"
+slug: featuredfeeds
 date: 2012-02-01 21:47:33 -0600
 external-url: http://www.mediawiki.org/wiki/Extension:FeaturedFeeds
 hash: f2d72138eb5c1e1cbe96d490fed1502a

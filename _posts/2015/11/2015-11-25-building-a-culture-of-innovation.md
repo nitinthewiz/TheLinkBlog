@@ -1,5 +1,6 @@
 ---
 title: "building a culture of innovation"
+slug: building-a-culture-of-innovation
 date: 2015-11-25 21:33:55 -0600
 external-url: http://blogs.atlassian.com/2015/11/how-atlassian-builds-innovation-culture/
 hash: 505abf0834ba8e4a75f483e6a602035f

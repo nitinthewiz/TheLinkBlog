@@ -1,5 +1,6 @@
 ---
 title: "Newspaper: Article scraping & curation"
+slug: newspaper-article-scraping-curation
 date: 2014-02-01 19:28:16 -0600
 external-url: http://newspaper.readthedocs.org/en/latest/
 hash: e5e4cf4c27e9ce70c953af34e53b1ee9

@@ -1,5 +1,6 @@
 ---
 title: "9 Things Out of Touch Leaders Do"
+slug: 9-things-out-of-touch-leaders-do
 date: 2016-02-29 15:01:05 -0600
 external-url: https://www.glassdoor.com/employers/blog/9-things-out-of-touch-leaders-do/
 hash: e135ffa5089289bb193726cf3e045dbe

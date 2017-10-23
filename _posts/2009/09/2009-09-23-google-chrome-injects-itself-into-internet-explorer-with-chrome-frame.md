@@ -1,5 +1,6 @@
 ---
 title: "Google Chrome Injects Itself Into Internet Explorer With Chrome Frame"
+slug: google-chrome-injects-itself-into-internet-explorer-with-chrome-frame
 date: 2009-09-23 19:46:10 -0500
 external-url: http://readwrite.com/2009/09/22/google_launches_chrome_frame_internet_explorer_plugin
 hash: 7363cca5c156e45a82d0f057a501fb7f

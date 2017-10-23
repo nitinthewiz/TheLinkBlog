@@ -1,5 +1,6 @@
 ---
 title: "Healthy chocolate covered candy drops and bars"
+slug: healthy-chocolate-covered-candy-drops-and-bars
 date: 2007-06-04 22:38:52 -0500
 external-url: http://www.figamajigs.com/
 hash: bb61a3c4d63b317a8022a81225ed5ccd

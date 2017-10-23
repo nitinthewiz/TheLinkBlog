@@ -1,5 +1,6 @@
 ---
 title: "As player numbers crater, EA will shut SimCity Social, other Facebook games - Ars Technica"
+slug: as-player-numbers-crater-ea-will-shut-simcity-social-other-facebook
 date: 2013-04-15 15:41:49 -0500
 external-url: http://arstechnica.com/gaming/2013/04/as-player-numbers-crater-ea-will-shut-simcity-social-other-facebook-games/
 hash: c98d7e9304bc74fc9e2eedacad9d6eab

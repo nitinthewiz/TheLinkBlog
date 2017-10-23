@@ -1,5 +1,6 @@
 ---
 title: "Photo tour of Facebooks new datacenter"
+slug: photo-tour-of-facebooks-new-datacenter
 date: 2011-04-17 20:48:51 -0500
 external-url: http://scobleizer.com/?p=7832
 hash: 0e943f34eb009abc1e5c56024968906c

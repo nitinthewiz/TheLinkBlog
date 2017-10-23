@@ -1,5 +1,6 @@
 ---
 title: "Getting Real and Design"
+slug: getting-real-and-design
 date: 2008-12-31 13:48:00 -0600
 external-url: http://www.37signals.com/svn/posts/1497-getting-real-and-design
 hash: 124c6686f0e77f5107e6636dc4109975

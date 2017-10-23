@@ -1,5 +1,6 @@
 ---
 title: "TED | Talks | Blaise Aguera y Arcas: Jaw-dropping Photosynth demo (video)"
+slug: ted-talks-blaise-aguera-y-arcas-jaw-dropping-photosynth-demo-video
 date: 2007-08-23 08:16:45 -0500
 external-url: http://www.ted.com/index.php/talks/view/id/129
 hash: 4097f47a1779bf31d585d069ff7ebc55

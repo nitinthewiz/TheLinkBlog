@@ -1,5 +1,6 @@
 ---
 title: "Canon EOS 5D Mark II captures Pikes Peak from bottom to top in record time"
+slug: canon-eos-5d-mark-ii-captures-pikes-peak-from-bottom-to-top-in-record
 date: 2010-07-07 08:07:41 -0500
 external-url: http://blog.planet5d.com/2010/07/canon-eos-5d-mark-ii-captures-pikes-peak-from-bottom-to-top-in-record-time/
 hash: 11a69683610a5d6bcc55f704544c57ba

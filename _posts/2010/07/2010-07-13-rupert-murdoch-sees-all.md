@@ -1,5 +1,6 @@
 ---
 title: "Rupert Murdoch sees all"
+slug: rupert-murdoch-sees-all
 date: 2010-07-13 20:32:45 -0500
 external-url: http://kottke.org/10/07/rupert-murdoch-sees-all
 hash: 0e95e266d5b2c0ea0549c73475bc0b02

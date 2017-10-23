@@ -1,5 +1,6 @@
 ---
 title: "Love in the Age of Big Data"
+slug: love-in-the-age-of-big-data
 date: 2015-12-23 04:39:55 -0600
 external-url: http://highline.huffingtonpost.com/articles/en/love-in-the-age-of-big-data/
 hash: fd1c41e0332b3b132e8fb12a86b9413b

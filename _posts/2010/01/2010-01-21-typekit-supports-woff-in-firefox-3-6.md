@@ -1,5 +1,6 @@
 ---
 title: "Typekit supports WOFF in Firefox 3.6"
+slug: typekit-supports-woff-in-firefox-3-6
 date: 2010-01-21 14:30:17 -0600
 external-url: http://blog.typekit.com/2010/01/21/typekit-supports-woff-in-firefox-3-6/
 hash: 3b2ca90dde3f82a8bac73ec112d347c0

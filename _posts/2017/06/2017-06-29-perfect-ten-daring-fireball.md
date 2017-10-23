@@ -1,5 +1,6 @@
 ---
 title: "★ Perfect Ten —Daring Fireball"
+slug: perfect-ten-daring-fireball
 date: 2017-06-29 19:31:02 -0500
 external-url: https://daringfireball.net/2017/06/perfect_ten
 hash: 930bebdc0b959c7bd28c87fa76abc8f1

@@ -1,5 +1,6 @@
 ---
 title: "Wikipedia is now drawing facts from the Wikidata repository, and so can you"
+slug: wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can
 date: 2013-04-29 23:04:38 -0500
 external-url: http://gigaom.com/2013/04/26/wikipedia-is-now-drawing-facts-from-the-wikidata-repository-and-so-can-you/
 hash: 70925a428b62295db74cf7d073d62d8b

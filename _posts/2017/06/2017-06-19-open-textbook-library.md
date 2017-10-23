@@ -1,5 +1,6 @@
 ---
 title: "Open Textbook Library"
+slug: open-textbook-library
 date: 2017-06-19 06:44:23 -0500
 external-url: https://open.umn.edu/opentextbooks/
 hash: 5afeac0e830041122cd1dd1f04ae095e

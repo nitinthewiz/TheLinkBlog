@@ -1,5 +1,6 @@
 ---
 title: "Airline Facebook Apps, Will Others Follow?"
+slug: airline-facebook-apps-will-others-follow
 date: 2011-03-30 11:28:08 -0500
 external-url: http://aviationweek.com/penton_404_redirect_call/legacy/article/avd_03_30_2011_p04-01-302852
 hash: e8a5a9f749fff3c051d1d19977e419fa

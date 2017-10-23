@@ -1,5 +1,6 @@
 ---
 title: "Feeds for Google Alerts"
+slug: feeds-for-google-alerts
 date: 2011-01-05 19:27:09 -0600
 external-url: http://www.google.com/alerts/manage?hl=en&gl=us
 hash: c1d9f32ad8329d1c81bf08fd87a5483e

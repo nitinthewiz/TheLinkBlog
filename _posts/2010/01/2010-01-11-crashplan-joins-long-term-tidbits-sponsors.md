@@ -1,5 +1,6 @@
 ---
 title: "CrashPlan Joins Long-Term TidBITS Sponsors"
+slug: crashplan-joins-long-term-tidbits-sponsors
 date: 2010-01-11 19:22:32 -0600
 external-url: http://tidbits.com/article/10909?rss=
 hash: 2da56a47e934727315c4bc0eb552e8c7

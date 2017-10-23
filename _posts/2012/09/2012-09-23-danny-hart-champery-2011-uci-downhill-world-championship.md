@@ -1,5 +1,6 @@
 ---
 title: "Danny Hart - Champery - 2011 UCI Downhill World Championship"
+slug: danny-hart-champery-2011-uci-downhill-world-championship
 date: 2012-09-23 23:20:45 -0500
 external-url: https://www.youtube.com/watch?v=YfMQdFGTKAs
 hash: c67b1091444f6664428a886ab9a89206

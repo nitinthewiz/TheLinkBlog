@@ -1,5 +1,6 @@
 ---
 title: "This is your brain on mobile Medium"
+slug: this-is-your-brain-on-mobile-medium
 date: 2014-04-16 18:47:45 -0500
 external-url: https://medium.com/medium-long/15308056cfae
 hash: d299c6373cf88712feadbe4443d35832

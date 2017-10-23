@@ -1,5 +1,6 @@
 ---
 title: "CamStudio - Free Screen Recording Software"
+slug: camstudio-free-screen-recording-software
 date: 2007-01-18 23:43:08 -0600
 external-url: http://www.camstudio.org/
 hash: f07261460bc7ec8288d9ed9db5cbcc76

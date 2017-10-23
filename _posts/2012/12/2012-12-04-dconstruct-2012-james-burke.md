@@ -1,5 +1,6 @@
 ---
 title: "DConstruct 2012 James Burke"
+slug: dconstruct-2012-james-burke
 date: 2012-12-04 21:36:57 -0600
 external-url: http://2012.dconstruct.org/conference/burke/transcript/
 hash: a29728c8f2ece98982b09dae31e94a3e

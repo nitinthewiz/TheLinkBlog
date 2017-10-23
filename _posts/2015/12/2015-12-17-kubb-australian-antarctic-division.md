@@ -1,5 +1,6 @@
 ---
 title: "Kubb — Australian Antarctic Division"
+slug: kubb-australian-antarctic-division
 date: 2015-12-17 06:35:02 -0600
 external-url: http://www.antarctica.gov.au/living-and-working/stations/davis/this-week-at-davis/2015/this-week-at-davis-16-october-2015/4
 hash: c8db8afa339fa4bdb5a6bee3a3a860c4

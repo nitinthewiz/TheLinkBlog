@@ -1,5 +1,6 @@
 ---
 title: "20 Signs You're Succeeding In Life Even If You Don't Feel You Are"
+slug: 20-signs-you-re-succeeding-in-life-even-if-you-don-t-feel-you-are
 date: 2014-10-26 20:07:38 -0500
 external-url: http://www.lifehack.org/articles/communication/20-signs-youre-succeeding-life-even-you-dont-feel-you-are.html
 hash: b99a699c51a3ad22cdc385efef3caca6

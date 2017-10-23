@@ -1,5 +1,6 @@
 ---
 title: "WeatherCal Inserts Updating Forecasts into iCal"
+slug: weathercal-inserts-updating-forecasts-into-ical
 date: 2009-03-18 20:48:43 -0500
 external-url: http://db.tidbits.com/article/10147
 hash: 4ced3f3a7792eb65d8a2ff916b22118c

@@ -1,5 +1,6 @@
 ---
 title: "Meet Ben Silbermann, The Brilliant Young Co-Founder Of Pinterest"
+slug: meet-ben-silbermann-the-brilliant-young-co-founder-of-pinterest
 date: 2012-05-17 11:31:54 -0500
 external-url: http://www.businessinsider.com/pinterest-2012-3
 hash: bd98e7c85b23db834a20205316c36b85

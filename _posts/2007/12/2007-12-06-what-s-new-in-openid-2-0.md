@@ -1,5 +1,6 @@
 ---
 title: "What's New in OpenID 2.0?"
+slug: what-s-new-in-openid-2-0
 date: 2007-12-06 16:38:48 -0600
 external-url: http://www.windley.com/archives/2007/12/whats_new_in_openid_20.shtml
 hash: b0306fd834e01ec1471cc856351587af

@@ -1,5 +1,6 @@
 ---
 title: "Broders' to Open Wine Bar in Former Pierre's"
+slug: broders-to-open-wine-bar-in-former-pierre-s
 date: 2012-11-14 22:58:39 -0600
 external-url: http://heavytable.com/broders-to-open-wine-bar-in-former-pierres/
 hash: bbe079536be980ef16bcf7e10b4009b4

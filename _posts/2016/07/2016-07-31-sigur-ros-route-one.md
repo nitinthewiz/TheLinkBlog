@@ -1,5 +1,6 @@
 ---
 title: "sigur rós - route one"
+slug: sigur-ros-route-one
 date: 2016-07-31 19:02:51 -0500
 external-url: http://sigur-ros.co.uk/
 hash: a46cd9167f98c5c8e4761261db30fe1f

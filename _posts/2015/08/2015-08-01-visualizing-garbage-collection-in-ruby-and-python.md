@@ -1,5 +1,6 @@
 ---
 title: "Visualizing Garbage Collection in Ruby and Python"
+slug: visualizing-garbage-collection-in-ruby-and-python
 date: 2015-08-01 21:41:09 -0500
 external-url: http://blog.codeship.com/visualizing-garbage-collection-ruby-python/
 hash: f5f48db53b87524ae97ecb504a72fddb

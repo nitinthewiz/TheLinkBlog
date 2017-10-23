@@ -1,5 +1,6 @@
 ---
 title: "Republicans Against Science - NYTimes.com"
+slug: republicans-against-science-nytimes-com
 date: 2011-08-29 10:57:18 -0500
 external-url: http://www.nytimes.com/2011/08/29/opinion/republicans-against-science.html?_r=2&src=ISMR_AP_LO_MST_FB
 hash: ed027c202a21fab4925f34b272b657db

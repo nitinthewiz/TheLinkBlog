@@ -1,5 +1,6 @@
 ---
 title: "First Look: Cardhop for Mac —The Sweet Setup"
+slug: first-look-cardhop-for-mac-the-sweet-setup
 date: 2017-10-18 22:20:10 -0500
 external-url: https://thesweetsetup.com/first-look-cardhop-mac/
 hash: 9ec1cbb5285339baec3e17bf29dd85d3

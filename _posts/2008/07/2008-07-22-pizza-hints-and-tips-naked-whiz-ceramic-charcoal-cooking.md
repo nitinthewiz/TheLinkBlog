@@ -1,5 +1,6 @@
 ---
 title: "Pizza Hints and Tips -- Naked Whiz Ceramic Charcoal Cooking"
+slug: pizza-hints-and-tips-naked-whiz-ceramic-charcoal-cooking
 date: 2008-07-22 20:56:57 -0500
 external-url: http://www.nakedwhiz.com/pizza.htm
 hash: 1c8f2e776707e38138aa52096ffa730e

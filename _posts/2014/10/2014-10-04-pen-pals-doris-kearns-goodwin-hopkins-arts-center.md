@@ -1,5 +1,6 @@
 ---
 title: "Pen Pals: Doris Kearns Goodwin | Hopkins Arts Center"
+slug: pen-pals-doris-kearns-goodwin-hopkins-arts-center
 date: 2014-10-04 21:15:43 -0500
 external-url: http://www.hopkinsartscenter.com/events/event/pen-pals-doris-kearns-goodwin/
 hash: cdbb97990b29c4459fd557472c59824e

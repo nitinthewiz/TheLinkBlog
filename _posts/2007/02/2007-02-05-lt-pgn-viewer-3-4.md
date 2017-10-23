@@ -1,5 +1,6 @@
 ---
 title: "LT-PGN-VIEWER 3.4"
+slug: lt-pgn-viewer-3-4
 date: 2007-02-05 22:44:38 -0600
 external-url: http://www.lutanho.net/pgn/pgnviewer.html
 hash: 5a98f39ba024ec09cfd7566432338922

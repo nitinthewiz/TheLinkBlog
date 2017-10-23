@@ -1,5 +1,6 @@
 ---
 title: "A quick guide to Stripe’s culture"
+slug: a-quick-guide-to-stripes-culture
 date: 2017-07-23 05:17:01 -0500
 external-url: https://stripe.com/us/jobs/candidate-info-culture
 hash: a955141b618db0f1e6ce27f7b1ba1333

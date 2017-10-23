@@ -1,5 +1,6 @@
 ---
 title: "Semantic MediaWiki:"
+slug: semantic-mediawiki
 date: 2011-12-05 18:49:13 -0600
 external-url: http://sourceforge.net/p/semediawiki/mailman/message/28499258/
 hash: 1d97bc3e1acc69a84924e3dd0222a33b

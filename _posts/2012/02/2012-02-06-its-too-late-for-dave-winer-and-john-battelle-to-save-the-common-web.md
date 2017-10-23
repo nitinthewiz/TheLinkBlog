@@ -1,5 +1,6 @@
 ---
 title: "It’s too late for Dave Winer and John Battelle to save the common web"
+slug: its-too-late-for-dave-winer-and-john-battelle-to-save-the-common-web
 date: 2012-02-06 11:29:50 -0600
 external-url: http://scobleizer.com/2012/02/04/its-too-late-for-dave-winer-and-john-battelle-to-save-the-common-web/
 hash: 983d86fd1177c15e18ec015f5a767fe6

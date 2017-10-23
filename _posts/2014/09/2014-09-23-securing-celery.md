@@ -1,5 +1,6 @@
 ---
 title: "Securing Celery"
+slug: securing-celery
 date: 2014-09-23 14:02:44 -0500
 external-url: https://engineering.heroku.com/blogs/2014-09-15-securing-celery
 hash: bf5c44423331857344182453a9851e27

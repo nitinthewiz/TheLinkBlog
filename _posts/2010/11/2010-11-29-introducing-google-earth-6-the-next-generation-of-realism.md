@@ -1,5 +1,6 @@
 ---
 title: "Introducing Google Earth 6—the next generation of realism"
+slug: introducing-google-earth-6-the-next-generation-of-realism
 date: 2010-11-29 12:47:00 -0600
 external-url: http://googleblog.blogspot.com/2010/11/introducing-google-earth-6the-next.html
 hash: 8594cbab937f92a029f460397cae9094

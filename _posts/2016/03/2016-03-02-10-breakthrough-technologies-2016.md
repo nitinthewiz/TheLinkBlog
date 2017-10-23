@@ -1,5 +1,6 @@
 ---
 title: "10 Breakthrough Technologies 2016"
+slug: 10-breakthrough-technologies-2016
 date: 2016-03-02 04:20:20 -0600
 external-url: https://www.technologyreview.com/lists/technologies/2016/
 hash: 383cf3fd74fc53b7bbb294c909fff71d

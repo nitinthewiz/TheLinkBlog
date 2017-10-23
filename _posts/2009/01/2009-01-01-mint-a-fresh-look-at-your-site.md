@@ -1,5 +1,6 @@
 ---
 title: "Mint: A Fresh Look at your Site"
+slug: mint-a-fresh-look-at-your-site
 date: 2009-01-01 23:52:38 -0600
 external-url: http://www.haveamint.com/
 hash: 14c8ae1211f0e63c729eebf8ce641722

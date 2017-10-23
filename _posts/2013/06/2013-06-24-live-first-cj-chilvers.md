@@ -1,5 +1,6 @@
 ---
 title: "Live First — CJ Chilvers"
+slug: live-first-cj-chilvers
 date: 2013-06-24 23:24:39 -0500
 external-url: https://www.cjchilvers.com/blog/live-first
 hash: e8541ef4f8d3895b7cd686a263f57e62

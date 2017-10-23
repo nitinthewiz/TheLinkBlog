@@ -1,5 +1,6 @@
 ---
 title: "Nicholas Felton - Feltron"
+slug: nicholas-felton-feltron
 date: 2011-01-04 14:40:35 -0600
 external-url: http://feltron.com/
 hash: 7d63807b6224473829eebc045f90864c

@@ -1,5 +1,6 @@
 ---
 title: "Gibson Brothers"
+slug: gibson-brothers
 date: 2014-10-06 19:56:06 -0500
 external-url: http://www.gibsonbrothers.com/
 hash: 14e223a741569e049b0cee25510c3f28

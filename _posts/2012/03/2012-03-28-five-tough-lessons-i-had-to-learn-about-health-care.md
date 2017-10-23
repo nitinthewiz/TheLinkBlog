@@ -1,5 +1,6 @@
 ---
 title: "Five tough lessons I had to learn about health care"
+slug: five-tough-lessons-i-had-to-learn-about-health-care
 date: 2012-03-28 06:59:31 -0500
 external-url: http://radar.oreilly.com/2012/03/five-tough-lessons-i-had-to-le.html
 hash: e6639a85304c3de14469e050cbb56a29

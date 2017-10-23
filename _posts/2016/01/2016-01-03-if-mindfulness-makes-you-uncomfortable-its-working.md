@@ -1,5 +1,6 @@
 ---
 title: "If Mindfulness Makes You Uncomfortable, It’s Working"
+slug: if-mindfulness-makes-you-uncomfortable-its-working
 date: 2016-01-03 22:01:07 -0600
 external-url: https://hbr.org/2015/12/if-mindfulness-makes-you-uncomfortable-its-working
 hash: 2b0733dd86d2fe2ffd891359c44d9066

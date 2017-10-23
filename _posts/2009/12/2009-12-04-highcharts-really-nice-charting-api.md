@@ -1,5 +1,6 @@
 ---
 title: "Highcharts: Really nice charting API"
+slug: highcharts-really-nice-charting-api
 date: 2009-12-04 05:36:06 -0600
 external-url: http://ajaxian.com/archives/highcharts-really-nice-charting-api
 hash: 24e4db909e8df5f47c68284c5ec38436

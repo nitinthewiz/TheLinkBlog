@@ -1,5 +1,6 @@
 ---
 title: "Boundary Waters 2012"
+slug: boundary-waters-2012
 date: 2013-03-06 22:23:29 -0600
 external-url: http://vimeo.com/60947124
 hash: 761443058b3ef764aa6057a448c0e2aa

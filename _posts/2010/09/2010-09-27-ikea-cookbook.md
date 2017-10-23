@@ -1,5 +1,6 @@
 ---
 title: "Ikea cookbook"
+slug: ikea-cookbook
 date: 2010-09-27 15:52:32 -0500
 external-url: http://kottke.org/10/09/ikea-cookbook
 hash: b3e3f9b94f4570270d269016c4bb1b74

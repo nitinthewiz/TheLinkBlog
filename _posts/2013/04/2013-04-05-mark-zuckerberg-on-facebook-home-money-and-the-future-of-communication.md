@@ -1,5 +1,6 @@
 ---
 title: "Mark Zuckerberg on Facebook Home, Money, and the Future of Communication"
+slug: mark-zuckerberg-on-facebook-home-money-and-the-future-of-communication
 date: 2013-04-05 13:30:20 -0500
 external-url: http://www.wired.com/2013/04/facebookqa/
 hash: 512c43704ea9f96d1ea27f3bb696cf03

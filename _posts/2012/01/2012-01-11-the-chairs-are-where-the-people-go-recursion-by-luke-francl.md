@@ -1,5 +1,6 @@
 ---
 title: "The Chairs Are Where the People Go – recursion by Luke Francl"
+slug: the-chairs-are-where-the-people-go-recursion-by-luke-francl
 date: 2012-01-11 11:50:56 -0600
 external-url: http://www.recursion.org/2012/1/11/the-chairs-are-where-the-people-go
 hash: 9250ba0bf8a76288252ea53bc958e819

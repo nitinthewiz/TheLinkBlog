@@ -1,5 +1,6 @@
 ---
 title: "Put Your Cognitive Surplus to Good Use"
+slug: put-your-cognitive-surplus-to-good-use
 date: 2010-07-20 00:20:18 -0500
 external-url: http://lifehacker.com/5590940/put-your-cognitive-surplus-to-good-use
 hash: 91d579cf3f29efb5cda3fa2474a96558

@@ -1,5 +1,6 @@
 ---
 title: "Extension:Crypto - MediaWiki"
+slug: extension-crypto-mediawiki
 date: 2011-07-03 12:32:41 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Crypto
 hash: 44e55d20ae6b1b71d39290106c59ad5e

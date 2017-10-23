@@ -1,5 +1,6 @@
 ---
 title: "Adobe Labs - myFeedz"
+slug: adobe-labs-myfeedz
 date: 2007-02-16 09:30:52 -0600
 external-url: http://labs.adobe.com/technologies/myfeedz/
 hash: ec5ab1a0d30452a4dbffa2e50a822a9b

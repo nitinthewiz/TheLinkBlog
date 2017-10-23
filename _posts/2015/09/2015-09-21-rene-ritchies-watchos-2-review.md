@@ -1,5 +1,6 @@
 ---
 title: "Rene Ritchie’s WatchOS 2 Review"
+slug: rene-ritchies-watchos-2-review
 date: 2015-09-21 19:29:29 -0500
 external-url: http://www.imore.com/watchos-2-review
 hash: 88372fee9b6322b119fa32ad17946696

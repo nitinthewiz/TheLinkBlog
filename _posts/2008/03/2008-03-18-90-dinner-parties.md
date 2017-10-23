@@ -1,5 +1,6 @@
 ---
 title: "#90 Dinner Parties"
+slug: 90-dinner-parties
 date: 2008-03-18 23:14:34 -0500
 external-url: http://stuffwhitepeoplelike.wordpress.com/2008/03/18/88-dinner-parties/
 hash: e3f6e977b78c066e2914560213c2dbda

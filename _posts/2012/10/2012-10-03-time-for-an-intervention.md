@@ -1,5 +1,6 @@
 ---
 title: "Time for an Intervention"
+slug: time-for-an-intervention
 date: 2012-10-03 21:16:34 -0500
 external-url: http://blogs.wsj.com/peggynoonan/2012/09/18/time-for-an-intervention/
 hash: f6f43721352648a82dc1f4d7e3b63d73

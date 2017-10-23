@@ -1,5 +1,6 @@
 ---
 title: "Social Media Upending Privacy in Real World"
+slug: social-media-upending-privacy-in-real-world
 date: 2013-02-11 13:15:41 -0600
 external-url: http://bits.blogs.nytimes.com/2012/10/14/seeking-privacy-in-a-networked-age/
 hash: e45c072460ddeef3c3a98a9de95c281b

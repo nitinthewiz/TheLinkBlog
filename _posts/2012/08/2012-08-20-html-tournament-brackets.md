@@ -1,5 +1,6 @@
 ---
 title: "HTML Tournament Brackets"
+slug: html-tournament-brackets
 date: 2012-08-20 22:59:06 -0500
 external-url: http://www.jimyi.com/blog/2009/04/09/html-tournament-brackets/
 hash: 877a34ffc9ffbd897a7a2af02df6b706

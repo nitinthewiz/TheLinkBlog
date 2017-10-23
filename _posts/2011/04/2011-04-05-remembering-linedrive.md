@@ -1,5 +1,6 @@
 ---
 title: "Remembering Linedrive"
+slug: remembering-linedrive
 date: 2011-04-05 05:36:00 -0500
 external-url: http://somethingaboutmaps.wordpress.com/2011/03/08/remembering-linedrive/
 hash: a00d40a902e1604477d698b32b6d7268

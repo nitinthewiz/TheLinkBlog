@@ -1,5 +1,6 @@
 ---
 title: "Wi-Fi calling now available on AT&T iPhones - Six Colors"
+slug: wi-fi-calling-now-available-on-at-t-iphones-six-colors
 date: 2015-10-11 18:00:26 -0500
 external-url: http://sixcolors.com/post/2015/10/wi-fi-calling-now-available-on-att-iphones/
 hash: 9647078e54a95636b31488dd3e3db69d

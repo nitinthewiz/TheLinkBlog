@@ -1,5 +1,6 @@
 ---
 title: "First AirPlay Supported AV Reciever"
+slug: first-airplay-supported-av-reciever
 date: 2010-09-13 23:23:16 -0500
 external-url: http://macapper.com/2010/09/13/first-airplay-supported-av-reciever/
 hash: ed8c9db33fd3681262a7dbf747a0f189

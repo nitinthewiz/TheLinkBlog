@@ -1,5 +1,6 @@
 ---
 title: "Kindle Worlds for Authors"
+slug: kindle-worlds-for-authors
 date: 2013-05-23 23:47:07 -0500
 external-url: http://www.amazon.com/gp/feature.html/190-3534783-9508768?ie=UTF8&docId=1001197431
 hash: 3067bf5e779c21ee7639a265ba1cadda

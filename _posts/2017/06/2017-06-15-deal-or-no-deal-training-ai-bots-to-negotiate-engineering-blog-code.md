@@ -1,5 +1,6 @@
 ---
 title: "Deal or no deal? Training AI bots to negotiate | Engineering Blog | Facebook Code | Facebook"
+slug: deal-or-no-deal-training-ai-bots-to-negotiate-engineering-blog-code
 date: 2017-06-15 06:09:04 -0500
 external-url: https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate
 hash: b73af2089c4d6c230ac8e7592463c297

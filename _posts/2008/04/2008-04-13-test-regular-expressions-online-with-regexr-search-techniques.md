@@ -1,5 +1,6 @@
 ---
 title: "Test Regular Expressions Online with RegExr [Search Techniques]"
+slug: test-regular-expressions-online-with-regexr-search-techniques
 date: 2008-04-13 10:00:00 -0500
 external-url: http://lifehacker.com/378991/test-regular-expressions-online-with-regexr
 hash: eee48004b85cacd0141674fe39f74669

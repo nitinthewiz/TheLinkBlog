@@ -1,5 +1,6 @@
 ---
 title: "Introducing Tent - the decentralized social web"
+slug: introducing-tent-the-decentralized-social-web
 date: 2012-08-22 21:42:34 -0500
 external-url: https://tent.io/blog/introducing-tent
 hash: a58a4cf58b7a246b031c6a410b9f4167

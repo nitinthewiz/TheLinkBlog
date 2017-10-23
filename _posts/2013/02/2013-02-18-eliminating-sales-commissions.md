@@ -1,5 +1,6 @@
 ---
 title: "Eliminating Sales Commissions"
+slug: eliminating-sales-commissions
 date: 2013-02-18 17:22:00 -0600
 external-url: http://martinfowler.com/articles/eliminatingSalesCommissions/
 hash: d5757db2ef5004610abf1596c275475e

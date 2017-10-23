@@ -1,5 +1,6 @@
 ---
 title: "Withings Aura"
+slug: withings-aura
 date: 2014-01-08 19:16:01 -0600
 external-url: http://www.withings.com/us/aura/
 hash: 840da9ef3bec79288095c0b3adca7f2d

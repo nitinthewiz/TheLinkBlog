@@ -1,5 +1,6 @@
 ---
 title: "Why Are We Fighting the Crypto Wars Again? — Backchannel — Medium"
+slug: why-are-we-fighting-the-crypto-wars-again-backchannel-medium
 date: 2016-03-12 20:38:14 -0600
 external-url: https://backchannel.com/why-are-we-fighting-the-crypto-wars-again-b5310a423295#.qk1nt2mn7
 hash: f4d770b4230daadad01190d499b0094f

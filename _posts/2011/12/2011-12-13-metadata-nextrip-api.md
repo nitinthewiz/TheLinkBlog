@@ -1,5 +1,6 @@
 ---
 title: "Metadata: NexTrip API"
+slug: metadata-nextrip-api
 date: 2011-12-13 17:18:19 -0600
 external-url: http://www.datafinder.org/metadata/NexTripAPI.htm
 hash: 1941c18cb2fd341a7b6c63b583cc5007

@@ -1,5 +1,6 @@
 ---
 title: "InfoWorld Review – Amazon Aurora Rocks MySQL"
+slug: infoworld-review-amazon-aurora-rocks-mysql
 date: 2015-12-16 20:11:05 -0600
 external-url: https://aws.amazon.com/blogs/aws/infoworld-review-amazon-aurora-rocks-mysql/
 hash: f60f5b11bada144a040635725d7a1bc3

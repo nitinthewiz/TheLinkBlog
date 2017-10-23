@@ -1,5 +1,6 @@
 ---
 title: "White one - Making of"
+slug: white-one-making-of
 date: 2013-05-27 08:50:21 -0500
 external-url: http://erleuchtet.org/2011/06/white-one.html
 hash: 2b9aef4a130f28da8aa229407e953881

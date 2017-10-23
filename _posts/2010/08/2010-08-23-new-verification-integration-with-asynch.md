@@ -1,5 +1,6 @@
 ---
 title: "New Verification Integration With Asynch"
+slug: new-verification-integration-with-asynch
 date: 2010-08-23 22:35:00 -0500
 external-url: http://analytics.blogspot.com/2010/08/new-verification-integration-with.html
 hash: e5eaa40449cdc93320cfc1a070e935df

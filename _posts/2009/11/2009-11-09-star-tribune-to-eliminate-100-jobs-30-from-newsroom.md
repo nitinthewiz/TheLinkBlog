@@ -1,5 +1,6 @@
 ---
 title: "Star Tribune to eliminate 100 jobs, 30 from newsroom"
+slug: star-tribune-to-eliminate-100-jobs-30-from-newsroom
 date: 2009-11-09 11:49:12 -0600
 external-url: http://www.bizjournals.com/twincities/stories/2009/11/09/daily4.html?ana=from_rss
 hash: a25d3b8f307be99b51929d9c14051d54

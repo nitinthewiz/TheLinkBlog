@@ -1,5 +1,6 @@
 ---
 title: "GitHub supports Universal 2nd Factor authentication · GitHub"
+slug: github-supports-universal-2nd-factor-authentication-github
 date: 2015-10-04 20:47:52 -0500
 external-url: https://github.com/blog/2071-github-supports-universal-2nd-factor-authentication
 hash: cb05e35d884ff0f4ff69d2eba2e88877

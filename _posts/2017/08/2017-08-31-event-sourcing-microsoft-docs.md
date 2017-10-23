@@ -1,5 +1,6 @@
 ---
 title: "Event Sourcing | Microsoft Docs"
+slug: event-sourcing-microsoft-docs
 date: 2017-08-31 14:36:53 -0500
 external-url: https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
 hash: 8dea4f5966e9d8b3c60de60cad586ca6

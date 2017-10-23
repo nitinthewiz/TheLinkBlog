@@ -1,5 +1,6 @@
 ---
 title: "Regain the Timeline in iMovie 11"
+slug: regain-the-timeline-in-imovie-11
 date: 2010-10-21 13:24:43 -0500
 external-url: http://tidbits.com/article/11688
 hash: 0c8151fd5ed559020eba7548cfd0ea72

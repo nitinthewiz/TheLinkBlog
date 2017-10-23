@@ -1,5 +1,6 @@
 ---
 title: "Blitzscaling"
+slug: blitzscaling
 date: 2016-03-23 08:26:03 -0500
 external-url: https://hbr.org/2016/04/blitzscaling
 hash: 30fa570509648d07bc1734495222d955

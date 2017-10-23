@@ -1,5 +1,6 @@
 ---
 title: "Mindfulness Based Stress Reduction"
+slug: mindfulness-based-stress-reduction
 date: 2014-12-23 20:08:17 -0600
 external-url: http://www.csh.umn.edu/program-areas-section/mindfulness-based-stress-reduction/index.htm
 hash: 0d78027fed2052d6bd604939b32e50d6

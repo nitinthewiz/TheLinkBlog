@@ -1,5 +1,6 @@
 ---
 title: "Report from Iowa Part Two: James Madison Rolls Over in His Grave"
+slug: report-from-iowa-part-two-james-madison-rolls-over-in-his-grave
 date: 2007-12-18 00:12:47 -0600
 external-url: http://kevinjennings.com/blog/2007/12/18/report-from-iowa-part-two-james-madison-rolls-over-in-his-grave/
 hash: 495c182fb1028d885aade1ebcd27e6d8

@@ -1,5 +1,6 @@
 ---
 title: "Five Tips for Keeping a Gratitude Journal | Day One"
+slug: five-tips-for-keeping-a-gratitude-journal-day-one
 date: 2017-08-18 07:16:30 -0500
 external-url: http://dayoneapp.com/2017/08/five-tips-for-keeping-a-gratitude-journal/
 hash: 78c7fd9bddba90abd0390d58263e4db8

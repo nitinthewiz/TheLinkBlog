@@ -1,5 +1,6 @@
 ---
 title: "Kubb - Uncyclopedia, the content-free encyclopedia"
+slug: kubb-uncyclopedia-the-content-free-encyclopedia
 date: 2012-07-17 21:10:29 -0500
 external-url: http://uncyclopedia.wikia.com/wiki/Talk:Kubb
 hash: 226bbaba586cf5aff06c0ae815ebc2e8

@@ -1,5 +1,6 @@
 ---
 title: "BBC Radio 4 - FutureProofing, The Blockchain"
+slug: bbc-radio-4-futureproofing-the-blockchain
 date: 2015-08-28 05:26:33 -0500
 external-url: http://www.bbc.co.uk/programmes/b066wfp4#play
 hash: eb6474b55fb0603e57d9ae9e3d94187c

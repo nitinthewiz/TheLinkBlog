@@ -1,5 +1,6 @@
 ---
 title: "helvetica - Google Search"
+slug: helvetica-google-search
 date: 2011-04-01 09:09:58 -0500
 external-url: http://www.google.com/search?q=helvetica
 hash: cfd7ea71d4bdf60e68c89b2afcf462fc

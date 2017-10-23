@@ -1,5 +1,6 @@
 ---
 title: "Big Guitar by Greg Merkle - Download Big Guitar on iTunes"
+slug: big-guitar-by-greg-merkle-download-big-guitar-on-itunes
 date: 2008-12-21 22:23:22 -0600
 external-url: http://itunes.apple.com/us/album/big-guitar/id300082508
 hash: 52416921f6e8f0170204638646b87c84

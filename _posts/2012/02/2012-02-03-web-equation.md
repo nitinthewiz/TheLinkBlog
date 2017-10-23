@@ -1,5 +1,6 @@
 ---
 title: "Web Equation"
+slug: web-equation
 date: 2012-02-03 15:36:41 -0600
 external-url: http://webdemo.myscript.com/portal.html?locale=default
 hash: c30eea3165eb42213894950a3adc8d42

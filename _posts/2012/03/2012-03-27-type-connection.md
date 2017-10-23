@@ -1,5 +1,6 @@
 ---
 title: "Type Connection"
+slug: type-connection
 date: 2012-03-27 17:56:48 -0500
 external-url: http://www.typeconnection.com/about.php
 hash: 0e2e9aeda71ab94cfdbde7551101d68b

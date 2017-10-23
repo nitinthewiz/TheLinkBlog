@@ -1,5 +1,6 @@
 ---
 title: "Andy Ihnatkos Flickr Set of Photos From the 3G S Camera"
+slug: andy-ihnatkos-flickr-set-of-photos-from-the-3g-s-camera
 date: 2009-06-17 16:54:04 -0500
 external-url: https://www.flickr.com/photos/andyi/sets/72157619833958006/
 hash: b1e5465d96b290b22fe9697b46ece519

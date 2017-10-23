@@ -1,5 +1,6 @@
 ---
 title: "Wind Sail--Vertical Axis Wind Turbines"
+slug: wind-sail-vertical-axis-wind-turbines
 date: 2007-06-05 16:38:41 -0500
 external-url: http://www.wind-sail.com/
 hash: 108f8fd98876c0b198486cabe759a64e

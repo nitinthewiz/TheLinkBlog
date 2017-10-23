@@ -1,5 +1,6 @@
 ---
 title: "PrivacyChoice"
+slug: privacychoice
 date: 2012-11-30 05:45:39 -0600
 external-url: http://privacychoice.org/
 hash: 36379b79102b0b9032eb95217855627e

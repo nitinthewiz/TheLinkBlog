@@ -1,5 +1,6 @@
 ---
 title: "Lanyrd — ‘The Social Conference Directory’"
+slug: lanyrd-the-social-conference-directory
 date: 2010-09-12 16:27:40 -0500
 external-url: http://lanyrd.com/
 hash: 90f7c1419d4689d4304296cd70fae0fc

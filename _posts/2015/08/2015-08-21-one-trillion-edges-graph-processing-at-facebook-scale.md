@@ -1,5 +1,6 @@
 ---
 title: "One Trillion Edges: Graph Processing at Facebook-Scale"
+slug: one-trillion-edges-graph-processing-at-facebook-scale
 date: 2015-08-21 16:35:19 -0500
 external-url: http://www.vldb.org/pvldb/vol8/p1804-ching.pdf
 hash: f93f2b50b5eb81546436a508a87ff0cc

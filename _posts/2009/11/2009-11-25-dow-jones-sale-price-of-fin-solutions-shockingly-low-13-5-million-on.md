@@ -1,5 +1,6 @@
 ---
 title: "Dow Jones' Sale Price Of Fin Solutions Shockingly Low: $13.5 Million, On $14 Million of Revs"
+slug: dow-jones-sale-price-of-fin-solutions-shockingly-low-13-5-million-on
 date: 2009-11-25 23:35:56 -0600
 external-url: http://m.paidcontent.org/article/419-dow-jones-sale-price-of-fin-solutions-shockingly-low-13.5-million-on-14/
 hash: 9310ef1c3abf0717d6fd4cc64b5d5750

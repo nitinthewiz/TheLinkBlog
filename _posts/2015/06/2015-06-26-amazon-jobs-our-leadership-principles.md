@@ -1,5 +1,6 @@
 ---
 title: "Amazon Jobs | Our Leadership Principles"
+slug: amazon-jobs-our-leadership-principles
 date: 2015-06-26 16:26:02 -0500
 external-url: https://www.amazon.jobs/principles
 hash: f0e8a20890b059427e48266cc457702a

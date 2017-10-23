@@ -1,5 +1,6 @@
 ---
 title: "Day One Premium and the Future"
+slug: day-one-premium-and-the-future
 date: 2017-07-05 21:35:34 -0500
 external-url: http://www.macdrifter.com/2017/07/day-one-premium-and-the-future.html
 hash: 7eba0ff5e22bf76470bbd54869a9c42b

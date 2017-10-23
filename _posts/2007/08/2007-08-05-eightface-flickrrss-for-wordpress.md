@@ -1,5 +1,6 @@
 ---
 title: "Eightface // flickrRSS for WordPress"
+slug: eightface-flickrrss-for-wordpress
 date: 2007-08-05 14:55:04 -0500
 external-url: http://eightface.com/wordpress/flickrrss/
 hash: 7277a52c5bf3dc7f6ea2045531780bd2

@@ -1,5 +1,6 @@
 ---
 title: "Mayday PAC"
+slug: mayday-pac
 date: 2014-07-03 11:33:17 -0500
 external-url: http://MAYDAY.US/
 hash: d6cad30845636b7ed33c2e0f04963a23

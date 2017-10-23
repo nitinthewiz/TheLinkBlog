@@ -1,5 +1,6 @@
 ---
 title: "Xkcd: Klout"
+slug: xkcd-klout
 date: 2012-05-20 21:59:02 -0500
 external-url: http://xkcd.com/1057/
 hash: 3f41bd9aad89ea36e4d4fa278874dcc9

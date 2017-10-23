@@ -1,5 +1,6 @@
 ---
 title: "A Review of Verizon and Google's Net Neutrality Proposal"
+slug: a-review-of-verizon-and-google-s-net-neutrality-proposal
 date: 2010-08-10 23:09:13 -0500
 external-url: https://www.eff.org/deeplinks/2010/08/google-verizon-netneutrality
 hash: 8a921b2d59189b97c01d1d1c2dfebaf1

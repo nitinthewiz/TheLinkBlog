@@ -1,5 +1,6 @@
 ---
 title: "OmniOutliner for iPad: First Screenshots"
+slug: omnioutliner-for-ipad-first-screenshots
 date: 2011-05-09 23:39:11 -0500
 external-url: http://www.omnigroup.com/blog/omnioutliner_for_ipad_first_screenshots/
 hash: 4eec8db6ba1f31426062f992935fc96b

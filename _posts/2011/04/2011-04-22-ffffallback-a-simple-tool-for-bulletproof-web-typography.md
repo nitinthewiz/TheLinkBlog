@@ -1,5 +1,6 @@
 ---
 title: "FFFFALLBACK - A simple tool for bulletproof web typography."
+slug: ffffallback-a-simple-tool-for-bulletproof-web-typography
 date: 2011-04-22 17:11:04 -0500
 external-url: http://ffffallback.com/
 hash: 737bcc868b4cbc80955a6463fec15713

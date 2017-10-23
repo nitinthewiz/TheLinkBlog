@@ -1,5 +1,6 @@
 ---
 title: "Apple, Think Secret settle lawsuit; Think Secret will no longer be published"
+slug: apple-think-secret-settle-lawsuit-think-secret-will-no-longer-be
 date: 2007-12-20 07:20:01 -0600
 external-url: http://www.macdailynews.com/index.php/weblog/comments/apple_think_secret_settle_lawsuit_think_secret_will_no_longer_be_published/
 hash: c1003481844ba4fe40b4759ca1cfd360

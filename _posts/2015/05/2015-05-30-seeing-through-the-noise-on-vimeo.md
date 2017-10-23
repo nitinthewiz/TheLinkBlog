@@ -1,5 +1,6 @@
 ---
 title: "Seeing Through the Noise on Vimeo"
+slug: seeing-through-the-noise-on-vimeo
 date: 2015-05-30 07:10:30 -0500
 external-url: https://vimeo.com/129291428
 hash: bb8d257456178287f333ab013d03817a

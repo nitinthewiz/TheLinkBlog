@@ -1,5 +1,6 @@
 ---
 title: "How Silicon Valley Reacts to Apple's iPhone X - YouTube"
+slug: how-silicon-valley-reacts-to-apple-s-iphone-x-youtube
 date: 2017-09-28 20:39:58 -0500
 external-url: https://www.youtube.com/watch?v=b4Xl4hPEV80&feature=youtu.be
 hash: 680e3efdf41405378a48f2c430da319d

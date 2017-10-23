@@ -1,5 +1,6 @@
 ---
 title: "For-pay fire department lets man's house burn"
+slug: for-pay-fire-department-lets-man-s-house-burn
 date: 2010-10-04 13:45:00 -0500
 external-url: http://www.salon.com/2010/10/04/libertarian_fire_department/
 hash: 86aef5a0369817a692ab5e01e2ff6eba

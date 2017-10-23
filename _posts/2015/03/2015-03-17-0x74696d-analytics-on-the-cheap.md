@@ -1,5 +1,6 @@
 ---
 title: "0x74696d | Analytics on the Cheap"
+slug: 0x74696d-analytics-on-the-cheap
 date: 2015-03-17 17:19:58 -0500
 external-url: http://0x74696d.com/posts/analytics-on-the-cheap/
 hash: 855ee279ac6d04aab954755dd5a497bf

@@ -1,5 +1,6 @@
 ---
 title: "View the Contents of a Zip File in Quick Look with Zip Quick Look"
+slug: view-the-contents-of-a-zip-file-in-quick-look-with-zip-quick-look
 date: 2007-11-26 17:00:00 -0600
 external-url: http://lifehacker.com/326410/view-the-contents-of-a-zip-file-in-quick-look-with-zip-quick-look
 hash: 1cb2a6631feeecd15e027e1e4e9d45a9

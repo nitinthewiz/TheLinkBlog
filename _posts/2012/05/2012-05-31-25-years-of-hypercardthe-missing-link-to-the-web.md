@@ -1,5 +1,6 @@
 ---
 title: "25 years of HyperCardthe missing link to the Web"
+slug: 25-years-of-hypercardthe-missing-link-to-the-web
 date: 2012-05-31 09:08:53 -0500
 external-url: http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
 hash: f01eb81a5f86b6df0ad46deb2f51fff5

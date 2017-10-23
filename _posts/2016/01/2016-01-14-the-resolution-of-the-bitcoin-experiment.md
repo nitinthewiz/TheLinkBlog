@@ -1,5 +1,6 @@
 ---
 title: "The resolution of the Bitcoin experiment"
+slug: the-resolution-of-the-bitcoin-experiment
 date: 2016-01-14 18:53:37 -0600
 external-url: https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.dnffaextz
 hash: db612cff68c90c5102c8f1508b974fac

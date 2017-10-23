@@ -1,5 +1,6 @@
 ---
 title: "Caching Tutorial for Web Authors and Webmasters"
+slug: caching-tutorial-for-web-authors-and-webmasters
 date: 2012-05-21 23:01:55 -0500
 external-url: https://www.mnot.net/cache_docs/
 hash: 5b50c013c55cc0cdf4473097145da872

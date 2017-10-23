@@ -1,5 +1,6 @@
 ---
 title: "Review: Site Reliability Engineering"
+slug: review-site-reliability-engineering
 date: 2016-04-24 06:30:09 -0500
 external-url: http://blog.lusis.org/blog/2016/04/17/review-site-reliability-engineering/
 hash: 5d5f649cf143fedad7df74e35b652ce3

@@ -1,5 +1,6 @@
 ---
 title: "A Year with MongoDB"
+slug: a-year-with-mongodb
 date: 2012-04-16 17:31:00 -0500
 external-url: http://blog.engineering.kiip.me/post/20988881092/a-year-with-mongodb
 hash: 80211ee5b7826e7f9b240093930f347b

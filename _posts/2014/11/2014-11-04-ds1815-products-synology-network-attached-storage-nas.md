@@ -1,5 +1,6 @@
 ---
 title: "DS1815+ - Products - Synology - Network Attached Storage (NAS)"
+slug: ds1815-products-synology-network-attached-storage-nas
 date: 2014-11-04 21:45:52 -0600
 external-url: https://www.synology.com/en-us/products/DS1815+
 hash: 3ce09826abf1a6b9644139db99d30a80

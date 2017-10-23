@@ -1,5 +1,6 @@
 ---
 title: "The 5 biggest announcements from today’s Amazon hardware event - The Verge"
+slug: the-5-biggest-announcements-from-todays-amazon-hardware-event-the
 date: 2017-09-27 21:45:39 -0500
 external-url: https://www.theverge.com/2017/9/27/16374254/amazon-event-2017-news-recap-echo-spot-fire-tv-hardware
 hash: d89a7965d2b8a80c9ce975a27a6b11bc

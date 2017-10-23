@@ -1,5 +1,6 @@
 ---
 title: "Google Doubles Its Cartographers As Maps Continues To Go Wiki-Style"
+slug: google-doubles-its-cartographers-as-maps-continues-to-go-wiki-style
 date: 2009-08-19 23:44:50 -0500
 external-url: http://techcrunch.com/2009/08/19/google-doubles-its-cartographers-as-maps-continues-to-go-wiki-style/
 hash: ae6cc3e15ded7ac8fcfe5ef71fbbe5fc

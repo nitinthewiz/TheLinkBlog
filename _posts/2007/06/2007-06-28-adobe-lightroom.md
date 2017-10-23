@@ -1,5 +1,6 @@
 ---
 title: "Adobe Lightroom"
+slug: adobe-lightroom
 date: 2007-06-28 22:19:56 -0500
 external-url: http://www.computer-darkroom.com/lr_11/lr-11-review.htm
 hash: a235e5e8fb6859064331f4a65f4a08b1

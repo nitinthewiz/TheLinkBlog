@@ -1,5 +1,6 @@
 ---
 title: "Clang Successfully Self-Hosts"
+slug: clang-successfully-self-hosts
 date: 2010-02-06 00:16:00 -0600
 external-url: http://blog.llvm.org/2010/02/clang-successfully-self-hosts.html
 hash: 6db784d07460c99900f63c5692232fee

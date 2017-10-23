@@ -1,5 +1,6 @@
 ---
 title: "USGS Earthquake Hazards Program-Home"
+slug: usgs-earthquake-hazards-program-home
 date: 2005-08-05 09:49:15 -0500
 external-url: http://earthquake.usgs.gov/
 hash: 75903530ec59e76405b13b0513b88d37

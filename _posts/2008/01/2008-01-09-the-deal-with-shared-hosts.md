@@ -1,5 +1,6 @@
 ---
 title: "The deal with shared hosts"
+slug: the-deal-with-shared-hosts
 date: 2008-01-09 23:27:00 -0600
 external-url: http://david.heinemeierhansson.com/posts/21-the-deal-with-shared-hosts
 hash: c5a43fe11621676e5b96c74981a86961

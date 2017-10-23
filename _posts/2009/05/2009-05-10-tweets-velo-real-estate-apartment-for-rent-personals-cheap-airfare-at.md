@@ -1,5 +1,6 @@
 ---
 title: "Tweets | Velo | Real Estate | Apartment For Rent | Personals | Cheap Airfare at Velotweets.com"
+slug: tweets-velo-real-estate-apartment-for-rent-personals-cheap-airfare-at
 date: 2009-05-10 07:25:34 -0500
 external-url: http://www.velotweets.com/
 hash: 5d77f76c7515312add2f6e45a9d536f8

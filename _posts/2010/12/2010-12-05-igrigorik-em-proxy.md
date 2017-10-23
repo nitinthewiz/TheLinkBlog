@@ -1,5 +1,6 @@
 ---
 title: "igrigorik/em-proxy"
+slug: igrigorik-em-proxy
 date: 2010-12-05 10:35:14 -0600
 external-url: https://github.com/igrigorik/em-proxy
 hash: caf22e17e4ff0bcd8b389be3073dc3e2

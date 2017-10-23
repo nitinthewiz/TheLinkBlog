@@ -1,5 +1,6 @@
 ---
 title: "Sylvansport Go Camping Travel Trailer"
+slug: sylvansport-go-camping-travel-trailer
 date: 2012-07-08 22:22:38 -0500
 external-url: http://www.sylvansport.com/go/product-details/
 hash: cb13718d6129b6f20df58088d18fc408

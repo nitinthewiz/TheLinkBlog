@@ -1,5 +1,6 @@
 ---
 title: "John Riedl Eulogy"
+slug: john-riedl-eulogy
 date: 2013-07-29 16:45:06 -0500
 external-url: http://www.caringbridge.org/visit/%2A/journal
 hash: 60daf53962cbd519f5d8b494e8fac674

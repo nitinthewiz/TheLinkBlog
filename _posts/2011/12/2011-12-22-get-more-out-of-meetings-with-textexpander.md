@@ -1,5 +1,6 @@
 ---
 title: "Get more out of meetings with TextExpander"
+slug: get-more-out-of-meetings-with-textexpander
 date: 2011-12-22 23:22:47 -0600
 external-url: http://simplicitybliss.com/post/15179345258/get-more-out-of-meetings-with-textexpander
 hash: 774b664823a4d1e846c75f8c2a30c768

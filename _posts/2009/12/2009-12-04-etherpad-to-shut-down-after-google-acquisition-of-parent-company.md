@@ -1,5 +1,6 @@
 ---
 title: "EtherPad to Shut Down After Google Acquisition of Parent Company AppJet"
+slug: etherpad-to-shut-down-after-google-acquisition-of-parent-company
 date: 2009-12-04 23:50:40 -0600
 external-url: http://etherpad.com/ep/blog/posts/google-acquires-appjet
 hash: f8bed24bad6726c37b75c9cf346c519b

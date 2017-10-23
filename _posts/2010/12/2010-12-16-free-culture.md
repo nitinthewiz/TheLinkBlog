@@ -1,5 +1,6 @@
 ---
 title: "Free Culture"
+slug: free-culture
 date: 2010-12-16 09:43:49 -0600
 external-url: http://randomfoo.net/oscon/2002/lessig/
 hash: 8425dc0842229aeb5c4e6e795260c0eb

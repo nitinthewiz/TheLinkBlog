@@ -1,5 +1,6 @@
 ---
 title: "Elided Branches: The Manager as Debugger"
+slug: elided-branches-the-manager-as-debugger
 date: 2015-11-29 22:06:39 -0600
 external-url: http://whilefalse.blogspot.com/2015/11/the-manager-as-debugger.html?m=1
 hash: 90169a1db57e522095cf79cd7ac3c30f

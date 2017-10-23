@@ -1,5 +1,6 @@
 ---
 title: "timeline-setter"
+slug: timeline-setter
 date: 2011-04-07 04:28:06 -0500
 external-url: https://github.com/propublica/timeline-setter
 hash: 86c6740afd2b710a953c4e992c9aa6ac

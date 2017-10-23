@@ -1,5 +1,6 @@
 ---
 title: "Adobe - Feature Request/Bug Report Form"
+slug: adobe-feature-request-bug-report-form
 date: 2007-07-17 17:16:43 -0500
 external-url: https://www.adobe.com/cfusion/mmform/index.cfm?name=wishform
 hash: 172b01e6993bc556f4ddc9117cb8fdc4

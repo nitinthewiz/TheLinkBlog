@@ -1,5 +1,6 @@
 ---
 title: "LinkedIn, Now For Companies"
+slug: linkedin-now-for-companies
 date: 2008-03-21 00:20:22 -0500
 external-url: http://techcrunch.com/2008/03/20/linkedin-now-for-companies-2/
 hash: f94882c53885daba83df6ed2955090f5

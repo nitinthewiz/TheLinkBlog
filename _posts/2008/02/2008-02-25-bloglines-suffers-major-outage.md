@@ -1,5 +1,6 @@
 ---
 title: "Bloglines Suffers Major Outage"
+slug: bloglines-suffers-major-outage
 date: 2008-02-25 01:20:49 -0600
 external-url: http://techcrunch.com/2008/02/24/bloglines-suffers-major-outage-heading-for-the-deadpool/
 hash: 620eaad65f70e5d29ae3ad237ebec1cf

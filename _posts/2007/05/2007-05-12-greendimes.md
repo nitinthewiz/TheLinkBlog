@@ -1,5 +1,6 @@
 ---
 title: "GreenDimes"
+slug: greendimes
 date: 2007-05-12 23:08:13 -0500
 external-url: http://www.greendimes.com/
 hash: e6eb1d94b8b309ae2c848962717ffbcf

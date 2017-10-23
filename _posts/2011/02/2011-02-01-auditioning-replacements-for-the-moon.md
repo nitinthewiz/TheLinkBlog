@@ -1,5 +1,6 @@
 ---
 title: "Auditioning replacements for the Moon"
+slug: auditioning-replacements-for-the-moon
 date: 2011-02-01 09:14:36 -0600
 external-url: http://kottke.org/11/02/auditioning-replacements-for-the-moon
 hash: 09fa141790d2a43e23791cb29deb35ca

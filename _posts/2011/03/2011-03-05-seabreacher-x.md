@@ -1,5 +1,6 @@
 ---
 title: "Seabreacher X"
+slug: seabreacher-x
 date: 2011-03-05 09:57:41 -0600
 external-url: http://www.seabreacher.com/seabreacher-x
 hash: dedfa58b1fc49b809c59edf3ba976056

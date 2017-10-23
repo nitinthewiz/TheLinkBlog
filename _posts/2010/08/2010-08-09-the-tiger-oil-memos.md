@@ -1,5 +1,6 @@
 ---
 title: "The Tiger Oil Memos"
+slug: the-tiger-oil-memos
 date: 2010-08-09 17:52:47 -0500
 external-url: http://www.lettersofnote.com/2010/08/tiger-oil-memos.html
 hash: 3885f7415e720ff0732f25e1af2b3391

@@ -1,5 +1,6 @@
 ---
 title: "Robert's Rules of Order"
+slug: robert-s-rules-of-order
 date: 2011-01-28 14:39:53 -0600
 external-url: http://www.robertsrules.com/book.html
 hash: 71db815685a788b1b0e43da9b0008bc2

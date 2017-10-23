@@ -1,5 +1,6 @@
 ---
 title: "Super-nginx: nginix on steroids serves up async Lua apps"
+slug: super-nginx-nginix-on-steroids-serves-up-async-lua-apps
 date: 2011-02-12 18:25:12 -0600
 external-url: http://thechangelog.com/super-nginx-killer-build-of-nginx-build-for-luajit-plus/
 hash: 15396b41116bc57e34dd01f2c08d1568

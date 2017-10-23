@@ -1,5 +1,6 @@
 ---
 title: "What to do when you’ve stopped doing your weekly review (how to ensure it becomes habitual) - Part 2"
+slug: what-to-do-when-youve-stopped-doing-your-weekly-review-how-to-ensure-2
 date: 2015-11-05 22:28:38 -0600
 external-url: http://www.next-action.eu/2015/11/04/what-to-do-when-youve-stopped-doing-your-weekly-review-part-2/
 hash: 52127c37975ab1df959b3816a8e897c2

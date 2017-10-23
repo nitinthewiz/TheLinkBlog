@@ -1,5 +1,6 @@
 ---
 title: "LoginGenerator in Ruby on Rails"
+slug: logingenerator-in-ruby-on-rails
 date: 2007-06-06 11:11:37 -0500
 external-url: http://wiki.rubyonrails.org/rails/pages/LoginGenerator
 hash: 3e7577ce268494e95a2cc1dff72c9766

@@ -1,5 +1,6 @@
 ---
 title: "Let's Encrypt Launch Schedule"
+slug: let-s-encrypt-launch-schedule
 date: 2015-06-16 11:22:51 -0500
 external-url: https://letsencrypt.org//2015/06/16/lets-encrypt-launch-schedule.html
 hash: db809e10d4ffa3e609e6cd8636f889a1

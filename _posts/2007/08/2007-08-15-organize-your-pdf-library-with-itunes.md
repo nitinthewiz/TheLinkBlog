@@ -1,5 +1,6 @@
 ---
 title: "Organize your PDF library with iTunes"
+slug: organize-your-pdf-library-with-itunes
 date: 2007-08-15 10:51:03 -0500
 external-url: http://lifehacker.com/240447/geek-to-live--organize-your-pdf-library-with-itunes
 hash: d1c2faeee584c9f0af16d989367974e8

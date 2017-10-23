@@ -1,5 +1,6 @@
 ---
 title: "Chicken Wings Recipe | Beef Tenderloin | Big Green Egg Accessory | Barbecue at Houseoffaulkner.com"
+slug: chicken-wings-recipe-beef-tenderloin-big-green-egg-accessory-barbecue
 date: 2008-12-31 15:41:22 -0600
 external-url: http://houseoffaulkner.com/beeftenderloin2.html
 hash: 534fca3500c660c627c15c7e9b9975fa

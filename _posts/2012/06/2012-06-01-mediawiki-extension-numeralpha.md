@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki Extension NumerAlpha"
+slug: mediawiki-extension-numeralpha
 date: 2012-06-01 18:54:53 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:NumerAlpha
 hash: a313ff173150831e8fa932edcbb40115

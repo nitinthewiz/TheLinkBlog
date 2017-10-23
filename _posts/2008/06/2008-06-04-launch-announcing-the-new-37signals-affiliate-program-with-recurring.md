@@ -1,5 +1,6 @@
 ---
 title: "Launch: Announcing the new 37signals Affiliate Program (with recurring income)"
+slug: launch-announcing-the-new-37signals-affiliate-program-with-recurring
 date: 2008-06-04 12:53:27 -0500
 external-url: http://37signals.blogs.com/products/2008/06/launch-announci.html
 hash: 3012035591645dff6a01372933d19bfc

@@ -1,5 +1,6 @@
 ---
 title: "25+ Tools for a Road Trip 2.0"
+slug: 25-tools-for-a-road-trip-2-0
 date: 2008-08-04 11:20:17 -0500
 external-url: http://mashable.com/2008/08/04/road-trip-tools/
 hash: c1715eb25539a57dcf1c5e11ee347549

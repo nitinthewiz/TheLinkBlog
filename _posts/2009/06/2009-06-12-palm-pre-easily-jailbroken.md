@@ -1,5 +1,6 @@
 ---
 title: "Palm Pre Easily Jailbroken"
+slug: palm-pre-easily-jailbroken
 date: 2009-06-12 23:30:38 -0500
 external-url: http://blog.steventroughtonsmith.com/2009/06/wwdcpalm-pre-rollercoaster-week.html
 hash: a70cd2589011b3adc10660c49a21a108

@@ -1,5 +1,6 @@
 ---
 title: "RedEye by saharshoza"
+slug: redeye-by-saharshoza
 date: 2016-07-21 12:52:51 -0500
 external-url: http://saharshoza.github.io/RedEye/
 hash: 59f665652d77be70a8d6f5969818a8fc

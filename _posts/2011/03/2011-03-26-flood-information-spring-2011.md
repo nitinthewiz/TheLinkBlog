@@ -1,5 +1,6 @@
 ---
 title: "Flood Information, Spring 2011"
+slug: flood-information-spring-2011
 date: 2011-03-26 16:02:21 -0500
 external-url: http://www.ci.minneapolis.mn.us/stormwater/flood-information/
 hash: 40f03d210036908fc280d657c09abd63

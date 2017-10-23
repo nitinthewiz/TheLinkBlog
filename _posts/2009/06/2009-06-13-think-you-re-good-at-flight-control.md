@@ -1,5 +1,6 @@
 ---
 title: "Think you're good at Flight Control?"
+slug: think-you-re-good-at-flight-control
 date: 2009-06-13 00:38:10 -0500
 external-url: http://www.tuaw.com/2009/06/12/think-youre-good-at-flight-control/
 hash: 8061bf7a3cec600a54d3e52c2e4285ec

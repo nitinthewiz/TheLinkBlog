@@ -1,5 +1,6 @@
 ---
 title: "Bluetooth Ambient Orb"
+slug: bluetooth-ambient-orb
 date: 2008-03-21 12:19:56 -0500
 external-url: http://flat-earth.ece.cmu.edu/~agr/bt_orb/
 hash: 2412a17502f75a8dbb5e4c69fddd369c

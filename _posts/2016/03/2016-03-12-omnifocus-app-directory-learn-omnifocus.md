@@ -1,5 +1,6 @@
 ---
 title: "OmniFocus App Directory - Learn OmniFocus"
+slug: omnifocus-app-directory-learn-omnifocus
 date: 2016-03-12 20:47:46 -0600
 external-url: https://learnomnifocus.com/resources/apps/
 hash: 0d168c60e92d826872b8fab6b54fb635

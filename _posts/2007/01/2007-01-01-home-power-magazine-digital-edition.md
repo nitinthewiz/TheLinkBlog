@@ -1,5 +1,6 @@
 ---
 title: "Home Power Magazine Digital Edition"
+slug: home-power-magazine-digital-edition
 date: 2007-01-01 16:35:00 -0600
 external-url: http://www.homepower.com/digital
 hash: 866a10bac406d46f535bbc833f43a799

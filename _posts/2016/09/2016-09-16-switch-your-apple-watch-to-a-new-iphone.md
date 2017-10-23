@@ -1,5 +1,6 @@
 ---
 title: "Switch your Apple Watch to a new iPhone"
+slug: switch-your-apple-watch-to-a-new-iphone
 date: 2016-09-16 19:21:39 -0500
 external-url: https://support.apple.com/en-us/HT205189
 hash: f15ac42a8b99264b85637d48b94f133b

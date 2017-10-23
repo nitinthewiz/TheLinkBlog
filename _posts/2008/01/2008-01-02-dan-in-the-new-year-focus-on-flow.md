@@ -1,5 +1,6 @@
 ---
 title: "Dan In The New Year / Focus on Flow"
+slug: dan-in-the-new-year-focus-on-flow
 date: 2008-01-02 15:40:01 -0600
 external-url: http://www.unpossible.com/2008/01/02/dan-in-the-new-year-focus-on-flow/
 hash: 19cf1a432e72df7131b4ea0750c91b46

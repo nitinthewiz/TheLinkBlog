@@ -1,5 +1,6 @@
 ---
 title: "What it looks like to process 3.5 million books in Google’s cloud"
+slug: what-it-looks-like-to-process-3-5-million-books-in-googles-cloud
 date: 2016-02-17 05:01:00 -0600
 external-url: http://googlecloudplatform.blogspot.com/2016/02/what-it-looks-like-to-process-3.5-million-books-in-Googles-cloud.html
 hash: dff71dff4ed6d746ee109d07e39c4b92

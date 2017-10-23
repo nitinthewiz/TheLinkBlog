@@ -1,5 +1,6 @@
 ---
 title: "Gmail Labs: A Public Stage for Googlers 20% Time"
+slug: gmail-labs-a-public-stage-for-googlers-20-time
 date: 2008-06-05 18:03:55 -0500
 external-url: http://techcrunch.com/2008/06/05/gmail-labs-a-public-stage-for-googlers-20-time/
 hash: 603e0e082b73cbfa15eec9859fa6bcdc

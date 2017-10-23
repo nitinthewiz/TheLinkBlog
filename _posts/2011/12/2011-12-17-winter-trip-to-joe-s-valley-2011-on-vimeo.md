@@ -1,5 +1,6 @@
 ---
 title: "Winter trip to Joe's Valley 2011 on Vimeo"
+slug: winter-trip-to-joe-s-valley-2011-on-vimeo
 date: 2011-12-17 21:01:13 -0600
 external-url: http://vimeo.com/33829870
 hash: a7e614bbea1ff94672d7b0afa079b42c

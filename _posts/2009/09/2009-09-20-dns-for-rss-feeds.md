@@ -1,5 +1,6 @@
 ---
 title: "DNS for RSS feeds"
+slug: dns-for-rss-feeds
 date: 2009-09-20 23:57:52 -0500
 external-url: http://scripting.com/stories/2009/09/20/dnsForRssFeeds.html
 hash: ade3aa65fd47e94d646bfa2479f335ad

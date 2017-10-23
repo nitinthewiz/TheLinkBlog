@@ -1,5 +1,6 @@
 ---
 title: "Contextual search within Wikipedia"
+slug: contextual-search-within-wikipedia
 date: 2009-10-26 19:09:46 -0500
 external-url: http://googleblog.blogspot.com/2009/10/contextual-search-within-wikipedia.html
 hash: 63f1f0f90e8f679ef6a007243c652ce8

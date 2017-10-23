@@ -1,5 +1,6 @@
 ---
 title: "Microsoft REST API Guidelines"
+slug: microsoft-rest-api-guidelines
 date: 2016-07-25 22:28:47 -0500
 external-url: https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 hash: 770fcbef6250a29b9312ecef9deda1fd

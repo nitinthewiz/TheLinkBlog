@@ -1,5 +1,6 @@
 ---
 title: "Facebook Buys File Sharing Service Drop.io"
+slug: facebook-buys-file-sharing-service-drop-io
 date: 2010-11-01 18:34:39 -0500
 external-url: http://gigaom.com/2010/10/30/419-facebook-buys-file-sharing-service-drop-io/
 hash: 8bd75b7238ce0acb26eeb1792049ccdc

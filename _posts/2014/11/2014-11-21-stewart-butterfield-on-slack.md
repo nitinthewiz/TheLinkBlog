@@ -1,5 +1,6 @@
 ---
 title: "Stewart Butterfield on Slack"
+slug: stewart-butterfield-on-slack
 date: 2014-11-21 18:55:38 -0600
 external-url: http://www.technologyreview.com/news/532606/three-questions-with-slacks-ceo/
 hash: 0a4c1daf6369f7cee32d546e3ae36e3e

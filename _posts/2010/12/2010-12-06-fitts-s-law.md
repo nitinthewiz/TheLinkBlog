@@ -1,5 +1,6 @@
 ---
 title: "Fitts's law"
+slug: fitts-s-law
 date: 2010-12-06 22:34:45 -0600
 external-url: http://en.wikipedia.org/wiki/Fitts%27s_law
 hash: 32171e8591875c175c08953f69190b05

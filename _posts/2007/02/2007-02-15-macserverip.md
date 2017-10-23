@@ -1,5 +1,6 @@
 ---
 title: "MacServerIP"
+slug: macserverip
 date: 2007-02-15 22:30:19 -0600
 external-url: http://www.cyansoftware.com/MacServerIP.htm
 hash: ab8de8fc188131505a199d69be7a55c8

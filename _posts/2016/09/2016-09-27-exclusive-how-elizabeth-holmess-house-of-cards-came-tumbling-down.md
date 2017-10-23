@@ -1,5 +1,6 @@
 ---
 title: "Exclusive: How Elizabeth Holmes’s House of Cards Came Tumbling Down"
+slug: exclusive-how-elizabeth-holmess-house-of-cards-came-tumbling-down
 date: 2016-09-27 21:53:35 -0500
 external-url: http://www.vanityfair.com/news/2016/09/elizabeth-holmes-theranos-exclusive
 hash: c7778f2af7ad309d9409aa81bcc59936

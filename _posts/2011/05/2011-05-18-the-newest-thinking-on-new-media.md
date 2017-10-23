@@ -1,5 +1,6 @@
 ---
 title: "The Newest Thinking On New Media"
+slug: the-newest-thinking-on-new-media
 date: 2011-05-18 20:05:20 -0500
 external-url: http://www.twistimage.com/blog/archives/the-newest-thinking-on-new-media/
 hash: 3828258c5462c05b79c8a9a3515a4dbc

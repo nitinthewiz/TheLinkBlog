@@ -1,5 +1,6 @@
 ---
 title: "How Facebook Ships Code"
+slug: how-facebook-ships-code
 date: 2011-01-17 14:59:38 -0600
 external-url: http://framethink.wordpress.com/2011/01/17/how-facebook-ships-code/
 hash: 02fe11a148d83840f3ec7802601340a1

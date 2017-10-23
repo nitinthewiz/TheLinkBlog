@@ -1,5 +1,6 @@
 ---
 title: "Frame introspection in Pyston"
+slug: frame-introspection-in-pyston
 date: 2014-11-05 21:21:21 -0600
 external-url: http://blog.pyston.org/2014/11/06/frame-introspection-in-pyston/
 hash: c413b2628fbba2dbcd0b1b09bbeaab43

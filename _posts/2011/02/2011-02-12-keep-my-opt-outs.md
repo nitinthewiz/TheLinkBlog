@@ -1,5 +1,6 @@
 ---
 title: "Keep My Opt-Outs"
+slug: keep-my-opt-outs
 date: 2011-02-12 10:33:08 -0600
 external-url: https://chrome.google.com/webstore/detail/keep-my-opt-outs/hhnjdplhmcnkiecampfdgfjilccfpfoe
 hash: 4900aac0ef5b2f85b586bc06e3e210a5

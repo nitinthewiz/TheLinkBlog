@@ -1,5 +1,6 @@
 ---
 title: "Move Fast and Fix Things"
+slug: move-fast-and-fix-things
 date: 2015-12-16 05:35:06 -0600
 external-url: http://githubengineering.com/move-fast/
 hash: cb4c99af9f456cf8b22087fdf903cbeb

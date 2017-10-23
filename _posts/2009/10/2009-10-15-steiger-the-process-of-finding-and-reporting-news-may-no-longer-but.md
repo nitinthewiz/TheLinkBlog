@@ -1,5 +1,6 @@
 ---
 title: "Steiger: The process of finding and reporting news may no longer require newspapers, but"
+slug: steiger-the-process-of-finding-and-reporting-news-may-no-longer-but
 date: 2009-10-15 00:57:08 -0500
 external-url: http://www.poynter.org/latest-news/mediawire/98850/steiger-the-process-of-finding-and-reporting-news-may-no-longer-require-newspapers-but/
 hash: edc03ae95f0ca9d289ad5dee288fe94f

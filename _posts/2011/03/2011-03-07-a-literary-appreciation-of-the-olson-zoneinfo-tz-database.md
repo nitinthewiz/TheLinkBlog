@@ -1,5 +1,6 @@
 ---
 title: "A literary appreciation of the Olson/Zoneinfo/tz database"
+slug: a-literary-appreciation-of-the-olson-zoneinfo-tz-database
 date: 2011-03-07 05:56:07 -0600
 external-url: http://blog.jonudell.net/2009/10/23/a-literary-appreciation-of-the-olsonzoneinfotz-database/
 hash: aed3e2dfa190af727603b4de1f233702

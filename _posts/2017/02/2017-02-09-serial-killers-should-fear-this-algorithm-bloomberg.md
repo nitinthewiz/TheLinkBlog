@@ -1,5 +1,6 @@
 ---
 title: "Serial Killers Should Fear This Algorithm - Bloomberg"
+slug: serial-killers-should-fear-this-algorithm-bloomberg
 date: 2017-02-09 16:41:02 -0600
 external-url: https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm
 hash: a80d5a7bc28a90020cf185ef1c52ce8a

@@ -1,5 +1,6 @@
 ---
 title: "Python's Hidden Regular Expression Gems"
+slug: python-s-hidden-regular-expression-gems
 date: 2015-11-20 20:37:30 -0600
 external-url: http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/
 hash: 4b3ecd4a5273334624f56d2ebc9ce2d4

@@ -1,5 +1,6 @@
 ---
 title: "Introducing LambCI — a serverless build system — Medium"
+slug: introducing-lambci-a-serverless-build-system-medium
 date: 2016-07-06 19:22:45 -0500
 external-url: https://medium.com/@hichaelmart/lambci-4c3e29d6599b#.e5gscvbi4
 hash: 766082680d61fc6f3a197387c0caf4ab

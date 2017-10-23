@@ -1,5 +1,6 @@
 ---
 title: "Become a ProBlogger Premium Sponsor"
+slug: become-a-problogger-premium-sponsor
 date: 2008-05-05 07:15:41 -0500
 external-url: http://www.problogger.net/archives/2008/05/05/become-a-problogger-premium-sponsor/
 hash: 4cafdd85804055278820ca1472c3fd4e

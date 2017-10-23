@@ -1,5 +1,6 @@
 ---
 title: "Planning a concrete driveway? News from the City of Minnetonka"
+slug: planning-a-concrete-driveway-news-from-the-city-of-minnetonka
 date: 2008-03-24 11:34:31 -0500
 external-url: http://eminnetonka.com/news.cfm?story_id=ConcreteDriveways
 hash: ec706ea75409b885f7102107c3f653e0

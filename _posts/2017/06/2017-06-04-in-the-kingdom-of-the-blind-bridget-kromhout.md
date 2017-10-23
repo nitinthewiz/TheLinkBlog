@@ -1,5 +1,6 @@
 ---
 title: "In the Kingdom of the Blind —Bridget Kromhout"
+slug: in-the-kingdom-of-the-blind-bridget-kromhout
 date: 2017-06-04 18:20:26 -0500
 external-url: http://bridgetkromhout.com/blog/2017/06/04/in-the-kingdom-of-the-blind/
 hash: 844304402f3abdcca1a881db8a923909

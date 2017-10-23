@@ -1,5 +1,6 @@
 ---
 title: "Acclimated to Severe Turbulence"
+slug: acclimated-to-severe-turbulence
 date: 2009-03-06 20:10:30 -0600
 external-url: http://blogs.law.harvard.edu/philg/2009/03/05/stock-market-down-425-percent-not-a-front-page-story/
 hash: 34fe0f3f98ab7da98b93b1ec5a3dbea1

@@ -1,5 +1,6 @@
 ---
 title: "Swagger: A simple, open standard for describing REST APIs with JSON"
+slug: swagger-a-simple-open-standard-for-describing-rest-apis-with-json
 date: 2012-03-28 06:13:00 -0500
 external-url: https://developers.helloreverb.com/swagger/
 hash: bb0a22459297de5b2146ae5d60066413

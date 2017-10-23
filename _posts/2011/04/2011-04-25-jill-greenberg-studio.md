@@ -1,5 +1,6 @@
 ---
 title: "Jill Greenberg Studio"
+slug: jill-greenberg-studio
 date: 2011-04-25 19:42:17 -0500
 external-url: http://www.jillgreenberg.com
 hash: cc8c93d2510133f314aa1f217a85c7f3

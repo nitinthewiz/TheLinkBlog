@@ -1,5 +1,6 @@
 ---
 title: "On The Loneliness of Extraversion"
+slug: on-the-loneliness-of-extraversion
 date: 2012-07-19 16:01:00 -0500
 external-url: http://provocativepenguin.com/2012/04/on-the-loneliness-of-extraversion-lyph-pt-4/
 hash: 4ebd128e7368da3a7f203f2f1a5fefd8

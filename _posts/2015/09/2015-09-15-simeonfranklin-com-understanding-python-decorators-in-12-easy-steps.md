@@ -1,5 +1,6 @@
 ---
 title: "simeonfranklin.com - Understanding Python Decorators in 12 Easy Steps!"
+slug: simeonfranklin-com-understanding-python-decorators-in-12-easy-steps
 date: 2015-09-15 13:02:08 -0500
 external-url: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 hash: a7efc8ecd8ee8f04c3db6b71d90feae0

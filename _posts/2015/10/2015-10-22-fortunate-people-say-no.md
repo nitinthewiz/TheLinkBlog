@@ -1,5 +1,6 @@
 ---
 title: "Fortunate People Say No"
+slug: fortunate-people-say-no
 date: 2015-10-22 04:18:13 -0500
 external-url: http://bogost.com/blog/fortunate_people_say_no/
 hash: 14687b300bf3cb3c8fc48f829247e590

@@ -1,5 +1,6 @@
 ---
 title: "Vizio IPO plan shows how its TVs track what you're watching"
+slug: vizio-ipo-plan-shows-how-its-tvs-track-what-you-re-watching
 date: 2015-07-27 23:14:18 -0500
 external-url: http://www.engadget.com/2015/07/24/vizio-ipo-inscape-acr/
 hash: 6dcd6e7b60da32cea1c0b4dfa0cee435

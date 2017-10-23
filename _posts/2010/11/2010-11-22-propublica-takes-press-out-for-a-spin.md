@@ -1,5 +1,6 @@
 ---
 title: "ProPublica Takes Press+ Out For A Spin"
+slug: propublica-takes-press-out-for-a-spin
 date: 2010-11-22 14:03:37 -0600
 external-url: http://gigaom.com/2010/11/23/419-propublica-takes-press-out-for-a-spin/
 hash: 7f37578e8730f486c2688a0c4a8316cd

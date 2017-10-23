@@ -1,5 +1,6 @@
 ---
 title: "The High-Res Album Art Project"
+slug: the-high-res-album-art-project
 date: 2007-09-09 10:49:41 -0500
 external-url: http://www.jasondunn.com/albumart/index.html
 hash: 52ed265cc19593f484879d3ce55fe44f

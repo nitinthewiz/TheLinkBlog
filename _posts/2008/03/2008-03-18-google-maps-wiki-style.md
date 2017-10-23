@@ -1,5 +1,6 @@
 ---
 title: "Google Maps, Wiki-Style"
+slug: google-maps-wiki-style
 date: 2008-03-18 16:56:44 -0500
 external-url: http://techcrunch.com/2008/03/18/google-maps-wiki-style/
 hash: aefb9f485f087684560a4c3a47760657

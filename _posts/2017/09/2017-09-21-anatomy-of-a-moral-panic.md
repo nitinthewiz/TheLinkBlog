@@ -1,5 +1,6 @@
 ---
 title: "Anatomy of a Moral Panic"
+slug: anatomy-of-a-moral-panic
 date: 2017-09-21 20:57:50 -0500
 external-url: http://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm
 hash: 29e278d672e8c4867a74dfe09e2e68cb

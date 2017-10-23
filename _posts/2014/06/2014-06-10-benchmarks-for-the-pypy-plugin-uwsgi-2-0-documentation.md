@@ -1,5 +1,6 @@
 ---
 title: "Benchmarks for the PyPy plugin — uWSGI 2.0 documentation"
+slug: benchmarks-for-the-pypy-plugin-uwsgi-2-0-documentation
 date: 2014-06-10 22:21:00 -0500
 external-url: http://uwsgi-docs.readthedocs.org/en/latest/PyPy_benchmarks.html
 hash: 918b647ddaf4b2471965d61d4669bed1

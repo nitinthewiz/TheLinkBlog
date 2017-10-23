@@ -1,5 +1,6 @@
 ---
 title: "More Usable URLs: Twitter.com"
+slug: more-usable-urls-twitter-com
 date: 2009-04-28 09:28:27 -0500
 external-url: http://garrickvanburen.com/archive/more-usable-urls-twittercom
 hash: 7c9521f6e5064d3fbbae2385d232ab2f

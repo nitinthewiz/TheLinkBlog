@@ -1,5 +1,6 @@
 ---
 title: "Show and Tell: MongoDB at foursquare | Foursquare Engineering Blog"
+slug: show-and-tell-mongodb-at-foursquare-foursquare-engineering-blog
 date: 2011-12-23 09:03:23 -0600
 external-url: http://engineering.foursquare.com/2011/12/21/show-and-tell-mongodb-at-foursquare/
 hash: 32b619415219153048d4dacb94290913

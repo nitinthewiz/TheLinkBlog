@@ -1,5 +1,6 @@
 ---
 title: "Why is Instagram worth $1 billion to Facebook and Zuckerberg?"
+slug: why-is-instagram-worth-1-billion-to-facebook-and-zuckerberg
 date: 2012-04-10 15:28:20 -0500
 external-url: http://www.suntimes.com/technology/ihnatko/11819998-452/why-is-instagram-worth-1-billion-to-facebook-and-zuckerberg.html
 hash: b0198d12911f90255f991309b9ed106b

@@ -1,5 +1,6 @@
 ---
 title: "IDoneThis - Simple Team Performance Management"
+slug: idonethis-simple-team-performance-management
 date: 2012-06-16 20:39:16 -0500
 external-url: https://idonethis.com//
 hash: 2728ee5acda3192a875f40e127c51323

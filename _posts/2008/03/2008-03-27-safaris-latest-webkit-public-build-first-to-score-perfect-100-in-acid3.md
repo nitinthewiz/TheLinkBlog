@@ -1,5 +1,6 @@
 ---
 title: "Safaris latest WebKit public build first to score perfect 100 in Acid3 test"
+slug: safaris-latest-webkit-public-build-first-to-score-perfect-100-in-acid3
 date: 2008-03-27 10:00:00 -0500
 external-url: http://macdailynews.com/2008/03/27/safaris_latest_webkit_public_build_first_to_score_perfect_100_acid3/
 hash: 858c1a4cd75810cb29feb463395fcc4a

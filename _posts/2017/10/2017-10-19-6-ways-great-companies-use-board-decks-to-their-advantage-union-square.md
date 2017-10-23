@@ -1,5 +1,6 @@
 ---
 title: "6 Ways Great Companies Use Board Decks to Their Advantage | Union Square Ventures"
+slug: 6-ways-great-companies-use-board-decks-to-their-advantage-union-square
 date: 2017-10-19 07:12:22 -0500
 external-url: https://www.usv.com/blog/6-ways-great-companies-use-board-decks-to-their-advantage
 hash: 0c3a38ebaef9cc77dc4bf6bf888c4205

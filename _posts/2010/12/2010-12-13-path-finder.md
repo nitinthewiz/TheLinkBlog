@@ -1,5 +1,6 @@
 ---
 title: "Path Finder"
+slug: path-finder
 date: 2010-12-13 20:31:51 -0600
 external-url: http://www.cocoatech.com/pathfinder/
 hash: a4e7bccceb55e7ff76c936c872344473

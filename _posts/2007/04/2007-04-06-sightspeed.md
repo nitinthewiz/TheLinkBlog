@@ -1,5 +1,6 @@
 ---
 title: "SightSpeed"
+slug: sightspeed
 date: 2007-04-06 13:04:37 -0500
 external-url: http://www.sightspeed.com/
 hash: 316ecf8b50ecbc73824f41004f8f6975

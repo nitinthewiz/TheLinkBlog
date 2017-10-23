@@ -1,5 +1,6 @@
 ---
 title: "Interesting possibilities for MacBook dock"
+slug: interesting-possibilities-for-macbook-dock
 date: 2008-10-12 11:58:18 -0500
 external-url: http://9to5mac.com/2008/10/12/interesting-possibilities-for-macbook-dock/
 hash: af8ce2928b180cb231b61922d44d9705

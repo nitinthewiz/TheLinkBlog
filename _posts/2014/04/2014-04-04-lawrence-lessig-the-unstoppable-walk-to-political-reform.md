@@ -1,5 +1,6 @@
 ---
 title: "Lawrence Lessig: The unstoppable walk to political reform"
+slug: lawrence-lessig-the-unstoppable-walk-to-political-reform
 date: 2014-04-04 18:33:26 -0500
 external-url: http://www.youtube.com/watch?v=mWfCqsFP05A
 hash: a35d877b7739f260ff33d070ea6e47a5

@@ -1,5 +1,6 @@
 ---
 title: "Wikidata begins"
+slug: wikidata-begins
 date: 2012-04-01 23:11:59 -0500
 external-url: http://wikiworks.com/blog/2012/04/02/wikidata-begins/
 hash: a3ed84409c5fcfa2064f83a136ccddfa

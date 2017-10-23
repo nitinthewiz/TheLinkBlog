@@ -1,5 +1,6 @@
 ---
 title: "Chipmunk Basic"
+slug: chipmunk-basic
 date: 2010-12-05 06:21:18 -0600
 external-url: http://www.nicholson.com/rhn/basic/
 hash: 37636af7ed321a945e2d1922e1da0b25

@@ -1,5 +1,6 @@
 ---
 title: "Mac OS X Lion hands-on preview"
+slug: mac-os-x-lion-hands-on-preview
 date: 2011-03-02 23:11:05 -0600
 external-url: http://www.engadget.com/2011/02/28/mac-os-x-lion-hands-on-preview/
 hash: 63ee9e4be71094f75def4e1b8067d06e

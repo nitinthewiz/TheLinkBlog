@@ -1,5 +1,6 @@
 ---
 title: "Portfolio for JIRA – project managers edition"
+slug: portfolio-for-jira-project-managers-edition
 date: 2015-11-30 15:20:01 -0600
 external-url: http://blogs.atlassian.com/2015/11/portfolio-for-jira-project-managers-edition/
 hash: ec8f65eccac88d28187d40e51b088913

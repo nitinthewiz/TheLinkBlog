@@ -13,6 +13,7 @@ def make_post(p, timestamp):
 
     post_template = u"""---
 title: "{}"
+slug: {}
 date: {}
 external-url: {}
 hash: {}
@@ -38,6 +39,7 @@ path: {}
 
     return post_template.format(
         p.description.replace('"', '\\"'),
+        slugify(p.description, max_length=70, word_boundary=True),
         timestamp.strftime('%Y-%m-%d %H:%M:%S %z'),
         p.url,
         p.hash,

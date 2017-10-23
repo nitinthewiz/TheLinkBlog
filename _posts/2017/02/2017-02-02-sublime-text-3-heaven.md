@@ -1,5 +1,6 @@
 ---
 title: "Sublime Text 3 Heaven"
+slug: sublime-text-3-heaven
 date: 2017-02-02 14:37:56 -0600
 external-url: https://www.kennethreitz.org/essays/sublime-text-3-heaven
 hash: 77e54202e2e4d857e64210aa53d7ae07

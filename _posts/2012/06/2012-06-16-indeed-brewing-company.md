@@ -1,5 +1,6 @@
 ---
 title: "Indeed Brewing Company"
+slug: indeed-brewing-company
 date: 2012-06-16 21:17:49 -0500
 external-url: http://www.indeedbrewing.com/community/blog/
 hash: 4a0b66916622529eff3accc8bd53022e

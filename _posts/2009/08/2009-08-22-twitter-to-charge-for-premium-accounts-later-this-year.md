@@ -1,5 +1,6 @@
 ---
 title: "Twitter To Charge For Premium Accounts Later This Year"
+slug: twitter-to-charge-for-premium-accounts-later-this-year
 date: 2009-08-22 23:22:36 -0500
 external-url: http://gigaom.com/2009/08/21/419-twitter-to-get-premium-accounts-later-this-year/
 hash: 0f06cb13e8677b42c8f32bef74ac386c

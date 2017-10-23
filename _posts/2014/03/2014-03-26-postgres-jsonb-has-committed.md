@@ -1,5 +1,6 @@
 ---
 title: "Postgres Jsonb has committed!"
+slug: postgres-jsonb-has-committed
 date: 2014-03-26 10:30:12 -0500
 external-url: http://obartunov.livejournal.com/177247.html
 hash: b4426a2d3615aa4538101e7afff37f9b

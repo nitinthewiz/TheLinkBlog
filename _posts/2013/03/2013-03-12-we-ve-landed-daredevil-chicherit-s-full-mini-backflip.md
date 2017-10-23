@@ -1,5 +1,6 @@
 ---
 title: "We've Landed: Daredevil Chicherit's Full MINI Backflip"
+slug: we-ve-landed-daredevil-chicherit-s-full-mini-backflip
 date: 2013-03-12 13:06:39 -0500
 external-url: http://www.youtube.com/watch?v=Ry-ofJHatGs
 hash: df37b86fec6a83ad7054eefcc936043f

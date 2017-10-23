@@ -1,5 +1,6 @@
 ---
 title: "FriendFeed API Documentation"
+slug: friendfeed-api-documentation
 date: 2008-03-25 21:55:39 -0500
 external-url: http://code.google.com/p/friendfeed-api/wiki/ApiDocumentation
 hash: 83064817d69d2af4b885000d80f20cd0

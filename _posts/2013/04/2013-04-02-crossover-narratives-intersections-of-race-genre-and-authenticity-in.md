@@ -1,5 +1,6 @@
 ---
 title: "Crossover narratives: intersections of race, genre and authenticity in unpopular popular music"
+slug: crossover-narratives-intersections-of-race-genre-and-authenticity-in
 date: 2013-04-02 22:08:10 -0500
 external-url: http://ir.uiowa.edu/etd/2904/
 hash: 97c8c717092b7fe9d21d02b262650278

@@ -1,5 +1,6 @@
 ---
 title: "The Limping Middle Class"
+slug: the-limping-middle-class
 date: 2011-09-06 13:26:52 -0500
 external-url: http://www.nytimes.com/2011/09/04/opinion/sunday/jobs-will-follow-a-strengthening-of-the-middle-class.html?pagewanted=all
 hash: 1d2a7a3518499226af432a8a2868da5e

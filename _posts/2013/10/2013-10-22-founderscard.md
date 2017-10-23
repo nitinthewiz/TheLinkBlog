@@ -1,5 +1,6 @@
 ---
 title: "FoundersCard"
+slug: founderscard
 date: 2013-10-22 16:04:55 -0500
 external-url: https://founderscard.com/
 hash: a0b68bca13beda7a4bf5a06bf7ee04a1

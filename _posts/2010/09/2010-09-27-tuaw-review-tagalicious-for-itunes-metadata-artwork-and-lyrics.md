@@ -1,5 +1,6 @@
 ---
 title: "TUAW Review: Tagalicious for iTunes metadata, artwork, and lyrics"
+slug: tuaw-review-tagalicious-for-itunes-metadata-artwork-and-lyrics
 date: 2010-09-27 22:00:00 -0500
 external-url: http://www.tuaw.com/2010/09/27/tuaw-review-tagalicious-for-itunes-metadata-artwork-and-lyric/
 hash: ac5bebec6f84e3098d651d053c580253

@@ -1,5 +1,6 @@
 ---
 title: "How Facebook Manages 500+ Engineers"
+slug: how-facebook-manages-500-engineers
 date: 2011-05-31 15:47:03 -0500
 external-url: http://allfacebook.com/how-facebook-manages-500-engineers_b45044
 hash: 08c890238e491176c7e6ca3db4695fe3

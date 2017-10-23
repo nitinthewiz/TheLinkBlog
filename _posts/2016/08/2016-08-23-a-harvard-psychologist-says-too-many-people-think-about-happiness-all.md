@@ -1,5 +1,6 @@
 ---
 title: "A Harvard psychologist says too many people think about happiness all wrong"
+slug: a-harvard-psychologist-says-too-many-people-think-about-happiness-all
 date: 2016-08-23 21:36:56 -0500
 external-url: http://www.businessinsider.com/harvard-psychologist-key-to-being-happier-2016-8
 hash: fe27e238ea221361275c4ff96a4a9c7e

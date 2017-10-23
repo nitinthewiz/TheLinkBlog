@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Graph API Explorer"
+slug: introducing-the-graph-api-explorer
 date: 2011-07-01 19:19:30 -0500
 external-url: https://developers.facebook.com/blog/post/517/
 hash: a0156635ebfe56e3291a23a033d9edbb

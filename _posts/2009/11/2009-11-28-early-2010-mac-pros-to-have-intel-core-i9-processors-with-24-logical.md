@@ -1,5 +1,6 @@
 ---
 title: "Early 2010 Mac Pros to have Intel Core i9 processors with 24 logical cores?"
+slug: early-2010-mac-pros-to-have-intel-core-i9-processors-with-24-logical
 date: 2009-11-28 23:17:14 -0600
 external-url: http://9to5mac.com/2009/11/28/early-2010-mac-pros-to-have-intel-core-i9-processors-with-24-logical-cores/
 hash: 72042d7f1f6713e4558f919802f706ad

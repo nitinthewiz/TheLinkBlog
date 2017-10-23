@@ -1,5 +1,6 @@
 ---
 title: "Abusing HTTP Status Codes to Expose Private Information"
+slug: abusing-http-status-codes-to-expose-private-information
 date: 2011-02-03 13:36:51 -0600
 external-url: https://grepular.com/Abusing_HTTP_Status_Codes_to_Expose_Private_Information
 hash: 30b9c05a337b70428b510697fa31eb4b

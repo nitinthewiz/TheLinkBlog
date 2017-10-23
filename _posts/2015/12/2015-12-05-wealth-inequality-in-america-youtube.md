@@ -1,5 +1,6 @@
 ---
 title: "Wealth Inequality in America - YouTube"
+slug: wealth-inequality-in-america-youtube
 date: 2015-12-05 06:46:05 -0600
 external-url: https://www.youtube.com/watch?v=QPKKQnijnsM&feature=youtu.be
 hash: 8a3b0773a2b100c1b0eae997ded320e3

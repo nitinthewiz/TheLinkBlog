@@ -1,5 +1,6 @@
 ---
 title: "IPhone SDK - What you need to know"
+slug: iphone-sdk-what-you-need-to-know
 date: 2008-03-06 14:30:00 -0600
 external-url: http://www.tuaw.com/2008/03/06/iphone-sdk-what-you-need-to-know/
 hash: 199ca5b3c44838e11fa472fab2ab0ff7

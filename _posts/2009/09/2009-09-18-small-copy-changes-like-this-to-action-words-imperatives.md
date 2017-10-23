@@ -1,5 +1,6 @@
 ---
 title: "Small copy changes like this, to action words (imperatives)..."
+slug: small-copy-changes-like-this-to-action-words-imperatives
 date: 2009-09-18 00:09:23 -0500
 external-url: http://mac.finerthingsin.com/post/186286818
 hash: 94d3f708f33d82b3e7bd745d2da09ff9

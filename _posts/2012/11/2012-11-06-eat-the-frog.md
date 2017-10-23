@@ -1,5 +1,6 @@
 ---
 title: "Eat the frog!"
+slug: eat-the-frog
 date: 2012-11-06 10:35:03 -0600
 external-url: http://home.earthlink.net/~denmartin/etf.html
 hash: bbc55d509f268ac1a8b303bbd5b3c6f7

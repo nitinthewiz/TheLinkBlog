@@ -1,5 +1,6 @@
 ---
 title: "Remove Your Mac's Hard Drive from the Desktop [Mac Tip]"
+slug: remove-your-mac-s-hard-drive-from-the-desktop-mac-tip
 date: 2008-08-07 14:00:00 -0500
 external-url: http://lifehacker.com/399983/remove-your-macs-hard-drive-from-the-desktop
 hash: cfc2f67f052306acdfa3853bbcde3887

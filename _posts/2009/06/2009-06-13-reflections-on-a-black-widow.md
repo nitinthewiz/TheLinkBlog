@@ -1,5 +1,6 @@
 ---
 title: "Reflections on a Black Widow"
+slug: reflections-on-a-black-widow
 date: 2009-06-13 18:58:20 -0500
 external-url: http://www.friday.com/bbum/2009/06/13/reflections-on-a-black-widow/
 hash: d51f8f84b63fc8df4322b52c04afaf2b

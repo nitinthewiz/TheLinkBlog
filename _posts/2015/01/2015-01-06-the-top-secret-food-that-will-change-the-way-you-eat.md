@@ -1,5 +1,6 @@
 ---
 title: "The Top-Secret Food That Will Change the Way You Eat"
+slug: the-top-secret-food-that-will-change-the-way-you-eat
 date: 2015-01-06 17:06:08 -0600
 external-url: http://www.outsideonline.com/outdoor-adventure/culinary/Replacing-Meat-Plant-Based-Meats-Vegetarian.html
 hash: fdb61220df52bf4004a78306645fd522

@@ -1,5 +1,6 @@
 ---
 title: "Cranked RSS Reader - Never miss the best stories"
+slug: cranked-rss-reader-never-miss-the-best-stories
 date: 2013-12-24 20:34:24 -0600
 external-url: http://cranked.io/
 hash: 4ac6cfacb8b682d3ae92d5fc8cac3612

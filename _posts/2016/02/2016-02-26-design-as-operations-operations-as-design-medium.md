@@ -1,5 +1,6 @@
 ---
 title: "Design As Operations, Operations As Design — Medium"
+slug: design-as-operations-operations-as-design-medium
 date: 2016-02-26 14:31:51 -0600
 external-url: https://medium.com/@jeffsussna/design-as-operations-operations-as-design-cef585c65312#.drb0jh5y3
 hash: 3277a76c40ace41b47797fb3de5d1f85

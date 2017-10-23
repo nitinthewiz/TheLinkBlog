@@ -1,5 +1,6 @@
 ---
 title: "Message Regarding the ProtonMail DDoS Attacks - ProtonMail Blog"
+slug: message-regarding-the-protonmail-ddos-attacks-protonmail-blog
 date: 2015-11-10 10:16:33 -0600
 external-url: https://protonmail.com/blog/protonmail-ddos-attacks/
 hash: 5f10a61c47b89fb9c0e0a9180f4e6203

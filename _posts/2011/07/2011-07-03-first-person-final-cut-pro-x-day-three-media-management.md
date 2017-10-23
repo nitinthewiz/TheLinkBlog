@@ -1,5 +1,6 @@
 ---
 title: "First-Person Final Cut Pro X, Day Three: Media Management"
+slug: first-person-final-cut-pro-x-day-three-media-management
 date: 2011-07-03 09:16:15 -0500
 external-url: http://www.tuaw.com/2011/07/03/first-person-final-cut-pro-x-day-three-media-management/
 hash: 696df4640bac7cd63ebe1a51a1002251

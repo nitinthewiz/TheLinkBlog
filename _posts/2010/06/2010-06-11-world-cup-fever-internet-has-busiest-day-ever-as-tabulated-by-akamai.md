@@ -1,5 +1,6 @@
 ---
 title: "World Cup Fever: Internet Has Busiest Day Ever as Tabulated by Akamai (Andy Plesser/Beet.TV)"
+slug: world-cup-fever-internet-has-busiest-day-ever-as-tabulated-by-akamai
 date: 2010-06-11 17:55:57 -0500
 external-url: http://www.techmeme.com/100611/p20#a100611p20
 hash: 2c60f81d07d5190fa9aca0a965e3dce8

@@ -1,5 +1,6 @@
 ---
 title: "The Pink Menace"
+slug: the-pink-menace
 date: 2012-04-04 02:12:29 -0500
 external-url: http://opinionator.blogs.nytimes.com/2012/04/03/the-pink-menace/
 hash: 6b02e1805627dde779aa4389afcd4408

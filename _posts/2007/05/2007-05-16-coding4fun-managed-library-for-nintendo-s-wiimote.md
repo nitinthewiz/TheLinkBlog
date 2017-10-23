@@ -1,5 +1,6 @@
 ---
 title: "Coding4Fun : Managed Library for Nintendo's Wiimote"
+slug: coding4fun-managed-library-for-nintendo-s-wiimote
 date: 2007-05-16 15:15:57 -0500
 external-url: http://channel9.msdn.com/coding4fun/archive/2007/03/14/1879033.aspx
 hash: 705230042c7143faeb5607512769350b

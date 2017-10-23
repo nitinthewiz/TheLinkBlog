@@ -1,5 +1,6 @@
 ---
 title: "Typesafe — Technology: Akka"
+slug: typesafe-technology-akka
 date: 2011-12-14 10:18:14 -0600
 external-url: http://typesafe.com/technology/akka
 hash: 70201b70b702dc901e40cab36ded5cd0

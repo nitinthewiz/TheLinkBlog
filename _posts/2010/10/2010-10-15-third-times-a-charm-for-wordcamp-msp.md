@@ -1,5 +1,6 @@
 ---
 title: "Third time’s a charm for WordCamp MSP"
+slug: third-times-a-charm-for-wordcamp-msp
 date: 2010-10-15 16:40:21 -0500
 external-url: http://tech.mn/news/2010/10/15/wordcamp-msp-minnesota/
 hash: d75b4c8ba9600ca4a0a66aa671bbabf5

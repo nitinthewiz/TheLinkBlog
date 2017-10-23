@@ -1,5 +1,6 @@
 ---
 title: "How AWS came to be"
+slug: how-aws-came-to-be
 date: 2016-07-04 11:15:56 -0500
 external-url: https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/amp/
 hash: 3486e9fa58bf0e50dd72e64d6039ac8d

@@ -1,5 +1,6 @@
 ---
 title: "BrowserQuest a massively multiplayer HTML5 game experiment"
+slug: browserquest-a-massively-multiplayer-html5-game-experiment
 date: 2012-04-05 15:36:59 -0500
 external-url: https://hacks.mozilla.org/2012/03/browserquest/
 hash: 42a329a186d2a23584c39a456abdcffc

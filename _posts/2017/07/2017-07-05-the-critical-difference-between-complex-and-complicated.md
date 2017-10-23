@@ -1,5 +1,6 @@
 ---
 title: "The Critical Difference Between Complex and Complicated"
+slug: the-critical-difference-between-complex-and-complicated
 date: 2017-07-05 21:38:40 -0500
 external-url: http://sloanreview.mit.edu/article/the-critical-difference-between-complex-and-complicated/
 hash: 3e725e29a50ee4720cc563e4dd730d18

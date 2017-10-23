@@ -1,5 +1,6 @@
 ---
 title: "On The Life Changing Magic of Tidying Up"
+slug: on-the-life-changing-magic-of-tidying-up
 date: 2017-06-28 08:50:23 -0500
 external-url: http://www.kouroshdini.com/2017/06/27/on-the-life-changing-magic-of-tidying-up-productivity/
 hash: 23ba96bb7c47e77a9c9d6252b7a5ea24

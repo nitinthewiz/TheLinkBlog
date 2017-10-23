@@ -1,5 +1,6 @@
 ---
 title: "Lightroom Journal: Use Worklist Keywords to Help Your Keywording in Lightroom"
+slug: lightroom-journal-use-worklist-keywords-to-help-your-keywording-in
 date: 2007-11-21 13:55:24 -0600
 external-url: http://blogs.adobe.com/lightroomjournal/2007/09/use_worklist_keywords_to_help_1.html
 hash: 690f6059aeb996d5f3a5d6153acdd550

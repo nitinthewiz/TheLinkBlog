@@ -1,5 +1,6 @@
 ---
 title: "Zynga to Lay Off 520 Employees and Shutter Offices"
+slug: zynga-to-lay-off-520-employees-and-shutter-offices
 date: 2013-06-03 15:54:01 -0500
 external-url: http://allthingsd.com/20130603/zynga-to-lay-off-520-employees-18-percent-of-staff-and-shutter-new-york-and-la-offices/
 hash: b86d498748bbc9653bdf9601bef7be5b

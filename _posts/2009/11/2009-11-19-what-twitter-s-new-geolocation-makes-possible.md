@@ -1,5 +1,6 @@
 ---
 title: "What Twitter's New Geolocation Makes Possible"
+slug: what-twitter-s-new-geolocation-makes-possible
 date: 2009-11-19 23:40:07 -0600
 external-url: http://www.readwriteweb.com/archives/twitter_location_api_possible_uses.php
 hash: ee49848f917602f8462a2abb7a0f66b7

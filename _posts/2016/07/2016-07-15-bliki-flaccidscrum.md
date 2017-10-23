@@ -1,5 +1,6 @@
 ---
 title: "bliki: FlaccidScrum"
+slug: bliki-flaccidscrum
 date: 2016-07-15 21:08:26 -0500
 external-url: http://martinfowler.com/bliki/FlaccidScrum.html
 hash: f4b307a523fb0d5c2b914b48d488664a

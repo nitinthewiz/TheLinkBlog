@@ -1,5 +1,6 @@
 ---
 title: "Working hard or hardly working? Loons have GPS device that tells all | Star Tribune"
+slug: working-hard-or-hardly-working-loons-have-gps-device-that-tells-all
 date: 2017-06-29 07:51:46 -0500
 external-url: http://startribune.com/working-hard-or-hardly-working-loons-have-gps-device-that-tells-all/431435273/?ref=nl
 hash: ae6165b4f250bc62f38f593c7d02c18a

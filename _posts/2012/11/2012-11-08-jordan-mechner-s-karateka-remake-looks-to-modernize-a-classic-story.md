@@ -1,5 +1,6 @@
 ---
 title: "Jordan Mechner's Karateka remake looks to modernize a classic story"
+slug: jordan-mechner-s-karateka-remake-looks-to-modernize-a-classic-story
 date: 2012-11-08 14:09:24 -0600
 external-url: http://www.polygon.com/2012/11/7/3612408/karateka-remake-jordan-mechner-modernize-classic-story
 hash: b714241e3f9ffb5beb7d8c99154d7289

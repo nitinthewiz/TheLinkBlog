@@ -1,5 +1,6 @@
 ---
 title: "The MacPorts Project"
+slug: the-macports-project
 date: 2008-05-24 22:06:19 -0500
 external-url: http://www.macports.org/
 hash: e0aba9e83c421c378ea196cdbe332600

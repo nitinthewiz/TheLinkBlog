@@ -1,5 +1,6 @@
 ---
 title: "Are Industrial Robot Costs Hitting an Inflection Point?"
+slug: are-industrial-robot-costs-hitting-an-inflection-point
 date: 2017-09-24 14:06:05 -0500
 external-url: https://ark-invest.com/research/industrial-robot-costs
 hash: 31eb55624bf4393db619ac11408708ef

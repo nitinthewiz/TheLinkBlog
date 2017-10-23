@@ -1,5 +1,6 @@
 ---
 title: "Vint Cerf: \"Twitter Is The Future!\""
+slug: vint-cerf-twitter-is-the-future
 date: 2007-12-03 10:17:00 -0600
 external-url: http://blog.twitter.com/2007/12/vint-cerf-twitter-is-future.html
 hash: 0fabe2f466ff2af23aaf22a3a97b73c5

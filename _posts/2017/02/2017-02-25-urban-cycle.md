@@ -1,5 +1,6 @@
 ---
 title: "Urban Cycle"
+slug: urban-cycle
 date: 2017-02-25 10:44:46 -0600
 external-url: http://www.myurbancycle.com/
 hash: f59af7b3585020e892b057a65d1a3c3e

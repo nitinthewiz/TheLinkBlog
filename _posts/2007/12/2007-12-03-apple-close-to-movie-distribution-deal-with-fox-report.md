@@ -1,5 +1,6 @@
 ---
 title: "Apple close to movie distribution deal with Fox - report"
+slug: apple-close-to-movie-distribution-deal-with-fox-report
 date: 2007-12-03 14:45:00 -0600
 external-url: http://www.appleinsider.com/article.php?id=3478
 hash: ba04509402d62d7558a929e164965ff6

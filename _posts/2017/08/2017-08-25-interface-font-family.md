@@ -1,5 +1,6 @@
 ---
 title: "Interface font family"
+slug: interface-font-family
 date: 2017-08-25 20:07:57 -0500
 external-url: https://rsms.me/interface/
 hash: 742e6683dc6851dde1b4705a0f4d8e2f

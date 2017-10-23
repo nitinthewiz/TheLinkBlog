@@ -1,5 +1,6 @@
 ---
 title: "Weblog Tools Collection: New Twist on Premium WordPress Themes"
+slug: weblog-tools-collection-new-twist-on-premium-wordpress-themes
 date: 2008-02-24 15:18:27 -0600
 external-url: http://weblogtoolscollection.com/archives/2008/02/24/new-twist-on-premium-wordpress-themes/
 hash: d85259bac1204782caf7f14b42f733f5

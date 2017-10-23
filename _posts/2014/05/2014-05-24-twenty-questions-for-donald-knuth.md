@@ -1,5 +1,6 @@
 ---
 title: "Twenty Questions for Donald Knuth"
+slug: twenty-questions-for-donald-knuth
 date: 2014-05-24 07:46:46 -0500
 external-url: http://www.informit.com/articles/article.aspx?p=2213858
 hash: 6236ff2b158346891a505c5af69567b4

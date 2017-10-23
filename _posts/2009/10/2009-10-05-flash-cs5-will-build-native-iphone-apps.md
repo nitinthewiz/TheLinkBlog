@@ -1,5 +1,6 @@
 ---
 title: "Flash CS5 Will Build Native iPhone Apps"
+slug: flash-cs5-will-build-native-iphone-apps
 date: 2009-10-05 19:56:13 -0500
 external-url: http://blogs.adobe.com/jnack/2009/10/use_flash_to_build_native_iphone_apps.html
 hash: 1ec5f12b0362440695206cc1bf307ada

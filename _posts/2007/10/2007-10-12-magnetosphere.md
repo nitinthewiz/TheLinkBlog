@@ -1,5 +1,6 @@
 ---
 title: "Magnetosphere"
+slug: magnetosphere
 date: 2007-10-12 23:33:04 -0500
 external-url: http://barbariangroup.com/
 hash: 8781890c781d6c6244e36b4147aa475e

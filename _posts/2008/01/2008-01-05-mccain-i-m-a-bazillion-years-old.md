@@ -1,5 +1,6 @@
 ---
 title: "McCain: I'm a bazillion years old."
+slug: mccain-i-m-a-bazillion-years-old
 date: 2008-01-05 15:35:31 -0600
 external-url: http://www.dailykos.com/story/2008/01/05/431219/-McCain-I-m-a-bazillion-years-old
 hash: 839fcf70fcebea0795e878df2d55bc79

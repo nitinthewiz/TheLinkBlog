@@ -1,5 +1,6 @@
 ---
 title: "Prezi - The Zooming Presentation Editor"
+slug: prezi-the-zooming-presentation-editor
 date: 2011-01-18 19:37:53 -0600
 external-url: http://prezi.com/
 hash: 5b0f50e9b0d1ffd9dec5b3136fa7ef02

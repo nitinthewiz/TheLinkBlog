@@ -1,5 +1,6 @@
 ---
 title: "On Twitter: What's Valuation Got to Do With Revenue?"
+slug: on-twitter-what-s-valuation-got-to-do-with-revenue
 date: 2009-09-16 21:54:12 -0500
 external-url: http://readwrite.com/2009/09/16/on_twitter_whats_valuation_got_to_do_with_revenue
 hash: 4a4beb42cda566c5a9bc8d804ee2c584

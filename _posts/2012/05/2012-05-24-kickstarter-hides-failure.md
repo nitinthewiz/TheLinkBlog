@@ -1,5 +1,6 @@
 ---
 title: "Kickstarter hides failure"
+slug: kickstarter-hides-failure
 date: 2012-05-24 17:28:45 -0500
 external-url: http://misener.org/kickstarter-hides-failure/
 hash: 34baf47e1e7167f78b205f5b4397c167

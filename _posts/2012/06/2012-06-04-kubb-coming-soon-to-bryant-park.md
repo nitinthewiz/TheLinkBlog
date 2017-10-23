@@ -1,5 +1,6 @@
 ---
 title: "Kubb Coming Soon to Bryant Park"
+slug: kubb-coming-soon-to-bryant-park
 date: 2012-06-04 22:48:08 -0500
 external-url: http://blog.bryantpark.org/2012/03/kubb-coming-soon.html
 hash: 85a9be9627b359db1516265ebdd47514

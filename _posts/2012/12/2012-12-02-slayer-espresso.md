@@ -1,5 +1,6 @@
 ---
 title: "Slayer Espresso"
+slug: slayer-espresso
 date: 2012-12-02 20:07:18 -0600
 external-url: http://www.slayerespresso.com/
 hash: 47896fd2d1ce3ff8c11762b7b24049a0

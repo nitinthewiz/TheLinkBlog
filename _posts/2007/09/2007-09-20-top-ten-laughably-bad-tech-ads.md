@@ -1,5 +1,6 @@
 ---
 title: "Top ten laughably bad tech ads"
+slug: top-ten-laughably-bad-tech-ads
 date: 2007-09-20 11:48:21 -0500
 external-url: https://www.cnet.com/uk/news/top-ten-laughably-bad-tech-ads/
 hash: f808fabbbe5879f0dbee05e19d56124d

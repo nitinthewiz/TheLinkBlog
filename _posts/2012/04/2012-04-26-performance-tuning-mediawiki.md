@@ -1,5 +1,6 @@
 ---
 title: "Performance tuning MediaWiki"
+slug: performance-tuning-mediawiki
 date: 2012-04-26 11:04:07 -0500
 external-url: http://www.mediawiki.org/wiki/Manual:Performance_tuning
 hash: 54aefdea4e3b4ad515c3cadd4de29743

@@ -1,5 +1,6 @@
 ---
 title: "The Information Sage"
+slug: the-information-sage
 date: 2011-05-13 19:59:11 -0500
 external-url: http://www.washingtonmonthly.com/magazine/mayjune_2011/features/the_information_sage029137.php
 hash: 765e46098f6b93fae41ce16437aa5e62

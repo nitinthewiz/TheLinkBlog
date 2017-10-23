@@ -1,5 +1,6 @@
 ---
 title: "SquirrelBin: A Serverless Microservice Using AWS Lambda | AWS Compute Blog"
+slug: squirrelbin-a-serverless-microservice-using-aws-lambda-aws-compute
 date: 2016-02-17 11:40:44 -0600
 external-url: https://aws.amazon.com/blogs/compute/the-squirrelbin-architecture-a-serverless-microservice-using-aws-lambda/
 hash: 6e562aaec6ab35f5198ded5dd1704e1f

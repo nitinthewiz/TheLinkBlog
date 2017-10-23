@@ -1,5 +1,6 @@
 ---
 title: "F1: A Distributed SQL Database That Scales"
+slug: f1-a-distributed-sql-database-that-scales
 date: 2013-08-31 21:40:10 -0500
 external-url: http://research.google.com/pubs/pub41344.html
 hash: f9f9a9b428b36f8bd07f10848583d8cc

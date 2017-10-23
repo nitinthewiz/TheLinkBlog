@@ -1,5 +1,6 @@
 ---
 title: "Passbolt | Open source password manager for teams"
+slug: passbolt-open-source-password-manager-for-teams
 date: 2016-04-30 23:12:27 -0500
 external-url: https://www.passbolt.com/
 hash: 28fe683e847824e17ecca0dffb9367f2

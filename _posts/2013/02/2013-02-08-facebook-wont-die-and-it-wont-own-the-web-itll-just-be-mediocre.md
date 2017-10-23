@@ -1,5 +1,6 @@
 ---
 title: "Facebook wont die. And it wont own the Web. Itll just be mediocre"
+slug: facebook-wont-die-and-it-wont-own-the-web-itll-just-be-mediocre
 date: 2013-02-08 21:17:42 -0600
 external-url: http://pando.com/2013/02/08/facebook-wont-die-and-it-wont-own-the-web-itll-just-be-mediocre/
 hash: 37bb7ef6fd90bc6accefd00a0654e922

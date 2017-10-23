@@ -1,5 +1,6 @@
 ---
 title: "Rumor: Mac OS X 10.5.4 to be released 2nd week in June?"
+slug: rumor-mac-os-x-10-5-4-to-be-released-2nd-week-in-june
 date: 2008-06-05 08:00:00 -0500
 external-url: http://www.tuaw.com/2008/06/05/rumor-mac-os-x-10-5-4-to-be-released-2nd-week-in-june/
 hash: b21150b16341e6647d3d989f52204ba5

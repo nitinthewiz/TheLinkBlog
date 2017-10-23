@@ -1,5 +1,6 @@
 ---
 title: "Eight Docker Development Patterns"
+slug: eight-docker-development-patterns
 date: 2014-10-22 06:05:36 -0500
 external-url: http://www.hokstad.com/docker/patterns
 hash: 376bece771e206b57f182ed8bb1b9664

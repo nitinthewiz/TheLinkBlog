@@ -1,5 +1,6 @@
 ---
 title: "Is Docker ready for production? Feedbacks of a 2 weeks hands on"
+slug: is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on
 date: 2014-09-13 14:24:15 -0500
 external-url: http://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html
 hash: 887ac2f9a814eb7d873cb66edd467b07

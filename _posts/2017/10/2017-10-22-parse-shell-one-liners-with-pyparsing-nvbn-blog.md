@@ -1,5 +1,6 @@
 ---
 title: "Parse shell one-liners with pyparsing | nvbn blog"
+slug: parse-shell-one-liners-with-pyparsing-nvbn-blog
 date: 2017-10-22 20:49:36 -0500
 external-url: https://nvbn.github.io/2016/07/05/shell-ast/
 hash: a4c95366fb395473b4878065395d23b9

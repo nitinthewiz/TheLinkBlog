@@ -1,5 +1,6 @@
 ---
 title: "Modern Agile"
+slug: modern-agile
 date: 2016-02-24 17:50:01 -0600
 external-url: https://www.industriallogic.com/blog/modern-agile/
 hash: 3731aaf09cfa71c39aa7d7cafe8c1f0e

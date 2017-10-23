@@ -1,5 +1,6 @@
 ---
 title: "As The Economy Sours, LinkedIn’s Popularity Grows"
+slug: as-the-economy-sours-linkedins-popularity-grows
 date: 2009-02-15 19:43:26 -0600
 external-url: http://techcrunch.com/2009/02/14/as-the-economy-sours-linkedins-popularity-grows/
 hash: ed7b07375132fbfd4ab63d268659ed94

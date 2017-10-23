@@ -1,5 +1,6 @@
 ---
 title: "Webmention.io"
+slug: webmention-io
 date: 2017-07-20 05:14:54 -0500
 external-url: https://webmention.io/
 hash: e9b1fdf86914a95a9ee9164f1ef44b2d

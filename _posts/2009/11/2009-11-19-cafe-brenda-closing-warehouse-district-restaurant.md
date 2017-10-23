@@ -1,5 +1,6 @@
 ---
 title: "Cafe Brenda closing Warehouse District restaurant"
+slug: cafe-brenda-closing-warehouse-district-restaurant
 date: 2009-11-19 23:46:05 -0600
 external-url: http://www.bizjournals.com/twincities/stories/2009/11/16/daily51.html
 hash: 62abd5a310489c180c7c4826a0a0f87d

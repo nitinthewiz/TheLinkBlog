@@ -1,5 +1,6 @@
 ---
 title: "FriendFeed Launches API - This Should be Interesting"
+slug: friendfeed-launches-api-this-should-be-interesting
 date: 2008-03-25 20:43:58 -0500
 external-url: http://readwrite.com/2008/03/25/friendfeed_launches_api
 hash: 76c1baf66d89c0cdb033a2b6f71df231

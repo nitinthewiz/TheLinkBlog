@@ -1,5 +1,6 @@
 ---
 title: "Blogging tools should archive in RSS"
+slug: blogging-tools-should-archive-in-rss
 date: 2012-06-04 10:37:47 -0500
 external-url: http://scripting.com/stories/2012/06/03/bloggingToolsShouldArchive.html
 hash: 569b4ee5982632b93c80bf4c5e3c3a0a

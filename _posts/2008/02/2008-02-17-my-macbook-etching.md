@@ -1,5 +1,6 @@
 ---
 title: "My MacBook Etching"
+slug: my-macbook-etching
 date: 2008-02-17 07:01:37 -0600
 external-url: http://blog.matt.cc/post/2451969
 hash: 55312b9661ca35205cc940eab16dd34f

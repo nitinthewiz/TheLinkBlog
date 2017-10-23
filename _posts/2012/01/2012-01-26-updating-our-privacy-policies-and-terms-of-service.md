@@ -1,5 +1,6 @@
 ---
 title: "Updating our privacy policies and terms of service"
+slug: updating-our-privacy-policies-and-terms-of-service
 date: 2012-01-26 13:17:33 -0600
 external-url: http://googleblog.blogspot.com/2012/01/updating-our-privacy-policies-and-terms.html
 hash: 23afc02cc576cfe11a65510500271c23

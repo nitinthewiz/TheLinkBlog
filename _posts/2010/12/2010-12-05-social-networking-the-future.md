@@ -1,5 +1,6 @@
 ---
 title: "Social Networking: The Future"
+slug: social-networking-the-future
 date: 2010-12-05 23:48:01 -0600
 external-url: http://techcrunch.com/2010/12/05/social-networking-future/
 hash: 4f3cbb961356ff455cd051e722c77bc2

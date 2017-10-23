@@ -1,5 +1,6 @@
 ---
 title: "Ruby on Rails 3.0 pulls into station with Merb in tow"
+slug: ruby-on-rails-3-0-pulls-into-station-with-merb-in-tow
 date: 2010-08-30 12:10:00 -0500
 external-url: http://arstechnica.com/information-technology/2010/08/ruby-on-rails-30-released/
 hash: 03c7787598e459c014c7b4d56efcfd8c

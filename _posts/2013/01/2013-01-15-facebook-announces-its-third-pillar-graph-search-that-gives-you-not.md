@@ -1,5 +1,6 @@
 ---
 title: "Facebook Announces Its Third Pillar Graph Search That Gives You Answers, Not Links Like Google - TechCrunch"
+slug: facebook-announces-its-third-pillar-graph-search-that-gives-you-not
 date: 2013-01-15 13:41:05 -0600
 external-url: http://techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/
 hash: 3e2533ddf1adc418d4c4d7ddc75d96d9

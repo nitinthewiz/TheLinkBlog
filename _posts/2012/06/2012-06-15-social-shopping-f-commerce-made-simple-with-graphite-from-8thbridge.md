@@ -1,5 +1,6 @@
 ---
 title: "Social Shopping (F-Commerce) Made Simple With Graphite from 8thBridge"
+slug: social-shopping-f-commerce-made-simple-with-graphite-from-8thbridge
 date: 2012-06-15 11:41:07 -0500
 external-url: http://www.smallbiztechnology.com/archive/2012/06/social-shopping-f-commerce-made-simple-with-graphite-from-8thbridge.html/
 hash: 4df85e72a216b87553cdcb253296df68

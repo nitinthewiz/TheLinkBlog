@@ -1,5 +1,6 @@
 ---
 title: "Transforming Enterprises - YouTube"
+slug: transforming-enterprises-youtube
 date: 2017-02-16 17:38:36 -0600
 external-url: https://www.youtube.com/watch?v=SLF9zb1YYeA
 hash: cd5dcf53abf8c981b5ecb8f13b158c67

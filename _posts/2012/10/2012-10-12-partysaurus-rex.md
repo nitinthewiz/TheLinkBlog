@@ -1,5 +1,6 @@
 ---
 title: "Partysaurus Rex"
+slug: partysaurus-rex
 date: 2012-10-12 12:04:17 -0500
 external-url: http://video.disney.com/watch/partysaurus-rex-4cb5aeaed8df6adddc0f952d
 hash: bd6fb90d2551ea1e6845816b10524a4e

@@ -1,5 +1,6 @@
 ---
 title: "Sparkline Generator"
+slug: sparkline-generator
 date: 2011-07-09 22:56:04 -0500
 external-url: http://sparklines.bitworking.info/#generator
 hash: 512a9f0bd1176f47cff333284bd17acd

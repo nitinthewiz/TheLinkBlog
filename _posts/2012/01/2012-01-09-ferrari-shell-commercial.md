@@ -1,5 +1,6 @@
 ---
 title: "Ferrari Shell Commercial"
+slug: ferrari-shell-commercial
 date: 2012-01-09 21:56:06 -0600
 external-url: http://www.youtube.com/watch_popup?v=1_kwxzU4wL4&vq=medium
 hash: 744413926b2e817d8b8897b063979049

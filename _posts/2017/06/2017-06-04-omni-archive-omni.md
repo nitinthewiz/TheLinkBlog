@@ -1,5 +1,6 @@
 ---
 title: "Omni Archive | OMNI"
+slug: omni-archive-omni
 date: 2017-06-04 19:14:11 -0500
 external-url: https://omni.media/channel/omni-archive
 hash: cb16be870d85319dd1f47b4c33823c45

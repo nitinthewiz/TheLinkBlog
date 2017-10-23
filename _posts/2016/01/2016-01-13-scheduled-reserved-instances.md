@@ -1,5 +1,6 @@
 ---
 title: "Scheduled Reserved Instances"
+slug: scheduled-reserved-instances
 date: 2016-01-13 21:00:59 -0600
 external-url: https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/
 hash: 504e43ccc4095f3ee60a5d57df569417

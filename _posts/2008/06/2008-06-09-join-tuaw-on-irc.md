@@ -1,5 +1,6 @@
 ---
 title: "Join TUAW on IRC"
+slug: join-tuaw-on-irc
 date: 2008-06-09 12:00:00 -0500
 external-url: http://www.tuaw.com/2008/06/09/join-tuaw-on-irc/
 hash: 3535daf6832ca0a391bc49547b898d8f

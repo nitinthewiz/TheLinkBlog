@@ -1,5 +1,6 @@
 ---
 title: "EFF Discusses the Future of Internet Privacy at UN Internet Governance Forum"
+slug: eff-discusses-the-future-of-internet-privacy-at-un-internet-governance
 date: 2010-11-17 17:22:00 -0600
 external-url: http://www.eff.org/deeplinks/2010/11/future-privacy-internet-governance-forum
 hash: b1192cc85b8ac8ed34f30da6763c8f10

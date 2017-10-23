@@ -1,5 +1,6 @@
 ---
 title: "WSJ Plans Closer Ties With London Times; May Offer Business Tools"
+slug: wsj-plans-closer-ties-with-london-times-may-offer-business-tools
 date: 2008-05-07 09:18:17 -0500
 external-url: http://gigaom.com/2008/05/07/419-wsj-plans-closer-ties-with-london-times-may-offer-business-tools/
 hash: cdaa01ad2a7daef95e93c762a102ceb4

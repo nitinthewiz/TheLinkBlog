@@ -1,5 +1,6 @@
 ---
 title: "New AWS Quick Starts for Atlassian JIRA Software and Bitbucket Data Center"
+slug: new-aws-quick-starts-for-atlassian-jira-software-and-bitbucket-data
 date: 2016-10-10 22:04:22 -0500
 external-url: https://aws.amazon.com/blogs/aws/new-aws-quick-starts-for-atlassian-jira-software-and-bitbucket-data-center/
 hash: 634fba06f89c26a411f1284bcc91b1ad

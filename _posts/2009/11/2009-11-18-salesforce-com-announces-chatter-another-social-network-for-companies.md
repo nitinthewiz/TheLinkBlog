@@ -1,5 +1,6 @@
 ---
 title: "Salesforce.com announces Chatter, another social network for companies"
+slug: salesforce-com-announces-chatter-another-social-network-for-companies
 date: 2009-11-18 12:10:48 -0600
 external-url: http://venturebeat.com
 hash: 664c74ae6e1465b9b915a3b46a95c952

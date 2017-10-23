@@ -1,5 +1,6 @@
 ---
 title: "BlackBerry PlayBook by Philip Greenspun"
+slug: blackberry-playbook-by-philip-greenspun
 date: 2011-05-08 21:37:17 -0500
 external-url: http://philip.greenspun.com/wireless/playbook
 hash: 526ba370f5e5d72e40fadb7ff75ac695

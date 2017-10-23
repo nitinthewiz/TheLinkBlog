@@ -1,5 +1,6 @@
 ---
 title: "CalendarServer - Ubuntu Wiki"
+slug: calendarserver-ubuntu-wiki
 date: 2008-03-27 11:07:49 -0500
 external-url: https://wiki.ubuntu.com/CalendarServer
 hash: f52ab629c6e9f519baaa8a25e5e1c98f

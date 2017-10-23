@@ -1,5 +1,6 @@
 ---
 title: "★ Amazon’s New Kindles"
+slug: amazons-new-kindles
 date: 2011-09-28 19:05:48 -0500
 external-url: http://daringfireball.net/2011/09/amazons_new_kindles
 hash: a2c0f607b8608cc01a4d525ec5eb9b96

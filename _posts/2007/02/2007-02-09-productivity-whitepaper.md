@@ -1,5 +1,6 @@
 ---
 title: "Productivity Whitepaper"
+slug: productivity-whitepaper
 date: 2007-02-09 23:51:11 -0600
 external-url: http://patrickrhone.com/journal/archives/2006/05/175.html
 hash: 3d92d34193719bf9805c28349fa254e6

@@ -1,5 +1,6 @@
 ---
 title: "New in Basecamp: Redesigned messages section"
+slug: new-in-basecamp-redesigned-messages-section
 date: 2010-02-09 22:52:07 -0600
 external-url: http://productblog.37signals.com/products/2010/02/new-in-basecamp-redesigned-messages-section.html
 hash: 0441d1cd06f7c6346fa7030cbd01a5c7

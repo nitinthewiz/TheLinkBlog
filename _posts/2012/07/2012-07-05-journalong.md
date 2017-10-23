@@ -1,5 +1,6 @@
 ---
 title: "Journalong"
+slug: journalong
 date: 2012-07-05 23:03:37 -0500
 external-url: https://www.journalong.com/
 hash: e8da0b1be61b98f71145c27c8a38efc4

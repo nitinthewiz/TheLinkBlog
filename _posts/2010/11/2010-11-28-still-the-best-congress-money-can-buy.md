@@ -1,5 +1,6 @@
 ---
 title: "Still the Best Congress Money Can Buy"
+slug: still-the-best-congress-money-can-buy
 date: 2010-11-28 11:58:41 -0600
 external-url: http://www.nytimes.com/2010/11/28/opinion/28rich.html?_r=3
 hash: 3b13bd45e04e23fbeb828fd1acd1038b

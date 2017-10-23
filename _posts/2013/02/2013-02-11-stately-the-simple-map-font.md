@@ -1,5 +1,6 @@
 ---
 title: "Stately - The simple map font"
+slug: stately-the-simple-map-font
 date: 2013-02-11 13:53:17 -0600
 external-url: http://intridea.github.io/stately/
 hash: bc6dd2979ad582438abfa36f0a627cc3

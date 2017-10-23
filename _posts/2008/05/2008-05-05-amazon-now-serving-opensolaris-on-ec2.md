@@ -1,5 +1,6 @@
 ---
 title: "Amazon Now Serving OpenSolaris on EC2"
+slug: amazon-now-serving-opensolaris-on-ec2
 date: 2008-05-05 22:36:38 -0500
 external-url: http://gigaom.com/2008/05/05/amazon-opensolaris-on-ec2/
 hash: 9498cad9331d65b926e8d2b51197a3f7

@@ -1,5 +1,6 @@
 ---
 title: "AOR AR8200 Mark III B"
+slug: aor-ar8200-mark-iii-b
 date: 2005-12-22 15:21:26 -0600
 external-url: http://www.universal-radio.com/catalog/widerxvr/0083.html
 hash: f1b673713ed14d4d390e33ed85ee7f09

@@ -1,5 +1,6 @@
 ---
 title: "Mapping Racist Tweets in Response to President Obama's Re-election"
+slug: mapping-racist-tweets-in-response-to-president-obama-s-re-election
 date: 2012-11-09 13:59:06 -0600
 external-url: http://www.floatingsheep.org/2012/11/mapping-racist-tweets-in-response-to.html
 hash: c8cd21900ea5e1e9ffc66364f8f90f31

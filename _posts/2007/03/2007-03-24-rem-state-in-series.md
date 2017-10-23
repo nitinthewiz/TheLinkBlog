@@ -1,5 +1,6 @@
 ---
 title: "REM State » In-Series"
+slug: rem-state-in-series
 date: 2007-03-24 07:23:30 -0500
 external-url: http://remstate.com/projects/in-series/
 hash: 85020718d711477b11adadb9f6382748

@@ -1,5 +1,6 @@
 ---
 title: "Laser etch your Macbook - Mac Forums"
+slug: laser-etch-your-macbook-mac-forums
 date: 2008-02-17 07:05:21 -0600
 external-url: http://forums.macrumors.com/showthread.php?t=289823
 hash: 349db7c57a00d33f2303004dacde4ff7

@@ -1,5 +1,6 @@
 ---
 title: "Iceland photos: Incredible aerial pictures reveal the country's volcanic landscapes"
+slug: iceland-photos-incredible-aerial-pictures-reveal-the-country-s
 date: 2012-08-08 10:46:09 -0500
 external-url: http://www.dailymail.co.uk/sciencetech/article-2143779/Iceland-photos-Incredible-aerial-pictures-reveal-countrys-volcanic-landscapes.html
 hash: c5d212374aeac091a8a848197995d639

@@ -1,5 +1,6 @@
 ---
 title: "Forks Over Knives"
+slug: forks-over-knives
 date: 2011-09-18 21:38:24 -0500
 external-url: http://www.forksoverknives.com/
 hash: 814b00d1e21db32b89523b2b5f810524

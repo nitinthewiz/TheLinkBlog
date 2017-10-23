@@ -1,5 +1,6 @@
 ---
 title: "iPad therefore iWant? Probably. Why? iDunno"
+slug: ipad-therefore-iwant-probably-why-idunno
 date: 2010-02-01 23:02:02 -0600
 external-url: http://www.aphotoeditor.com/2010/02/01/ipad-therefore-iwant-probably-why-idunno/
 hash: 4f9d270b5a416abc5d0296e33addeda1

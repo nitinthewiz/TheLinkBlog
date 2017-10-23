@@ -1,5 +1,6 @@
 ---
 title: "Nina Zakharenko - Technical Debt - The code monster in everyone's closet - PyCon 2015"
+slug: nina-zakharenko-technical-debt-the-code-monster-in-everyone-s-closet
 date: 2015-04-15 00:55:37 -0500
 external-url: https://www.youtube.com/watch?v=JKYktDRoRxw&app=desktop
 hash: d12de8215f077cd195730b3130a1f556

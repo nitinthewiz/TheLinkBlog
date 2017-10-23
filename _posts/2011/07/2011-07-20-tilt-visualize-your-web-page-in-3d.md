@@ -1,5 +1,6 @@
 ---
 title: "Tilt: Visualize your Web page in 3D"
+slug: tilt-visualize-your-web-page-in-3d
 date: 2011-07-20 15:31:38 -0500
 external-url: https://hacks.mozilla.org/2011/07/tilt-visualize-your-web-page-in-3d/
 hash: eeba2e44ecbd02d3cec140ff2408eef0

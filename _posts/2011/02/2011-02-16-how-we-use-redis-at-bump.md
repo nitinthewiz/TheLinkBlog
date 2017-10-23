@@ -1,5 +1,6 @@
 ---
 title: "How we use Redis at Bump"
+slug: how-we-use-redis-at-bump
 date: 2011-02-16 16:39:57 -0600
 external-url: http://devblog.bu.mp/how-we-use-redis-at-bump
 hash: fbc06ab6ba3a256650860522c9c51e5d

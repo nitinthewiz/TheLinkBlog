@@ -1,5 +1,6 @@
 ---
 title: "Supreme Court Says Congress May Re-Copyright Public Domain Works"
+slug: supreme-court-says-congress-may-re-copyright-public-domain-works
 date: 2012-01-20 23:35:21 -0600
 external-url: http://www.wired.com/threatlevel/2012/01/scotus-re-copyright-decision/
 hash: 28a729704c7dfabc372c445b267ba053

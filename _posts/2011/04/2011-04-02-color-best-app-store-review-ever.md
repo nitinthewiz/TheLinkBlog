@@ -1,5 +1,6 @@
 ---
 title: "Color - Best app store review ever"
+slug: color-best-app-store-review-ever
 date: 2011-04-02 10:27:03 -0500
 external-url: http://mike3k.posterous.com/bye.html
 hash: 13a5fe01a22b5529c1ebfd9484a95867

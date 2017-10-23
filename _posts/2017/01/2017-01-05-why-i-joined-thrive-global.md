@@ -1,5 +1,6 @@
 ---
 title: "Why I Joined Thrive Global"
+slug: why-i-joined-thrive-global
 date: 2017-01-05 20:37:42 -0600
 external-url: https://www.rajiv.com/blog/2017/01/05/why-i-joined-thrive-global/
 hash: 0db41ab36aecbc2734ed516a6553832b

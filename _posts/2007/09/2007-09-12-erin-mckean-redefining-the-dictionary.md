@@ -1,5 +1,6 @@
 ---
 title: "Erin McKean: Redefining the dictionary"
+slug: erin-mckean-redefining-the-dictionary
 date: 2007-09-12 22:17:38 -0500
 external-url: http://www.ted.com/talks/erin_mckean_redefines_the_dictionary
 hash: 4ae22cdf2836ee5de04c8be6f3ebfff9

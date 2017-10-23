@@ -1,5 +1,6 @@
 ---
 title: "Email Overload: Research and Statistics"
+slug: email-overload-research-and-statistics
 date: 2016-02-19 02:42:12 -0600
 external-url: http://blog.sanebox.com/2016/02/18/email-overload-research-statistics-sanebox/
 hash: 4243a6c60626d36cc4fed86a95f4d6cd

@@ -1,5 +1,6 @@
 ---
 title: "FirstLook: WeatherCal 1.0"
+slug: firstlook-weathercal-1-0
 date: 2009-03-25 22:29:29 -0500
 external-url: http://www.tuaw.com/2009/03/25/firstlook-weathercal-1-0/
 hash: 79174ab58ebf4345222e78021980123f

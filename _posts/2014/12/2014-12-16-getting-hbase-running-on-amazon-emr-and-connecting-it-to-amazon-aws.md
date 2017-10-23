@@ -1,5 +1,6 @@
 ---
 title: "Getting HBase Running on Amazon EMR and Connecting it to Amazon Kinesis - AWS Big Data Blog"
+slug: getting-hbase-running-on-amazon-emr-and-connecting-it-to-amazon-aws
 date: 2014-12-16 13:11:44 -0600
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx3CFT0COINZ4N8/Getting-HBase-Running-on-Amazon-EMR-and-Connecting-it-to-Amazon-Kinesis
 hash: 8c8c6d25baef7cee79909d36d4084937

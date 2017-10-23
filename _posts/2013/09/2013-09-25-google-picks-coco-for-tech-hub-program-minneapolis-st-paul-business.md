@@ -1,5 +1,6 @@
 ---
 title: "Google picks CoCo for 'Tech Hub' program - Minneapolis / St. Paul Business Journal"
+slug: google-picks-coco-for-tech-hub-program-minneapolis-st-paul-business
 date: 2013-09-25 14:31:34 -0500
 external-url: http://www.bizjournals.com/twincities/blog/in_private/2013/09/google-picks-coco-for-tech-hub-program.html
 hash: cb99f7b42ee1b89c6853d652d0358c4e

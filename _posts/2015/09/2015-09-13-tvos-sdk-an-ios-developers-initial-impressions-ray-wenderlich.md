@@ -1,5 +1,6 @@
 ---
 title: "tvOS SDK: An iOS Developer’s Initial Impressions - Ray Wenderlich"
+slug: tvos-sdk-an-ios-developers-initial-impressions-ray-wenderlich
 date: 2015-09-13 10:09:42 -0500
 external-url: http://www.raywenderlich.com/114313/tvos-initial-impressions
 hash: ea8f7345b8b9c24c641e463dd10029a5

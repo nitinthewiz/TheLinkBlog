@@ -1,5 +1,6 @@
 ---
 title: "Three Months with Sublime Text 2 in Thoughts by Steve Randy Tantra"
+slug: three-months-with-sublime-text-2-in-thoughts-by-steve-randy-tantra
 date: 2012-07-17 05:09:48 -0500
 external-url: http://steverandytantra.com/thoughts/three-months-with-sublime-text-2
 hash: e5295542826862e3ba0a9940f28a198c

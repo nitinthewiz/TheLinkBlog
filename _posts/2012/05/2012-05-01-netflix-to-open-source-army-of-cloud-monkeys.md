@@ -1,5 +1,6 @@
 ---
 title: "Netflix to Open Source Army of Cloud Monkeys"
+slug: netflix-to-open-source-army-of-cloud-monkeys
 date: 2012-05-01 14:17:08 -0500
 external-url: http://www.wired.com/2012/04/netflix_monkeys/
 hash: 8624ed732679c6ceff74d1e9564d018d

@@ -1,5 +1,6 @@
 ---
 title: "Measuring Tweets"
+slug: measuring-tweets
 date: 2010-02-23 10:56:21 -0600
 external-url: http://blog.twitter.com/2010/02/measuring-tweets.html
 hash: c67b85b5e42105375f76d57ebcc1f69b

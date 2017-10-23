@@ -1,5 +1,6 @@
 ---
 title: "Pickadate.js"
+slug: pickadate-js
 date: 2014-02-23 21:35:55 -0600
 external-url: http://amsul.ca/pickadate.js/
 hash: bc70d301028e401de64933ba0c28d5d8

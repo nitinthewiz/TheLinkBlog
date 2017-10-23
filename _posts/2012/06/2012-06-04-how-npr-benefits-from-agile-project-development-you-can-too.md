@@ -1,5 +1,6 @@
 ---
 title: "How NPR benefits from agile project development & you can too"
+slug: how-npr-benefits-from-agile-project-development-you-can-too
 date: 2012-06-04 10:35:40 -0500
 external-url: http://www.poynter.org/how-tos/digital-strategies/175487/how-npr-benefits-from-agile-project-development-you-can-too/
 hash: 2dc255883fc1d9512061088136c2abaf

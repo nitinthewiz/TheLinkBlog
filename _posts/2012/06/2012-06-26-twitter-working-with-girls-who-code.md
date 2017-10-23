@@ -1,5 +1,6 @@
 ---
 title: "Twitter Working with Girls Who Code"
+slug: twitter-working-with-girls-who-code
 date: 2012-06-26 16:18:59 -0500
 external-url: https://blog.twitter.com/2012/working-with-girls-who-code
 hash: e47235be1415fbcf32961960c015c7f3

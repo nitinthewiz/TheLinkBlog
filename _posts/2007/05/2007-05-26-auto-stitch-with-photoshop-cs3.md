@@ -1,5 +1,6 @@
 ---
 title: "Auto-Stitch with Photoshop CS3"
+slug: auto-stitch-with-photoshop-cs3
 date: 2007-05-26 15:56:34 -0500
 external-url: http://www.creativepro.com/article/auto-stitch-with-photoshop-cs3
 hash: 0be7919719401f546bed02ad103ebbcd

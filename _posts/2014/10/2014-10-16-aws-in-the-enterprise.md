@@ -1,5 +1,6 @@
 ---
 title: "AWS in the Enterprise"
+slug: aws-in-the-enterprise
 date: 2014-10-16 17:12:56 -0500
 external-url: https://medium.com/aws-enterprise-collection/aws-in-the-enterprise-b1af6fb8946c
 hash: 382a92621ae01ad7e7f6b4e647ec071f

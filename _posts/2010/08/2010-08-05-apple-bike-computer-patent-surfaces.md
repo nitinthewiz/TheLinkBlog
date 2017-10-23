@@ -1,5 +1,6 @@
 ---
 title: "Apple bike computer patent surfaces"
+slug: apple-bike-computer-patent-surfaces
 date: 2010-08-05 19:00:00 -0500
 external-url: http://www.tuaw.com/2010/08/05/apple-bike-computer-patent-surfaces/
 hash: 270e78188437ceaf6b7438bd73df6c09

@@ -1,5 +1,6 @@
 ---
 title: "The Bitcoin Lightning Network"
+slug: the-bitcoin-lightning-network
 date: 2015-06-15 14:18:06 -0500
 external-url: http://lightning.network/
 hash: 80a6a2182fe01f52a64494d46e8f7fbb

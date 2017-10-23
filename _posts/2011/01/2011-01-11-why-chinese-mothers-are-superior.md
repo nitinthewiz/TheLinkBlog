@@ -1,5 +1,6 @@
 ---
 title: "Why Chinese Mothers Are Superior"
+slug: why-chinese-mothers-are-superior
 date: 2011-01-11 17:39:12 -0600
 external-url: http://online.wsj.com/article/SB10001424052748704111504576059713528698754.html
 hash: 336263ad9e4adad78a9f3e501ce739fa

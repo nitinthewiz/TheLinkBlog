@@ -1,5 +1,6 @@
 ---
 title: "Battle Kubb: A new card game"
+slug: battle-kubb-a-new-card-game
 date: 2017-05-03 09:09:06 -0500
 external-url: http://kubbon.com/2017/05/03/battle-kubb-a-new-card-game/
 hash: 52221ff62fc3b53d9e09305f31588d4c

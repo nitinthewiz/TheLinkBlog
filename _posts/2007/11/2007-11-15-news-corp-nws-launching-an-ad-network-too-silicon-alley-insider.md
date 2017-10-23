@@ -1,5 +1,6 @@
 ---
 title: "News Corp (NWS): Launching An Ad Network, Too - Silicon Alley Insider"
+slug: news-corp-nws-launching-an-ad-network-too-silicon-alley-insider
 date: 2007-11-15 12:13:50 -0600
 external-url: http://www.businessinsider.com/2007/11/news-corp-nws-launching-myspace-fim-ad-network
 hash: d511af897c935a9c76136c168ab60ec9

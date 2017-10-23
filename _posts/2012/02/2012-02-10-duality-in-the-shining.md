@@ -1,5 +1,6 @@
 ---
 title: "Duality in The Shining"
+slug: duality-in-the-shining
 date: 2012-02-10 23:27:04 -0600
 external-url: http://www.drummerman.net/shining/duality.html
 hash: aac79e640e771d11370aa85a85af691e

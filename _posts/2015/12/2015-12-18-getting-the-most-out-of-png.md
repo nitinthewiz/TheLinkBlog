@@ -1,5 +1,6 @@
 ---
 title: "Getting the Most Out of PNG"
+slug: getting-the-most-out-of-png
 date: 2015-12-18 18:45:00 -0600
 external-url: http://blog.codinghorror.com/getting-the-most-out-of-png/
 hash: 14cb697f8852614393d134a8ecf78bc3

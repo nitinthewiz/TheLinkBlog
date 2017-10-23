@@ -1,5 +1,6 @@
 ---
 title: "Rustica Relocates"
+slug: rustica-relocates
 date: 2009-07-07 11:31:39 -0500
 external-url: http://heavytable.com/rustica-relocates/
 hash: 431368da99f981cf99053fe4168dbe04

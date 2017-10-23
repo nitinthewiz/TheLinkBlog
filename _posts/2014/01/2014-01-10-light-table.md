@@ -1,5 +1,6 @@
 ---
 title: "Light Table"
+slug: light-table
 date: 2014-01-10 20:09:22 -0600
 external-url: http://www.lighttable.com/
 hash: 215b9267cb7419e9725aec28757911fc

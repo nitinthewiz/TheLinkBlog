@@ -1,5 +1,6 @@
 ---
 title: "How to reward skilled coders with something other than people management"
+slug: how-to-reward-skilled-coders-with-something-other-than-people
 date: 2014-11-23 22:21:02 -0600
 external-url: http://lizthedeveloper.com/how-to-reward-skilled-coders-with-something-other-than-people-management
 hash: 8bd25aa4e0ea269639020b18b76db1c2

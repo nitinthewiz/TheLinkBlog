@@ -1,5 +1,6 @@
 ---
 title: "Collective Intelligence FOO Camp"
+slug: collective-intelligence-foo-camp
 date: 2008-02-26 18:04:46 -0600
 external-url: http://www.grouplens.org/node/204
 hash: 54a2eb071b25a69bcb87f44badc20885

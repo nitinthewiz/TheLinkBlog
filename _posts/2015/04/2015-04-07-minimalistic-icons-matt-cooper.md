@@ -1,5 +1,6 @@
 ---
 title: "Minimalistic Icons - Matt Cooper"
+slug: minimalistic-icons-matt-cooper
 date: 2015-04-07 21:10:46 -0500
 external-url: http://matt-cooper.com/minimalistic-icons/
 hash: d06b95e135a6e6ad7f6f43c803cd3ba4

@@ -1,5 +1,6 @@
 ---
 title: "Milestone: 100 Million Certificates Issued - Let's Encrypt - Free SSL/TLS Certificates"
+slug: milestone-100-million-certificates-issued-let-s-encrypt-free-ssl-tls
 date: 2017-06-29 04:49:23 -0500
 external-url: https://letsencrypt.org/2017/06/28/hundred-million-certs.html
 hash: 171e8f8f3037a332483683d574c70a58

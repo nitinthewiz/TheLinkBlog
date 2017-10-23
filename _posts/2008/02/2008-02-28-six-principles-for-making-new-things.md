@@ -1,5 +1,6 @@
 ---
 title: "Six Principles for Making New Things"
+slug: six-principles-for-making-new-things
 date: 2008-02-28 11:10:58 -0600
 external-url: http://simpable.com/software/six-principles/
 hash: c404ab6ba721792d4906e7d11031a32b

@@ -1,5 +1,6 @@
 ---
 title: "Principles of Successful Software Engineering Teams"
+slug: principles-of-successful-software-engineering-teams
 date: 2017-09-14 03:37:39 -0500
 external-url: https://blog.brunomiranda.com/principles-of-successful-software-engineering-teams-41a65bfd56b3
 hash: b2b9963e6e9f08aa7885c519f481681e

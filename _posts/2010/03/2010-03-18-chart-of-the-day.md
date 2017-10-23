@@ -1,5 +1,6 @@
 ---
 title: "Chart Of The Day"
+slug: chart-of-the-day
 date: 2010-03-18 22:16:55 -0500
 external-url: http://www.pheedcontent.com/click.phdo?i=20e66efca2ae95978cfb46017a538055
 hash: 5737c5ef3ddbaaac2adb7042194a71d7

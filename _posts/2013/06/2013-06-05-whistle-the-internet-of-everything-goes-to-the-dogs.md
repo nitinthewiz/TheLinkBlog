@@ -1,5 +1,6 @@
 ---
 title: "Whistle: the Internet of everything goes to the dogs"
+slug: whistle-the-internet-of-everything-goes-to-the-dogs
 date: 2013-06-05 10:54:01 -0500
 external-url: http://www.tuaw.com/2013/06/05/whistle-the-internet-of-everything-goes-to-the-dogs/
 hash: fc5057f543421e609beb6183d8771bbf

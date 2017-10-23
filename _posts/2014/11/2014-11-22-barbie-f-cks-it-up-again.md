@@ -1,5 +1,6 @@
 ---
 title: "Barbie F*cks It Up Again"
+slug: barbie-f-cks-it-up-again
 date: 2014-11-22 14:26:12 -0600
 external-url: http://gizmodo.com/barbie-f-cks-it-up-again-1660326671
 hash: bb4b0b81ab7ef50b5ae6c953ea239d30

@@ -1,5 +1,6 @@
 ---
 title: "★ Thoughts and Observations on the Products Announced at This Week’s iPhone X Introductory Event —Daring Fireball"
+slug: thoughts-and-observations-on-the-products-announced-at-this-weeks-x
 date: 2017-09-15 03:59:57 -0500
 external-url: https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations
 hash: 953e6221386d5679ace5530b7862bd19

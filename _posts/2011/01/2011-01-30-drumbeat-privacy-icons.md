@@ -1,5 +1,6 @@
 ---
 title: "Drumbeat - Privacy Icons"
+slug: drumbeat-privacy-icons
 date: 2011-01-30 11:39:41 -0600
 external-url: http://www.drumbeat.org/node/1553/about
 hash: f0375d3cf7f4525a3afac78cccb69381

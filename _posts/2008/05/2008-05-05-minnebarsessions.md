@@ -1,5 +1,6 @@
 ---
 title: "MinneBarSessions"
+slug: minnebarsessions
 date: 2008-05-05 15:39:05 -0500
 external-url: http://barcamp.org/w/page/403871/MinneBarSessions
 hash: 7d587febeb5364a1011c0696c0942f79

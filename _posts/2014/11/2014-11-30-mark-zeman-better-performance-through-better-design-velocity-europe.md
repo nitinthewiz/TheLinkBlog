@@ -1,5 +1,6 @@
 ---
 title: "Mark Zeman: \"Better Performance Through Better Design\" - Velocity Europe 2014 - YouTube"
+slug: mark-zeman-better-performance-through-better-design-velocity-europe
 date: 2014-11-30 15:09:14 -0600
 external-url: https://www.youtube.com/watch?v=DFImM0r4EpE
 hash: 7488d0c351654285e5aee3e8e01278bd

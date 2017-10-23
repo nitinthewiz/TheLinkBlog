@@ -1,5 +1,6 @@
 ---
 title: "Killing the Email Action Folder"
+slug: killing-the-email-action-folder
 date: 2016-04-13 20:34:17 -0500
 external-url: http://macsparky.com/blog/2016/4/killing-the-email-action-folder
 hash: 2c357162be4fb7c9165801f383c087bf

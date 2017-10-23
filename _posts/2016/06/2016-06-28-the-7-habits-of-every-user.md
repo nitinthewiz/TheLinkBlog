@@ -1,5 +1,6 @@
 ---
 title: "The 7 Habits of Every User"
+slug: the-7-habits-of-every-user
 date: 2016-06-28 05:52:06 -0500
 external-url: https://medium.com/@chuck/the-7-habits-of-every-user-b6eaca8fba4b#.ya84frixk
 hash: 6c8a183271417a0a109685d00a97fa04

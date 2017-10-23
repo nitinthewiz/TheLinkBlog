@@ -1,5 +1,6 @@
 ---
 title: "LocalHikes"
+slug: localhikes
 date: 2006-09-18 05:27:54 -0500
 external-url: http://www.localhikes.com/
 hash: 51c7f670e364ed98101ae437ceb4da00

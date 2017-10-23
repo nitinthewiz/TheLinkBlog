@@ -1,5 +1,6 @@
 ---
 title: "The Typographic Desk Reference (TDR)"
+slug: the-typographic-desk-reference-tdr
 date: 2009-04-23 08:14:24 -0500
 external-url: http://typedeskref.com/
 hash: 9a2c2402c492d0528e9ba97216b38f8e

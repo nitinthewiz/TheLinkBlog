@@ -1,5 +1,6 @@
 ---
 title: "Fuck Everything, Nation Reports - The Onion"
+slug: fuck-everything-nation-reports-the-onion
 date: 2012-12-14 16:07:33 -0600
 external-url: http://www.theonion.com/articles/fuck-everything-nation-reports%2C30743/
 hash: e08a611b404524623eb5b40f95dc8842

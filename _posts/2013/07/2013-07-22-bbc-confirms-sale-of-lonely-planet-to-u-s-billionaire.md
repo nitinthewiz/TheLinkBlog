@@ -1,5 +1,6 @@
 ---
 title: "BBC confirms sale of Lonely Planet to U.S. billionaire"
+slug: bbc-confirms-sale-of-lonely-planet-to-u-s-billionaire
 date: 2013-07-22 14:30:53 -0500
 external-url: http://skift.com/2013/03/19/breaking-bbc-confirms-sale-of-lonely-planet-to-u-s-billionaire/
 hash: f2f718f4aaf592a820a8748191c02f4c

@@ -1,5 +1,6 @@
 ---
 title: "End-to-End Encryption FAQ | Day One Help"
+slug: end-to-end-encryption-faq-day-one-help
 date: 2017-06-09 21:13:32 -0500
 external-url: http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq
 hash: f0fe4890c0c834a3ccfcf6de9d3bebc7

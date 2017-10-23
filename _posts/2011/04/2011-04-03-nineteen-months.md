@@ -1,5 +1,6 @@
 ---
 title: "Nineteen Months"
+slug: nineteen-months
 date: 2011-04-03 06:11:50 -0500
 external-url: http://www.nineteenmonths.com/
 hash: 6aa97ffd9c08d6f3e158c63923255de4

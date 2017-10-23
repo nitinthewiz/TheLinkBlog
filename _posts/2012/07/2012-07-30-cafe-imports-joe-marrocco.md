@@ -1,5 +1,6 @@
 ---
 title: "Cafe Imports - Joe Marrocco"
+slug: cafe-imports-joe-marrocco
 date: 2012-07-30 22:23:49 -0500
 external-url: http://www.cafeimports.com/joe.php
 hash: b174cbe7d6d0b89fac67f08ff02500a7

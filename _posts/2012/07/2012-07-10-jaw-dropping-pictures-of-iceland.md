@@ -1,5 +1,6 @@
 ---
 title: "Jaw-Dropping Pictures of Iceland"
+slug: jaw-dropping-pictures-of-iceland
 date: 2012-07-10 22:31:57 -0500
 external-url: http://abduzeedo.com/jaw-dropping-pictures-iceland
 hash: 4f84d2be2712ee3a4ac78c0270b76dfd

@@ -1,5 +1,6 @@
 ---
 title: "Word clouds"
+slug: word-clouds
 date: 2008-06-20 02:29:48 -0500
 external-url: http://www.lunchoverip.com/2008/06/word-clouds.html
 hash: 6cab957433edb14e9d51eb45f81d3f74

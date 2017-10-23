@@ -1,5 +1,6 @@
 ---
 title: "Privacy, Secrecy, the Web, and Ads The Brooks Review"
+slug: privacy-secrecy-the-web-and-ads-the-brooks-review
 date: 2013-06-20 23:11:49 -0500
 external-url: https://brooksreview.net/2013/06/privacy-secrecy-the-web-and-ads/
 hash: 8f07b63602ae4e8774484ac879275e99

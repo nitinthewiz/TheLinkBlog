@@ -1,5 +1,6 @@
 ---
 title: "A Holiday Message From Ricky Gervais: ‘Why I’m an Atheist’"
+slug: a-holiday-message-from-ricky-gervais-why-im-an-atheist
 date: 2010-12-19 19:37:20 -0600
 external-url: http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/
 hash: e76da4565a049a86cbaec17aa36f7654

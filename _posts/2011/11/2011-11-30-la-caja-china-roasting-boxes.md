@@ -1,5 +1,6 @@
 ---
 title: "La Caja China Roasting Boxes"
+slug: la-caja-china-roasting-boxes
 date: 2011-11-30 10:50:31 -0600
 external-url: http://www.lacajachina.com/
 hash: e3d6dd3c0427ccd68e7115abd8195f26

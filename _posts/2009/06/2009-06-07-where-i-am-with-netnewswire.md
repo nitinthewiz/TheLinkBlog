@@ -1,5 +1,6 @@
 ---
 title: "Where I am with NetNewsWire"
+slug: where-i-am-with-netnewswire
 date: 2009-06-07 06:03:27 -0500
 external-url: http://inessential.com/2009/06/06/where_i_am_with_netnewswire
 hash: c346f46dd0ea12b84f1fe2ed5d4ea4e5

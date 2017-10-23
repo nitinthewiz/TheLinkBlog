@@ -1,5 +1,6 @@
 ---
 title: "Amazon API Gateway Supports API Definition Import and Export"
+slug: amazon-api-gateway-supports-api-definition-import-and-export
 date: 2015-12-18 19:30:39 -0600
 external-url: https://aws.amazon.com/about-aws/whats-new/2015/12/amazon-api-gateway-supports-api-definition-import-and-export/
 hash: 3ca866102a27b0a552298b5fec73b111

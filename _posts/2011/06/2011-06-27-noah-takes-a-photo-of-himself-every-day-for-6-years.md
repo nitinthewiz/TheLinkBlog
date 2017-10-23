@@ -1,5 +1,6 @@
 ---
 title: "Noah takes a photo of himself every day for 6 years."
+slug: noah-takes-a-photo-of-himself-every-day-for-6-years
 date: 2011-06-27 17:08:53 -0500
 external-url: http://www.youtube.com/watch?v=6B26asyGKDo
 hash: 3c34201c3121e3998824d9049d83fa22

@@ -1,5 +1,6 @@
 ---
 title: "WikiLeaks' Assange gets Australian peace prize"
+slug: wikileaks-assange-gets-australian-peace-prize
 date: 2011-05-10 22:00:18 -0500
 external-url: http://www.reuters.com/article/2011/05/10/us-australia-britain-assange-idUSTRE7495FP20110510
 hash: 47da638062087f024d8144b34b3b712f

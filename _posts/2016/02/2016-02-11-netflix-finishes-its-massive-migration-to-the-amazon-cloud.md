@@ -1,5 +1,6 @@
 ---
 title: "Netflix finishes its massive migration to the Amazon cloud"
+slug: netflix-finishes-its-massive-migration-to-the-amazon-cloud
 date: 2016-02-11 21:26:42 -0600
 external-url: http://arstechnica.com/information-technology/2016/02/netflix-finishes-its-massive-migration-to-the-amazon-cloud/
 hash: 016b7a995e4c3b434b7fa762d5f2f454

@@ -1,5 +1,6 @@
 ---
 title: "What the Second Time SaaS CEOs are All Doing - saastr"
+slug: what-the-second-time-saas-ceos-are-all-doing-saastr
 date: 2014-09-05 06:37:03 -0500
 external-url: http://saastr.com/2014/09/04/what-the-second-time-saas-ceos-are-doing/
 hash: ccb89e8354afbacc0adfed4547dd103a

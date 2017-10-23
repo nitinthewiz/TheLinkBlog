@@ -1,5 +1,6 @@
 ---
 title: "MG4J: Managing Gigabytes for Java"
+slug: mg4j-managing-gigabytes-for-java
 date: 2007-05-31 17:32:42 -0500
 external-url: http://mg4j.di.unimi.it/
 hash: 17ca5d57cabfd3444c6aba9acfb04e87

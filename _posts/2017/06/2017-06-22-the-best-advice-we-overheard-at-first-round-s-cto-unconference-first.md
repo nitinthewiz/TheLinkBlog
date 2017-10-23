@@ -1,5 +1,6 @@
 ---
 title: "The Best Advice We Overheard at First Round's CTO Unconference | First Round Review"
+slug: the-best-advice-we-overheard-at-first-round-s-cto-unconference-first
 date: 2017-06-22 07:16:38 -0500
 external-url: http://firstround.com/review/the-best-advice-we-overheard-at-first-rounds-cto-unconference/
 hash: 468c368653bfe200ff84d31b68e638f7

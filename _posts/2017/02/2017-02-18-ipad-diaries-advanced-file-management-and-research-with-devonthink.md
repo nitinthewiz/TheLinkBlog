@@ -1,5 +1,6 @@
 ---
 title: "iPad Diaries: Advanced File Management and Research with DEVONthink – MacStories"
+slug: ipad-diaries-advanced-file-management-and-research-with-devonthink
 date: 2017-02-18 07:30:58 -0600
 external-url: https://www.macstories.net/ios/ipad-diaries-advanced-file-management-and-research-with-devonthink/
 hash: 1e91b07ae115db255c093e0335de8521

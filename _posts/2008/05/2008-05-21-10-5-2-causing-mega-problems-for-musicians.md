@@ -1,5 +1,6 @@
 ---
 title: "10.5.2 causing mega-problems for musicians?"
+slug: 10-5-2-causing-mega-problems-for-musicians
 date: 2008-05-21 16:00:00 -0500
 external-url: http://www.tuaw.com/2008/05/21/10-5-2-causing-mega-problems-for-musicians/
 hash: cfca54c72494774e34c2a686a51997d1

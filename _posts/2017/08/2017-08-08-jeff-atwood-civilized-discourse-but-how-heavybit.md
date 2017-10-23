@@ -1,5 +1,6 @@
 ---
 title: "Jeff Atwood | Civilized Discourse... But How? | Heavybit"
+slug: jeff-atwood-civilized-discourse-but-how-heavybit
 date: 2017-08-08 16:21:52 -0500
 external-url: https://www.heavybit.com/library/video/civilized-discourse-but-how/
 hash: f77ed46f966004ddb07b7bd6935caba0

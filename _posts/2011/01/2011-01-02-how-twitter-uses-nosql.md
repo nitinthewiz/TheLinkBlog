@@ -1,5 +1,6 @@
 ---
 title: "How Twitter Uses NoSQL"
+slug: how-twitter-uses-nosql
 date: 2011-01-02 12:15:00 -0600
 external-url: http://www.readwriteweb.com/cloud/2011/01/how-twitter-uses-nosql.php
 hash: b68ee049f554a285feb186b2a72e48a5

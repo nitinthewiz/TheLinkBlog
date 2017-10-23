@@ -1,5 +1,6 @@
 ---
 title: "Google Refine"
+slug: google-refine
 date: 2012-05-17 12:15:51 -0500
 external-url: https://code.google.com/p/google-refine/
 hash: 26d6b9cd6c272317219eae423dbc3c2d

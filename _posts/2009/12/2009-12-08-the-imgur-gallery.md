@@ -1,5 +1,6 @@
 ---
 title: "The Imgur Gallery"
+slug: the-imgur-gallery
 date: 2009-12-08 20:23:04 -0600
 external-url: http://imgur.com/gallery/zP5fa
 hash: 4fdf83a64d2151c24bc19919bda09a4d

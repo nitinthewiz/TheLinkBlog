@@ -1,5 +1,6 @@
 ---
 title: "Big companies are where small companies go to die"
+slug: big-companies-are-where-small-companies-go-to-die
 date: 2008-08-14 11:56:00 -0500
 external-url: https://signalvnoise.com/posts/1197-big-companies-are-where-small-companies-go-to-die
 hash: 0639e9415109fc776504440e1e546b50

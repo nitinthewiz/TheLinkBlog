@@ -1,5 +1,6 @@
 ---
 title: "HomePod raises the bar for smart speakers —Apple World Today"
+slug: homepod-raises-the-bar-for-smart-speakers-apple-world-today
 date: 2017-06-05 19:02:46 -0500
 external-url: https://www.appleworld.today/blog/2017/6/5/homepod-raises-the-bar-for-smart-speakers
 hash: 37049a1fba6db67036986c90d6f0b75a

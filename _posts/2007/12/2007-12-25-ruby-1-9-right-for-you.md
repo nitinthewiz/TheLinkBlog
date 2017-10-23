@@ -1,5 +1,6 @@
 ---
 title: "Ruby 1.9—Right for You?"
+slug: ruby-1-9-right-for-you
 date: 2007-12-25 18:40:04 -0600
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2007/12/ruby-19right-fo.html
 hash: b549673055fa9b4fda1fd3f7cfecc22e

@@ -1,5 +1,6 @@
 ---
 title: "New Relic to Monitor Performance of Rails Applications"
+slug: new-relic-to-monitor-performance-of-rails-applications
 date: 2008-05-01 01:07:37 -0500
 external-url: http://techcrunch.com/2008/04/30/new-relic-to-monitor-performance-of-rails-applications/
 hash: ebb2a2851056d4f8aec070950074c6ca

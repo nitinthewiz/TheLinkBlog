@@ -1,5 +1,6 @@
 ---
 title: "DaisyDisk - Analyze disk usage and free up disk space on Mac"
+slug: daisydisk-analyze-disk-usage-and-free-up-disk-space-on-mac
 date: 2011-04-19 15:27:32 -0500
 external-url: http://www.daisydiskapp.com/
 hash: 8324ef1c23df992948f64d83e0474c2e

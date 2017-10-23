@@ -1,5 +1,6 @@
 ---
 title: "Active Admin"
+slug: active-admin
 date: 2011-05-13 14:27:32 -0500
 external-url: http://activeadmin.info/
 hash: 00042ae45ddc026270eee57132fde7c0

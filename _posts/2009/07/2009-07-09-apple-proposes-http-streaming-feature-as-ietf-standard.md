@@ -1,5 +1,6 @@
 ---
 title: "Apple proposes HTTP streaming feature as IETF standard"
+slug: apple-proposes-http-streaming-feature-as-ietf-standard
 date: 2009-07-09 23:05:12 -0500
 external-url: http://arstechnica.com/apple/2009/07/apple-proposes-http-streaming-feature-as-a-protocol-standard/
 hash: 862c50a381f4c5351b201b15d9004288

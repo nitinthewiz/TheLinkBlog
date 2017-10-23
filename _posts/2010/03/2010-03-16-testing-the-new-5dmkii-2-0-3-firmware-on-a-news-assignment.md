@@ -1,5 +1,6 @@
 ---
 title: "Testing the new 5DmkII 2.0.3 firmware on a news assignment"
+slug: testing-the-new-5dmkii-2-0-3-firmware-on-a-news-assignment
 date: 2010-03-16 22:38:19 -0500
 external-url: http://www.newsshooter.com/2010/03/16/testing-the-new-5dmkii-2-0-3-firmware-on-a-news-assignment/
 hash: 664a7da11aba4e00f91f25c3151a787d

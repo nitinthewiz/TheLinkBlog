@@ -1,5 +1,6 @@
 ---
 title: "Stack Overflow Developer Survey 2016 Results"
+slug: stack-overflow-developer-survey-2016-results
 date: 2016-03-17 20:48:24 -0500
 external-url: http://stackoverflow.com/research/developer-survey-2016#overview
 hash: 36b554b598b67e5dbd977b640086a62d

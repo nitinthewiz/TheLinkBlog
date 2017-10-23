@@ -1,5 +1,6 @@
 ---
 title: "Making sense of MVP (Minimum Viable Product)"
+slug: making-sense-of-mvp-minimum-viable-product
 date: 2016-04-16 08:16:48 -0500
 external-url: http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp
 hash: 2844f9e49c9a2400f7f8caf1a2e8572d

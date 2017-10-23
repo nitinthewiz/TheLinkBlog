@@ -1,5 +1,6 @@
 ---
 title: "WWD Screencast: Automated Screenshots With Fake"
+slug: wwd-screencast-automated-screenshots-with-fake
 date: 2010-07-09 18:00:50 -0500
 external-url: http://gigaom.com/2010/07/09/wwd-screencast-automated-screenshots-with-fake/
 hash: efe34431feb8fa85d43243c2285875fa

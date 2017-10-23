@@ -1,5 +1,6 @@
 ---
 title: "Delicious Library: Buy Now, Upgrade Later for Free."
+slug: delicious-library-buy-now-upgrade-later-for-free
 date: 2007-12-20 19:39:00 -0600
 external-url: http://blog.delicious-monster.com/2007/12/delicious-library-buy-now-upgrade-later.html
 hash: 8a8d6e8890b3103c37f01dd1cf1f993e

@@ -1,5 +1,6 @@
 ---
 title: "Federated Wiki is the Song of Code and Content"
+slug: federated-wiki-is-the-song-of-code-and-content
 date: 2014-04-04 18:35:12 -0500
 external-url: http://blog.newrelic.com/2014/04/04/futuretalk-ward-cunningham-federated-wiki-song-code-content/
 hash: f6109396f7202f43dfa1f92f09090676

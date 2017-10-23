@@ -1,5 +1,6 @@
 ---
 title: "Antarctic IRC: how NASAs flying lab stays connected"
+slug: antarctic-irc-how-nasas-flying-lab-stays-connected
 date: 2013-01-02 14:20:15 -0600
 external-url: http://arstechnica.com/information-technology/2013/01/antarctic-irc-how-nasas-flying-lab-stays-connected/
 hash: d20e70d2561d47826ea56ade0f419614

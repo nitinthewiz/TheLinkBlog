@@ -1,5 +1,6 @@
 ---
 title: "Subjective Impressions Do Not Mirror Online Reading Effort: Concurrent EEG-Eyetracking Evidence from the Reading of Books and Digital Media"
+slug: subjective-impressions-do-not-mirror-online-reading-effort-concurrent
 date: 2013-03-08 12:09:25 -0600
 external-url: http://www.plosone.org/static/pageNotFound.action
 hash: 06c81a7eb4214cd23453a33d074ca89d

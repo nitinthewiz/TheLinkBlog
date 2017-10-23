@@ -1,5 +1,6 @@
 ---
 title: "Nambu: A Better Twitter Client Than Tweetdeck?"
+slug: nambu-a-better-twitter-client-than-tweetdeck
 date: 2009-04-06 23:50:29 -0500
 external-url: http://readwrite.com/2009/04/06/nambu_a_better_twitter_client_than_tweetdeck
 hash: 1c375985173d6d4cec3e6051b0df2c89

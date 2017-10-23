@@ -1,5 +1,6 @@
 ---
 title: "Pchart4mw extension for creating charts"
+slug: pchart4mw-extension-for-creating-charts
 date: 2012-05-03 21:54:09 -0500
 external-url: http://code.google.com/p/pchart4mw/
 hash: b51817a51dccaf3c4a624f4fc3b6f0e4

@@ -1,5 +1,6 @@
 ---
 title: "Poems on the big screen? Motionpoems"
+slug: poems-on-the-big-screen-motionpoems
 date: 2011-05-15 15:02:13 -0500
 external-url: https://www.kickstarter.com/projects/375616979/poems-on-the-big-screen-motionpoems
 hash: dff30a0360b4f59a7df8729ee9c08e37

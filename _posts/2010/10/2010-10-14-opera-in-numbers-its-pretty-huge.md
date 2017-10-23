@@ -1,5 +1,6 @@
 ---
 title: "Opera In Numbers (It’s Pretty Huge)"
+slug: opera-in-numbers-its-pretty-huge
 date: 2010-10-14 18:11:00 -0500
 external-url: http://techcrunch.com/2010/10/14/opera-in-numbers-its-pretty-huge/
 hash: 5cbb5b77de0ca8029ed1123ccf1bc2a3

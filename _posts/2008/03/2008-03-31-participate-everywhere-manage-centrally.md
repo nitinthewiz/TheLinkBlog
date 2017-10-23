@@ -1,5 +1,6 @@
 ---
 title: "Participate Everywhere, Manage Centrally"
+slug: participate-everywhere-manage-centrally
 date: 2008-03-31 05:39:45 -0500
 external-url: http://www.loupaglia.com/correlate/2008/03/31/participate-everywhere-manage-centrally/
 hash: 223c86e423e54c4566ebbe51267ab273

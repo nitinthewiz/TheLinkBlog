@@ -1,5 +1,6 @@
 ---
 title: "The Daily Shoot"
+slug: the-daily-shoot
 date: 2009-12-08 21:45:02 -0600
 external-url: http://www.clarkware.com/blog/2009/12/07/the-daily-shoot
 hash: 5d760108f5cf0074bf90a4cf1e526553

@@ -1,5 +1,6 @@
 ---
 title: "Investor Chamath Palihapitiya Says Were At An Absolute Low Point In Startup Quality"
+slug: investor-chamath-palihapitiya-says-were-at-an-absolute-low-point-in
 date: 2013-04-29 23:08:11 -0500
 external-url: http://techcrunch.com/2013/04/29/chamath-palihapitiya-disrupt/
 hash: 689df4221cfb14395edefc7f9c00f949

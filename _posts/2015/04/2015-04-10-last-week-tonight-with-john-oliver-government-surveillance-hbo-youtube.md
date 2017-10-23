@@ -1,5 +1,6 @@
 ---
 title: "Last Week Tonight with John Oliver: Government Surveillance (HBO) - YouTube"
+slug: last-week-tonight-with-john-oliver-government-surveillance-hbo-youtube
 date: 2015-04-10 20:35:08 -0500
 external-url: https://www.youtube.com/watch?v=XEVlyP4_11M
 hash: 47208e85176e2b68dbed4e91747a999c

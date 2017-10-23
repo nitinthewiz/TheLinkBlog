@@ -1,5 +1,6 @@
 ---
 title: "Siri Commands on Apple TV"
+slug: siri-commands-on-apple-tv
 date: 2015-11-09 21:40:59 -0600
 external-url: http://macsparky.com/blog/2015/11/siri-commands-on-apple-tv
 hash: 80e8181f3593be97108893ad20f748f5

@@ -1,5 +1,6 @@
 ---
 title: "Slack vs. HipChat"
+slug: slack-vs-hipchat
 date: 2015-05-12 20:31:24 -0500
 external-url: http://slackvshipchat.com/
 hash: d03aa3b9e7f25de8b3fb7b9df0121ab8

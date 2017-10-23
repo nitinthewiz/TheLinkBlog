@@ -1,5 +1,6 @@
 ---
 title: "Google CEO Says Privacy Worries Are For Wrongdoers"
+slug: google-ceo-says-privacy-worries-are-for-wrongdoers
 date: 2009-12-08 21:42:24 -0600
 external-url: http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oCdEk5Kual0/Google-CEO-Says-Privacy-Worries-Are-For-Wrongdoers
 hash: c0f5de8346faab904d7cf82263f5a463

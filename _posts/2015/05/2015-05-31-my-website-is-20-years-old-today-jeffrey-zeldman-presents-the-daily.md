@@ -1,5 +1,6 @@
 ---
 title: "My website is 20 years old today. | Jeffrey Zeldman Presents The Daily Report: Web Design News & Insights Since 1995"
+slug: my-website-is-20-years-old-today-jeffrey-zeldman-presents-the-daily
 date: 2015-05-31 23:22:17 -0500
 external-url: http://www.zeldman.com/2015/05/31/my-website-is-20-years-old-today/
 hash: a0a5f9814c8406e019a6c11985f506b9

@@ -1,5 +1,6 @@
 ---
 title: "Wikimedia Celebrates Hewlett Grant"
+slug: wikimedia-celebrates-hewlett-grant
 date: 2009-08-23 17:22:10 -0500
 external-url: http://readwrite.com/2009/08/20/wikimedia_celebrates_hewlett_grant
 hash: 785a7f26335d4f8896a058b37b99c5af

@@ -1,5 +1,6 @@
 ---
 title: "Mix, Twitter, and Hashtags"
+slug: mix-twitter-and-hashtags
 date: 2008-03-03 17:11:54 -0600
 external-url: http://simpable.com/technology/hashtags/
 hash: b74bbff0a0824696bda291f554608d4c

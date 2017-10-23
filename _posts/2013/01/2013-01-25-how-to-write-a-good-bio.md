@@ -1,5 +1,6 @@
 ---
 title: "How to write a good bio"
+slug: how-to-write-a-good-bio
 date: 2013-01-25 09:49:11 -0600
 external-url: http://scottberkun.com/2013/how-to-write-a-good-bio/
 hash: 1868863630da23003f00bdaa2cb9fbad

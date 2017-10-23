@@ -1,5 +1,6 @@
 ---
 title: "MLUnsold Digital Imaging"
+slug: mlunsold-digital-imaging
 date: 2005-08-10 09:20:19 -0500
 external-url: http://www.mlunsold.com/
 hash: cb8ef1ec1c809bc87d62758f1a0122a9

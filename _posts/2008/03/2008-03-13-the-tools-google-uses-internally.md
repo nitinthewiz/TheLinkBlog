@@ -1,5 +1,6 @@
 ---
 title: "The Tools Google Uses Internally"
+slug: the-tools-google-uses-internally
 date: 2008-03-13 00:42:00 -0500
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=43054
 hash: 49fb15986b08adf1aca7941ba91b6830

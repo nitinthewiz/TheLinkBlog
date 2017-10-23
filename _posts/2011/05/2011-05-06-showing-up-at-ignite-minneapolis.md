@@ -1,5 +1,6 @@
 ---
 title: "Showing Up at Ignite Minneapolis"
+slug: showing-up-at-ignite-minneapolis
 date: 2011-05-06 12:00:30 -0500
 external-url: http://pioneerosis.com/lighting-it-up-at-ignite-minneapolis
 hash: b8aa12fa711034e823e71924b42c524f

@@ -1,5 +1,6 @@
 ---
 title: "Cooper Flags"
+slug: cooper-flags
 date: 2011-03-09 11:12:57 -0600
 external-url: http://www.cooperflags.com/roofs.cfm
 hash: 5240eae72bb79d592b6746764492fcc7

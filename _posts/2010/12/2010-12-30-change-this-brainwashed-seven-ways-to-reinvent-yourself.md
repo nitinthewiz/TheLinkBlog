@@ -1,5 +1,6 @@
 ---
 title: "Change This - Brainwashed: Seven Ways to Reinvent Yourself"
+slug: change-this-brainwashed-seven-ways-to-reinvent-yourself
 date: 2010-12-30 11:08:37 -0600
 external-url: http://changethis.com/manifesto/show/66.01.Brainwashed
 hash: 94d0df810fae1aae812df7a839ee7e33

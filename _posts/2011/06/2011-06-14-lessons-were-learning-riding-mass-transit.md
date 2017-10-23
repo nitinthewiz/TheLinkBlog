@@ -1,5 +1,6 @@
 ---
 title: "Lessons We’re Learning Riding Mass Transit"
+slug: lessons-were-learning-riding-mass-transit
 date: 2011-06-14 00:13:40 -0500
 external-url: http://zenhabits.net/transit/
 hash: b1f65cf44565e1f314f7ba56bc2b842a

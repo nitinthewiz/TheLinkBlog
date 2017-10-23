@@ -1,5 +1,6 @@
 ---
 title: "Serverless Hosting Comparison – headmelted"
+slug: serverless-hosting-comparison-headmelted
 date: 2017-07-20 23:01:52 -0500
 external-url: https://headmelted.com/serverless-showdown-4a771ca561d2
 hash: 870f05303a7a359d99e6ac92cebad2a1

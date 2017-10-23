@@ -1,5 +1,6 @@
 ---
 title: "Ex-Yahoo Neil Budde lands at the Los Angeles Times"
+slug: ex-yahoo-neil-budde-lands-at-the-los-angeles-times
 date: 2008-03-05 16:47:37 -0600
 external-url: http://gawker.com/364374/ex%2Byahoo-neil-budde-lands-at-the-los-angeles-times
 hash: 4d6e70ceb96c05d82894beaf5a5df01e

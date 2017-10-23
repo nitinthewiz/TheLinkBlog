@@ -1,5 +1,6 @@
 ---
 title: "High Sierra - Terminal lags if background opacity is set - Ask Different"
+slug: high-sierra-terminal-lags-if-background-opacity-is-set-ask-different
 date: 2017-10-13 07:06:24 -0500
 external-url: https://apple.stackexchange.com/questions/299982/high-sierra-terminal-lags-if-background-opacity-is-set
 hash: 7db566c057f0be336a6da40bf1169be1

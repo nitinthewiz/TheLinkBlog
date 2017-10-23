@@ -1,5 +1,6 @@
 ---
 title: "Apple Watch Series 3 review: The start of something big - Six Colors"
+slug: apple-watch-series-3-review-the-start-of-something-big-six-colors
 date: 2017-10-06 19:24:20 -0500
 external-url: https://sixcolors.com/post/2017/10/apple-watch-series-3-review-the-start-of-something-big/
 hash: fc3ce225c345a7f69ed1c39412c93815

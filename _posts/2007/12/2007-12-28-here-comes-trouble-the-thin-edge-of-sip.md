@@ -1,5 +1,6 @@
 ---
 title: "Here Comes Trouble: The Thin Edge of SIP"
+slug: here-comes-trouble-the-thin-edge-of-sip
 date: 2007-12-28 05:30:35 -0600
 external-url: http://gigaom.com/2007/12/28/here-comes-trouble-the-thin-edge-of-sip/
 hash: 95ba276adf4baef0fded9d1f929d6923

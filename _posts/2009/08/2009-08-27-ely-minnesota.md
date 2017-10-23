@@ -1,5 +1,6 @@
 ---
 title: "Ely, Minnesota"
+slug: ely-minnesota
 date: 2009-08-27 00:15:09 -0500
 external-url: http://laynekennedy.blogspot.com/2009/08/ely-minnesota.html
 hash: 3980146cdbcc7d2408f0578664a73625

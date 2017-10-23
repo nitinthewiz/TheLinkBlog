@@ -1,5 +1,6 @@
 ---
 title: "The reactive manifesto"
+slug: the-reactive-manifesto
 date: 2013-12-11 04:20:03 -0600
 external-url: http://www.reactivemanifesto.org/#the-need-to-go-reactive
 hash: 5242b23bfda429bcb7f3a1c1fd6436b8

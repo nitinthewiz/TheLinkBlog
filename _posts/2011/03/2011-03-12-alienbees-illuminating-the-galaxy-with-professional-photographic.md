@@ -1,5 +1,6 @@
 ---
 title: "AlienBees: Illuminating the Galaxy with Professional Photographic Lighting Equipment"
+slug: alienbees-illuminating-the-galaxy-with-professional-photographic
 date: 2011-03-12 22:22:00 -0600
 external-url: http://www.alienbees.com/b800.html
 hash: db16ef65d8fe7331793244eb0b9a548b

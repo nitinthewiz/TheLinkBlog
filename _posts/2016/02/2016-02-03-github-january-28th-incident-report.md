@@ -1,5 +1,6 @@
 ---
 title: "Github January 28th Incident Report"
+slug: github-january-28th-incident-report
 date: 2016-02-03 19:12:27 -0600
 external-url: https://github.com/blog/2106-january-28th-incident-report
 hash: 8e52958ef2a59735017779e080a0ca3c

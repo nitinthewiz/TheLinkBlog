@@ -1,5 +1,6 @@
 ---
 title: "A Vacation Spot With An Afterglow | MetaFilter"
+slug: a-vacation-spot-with-an-afterglow-metafilter
 date: 2011-01-17 21:51:57 -0600
 external-url: http://www.metafilter.com/98485/A-Vacation-Spot-With-An-Afterglow#3418653
 hash: 704c697a8b4f852d20754894c2e2fd3c

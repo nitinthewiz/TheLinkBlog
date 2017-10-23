@@ -1,5 +1,6 @@
 ---
 title: "Mailman 3.0 to modernize mailing lists [LWN.net]"
+slug: mailman-3-0-to-modernize-mailing-lists-lwn-net
 date: 2015-04-07 22:24:44 -0500
 external-url: http://lwn.net/SubscriberLink/638090/0229275ea355532b/
 hash: 37810145d9a137fa47d8922c5e7b76c5

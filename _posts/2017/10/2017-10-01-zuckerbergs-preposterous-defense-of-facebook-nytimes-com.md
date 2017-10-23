@@ -1,5 +1,6 @@
 ---
 title: "Zuckerberg’s Preposterous Defense of Facebook - NYTimes.com"
+slug: zuckerbergs-preposterous-defense-of-facebook-nytimes-com
 date: 2017-10-01 10:02:23 -0500
 external-url: https://nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
 hash: 75943a3f449677c78e411dd37ada8968

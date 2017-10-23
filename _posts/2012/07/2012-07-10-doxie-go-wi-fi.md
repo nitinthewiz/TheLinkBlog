@@ -1,5 +1,6 @@
 ---
 title: "Doxie Go + Wi-Fi"
+slug: doxie-go-wi-fi
 date: 2012-07-10 22:33:13 -0500
 external-url: http://www.getdoxie.com/product/doxie-go-wifi/
 hash: 941252e850a84f0464ebf190dddc9b67

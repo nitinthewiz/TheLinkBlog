@@ -1,5 +1,6 @@
 ---
 title: "The Hijacked Commission - NYTimes.com"
+slug: the-hijacked-commission-nytimes-com
 date: 2010-11-14 18:43:40 -0600
 external-url: http://www.nytimes.com/2010/11/12/opinion/12krugman.html?partner=rssnyt&emc=rss
 hash: 583aba87be9500702b2f3dfef6f7e293

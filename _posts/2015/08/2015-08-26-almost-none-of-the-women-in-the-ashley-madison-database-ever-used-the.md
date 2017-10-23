@@ -1,5 +1,6 @@
 ---
 title: "Almost None of the Women in the Ashley Madison Database Ever Used the Site"
+slug: almost-none-of-the-women-in-the-ashley-madison-database-ever-used-the
 date: 2015-08-26 17:22:53 -0500
 external-url: http://gizmodo.com/almost-none-of-the-women-in-the-ashley-madison-database-1725558944
 hash: 847b748fa114fcae2df10a92df736968

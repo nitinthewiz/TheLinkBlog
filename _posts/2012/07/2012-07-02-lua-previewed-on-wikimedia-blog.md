@@ -1,5 +1,6 @@
 ---
 title: "Lua previewed on Wikimedia blog"
+slug: lua-previewed-on-wikimedia-blog
 date: 2012-07-02 11:30:43 -0500
 external-url: http://blog.wikimedia.org/2012/07/02/lua-previewed/
 hash: 927d4be633d6c0006d8692db438a9982

@@ -1,5 +1,6 @@
 ---
 title: "SQLite Admin for AIR 1.0"
+slug: sqlite-admin-for-air-1-0
 date: 2008-03-23 15:06:53 -0500
 external-url: http://coenraets.org/blog/2008/02/sqlite-admin-for-air-10/
 hash: 6bd1a0402de1f92f09189020ae9b8301

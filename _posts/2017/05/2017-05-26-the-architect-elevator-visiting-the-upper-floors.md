@@ -1,5 +1,6 @@
 ---
 title: "The Architect Elevator — Visiting the upper floors"
+slug: the-architect-elevator-visiting-the-upper-floors
 date: 2017-05-26 22:23:24 -0500
 external-url: https://martinfowler.com/articles/architect-elevator.html
 hash: 5b6a42f6b8ec3788b2f2f169b1bf1d89

@@ -1,5 +1,6 @@
 ---
 title: "15 Mind-Blowing Facts About Wealth And Inequality In America"
+slug: 15-mind-blowing-facts-about-wealth-and-inequality-in-america
 date: 2010-07-16 10:46:00 -0500
 external-url: http://www.businessinsider.com/us-wealth-inequality-2010-7?op=1
 hash: 9f941afabab96762096337e166e2c612

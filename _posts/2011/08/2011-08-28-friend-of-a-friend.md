@@ -1,5 +1,6 @@
 ---
 title: "Friend of a friend"
+slug: friend-of-a-friend
 date: 2011-08-28 07:57:57 -0500
 external-url: http://en.wikipedia.org/wiki/FOAF_(software)
 hash: dfa2622565383546db96a3a65ead7962

@@ -1,5 +1,6 @@
 ---
 title: "DBstep - NASDAQ Dubstep by Motin"
+slug: dbstep-nasdaq-dubstep-by-motin
 date: 2012-12-30 10:41:05 -0600
 external-url: http://soundcloud.com/motin/dbstep-nasdaq-dubstep
 hash: 3d82ed8bdce1336eb27e12cf219502bf

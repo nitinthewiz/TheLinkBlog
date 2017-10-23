@@ -1,5 +1,6 @@
 ---
 title: "Niwa Design Studio"
+slug: niwa-design-studio
 date: 2011-06-04 04:41:26 -0500
 external-url: http://www.niwadesign.com/
 hash: 4b9feef0fa5346237b93356f1e7a354d

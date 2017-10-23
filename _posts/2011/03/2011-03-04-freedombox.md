@@ -1,5 +1,6 @@
 ---
 title: "FreedomBox"
+slug: freedombox
 date: 2011-03-04 14:23:34 -0600
 external-url: http://wiki.debian.org/FreedomBox
 hash: 37c136d47774b209265c7d24a29bda5f

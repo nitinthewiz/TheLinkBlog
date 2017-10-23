@@ -1,5 +1,6 @@
 ---
 title: "claudiajs/claudia: deploy Node.js microservices to AWS easily"
+slug: claudiajs-claudia-deploy-node-js-microservices-to-aws-easily
 date: 2016-02-23 11:39:35 -0600
 external-url: https://github.com/claudiajs/claudia
 hash: 8f06ba5225f0f84bd9c0d782db8d9c4d

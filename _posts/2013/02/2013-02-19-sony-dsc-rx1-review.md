@@ -1,5 +1,6 @@
 ---
 title: "Sony DSC-RX1 Review"
+slug: sony-dsc-rx1-review
 date: 2013-02-19 14:52:19 -0600
 external-url: http://duncandavidson.com/gear/sony/rx1/
 hash: ad0a61faa4403bf5fbfc35149ca96708

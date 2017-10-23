@@ -1,5 +1,6 @@
 ---
 title: "Start the screen saver with Quicksilver"
+slug: start-the-screen-saver-with-quicksilver
 date: 2008-11-18 15:04:48 -0600
 external-url: http://leafraker.com/2007/09/14/start-the-screen-saver-with-quicksilver/
 hash: 1c7000bc34db4b6aecb4b797518fe701

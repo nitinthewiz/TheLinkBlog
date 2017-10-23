@@ -1,5 +1,6 @@
 ---
 title: "Richat Structure - Wikipedia, the free encyclopedia"
+slug: richat-structure-wikipedia-the-free-encyclopedia
 date: 2013-02-22 20:07:14 -0600
 external-url: http://en.wikipedia.org/wiki/Richat_Structure
 hash: 1843dea6a514abd879a0b6801c7a6812

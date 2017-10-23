@@ -1,5 +1,6 @@
 ---
 title: "How To Build An Incubator That Wins"
+slug: how-to-build-an-incubator-that-wins
 date: 2011-01-26 03:53:12 -0600
 external-url: http://www.cogmap.com/blog/2011/01/26/how-to-build-an-incubator-that-wins/
 hash: 7a685cd450575c682931817d5ed1518a

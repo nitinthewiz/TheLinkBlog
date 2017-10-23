@@ -1,5 +1,6 @@
 ---
 title: "Google Operating System: Google Mine"
+slug: google-operating-system-google-mine
 date: 2013-06-24 23:36:49 -0500
 external-url: http://googlesystem.blogspot.com/2013/06/google-mine.html
 hash: 2ce9151569b132e81c31d9c4bac3b218

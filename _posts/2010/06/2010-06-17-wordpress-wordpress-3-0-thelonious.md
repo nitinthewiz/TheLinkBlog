@@ -1,5 +1,6 @@
 ---
 title: "WordPress ›   WordPress 3.0 \"Thelonious\""
+slug: wordpress-wordpress-3-0-thelonious
 date: 2010-06-17 20:06:22 -0500
 external-url: http://wordpress.org/news/2010/06/thelonious/
 hash: cedf77e15ae27f21f0505d450ef6aa65

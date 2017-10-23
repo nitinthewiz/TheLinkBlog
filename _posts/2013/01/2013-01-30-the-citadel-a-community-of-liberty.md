@@ -1,5 +1,6 @@
 ---
 title: "The Citadel : A Community of Liberty"
+slug: the-citadel-a-community-of-liberty
 date: 2013-01-30 09:31:15 -0600
 external-url: http://iiicitadel.blogspot.com/
 hash: 28e7bec6e587388d1852860f7f35ee25

@@ -1,5 +1,6 @@
 ---
 title: "There's more than one tech"
+slug: there-s-more-than-one-tech
 date: 2013-06-20 23:24:39 -0500
 external-url: http://threads2.scripting.com/2013/june/theresMoreThanOneTech
 hash: cb5df57dba1dd4a123fd619f58e83537

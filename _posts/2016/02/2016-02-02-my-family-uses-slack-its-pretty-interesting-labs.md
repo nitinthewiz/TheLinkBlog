@@ -1,5 +1,6 @@
 ---
 title: "My family uses Slack. It’s pretty interesting. | Labs"
+slug: my-family-uses-slack-its-pretty-interesting-labs
 date: 2016-02-02 13:10:41 -0600
 external-url: http://labs.earthpeople.se/2016/02/my-family-uses-slack/
 hash: 16c5fe677a28492709dd573c921823d1

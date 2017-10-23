@@ -1,5 +1,6 @@
 ---
 title: "Announcing: iPhone Pub Night"
+slug: announcing-iphone-pub-night
 date: 2009-02-25 22:17:34 -0600
 external-url: http://www.unpossible.com/2009/02/24/announcing-iphone-pub-night/
 hash: acb61775b1eb3c86a04d42bef6abc409

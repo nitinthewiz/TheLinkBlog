@@ -1,5 +1,6 @@
 ---
 title: "A Psychological Exploration of Engagement in Geek Culture"
+slug: a-psychological-exploration-of-engagement-in-geek-culture
 date: 2015-12-29 05:34:21 -0600
 external-url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142200
 hash: 97e0acc9b4d7580e2c6fafe2ab315a83

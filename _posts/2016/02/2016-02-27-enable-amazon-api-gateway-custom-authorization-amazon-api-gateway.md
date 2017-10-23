@@ -1,5 +1,6 @@
 ---
 title: "Enable Amazon API Gateway Custom Authorization - Amazon API Gateway"
+slug: enable-amazon-api-gateway-custom-authorization-amazon-api-gateway
 date: 2016-02-27 21:15:29 -0600
 external-url: http://docs.aws.amazon.com/apigateway/latest/developerguide/use-custom-authorizer.html?adbsc=docs_20160227_58439126
 hash: 6d607048c5127602de00a0d273215554

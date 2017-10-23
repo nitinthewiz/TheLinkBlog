@@ -1,5 +1,6 @@
 ---
 title: "@google Nice!"
+slug: google-nice
 date: 2009-10-21 22:42:29 -0500
 external-url: http://blog.twitter.com/2009/10/google-nice.html
 hash: c42a8d56b37daec05e2e8d718471e486

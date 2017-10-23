@@ -1,5 +1,6 @@
 ---
 title: "JQuery Knob demo"
+slug: jquery-knob-demo
 date: 2012-05-14 13:29:04 -0500
 external-url: http://anthonyterrien.com/knob/
 hash: e8ac598cf1d579901c58e9dd006b495b

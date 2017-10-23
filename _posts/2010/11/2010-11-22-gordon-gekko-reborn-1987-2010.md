@@ -1,5 +1,6 @@
 ---
 title: "Gordon Gekko Reborn: 1987-2010"
+slug: gordon-gekko-reborn-1987-2010
 date: 2010-11-22 17:05:58 -0600
 external-url: http://www.economonitor.com/nouriel/2010/11/22/gordon-gekko-reborn-1987-2010/
 hash: d896279227940abe249191bf604a2f2d

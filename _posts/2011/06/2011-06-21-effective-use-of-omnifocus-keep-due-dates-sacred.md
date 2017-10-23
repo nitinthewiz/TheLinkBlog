@@ -1,5 +1,6 @@
 ---
 title: "Effective use of OmniFocus: Keep due dates sacred"
+slug: effective-use-of-omnifocus-keep-due-dates-sacred
 date: 2011-06-21 21:07:57 -0500
 external-url: http://sharplet.me/post/6753096142/effective-use-of-omnifocus-keep-due-dates-sacred
 hash: b0da1a2ad351668862ab52689d4506aa

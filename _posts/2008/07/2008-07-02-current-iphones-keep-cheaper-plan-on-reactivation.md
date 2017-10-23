@@ -1,5 +1,6 @@
 ---
 title: "Current iPhones Keep Cheaper Plan on Reactivation"
+slug: current-iphones-keep-cheaper-plan-on-reactivation
 date: 2008-07-02 00:17:29 -0500
 external-url: http://tidbits.com/article/9680
 hash: 0c19e92e8ad2c8bb743dc699b59b636c

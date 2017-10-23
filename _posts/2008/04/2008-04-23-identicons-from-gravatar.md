@@ -1,5 +1,6 @@
 ---
 title: "Identicons from Gravatar"
+slug: identicons-from-gravatar
 date: 2008-04-23 00:34:04 -0500
 external-url: http://ma.tt/2008/04/identicons-from-gravatar/
 hash: bb150338e05b00b8aff845236b38b77a

@@ -1,5 +1,6 @@
 ---
 title: "Dear Twitter: You're a Utility - Get Off The Fence And Start Acting Like One"
+slug: dear-twitter-you-re-a-utility-get-off-the-fence-and-start-acting-like
 date: 2011-02-21 17:30:00 -0600
 external-url: http://readwrite.com/2011/02/21/dear_twitter_youre_a_utility_-_get_off_the_fence_and_start_acting_like_one
 hash: 78358d3caf784243393dbc3a78d2e5e2

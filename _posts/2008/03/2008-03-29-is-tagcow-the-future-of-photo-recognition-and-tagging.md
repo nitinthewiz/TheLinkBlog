@@ -1,5 +1,6 @@
 ---
 title: "Is Tagcow the Future of Photo Recognition and Tagging?"
+slug: is-tagcow-the-future-of-photo-recognition-and-tagging
 date: 2008-03-29 20:22:00 -0500
 external-url: http://thomashawk.com/2008/03/is-tagcow-future-of-photo-recognition.html
 hash: a6ca2d10496975746449c198c9edba7b

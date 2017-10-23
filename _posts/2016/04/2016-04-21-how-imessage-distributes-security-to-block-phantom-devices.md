@@ -1,5 +1,6 @@
 ---
 title: "How iMessage distributes security to block “phantom devices”"
+slug: how-imessage-distributes-security-to-block-phantom-devices
 date: 2016-04-21 11:28:54 -0500
 external-url: https://securosis.com/mobile/how-imessage-distributes-security-to-block-phantom-devices/full
 hash: be85ef0843e034882dae78d14e611a4e

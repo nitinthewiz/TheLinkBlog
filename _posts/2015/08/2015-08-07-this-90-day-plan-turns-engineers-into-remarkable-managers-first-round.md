@@ -1,5 +1,6 @@
 ---
 title: "This 90-Day Plan Turns Engineers into Remarkable Managers - First Round Review"
+slug: this-90-day-plan-turns-engineers-into-remarkable-managers-first-round
 date: 2015-08-07 06:08:43 -0500
 external-url: http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
 hash: 9631b734d14af27092191f8358da5733

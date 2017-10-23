@@ -1,5 +1,6 @@
 ---
 title: "Donald Trump’s debate ramble was like an Abbott and Costello routine"
+slug: donald-trumps-debate-ramble-was-like-an-abbott-and-costello-routine
 date: 2016-09-27 21:12:24 -0500
 external-url: http://withoutbullshit.com/blog/donald-trumps-debate-ramble-like-abbott-costello-routine
 hash: cb1e10888adb2b8ba46e5e1745e73c10

@@ -1,5 +1,6 @@
 ---
 title: "Facebook Launches Graph API Explorer"
+slug: facebook-launches-graph-api-explorer
 date: 2011-06-29 21:00:00 -0500
 external-url: http://readwrite.com/2011/06/29/facebook-launches-graph-api
 hash: 4aa6945b98b7b78b411d796c9d262126

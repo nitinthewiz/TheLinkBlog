@@ -1,5 +1,6 @@
 ---
 title: "Geek Wrist Watch Displays Numbers as Mathematical Notations"
+slug: geek-wrist-watch-displays-numbers-as-mathematical-notations
 date: 2011-05-27 06:55:50 -0500
 external-url: http://laughingsquid.com/geek-wrist-watch-displays-numbers-as-mathematical-notations/
 hash: ab9133ddee726ea37aedd9500eaf4dc3

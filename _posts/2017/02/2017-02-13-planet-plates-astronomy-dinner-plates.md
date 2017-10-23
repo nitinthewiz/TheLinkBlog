@@ -1,5 +1,6 @@
 ---
 title: "“Planet Plates” Astronomy Dinner Plates"
+slug: planet-plates-astronomy-dinner-plates
 date: 2017-02-13 20:51:28 -0600
 external-url: http://toolsandtoys.net/planet-plates-astronomy-dinner-plates/
 hash: 8bca444887f1a7a0b6bff8cd34c00f77

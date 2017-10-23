@@ -1,5 +1,6 @@
 ---
 title: "letsencrypt.org"
+slug: letsencrypt-org
 date: 2017-01-06 21:26:08 -0600
 external-url: https://letsencrypt.org//2017/01/06/le-2016-in-review.html
 hash: 11edf06e69c9278713434fbfdf331f23

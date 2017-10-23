@@ -1,5 +1,6 @@
 ---
 title: "The GRAKN.AI Ontology: Simplicity and Maintainability"
+slug: the-grakn-ai-ontology-simplicity-and-maintainability
 date: 2017-10-18 20:40:22 -0500
 external-url: https://blog.grakn.ai/the-grakn-ai-ontology-simplicity-and-maintainability-ab78340f5ff6
 hash: ea2d8762631d16337c082032ed8d7c15

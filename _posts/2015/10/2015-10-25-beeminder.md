@@ -1,5 +1,6 @@
 ---
 title: "Beeminder"
+slug: beeminder
 date: 2015-10-25 19:56:38 -0500
 external-url: https://www.beeminder.com/
 hash: d3b59df04e2df354ae9424b8ebd8b25c

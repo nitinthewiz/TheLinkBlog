@@ -1,5 +1,6 @@
 ---
 title: "What the smartest people do on the weekend is what everyone else will do during the week in ten years"
+slug: what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will
 date: 2013-03-06 22:14:30 -0600
 external-url: http://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years/
 hash: a078eb603c95baf8e00afc20abaa9018

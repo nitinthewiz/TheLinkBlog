@@ -1,5 +1,6 @@
 ---
 title: "RailsConf in 36 minutes"
+slug: railsconf-in-36-minutes
 date: 2008-06-02 13:55:00 -0500
 external-url: http://weblog.rubyonrails.org/2008/6/2/railsconf-in-36-minutes/
 hash: 706e9e143e9c6bc4185e9b78006dcc50

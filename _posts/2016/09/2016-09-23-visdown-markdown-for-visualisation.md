@@ -1,5 +1,6 @@
 ---
 title: "Visdown - Markdown for Visualisation"
+slug: visdown-markdown-for-visualisation
 date: 2016-09-23 13:15:11 -0500
 external-url: http://visdown.amitkaps.com/
 hash: f5ad797f34b26d7d31d7425554cc89ad

@@ -1,5 +1,6 @@
 ---
 title: "Consumer group accuses Hollywood of 'threatening politicians'"
+slug: consumer-group-accuses-hollywood-of-threatening-politicians
 date: 2012-01-22 20:52:28 -0600
 external-url: http://thehill.com/blogs/hillicon-valley/technology/205491-consumer-group-accuses-hollywood-of-threatening-politicians
 hash: bec2dbaf0b5d9ec3f5038f61d160d506

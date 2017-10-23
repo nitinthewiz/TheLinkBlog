@@ -1,5 +1,6 @@
 ---
 title: "Monitoring 101: Collecting the right data - Datadog"
+slug: monitoring-101-collecting-the-right-data-datadog
 date: 2015-07-14 21:42:27 -0500
 external-url: https://www.datadoghq.com/blog/monitoring-101-collecting-data/
 hash: 48ea5676c280bc218815857da0185cfa

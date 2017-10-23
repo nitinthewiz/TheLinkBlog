@@ -1,5 +1,6 @@
 ---
 title: "Hamburger style guide"
+slug: hamburger-style-guide
 date: 2009-09-19 05:10:38 -0500
 external-url: http://kottke.org/09/09/hamburger-style-guide
 hash: 8d5822787ed461baca755b60e26372ee

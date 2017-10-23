@@ -1,5 +1,6 @@
 ---
 title: "Installer hits the desktop, allows jailbroken apps without jailbreaking"
+slug: installer-hits-the-desktop-allows-jailbroken-apps-without-jailbreaking
 date: 2009-03-24 22:17:26 -0500
 external-url: http://9to5mac.com/2009/03/24/installer-hits-the-desktop-allows-jailbroken-apps-without-jailbreaking/
 hash: f5b6210cb042d7c46be16bf4cf8c3e94

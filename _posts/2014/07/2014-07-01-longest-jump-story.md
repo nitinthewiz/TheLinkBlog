@@ -1,5 +1,6 @@
 ---
 title: "Longest Jump Story"
+slug: longest-jump-story
 date: 2014-07-01 23:09:24 -0500
 external-url: http://gopro.com/videos/featured/longest-jump-story
 hash: dbdf4b4cf12f81fab6ff80712c023986

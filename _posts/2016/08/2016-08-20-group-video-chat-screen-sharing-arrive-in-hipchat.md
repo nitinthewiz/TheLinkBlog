@@ -1,5 +1,6 @@
 ---
 title: "Group video chat & screen sharing arrive in HipChat"
+slug: group-video-chat-screen-sharing-arrive-in-hipchat
 date: 2016-08-20 21:30:14 -0500
 external-url: https://blog.hipchat.com/2016/08/18/group-video-chat-screen-sharing-arrive-in-hipchat/
 hash: 83039daf955505f798b1787f83f5b791

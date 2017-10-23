@@ -1,5 +1,6 @@
 ---
 title: "Gorodki: Ancient Russian game enjoys renaissance | Russia Beyond The Headlines"
+slug: gorodki-ancient-russian-game-enjoys-renaissance-russia-beyond-the
 date: 2017-07-05 18:25:41 -0500
 external-url: https://www.rbth.com/society/2013/05/18/gorodki_ancient_russian_game_enjoys_renaissance_26091.html
 hash: 76123729022f84842e16af9bdb5bc229

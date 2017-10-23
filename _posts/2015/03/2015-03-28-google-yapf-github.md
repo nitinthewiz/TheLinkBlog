@@ -1,5 +1,6 @@
 ---
 title: "google/yapf · GitHub"
+slug: google-yapf-github
 date: 2015-03-28 05:20:57 -0500
 external-url: https://github.com/google/yapf
 hash: 191b9f66524e5e5b70035a0c7d9bf657

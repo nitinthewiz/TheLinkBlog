@@ -1,5 +1,6 @@
 ---
 title: "House Subcommittee Revives Mandatory Data Retention Debate...With a Surprise Attack on EFF"
+slug: house-subcommittee-revives-mandatory-data-retention-debate-with-a-on
 date: 2011-01-25 18:47:09 -0600
 external-url: http://www.eff.org/deeplinks/2011/01/house-subcommitee-hearing-revives-data
 hash: 7bca32141ce92316a9079b1c1cf2d806

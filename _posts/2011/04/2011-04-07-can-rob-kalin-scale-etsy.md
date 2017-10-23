@@ -1,5 +1,6 @@
 ---
 title: "Can Rob Kalin Scale Etsy?"
+slug: can-rob-kalin-scale-etsy
 date: 2011-04-07 19:06:15 -0500
 external-url: http://www.inc.com/magazine/20110401/can-rob-kalin-scale-etsy_Printer_Friendly.html
 hash: b82a1851887fcd88e89abd997cfd521f

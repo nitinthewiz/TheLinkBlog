@@ -1,5 +1,6 @@
 ---
 title: "Storage Startup Vets Return w/ $8.65m A for Atavium —TechDotMN"
+slug: storage-startup-vets-return-w-8-65m-a-for-atavium-techdotmn
 date: 2017-05-17 05:03:32 -0500
 external-url: http://tech.mn/news/2017/05/17/storage-startup-vets-return-w-8-65m-series-a-for-atavium/
 hash: 4baf0b2b61b1356415e8bca57c575cbf

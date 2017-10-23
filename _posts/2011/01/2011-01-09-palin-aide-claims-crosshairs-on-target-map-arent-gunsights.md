@@ -1,5 +1,6 @@
 ---
 title: "Palin Aide Claims Crosshairs on Target Map Aren’t Gunsights"
+slug: palin-aide-claims-crosshairs-on-target-map-arent-gunsights
 date: 2011-01-09 18:27:36 -0600
 external-url: http://tpmdc.talkingpointsmemo.com/2011/01/palin-aide-crosshairs-on-target-list-not-actually-gun-sights.php?ref=fpb
 hash: 2aa8223c2a41e06895cad810485878af

@@ -1,5 +1,6 @@
 ---
 title: "Acorn 6 Released"
+slug: acorn-6-released
 date: 2017-07-10 20:26:33 -0500
 external-url: http://shapeof.com/archives/2017/7/acorn_6.html
 hash: cd90b039bb6b5251959434aeaf52f4e2

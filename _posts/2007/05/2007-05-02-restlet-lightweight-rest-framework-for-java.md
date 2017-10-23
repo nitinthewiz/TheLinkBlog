@@ -1,5 +1,6 @@
 ---
 title: "Restlet - Lightweight REST framework for Java"
+slug: restlet-lightweight-rest-framework-for-java
 date: 2007-05-02 15:55:31 -0500
 external-url: http://restlet.com/
 hash: ef555e6fed935f928ab9d956e76d00e6

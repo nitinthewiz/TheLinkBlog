@@ -1,5 +1,6 @@
 ---
 title: "The Danger of the Dream Job Delusion"
+slug: the-danger-of-the-dream-job-delusion
 date: 2010-09-10 22:51:49 -0500
 external-url: http://calnewport.com/blog/2010/09/10/the-danger-of-the-dream-job-delusion/
 hash: a83524885a9b691bcd12c04bc77ab3c6

@@ -1,5 +1,6 @@
 ---
 title: "Reserve Your Name At About.Me"
+slug: reserve-your-name-at-about-me
 date: 2010-09-10 23:06:22 -0500
 external-url: http://techcrunch.com/2010/09/10/reserve-your-name-at-about-me/
 hash: 7349a29eace267f81ccef93ab670e637

@@ -1,5 +1,6 @@
 ---
 title: "Heidis to open new location in Lyn-Lake"
+slug: heidis-to-open-new-location-in-lyn-lake
 date: 2010-08-04 18:09:08 -0500
 external-url: http://www.bizjournals.com/twincities/stories/2010/08/02/daily22.html
 hash: 4406f65bb4255b7b87e6f978f2f3fcdd

@@ -1,5 +1,6 @@
 ---
 title: "The Git Parable"
+slug: the-git-parable
 date: 2011-02-06 05:46:20 -0600
 external-url: http://tom.preston-werner.com/2009/05/19/the-git-parable.html?HN
 hash: 880ebe1f3207201a2aaff746a1e06bb5

@@ -1,5 +1,6 @@
 ---
 title: "Gameworks closes Block E location"
+slug: gameworks-closes-block-e-location
 date: 2010-03-31 00:23:26 -0500
 external-url: http://www.bizjournals.com/twincities/stories/2010/03/29/daily12.html
 hash: f0768dce2e5c34490909f4fbafe83b98

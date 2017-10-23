@@ -1,5 +1,6 @@
 ---
 title: "Designer Seed Thought to Be Latest Target by Chinese"
+slug: designer-seed-thought-to-be-latest-target-by-chinese
 date: 2014-02-04 23:11:28 -0600
 external-url: https://www.nytimes.com/2014/02/05/us/chinese-implicated-in-agricultural-espionage-efforts.html?hp&_r=0&referrer=
 hash: 3b3cd266897d54c4349665eba9d9a3b5

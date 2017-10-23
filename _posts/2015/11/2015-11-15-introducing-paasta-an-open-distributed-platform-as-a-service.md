@@ -1,5 +1,6 @@
 ---
 title: "Introducing PaaSTA: An Open, Distributed, Platform as a Service"
+slug: introducing-paasta-an-open-distributed-platform-as-a-service
 date: 2015-11-15 16:22:10 -0600
 external-url: http://engineeringblog.yelp.com/2015/11/introducing-paasta-an-open-platform-as-a-service.html
 hash: 61fd201a22d1a346ff6d846bef7ce806

@@ -1,5 +1,6 @@
 ---
 title: "WordPress.tv"
+slug: wordpress-tv
 date: 2011-08-15 20:26:34 -0500
 external-url: http://wordpress.tv/2011/08/14/matt-mullenweg-state-of-the-word-2011/
 hash: 82405083b1e9abfb445533b8823e75b8

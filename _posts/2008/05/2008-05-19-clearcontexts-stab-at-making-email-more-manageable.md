@@ -1,5 +1,6 @@
 ---
 title: "ClearContexts Stab At Making Email More Manageable"
+slug: clearcontexts-stab-at-making-email-more-manageable
 date: 2008-05-19 04:00:08 -0500
 external-url: http://techcrunch.com/2008/05/19/clearcontexts-stab-at-making-email-more-manageable/
 hash: 4b984920d421c029e70a554932be9833

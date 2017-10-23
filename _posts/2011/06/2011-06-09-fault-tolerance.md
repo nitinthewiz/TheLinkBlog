@@ -1,5 +1,6 @@
 ---
 title: "Fault-tolerance"
+slug: fault-tolerance
 date: 2011-06-09 16:30:48 -0500
 external-url: http://browsertoolkit.com/fault-tolerance.png
 hash: 44fd386b44cf549456318650dfeabb9e

@@ -1,5 +1,6 @@
 ---
 title: "Beck's \"Song Reader\" Is Beautiful, But You Can't Hear It"
+slug: beck-s-song-reader-is-beautiful-but-you-can-t-hear-it
 date: 2012-11-27 07:44:23 -0600
 external-url: http://www.fastcompany.com/3002981/becks-song-reader-beautiful-you-cant-hear-it
 hash: 22989e3e63683995500e49a32f6b9d55

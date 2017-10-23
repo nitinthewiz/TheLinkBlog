@@ -1,5 +1,6 @@
 ---
 title: "Logging out of Facebook is not enough"
+slug: logging-out-of-facebook-is-not-enough
 date: 2011-09-26 23:28:51 -0500
 external-url: https://www.nikcub.com/posts/logging-out-of-facebook-is-not-enough/
 hash: d02210363315e4c6379ae4d2323de211

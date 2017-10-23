@@ -1,5 +1,6 @@
 ---
 title: "Renovated Uptown Theatre to reopen on Friday"
+slug: renovated-uptown-theatre-to-reopen-on-friday
 date: 2012-09-13 21:22:16 -0500
 external-url: http://www.kare11.com/story/local/2012/09/12/3748385/
 hash: 76dd4b228622a9639e5f2295f28fba08

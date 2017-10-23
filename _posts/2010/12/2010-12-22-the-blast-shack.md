@@ -1,5 +1,6 @@
 ---
 title: "The Blast Shack"
+slug: the-blast-shack
 date: 2010-12-22 06:06:33 -0600
 external-url: http://www.webstock.org.nz/blog/2010/the-blast-shack/
 hash: d89e6d6f3176b54686fff0b938074faa

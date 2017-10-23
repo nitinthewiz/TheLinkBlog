@@ -1,5 +1,6 @@
 ---
 title: "The New Favicon • The Breakroom"
+slug: the-new-favicon-the-breakroom
 date: 2015-12-22 05:42:31 -0600
 external-url: http://blog.iconfactory.com/2015/11/the-new-favicon/
 hash: b85ee921b339a74682afaabf6543a486

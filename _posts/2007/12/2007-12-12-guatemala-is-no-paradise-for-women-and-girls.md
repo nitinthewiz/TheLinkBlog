@@ -1,5 +1,6 @@
 ---
 title: "Guatemala is no 'Paradise' for women and girls"
+slug: guatemala-is-no-paradise-for-women-and-girls
 date: 2007-12-12 08:51:00 -0600
 external-url: http://www.minnpost.com/robnelson/2007/12/12/339/guatemala_is_no_paradise_for_women_and_girls#9-339
 hash: 477a7f2798fccf22c179c9479b8c3ca0

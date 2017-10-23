@@ -1,5 +1,6 @@
 ---
 title: "Panoramic Photography"
+slug: panoramic-photography
 date: 2005-09-22 11:00:32 -0500
 external-url: http://www.shutterbug.com/content/panoramic-photography-your-digital-camera-gear-and-guide-maximum-panoramic-power
 hash: 10c428132ad748f33b578442deaa65d0

@@ -1,5 +1,6 @@
 ---
 title: "Things Software Leaders Should Know"
+slug: things-software-leaders-should-know
 date: 2015-12-23 08:39:50 -0600
 external-url: http://ben.gracewood.nz/2015/12/things-software-leaders-should-know/
 hash: 74c3f5abba360d5693a90ced95a62508

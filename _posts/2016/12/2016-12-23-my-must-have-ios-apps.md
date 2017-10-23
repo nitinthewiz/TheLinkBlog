@@ -1,5 +1,6 @@
 ---
 title: "My Must-Have iOS Apps"
+slug: my-must-have-ios-apps
 date: 2016-12-23 18:34:57 -0600
 external-url: https://www.macstories.net/roundups/my-must-have-ios-apps-web-services-2016-edition/
 hash: ba5cbdadfe731a905b29f4f845aa1412

@@ -1,5 +1,6 @@
 ---
 title: "iCalendar Validator - Based on iCal4j"
+slug: icalendar-validator-based-on-ical4j
 date: 2017-10-15 20:33:44 -0500
 external-url: http://severinghaus.org/projects/icv/
 hash: 1bb42ed55c1aefabe6cc4e452b00cb33

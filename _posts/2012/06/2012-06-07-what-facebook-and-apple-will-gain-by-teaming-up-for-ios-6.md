@@ -1,5 +1,6 @@
 ---
 title: "What Facebook and Apple Will Gain by Teaming Up for iOS 6"
+slug: what-facebook-and-apple-will-gain-by-teaming-up-for-ios-6
 date: 2012-06-07 12:13:26 -0500
 external-url: http://readwrite.com/2012/06/07/what-facebook-and-apple-will-gain-by-teaming-up-for-ios-6
 hash: ecce0c5390c7c45bdbbf05c6457c43b7

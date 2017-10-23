@@ -1,5 +1,6 @@
 ---
 title: "DROPCLOCK"
+slug: dropclock
 date: 2008-04-11 10:33:04 -0500
 external-url: http://scr.sc/products/dropclock/
 hash: edd3b4d03aeb585e8ea739680527cfea

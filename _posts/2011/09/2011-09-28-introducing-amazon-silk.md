@@ -1,5 +1,6 @@
 ---
 title: "Introducing Amazon Silk"
+slug: introducing-amazon-silk
 date: 2011-09-28 16:52:47 -0500
 external-url: http://amazonsilk.wordpress.com/2011/09/28/introducing-amazon-silk/
 hash: 919097fa501446e2cebcd9e23fcee410

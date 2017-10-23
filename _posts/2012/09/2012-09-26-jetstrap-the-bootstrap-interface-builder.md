@@ -1,5 +1,6 @@
 ---
 title: "Jetstrap - The Bootstrap Interface Builder"
+slug: jetstrap-the-bootstrap-interface-builder
 date: 2012-09-26 23:16:08 -0500
 external-url: https://jetstrap.com/
 hash: 14769479a3f962a23ac2e6049123223a

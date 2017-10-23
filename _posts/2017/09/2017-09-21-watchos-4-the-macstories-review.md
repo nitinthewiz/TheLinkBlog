@@ -1,5 +1,6 @@
 ---
 title: "watchOS 4: The MacStories Review"
+slug: watchos-4-the-macstories-review
 date: 2017-09-21 21:14:46 -0500
 external-url: https://www.macstories.net/stories/watchos-4-review/
 hash: e8a839ae9804746d22b6be9c480a53ee

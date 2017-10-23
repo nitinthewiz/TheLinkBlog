@@ -1,5 +1,6 @@
 ---
 title: "We're Eating Less Meat. Why?"
+slug: we-re-eating-less-meat-why
 date: 2012-04-19 21:54:44 -0500
 external-url: http://opinionator.blogs.nytimes.com/2012/01/10/were-eating-less-meat-why/
 hash: b87703f52d8db802e35777c7f838c033

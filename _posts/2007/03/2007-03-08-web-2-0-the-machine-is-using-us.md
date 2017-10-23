@@ -1,5 +1,6 @@
 ---
 title: "Web 2.0 The Machine is Using Us"
+slug: web-2-0-the-machine-is-using-us
 date: 2007-03-08 21:43:24 -0600
 external-url: https://www.youtube.com/watch?v=6gmP4nk0EOE
 hash: 07ce65ea2c57f9b63e3a320a687fb730

@@ -1,5 +1,6 @@
 ---
 title: "Why Lean Enterprise Transformation is Hard – ThoughtWorks Featured Insights"
+slug: why-lean-enterprise-transformation-is-hard-thoughtworks-featured
 date: 2016-09-11 20:09:16 -0500
 external-url: https://medium.com/featured-insights/why-lean-enterprise-transformation-is-hard-ede266e1c973#.3lyenzf38
 hash: dbf9d46f0caa44c7cc8bbd9c52b5283c

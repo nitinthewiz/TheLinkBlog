@@ -1,5 +1,6 @@
 ---
 title: "Workflow to Collect All Links"
+slug: workflow-to-collect-all-links
 date: 2017-10-08 15:57:23 -0500
 external-url: http://www.macdrifter.com/2017/10/workflow-to-collect-all-links.html
 hash: 090603b1eb7db9cd8473a3b34457d6af

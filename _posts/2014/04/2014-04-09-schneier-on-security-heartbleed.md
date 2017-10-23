@@ -1,5 +1,6 @@
 ---
 title: "Schneier on Security: Heartbleed"
+slug: schneier-on-security-heartbleed
 date: 2014-04-09 18:02:53 -0500
 external-url: https://www.schneier.com/blog/archives/2014/04/heartbleed.html
 hash: 626e625c33938b30f4f70ea772164e76

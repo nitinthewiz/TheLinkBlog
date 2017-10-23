@@ -1,5 +1,6 @@
 ---
 title: "When the Nerds Go Marching In"
+slug: when-the-nerds-go-marching-in
 date: 2012-11-20 23:11:25 -0600
 external-url: http://www.theatlantic.com/technology/archive/2012/11/when-the-nerds-go-marching-in/265325/
 hash: 5aa5424bb21f488b6ef99e8182fdfed5

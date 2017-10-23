@@ -1,5 +1,6 @@
 ---
 title: "BrewPony Artisan Coffee in Your Mailbox"
+slug: brewpony-artisan-coffee-in-your-mailbox
 date: 2013-03-06 23:07:15 -0600
 external-url: http://brewpony.com/front/
 hash: 81205628fd4ae36c71494aac73283672

@@ -1,5 +1,6 @@
 ---
 title: "WordPress MU"
+slug: wordpress-mu
 date: 2007-02-25 20:07:57 -0600
 external-url: http://mu.wordpress.org/
 hash: 7749e14034b4943175459923f11c1208

@@ -1,5 +1,6 @@
 ---
 title: "Trident Capital Update and Areas of Investment Interest"
+slug: trident-capital-update-and-areas-of-investment-interest
 date: 2012-11-12 11:21:35 -0600
 external-url: http://blog.tridentcap.com/2012/11/trident-capital-update-and-areas-of-investment-interest.html
 hash: f9fa056b03fd0010c2a5358101728710

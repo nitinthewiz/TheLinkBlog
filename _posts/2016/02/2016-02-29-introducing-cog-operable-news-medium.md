@@ -1,5 +1,6 @@
 ---
 title: "Introducing Cog — Operable News — Medium"
+slug: introducing-cog-operable-news-medium
 date: 2016-02-29 10:34:46 -0600
 external-url: https://blog.operable.io/introducing-cog-8a682e42a25a#.40ycsfvuq
 hash: 8d62dd947af25bf979470628e1c2727b

@@ -1,5 +1,6 @@
 ---
 title: "Expanded Use of Article Feedback Tool"
+slug: expanded-use-of-article-feedback-tool
 date: 2011-05-09 19:02:17 -0500
 external-url: http://blog.wikimedia.org/2011/05/09/expanded-use-of-article-feedback-tool/
 hash: dd48430ad8b546a6ae309260d186d8d4

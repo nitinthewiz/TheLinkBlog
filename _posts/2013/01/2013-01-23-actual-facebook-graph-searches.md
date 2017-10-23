@@ -1,5 +1,6 @@
 ---
 title: "Actual Facebook Graph Searches"
+slug: actual-facebook-graph-searches
 date: 2013-01-23 13:28:12 -0600
 external-url: http://actualfacebookgraphsearches.tumblr.com/
 hash: 879a016d614331c0d279eb2b36b1b029

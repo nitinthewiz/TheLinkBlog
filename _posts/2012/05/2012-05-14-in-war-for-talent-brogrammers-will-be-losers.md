@@ -1,5 +1,6 @@
 ---
 title: "In war for talent, 'brogrammers' will be losers"
+slug: in-war-for-talent-brogrammers-will-be-losers
 date: 2012-05-14 16:27:09 -0500
 external-url: http://www.cnn.com/2012/05/10/opinion/trapani-brogrammer-culture/index.html
 hash: 7f33a63775b835a4a878132dae4f8953

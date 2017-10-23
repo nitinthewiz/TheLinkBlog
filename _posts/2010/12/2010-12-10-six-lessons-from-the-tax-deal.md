@@ -1,5 +1,6 @@
 ---
 title: "Six lessons from the tax deal"
+slug: six-lessons-from-the-tax-deal
 date: 2010-12-10 15:08:40 -0600
 external-url: http://voices.washingtonpost.com/ezra-klein/2010/12/column_six_lessons_from_the_ta.html
 hash: edc4032defbf14afd4b99abad2d088e5

@@ -1,5 +1,6 @@
 ---
 title: "Minutes.io"
+slug: minutes-io
 date: 2011-05-24 02:05:46 -0500
 external-url: https://minutes.io
 hash: d3ed04fce8b83781e9f6a1e64bc01f4f

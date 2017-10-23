@@ -1,5 +1,6 @@
 ---
 title: "Step one: skip college. Step two: launch a tech startup"
+slug: step-one-skip-college-step-two-launch-a-tech-startup
 date: 2011-07-18 19:36:08 -0500
 external-url: http://tech.mn/news/2011/07/18/syncmyad-nathan-reimnitz/
 hash: 1444a2b73fc579526a24ff650702dcac

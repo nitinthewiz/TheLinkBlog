@@ -1,5 +1,6 @@
 ---
 title: "Roadmap Planner - plan your business"
+slug: roadmap-planner-plan-your-business
 date: 2016-02-09 19:33:16 -0600
 external-url: https://www.keepsolid.com/roadmap/
 hash: df0176b193cf0a946534306eba34b027

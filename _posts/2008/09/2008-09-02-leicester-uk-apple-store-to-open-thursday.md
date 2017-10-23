@@ -1,5 +1,6 @@
 ---
 title: "Leicester (UK) Apple Store to open Thursday"
+slug: leicester-uk-apple-store-to-open-thursday
 date: 2008-09-02 19:00:00 -0500
 external-url: http://www.tuaw.com/2008/09/02/leicester-uk-apple-store-to-open-thursday/
 hash: e51cfecc7731ea4bc2bae25de1d0cce4

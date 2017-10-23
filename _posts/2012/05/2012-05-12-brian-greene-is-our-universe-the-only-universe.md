@@ -1,5 +1,6 @@
 ---
 title: "Brian Greene: Is our universe the only universe?"
+slug: brian-greene-is-our-universe-the-only-universe
 date: 2012-05-12 15:49:49 -0500
 external-url: http://www.ted.com/talks/brian_greene_why_is_our_universe_fine_tuned_for_life
 hash: c9dace2ad8b98a41e2aab6963eb0abc2

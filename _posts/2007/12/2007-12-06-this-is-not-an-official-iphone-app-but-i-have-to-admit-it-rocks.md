@@ -1,5 +1,6 @@
 ---
 title: "This is not an official iPhone app but I have to admit, it rocks"
+slug: this-is-not-an-official-iphone-app-but-i-have-to-admit-it-rocks
 date: 2007-12-06 08:22:00 -0600
 external-url: http://fakesteve.blogspot.com/2007/12/this-is-not-official-iphone-app-but-i.html
 hash: 4d88b4c73486767c2281fb741b59349a

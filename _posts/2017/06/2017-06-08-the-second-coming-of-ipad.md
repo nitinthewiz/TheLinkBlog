@@ -1,5 +1,6 @@
 ---
 title: "The Second Coming Of iPad"
+slug: the-second-coming-of-ipad
 date: 2017-06-08 21:01:44 -0500
 external-url: https://www.buzzfeed.com/johnpaczkowski/the-second-coming-of-ipad#.kfmR7yNOR
 hash: 35bf04c363ec636f93a300c779d1cf13

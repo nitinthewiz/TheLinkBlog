@@ -1,5 +1,6 @@
 ---
 title: "Wikipedia graph mining: dynamic structure of collective memory"
+slug: wikipedia-graph-mining-dynamic-structure-of-collective-memory
 date: 2017-10-05 22:17:24 -0500
 external-url: http://blog.miz.space/research/2017/08/14/wikipedia-collective-memory-dynamic-graph-analysis-graphx-spark-scala-time-series-network/
 hash: 35bc65c7e6ad014af7b38e50200f3c45

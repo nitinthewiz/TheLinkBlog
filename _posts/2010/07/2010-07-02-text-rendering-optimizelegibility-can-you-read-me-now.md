@@ -1,5 +1,6 @@
 ---
 title: "text-rendering: optimizeLegibility; //Can you read me now?"
+slug: text-rendering-optimizelegibility-can-you-read-me-now
 date: 2010-07-02 06:27:52 -0500
 external-url: http://ajaxian.com/archives/text-rendering-optimizelegibility-can-you-read-me-now
 hash: f39ef03f3de6c59bd7ef3125284a93b5

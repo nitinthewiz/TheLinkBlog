@@ -1,5 +1,6 @@
 ---
 title: "Apple TV: How to run diagnostics"
+slug: apple-tv-how-to-run-diagnostics
 date: 2007-07-03 18:46:43 -0500
 external-url: http://support.apple.com/kb/HT1560?viewlocale=en_US
 hash: 89bc067ae76af1d3906092a15dbc4bce

@@ -1,5 +1,6 @@
 ---
 title: "New – AWS SAM Local (Beta) – Build and Test Serverless Applications Locally — AWS Blog"
+slug: new-aws-sam-local-beta-build-and-test-serverless-applications-locally
 date: 2017-08-12 07:35:07 -0500
 external-url: https://aws.amazon.com/blogs/aws/new-aws-sam-local-beta-build-and-test-serverless-applications-locally/
 hash: 47e3272112ad36f7f70242a053d4d3f9

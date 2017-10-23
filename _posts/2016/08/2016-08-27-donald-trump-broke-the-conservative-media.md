@@ -1,5 +1,6 @@
 ---
 title: "Donald Trump broke the conservative media"
+slug: donald-trump-broke-the-conservative-media
 date: 2016-08-27 17:30:23 -0500
 external-url: http://www.businessinsider.com/conservative-media-trump-drudge-coulter-2016-8
 hash: bb939e154e9737b0ca7d2e5cc6d93167

@@ -1,5 +1,6 @@
 ---
 title: "Ditching Twitter - Incisive.nu"
+slug: ditching-twitter-incisive-nu
 date: 2014-09-15 22:27:40 -0500
 external-url: http://incisive.nu/2014/ditching-twitter/
 hash: d29921266f30b0616292eb8b0649c25e

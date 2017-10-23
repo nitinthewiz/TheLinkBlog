@@ -1,5 +1,6 @@
 ---
 title: "Mozilla and the Washington Post Are Reinventing Online Comments - The Mozilla Blog"
+slug: mozilla-and-the-washington-post-are-reinventing-online-comments-the
 date: 2017-09-15 04:19:55 -0500
 external-url: https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
 hash: 90e9305e3f1e25e153b97c200d39337e

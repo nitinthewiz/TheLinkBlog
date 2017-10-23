@@ -1,5 +1,6 @@
 ---
 title: "Vegan? Carnivore?"
+slug: vegan-carnivore
 date: 2011-10-27 06:36:22 -0500
 external-url: http://topcultured.com/wp-content/uploads/2010/06/pmToS.jpg
 hash: 11b3875251ca047dcb912b48bba5caea

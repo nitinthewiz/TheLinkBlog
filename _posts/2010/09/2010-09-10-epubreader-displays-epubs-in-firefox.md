@@ -1,5 +1,6 @@
 ---
 title: "EPUBReader Displays EPUBs in Firefox"
+slug: epubreader-displays-epubs-in-firefox
 date: 2010-09-10 22:54:32 -0500
 external-url: http://tidbits.com/article/11590?rss=
 hash: 60c9c42637ac01cce6da8fa14a2e3f33

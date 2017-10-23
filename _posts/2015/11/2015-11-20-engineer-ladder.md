@@ -1,5 +1,6 @@
 ---
 title: "Engineer Ladder"
+slug: engineer-ladder
 date: 2015-11-20 18:42:37 -0600
 external-url: https://twitter.com/Aperalta07/status/666344888124862464
 hash: 692a89e3082d6f13bc9da9a72e350035

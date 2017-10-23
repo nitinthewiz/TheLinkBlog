@@ -1,5 +1,6 @@
 ---
 title: "AOL Hell: An AOL Content Slave Speaks Out News"
+slug: aol-hell-an-aol-content-slave-speaks-out-news
 date: 2011-06-18 15:25:52 -0500
 external-url: http://www.thefastertimes.com/news/2011/06/16/aol-hell-an-aol-content-slave-speaks-out/
 hash: 04a2110327034d5c55993e706649cd5e

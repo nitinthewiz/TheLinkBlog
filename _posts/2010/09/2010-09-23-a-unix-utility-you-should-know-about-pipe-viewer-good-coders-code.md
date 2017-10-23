@@ -1,5 +1,6 @@
 ---
 title: "A Unix Utility You Should Know About: Pipe Viewer - good coders code, great reuse"
+slug: a-unix-utility-you-should-know-about-pipe-viewer-good-coders-code
 date: 2010-09-23 23:47:14 -0500
 external-url: http://www.catonmat.net/blog/unix-utilities-pipe-viewer/
 hash: 6e81b3b8b4fca09080728a4da6a4f43d

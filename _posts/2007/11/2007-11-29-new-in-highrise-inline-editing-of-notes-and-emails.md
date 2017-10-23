@@ -1,5 +1,6 @@
 ---
 title: "New in Highrise: Inline editing of notes and emails"
+slug: new-in-highrise-inline-editing-of-notes-and-emails
 date: 2007-11-29 12:19:02 -0600
 external-url: http://37signals.blogs.com/products/2007/11/new-in-highrise.html
 hash: ae02eb874ca2f9d42e34a69befabd758

@@ -1,5 +1,6 @@
 ---
 title: "Motionbox Goes HD"
+slug: motionbox-goes-hd
 date: 2008-03-31 00:01:00 -0500
 external-url: http://www.businessinsider.com/2008/3/motionbox-goes-hd
 hash: 3a2182b2b2e984165c0f033dd056924a

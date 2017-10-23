@@ -1,5 +1,6 @@
 ---
 title: "The Deep History of Your Apps: Steve Jobs, NeXTSTEP, and Early Object-Oriented Programming | Computer History Museum"
+slug: the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object
 date: 2016-03-22 13:01:07 -0500
 external-url: http://www.computerhistory.org/atchm/the-deep-history-of-your-apps-steve-jobs-nextstep-and-early-object-oriented-programming/
 hash: 7dd634a23ff397dc510bdad5059a99d0

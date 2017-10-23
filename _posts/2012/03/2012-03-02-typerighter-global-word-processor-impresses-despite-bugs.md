@@ -1,5 +1,6 @@
 ---
 title: "Typerighter global word processor impresses despite bugs"
+slug: typerighter-global-word-processor-impresses-despite-bugs
 date: 2012-03-02 23:49:42 -0600
 external-url: http://blogs.twincities.com/yourtechweblog/2012/03/02/3566/
 hash: 1649dd4d7990a70cc9aef1fb93f81100

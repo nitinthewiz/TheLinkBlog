@@ -1,5 +1,6 @@
 ---
 title: "I haven't experienced imposter syndrome, and maybe you haven't either"
+slug: i-haven-t-experienced-imposter-syndrome-and-maybe-you-haven-t-either
 date: 2017-10-19 21:50:12 -0500
 external-url: https://rachsmith.com/2017/i-dont-have-imposter-syndrome
 hash: 10a1a31bb335d3b2678718ec664db7d0

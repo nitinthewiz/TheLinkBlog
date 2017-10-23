@@ -1,5 +1,6 @@
 ---
 title: "Celery to the rescue"
+slug: celery-to-the-rescue
 date: 2012-04-19 21:05:33 -0500
 external-url: http://blog.bluelinescreative.com/?p=21
 hash: a1f2357650542f3a49543c905282f5b9

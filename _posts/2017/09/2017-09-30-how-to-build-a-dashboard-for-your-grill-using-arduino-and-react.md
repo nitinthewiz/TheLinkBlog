@@ -1,5 +1,6 @@
 ---
 title: "How to build a dashboard for your grill using Arduino and React"
+slug: how-to-build-a-dashboard-for-your-grill-using-arduino-and-react
 date: 2017-09-30 21:34:50 -0500
 external-url: https://medium.freecodecamp.org/how-to-build-a-dashboard-for-your-grill-using-arduino-and-react-425fb8d57ffe
 hash: 7ad3c45512ff791a2dda54c8bc731b3f

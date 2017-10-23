@@ -1,5 +1,6 @@
 ---
 title: "To rally, perchance to dream"
+slug: to-rally-perchance-to-dream
 date: 2010-10-30 21:15:12 -0500
 external-url: http://buzzmachine.com/2010/10/30/to-rally-perchance-to-dream/
 hash: c46dbb670a1a096c080cfd08546a9877

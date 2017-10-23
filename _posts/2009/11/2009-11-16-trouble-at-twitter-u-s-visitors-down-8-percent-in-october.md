@@ -1,5 +1,6 @@
 ---
 title: "Trouble At Twitter: U.S. Visitors Down 8 Percent In October"
+slug: trouble-at-twitter-u-s-visitors-down-8-percent-in-october
 date: 2009-11-16 00:25:18 -0600
 external-url: http://www.techcrunch.com/2009/11/12/trouble-at-twitter-u-s-visitors-down-8-percent-in-october/
 hash: 337c878c88b64204be0203cb17f2342e

@@ -1,5 +1,6 @@
 ---
 title: "36 Hours in Midcoast Maine"
+slug: 36-hours-in-midcoast-maine
 date: 2012-08-13 21:59:52 -0500
 external-url: http://www.nytimes.com/2012/08/05/travel/36-hours-in-midcoast-maine.html
 hash: a68f6b9fd04a427a6ba6f176fa0a5509

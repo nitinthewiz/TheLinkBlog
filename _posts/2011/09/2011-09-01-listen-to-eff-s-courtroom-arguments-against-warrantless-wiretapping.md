@@ -1,5 +1,6 @@
 ---
 title: "Listen to EFF's Courtroom Arguments Against Warrantless Wiretapping"
+slug: listen-to-eff-s-courtroom-arguments-against-warrantless-wiretapping
 date: 2011-09-01 20:42:21 -0500
 external-url: https://www.eff.org/deeplinks/2011/09/listen-effs-courtroom-arguments-against
 hash: dc68ad114605733f9cd1f5eb7a45a45c

@@ -1,5 +1,6 @@
 ---
 title: "PaidContent Shakeup Hiring Management, Rafat To Editorial"
+slug: paidcontent-shakeup-hiring-management-rafat-to-editorial
 date: 2008-03-27 08:10:00 -0500
 external-url: http://www.businessinsider.com/2008/3/paidcontent-blog-hires-professional-management-founder-rafat-ali-to-editorial
 hash: 3b0b598171c497f4af6546306a445f59

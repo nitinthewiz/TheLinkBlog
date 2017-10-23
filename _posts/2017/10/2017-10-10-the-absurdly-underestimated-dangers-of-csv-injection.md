@@ -1,5 +1,6 @@
 ---
 title: "The Absurdly Underestimated Dangers of CSV Injection"
+slug: the-absurdly-underestimated-dangers-of-csv-injection
 date: 2017-10-10 06:06:59 -0500
 external-url: http://georgemauer.net/2017/10/07/csv-injection.html
 hash: c9005c4f6fbf34be82b608bb75387fe6

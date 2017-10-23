@@ -1,5 +1,6 @@
 ---
 title: "Ryan Singel: ‘Twitter’s Response to WikiLeaks Subpoena Should Be the Industry Standard’"
+slug: ryan-singel-twitters-response-to-wikileaks-subpoena-should-be-the
 date: 2011-01-11 14:43:52 -0600
 external-url: http://www.wired.com/threatlevel/2011/01/twitter/
 hash: b978f30df737c7c6209e7752d119875d

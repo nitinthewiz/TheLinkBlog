@@ -1,5 +1,6 @@
 ---
 title: "The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk"
+slug: the-internet-with-a-human-face-beyond-tellerrand-2014-conference-talk
 date: 2014-05-28 02:50:53 -0500
 external-url: http://idlewords.com/bt14.htm
 hash: bf91cb0067cdafb97553ec195630fc76

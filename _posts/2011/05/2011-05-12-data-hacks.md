@@ -1,5 +1,6 @@
 ---
 title: "data_hacks"
+slug: data-hacks
 date: 2011-05-12 08:42:53 -0500
 external-url: https://github.com/bitly/data_hacks
 hash: 136d2606a0634e2984f809b436b02ec9

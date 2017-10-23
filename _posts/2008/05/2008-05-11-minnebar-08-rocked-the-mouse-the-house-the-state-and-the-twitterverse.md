@@ -1,5 +1,6 @@
 ---
 title: "Minnebar '08 Rocked the Mouse, the House, the State, and the Twitterverse"
+slug: minnebar-08-rocked-the-mouse-the-house-the-state-and-the-twitterverse
 date: 2008-05-11 08:35:00 -0500
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/05/minnebar-08-roc.html
 hash: 3bcfcf56f8dfd1c70d632f32e9ad2673

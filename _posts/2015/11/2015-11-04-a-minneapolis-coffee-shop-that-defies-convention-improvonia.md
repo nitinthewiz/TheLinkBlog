@@ -1,5 +1,6 @@
 ---
 title: "A Minneapolis Coffee Shop that Defies Convention - Improvonia"
+slug: a-minneapolis-coffee-shop-that-defies-convention-improvonia
 date: 2015-11-04 06:29:25 -0600
 external-url: http://blog.improvonia.com/post/131923663098/a-minneapolis-coffee-shop-that-defies-convention
 hash: b841b94ac53244c676742631b91fea6c

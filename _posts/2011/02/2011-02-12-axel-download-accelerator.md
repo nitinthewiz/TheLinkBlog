@@ -1,5 +1,6 @@
 ---
 title: "Axel Download Accelerator"
+slug: axel-download-accelerator
 date: 2011-02-12 10:33:39 -0600
 external-url: http://axel.alioth.debian.org/
 hash: 53a52dccad539422ded0734e3b3d1122

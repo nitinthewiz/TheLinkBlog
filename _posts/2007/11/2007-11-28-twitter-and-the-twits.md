@@ -1,5 +1,6 @@
 ---
 title: "Twitter and the Twits"
+slug: twitter-and-the-twits
 date: 2007-11-28 09:49:32 -0600
 external-url: http://ricksegal.typepad.com/pmv/2007/11/twitter-and-the.html
 hash: 59efcec0e247c766a727f628f8dc48fb

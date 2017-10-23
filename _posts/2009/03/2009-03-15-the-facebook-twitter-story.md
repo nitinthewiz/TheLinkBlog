@@ -1,5 +1,6 @@
 ---
 title: "The Facebook Twitter Story"
+slug: the-facebook-twitter-story
 date: 2009-03-15 23:07:37 -0500
 external-url: http://www.businessweek.com/
 hash: 0c4a56bd790b482a7e44de0094dda6fa

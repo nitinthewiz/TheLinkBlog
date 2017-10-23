@@ -1,5 +1,6 @@
 ---
 title: "Ansible 2.0 Has Arrived"
+slug: ansible-2-0-has-arrived
 date: 2016-01-13 21:03:40 -0600
 external-url: http://www.ansible.com/blog/ansible-2.0-launch
 hash: c61a14cfb497a2607468754afefb4d01

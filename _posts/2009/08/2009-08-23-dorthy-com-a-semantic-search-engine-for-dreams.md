@@ -1,5 +1,6 @@
 ---
 title: "Dorthy.com: A (Semantic) Search Engine for Dreams"
+slug: dorthy-com-a-semantic-search-engine-for-dreams
 date: 2009-08-23 16:21:26 -0500
 external-url: http://www.readwriteweb.com/archives/dorthy_a_semantic_search_engine_for_dreams.php
 hash: 5ddbaaf51ae50d13f5b3c3ca5aa0ebfc

@@ -1,5 +1,6 @@
 ---
 title: "Kindle 2 finally gets native PDF support, screen rotation"
+slug: kindle-2-finally-gets-native-pdf-support-screen-rotation
 date: 2009-11-25 23:34:46 -0600
 external-url: http://arstechnica.com/gadgets/2009/11/kindle-2-finally-gets-native-pdf-support-screen-rotation/
 hash: 362132956595bd4e6ab230b111f357c5

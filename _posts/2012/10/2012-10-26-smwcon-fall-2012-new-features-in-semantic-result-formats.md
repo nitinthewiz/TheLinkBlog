@@ -1,5 +1,6 @@
 ---
 title: "SMWCon Fall 2012 - New features in Semantic Result Formats"
+slug: smwcon-fall-2012-new-features-in-semantic-result-formats
 date: 2012-10-26 21:30:27 -0500
 external-url: http://semantic-mediawiki.org/wiki/SMWCon_Fall_2012/New_features_in_Semantic_Result_Formats/Presentation
 hash: fdba1dd86847290ee9041dcc2c7f4505

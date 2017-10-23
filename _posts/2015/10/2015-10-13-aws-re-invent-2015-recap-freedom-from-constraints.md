@@ -1,5 +1,6 @@
 ---
 title: "AWS re:Invent 2015 recap: Freedom from constraints"
+slug: aws-re-invent-2015-recap-freedom-from-constraints
 date: 2015-10-13 23:12:25 -0500
 external-url: http://blog.cloudability.com/aws-reinvent-2015-recap/
 hash: d362873aaa8e0cab3de1eacb97e6482a

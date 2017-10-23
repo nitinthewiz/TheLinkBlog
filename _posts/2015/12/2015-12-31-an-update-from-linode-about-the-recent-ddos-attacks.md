@@ -1,5 +1,6 @@
 ---
 title: "An update from Linode about the recent DDoS attacks"
+slug: an-update-from-linode-about-the-recent-ddos-attacks
 date: 2015-12-31 18:18:44 -0600
 external-url: http://status.linode.com/incidents/mmdbljlglnfd
 hash: 668a82b13029af4253ea2e9d10ab829b

@@ -1,5 +1,6 @@
 ---
 title: "Facebook can track your browsing even after you've logged out, judge says | Technology | The Guardian"
+slug: facebook-can-track-your-browsing-even-after-you-ve-logged-out-judge
 date: 2017-07-05 17:41:30 -0500
 external-url: https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit
 hash: f12ac442eb3133e0d901a0fc101492cb

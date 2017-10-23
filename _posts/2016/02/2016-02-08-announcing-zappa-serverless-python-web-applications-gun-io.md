@@ -1,5 +1,6 @@
 ---
 title: "Announcing Zappa - Serverless Python Web Applications - Gun.io"
+slug: announcing-zappa-serverless-python-web-applications-gun-io
 date: 2016-02-08 18:11:22 -0600
 external-url: https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda/
 hash: 60d6729f5edc17543054c7061714b666

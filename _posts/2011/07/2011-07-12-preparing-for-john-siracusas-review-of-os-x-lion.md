@@ -1,5 +1,6 @@
 ---
 title: "Preparing for John Siracusa’s Review of OS X Lion‬‏"
+slug: preparing-for-john-siracusas-review-of-os-x-lion
 date: 2011-07-12 00:55:13 -0500
 external-url: http://www.youtube.com/watch?v=nhOG25fM8so
 hash: d36c091bad7f51ea9b50c7180e47be4b

@@ -1,5 +1,6 @@
 ---
 title: "Datamancer Ergo Steampunk ergonomic keyboard"
+slug: datamancer-ergo-steampunk-ergonomic-keyboard
 date: 2012-04-20 10:55:49 -0500
 external-url: http://www.datamancer.net/keyboards/ergo1/ergo1.htm
 hash: 12045e3fd4081d52fca9e0501947c7e4

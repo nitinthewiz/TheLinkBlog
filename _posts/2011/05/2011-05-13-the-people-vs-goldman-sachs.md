@@ -1,5 +1,6 @@
 ---
 title: "The People vs. Goldman Sachs"
+slug: the-people-vs-goldman-sachs
 date: 2011-05-13 15:31:04 -0500
 external-url: http://www.rollingstone.com/politics/news/the-people-vs-goldman-sachs-20110511
 hash: 0c2a494eac4ac4ea271a55ffb259cbda

@@ -1,5 +1,6 @@
 ---
 title: "Flickr Photo Album for WordPress"
+slug: flickr-photo-album-for-wordpress
 date: 2007-08-05 14:53:58 -0500
 external-url: http://tantannoodles.com/toolkit/photo-album/
 hash: 79c050137c65480f6d7d90259b07e5db

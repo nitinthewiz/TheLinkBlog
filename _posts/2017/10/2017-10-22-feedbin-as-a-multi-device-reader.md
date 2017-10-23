@@ -1,5 +1,6 @@
 ---
 title: "Feedbin as a Multi-Device Reader"
+slug: feedbin-as-a-multi-device-reader
 date: 2017-10-22 20:37:21 -0500
 external-url: http://www.macdrifter.com/2017/10/feedbin-as-a-multi-device-reader.html
 hash: c440292ac432ef0ae40cc335c9d42ca5

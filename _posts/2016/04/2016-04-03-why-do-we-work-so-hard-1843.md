@@ -1,5 +1,6 @@
 ---
 title: "Why do we work so hard? | 1843"
+slug: why-do-we-work-so-hard-1843
 date: 2016-04-03 11:27:23 -0500
 external-url: https://www.1843magazine.com/features/why-do-we-work-so-hard
 hash: 64924f913a5bcf6fee9afe961cbefef9

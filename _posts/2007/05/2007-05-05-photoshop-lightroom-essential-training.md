@@ -1,5 +1,6 @@
 ---
 title: "Photoshop Lightroom Essential Training"
+slug: photoshop-lightroom-essential-training
 date: 2007-05-05 21:33:07 -0500
 external-url: http://www.lynda.com/Lightroom-tutorials/photoshop-essential-training/364-2.html
 hash: aa461eab6fa80ba554e86821b6fdc307

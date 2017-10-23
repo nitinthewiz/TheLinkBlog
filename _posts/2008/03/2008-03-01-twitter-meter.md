@@ -1,5 +1,6 @@
 ---
 title: "Twitter Meter"
+slug: twitter-meter
 date: 2008-03-01 20:28:00 -0600
 external-url: http://blog.twitter.com/2008/03/twitter-meter.html
 hash: d83ce537527bb733c625edaf639afffe

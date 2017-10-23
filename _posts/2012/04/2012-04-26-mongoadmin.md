@@ -1,5 +1,6 @@
 ---
 title: "MongoAdmin"
+slug: mongoadmin
 date: 2012-04-26 00:47:08 -0500
 external-url: http://thomasst.ch/mongoadmin/
 hash: afc3979b3e47a86238675db007b057d7

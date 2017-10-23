@@ -1,5 +1,6 @@
 ---
 title: "5 Reasons You Need to Start Using Email Productivity Software Today"
+slug: 5-reasons-you-need-to-start-using-email-productivity-software-today
 date: 2016-02-09 08:44:28 -0600
 external-url: http://blog.sanebox.com/2016/02/09/email-productivity-software/
 hash: 1ec3862db57d134338ebeab715e94f99

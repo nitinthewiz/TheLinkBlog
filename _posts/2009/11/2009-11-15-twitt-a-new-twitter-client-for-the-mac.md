@@ -1,5 +1,6 @@
 ---
 title: "Twitt: A New Twitter Client For the Mac"
+slug: twitt-a-new-twitter-client-for-the-mac
 date: 2009-11-15 23:11:40 -0600
 external-url: http://gigaom.com/collaboration/twitt-a-new-twitter-client-for-the-mac/
 hash: 55363c117ace87b0b08e8a72ba035e13

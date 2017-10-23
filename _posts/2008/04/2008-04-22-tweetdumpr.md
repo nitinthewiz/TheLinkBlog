@@ -1,5 +1,6 @@
 ---
 title: "TweetDumpr"
+slug: tweetdumpr
 date: 2008-04-22 22:10:23 -0500
 external-url: http://bradkellett.com/experiments/tweetdumpr/
 hash: d6a1807a9ebe2715566798b4d104ffb1

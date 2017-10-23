@@ -1,5 +1,6 @@
 ---
 title: "Calendar slow/unresponsive after in Mountain Lion"
+slug: calendar-slow-unresponsive-after-in-mountain-lion
 date: 2013-06-11 17:22:11 -0500
 external-url: https://discussions.apple.com/message/21005336#21005336
 hash: 8511d066f92980e0ab974dad5db68ecd

@@ -1,5 +1,6 @@
 ---
 title: "Creating a Twitter Background « Creative Wisdom"
+slug: creating-a-twitter-background-creative-wisdom
 date: 2008-11-11 21:18:08 -0600
 external-url: http://blueleafcreative.wordpress.com/2008/11/10/creating-a-twitter-background/
 hash: cd51bbe9373ccc59cddd30a2a97ba820

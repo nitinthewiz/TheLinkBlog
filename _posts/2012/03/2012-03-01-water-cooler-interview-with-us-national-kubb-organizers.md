@@ -1,5 +1,6 @@
 ---
 title: "Water Cooler interview with US National Kubb organizers"
+slug: water-cooler-interview-with-us-national-kubb-organizers
 date: 2012-03-01 21:11:29 -0600
 external-url: http://media.ccomrcdn.com/media/station_content/3377/WC_03-01-12_Kubb_1330650330_19575.mp3
 hash: 3f3cd8b90e66b9fc892b3aa151515403

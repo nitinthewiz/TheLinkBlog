@@ -1,5 +1,6 @@
 ---
 title: "Is Email Dead?"
+slug: is-email-dead
 date: 2012-12-12 10:48:36 -0600
 external-url: http://www.visiblegains.com/is-email-dead/
 hash: f3f419625ed30f78907fccf235379be7

@@ -1,5 +1,6 @@
 ---
 title: "Grequests"
+slug: grequests
 date: 2013-06-20 00:03:15 -0500
 external-url: https://github.com/kennethreitz/grequests
 hash: 35f9e7b123e348f652ffdecb7acb8bd5

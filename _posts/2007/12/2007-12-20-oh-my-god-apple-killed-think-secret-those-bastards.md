@@ -1,5 +1,6 @@
 ---
 title: "Oh My God Apple Killed Think Secret Those Bastards"
+slug: oh-my-god-apple-killed-think-secret-those-bastards
 date: 2007-12-20 05:49:20 -0600
 external-url: http://techcrunch.com/2007/12/20/oh-my-god-apple-killed-thinksecret-those-bastards/
 hash: ea8ffdc40554666dbc1c7d245c712bad

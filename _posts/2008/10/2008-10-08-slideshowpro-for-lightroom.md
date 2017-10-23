@@ -1,5 +1,6 @@
 ---
 title: "SlideShowPro for Lightroom"
+slug: slideshowpro-for-lightroom
 date: 2008-10-08 08:53:00 -0500
 external-url: http://slideshowpro.net/products/slideshowpro_player/
 hash: fd3ac2080d2adce63bc5d349b6491f4c

@@ -1,5 +1,6 @@
 ---
 title: "Twitterrific"
+slug: twitterrific
 date: 2007-01-18 23:23:06 -0600
 external-url: http://iconfactory.com/software/twitterrific
 hash: 7ca6fbd8562e120544e5224d6988c9e6

@@ -1,5 +1,6 @@
 ---
 title: "Oh No, They Didn’t?  Tumblr Launches a “TumbleUpon” Toolbar."
+slug: oh-no-they-didnt-tumblr-launches-a-tumbleupon-toolbar
 date: 2009-08-06 00:22:14 -0500
 external-url: http://techcrunch.com/2009/08/05/oh-no-they-didnt-tumblr-launches-a-tumbleupon-toolbar/
 hash: d64ff88d54de8f8ee6c555131217adf0

@@ -1,5 +1,6 @@
 ---
 title: "BlueCloth"
+slug: bluecloth
 date: 2006-06-27 17:36:42 -0500
 external-url: http://deveiate.org/projects/BlueCloth
 hash: 1aba714bcee5639a5271817adda9eea8

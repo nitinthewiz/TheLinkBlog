@@ -1,5 +1,6 @@
 ---
 title: "Chinese official on SMS voting: txtng votes ripe 4 abuse"
+slug: chinese-official-on-sms-voting-txtng-votes-ripe-4-abuse
 date: 2008-03-05 14:28:00 -0600
 external-url: http://arstechnica.com/gadgets/2008/03/chinese-official-on-sms-voting-txtng-votes-ripe-4-abuse/
 hash: 384ca64789fe87c401329129214f0c40

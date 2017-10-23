@@ -1,5 +1,6 @@
 ---
 title: "EmailToWiki MediaWiki Extension"
+slug: emailtowiki-mediawiki-extension
 date: 2012-08-30 21:35:40 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:EmailToWiki
 hash: 7238d9fb2e432a92bb19313c16021ed4

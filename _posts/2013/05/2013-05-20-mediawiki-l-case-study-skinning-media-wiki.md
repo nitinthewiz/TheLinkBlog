@@ -1,5 +1,6 @@
 ---
 title: "MediaWiki-l Case Study: Skinning Media Wiki"
+slug: mediawiki-l-case-study-skinning-media-wiki
 date: 2013-05-20 15:50:13 -0500
 external-url: https://lists.wikimedia.org/pipermail/mediawiki-l/2013-May/041162.html
 hash: 11f54abab1f102fe8c30482b2eb0349f

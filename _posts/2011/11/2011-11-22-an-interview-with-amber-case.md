@@ -1,5 +1,6 @@
 ---
 title: "An interview with Amber Case"
+slug: an-interview-with-amber-case
 date: 2011-11-22 09:44:36 -0600
 external-url: http://amber.case.usesthis.com/
 hash: 1bda21a798e387183d8e3aa3b864fee5

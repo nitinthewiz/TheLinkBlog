@@ -1,5 +1,6 @@
 ---
 title: "webandy.com - Notify Me"
+slug: webandy-com-notify-me
 date: 2011-01-16 15:13:42 -0600
 external-url: http://webandy.com/articles/notify-me
 hash: 2c469b8eba8bcbadec32b19cb5ab2051

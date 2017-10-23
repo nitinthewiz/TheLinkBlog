@@ -1,5 +1,6 @@
 ---
 title: "Any joy in the Zune division?"
+slug: any-joy-in-the-zune-division
 date: 2008-06-04 18:09:03 -0500
 external-url: http://9to5mac.com/2008/06/04/any-joy-in-the-zune-division/
 hash: 395860a22da3d99cfc87161568263274

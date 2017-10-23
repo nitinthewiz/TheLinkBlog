@@ -1,5 +1,6 @@
 ---
 title: "Pete Rose: Here Now"
+slug: pete-rose-here-now
 date: 2012-05-22 16:52:12 -0500
 external-url: http://espn.go.com/video/clip?id=7925114
 hash: 096eed2581c7e3fa0b2a03410decbc9c

@@ -1,5 +1,6 @@
 ---
 title: "Java VM Options You Should Always Use in Production"
+slug: java-vm-options-you-should-always-use-in-production
 date: 2014-11-19 03:28:52 -0600
 external-url: http://blog.sokolenko.me/2014/11/javavm-options-production.html
 hash: d3dd717d7456df86297f03647e6c31f3

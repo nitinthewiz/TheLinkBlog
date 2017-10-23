@@ -1,5 +1,6 @@
 ---
 title: "Playgrounder is born"
+slug: playgrounder-is-born
 date: 2009-08-27 19:37:47 -0500
 external-url: http://hivelogic.com/articles/playgrounder/
 hash: 70dfec4109fc48c8a8b88037ccc38b09

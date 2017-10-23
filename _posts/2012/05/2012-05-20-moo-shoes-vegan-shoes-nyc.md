@@ -1,5 +1,6 @@
 ---
 title: "Moo Shoes - Vegan Shoes NYC"
+slug: moo-shoes-vegan-shoes-nyc
 date: 2012-05-20 22:34:50 -0500
 external-url: http://www.mooshoes.com/
 hash: a51693e55846bc30d7f1d2118d769b73

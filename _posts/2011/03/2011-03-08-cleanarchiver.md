@@ -1,5 +1,6 @@
 ---
 title: "CleanArchiver"
+slug: cleanarchiver
 date: 2011-03-08 16:20:59 -0600
 external-url: http://sopht.jp/en/cleanarchiver/
 hash: 6bfee0d05c6ca3beaa76a0af495f26eb

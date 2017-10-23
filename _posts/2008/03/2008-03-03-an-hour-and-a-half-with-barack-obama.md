@@ -1,5 +1,6 @@
 ---
 title: "An hour and a half with Barack Obama"
+slug: an-hour-and-a-half-with-barack-obama
 date: 2008-03-03 04:54:44 -0600
 external-url: http://blog.pmarca.com/2008/03/an-hour-and-a-h.html
 hash: 3dd14f83ede062564bc0f57b1289d467

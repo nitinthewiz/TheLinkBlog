@@ -1,5 +1,6 @@
 ---
 title: "Berners-Lee, Cool URIs don't change (W3C)"
+slug: berners-lee-cool-uris-don-t-change-w3c
 date: 2011-06-01 11:37:03 -0500
 external-url: http://www.w3.org/Provider/Style/URI.html
 hash: 55d11ab0bb63a0aaaac1a38be8ef3ab1

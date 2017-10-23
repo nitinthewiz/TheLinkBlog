@@ -1,5 +1,6 @@
 ---
 title: "Terminal Tips: Make your Screensaver a desktop background"
+slug: terminal-tips-make-your-screensaver-a-desktop-background
 date: 2008-08-25 09:30:00 -0500
 external-url: http://www.tuaw.com/2008/08/25/terminal-tips-make-your-screensaver-a-desktop-background/
 hash: da4349d6bacfc5100a8a87650cd229af

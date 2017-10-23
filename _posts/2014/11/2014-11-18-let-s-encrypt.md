@@ -1,5 +1,6 @@
 ---
 title: "Let's Encrypt"
+slug: let-s-encrypt
 date: 2014-11-18 21:40:09 -0600
 external-url: https://letsencrypt.org/
 hash: 93d7897856233b520c250b5498f7d831

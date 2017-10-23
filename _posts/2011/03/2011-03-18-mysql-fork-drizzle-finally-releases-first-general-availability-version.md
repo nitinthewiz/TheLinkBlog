@@ -1,5 +1,6 @@
 ---
 title: "MySQL Fork Drizzle Finally Releases First General Availability Version"
+slug: mysql-fork-drizzle-finally-releases-first-general-availability-version
 date: 2011-03-18 07:07:01 -0500
 external-url: http://readwrite.com/2011/03/17/drizzle-a-new-fork-of-mysql
 hash: 6d8d0c5a04fe8721617ff411e310d14c

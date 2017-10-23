@@ -1,5 +1,6 @@
 ---
 title: "Rust for Python Programmers | Armin Ronacher's Thoughts and Writings"
+slug: rust-for-python-programmers-armin-ronacher-s-thoughts-and-writings
 date: 2015-05-27 22:46:33 -0500
 external-url: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 hash: 9d28baef79b0f98f1e6d2663a29c7dbe

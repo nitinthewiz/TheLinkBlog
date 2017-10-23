@@ -1,5 +1,6 @@
 ---
 title: "How your boss does their 1-1s tells you a lot about what they think their job is | Phil Wicklund | LinkedIn"
+slug: how-your-boss-does-their-1-1s-tells-you-a-lot-about-what-they-think-is
 date: 2017-10-19 21:52:48 -0500
 external-url: https://www.linkedin.com/pulse/how-your-boss-does-1-1s-tells-you-lot-what-think-job-wicklund-pmp
 hash: 129d983a6fa897c971fbd5ce67631503

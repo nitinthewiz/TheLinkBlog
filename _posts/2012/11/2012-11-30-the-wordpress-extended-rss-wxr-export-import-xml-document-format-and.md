@@ -1,5 +1,6 @@
 ---
 title: "The WordPress eXtended Rss (WXR) Export/Import, XML Document Format Decoded and Explained"
+slug: the-wordpress-extended-rss-wxr-export-import-xml-document-format-and
 date: 2012-11-30 08:14:13 -0600
 external-url: http://devtidbits.com/2011/03/16/the-wordpress-extended-rss-wxr-exportimport-xml-document-format-decoded-and-explained/
 hash: 78fc30b5c2344139004f333d626193ec

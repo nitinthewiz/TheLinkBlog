@@ -1,5 +1,6 @@
 ---
 title: "Ask 37signals: Why did you restart Highrise?"
+slug: ask-37signals-why-did-you-restart-highrise
 date: 2008-01-09 11:34:00 -0600
 external-url: http://www.37signals.com/svn/posts/772-ask-37signals-why-did-you-restart-highrise
 hash: 276c6ec38650e7597c1fdb4168147043

@@ -1,5 +1,6 @@
 ---
 title: "DIYthemes — Run a Killer Website with the Thesis WordPress Theme"
+slug: diythemes-run-a-killer-website-with-the-thesis-wordpress-theme
 date: 2009-04-28 20:25:41 -0500
 external-url: http://diythemes.com/
 hash: 2ca4d810c34c7be4cff36c4d1fc40a47

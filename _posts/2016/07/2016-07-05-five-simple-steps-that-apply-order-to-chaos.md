@@ -1,5 +1,6 @@
 ---
 title: "Five Simple Steps That Apply Order to Chaos"
+slug: five-simple-steps-that-apply-order-to-chaos
 date: 2016-07-05 19:30:13 -0500
 external-url: http://gettingthingsdone.com/fivesteps/
 hash: 44f5b754b3ca82b3da3820a60f270cdb

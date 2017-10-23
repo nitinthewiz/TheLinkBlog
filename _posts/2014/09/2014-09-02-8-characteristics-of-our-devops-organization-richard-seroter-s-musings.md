@@ -1,5 +1,6 @@
 ---
 title: "8 Characteristics of our DevOps Organization - Richard Seroter's Architecture Musings"
+slug: 8-characteristics-of-our-devops-organization-richard-seroter-s-musings
 date: 2014-09-02 12:20:57 -0500
 external-url: http://seroter.wordpress.com/2014/08/28/8-characteristics-of-our-devops-organization-2/
 hash: 643809eabd1ffab0ae6330430c2b1bc6

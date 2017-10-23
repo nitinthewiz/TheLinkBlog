@@ -1,5 +1,6 @@
 ---
 title: "Join the Engineering Leisure Class"
+slug: join-the-engineering-leisure-class
 date: 2015-05-09 17:10:35 -0500
 external-url: https://medium.com/@chrisloer/join-the-engineering-leisure-class-b3083c09a78e
 hash: 7c8e6d0c3dd1cea11cf0f4241a5e29f4

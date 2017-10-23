@@ -1,5 +1,6 @@
 ---
 title: "Symbolset"
+slug: symbolset
 date: 2012-11-21 11:24:37 -0600
 external-url: https://symbolset.com/
 hash: defddac121e322642fa49679023c187a

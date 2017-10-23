@@ -1,5 +1,6 @@
 ---
 title: "Twitter Web Traffic Around the World"
+slug: twitter-web-traffic-around-the-world
 date: 2008-02-20 20:03:00 -0600
 external-url: http://blog.twitter.com/2008/02/twitter-web-traffic-around-world.html
 hash: 6c7fc0146969d6dcf1a1274682e7d732

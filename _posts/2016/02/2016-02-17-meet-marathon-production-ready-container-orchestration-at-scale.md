@@ -1,5 +1,6 @@
 ---
 title: "Meet Marathon: Production-ready container orchestration at scale"
+slug: meet-marathon-production-ready-container-orchestration-at-scale
 date: 2016-02-17 22:49:00 -0600
 external-url: https://mesosphere.com/blog/2016/02/17/marathon-production-ready-containers/
 hash: 8ae3903f1671a9ffd327347e32a3ec24

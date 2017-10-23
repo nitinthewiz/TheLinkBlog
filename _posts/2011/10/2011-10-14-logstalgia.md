@@ -1,5 +1,6 @@
 ---
 title: "logstalgia"
+slug: logstalgia
 date: 2011-10-14 16:26:44 -0500
 external-url: http://code.google.com/p/logstalgia/
 hash: 40014c9da4b59e4cc7377b52caba6f40

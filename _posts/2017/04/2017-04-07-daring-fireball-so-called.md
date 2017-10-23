@@ -1,5 +1,6 @@
 ---
 title: "Daring Fireball: ‘So-Called’"
+slug: daring-fireball-so-called
 date: 2017-04-07 20:32:30 -0500
 external-url: http://daringfireball.net/2017/04/so_called
 hash: f98063fdb8d5f04263984f8f9fb536b6

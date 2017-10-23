@@ -1,5 +1,6 @@
 ---
 title: "Square is the new round."
+slug: square-is-the-new-round
 date: 2008-12-04 13:39:00 -0600
 external-url: http://googlereader.blogspot.com/2008/12/square-is-new-round.html
 hash: 97eecdbf2e759603b1fa28b1666e2607

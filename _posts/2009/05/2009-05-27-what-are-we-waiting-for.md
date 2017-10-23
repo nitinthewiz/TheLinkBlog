@@ -1,5 +1,6 @@
 ---
 title: "What Are We Waiting For?"
+slug: what-are-we-waiting-for
 date: 2009-05-27 11:35:14 -0500
 external-url: http://kernest.com/blog/archive/what-are-we-waiting-for
 hash: 02939e068e29baada4f40a7f8b54cbf0

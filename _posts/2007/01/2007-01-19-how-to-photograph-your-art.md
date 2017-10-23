@@ -1,5 +1,6 @@
 ---
 title: "How to Photograph Your Art"
+slug: how-to-photograph-your-art
 date: 2007-01-19 23:17:10 -0600
 external-url: http://www.dallasartsrevue.com/resources/How-to-Photo-Art.shtml
 hash: 10597679710d52798628c93b3b1a9f93

@@ -1,5 +1,6 @@
 ---
 title: "Ergotron 33-342-200 WorkFit-S Sitting Standing Desk Mount Computer Workstation for LCD monitor"
+slug: ergotron-33-342-200-workfit-s-sitting-standing-desk-mount-computer-for
 date: 2011-08-03 14:54:08 -0500
 external-url: http://www.ergotron.com/Products/tabid/65/PRDID/379/language/en-US/Default.aspx
 hash: ba7211d0c903bf8c58452462c1a56319

@@ -1,5 +1,6 @@
 ---
 title: "Facebook releases internal C++ libraries as open source"
+slug: facebook-releases-internal-c-libraries-as-open-source
 date: 2012-06-06 08:24:16 -0500
 external-url: http://arstechnica.com/information-technology/2012/06/facebook-releases-internal-c-libraries-as-open-source/
 hash: 2d0260e8dec112ff22409a6ab4cfbf65

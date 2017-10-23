@@ -1,5 +1,6 @@
 ---
 title: "why i deleted my twitter account"
+slug: why-i-deleted-my-twitter-account
 date: 2008-04-10 01:07:09 -0500
 external-url: http://www.gapingvoid.com/Moveable_Type/archives/004480.html
 hash: 7e69af2996fdb9a6e8f721db21e25848

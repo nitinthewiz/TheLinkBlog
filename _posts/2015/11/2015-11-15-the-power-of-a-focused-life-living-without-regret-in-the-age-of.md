@@ -1,5 +1,6 @@
 ---
 title: "The Power of a Focused Life — Living without regret in the Age of Distraction"
+slug: the-power-of-a-focused-life-living-without-regret-in-the-age-of
 date: 2015-11-15 20:13:34 -0600
 external-url: https://thefocuscourse.com/
 hash: 29f6b6a4067a02a7000f9a8716bcdc09

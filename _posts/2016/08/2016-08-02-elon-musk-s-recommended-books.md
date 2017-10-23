@@ -1,5 +1,6 @@
 ---
 title: "Elon Musk's recommended books"
+slug: elon-musk-s-recommended-books
 date: 2016-08-02 22:38:21 -0500
 external-url: http://www.canoneo.com/list/5Mom4oSgF5NoHEWqj
 hash: e8208285b10c70a6c991e231656c3590

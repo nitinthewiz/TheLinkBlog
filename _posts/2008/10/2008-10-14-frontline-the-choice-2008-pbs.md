@@ -1,5 +1,6 @@
 ---
 title: "FRONTLINE: the choice 2008 | PBS"
+slug: frontline-the-choice-2008-pbs
 date: 2008-10-14 21:00:21 -0500
 external-url: http://www.pbs.org/wgbh/pages/frontline/choice2008/
 hash: 17f625e4e22726e96b3cd6aea8b3e11c

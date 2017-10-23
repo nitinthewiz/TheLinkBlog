@@ -1,5 +1,6 @@
 ---
 title: "Former Biggest Loser contestants fight slow metabolisms, weight gain | Ars Technica"
+slug: former-biggest-loser-contestants-fight-slow-metabolisms-weight-gain
 date: 2016-05-03 00:12:56 -0500
 external-url: http://arstechnica.com/science/2016/05/big-weight-loss-can-slow-metabolism-long-term-make-it-harder-to-stay-slim/
 hash: fe99d9bf7e06a7b62bf94d86835de7f8

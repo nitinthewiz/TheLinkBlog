@@ -1,5 +1,6 @@
 ---
 title: "Computer Upgrades"
+slug: computer-upgrades
 date: 2008-03-09 22:44:33 -0500
 external-url: http://www.petersens.ws/2008/03/computer-upgrades
 hash: 79de48ce8379ed146272c6e5afdd20fa

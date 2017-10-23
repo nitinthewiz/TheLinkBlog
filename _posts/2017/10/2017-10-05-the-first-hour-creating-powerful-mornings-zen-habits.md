@@ -1,5 +1,6 @@
 ---
 title: "The First Hour: Creating Powerful Mornings : zen habits"
+slug: the-first-hour-creating-powerful-mornings-zen-habits
 date: 2017-10-05 22:17:40 -0500
 external-url: https://zenhabits.net/first-hour/
 hash: 99ce12de267acdb94f2e0def08098430

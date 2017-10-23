@@ -1,5 +1,6 @@
 ---
 title: "What I learned from blogging every weekday"
+slug: what-i-learned-from-blogging-every-weekday
 date: 2016-08-16 19:48:45 -0500
 external-url: http://withoutbullshit.com/blog/learned-blogging-every-weekday/
 hash: 7f4b262cbfa9439dfafcf46d3bd59243

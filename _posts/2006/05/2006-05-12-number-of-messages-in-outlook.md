@@ -1,5 +1,6 @@
 ---
 title: "Number of Messages in Outlook"
+slug: number-of-messages-in-outlook
 date: 2006-05-12 22:47:14 -0500
 external-url: http://technet.microsoft.com/en-us/library/ee692857.aspx
 hash: f70053f5ccdd6314394a0c67730ef461

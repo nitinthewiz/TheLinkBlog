@@ -1,5 +1,6 @@
 ---
 title: "Handmade Daft Punk helmet produces some stunning photo ops -- Engadget"
+slug: handmade-daft-punk-helmet-produces-some-stunning-photo-ops-engadget
 date: 2010-07-23 15:35:23 -0500
 external-url: http://www.engadget.com/2010/07/23/handmade-daft-punk-helmet-produces-some-stunning-photo-ops/
 hash: cb2ee7817d542487be415be48e801495

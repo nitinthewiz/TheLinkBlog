@@ -1,5 +1,6 @@
 ---
 title: "An Update on Encrypted UIDs"
+slug: an-update-on-encrypted-uids
 date: 2010-11-23 13:25:00 -0600
 external-url: http://developers.facebook.com/blog/post/431
 hash: 4e2bf25c22a5eb51dd9cd828a10dc5ea

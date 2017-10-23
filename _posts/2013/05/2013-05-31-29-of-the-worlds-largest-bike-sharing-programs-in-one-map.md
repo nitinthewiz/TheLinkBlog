@@ -1,5 +1,6 @@
 ---
 title: "29 of the worlds largest bike-sharing programs in one map"
+slug: 29-of-the-worlds-largest-bike-sharing-programs-in-one-map
 date: 2013-05-31 20:10:57 -0500
 external-url: http://qz.com/89019/29-of-the-worlds-largest-bike-sharing-programs-in-one-map/
 hash: 514188536c16779904b9dafe47c35828

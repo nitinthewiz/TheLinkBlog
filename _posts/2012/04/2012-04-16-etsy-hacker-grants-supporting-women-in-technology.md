@@ -1,5 +1,6 @@
 ---
 title: "Etsy Hacker Grants: Supporting Women in Technology"
+slug: etsy-hacker-grants-supporting-women-in-technology
 date: 2012-04-16 21:28:11 -0500
 external-url: https://www.etsy.com/hacker-grants
 hash: 5d852b85790266e083e40851d07b50cc

@@ -1,5 +1,6 @@
 ---
 title: "Mailinator"
+slug: mailinator
 date: 2012-07-01 21:49:31 -0500
 external-url: http://mailinator.com/index.jsp
 hash: d787e8420d07b8b35d6195aa5b98cde3

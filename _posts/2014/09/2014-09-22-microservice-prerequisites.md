@@ -1,5 +1,6 @@
 ---
 title: "Microservice Prerequisites"
+slug: microservice-prerequisites
 date: 2014-09-22 21:15:52 -0500
 external-url: http://martinfowler.com/bliki/MicroservicePrerequisites.html
 hash: a6c927a445352cb21fac9bec595b7c79

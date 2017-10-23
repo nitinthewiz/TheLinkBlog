@@ -1,5 +1,6 @@
 ---
 title: "Google Reader Simplifies Look, Adds Features [Google Reader]"
+slug: google-reader-simplifies-look-adds-features-google-reader
 date: 2008-12-04 16:40:36 -0600
 external-url: http://lifehacker.com/5102149/google-reader-simplifies-look-adds-features
 hash: d6306c218bbdfcc8844686f20d730082

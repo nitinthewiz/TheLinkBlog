@@ -1,5 +1,6 @@
 ---
 title: "LaunchBar 5.0.1 Runs on Snow Leopard, Adds Clipboard History"
+slug: launchbar-5-0-1-runs-on-snow-leopard-adds-clipboard-history
 date: 2009-10-20 19:36:20 -0500
 external-url: http://tidbits.com/article/10662
 hash: 9a4fed9acb92655d19dc1d9b025fbd22

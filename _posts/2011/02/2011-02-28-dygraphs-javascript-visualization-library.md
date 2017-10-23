@@ -1,5 +1,6 @@
 ---
 title: "dygraphs JavaScript Visualization Library"
+slug: dygraphs-javascript-visualization-library
 date: 2011-02-28 09:50:02 -0600
 external-url: http://dygraphs.com/
 hash: 8d1842f934e3ff8009681b495a931210

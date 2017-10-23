@@ -1,5 +1,6 @@
 ---
 title: "bigboxcar | words&pics — Aoife O’Donovan opening up for Punch Brothers at..."
+slug: bigboxcar-words-pics-aoife-odonovan-opening-up-for-punch-brothers-at
 date: 2012-03-02 20:41:37 -0600
 external-url: http://t.bigboxcar.com/post/18639614946
 hash: fbe153caac3b3ca135cf897fd416fc96

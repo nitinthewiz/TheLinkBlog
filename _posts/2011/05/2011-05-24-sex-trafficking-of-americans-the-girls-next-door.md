@@ -1,5 +1,6 @@
 ---
 title: "Sex Trafficking of Americans: The Girls Next Door"
+slug: sex-trafficking-of-americans-the-girls-next-door
 date: 2011-05-24 19:35:38 -0500
 external-url: http://www.vanityfair.com/politics/features/2011/05/sex-trafficking-201105
 hash: 70b5d850e8dcc8aa059b9d9ed91e342c

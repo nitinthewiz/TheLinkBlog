@@ -1,5 +1,6 @@
 ---
 title: "Speak to Amazon Kinesis in Python"
+slug: speak-to-amazon-kinesis-in-python
 date: 2014-10-21 21:04:28 -0500
 external-url: https://aws.amazon.com/blogs/aws/speak-to-kinesis-in-python/
 hash: 4b4dcabe25d646b96024a483ab11653c

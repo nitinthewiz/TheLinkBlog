@@ -1,5 +1,6 @@
 ---
 title: "Pinboard API (v1) Documentation"
+slug: pinboard-api-v1-documentation
 date: 2011-03-26 08:14:24 -0500
 external-url: http://pinboard.in/api
 hash: 3917d1ef1c61f86d2b7439028329a5b8

@@ -1,5 +1,6 @@
 ---
 title: "Tornadoes, Global Warming & Photographers"
+slug: tornadoes-global-warming-photographers
 date: 2013-05-23 11:30:49 -0500
 external-url: http://laynekennedy.blogspot.com/2013/05/tornadoes-global-warming-photographers.html
 hash: be30fd89e46794eeeede2f10822a90c3

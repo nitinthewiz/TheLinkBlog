@@ -1,5 +1,6 @@
 ---
 title: "Terms of Service; Didn't Read - Google Groups"
+slug: terms-of-service-didn-t-read-google-groups
 date: 2012-11-26 03:28:20 -0600
 external-url: https://groups.google.com/forum/m/#%21forum/tosdr
 hash: 6c740e7c2220dce18e47ea18187b5fb0

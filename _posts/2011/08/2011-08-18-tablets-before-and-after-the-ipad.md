@@ -1,5 +1,6 @@
 ---
 title: "Tablets, Before and After the iPad"
+slug: tablets-before-and-after-the-ipad
 date: 2011-08-18 12:01:17 -0500
 external-url: http://twitpic.com/67ykpa
 hash: a6ab23d882cf47a1271120cea60bce7c

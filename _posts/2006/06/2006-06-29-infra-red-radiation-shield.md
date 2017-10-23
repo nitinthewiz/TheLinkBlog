@@ -1,5 +1,6 @@
 ---
 title: "Infra-Red Radiation Shield"
+slug: infra-red-radiation-shield
 date: 2006-06-29 06:20:18 -0500
 external-url: http://www.weathershop.com/davis_radshield.htm
 hash: 44bc218963b0dc331a631747edeb1b9a

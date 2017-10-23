@@ -1,5 +1,6 @@
 ---
 title: "Chronochrome: [Almost] Resistor Color Code Time."
+slug: chronochrome-almost-resistor-color-code-time
 date: 2008-12-15 10:59:26 -0600
 external-url: http://www.friday.com/bbum/2008/12/15/chronochrome-almost-resistor-color-code-time/
 hash: 32c4d3d6e2752667d007a250df6063e6

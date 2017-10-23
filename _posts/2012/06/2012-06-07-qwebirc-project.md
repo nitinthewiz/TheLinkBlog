@@ -1,5 +1,6 @@
 ---
 title: "Qwebirc project"
+slug: qwebirc-project
 date: 2012-06-07 11:23:51 -0500
 external-url: http://qwebirc.org/
 hash: 5ed87657435f8388befb86e0c1f2bd9a

@@ -1,5 +1,6 @@
 ---
 title: "Tesla Solar | Tesla"
+slug: tesla-solar-tesla
 date: 2016-10-31 06:52:16 -0500
 external-url: https://www.tesla.com/solar
 hash: bfea426dbb6db546b222bf37f7eb1741

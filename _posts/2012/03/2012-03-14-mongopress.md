@@ -1,5 +1,6 @@
 ---
 title: "MongoPress"
+slug: mongopress
 date: 2012-03-14 15:43:53 -0500
 external-url: http://www.mongopress.org/
 hash: 176089f8dbf1aa41e8493d91c6431ba5

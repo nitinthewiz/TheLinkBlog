@@ -1,5 +1,6 @@
 ---
 title: "My Fathers Final Gift"
+slug: my-fathers-final-gift
 date: 2012-03-23 01:37:41 -0500
 external-url: http://www.azarask.in/blog/post/my-father-final-gift/
 hash: e47f4f15ac88f4b0343fd87941e732fd

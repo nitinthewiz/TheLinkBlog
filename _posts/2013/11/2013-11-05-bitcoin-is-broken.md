@@ -1,5 +1,6 @@
 ---
 title: "Bitcoin Is Broken"
+slug: bitcoin-is-broken
 date: 2013-11-05 09:29:58 -0600
 external-url: http://hackingdistributed.com/2013/11/04/bitcoin-is-broken/
 hash: e84c048b87d982fbc30134df3dc2bd6d

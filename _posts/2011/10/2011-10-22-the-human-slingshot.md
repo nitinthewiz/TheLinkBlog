@@ -1,5 +1,6 @@
 ---
 title: "The Human Slingshot"
+slug: the-human-slingshot
 date: 2011-10-22 07:57:39 -0500
 external-url: http://www.youtube.com/watch?v=y_wkQBDDgvI
 hash: 53c16e2f60d42921f77797ef5c7210b1

@@ -1,5 +1,6 @@
 ---
 title: "Google Analytics goes async"
+slug: google-analytics-goes-async
 date: 2009-12-03 21:14:37 -0600
 external-url: http://www.stevesouders.com/blog/2009/12/01/google-analytics-goes-async/
 hash: 0dba1c60568c64d3ed1833ec1a6c300a

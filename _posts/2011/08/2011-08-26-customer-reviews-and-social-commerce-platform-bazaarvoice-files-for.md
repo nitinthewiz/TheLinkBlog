@@ -1,5 +1,6 @@
 ---
 title: "Customer Reviews And Social Commerce Platform Bazaarvoice Files For $86M IPO"
+slug: customer-reviews-and-social-commerce-platform-bazaarvoice-files-for
 date: 2011-08-26 10:15:50 -0500
 external-url: http://techcrunch.com/2011/08/26/customer-reviews-and-social-commerce-platform-bazaarvoice-files-for-86m-ipo/
 hash: 2723fa8df105b84bad8b1885a53c5e5c

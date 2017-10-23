@@ -1,5 +1,6 @@
 ---
 title: "Major Newspaper Chain Goes Open Source"
+slug: major-newspaper-chain-goes-open-source
 date: 2010-07-04 22:55:00 -0500
 external-url: http://readwrite.com/2010/07/04/major_newspaper_chain_goes_open_source
 hash: e7fc46a6f764d2ecd4f08ac261ad2224

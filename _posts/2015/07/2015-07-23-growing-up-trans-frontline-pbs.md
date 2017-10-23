@@ -1,5 +1,6 @@
 ---
 title: "Growing Up Trans | FRONTLINE | PBS"
+slug: growing-up-trans-frontline-pbs
 date: 2015-07-23 06:55:31 -0500
 external-url: http://www.pbs.org/wgbh/pages/frontline/growing-up-trans/
 hash: fb393375c9d0ed68563e466cf88442cc

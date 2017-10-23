@@ -1,5 +1,6 @@
 ---
 title: "Frighteningly Ambitious Startup Ideas"
+slug: frighteningly-ambitious-startup-ideas
 date: 2012-05-07 18:36:05 -0500
 external-url: http://www.paulgraham.com/ambitious.html
 hash: 01d5c0a93125cb730ea03dbbbb098060

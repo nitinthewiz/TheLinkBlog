@@ -1,5 +1,6 @@
 ---
 title: "Red Herring Americas 2012 Presenting Companies"
+slug: red-herring-americas-2012-presenting-companies
 date: 2012-05-10 12:53:29 -0500
 external-url: http://www.redherring.com/red-herring-americas/americas-2012-presenting-companies/
 hash: 0c4a215f0e7b6f542bbd0e0fc40b2956

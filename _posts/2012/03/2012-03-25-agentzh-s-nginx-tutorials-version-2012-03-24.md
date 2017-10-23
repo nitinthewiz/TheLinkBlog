@@ -1,5 +1,6 @@
 ---
 title: "Agentzh's Nginx Tutorials (version 2012.03.24)"
+slug: agentzh-s-nginx-tutorials-version-2012-03-24
 date: 2012-03-25 15:29:41 -0500
 external-url: http://openresty.org/download/agentzh-nginx-tutorials-en.html
 hash: 8ce73d20786454163c89dc0d0bfc24ea

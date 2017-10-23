@@ -1,5 +1,6 @@
 ---
 title: "The Two Faces of Lion"
+slug: the-two-faces-of-lion
 date: 2011-06-09 17:59:52 -0500
 external-url: http://tidbits.com/article/12237
 hash: d7ae51f407089ea63f160f1760d40a86

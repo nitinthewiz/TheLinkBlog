@@ -1,5 +1,6 @@
 ---
 title: "The W3C has overruled members' objections and will publish its DRM for videos / Boing Boing"
+slug: the-w3c-has-overruled-members-objections-and-will-publish-its-drm-for
 date: 2017-07-09 20:50:09 -0500
 external-url: http://boingboing.net/2017/07/07/eschatology-watch.html
 hash: 1325a9f59cfa3e81259f57a8634de0a6

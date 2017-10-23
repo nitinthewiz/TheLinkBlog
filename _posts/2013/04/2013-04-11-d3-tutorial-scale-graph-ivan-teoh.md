@@ -1,5 +1,6 @@
 ---
 title: "D3: Tutorial - Scale graph - Ivan Teoh"
+slug: d3-tutorial-scale-graph-ivan-teoh
 date: 2013-04-11 11:58:20 -0500
 external-url: http://www.ivanteoh.com/posts/176-d3-tutorial-scale-graph/
 hash: 8322b7199ee8ea86f3082ca22711bf8f

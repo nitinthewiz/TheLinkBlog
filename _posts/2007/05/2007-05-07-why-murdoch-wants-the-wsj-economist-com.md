@@ -1,5 +1,6 @@
 ---
 title: "Why Murdoch wants the WSJ Economist.com"
+slug: why-murdoch-wants-the-wsj-economist-com
 date: 2007-05-07 12:05:51 -0500
 external-url: http://www.economist.com/node/9120796
 hash: 329df1a2dc8c0013da1ffe6f66473c60

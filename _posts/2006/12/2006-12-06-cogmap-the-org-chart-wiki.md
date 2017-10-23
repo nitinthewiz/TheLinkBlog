@@ -1,5 +1,6 @@
 ---
 title: "CogMap: The Org Chart Wiki"
+slug: cogmap-the-org-chart-wiki
 date: 2006-12-06 22:46:53 -0600
 external-url: http://www.cogmap.com/home.php
 hash: 00fa1fb558f2d5cc5c955764d6a954de

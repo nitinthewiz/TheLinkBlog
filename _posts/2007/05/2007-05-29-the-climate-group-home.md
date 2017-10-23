@@ -1,5 +1,6 @@
 ---
 title: "The Climate Group: Home"
+slug: the-climate-group-home
 date: 2007-05-29 21:22:09 -0500
 external-url: http://www.theclimategroup.org/
 hash: 50efd907e99e156c6b8b75c4b870fe7a

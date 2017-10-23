@@ -1,5 +1,6 @@
 ---
 title: "BSD For Linux Users"
+slug: bsd-for-linux-users
 date: 2012-08-22 21:46:29 -0500
 external-url: http://www.over-yonder.net/~fullermd/rants/bsd4linux/01
 hash: 534659dd42e17bcb9faf6e2f046a39d6

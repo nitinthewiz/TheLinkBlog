@@ -1,5 +1,6 @@
 ---
 title: "The Mystery of Go, the Ancient Game That Computers Still Can’t Win"
+slug: the-mystery-of-go-the-ancient-game-that-computers-still-cant-win
 date: 2016-01-27 22:08:11 -0600
 external-url: http://www.wired.com/2014/05/the-world-of-computer-go/
 hash: 2e8a497c858c751b2fbc0d696fad966e

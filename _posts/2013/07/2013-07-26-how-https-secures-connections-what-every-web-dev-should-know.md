@@ -1,5 +1,6 @@
 ---
 title: "How HTTPS Secures Connections: What Every Web Dev Should Know"
+slug: how-https-secures-connections-what-every-web-dev-should-know
 date: 2013-07-26 23:21:30 -0500
 external-url: http://blog.hartleybrody.com/https-certificates/
 hash: fa3de29c19b580ddb591bfeb0d6d06f9

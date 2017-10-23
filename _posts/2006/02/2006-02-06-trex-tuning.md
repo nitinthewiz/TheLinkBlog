@@ -1,5 +1,6 @@
 ---
 title: "TRex Tuning"
+slug: trex-tuning
 date: 2006-02-06 06:09:08 -0600
 external-url: http://www.helituning.com
 hash: 65763d7f96c3cbfdd872c62ce82e401e

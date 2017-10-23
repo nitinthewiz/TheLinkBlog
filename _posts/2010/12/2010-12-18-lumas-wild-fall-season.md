@@ -1,5 +1,6 @@
 ---
 title: "Luma’s Wild Fall Season"
+slug: lumas-wild-fall-season
 date: 2010-12-18 04:20:00 -0600
 external-url: http://duncandavidson.com/blog/2010/12/six-hour-sellout
 hash: 42693ecbd9b427eb69ce80fe672ffdc4

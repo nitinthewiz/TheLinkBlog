@@ -1,5 +1,6 @@
 ---
 title: "Set Up a Simple, Web Streaming Home Surveillance System [Video]"
+slug: set-up-a-simple-web-streaming-home-surveillance-system-video
 date: 2010-10-06 14:30:00 -0500
 external-url: http://lifehacker.com/5657252/set-up-a-simple-web-streaming-home-surveillance-system
 hash: b386c7af6b395d6ae088abbb2f3bf456

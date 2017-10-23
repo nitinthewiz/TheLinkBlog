@@ -1,5 +1,6 @@
 ---
 title: "Google Wants To Index Your Videos"
+slug: google-wants-to-index-your-videos
 date: 2007-12-18 05:24:29 -0600
 external-url: http://techcrunch.com/2007/12/18/google-wants-to-index-your-videos/
 hash: 312fc0735730233d0751769810792799

@@ -1,5 +1,6 @@
 ---
 title: "Ad networks are killing the Internet. My answer is Cringely 3.0"
+slug: ad-networks-are-killing-the-internet-my-answer-is-cringely-3-0
 date: 2012-11-16 21:51:27 -0600
 external-url: http://www.cringely.com/2012/11/02/ad-networks-are-killing-the-internet-my-answer-is-cringely-3-0/
 hash: 5cd9c6493704c1d8567ad7269f5b573f

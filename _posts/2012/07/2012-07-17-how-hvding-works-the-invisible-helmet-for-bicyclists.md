@@ -1,5 +1,6 @@
 ---
 title: "How Hvding works - The invisible helmet for bicyclists"
+slug: how-hvding-works-the-invisible-helmet-for-bicyclists
 date: 2012-07-17 04:55:22 -0500
 external-url: http://www.hovding.com/how_hovding_works/
 hash: 2c98f74c54d905d5ae63207696bb3a80

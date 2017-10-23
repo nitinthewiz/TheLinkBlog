@@ -1,5 +1,6 @@
 ---
 title: "Thoughts on OmniFocus"
+slug: thoughts-on-omnifocus
 date: 2010-12-12 07:31:01 -0600
 external-url: http://johnny.chadda.se/article/thoughts-on-omnifocus/
 hash: bbbea9a01e037d6ade0681df52b57589

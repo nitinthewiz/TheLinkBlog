@@ -1,5 +1,6 @@
 ---
 title: "How We Lost the Web - Anil Dash"
+slug: how-we-lost-the-web-anil-dash
 date: 2013-04-08 13:49:05 -0500
 external-url: http://dashes.com/anil/2013/04/harvard.html
 hash: 9f7a577454b3d166b580baa76bbef534

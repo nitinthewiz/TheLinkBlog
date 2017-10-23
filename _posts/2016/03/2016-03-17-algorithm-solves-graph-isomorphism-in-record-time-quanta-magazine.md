@@ -1,5 +1,6 @@
 ---
 title: "Algorithm Solves Graph Isomorphism in Record Time | Quanta Magazine"
+slug: algorithm-solves-graph-isomorphism-in-record-time-quanta-magazine
 date: 2016-03-17 06:53:51 -0500
 external-url: https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/
 hash: b430abca62b8e2ac2411954ade5a6ac6

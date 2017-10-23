@@ -1,5 +1,6 @@
 ---
 title: "Chart Sweep"
+slug: chart-sweep
 date: 2011-02-25 20:15:03 -0600
 external-url: http://evolution-control.com/index.php/experiments/mp3s/104-chart-sweep
 hash: 0f429f3d27412356dd07c4d990db466e

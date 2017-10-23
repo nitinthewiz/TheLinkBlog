@@ -1,5 +1,6 @@
 ---
 title: "After the Deadline now Open Source"
+slug: after-the-deadline-now-open-source
 date: 2009-10-26 19:11:37 -0500
 external-url: http://ma.tt/2009/10/atd-now-os/
 hash: 7cdd1da52a79630fc12b8bfd9f078ab5

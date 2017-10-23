@@ -1,5 +1,6 @@
 ---
 title: "The Netflix Tech Blog: Java in Flames"
+slug: the-netflix-tech-blog-java-in-flames
 date: 2015-07-26 19:54:45 -0500
 external-url: https://medium.com/netflix-techblog/java-in-flames-e763b3d32166
 hash: baac745e27bfef8f697444237f77176a

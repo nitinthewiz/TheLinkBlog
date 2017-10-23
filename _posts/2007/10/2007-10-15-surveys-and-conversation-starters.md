@@ -1,5 +1,6 @@
 ---
 title: "Surveys and Conversation Starters"
+slug: surveys-and-conversation-starters
 date: 2007-10-15 14:57:03 -0500
 external-url: http://andheblogs.andyrush.net/surveys-and-conversation-starters/
 hash: c3d0ce7d9c770ee0e5fef0a844a28f9e

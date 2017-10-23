@@ -1,5 +1,6 @@
 ---
 title: "iPhone 8 Is World's Fastest Phone (It's Not Even Close)"
+slug: iphone-8-is-world-s-fastest-phone-it-s-not-even-close
 date: 2017-09-21 21:00:42 -0500
 external-url: https://www.tomsguide.com/us/iphone-8-benchmarks-fastest-phone,review-4676.html
 hash: 9a22354b7e4427941996324256cd761d

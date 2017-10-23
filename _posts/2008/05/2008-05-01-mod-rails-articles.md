@@ -1,5 +1,6 @@
 ---
 title: "mod_rails articles"
+slug: mod-rails-articles
 date: 2008-05-01 13:08:00 -0500
 external-url: http://www.slicehost.com/articles/2008/5/1/mod_rails-articles
 hash: 16cddca201a4fc22bf2aac426aeaa10f

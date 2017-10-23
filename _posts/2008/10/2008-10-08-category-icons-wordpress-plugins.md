@@ -1,5 +1,6 @@
 ---
 title: "Category Icons WordPress Plugins"
+slug: category-icons-wordpress-plugins
 date: 2008-10-08 12:00:54 -0500
 external-url: http://wordpress.org/plugins/category-icons/
 hash: 70d0e76b48d578190984e06fb36e1fa3

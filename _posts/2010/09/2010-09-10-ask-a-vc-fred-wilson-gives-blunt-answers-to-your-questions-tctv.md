@@ -1,5 +1,6 @@
 ---
 title: "Ask a VC: Fred Wilson Gives Blunt Answers to Your Questions (TCTV)"
+slug: ask-a-vc-fred-wilson-gives-blunt-answers-to-your-questions-tctv
 date: 2010-09-10 17:01:23 -0500
 external-url: http://techcrunch.com/2010/09/10/ask-a-vc-fred-wilson-gives-blunt-answers-to-your-questions-tctv/
 hash: 6d4480b21a1f2d82101a84e62ae51d5a

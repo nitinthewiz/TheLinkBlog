@@ -1,5 +1,6 @@
 ---
 title: "Online IPv6 Ping and Port Scanner"
+slug: online-ipv6-ping-and-port-scanner
 date: 2012-04-13 06:13:54 -0500
 external-url: http://ipv6.chappell-family.com/ipv6tcptest/
 hash: f1bcfb7d5f2b68903e3bd75fc87234c6

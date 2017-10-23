@@ -1,5 +1,6 @@
 ---
 title: "The Number One Reason People Still Haven't Joined Facebook"
+slug: the-number-one-reason-people-still-haven-t-joined-facebook
 date: 2011-01-11 16:12:35 -0600
 external-url: http://www.businessinsider.com/chart-of-the-day-facebook-waste-of-time-2011-1
 hash: b842aa6e61b1dc79ba918fff6fb2434a

@@ -1,5 +1,6 @@
 ---
 title: "The Users are the Suppliers"
+slug: the-users-are-the-suppliers
 date: 2011-04-03 05:53:30 -0500
 external-url: http://info.org.il/english/The-Users-are-the-Suppliers.html
 hash: 9bca1308c390d1b93c4303a6fe5a89f2

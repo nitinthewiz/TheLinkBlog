@@ -1,5 +1,6 @@
 ---
 title: "Foo Fighters’ Dave Grohl On His Emmy-Nominated Series ‘Sonic Highways’ | Deadline"
+slug: foo-fighters-dave-grohl-on-his-emmy-nominated-series-sonic-highways
 date: 2015-08-21 06:37:03 -0500
 external-url: http://deadline.com/2015/08/foo-fighters-dave-grohl-emmy-nominated-series-sonic-highways-1201501175/
 hash: 023e6edd7003854e9f8141e74e8d631e

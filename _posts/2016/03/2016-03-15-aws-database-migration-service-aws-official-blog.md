@@ -1,5 +1,6 @@
 ---
 title: "AWS Database Migration Service — AWS Official Blog"
+slug: aws-database-migration-service-aws-official-blog
 date: 2016-03-15 17:29:15 -0500
 external-url: https://aws.amazon.com/blogs/aws/aws-database-migration-service/
 hash: 67fda89d0e795e7e1d1a9c5c88210d6b

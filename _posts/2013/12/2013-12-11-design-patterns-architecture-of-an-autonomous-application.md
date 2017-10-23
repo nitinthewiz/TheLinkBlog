@@ -1,5 +1,6 @@
 ---
 title: "Design Patterns: Architecture of an Autonomous Application"
+slug: design-patterns-architecture-of-an-autonomous-application
 date: 2013-12-11 04:20:33 -0600
 external-url: http://msdn.microsoft.com/en-us/magazine/cc164125.aspx
 hash: fcce8be3e0d9c5849b081e6e701cfb1c

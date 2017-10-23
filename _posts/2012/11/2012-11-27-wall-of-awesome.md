@@ -1,5 +1,6 @@
 ---
 title: "Wall of Awesome"
+slug: wall-of-awesome
 date: 2012-11-27 10:33:50 -0600
 external-url: http://wallofaweso.me/
 hash: cce192784938221d5b3ed6e8be155a8d

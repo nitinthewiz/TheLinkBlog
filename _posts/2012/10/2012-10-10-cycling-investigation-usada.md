@@ -1,5 +1,6 @@
 ---
 title: "Cycling Investigation - USADA"
+slug: cycling-investigation-usada
 date: 2012-10-10 18:40:57 -0500
 external-url: http://cyclinginvestigation.usada.org/
 hash: a24a5959f948e581ba1e47e46c3bc0d5

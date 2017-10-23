@@ -1,5 +1,6 @@
 ---
 title: "Episode 576: When Women Stopped Coding"
+slug: episode-576-when-women-stopped-coding
 date: 2014-10-20 23:11:37 -0500
 external-url: http://www.npr.org/blogs/money/2014/10/17/356944145/episode-576-when-women-stopped-coding
 hash: 07a9d3a3f722fa291acf1b372cad5b36

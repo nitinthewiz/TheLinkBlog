@@ -1,5 +1,6 @@
 ---
 title: "Restore Historic Mission Control by Space Center Houston — Kickstarter"
+slug: restore-historic-mission-control-by-space-center-houston-kickstarter
 date: 2017-07-28 06:43:44 -0500
 external-url: https://www.kickstarter.com/projects/589813043/restore-historic-mission-control
 hash: 447a263560e6c44ebbc1d7a5a41f9538

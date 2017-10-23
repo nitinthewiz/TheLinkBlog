@@ -1,5 +1,6 @@
 ---
 title: "Inside the CERN Control Centre | symmetry magazine"
+slug: inside-the-cern-control-centre-symmetry-magazine
 date: 2015-03-19 20:52:20 -0500
 external-url: http://www.symmetrymagazine.org/article/march-2015/inside-the-cern-control-centre
 hash: 4d0dfab5e02a21a62500ff5475a6f684

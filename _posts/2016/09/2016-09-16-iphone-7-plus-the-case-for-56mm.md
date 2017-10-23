@@ -1,5 +1,6 @@
 ---
 title: "iPhone 7 Plus — The Case for 56mm"
+slug: iphone-7-plus-the-case-for-56mm
 date: 2016-09-16 20:27:46 -0500
 external-url: http://www.astramael.com/5
 hash: 09ef322f256468add4bf7b19e2b2d895

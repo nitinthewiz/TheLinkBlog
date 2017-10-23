@@ -1,5 +1,6 @@
 ---
 title: "P2: The New Prologue"
+slug: p2-the-new-prologue
 date: 2009-03-11 09:57:09 -0500
 external-url: http://raanan.com/2009/03/10/p2-the-new-prologue/
 hash: ffc6a2c505698f1e1af6df9e131194c2

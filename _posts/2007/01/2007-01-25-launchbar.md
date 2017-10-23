@@ -1,5 +1,6 @@
 ---
 title: "LaunchBar"
+slug: launchbar
 date: 2007-01-25 14:42:50 -0600
 external-url: http://www.obdev.at/products/launchbar/index.html
 hash: c707ee6ee92cd115b2e5df05a9ebdbab

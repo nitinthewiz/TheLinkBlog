@@ -1,5 +1,6 @@
 ---
 title: "Geo Tagging comes to Nikon Cameras"
+slug: geo-tagging-comes-to-nikon-cameras
 date: 2008-08-04 18:21:42 -0500
 external-url: http://cameradojo.com/2008/08/04/geo-tagging-comes-to-nikon-cameras/
 hash: 381aaa9c9c75217c3b0d7685d08f2931

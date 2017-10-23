@@ -1,5 +1,6 @@
 ---
 title: "Bauhaus Brew Labs"
+slug: bauhaus-brew-labs
 date: 2015-03-25 20:17:25 -0500
 external-url: http://bauhausbrewlabs.com/
 hash: 41324fa7081a93746b8184b58f4c759c

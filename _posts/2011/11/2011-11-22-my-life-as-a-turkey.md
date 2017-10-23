@@ -1,5 +1,6 @@
 ---
 title: "My Life as a Turkey"
+slug: my-life-as-a-turkey
 date: 2011-11-22 09:48:57 -0600
 external-url: http://www.pbs.org/wnet/nature/episodes/my-life-as-a-turkey/introduction/7268/
 hash: d3c3b9887229eb6110a9d2c99c0f58c7

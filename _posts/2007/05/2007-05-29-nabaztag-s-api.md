@@ -1,5 +1,6 @@
 ---
 title: "Nabaztag's API"
+slug: nabaztag-s-api
 date: 2007-05-29 11:03:55 -0500
 external-url: http://help.nabaztag.com/fiche.php?langue=3&fiche=29
 hash: c6c3c5d907ebbfe752bcdce6f8539f1b

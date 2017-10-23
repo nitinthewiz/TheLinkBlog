@@ -1,5 +1,6 @@
 ---
 title: "App Camp For Girls - Indiegogo"
+slug: app-camp-for-girls-indiegogo
 date: 2013-06-05 10:56:45 -0500
 external-url: https://www.indiegogo.com/projects/app-camp-for-girls
 hash: ae9906796f5359427254bb52a8e4fd02

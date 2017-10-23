@@ -1,5 +1,6 @@
 ---
 title: "AppZapper - The uninstaller Apple forgot."
+slug: appzapper-the-uninstaller-apple-forgot
 date: 2007-07-28 14:27:10 -0500
 external-url: http://appzapper.com/
 hash: 8ed02eec9a7eecd186e39579635ac9fe

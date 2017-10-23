@@ -1,5 +1,6 @@
 ---
 title: "Acxiom Corp: The 'faceless organization that knows everything about you'"
+slug: acxiom-corp-the-faceless-organization-that-knows-everything-about-you
 date: 2012-06-20 18:16:48 -0500
 external-url: http://theweek.com/article/index/229508/acxiom-corp-the-faceless-organization-that-knows-everything-about-you
 hash: dd4ab24138770362467d5abbaa17b345

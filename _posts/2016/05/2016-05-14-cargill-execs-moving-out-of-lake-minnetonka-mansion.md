@@ -1,5 +1,6 @@
 ---
 title: "Cargill execs moving out of Lake Minnetonka mansion"
+slug: cargill-execs-moving-out-of-lake-minnetonka-mansion
 date: 2016-05-14 13:51:03 -0500
 external-url: http://startribune.com/cargill-executives-moving-out-of-lake-minnetonka-mansion/378543475/?ref=nl
 hash: 86d1cdb29903cd0a7fe482cd178a2f67

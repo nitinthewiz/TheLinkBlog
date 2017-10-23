@@ -1,5 +1,6 @@
 ---
 title: "chaoslawful/lua-nginx-module - GitHub"
+slug: chaoslawful-lua-nginx-module-github
 date: 2011-11-11 16:41:46 -0600
 external-url: https://github.com/chaoslawful/lua-nginx-module
 hash: 62ce2675ac4cf1159a1d8edfb9109a56

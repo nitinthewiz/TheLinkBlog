@@ -1,5 +1,6 @@
 ---
 title: "The Midwest Mentality"
+slug: the-midwest-mentality
 date: 2012-03-19 20:46:15 -0500
 external-url: http://pando.com/2012/03/18/the-midwest-mentality/
 hash: b37fd47093e88eaf7ead6a949135da0b

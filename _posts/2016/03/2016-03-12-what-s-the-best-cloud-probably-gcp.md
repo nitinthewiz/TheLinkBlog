@@ -1,5 +1,6 @@
 ---
 title: "What's the Best Cloud? Probably GCP"
+slug: what-s-the-best-cloud-probably-gcp
 date: 2016-03-12 20:45:44 -0600
 external-url: https://quizlet.com/blog/whats-the-best-cloud-probably-gcp
 hash: b6113c2460ea83061c84b9d0c57b232c

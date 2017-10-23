@@ -1,5 +1,6 @@
 ---
 title: "Journaling Joy"
+slug: journaling-joy
 date: 2015-09-14 19:51:59 -0500
 external-url: http://www.myproductivemac.com/blog/journaling-joy1492015
 hash: 13686872827e070826caa784e3ce724d

@@ -1,5 +1,6 @@
 ---
 title: "[Cryptography] On the Impending Crypto Monoculture"
+slug: cryptography-on-the-impending-crypto-monoculture
 date: 2016-03-31 06:19:47 -0500
 external-url: http://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html
 hash: 746e2ce43f49be23e3246262d749cd38

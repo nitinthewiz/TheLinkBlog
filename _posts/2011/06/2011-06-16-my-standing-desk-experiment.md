@@ -1,5 +1,6 @@
 ---
 title: "My Standing Desk Experiment"
+slug: my-standing-desk-experiment
 date: 2011-06-16 23:43:11 -0500
 external-url: http://zenhabits.net/stand/
 hash: dbd3423a7a98d3b08d2222319e2ab881

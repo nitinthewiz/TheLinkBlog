@@ -1,5 +1,6 @@
 ---
 title: "From Here You Can See Everything"
+slug: from-here-you-can-see-everything
 date: 2013-05-23 23:59:00 -0500
 external-url: http://www.themorningnews.org/article/from-here-you-can-see-everything
 hash: e20fcaca855221a766dfffe8c30d2acf

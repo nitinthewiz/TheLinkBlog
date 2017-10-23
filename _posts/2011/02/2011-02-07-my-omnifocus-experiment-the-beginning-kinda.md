@@ -1,5 +1,6 @@
 ---
 title: "My OmniFocus experiment the beginning (kinda)"
+slug: my-omnifocus-experiment-the-beginning-kinda
 date: 2011-02-07 10:05:31 -0600
 external-url: http://www.practicallyefficient.com/2011/02/07/my-omnifocus-experiment-the-beginning-kinda.html
 hash: 7bea410568e4137c38ef221cbcd515ec

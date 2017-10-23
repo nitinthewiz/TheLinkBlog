@@ -1,5 +1,6 @@
 ---
 title: "WordPress 2011 Survey"
+slug: wordpress-2011-survey
 date: 2011-08-03 15:00:30 -0500
 external-url: http://wpsurvey.polldaddy.com/s/wp-2011-e?src=mmt
 hash: 65e37404ff501f8db3aaeef1bd660dfc

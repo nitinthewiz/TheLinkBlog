@@ -1,5 +1,6 @@
 ---
 title: "Hidden Meanings in The Shining?"
+slug: hidden-meanings-in-the-shining
 date: 2012-02-10 23:27:47 -0600
 external-url: http://www.drummerman.net/shining/essays.html
 hash: 66a6f1ce3c294ce72c3a93e42130e115

@@ -1,5 +1,6 @@
 ---
 title: "Minnebar '08 Schedule Announced - It's Hot"
+slug: minnebar-08-schedule-announced-it-s-hot
 date: 2008-05-07 10:09:24 -0500
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/05/minnebar-08-dra.html
 hash: 8c62109bf0eb876ab93ba4a67de8fa94

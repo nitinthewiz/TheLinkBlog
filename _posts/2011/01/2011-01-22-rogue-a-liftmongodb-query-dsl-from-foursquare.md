@@ -1,5 +1,6 @@
 ---
 title: "Rogue - A LiftMongoDB query DSL from Foursquare"
+slug: rogue-a-liftmongodb-query-dsl-from-foursquare
 date: 2011-01-22 00:20:45 -0600
 external-url: http://thechangelog.com/rogue-a-lift-mongodb-query-dsl-from-foursquare/
 hash: 8468142669158f6ccdbedb14d1b0f057

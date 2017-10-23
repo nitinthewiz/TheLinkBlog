@@ -1,5 +1,6 @@
 ---
 title: "National Do Not Call Registry"
+slug: national-do-not-call-registry
 date: 2017-07-28 22:08:45 -0500
 external-url: https://www.donotcall.gov/register/reg.aspx
 hash: 8071dcfe22eecda3173683be1aa2bd8e

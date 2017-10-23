@@ -1,5 +1,6 @@
 ---
 title: "The Body Journal"
+slug: the-body-journal
 date: 2007-08-15 20:37:06 -0500
 external-url: http://www.bodyjournal.com/about/index.html
 hash: 491ea005900d0bca44cc3cdd5c18b463

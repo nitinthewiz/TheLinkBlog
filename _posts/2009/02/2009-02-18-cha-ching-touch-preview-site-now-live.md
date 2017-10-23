@@ -1,5 +1,6 @@
 ---
 title: "Cha-Ching Touch Preview Site Now Live"
+slug: cha-ching-touch-preview-site-now-live
 date: 2009-02-18 23:19:47 -0600
 external-url: http://www.midnightapps.com/blog/archives/2009/02/18/wwwmidnightappscomchachingtouch/
 hash: 7acbb67481e0983abffd58a43f9b9382

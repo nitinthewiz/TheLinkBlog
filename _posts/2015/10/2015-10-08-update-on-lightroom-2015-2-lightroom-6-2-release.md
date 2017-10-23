@@ -1,5 +1,6 @@
 ---
 title: "Update on Lightroom 2015.2 / Lightroom 6.2 Release"
+slug: update-on-lightroom-2015-2-lightroom-6-2-release
 date: 2015-10-08 08:53:01 -0500
 external-url: http://www.canonrumors.com/update-on-lightroom-2015-2-lightroom-6-2-release/
 hash: 3c1a6ae2d6b01ddfc633badeec7afefa

@@ -1,5 +1,6 @@
 ---
 title: "Russian Hackers of Dow Jones Said to Have Sought Trading Tips"
+slug: russian-hackers-of-dow-jones-said-to-have-sought-trading-tips
 date: 2015-10-17 07:41:55 -0500
 external-url: http://www.bloomberg.com/news/articles/2015-10-16/russian-hackers-of-dow-jones-said-to-have-sought-trading-tips
 hash: 61cc664903b6c5ae2066d0e44898a201

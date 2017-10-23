@@ -1,5 +1,6 @@
 ---
 title: "Kindle: As the Airlines Try to Keep Up"
+slug: kindle-as-the-airlines-try-to-keep-up
 date: 2007-12-04 13:43:11 -0600
 external-url: http://ricksegal.typepad.com/pmv/2007/12/kindle-as-the-a.html
 hash: 9dcac88bf22608e14bcf2ec7db352bff

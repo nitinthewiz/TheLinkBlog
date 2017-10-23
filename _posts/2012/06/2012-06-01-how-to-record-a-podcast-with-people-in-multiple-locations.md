@@ -1,5 +1,6 @@
 ---
 title: "How to Record a Podcast with People in Multiple Locations"
+slug: how-to-record-a-podcast-with-people-in-multiple-locations
 date: 2012-06-01 09:40:47 -0500
 external-url: http://hivelogic.com/articles/how-to-record-a-podcast-with-people-in-multiple-locations/
 hash: 1c7d0a73f8a1c61896b1f893b8f7fcfb

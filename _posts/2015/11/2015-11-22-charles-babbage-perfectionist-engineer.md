@@ -1,5 +1,6 @@
 ---
 title: "Charles Babbage, perfectionist engineer"
+slug: charles-babbage-perfectionist-engineer
 date: 2015-11-22 16:11:50 -0600
 external-url: http://www.recursion.org/2015/11/22/charles-babbage-perfectionist-engineer
 hash: 2760cbe97fda7e2692ec0c5bf6e35061

@@ -1,5 +1,6 @@
 ---
 title: "An Opportunity and Obligation"
+slug: an-opportunity-and-obligation
 date: 2009-01-30 19:30:58 -0600
 external-url: http://duncandavidson.com/2009/01/opprotunity-obligation.html
 hash: 70b706e8849ddb830eca818e7d326ee9

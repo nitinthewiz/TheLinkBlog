@@ -1,5 +1,6 @@
 ---
 title: "Apple Sells One Million iPads"
+slug: apple-sells-one-million-ipads
 date: 2010-05-03 17:45:16 -0500
 external-url: http://www.cnbc.com/id/36911690
 hash: 2d6d5c525f4379406e957b48c925257b

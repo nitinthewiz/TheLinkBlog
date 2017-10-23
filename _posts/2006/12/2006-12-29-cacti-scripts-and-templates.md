@@ -1,5 +1,6 @@
 ---
 title: "Cacti Scripts and Templates"
+slug: cacti-scripts-and-templates
 date: 2006-12-29 15:48:33 -0600
 external-url: http://www.debianhelp.co.uk/cactitemplates.htm
 hash: cfcf78ab437b11bdc3c9c259ecbee2f8

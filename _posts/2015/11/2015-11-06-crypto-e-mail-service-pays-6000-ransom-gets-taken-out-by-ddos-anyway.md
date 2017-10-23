@@ -1,5 +1,6 @@
 ---
 title: "Crypto e-mail service pays $6,000 ransom, gets taken out by DDoS anyway"
+slug: crypto-e-mail-service-pays-6000-ransom-gets-taken-out-by-ddos-anyway
 date: 2015-11-06 00:31:52 -0600
 external-url: http://arstechnica.com/security/2015/11/crypto-e-mail-service-pays-6000-ransom-gets-taken-out-by-ddos-anyway/
 hash: 64acc4f16aea7406ff742fd57ffe74b1

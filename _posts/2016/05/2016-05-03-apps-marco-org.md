@@ -1,5 +1,6 @@
 ---
 title: "Apps – Marco.org"
+slug: apps-marco-org
 date: 2016-05-03 00:10:03 -0500
 external-url: https://marco.org/apps#quitter
 hash: 25459467172115c060d3e84351b87a35

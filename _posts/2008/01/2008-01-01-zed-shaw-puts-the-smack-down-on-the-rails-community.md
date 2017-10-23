@@ -1,5 +1,6 @@
 ---
 title: "Zed Shaw Puts The Smack Down On The Rails Community"
+slug: zed-shaw-puts-the-smack-down-on-the-rails-community
 date: 2008-01-01 12:10:59 -0600
 external-url: http://www.techcrunch.com/2008/01/01/zed-shaw-puts-the-smack-down-on-the-rails-community/
 hash: 11e857ee9a51965720ec0557af06f6d8

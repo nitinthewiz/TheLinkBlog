@@ -1,5 +1,6 @@
 ---
 title: "Sprinkle scripts to provision your server quickly"
+slug: sprinkle-scripts-to-provision-your-server-quickly
 date: 2009-05-30 07:33:40 -0500
 external-url: http://benschwarz.github.com/passenger-stack/
 hash: b84d9da6c52a645f2485bf2cde783448

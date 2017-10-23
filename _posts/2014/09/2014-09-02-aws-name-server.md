@@ -1,5 +1,6 @@
 ---
 title: "Aws-name-server"
+slug: aws-name-server
 date: 2014-09-02 12:24:34 -0500
 external-url: https://github.com/ConradIrwin/aws-name-server
 hash: b10206727f4405d6c45b9d717a1ddb58

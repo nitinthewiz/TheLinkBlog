@@ -1,5 +1,6 @@
 ---
 title: "1Password Leaks Your Data"
+slug: 1password-leaks-your-data
 date: 2015-10-19 22:15:26 -0500
 external-url: http://myers.io/2015/10/22/1password-leaks-your-data/
 hash: c281d8f9e58234a8ad7d32234da1db00

@@ -1,5 +1,6 @@
 ---
 title: "Big Green Egg Thanksgiving Turkey"
+slug: big-green-egg-thanksgiving-turkey
 date: 2008-11-27 16:17:00 -0600
 external-url: http://bigtsbge.blogspot.com/2008/11/big-green-egg-thanksgiving-turkey.html
 hash: d3f525136bb919e9b2f5667bc4210a7c

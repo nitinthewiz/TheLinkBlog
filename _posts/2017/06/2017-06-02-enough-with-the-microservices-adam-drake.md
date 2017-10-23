@@ -1,5 +1,6 @@
 ---
 title: "Enough with the microservices | Adam Drake"
+slug: enough-with-the-microservices-adam-drake
 date: 2017-06-02 20:55:57 -0500
 external-url: https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html
 hash: d8e2f535bd7d6394ce61591924dba853

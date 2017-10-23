@@ -1,5 +1,6 @@
 ---
 title: "SparkleShare - Sharing work made easy"
+slug: sparkleshare-sharing-work-made-easy
 date: 2011-05-03 22:38:44 -0500
 external-url: http://sparkleshare.org/
 hash: dc5cc41b89985e10c77c5b9f82724e11

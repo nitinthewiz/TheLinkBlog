@@ -1,5 +1,6 @@
 ---
 title: "‘That Is All’"
+slug: that-is-all
 date: 2011-10-26 12:21:10 -0500
 external-url: http://www.funnyordie.com/videos/4cc168ca62/that-is-all
 hash: 866ae93778a138780efb56b0c6fb26a0

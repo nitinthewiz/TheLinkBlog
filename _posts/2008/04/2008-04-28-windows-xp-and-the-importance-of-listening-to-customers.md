@@ -1,5 +1,6 @@
 ---
 title: "Windows XP and the importance of listening to customers"
+slug: windows-xp-and-the-importance-of-listening-to-customers
 date: 2008-04-28 12:22:38 -0500
 external-url: http://www.ericsink.com/entries/Save_Windows_XP.html
 hash: 540819b4670e37468678940ae0064204

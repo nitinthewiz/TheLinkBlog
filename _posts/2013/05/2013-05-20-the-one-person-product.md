@@ -1,5 +1,6 @@
 ---
 title: "The One-Person Product"
+slug: the-one-person-product
 date: 2013-05-20 22:25:43 -0500
 external-url: http://www.marco.org/2013/05/20/one-person-product
 hash: b007d78a3d61666c13bdfbd60cfb19c3

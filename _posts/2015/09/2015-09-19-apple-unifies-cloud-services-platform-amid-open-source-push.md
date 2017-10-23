@@ -1,5 +1,6 @@
 ---
 title: "Apple Unifies Cloud Services Platform Amid Open-Source Push"
+slug: apple-unifies-cloud-services-platform-amid-open-source-push
 date: 2015-09-19 20:24:48 -0500
 external-url: https://www.theinformation.com/apple-unifies-cloud-services-platform-amid-open-source-push
 hash: 19bf4f51b9260d31d818398798e76dd8

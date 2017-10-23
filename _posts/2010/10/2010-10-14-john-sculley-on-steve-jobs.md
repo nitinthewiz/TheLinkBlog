@@ -1,5 +1,6 @@
 ---
 title: "John Sculley on Steve Jobs"
+slug: john-sculley-on-steve-jobs
 date: 2010-10-14 22:01:14 -0500
 external-url: http://www.cultofmac.com/63295/john-sculley-on-steve-jobs-the-full-interview-transcript/
 hash: 9073ab7e83d23fb59d69809721367fb1

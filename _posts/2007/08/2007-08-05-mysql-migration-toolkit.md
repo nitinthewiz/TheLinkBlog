@@ -1,5 +1,6 @@
 ---
 title: "MySQL Migration Toolkit"
+slug: mysql-migration-toolkit
 date: 2007-08-05 10:22:20 -0500
 external-url: http://www.mysql.com/products/workbench/
 hash: da92e60059140cac71fb481e6efe18a3

@@ -1,5 +1,6 @@
 ---
 title: "Day One 2.0 is here"
+slug: day-one-2-0-is-here
 date: 2016-02-03 22:36:37 -0600
 external-url: http://thesweetsetup.com/day-one-2-0-is-here/
 hash: 6485cc5d669c02d4746864f266d96266

@@ -1,5 +1,6 @@
 ---
 title: "The Limits of Human Rationality"
+slug: the-limits-of-human-rationality
 date: 2011-10-26 13:48:07 -0500
 external-url: http://www.newyorker.com/books/page-turner/is-self-knowledge-overrated
 hash: 4474b37f94e1043b247090b44f855595

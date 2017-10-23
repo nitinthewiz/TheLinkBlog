@@ -1,5 +1,6 @@
 ---
 title: "Sexist, much?"
+slug: sexist-much
 date: 2008-10-03 13:03:53 -0500
 external-url: http://www.dailykos.com/story/2008/10/03/618254/-Sexist-much
 hash: 878729f3fd18326f60714b1e0a15f31d

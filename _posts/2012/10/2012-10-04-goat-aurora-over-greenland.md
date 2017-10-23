@@ -1,5 +1,6 @@
 ---
 title: "Goat Aurora Over Greenland"
+slug: goat-aurora-over-greenland
 date: 2012-10-04 11:50:48 -0500
 external-url: http://apod.nasa.gov/apod/ap121003.html
 hash: d607dd5a5495c80b9a6e25d68432f2c9

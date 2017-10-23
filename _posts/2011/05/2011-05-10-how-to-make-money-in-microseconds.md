@@ -1,5 +1,6 @@
 ---
 title: "How to Make Money in Microseconds"
+slug: how-to-make-money-in-microseconds
 date: 2011-05-10 07:34:05 -0500
 external-url: http://www.lrb.co.uk/v33/n10/donald-mackenzie/how-to-make-money-in-microseconds
 hash: 5f5a038cb453c017cfea305383d77988

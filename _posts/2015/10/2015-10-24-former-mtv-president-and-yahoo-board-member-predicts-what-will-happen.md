@@ -1,5 +1,6 @@
 ---
 title: "Former MTV president and Yahoo board member predicts what will happen to the tech industry in 2016"
+slug: former-mtv-president-and-yahoo-board-member-predicts-what-will-happen
 date: 2015-10-24 06:02:38 -0500
 external-url: http://www.businessinsider.com/michael-wolf-predicts-what-will-happen-in-the-tech-industry-in-2016-2015-10?op=1
 hash: e10e863eca914237e2258a83e652be52

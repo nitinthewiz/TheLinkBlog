@@ -1,5 +1,6 @@
 ---
 title: "Hacker Monthly - Print Magazine of Hacker News"
+slug: hacker-monthly-print-magazine-of-hacker-news
 date: 2012-11-05 12:38:20 -0600
 external-url: http://hackermonthly.com/
 hash: 11d533d0fb508e8bd32c45dfefe87f65

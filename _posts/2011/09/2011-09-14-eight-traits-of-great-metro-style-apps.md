@@ -1,5 +1,6 @@
 ---
 title: "Eight Traits of Great Metro Style Apps"
+slug: eight-traits-of-great-metro-style-apps
 date: 2011-09-14 22:31:49 -0500
 external-url: http://channel9.msdn.com/events/BUILD/BUILD2011/BPS-1004
 hash: 12a022a71aa64f0a75c636e5452f47cd

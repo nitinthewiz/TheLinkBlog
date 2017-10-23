@@ -1,5 +1,6 @@
 ---
 title: "The beauty of Pixar"
+slug: the-beauty-of-pixar
 date: 2010-12-29 14:00:56 -0600
 external-url: http://kottke.org/10/12/the-beauty-of-pixar
 hash: 8c6c9d4336074ebdd5940f5fe18a40d9

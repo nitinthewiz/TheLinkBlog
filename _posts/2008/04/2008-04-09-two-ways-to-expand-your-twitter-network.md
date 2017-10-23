@@ -1,5 +1,6 @@
 ---
 title: "Two Ways to Expand Your Twitter Network"
+slug: two-ways-to-expand-your-twitter-network
 date: 2008-04-09 17:00:00 -0500
 external-url: https://gigaom.com/2008/04/09/two-ways-to-expand-your-twitter-network/
 hash: dbbd5df1957bbf64f3d125d51c5a90bc

@@ -1,5 +1,6 @@
 ---
 title: "Lawrence Lessig Settles Fair Use Lawsuit Over Phoenix Music Snippets"
+slug: lawrence-lessig-settles-fair-use-lawsuit-over-phoenix-music-snippets
 date: 2014-03-05 21:10:33 -0600
 external-url: https://www.eff.org/press/releases/lawrence-lessig-settles-fair-use-lawsuit-over-phoenix-music-snippets
 hash: 801f5fabc8fe296fcb8ea40b349733b8

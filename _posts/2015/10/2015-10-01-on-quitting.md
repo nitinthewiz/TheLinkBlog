@@ -1,5 +1,6 @@
 ---
 title: "On Quitting:"
+slug: on-quitting
 date: 2015-10-01 06:01:37 -0500
 external-url: http://lindaeliasen.com/version-history/2015/9/28/on-quitting
 hash: 0b735b5a50466b6a7446c842ffc27226

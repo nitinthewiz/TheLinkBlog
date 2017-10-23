@@ -1,5 +1,6 @@
 ---
 title: "Vision Quest Photo Workshops"
+slug: vision-quest-photo-workshops
 date: 2010-01-17 20:12:44 -0600
 external-url: http://vqphoto.com/2010/nude-art-issues/
 hash: 160eb9bab629d0d5458d5bc4c89d6a63

@@ -1,5 +1,6 @@
 ---
 title: "Sneak-a-peek inside Final Cut Express 4"
+slug: sneak-a-peek-inside-final-cut-express-4
 date: 2007-11-28 17:30:00 -0600
 external-url: http://www.tuaw.com/2007/11/28/sneak-a-peek-inside-final-cut-express-4/
 hash: c24f56fe6546635a286b2127be00ab11

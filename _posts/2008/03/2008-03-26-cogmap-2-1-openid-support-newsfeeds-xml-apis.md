@@ -1,5 +1,6 @@
 ---
 title: "Cogmap 2.1 - OpenID support, Newsfeeds, XML APIs"
+slug: cogmap-2-1-openid-support-newsfeeds-xml-apis
 date: 2008-03-26 22:43:12 -0500
 external-url: http://www.cogmap.com/blog/2008/03/26/cogmap-21-openid-support-newsfeeds-xml-apis/
 hash: 39f3d2a302eb21da00c57a56a8a21977

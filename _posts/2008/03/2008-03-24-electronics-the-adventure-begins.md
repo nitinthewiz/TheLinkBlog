@@ -1,5 +1,6 @@
 ---
 title: "Electronics: The Adventure Begins"
+slug: electronics-the-adventure-begins
 date: 2008-03-24 23:32:25 -0500
 external-url: http://whereslou.com/2008/03/24/electronics-the-adventure-begins
 hash: 03310b7c5d2b37904dcce1bf849b32ef

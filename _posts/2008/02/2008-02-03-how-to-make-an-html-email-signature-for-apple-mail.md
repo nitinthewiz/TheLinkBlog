@@ -1,5 +1,6 @@
 ---
 title: "How To: Make an HTML Email Signature For Apple Mail"
+slug: how-to-make-an-html-email-signature-for-apple-mail
 date: 2008-02-03 21:02:01 -0600
 external-url: http://gatheringinlight.com/2007/12/03/how-to-make-an-html-email-signature-for-apple-mail/
 hash: 4db460bb303ed1bac70fac14084165ef

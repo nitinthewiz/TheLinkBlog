@@ -1,5 +1,6 @@
 ---
 title: "Beginner's Guide to the Tour de France for 2009"
+slug: beginner-s-guide-to-the-tour-de-france-for-2009
 date: 2009-07-07 10:29:56 -0500
 external-url: http://www.tdfblog.com/2009/07/beginners-guide-to-the-tour-de-france-for-2009.html
 hash: e24d460702030bbf3e14744107f19ee7

@@ -1,5 +1,6 @@
 ---
 title: "Announcing the Availability of PagerDuty Services Group"
+slug: announcing-the-availability-of-pagerduty-services-group
 date: 2016-05-11 22:33:55 -0500
 external-url: https://www.pagerduty.com/blog/feature-services-group/
 hash: 3eed60eab288712220d891e708018383

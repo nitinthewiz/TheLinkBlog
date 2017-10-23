@@ -1,5 +1,6 @@
 ---
 title: "CQRS, Task Based UIs, Event Sourcing agh!"
+slug: cqrs-task-based-uis-event-sourcing-agh
 date: 2013-12-11 03:47:56 -0600
 external-url: http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
 hash: e6dffe102c89f2a3b49d6df793179657

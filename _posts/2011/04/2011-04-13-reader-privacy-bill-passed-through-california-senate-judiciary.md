@@ -1,5 +1,6 @@
 ---
 title: "Reader Privacy Bill Passed Through California Senate Judiciary Committee"
+slug: reader-privacy-bill-passed-through-california-senate-judiciary
 date: 2011-04-13 09:02:27 -0500
 external-url: https://www.eff.org/deeplinks/2011/04/reader-privacy-bill-passed-through-california
 hash: 2938fb355c4ae7c4ef88122a704abf5e

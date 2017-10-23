@@ -1,5 +1,6 @@
 ---
 title: "Introducing organization webhooks"
+slug: introducing-organization-webhooks
 date: 2014-12-03 17:14:41 -0600
 external-url: https://github.com/blog/1933-introducing-organization-webhooks
 hash: f8878d91612d1f44563376c91a264f53

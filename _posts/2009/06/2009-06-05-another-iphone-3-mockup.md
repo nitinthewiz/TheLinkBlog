@@ -1,5 +1,6 @@
 ---
 title: "Another iPhone 3 mockup"
+slug: another-iphone-3-mockup
 date: 2009-06-05 21:05:38 -0500
 external-url: http://9to5mac.com/2009/06/05/another-iphone-3-mockup/
 hash: c34286d9b189d7238c610da2435cdec8

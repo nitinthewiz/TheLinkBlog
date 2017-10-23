@@ -1,5 +1,6 @@
 ---
 title: "Minneapolis tech firm SPS Commerce gets retailers through busiest month of online orders - StarTribune.com"
+slug: minneapolis-tech-firm-sps-commerce-gets-retailers-through-busiest-of
 date: 2016-12-17 16:14:54 -0600
 external-url: http://www.startribune.com/minneapolis-tech-firm-sps-commerce-gets-retailers-through-busiest-month-of-online-orders/407130226/
 hash: 2027b88b036e3e55fbb4e0492cff31a5

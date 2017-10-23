@@ -1,5 +1,6 @@
 ---
 title: "Interview with Michael DeHaan of Ansible | Opensource.com"
+slug: interview-with-michael-dehaan-of-ansible-opensource-com
 date: 2014-10-19 23:08:39 -0500
 external-url: http://opensource.com/business/14/10/interview-michael-dehaan-ansible
 hash: feb6baf463a58761294cc598b35bbc5b

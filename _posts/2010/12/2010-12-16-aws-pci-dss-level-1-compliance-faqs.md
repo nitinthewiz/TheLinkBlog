@@ -1,5 +1,6 @@
 ---
 title: "AWS PCI DSS Level 1 Compliance FAQs"
+slug: aws-pci-dss-level-1-compliance-faqs
 date: 2010-12-16 13:31:37 -0600
 external-url: http://aws.amazon.com/security/pci-dss-level-1-compliance-faqs/?ref_=pe_8050_17986660
 hash: 098adb0759c0f6d85e778d782d95c0ef

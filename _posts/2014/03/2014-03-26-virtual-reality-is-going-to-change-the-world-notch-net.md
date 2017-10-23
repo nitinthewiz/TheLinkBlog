@@ -1,5 +1,6 @@
 ---
 title: "Virtual Reality is going to change the world - notch.net"
+slug: virtual-reality-is-going-to-change-the-world-notch-net
 date: 2014-03-26 22:55:13 -0500
 external-url: http://notch.net/2014/03/virtual-reality-is-going-to-change-the-world/
 hash: 47ab511890e046e133785097416dd66f

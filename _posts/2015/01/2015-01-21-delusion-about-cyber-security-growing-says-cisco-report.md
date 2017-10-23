@@ -1,5 +1,6 @@
 ---
 title: "Delusion about cyber security growing, says Cisco report"
+slug: delusion-about-cyber-security-growing-says-cisco-report
 date: 2015-01-21 07:47:38 -0600
 external-url: http://www.computerweekly.com/news/2240238466/Delusion-about-cyber-security-growing-says-Cisco-report
 hash: 8d5889fb9458205e6b3a79d6b112b302

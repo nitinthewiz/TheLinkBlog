@@ -1,5 +1,6 @@
 ---
 title: "Extension:Replace Text - MediaWiki"
+slug: extension-replace-text-mediawiki
 date: 2011-10-16 07:56:51 -0500
 external-url: http://www.mediawiki.org/wiki/Extension:Replace_Text
 hash: c7139d38292a7793e4a2690015ed55e2

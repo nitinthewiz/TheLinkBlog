@@ -1,5 +1,6 @@
 ---
 title: "Using AWS KMS to manage secrets in your Infrastructure | Fugue"
+slug: using-aws-kms-to-manage-secrets-in-your-infrastructure-fugue
 date: 2015-11-29 22:25:49 -0600
 external-url: https://blog.fugue.co/2015-04-21-aws-kms-secrets.html
 hash: a89386eb5a3837c25459b4fc8e150844

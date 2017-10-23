@@ -1,5 +1,6 @@
 ---
 title: "Mike Rowe on Efficiency versus Effectiveness - Study Hacks - Cal Newport"
+slug: mike-rowe-on-efficiency-versus-effectiveness-study-hacks-cal-newport
 date: 2017-06-08 07:50:40 -0500
 external-url: http://calnewport.com/blog/2017/06/07/mike-rowe-on-efficiency-versus-effectiveness/
 hash: 13f769873ffa81c566e155730a623ed6

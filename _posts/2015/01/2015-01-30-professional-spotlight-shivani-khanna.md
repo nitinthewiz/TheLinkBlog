@@ -1,5 +1,6 @@
 ---
 title: "Professional Spotlight: Shivani Khanna"
+slug: professional-spotlight-shivani-khanna
 date: 2015-01-30 19:38:38 -0600
 external-url: http://gitmsp.org/professional-spotlight-shivani-khanna/
 hash: e3df5babf4f1091d444eae792b056382

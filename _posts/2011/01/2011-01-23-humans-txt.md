@@ -1,5 +1,6 @@
 ---
 title: "humans TXT"
+slug: humans-txt
 date: 2011-01-23 21:20:35 -0600
 external-url: http://humanstxt.org/
 hash: 6881e9b2bc09258c5e5007dc79d8dea6

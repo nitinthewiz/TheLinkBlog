@@ -1,5 +1,6 @@
 ---
 title: "F.B.I. Director James Comey Is Fired by Trump - NYTimes.com"
+slug: f-b-i-director-james-comey-is-fired-by-trump-nytimes-com
 date: 2017-05-09 20:38:46 -0500
 external-url: https://www.nytimes.com/2017/05/09/us/politics/james-comey-fired-fbi.html?smprod=nytcore-iphone
 hash: 8987cdb176543138977d0a478286fe2b

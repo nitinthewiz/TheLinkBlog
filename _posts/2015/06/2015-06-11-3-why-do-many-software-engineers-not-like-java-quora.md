@@ -1,5 +1,6 @@
 ---
 title: "(3) Why do many software engineers not like Java? - Quora"
+slug: 3-why-do-many-software-engineers-not-like-java-quora
 date: 2015-06-11 08:09:31 -0500
 external-url: https://www.quora.com/Why-do-many-software-engineers-not-like-Java
 hash: a568b5b1ad270af4b9b7eef629fabcd4

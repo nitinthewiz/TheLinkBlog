@@ -1,5 +1,6 @@
 ---
 title: "PinsToPaper"
+slug: pinstopaper
 date: 2014-10-12 21:34:48 -0500
 external-url: https://pinstopaper.schallert.io/
 hash: 5cfbeff2f410e91876237ee878acb7f4

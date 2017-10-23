@@ -1,5 +1,6 @@
 ---
 title: "Introducing Topics · GitHub"
+slug: introducing-topics-github
 date: 2017-01-31 22:47:43 -0600
 external-url: https://github.com/blog/2309-introducing-topics
 hash: fcc29dc680ee8b14b852d74b65513dda

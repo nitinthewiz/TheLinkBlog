@@ -1,5 +1,6 @@
 ---
 title: "Little Guy 5-Wide Platform Teardrop Camper Trailer"
+slug: little-guy-5-wide-platform-teardrop-camper-trailer
 date: 2012-06-23 22:40:17 -0500
 external-url: http://www.golittleguy.com/product/5-wide-platform
 hash: 14cbe25870cdb853ea3616e1671681ec

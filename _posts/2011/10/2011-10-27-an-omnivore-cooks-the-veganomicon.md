@@ -1,5 +1,6 @@
 ---
 title: "An Omnivore Cooks the Veganomicon"
+slug: an-omnivore-cooks-the-veganomicon
 date: 2011-10-27 10:22:58 -0500
 external-url: http://omni-vegan.blogspot.com/
 hash: acdb8f61c563989cede61c76f75f7e08

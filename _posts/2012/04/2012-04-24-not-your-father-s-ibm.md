@@ -1,5 +1,6 @@
 ---
 title: "Not your father's IBM"
+slug: not-your-father-s-ibm
 date: 2012-04-24 08:09:25 -0500
 external-url: http://www.cringely.com/2012/04/18/not-your-fathers-ibm/
 hash: 4c5f7d2fad9720d1021a36bff3542846

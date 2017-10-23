@@ -1,5 +1,6 @@
 ---
 title: "Bayesian ranking of items with up and downvotes or 5 star ratings"
+slug: bayesian-ranking-of-items-with-up-and-downvotes-or-5-star-ratings
 date: 2015-11-02 05:39:52 -0600
 external-url: http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html
 hash: 791ef1bd931cc5215f1980513bf26375

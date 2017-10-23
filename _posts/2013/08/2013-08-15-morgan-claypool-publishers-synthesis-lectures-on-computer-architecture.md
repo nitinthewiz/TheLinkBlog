@@ -1,5 +1,6 @@
 ---
 title: "Morgan & Claypool Publishers - Synthesis Lectures on Computer Architecture - 8(3):1 - Abstract"
+slug: morgan-claypool-publishers-synthesis-lectures-on-computer-architecture
 date: 2013-08-15 07:11:55 -0500
 external-url: http://www.morganclaypool.com/action/cookieAbsent
 hash: d4c71ca2b19a7a2547a1e96840ca7d8e

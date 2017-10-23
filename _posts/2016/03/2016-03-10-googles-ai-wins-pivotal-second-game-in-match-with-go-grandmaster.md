@@ -1,5 +1,6 @@
 ---
 title: "Google’s AI Wins Pivotal Second Game In Match With Go Grandmaster"
+slug: googles-ai-wins-pivotal-second-game-in-match-with-go-grandmaster
 date: 2016-03-10 19:50:51 -0600
 external-url: http://www.wired.com/2016/03/googles-ai-wins-pivotal-game-two-match-go-grandmaster/?mbid=social_twitter
 hash: a5ab131d10ee83206a6a85a2c2193f61

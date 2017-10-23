@@ -1,5 +1,6 @@
 ---
 title: "Creating Patchstick for Apple TV Take 2 under Windows"
+slug: creating-patchstick-for-apple-tv-take-2-under-windows
 date: 2008-03-04 01:46:50 -0600
 external-url: http://www.appletvhacks.net/2008/03/04/creating-patchstick-for-apple-tv-take-2-under-windows/
 hash: c77d4a1be50ec6286523453b49bc4f03

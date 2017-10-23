@@ -1,5 +1,6 @@
 ---
 title: "Still a Fast Food Nation: Eric Schlosser Reflects on 10 Years Later"
+slug: still-a-fast-food-nation-eric-schlosser-reflects-on-10-years-later
 date: 2012-03-27 15:23:11 -0500
 external-url: http://www.thedailybeast.com/articles/2012/03/12/still-a-fast-food-nation-eric-schlosser-reflects-on-10-years-later.html
 hash: d4d34025561f76d3640e045390bf4edc

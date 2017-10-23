@@ -1,5 +1,6 @@
 ---
 title: "YouTube - ‪InternetNZ's Channel‬‏"
+slug: youtube-internetnz-s-channel
 date: 2011-07-07 21:28:54 -0500
 external-url: http://www.youtube.com/user/InternetNZ
 hash: 6a85ee2ab1d63501776db04ca59e6209

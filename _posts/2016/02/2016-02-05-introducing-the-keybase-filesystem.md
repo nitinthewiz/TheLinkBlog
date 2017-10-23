@@ -1,5 +1,6 @@
 ---
 title: "Introducing the Keybase filesystem"
+slug: introducing-the-keybase-filesystem
 date: 2016-02-05 04:24:54 -0600
 external-url: https://keybase.io/introducing-the-keybase-filesystem
 hash: acd5a1515ecb737d3771fd349ee6847e

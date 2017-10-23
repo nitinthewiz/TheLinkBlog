@@ -1,5 +1,6 @@
 ---
 title: "A Continued Commitment to Security Facebook"
+slug: a-continued-commitment-to-security-facebook
 date: 2011-01-27 06:25:41 -0600
 external-url: https://www.facebook.com/notes/facebook/a-continued-commitment-to-security/486790652130
 hash: 0e2de4acb649d02c3ebf1e54596e3c7f

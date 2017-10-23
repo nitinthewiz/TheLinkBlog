@@ -1,5 +1,6 @@
 ---
 title: "Rescue work in north Iceland"
+slug: rescue-work-in-north-iceland
 date: 2012-09-18 23:06:58 -0500
 external-url: http://www.northernlightsiceland.com/rescue-work-in-north-iceland/
 hash: 3f89b911e06fb7897faedf3fae304936

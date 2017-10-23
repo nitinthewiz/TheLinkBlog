@@ -1,5 +1,6 @@
 ---
 title: "Nested teams add depth to your team structure —GitHub"
+slug: nested-teams-add-depth-to-your-team-structure-github
 date: 2017-06-13 19:16:20 -0500
 external-url: https://github.com/blog/2378-nested-teams-add-depth-to-your-team-structure
 hash: 5edd157dbcf56a49945e40b03644f8cd

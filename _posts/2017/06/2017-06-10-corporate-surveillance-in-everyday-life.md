@@ -1,5 +1,6 @@
 ---
 title: "Corporate Surveillance in Everyday Life"
+slug: corporate-surveillance-in-everyday-life
 date: 2017-06-10 14:31:25 -0500
 external-url: http://crackedlabs.org/en/corporate-surveillance
 hash: 6ae92dda7d7caa908a5565da6d9a98dc

@@ -1,5 +1,6 @@
 ---
 title: "Thomson Reuters Laying Off 240 Across Legal Publishing Division"
+slug: thomson-reuters-laying-off-240-across-legal-publishing-division
 date: 2009-12-04 00:00:35 -0600
 external-url: http://m.paidcontent.org/article/419-thomson-reuters-laying-off-240-across-legal-publishing-division/
 hash: 2b11de7f9c5bddca407bfedf2681cf01

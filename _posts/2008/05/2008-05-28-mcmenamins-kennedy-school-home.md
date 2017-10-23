@@ -1,5 +1,6 @@
 ---
 title: "McMenamins  -  Kennedy School Home"
+slug: mcmenamins-kennedy-school-home
 date: 2008-05-28 23:51:44 -0500
 external-url: http://www.mcmenamins.com/kennedyschool
 hash: fd65dd58535e437f75fee3a70f02ce5e

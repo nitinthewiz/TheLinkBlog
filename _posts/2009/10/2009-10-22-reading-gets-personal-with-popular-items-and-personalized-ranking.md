@@ -1,5 +1,6 @@
 ---
 title: "Reading gets personal with Popular items and Personalized ranking"
+slug: reading-gets-personal-with-popular-items-and-personalized-ranking
 date: 2009-10-22 22:36:39 -0500
 external-url: http://googleblog.blogspot.com/2009/10/reading-gets-personal-with-popular.html
 hash: 2d543fb1beef614f029399847436d914

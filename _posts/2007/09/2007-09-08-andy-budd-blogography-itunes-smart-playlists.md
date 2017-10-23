@@ -1,5 +1,6 @@
 ---
 title: "Andy Budd::Blogography: iTunes Smart Playlists"
+slug: andy-budd-blogography-itunes-smart-playlists
 date: 2007-09-08 07:35:20 -0500
 external-url: http://www.andybudd.com/archives/2005/08/itunes_smart_playlists/
 hash: 5c9ef502bf8edeec446a6a683aa00c6d

@@ -1,5 +1,6 @@
 ---
 title: "Blockchain: The New Technology of Trust"
+slug: blockchain-the-new-technology-of-trust
 date: 2017-10-05 22:18:51 -0500
 external-url: http://www.goldmansachs.com/our-thinking/pages/blockchain/
 hash: 210ea249b1261eb3af4f622c8e1d4292

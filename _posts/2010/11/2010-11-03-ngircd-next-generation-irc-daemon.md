@@ -1,5 +1,6 @@
 ---
 title: "ngIRCd: Next Generation IRC Daemon"
+slug: ngircd-next-generation-irc-daemon
 date: 2010-11-03 12:47:30 -0500
 external-url: http://ngircd.barton.de/
 hash: 84228322ef14ff202f913734651a1186

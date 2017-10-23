@@ -1,5 +1,6 @@
 ---
 title: "Old, But Good Weekly Review Habits"
+slug: old-but-good-weekly-review-habits
 date: 2014-03-05 21:07:56 -0600
 external-url: http://simplicitybliss.com/blog/weekly-review-habits
 hash: 6471102340b9dfa7c6015a307dbc2b73

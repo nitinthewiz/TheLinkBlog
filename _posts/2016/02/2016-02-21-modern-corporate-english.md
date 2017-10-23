@@ -1,5 +1,6 @@
 ---
 title: "Modern Corporate English"
+slug: modern-corporate-english
 date: 2016-02-21 20:56:14 -0600
 external-url: https://www.tbray.org/ongoing/When/201x/2016/02/20/High-Tech-Corporate-English
 hash: 64d4d21b68e31b843931d54d1d6626a0

@@ -1,5 +1,6 @@
 ---
 title: "Hosting services - MediaWiki"
+slug: hosting-services-mediawiki
 date: 2013-02-15 19:03:40 -0600
 external-url: http://www.mediawiki.org/wiki/Hosting_services
 hash: 4e89e21185c5cb23b4327c2478aa721a

@@ -1,5 +1,6 @@
 ---
 title: "Meatloaf Sandwiches"
+slug: meatloaf-sandwiches
 date: 2010-06-10 22:14:41 -0500
 external-url: http://www.kehlfamily.com/?p=868
 hash: 5703eca5c6abe002b1f2298722af795d

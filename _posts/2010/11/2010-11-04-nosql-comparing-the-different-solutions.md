@@ -1,5 +1,6 @@
 ---
 title: "NoSQL: Comparing the Different Solutions"
+slug: nosql-comparing-the-different-solutions
 date: 2010-11-04 20:35:00 -0500
 external-url: http://readwrite.com/2010/11/04/nosql-comparison
 hash: 9fb2fd382ac140a785c25d0261aadf72

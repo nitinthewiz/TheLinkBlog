@@ -1,5 +1,6 @@
 ---
 title: "Involver Ties In WordPress For Better Facebook Posts"
+slug: involver-ties-in-wordpress-for-better-facebook-posts
 date: 2010-11-30 13:49:07 -0600
 external-url: http://allfacebook.com/involver-ties-in-wordpress-for-better-facebook-posts_b24724
 hash: 2484a93c9257cce4f51698df507ca1d9

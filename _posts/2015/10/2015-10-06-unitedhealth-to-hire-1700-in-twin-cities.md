@@ -1,5 +1,6 @@
 ---
 title: "UnitedHealth to hire 1,700 in Twin Cities"
+slug: unitedhealth-to-hire-1700-in-twin-cities
 date: 2015-10-06 09:44:37 -0500
 external-url: http://www.mprnews.org/story/2015/10/05/unitedhealth-jobs
 hash: 6bb2dceb7dc858cb3bcdec213c12bb18

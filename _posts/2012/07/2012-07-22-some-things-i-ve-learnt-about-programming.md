@@ -1,5 +1,6 @@
 ---
 title: "Some things I've learnt about programming"
+slug: some-things-i-ve-learnt-about-programming
 date: 2012-07-22 21:16:15 -0500
 external-url: http://blog.jgc.org/2012/07/some-things-ive-learnt-about.html
 hash: df830ebaa1ac759baa66208327063046

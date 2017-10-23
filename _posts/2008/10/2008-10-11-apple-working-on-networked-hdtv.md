@@ -1,5 +1,6 @@
 ---
 title: "Apple working on networked HDTV?"
+slug: apple-working-on-networked-hdtv
 date: 2008-10-11 04:16:43 -0500
 external-url: http://9to5mac.com/2008/10/11/apple-working-on-networked-hdtv/
 hash: b201719b9a781f509da9f86bc3cc2c64

@@ -1,5 +1,6 @@
 ---
 title: "Flat White vs Latte"
+slug: flat-white-vs-latte
 date: 2015-11-20 20:31:19 -0600
 external-url: http://www.coffeehunter.org/flat-white-vs-latte/
 hash: 2a29adcf8b8c754df049e3bdc121daee

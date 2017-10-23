@@ -1,5 +1,6 @@
 ---
 title: "To find Hillary Clinton likable, we must learn to view women as complex beings / Boing Boing"
+slug: to-find-hillary-clinton-likable-we-must-learn-to-view-women-as-complex
 date: 2016-10-25 07:19:35 -0500
 external-url: http://boingboing.net/2016/09/15/to-find-hillary-clinton-likabl.html
 hash: 33316516ca2bb52174d92213de88c46a

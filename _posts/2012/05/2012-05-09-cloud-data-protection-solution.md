@@ -1,5 +1,6 @@
 ---
 title: "Cloud Data Protection Solution"
+slug: cloud-data-protection-solution
 date: 2012-05-09 13:03:31 -0500
 external-url: http://www.web7.creativebasic.com/Default.aspx
 hash: fd250dbca84bfa541f3d41e1cf40737d

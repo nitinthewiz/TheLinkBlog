@@ -1,5 +1,6 @@
 ---
 title: "America: From Freedom to Fascism"
+slug: america-from-freedom-to-fascism
 date: 2006-10-09 16:10:36 -0500
 external-url: http://www.youtube.com/watch?v=e8nbyXK39G8&feature=gv
 hash: 854ff980bdc3a75897d7e7b1aba8dadd

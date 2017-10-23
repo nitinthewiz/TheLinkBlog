@@ -1,5 +1,6 @@
 ---
 title: "Typora — a minimal markdown reading & writing app"
+slug: typora-a-minimal-markdown-reading-writing-app
 date: 2016-10-15 07:24:13 -0500
 external-url: https://www.typora.io/
 hash: 296962dfbc1e5e630a5a2327fc8e2074

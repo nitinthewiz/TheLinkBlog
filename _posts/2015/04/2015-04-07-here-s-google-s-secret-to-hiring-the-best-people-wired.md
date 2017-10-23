@@ -1,5 +1,6 @@
 ---
 title: "Here's Google's Secret to Hiring the Best People | WIRED"
+slug: here-s-google-s-secret-to-hiring-the-best-people-wired
 date: 2015-04-07 22:23:14 -0500
 external-url: http://www.wired.com/2015/04/hire-like-google/
 hash: d6c7161314e1999bca9010f34f1f3037

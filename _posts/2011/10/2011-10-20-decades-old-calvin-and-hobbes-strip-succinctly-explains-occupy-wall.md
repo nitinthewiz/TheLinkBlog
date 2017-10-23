@@ -1,5 +1,6 @@
 ---
 title: "Decades-Old ‘Calvin and Hobbes’ Strip Succinctly Explains Occupy Wall Street Movement"
+slug: decades-old-calvin-and-hobbes-strip-succinctly-explains-occupy-wall
 date: 2011-10-20 17:40:09 -0500
 external-url: http://slyoyster.hypervocal.com/cheap-thrills/2011/decades-old-calvin-and-hobbes-strip-succinctly-explains-occupy-wall-street-movement/
 hash: 2ecb78e56ee8b2d16dd84b90476412b4

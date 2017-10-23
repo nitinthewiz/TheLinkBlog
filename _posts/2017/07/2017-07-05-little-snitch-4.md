@@ -1,5 +1,6 @@
 ---
 title: "Little Snitch 4"
+slug: little-snitch-4
 date: 2017-07-05 17:37:31 -0500
 external-url: https://www.obdev.at/products/littlesnitch/index.html
 hash: 489a355dc918438a0aa334b1149172e7

@@ -1,5 +1,6 @@
 ---
 title: "The Rhone Gift Guide 2010"
+slug: the-rhone-gift-guide-2010
 date: 2010-12-06 09:34:36 -0600
 external-url: http://patrickrhone.com/2010/12/06/the-rhone-gift-guide-2010/
 hash: 69aa49b015e301b7a7b8edc855405638

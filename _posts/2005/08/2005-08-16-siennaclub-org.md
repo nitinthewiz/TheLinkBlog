@@ -1,5 +1,6 @@
 ---
 title: "SiennaClub.org"
+slug: siennaclub-org
 date: 2005-08-16 19:47:57 -0500
 external-url: http://www.siennaclub.org/
 hash: 15599552e32af49c65dc3f9ac16d03ac

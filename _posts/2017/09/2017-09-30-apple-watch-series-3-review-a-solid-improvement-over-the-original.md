@@ -1,5 +1,6 @@
 ---
 title: "Apple Watch Series 3 review: A solid improvement over the original Apple Watch —Apple World Today"
+slug: apple-watch-series-3-review-a-solid-improvement-over-the-original
 date: 2017-09-30 22:33:17 -0500
 external-url: https://www.appleworld.today/blog/2017/9/29/apple-watch-series-3-review-a-solid-improvement-over-the-original-apple-watch
 hash: 0fe42e00030e70823f88b855fdaf4b19

@@ -1,5 +1,6 @@
 ---
 title: "A Plan For Minnesota"
+slug: a-plan-for-minnesota
 date: 2008-01-10 19:00:05 -0600
 external-url: http://www.unpossible.com/2008/01/10/a-plan-for-minnesota/
 hash: b51d115d61386417f1083953b6af01d0

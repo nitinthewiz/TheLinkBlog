@@ -1,5 +1,6 @@
 ---
 title: "This Man Will Change the Way You Play Board Games"
+slug: this-man-will-change-the-way-you-play-board-games
 date: 2016-08-25 14:54:29 -0500
 external-url: http://www.slate.com/articles/arts/gaming/2016/08/rob_daviau_s_legacy_board_game_seafall.html
 hash: 424fc9bfa00d4280b82a3365efdc7a5d

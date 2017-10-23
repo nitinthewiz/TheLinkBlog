@@ -1,5 +1,6 @@
 ---
 title: "Zenyatta's last race"
+slug: zenyatta-s-last-race
 date: 2010-11-09 09:25:13 -0600
 external-url: http://kottke.org/10/11/zenyattas-last-race
 hash: 31fd98f4ade6f9221a0fccb4ff8b2813

@@ -1,5 +1,6 @@
 ---
 title: "Keybase directory signing"
+slug: keybase-directory-signing
 date: 2014-06-18 07:27:33 -0500
 external-url: https://keybase.io/docs/command_line/code_signing
 hash: 16b79fcb9a7d5d1021d30954301f31eb

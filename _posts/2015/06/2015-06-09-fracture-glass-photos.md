@@ -1,5 +1,6 @@
 ---
 title: "Fracture | Glass Photos"
+slug: fracture-glass-photos
 date: 2015-06-09 06:52:30 -0500
 external-url: http://www.fractureme.com/
 hash: 7fff56f454baaa9019a886373e751e0d

@@ -1,5 +1,6 @@
 ---
 title: "LinkedIn's iOS App Transmits Calendar Notes and More In Plain Text"
+slug: linkedin-s-ios-app-transmits-calendar-notes-and-more-in-plain-text
 date: 2012-06-06 11:11:28 -0500
 external-url: http://thenextweb.com/insider/2012/06/06/linkedins-ios-app-collects-and-sends-names-emails-and-meeting-notes-from-your-calendar-back-in-plain-text/
 hash: 50b05c22d169007c6c19309d7f8a7afd

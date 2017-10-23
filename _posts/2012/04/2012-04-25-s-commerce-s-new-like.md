@@ -1,5 +1,6 @@
 ---
 title: "S-Commerce's New 'Like'"
+slug: s-commerce-s-new-like
 date: 2012-04-25 16:59:29 -0500
 external-url: http://www.wwd.com/retail-news/direct-internet-catalogue/s-commerces-new-like-5873031?full=true
 hash: bf8a2683f7799b5d56e5724b3b4d4bfa

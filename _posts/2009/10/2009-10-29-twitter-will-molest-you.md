@@ -1,5 +1,6 @@
 ---
 title: "Twitter will molest you."
+slug: twitter-will-molest-you
 date: 2009-10-29 00:00:27 -0500
 external-url: http://thebloggess.com/2009/10/twitter-will-molest-you/
 hash: c44f8692ebdcb856e33323c95b70f3fa

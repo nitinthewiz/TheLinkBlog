@@ -1,5 +1,6 @@
 ---
 title: "[Designed] Staircase bookshelf, ice hotel, walkstation, cupcakes, etc."
+slug: designed-staircase-bookshelf-ice-hotel-walkstation-cupcakes-etc
 date: 2008-02-25 09:16:00 -0600
 external-url: http://www.37signals.com/svn/posts/876-designed-staircase-bookshelf-ice-hotel-walkstation-cupcakes-etc
 hash: 59d8fd20b951143c1ff09b13ee034f24

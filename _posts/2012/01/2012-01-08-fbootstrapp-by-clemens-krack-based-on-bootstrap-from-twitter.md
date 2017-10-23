@@ -1,5 +1,6 @@
 ---
 title: "Fbootstrapp by Clemens Krack, based on Bootstrap, from Twitter"
+slug: fbootstrapp-by-clemens-krack-based-on-bootstrap-from-twitter
 date: 2012-01-08 22:59:29 -0600
 external-url: http://ckrack.github.io/fbootstrapp/
 hash: d37a1cc38c691182038099922b7230d6

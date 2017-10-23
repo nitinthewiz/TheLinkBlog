@@ -1,5 +1,6 @@
 ---
 title: "Tech startup 8thBridge raises $10M"
+slug: tech-startup-8thbridge-raises-10m
 date: 2011-03-21 11:23:00 -0500
 external-url: http://www.bizjournals.com/twincities/blog/in_private/2011/03/tech-startup-8thbridge-raises-10m.html
 hash: ac4f62eac40e50e05ebe9cddb7d8857d

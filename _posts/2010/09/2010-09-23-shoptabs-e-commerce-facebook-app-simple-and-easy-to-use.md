@@ -1,5 +1,6 @@
 ---
 title: "ShopTab’s E-Commerce Facebook App: Simple and Easy to Use"
+slug: shoptabs-e-commerce-facebook-app-simple-and-easy-to-use
 date: 2010-09-23 11:02:01 -0500
 external-url: http://www.insidefacebook.com/2010/09/23/shoptab%e2%80%99s-e-commerce-facebook/
 hash: acc9592b2475a10b8d4143d7cdd89c60

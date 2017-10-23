@@ -1,5 +1,6 @@
 ---
 title: "Safari Extensions"
+slug: safari-extensions
 date: 2010-12-05 06:21:18 -0600
 external-url: http://safariextensions.tumblr.com/
 hash: c39f95a01bde70879c416e85ab63d1a2

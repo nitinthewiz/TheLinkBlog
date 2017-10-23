@@ -1,5 +1,6 @@
 ---
 title: "New website and new ideas"
+slug: new-website-and-new-ideas
 date: 2009-11-03 19:51:00 -0600
 external-url: http://minnestar.org/2009/10/new-website-and-new-ideas/
 hash: ead5f429ff20211052469188035897eb

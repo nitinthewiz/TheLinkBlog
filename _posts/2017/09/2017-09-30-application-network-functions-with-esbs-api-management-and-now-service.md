@@ -1,5 +1,6 @@
 ---
 title: "Application Network Functions With ESBs, API Management, and Now.. Service Mesh? – Software Blog"
+slug: application-network-functions-with-esbs-api-management-and-now-service
 date: 2017-09-30 21:35:06 -0500
 external-url: http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/
 hash: c422eedc57d51d5ed1c9dcc25760b564

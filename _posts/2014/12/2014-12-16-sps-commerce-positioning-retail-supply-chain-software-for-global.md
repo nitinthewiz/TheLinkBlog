@@ -1,5 +1,6 @@
 ---
 title: "SPS Commerce positioning retail supply-chain software for global presence"
+slug: sps-commerce-positioning-retail-supply-chain-software-for-global
 date: 2014-12-16 09:04:10 -0600
 external-url: http://www.thelinemedia.com/innovationnews/sps12172014.aspx
 hash: 3828c761dda31a9e67082753e1b0cc62

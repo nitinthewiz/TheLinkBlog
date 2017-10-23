@@ -1,5 +1,6 @@
 ---
 title: "Schneier on Security: QR Code Scams"
+slug: schneier-on-security-qr-code-scams
 date: 2012-12-13 09:50:40 -0600
 external-url: https://www.schneier.com/blog/archives/2012/12/qr_code_scams.html
 hash: 24a8b3972e366de884cdc768dc5cb730

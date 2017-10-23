@@ -1,5 +1,6 @@
 ---
 title: "Google Releases Static Maps API"
+slug: google-releases-static-maps-api
 date: 2008-02-25 00:11:19 -0600
 external-url: http://www.programmableweb.com/2008/02/25/google-releases-static-maps-api
 hash: 4c5ec95aa466cdabecb27b19d710b23b

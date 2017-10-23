@@ -1,5 +1,6 @@
 ---
 title: "TECHdotMN The Nerdery's CEO Tom O'Neill Is Stepping Down - TECHdotMN"
+slug: techdotmn-the-nerdery-s-ceo-tom-o-neill-is-stepping-down-techdotmn
 date: 2017-08-11 08:12:52 -0500
 external-url: https://tech.mn/news/2017/08/09/the-nerderys-ceo-tom-oneill-is-stepping-down/
 hash: c1f985a5f3cb499419d987468c94ce45

@@ -1,5 +1,6 @@
 ---
 title: "Slowpokes to get penalized in Google search rankings?"
+slug: slowpokes-to-get-penalized-in-google-search-rankings
 date: 2009-11-14 05:40:50 -0600
 external-url: http://venturebeat.com/2009/11/13/slowpokes-to-get-penalized-in-google-search-rankings/
 hash: 4c5c86c39ae52cbc309047032c29409e

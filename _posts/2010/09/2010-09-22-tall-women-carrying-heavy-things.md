@@ -1,5 +1,6 @@
 ---
 title: "Tall Women Carrying Heavy Things"
+slug: tall-women-carrying-heavy-things
 date: 2010-09-22 17:39:27 -0500
 external-url: http://thecolbertreport.cc.com/the-colbert-report-videos/359744/september-21-2010/eric-schmidt
 hash: 331e9a5ee1ebfe1f10e64248d28d35c5

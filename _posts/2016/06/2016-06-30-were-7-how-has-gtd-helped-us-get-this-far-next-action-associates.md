@@ -1,5 +1,6 @@
 ---
 title: "We’re 7! How has GTD helped us get this far? - Next Action Associates"
+slug: were-7-how-has-gtd-helped-us-get-this-far-next-action-associates
 date: 2016-06-30 22:51:08 -0500
 external-url: http://www.next-action.eu/2016/06/30/7-gtd-helped-us-get-far/
 hash: 5ab11cbed4bf35f33fe460ed16861117

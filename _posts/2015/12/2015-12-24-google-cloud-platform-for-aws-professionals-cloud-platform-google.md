@@ -1,5 +1,6 @@
 ---
 title: "Google Cloud Platform for AWS Professionals - Cloud Platform — Google Cloud Platform"
+slug: google-cloud-platform-for-aws-professionals-cloud-platform-google
 date: 2015-12-24 16:33:55 -0600
 external-url: https://cloud.google.com/docs/google-cloud-platform-for-aws-professionals
 hash: d09beb5fb71d72e820a8951779cdc928

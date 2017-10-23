@@ -1,5 +1,6 @@
 ---
 title: "The Dirty Truth About Web Passwords"
+slug: the-dirty-truth-about-web-passwords
 date: 2010-12-14 22:24:49 -0600
 external-url: http://www.codinghorror.com/blog/2010/12/the-dirty-truth-about-web-passwords.html
 hash: 08f5dd6abad0402d11d18f7204a380b1

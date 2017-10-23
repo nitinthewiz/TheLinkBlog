@@ -1,5 +1,6 @@
 ---
 title: "Learning AngularJS and local storage - web"
+slug: learning-angularjs-and-local-storage-web
 date: 2013-10-08 08:59:07 -0500
 external-url: http://blog.kacinskas.eu/blog/2013/06/05/learning-angularjs-and-local-storage
 hash: f218e583e48cc60e7baadfe30b89ae9d

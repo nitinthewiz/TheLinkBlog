@@ -1,5 +1,6 @@
 ---
 title: "\"Smart\" pasting at The New Yorker site"
+slug: smart-pasting-at-the-new-yorker-site
 date: 2010-01-10 21:59:37 -0600
 external-url: http://37signals.com/svn/posts/2087-smart-pasting-at-the-new-yorker-site
 hash: 1a4d391266611b6c00c75288f91845b9

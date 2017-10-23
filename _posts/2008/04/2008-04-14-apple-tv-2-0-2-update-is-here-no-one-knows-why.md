@@ -1,5 +1,6 @@
 ---
 title: "Apple TV 2.0.2 Update is here, no one knows why"
+slug: apple-tv-2-0-2-update-is-here-no-one-knows-why
 date: 2008-04-14 16:15:44 -0500
 external-url: http://appletvsource.com/content/view/607/
 hash: 7a539d0fa03b1097b952bda83d12d9d0

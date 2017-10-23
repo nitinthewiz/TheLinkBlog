@@ -1,5 +1,6 @@
 ---
 title: "Mysterious Bombs Are Exploding In Ukraine — And Not In The War-Torn East - Business Insider"
+slug: mysterious-bombs-are-exploding-in-ukraine-and-not-in-the-war-torn-east
 date: 2015-01-20 21:42:42 -0600
 external-url: http://www.businessinsider.com/mysterious-bombs-are-exploding-in-ukraine--and-not-in-the-war-torn-east-2015-1
 hash: fbc5f55e23e4f24999216ad1cf6b22bc

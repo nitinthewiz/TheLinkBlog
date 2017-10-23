@@ -1,5 +1,6 @@
 ---
 title: "Sports Authority handles 2,000 transactions per second with Google Cloud Platform"
+slug: sports-authority-handles-2000-transactions-per-second-with-google
 date: 2016-02-19 19:20:12 -0600
 external-url: http://googlecloudplatform.blogspot.com/2016/02/Sports-Authority-handles-2000-transactions-per-second-with-Google-Cloud-Platform.html
 hash: c72d6659d7d9f7bbc53fe1d9bb5724f3

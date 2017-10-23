@@ -1,5 +1,6 @@
 ---
 title: "Unannounced Core i7 Apple MacBook Pro surfaces in benchmarks logs"
+slug: unannounced-core-i7-apple-macbook-pro-surfaces-in-benchmarks-logs
 date: 2010-02-06 23:30:57 -0600
 external-url: http://www.appleinsider.com/articles/10/02/06/unannounced_core_i7_apple_macbook_pro_benchmarks_surface.html
 hash: f1028e4064f5dfd4275696ddad56d419

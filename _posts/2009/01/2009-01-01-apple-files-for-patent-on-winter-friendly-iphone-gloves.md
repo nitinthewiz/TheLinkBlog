@@ -1,5 +1,6 @@
 ---
 title: "Apple files for patent on winter-friendly iPhone gloves"
+slug: apple-files-for-patent-on-winter-friendly-iphone-gloves
 date: 2009-01-01 20:00:00 -0600
 external-url: http://www.appleinsider.com/articles/09/01/01/apple_files_for_patent_on_winter_friendly_iphone_gloves.html
 hash: 187bc63c139f20704c3fc51aad03c673

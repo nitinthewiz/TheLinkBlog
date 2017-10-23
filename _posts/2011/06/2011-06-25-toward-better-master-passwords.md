@@ -1,5 +1,6 @@
 ---
 title: "Toward Better Master Passwords"
+slug: toward-better-master-passwords
 date: 2011-06-25 19:14:00 -0500
 external-url: http://blog.agilebits.com/2011/06/21/toward-better-master-passwords/
 hash: a35a5308c5321861d6055e046fd0781d

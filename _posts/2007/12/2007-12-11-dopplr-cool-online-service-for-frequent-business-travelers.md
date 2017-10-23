@@ -1,5 +1,6 @@
 ---
 title: "Dopplr: cool online service for frequent business travelers"
+slug: dopplr-cool-online-service-for-frequent-business-travelers
 date: 2007-12-11 21:58:00 -0600
 external-url: http://scobleizer.com/?p=3887
 hash: d20c67fa682e9c6e9121b00be79d23f4

@@ -1,5 +1,6 @@
 ---
 title: "Firesheep"
+slug: firesheep
 date: 2010-10-25 12:39:08 -0500
 external-url: http://codebutler.com/firesheep/
 hash: 859101e1f2cd8c80b1cb9c8a224df7fa

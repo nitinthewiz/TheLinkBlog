@@ -1,5 +1,6 @@
 ---
 title: "Steve Jobs Presents to the Cupertino City Council"
+slug: steve-jobs-presents-to-the-cupertino-city-council
 date: 2011-06-10 08:03:33 -0500
 external-url: https://www.youtube.com/watch?v=gtuz5OmOh_M
 hash: 04f2f6c9511d85bb0f5455a6e011b185

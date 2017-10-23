@@ -1,5 +1,6 @@
 ---
 title: "Your E-mail Font Is Ruining Your Life - Bloomberg"
+slug: your-e-mail-font-is-ruining-your-life-bloomberg
 date: 2016-08-06 16:52:36 -0500
 external-url: http://www.bloomberg.com/news/articles/2015-07-27/your-e-mail-font-is-ruining-your-life
 hash: a35d2e12a51b5b7ec9cbc1e9abf38304

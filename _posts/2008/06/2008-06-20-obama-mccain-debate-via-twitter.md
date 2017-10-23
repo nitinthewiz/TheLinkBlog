@@ -1,5 +1,6 @@
 ---
 title: "Obama, McCain Debate Via Twitter"
+slug: obama-mccain-debate-via-twitter
 date: 2008-06-20 13:57:00 -0500
 external-url: http://blog.twitter.com/2008/06/obama-mccain-debate-via-twitter.html
 hash: 7388f61bdf84a3b52f9b72d7e05b49c6

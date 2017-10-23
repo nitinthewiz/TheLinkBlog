@@ -1,5 +1,6 @@
 ---
 title: "altercation/solarized at master - GitHub"
+slug: altercation-solarized-at-master-github
 date: 2011-04-01 09:21:11 -0500
 external-url: https://github.com/altercation/solarized
 hash: b758b1cad96034aa5bbcf31d8ee04d68

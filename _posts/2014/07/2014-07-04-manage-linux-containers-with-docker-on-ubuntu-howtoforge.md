@@ -1,5 +1,6 @@
 ---
 title: "Manage Linux Containers with Docker on Ubuntu - HowtoForge"
+slug: manage-linux-containers-with-docker-on-ubuntu-howtoforge
 date: 2014-07-04 07:43:26 -0500
 external-url: http://www.howtoforge.com/manage-linux-containers-with-docker-on-ubuntu
 hash: 4543558cd564717c3c8e5b1edcc373e8

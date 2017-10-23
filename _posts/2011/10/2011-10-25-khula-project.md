@@ -1,5 +1,6 @@
 ---
 title: "Khula Project"
+slug: khula-project
 date: 2011-10-25 07:26:52 -0500
 external-url: http://khulaproject.com/
 hash: 9b593da3f2e16b6244d22025ebd5b93a

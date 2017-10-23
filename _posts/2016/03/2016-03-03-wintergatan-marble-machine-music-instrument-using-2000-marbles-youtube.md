@@ -1,5 +1,6 @@
 ---
 title: "Wintergatan - Marble Machine (music instrument using 2000 marbles) - YouTube"
+slug: wintergatan-marble-machine-music-instrument-using-2000-marbles-youtube
 date: 2016-03-03 20:49:41 -0600
 external-url: https://www.youtube.com/watch?v=IvUU8joBb1Q
 hash: 3e051cd493bd8b4306b45202f02748b9

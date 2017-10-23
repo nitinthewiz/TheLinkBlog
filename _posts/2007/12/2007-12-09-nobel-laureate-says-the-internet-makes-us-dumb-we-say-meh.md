@@ -1,5 +1,6 @@
 ---
 title: "Nobel Laureate Says The Internet Makes Us Dumb, We Say: Meh"
+slug: nobel-laureate-says-the-internet-makes-us-dumb-we-say-meh
 date: 2007-12-09 23:00:52 -0600
 external-url: http://techcrunch.com/2007/12/09/nobel-laureate-says-the-internet-makes-us-dumb-we-say-meh/
 hash: 513e2ff3b3933a9aad0806276f65d538

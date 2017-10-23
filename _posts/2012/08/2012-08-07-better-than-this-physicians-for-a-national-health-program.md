@@ -1,5 +1,6 @@
 ---
 title: "Better than this - Physicians for a National Health Program"
+slug: better-than-this-physicians-for-a-national-health-program
 date: 2012-08-07 13:56:31 -0500
 external-url: http://www.pnhp.org/news/2012/july/better-than-this
 hash: a11624efda745d2bc3113f91f182dbf9

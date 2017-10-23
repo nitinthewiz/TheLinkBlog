@@ -1,5 +1,6 @@
 ---
 title: "IndiGO-JIB"
+slug: indigo-jib
 date: 2012-06-11 22:15:14 -0500
 external-url: http://www.indisystem.com/indigo-jib/
 hash: e1eb84fc0d7e0a75aa2fa797e98b417b

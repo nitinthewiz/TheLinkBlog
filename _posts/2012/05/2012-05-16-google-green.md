@@ -1,5 +1,6 @@
 ---
 title: "Google Green"
+slug: google-green
 date: 2012-05-16 15:34:21 -0500
 external-url: http://www.google.com/green/
 hash: 83a5eca4774c450191104b9f5acdc5d2

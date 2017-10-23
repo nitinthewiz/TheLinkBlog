@@ -1,5 +1,6 @@
 ---
 title: "Jenkins Amazon EC2 Plugin"
+slug: jenkins-amazon-ec2-plugin
 date: 2012-11-21 22:32:28 -0600
 external-url: https://wiki.jenkins-ci.org/display/JENKINS/Amazon%2BEC2%2BPlugin
 hash: d51032dd07ec279d9145a709547f8aa5

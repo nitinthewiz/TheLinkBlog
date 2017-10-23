@@ -1,5 +1,6 @@
 ---
 title: "Potential changes to cookies in Chrome. - Google Groups"
+slug: potential-changes-to-cookies-in-chrome-google-groups
 date: 2015-11-29 16:55:21 -0600
 external-url: https://groups.google.com/a/chromium.org/forum/m/#!topic/security-dev/2PK3q_VE1rg
 hash: e22bb2f0a36a04c2af31d4e60e8f9a6e

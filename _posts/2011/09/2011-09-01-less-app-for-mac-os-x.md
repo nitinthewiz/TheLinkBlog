@@ -1,5 +1,6 @@
 ---
 title: "LESS.app For Mac OS X"
+slug: less-app-for-mac-os-x
 date: 2011-09-01 15:57:49 -0500
 external-url: http://incident57.com/less/
 hash: 9bf6a238b3ebf36033a8116c456e8d6b

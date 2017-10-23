@@ -1,5 +1,6 @@
 ---
 title: "Weehoo Bicycle Trailer"
+slug: weehoo-bicycle-trailer
 date: 2012-10-21 12:01:16 -0500
 external-url: http://rideweehoo.com/
 hash: a52cf8b94c6a907623c24e31de22dbcc

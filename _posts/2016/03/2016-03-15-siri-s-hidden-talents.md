@@ -1,5 +1,6 @@
 ---
 title: "Siri's Hidden Talents"
+slug: siri-s-hidden-talents
 date: 2016-03-15 17:22:41 -0500
 external-url: http://www.myproductivemac.com/blog/siris-hidden-tale1532016
 hash: ed73fce42fbea92344056c4c1f0e49dd

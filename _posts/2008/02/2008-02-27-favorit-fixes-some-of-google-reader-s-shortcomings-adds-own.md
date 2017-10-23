@@ -1,5 +1,6 @@
 ---
 title: "Favorit fixes some of Google Reader's shortcomings, adds own"
+slug: favorit-fixes-some-of-google-reader-s-shortcomings-adds-own
 date: 2008-02-27 17:32:00 -0600
 external-url: http://www.cnet.com/8301-17939_109-9881104-2.html
 hash: b6283d24c07a297e2d92531255c8ac93

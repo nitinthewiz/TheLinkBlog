@@ -1,5 +1,6 @@
 ---
 title: "Airplanes Get Struck by Lightning More Often than You Think"
+slug: airplanes-get-struck-by-lightning-more-often-than-you-think
 date: 2015-07-21 23:26:28 -0500
 external-url: http://www.lightningprotection.com/airplanes-get-struck-by-lightning-more-often-than-you-think/
 hash: e6cc58e1ffec5b665a775dc3a5fc8e96

@@ -1,5 +1,6 @@
 ---
 title: "Another view on multiple catalogs"
+slug: another-view-on-multiple-catalogs
 date: 2008-03-11 23:20:56 -0500
 external-url: http://blogs.oreilly.com/lightroom/2008/03/another-view-on-multiple-catal.html
 hash: 2e887e59e1b05ce014b7900017f5c2ba

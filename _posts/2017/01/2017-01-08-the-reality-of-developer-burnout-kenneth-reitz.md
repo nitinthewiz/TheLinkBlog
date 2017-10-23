@@ -1,5 +1,6 @@
 ---
 title: "The Reality of Developer Burnout — Kenneth Reitz"
+slug: the-reality-of-developer-burnout-kenneth-reitz
 date: 2017-01-08 08:49:29 -0600
 external-url: https://www.kennethreitz.org/essays/the-reality-of-developer-burnout
 hash: 0181e1a59d02149894df9a0d4a0a0c2a

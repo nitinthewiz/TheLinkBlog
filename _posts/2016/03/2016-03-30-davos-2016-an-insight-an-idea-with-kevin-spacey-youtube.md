@@ -1,5 +1,6 @@
 ---
 title: "Davos 2016 - An Insight, An Idea with Kevin Spacey - YouTube"
+slug: davos-2016-an-insight-an-idea-with-kevin-spacey-youtube
 date: 2016-03-30 20:34:15 -0500
 external-url: https://www.youtube.com/watch?v=qNTIo45bOu0
 hash: 23cda480119b611d8ccade9f86da4dfb

@@ -1,5 +1,6 @@
 ---
 title: "How to destroy an American family"
+slug: how-to-destroy-an-american-family
 date: 2015-11-26 21:07:50 -0600
 external-url: http://specialreports.dailydot.com/how-to-destroy-an-american-family
 hash: 762ae07ec8094772ea0ec088de37e2ea

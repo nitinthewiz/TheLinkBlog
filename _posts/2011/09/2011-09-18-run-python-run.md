@@ -1,5 +1,6 @@
 ---
 title: "Run, Python, Run!"
+slug: run-python-run
 date: 2011-09-18 22:17:16 -0500
 external-url: http://hbfs.wordpress.com/2011/09/13/run-python-run/
 hash: 5aa10b15d4b457adc6d151c4c5b435a5

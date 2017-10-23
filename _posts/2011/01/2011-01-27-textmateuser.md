@@ -1,5 +1,6 @@
 ---
 title: "TEXTMATEuser"
+slug: textmateuser
 date: 2011-01-27 06:51:50 -0600
 external-url: http://textmateuser.com/
 hash: f3177d135ad79f663d1a1c230c28d915

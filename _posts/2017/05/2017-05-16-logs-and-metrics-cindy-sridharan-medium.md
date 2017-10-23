@@ -1,5 +1,6 @@
 ---
 title: "Logs and Metrics – Cindy Sridharan – Medium"
+slug: logs-and-metrics-cindy-sridharan-medium
 date: 2017-05-16 20:28:20 -0500
 external-url: https://medium.com/@cindysridharan/logs-and-metrics-6d34d3026e38
 hash: 8b59b085040a6e7ab6944ab941866d24

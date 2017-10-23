@@ -1,5 +1,6 @@
 ---
 title: "Facebook Confirms Talent Acquisition of Three Zenbe Employees"
+slug: facebook-confirms-talent-acquisition-of-three-zenbe-employees
 date: 2010-11-16 14:10:00 -0600
 external-url: http://www.insidefacebook.com/2010/11/16/facebook-zenbe/
 hash: e8be9b44ab16061d3c53c6eba29ea617

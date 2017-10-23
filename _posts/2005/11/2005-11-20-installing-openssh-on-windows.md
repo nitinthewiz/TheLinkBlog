@@ -1,5 +1,6 @@
 ---
 title: "Installing OpenSSH on Windows"
+slug: installing-openssh-on-windows
 date: 2005-11-20 19:17:23 -0600
 external-url: http://pigtail.net/LRP/printsrv/cygwin-sshd.html
 hash: 992c1ed34ccabb7da616b476833045cd

@@ -1,5 +1,6 @@
 ---
 title: "Marc Frons - Top Innovators in Business Publishing"
+slug: marc-frons-top-innovators-in-business-publishing
 date: 2013-05-01 12:28:57 -0500
 external-url: http://adage.com/article/btob/marc-frons-senior-vp-cio-york-times/289033/
 hash: 0776897b07ff3a2e24bbf80edda939d5

@@ -1,5 +1,6 @@
 ---
 title: "ImageOptim"
+slug: imageoptim
 date: 2012-01-18 15:21:18 -0600
 external-url: https://imageoptim.com/
 hash: f25fcab70a0a869cd6f23cf18d632608

@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Soap – The Infinite Hows (or, the Dangers Of The Five Whys)"
+slug: kitchen-soap-the-infinite-hows-or-the-dangers-of-the-five-whys
 date: 2017-10-20 08:08:30 -0500
 external-url: https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/
 hash: 4a1ae1fed0a4b5f68bad3bbafe4875f1

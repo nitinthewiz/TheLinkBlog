@@ -1,5 +1,6 @@
 ---
 title: "Jim Bernard - How to Manage A Softball Team to a Perfect Record"
+slug: jim-bernard-how-to-manage-a-softball-team-to-a-perfect-record
 date: 2012-05-08 16:13:05 -0500
 external-url: http://www.youtube.com/watch?v=y-PGiHGIc34
 hash: 701f493b2e51a9663b11b4713b0f4419

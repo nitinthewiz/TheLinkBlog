@@ -1,5 +1,6 @@
 ---
 title: "Backbone.js"
+slug: backbone-js
 date: 2011-03-18 14:30:38 -0500
 external-url: http://backbonejs.org
 hash: 622295f06989d5f6f7f8b9d04a42500c

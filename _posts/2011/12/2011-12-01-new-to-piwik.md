@@ -1,5 +1,6 @@
 ---
 title: "New to Piwik"
+slug: new-to-piwik
 date: 2011-12-01 15:22:05 -0600
 external-url: http://piwik.org/faq/new-to-piwik/
 hash: 553438419c2ec8f1600116ec0bd39ef6

@@ -1,5 +1,6 @@
 ---
 title: "Editor &amp; Publisher Folds"
+slug: editor-publisher-folds
 date: 2009-12-10 21:38:56 -0600
 external-url: http://www.poynter.org/column.asp?id=45&aid=174719
 hash: e9221856c52f88f8aee3bb9d59fbb710

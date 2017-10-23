@@ -1,5 +1,6 @@
 ---
 title: "A River of Typerighters"
+slug: a-river-of-typerighters
 date: 2012-02-15 15:00:51 -0600
 external-url: http://blog.typerighter.com/post/a-river-of-typerighters/
 hash: d62cfdc2e710688c8b84a3d58e06699d

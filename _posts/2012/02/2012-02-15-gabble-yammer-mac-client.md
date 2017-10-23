@@ -1,5 +1,6 @@
 ---
 title: "Gabble - Yammer Mac client"
+slug: gabble-yammer-mac-client
 date: 2012-02-15 14:11:11 -0600
 external-url: http://gabbleapp.com/
 hash: aa0154a69f7cf4078a7ab06121f9878d

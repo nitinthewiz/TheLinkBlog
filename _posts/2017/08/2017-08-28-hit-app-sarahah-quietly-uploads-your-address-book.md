@@ -1,5 +1,6 @@
 ---
 title: "Hit App Sarahah Quietly Uploads Your Address Book"
+slug: hit-app-sarahah-quietly-uploads-your-address-book
 date: 2017-08-28 18:39:49 -0500
 external-url: https://theintercept.com/2017/08/27/hit-app-sarahah-quietly-uploads-your-address-book/
 hash: cff8cbc0aab9bc8a897ed084eff40c2b

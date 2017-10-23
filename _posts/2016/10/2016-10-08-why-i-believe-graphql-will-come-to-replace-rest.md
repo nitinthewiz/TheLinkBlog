@@ -1,5 +1,6 @@
 ---
 title: "Why I believe GraphQL will come to replace REST"
+slug: why-i-believe-graphql-will-come-to-replace-rest
 date: 2016-10-08 20:06:49 -0500
 external-url: https://dev.to/reactiveconf/why-i-believe-graphql-will-come-to-replace-rest
 hash: 19afe7b1742711c89146657cb82800b5

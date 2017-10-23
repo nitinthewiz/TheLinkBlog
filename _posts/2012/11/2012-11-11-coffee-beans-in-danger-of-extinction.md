@@ -1,5 +1,6 @@
 ---
 title: "Coffee beans in danger of extinction"
+slug: coffee-beans-in-danger-of-extinction
 date: 2012-11-11 17:58:00 -0600
 external-url: http://www.cbc.ca/news/technology/coffee-beans-in-danger-of-extinction-1.1161456
 hash: 79ee175a896ebed2b710c4aea2a8fee5
