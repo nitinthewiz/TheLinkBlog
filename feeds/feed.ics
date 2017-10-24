@@ -32,7 +32,7 @@ DTSTAMP:{{ site.time | date: "%Y%m%d" }}T{{ site.time | date: "%H%M%S" }}Z
 DTSTART;TZID=America/Chicago:{{ post.date | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}
 DURATION:PT15M
 TRANSP:TRANSPARENT
-SUMMARY:{{ post.title }}
+SUMMARY:📌 {{ post.title }}
 DESCRIPTION:{{ site.url }}{{ site.baseurl }}{{ post.url }}
 URL:{% if post.external-url %}{{ post.external-url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ post.url }}{% endif %}
 END:VEVENT{% endfor %}
