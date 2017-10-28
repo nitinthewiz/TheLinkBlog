@@ -12,4 +12,4 @@ path: /ipad-pro-for-programming/
 
 ---
 
-Good writeup on how to turn your iPad Pro into a very portable terminal tool for development and systems work. Nice callout to [mosh](&#123;% link _posts/2012/04/mosh-the-mobile-shell.md %&#125;) and blink.
+Good writeup on how to turn your iPad Pro into a very portable terminal tool for development and systems work. Nice callout to mosh and blink.
