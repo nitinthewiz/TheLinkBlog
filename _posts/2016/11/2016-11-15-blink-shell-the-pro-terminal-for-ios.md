@@ -1,6 +1,6 @@
 ---
-title: "Mosh for iOS, Best SSH Client - Blink Shell for iOS"
-slug: mosh-for-ios-best-ssh-client-blink-shell-for-ios
+title: "Blink Shell - The Pro Terminal For iOS"
+slug: blink-shell-the-pro-terminal-for-ios
 date: 2016-11-15 05:02:14 -0600
 external-url: http://www.blink.sh/
 hash: 492c99205e8eed9536646819383bbc1e
