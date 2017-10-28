@@ -21,7 +21,7 @@ timezone: America/Chicago
 permalink: /:year/:month/:title/
 
 # Pagination
-paginate: 25
+paginate: 50
 paginate_path: /page:num/
 
 # Feed config

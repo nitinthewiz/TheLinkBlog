@@ -14,10 +14,10 @@ local_all:
 	$J serve --watch --drafts
 
 local:
-	$J serve --watch --drafts --limit_posts 100
+	$J serve --watch --drafts --limit_posts 300
 
 profile:
-	$J build --profile --limit_posts 500
+	$J build --profile --limit_posts 1000
 	
 refresh:
 	@echo "\nDeleting all posts..."
