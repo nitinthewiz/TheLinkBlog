@@ -1,26 +1,28 @@
 <h2>Archive for {{ include.year }}</h2>
 
-{% assign this_year = site.posts | where: 'year', include.year %}
+{% assign this_year = site.posts | where: 'year', include.year | sort: 'date' %}
+<h5>{{ this_year | size }} links</h5>
 
 {% if this_year.size == 0 %}
   <h3>No post found</h3>
 {% else %}
-  {% for post in this_year %}
-    {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
-    {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
-    {% if month != nmonth %}
-    {% if forloop.first != true %}</ul>{% endif %}
-    <h3><i class="fa fa-calendar-o" aria-hidden="true"></i> <a name="{{ post.date | date: '%m' }}"></a>{{ post.date | date: '%B' }}</h3>
+  {% assign by_month = this_year | group_by: 'month' %}
+  {% for month in by_month %}
+    <h3><i class="fa fa-calendar-o fa-fw" aria-hidden="true"></i> {{ month.name }}</h3>
+    <h5>{{ month.items | size }} links</h5>
+
     <ul>
-    {% endif %}
-    {% if post.external-url %}
+    {% for post in month.items %}
+      {% if post.external-url %}
       <li>
         <a href="{{ post.external-url }}" onclick="trackOutboundLink('{{ post.external-url }}'); return false;">{{ post.title }}</a>&nbsp;<a class="anchor" href="{{ post.url }}"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
       </li>
-    {% else %}
+      {% else %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-    {% if forloop.last == true %}</ul>{% endif %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+
   {% endfor %}
+
 {% endif %}
-</div>
