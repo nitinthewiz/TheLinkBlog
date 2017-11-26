@@ -14,7 +14,5 @@ path: /about-us/
 
 I must find this beer.
 
-<blockquote>
-The Alchemist has been brewing Heady Topper since 2003. This Double IPA is not intended to be the strongest or most bitter DIPA. It is brewed to give you wave after wave of hop flavor without any astringent bitterness. We brew Heady Topper with a proprietary blend of six hops  each imparting its own unique flavor and aroma.
-</blockquote>
+> The Alchemist has been brewing Heady Topper since 2003. This Double IPA is not intended to be the strongest or most bitter DIPA. It is brewed to give you wave after wave of hop flavor without any astringent bitterness. We brew Heady Topper with a proprietary blend of six hops  each imparting its own unique flavor and aroma.
 

@@ -16,7 +16,5 @@ query:
 
 Right, that seems fair. Assholes.
 
-<blockquote>
-Amazon Publishing will acquire all rights to your new stories, including global publication rights, for the term of copyright.
-</blockquote>
+> Amazon Publishing will acquire all rights to your new stories, including global publication rights, for the term of copyright.
 

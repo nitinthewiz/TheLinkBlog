@@ -12,4 +12,4 @@ path: /python/python_multithreading.htm
 
 ---
 
-Good example of threading in Python.  <blockquote>  </blockquote> 
+Good example of threading in Python.

@@ -14,7 +14,5 @@ path: /36-cheap-american-beers-ranked-638820035
 
 Grain Belt Premium is also the preferred beer of the B-Squad Softball team.
 
-<blockquote>
-Grain Belt Premium. I always think of Minnesota as a secretly sexy place, and not just because of Kent Hrbek and Al Franken. Maybe it's all the trout and music and Lutherans. Toss in a smooth, creamy, and dreamy local budget brew like Grain Belt and it's a wonder Minnesota hasn't seceded to form its own naked blond utopia. Grain Belt Premium is America's finest cheap beer.
-</blockquote>
+> Grain Belt Premium. I always think of Minnesota as a secretly sexy place, and not just because of Kent Hrbek and Al Franken. Maybe it's all the trout and music and Lutherans. Toss in a smooth, creamy, and dreamy local budget brew like Grain Belt and it's a wonder Minnesota hasn't seceded to form its own naked blond utopia. Grain Belt Premium is America's finest cheap beer.
 

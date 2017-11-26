@@ -14,7 +14,3 @@ path: /49753231
 
 Very cool video.
 
-<blockquote>
-
-</blockquote>
-

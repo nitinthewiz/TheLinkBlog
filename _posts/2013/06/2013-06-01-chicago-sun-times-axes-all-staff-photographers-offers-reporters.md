@@ -14,7 +14,5 @@ path: /articles/13/05/31/chicago-sun-times-axes-all-staff-photographers-offers-r
 
 Wow. And not a good wow.
 
-<blockquote>
-The Chicago Sun-Times, one of the oldest daily newspapers in America, fired its entire pool of 28 photographers on Friday, and plans to source future graphics from reporters who will be trained to capture print-worthy images with their iPhones.
-</blockquote>
+> The Chicago Sun-Times, one of the oldest daily newspapers in America, fired its entire pool of 28 photographers on Friday, and plans to source future graphics from reporters who will be trained to capture print-worthy images with their iPhones.
 

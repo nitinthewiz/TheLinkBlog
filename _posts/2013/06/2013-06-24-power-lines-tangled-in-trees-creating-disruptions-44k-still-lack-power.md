@@ -14,7 +14,5 @@ path: /local/minneapolis/212748071.html
 
 One of the two fields that the B-Squad plays on each Wednesday night. Sinkhole right at the shortstop position. Right where I stand often.
 
-<blockquote>
-A sinkhole developed in the infield of a baseball field at Marshall Terrace Park in northeast Minneapolis during the weekend storms.
-</blockquote>
+> A sinkhole developed in the infield of a baseball field at Marshall Terrace Park in northeast Minneapolis during the weekend storms.
 

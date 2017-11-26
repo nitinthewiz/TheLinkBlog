@@ -14,7 +14,3 @@ path: /giraffe/
 
 Graphite is powerful, but most front ends rather suck. This one looks a bit better.
 
-<blockquote>
-An alternative Graphite dashboard.
-</blockquote>
-

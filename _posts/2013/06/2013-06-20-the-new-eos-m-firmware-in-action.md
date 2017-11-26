@@ -12,4 +12,4 @@ path: /2013/06/the-new-eos-m-firmware-coming-soon/
 
 ---
 
-This camera is very interesting to me but the AF issues have been a big problem. Good news that this may be going away.  <blockquote>  </blockquote> 
+This camera is very interesting to me but the AF issues have been a big problem. Good news that this may be going away.

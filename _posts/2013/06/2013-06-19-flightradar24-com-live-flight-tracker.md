@@ -14,7 +14,5 @@ path: /
 
 Amazing to see applications like this just sitting on the web. It wasn't that long ago that something like this would have seemed nearly impossible to create.
 
-<blockquote>
-Flightradar24 is a flight tracking service that provides you with real-time info about thousands of aircraft around the world.
-</blockquote>
+> Flightradar24 is a flight tracking service that provides you with real-time info about thousands of aircraft around the world.
 

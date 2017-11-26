@@ -14,7 +14,5 @@ path: /
 
 Looks interesting and I like the idea of running this on my own so I'm not stuck with built in services. However, I'm going to wait to try this for now.
 
-<blockquote>
-Bakal offers ubiquitous and synchronized access to your calendars and address books over CalDAV and CardDAV. Bakal implements the current IETF recommendation drafts of these industry standards for centralized calendar and address book collections.
-</blockquote>
+> Bakal offers ubiquitous and synchronized access to your calendars and address books over CalDAV and CardDAV. Bakal implements the current IETF recommendation drafts of these industry standards for centralized calendar and address book collections.
 

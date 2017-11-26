@@ -12,4 +12,7 @@ path: /cloud-server-review-and-comparison-amazon-aws-ec2-vs-linode-vs-digitaloce
 
 ---
 
-Glad to see Linode still performing well.  <blockquote> But the winner without any doubt is Linode. Their 8 core server really rocks in this case. </blockquote> 
+Glad to see Linode still performing well. 
+
+> But the winner without any doubt is Linode. Their 8 core server really rocks in this case.
+

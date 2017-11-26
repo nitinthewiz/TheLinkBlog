@@ -14,7 +14,5 @@ path: /enterprise_architecture_repository_with_semantic_mediawiki
 
 Nice post, enjoy the color of his comments. Especially the "big load of do-not-care", very accurate.
 
-<blockquote>
-This isn't minor. This means that the only difference between a vanilla Semantic Mediawiki and an EAR is your ability to model your architecture in categories, properties, and templates. Our Mediawiki-based EAR is still under development and evolution, but we already have a base structure which does an astonishingly good job at modeling our EA.
-</blockquote>
+> This isn't minor. This means that the only difference between a vanilla Semantic Mediawiki and an EAR is your ability to model your architecture in categories, properties, and templates. Our Mediawiki-based EAR is still under development and evolution, but we already have a base structure which does an astonishingly good job at modeling our EA.
 

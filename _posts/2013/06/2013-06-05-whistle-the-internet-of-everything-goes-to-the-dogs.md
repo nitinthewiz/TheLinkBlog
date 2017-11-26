@@ -14,7 +14,6 @@ path: /2013/06/05/whistle-the-internet-of-everything-goes-to-the-dogs/
 
 OMG. Seriously?
 
-<blockquote>
-One key part of our "Internet of things" that seems to be capturing the imagination of a lot of people is the ability to track our activity and other health factors. It's not surprising to get with a group of people these days and see a FitBit or Nike Fuel Band on the waist or wrist of half the people in the room. Today, San Francisco-based Whistle announced pre-orders for its first product, a US$99.95 health tracker for dogs that is expected to ship this summer.
-</blockquote>
+> One key part of our "Internet of things" that seems to be capturing the imagination of a lot of people is the ability to track our activity and other health factors. It's not surprising to get with a group of people these days and see a FitBit or Nike Fuel Band on the waist or wrist of half the people in the room. Today, San Francisco-based Whistle announced pre-orders for its first product, a US$99.95 health tracker for dogs that is expected to ship this summer.
+
 

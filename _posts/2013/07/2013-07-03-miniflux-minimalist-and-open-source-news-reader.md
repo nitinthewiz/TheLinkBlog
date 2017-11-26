@@ -14,7 +14,5 @@ path: /
 
 This looks interesting.
 
-<blockquote>
-Miniflux is a minimalist and open source news reader.
-</blockquote>
+> Miniflux is a minimalist and open source news reader.
 

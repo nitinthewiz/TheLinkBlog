@@ -14,7 +14,3 @@ path: /typeface-reviews/apple-color-emoji/
 
 Emoji FTW!
 
-<blockquote>
-
-</blockquote>
-

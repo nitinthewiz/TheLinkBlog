@@ -12,4 +12,6 @@ path: /blog/archives/2013/05/the_eyes_and_ea.html
 
 ---
 
-ugh.  <blockquote> Ephemeral conversation is over. Wholesale surveillance is the norm. Maintaining privacy from these powerful entities is basically impossible, and any illusion of privacy we maintain is based either on ignorance or on our unwillingness to accept what's really going on. </blockquote> 
+😟 
+
+> Ephemeral conversation is over. Wholesale surveillance is the norm. Maintaining privacy from these powerful entities is basically impossible, and any illusion of privacy we maintain is based either on ignorance or on our unwillingness to accept what's really going on. 

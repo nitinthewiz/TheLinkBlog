@@ -14,7 +14,5 @@ path: /commentisfree/2013/dec/05/engineering-moral-effects-technology-impact
 
 This issue deserves so much more attention.
 
-<blockquote>
-Engineers are behind government spying tools and military weapons. We should be conscious of how our designs are used
-</blockquote>
+> Engineers are behind government spying tools and military weapons. We should be conscious of how our designs are used
 

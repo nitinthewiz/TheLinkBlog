@@ -14,7 +14,5 @@ path: /2013/05/20/one-person-product
 
 Great writeup reflecting on Tumblr.
 
-<blockquote>
-MySpace was where you went in the past, WordPress and Movable Type were where people went if they had the patience and writing output to maintain a traditional blog, Facebook was where you went to define yourself by schools and checkboxes, and Tumblr was where you went to make your own identity and express your creativity.
-</blockquote>
+> MySpace was where you went in the past, WordPress and Movable Type were where people went if they had the patience and writing output to maintain a traditional blog, Facebook was where you went to define yourself by schools and checkboxes, and Tumblr was where you went to make your own identity and express your creativity.
 

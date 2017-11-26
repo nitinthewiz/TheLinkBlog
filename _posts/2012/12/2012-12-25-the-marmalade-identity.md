@@ -14,7 +14,3 @@ path: /43455552
 
 These guys are doing crazy cool stuff.
 
-<blockquote>
-
-</blockquote>
-

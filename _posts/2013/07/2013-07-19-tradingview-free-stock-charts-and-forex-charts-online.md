@@ -14,7 +14,4 @@ path: /
 
 This is pretty much what BigCharts would be if I recreated it using today's technology.
 
-<blockquote>
-
-</blockquote>
 

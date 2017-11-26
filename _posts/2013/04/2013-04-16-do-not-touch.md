@@ -14,7 +14,3 @@ path: /
 
 Very interesting concept recording mouse movements during a video and then incorporating it into the results. Would be curious if something useful could be done with this.
 
-<blockquote>
-
-</blockquote>
-

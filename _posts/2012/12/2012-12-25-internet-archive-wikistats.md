@@ -14,7 +14,3 @@ path: /web/20080328042349/http://s23.org/wiki/Wikistats
 
 This is the only thing I can see that came anywhere close to what I'm thinking with WikiApiary, and the approach was pretty damned flawed. It is no longer active, this snapshot from Internet Archive is the best I can see of what existed.
 
-<blockquote>
-
-</blockquote>
-

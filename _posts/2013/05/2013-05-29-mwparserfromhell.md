@@ -14,7 +14,5 @@ path: /earwig/mwparserfromhell
 
 Super awesome to find this. Alternative to using Semantic Forms API to dig into template contents. Can also handle multiple occurring templates!
 
-<blockquote>
-MWParserFromHell is a Python parser for MediaWiki wikicode.
-</blockquote>
+> MWParserFromHell is a Python parser for MediaWiki wikicode.
 

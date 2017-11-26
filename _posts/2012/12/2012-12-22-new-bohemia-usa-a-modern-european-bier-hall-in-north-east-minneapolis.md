@@ -14,7 +14,3 @@ path: /
 
 My friend Steve said this place is amazing. Must go.
 
-<blockquote>
-
-</blockquote>
-

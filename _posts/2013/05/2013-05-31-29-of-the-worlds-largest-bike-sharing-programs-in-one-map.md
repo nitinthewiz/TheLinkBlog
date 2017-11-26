@@ -14,7 +14,5 @@ path: /89019/29-of-the-worlds-largest-bike-sharing-programs-in-one-map/
 
 Very cool map and concept.
 
-<blockquote>
-The maps above show the locations of all docking stations for 29 bike-sharing programs around the world. They are drawn at the same scale and arranged by the number of docks.
-</blockquote>
+> The maps above show the locations of all docking stations for 29 bike-sharing programs around the world. They are drawn at the same scale and arranged by the number of docks.
 

@@ -14,7 +14,5 @@ path: /
 
 Was super excited to meet Fredrick Prescott at the Edina Art Fair this year. We have his elephant sculpture in our back yard. We bought it in Sedona when we were on our long road trip. Very nice guy!
 
-<blockquote>
-Outdoor Sculpture and Indoor Sculpture by Fredrick Prescott. Kinetic Sculpture That Move In The Wind. Wild Animal Wind Sculptures.
-</blockquote>
+> Outdoor Sculpture and Indoor Sculpture by Fredrick Prescott. Kinetic Sculpture That Move In The Wind. Wild Animal Wind Sculptures.
 

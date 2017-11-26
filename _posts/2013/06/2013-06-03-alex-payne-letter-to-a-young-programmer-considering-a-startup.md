@@ -14,7 +14,5 @@ path: /2013/05/23/letter-to-a-young-programmer.html
 
 Very good.
 
-<blockquote>
-I regularly get emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.
-</blockquote>
+> I regularly get emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.
 

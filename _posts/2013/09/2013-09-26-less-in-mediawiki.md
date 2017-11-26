@@ -14,7 +14,5 @@ path: /wiki/Requests_for_comment/LESS
 
 LESS becoming part of the MediaWiki core, interesting.
 
-<blockquote>
-This document proposes adopting LESS as a stylesheet language in core.
-</blockquote>
+> This document proposes adopting LESS as a stylesheet language in core.
 

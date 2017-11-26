@@ -14,7 +14,5 @@ path: /article/stories/s3200731.shtml
 
 Oh wait, oil companies are screwing up the environment and not telling anyone about it? Say it isn't so!
 
-<blockquote>
-North Dakota, the nation's No. 2 oil producer behind Texas, recorded nearly 300 oil pipeline spills in less than two years, state documents show. None was reported to the public, officials said.
-</blockquote>
+> North Dakota, the nation's No. 2 oil producer behind Texas, recorded nearly 300 oil pipeline spills in less than two years, state documents show. None was reported to the public, officials said.
 

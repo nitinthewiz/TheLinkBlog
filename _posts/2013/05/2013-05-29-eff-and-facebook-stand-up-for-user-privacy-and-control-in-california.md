@@ -12,4 +12,6 @@ path: /deeplinks/2013/05/eff-and-facebook-stand-user-privacy-and-control-califor
 
 ---
 
-EFF and Facebook? Made me do a double-take.  <blockquote> EFF filed an amicus brief (PDF) in support of Facebook in California state appellate court yesterday, urging the court to protect the privacy rights of social media users by requiring that all requests for their account informationincluding contentbe directed to the users, rather than to third parties like Facebook. </blockquote> 
+EFF and Facebook? Made me do a double-take. 
+
+> EFF filed an amicus brief (PDF) in support of Facebook in California state appellate court yesterday, urging the court to protect the privacy rights of social media users by requiring that all requests for their account informationincluding contentbe directed to the users, rather than to third parties like Facebook. 

@@ -14,7 +14,5 @@ path: /
 
 Had some pulled pork from him at the Edina Art Fair. Was great. Need to make a point to stop by their place when driving out by St. Cloud!
 
-<blockquote>
-We're out to make better barbeque and to share with as many people as possible the love and passion we have for cooking and creating.
-</blockquote>
+> We're out to make better barbeque and to share with as many people as possible the love and passion we have for cooking and creating.
 

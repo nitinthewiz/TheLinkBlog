@@ -14,7 +14,5 @@ path: /book/manage-your-day-to-day-2
 
 Looks like a good read.
 
-<blockquote>
-The world has changed and the way we work has to change, too. With wisdom from 20 leading creative minds, Manage Your Day-to-Day will give you a toolkit for tackling the new challenges of a 24/7, always-on workplace.
-</blockquote>
+> The world has changed and the way we work has to change, too. With wisdom from 20 leading creative minds, Manage Your Day-to-Day will give you a toolkit for tackling the new challenges of a 24/7, always-on workplace.
 

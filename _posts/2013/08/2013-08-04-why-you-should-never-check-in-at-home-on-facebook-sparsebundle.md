@@ -12,4 +12,6 @@ path: /posts/why-you-should-never-check-in-at-home-on-facebook
 
 ---
 
-The fact that people even create locations for their house is odd to me. Why people think that location services should extend to residences is beyond me.  <blockquote> To see for yourself, log in to Facebook and search for the term "Home". The number of results are staggering. </blockquote> 
+The fact that people even create locations for their house is odd to me. Why people think that location services should extend to residences is beyond me. 
+
+> To see for yourself, log in to Facebook and search for the term "Home". The number of results are staggering.

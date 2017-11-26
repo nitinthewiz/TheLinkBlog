@@ -14,7 +14,5 @@ path: /2013/06/04/we-have-mn-made-kubb-sets-whats-kubb-you-ask/
 
 This is great to see!
 
-<blockquote>
-Just last week, we received a delivery of these beautiful hand-made Kubb sets from Jason Larson in Chaska, MN. Kubb is the perfect yard game for any season (but especially summer) and these sets cost only $59.
-</blockquote>
+> Just last week, we received a delivery of these beautiful hand-made Kubb sets from Jason Larson in Chaska, MN. Kubb is the perfect yard game for any season (but especially summer) and these sets cost only $59.
 

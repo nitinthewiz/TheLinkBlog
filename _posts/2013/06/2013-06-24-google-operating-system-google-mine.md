@@ -14,7 +14,5 @@ path: /2013/06/google-mine.html
 
 At least they made this products intent obvious with its name.
 
-<blockquote>
-Google Mine lets you organize the things you own, use, wish for, and more: gadgets, clothing, electronics, DVDs, cars, bikes or anything!
-</blockquote>
+> Google Mine lets you organize the things you own, use, wish for, and more: gadgets, clothing, electronics, DVDs, cars, bikes or anything!
 

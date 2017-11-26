@@ -14,7 +14,4 @@ path: /post/52637308693/facebooks-new-privacy-options
 
 Brilliant. :-)
 
-<blockquote>
-Facebooks new privacy options.
-</blockquote>
 

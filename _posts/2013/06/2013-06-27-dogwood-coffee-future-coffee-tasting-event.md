@@ -14,7 +14,6 @@ path: /events/2013/6/30/dogwood-coffee-future-coffee-tasting-event
 
 Good idea. Hope to see more of these.
 
-<blockquote>
-Our friends from Dogwood Coffee Co. will be hosting a cupping at our Lyndale location. Dogwood will be featuring new coffees from Costa Rica and Honduras that we haven't gotten our hands on yet!
-</blockquote>
+> Our friends from Dogwood Coffee Co. will be hosting a cupping at our Lyndale location. Dogwood will be featuring new coffees from Costa Rica and Honduras that we haven't gotten our hands on yet!
+
 

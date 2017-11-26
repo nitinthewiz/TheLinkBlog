@@ -12,4 +12,6 @@ path: /twincities/blog/in_private/2013/09/google-picks-coco-for-tech-hub-program
 
 ---
 
-Huge win for CoCo.  <blockquote> Minneapolis co-working space CoCo is one of seven locations selected to participate in Google Inc.'s new "tech hub" program. </blockquote> 
+Huge win for CoCo.
+
+> Minneapolis co-working space CoCo is one of seven locations selected to participate in Google Inc.'s new "tech hub" program.

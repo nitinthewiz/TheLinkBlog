@@ -14,12 +14,11 @@ path: /
 
 Great idea, but the kerning is a little off on the type. :-P
 
-<blockquote>
+```
 IT WILL NEVER
 BE PERFECT
 MATCH YOUR
 VISION
 OR LIVE UP TO YOUR
 EXPECTATIONS
-</blockquote>
-
+```

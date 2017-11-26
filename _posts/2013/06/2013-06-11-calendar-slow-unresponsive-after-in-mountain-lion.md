@@ -14,7 +14,5 @@ path: /message/21005336
 
 This solved my terrible slowness, spinning beach ball issues with Calendar.
 
-<blockquote>
-Remove the Calendar from Mail, Contacts & Calendars pref panel (just uncheck from the account). Then go into Calendar and make sure the account is removed. If its not, remove it. Delete ~/Library/Calendars/. Delete ~/Library/Preferences/com.apple.iCal.plist. Go back into the Mail, Contacts & Calendars pref panel, put the calendar back. Give it some time to download.
-</blockquote>
+> Remove the Calendar from Mail, Contacts & Calendars pref panel (just uncheck from the account). Then go into Calendar and make sure the account is removed. If its not, remove it. Delete `~/Library/Calendars/`. Delete `~/Library/Preferences/com.apple.iCal.plist`. Go back into the Mail, Contacts & Calendars pref panel, put the calendar back. Give it some time to download.
 

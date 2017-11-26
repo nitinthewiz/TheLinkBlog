@@ -14,7 +14,5 @@ path: /2013/07/18/researching-collaboration-better-world-john-riedl-1962-2013/
 
 So proud to be able to call John my friend.
 
-<blockquote>
-John made enormous contributions to our understanding of Wikipedia
-</blockquote>
+> John made enormous contributions to our understanding of Wikipedia
 

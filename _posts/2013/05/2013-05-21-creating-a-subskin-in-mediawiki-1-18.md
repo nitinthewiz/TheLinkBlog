@@ -14,7 +14,5 @@ path: /2012/02/28/mediawiki-subskin-tutorial/
 
 Nice way to do something similar to child themes in WordPress for skins in MediaWiki.
 
-<blockquote>
-This tutorial goes over how to use a subclass to create a derivative of Vector and create a new skin with some extra css.
-</blockquote>
+> This tutorial goes over how to use a subclass to create a derivative of Vector and create a new skin with some extra css.
 

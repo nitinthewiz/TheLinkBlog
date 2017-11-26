@@ -14,7 +14,3 @@ path: /
 
 These two brothers sound like they have been time warped from 60 years ago making amazing, real country music. Love it.
 
-<blockquote>
-
-</blockquote>
-

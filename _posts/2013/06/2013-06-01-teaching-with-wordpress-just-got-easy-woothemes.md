@@ -14,7 +14,5 @@ path: /2013/01/teaching-with-wordpress-just-got-easy/
 
 This could be the tool to start making some Planet Kubb courses.
 
-<blockquote>
-Sensei, previously code named LMS, helps you create online courses from within WordPress. Sensei aims to capture the core features of a learning management plugin, while not bloating it with features other existing plugins can handle. Sensei integrates perfectly with themes and plugins!
-</blockquote>
+> Sensei, previously code named LMS, helps you create online courses from within WordPress. Sensei aims to capture the core features of a learning management plugin, while not bloating it with features other existing plugins can handle. Sensei integrates perfectly with themes and plugins!
 

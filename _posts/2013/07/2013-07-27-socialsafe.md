@@ -14,7 +14,5 @@ path: /
 
 Interesting software to bring social things local to your machine where you can control and archive it.
 
-<blockquote>
-Save all your social networks to your computer and enjoy your story in one safe place
-</blockquote>
+> Save all your social networks to your computer and enjoy your story in one safe place
 

@@ -14,7 +14,5 @@ path: /20130603/zynga-to-lay-off-520-employees-18-percent-of-staff-and-shutter-n
 
 Just keeps getting worse.
 
-<blockquote>
-Zynga is laying off 18 percent of its workforce  which represents 520 employees  in a bid to reduce costs and more drastically restructure its troubled business toward mobile, according to sources close to the situation.
-</blockquote>
+> Zynga is laying off 18 percent of its workforce  which represents 520 employees  in a bid to reduce costs and more drastically restructure its troubled business toward mobile, according to sources close to the situation.
 
