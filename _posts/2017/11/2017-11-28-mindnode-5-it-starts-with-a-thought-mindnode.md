@@ -12,4 +12,4 @@ path: /news/2017-11-28-mindnode-5-it-starts-with-a-thought
 
 ---
 
-New major release of one of my favorite mind mapping tools (the other is [iThoughts](https://www.toketaware.com/ithoughts-ios)). I like MindNode's simpler and light user interface. It’s a great place to do brainstorming.
+New major release of one of my favorite mind mapping tools (the other is [iThoughts](https://www.toketaware.com/ithoughts-ios)). I like MindNode's simpler and light user interface. It’s a great place to do brainstorming. Also, a [good review of this on MacStories](https://www.macstories.net/reviews/mindnode-5-digital-mind-mapping-finally-clicked-for-me/).
