@@ -27,9 +27,6 @@ paginate_path: /page:num/
 # Feed config
 feed_posts:         50
 
-# Analytics
-google_analytics:   UA-49944629-15
-
 # SEO
 twitter:
   username: thingles
