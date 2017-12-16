@@ -12,4 +12,4 @@ path: /blog/2017/12/11/digital-innovation-era-technologist-focuses-empathy-tech-
 
 ---
 
-A very cool interview with Minneapolis-native and awesome tech community leader [Bridget Kromhout](https://bridgetkromhout.com)! Very cool! 👏
+A very cool interview with Minneapolis-native and awesome tech community leader [Bridget Kromhout](https://bridgetkromhout.com)! Very cool! Her observations on the people side of working in tech are absolutely spot on! 👏 I think the "unconference" Bridget mentions is [Minnebar](https://minnestar.org/minnebar/)! 🤔
