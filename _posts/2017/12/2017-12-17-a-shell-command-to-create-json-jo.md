@@ -12,4 +12,4 @@ path: /2016/03/05/a-shell-command-to-create-json-jo/
 
 ---
 
-Oh, I just 💙 this! A small shell command that will create a JSON object? What a perfect embodiment of the Unix philosophy of chaining small things together to make powerful things. This is a super handy utility to place at the end of your shell scripts or to create a solid interface between systems or services. Nifty! 👏
+Oh, I just 💙 this! A small shell command that will create a JSON object? What a perfect embodiment of the Unix philosophy of [Do One Thing and Do It Well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well). This is a super handy utility to place at the end of your shell scripts or to create a solid interface between systems or services. Nifty! 👏
