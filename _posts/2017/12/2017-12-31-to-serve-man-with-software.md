@@ -16,4 +16,4 @@ Great post and reflections from Jeff Atwood. His thoughts reflect many of the pe
 
 > Software is easy to change, but people … aren't. So in the new year, as software developers, let's make a resolution to focus on the part we _can_ change, and keep asking ourselves one very important question: **how can our software help people become the best version of themselves?**
 
-File this back into that area of computer ethics that should become part of computer science curriculums.
+File this into that area of computer ethics that should become part of computer science curriculums.
