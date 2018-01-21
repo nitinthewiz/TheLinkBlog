@@ -15,6 +15,7 @@ def make_post(p, timestamp):
 title: "{}"
 slug: {}
 date: {}
+category: {}
 external-url: {}
 hash: {}
 year: {}
@@ -41,6 +42,7 @@ path: {}
         p.description.replace('"', '\\"'),
         slugify(p.description, max_length=70, word_boundary=True),
         timestamp.strftime('%Y-%m-%d %H:%M:%S %z'),
+        ",".join(p.tags),
         p.url,
         p.hash,
         timestamp.strftime('%Y'),
