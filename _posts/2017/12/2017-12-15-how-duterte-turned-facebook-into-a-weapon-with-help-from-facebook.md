@@ -2,6 +2,7 @@
 title: "How Duterte Turned Facebook Into a Weapon—With Help From Facebook - Bloomberg"
 slug: how-duterte-turned-facebook-into-a-weapon-with-help-from-facebook
 date: 2017-12-15 20:52:38 -0600
+category: 
 external-url: https://www.bloomberg.com/news/features/2017-12-07/how-rodrigo-duterte-turned-facebook-into-a-weapon-with-a-little-help-from-facebook
 hash: ed098131ef85b6a07fd199f49dbdfd75
 year: 2017

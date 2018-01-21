@@ -2,6 +2,7 @@
 title: "Lua Records — PowerDNS Recursor 4.1.1-pre documentation"
 slug: lua-records-powerdns-recursor-4-1-1-pre-documentation
 date: 2017-12-14 22:52:10 -0600
+category: 
 external-url: https://powerdns.org/auth-4.1.1-docs/lua-records.html
 hash: 52f527d52fc40f0692a72ebdd736452f
 year: 2017

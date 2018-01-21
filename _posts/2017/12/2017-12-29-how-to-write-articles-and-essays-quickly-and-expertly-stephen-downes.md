@@ -2,6 +2,7 @@
 title: "How to Write Articles and Essays Quickly and Expertly ~ Stephen Downes"
 slug: how-to-write-articles-and-essays-quickly-and-expertly-stephen-downes
 date: 2017-12-29 14:30:53 -0600
+category: 
 external-url: http://www.downes.ca/post/38526
 hash: 9f47b4c6294b16d908e100d496ee1fd8
 year: 2017

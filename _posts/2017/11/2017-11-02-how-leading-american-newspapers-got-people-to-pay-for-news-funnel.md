@@ -2,6 +2,7 @@
 title: "How leading American newspapers got people to pay for news - Funnel vision"
 slug: how-leading-american-newspapers-got-people-to-pay-for-news-funnel
 date: 2017-11-02 23:39:18 -0500
+category: 
 external-url: https://www.economist.com/news/business/21730683-first-three-part-series-future-journalism-how-leading-american-newspapers-got
 hash: e2d4d46f8935d025355572217763130f
 year: 2017

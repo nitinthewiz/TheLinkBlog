@@ -2,6 +2,7 @@
 title: "WebSockets, caution required!"
 slug: websockets-caution-required
 date: 2015-12-30 07:34:06 -0600
+category: 
 external-url: https://samsaffron.com/archive/2015/12/29/websockets-caution-required
 hash: 28779b9bf90e9fc2d7325418d3eca8be
 year: 2015

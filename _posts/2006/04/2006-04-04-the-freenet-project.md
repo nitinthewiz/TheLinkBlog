@@ -2,6 +2,7 @@
 title: "The Freenet Project"
 slug: the-freenet-project
 date: 2006-04-04 13:05:41 -0500
+category: 
 external-url: http://freenetproject.org/
 hash: 0ea1c8ef4e5ccf090d5072550118f95b
 year: 2006

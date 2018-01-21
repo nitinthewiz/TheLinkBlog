@@ -2,6 +2,7 @@
 title: "Siri takes initiative to learn how to pronounce names in iOS 7"
 slug: siri-takes-initiative-to-learn-how-to-pronounce-names-in-ios-7
 date: 2013-06-24 22:56:03 -0500
+category: 
 external-url: http://9to5mac.com/2013/06/23/siri-asks-for-help-pronouncing-names-in-ios-7/
 hash: a97a3c470ab214f420c97edbe3aaba2f
 year: 2013

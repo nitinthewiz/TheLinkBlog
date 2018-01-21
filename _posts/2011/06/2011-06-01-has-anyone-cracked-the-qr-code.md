@@ -2,6 +2,7 @@
 title: "Has anyone cracked the QR code?"
 slug: has-anyone-cracked-the-qr-code
 date: 2011-06-01 10:28:49 -0500
+category: 
 external-url: http://www.themplsegotist.com/news/local/2011/june/1/has-anyone-cracked-qr-code
 hash: 2b3648aeb205d51b59729bf2c19f7683
 year: 2011

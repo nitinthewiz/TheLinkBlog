@@ -2,6 +2,7 @@
 title: "iBank - IGG Software, LLC"
 slug: ibank-igg-software-llc
 date: 2007-07-11 10:50:00 -0500
+category: 
 external-url: http://www.iggsoftware.com/ibank/index.php
 hash: be99d830f53eaa0b19f60f4e2831bbea
 year: 2007

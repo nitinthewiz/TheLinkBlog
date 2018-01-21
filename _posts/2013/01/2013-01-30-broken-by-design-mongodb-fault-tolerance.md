@@ -2,6 +2,7 @@
 title: "Broken by Design: MongoDB Fault Tolerance"
 slug: broken-by-design-mongodb-fault-tolerance
 date: 2013-01-30 09:20:37 -0600
+category: 
 external-url: http://hackingdistributed.com/2013/01/29/mongo-ft/
 hash: 2a798eac791aea277ecd8ba9e8e98233
 year: 2013

@@ -2,6 +2,7 @@
 title: "Toronto - The Incredible Rise of Tech"
 slug: toronto-the-incredible-rise-of-tech
 date: 2017-11-17 20:54:43 -0600
+category: 
 external-url: https://torontolife.com/tech/the-incredible-unstoppable-rise-of-tech/
 hash: eb56e300984862fcda1455c90f1ecce2
 year: 2017

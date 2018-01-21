@@ -2,6 +2,7 @@
 title: "Coffee Joulies"
 slug: coffee-joulies
 date: 2011-04-01 20:21:03 -0500
+category: 
 external-url: https://www.kickstarter.com/projects/705847536/coffee-joulies-your-coffee-just-right
 hash: 5642f6702f9a52a0a0913a5201175f32
 year: 2011

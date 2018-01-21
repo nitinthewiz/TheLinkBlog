@@ -2,6 +2,7 @@
 title: "OSX 10.6 to Bring YouTube Uploading"
 slug: osx-10-6-to-bring-youtube-uploading
 date: 2009-04-28 20:52:19 -0500
+category: 
 external-url: http://macapper.com/2009/04/30/rumor-osx-106-to-bring-youtube-uploading/
 hash: 2158190b85e7f93aa276302e9bdba975
 year: 2009

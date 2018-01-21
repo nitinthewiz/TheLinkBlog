@@ -2,6 +2,7 @@
 title: "The inside story of the iPhone X 'brain,' the A11 Bionic chip"
 slug: the-inside-story-of-the-iphone-x-brain-the-a11-bionic-chip
 date: 2017-09-21 20:58:56 -0500
+category: 
 external-url: http://mashable.com/2017/09/14/inside-apple-a11-bionic-and-silicon-team/#ECSZrnvVkOq8
 hash: 45029615328d1585f190520e1118e01c
 year: 2017

@@ -2,6 +2,7 @@
 title: "CentralStandardTech & MinneLR"
 slug: centralstandardtech-minnelr
 date: 2008-07-30 11:03:06 -0500
+category: 
 external-url: http://minnov8.com/2008/07/30/cst-mlr/
 hash: 53c41c5460372fddb62b3cbcd4cf25c8
 year: 2008

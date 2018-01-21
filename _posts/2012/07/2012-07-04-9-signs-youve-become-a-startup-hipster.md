@@ -2,6 +2,7 @@
 title: "9 Signs youve become a Startup Hipster"
 slug: 9-signs-youve-become-a-startup-hipster
 date: 2012-07-04 14:33:47 -0500
+category: 
 external-url: http://venturevillage.eu/startup-hipster
 hash: 94f6dd6e617e2db1129e7ff30124aa41
 year: 2012

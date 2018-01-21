@@ -2,6 +2,7 @@
 title: "Part-time apps developers getting rich"
 slug: part-time-apps-developers-getting-rich
 date: 2008-07-31 22:44:29 -0500
+category: 
 external-url: http://9to5mac.com/2008/07/31/part-time-apps-developers-getting-rich/
 hash: e500ae2a473398de8d20ade8b5df1f64
 year: 2008

@@ -2,6 +2,7 @@
 title: "the electric sheep screen-saver"
 slug: the-electric-sheep-screen-saver
 date: 2007-03-21 19:47:59 -0500
+category: 
 external-url: http://www.electricsheep.org/
 hash: f0804d9d7cb2190951ce884768058d6f
 year: 2007

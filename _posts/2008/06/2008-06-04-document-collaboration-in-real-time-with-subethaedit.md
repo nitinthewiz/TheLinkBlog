@@ -2,6 +2,7 @@
 title: "Document Collaboration in Real-Time with SubEthaEdit"
 slug: document-collaboration-in-real-time-with-subethaedit
 date: 2008-06-04 22:34:34 -0500
+category: 
 external-url: http://performancing.com/
 hash: 6799d75a037f84e29c9fe5262ef150db
 year: 2008

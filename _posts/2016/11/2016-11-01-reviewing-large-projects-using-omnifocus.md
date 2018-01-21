@@ -2,6 +2,7 @@
 title: "Reviewing Large Projects | Using OmniFocus"
 slug: reviewing-large-projects-using-omnifocus
 date: 2016-11-01 22:14:55 -0500
+category: 
 external-url: http://www.usingomnifocus.com/2016/11/reviewing-large-projects/
 hash: d9c15b52917d3a14c24c6583bdcc47b8
 year: 2016

@@ -2,6 +2,7 @@
 title: "Twitter Traffic Explosion: Whos behind it all?"
 slug: twitter-traffic-explosion-whos-behind-it-all
 date: 2008-05-16 08:22:52 -0500
+category: 
 external-url: https://blog.compete.com/2008/05/15/twitter-traffic-growth-usage-demographics/
 hash: 9bd0c1ca1f557d82d9fa0644b089d2bd
 year: 2008

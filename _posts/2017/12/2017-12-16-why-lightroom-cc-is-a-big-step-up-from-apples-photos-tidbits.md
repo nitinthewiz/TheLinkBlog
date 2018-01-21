@@ -2,6 +2,7 @@
 title: "Why Lightroom CC Is a Big Step Up from Apple’s Photos - TidBITS"
 slug: why-lightroom-cc-is-a-big-step-up-from-apples-photos-tidbits
 date: 2017-12-16 09:43:27 -0600
+category: 
 external-url: http://tidbits.com/article/17666
 hash: 6a0eef8439bc2c741d637d29ce00c23e
 year: 2017

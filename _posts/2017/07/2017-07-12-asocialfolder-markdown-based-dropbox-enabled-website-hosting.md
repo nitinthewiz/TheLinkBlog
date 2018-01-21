@@ -2,6 +2,7 @@
 title: "asocialfolder | Markdown-based, Dropbox-enabled website hosting"
 slug: asocialfolder-markdown-based-dropbox-enabled-website-hosting
 date: 2017-07-12 20:42:20 -0500
+category: 
 external-url: https://asocialfolder.com/
 hash: 3a6df4832a405a35e9f788c2e1f77a74
 year: 2017

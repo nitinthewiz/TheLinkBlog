@@ -2,6 +2,7 @@
 title: "Retraction"
 slug: retraction
 date: 2012-03-18 13:55:43 -0500
+category: 
 external-url: http://www.thisamericanlife.org/radio-archives/episode/460/retraction
 hash: 7bdecb1825cc6f9bbb563b240c826a54
 year: 2012

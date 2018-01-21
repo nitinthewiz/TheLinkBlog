@@ -2,6 +2,7 @@
 title: "Processing.py"
 slug: processing-py
 date: 2014-05-11 13:38:01 -0500
+category: 
 external-url: https://github.com/jdf/processing.py
 hash: ac21af6a102d5962442bd2908bb59cbf
 year: 2014

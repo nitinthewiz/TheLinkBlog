@@ -2,6 +2,7 @@
 title: "PCalc 1.7 (for iPhone)"
 slug: pcalc-1-7-for-iphone
 date: 2009-07-19 22:50:27 -0500
+category: 
 external-url: http://mjtsai.com/blog/2009/07/19/pcalc-17-for-iphone/
 hash: 085457f994241e57cb54bec8e720f949
 year: 2009

@@ -2,6 +2,7 @@
 title: "New largest prime number found"
 slug: new-largest-prime-number-found
 date: 2016-01-25 05:41:07 -0600
+category: 
 external-url: http://phys.org/news/2016-01-largest-prime.html
 hash: b833ed45911f3bdf8bfacd5abc829eed
 year: 2016

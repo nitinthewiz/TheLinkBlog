@@ -2,6 +2,7 @@
 title: "What is privacy worth?"
 slug: what-is-privacy-worth
 date: 2015-05-19 08:35:58 -0500
+category: 
 external-url: http://www.futureofprivacy.org/wp-content/uploads/2010/07/privacy-worth-acquisti-FPF.pdf
 hash: ace8ef1b9dfb952673e03e94614cd10c
 year: 2015

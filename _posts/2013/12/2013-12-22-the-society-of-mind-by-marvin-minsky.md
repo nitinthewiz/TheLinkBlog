@@ -2,6 +2,7 @@
 title: "The Society of Mind by Marvin Minsky"
 slug: the-society-of-mind-by-marvin-minsky
 date: 2013-12-22 14:35:44 -0600
+category: 
 external-url: http://aurellem.org/society-of-mind/
 hash: 9b9ea54b1bd127f716e34903aa6652c7
 year: 2013

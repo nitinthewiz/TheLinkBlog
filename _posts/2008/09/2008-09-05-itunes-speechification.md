@@ -2,6 +2,7 @@
 title: "ITunes Speechification"
 slug: itunes-speechification
 date: 2008-09-05 14:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/09/05/itunes-speechification/
 hash: fd519a6fc2e5d3fcfc4dc70739bd4dbb
 year: 2008

@@ -2,6 +2,7 @@
 title: "Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin"
 slug: ruby-midwest-2011-keynote-architecture-the-lost-years-by-robert-martin
 date: 2013-07-20 07:19:43 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=WpkDN78P884
 hash: 6bbeeded5fcb301fb8664135bf810c91
 year: 2013

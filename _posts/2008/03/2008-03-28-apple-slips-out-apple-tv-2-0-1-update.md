@@ -2,6 +2,7 @@
 title: "Apple slips out Apple TV 2.0.1 update"
 slug: apple-slips-out-apple-tv-2-0-1-update
 date: 2008-03-28 21:15:00 -0500
+category: 
 external-url: http://appleinsider.com/articles/08/03/28/apple_slips_out_apple_tv_2_0_1_update
 hash: 182b997b77cce24adc63c4942d154a3b
 year: 2008

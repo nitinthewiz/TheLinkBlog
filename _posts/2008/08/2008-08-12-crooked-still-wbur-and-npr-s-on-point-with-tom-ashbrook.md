@@ -2,6 +2,7 @@
 title: "Crooked Still WBUR and NPR's On Point with Tom Ashbrook"
 slug: crooked-still-wbur-and-npr-s-on-point-with-tom-ashbrook
 date: 2008-08-12 22:09:39 -0500
+category: 
 external-url: http://onpoint.wbur.org/2008/08/12/crooked-still
 hash: 7f5123612ce85a9ee161990d6a7b3837
 year: 2008

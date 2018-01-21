@@ -2,6 +2,7 @@
 title: "Is Twitter making us stupider?"
 slug: is-twitter-making-us-stupider
 date: 2009-05-01 00:07:08 -0500
+category: 
 external-url: http://www.roughtype.com/?p=1262
 hash: 6b157dc78aed574b696662b7f472b305
 year: 2009

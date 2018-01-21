@@ -2,6 +2,7 @@
 title: "On Being - Atul Gawande - What Matters in the End"
 slug: on-being-atul-gawande-what-matters-in-the-end
 date: 2017-11-14 23:37:33 -0600
+category: 
 external-url: https://onbeing.org/programs/atul-gawande-what-matters-in-the-end-oct2017/
 hash: 9790dde0a106f4108b9b1e72a89a55b6
 year: 2017

@@ -2,6 +2,7 @@
 title: "Tracking compensation and promotion inequity | Lara Hogan"
 slug: tracking-compensation-and-promotion-inequity-lara-hogan
 date: 2017-09-24 23:29:21 -0500
+category: 
 external-url: http://larahogan.me/blog/inclusion-math/
 hash: 65a01c35ba8922058b89af5798bae895
 year: 2017

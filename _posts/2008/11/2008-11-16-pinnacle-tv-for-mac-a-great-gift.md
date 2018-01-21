@@ -2,6 +2,7 @@
 title: "Pinnacle TV for Mac: A Great Gift"
 slug: pinnacle-tv-for-mac-a-great-gift
 date: 2008-11-16 16:54:17 -0600
+category: 
 external-url: http://iconnectdots.com/2008/11/pinnacle-tv-for-mac-a-great-gift.html
 hash: d5facd3db10e4b7acaa2b60410b53b6f
 year: 2008

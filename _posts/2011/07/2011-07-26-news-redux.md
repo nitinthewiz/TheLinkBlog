@@ -2,6 +2,7 @@
 title: "News Redux"
 slug: news-redux
 date: 2011-07-26 14:22:20 -0500
+category: 
 external-url: http://andyrutledge.com/news-redux.php
 hash: e15f1868f7a2af63f32a6762248e8243
 year: 2011

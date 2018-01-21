@@ -2,6 +2,7 @@
 title: "Inside the Trump Bunker, With 12 Days to Go - Bloomberg"
 slug: inside-the-trump-bunker-with-12-days-to-go-bloomberg
 date: 2016-10-28 13:54:19 -0500
+category: 
 external-url: http://www.bloomberg.com/news/articles/2016-10-27/inside-the-trump-bunker-with-12-days-to-go
 hash: d36fc11484ebc2a060a67455c1e5c8ff
 year: 2016

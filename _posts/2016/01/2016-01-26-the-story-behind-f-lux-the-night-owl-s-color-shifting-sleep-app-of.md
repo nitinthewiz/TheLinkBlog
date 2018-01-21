@@ -2,6 +2,7 @@
 title: "The Story Behind f.lux, the Night Owl's Color-Shifting Sleep App of Choice"
 slug: the-story-behind-f-lux-the-night-owl-s-color-shifting-sleep-app-of
 date: 2016-01-26 04:28:01 -0600
+category: 
 external-url: http://motherboard.vice.com/en_ca/read/the-story-behind-flux-the-night-owls-color-shifting-sleep-app-of-choice
 hash: 0122c17e4b6ce0e7414dcf2d1cfc4037
 year: 2016

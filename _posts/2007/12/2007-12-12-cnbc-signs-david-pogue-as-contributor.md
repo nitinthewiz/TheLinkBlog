@@ -2,6 +2,7 @@
 title: "CNBC Signs David Pogue As Contributor"
 slug: cnbc-signs-david-pogue-as-contributor
 date: 2007-12-12 10:39:36 -0600
+category: 
 external-url: http://www.businessinsider.com/2007/12/cnbc-signs-david-pogue-as-contributor
 hash: 49279a381596fc4e10962099cdba2267
 year: 2007

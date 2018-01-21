@@ -2,6 +2,7 @@
 title: "Selling You on Facebook"
 slug: selling-you-on-facebook
 date: 2012-04-09 17:56:03 -0500
+category: 
 external-url: http://online.wsj.com/news/articles/SB10001424052702303302504577327744009046230
 hash: e5abbc3f42da4c94b7d98dacb6dc75a6
 year: 2012

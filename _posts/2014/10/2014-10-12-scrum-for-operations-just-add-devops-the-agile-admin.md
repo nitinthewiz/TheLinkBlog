@@ -2,6 +2,7 @@
 title: "Scrum for Operations: Just Add DevOps | the agile admin"
 slug: scrum-for-operations-just-add-devops-the-agile-admin
 date: 2014-10-12 10:25:34 -0500
+category: 
 external-url: http://theagileadmin.com/2014/09/30/scrum-for-operations-just-add-devops/
 hash: 6ee375d92e9a45fa1d97eeddf753e1ce
 year: 2014

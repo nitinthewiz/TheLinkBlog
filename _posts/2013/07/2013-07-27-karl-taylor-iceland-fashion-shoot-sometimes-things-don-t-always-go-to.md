@@ -2,6 +2,7 @@
 title: "Karl Taylor Iceland Fashion Shoot. Sometimes things don't always go to plan! - YouTube"
 slug: karl-taylor-iceland-fashion-shoot-sometimes-things-don-t-always-go-to
 date: 2013-07-27 08:19:33 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=0VSQyKZYEDY
 hash: 0d98c63e46f4387c3478456437fcf5d1
 year: 2013

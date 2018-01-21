@@ -2,6 +2,7 @@
 title: "It Was Another Great 'Minnedemo' on Thursday Night"
 slug: it-was-another-great-minnedemo-on-thursday-night
 date: 2007-12-09 10:00:01 -0600
+category: 
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2007/12/another-great-m.html
 hash: 88db418fc48d736c29928ed6869d8ad8
 year: 2007

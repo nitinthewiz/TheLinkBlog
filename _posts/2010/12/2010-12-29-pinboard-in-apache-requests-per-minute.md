@@ -2,6 +2,7 @@
 title: "Pinboard.in Apache Requests Per Minute"
 slug: pinboard-in-apache-requests-per-minute
 date: 2010-12-29 21:42:21 -0600
+category: 
 external-url: http://idlewords.com/images/pinboard_spike.png
 hash: bfb498abafca90b4c694848451046c73
 year: 2010

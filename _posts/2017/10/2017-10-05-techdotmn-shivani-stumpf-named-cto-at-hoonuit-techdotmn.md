@@ -2,6 +2,7 @@
 title: "TECHdotMN Shivani Stumpf Named CTO At Hoonuit - TECHdotMN"
 slug: techdotmn-shivani-stumpf-named-cto-at-hoonuit-techdotmn
 date: 2017-10-05 22:18:36 -0500
+category: 
 external-url: https://tech.mn/news/2017/10/05/shivani-stumpf-named-cto-at-hoonuit/
 hash: 306b18dcd6e1185ff39238279cd57fd0
 year: 2017

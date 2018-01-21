@@ -2,6 +2,7 @@
 title: "Google Compute Engine Incident #16007"
 slug: google-compute-engine-incident-16007
 date: 2016-04-13 21:38:35 -0500
+category: 
 external-url: https://status.cloud.google.com/incident/compute/16007?post-mortem
 hash: 75199c42caf4c6043539c571bbebd44a
 year: 2016

@@ -2,6 +2,7 @@
 title: "Architosh: News > Will AppleTV Pay Off in Era of New Net Media: Prominent VC says AppleTV Experience Amazing"
 slug: architosh-news-will-appletv-pay-off-in-era-of-new-net-media-prominent
 date: 2007-09-27 12:52:00 -0500
+category: 
 external-url: http://www.architosh.com/news/2007-09/2007a0927_appletv-onpt.html
 hash: 8e7dcb6c513b7e4bf28892623eccd3a8
 year: 2007

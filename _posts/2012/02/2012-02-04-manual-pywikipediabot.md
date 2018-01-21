@@ -2,6 +2,7 @@
 title: "Manual:Pywikipediabot"
 slug: manual-pywikipediabot
 date: 2012-02-04 06:09:49 -0600
+category: 
 external-url: http://www.mediawiki.org/wiki/Manual:Pywikibot
 hash: 28e5748de533733b4312e3ca872877c7
 year: 2012

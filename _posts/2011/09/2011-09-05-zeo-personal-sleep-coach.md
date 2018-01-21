@@ -2,6 +2,7 @@
 title: "Zeo Personal Sleep Coach"
 slug: zeo-personal-sleep-coach
 date: 2011-09-05 20:11:05 -0500
+category: 
 external-url: http://kk.org/cooltools/archives/5851
 hash: ca77075dba517d39dbbeec18cd60cf1a
 year: 2011

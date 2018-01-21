@@ -2,6 +2,7 @@
 title: "Delete My Bleeping Account, Facebook"
 slug: delete-my-bleeping-account-facebook
 date: 2007-12-25 17:05:21 -0600
+category: 
 external-url: http://www.dailykos.com/story/2007/12/25/426218/-Delete-My-Bleeping-Account-Facebook
 hash: 52ac1e0817f7bf80eaab8b4970a5a8f8
 year: 2007

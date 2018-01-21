@@ -2,6 +2,7 @@
 title: "Social Privacy in Networked Publics"
 slug: social-privacy-in-networked-publics
 date: 2011-05-10 06:31:40 -0500
+category: 
 external-url: http://www.danah.org/papers/2011/SocialPrivacyPLSC-Draft.pdf
 hash: 217a829b8eb111a49e25fef1dc6ab65c
 year: 2011

@@ -2,6 +2,7 @@
 title: "Should your Engineering Lead be fired? – It’s Your Turn"
 slug: should-your-engineering-lead-be-fired-its-your-turn
 date: 2017-06-17 21:38:26 -0500
+category: 
 external-url: https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3
 hash: 4ac686b4bf8e691294b480d2d1a97f29
 year: 2017

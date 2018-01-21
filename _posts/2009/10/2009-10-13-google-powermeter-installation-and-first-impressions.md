@@ -2,6 +2,7 @@
 title: "Google PowerMeter Installation and First Impressions"
 slug: google-powermeter-installation-and-first-impressions
 date: 2009-10-13 17:43:04 -0500
+category: 
 external-url: http://www.thedeets.com/2009/10/13/google-powermeter-installation-and-first-impressions/
 hash: 57aa7680d3b70fbf3498a723af6b48d3
 year: 2009

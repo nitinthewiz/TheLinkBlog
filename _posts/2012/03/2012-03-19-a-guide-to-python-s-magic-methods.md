@@ -2,6 +2,7 @@
 title: "A Guide to Python's Magic Methods"
 slug: a-guide-to-python-s-magic-methods
 date: 2012-03-19 13:06:50 -0500
+category: 
 external-url: http://www.rafekettler.com/magicmethods.html
 hash: 52d075f8541edfe46af04b3ffd69322a
 year: 2012

@@ -2,6 +2,7 @@
 title: "Biggest Loser Minnesota Challenge"
 slug: biggest-loser-minnesota-challenge
 date: 2011-01-22 06:32:44 -0600
+category: 
 external-url: https://www.competeforhealth.org/consumer/signup
 hash: 696723e021819a94ed537b1fa90a2540
 year: 2011

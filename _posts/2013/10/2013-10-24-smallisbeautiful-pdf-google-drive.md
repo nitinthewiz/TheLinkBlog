@@ -2,6 +2,7 @@
 title: "smallisbeautiful.pdf - Google Drive"
 slug: smallisbeautiful-pdf-google-drive
 date: 2013-10-24 07:58:43 -0500
+category: 
 external-url: https://docs.google.com/file/d/0B_31K_MP92hUdERCV2tqMWhMTUk/edit?usp=sharing
 hash: 7d2eabe1f6402f045b0f352f271e4225
 year: 2013

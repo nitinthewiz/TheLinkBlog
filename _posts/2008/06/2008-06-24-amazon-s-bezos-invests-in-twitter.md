@@ -2,6 +2,7 @@
 title: "Amazon's Bezos Invests in Twitter"
 slug: amazon-s-bezos-invests-in-twitter
 date: 2008-06-24 16:14:42 -0500
+category: 
 external-url: http://readwrite.com/2008/06/24/amazons_bezos_invests_in_twitt
 hash: 518b9ba686ab79b450cfeafd37b62d0e
 year: 2008

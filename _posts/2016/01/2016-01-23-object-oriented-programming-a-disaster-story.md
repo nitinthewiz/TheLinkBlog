@@ -2,6 +2,7 @@
 title: "Object-Oriented Programming: A Disaster Story"
 slug: object-oriented-programming-a-disaster-story
 date: 2016-01-23 17:00:34 -0600
+category: 
 external-url: https://medium.com/@brianwill/object-oriented-programming-a-personal-disaster-1b044c2383ab#.symutl4t5
 hash: 60f62c8db810455ce1500a108294fde1
 year: 2016

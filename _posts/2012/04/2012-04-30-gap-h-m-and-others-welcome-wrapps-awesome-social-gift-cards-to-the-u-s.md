@@ -2,6 +2,7 @@
 title: "Gap, H&M, and others welcome Wrapps awesome social gift cards to the U.S."
 slug: gap-h-m-and-others-welcome-wrapps-awesome-social-gift-cards-to-the-u-s
 date: 2012-04-30 11:31:36 -0500
+category: 
 external-url: http://venturebeat.com/2012/04/29/wrapp-us-launch/
 hash: 9932d87a11db80bbf827270bfc0c0215
 year: 2012

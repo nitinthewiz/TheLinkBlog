@@ -2,6 +2,7 @@
 title: "Indeed Burr Grinder Coffee Ale Release"
 slug: indeed-burr-grinder-coffee-ale-release
 date: 2013-03-02 20:34:23 -0600
+category: 
 external-url: http://mnbeer.com/2013/02/28/indeed-burr-grider-coffee-ale-release/
 hash: 0716998e789e721a4b5ce5b2de9c49d5
 year: 2013

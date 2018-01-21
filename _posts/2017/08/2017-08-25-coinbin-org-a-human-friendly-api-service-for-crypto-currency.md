@@ -2,6 +2,7 @@
 title: "Coinbin.org: A Human–Friendly API Service for Crypto Currency Information"
 slug: coinbin-org-a-human-friendly-api-service-for-crypto-currency
 date: 2017-08-25 20:07:46 -0500
+category: 
 external-url: https://coinbin.org/
 hash: 49a8d17d6e06cd4837f25f9ce8a4d0fe
 year: 2017

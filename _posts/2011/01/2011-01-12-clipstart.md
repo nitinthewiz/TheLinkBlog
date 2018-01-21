@@ -2,6 +2,7 @@
 title: "Clipstart"
 slug: clipstart
 date: 2011-01-12 22:30:11 -0600
+category: 
 external-url: http://riverfold.com/software/clipstart/
 hash: ddc3bab142620517b3bff86302620519
 year: 2011

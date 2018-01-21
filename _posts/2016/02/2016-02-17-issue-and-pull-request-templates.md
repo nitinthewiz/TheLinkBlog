@@ -2,6 +2,7 @@
 title: "Issue and Pull Request templates"
 slug: issue-and-pull-request-templates
 date: 2016-02-17 22:38:24 -0600
+category: 
 external-url: https://github.com/blog/2111-issue-and-pull-request-templates
 hash: b3902afe169fb70b2fc89af8f2663d5d
 year: 2016

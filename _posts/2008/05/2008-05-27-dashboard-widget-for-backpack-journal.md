@@ -2,6 +2,7 @@
 title: "Dashboard widget for Backpack Journal"
 slug: dashboard-widget-for-backpack-journal
 date: 2008-05-27 10:16:07 -0500
+category: 
 external-url: http://37signals.blogs.com/products/2008/05/dashboard-widge.html
 hash: d5a2514c1702e3608289b4adb42dc904
 year: 2008

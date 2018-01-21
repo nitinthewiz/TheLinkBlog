@@ -2,6 +2,7 @@
 title: "Automattic acquires spellchecking company After the Deadline"
 slug: automattic-acquires-spellchecking-company-after-the-deadline
 date: 2009-09-08 23:08:25 -0500
+category: 
 external-url: http://venturebeat.com/2009/09/08/automattic-acquires-spellchecking-company-after-the-deadline/
 hash: 70887c1ba99319ab69ea6be3a30daa18
 year: 2009

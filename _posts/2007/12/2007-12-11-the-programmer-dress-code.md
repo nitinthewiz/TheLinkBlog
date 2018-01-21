@@ -2,6 +2,7 @@
 title: "The Programmer Dress Code"
 slug: the-programmer-dress-code
 date: 2007-12-11 02:01:55 -0600
+category: 
 external-url: http://www.codethinked.com/the-programmer-dress-code
 hash: 404c9c43e329dfd37de9d52f146d65bc
 year: 2007

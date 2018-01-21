@@ -2,6 +2,7 @@
 title: "My Ultimate Developer and Power Users Tool List for Mac OS X (2012 Edition)"
 slug: my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2012
 date: 2012-10-17 14:34:09 -0500
+category: 
 external-url: http://carpeaqua.com/2012/10/15/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2012-edition-/
 hash: 6cb5e8b3a3f45e0f780bd3d4a3f1a566
 year: 2012

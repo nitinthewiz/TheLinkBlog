@@ -2,6 +2,7 @@
 title: "A Swarm of Nano Quadrotors"
 slug: a-swarm-of-nano-quadrotors
 date: 2012-09-26 18:14:59 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=YQIMGV5vtd4
 hash: c8bd797de816e4cab963229fccdfd8d1
 year: 2012

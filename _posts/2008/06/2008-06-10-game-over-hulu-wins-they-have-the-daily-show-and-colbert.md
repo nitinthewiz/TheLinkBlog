@@ -2,6 +2,7 @@
 title: "Game Over. Hulu Wins. They Have The Daily Show. And Colbert."
 slug: game-over-hulu-wins-they-have-the-daily-show-and-colbert
 date: 2008-06-10 01:36:14 -0500
+category: 
 external-url: http://techcrunch.com/2008/06/09/game-over-hulu-wins-they-have-the-daily-show-and-colbert/
 hash: 670ffa6b6c958022402395e82ca28ed9
 year: 2008

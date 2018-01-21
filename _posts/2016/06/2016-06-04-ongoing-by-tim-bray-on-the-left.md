@@ -2,6 +2,7 @@
 title: "ongoing by Tim Bray · On the Left"
 slug: ongoing-by-tim-bray-on-the-left
 date: 2016-06-04 22:16:18 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2016/06/04/On-the-Left
 hash: 733e377210d960bf7a8ace27144324f7
 year: 2016

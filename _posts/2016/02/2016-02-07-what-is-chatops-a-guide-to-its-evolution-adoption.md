@@ -2,6 +2,7 @@
 title: "What is ChatOps? A guide to its evolution, adoption"
 slug: what-is-chatops-a-guide-to-its-evolution-adoption
 date: 2016-02-07 06:51:53 -0600
+category: 
 external-url: https://blog.hipchat.com/2016/02/05/chatops-guide-evolution-adoption-significance/
 hash: cceacdae152987ab6f1a3ad471a80d96
 year: 2016

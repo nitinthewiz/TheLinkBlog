@@ -2,6 +2,7 @@
 title: "Cinematize 3 Pro Overview"
 slug: cinematize-3-pro-overview
 date: 2007-07-04 01:04:57 -0500
+category: 
 external-url: http://www.miraizon.com/products/cine3prooverview.html
 hash: 3181aa59b4a02e2b4a72e0e1e3577b01
 year: 2007

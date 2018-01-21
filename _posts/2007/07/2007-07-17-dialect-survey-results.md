@@ -2,6 +2,7 @@
 title: "Dialect Survey Results"
 slug: dialect-survey-results
 date: 2007-07-17 13:26:02 -0500
+category: 
 external-url: http://www4.uwm.edu/FLL/linguistics/dialect/maps.html
 hash: 34d622af0a300becfb0312825633c55f
 year: 2007

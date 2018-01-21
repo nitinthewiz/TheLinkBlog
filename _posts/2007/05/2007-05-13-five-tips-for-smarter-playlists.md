@@ -2,6 +2,7 @@
 title: "Five Tips for Smarter Playlists"
 slug: five-tips-for-smarter-playlists
 date: 2007-05-13 01:43:03 -0500
+category: 
 external-url: http://www.davidgagne.net/2006/11/14/five-tips-for-smarter-playlists/
 hash: c8d9449de6cc5c90d52a6a1da1f7286c
 year: 2007

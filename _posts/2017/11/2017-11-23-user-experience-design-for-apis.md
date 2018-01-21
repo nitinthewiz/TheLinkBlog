@@ -2,6 +2,7 @@
 title: "User experience design for APIs"
 slug: user-experience-design-for-apis
 date: 2017-11-23 09:04:39 -0600
+category: 
 external-url: https://blog.keras.io/user-experience-design-for-apis.html
 hash: 3b6a27ba2a8e5c27efdcef0d99f5b173
 year: 2017

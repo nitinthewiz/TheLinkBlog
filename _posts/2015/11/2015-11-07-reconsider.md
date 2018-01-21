@@ -2,6 +2,7 @@
 title: "Reconsider"
 slug: reconsider
 date: 2015-11-07 04:42:41 -0600
+category: 
 external-url: https://signalvnoise.com/posts/3972-reconsider
 hash: 80bff6c5deafe4bac5a3a65b996445c1
 year: 2015

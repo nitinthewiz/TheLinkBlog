@@ -2,6 +2,7 @@
 title: "Apple no longer pursuing ZFS as the next generation file system for OS X"
 slug: apple-no-longer-pursuing-zfs-as-the-next-generation-file-system-for-os
 date: 2009-10-23 19:48:50 -0500
+category: 
 external-url: http://9to5mac.com/2009/10/23/apple-no-longer-pursuing-zfs-as-the-next-generation-file-system-for-os-x/
 hash: 89a543cee994dd9fbe1c617d195e4c94
 year: 2009

@@ -2,6 +2,7 @@
 title: "Daring Fireball: Facebook 'Messenger Kids'"
 slug: daring-fireball-facebook-messenger-kids
 date: 2017-12-05 21:02:10 -0600
+category: 
 external-url: https://daringfireball.net/linked/2017/12/04/facebook-messenger-kids
 hash: a782518359a127bfbdef6005cf310970
 year: 2017

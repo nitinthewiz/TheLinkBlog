@@ -2,6 +2,7 @@
 title: "In SOPA, PIPA protest, Wikipedia to black out"
 slug: in-sopa-pipa-protest-wikipedia-to-black-out
 date: 2012-01-16 15:47:46 -0600
+category: 
 external-url: http://www.politico.com/news/stories/0112/71500.html
 hash: f0de87c76236365ab29cc4fcb58d6db3
 year: 2012

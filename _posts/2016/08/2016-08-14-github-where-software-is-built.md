@@ -2,6 +2,7 @@
 title: "GitHub · Where software is built"
 slug: github-where-software-is-built
 date: 2016-08-14 06:49:52 -0500
+category: 
 external-url: https://github.com/arielf/weight-loss/blob/master/README.md
 hash: cec55a5f1f8aaf3f6c9325e0b6156d6e
 year: 2016

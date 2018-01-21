@@ -2,6 +2,7 @@
 title: "IKEA effect - Wikipedia"
 slug: ikea-effect-wikipedia
 date: 2017-12-31 09:04:19 -0600
+category: 
 external-url: https://en.wikipedia.org/wiki/IKEA_effect
 hash: 93777657797f4e2ea3db9f969542cc6d
 year: 2017

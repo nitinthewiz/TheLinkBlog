@@ -2,6 +2,7 @@
 title: "Google Replaces SearchWiki with Stars for Customized Search [Search]"
 slug: google-replaces-searchwiki-with-stars-for-customized-search-search
 date: 2010-03-04 20:14:34 -0600
+category: 
 external-url: http://lifehacker.com/5485540/google-replaces-searchwiki-with-stars-for-customized-search
 hash: cab068276012a795d6ad9ce286980ef4
 year: 2010

@@ -2,6 +2,7 @@
 title: "National Pie Day"
 slug: national-pie-day
 date: 2010-01-23 16:58:54 -0600
+category: 
 external-url: http://www.piecouncil.org/Events/NationalPieDay/
 hash: 377a8a43f97353c5dac50e35d970e534
 year: 2010

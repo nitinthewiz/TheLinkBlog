@@ -2,6 +2,7 @@
 title: "JStat: a JavaScript statistical library"
 slug: jstat-a-javascript-statistical-library
 date: 2012-11-28 09:35:33 -0600
+category: 
 external-url: https://github.com/jstat/jstat
 hash: 61570b4c4476ff9cb67887340f9a0171
 year: 2012

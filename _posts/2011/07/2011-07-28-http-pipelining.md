@@ -2,6 +2,7 @@
 title: "HTTP Pipelining"
 slug: http-pipelining
 date: 2011-07-28 04:20:50 -0500
+category: 
 external-url: http://www.guypo.com/mobile/http-pipelining-big-in-mobile/
 hash: 30d7dbbcd6be4e03a6d0a3ac232d663b
 year: 2011

@@ -2,6 +2,7 @@
 title: "Pandora 2.0 for iPhone"
 slug: pandora-2-0-for-iphone
 date: 2009-01-07 15:30:00 -0600
+category: 
 external-url: http://www.tuaw.com/2009/01/07/pandora-2-0-for-iphone/
 hash: d664195fd056f2c177b1d5fb7f3dc341
 year: 2009

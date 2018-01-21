@@ -2,6 +2,7 @@
 title: "Amazon Redshift - What You Need To Know"
 slug: amazon-redshift-what-you-need-to-know
 date: 2013-10-04 16:21:27 -0500
+category: 
 external-url: http://dailytechnology.net/2013/08/03/redshift-what-you-need-to-know/
 hash: d123b0ba1e3f95c36910ebbe301586b6
 year: 2013

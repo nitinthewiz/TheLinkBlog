@@ -2,6 +2,7 @@
 title: "Top 9 Things I Want In a Blog Engine"
 slug: top-9-things-i-want-in-a-blog-engine
 date: 2010-09-30 23:56:11 -0500
+category: 
 external-url: https://garrickvanburen.com/archive/top-9-things-i-want-in-a-blog-engine/
 hash: fd72f90e2e44ac1426d4d8a68e66a11e
 year: 2010

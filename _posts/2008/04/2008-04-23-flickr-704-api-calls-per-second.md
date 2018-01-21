@@ -2,6 +2,7 @@
 title: "Flickr: 704 API Calls per Second"
 slug: flickr-704-api-calls-per-second
 date: 2008-04-23 01:10:41 -0500
+category: 
 external-url: http://www.programmableweb.com/2008/04/23/flickr-704-api-calls-per-second
 hash: b57bffd234414ff9cdc5f3211c0cb3dc
 year: 2008

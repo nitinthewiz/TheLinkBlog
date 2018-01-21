@@ -2,6 +2,7 @@
 title: "theStatus.com"
 slug: thestatus-com
 date: 2011-02-01 13:57:05 -0600
+category: 
 external-url: https://www.thestatus.com/
 hash: a7c6a875076ea8c10e5ca8e29157705e
 year: 2011

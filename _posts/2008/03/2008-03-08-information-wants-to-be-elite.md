@@ -2,6 +2,7 @@
 title: "Information Wants to be Elite"
 slug: information-wants-to-be-elite
 date: 2008-03-08 13:27:03 -0600
+category: 
 external-url: http://www.grouplens.org/node/207
 hash: 5e6c8ffdec39808bacf274846a6c01c2
 year: 2008

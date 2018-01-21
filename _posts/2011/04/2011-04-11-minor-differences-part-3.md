@@ -2,6 +2,7 @@
 title: "Minor Differences Part 3"
 slug: minor-differences-part-3
 date: 2011-04-11 04:56:07 -0500
+category: 
 external-url: http://theoatmeal.com/comics/minor_differences3
 hash: 520806c0e843e616c17f3d2040e506f0
 year: 2011

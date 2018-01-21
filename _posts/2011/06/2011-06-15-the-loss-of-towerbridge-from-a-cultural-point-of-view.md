@@ -2,6 +2,7 @@
 title: "The loss of @towerbridge from a cultural point of view"
 slug: the-loss-of-towerbridge-from-a-cultural-point-of-view
 date: 2011-06-15 05:53:24 -0500
+category: 
 external-url: http://stef.io/2011/06/13/the-loss-of-towerbridge-from-a-cultural-point-of-view/
 hash: deec888d0eab9f44fd314a3225660876
 year: 2011

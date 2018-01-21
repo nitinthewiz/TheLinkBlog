@@ -2,6 +2,7 @@
 title: "Turing test with \"babygurl01475\""
 slug: turing-test-with-babygurl01475
 date: 2011-05-22 13:07:08 -0500
+category: 
 external-url: http://www.collisiondetection.net/mt/archives/2011/05/lets_get_this_p.php
 hash: 75c3dc5551506108c3d4d7f69a5cb60a
 year: 2011

@@ -2,6 +2,7 @@
 title: "Maker vs. Manager: How Your Schedule Can Make or Break You"
 slug: maker-vs-manager-how-your-schedule-can-make-or-break-you
 date: 2017-12-15 07:06:14 -0600
+category: 
 external-url: https://www.farnamstreetblog.com/2017/12/maker-vs-manager/
 hash: 6608ffee485c7f5d33c258c54a92663c
 year: 2017

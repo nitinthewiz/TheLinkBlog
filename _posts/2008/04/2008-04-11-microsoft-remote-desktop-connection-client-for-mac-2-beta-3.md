@@ -2,6 +2,7 @@
 title: "Microsoft Remote Desktop Connection Client for Mac 2 (Beta 3)"
 slug: microsoft-remote-desktop-connection-client-for-mac-2-beta-3
 date: 2008-04-11 01:47:00 -0500
+category: 
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=43414
 hash: d0f015426badd5f9be9dd8b18fc8c149
 year: 2008

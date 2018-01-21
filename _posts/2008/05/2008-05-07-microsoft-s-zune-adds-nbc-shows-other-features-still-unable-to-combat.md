@@ -2,6 +2,7 @@
 title: "Microsoft's Zune Adds NBC Shows, Other Features; Still Unable To Combat"
 slug: microsoft-s-zune-adds-nbc-shows-other-features-still-unable-to-combat
 date: 2008-05-07 08:59:08 -0500
+category: 
 external-url: http://www.businessinsider.com/2008/5/microsoft-s-zune-gets-video-store-more-social-features
 hash: 088ca1ef06b03dc66d0a247ecd3121a5
 year: 2008

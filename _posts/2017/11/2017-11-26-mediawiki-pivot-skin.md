@@ -2,6 +2,7 @@
 title: "MediaWiki Pivot Skin"
 slug: mediawiki-pivot-skin
 date: 2017-11-26 16:14:42 -0600
+category: 
 external-url: https://pivot.wikiproject.net/wiki/Main_Page
 hash: 794f96ff311f4491e09dcf288c012dcb
 year: 2017

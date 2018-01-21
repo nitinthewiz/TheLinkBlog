@@ -2,6 +2,7 @@
 title: "Minneapolis-St. Paul International Airport Plane Spotting"
 slug: minneapolis-st-paul-international-airport-plane-spotting
 date: 2012-05-06 16:40:28 -0500
+category: 
 external-url: http://www.spotterswiki.com/index.php?title=Minneapolis-St._Paul_International_Airport
 hash: 481535f57699cf03115a2ad273d1f9ab
 year: 2012

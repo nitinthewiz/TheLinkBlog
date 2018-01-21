@@ -2,6 +2,7 @@
 title: "Extension:Pchart4mw - MediaWiki"
 slug: extension-pchart4mw-mediawiki
 date: 2011-07-08 13:35:44 -0500
+category: 
 external-url: http://www.mediawiki.org/wiki/Extension:Pchart4mw
 hash: 574513f4ee217d555a8f50f4bbcc7faa
 year: 2011

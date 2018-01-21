@@ -2,6 +2,7 @@
 title: "Prepayment bonus is back!"
 slug: prepayment-bonus-is-back
 date: 2009-02-24 22:07:17 -0600
+category: 
 external-url: http://www.slicehost.com/articles/2009/2/24/prepayment-bonus-is-back
 hash: 7c399f43bb4c0eab5d57958e8f59e6b2
 year: 2009

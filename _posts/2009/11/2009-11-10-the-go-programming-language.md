@@ -2,6 +2,7 @@
 title: "The Go Programming Language"
 slug: the-go-programming-language
 date: 2009-11-10 20:42:52 -0600
+category: 
 external-url: http://golang.org/
 hash: ac48772220bc32723807032f9a262b68
 year: 2009

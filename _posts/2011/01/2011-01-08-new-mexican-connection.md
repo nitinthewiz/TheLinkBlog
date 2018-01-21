@@ -2,6 +2,7 @@
 title: "New Mexican Connection"
 slug: new-mexican-connection
 date: 2011-01-08 09:48:22 -0600
+category: 
 external-url: http://www.newmexicanconnection.com/
 hash: 1de62ac8cb20c41f2e5183c69e62b1fa
 year: 2011

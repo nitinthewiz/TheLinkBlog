@@ -2,6 +2,7 @@
 title: "AeroPress"
 slug: aeropress
 date: 2011-06-25 18:16:06 -0500
+category: 
 external-url: http://shawnblanc.net/2011/06/aeropress/
 hash: 173be115a66b8b0c842f42958c45e7f1
 year: 2011

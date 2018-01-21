@@ -2,6 +2,7 @@
 title: "AWS Lambda Launches Slack Integration Blueprints"
 slug: aws-lambda-launches-slack-integration-blueprints
 date: 2015-12-16 19:33:13 -0600
+category: 
 external-url: https://aws.amazon.com/about-aws/whats-new/2015/12/aws-lambda-launches-slack-integration-blueprints/
 hash: 6bc50be82920317e297d492a664607bd
 year: 2015

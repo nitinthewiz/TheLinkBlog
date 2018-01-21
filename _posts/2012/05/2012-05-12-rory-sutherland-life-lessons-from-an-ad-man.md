@@ -2,6 +2,7 @@
 title: "Rory Sutherland: Life lessons from an ad man"
 slug: rory-sutherland-life-lessons-from-an-ad-man
 date: 2012-05-12 15:46:18 -0500
+category: 
 external-url: http://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man
 hash: 57aec25d010f77554fed71a4776f57f5
 year: 2012

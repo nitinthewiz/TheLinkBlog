@@ -2,6 +2,7 @@
 title: "The Existential Terror of Battle Royale —Coding Horror"
 slug: the-existential-terror-of-battle-royale-coding-horror
 date: 2017-11-05 04:49:24 -0600
+category: 
 external-url: https://blog.codinghorror.com/the-existential-terror-of-battle-royale/
 hash: 91532556bee3331116b3a1d0ae90a64a
 year: 2017

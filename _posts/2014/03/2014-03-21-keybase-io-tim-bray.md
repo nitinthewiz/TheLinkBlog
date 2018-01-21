@@ -2,6 +2,7 @@
 title: "Keybase.io - Tim Bray"
 slug: keybase-io-tim-bray
 date: 2014-03-21 07:51:06 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase
 hash: 435d361751a3d6861721504a8d1d604a
 year: 2014

@@ -2,6 +2,7 @@
 title: "The unexpected athlete"
 slug: the-unexpected-athlete
 date: 2011-01-07 14:16:20 -0600
+category: 
 external-url: http://www.guardian.co.uk/sport/2011/jan/02/chrissie-wellington-interview-iron-lady
 hash: f7d2fa573a19b378dfb0c93c70a26636
 year: 2011

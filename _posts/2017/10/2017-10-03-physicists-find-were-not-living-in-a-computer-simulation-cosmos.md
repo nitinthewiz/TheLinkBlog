@@ -2,6 +2,7 @@
 title: "Physicists find we’re not living in a computer simulation | Cosmos"
 slug: physicists-find-were-not-living-in-a-computer-simulation-cosmos
 date: 2017-10-03 22:27:16 -0500
+category: 
 external-url: https://cosmosmagazine.com/physics/physicists-find-we-re-not-living-in-a-computer-simulation
 hash: 205ff83b042dbf001dabb2fa64b377b5
 year: 2017

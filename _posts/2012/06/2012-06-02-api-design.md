@@ -2,6 +2,7 @@
 title: "API Design"
 slug: api-design
 date: 2012-06-02 01:13:52 -0500
+category: 
 external-url: http://mattgemmell.com/api-design/
 hash: 821ac7a2c2ad41dc43aa18bea3be67ef
 year: 2012

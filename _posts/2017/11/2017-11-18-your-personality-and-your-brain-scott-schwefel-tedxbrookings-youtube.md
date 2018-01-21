@@ -2,6 +2,7 @@
 title: "Your personality and your brain | Scott Schwefel | TEDxBrookings - YouTube"
 slug: your-personality-and-your-brain-scott-schwefel-tedxbrookings-youtube
 date: 2017-11-18 21:49:59 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=8pq_tCgDkT4
 hash: 533ad19ea270d9478555a918560581be
 year: 2017

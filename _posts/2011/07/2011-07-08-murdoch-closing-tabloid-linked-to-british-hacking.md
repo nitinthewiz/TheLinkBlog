@@ -2,6 +2,7 @@
 title: "Murdoch Closing Tabloid Linked to British Hacking"
 slug: murdoch-closing-tabloid-linked-to-british-hacking
 date: 2011-07-08 19:38:35 -0500
+category: 
 external-url: http://www.nytimes.com/2011/07/08/world/europe/08britain.html?_r=2
 hash: afe6777abfa9eacbe20229f4726ec3b9
 year: 2011

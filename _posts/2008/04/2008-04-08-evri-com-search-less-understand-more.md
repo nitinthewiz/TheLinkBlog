@@ -2,6 +2,7 @@
 title: "evri.com - search less. understand more."
 slug: evri-com-search-less-understand-more
 date: 2008-04-08 16:58:22 -0500
+category: 
 external-url: http://www.evri.com/
 hash: 1ab5f620f3dab3854d6aa6dbfb12206e
 year: 2008

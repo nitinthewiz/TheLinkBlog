@@ -2,6 +2,7 @@
 title: "Relax for the same result"
 slug: relax-for-the-same-result
 date: 2015-10-01 21:00:39 -0500
+category: 
 external-url: http://sivers.org/relax
 hash: 275d7f4e10402ea6b04c3c11259a6d0d
 year: 2015

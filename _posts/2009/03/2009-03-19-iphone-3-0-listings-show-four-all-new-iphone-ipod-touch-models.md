@@ -2,6 +2,7 @@
 title: "IPhone 3.0 listings show four all-new iPhone, iPod touch models"
 slug: iphone-3-0-listings-show-four-all-new-iphone-ipod-touch-models
 date: 2009-03-19 20:57:11 -0500
+category: 
 external-url: http://appleinsider.com/articles/09/03/19/iphone_3_0_listings_show_four_all_new_iphone_ipod_touch_models
 hash: c91d01f4c60b5b17cc0e13e0095ef843
 year: 2009

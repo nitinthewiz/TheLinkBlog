@@ -2,6 +2,7 @@
 title: "Time Lapse Auroras Over Norway"
 slug: time-lapse-auroras-over-norway
 date: 2011-03-28 10:32:02 -0500
+category: 
 external-url: http://apod.nasa.gov/apod/ap110328.html
 hash: d9ad23db9cd5629a426d3507cb569e02
 year: 2011

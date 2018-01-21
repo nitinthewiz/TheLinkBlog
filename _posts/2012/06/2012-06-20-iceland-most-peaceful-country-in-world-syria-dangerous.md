@@ -2,6 +2,7 @@
 title: "Iceland Most Peaceful Country in World; Syria Dangerous"
 slug: iceland-most-peaceful-country-in-world-syria-dangerous
 date: 2012-06-20 00:47:39 -0500
+category: 
 external-url: http://newsfeed.time.com/2012/06/18/and-the-most-peaceful-country-in-the-world-is/
 hash: aa40e9ca21751d8a2aa2d9156b985b2b
 year: 2012

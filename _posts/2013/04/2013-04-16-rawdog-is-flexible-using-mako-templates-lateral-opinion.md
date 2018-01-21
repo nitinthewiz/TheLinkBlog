@@ -2,6 +2,7 @@
 title: "Rawdog is flexible: using Mako templates - Lateral Opinion"
 slug: rawdog-is-flexible-using-mako-templates-lateral-opinion
 date: 2013-04-16 17:31:33 -0500
+category: 
 external-url: http://ralsina.me/weblog/posts/BB779.html
 hash: 8565ae6206cceaaf216335e8cb3132c1
 year: 2013

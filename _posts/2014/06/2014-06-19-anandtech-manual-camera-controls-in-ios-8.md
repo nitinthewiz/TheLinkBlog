@@ -2,6 +2,7 @@
 title: "AnandTech - Manual Camera Controls in iOS 8"
 slug: anandtech-manual-camera-controls-in-ios-8
 date: 2014-06-19 23:45:08 -0500
+category: 
 external-url: http://www.anandtech.com/show/8131/manual-camera-controls-in-ios-8
 hash: 28b35e93e313c8a647e58e9d9b107b6a
 year: 2014

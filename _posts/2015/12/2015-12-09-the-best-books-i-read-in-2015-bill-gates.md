@@ -2,6 +2,7 @@
 title: "The Best Books I Read in 2015 | Bill Gates"
 slug: the-best-books-i-read-in-2015-bill-gates
 date: 2015-12-09 00:15:35 -0600
+category: 
 external-url: http://www.gatesnotes.com/About-Bill-Gates/Best-Books-2015
 hash: 69b8ee60108a09c6e49f5c20086410ab
 year: 2015

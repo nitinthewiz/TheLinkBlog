@@ -2,6 +2,7 @@
 title: "AlphaGo Zero – How and Why it Works – Tim Wheeler"
 slug: alphago-zero-how-and-why-it-works-tim-wheeler
 date: 2017-11-23 22:49:55 -0600
+category: 
 external-url: http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/
 hash: 60453879e25ad48a21d409876845da0e
 year: 2017

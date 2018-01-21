@@ -2,6 +2,7 @@
 title: "Michael Lewis Princeton Commencement Remarks"
 slug: michael-lewis-princeton-commencement-remarks
 date: 2012-06-06 17:52:07 -0500
+category: 
 external-url: http://www.businessinsider.com/michael-lewis-princeton-commencement-remarks-2012-6
 hash: 8fcf6496d54134092bbb0c0444546eca
 year: 2012

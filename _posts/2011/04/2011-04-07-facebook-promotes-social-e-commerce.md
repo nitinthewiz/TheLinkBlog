@@ -2,6 +2,7 @@
 title: "Facebook Promotes Social E-Commerce"
 slug: facebook-promotes-social-e-commerce
 date: 2011-04-07 10:28:40 -0500
+category: 
 external-url: http://bits.blogs.nytimes.com/2011/04/06/facebook-touts-social-e-commerce/
 hash: 448d5659a8e474141e88a7b51971d618
 year: 2011

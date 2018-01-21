@@ -2,6 +2,7 @@
 title: "Mailpile enters betaIts like Gmail, but you run it on your own computer - Ars Technica"
 slug: mailpile-enters-betaits-like-gmail-but-you-run-it-on-your-own-computer
 date: 2014-09-15 22:29:36 -0500
+category: 
 external-url: http://arstechnica.com/information-technology/2014/09/mailpile-enters-beta-its-like-gmail-but-you-run-it-on-your-own-computer/
 hash: 4b0be41ca5adbb95f46fc1d7859c62ce
 year: 2014

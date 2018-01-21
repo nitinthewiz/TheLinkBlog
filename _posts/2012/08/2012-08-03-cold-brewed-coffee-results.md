@@ -2,6 +2,7 @@
 title: "Cold-brewed coffee results"
 slug: cold-brewed-coffee-results
 date: 2012-08-03 13:54:38 -0500
+category: 
 external-url: http://www.marco.org/2009/08/23/cold-brewed-coffee-results
 hash: fce5306e43de9663dedd63b84e1327ba
 year: 2012

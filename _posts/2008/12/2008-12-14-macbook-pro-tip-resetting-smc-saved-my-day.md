@@ -2,6 +2,7 @@
 title: "MacBook Pro tip: resetting SMC saved my day"
 slug: macbook-pro-tip-resetting-smc-saved-my-day
 date: 2008-12-14 12:45:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/12/14/macbook-pro-tip-saved-my-day/
 hash: a9db53e7fd7a38184dae46b9b1fcfd69
 year: 2008

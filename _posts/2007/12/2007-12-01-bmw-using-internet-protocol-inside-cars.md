@@ -2,6 +2,7 @@
 title: "BMW Using Internet Protocol Inside Cars"
 slug: bmw-using-internet-protocol-inside-cars
 date: 2007-12-01 16:26:00 -0600
+category: 
 external-url: http://www.therawfeed.com/2007/12/bmw-using-internet-protocol-inside-cars.html
 hash: 99014a6bb7c83c948fa3a89966b69708
 year: 2007

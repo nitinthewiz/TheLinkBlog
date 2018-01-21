@@ -2,6 +2,7 @@
 title: "Getting Things Done, Ten Years In"
 slug: getting-things-done-ten-years-in
 date: 2017-06-09 11:07:49 -0500
+category: 
 external-url: http://lifehacker.com/getting-things-done-ten-years-in-1795707084
 hash: 8fa0732a72974a80cdfbadf62c061e57
 year: 2017

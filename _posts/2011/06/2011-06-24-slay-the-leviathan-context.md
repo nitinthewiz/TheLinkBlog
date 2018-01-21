@@ -2,6 +2,7 @@
 title: "Slay the Leviathan Context"
 slug: slay-the-leviathan-context
 date: 2011-06-24 20:33:08 -0500
+category: 
 external-url: http://www.omnigroup.com/blog/slay_the_leviathan_context/#When:21:03Z
 hash: 652dc8a8f66ee3a2a620fcde528f1df5
 year: 2011

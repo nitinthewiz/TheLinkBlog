@@ -2,6 +2,7 @@
 title: "Spacelog: Python brings historical space missions to life"
 slug: spacelog-python-brings-historical-space-missions-to-life
 date: 2010-12-04 23:57:45 -0600
+category: 
 external-url: http://thechangelog.com/spacelog-spacelog-a-website-for-experiencing-space-missi/
 hash: b33eb99f6d5f145e0d6907223c417979
 year: 2010

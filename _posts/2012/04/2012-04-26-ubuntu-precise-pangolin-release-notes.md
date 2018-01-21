@@ -2,6 +2,7 @@
 title: "Ubuntu Precise Pangolin Release Notes"
 slug: ubuntu-precise-pangolin-release-notes
 date: 2012-04-26 20:57:16 -0500
+category: 
 external-url: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes
 hash: cac8c5bcd149e4e2b3e1300523cb45fa
 year: 2012

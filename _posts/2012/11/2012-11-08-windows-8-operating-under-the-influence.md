@@ -2,6 +2,7 @@
 title: "Windows 8: Operating Under the Influence"
 slug: windows-8-operating-under-the-influence
 date: 2012-11-08 15:09:53 -0600
+category: 
 external-url: http://threesheetsresearch.com/?p=233
 hash: 120f811339dcac89e618fcaba9625576
 year: 2012

@@ -2,6 +2,7 @@
 title: "The Way I Work: David Karp of Tumblr"
 slug: the-way-i-work-david-karp-of-tumblr
 date: 2011-06-05 19:27:38 -0500
+category: 
 external-url: http://www.inc.com/magazine/201106/the-way-i-work-david-karp-of-tumblr.html
 hash: f16019d576030505238aff02ea579c04
 year: 2011

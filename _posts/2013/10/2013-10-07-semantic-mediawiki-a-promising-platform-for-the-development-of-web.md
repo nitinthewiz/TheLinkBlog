@@ -2,6 +2,7 @@
 title: "Semantic MediaWiki: A promising platform for the development of web geospatial crowdsourcing applications"
 slug: semantic-mediawiki-a-promising-platform-for-the-development-of-web
 date: 2013-10-07 20:40:24 -0500
+category: 
 external-url: http://geospatialelucubrations.blogspot.com/2013/10/semantic-mediawiki-promising-platform.html
 hash: fb11050bbe0fc5d0f4a7d7991bac46cb
 year: 2013

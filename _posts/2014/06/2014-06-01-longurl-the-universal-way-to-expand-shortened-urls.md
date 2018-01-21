@@ -2,6 +2,7 @@
 title: "LongURL - The Universal Way to Expand Shortened URLs"
 slug: longurl-the-universal-way-to-expand-shortened-urls
 date: 2014-06-01 21:40:24 -0500
+category: 
 external-url: http://longurl.org/
 hash: 6d9941fcfa52375368640e95d6e5cd15
 year: 2014

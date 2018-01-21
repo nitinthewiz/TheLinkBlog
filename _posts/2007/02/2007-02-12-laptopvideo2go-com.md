@@ -2,6 +2,7 @@
 title: "LaptopVideo2Go .com"
 slug: laptopvideo2go-com
 date: 2007-02-12 10:38:28 -0600
+category: 
 external-url: http://www.laptopvideo2go.com/
 hash: 13297d15db6200654121fd06788beb29
 year: 2007

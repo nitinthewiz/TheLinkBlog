@@ -2,6 +2,7 @@
 title: "Microsoft Teams is replacing Skype for Business to put more pressure on Slack - The Verge"
 slug: microsoft-teams-is-replacing-skype-for-business-to-put-more-pressure
 date: 2017-09-28 20:37:10 -0500
+category: 
 external-url: https://www.theverge.com/2017/9/25/16360072/microsoft-teams-replacing-skype-for-business
 hash: 4143093d3c508899378bf5f30c24d7fe
 year: 2017

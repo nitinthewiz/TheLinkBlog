@@ -2,6 +2,7 @@
 title: "Windows Vista Exec's Solo Album Almost As Good As Vista"
 slug: windows-vista-exec-s-solo-album-almost-as-good-as-vista
 date: 2009-03-21 11:05:28 -0500
+category: 
 external-url: http://www.businessinsider.com/windows-vista-execs-solo-album-almost-as-good-as-vista-2009-3
 hash: 2b1fd0a480113a89c2052ce73fdf0aa8
 year: 2009

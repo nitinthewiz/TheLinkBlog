@@ -2,6 +2,7 @@
 title: "Rayner Software : iBatt"
 slug: rayner-software-ibatt
 date: 2007-02-01 22:47:05 -0600
+category: 
 external-url: http://www.raynersoftware.com/ibatt/
 hash: c7968da5bc5409b1aaa000e22f9c5c03
 year: 2007

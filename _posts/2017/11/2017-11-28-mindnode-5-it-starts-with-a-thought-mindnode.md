@@ -2,6 +2,7 @@
 title: "MindNode 5 - It starts with a thought - MindNode"
 slug: mindnode-5-it-starts-with-a-thought-mindnode
 date: 2017-11-28 19:11:31 -0600
+category: 
 external-url: https://mindnode.com/news/2017-11-28-mindnode-5-it-starts-with-a-thought
 hash: c5a7e75c5f8f52be37d7b16a069625fd
 year: 2017

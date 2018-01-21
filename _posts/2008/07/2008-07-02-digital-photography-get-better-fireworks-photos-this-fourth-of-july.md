@@ -2,6 +2,7 @@
 title: "Digital Photography: Get Better Fireworks Photos This Fourth of July"
 slug: digital-photography-get-better-fireworks-photos-this-fourth-of-july
 date: 2008-07-02 05:43:39 -0500
+category: 
 external-url: http://lifehacker.com/397649/get-better-fireworks-photos-this-fourth-of-july
 hash: cf8ea91b2d981596d5888cabf3976b45
 year: 2008

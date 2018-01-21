@@ -2,6 +2,7 @@
 title: "danah boyd | apophenia » Tech Culture Can Change"
 slug: danah-boyd-apophenia-tech-culture-can-change
 date: 2017-08-04 23:37:42 -0500
+category: 
 external-url: http://www.zephoria.org/thoughts/archives/2017/07/05/tech-culture.html
 hash: 8c77786aa44aeead681be4c3b92cfcb1
 year: 2017

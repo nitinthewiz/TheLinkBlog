@@ -2,6 +2,7 @@
 title: "Dow Jones CMO Ann Marks Leaves As Well"
 slug: dow-jones-cmo-ann-marks-leaves-as-well
 date: 2007-12-14 20:32:33 -0600
+category: 
 external-url: http://gigaom.com/2007/12/15/419-industry-moves-dow-jones-cmo-ann-marks-leaves-as-well/
 hash: 9b9d8b8d85c74b3a2a59846f7361625a
 year: 2007

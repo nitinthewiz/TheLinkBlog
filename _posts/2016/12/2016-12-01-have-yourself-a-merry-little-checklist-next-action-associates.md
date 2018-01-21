@@ -2,6 +2,7 @@
 title: "Have yourself a Merry little Checklist - Next Action Associates"
 slug: have-yourself-a-merry-little-checklist-next-action-associates
 date: 2016-12-01 05:25:02 -0600
+category: 
 external-url: http://www.next-action.eu/2012/12/04/have-yourself-a-merry-little-checklist/
 hash: 3717b23677bb1608489f87f6b1dc07f9
 year: 2016

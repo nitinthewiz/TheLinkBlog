@@ -2,6 +2,7 @@
 title: "Semantic MediaWiki Writing Lua modules"
 slug: semantic-mediawiki-writing-lua-modules
 date: 2013-03-28 17:16:55 -0500
+category: 
 external-url: https://www.semantic-mediawiki.org/wiki/Help:Writing_Lua_modules
 hash: 37e3206d049517b53aa97bc448c911e0
 year: 2013

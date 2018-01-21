@@ -2,6 +2,7 @@
 title: "Sex differences in intimate relationships"
 slug: sex-differences-in-intimate-relationships
 date: 2012-02-07 23:09:34 -0600
+category: 
 external-url: http://arxiv.org/pdf/1201.5722v1.pdf
 hash: 739c4bb20d9529857fdeacf17f277a3f
 year: 2012

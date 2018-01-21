@@ -2,6 +2,7 @@
 title: "OM closed, owner Vikram Uppal mum on \"Shanghaied\" NYE party debacle"
 slug: om-closed-owner-vikram-uppal-mum-on-shanghaied-nye-party-debacle
 date: 2011-01-05 13:51:15 -0600
+category: 
 external-url: http://blogs.citypages.com/food/2011/01/om_closed_vikram_uppal.php
 hash: e529415df5e98b08c0a66c740cff448d
 year: 2011

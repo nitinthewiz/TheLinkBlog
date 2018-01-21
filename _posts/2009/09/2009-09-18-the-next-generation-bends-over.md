@@ -2,6 +2,7 @@
 title: "The next generation bends over"
 slug: the-next-generation-bends-over
 date: 2009-09-18 00:46:27 -0500
+category: 
 external-url: https://signalvnoise.com/posts/1927-the-next-generation-bends-over
 hash: 3d47019b5b448592b44e38e32b05b188
 year: 2009

@@ -2,6 +2,7 @@
 title: "Subway Map Visualization jQuery Plugin"
 slug: subway-map-visualization-jquery-plugin
 date: 2011-12-18 06:50:04 -0600
+category: 
 external-url: http://www.kalyani.com/2010/10/subway-map-visualization-jquery-plugin/
 hash: 0e86f726aeae60d76e64df54cee14ace
 year: 2011

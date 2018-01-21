@@ -2,6 +2,7 @@
 title: "Web developer money"
 slug: web-developer-money
 date: 2013-06-06 23:04:14 -0500
+category: 
 external-url: http://aeon.co/magazine/living-together/james-somers-web-developer-money/
 hash: fef0e2a4f9b2ef4a4a02b3de81661457
 year: 2013

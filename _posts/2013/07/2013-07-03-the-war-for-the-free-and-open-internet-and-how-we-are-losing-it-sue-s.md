@@ -2,6 +2,7 @@
 title: "The war for the free and open internet and how we are losing it - Sue Gardner's Blog"
 slug: the-war-for-the-free-and-open-internet-and-how-we-are-losing-it-sue-s
 date: 2013-07-03 07:21:56 -0500
+category: 
 external-url: http://suegardner.org/2013/06/26/the-war-for-the-free-and-open-internet-and-how-we-are-losing-it/
 hash: a1c60c80e4bff92bc16fa81ad215b62f
 year: 2013

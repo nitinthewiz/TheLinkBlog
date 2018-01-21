@@ -2,6 +2,7 @@
 title: "The Death of Reddit"
 slug: the-death-of-reddit
 date: 2015-07-11 23:43:05 -0500
+category: 
 external-url: http://www.chuqui.com/2015/07/the-death-of-reddit/
 hash: 7dfdafd010f6f6feab3ddd8859176669
 year: 2015

@@ -2,6 +2,7 @@
 title: "Canon EOS 5D IV: What you need to know"
 slug: canon-eos-5d-iv-what-you-need-to-know
 date: 2016-08-28 20:26:13 -0500
+category: 
 external-url: http://www.dpreview.com/news/3672064065/canon-eos-5d-iv-what-you-need-to-know
 hash: 597902d56da3be7002090e70a4f73a07
 year: 2016

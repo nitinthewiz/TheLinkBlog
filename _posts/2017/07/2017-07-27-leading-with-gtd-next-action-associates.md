@@ -2,6 +2,7 @@
 title: "Leading with GTD —Next Action Associates"
 slug: leading-with-gtd-next-action-associates
 date: 2017-07-27 22:52:40 -0500
+category: 
 external-url: http://www.next-action.eu/2017/07/27/leading-with-gtd/
 hash: 52977cff2cfe0e81b06e32d28b3e9351
 year: 2017

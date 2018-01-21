@@ -2,6 +2,7 @@
 title: "Google Online Security Blog: Announcing the first SHA1 collision"
 slug: google-online-security-blog-announcing-the-first-sha1-collision
 date: 2017-02-24 22:28:24 -0600
+category: 
 external-url: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html?m=1
 hash: cb8a3d38ede201cb71282d6be899c74b
 year: 2017

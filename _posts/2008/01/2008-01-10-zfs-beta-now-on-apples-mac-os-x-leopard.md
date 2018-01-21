@@ -2,6 +2,7 @@
 title: "ZFS beta now on Apple’s Mac OS X Leopard"
 slug: zfs-beta-now-on-apples-mac-os-x-leopard
 date: 2008-01-10 08:21:00 -0600
+category: 
 external-url: http://www.macdailynews.com/index.php/weblog/comments/zfs_beta_now_on_apples_mac_os_x_leopard/
 hash: 77a6fb751bb1c14273357fef52dbe130
 year: 2008

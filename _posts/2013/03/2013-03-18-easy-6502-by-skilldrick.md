@@ -2,6 +2,7 @@
 title: "Easy 6502 by skilldrick"
 slug: easy-6502-by-skilldrick
 date: 2013-03-18 16:29:04 -0500
+category: 
 external-url: http://skilldrick.github.io/easy6502/
 hash: 8d5a7431c5627ed8987fb872997e009d
 year: 2013

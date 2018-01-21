@@ -2,6 +2,7 @@
 title: "Kubernetes: Getting Started"
 slug: kubernetes-getting-started
 date: 2017-12-01 18:59:35 -0600
+category: 
 external-url: https://chrisshort.net/kubernetes-getting-started/
 hash: 775df6e007786c333ef49f3bfda6d566
 year: 2017

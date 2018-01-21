@@ -2,6 +2,7 @@
 title: "Announcing Alexa for Business: Using Amazon Alexa’s Voice Enabled Devices for Workplaces | AWS News Blog"
 slug: announcing-alexa-for-business-using-amazon-alexas-voice-enabled-for
 date: 2017-12-01 14:46:50 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/launch-announcing-alexa-for-business-using-amazon-alexas-voice-enabled-devices-for-workplaces/
 hash: b94230b2eef7a347bf37de8f58576366
 year: 2017

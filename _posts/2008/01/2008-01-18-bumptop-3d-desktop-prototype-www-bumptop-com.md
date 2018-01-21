@@ -2,6 +2,7 @@
 title: "BumpTop 3D Desktop Prototype - www.bumptop.com"
 slug: bumptop-3d-desktop-prototype-www-bumptop-com
 date: 2008-01-18 09:10:35 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=M0ODskdEPnQ
 hash: dc9aae56768d9b28d69e37211ffa738d
 year: 2008

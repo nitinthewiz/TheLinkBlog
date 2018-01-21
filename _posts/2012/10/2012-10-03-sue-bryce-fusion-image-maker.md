@@ -2,6 +2,7 @@
 title: "Sue Bryce Fusion Image Maker"
 slug: sue-bryce-fusion-image-maker
 date: 2012-10-03 21:06:33 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=A-H_DloZieI
 hash: 0e82dda86dd8fcaa25003f979a3be750
 year: 2012

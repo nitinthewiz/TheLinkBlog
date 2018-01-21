@@ -2,6 +2,7 @@
 title: "Programming Model for Authoring Lambda Functions in Python - AWS Lambda"
 slug: programming-model-for-authoring-lambda-functions-in-python-aws-lambda
 date: 2015-10-08 16:01:55 -0500
+category: 
 external-url: http://docs.aws.amazon.com/lambda/latest/dg/python-programming-model.html
 hash: 7a4f03c935b6e7c972fec64f32550f09
 year: 2015

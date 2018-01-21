@@ -2,6 +2,7 @@
 title: "University of Minnesota Business and Community Economic Development Growth Accelerator Program"
 slug: university-of-minnesota-business-and-community-economic-development
 date: 2012-07-12 11:34:48 -0500
+category: 
 external-url: http://www.ced.umn.edu/gap.php
 hash: 46252141b2018b225c13143fe73d0ca2
 year: 2012

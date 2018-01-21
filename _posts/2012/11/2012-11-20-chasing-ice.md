@@ -2,6 +2,7 @@
 title: "Chasing Ice"
 slug: chasing-ice
 date: 2012-11-20 09:32:25 -0600
+category: 
 external-url: http://www.chasingice.com/
 hash: 8fcf1adf89e0805853d03605a16b7185
 year: 2012

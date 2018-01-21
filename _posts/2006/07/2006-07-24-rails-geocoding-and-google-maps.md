@@ -2,6 +2,7 @@
 title: "Rails, Geocoding, and Google Maps"
 slug: rails-geocoding-and-google-maps
 date: 2006-07-24 16:07:32 -0500
+category: 
 external-url: http://earthcode.com/blog/2006/04/rails_geocoding_and_google_map.html
 hash: 94921889d798de961d8261ede2604a67
 year: 2006

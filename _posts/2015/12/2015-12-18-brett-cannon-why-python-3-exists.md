@@ -2,6 +2,7 @@
 title: "Brett Cannon - Why Python 3 exists"
 slug: brett-cannon-why-python-3-exists
 date: 2015-12-18 23:24:27 -0600
+category: 
 external-url: http://www.snarky.ca/why-python-3-exists
 hash: 04dcfa73854f28a4574a0905fac440bd
 year: 2015

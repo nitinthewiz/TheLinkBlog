@@ -2,6 +2,7 @@
 title: "slendingabk"
 slug: slendingabk
 date: 2012-06-20 00:48:59 -0500
+category: 
 external-url: https://www.islendingabok.is/English.jsp
 hash: c8a942c68e8c4b413b2958295cf7f5ff
 year: 2012

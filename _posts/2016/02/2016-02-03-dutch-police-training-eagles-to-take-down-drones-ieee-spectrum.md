@@ -2,6 +2,7 @@
 title: "Dutch Police Training Eagles to Take Down Drones - IEEE Spectrum"
 slug: dutch-police-training-eagles-to-take-down-drones-ieee-spectrum
 date: 2016-02-03 11:26:10 -0600
+category: 
 external-url: http://spectrum.ieee.org/automaton/robotics/aerial-robots/dutch-police-training-eagles-to-take-down-drones
 hash: 4b289815ab7d9cdffab41c00d9549136
 year: 2016

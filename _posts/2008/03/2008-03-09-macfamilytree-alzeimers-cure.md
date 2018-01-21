@@ -2,6 +2,7 @@
 title: "MacFamilyTree - Alzeimers Cure?"
 slug: macfamilytree-alzeimers-cure
 date: 2008-03-09 06:00:02 -0500
+category: 
 external-url: http://macapper.com/2008/03/09/macfamilytree-alzeimers-cure/
 hash: 6fc2ce2920cba05961a3405590b20753
 year: 2008

@@ -2,6 +2,7 @@
 title: "Abstractions"
 slug: abstractions
 date: 2016-02-05 04:31:10 -0600
+category: 
 external-url: http://abstractions.io/
 hash: 58752cc2ac09c12d14684695d8a7df7a
 year: 2016

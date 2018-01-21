@@ -2,6 +2,7 @@
 title: "Idaho Falls newspaper rescinds AP cancellation"
 slug: idaho-falls-newspaper-rescinds-ap-cancellation
 date: 2009-10-15 00:59:14 -0500
+category: 
 external-url: http://www.poynter.org/latest-news/mediawire/98847/idaho-falls-newspaper-rescinds-ap-cancellation/
 hash: 4df0d5732cff977135c603f436d96329
 year: 2009

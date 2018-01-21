@@ -2,6 +2,7 @@
 title: "Feed43 : How It Works"
 slug: feed43-how-it-works
 date: 2012-02-18 20:16:55 -0600
+category: 
 external-url: http://www.feed43.com/how-it-works.html
 hash: 94a7e1a17e5038e70cb6162e5845f7cd
 year: 2012

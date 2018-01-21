@@ -2,6 +2,7 @@
 title: "My Twitter Quantity Experiment"
 slug: my-twitter-quantity-experiment
 date: 2010-03-04 20:15:40 -0600
+category: 
 external-url: http://gigaom.com/collaboration/my-twitter-quantity-experiment/
 hash: 4487b216d28255e6feb46a1028a6213a
 year: 2010

@@ -2,6 +2,7 @@
 title: "Defiant Bicycles"
 slug: defiant-bicycles
 date: 2012-10-12 10:58:57 -0500
+category: 
 external-url: http://www.defiantbicycles.com//
 hash: 092262edd621c39f7ef129c8f640b007
 year: 2012

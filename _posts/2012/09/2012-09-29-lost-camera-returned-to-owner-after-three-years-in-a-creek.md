@@ -2,6 +2,7 @@
 title: "Lost Camera Returned To Owner After Three Years In A Creek"
 slug: lost-camera-returned-to-owner-after-three-years-in-a-creek
 date: 2012-09-29 18:55:10 -0500
+category: 
 external-url: http://www.popphoto.com/news/2012/08/lost-camera-returned-to-owner-after-three-years-creek
 hash: fe2ccd2975f845184b47ee00227fec3e
 year: 2012

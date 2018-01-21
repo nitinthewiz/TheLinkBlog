@@ -2,6 +2,7 @@
 title: "Canon EOS-1Ds Mark III, previewed"
 slug: canon-eos-1ds-mark-iii-previewed
 date: 2007-08-21 16:44:53 -0500
+category: 
 external-url: http://www.dpreview.com/articles/4819901895/canoneos1dsmarkiii
 hash: e2f1a6e84f55cc770353b5f5ed26963c
 year: 2007

@@ -2,6 +2,7 @@
 title: "What We Learnt By Talking To 50 Companies About DevOps - Contino"
 slug: what-we-learnt-by-talking-to-50-companies-about-devops-contino
 date: 2014-11-13 08:40:58 -0600
+category: 
 external-url: http://contino.co.uk/devops-learnings/
 hash: 7a79cf5dea6fae7df671d5ed2634e31d
 year: 2014

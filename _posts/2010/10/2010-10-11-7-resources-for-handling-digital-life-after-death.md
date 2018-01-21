@@ -2,6 +2,7 @@
 title: "7 Resources for Handling Digital Life After Death"
 slug: 7-resources-for-handling-digital-life-after-death
 date: 2010-10-11 16:02:48 -0500
+category: 
 external-url: http://mashable.com/2010/10/11/social-media-after-death/
 hash: 18514de5c2376cd93beb75d64b4873b4
 year: 2010

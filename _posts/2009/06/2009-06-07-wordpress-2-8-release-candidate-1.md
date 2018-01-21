@@ -2,6 +2,7 @@
 title: "WordPress 2.8 Release Candidate 1"
 slug: wordpress-2-8-release-candidate-1
 date: 2009-06-07 20:11:13 -0500
+category: 
 external-url: http://wordpress.org/news/2009/06/wordpress-2-8-release-candidate-1/
 hash: 6b187be3df4b47e25eb0401347a82fb7
 year: 2009

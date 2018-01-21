@@ -2,6 +2,7 @@
 title: "Universal Basic Income explained"
 slug: universal-basic-income-explained
 date: 2017-12-15 20:53:10 -0600
+category: 
 external-url: https://kottke.org/17/12/universal-basic-income-explained
 hash: 278a27fa0a768f01ff9ddd88fc544730
 year: 2017

@@ -2,6 +2,7 @@
 title: "Focus Collection"
 slug: focus-collection
 date: 2015-06-19 20:41:27 -0500
+category: 
 external-url: http://www.joedarnell.com/focus/
 hash: 960502d0a5b3ed0f59b704530010d07e
 year: 2015

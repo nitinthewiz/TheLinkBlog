@@ -2,6 +2,7 @@
 title: "Welcome to Mid-Continent Railway Museum"
 slug: welcome-to-mid-continent-railway-museum
 date: 2012-11-26 19:18:48 -0600
+category: 
 external-url: http://www.midcontinent.org/
 hash: c8fcbd20d30296bccf29fe6af0f959c7
 year: 2012

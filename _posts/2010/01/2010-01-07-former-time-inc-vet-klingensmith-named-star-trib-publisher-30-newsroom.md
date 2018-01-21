@@ -2,6 +2,7 @@
 title: "Former Time Inc. Vet Klingensmith Named Star Trib Publisher; 30 Newsroom Staffers Laid Off"
 slug: former-time-inc-vet-klingensmith-named-star-trib-publisher-30-newsroom
 date: 2010-01-07 23:31:48 -0600
+category: 
 external-url: http://m.paidcontent.org/article/419-former-time-inc.-vet-klingensmith-named-star-trib-publisher-30-newsroom/
 hash: 71fdb74ac7b755d57e11a211417050dc
 year: 2010

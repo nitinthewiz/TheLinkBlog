@@ -2,6 +2,7 @@
 title: "Coderetreat - Honing the craft together worldwide"
 slug: coderetreat-honing-the-craft-together-worldwide
 date: 2012-05-09 13:20:34 -0500
+category: 
 external-url: http://coderetreat.org/
 hash: c0345a3b90235acb2a904c147196a3f6
 year: 2012

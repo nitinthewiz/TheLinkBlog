@@ -2,6 +2,7 @@
 title: "JavaScript Garden"
 slug: javascript-garden
 date: 2011-03-10 05:54:10 -0600
+category: 
 external-url: http://bonsaiden.github.com/JavaScript-Garden/
 hash: 64b1f2c2ca095caa581929ec9ecd911b
 year: 2011

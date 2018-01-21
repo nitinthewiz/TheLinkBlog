@@ -2,6 +2,7 @@
 title: "iOS Text Transformations with TextTool 2 — MacSparky"
 slug: ios-text-transformations-with-texttool-2-macsparky
 date: 2017-08-25 20:07:09 -0500
+category: 
 external-url: https://www.macsparky.com/blog/2017/8/ios-text-transformations-with-texttool-2
 hash: 3b52e636f7e235c2b25644421c39e070
 year: 2017

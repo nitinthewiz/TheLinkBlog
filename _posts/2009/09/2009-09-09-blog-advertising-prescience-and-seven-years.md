@@ -2,6 +2,7 @@
 title: "Blog Advertising, Prescience and Seven Years"
 slug: blog-advertising-prescience-and-seven-years
 date: 2009-09-09 22:34:38 -0500
+category: 
 external-url: http://dashes.com/anil/2009/09/blog-advertising-prescience-and-seven-years.html
 hash: d367f19f53a6cdacf69ae0a8fbc9d9fb
 year: 2009

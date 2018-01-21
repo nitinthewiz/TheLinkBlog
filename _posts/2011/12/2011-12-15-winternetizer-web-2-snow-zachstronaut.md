@@ -2,6 +2,7 @@
 title: "Winternetizer, Web 2.snow - zachstronaut"
 slug: winternetizer-web-2-snow-zachstronaut
 date: 2011-12-15 14:50:41 -0600
+category: 
 external-url: http://www.zachstronaut.com/projects/winternetizer/
 hash: e903f7b84a107bf0ebfae7365d31c036
 year: 2011

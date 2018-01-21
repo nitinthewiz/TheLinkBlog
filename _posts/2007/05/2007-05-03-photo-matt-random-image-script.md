@@ -2,6 +2,7 @@
 title: "Photo Matt Random Image Script"
 slug: photo-matt-random-image-script
 date: 2007-05-03 23:40:41 -0500
+category: 
 external-url: http://ma.tt/scripts/randomimage/
 hash: 1659cdbfdae609fef9d2c5441ad63c3a
 year: 2007

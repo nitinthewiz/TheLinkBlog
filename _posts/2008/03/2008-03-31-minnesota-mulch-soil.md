@@ -2,6 +2,7 @@
 title: "Minnesota Mulch & Soil"
 slug: minnesota-mulch-soil
 date: 2008-03-31 11:55:58 -0500
+category: 
 external-url: http://www.mnmulchsoil.com/Index.html
 hash: dc7c82f406e976aca0728de4493a46ff
 year: 2008

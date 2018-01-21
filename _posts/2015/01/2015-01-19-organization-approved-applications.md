@@ -2,6 +2,7 @@
 title: "Organization-approved applications"
 slug: organization-approved-applications
 date: 2015-01-19 17:05:48 -0600
+category: 
 external-url: https://github.com/blog/1941-organization-approved-applications
 hash: 83f14ce012726587d025ba7bd9eed3b9
 year: 2015

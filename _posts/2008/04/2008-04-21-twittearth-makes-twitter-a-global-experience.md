@@ -2,6 +2,7 @@
 title: "TwittEarth Makes Twitter A Global Experience"
 slug: twittearth-makes-twitter-a-global-experience
 date: 2008-04-21 02:06:46 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/
 hash: 79b1ecbb9c73f433a31edd49cc14b27d
 year: 2008

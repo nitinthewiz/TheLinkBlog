@@ -2,6 +2,7 @@
 title: "AgileBits Blog | Curing Our Slack Addiction"
 slug: agilebits-blog-curing-our-slack-addiction
 date: 2016-04-20 06:32:18 -0500
+category: 
 external-url: https://blog.agilebits.com/2016/04/19/curing-our-slack-addiction/
 hash: 420c11a9773048f173f7aaf9527d6118
 year: 2016

@@ -2,6 +2,7 @@
 title: "dayonelib"
 slug: dayonelib
 date: 2016-03-10 19:57:05 -0600
+category: 
 external-url: https://github.com/underscorephil/dayonelib
 hash: fcc692fa43d56b3c8910491c4f022ab3
 year: 2016

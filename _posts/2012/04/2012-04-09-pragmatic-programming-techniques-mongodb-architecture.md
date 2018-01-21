@@ -2,6 +2,7 @@
 title: "Pragmatic Programming Techniques: MongoDb Architecture"
 slug: pragmatic-programming-techniques-mongodb-architecture
 date: 2012-04-09 11:24:59 -0500
+category: 
 external-url: http://horicky.blogspot.com/2012/04/mongodb-architecture.html
 hash: b5d0d105b6e5cb312b2d880bd6096fd3
 year: 2012

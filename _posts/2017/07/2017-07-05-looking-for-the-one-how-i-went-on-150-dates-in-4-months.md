@@ -2,6 +2,7 @@
 title: "Looking for the One: How I Went on 150 Dates in 4 Months"
 slug: looking-for-the-one-how-i-went-on-150-dates-in-4-months
 date: 2017-07-05 21:36:44 -0500
+category: 
 external-url: https://medium.com/the-mission/looking-for-the-one-how-i-went-on-150-dates-in-4-months-bf43a095516c
 hash: 317a216181f7f930c4388a10df63001a
 year: 2017

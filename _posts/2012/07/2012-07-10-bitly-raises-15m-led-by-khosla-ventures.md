@@ -2,6 +2,7 @@
 title: "Bitly Raises $15M Led by Khosla Ventures"
 slug: bitly-raises-15m-led-by-khosla-ventures
 date: 2012-07-10 15:41:03 -0500
+category: 
 external-url: http://allthingsd.com/20120710/bitly-raises-15m-led-by-khosla-ventures/
 hash: 42de5448c8535ad8e33f4a3be7519033
 year: 2012

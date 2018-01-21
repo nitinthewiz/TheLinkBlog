@@ -2,6 +2,7 @@
 title: "Espionage Review: Easily Secure Your Files"
 slug: espionage-review-easily-secure-your-files
 date: 2009-03-17 07:43:34 -0500
+category: 
 external-url: http://macapper.com/2009/03/17/espionage-review-easily-secure-your-files/
 hash: 450ef21d848b2c5003b207c25b00be3c
 year: 2009

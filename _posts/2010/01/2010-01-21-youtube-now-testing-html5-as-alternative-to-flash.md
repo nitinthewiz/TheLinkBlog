@@ -2,6 +2,7 @@
 title: "YouTube Now Testing HTML5 as Alternative to Flash"
 slug: youtube-now-testing-html5-as-alternative-to-flash
 date: 2010-01-21 10:03:10 -0600
+category: 
 external-url: http://youtube-global.blogspot.com/2010/01/introducing-youtube-html5-supported.html
 hash: 1695c7f6fbad8623a875d63db6246946
 year: 2010

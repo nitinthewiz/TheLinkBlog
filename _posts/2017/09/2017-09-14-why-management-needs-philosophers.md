@@ -2,6 +2,7 @@
 title: "Why Management Needs Philosophers"
 slug: why-management-needs-philosophers
 date: 2017-09-14 03:35:33 -0500
+category: 
 external-url: https://hbr.org/2017/09/management-is-much-more-than-a-science
 hash: ba0dd796cbe95599e8689417f1c77e28
 year: 2017

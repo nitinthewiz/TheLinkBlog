@@ -2,6 +2,7 @@
 title: "Checklist-Checklist: 🌈 A Curated List of Checklists ✔︎✔︎"
 slug: checklist-checklist-a-curated-list-of-checklists
 date: 2017-12-31 09:06:26 -0600
+category: 
 external-url: https://github.com/huyingjie/Checklist-Checklist
 hash: c0c4e1ff348931a0e5fabce8fe13064c
 year: 2017

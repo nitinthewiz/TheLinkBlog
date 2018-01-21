@@ -2,6 +2,7 @@
 title: "Options vs. cash"
 slug: options-vs-cash
 date: 2017-06-08 21:08:10 -0500
+category: 
 external-url: https://danluu.com/startup-options/
 hash: a3b4b12e3e2b84610a8ef229d21e4901
 year: 2017

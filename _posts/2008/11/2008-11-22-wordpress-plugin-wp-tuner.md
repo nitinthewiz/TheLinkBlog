@@ -2,6 +2,7 @@
 title: "WordPress Plugin: WP-Tuner"
 slug: wordpress-plugin-wp-tuner
 date: 2008-11-22 04:35:06 -0600
+category: 
 external-url: http://www.bloggingpro.com/archives/2008/11/22/wordpress-plugin-wp-tuner/
 hash: 713e8a5459119e747721445fa9db9e56
 year: 2008

@@ -2,6 +2,7 @@
 title: "Lucas Gilman - Land Rover Story Challenge"
 slug: lucas-gilman-land-rover-story-challenge
 date: 2012-12-19 16:16:56 -0600
+category: 
 external-url: http://500px.com/lucasgilman/stories/63869/land-rover-story-challenge
 hash: 7c6f85f4fa7b9c55b9a3ff5bf5893d5b
 year: 2012

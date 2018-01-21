@@ -2,6 +2,7 @@
 title: "Firebug 1.5: New Features and ready for Firefox 3.6"
 slug: firebug-1-5-new-features-and-ready-for-firefox-3-6
 date: 2010-01-20 20:18:44 -0600
+category: 
 external-url: http://ajaxian.com/archives/firebug-1-5-new-features-and-ready-for-firefox-3-6
 hash: f030ac6ce452609547c2de733a9b9ba4
 year: 2010

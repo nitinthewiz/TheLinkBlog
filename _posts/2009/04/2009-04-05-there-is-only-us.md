@@ -2,6 +2,7 @@
 title: "There is only us"
 slug: there-is-only-us
 date: 2009-04-05 09:32:04 -0500
+category: 
 external-url: http://www.newsless.org/2009/03/there-is-only-us/
 hash: e42ee5d566fde39574b0e39c31ba8b01
 year: 2009

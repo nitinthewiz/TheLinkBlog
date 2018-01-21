@@ -2,6 +2,7 @@
 title: "Introducing Badger: A fast key-value store written natively in Go - Dgraph Blog"
 slug: introducing-badger-a-fast-key-value-store-written-natively-in-go-blog
 date: 2017-05-16 05:34:43 -0500
+category: 
 external-url: https://open.dgraph.io/post/badger/
 hash: 59c7f65af75d608171432c6607051164
 year: 2017

@@ -2,6 +2,7 @@
 title: "Oracle deprecates the Java browser plugin, prepares for its demise"
 slug: oracle-deprecates-the-java-browser-plugin-prepares-for-its-demise
 date: 2016-01-28 04:13:50 -0600
+category: 
 external-url: http://arstechnica.com/information-technology/2016/01/oracle-deprecates-the-java-browser-plugin-prepares-for-its-demise/
 hash: 078899d22f7a357675a0239c799317ad
 year: 2016

@@ -2,6 +2,7 @@
 title: "Bear 1.2 is out with sketching, custom icons, and more!"
 slug: bear-1-2-is-out-with-sketching-custom-icons-and-more
 date: 2017-05-25 14:17:43 -0500
+category: 
 external-url: http://www.bear-writer.com/blog/bear-1.2/
 hash: f289b3dab58fdd0f1073f8b9764f6600
 year: 2017

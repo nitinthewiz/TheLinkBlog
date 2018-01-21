@@ -2,6 +2,7 @@
 title: "The New EOS M Firmware in Action"
 slug: the-new-eos-m-firmware-in-action
 date: 2013-06-20 23:03:32 -0500
+category: 
 external-url: http://www.canonrumors.com/2013/06/the-new-eos-m-firmware-coming-soon/
 hash: 144c2fb36610f15e928db80749909265
 year: 2013

@@ -2,6 +2,7 @@
 title: "Interesting Things Learned From Google Trends"
 slug: interesting-things-learned-from-google-trends
 date: 2008-06-20 20:51:07 -0500
+category: 
 external-url: http://www.inquisitr.com/1174/interesting-things-learned-from-google-trends/
 hash: 1fa2c57042412284f68336a0d2aaeb4b
 year: 2008

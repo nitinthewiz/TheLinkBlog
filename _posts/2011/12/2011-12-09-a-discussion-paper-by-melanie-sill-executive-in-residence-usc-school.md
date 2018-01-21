@@ -2,6 +2,7 @@
 title: "A discussion paper by Melanie Sill, Executive in Residence, USC Annenberg School for Communication & Journalism, December 2011. | The Case for Open Journalism Now"
 slug: a-discussion-paper-by-melanie-sill-executive-in-residence-usc-school
 date: 2011-12-09 11:54:03 -0600
+category: 
 external-url: http://www.annenberginnovationlab.org/OpenJournalism/
 hash: 8ddbc97ec534e546109393b533fcf04b
 year: 2011

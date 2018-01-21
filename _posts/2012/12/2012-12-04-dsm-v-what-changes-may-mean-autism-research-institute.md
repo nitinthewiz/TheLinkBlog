@@ -2,6 +2,7 @@
 title: "DSM-V: What Changes May Mean - Autism Research Institute"
 slug: dsm-v-what-changes-may-mean-autism-research-institute
 date: 2012-12-04 21:28:27 -0600
+category: 
 external-url: http://www.autism.com/news_dsmV
 hash: eb53c1fd88bd871b57145617ed2e170c
 year: 2012

@@ -2,6 +2,7 @@
 title: "Aaron's Army"
 slug: aaron-s-army
 date: 2013-01-28 08:00:24 -0600
+category: 
 external-url: https://public.resource.org/aaron/army/
 hash: 0a3d7db1f4b45d5ad8066f3ad764aefa
 year: 2013

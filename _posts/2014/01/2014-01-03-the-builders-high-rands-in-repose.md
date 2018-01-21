@@ -2,6 +2,7 @@
 title: "The Builders High Rands in Repose"
 slug: the-builders-high-rands-in-repose
 date: 2014-01-03 07:07:19 -0600
+category: 
 external-url: http://randsinrepose.com/archives/the-builders-high/
 hash: adf40c679bbaec6f8f4b2eb85daf2ed6
 year: 2014

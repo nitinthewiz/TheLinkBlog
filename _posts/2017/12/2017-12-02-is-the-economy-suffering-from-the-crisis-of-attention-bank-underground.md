@@ -2,6 +2,7 @@
 title: "Is the economy suffering from the crisis of attention? | Bank Underground"
 slug: is-the-economy-suffering-from-the-crisis-of-attention-bank-underground
 date: 2017-12-02 15:40:43 -0600
+category: 
 external-url: https://bankunderground.co.uk/2017/11/24/is-the-economy-suffering-from-the-crisis-of-attention/
 hash: ef137c3007bc937518f7200fe34f3cf0
 year: 2017

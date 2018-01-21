@@ -2,6 +2,7 @@
 title: "The Decemberists"
 slug: the-decemberists
 date: 2011-11-05 01:21:01 -0500
+category: 
 external-url: http://en.wikipedia.org/wiki/The_Decemberists
 hash: 6739c9bf01b5dc63aad7f3b79eac8d45
 year: 2011

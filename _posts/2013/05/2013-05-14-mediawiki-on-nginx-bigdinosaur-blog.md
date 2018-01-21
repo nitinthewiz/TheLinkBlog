@@ -2,6 +2,7 @@
 title: "MediaWiki on Nginx - Bigdinosaur Blog"
 slug: mediawiki-on-nginx-bigdinosaur-blog
 date: 2013-05-14 10:18:09 -0500
+category: 
 external-url: http://blog.bigdinosaur.org/mediawiki-on-nginx
 hash: 79fa4fd816866b1aed997ff464e3c8ef
 year: 2013

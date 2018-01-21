@@ -2,6 +2,7 @@
 title: "The Uncanny Resurrection of Dungeons & Dragons | The New Yorker"
 slug: the-uncanny-resurrection-of-dungeons-dragons-the-new-yorker
 date: 2017-10-27 19:41:52 -0500
+category: 
 external-url: https://www.newyorker.com/culture/cultural-comment/the-uncanny-resurrection-of-dungeons-and-dragons
 hash: 4c71c096da6d185a44ae0baee942fd43
 year: 2017

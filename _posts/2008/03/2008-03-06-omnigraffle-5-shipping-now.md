@@ -2,6 +2,7 @@
 title: "OmniGraffle 5 shipping now"
 slug: omnigraffle-5-shipping-now
 date: 2008-03-06 09:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/03/06/omnigraffle-5-shipping-now/
 hash: cd20bc7dc4ca71205e680e587b4314bb
 year: 2008

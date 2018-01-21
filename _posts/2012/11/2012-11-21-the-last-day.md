@@ -2,6 +2,7 @@
 title: "The last day"
 slug: the-last-day
 date: 2012-11-21 22:36:15 -0600
+category: 
 external-url: http://pando.com/2012/11/20/the-last-day/
 hash: d6d8be15d0939c88b76dc1a724299397
 year: 2012

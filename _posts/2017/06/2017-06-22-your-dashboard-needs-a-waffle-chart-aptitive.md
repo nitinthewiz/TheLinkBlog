@@ -2,6 +2,7 @@
 title: "Your Dashboard Needs a Waffle Chart – Aptitive"
 slug: your-dashboard-needs-a-waffle-chart-aptitive
 date: 2017-06-22 23:47:01 -0500
+category: 
 external-url: https://blog.aptitive.com/your-dashboard-needs-a-waffle-chart-64ffaaa6930f?__s=bsgqbmfxusxefqxs6as6
 hash: 96fd29b8ba79df40a70922b242b5e02a
 year: 2017

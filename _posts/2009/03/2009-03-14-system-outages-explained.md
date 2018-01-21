@@ -2,6 +2,7 @@
 title: "System Outages Explained"
 slug: system-outages-explained
 date: 2009-03-14 00:40:12 -0500
+category: 
 external-url: https://uto.asu.edu/node/2847
 hash: d2b008d713f4c2df915fd190bb890cb6
 year: 2009

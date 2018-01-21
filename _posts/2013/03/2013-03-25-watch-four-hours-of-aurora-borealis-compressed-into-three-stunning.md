@@ -2,6 +2,7 @@
 title: "Watch four hours of Aurora Borealis compressed into three stunning minutes"
 slug: watch-four-hours-of-aurora-borealis-compressed-into-three-stunning
 date: 2013-03-25 21:39:34 -0500
+category: 
 external-url: http://io9.com/watch-four-hours-of-aurora-borealis-compressed-into-thr-458606045
 hash: 616c7f2813c08ab04419075fc9f0ff17
 year: 2013

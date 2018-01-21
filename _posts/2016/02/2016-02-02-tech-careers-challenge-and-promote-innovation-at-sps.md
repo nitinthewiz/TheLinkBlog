@@ -2,6 +2,7 @@
 title: "Tech careers challenge and promote innovation at SPS"
 slug: tech-careers-challenge-and-promote-innovation-at-sps
 date: 2016-02-02 13:12:00 -0600
+category: 
 external-url: http://www.spscommerce.com/tech-careers-challenge-and-promote-innovation-at-sps/
 hash: e252d4b1854d1d67a79a9e50b433adff
 year: 2016

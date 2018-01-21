@@ -2,6 +2,7 @@
 title: "How-To: Download embedded videos"
 slug: how-to-download-embedded-videos
 date: 2007-05-08 17:07:26 -0500
+category: 
 external-url: http://www.waoanime.tv
 hash: 22e7c56c459ff16ea1c3d1b4bdcaa60c
 year: 2007

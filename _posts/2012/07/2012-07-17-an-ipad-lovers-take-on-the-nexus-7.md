@@ -2,6 +2,7 @@
 title: "An iPad Lovers Take On The Nexus 7"
 slug: an-ipad-lovers-take-on-the-nexus-7
 date: 2012-07-17 04:45:40 -0500
+category: 
 external-url: http://techcrunch.com/2012/07/15/omg-he-likes-it-he-really-likes-it/
 hash: 3907e62f177ef79c1929e0ca26454b31
 year: 2012

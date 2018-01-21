@@ -2,6 +2,7 @@
 title: "The 'Language' in Domain-Specific Language Doesn't Mean English (or French, or Japanese, or ...)"
 slug: the-language-in-domain-specific-language-doesn-t-mean-english-or-or-or
 date: 2008-03-11 08:40:00 -0500
+category: 
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2008/03/the-language-in.html
 hash: 013e5ef7a9b48c084e35d4d8156c704f
 year: 2008

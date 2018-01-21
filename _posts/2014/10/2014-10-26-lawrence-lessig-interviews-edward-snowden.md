@@ -2,6 +2,7 @@
 title: "Lawrence Lessig Interviews Edward Snowden"
 slug: lawrence-lessig-interviews-edward-snowden
 date: 2014-10-26 22:32:47 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=o_Sr96TFQQE
 hash: 05014ca44e6cf2f507940f45746fb619
 year: 2014

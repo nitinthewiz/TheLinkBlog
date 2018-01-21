@@ -2,6 +2,7 @@
 title: "Sharecropping: A Suckers Game Then and Now"
 slug: sharecropping-a-suckers-game-then-and-now
 date: 2013-03-12 11:20:32 -0500
+category: 
 external-url: http://www.mediaorchard.com/2013/02/sharecropping-a-suckers-game-then-and-now/
 hash: 0a5288e0605a1fbe88f225f1b1678fbd
 year: 2013

@@ -2,6 +2,7 @@
 title: "Minneapolis police pushing for more license plate data privacy"
 slug: minneapolis-police-pushing-for-more-license-plate-data-privacy
 date: 2012-11-03 07:40:31 -0500
+category: 
 external-url: http://arstechnica.com/tech-policy/2012/11/minneapolis-police-pushing-for-more-license-plate-data-privacy/
 hash: a195a2cc645d7e5c1ff5c1b16122f516
 year: 2012

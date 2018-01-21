@@ -2,6 +2,7 @@
 title: "Google paying Apple $3 billion to remain default search - Bernstein"
 slug: google-paying-apple-3-billion-to-remain-default-search-bernstein
 date: 2017-08-15 06:57:26 -0500
+category: 
 external-url: https://www.cnbc.com/2017/08/14/google-paying-apple-3-billion-to-remain-default-search--bernstein.html
 hash: ae2551a3f065313fc2fa37d7112bcb59
 year: 2017

@@ -2,6 +2,7 @@
 title: "Cybersecurity Bill FAQ: The Disturbing Privacy Dangers in CISPA and How To Stop It"
 slug: cybersecurity-bill-faq-the-disturbing-privacy-dangers-in-cispa-and-how
 date: 2012-04-16 13:18:22 -0500
+category: 
 external-url: https://www.eff.org/cybersecurity-bill-faq
 hash: 9f0756110814dd4dc130c6fe52dedd33
 year: 2012

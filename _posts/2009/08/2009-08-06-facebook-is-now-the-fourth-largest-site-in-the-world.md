@@ -2,6 +2,7 @@
 title: "Facebook Is Now the Fourth Largest Site In The World"
 slug: facebook-is-now-the-fourth-largest-site-in-the-world
 date: 2009-08-06 00:28:02 -0500
+category: 
 external-url: http://techcrunch.com/2009/08/04/facebook-is-now-the-fourth-largest-site-in-the-world/
 hash: 6ef8525c252b175473f56a973150b4ed
 year: 2009

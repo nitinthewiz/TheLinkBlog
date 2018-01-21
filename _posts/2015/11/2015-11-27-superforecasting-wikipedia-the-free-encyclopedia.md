@@ -2,6 +2,7 @@
 title: "Superforecasting - Wikipedia, the free encyclopedia"
 slug: superforecasting-wikipedia-the-free-encyclopedia
 date: 2015-11-27 10:34:59 -0600
+category: 
 external-url: https://en.wikipedia.org/wiki/Superforecasting
 hash: 6dd19cedfb60fc83c94229c17e68577d
 year: 2015

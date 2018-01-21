@@ -2,6 +2,7 @@
 title: "Minomess 130 Residential Water Meter - Minomess 130"
 slug: minomess-130-residential-water-meter-minomess-130
 date: 2007-04-23 14:23:49 -0500
+category: 
 external-url: http://www.buygpi.com/minomess130residentialwatermeter.aspx
 hash: 86e1056899aefca1c3e0890f8c13e42f
 year: 2007

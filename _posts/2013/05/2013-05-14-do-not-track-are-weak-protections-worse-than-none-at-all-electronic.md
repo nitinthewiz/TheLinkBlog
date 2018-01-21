@@ -2,6 +2,7 @@
 title: "Do Not Track: Are Weak Protections Worse Than None At All? - Electronic Frontier Foundation"
 slug: do-not-track-are-weak-protections-worse-than-none-at-all-electronic
 date: 2013-05-14 13:42:37 -0500
+category: 
 external-url: https://www.eff.org/deeplinks/2013/05/how-weak-current-dnt-proposal
 hash: 9fec55f0cd48609cf84c7054fc28c47c
 year: 2013

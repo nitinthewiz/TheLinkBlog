@@ -2,6 +2,7 @@
 title: "Dont work. Be hated. Love someone."
 slug: dont-work-be-hated-love-someone
 date: 2012-04-16 17:32:54 -0500
+category: 
 external-url: http://halfhalf.posterous.com/bye.html
 hash: 842e2e5be9de6b8c1fb6d731ff74a48c
 year: 2012

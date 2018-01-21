@@ -2,6 +2,7 @@
 title: "Registration Opens for Minnesota’s Seminal Tech unConference"
 slug: registration-opens-for-minnesotas-seminal-tech-unconference
 date: 2011-04-23 15:53:42 -0500
+category: 
 external-url: http://tech.mn/news/2011/04/23/minnebar-spring-2011/
 hash: a9232b3f8d5dfb54df698a7637d7ca93
 year: 2011

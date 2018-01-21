@@ -2,6 +2,7 @@
 title: "TL;DR Faster News"
 slug: tl-dr-faster-news
 date: 2012-11-22 07:57:47 -0600
+category: 
 external-url: http://toolong-didntread.com/
 hash: 0cd15116f1447c038b8d821e215208ec
 year: 2012

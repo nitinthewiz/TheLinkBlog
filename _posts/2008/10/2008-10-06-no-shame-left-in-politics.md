@@ -2,6 +2,7 @@
 title: "No Shame Left In Politics"
 slug: no-shame-left-in-politics
 date: 2008-10-06 08:47:22 -0500
+category: 
 external-url: http://www.opticality.com/blog/2008/10/06/no-shame-left-in-politics/
 hash: 3f965375590b2f7623056024299e6b68
 year: 2008

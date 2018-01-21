@@ -2,6 +2,7 @@
 title: "Create a second Mail window to watch a specific folder"
 slug: create-a-second-mail-window-to-watch-a-specific-folder
 date: 2009-10-08 21:55:27 -0500
+category: 
 external-url: http://mac.finerthingsin.com/post/207593339
 hash: b07f0554430f66fc91ea6291c5e1331f
 year: 2009

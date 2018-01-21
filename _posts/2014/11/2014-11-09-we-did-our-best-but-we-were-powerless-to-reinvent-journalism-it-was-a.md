@@ -2,6 +2,7 @@
 title: "We did our best, but we were powerless to reinvent journalism — it was a digital riptide! — Tech News and Analysis"
 slug: we-did-our-best-but-we-were-powerless-to-reinvent-journalism-it-was-a
 date: 2014-11-09 17:27:40 -0600
+category: 
 external-url: https://gigaom.com/2013/09/11/we-did-our-best-but-we-were-powerless-to-reinvent-journalism-it-was-a-digital-riptide/
 hash: 3765655b479711b78be4e4f2e77cb305
 year: 2014

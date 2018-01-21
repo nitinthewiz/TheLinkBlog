@@ -2,6 +2,7 @@
 title: "Minnov8 Gang 100th Podcast"
 slug: minnov8-gang-100th-podcast
 date: 2010-11-10 22:48:25 -0600
+category: 
 external-url: http://minnov8.com/2010/11/10/minnov8-gang-100th-podcast/
 hash: f6eba570994e3b32c60bccfc2a9ec80a
 year: 2010

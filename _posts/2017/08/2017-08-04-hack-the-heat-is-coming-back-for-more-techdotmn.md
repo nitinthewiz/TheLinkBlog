@@ -2,6 +2,7 @@
 title: "Hack The Heat Is Coming Back For More —TechDotMN"
 slug: hack-the-heat-is-coming-back-for-more-techdotmn
 date: 2017-08-04 20:32:08 -0500
+category: 
 external-url: https://tech.mn/news/2017/08/04/hack-the-heat-is-coming-back-for-more-2017/
 hash: fff0dbe698ff07c0133c63cb87ed10f4
 year: 2017

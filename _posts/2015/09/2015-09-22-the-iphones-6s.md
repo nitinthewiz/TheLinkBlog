@@ -2,6 +2,7 @@
 title: "★ The iPhones 6S"
 slug: the-iphones-6s
 date: 2015-09-22 20:12:06 -0500
+category: 
 external-url: http://daringfireball.net/2015/09/the_iphones_6s
 hash: d602ca7f78c01a58a0bf65e56bfb63a9
 year: 2015

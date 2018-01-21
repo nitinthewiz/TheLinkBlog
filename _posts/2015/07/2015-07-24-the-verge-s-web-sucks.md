@@ -2,6 +2,7 @@
 title: "The Verge's web sucks"
 slug: the-verge-s-web-sucks
 date: 2015-07-24 13:40:22 -0500
+category: 
 external-url: http://blog.lmorchard.com/2015/07/22/the-verge-web-sucks/
 hash: da500724458daa11b71cd95cc8b827cb
 year: 2015

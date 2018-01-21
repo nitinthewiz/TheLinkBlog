@@ -2,6 +2,7 @@
 title: "10k slices and more"
 slug: 10k-slices-and-more
 date: 2008-06-02 15:11:00 -0500
+category: 
 external-url: http://www.slicehost.com/articles/2008/6/2/10k-slices-and-more
 hash: 133bea000dce3e6abb88a5f15da964de
 year: 2008

@@ -2,6 +2,7 @@
 title: "David LaChapelle, From Photographer to Artist"
 slug: david-lachapelle-from-photographer-to-artist
 date: 2011-06-05 19:33:02 -0500
+category: 
 external-url: http://www.nytimes.com/2011/05/29/fashion/david-lachapelle-from-photographer-to-artist.html?_r=1&pagewanted=print
 hash: ae1374e8d35def2ab6ebf50a11ff3e5e
 year: 2011

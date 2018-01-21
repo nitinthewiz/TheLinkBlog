@@ -2,6 +2,7 @@
 title: "Video: CouchDB, MongoDB, RavenDB and SimpleDB Compared"
 slug: video-couchdb-mongodb-ravendb-and-simpledb-compared
 date: 2011-01-03 20:40:00 -0600
+category: 
 external-url: http://www.readwriteweb.com/hack/2011/01/video-nosql-comparison.php
 hash: 1a31029f07a03726e0afb137f6782418
 year: 2011

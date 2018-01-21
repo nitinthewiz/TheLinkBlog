@@ -2,6 +2,7 @@
 title: "What Happened: Adobe Creative Cloud Update Bug"
 slug: what-happened-adobe-creative-cloud-update-bug
 date: 2016-02-17 05:14:42 -0600
+category: 
 external-url: https://www.backblaze.com/blog/adobe-creative-cloud-update-bug/
 hash: 6a67ae1631dda04a2d50a941513139ae
 year: 2016

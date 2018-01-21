@@ -2,6 +2,7 @@
 title: "Fine-tune Your RSS Subscriptions"
 slug: fine-tune-your-rss-subscriptions
 date: 2008-12-02 10:00:53 -0600
+category: 
 external-url: http://gigaom.com/collaboration/fine-tune-your-rss-subscriptions/
 hash: 7c03c77fa9e5e904729cb8256425e726
 year: 2008

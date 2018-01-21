@@ -2,6 +2,7 @@
 title: "The Architecture of Open Source Applications (Volume 2): MediaWiki"
 slug: the-architecture-of-open-source-applications-volume-2-mediawiki
 date: 2013-07-03 21:44:24 -0500
+category: 
 external-url: http://www.aosabook.org/en/mediawiki.html
 hash: cc7e57bf7be1d68e3dffc27692512ced
 year: 2013

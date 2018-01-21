@@ -2,6 +2,7 @@
 title: "Setting up Sublime Text 2 - Alex MacCaw"
 slug: setting-up-sublime-text-2-alex-maccaw
 date: 2013-04-10 13:19:41 -0500
+category: 
 external-url: http://blog.alexmaccaw.com/sublime-text
 hash: d08ba15e38eda91bec1009ff1fe5d493
 year: 2013

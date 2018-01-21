@@ -2,6 +2,7 @@
 title: "Introducing the PagerDuty Common Event Format"
 slug: introducing-the-pagerduty-common-event-format
 date: 2016-04-20 22:15:33 -0500
+category: 
 external-url: https://www.pagerduty.com/blog/common-event-format/
 hash: 8414b6d7ae70d295bde963393b6dcf62
 year: 2016

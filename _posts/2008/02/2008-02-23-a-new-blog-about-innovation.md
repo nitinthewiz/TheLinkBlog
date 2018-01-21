@@ -2,6 +2,7 @@
 title: "A New Blog About Innovation"
 slug: a-new-blog-about-innovation
 date: 2008-02-23 08:41:26 -0600
+category: 
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2008/02/a-new-blog-abou.html
 hash: 9af264aac47e6838e2d93b928717c264
 year: 2008

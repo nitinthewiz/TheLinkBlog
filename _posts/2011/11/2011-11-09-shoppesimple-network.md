@@ -2,6 +2,7 @@
 title: "ShoppeSimple Network"
 slug: shoppesimple-network
 date: 2011-11-09 11:13:03 -0600
+category: 
 external-url: http://www.shoppesimplenetwork.com/
 hash: c6a9d0a25d10683044d0e07ae5001725
 year: 2011

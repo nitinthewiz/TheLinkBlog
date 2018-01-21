@@ -2,6 +2,7 @@
 title: "iOS 9, thoroughly reviewed"
 slug: ios-9-thoroughly-reviewed
 date: 2015-09-16 11:54:59 -0500
+category: 
 external-url: http://arstechnica.com/apple/2015/09/ios-9-thoroughly-reviewed/
 hash: 00f1ffcb572278bd85960706d7058d96
 year: 2015

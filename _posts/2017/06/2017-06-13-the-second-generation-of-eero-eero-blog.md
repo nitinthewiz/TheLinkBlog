@@ -2,6 +2,7 @@
 title: "The second generation of eero —Eero Blog"
 slug: the-second-generation-of-eero-eero-blog
 date: 2017-06-13 09:29:56 -0500
+category: 
 external-url: https://blog.eero.com/the-second-generation-of-eero/
 hash: 4526e7258b6e5e6d4bf434c047889eb3
 year: 2017

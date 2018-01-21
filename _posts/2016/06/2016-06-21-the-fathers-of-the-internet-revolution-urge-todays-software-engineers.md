@@ -2,6 +2,7 @@
 title: "The Fathers of the Internet Revolution Urge Today’s Software Engineers to Reinvent the Web"
 slug: the-fathers-of-the-internet-revolution-urge-todays-software-engineers
 date: 2016-06-21 23:30:03 -0500
+category: 
 external-url: http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web
 hash: 9912f820c4feba62530d73cd24dbc048
 year: 2016

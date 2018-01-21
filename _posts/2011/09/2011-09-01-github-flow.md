@@ -2,6 +2,7 @@
 title: "GitHub Flow"
 slug: github-flow
 date: 2011-09-01 21:41:09 -0500
+category: 
 external-url: http://scottchacon.com/2011/08/31/github-flow.html
 hash: 5669f09e770c1bae1f4a84a753eff260
 year: 2011

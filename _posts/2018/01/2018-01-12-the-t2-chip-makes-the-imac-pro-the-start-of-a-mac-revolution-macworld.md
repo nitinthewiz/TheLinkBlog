@@ -2,6 +2,7 @@
 title: "The T2 chip makes the iMac Pro the start of a Mac revolution | Macworld"
 slug: the-t2-chip-makes-the-imac-pro-the-start-of-a-mac-revolution-macworld
 date: 2018-01-12 18:54:44 -0600
+category: 
 external-url: https://www.macworld.com/article/3245764/macs/the-t2-chip-makes-the-imac-pro-the-start-of-a-mac-revolution.html
 hash: 443c4654f81d5828cb2b04647963a517
 year: 2018

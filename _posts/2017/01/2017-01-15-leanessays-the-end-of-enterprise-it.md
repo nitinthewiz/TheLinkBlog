@@ -2,6 +2,7 @@
 title: "LeanEssays: The End of Enterprise IT"
 slug: leanessays-the-end-of-enterprise-it
 date: 2017-01-15 08:26:29 -0600
+category: 
 external-url: http://www.leanessays.com/2017/01/the-end-of-enterprise-it.html
 hash: f9a32c5c929e382a50f924a37f9c18fd
 year: 2017

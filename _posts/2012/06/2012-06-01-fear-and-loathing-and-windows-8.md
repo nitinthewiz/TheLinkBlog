@@ -2,6 +2,7 @@
 title: "Fear and Loathing and Windows 8"
 slug: fear-and-loathing-and-windows-8
 date: 2012-06-01 00:10:43 -0500
+category: 
 external-url: http://mobileopportunity.blogspot.com/2012/05/fear-and-loathing-and-windows-8.html
 hash: 70de030901c8ec917a3ee3311fa9dff2
 year: 2012

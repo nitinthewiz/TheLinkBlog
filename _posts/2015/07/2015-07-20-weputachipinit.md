@@ -2,6 +2,7 @@
 title: "weputachipinit"
 slug: weputachipinit
 date: 2015-07-20 19:30:56 -0500
+category: 
 external-url: http://weputachipinit.tumblr.com/
 hash: 6b2bdc13a560e22800109b22a477cc8a
 year: 2015

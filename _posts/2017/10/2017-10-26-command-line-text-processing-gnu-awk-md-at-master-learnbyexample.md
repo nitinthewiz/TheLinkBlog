@@ -2,6 +2,7 @@
 title: "Command-line-text-processing/gnu_awk.md at master · learnbyexample"
 slug: command-line-text-processing-gnu-awk-md-at-master-learnbyexample
 date: 2017-10-26 07:03:42 -0500
+category: 
 external-url: https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md
 hash: 43b9e99f8fc5c6e0201ca6c70d2775f4
 year: 2017

@@ -2,6 +2,7 @@
 title: "The Drugging of the American Boy - Esquire"
 slug: the-drugging-of-the-american-boy-esquire
 date: 2014-03-29 20:40:33 -0500
+category: 
 external-url: http://www.esquire.com/features/drugging-of-the-american-boy-0414
 hash: 1548b466d98648c025de7b1b4957227f
 year: 2014

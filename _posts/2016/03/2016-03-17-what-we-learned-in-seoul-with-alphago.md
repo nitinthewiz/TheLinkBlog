@@ -2,6 +2,7 @@
 title: "What we learned in Seoul with AlphaGo"
 slug: what-we-learned-in-seoul-with-alphago
 date: 2016-03-17 11:56:31 -0500
+category: 
 external-url: https://googleblog.blogspot.com/2016/03/what-we-learned-in-seoul-with-alphago.html?m=1
 hash: 41e65fbffc4605f806bb3b2fddec9cb1
 year: 2016

@@ -2,6 +2,7 @@
 title: "What I Learned Scaling Engineering Teams Through Euphoria and Horror"
 slug: what-i-learned-scaling-engineering-teams-through-euphoria-and-horror
 date: 2015-04-16 17:49:32 -0500
+category: 
 external-url: http://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/
 hash: 936bf3693d29319469e5c9dee6b92313
 year: 2015

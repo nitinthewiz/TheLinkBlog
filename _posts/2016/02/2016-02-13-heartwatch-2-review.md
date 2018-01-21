@@ -2,6 +2,7 @@
 title: "HeartWatch 2 Review"
 slug: heartwatch-2-review
 date: 2016-02-13 09:36:32 -0600
+category: 
 external-url: https://www.macstories.net/reviews/heartwatch-2-review/
 hash: 10b577452eca6e75837d5da7c244fd74
 year: 2016

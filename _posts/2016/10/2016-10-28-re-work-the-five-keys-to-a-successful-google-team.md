@@ -2,6 +2,7 @@
 title: "re:Work - The five keys to a successful Google team"
 slug: re-work-the-five-keys-to-a-successful-google-team
 date: 2016-10-28 13:17:25 -0500
+category: 
 external-url: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 hash: e1f82f03b88ac7a83195e6e9ff383a6f
 year: 2016

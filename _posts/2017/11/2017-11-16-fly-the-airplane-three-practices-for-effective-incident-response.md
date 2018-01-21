@@ -2,6 +2,7 @@
 title: "Fly the airplane: Three practices for effective incident response | ITProPortal"
 slug: fly-the-airplane-three-practices-for-effective-incident-response
 date: 2017-11-16 22:27:27 -0600
+category: 
 external-url: https://www.itproportal.com/features/fly-the-airplane-three-practices-for-effective-incident-response/
 hash: a5e88db87133e5745f9c0bfe05051e72
 year: 2017

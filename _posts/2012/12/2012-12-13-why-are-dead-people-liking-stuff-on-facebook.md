@@ -2,6 +2,7 @@
 title: "Why Are Dead People Liking Stuff On Facebook?"
 slug: why-are-dead-people-liking-stuff-on-facebook
 date: 2012-12-13 09:44:35 -0600
+category: 
 external-url: http://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook
 hash: 5019533fbca31bdf9a0bc50355454b4b
 year: 2012

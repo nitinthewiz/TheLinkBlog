@@ -2,6 +2,7 @@
 title: "Following Up from Ignite ..."
 slug: following-up-from-ignite
 date: 2007-12-12 16:23:00 -0600
+category: 
 external-url: http://www.dictionaryevangelist.com/2007/12/following-up-from-ignite.html
 hash: 1f5faf31136c0c30401e975eb021d976
 year: 2007

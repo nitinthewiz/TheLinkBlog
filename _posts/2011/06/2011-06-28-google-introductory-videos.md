@@ -2,6 +2,7 @@
 title: "Google+ Introductory Videos"
 slug: google-introductory-videos
 date: 2011-06-28 15:26:46 -0500
+category: 
 external-url: http://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html
 hash: 0af930d559eb7ad1d00a88caebd2ecb5
 year: 2011

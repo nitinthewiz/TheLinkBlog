@@ -2,6 +2,7 @@
 title: "Physics professor presents research on Viking Chess (Kubb) at national conference"
 slug: physics-professor-presents-research-on-viking-chess-kubb-at-national
 date: 2012-08-15 22:04:24 -0500
+category: 
 external-url: http://news.stkate.edu/articles/kubb.html
 hash: c63336031da5aa2cbe4fce5cc36188e3
 year: 2012

@@ -2,6 +2,7 @@
 title: "Dow Jones Makes First Post-News Corp Acquisition: Buys Betten Financial News"
 slug: dow-jones-makes-first-post-news-corp-acquisition-buys-betten-financial
 date: 2008-03-10 11:48:39 -0500
+category: 
 external-url: http://gigaom.com/2008/03/10/419-dow-jones-makes-first-post-news-corp-acquisition-buys-betten-financial/
 hash: 58f6499e375dc0c80e96aa52a856e629
 year: 2008

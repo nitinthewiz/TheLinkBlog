@@ -2,6 +2,7 @@
 title: "Subversion’s Future?"
 slug: subversions-future
 date: 2008-05-02 09:31:17 -0500
+category: 
 external-url: http://mjtsai.com/blog/2008/05/02/subversions-future/
 hash: 947de56816895105dfaeba20629baf56
 year: 2008

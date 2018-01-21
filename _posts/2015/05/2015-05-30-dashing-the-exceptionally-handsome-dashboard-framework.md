@@ -2,6 +2,7 @@
 title: "Dashing - The exceptionally handsome dashboard framework."
 slug: dashing-the-exceptionally-handsome-dashboard-framework
 date: 2015-05-30 05:57:26 -0500
+category: 
 external-url: https://shopify.github.io/dashing/
 hash: 9541f596c14dd3bfc21dc9bc32dfc20b
 year: 2015

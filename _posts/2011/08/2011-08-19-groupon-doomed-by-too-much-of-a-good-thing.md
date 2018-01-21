@@ -2,6 +2,7 @@
 title: "Groupon Doomed by Too Much of a Good Thing"
 slug: groupon-doomed-by-too-much-of-a-good-thing
 date: 2011-08-19 01:53:36 -0500
+category: 
 external-url: http://blogs.hbr.org/2011/08/groupon-doomed-by-too-much-of/
 hash: d35d9df17c84b565a6dc267ed1dd86ec
 year: 2011

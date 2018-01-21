@@ -2,6 +2,7 @@
 title: "Adam Mosseri - Data Informed, Not Data Driven"
 slug: adam-mosseri-data-informed-not-data-driven
 date: 2011-11-17 17:13:43 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=bKZiXAFeBeY
 hash: 49e0f30a5d7cd695ebc1b84db4ebbb8d
 year: 2011

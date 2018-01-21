@@ -2,6 +2,7 @@
 title: "Linode Blog » The Twelve Days of Crisis – A Retrospective on Linode’s Holiday DDoS Attacks"
 slug: linode-blog-the-twelve-days-of-crisis-a-retrospective-on-linodes-ddos
 date: 2016-01-29 15:36:30 -0600
+category: 
 external-url: https://blog.linode.com/2016/01/29/christmas-ddos-retrospective/
 hash: e3bdb9f7772d11b2da573da9c3a872e9
 year: 2016

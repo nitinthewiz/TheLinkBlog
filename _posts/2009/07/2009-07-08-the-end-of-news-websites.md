@@ -2,6 +2,7 @@
 title: "The end of news websites?"
 slug: the-end-of-news-websites
 date: 2009-07-08 22:52:14 -0500
+category: 
 external-url: http://onlinejournalismblog.com/2009/07/08/end-of-news-website/
 hash: 0e45bd0e5f1a2b92c13bb3de5d2ed672
 year: 2009

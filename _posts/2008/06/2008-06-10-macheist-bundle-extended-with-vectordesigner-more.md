@@ -2,6 +2,7 @@
 title: "MacHeist bundle extended with VectorDesigner, more"
 slug: macheist-bundle-extended-with-vectordesigner-more
 date: 2008-06-10 01:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/06/10/macheist-bundle-extended-with-vectordesigner-more/
 hash: 902b667f6528da72f1ca860ac66d8ee9
 year: 2008

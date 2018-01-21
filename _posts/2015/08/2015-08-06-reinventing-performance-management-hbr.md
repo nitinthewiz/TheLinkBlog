@@ -2,6 +2,7 @@
 title: "Reinventing Performance Management - HBR"
 slug: reinventing-performance-management-hbr
 date: 2015-08-06 05:35:57 -0500
+category: 
 external-url: https://hbr.org/2015/04/reinventing-performance-management
 hash: d3b6f813057ce3d2e219a6055d6cb36c
 year: 2015

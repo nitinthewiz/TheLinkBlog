@@ -2,6 +2,7 @@
 title: "Matasano Security"
 slug: matasano-security
 date: 2012-03-19 16:54:19 -0500
+category: 
 external-url: http://matasano.com/
 hash: be3f50eb230e465c12d2f5c0dd937b3d
 year: 2012

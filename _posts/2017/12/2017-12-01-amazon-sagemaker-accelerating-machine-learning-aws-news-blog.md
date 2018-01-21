@@ -2,6 +2,7 @@
 title: "Amazon SageMaker – Accelerating Machine Learning | AWS News Blog"
 slug: amazon-sagemaker-accelerating-machine-learning-aws-news-blog
 date: 2017-12-01 15:05:23 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/sagemaker/
 hash: 9a3fb5d024e299b2c07810edc02dcb2a
 year: 2017

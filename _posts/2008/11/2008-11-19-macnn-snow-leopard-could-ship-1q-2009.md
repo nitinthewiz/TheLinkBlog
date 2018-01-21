@@ -2,6 +2,7 @@
 title: "MacNN: Snow Leopard could ship 1Q 2009"
 slug: macnn-snow-leopard-could-ship-1q-2009
 date: 2008-11-19 11:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/11/19/macnn-snow-leopard-could-ship-1q-2009/
 hash: d565d1b2ae82187639285f3284063812
 year: 2008

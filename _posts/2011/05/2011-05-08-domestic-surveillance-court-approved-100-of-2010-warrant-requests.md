@@ -2,6 +2,7 @@
 title: "Domestic surveillance court approved 100% of 2010 warrant requests"
 slug: domestic-surveillance-court-approved-100-of-2010-warrant-requests
 date: 2011-05-08 22:34:28 -0500
+category: 
 external-url: http://arstechnica.com/tech-policy/2011/05/domestic-surveillance-court-approved-100-of-2010-warrant-requests/
 hash: 9e4f14bc9fd3b7dcec1143aa022ce5f7
 year: 2011

@@ -2,6 +2,7 @@
 title: "ChefConf 2013 - How to F-ck Up Your Configuration Management Adoption... - Sascha Bates"
 slug: chefconf-2013-how-to-f-ck-up-your-configuration-management-adoption
 date: 2013-05-02 20:39:39 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=pHmU0aNkENc
 hash: bd0d02ee2c663c6feada455f29bc6105
 year: 2013

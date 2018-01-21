@@ -2,6 +2,7 @@
 title: "Apache Mahout"
 slug: apache-mahout
 date: 2011-03-18 11:58:00 -0500
+category: 
 external-url: http://mahout.apache.org/
 hash: 3f4d9455218e5d5b41d8f3000f86ed85
 year: 2011

@@ -2,6 +2,7 @@
 title: "Welcome to Apache Hadoop!"
 slug: welcome-to-apache-hadoop
 date: 2012-04-16 10:52:52 -0500
+category: 
 external-url: http://hadoop.apache.org/
 hash: e501bc976c8693b4d28a55b79c390a32
 year: 2012

@@ -2,6 +2,7 @@
 title: "Should Page Speed Influence Google PageRank?"
 slug: should-page-speed-influence-google-pagerank
 date: 2009-11-23 14:58:00 -0600
+category: 
 external-url: http://gigaom.com/2009/11/22/should-web-page-speed-influence-google-pagerank/
 hash: ffff9d7038ebfe182fefa294c9aa3e1f
 year: 2009

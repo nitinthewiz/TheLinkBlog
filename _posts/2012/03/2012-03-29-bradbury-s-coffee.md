@@ -2,6 +2,7 @@
 title: "Bradbury's Coffee"
 slug: bradbury-s-coffee
 date: 2012-03-29 10:38:59 -0500
+category: 
 external-url: http://www.bradburyscoffee.com/
 hash: 15492942358d3f14d1b172e4ea386bcb
 year: 2012

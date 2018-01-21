@@ -2,6 +2,7 @@
 title: "Rupert Murdoch, Blogger?"
 slug: rupert-murdoch-blogger
 date: 2008-05-12 13:51:00 -0500
+category: 
 external-url: http://www.businessinsider.com/2008/5/rupert-murdoch-blogger-
 hash: ecf4f0650681c26a3a38b7e0ad6b4652
 year: 2008

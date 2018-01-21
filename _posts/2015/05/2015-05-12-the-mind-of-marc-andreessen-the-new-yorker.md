@@ -2,6 +2,7 @@
 title: "The Mind of Marc Andreessen - The New Yorker"
 slug: the-mind-of-marc-andreessen-the-new-yorker
 date: 2015-05-12 08:06:46 -0500
+category: 
 external-url: http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man
 hash: 7169a8655d5859c36c7d674c35c4c184
 year: 2015

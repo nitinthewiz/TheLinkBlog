@@ -2,6 +2,7 @@
 title: "An Exceedingly Simple Guide to Keeping a Journal"
 slug: an-exceedingly-simple-guide-to-keeping-a-journal
 date: 2012-03-26 12:07:41 -0500
+category: 
 external-url: http://zenhabits.net/journal/
 hash: 89917f67ab7a70ce27b1a2aae4408864
 year: 2012

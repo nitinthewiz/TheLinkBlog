@@ -2,6 +2,7 @@
 title: "AlphaGo Zero: Learning from scratch | DeepMind"
 slug: alphago-zero-learning-from-scratch-deepmind
 date: 2017-10-23 19:04:10 -0500
+category: 
 external-url: https://deepmind.com/blog/alphago-zero-learning-scratch/
 hash: 9415ab20ded394390e129d6495831c28
 year: 2017

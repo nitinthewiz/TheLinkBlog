@@ -2,6 +2,7 @@
 title: "Introducing Nurse: Auto-Remediation at LinkedIn | LinkedIn Engineering"
 slug: introducing-nurse-auto-remediation-at-linkedin-linkedin-engineering
 date: 2015-07-28 06:44:54 -0500
+category: 
 external-url: http://engineering.linkedin.com/sre/introducing-nurse-auto-remediation-linkedin
 hash: b9de8192e3f4f0794ba610b199d9ccd7
 year: 2015

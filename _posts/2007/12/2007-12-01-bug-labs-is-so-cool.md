@@ -2,6 +2,7 @@
 title: "Bug Labs is so cool"
 slug: bug-labs-is-so-cool
 date: 2007-12-01 09:55:12 -0600
+category: 
 external-url: http://blog.webreakstuff.com/2007/12/bug-labs-is-so-cool/
 hash: ce7247005a5371e3da1b8d048be468b2
 year: 2007

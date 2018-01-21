@@ -2,6 +2,7 @@
 title: "Konstellations.Kernest.com"
 slug: konstellations-kernest-com
 date: 2010-10-28 20:02:21 -0500
+category: 
 external-url: http://konstellations.kernest.com
 hash: 98741d62dafa46e1a4412c8327b71fea
 year: 2010

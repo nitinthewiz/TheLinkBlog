@@ -2,6 +2,7 @@
 title: "Roots WordPress Theme"
 slug: roots-wordpress-theme
 date: 2011-04-01 18:00:44 -0500
+category: 
 external-url: http://roots.io/
 hash: 5454b0a7c60fe8e518ae980b08eba89f
 year: 2011

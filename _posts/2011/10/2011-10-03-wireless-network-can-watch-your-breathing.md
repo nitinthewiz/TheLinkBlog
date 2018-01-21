@@ -2,6 +2,7 @@
 title: "Wireless network can watch your breathing"
 slug: wireless-network-can-watch-your-breathing
 date: 2011-10-03 11:01:34 -0500
+category: 
 external-url: http://www.newscientist.com/article/dn20971-wireless-network-can-watch-your-breathing.html
 hash: 88647a9ffadb3c983c054e01eabdf454
 year: 2011

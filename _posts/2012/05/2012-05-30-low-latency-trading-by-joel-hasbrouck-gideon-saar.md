@@ -2,6 +2,7 @@
 title: "Low-Latency Trading by Joel Hasbrouck, Gideon Saar"
 slug: low-latency-trading-by-joel-hasbrouck-gideon-saar
 date: 2012-05-30 05:03:19 -0500
+category: 
 external-url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1695460
 hash: 811ebe3e764f1a7f478468f604b06bba
 year: 2012

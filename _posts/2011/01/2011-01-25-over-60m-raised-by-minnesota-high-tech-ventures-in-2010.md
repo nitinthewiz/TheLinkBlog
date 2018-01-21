@@ -2,6 +2,7 @@
 title: "Over $60m Raised by Minnesota High Tech Ventures in 2010"
 slug: over-60m-raised-by-minnesota-high-tech-ventures-in-2010
 date: 2011-01-25 01:16:10 -0600
+category: 
 external-url: http://tech.mn/news/2011/01/25/minnesota-high-tech-fundraising-2010/
 hash: 72bd09e85177e933b56620fed4f0f372
 year: 2011

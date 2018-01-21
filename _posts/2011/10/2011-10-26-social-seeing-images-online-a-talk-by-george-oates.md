@@ -2,6 +2,7 @@
 title: "Social Seeing: Images Online - A talk by George Oates"
 slug: social-seeing-images-online-a-talk-by-george-oates
 date: 2011-10-26 10:40:51 -0500
+category: 
 external-url: https://events.umn.edu/016537
 hash: 1f8f867a73651da89fdda897c4a91ad5
 year: 2011

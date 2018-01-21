@@ -2,6 +2,7 @@
 title: "steve on Devour.com"
 slug: steve-on-devour-com
 date: 2011-10-07 09:50:51 -0500
+category: 
 external-url: http://devour.com/tag/steve/
 hash: 9cd4bf6ebdd7d0e1ff91740a1d47893d
 year: 2011

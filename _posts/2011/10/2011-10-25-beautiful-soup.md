@@ -2,6 +2,7 @@
 title: "Beautiful Soup"
 slug: beautiful-soup
 date: 2011-10-25 15:02:39 -0500
+category: 
 external-url: http://www.crummy.com/software/BeautifulSoup/
 hash: 18c73a233c84f9b86b92574eac367ed0
 year: 2011

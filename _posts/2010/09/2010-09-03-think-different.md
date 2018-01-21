@@ -2,6 +2,7 @@
 title: "Think Different"
 slug: think-different
 date: 2010-09-03 11:05:27 -0500
+category: 
 external-url: http://kottke.org/10/09/think-different
 hash: b17746952ed1f9406ee7d81c3b619468
 year: 2010

@@ -2,6 +2,7 @@
 title: "Surprise! Facebook doesn't like privacy countermeasures"
 slug: surprise-facebook-doesn-t-like-privacy-countermeasures
 date: 2011-09-04 19:20:50 -0500
+category: 
 external-url: http://www.jwz.org/blog/2011/09/surprise-facebook-doesnt-like-privacy-countermeasures/
 hash: dc777f6804d6b75c0a6686926f0b4b79
 year: 2011

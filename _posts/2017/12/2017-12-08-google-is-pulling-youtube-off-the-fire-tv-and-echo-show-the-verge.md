@@ -2,6 +2,7 @@
 title: "Google is pulling YouTube off the Fire TV and Echo Show - The Verge"
 slug: google-is-pulling-youtube-off-the-fire-tv-and-echo-show-the-verge
 date: 2017-12-08 21:49:37 -0600
+category: 
 external-url: https://www.theverge.com/2017/12/5/16738748/google-amazon-feud-youtube-pulled-off-fire-tv-echo-show-nest-devices
 hash: 1cf5d5454495c26fa32e9a90d12a7fee
 year: 2017

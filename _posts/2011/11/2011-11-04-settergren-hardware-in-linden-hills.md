@@ -2,6 +2,7 @@
 title: "Settergren Hardware In Linden Hills"
 slug: settergren-hardware-in-linden-hills
 date: 2011-11-04 21:02:27 -0500
+category: 
 external-url: http://patch.com/southwestminneapolis/settergren-hardware-store-linden-hills
 hash: 653ee41cd881e755caac9929b2923300
 year: 2011

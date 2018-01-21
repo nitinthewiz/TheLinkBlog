@@ -2,6 +2,7 @@
 title: "Ludwig von Mises"
 slug: ludwig-von-mises
 date: 2012-05-13 15:48:42 -0500
+category: 
 external-url: http://en.wikipedia.org/wiki/Ludwig_von_Mises
 hash: da7d16009a2fd2372d0c7a0ebb3b449c
 year: 2012

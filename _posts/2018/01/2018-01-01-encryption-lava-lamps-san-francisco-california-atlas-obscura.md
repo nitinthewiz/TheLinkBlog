@@ -2,6 +2,7 @@
 title: "Encryption Lava Lamps – San Francisco, California - Atlas Obscura"
 slug: encryption-lava-lamps-san-francisco-california-atlas-obscura
 date: 2018-01-01 20:32:20 -0600
+category: 
 external-url: https://www.atlasobscura.com/places/encryption-lava-lamps
 hash: 44597d15bf3581efdf5438bdaf303ba3
 year: 2018

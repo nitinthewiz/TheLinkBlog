@@ -2,6 +2,7 @@
 title: "Vistabule Teardrop Trailers"
 slug: vistabule-teardrop-trailers
 date: 2014-06-29 15:43:04 -0500
+category: 
 external-url: http://vistabule.com/
 hash: a38d14ed363050be92d8dd0ede295695
 year: 2014

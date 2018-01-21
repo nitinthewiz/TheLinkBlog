@@ -2,6 +2,7 @@
 title: "Survey: Percentage of users saying they opt out of targeted ads has nearly doubled"
 slug: survey-percentage-of-users-saying-they-opt-out-of-targeted-ads-has
 date: 2012-07-16 11:08:49 -0500
+category: 
 external-url: https://gigaom.com/2012/07/16/percentage-of-users-saying-they-opt-out-of-targeted-ads-has-nearly-doubled-survey/
 hash: 22c6fdcfd963ac17d0e54849c0865889
 year: 2012

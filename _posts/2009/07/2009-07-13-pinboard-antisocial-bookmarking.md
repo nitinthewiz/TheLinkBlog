@@ -2,6 +2,7 @@
 title: "Pinboard — Antisocial Bookmarking"
 slug: pinboard-antisocial-bookmarking
 date: 2009-07-13 19:26:32 -0500
+category: 
 external-url: http://pinboard.in/
 hash: f647277f54d87fea81a1d88fc26d56c2
 year: 2009

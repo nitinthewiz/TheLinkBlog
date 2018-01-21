@@ -2,6 +2,7 @@
 title: "New AWS Directory Service"
 slug: new-aws-directory-service
 date: 2014-10-22 05:05:25 -0500
+category: 
 external-url: https://aws.amazon.com/blogs/aws/new-aws-directory-service/
 hash: 8d37cad34821e8cf34af9f724398ad89
 year: 2014

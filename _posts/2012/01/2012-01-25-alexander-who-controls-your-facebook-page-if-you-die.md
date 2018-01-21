@@ -2,6 +2,7 @@
 title: "Alexander: Who controls your Facebook page if you die?"
 slug: alexander-who-controls-your-facebook-page-if-you-die
 date: 2012-01-25 13:46:16 -0600
+category: 
 external-url: http://www.startribune.com/business/137992223.html
 hash: cf116aeb72ff94035f6dd7d73bf9a985
 year: 2012

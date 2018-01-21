@@ -2,6 +2,7 @@
 title: "The Rules of Creation – a n n i e m u e l l e r"
 slug: the-rules-of-creation-a-n-n-i-e-m-u-e-l-l-e-r
 date: 2017-07-23 21:50:06 -0500
+category: 
 external-url: http://anniemueller.com/2017/07/22/the-rules-of-creation/
 hash: ebfbd66f3c35adb781dd90cdb14b84e8
 year: 2017

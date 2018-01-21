@@ -2,6 +2,7 @@
 title: "14 Years After 9/11, the War on Terror Is Accomplishing Everything bin Laden Hoped It Would | The Nation"
 slug: 14-years-after-9-11-the-war-on-terror-is-accomplishing-everything-bin
 date: 2015-09-13 10:09:24 -0500
+category: 
 external-url: http://www.thenation.com/article/14-years-after-911-the-war-on-terror-is-accomplishing-everything-bin-laden-hoped-it-would/
 hash: d24dd459822cab98b5069cf5513c45f5
 year: 2015

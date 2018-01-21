@@ -2,6 +2,7 @@
 title: "Strapping-mediawiki"
 slug: strapping-mediawiki
 date: 2013-01-18 14:12:12 -0600
+category: 
 external-url: https://github.com/OSAS/strapping-mediawiki
 hash: 31deac3292dc887319689ec4290e6e4e
 year: 2013

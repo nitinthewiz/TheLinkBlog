@@ -2,6 +2,7 @@
 title: "WordPress ›   Vote for 2.9 Media Features"
 slug: wordpress-vote-for-2-9-media-features
 date: 2009-07-07 09:35:40 -0500
+category: 
 external-url: http://wordpress.org/news/2009/07/vote-for-2-9-media-features/
 hash: 4d21d16f9fe23f75ffc496ed464ab45d
 year: 2009

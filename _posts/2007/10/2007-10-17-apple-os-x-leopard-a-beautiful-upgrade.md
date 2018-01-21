@@ -2,6 +2,7 @@
 title: "Apple OS X Leopard: A beautiful upgrade"
 slug: apple-os-x-leopard-a-beautiful-upgrade
 date: 2007-10-17 11:29:33 -0500
+category: 
 external-url: http://www.infoworld.com/t/platforms/apple-os-x-leopard-beautiful-upgrade-086
 hash: 9380c69b553a48143d04b99a2bf28d46
 year: 2007

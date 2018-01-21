@@ -2,6 +2,7 @@
 title: "Customer Proprietary Network Information (CPNI) Restriction Request"
 slug: customer-proprietary-network-information-cpni-restriction-request
 date: 2012-07-12 22:01:42 -0500
+category: 
 external-url: https://www.att.com/ecpnioptout/InitiateCPNIForm.action
 hash: 104e4cfbde3c694fc946bee76b2823da
 year: 2012

@@ -2,6 +2,7 @@
 title: "imATHLETE | \"Bicycle Dreams\" movie | All Around the Country, Colorado, USA | Dec 31, 2011"
 slug: imathlete-bicycle-dreams-movie-all-around-the-country-colorado-usa-dec
 date: 2012-02-01 09:01:55 -0600
+category: 
 external-url: http://www.imathlete.com/events/EventDetails.aspx?fEID=10529
 hash: c484a71e78c22e93cdada66fcdf7fb65
 year: 2012

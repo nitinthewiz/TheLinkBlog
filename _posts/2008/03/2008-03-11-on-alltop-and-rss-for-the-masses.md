@@ -2,6 +2,7 @@
 title: "On Alltop and RSS For The Masses"
 slug: on-alltop-and-rss-for-the-masses
 date: 2008-03-11 20:02:55 -0500
+category: 
 external-url: http://readwrite.com/2008/03/11/alltop_rss_for_the_masses
 hash: 0c57ad49c63a00b0421570d6abe5effc
 year: 2008

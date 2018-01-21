@@ -2,6 +2,7 @@
 title: "DVD Movie Clip Extractor with iPod and web output - Cinematize 2 Pro Features"
 slug: dvd-movie-clip-extractor-with-ipod-and-web-output-cinematize-2-pro
 date: 2007-07-04 00:04:57 -0500
+category: 
 external-url: http://www.miraizon.com/products/cine2profeatures.html
 hash: 83e774ccac49944c0fe6f7892a4dbd7e
 year: 2007

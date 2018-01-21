@@ -2,6 +2,7 @@
 title: "Gary Kovacs: Tracking the trackers"
 slug: gary-kovacs-tracking-the-trackers
 date: 2012-05-12 15:47:18 -0500
+category: 
 external-url: http://www.ted.com/talks/gary_kovacs_tracking_the_trackers
 hash: 598f61d8d1a7b28490f5268e26341a32
 year: 2012

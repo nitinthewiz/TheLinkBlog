@@ -2,6 +2,7 @@
 title: "PDF Now an ISO Standard"
 slug: pdf-now-an-iso-standard
 date: 2008-01-08 12:10:08 -0600
+category: 
 external-url: http://www.photoshopnews.com/2008/01/08/pdf-now-an-iso-standard/
 hash: 020b2ec7e9dd54e2a9e8073fe701352a
 year: 2008

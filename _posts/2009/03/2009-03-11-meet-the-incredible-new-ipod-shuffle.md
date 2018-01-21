@@ -2,6 +2,7 @@
 title: "Meet the incredible new iPod shuffle"
 slug: meet-the-incredible-new-ipod-shuffle
 date: 2009-03-11 12:27:20 -0500
+category: 
 external-url: http://www.apple.com/ipod-shuffle/?sr=hotnews?sr=hotnews.rss
 hash: c4d799e63d8988f8b0251b4cab5c8edc
 year: 2009

@@ -2,6 +2,7 @@
 title: "IBM Launches Bluemix OpenWhisk, an Event-driven Programming Service - The New Stack"
 slug: ibm-launches-bluemix-openwhisk-an-event-driven-programming-service-the
 date: 2016-02-22 14:17:59 -0600
+category: 
 external-url: http://thenewstack.io/ibm-launches-bluemix-openwhisk-event-driven-program-service/
 hash: c0421ff10f2ef6bbfdf4f70b154a54b5
 year: 2016

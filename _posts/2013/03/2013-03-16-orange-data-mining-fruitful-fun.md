@@ -2,6 +2,7 @@
 title: "Orange Data Mining Fruitful & Fun"
 slug: orange-data-mining-fruitful-fun
 date: 2013-03-16 22:03:51 -0500
+category: 
 external-url: http://orange.biolab.si/
 hash: 06351eb623c77c2670a8b156895b5dc3
 year: 2013

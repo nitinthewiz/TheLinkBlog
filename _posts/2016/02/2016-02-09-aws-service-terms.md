@@ -2,6 +2,7 @@
 title: "AWS Service Terms"
 slug: aws-service-terms
 date: 2016-02-09 21:48:13 -0600
+category: 
 external-url: https://aws.amazon.com/service-terms/
 hash: d033e8e317f04b49d061e781e15cb332
 year: 2016

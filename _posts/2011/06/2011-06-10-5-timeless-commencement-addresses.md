@@ -2,6 +2,7 @@
 title: "5 Timeless Commencement Addresses"
 slug: 5-timeless-commencement-addresses
 date: 2011-06-10 16:54:22 -0500
+category: 
 external-url: http://www.brainpickings.org/index.php/2011/06/10/best-commencement-graduation-speeches/
 hash: ec391e4bfc17581baa3c9fa2447367ec
 year: 2011

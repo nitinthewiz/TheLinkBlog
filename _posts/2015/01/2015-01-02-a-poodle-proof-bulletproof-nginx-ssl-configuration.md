@@ -2,6 +2,7 @@
 title: "A Poodle proof, bulletproof Nginx SSL configuration"
 slug: a-poodle-proof-bulletproof-nginx-ssl-configuration
 date: 2015-01-02 13:44:32 -0600
+category: 
 external-url: https://t37.net/a-poodle-proof-bulletproof-nginx-ssl-configuration.html
 hash: 6d053c10ead0796e94c8d7749a929b1b
 year: 2015

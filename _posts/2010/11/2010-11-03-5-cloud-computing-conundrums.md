@@ -2,6 +2,7 @@
 title: "5 cloud computing conundrums"
 slug: 5-cloud-computing-conundrums
 date: 2010-11-03 22:29:13 -0500
+category: 
 external-url: http://radar.oreilly.com/2010/11/5-cloud-computing-conundrums.html
 hash: 464b02eca093625be6c5c7ba0c1c92fc
 year: 2010

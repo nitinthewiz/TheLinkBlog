@@ -2,6 +2,7 @@
 title: "Leopard Love: Apple boosts Calculator"
 slug: leopard-love-apple-boosts-calculator
 date: 2007-12-10 15:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2007/12/10/leopard-love-apple-boosts-calculator/
 hash: 62cb3456f4a0b61a24dea14cea2bcb36
 year: 2007

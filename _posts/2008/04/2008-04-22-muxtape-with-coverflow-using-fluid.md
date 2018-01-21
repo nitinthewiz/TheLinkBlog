@@ -2,6 +2,7 @@
 title: "Muxtape With Coverflow Using Fluid"
 slug: muxtape-with-coverflow-using-fluid
 date: 2008-04-22 22:42:50 -0500
+category: 
 external-url: http://www.internetjogging.com/2008/04/17/23/
 hash: a2edfd9702d5a7aa9b5aff9e29ae4d3d
 year: 2008

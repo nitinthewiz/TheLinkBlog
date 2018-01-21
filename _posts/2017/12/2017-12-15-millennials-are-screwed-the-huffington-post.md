@@ -2,6 +2,7 @@
 title: "Millennials Are Screwed - The Huffington Post"
 slug: millennials-are-screwed-the-huffington-post
 date: 2017-12-15 07:01:03 -0600
+category: 
 external-url: http://highline.huffingtonpost.com/articles/en/poor-millennials/?mobile=1
 hash: c35d241e66b51d59524ffbf5ec4cb373
 year: 2017

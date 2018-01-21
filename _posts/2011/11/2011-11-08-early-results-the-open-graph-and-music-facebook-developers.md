@@ -2,6 +2,7 @@
 title: "Early Results: The Open Graph and Music - Facebook Developers"
 slug: early-results-the-open-graph-and-music-facebook-developers
 date: 2011-11-08 15:09:40 -0600
+category: 
 external-url: https://developers.facebook.com/blog/post/594/
 hash: cc2e91a4e82693c1f2489cb41b1a1914
 year: 2011

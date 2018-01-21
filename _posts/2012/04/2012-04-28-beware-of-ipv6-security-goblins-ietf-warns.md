@@ -2,6 +2,7 @@
 title: "Beware of IPv6 security goblins, IETF warns"
 slug: beware-of-ipv6-security-goblins-ietf-warns
 date: 2012-04-28 10:20:09 -0500
+category: 
 external-url: http://arstechnica.com/business/news/2012/04/beware-of-ipv6-security-goblins-ietf-warns.ars
 hash: 420dbaf0c697739fe520b6ee3817bfcc
 year: 2012

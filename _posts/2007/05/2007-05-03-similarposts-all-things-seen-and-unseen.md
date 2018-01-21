@@ -2,6 +2,7 @@
 title: "SimilarPosts | All Things Seen and Unseen"
 slug: similarposts-all-things-seen-and-unseen
 date: 2007-05-03 00:57:37 -0500
+category: 
 external-url: http://rmarsh.com/plugins/similar-posts/
 hash: c6be20c7541ba197b5b070200b1c925f
 year: 2007

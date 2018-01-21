@@ -2,6 +2,7 @@
 title: "Simplifying ASP.Net - NVelocity"
 slug: simplifying-asp-net-nvelocity
 date: 2008-05-12 15:53:08 -0500
+category: 
 external-url: http://simpable.com/code/nvelocity/
 hash: 2caf72cbae3d4e2b8c0430ac83070c71
 year: 2008

@@ -2,6 +2,7 @@
 title: "Groupon Changes Privacy Policy, Starts Tracking User Location"
 slug: groupon-changes-privacy-policy-starts-tracking-user-location
 date: 2011-07-12 01:59:09 -0500
+category: 
 external-url: http://readwrite.com/2011/07/11/groupon_changes_privacy_policy_starts_tracking_use
 hash: a0b65db9e9f642c1e422f9a22693c0ae
 year: 2011

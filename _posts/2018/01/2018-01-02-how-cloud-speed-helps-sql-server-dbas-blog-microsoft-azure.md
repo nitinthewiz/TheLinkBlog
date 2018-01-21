@@ -2,6 +2,7 @@
 title: "How cloud speed helps SQL Server DBAs | Blog | Microsoft Azure"
 slug: how-cloud-speed-helps-sql-server-dbas-blog-microsoft-azure
 date: 2018-01-02 17:41:25 -0600
+category: 
 external-url: https://azure.microsoft.com/en-us/blog/how-cloud-speed-helps-sql-server-dbas/
 hash: a8d5dd26111e13b104159d668ce177ef
 year: 2018

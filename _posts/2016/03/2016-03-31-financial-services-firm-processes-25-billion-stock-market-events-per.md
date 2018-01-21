@@ -2,6 +2,7 @@
 title: "Financial services firm processes 25 billion stock market events per hour with Google Cloud Bigtable"
 slug: financial-services-firm-processes-25-billion-stock-market-events-per
 date: 2016-03-31 19:22:40 -0500
+category: 
 external-url: https://cloudplatform.googleblog.com/2016/03/financial-services-firm-processes-25-billion-stock-market-events-per-hour-with-Google-Cloud-Bigtable.html
 hash: 751b6f677c5da28b34ef966422ad1261
 year: 2016

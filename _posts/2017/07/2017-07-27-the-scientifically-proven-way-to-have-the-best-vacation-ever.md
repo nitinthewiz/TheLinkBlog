@@ -2,6 +2,7 @@
 title: "The Scientifically Proven Way To Have The Best Vacation Ever"
 slug: the-scientifically-proven-way-to-have-the-best-vacation-ever
 date: 2017-07-27 23:17:35 -0500
+category: 
 external-url: https://www.fastcompany.com/3048975/the-scientifically-proven-way-to-have-the-best-vacation-ever
 hash: a6706b9e80b5591467687704a7a745d5
 year: 2017

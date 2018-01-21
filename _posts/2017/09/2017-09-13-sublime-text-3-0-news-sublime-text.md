@@ -2,6 +2,7 @@
 title: "Sublime Text 3.0 - News - Sublime Text"
 slug: sublime-text-3-0-news-sublime-text
 date: 2017-09-13 12:30:13 -0500
+category: 
 external-url: https://www.sublimetext.com/blog/articles/sublime-text-3-point-0
 hash: 0fd3ccf1b6aa9965751b509044df7685
 year: 2017

@@ -2,6 +2,7 @@
 title: "F.lux: software to make your life better"
 slug: f-lux-software-to-make-your-life-better
 date: 2011-04-27 11:50:08 -0500
+category: 
 external-url: https://justgetflux.com/
 hash: 0f0f12e9e199b3e0d0d1fbb73000ab77
 year: 2011

@@ -2,6 +2,7 @@
 title: "The Dark Path"
 slug: the-dark-path
 date: 2017-01-11 12:06:21 -0600
+category: 
 external-url: http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html
 hash: 6c04f886cdaa034b325a69a3872f757a
 year: 2017

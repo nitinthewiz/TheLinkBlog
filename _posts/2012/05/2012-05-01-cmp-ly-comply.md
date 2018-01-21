@@ -2,6 +2,7 @@
 title: "CMP.LY (Comply)"
 slug: cmp-ly-comply
 date: 2012-05-01 11:39:35 -0500
+category: 
 external-url: http://getcommandpost.com
 hash: 51148da5b600e2105fc9cbdb12680d10
 year: 2012

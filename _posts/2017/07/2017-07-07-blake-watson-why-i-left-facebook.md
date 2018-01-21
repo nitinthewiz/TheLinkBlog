@@ -2,6 +2,7 @@
 title: "Blake Watson | Why I left Facebook"
 slug: blake-watson-why-i-left-facebook
 date: 2017-07-07 14:05:26 -0500
+category: 
 external-url: https://www.blakewatson.com/journal/why-i-left-facebook/
 hash: cef8aae957ec1b95ac40d519a25f031d
 year: 2017

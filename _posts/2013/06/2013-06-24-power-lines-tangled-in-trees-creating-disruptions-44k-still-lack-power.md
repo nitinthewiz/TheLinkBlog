@@ -2,6 +2,7 @@
 title: "Power lines tangled in trees creating disruptions; 44K still lack power - StarTribune.com"
 slug: power-lines-tangled-in-trees-creating-disruptions-44k-still-lack-power
 date: 2013-06-24 17:11:21 -0500
+category: 
 external-url: http://www.startribune.com/local/minneapolis/212748071.html
 hash: 9ab11f07acfdcbeeab8e3f861cc891af
 year: 2013

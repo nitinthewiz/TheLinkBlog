@@ -2,6 +2,7 @@
 title: "Salesforce Announces New Marketing Cloud Services, Empowering Retailers to Create Smarter 1-to-1 Customer Journeys - MarketWatch"
 slug: salesforce-announces-new-marketing-cloud-services-empowering-retailers
 date: 2016-01-19 21:42:05 -0600
+category: 
 external-url: http://www.marketwatch.com/story/salesforce-announces-new-marketing-cloud-services-empowering-retailers-to-create-smarter-1-to-1-customer-journeys-2016-01-19-818300
 hash: 8263f99f6ad34da06e8f9dcaf4891daa
 year: 2016

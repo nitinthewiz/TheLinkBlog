@@ -2,6 +2,7 @@
 title: "jose Home Page"
 slug: jose-home-page
 date: 2007-02-04 19:32:09 -0600
+category: 
 external-url: http://jose-chess.sourceforge.net/index.html
 hash: 0bf14373421c25cb1c16720f9338724a
 year: 2007

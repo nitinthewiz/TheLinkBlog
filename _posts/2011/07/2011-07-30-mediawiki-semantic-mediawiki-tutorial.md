@@ -2,6 +2,7 @@
 title: "MediaWiki & Semantic MediaWiki tutorial"
 slug: mediawiki-semantic-mediawiki-tutorial
 date: 2011-07-30 16:22:31 -0500
+category: 
 external-url: http://semantic-mediawiki.org/w/images/8/8b/Spring_2011_SMWCon_MediaWiki_%2B_Semantic_MediaWiki_tutorial.pdf
 hash: a2a34a77c917c19d4622426d515b278f
 year: 2011

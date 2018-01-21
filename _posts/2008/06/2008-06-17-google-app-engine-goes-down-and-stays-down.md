@@ -2,6 +2,7 @@
 title: "Google App Engine Goes Down and Stays Down"
 slug: google-app-engine-goes-down-and-stays-down
 date: 2008-06-17 16:16:41 -0500
+category: 
 external-url: http://techcrunch.com/2008/06/17/google-app-engine-goes-down-and-stays-down/
 hash: 402789ed02741df0342e53b6e5bf53b7
 year: 2008

@@ -2,6 +2,7 @@
 title: "Canon Announces the Canon EOS 6D DSLR"
 slug: canon-announces-the-canon-eos-6d-dslr
 date: 2012-10-03 21:17:54 -0500
+category: 
 external-url: http://www.canonrumors.com/2012/09/canon-announced-the-canon-eos-6d-dslr/
 hash: 1725a2679183825da4c14b6f3e8a4375
 year: 2012

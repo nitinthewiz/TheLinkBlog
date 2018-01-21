@@ -2,6 +2,7 @@
 title: "Merger Of Advertising Giants Brings Together Largest Collection Of People With No Discernible Skills - The Onion - America's Finest News Source"
 slug: merger-of-advertising-giants-brings-together-largest-collection-of-no
 date: 2013-07-31 22:15:10 -0500
+category: 
 external-url: http://www.theonion.com/articles/merger-of-advertising-giants-brings-together-large%2C33296/
 hash: f0d5d9a05b5334867331dabe9b37ab90
 year: 2013

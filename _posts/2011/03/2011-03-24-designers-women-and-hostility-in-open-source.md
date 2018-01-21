@@ -2,6 +2,7 @@
 title: "Designers, Women, and Hostility in Open Source"
 slug: designers-women-and-hostility-in-open-source
 date: 2011-03-24 22:25:38 -0500
+category: 
 external-url: http://smarterware.org/7550/designers-women-and-hostility-in-open-source
 hash: d72e365c1d4ebc9b7fd82da3b3748c0f
 year: 2011

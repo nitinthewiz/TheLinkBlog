@@ -2,6 +2,7 @@
 title: "We're Done With Kickstarter"
 slug: we-re-done-with-kickstarter
 date: 2012-03-29 16:38:40 -0500
+category: 
 external-url: http://gizmodo.com/5897449/were-done-with-kickstarter
 hash: 22d59f87bd052ab18a1e00ddd8007be2
 year: 2012

@@ -2,6 +2,7 @@
 title: "The Most Important TED Talk Ever"
 slug: the-most-important-ted-talk-ever
 date: 2016-06-13 22:32:21 -0500
+category: 
 external-url: https://www.subtraction.com/2016/06/13/the-most-important-ted-talk-ever/
 hash: fe805009b3cbc8112704ec7d4453fa82
 year: 2016

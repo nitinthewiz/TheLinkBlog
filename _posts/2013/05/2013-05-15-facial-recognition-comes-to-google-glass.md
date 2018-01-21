@@ -2,6 +2,7 @@
 title: "Facial Recognition Comes to Google Glass"
 slug: facial-recognition-comes-to-google-glass
 date: 2013-05-15 11:12:49 -0500
+category: 
 external-url: http://mashable.com/2013/05/13/google-glass-facial-recognition/
 hash: cba5d81770913b8618fff9e20665f96e
 year: 2013

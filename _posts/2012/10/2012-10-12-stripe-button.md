@@ -2,6 +2,7 @@
 title: "Stripe Button"
 slug: stripe-button
 date: 2012-10-12 13:19:55 -0500
+category: 
 external-url: https://stripe.com/docs/checkout
 hash: 52488baba729cc68bccc1aacd55c4311
 year: 2012

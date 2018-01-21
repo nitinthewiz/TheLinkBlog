@@ -2,6 +2,7 @@
 title: "Food Wishes Video Recipes: Smoked Pork Shank with White Beans"
 slug: food-wishes-video-recipes-smoked-pork-shank-with-white-beans
 date: 2010-01-23 16:56:47 -0600
+category: 
 external-url: http://foodwishes.blogspot.com/2009/09/smoked-pork-shank-with-white-beans.html
 hash: 46930cb2e46e34d3e382c8b621b3e6df
 year: 2010

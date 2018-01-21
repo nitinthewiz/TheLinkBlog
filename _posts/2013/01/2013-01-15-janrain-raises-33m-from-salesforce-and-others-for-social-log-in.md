@@ -2,6 +2,7 @@
 title: "Janrain Raises $33M From Salesforce, And Others For Social Log-In Management Platform - TechCrunch"
 slug: janrain-raises-33m-from-salesforce-and-others-for-social-log-in
 date: 2013-01-15 13:41:48 -0600
+category: 
 external-url: http://techcrunch.com/2013/01/14/janrain-raises-33m-from-salesforce-and-others-for-social-log-in-management-platform/
 hash: 3532aa48b605cc9b5c1486594d261c93
 year: 2013

@@ -2,6 +2,7 @@
 title: "Precision Decision puts it in your pocket"
 slug: precision-decision-puts-it-in-your-pocket
 date: 2012-05-31 11:37:18 -0500
+category: 
 external-url: http://tech.mn/news/2012/05/31/precision-decision/
 hash: aaf5ee6091e2ebee69641756e65927c7
 year: 2012

@@ -2,6 +2,7 @@
 title: "Nintendo Goes Back To The Well For A Wii Hit"
 slug: nintendo-goes-back-to-the-well-for-a-wii-hit
 date: 2008-03-12 15:28:00 -0500
+category: 
 external-url: http://www.businessinsider.com/2008/3/mario-kart-for-wii-announced-for-april
 hash: 9b9874721ccba22b2de2e2835040d14d
 year: 2008

@@ -2,6 +2,7 @@
 title: "The Art of Monitoring"
 slug: the-art-of-monitoring
 date: 2016-06-10 09:08:28 -0500
+category: 
 external-url: https://artofmonitoring.com/
 hash: 7706b0d8ede2027e4624a47d8c4ee573
 year: 2016

@@ -2,6 +2,7 @@
 title: "How America Ceded Capitalism’s Bastion to German Boerse"
 slug: how-america-ceded-capitalisms-bastion-to-german-boerse
 date: 2011-07-06 10:01:01 -0500
+category: 
 external-url: http://www.bloomberg.com/news/2011-07-06/how-america-ceded-capitalism-s-bastion-to-germans.html
 hash: 93aba5576a9301fe55ac34a77d071553
 year: 2011

@@ -2,6 +2,7 @@
 title: "Erlywarn Site Monitoring. Instant notification if your web site goes down."
 slug: erlywarn-site-monitoring-instant-notification-if-your-web-site-goes
 date: 2011-10-12 11:44:29 -0500
+category: 
 external-url: http://erlywarn.com/
 hash: 2ef52dfc6e1b902651cf8ad3dcb95f94
 year: 2011

@@ -2,6 +2,7 @@
 title: "1Password 7 now Available for iOS —Tools and Toys"
 slug: 1password-7-now-available-for-ios-tools-and-toys
 date: 2017-11-02 22:13:15 -0500
+category: 
 external-url: http://toolsandtoys.net/1password-7-ios/
 hash: 17af26fe2db26c71913fbda3cbc052eb
 year: 2017

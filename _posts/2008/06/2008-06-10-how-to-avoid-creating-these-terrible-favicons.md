@@ -2,6 +2,7 @@
 title: "How To Avoid Creating These Terrible Favicons"
 slug: how-to-avoid-creating-these-terrible-favicons
 date: 2008-06-10 01:38:24 -0500
+category: 
 external-url: http://performancing.co.uk/
 hash: ac598792c2158c6a2dc44347a13bd1af
 year: 2008

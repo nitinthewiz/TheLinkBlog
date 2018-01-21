@@ -2,6 +2,7 @@
 title: "The Most Important Food Article in Years"
 slug: the-most-important-food-article-in-years
 date: 2009-10-05 13:24:54 -0500
+category: 
 external-url: http://mspmag.com/Blogs/Chow-Again/November-2013/the-most-important-food-article-in-years/
 hash: 5eb06102ce57664e25950aac59600fa4
 year: 2009

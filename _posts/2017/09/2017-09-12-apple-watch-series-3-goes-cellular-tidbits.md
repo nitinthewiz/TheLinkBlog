@@ -2,6 +2,7 @@
 title: "Apple Watch Series 3 Goes Cellular - TidBITS"
 slug: apple-watch-series-3-goes-cellular-tidbits
 date: 2017-09-12 22:28:36 -0500
+category: 
 external-url: http://tidbits.com/article/17461?rss
 hash: 7ec13a042305dd7e7bb97cad47cfd831
 year: 2017

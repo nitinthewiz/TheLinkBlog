@@ -2,6 +2,7 @@
 title: "Bicyclist Safety & Crashes"
 slug: bicyclist-safety-crashes
 date: 2013-01-19 07:30:36 -0600
+category: 
 external-url: http://www.minneapolismn.gov/bicycles/data/safety
 hash: 96706e8bf57052685d9800f485dbd32a
 year: 2013

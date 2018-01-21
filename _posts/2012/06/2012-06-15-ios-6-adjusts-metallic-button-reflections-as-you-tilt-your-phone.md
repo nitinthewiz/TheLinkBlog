@@ -2,6 +2,7 @@
 title: "IOS 6 adjusts metallic button reflections as you tilt your phone"
 slug: ios-6-adjusts-metallic-button-reflections-as-you-tilt-your-phone
 date: 2012-06-15 14:32:07 -0500
+category: 
 external-url: http://www.theverge.com/2012/6/13/3082329/ios-6-button-tilt-change-reflection
 hash: 485b8935e7466d91260c0511c5bb9137
 year: 2012

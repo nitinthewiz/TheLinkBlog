@@ -2,6 +2,7 @@
 title: "Manage Your Day-to-Day"
 slug: manage-your-day-to-day
 date: 2013-06-11 20:22:54 -0500
+category: 
 external-url: http://99u.com/book/manage-your-day-to-day-2
 hash: 18383e3dad1650e3de9dbe9bd38c1c02
 year: 2013

@@ -2,6 +2,7 @@
 title: "Architecture astronauts take over"
 slug: architecture-astronauts-take-over
 date: 2008-05-01 00:01:57 -0500
+category: 
 external-url: http://www.joelonsoftware.com/items/2008/05/01.html
 hash: e5c51a4d53f5d4e77805a6a1a77a7379
 year: 2008

@@ -2,6 +2,7 @@
 title: "Nginx, SPDY, and Automattic"
 slug: nginx-spdy-and-automattic
 date: 2012-06-17 06:58:21 -0500
+category: 
 external-url: http://barry.wordpress.com/2012/06/16/nginx-spdy-and-automattic/
 hash: 639c612e4606ea11a5a3001dff81a2db
 year: 2012

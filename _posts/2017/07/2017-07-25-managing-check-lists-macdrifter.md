@@ -2,6 +2,7 @@
 title: "Managing Check Lists —Macdrifter"
 slug: managing-check-lists-macdrifter
 date: 2017-07-25 18:42:07 -0500
+category: 
 external-url: http://www.macdrifter.com/2017/07/managing-check-lists.html
 hash: 0a3c8aa1bcc9ee0008769cff4287d52b
 year: 2017

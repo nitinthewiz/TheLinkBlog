@@ -2,6 +2,7 @@
 title: "Tease Tease Tease"
 slug: tease-tease-tease
 date: 2009-09-07 22:53:11 -0500
+category: 
 external-url: http://scripting.com/stories/2009/09/07/teaseTeaseTease.html
 hash: 99b462f327bb6f2c2a82fe6961c23036
 year: 2009

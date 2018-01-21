@@ -2,6 +2,7 @@
 title: "Frank Warren: Half a million secrets"
 slug: frank-warren-half-a-million-secrets
 date: 2012-05-12 15:53:40 -0500
+category: 
 external-url: http://www.ted.com/talks/frank_warren_half_a_million_secrets
 hash: 3deef735b83cee6d20726a6855bf9f55
 year: 2012

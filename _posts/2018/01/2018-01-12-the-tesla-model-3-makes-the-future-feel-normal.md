@@ -2,6 +2,7 @@
 title: "The Tesla Model 3 Makes The Future Feel Normal"
 slug: the-tesla-model-3-makes-the-future-feel-normal
 date: 2018-01-12 18:54:10 -0600
+category: 
 external-url: https://jalopnik.com/the-tesla-model-3-makes-the-future-feel-normal-1821684820
 hash: 249ca517e42851b102e88624e1647f2f
 year: 2018

@@ -2,6 +2,7 @@
 title: "Ops: It's everyone's job now | Opensource.com"
 slug: ops-it-s-everyone-s-job-now-opensource-com
 date: 2017-08-04 23:38:53 -0500
+category: 
 external-url: https://opensource.com/article/17/7/state-systems-administration
 hash: 42489687e1933cd3d5ba18429bca152a
 year: 2017

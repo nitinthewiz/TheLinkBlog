@@ -2,6 +2,7 @@
 title: "Cory Doctorow: Persuasion, Adaptation, and the Arms Race for Your Attention – Locus Online"
 slug: cory-doctorow-persuasion-adaptation-and-the-arms-race-for-your-locus
 date: 2018-01-12 06:47:01 -0600
+category: 
 external-url: http://locusmag.com/2018/01/cory-doctorow-persuasion-adaptation-and-the-arms-race-for-your-attention/
 hash: 1a5755df3d094cc34f0a3ea08d6185ea
 year: 2018

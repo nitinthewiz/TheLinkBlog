@@ -2,6 +2,7 @@
 title: "2009 venture investments lowest since 1997, cleantech fell 52 percent (MoneyTree report)"
 slug: 2009-venture-investments-lowest-since-1997-cleantech-fell-52-percent
 date: 2010-01-21 23:00:38 -0600
+category: 
 external-url: http://venturebeat.com/2010/01/21/moneytree-venture-capital-investment/
 hash: 624ae980aaf618c70b6f348ce7ccca95
 year: 2010

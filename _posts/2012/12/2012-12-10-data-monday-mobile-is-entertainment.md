@@ -2,6 +2,7 @@
 title: "Data Monday: Mobile Is Entertainment"
 slug: data-monday-mobile-is-entertainment
 date: 2012-12-10 10:12:14 -0600
+category: 
 external-url: http://www.lukew.com/ff/entry.asp?1673
 hash: df929fce8fa17c2a7315630e2abc22c1
 year: 2012

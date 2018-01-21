@@ -2,6 +2,7 @@
 title: "Location, Location, Location"
 slug: location-location-location
 date: 2009-08-23 06:58:12 -0500
+category: 
 external-url: http://blog.twitter.com/2009/08/location-location-location.html
 hash: fae92929ef434427413e8d5d757ac58c
 year: 2009

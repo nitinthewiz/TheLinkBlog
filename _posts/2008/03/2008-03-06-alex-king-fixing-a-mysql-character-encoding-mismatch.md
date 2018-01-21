@@ -2,6 +2,7 @@
 title: "Alex King: Fixing a MySQL Character Encoding Mismatch"
 slug: alex-king-fixing-a-mysql-character-encoding-mismatch
 date: 2008-03-06 01:13:55 -0600
+category: 
 external-url: http://alexking.org/blog/2008/03/06/mysql-latin1-utf8-conversion
 hash: 8a370f73d1a3b1f9261a8416a4f45a5b
 year: 2008

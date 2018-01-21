@@ -2,6 +2,7 @@
 title: "Why Valve? Or, what do we need corporations for and how does Valves management structure fit into todays corporate world? - Valve"
 slug: why-valve-or-what-do-we-need-corporations-for-and-how-does-valves-fit
 date: 2012-08-05 02:00:05 -0500
+category: 
 external-url: http://blogs.valvesoftware.com/economics/why-valve-or-what-do-we-need-corporations-for-and-how-does-valves-management-structure-fit-into-todays-corporate-world/
 hash: 70b0ccc02ef7c4e85eec6094753847b3
 year: 2012

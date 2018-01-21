@@ -2,6 +2,7 @@
 title: "Python and Django on Heroku"
 slug: python-and-django-on-heroku
 date: 2011-09-29 10:30:47 -0500
+category: 
 external-url: https://blog.heroku.com/archives/2011/9/28/python_and_django
 hash: e292b212d53b7d160294e028f0f146f8
 year: 2011

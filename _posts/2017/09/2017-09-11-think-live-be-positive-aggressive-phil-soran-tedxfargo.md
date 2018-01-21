@@ -2,6 +2,7 @@
 title: "Think, live, be positive aggressive | Phil Soran | TEDxFargo"
 slug: think-live-be-positive-aggressive-phil-soran-tedxfargo
 date: 2017-09-11 08:35:30 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=digQkAFiX_w
 hash: 8290e9576a5f036063ab7c6a7b2d84a7
 year: 2017

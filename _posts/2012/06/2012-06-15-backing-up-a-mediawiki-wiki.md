@@ -2,6 +2,7 @@
 title: "Backing up a MediaWiki wiki"
 slug: backing-up-a-mediawiki-wiki
 date: 2012-06-15 19:47:56 -0500
+category: 
 external-url: http://www.mediawiki.org/wiki/Manual:Backing_up_a_wiki
 hash: e321d1691fdbec6ca920681a86bea8d0
 year: 2012

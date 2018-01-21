@@ -2,6 +2,7 @@
 title: "Learning to operate Kubernetes reliably"
 slug: learning-to-operate-kubernetes-reliably
 date: 2018-01-12 18:53:36 -0600
+category: 
 external-url: https://stripe.com/blog/operating-kubernetes
 hash: e0d5db1e904467a76de7d30f4a1e3d46
 year: 2018

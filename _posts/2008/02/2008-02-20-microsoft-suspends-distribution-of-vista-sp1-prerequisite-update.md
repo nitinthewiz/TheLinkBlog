@@ -2,6 +2,7 @@
 title: "Microsoft suspends distribution of Vista SP1 prerequisite update"
 slug: microsoft-suspends-distribution-of-vista-sp1-prerequisite-update
 date: 2008-02-20 00:35:00 -0600
+category: 
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=42744
 hash: 6d24a9a8e05af6ab71427b14a44212cb
 year: 2008

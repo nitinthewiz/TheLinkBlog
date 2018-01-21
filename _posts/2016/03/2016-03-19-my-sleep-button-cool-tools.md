@@ -2,6 +2,7 @@
 title: "My Sleep Button | Cool Tools"
 slug: my-sleep-button-cool-tools
 date: 2016-03-19 19:08:09 -0500
+category: 
 external-url: http://kk.org/cooltools/my-sleep-button/
 hash: 637ce24ce4982e7eeb2d9b186966bcd6
 year: 2016

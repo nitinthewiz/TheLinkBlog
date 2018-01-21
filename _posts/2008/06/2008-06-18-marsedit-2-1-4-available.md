@@ -2,6 +2,7 @@
 title: "MarsEdit 2.1.4 available"
 slug: marsedit-2-1-4-available
 date: 2008-06-18 17:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/06/18/marsedit-2-1-4-available/
 hash: 2a42d3c90d88b6fa834f589fdd951d45
 year: 2008

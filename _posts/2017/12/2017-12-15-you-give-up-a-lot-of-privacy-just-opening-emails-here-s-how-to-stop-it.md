@@ -2,6 +2,7 @@
 title: "You Give Up a Lot of Privacy Just Opening Emails. Here's How to Stop It | WIRED"
 slug: you-give-up-a-lot-of-privacy-just-opening-emails-here-s-how-to-stop-it
 date: 2017-12-15 06:45:26 -0600
+category: 
 external-url: https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/
 hash: c635d3af067e964c87b6478f42a24f22
 year: 2017

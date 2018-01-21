@@ -2,6 +2,7 @@
 title: "All The Webcams"
 slug: all-the-webcams
 date: 2013-04-14 16:56:33 -0500
+category: 
 external-url: https://cryptogasm.com/2012/10/all-the-webcams/
 hash: 6fc463115f29a5f09f435ccb77e4d15a
 year: 2013

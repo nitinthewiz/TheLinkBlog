@@ -2,6 +2,7 @@
 title: "PHP Fog — Rock Solid Cloud Platform for PHP"
 slug: php-fog-rock-solid-cloud-platform-for-php
 date: 2011-12-14 09:41:49 -0600
+category: 
 external-url: https://phpfog.com/
 hash: 62673c08076660d0dab601a1ba600045
 year: 2011

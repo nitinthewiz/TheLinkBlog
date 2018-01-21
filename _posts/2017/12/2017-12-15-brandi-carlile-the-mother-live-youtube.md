@@ -2,6 +2,7 @@
 title: "Brandi Carlile - The Mother (Live) - YouTube"
 slug: brandi-carlile-the-mother-live-youtube
 date: 2017-12-15 22:18:45 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=z865nKpgH0Q
 hash: 40766b276501e01f449adcb6ba4a0840
 year: 2017

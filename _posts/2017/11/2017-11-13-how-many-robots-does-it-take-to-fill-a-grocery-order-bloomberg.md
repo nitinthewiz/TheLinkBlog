@@ -2,6 +2,7 @@
 title: "How Many Robots Does It Take to Fill a Grocery Order? - Bloomberg"
 slug: how-many-robots-does-it-take-to-fill-a-grocery-order-bloomberg
 date: 2017-11-13 20:30:31 -0600
+category: 
 external-url: https://www.bloomberg.com/news/articles/2017-11-06/how-many-robots-does-it-take-to-fill-a-grocery-order
 hash: df2ae98f532b8cef827a3900f080236f
 year: 2017

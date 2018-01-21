@@ -2,6 +2,7 @@
 title: "Reasons Kubernetes is cool — Julia Evans"
 slug: reasons-kubernetes-is-cool-julia-evans
 date: 2017-10-05 22:12:54 -0500
+category: 
 external-url: https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/
 hash: bfccf98bfa10c3f1b274a21a037f275a
 year: 2017

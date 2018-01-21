@@ -2,6 +2,7 @@
 title: "Going dark: online privacy and anonymity for normal people"
 slug: going-dark-online-privacy-and-anonymity-for-normal-people
 date: 2016-05-20 05:36:24 -0500
+category: 
 external-url: https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/
 hash: d634e2687ebcd56482fcc5274d2e0fea
 year: 2016

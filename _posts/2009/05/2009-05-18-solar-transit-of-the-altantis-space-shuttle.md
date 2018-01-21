@@ -2,6 +2,7 @@
 title: "Solar Transit of the Altantis Space Shuttle"
 slug: solar-transit-of-the-altantis-space-shuttle
 date: 2009-05-18 10:21:34 -0500
+category: 
 external-url: http://www.todayandtomorrow.net/2009/05/18/solar-transit-of-the-altantis-space-shuttle/
 hash: 3dd9a37ee6006d3ccadeac81ec10ed52
 year: 2009

@@ -2,6 +2,7 @@
 title: "Ghostwriting Widespread in Medical Journals, Study Says - NYTimes.com"
 slug: ghostwriting-widespread-in-medical-journals-study-says-nytimes-com
 date: 2009-10-05 12:26:01 -0500
+category: 
 external-url: http://www.nytimes.com/2009/09/11/business/11ghost.html
 hash: 2fdbecdf06b0ce6d333a19e813be4f5f
 year: 2009

@@ -2,6 +2,7 @@
 title: "How to Build Backyard Horseshoe Pits - Dads Round Table"
 slug: how-to-build-backyard-horseshoe-pits-dads-round-table
 date: 2016-03-07 20:23:08 -0600
+category: 
 external-url: http://dadsroundtable.com/sports-2/2013/07/how-to-build-backyard-horseshoe-pits/
 hash: b2bc2e24111f324fe2704656cf169edc
 year: 2016

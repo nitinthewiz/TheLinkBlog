@@ -2,6 +2,7 @@
 title: "The Wikidata revolution is here: enabling structured data on Wikipedia Wikimedia blog"
 slug: the-wikidata-revolution-is-here-enabling-structured-data-on-wikipedia
 date: 2013-04-25 16:46:18 -0500
+category: 
 external-url: http://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/
 hash: 1f05757e5239ba4bb1948bf31484796d
 year: 2013

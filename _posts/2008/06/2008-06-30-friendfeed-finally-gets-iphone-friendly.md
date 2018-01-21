@@ -2,6 +2,7 @@
 title: "FriendFeed Finally Gets iPhone-Friendly"
 slug: friendfeed-finally-gets-iphone-friendly
 date: 2008-06-30 20:45:40 -0500
+category: 
 external-url: http://techcrunch.com/2008/06/30/friendfeed-finally-gets-iphone-friendly/
 hash: 3e8693e5333b7bc095c72d60c9ddd14d
 year: 2008

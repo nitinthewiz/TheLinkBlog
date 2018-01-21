@@ -2,6 +2,7 @@
 title: "Ten years in, nobody has come up with a use for blockchain"
 slug: ten-years-in-nobody-has-come-up-with-a-use-for-blockchain
 date: 2017-12-26 08:50:52 -0600
+category: 
 external-url: https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100
 hash: 5307d15ab35b786061e3e4bdc51266fa
 year: 2017

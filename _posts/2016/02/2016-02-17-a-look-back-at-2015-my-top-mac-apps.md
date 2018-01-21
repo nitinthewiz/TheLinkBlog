@@ -2,6 +2,7 @@
 title: "A look back at 2015: My Top Mac Apps"
 slug: a-look-back-at-2015-my-top-mac-apps
 date: 2016-02-17 22:11:55 -0600
+category: 
 external-url: http://brettterpstra.com/2016/02/17/a-look-back-at-2015-my-top-mac-apps/
 hash: 6fcacecfad8e6354e1fd2a76bed9c6b0
 year: 2016

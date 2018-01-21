@@ -2,6 +2,7 @@
 title: "Kevin Rose Cant Keep Up With E-mail; Blaine Cook Cant Wait To Speak With a Human"
 slug: kevin-rose-cant-keep-up-with-e-mail-blaine-cook-cant-wait-to-speak-a
 date: 2008-03-02 09:22:48 -0600
+category: 
 external-url: http://techcrunch.com/2008/03/02/kevin-rose-cant-keep-up-with-e-mail-blaine-cook-cant-wait-to-speak-with-a-human/
 hash: 3269d5c3099891945f366ec4c2a6f18f
 year: 2008

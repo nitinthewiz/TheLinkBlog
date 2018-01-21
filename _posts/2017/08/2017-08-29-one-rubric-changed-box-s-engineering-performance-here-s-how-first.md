@@ -2,6 +2,7 @@
 title: "One Rubric Changed Box's Engineering Performance — Here's How | First Round Review"
 slug: one-rubric-changed-box-s-engineering-performance-here-s-how-first
 date: 2017-08-29 11:11:25 -0500
+category: 
 external-url: http://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/
 hash: f79aa617424fbc67ae7b57782bd31f02
 year: 2017

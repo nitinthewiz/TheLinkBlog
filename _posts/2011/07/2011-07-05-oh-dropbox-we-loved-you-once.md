@@ -2,6 +2,7 @@
 title: "Oh Dropbox, We Loved You Once..."
 slug: oh-dropbox-we-loved-you-once
 date: 2011-07-05 16:07:04 -0500
+category: 
 external-url: http://www.rolandschorr.com/blogs/index.php/oh-dropbox-we-loved-you?blog=6
 hash: 6916f556b30b5946eddcfd336ce20fb8
 year: 2011

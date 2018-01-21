@@ -2,6 +2,7 @@
 title: "Snowden-Backed App 'Haven' Turns Your Phone Into a Home Security System | WIRED"
 slug: snowden-backed-app-haven-turns-your-phone-into-a-home-security-system
 date: 2017-12-23 07:59:30 -0600
+category: 
 external-url: https://www.wired.com/story/snowden-haven-app-turns-phone-into-home-security-system/
 hash: 8f6f75f65db68bd9231708d5c56e888c
 year: 2017

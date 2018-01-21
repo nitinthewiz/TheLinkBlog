@@ -2,6 +2,7 @@
 title: "The Listserve"
 slug: the-listserve
 date: 2012-07-05 15:21:32 -0500
+category: 
 external-url: http://thelistserve.com/
 hash: 6e4f25d981236483def35277866aa736
 year: 2012

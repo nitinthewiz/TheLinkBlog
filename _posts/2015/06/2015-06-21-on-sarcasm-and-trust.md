@@ -2,6 +2,7 @@
 title: "On Sarcasm and Trust"
 slug: on-sarcasm-and-trust
 date: 2015-06-21 15:54:21 -0500
+category: 
 external-url: http://beero.ps/2015/06/21/on-sarcasm-and-trust/
 hash: 7e1382cf45a7e2f979265fbf16f6815d
 year: 2015

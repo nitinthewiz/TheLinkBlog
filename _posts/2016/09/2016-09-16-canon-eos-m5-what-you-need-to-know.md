@@ -2,6 +2,7 @@
 title: "Canon EOS M5: What you need to know"
 slug: canon-eos-m5-what-you-need-to-know
 date: 2016-09-16 20:33:13 -0500
+category: 
 external-url: http://www.dpreview.com/news/2458224796/hands-on-with-canon-s-eos-m5
 hash: 6fcaa13712c514ebf8dcbceb33c2c756
 year: 2016

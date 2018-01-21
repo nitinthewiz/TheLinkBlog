@@ -2,6 +2,7 @@
 title: "Greenland"
 slug: greenland
 date: 2012-11-26 07:28:36 -0600
+category: 
 external-url: http://vimeo.com/49718637
 hash: ecfdb36a9282177ef277b4cb896c6ae4
 year: 2012

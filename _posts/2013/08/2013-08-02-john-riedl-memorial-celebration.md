@@ -2,6 +2,7 @@
 title: "John Riedl Memorial Celebration"
 slug: john-riedl-memorial-celebration
 date: 2013-08-02 10:46:16 -0500
+category: 
 external-url: http://www.cs.umn.edu/RiedlMemorial
 hash: be8b0f362548849b0ed746dce864f61b
 year: 2013

@@ -2,6 +2,7 @@
 title: "Where Are All The Google Data Centers?"
 slug: where-are-all-the-google-data-centers
 date: 2008-04-11 16:38:59 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/11/where-are-all-the-google-data-centers/
 hash: b096c822347aaff47a4cf9143d3f8b49
 year: 2008

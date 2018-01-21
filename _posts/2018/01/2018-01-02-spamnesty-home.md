@@ -2,6 +2,7 @@
 title: "Spamnesty - Home"
 slug: spamnesty-home
 date: 2018-01-02 17:37:22 -0600
+category: 
 external-url: https://spa.mnesty.com/
 hash: 3c1b8a765b2f03cb8def9331df7d3e9e
 year: 2018

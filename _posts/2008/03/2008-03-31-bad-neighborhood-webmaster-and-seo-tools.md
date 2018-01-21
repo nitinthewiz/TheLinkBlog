@@ -2,6 +2,7 @@
 title: "Bad Neighborhood - Webmaster and SEO Tools"
 slug: bad-neighborhood-webmaster-and-seo-tools
 date: 2008-03-31 12:53:10 -0500
+category: 
 external-url: http://www.bad-neighborhood.com/
 hash: ab395637e6e305622b0efcc8bc045d61
 year: 2008

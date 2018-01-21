@@ -2,6 +2,7 @@
 title: "Pinbook 1.2 Gets iPad Support, Editing, Title Auto-Complete"
 slug: pinbook-1-2-gets-ipad-support-editing-title-auto-complete
 date: 2012-12-12 17:10:59 -0600
+category: 
 external-url: http://www.macstories.net/news/pinbook-1-2-gets-ipad-support-editing-title-auto-complete/
 hash: 6dd077537fbf155953c6700a68f9c099
 year: 2012

@@ -2,6 +2,7 @@
 title: "New MindNode Screencast Series"
 slug: new-mindnode-screencast-series
 date: 2016-08-02 14:50:03 -0500
+category: 
 external-url: https://mindnode.com/support/screencasts
 hash: 76934f18488f4fa420bba721bdbb0ccf
 year: 2016

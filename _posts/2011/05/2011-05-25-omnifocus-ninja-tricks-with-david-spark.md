@@ -2,6 +2,7 @@
 title: "OmniFocus Ninja Tricks with David Spark"
 slug: omnifocus-ninja-tricks-with-david-spark
 date: 2011-05-25 21:03:00 -0500
+category: 
 external-url: http://www.omnigroup.com/blog/omnifocus_ninja_tricks_with_david_sparks/
 hash: 11d0a1dcaf57edbf8977a065afbf73b2
 year: 2011

@@ -2,6 +2,7 @@
 title: "Mindfulness - CBS News"
 slug: mindfulness-cbs-news
 date: 2014-12-15 08:15:50 -0600
+category: 
 external-url: http://www.cbsnews.com/news/mindfulness-anderson-cooper-60-minutes/
 hash: 709f8a0fe24369891dff3639db044149
 year: 2014

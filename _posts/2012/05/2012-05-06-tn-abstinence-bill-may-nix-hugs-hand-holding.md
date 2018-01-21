@@ -2,6 +2,7 @@
 title: "TN Abstinence Bill May Nix Hugs, Hand-Holding"
 slug: tn-abstinence-bill-may-nix-hugs-hand-holding
 date: 2012-05-06 23:09:04 -0500
+category: 
 external-url: http://blogs.findlaw.com/law_and_life/2012/05/tn-abstinence-bill-may-nix-hugs-hand-holding.html
 hash: 4102e1de25f905dc1c96c60d3957338f
 year: 2012

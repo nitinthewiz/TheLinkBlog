@@ -2,6 +2,7 @@
 title: "Terminal Tip: Enable half-star ratings in iTunes"
 slug: terminal-tip-enable-half-star-ratings-in-itunes
 date: 2008-12-31 10:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/12/31/terminal-tip-enable-half-star-ratings-in-itunes/
 hash: a597ba58568ec4b83f93f35927377b78
 year: 2008

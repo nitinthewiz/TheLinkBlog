@@ -2,6 +2,7 @@
 title: "GitHub - Introducing Team discussions"
 slug: github-introducing-team-discussions
 date: 2017-11-21 20:01:35 -0600
+category: 
 external-url: https://github.com/blog/2471-introducing-team-discussions
 hash: 5d27d55ea6cbdb39d1d66aafd0608780
 year: 2017

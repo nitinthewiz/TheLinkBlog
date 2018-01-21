@@ -2,6 +2,7 @@
 title: "LitePlayer"
 slug: liteplayer
 date: 2012-06-12 11:17:39 -0500
+category: 
 external-url: https://github.com/thingles/coco-liteplayer
 hash: 4e593b1b09bf87dcafd31f4e185a1e2e
 year: 2012

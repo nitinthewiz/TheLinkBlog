@@ -2,6 +2,7 @@
 title: "Dogwood Coffee: Riding the Third Wave"
 slug: dogwood-coffee-riding-the-third-wave
 date: 2010-12-14 19:36:46 -0600
+category: 
 external-url: http://simplegoodandtasty.com/2010/12/01/dogwood-coffee-riding-the-third-wave
 hash: ed55a15b9d0e9762c5e36c83fd0f2481
 year: 2010

@@ -2,6 +2,7 @@
 title: "Thanks For Ruining Another Game Forever, Computers"
 slug: thanks-for-ruining-another-game-forever-computers
 date: 2016-03-25 18:41:25 -0500
+category: 
 external-url: http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/
 hash: 81da6d5d9e00c965970d149a7375bb03
 year: 2016

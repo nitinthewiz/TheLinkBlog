@@ -2,6 +2,7 @@
 title: "Improve Your Blog by Showing Up"
 slug: improve-your-blog-by-showing-up
 date: 2007-12-27 22:28:21 -0600
+category: 
 external-url: http://www.problogger.net/archives/2007/12/28/improve-your-blog-by-showing-up/
 hash: 6fc125ea5c2b30dcec3f88a1980ad07b
 year: 2007

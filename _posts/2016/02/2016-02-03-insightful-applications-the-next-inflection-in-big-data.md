@@ -2,6 +2,7 @@
 title: "Insightful applications: The next inflection in big data"
 slug: insightful-applications-the-next-inflection-in-big-data
 date: 2016-02-03 05:04:13 -0600
+category: 
 external-url: https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data
 hash: 94eccc890dfd6df524dfb04f766275ab
 year: 2016

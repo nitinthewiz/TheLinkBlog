@@ -2,6 +2,7 @@
 title: "Share the Model | Salesforce Foundation"
 slug: share-the-model-salesforce-foundation
 date: 2014-12-11 20:29:44 -0600
+category: 
 external-url: http://www.salesforcefoundation.org/about-us/sharethemodel/
 hash: 315214916e96eea75ef5b2c2a5f63a18
 year: 2014

@@ -2,6 +2,7 @@
 title: "Learn Cocoa With Me"
 slug: learn-cocoa-with-me
 date: 2008-09-04 12:46:00 -0500
+category: 
 external-url: http://www.clarkware.com/blog/2008/09/04/learn-cocoa-with-me
 hash: 9885bbd92628e48ef36432ef2508373c
 year: 2008

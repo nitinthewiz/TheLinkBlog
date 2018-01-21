@@ -2,6 +2,7 @@
 title: "Installing CrashPlan on a PogoPlug Pro"
 slug: installing-crashplan-on-a-pogoplug-pro
 date: 2011-07-16 09:47:24 -0500
+category: 
 external-url: http://www.opticality.com/blog/2011/07/16/installing-crashplan-on-a-pogoplug-pro/
 hash: 039dc141953356a9f511b0ff9c4def40
 year: 2011

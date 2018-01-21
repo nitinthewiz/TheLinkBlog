@@ -2,6 +2,7 @@
 title: "Technology built into mannequins helping stores track customers"
 slug: technology-built-into-mannequins-helping-stores-track-customers
 date: 2012-11-25 20:38:00 -0600
+category: 
 external-url: http://www.pcworld.com/article/2016600/technology-built-into-mannequins-helping-stores-track-customers.html
 hash: 55e44a432a7ab2b5871f49fa9f92fa85
 year: 2012

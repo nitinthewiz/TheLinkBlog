@@ -2,6 +2,7 @@
 title: "'NeuroTribes' Examines The History — And Myths — Of The Autism Spectrum"
 slug: neurotribes-examines-the-history-and-myths-of-the-autism-spectrum
 date: 2015-09-04 21:00:07 -0500
+category: 
 external-url: http://www.npr.org/sections/health-shots/2015/09/02/436742377/neurotribes-examines-the-history-and-myths-of-the-autism-spectrum
 hash: 6c83f9ab8295ca9942ef600a0c6438e7
 year: 2015

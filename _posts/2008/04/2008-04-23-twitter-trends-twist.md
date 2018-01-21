@@ -2,6 +2,7 @@
 title: "Twitter Trends: Twist"
 slug: twitter-trends-twist
 date: 2008-04-23 10:08:05 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/23/twitter-trends-twist/
 hash: 383823ace932f82ead1fd5225f164d57
 year: 2008

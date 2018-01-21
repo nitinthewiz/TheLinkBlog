@@ -2,6 +2,7 @@
 title: "Exploring the iMessage App Store One Month Later: Our Favorite Stickers and iMessage Apps"
 slug: exploring-the-imessage-app-store-one-month-later-our-favorite-stickers
 date: 2016-10-15 14:22:12 -0500
+category: 
 external-url: https://www.macstories.net/roundups/exploring-the-imessage-app-store-one-month-later-our-favorite-stickers-and-imessage-apps/
 hash: 6483ec4babd117e8b5d4f37c24f66132
 year: 2016

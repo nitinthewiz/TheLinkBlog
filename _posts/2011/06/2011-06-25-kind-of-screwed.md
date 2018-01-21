@@ -2,6 +2,7 @@
 title: "Kind of Screwed"
 slug: kind-of-screwed
 date: 2011-06-25 18:11:59 -0500
+category: 
 external-url: http://waxy.org/2011/06/kind_of_screwed/
 hash: 8faf37f2905dcb21943f9e40dd6c1d6d
 year: 2011

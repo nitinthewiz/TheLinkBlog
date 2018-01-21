@@ -2,6 +2,7 @@
 title: "On Day One — The Hungry and Foolish"
 slug: on-day-one-the-hungry-and-foolish
 date: 2014-11-07 22:55:59 -0600
+category: 
 external-url: http://www.thehungryandfoolish.com/home/2014/11/6/day-one-review
 hash: 07f4c8fc59b062fe88d26406d7c2c6c8
 year: 2014

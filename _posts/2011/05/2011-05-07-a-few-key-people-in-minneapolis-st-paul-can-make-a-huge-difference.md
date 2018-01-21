@@ -2,6 +2,7 @@
 title: "A Few Key People in Minneapolis/St. Paul Can Make a Huge Difference"
 slug: a-few-key-people-in-minneapolis-st-paul-can-make-a-huge-difference
 date: 2011-05-07 08:52:40 -0500
+category: 
 external-url: http://rstephens.blogspot.com/2011/05/few-key-people-in-minneapolisst-paul.html
 hash: b0176c501c19106d2ecb7350cf57e8c8
 year: 2011

@@ -2,6 +2,7 @@
 title: "monitors.txt - lazy webapp monitoring"
 slug: monitors-txt-lazy-webapp-monitoring
 date: 2011-11-08 14:14:28 -0600
+category: 
 external-url: http://monitorstxt.org/
 hash: e8bed28dc89db27af0b8d55104a033a4
 year: 2011

@@ -2,6 +2,7 @@
 title: "Philip Hotchkiss Joins Klout as Chief Product Officer Measuring Online Influence: The Official Klout Blog"
 slug: philip-hotchkiss-joins-klout-as-chief-product-officer-measuring-online
 date: 2010-09-30 15:54:44 -0500
+category: 
 external-url: http://blog.klout.com/2010/09/philip-hotchkiss-joins-klout-as-chief-product-officer/
 hash: 720f02777e75ca86561d19d91b09eed1
 year: 2010

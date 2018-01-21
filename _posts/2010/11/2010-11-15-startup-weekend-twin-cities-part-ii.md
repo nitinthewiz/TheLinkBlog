@@ -2,6 +2,7 @@
 title: "Startup Weekend Twin Cities Part II"
 slug: startup-weekend-twin-cities-part-ii
 date: 2010-11-15 16:32:23 -0600
+category: 
 external-url: http://www.projectskyway.com/startup-weekend-twin-cities-part-ii/
 hash: 32a0b9b0ac0044a978b7a11005ac7187
 year: 2010

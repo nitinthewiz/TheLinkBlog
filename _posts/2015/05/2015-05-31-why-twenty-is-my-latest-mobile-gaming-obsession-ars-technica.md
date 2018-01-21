@@ -2,6 +2,7 @@
 title: "Why Twenty is my latest mobile gaming obsession | Ars Technica"
 slug: why-twenty-is-my-latest-mobile-gaming-obsession-ars-technica
 date: 2015-05-31 05:44:35 -0500
+category: 
 external-url: http://arstechnica.com/gaming/2015/05/why-twenty-is-my-latest-mobile-gaming-obsession/#p3
 hash: ab3d750087e3eb818d57f5f952e7a95c
 year: 2015

@@ -2,6 +2,7 @@
 title: "The Way We Hire Is All Wrong — Backchannel — Medium"
 slug: the-way-we-hire-is-all-wrong-backchannel-medium
 date: 2015-01-30 20:51:44 -0600
+category: 
 external-url: https://medium.com/backchannel/the-way-we-hire-is-all-wrong-3e19e2051f3e
 hash: 1d0ffd40321406219476ea2e66090f76
 year: 2015

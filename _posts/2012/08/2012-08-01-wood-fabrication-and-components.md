@@ -2,6 +2,7 @@
 title: "Wood Fabrication and Components"
 slug: wood-fabrication-and-components
 date: 2012-08-01 14:15:23 -0500
+category: 
 external-url: http://www.odcinc.com/Wood_Fabrication_and_Components_2621.cfm
 hash: 3e4d13c6d5288678e13f8ec479137459
 year: 2012

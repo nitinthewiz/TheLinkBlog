@@ -2,6 +2,7 @@
 title: "Canon EOS 5D Mark II 21.1MP Digital SLR Camera Body for $2,500 + free shipping"
 slug: canon-eos-5d-mark-ii-21-1mp-digital-slr-camera-body-for-2500-free
 date: 2009-06-04 21:15:40 -0500
+category: 
 external-url: http://9to5mac.com/2009/05/29/canon-eos-5d-mark-ii-21-1mp-digital-slr-camera-body-for-2500-free-shipping/
 hash: 6731073ac61f0076bdb1fb6d699a14c0
 year: 2009

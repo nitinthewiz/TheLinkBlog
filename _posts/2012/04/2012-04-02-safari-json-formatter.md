@@ -2,6 +2,7 @@
 title: "Safari JSON Formatter"
 slug: safari-json-formatter
 date: 2012-04-02 17:54:41 -0500
+category: 
 external-url: https://github.com/rfletcher/safari-json-formatter
 hash: 220ed02d7636f568773f278f67ebe7ff
 year: 2012

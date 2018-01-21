@@ -2,6 +2,7 @@
 title: "S3 Select and Glacier Select – Retrieving Subsets of Objects | AWS News Blog"
 slug: s3-select-and-glacier-select-retrieving-subsets-of-objects-aws-news
 date: 2017-12-01 14:59:40 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/s3-glacier-select/
 hash: e9187066ebc68ed5f0ca0097d41781cf
 year: 2017

@@ -2,6 +2,7 @@
 title: "The New WSJ.com: More Readers, Who Are Less Interested"
 slug: the-new-wsj-com-more-readers-who-are-less-interested
 date: 2008-07-07 13:34:00 -0500
+category: 
 external-url: http://www.businessinsider.com/2008/7/the-new-wsj-com-more-readers-who-are-less-interested
 hash: 9b51b06388e05a00c8a083b9b6a4da3d
 year: 2008

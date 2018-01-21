@@ -2,6 +2,7 @@
 title: "Legends of the Ancient Web"
 slug: legends-of-the-ancient-web
 date: 2018-01-12 06:51:23 -0600
+category: 
 external-url: http://idlewords.com/talks/ancient_web.htm
 hash: 65f23f82cd183122d0fdafe924cdc866
 year: 2018

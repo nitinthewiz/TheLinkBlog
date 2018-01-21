@@ -2,6 +2,7 @@
 title: "schema.org"
 slug: schema-org
 date: 2011-06-03 09:45:09 -0500
+category: 
 external-url: http://schema.org/
 hash: bc4664dfe79b3d096265727ae47975bd
 year: 2011

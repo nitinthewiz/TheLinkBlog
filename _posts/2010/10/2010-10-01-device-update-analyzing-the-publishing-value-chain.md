@@ -2,6 +2,7 @@
 title: "Device update: Analyzing the publishing value chain"
 slug: device-update-analyzing-the-publishing-value-chain
 date: 2010-10-01 10:30:00 -0500
+category: 
 external-url: http://toc.oreilly.com/2010/10/device-update-analyzing-the-pu.html
 hash: 5bb887d4f154023fa4267df461c8c429
 year: 2010

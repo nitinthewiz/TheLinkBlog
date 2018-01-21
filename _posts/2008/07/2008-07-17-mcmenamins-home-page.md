@@ -2,6 +2,7 @@
 title: "McMenamins  -  Home Page"
 slug: mcmenamins-home-page
 date: 2008-07-17 21:33:02 -0500
+category: 
 external-url: http://www.mcmenamins.com/?loc=75&id=415
 hash: 6e14ebc4ad2d0b2b3823be69bc9ba2e7
 year: 2008

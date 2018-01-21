@@ -2,6 +2,7 @@
 title: "Ministeam"
 slug: ministeam
 date: 2007-01-10 19:46:45 -0600
+category: 
 external-url: http://www.ministeam.com/acatalog/shop.html
 hash: 61e446aedbafaaf0b1ac1616c390ec57
 year: 2007

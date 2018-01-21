@@ -2,6 +2,7 @@
 title: "Why I love Snapchat"
 slug: why-i-love-snapchat
 date: 2016-01-10 04:58:10 -0600
+category: 
 external-url: http://justinkan.com/why-i-love-snapchat
 hash: fb255cb371fabe6d9f0781640983fa2b
 year: 2016

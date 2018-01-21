@@ -2,6 +2,7 @@
 title: "Why I look at OmniFocus"
 slug: why-i-look-at-omnifocus
 date: 2012-05-13 22:46:23 -0500
+category: 
 external-url: http://www.practicallyefficient.com/home/2012/05/05/look
 hash: f674282241b4b9f1af59f918e1b94b37
 year: 2012

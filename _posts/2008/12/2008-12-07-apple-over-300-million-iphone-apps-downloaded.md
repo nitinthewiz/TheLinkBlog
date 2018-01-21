@@ -2,6 +2,7 @@
 title: "Apple: Over 300 million iPhone apps downloaded"
 slug: apple-over-300-million-iphone-apps-downloaded
 date: 2008-12-07 16:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/12/07/apple-over-300-million-iphone-apps-downloaded/
 hash: 74bb0dc2766abdc578035b6ab0c77cf8
 year: 2008

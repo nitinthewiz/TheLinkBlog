@@ -2,6 +2,7 @@
 title: "Setting up your own blog"
 slug: setting-up-your-own-blog
 date: 2015-07-20 19:33:54 -0500
+category: 
 external-url: http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/
 hash: 53f09ff2aae2fd4211c2c62e6a5a6e94
 year: 2015

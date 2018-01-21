@@ -2,6 +2,7 @@
 title: "iPad Pro Review: A New Canvas"
 slug: ipad-pro-review-a-new-canvas
 date: 2015-11-11 20:43:50 -0600
+category: 
 external-url: https://www.macstories.net/stories/ipad-pro-review/
 hash: ff7256a9e24afd142acdb35b470bd300
 year: 2015

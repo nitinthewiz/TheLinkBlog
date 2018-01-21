@@ -2,6 +2,7 @@
 title: "Against Productivity – The Message – Medium"
 slug: against-productivity-the-message-medium
 date: 2017-11-23 22:43:40 -0600
+category: 
 external-url: https://medium.com/message/against-productivity-b19f56b67da6
 hash: e9873e1f136bc01a640f9f86ec49eb9f
 year: 2017

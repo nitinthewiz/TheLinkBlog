@@ -2,6 +2,7 @@
 title: "Belgian beer: Brewed force"
 slug: belgian-beer-brewed-force
 date: 2012-06-27 10:50:23 -0500
+category: 
 external-url: http://www.economist.com/node/21541708
 hash: 1cf0e4aadad436aa8118ce47ba1116f8
 year: 2012

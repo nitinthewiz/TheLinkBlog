@@ -2,6 +2,7 @@
 title: "Vanilla — hide Mac menu bar icons for free"
 slug: vanilla-hide-mac-menu-bar-icons-for-free
 date: 2017-12-05 20:56:31 -0600
+category: 
 external-url: http://matthewpalmer.net/vanilla/
 hash: 36e3b0b9738db30cd656625cbab3f19f
 year: 2017

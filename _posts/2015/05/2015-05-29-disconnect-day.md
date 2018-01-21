@@ -2,6 +2,7 @@
 title: "Disconnect Day"
 slug: disconnect-day
 date: 2015-05-29 19:28:31 -0500
+category: 
 external-url: http://mydisconnectday.com/
 hash: a5b540a5e82c71ea95176ed614f787cc
 year: 2015

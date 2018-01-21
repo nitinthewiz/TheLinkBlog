@@ -2,6 +2,7 @@
 title: "Twist - Mindful Team Communication"
 slug: twist-mindful-team-communication
 date: 2017-06-23 14:43:13 -0500
+category: 
 external-url: https://twistapp.com/
 hash: 6b5a8caa103c2d3d6feadfc09668321c
 year: 2017

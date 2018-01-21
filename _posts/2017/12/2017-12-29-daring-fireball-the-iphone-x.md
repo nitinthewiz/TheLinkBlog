@@ -2,6 +2,7 @@
 title: "Daring Fireball: The iPhone X"
 slug: daring-fireball-the-iphone-x
 date: 2017-12-29 15:59:11 -0600
+category: 
 external-url: https://daringfireball.net/2017/12/the_iphone_x
 hash: 714fb56bb9e8da1c0fa67ef223659117
 year: 2017

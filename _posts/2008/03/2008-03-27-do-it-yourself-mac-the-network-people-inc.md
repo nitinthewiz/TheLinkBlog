@@ -2,6 +2,7 @@
 title: "Do It Yourself .Mac - The Network People, Inc."
 slug: do-it-yourself-mac-the-network-people-inc
 date: 2008-03-27 11:17:51 -0500
+category: 
 external-url: http://www.tnpi.net/wiki/Do_It_Yourself_.Mac
 hash: e4f1ef2cd1ebb4b638166cc946bd5c79
 year: 2008

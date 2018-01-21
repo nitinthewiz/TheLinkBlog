@@ -2,6 +2,7 @@
 title: "Schneier on Security: iPhone Encryption and the Return of the Crypto Wars"
 slug: schneier-on-security-iphone-encryption-and-the-return-of-the-crypto
 date: 2014-10-10 18:35:52 -0500
+category: 
 external-url: https://www.schneier.com/blog/archives/2014/10/iphone_encrypti_1.html
 hash: 6ceb390456d2f8ce87c03e46e04cfab9
 year: 2014

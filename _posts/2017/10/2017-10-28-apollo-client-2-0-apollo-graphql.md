@@ -2,6 +2,7 @@
 title: "Apollo Client 2.0 – Apollo GraphQL"
 slug: apollo-client-2-0-apollo-graphql
 date: 2017-10-28 07:50:45 -0500
+category: 
 external-url: https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7
 hash: 3754fdd7cd81604de49324d0c58f6c8e
 year: 2017

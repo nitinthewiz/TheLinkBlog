@@ -2,6 +2,7 @@
 title: "An open letter to the W3C Director, CEO, team and membership | Electronic Frontier Foundation"
 slug: an-open-letter-to-the-w3c-director-ceo-team-and-membership-electronic
 date: 2017-09-18 18:48:02 -0500
+category: 
 external-url: https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership
 hash: 083f3ab9d54b8ffb94387fb56b3e2eda
 year: 2017

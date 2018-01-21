@@ -2,6 +2,7 @@
 title: "Rails premieres on GitHub"
 slug: rails-premieres-on-github
 date: 2008-04-11 09:45:00 -0500
+category: 
 external-url: http://weblog.rubyonrails.org/2008/4/11/rails-premieres-on-github/
 hash: 5acae77563d9223e5c03c836ef6c3da8
 year: 2008

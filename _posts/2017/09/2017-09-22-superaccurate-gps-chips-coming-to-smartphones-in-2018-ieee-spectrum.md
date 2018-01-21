@@ -2,6 +2,7 @@
 title: "Superaccurate GPS Chips Coming to Smartphones in 2018 - IEEE Spectrum"
 slug: superaccurate-gps-chips-coming-to-smartphones-in-2018-ieee-spectrum
 date: 2017-09-22 23:48:33 -0500
+category: 
 external-url: https://spectrum.ieee.org/tech-talk/semiconductors/design/superaccurate-gps-chips-coming-to-smartphones-in-2018
 hash: 59272c3a5483caf5a66ee4b4921b037a
 year: 2017

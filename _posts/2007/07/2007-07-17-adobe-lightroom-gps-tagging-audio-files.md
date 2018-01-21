@@ -2,6 +2,7 @@
 title: "Adobe Lightroom - GPS Tagging & Audio Files"
 slug: adobe-lightroom-gps-tagging-audio-files
 date: 2007-07-17 16:09:58 -0500
+category: 
 external-url: http://www.computer-darkroom.com/lr_11/lr-11-gps.htm
 hash: 292d1bee15800036714646f4eaae2e91
 year: 2007

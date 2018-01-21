@@ -2,6 +2,7 @@
 title: "Facebook changes privacy settings for millions of users – facial recognition is enabled"
 slug: facebook-changes-privacy-settings-for-millions-of-users-facial-is
 date: 2011-06-08 22:55:05 -0500
+category: 
 external-url: http://nakedsecurity.sophos.com/2011/06/07/facebook-privacy-settings-facial-recognition-enabled/
 hash: 99f771b85c90cf4fbc5b0a7418fa06c5
 year: 2011

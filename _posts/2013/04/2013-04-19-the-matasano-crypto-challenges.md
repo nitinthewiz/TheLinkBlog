@@ -2,6 +2,7 @@
 title: "The Matasano Crypto Challenges"
 slug: the-matasano-crypto-challenges
 date: 2013-04-19 11:32:58 -0500
+category: 
 external-url: http://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/
 hash: 6970bab6bca27b285804501ed4d6d549
 year: 2013

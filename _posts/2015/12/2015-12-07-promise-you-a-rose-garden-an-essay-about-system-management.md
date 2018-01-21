@@ -2,6 +2,7 @@
 title: "Promise You A Rose Garden - An essay about system management"
 slug: promise-you-a-rose-garden-an-essay-about-system-management
 date: 2015-12-07 10:40:38 -0600
+category: 
 external-url: http://markburgess.org/rosegarden.pdf
 hash: 96d878939073b27ee98c4f3669d88199
 year: 2015

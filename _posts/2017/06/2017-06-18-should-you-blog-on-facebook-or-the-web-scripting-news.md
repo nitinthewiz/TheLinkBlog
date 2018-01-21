@@ -2,6 +2,7 @@
 title: "Should you blog on Facebook or the web? —Scripting News"
 slug: should-you-blog-on-facebook-or-the-web-scripting-news
 date: 2017-06-18 10:02:18 -0500
+category: 
 external-url: http://scripting.com/2017/06/18.html#a090658
 hash: 80a6aaa7d3d9d19952f80826a900aeaa
 year: 2017

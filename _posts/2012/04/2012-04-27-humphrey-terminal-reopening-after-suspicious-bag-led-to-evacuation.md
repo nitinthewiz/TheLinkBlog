@@ -2,6 +2,7 @@
 title: "Humphrey terminal reopening after suspicious bag led to evacuation"
 slug: humphrey-terminal-reopening-after-suspicious-bag-led-to-evacuation
 date: 2012-04-27 08:36:43 -0500
+category: 
 external-url: http://www.startribune.com/local/149210655.html
 hash: 2019b435341c0bbd8b04dc1212baaac1
 year: 2012

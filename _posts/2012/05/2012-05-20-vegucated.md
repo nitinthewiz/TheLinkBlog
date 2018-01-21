@@ -2,6 +2,7 @@
 title: "Vegucated"
 slug: vegucated
 date: 2012-05-20 22:37:37 -0500
+category: 
 external-url: http://www.getvegucated.com/
 hash: d079bebc97dacff0f7a1d271bdd827d1
 year: 2012

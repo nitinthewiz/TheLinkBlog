@@ -2,6 +2,7 @@
 title: "Dynamic Content Support in Amazon CloudFront"
 slug: dynamic-content-support-in-amazon-cloudfront
 date: 2012-05-14 12:17:18 -0500
+category: 
 external-url: http://www.allthingsdistributed.com/2012/05/cloudfront-dynamic-content-support.html
 hash: e88f92eed69cafa1d1589e76bb4ee47e
 year: 2012

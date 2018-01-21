@@ -2,6 +2,7 @@
 title: "CEOs Don’t Steer"
 slug: ceos-dont-steer
 date: 2017-11-24 21:36:18 -0600
+category: 
 external-url: https://www.ribbonfarm.com/2017/11/09/ceos-dont-steer/
 hash: d68cec1b0c8db7c71fb69b7943e0c037
 year: 2017

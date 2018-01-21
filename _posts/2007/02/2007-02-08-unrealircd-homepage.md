@@ -2,6 +2,7 @@
 title: "UnrealIRCd Homepage"
 slug: unrealircd-homepage
 date: 2007-02-08 23:02:00 -0600
+category: 
 external-url: http://www.unrealircd.com/
 hash: 1856c4a966b445b2fff8f9b5970b7c1e
 year: 2007

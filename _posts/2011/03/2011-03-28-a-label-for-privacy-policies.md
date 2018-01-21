@@ -2,6 +2,7 @@
 title: "A Label For Privacy Policies"
 slug: a-label-for-privacy-policies
 date: 2011-03-28 06:25:49 -0500
+category: 
 external-url: http://src.acm.org/2010/PatrickGageKelley/SRCPGK/SRCPGK/index.html
 hash: 1b870fd8cf777c8387430f2415103541
 year: 2011

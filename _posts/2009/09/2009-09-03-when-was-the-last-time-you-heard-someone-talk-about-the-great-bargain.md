@@ -2,6 +2,7 @@
 title: "When was the last time you heard someone talk about the great bargain they found at a farmers market?"
 slug: when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain
 date: 2009-09-03 19:21:57 -0500
+category: 
 external-url: http://marthaandtom.com/2009/09/when-was-the-last-time-you-heard-someone-talk-about-the-great-bargain-they-found-at-a-farmers-market/
 hash: ba467218a0c9450add0799ed4df849c1
 year: 2009

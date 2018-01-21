@@ -2,6 +2,7 @@
 title: "The Elon Musk interview on Mars colonisation – Ross Andersen – Aeon"
 slug: the-elon-musk-interview-on-mars-colonisation-ross-andersen-aeon
 date: 2014-10-05 18:09:43 -0500
+category: 
 external-url: http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/
 hash: 84fe0b035c9b42091bceee9dee8959ce
 year: 2014

@@ -2,6 +2,7 @@
 title: "Teardrop Times"
 slug: teardrop-times
 date: 2012-05-02 09:03:25 -0500
+category: 
 external-url: http://teardroptimes.wordpress.com/
 hash: 658a0aa24989dbc3ade81052ae402aa7
 year: 2012

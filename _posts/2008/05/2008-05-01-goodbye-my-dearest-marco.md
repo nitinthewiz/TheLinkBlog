@@ -2,6 +2,7 @@
 title: "Goodbye, my dearest Marco..."
 slug: goodbye-my-dearest-marco
 date: 2008-05-01 06:54:23 -0500
+category: 
 external-url: http://minigirl.typepad.com/mini_girl/2008/05/christopher-mar.html
 hash: 18d39d44271d2c1b139e0dd39e4ff9c0
 year: 2008

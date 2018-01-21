@@ -2,6 +2,7 @@
 title: "DJI - Introducing the Phantom 4 - YouTube"
 slug: dji-introducing-the-phantom-4-youtube
 date: 2016-03-01 20:54:11 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=JJPSSqMQajA&feature=youtu.be
 hash: d6f570dbe6f3415112b88f2441176102
 year: 2016

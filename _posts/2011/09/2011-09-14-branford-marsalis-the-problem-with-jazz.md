@@ -2,6 +2,7 @@
 title: "Branford Marsalis: The Problem With Jazz"
 slug: branford-marsalis-the-problem-with-jazz
 date: 2011-09-14 15:00:26 -0500
+category: 
 external-url: http://www.seattleweekly.com/2011-09-14/music/branford-marsalis-the-problem-with-jazz/full/
 hash: f1cee04c1b21c5a0ce32566011164291
 year: 2011

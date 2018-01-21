@@ -2,6 +2,7 @@
 title: "Little Things That Improve the Way I Work on a Mac — Shawn Blanc"
 slug: little-things-that-improve-the-way-i-work-on-a-mac-shawn-blanc
 date: 2015-11-01 18:14:23 -0600
+category: 
 external-url: https://shawnblanc.net/2014/10/little-things/
 hash: 2531157c8308cefe6f3faadc86624287
 year: 2015

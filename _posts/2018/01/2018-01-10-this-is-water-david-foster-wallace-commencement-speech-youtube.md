@@ -2,6 +2,7 @@
 title: "This Is Water - David Foster Wallace Commencement Speech - YouTube"
 slug: this-is-water-david-foster-wallace-commencement-speech-youtube
 date: 2018-01-10 21:30:44 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=8CrOL-ydFMI
 hash: 26810894b0d9123acd2395be1bf44013
 year: 2018

@@ -3,6 +3,7 @@ title: "YouTube
         - Linden Hills  Co-op   Sunnyside Opens!"
 slug: youtube-linden-hills-co-op-sunnyside-opens
 date: 2010-09-25 11:54:33 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=jGXzSfmHjj0
 hash: 52aedc5ed7f2927c5d1fc2fc34e4f85b
 year: 2010

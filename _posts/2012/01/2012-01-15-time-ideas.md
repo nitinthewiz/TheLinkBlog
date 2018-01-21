@@ -2,6 +2,7 @@
 title: "TIME Ideas"
 slug: time-ideas
 date: 2012-01-15 05:58:18 -0600
+category: 
 external-url: http://ideas.time.com/2012/01/11/what-your-eyes-say-about-who-you-are/
 hash: 55be2f7702f937e48f59b94e5b06f377
 year: 2012

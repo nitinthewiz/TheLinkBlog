@@ -2,6 +2,7 @@
 title: "How Successful People Increase Productivity"
 slug: how-successful-people-increase-productivity
 date: 2017-03-28 21:21:22 -0500
+category: 
 external-url: https://www.farnamstreetblog.com/2015/04/saying-no-how-successful-people-stay-productive/
 hash: 51fdfc9835ac3f527f12a44845bd6ff6
 year: 2017

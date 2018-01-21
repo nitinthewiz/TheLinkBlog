@@ -2,6 +2,7 @@
 title: "New Preferred Developers and Open Application Round"
 slug: new-preferred-developers-and-open-application-round
 date: 2011-02-28 04:25:00 -0600
+category: 
 external-url: http://developers.facebook.com/blog/post/470
 hash: 1a47dec91bb7e285abadf1cda670f2c4
 year: 2011

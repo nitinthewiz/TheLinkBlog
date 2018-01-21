@@ -2,6 +2,7 @@
 title: "The AVC Network"
 slug: the-avc-network
 date: 2010-11-30 05:25:35 -0600
+category: 
 external-url: http://avc.com/2010/11/the-avc-network/
 hash: 4b3bf7a283edc9d496f2f4ab1ed1f7fa
 year: 2010

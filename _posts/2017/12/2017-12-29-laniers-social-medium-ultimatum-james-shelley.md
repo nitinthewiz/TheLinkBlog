@@ -2,6 +2,7 @@
 title: "Lanier’s Social Medium Ultimatum | James Shelley"
 slug: laniers-social-medium-ultimatum-james-shelley
 date: 2017-12-29 14:30:23 -0600
+category: 
 external-url: https://jamesshelley.com/2017/12/22/laniers-social-medium-ultimatum/
 hash: 1868ebda87b4a4eb5cc587546a81ae4a
 year: 2017

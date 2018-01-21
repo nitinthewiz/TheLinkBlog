@@ -2,6 +2,7 @@
 title: "Programming Language Popularity"
 slug: programming-language-popularity
 date: 2012-02-17 16:14:49 -0600
+category: 
 external-url: http://langpop.com/
 hash: 2273a80a326bf4f97e177e73387357e3
 year: 2012

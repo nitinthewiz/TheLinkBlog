@@ -2,6 +2,7 @@
 title: "Finding the natural size for your company"
 slug: finding-the-natural-size-for-your-company
 date: 2008-06-06 12:39:00 -0500
+category: 
 external-url: https://signalvnoise.com/posts/1068-finding-the-natural-size-for-your-company
 hash: 71b75d46a17cac4b80d3b07f1e96bcbc
 year: 2008

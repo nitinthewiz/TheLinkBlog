@@ -2,6 +2,7 @@
 title: "The Sadness and Beauty of Watching Google’s AI Play Go | WIRED"
 slug: the-sadness-and-beauty-of-watching-googles-ai-play-go-wired
 date: 2016-03-11 19:55:24 -0600
+category: 
 external-url: http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/
 hash: cdfefb7bf42ddc2a37f42052bf8d3daa
 year: 2016

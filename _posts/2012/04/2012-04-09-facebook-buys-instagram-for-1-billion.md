@@ -2,6 +2,7 @@
 title: "Facebook Buys Instagram for $1 Billion"
 slug: facebook-buys-instagram-for-1-billion
 date: 2012-04-09 13:33:55 -0500
+category: 
 external-url: http://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/
 hash: b111ed0ea3137c717f5ec31dce80ede4
 year: 2012

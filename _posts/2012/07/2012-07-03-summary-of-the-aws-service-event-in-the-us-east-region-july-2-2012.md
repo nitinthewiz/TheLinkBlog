@@ -2,6 +2,7 @@
 title: "Summary of the AWS Service Event in the US East Region (July 2 2012)"
 slug: summary-of-the-aws-service-event-in-the-us-east-region-july-2-2012
 date: 2012-07-03 17:51:23 -0500
+category: 
 external-url: http://aws.amazon.com/message/67457/
 hash: f7bf7f3a028a2c163242f944c652290f
 year: 2012

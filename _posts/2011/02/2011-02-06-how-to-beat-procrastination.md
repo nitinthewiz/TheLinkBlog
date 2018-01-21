@@ -2,6 +2,7 @@
 title: "How to Beat Procrastination"
 slug: how-to-beat-procrastination
 date: 2011-02-06 18:40:22 -0600
+category: 
 external-url: http://lesswrong.com/lw/3w3/how_to_beat_procrastination/
 hash: 70f4f40625bd5cf357dc66e00c7c01b4
 year: 2011

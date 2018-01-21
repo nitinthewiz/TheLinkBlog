@@ -2,6 +2,7 @@
 title: "Popular Destinations rerouted to Russia | BGPmon"
 slug: popular-destinations-rerouted-to-russia-bgpmon
 date: 2017-12-14 22:54:09 -0600
+category: 
 external-url: https://bgpmon.net/popular-destinations-rerouted-to-russia/
 hash: 642d3902bbd91f79d37c4a41a92b3856
 year: 2017

@@ -2,6 +2,7 @@
 title: "Twitter cans another engineer"
 slug: twitter-cans-another-engineer
 date: 2008-04-24 11:40:00 -0500
+category: 
 external-url: http://gawker.com/383525/twitter-cans-another-engineer
 hash: 8e9ab1b0e7a76dde80a28b299598d1af
 year: 2008

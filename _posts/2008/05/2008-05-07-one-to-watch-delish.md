@@ -2,6 +2,7 @@
 title: "One to Watch: Delish"
 slug: one-to-watch-delish
 date: 2008-05-07 12:57:33 -0500
+category: 
 external-url: http://gigaom.com/2008/05/07/one-to-watch-delish/
 hash: 77c22ed0852877236e73cc3b8883e2bd
 year: 2008

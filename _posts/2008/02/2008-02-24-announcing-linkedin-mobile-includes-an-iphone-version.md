@@ -2,6 +2,7 @@
 title: "Announcing LinkedIn Mobile (includes an iPhone version)"
 slug: announcing-linkedin-mobile-includes-an-iphone-version
 date: 2008-02-24 20:21:30 -0600
+category: 
 external-url: http://blog.linkedin.com/2008/02/24/linkedin-mobile-2/
 hash: 939f9a05abfb8c7600cfcca53cd189ef
 year: 2008

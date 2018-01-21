@@ -2,6 +2,7 @@
 title: "OTask: CLI for OmniFocus"
 slug: otask-cli-for-omnifocus
 date: 2011-07-05 17:06:45 -0500
+category: 
 external-url: https://github.com/ttscoff/OTask
 hash: a0fbeb1d8767878099f8ef051d507cee
 year: 2011

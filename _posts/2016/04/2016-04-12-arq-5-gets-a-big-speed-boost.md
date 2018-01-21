@@ -2,6 +2,7 @@
 title: "Arq 5 gets a big speed boost"
 slug: arq-5-gets-a-big-speed-boost
 date: 2016-04-12 22:57:39 -0500
+category: 
 external-url: http://brettterpstra.com/2016/04/12/arq-5-gets-a-big-speed-boost/
 hash: d22f036d676b9fceff0c242f62137bd7
 year: 2016

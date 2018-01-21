@@ -2,6 +2,7 @@
 title: "Backbonification: migrating a large JavaScript project from DOM spaghetti to Backbone.js"
 slug: backbonification-migrating-a-large-javascript-project-from-dom-to-js
 date: 2012-11-16 06:01:41 -0600
+category: 
 external-url: http://www.ofbrooklyn.com/2012/11/13/backbonification-migrating-javascript-to-backbone/
 hash: 92b7dcaa974f69dd7bd12c0edfc3e968
 year: 2012

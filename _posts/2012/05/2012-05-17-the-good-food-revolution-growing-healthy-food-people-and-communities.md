@@ -2,6 +2,7 @@
 title: "The Good Food Revolution: Growing Healthy Food, People, and Communities"
 slug: the-good-food-revolution-growing-healthy-food-people-and-communities
 date: 2012-05-17 21:58:11 -0500
+category: 
 external-url: http://www.amazon.com/The-Good-Food-Revolution-Communities/dp/1592407609
 hash: fcb30cedbaafbcaca751615225ff62f8
 year: 2012

@@ -2,6 +2,7 @@
 title: "Top 5 Ways to Improve Your GTD Practice in 2016"
 slug: top-5-ways-to-improve-your-gtd-practice-in-2016
 date: 2016-01-15 14:57:33 -0600
+category: 
 external-url: http://www.next-action.eu/2016/01/15/top-5-ways-to-improve-your-gtd-practice-in-2016/
 hash: 387d9238acc9b29e654d80cb9125394f
 year: 2016

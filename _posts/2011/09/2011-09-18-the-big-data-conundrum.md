@@ -2,6 +2,7 @@
 title: "The Big Data Conundrum"
 slug: the-big-data-conundrum
 date: 2011-09-18 21:26:49 -0500
+category: 
 external-url: http://www.businessinsider.com/the-big-data-conundrum-2011-9
 hash: 73a600e83a595f675cb5a1d45475e574
 year: 2011

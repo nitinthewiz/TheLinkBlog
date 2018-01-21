@@ -2,6 +2,7 @@
 title: "America’s ‘Retail Apocalypse’ Is Really Just Beginning"
 slug: americas-retail-apocalypse-is-really-just-beginning
 date: 2017-11-10 17:26:01 -0600
+category: 
 external-url: https://www.bloomberg.com/graphics/2017-retail-debt/
 hash: e954736d055ff94eb2383f0cf633a359
 year: 2017

@@ -2,6 +2,7 @@
 title: "Open Source North"
 slug: open-source-north
 date: 2015-10-05 06:45:02 -0500
+category: 
 external-url: http://opensourcenorth.com/
 hash: 0729e2f156812027350d541e19d2bb72
 year: 2015

@@ -2,6 +2,7 @@
 title: "Adam Cohen's answer to Is the cryptocurrency Bitcoin a good idea?"
 slug: adam-cohen-s-answer-to-is-the-cryptocurrency-bitcoin-a-good-idea
 date: 2011-06-03 09:51:35 -0500
+category: 
 external-url: http://www.quora.com/Is-the-cryptocurrency-Bitcoin-a-good-idea/answer/Adam-Cohen-2
 hash: 8e5072261f2323305f81b445157082de
 year: 2011

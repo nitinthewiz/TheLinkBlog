@@ -2,6 +2,7 @@
 title: "Supreme Court Health Data Case Could Sway Online Privacy Debate"
 slug: supreme-court-health-data-case-could-sway-online-privacy-debate
 date: 2011-01-13 06:20:12 -0600
+category: 
 external-url: http://paidcontent.org/article/419-supreme-court-health-data-case-could-sway-online-privacy-debate/
 hash: 74a2b2dcc5d6f91e33128a7f42f291b6
 year: 2011

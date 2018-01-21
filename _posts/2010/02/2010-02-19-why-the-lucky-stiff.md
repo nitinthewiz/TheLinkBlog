@@ -2,6 +2,7 @@
 title: "why the lucky stiff"
 slug: why-the-lucky-stiff
 date: 2010-02-19 16:22:22 -0600
+category: 
 external-url: http://why.usesthis.com/
 hash: 4efb73ad817ef89587be12b30db051f0
 year: 2010

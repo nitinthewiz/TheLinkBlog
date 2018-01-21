@@ -2,6 +2,7 @@
 title: "Lending Club"
 slug: lending-club
 date: 2012-11-12 16:56:11 -0600
+category: 
 external-url: https://www.lendingclub.com
 hash: 308112db62e5eb1bc8c5d441ec2e1335
 year: 2012

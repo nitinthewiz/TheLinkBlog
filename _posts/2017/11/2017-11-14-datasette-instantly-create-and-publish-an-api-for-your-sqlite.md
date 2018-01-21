@@ -2,6 +2,7 @@
 title: "Datasette: instantly create and publish an API for your SQLite databases"
 slug: datasette-instantly-create-and-publish-an-api-for-your-sqlite
 date: 2017-11-14 07:04:52 -0600
+category: 
 external-url: https://simonwillison.net/2017/Nov/13/datasette/
 hash: 8a96eda065579ba13835448705291b95
 year: 2017

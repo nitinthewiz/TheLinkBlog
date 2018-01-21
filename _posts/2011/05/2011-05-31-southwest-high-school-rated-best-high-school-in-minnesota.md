@@ -2,6 +2,7 @@
 title: "Southwest High School Rated Best High School in Minnesota"
 slug: southwest-high-school-rated-best-high-school-in-minnesota
 date: 2011-05-31 00:31:23 -0500
+category: 
 external-url: http://southwestminneapolis.patch.com/groups/schools/p/southwest-high-school-rated-best-high-school-in-minnesota-2
 hash: 196e9b53c61e64359896f0965ceeaa1e
 year: 2011

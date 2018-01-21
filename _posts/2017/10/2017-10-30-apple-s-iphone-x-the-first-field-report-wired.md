@@ -2,6 +2,7 @@
 title: "Apple's iPhone X: The First Field Report | WIRED"
 slug: apple-s-iphone-x-the-first-field-report-wired
 date: 2017-10-30 20:52:30 -0500
+category: 
 external-url: https://www.wired.com/story/iphone-x-first-impression/
 hash: 6c3a1b0272c67870aac775762cd7c439
 year: 2017

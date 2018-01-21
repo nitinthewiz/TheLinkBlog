@@ -2,6 +2,7 @@
 title: "Working 16bit ALU Implemented in Minecraft"
 slug: working-16bit-alu-implemented-in-minecraft
 date: 2011-02-06 06:06:11 -0600
+category: 
 external-url: http://www.osnews.com/story/23845/Working_16bit_ALU_Implemented_in_Minecraft
 hash: 41d450ea0c3358f3fa744365755fa39c
 year: 2011

@@ -2,6 +2,7 @@
 title: "Analyst Watch: Water-Scrum-fall is the reality of agile"
 slug: analyst-watch-water-scrum-fall-is-the-reality-of-agile
 date: 2016-02-23 08:11:51 -0600
+category: 
 external-url: http://sdtimes.com/analyst-watch-water-scrum-fall-is-the-reality-of-agile/2/
 hash: 39460f01646d618a9e7b6aecb10258e2
 year: 2016

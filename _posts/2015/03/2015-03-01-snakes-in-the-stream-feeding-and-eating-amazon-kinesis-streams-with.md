@@ -2,6 +2,7 @@
 title: "Snakes in the Stream - Feeding and Eating Amazon Kinesis Streams with Python - AWS Big Data Blog"
 slug: snakes-in-the-stream-feeding-and-eating-amazon-kinesis-streams-with
 date: 2015-03-01 16:58:05 -0600
+category: 
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx2Z24D4T99AN35/Snakes-in-the-Stream-Feeding-and-Eating-Amazon-Kinesis-Streams-with-Python
 hash: 07bca35833508a814c701816a88213f5
 year: 2015

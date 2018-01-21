@@ -2,6 +2,7 @@
 title: "wallabag: a self hostable application for saving web pages"
 slug: wallabag-a-self-hostable-application-for-saving-web-pages
 date: 2017-10-26 07:12:30 -0500
+category: 
 external-url: https://wallabag.org/en
 hash: eb827a97c4e02e60c6431e7158003d83
 year: 2017

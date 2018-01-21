@@ -2,6 +2,7 @@
 title: "Culture is the Behavior You Reward and Punish – jocelyngoldfein"
 slug: culture-is-the-behavior-you-reward-and-punish-jocelyngoldfein
 date: 2017-11-10 17:25:39 -0600
+category: 
 external-url: https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e
 hash: a72eb3e205939b5bcd4adb722b14bf24
 year: 2017

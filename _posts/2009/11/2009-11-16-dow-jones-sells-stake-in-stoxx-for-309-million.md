@@ -2,6 +2,7 @@
 title: "Dow Jones Sells Stake In Stoxx For $309 Million"
 slug: dow-jones-sells-stake-in-stoxx-for-309-million
 date: 2009-11-16 00:26:56 -0600
+category: 
 external-url: https://gigaom.com/2009/11/12/419-dow-jones-sells-stake-in-stoxx-for-309-million/
 hash: ddda242b8ed1e46019bef6f73e4e1805
 year: 2009

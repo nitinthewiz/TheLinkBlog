@@ -2,6 +2,7 @@
 title: "If You Aspire to Be a Great Leader, Be Present"
 slug: if-you-aspire-to-be-a-great-leader-be-present
 date: 2017-12-17 08:14:12 -0600
+category: 
 external-url: https://hbr.org/2017/12/if-you-aspire-to-be-a-great-leader-be-present
 hash: 0561fb03699d2bdd999f9f99709eee59
 year: 2017

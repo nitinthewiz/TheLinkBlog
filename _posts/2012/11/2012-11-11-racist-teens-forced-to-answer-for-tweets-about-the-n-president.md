@@ -2,6 +2,7 @@
 title: "Racist Teens Forced to Answer for Tweets About the 'n-----' President"
 slug: racist-teens-forced-to-answer-for-tweets-about-the-n-president
 date: 2012-11-11 16:02:06 -0600
+category: 
 external-url: http://jezebel.com/5958993/racist-teens-forced-to-answer-for-tweets-about-the-nigger-president
 hash: e8f1ee1403c14f9e66cee304eec41402
 year: 2012

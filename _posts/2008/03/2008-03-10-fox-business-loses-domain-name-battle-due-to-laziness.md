@@ -2,6 +2,7 @@
 title: "Fox Business Loses Domain Name Battle Due To Laziness"
 slug: fox-business-loses-domain-name-battle-due-to-laziness
 date: 2008-03-10 16:59:17 -0500
+category: 
 external-url: http://gigaom.com/2008/03/11/419-fox-business-loses-domain-name-battle-due-to-laziness/
 hash: f7014ea32c2fcbd152fc04b136765b52
 year: 2008

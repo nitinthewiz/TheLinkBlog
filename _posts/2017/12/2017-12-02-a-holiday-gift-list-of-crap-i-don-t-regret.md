@@ -2,6 +2,7 @@
 title: "A Holiday Gift List of Crap I Don't Regret"
 slug: a-holiday-gift-list-of-crap-i-don-t-regret
 date: 2017-12-02 19:53:13 -0600
+category: 
 external-url: http://www.macdrifter.com/2017/12/a-holiday-gift-list-of-crap-i-dont-regret.html
 hash: 6eb1b95792f6a0ac1b45858196639a27
 year: 2017

@@ -2,6 +2,7 @@
 title: "Minnesota Business Announces BEST 100 COMPANIES TO WORK FOR"
 slug: minnesota-business-announces-best-100-companies-to-work-for
 date: 2012-04-16 23:34:34 -0500
+category: 
 external-url: http://minnesotabusiness.com/blog/minnesota-business-announces-best-100-companies-work
 hash: fb2a0a6ae8eca1d90e3d1ca212b09380
 year: 2012

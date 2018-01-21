@@ -2,6 +2,7 @@
 title: "Aurora - Kleifarvatn 17th of March 2013 on Vimeo"
 slug: aurora-kleifarvatn-17th-of-march-2013-on-vimeo
 date: 2013-03-21 20:58:12 -0500
+category: 
 external-url: http://vimeo.com/62124710
 hash: 328f08785371e618bf66a2d5882e17bb
 year: 2013

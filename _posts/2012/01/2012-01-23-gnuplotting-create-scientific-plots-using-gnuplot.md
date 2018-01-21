@@ -2,6 +2,7 @@
 title: "Gnuplotting · Create scientific plots using Gnuplot"
 slug: gnuplotting-create-scientific-plots-using-gnuplot
 date: 2012-01-23 16:14:16 -0600
+category: 
 external-url: http://www.gnuplotting.org/
 hash: be6271b630a7e707947a5c8ada8a80e9
 year: 2012

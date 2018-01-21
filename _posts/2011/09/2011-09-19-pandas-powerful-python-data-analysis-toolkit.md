@@ -2,6 +2,7 @@
 title: "pandas: powerful Python data analysis toolkit"
 slug: pandas-powerful-python-data-analysis-toolkit
 date: 2011-09-19 08:45:23 -0500
+category: 
 external-url: http://pandas.sourceforge.net/
 hash: a38c7de2d2fd3314a07168adbbfc6e44
 year: 2011

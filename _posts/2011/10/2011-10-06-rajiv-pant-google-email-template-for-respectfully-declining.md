@@ -2,6 +2,7 @@
 title: "Rajiv Pant - Google+ - Email Template For Respectfully Declining Unsolicited…"
 slug: rajiv-pant-google-email-template-for-respectfully-declining
 date: 2011-10-06 22:25:47 -0500
+category: 
 external-url: https://plus.google.com/107443707510532643538/posts/Py4Ap4fz7PM
 hash: b86522618cfbb9f7f399b2279d5bba8b
 year: 2011

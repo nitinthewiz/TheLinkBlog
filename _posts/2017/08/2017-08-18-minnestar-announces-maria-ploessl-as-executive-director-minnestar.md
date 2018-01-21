@@ -2,6 +2,7 @@
 title: "Minnestar Announces Maria Ploessl as Executive Director - Minnestar"
 slug: minnestar-announces-maria-ploessl-as-executive-director-minnestar
 date: 2017-08-18 17:16:33 -0500
+category: 
 external-url: https://minnestar.org/minnestar-announces-maria-ploessl-as-executive-director/
 hash: f84ace39d61d2a55b32db530a206b744
 year: 2017

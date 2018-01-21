@@ -2,6 +2,7 @@
 title: "Top 5 OmniFocus Applescripts"
 slug: top-5-omnifocus-applescripts
 date: 2011-03-31 16:12:17 -0500
+category: 
 external-url: http://simplicitybliss.com/16/top-5-omnifocus-applescripts/
 hash: b52d19e69742223e9a025cc892051639
 year: 2011

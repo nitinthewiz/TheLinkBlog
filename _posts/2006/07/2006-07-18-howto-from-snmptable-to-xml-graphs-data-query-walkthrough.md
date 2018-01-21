@@ -2,6 +2,7 @@
 title: "Howto: from snmptable to XML Graphs (Data Query walkthrough)"
 slug: howto-from-snmptable-to-xml-graphs-data-query-walkthrough
 date: 2006-07-18 15:19:30 -0500
+category: 
 external-url: http://forums.cacti.net/about11647.html
 hash: 5a6885c160545e8e7ddf1bf5fa245611
 year: 2006

@@ -2,6 +2,7 @@
 title: "Collins - Infrastructure Management for Engineers"
 slug: collins-infrastructure-management-for-engineers
 date: 2014-11-29 20:39:08 -0600
+category: 
 external-url: http://tumblr.github.io/collins/
 hash: dbd1702b2e436b9181a6492e27f6b5d6
 year: 2014

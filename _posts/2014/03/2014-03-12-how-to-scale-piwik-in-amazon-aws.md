@@ -2,6 +2,7 @@
 title: "How to scale Piwik in Amazon AWS"
 slug: how-to-scale-piwik-in-amazon-aws
 date: 2014-03-12 07:27:53 -0500
+category: 
 external-url: http://forum.piwik.org/list.php?6
 hash: ce25636af09033cb0b8f535f8cc4794f
 year: 2014

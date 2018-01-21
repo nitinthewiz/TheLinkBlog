@@ -2,6 +2,7 @@
 title: "Loft Resumes"
 slug: loft-resumes
 date: 2012-04-19 21:35:48 -0500
+category: 
 external-url: http://loftresumes.com/
 hash: 1d10c76158e89260048686c44eeb6d3c
 year: 2012

@@ -2,6 +2,7 @@
 title: "Event Time Announcer"
 slug: event-time-announcer
 date: 2015-06-23 14:51:03 -0500
+category: 
 external-url: http://www.timeanddate.com/worldclock/fixedform.html
 hash: 17e809f9d6756bfd13ec8434e0c53f70
 year: 2015

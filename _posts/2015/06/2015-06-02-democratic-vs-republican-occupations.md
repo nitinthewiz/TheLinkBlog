@@ -2,6 +2,7 @@
 title: "Democratic vs. Republican occupations"
 slug: democratic-vs-republican-occupations
 date: 2015-06-02 22:36:05 -0500
+category: 
 external-url: http://verdantlabs.com/politics_of_professions/
 hash: fae17a5732d412d81d344f99b8d396ab
 year: 2015

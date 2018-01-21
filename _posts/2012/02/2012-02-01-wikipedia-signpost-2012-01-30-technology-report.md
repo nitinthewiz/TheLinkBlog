@@ -2,6 +2,7 @@
 title: "Wikipedia Signpost/2012-01-30/Technology report"
 slug: wikipedia-signpost-2012-01-30-technology-report
 date: 2012-02-01 21:40:50 -0600
+category: 
 external-url: http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2012-01-30/Technology_report
 hash: 9355b5d8675ed9e561432ac0e4886334
 year: 2012

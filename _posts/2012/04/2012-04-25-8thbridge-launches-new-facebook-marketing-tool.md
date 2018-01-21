@@ -2,6 +2,7 @@
 title: "8thBridge launches new Facebook marketing tool"
 slug: 8thbridge-launches-new-facebook-marketing-tool
 date: 2012-04-25 16:58:33 -0500
+category: 
 external-url: http://www.startribune.com/blogs/148714865.html
 hash: 3995997ad5ec3392264abbdb6274ee46
 year: 2012

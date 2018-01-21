@@ -2,6 +2,7 @@
 title: "Apple Watch Satisfaction | Tech.pinions - Perspective, Insight, Analysis"
 slug: apple-watch-satisfaction-tech-pinions-perspective-insight-analysis
 date: 2015-07-21 06:12:38 -0500
+category: 
 external-url: https://techpinions.com/the-state-of-apple-watch-satisfaction/41126
 hash: 0eacb644b051aa4363fa917db50e06e4
 year: 2015

@@ -2,6 +2,7 @@
 title: "Slooh - Online Telescope"
 slug: slooh-online-telescope
 date: 2005-08-21 22:39:19 -0500
+category: 
 external-url: http://www.slooh.com/
 hash: b0be102f0d954f231de63ea18e44a29b
 year: 2005

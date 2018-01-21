@@ -2,6 +2,7 @@
 title: "Who uses Twitter - and how much?"
 slug: who-uses-twitter-and-how-much
 date: 2010-12-09 08:21:25 -0600
+category: 
 external-url: http://www.mediapost.com/publications/article/140937/
 hash: 6495def9c24feca5d748e32cf31fe15d
 year: 2010

@@ -2,6 +2,7 @@
 title: "Implementing Webmentions"
 slug: implementing-webmentions
 date: 2017-08-11 08:12:43 -0500
+category: 
 external-url: https://allinthehead.com/retro/378/implementing-webmentions
 hash: 500b6d80a5966d28ed5a5e14a51745c5
 year: 2017

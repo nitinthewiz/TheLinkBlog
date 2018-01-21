@@ -2,6 +2,7 @@
 title: "Sorting 2 Tons of Lego, Many Questions, Results · Jacques Mattheij"
 slug: sorting-2-tons-of-lego-many-questions-results-jacques-mattheij
 date: 2017-06-29 07:28:11 -0500
+category: 
 external-url: https://jacquesmattheij.com/sorting-lego-many-questions-and-this-is-what-the-result-looks-like
 hash: 74585b3494a2e8f81909ddebced7f8dc
 year: 2017

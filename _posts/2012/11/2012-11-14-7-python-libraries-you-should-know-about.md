@@ -2,6 +2,7 @@
 title: "7 Python Libraries you should know about"
 slug: 7-python-libraries-you-should-know-about
 date: 2012-11-14 15:55:39 -0600
+category: 
 external-url: http://doda.co/7-python-libraries-you-should-know-about
 hash: 0c0d873ac2f78083da0d768370314ace
 year: 2012

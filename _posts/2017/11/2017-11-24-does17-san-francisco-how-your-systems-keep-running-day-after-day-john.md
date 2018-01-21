@@ -2,6 +2,7 @@
 title: "DOES17 San Francisco - How Your Systems Keep Running Day After Day - John Allspaw - YouTube"
 slug: does17-san-francisco-how-your-systems-keep-running-day-after-day-john
 date: 2017-11-24 15:41:23 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=xA5U85LSk0M
 hash: a7b4beadd0382f5083ad97c2585686ac
 year: 2017

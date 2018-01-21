@@ -2,6 +2,7 @@
 title: "Why is the DOS path character \"&#92;\"? – Larry Osterman's WebLog"
 slug: why-is-the-dos-path-character-larry-osterman-s-weblog
 date: 2017-10-30 21:12:47 -0500
+category: 
 external-url: https://blogs.msdn.microsoft.com/larryosterman/2005/06/24/why-is-the-dos-path-character/
 hash: 4b2a48086c017d3de1421cdf6633a7e4
 year: 2017

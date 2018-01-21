@@ -2,6 +2,7 @@
 title: "Highlights from Python Marathon by SPS Commerce in Ukraine | SPS Commerce"
 slug: highlights-from-python-marathon-by-sps-commerce-in-ukraine-sps
 date: 2017-11-16 22:25:34 -0600
+category: 
 external-url: https://www.spscommerce.com/blog/python-marathon-sps-commerce-spsa/
 hash: a4627d507c8f8e51d167f74749bdf08f
 year: 2017

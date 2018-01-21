@@ -2,6 +2,7 @@
 title: "Teenage Girl Blossoming Into Beautiful Object - The Onion"
 slug: teenage-girl-blossoming-into-beautiful-object-the-onion
 date: 2013-01-30 09:21:54 -0600
+category: 
 external-url: http://www.theonion.com/articles/teenage-girl-blossoming-into-beautiful-object%2C31061/
 hash: 7e6a721f54aedccd765ed18948bee09e
 year: 2013

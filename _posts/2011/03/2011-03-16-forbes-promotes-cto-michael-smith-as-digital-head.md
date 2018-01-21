@@ -2,6 +2,7 @@
 title: "Forbes Promotes CTO Michael Smith As Digital Head"
 slug: forbes-promotes-cto-michael-smith-as-digital-head
 date: 2011-03-16 16:17:29 -0500
+category: 
 external-url: https://gigaom.com/2011/03/17/419-forbes-promotes-cto-michael-smith-as-digital-head/
 hash: ae30cfbafb4f74018f7cffbf8d380622
 year: 2011

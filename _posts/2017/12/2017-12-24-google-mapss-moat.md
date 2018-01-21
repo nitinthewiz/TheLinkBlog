@@ -2,6 +2,7 @@
 title: "Google Maps’s Moat"
 slug: google-mapss-moat
 date: 2017-12-24 07:12:15 -0600
+category: 
 external-url: https://www.justinobeirne.com/google-maps-moat/
 hash: 325aa8164d6700fdf069d1ede93a0788
 year: 2017

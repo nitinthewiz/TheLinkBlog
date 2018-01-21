@@ -2,6 +2,7 @@
 title: "Big Brother isn't just watching: workplace surveillance can track your every move | World news | The Guardian"
 slug: big-brother-isn-t-just-watching-workplace-surveillance-can-track-your
 date: 2017-11-10 17:26:13 -0600
+category: 
 external-url: https://www.theguardian.com/world/2017/nov/06/workplace-surveillance-big-brother-technology
 hash: 5d5a463559246de6d426d3e1ed94ef84
 year: 2017

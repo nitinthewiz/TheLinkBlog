@@ -2,6 +2,7 @@
 title: "Schneier on Security: Surveillance and the Internet of Things"
 slug: schneier-on-security-surveillance-and-the-internet-of-things
 date: 2013-05-22 14:45:53 -0500
+category: 
 external-url: https://www.schneier.com/blog/archives/2013/05/the_eyes_and_ea.html
 hash: fa853942ee32017ac8b24aa0b22e1b87
 year: 2013

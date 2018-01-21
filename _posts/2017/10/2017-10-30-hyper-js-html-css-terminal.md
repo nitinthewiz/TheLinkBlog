@@ -2,6 +2,7 @@
 title: "Hyper - JS/HTML/CSS Terminal"
 slug: hyper-js-html-css-terminal
 date: 2017-10-30 17:59:39 -0500
+category: 
 external-url: https://hyper.is/
 hash: bb50de60d3de33f98902ecb79b1938ee
 year: 2017

@@ -2,6 +2,7 @@
 title: "How to stop junk mail"
 slug: how-to-stop-junk-mail
 date: 2008-07-02 13:40:13 -0500
+category: 
 external-url: https://www.mattcutts.com/blog/stop-junk-mail/
 hash: cb09e72296f439260351070704a720d4
 year: 2008

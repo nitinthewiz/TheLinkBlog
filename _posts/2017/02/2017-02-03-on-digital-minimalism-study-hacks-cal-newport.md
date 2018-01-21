@@ -2,6 +2,7 @@
 title: "On Digital Minimalism - Study Hacks - Cal Newport"
 slug: on-digital-minimalism-study-hacks-cal-newport
 date: 2017-02-03 10:15:38 -0600
+category: 
 external-url: http://calnewport.com/blog/2016/12/18/on-digital-minimalism/
 hash: b0a8108bc395061db8b1e10ecc2bc885
 year: 2017

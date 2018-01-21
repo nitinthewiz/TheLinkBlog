@@ -2,6 +2,7 @@
 title: "99 Days Of Freedom"
 slug: 99-days-of-freedom
 date: 2014-07-26 21:38:27 -0500
+category: 
 external-url: http://99daysoffreedom.com/
 hash: ff1e03dbd2ac3ca79316b018364ab64e
 year: 2014

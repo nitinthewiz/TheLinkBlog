@@ -2,6 +2,7 @@
 title: "MediaStorm publishes Driftless: Stories from Iowa"
 slug: mediastorm-publishes-driftless-stories-from-iowa
 date: 2009-06-04 15:50:19 -0500
+category: 
 external-url: http://mediastorm.com/blog/2009/05/19/mediastorm-publishes-driftless-stories-from-iowa/
 hash: ed3cff6e3f604b5dfa7135a751b10aba
 year: 2009

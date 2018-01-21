@@ -2,6 +2,7 @@
 title: "Twin Cities Bike Walk Week"
 slug: twin-cities-bike-walk-week
 date: 2011-06-04 08:23:49 -0500
+category: 
 external-url: http://bikewalkweek.org/
 hash: 9355b5b5cf00fc42c8b26aa1aee6738a
 year: 2011

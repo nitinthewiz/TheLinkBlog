@@ -2,6 +2,7 @@
 title: "Anatomy of a VC \"seed program\" (and you)"
 slug: anatomy-of-a-vc-seed-program-and-you
 date: 2015-07-26 05:32:57 -0500
+category: 
 external-url: http://vcwithme.co/2015/07/23/anatomy-of-a-vc-seed-program-and-you/
 hash: 35322c9bf3329e9ac719fff0e980e3ec
 year: 2015

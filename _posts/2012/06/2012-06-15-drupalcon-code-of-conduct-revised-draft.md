@@ -2,6 +2,7 @@
 title: "DrupalCon Code of Conduct (Revised Draft)"
 slug: drupalcon-code-of-conduct-revised-draft
 date: 2012-06-15 16:09:45 -0500
+category: 
 external-url: https://groups.drupal.org/node/235308
 hash: 67102792dca409883c76111abc919575
 year: 2012

@@ -2,6 +2,7 @@
 title: "NGiNX HTTP Push Module"
 slug: nginx-http-push-module
 date: 2009-11-19 06:44:12 -0600
+category: 
 external-url: http://ajaxian.com/archives/nginx-http-push-module
 hash: 128f2668a4fac96b8e89714d4f69f475
 year: 2009

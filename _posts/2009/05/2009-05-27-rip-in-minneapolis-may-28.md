@@ -2,6 +2,7 @@
 title: "RIP! in Minneapolis -- May 28."
 slug: rip-in-minneapolis-may-28
 date: 2009-05-27 16:53:21 -0500
+category: 
 external-url: http://www.lessig.org/blog/2009/05/rip_in_minneapolis_--_may_28.html
 hash: e3ec76f799d3614839277418b349f986
 year: 2009

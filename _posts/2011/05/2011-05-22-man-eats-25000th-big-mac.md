@@ -2,6 +2,7 @@
 title: "Man Eats 25,000th Big Mac"
 slug: man-eats-25000th-big-mac
 date: 2011-05-22 14:17:01 -0500
+category: 
 external-url: http://www.usatoday.com/news/offbeat/2011-05-21-big-mac-milestone_n.htm
 hash: 9f4363bd6962560174e8cb656cdf0284
 year: 2011

@@ -2,6 +2,7 @@
 title: "How Facebook Figures Out Everyone You've Ever Met"
 slug: how-facebook-figures-out-everyone-you-ve-ever-met
 date: 2017-11-10 07:09:06 -0600
+category: 
 external-url: https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691
 hash: 0e9ece308384722f5a15848ec7ad159f
 year: 2017

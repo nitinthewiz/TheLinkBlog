@@ -2,6 +2,7 @@
 title: "Guide to Scribbling"
 slug: guide-to-scribbling
 date: 2013-05-14 13:27:43 -0500
+category: 
 external-url: http://test2.wikipedia.org/wiki/Wikipedia:Guide_to_Scribbling
 hash: 59aeae13b8d632f9ab0fde70e523b1c2
 year: 2013

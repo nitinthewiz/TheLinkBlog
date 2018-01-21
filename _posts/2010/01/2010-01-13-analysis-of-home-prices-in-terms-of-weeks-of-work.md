@@ -2,6 +2,7 @@
 title: "Analysis of home prices in terms of weeks of work"
 slug: analysis-of-home-prices-in-terms-of-weeks-of-work
 date: 2010-01-13 23:12:03 -0600
+category: 
 external-url: http://blogs.law.harvard.edu/philg/2010/01/13/analysis-of-home-prices-in-terms-of-weeks-of-work/
 hash: 1781c595c60ed501a6717577e1f47313
 year: 2010

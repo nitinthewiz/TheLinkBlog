@@ -2,6 +2,7 @@
 title: "2.9 Features Vote Results"
 slug: 2-9-features-vote-results
 date: 2009-08-05 11:55:40 -0500
+category: 
 external-url: http://wordpress.org/development/2009/07/2-9-vote-results/
 hash: 67d6bd130c663eb113bdc1fc55c62157
 year: 2009

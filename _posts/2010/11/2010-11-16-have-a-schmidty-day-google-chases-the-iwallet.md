@@ -2,6 +2,7 @@
 title: "Have a Schmidty day, Google chases the ‘iWallet’"
 slug: have-a-schmidty-day-google-chases-the-iwallet
 date: 2010-11-16 07:54:12 -0600
+category: 
 external-url: http://9to5mac.com/2010/11/16/have-a-scmidty-day-google-chases-the-iwallet/
 hash: 7b5067339d72879217405070728b9531
 year: 2010

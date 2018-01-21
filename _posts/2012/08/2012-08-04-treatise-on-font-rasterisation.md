@@ -2,6 +2,7 @@
 title: "Treatise on Font Rasterisation"
 slug: treatise-on-font-rasterisation
 date: 2012-08-04 06:57:42 -0500
+category: 
 external-url: https://freddie.witherden.org/pages/font-rasterisation/
 hash: 776bdd0cdbb20bb9ed7fd6ceb4037396
 year: 2012

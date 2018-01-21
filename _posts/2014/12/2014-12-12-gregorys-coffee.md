@@ -2,6 +2,7 @@
 title: "Gregorys Coffee"
 slug: gregorys-coffee
 date: 2014-12-12 06:27:13 -0600
+category: 
 external-url: http://www.gregoryscoffee.com/
 hash: 6dd515f72b2522526a97af163e0eaa92
 year: 2014

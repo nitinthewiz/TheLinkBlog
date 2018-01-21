@@ -2,6 +2,7 @@
 title: "Lifetime's Digital Strategy For Project Runway Includes Streaming On Demand For First Time"
 slug: lifetime-s-digital-strategy-for-project-runway-includes-streaming-on
 date: 2009-08-20 00:36:17 -0500
+category: 
 external-url: http://gigaom.com/2009/08/20/419-lifetimes-digital-strategy-for-project-runway-includes-streaming-on-dem/
 hash: 45d592b2c054d3c9900171a61213bd6a
 year: 2009

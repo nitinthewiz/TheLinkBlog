@@ -2,6 +2,7 @@
 title: "Version 3 Beta - iTerm2"
 slug: version-3-beta-iterm2
 date: 2016-02-21 07:46:54 -0600
+category: 
 external-url: https://iterm2.com/version3.html
 hash: c9346b414ed71ae794ec9f7c59c4e718
 year: 2016

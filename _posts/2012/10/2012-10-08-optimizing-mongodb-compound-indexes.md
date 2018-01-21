@@ -2,6 +2,7 @@
 title: "Optimizing MongoDB Compound Indexes"
 slug: optimizing-mongodb-compound-indexes
 date: 2012-10-08 15:08:13 -0500
+category: 
 external-url: http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/
 hash: ab20af3bfec576cbca3c228d0e3d97f5
 year: 2012

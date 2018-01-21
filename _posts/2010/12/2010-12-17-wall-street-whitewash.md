@@ -2,6 +2,7 @@
 title: "Wall Street Whitewash"
 slug: wall-street-whitewash
 date: 2010-12-17 14:10:32 -0600
+category: 
 external-url: http://www.nytimes.com/2010/12/17/opinion/17krugman.html
 hash: 49acea6a5c80bebb6c3a92cc6cbfcfb2
 year: 2010

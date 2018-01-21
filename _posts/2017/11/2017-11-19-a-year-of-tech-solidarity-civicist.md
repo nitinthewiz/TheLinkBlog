@@ -2,6 +2,7 @@
 title: "A Year of Tech Solidarity | Civicist"
 slug: a-year-of-tech-solidarity-civicist
 date: 2017-11-19 07:24:15 -0600
+category: 
 external-url: https://civichall.org/civicist/a-year-of-tech-solidarity/
 hash: 1ad04ee0d4907cd4b1a7993fc44ea0ba
 year: 2017

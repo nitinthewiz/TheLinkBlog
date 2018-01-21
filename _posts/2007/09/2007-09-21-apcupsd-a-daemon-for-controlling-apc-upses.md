@@ -2,6 +2,7 @@
 title: "Apcupsd, a daemon for controlling APC UPSes"
 slug: apcupsd-a-daemon-for-controlling-apc-upses
 date: 2007-09-21 10:43:37 -0500
+category: 
 external-url: http://www.apcupsd.com/index.html
 hash: ff165a2a563f8faeb7c268a02311ed18
 year: 2007

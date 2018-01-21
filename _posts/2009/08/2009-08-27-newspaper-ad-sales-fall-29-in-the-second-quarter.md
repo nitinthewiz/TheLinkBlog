@@ -2,6 +2,7 @@
 title: "Newspaper ad sales fall 29% in the second quarter"
 slug: newspaper-ad-sales-fall-29-in-the-second-quarter
 date: 2009-08-27 22:58:28 -0500
+category: 
 external-url: http://www.poynter.org/latest-news/mediawire/98019/newspaper-ad-sales-fall-29-in-the-second-quarter/
 hash: 5b39a74c979f734283658cbb265f64b8
 year: 2009

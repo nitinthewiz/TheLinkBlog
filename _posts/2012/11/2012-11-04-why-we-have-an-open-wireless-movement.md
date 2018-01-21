@@ -2,6 +2,7 @@
 title: "Why We Have An Open Wireless Movement"
 slug: why-we-have-an-open-wireless-movement
 date: 2012-11-04 21:51:08 -0600
+category: 
 external-url: https://www.eff.org/deeplinks/2012/10/why-we-have-open-wireless-movement
 hash: ad348cd1f114fcd12043a42353109d20
 year: 2012

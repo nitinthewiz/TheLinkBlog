@@ -2,6 +2,7 @@
 title: "How The Nissan Leaf Can Be Hacked Via Web Browser From Anywhere In The World"
 slug: how-the-nissan-leaf-can-be-hacked-via-web-browser-from-anywhere-in-the
 date: 2016-02-24 15:05:34 -0600
+category: 
 external-url: http://jalopnik.com/how-the-nissan-leaf-can-be-hacked-via-web-browser-from-1761044716?rev=1456341069387
 hash: 744059c110615320e0cd1d93a73e4ca4
 year: 2016

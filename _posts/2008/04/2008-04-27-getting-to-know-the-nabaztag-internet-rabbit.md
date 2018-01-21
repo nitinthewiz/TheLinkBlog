@@ -2,6 +2,7 @@
 title: "Getting to Know the Nabaztag Internet Rabbit"
 slug: getting-to-know-the-nabaztag-internet-rabbit
 date: 2008-04-27 18:36:27 -0500
+category: 
 external-url: http://db.tidbits.com/article/9584
 hash: 12c4365bfb2ae0a4fc30fade278d53bf
 year: 2008

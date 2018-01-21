@@ -2,6 +2,7 @@
 title: "Sense: Track energy use in real time"
 slug: sense-track-energy-use-in-real-time
 date: 2018-01-02 11:39:17 -0600
+category: 
 external-url: https://sense.com/product.html
 hash: bdae337ec5899b9f20a574802720d5ef
 year: 2018

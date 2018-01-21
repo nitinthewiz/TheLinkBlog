@@ -2,6 +2,7 @@
 title: "BlaBlaMeter"
 slug: blablameter
 date: 2012-07-30 15:48:19 -0500
+category: 
 external-url: http://www.blablameter.com/
 hash: e159d7fbaede4e8c2927e4b657aac916
 year: 2012

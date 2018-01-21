@@ -2,6 +2,7 @@
 title: "Accidentally Released Documents Show How Goldman et al Engaged in 'Naked Short Selling'"
 slug: accidentally-released-documents-show-how-goldman-et-al-engaged-in
 date: 2012-06-04 22:36:21 -0500
+category: 
 external-url: http://www.rollingstone.com/politics/blogs/taibblog/accidentally-released-and-incredibly-embarrassing-documents-show-how-goldman-et-al-engaged-in-naked-short-selling-20120515
 hash: ef84cd3b16dfe462a26f3deaba9669f2
 year: 2012

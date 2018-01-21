@@ -2,6 +2,7 @@
 title: "Facebook Takes Action, Introduces Action Links to the Open Graph"
 slug: facebook-takes-action-introduces-action-links-to-the-open-graph
 date: 2012-06-04 14:19:52 -0500
+category: 
 external-url: http://pando.com/2012/06/04/facebook-takes-action-introduces-action-links-to-the-open-graph/
 hash: 25330fb3849fbfefdf761def8a293cb2
 year: 2012

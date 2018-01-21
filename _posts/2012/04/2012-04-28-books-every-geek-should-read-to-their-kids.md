@@ -2,6 +2,7 @@
 title: "Books Every Geek Should Read to Their Kids"
 slug: books-every-geek-should-read-to-their-kids
 date: 2012-04-28 12:36:20 -0500
+category: 
 external-url: http://archive.wired.com/geekdad/2013/03/67-books-every-geek-should-read-to-their-kids-before-age-10/
 hash: 826c541122923497df07b323b30e8495
 year: 2012

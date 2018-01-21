@@ -2,6 +2,7 @@
 title: "MN-Sen: Introducing the Blo & Go"
 slug: mn-sen-introducing-the-blo-go
 date: 2008-07-05 12:50:05 -0500
+category: 
 external-url: http://www.dailykos.com/story/2008/07/05/546134/-MN-Sen-Introducing-the-Blo-Go
 hash: 5217cf50265d588ac84bb6d87482ded9
 year: 2008

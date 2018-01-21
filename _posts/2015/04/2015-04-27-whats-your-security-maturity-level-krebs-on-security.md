@@ -2,6 +2,7 @@
 title: "What’s Your Security Maturity Level? — Krebs on Security"
 slug: whats-your-security-maturity-level-krebs-on-security
 date: 2015-04-27 11:08:05 -0500
+category: 
 external-url: http://krebsonsecurity.com/2015/04/whats-your-security-maturity-level/
 hash: 2a85a40dd20b4d03989a654139a0a2dc
 year: 2015

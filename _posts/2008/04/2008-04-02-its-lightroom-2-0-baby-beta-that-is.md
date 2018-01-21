@@ -2,6 +2,7 @@
 title: "Its Lightroom 2.0 Baby (Beta that is)"
 slug: its-lightroom-2-0-baby-beta-that-is
 date: 2008-04-02 00:24:40 -0500
+category: 
 external-url: http://lightroomkillertips.com/its-lightroom-20-baby-beta-that-is/
 hash: ad9fd187a3ff53363e7319e8ace637f6
 year: 2008

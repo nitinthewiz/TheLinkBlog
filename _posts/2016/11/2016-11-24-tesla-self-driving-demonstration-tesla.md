@@ -2,6 +2,7 @@
 title: "Tesla Self-Driving Demonstration | Tesla"
 slug: tesla-self-driving-demonstration-tesla
 date: 2016-11-24 10:48:37 -0600
+category: 
 external-url: https://www.tesla.com/videos/autopilot-self-driving-hardware-neighborhood-long?redirect=no
 hash: 8428ce6f77afc181ded929a3abd71809
 year: 2016

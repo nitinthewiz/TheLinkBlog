@@ -2,6 +2,7 @@
 title: "Can we save the open web? | Dries Buytaert"
 slug: can-we-save-the-open-web-dries-buytaert
 date: 2016-03-17 19:16:10 -0500
+category: 
 external-url: http://buytaert.net/can-we-save-the-open-web
 hash: aadca315dd3f842ee420171de571c728
 year: 2016

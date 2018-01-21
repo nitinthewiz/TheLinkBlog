@@ -2,6 +2,7 @@
 title: "New Social Media Startup Launches, Shuts Down Within 45 Minutes"
 slug: new-social-media-startup-launches-shuts-down-within-45-minutes
 date: 2013-03-08 08:49:52 -0600
+category: 
 external-url: http://www.theonion.com/articles/new-social-media-startup-launches-shuts-down-withi%2C31557/
 hash: 8b9903efad705aa13f7e6b84fea07511
 year: 2013

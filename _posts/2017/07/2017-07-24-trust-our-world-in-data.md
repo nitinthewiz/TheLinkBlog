@@ -2,6 +2,7 @@
 title: "Trust - Our World In Data"
 slug: trust-our-world-in-data
 date: 2017-07-24 21:29:57 -0500
+category: 
 external-url: https://ourworldindata.org/trust
 hash: 59f4856ea6f082794a1de375d0cd2dcd
 year: 2017

@@ -2,6 +2,7 @@
 title: "Soon to Launch: Lists"
 slug: soon-to-launch-lists
 date: 2009-09-30 19:26:54 -0500
+category: 
 external-url: http://blog.twitter.com/2009/09/soon-to-launch-lists.html
 hash: 136d41b3487f8f20d81e6b68a28b7e20
 year: 2009

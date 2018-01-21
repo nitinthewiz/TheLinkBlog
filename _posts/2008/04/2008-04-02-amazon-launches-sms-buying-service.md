@@ -2,6 +2,7 @@
 title: "Amazon Launches SMS Buying Service"
 slug: amazon-launches-sms-buying-service
 date: 2008-04-02 06:21:03 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/02/amazon-launches-sms-buying-service/
 hash: 322f15f4fe11ce2b1041e90ce07a95d7
 year: 2008

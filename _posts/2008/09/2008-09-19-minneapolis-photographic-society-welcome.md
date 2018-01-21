@@ -2,6 +2,7 @@
 title: "Minneapolis Photographic Society - Welcome"
 slug: minneapolis-photographic-society-welcome
 date: 2008-09-19 10:43:33 -0500
+category: 
 external-url: http://www.mplsphoto.com/mps/site/index.php
 hash: e80aad41989f81061748fed10b43c4ae
 year: 2008

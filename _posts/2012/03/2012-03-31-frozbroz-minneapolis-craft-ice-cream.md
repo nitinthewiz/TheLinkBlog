@@ -2,6 +2,7 @@
 title: "FROZBROZ - Minneapolis Craft Ice Cream"
 slug: frozbroz-minneapolis-craft-ice-cream
 date: 2012-03-31 00:28:41 -0500
+category: 
 external-url: http://frozbroz.com/
 hash: c3714e8e9cdda2bc4c134f472992da53
 year: 2012

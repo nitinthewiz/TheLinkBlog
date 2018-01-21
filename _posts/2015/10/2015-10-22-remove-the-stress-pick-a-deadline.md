@@ -2,6 +2,7 @@
 title: "Remove the stress, pick a deadline"
 slug: remove-the-stress-pick-a-deadline
 date: 2015-10-22 04:07:15 -0500
+category: 
 external-url: https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline
 hash: cef001115b80cb0c0e2c926e1d74faee
 year: 2015

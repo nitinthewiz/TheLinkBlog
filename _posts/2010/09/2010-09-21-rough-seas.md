@@ -2,6 +2,7 @@
 title: "Rough seas"
 slug: rough-seas
 date: 2010-09-21 09:39:41 -0500
+category: 
 external-url: http://kottke.org/10/09/rough-seas
 hash: 6867b196017edf407a0880ee5913b8f6
 year: 2010

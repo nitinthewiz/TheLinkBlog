@@ -2,6 +2,7 @@
 title: "Low-risk Monolith to Microservice Evolution Part I – Software Blog"
 slug: low-risk-monolith-to-microservice-evolution-part-i-software-blog
 date: 2017-10-22 20:47:06 -0500
+category: 
 external-url: http://blog.christianposta.com/microservices/low-risk-monolith-to-microservice-evolution/
 hash: d0c80d032046ce5a8da14d2ddf262af2
 year: 2017

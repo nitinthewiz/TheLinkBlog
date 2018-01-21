@@ -2,6 +2,7 @@
 title: "[Back to] The Future of Typography - Presentation Notes"
 slug: back-to-the-future-of-typography-presentation-notes
 date: 2009-05-17 22:36:07 -0500
+category: 
 external-url: http://kernest.com/blog/archive/back-to-the-future-of-typography-presentation-notes
 hash: 6cde0ee6b39c467be35eef87b6a859a4
 year: 2009

@@ -2,6 +2,7 @@
 title: "OmniPresence document syncing ships this week"
 slug: omnipresence-document-syncing-ships-this-week
 date: 2013-05-20 22:33:46 -0500
+category: 
 external-url: http://www.omnigroup.com/blog/omnipresence-document-syncing-ships-this-week
 hash: 6a759cedfdb301c9eff898480b205796
 year: 2013

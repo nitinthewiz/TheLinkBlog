@@ -2,6 +2,7 @@
 title: "The woman with 100 personalities"
 slug: the-woman-with-100-personalities
 date: 2011-10-03 09:10:01 -0500
+category: 
 external-url: http://kottke.org/11/10/the-woman-with-100-personalities
 hash: eb361ce07319a5346bb39f92eea07412
 year: 2011

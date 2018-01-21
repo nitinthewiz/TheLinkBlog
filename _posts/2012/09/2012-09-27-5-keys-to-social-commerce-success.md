@@ -2,6 +2,7 @@
 title: "5 Keys to Social Commerce Success"
 slug: 5-keys-to-social-commerce-success
 date: 2012-09-27 10:56:41 -0500
+category: 
 external-url: http://www.practicalecommerce.com/articles/3745-5-Keys-to-Social-Commerce-Success
 hash: f0d26dfbf40b97a2dd748cbe0bcc7785
 year: 2012

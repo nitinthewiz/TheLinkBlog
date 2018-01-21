@@ -2,6 +2,7 @@
 title: "My OmniFocus Perspectives MacSparky"
 slug: my-omnifocus-perspectives-macsparky
 date: 2014-06-12 22:23:51 -0500
+category: 
 external-url: http://macsparky.com/blog/2014/6/my-omnifocus-perspectives
 hash: f460ef4f59cd2d32ca2267ecd6c409e5
 year: 2014

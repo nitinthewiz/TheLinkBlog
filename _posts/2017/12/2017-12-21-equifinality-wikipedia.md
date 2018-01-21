@@ -2,6 +2,7 @@
 title: "Equifinality - Wikipedia"
 slug: equifinality-wikipedia
 date: 2017-12-21 08:56:10 -0600
+category: 
 external-url: https://en.wikipedia.org/wiki/Equifinality
 hash: d7b36bbd7f83c8b08d8c60a632fd04a7
 year: 2017

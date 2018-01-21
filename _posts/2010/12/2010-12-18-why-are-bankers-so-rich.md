@@ -2,6 +2,7 @@
 title: "Why Are Bankers So Rich?"
 slug: why-are-bankers-so-rich
 date: 2010-12-18 14:06:46 -0600
+category: 
 external-url: http://www.motherjones.com/kevin-drum/2010/12/why-are-bankers-so-rich
 hash: 01e2ace0d66619274d57816131163ba8
 year: 2010

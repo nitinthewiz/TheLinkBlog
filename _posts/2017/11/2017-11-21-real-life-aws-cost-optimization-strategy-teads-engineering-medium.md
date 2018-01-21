@@ -2,6 +2,7 @@
 title: "Real-life AWS cost optimization strategy – Teads Engineering – Medium"
 slug: real-life-aws-cost-optimization-strategy-teads-engineering-medium
 date: 2017-11-21 21:11:43 -0600
+category: 
 external-url: https://medium.com/teads-engineering/real-life-aws-cost-optimization-strategy-at-teads-135268b0860f
 hash: 13264366b4b28d26b8fc263bdd468125
 year: 2017

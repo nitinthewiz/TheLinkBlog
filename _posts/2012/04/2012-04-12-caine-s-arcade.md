@@ -2,6 +2,7 @@
 title: "Caine's Arcade"
 slug: caine-s-arcade
 date: 2012-04-12 17:08:27 -0500
+category: 
 external-url: http://vimeo.com/40000072
 hash: e3b3e8b146d922ee74f5e5a50cc53401
 year: 2012

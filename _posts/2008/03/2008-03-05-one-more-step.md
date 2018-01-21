@@ -2,6 +2,7 @@
 title: "One more step"
 slug: one-more-step
 date: 2008-03-05 23:27:00 -0600
+category: 
 external-url: http://googlereader.blogspot.com/2008/03/one-more-step.html
 hash: db98dbfb5f3c167a1f0bc9af5897fda4
 year: 2008

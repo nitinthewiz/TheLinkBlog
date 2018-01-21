@@ -2,6 +2,7 @@
 title: "Seattle Surprise"
 slug: seattle-surprise
 date: 2009-08-10 23:29:01 -0500
+category: 
 external-url: http://newspaperdeathwatch.com/seattle-surprise-2/
 hash: bb1096b3929f866044efdbf5292f11e3
 year: 2009

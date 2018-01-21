@@ -2,6 +2,7 @@
 title: "Facebook storefonts fail, but f-commerce isn’t a failure | ZDNet"
 slug: facebook-storefonts-fail-but-f-commerce-isnt-a-failure-zdnet
 date: 2012-02-21 13:58:42 -0600
+category: 
 external-url: http://www.zdnet.com/blog/facebook/facebook-storefonts-fail-but-f-commerce-isnt-a-failure/9251?tag=mantle_skin;content
 hash: b682389c267c140632f8d9b92b958c56
 year: 2012

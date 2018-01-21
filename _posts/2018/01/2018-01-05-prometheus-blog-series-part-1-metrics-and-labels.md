@@ -2,6 +2,7 @@
 title: "Prometheus Blog Series (Part 1): Metrics and Labels"
 slug: prometheus-blog-series-part-1-metrics-and-labels
 date: 2018-01-05 08:57:45 -0600
+category: 
 external-url: https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/?__s=bsgqbmfxusxefqxs6as6
 hash: 647f3912f6928823ae6843ee2828c0a3
 year: 2018

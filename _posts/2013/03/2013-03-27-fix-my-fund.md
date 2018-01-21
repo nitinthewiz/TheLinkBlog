@@ -2,6 +2,7 @@
 title: "Fix My Fund"
 slug: fix-my-fund
 date: 2013-03-27 22:13:29 -0500
+category: 
 external-url: http://www.fixmyfund.com/
 hash: fa4aedcfc6e0ee72c13f7ef15de7cf2c
 year: 2013

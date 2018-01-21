@@ -2,6 +2,7 @@
 title: "Apple's new batteries are bewildering MacBook Pro owners"
 slug: apple-s-new-batteries-are-bewildering-macbook-pro-owners
 date: 2009-06-15 12:37:34 -0500
+category: 
 external-url: http://9to5mac.com/2009/06/14/apples-new-batteries-are-bewildering-macbook-pro-owners/
 hash: 9c3e29174d3b3def385a61382646705b
 year: 2009

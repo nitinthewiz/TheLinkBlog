@@ -2,6 +2,7 @@
 title: "GPS dongle coming for iPhone"
 slug: gps-dongle-coming-for-iphone
 date: 2007-12-17 09:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2007/12/17/gps-dongle-coming-for-iphone/
 hash: 5ebb28e10929b68851ae38bdd0f08c8d
 year: 2007

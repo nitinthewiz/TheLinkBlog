@@ -2,6 +2,7 @@
 title: "Quicksilver: Universal Access and Action"
 slug: quicksilver-universal-access-and-action
 date: 2007-09-21 10:44:23 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=P_WOPkT-9EI
 hash: 4e309f5bb66570d9bce375a82a8e770b
 year: 2007

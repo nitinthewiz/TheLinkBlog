@@ -2,6 +2,7 @@
 title: "DoApp Making Big Strides with ‘Mobile Local News’ App"
 slug: doapp-making-big-strides-with-mobile-local-news-app
 date: 2009-10-16 18:55:53 -0500
+category: 
 external-url: http://minnov8.com/2009/10/16/doapp-making-big-strides-with-mobile-local-news-app/
 hash: a4aba57f04f34aba4e93e5dcfb8b6f48
 year: 2009

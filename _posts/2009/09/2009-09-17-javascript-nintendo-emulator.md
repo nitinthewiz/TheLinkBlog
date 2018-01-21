@@ -2,6 +2,7 @@
 title: "Javascript Nintendo emulator"
 slug: javascript-nintendo-emulator
 date: 2009-09-17 23:50:50 -0500
+category: 
 external-url: http://kottke.org/09/09/javascript-nintendo-emulator
 hash: 9f4158d0f672fb8b700301d61dc7f128
 year: 2009

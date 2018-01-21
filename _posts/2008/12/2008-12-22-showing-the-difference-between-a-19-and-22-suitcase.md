@@ -2,6 +2,7 @@
 title: "Showing the difference between a 19\" and 22\" suitcase"
 slug: showing-the-difference-between-a-19-and-22-suitcase
 date: 2008-12-22 10:29:00 -0600
+category: 
 external-url: http://www.37signals.com/svn/posts/1481-showing-the-difference-between-a-19-and-22-suitcase
 hash: d8fa603be0893ad6ed3913a771d6a04e
 year: 2008

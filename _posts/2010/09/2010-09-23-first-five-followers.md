@@ -2,6 +2,7 @@
 title: "First Five Followers"
 slug: first-five-followers
 date: 2010-09-23 15:25:14 -0500
+category: 
 external-url: http://firstfivefollowers.com/
 hash: 50049a22f60de09781e71f5aeaa4d584
 year: 2010

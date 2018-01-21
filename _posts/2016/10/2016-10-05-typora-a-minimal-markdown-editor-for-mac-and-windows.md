@@ -2,6 +2,7 @@
 title: "Typora — a minimal markdown editor for Mac and Windows"
 slug: typora-a-minimal-markdown-editor-for-mac-and-windows
 date: 2016-10-05 19:53:26 -0500
+category: 
 external-url: http://www.typora.io/
 hash: 8bb30dbd900ba80a4787cd4fc503fe32
 year: 2016

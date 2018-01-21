@@ -2,6 +2,7 @@
 title: "Is Your Computer Stable?"
 slug: is-your-computer-stable
 date: 2016-02-25 08:31:44 -0600
+category: 
 external-url: http://blog.codinghorror.com/
 hash: e8e803b9e32d4f3ae4896124d397519f
 year: 2016

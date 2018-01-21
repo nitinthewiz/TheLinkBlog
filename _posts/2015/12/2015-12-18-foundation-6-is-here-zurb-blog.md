@@ -2,6 +2,7 @@
 title: "Foundation 6 Is Here! | ZURB Blog"
 slug: foundation-6-is-here-zurb-blog
 date: 2015-12-18 04:38:22 -0600
+category: 
 external-url: http://zurb.com/article/1416/foundation-6-is-here
 hash: 89c035fe1e5e9d587cca900eecb6213c
 year: 2015

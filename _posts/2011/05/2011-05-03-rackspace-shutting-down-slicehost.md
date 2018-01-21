@@ -2,6 +2,7 @@
 title: "Rackspace Shutting Down Slicehost"
 slug: rackspace-shutting-down-slicehost
 date: 2011-05-03 23:37:24 -0500
+category: 
 external-url: http://readwrite.com/2011/05/03/rackspace-shutting-down-sliceh
 hash: dea3096fc49ead2e7db90b8b1db2ae51
 year: 2011

@@ -2,6 +2,7 @@
 title: "Everything We Know About What Data Brokers Know About You"
 slug: everything-we-know-about-what-data-brokers-know-about-you
 date: 2013-03-08 12:06:21 -0600
+category: 
 external-url: http://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you
 hash: 46f09d0784555dcf86e6921c5b112cc8
 year: 2013

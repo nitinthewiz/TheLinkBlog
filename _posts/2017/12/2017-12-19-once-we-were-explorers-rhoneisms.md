@@ -2,6 +2,7 @@
 title: "Once, We Were Explorers – Rhoneisms"
 slug: once-we-were-explorers-rhoneisms
 date: 2017-12-19 20:30:23 -0600
+category: 
 external-url: http://www.patrickrhone.net/once-we-were-explorers/
 hash: 088d5f9ded54835cb00d155d2c991630
 year: 2017

@@ -2,6 +2,7 @@
 title: "Monitoring Home Power Consumption for less than $25"
 slug: monitoring-home-power-consumption-for-less-than-25
 date: 2017-12-31 08:57:14 -0600
+category: 
 external-url: https://blog.kroy.io/monitoring-home-power-consumption-for-less-than-25/
 hash: f2152cb9843d9288f1bb00623bd2ea0e
 year: 2017

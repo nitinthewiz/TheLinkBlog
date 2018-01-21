@@ -2,6 +2,7 @@
 title: "Inside Tony Fadell’s Struggle to Build Nest"
 slug: inside-tony-fadells-struggle-to-build-nest
 date: 2016-03-25 19:08:42 -0500
+category: 
 external-url: https://www.theinformation.com/inside-tony-fadells-struggle-to-build-nest
 hash: 88cb8e109e1a9296a33526f19449529a
 year: 2016

@@ -2,6 +2,7 @@
 title: "LOOK AT ALL THAT RED!"
 slug: look-at-all-that-red
 date: 2010-11-14 22:04:04 -0600
+category: 
 external-url: http://www.ginandtacos.com/2010/11/15/look-at-all-that-red/
 hash: 4a02bc397d2c794eafb2a28d3a53e6fa
 year: 2010

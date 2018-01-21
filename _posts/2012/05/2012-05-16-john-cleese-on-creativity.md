@@ -2,6 +2,7 @@
 title: "John Cleese on Creativity"
 slug: john-cleese-on-creativity
 date: 2012-05-16 17:23:38 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=VShmtsLhkQg
 hash: a613fba15f595ae60af11c6e2f4060a6
 year: 2012

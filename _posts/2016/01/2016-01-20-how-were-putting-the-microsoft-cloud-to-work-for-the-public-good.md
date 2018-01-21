@@ -2,6 +2,7 @@
 title: "How we’re putting the Microsoft Cloud to work for the public good"
 slug: how-were-putting-the-microsoft-cloud-to-work-for-the-public-good
 date: 2016-01-20 07:01:43 -0600
+category: 
 external-url: http://blogs.microsoft.com/blog/2016/01/19/how-were-putting-the-microsoft-cloud-to-work-for-the-public-good/
 hash: 86cc87da1aa4ea50650aa629cf0d7212
 year: 2016

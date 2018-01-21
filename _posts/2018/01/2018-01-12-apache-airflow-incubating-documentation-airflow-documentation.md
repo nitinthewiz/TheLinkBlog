@@ -2,6 +2,7 @@
 title: "Apache Airflow (incubating) Documentation — Airflow Documentation"
 slug: apache-airflow-incubating-documentation-airflow-documentation
 date: 2018-01-12 22:13:38 -0600
+category: 
 external-url: https://airflow.incubator.apache.org/
 hash: 4dd0ca7ec9f3343f6bfa26bea3fa0e41
 year: 2018

@@ -2,6 +2,7 @@
 title: "Finding Oregon"
 slug: finding-oregon
 date: 2011-11-30 22:18:12 -0600
+category: 
 external-url: http://vimeo.com/32852978
 hash: ef3258832240bcd8fc64ef3ce569ff22
 year: 2011

@@ -2,6 +2,7 @@
 title: "eero - Finally, WiFi that works"
 slug: eero-finally-wifi-that-works
 date: 2016-08-10 21:27:04 -0500
+category: 
 external-url: https://eero.com/
 hash: a49430980456df6865d79f7996226abf
 year: 2016

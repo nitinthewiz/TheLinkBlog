@@ -2,6 +2,7 @@
 title: "The Electronic Holy War"
 slug: the-electronic-holy-war
 date: 2014-03-29 20:45:05 -0500
+category: 
 external-url: http://www.newyorker.com/tech/elements/the-electronic-holy-war
 hash: 3326d83ea86dd6ba238647adaabb617b
 year: 2014

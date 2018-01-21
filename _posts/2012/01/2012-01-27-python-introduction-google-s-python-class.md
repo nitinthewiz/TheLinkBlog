@@ -2,6 +2,7 @@
 title: "Python Introduction - Google's Python Class"
 slug: python-introduction-google-s-python-class
 date: 2012-01-27 15:26:59 -0600
+category: 
 external-url: https://developers.google.com/edu/python/introduction
 hash: c21e0a7e0c9b954c563bf4cc26ef6728
 year: 2012

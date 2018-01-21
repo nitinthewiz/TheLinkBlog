@@ -2,6 +2,7 @@
 title: "Github LaTeX CI"
 slug: github-latex-ci
 date: 2014-09-22 21:18:01 -0500
+category: 
 external-url: https://www.sharelatex.com/github/
 hash: 2f5b8837132d5e5e0ab61fe87873d8f0
 year: 2014

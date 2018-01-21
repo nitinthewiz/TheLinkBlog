@@ -2,6 +2,7 @@
 title: "Market Segmentation and My Minneapolis iPhone Programming Class On June  13-14"
 slug: market-segmentation-and-my-minneapolis-iphone-programming-class-on-13
 date: 2009-05-20 23:33:17 -0500
+category: 
 external-url: http://www.unpossible.com/2009/05/19/market-segmentation-and-my-minneapolis-iphone-programming-class-on-june-13-14/
 hash: 8ad2bb4e95f3c53e6ec77ebe8ab3dfba
 year: 2009

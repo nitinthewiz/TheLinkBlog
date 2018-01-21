@@ -2,6 +2,7 @@
 title: "DiggProof your Wordpress"
 slug: diggproof-your-wordpress
 date: 2007-01-28 22:15:39 -0600
+category: 
 external-url: http://blog.circlesixdesign.com/2007/01/22/diggproof/
 hash: 27ed37a7bd758b4777f1410fee8a2c05
 year: 2007

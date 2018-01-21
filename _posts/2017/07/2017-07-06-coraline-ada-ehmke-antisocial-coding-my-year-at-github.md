@@ -2,6 +2,7 @@
 title: "Coraline Ada Ehmke: Antisocial Coding: My Year at GitHub"
 slug: coraline-ada-ehmke-antisocial-coding-my-year-at-github
 date: 2017-07-06 06:03:34 -0500
+category: 
 external-url: http://where.coraline.codes/blog/my-year-at-github/
 hash: 01dae53ace6a0252a90e348995fb2dbd
 year: 2017

@@ -2,6 +2,7 @@
 title: "How can we build a city that thinks like the web?"
 slug: how-can-we-build-a-city-that-thinks-like-the-web
 date: 2012-05-31 16:25:16 -0500
+category: 
 external-url: http://huffduffer.com/josephrooks/74943
 hash: 10d9876151c4f68a08680e50cf01e9b8
 year: 2012

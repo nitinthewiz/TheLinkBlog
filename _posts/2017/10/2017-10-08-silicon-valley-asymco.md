@@ -2,6 +2,7 @@
 title: "Silicon Valley | Asymco"
 slug: silicon-valley-asymco
 date: 2017-10-08 20:25:25 -0500
+category: 
 external-url: http://www.asymco.com/2017/10/02/silicon-valley/
 hash: 35e9dd032a2e1328ce54ad7e5f6f4222
 year: 2017

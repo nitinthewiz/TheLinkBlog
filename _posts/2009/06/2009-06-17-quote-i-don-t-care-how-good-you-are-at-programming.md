@@ -2,6 +2,7 @@
 title: "QUOTE: I don't care how good you are at programming"
 slug: quote-i-don-t-care-how-good-you-are-at-programming
 date: 2009-06-17 06:35:53 -0500
+category: 
 external-url: http://www.37signals.com/svn/posts/1768-i-dont-care-how-good-you-are-at-programming
 hash: 75f74344540c105ea633ad8dac174240
 year: 2009

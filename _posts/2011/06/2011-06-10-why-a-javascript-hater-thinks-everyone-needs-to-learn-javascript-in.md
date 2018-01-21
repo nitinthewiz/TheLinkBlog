@@ -2,6 +2,7 @@
 title: "Why a JavaScript hater thinks everyone needs to learn JavaScript in the next year"
 slug: why-a-javascript-hater-thinks-everyone-needs-to-learn-javascript-in
 date: 2011-06-10 06:59:10 -0500
+category: 
 external-url: http://radar.oreilly.com/2011/06/time-to-learn-javascript.html
 hash: 9062c1067ae63f6780c011a3b72ffe6d
 year: 2011

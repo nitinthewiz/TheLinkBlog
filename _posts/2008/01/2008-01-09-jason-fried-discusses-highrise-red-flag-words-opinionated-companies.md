@@ -2,6 +2,7 @@
 title: "Jason Fried discusses Highrise, red flag words, opinionated companies, and benevolent dictators"
 slug: jason-fried-discusses-highrise-red-flag-words-opinionated-companies
 date: 2008-01-09 10:04:00 -0600
+category: 
 external-url: http://www.37signals.com/svn/posts/646-jason-fried-discusses-highrise-red-flag-words-opinionated-companies-and-benevolent-dictators
 hash: 6814cac285b4976c43632afbf6f27d91
 year: 2008

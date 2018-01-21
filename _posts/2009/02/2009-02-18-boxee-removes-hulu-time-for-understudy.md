@@ -2,6 +2,7 @@
 title: "Boxee removes Hulu, time for Understudy"
 slug: boxee-removes-hulu-time-for-understudy
 date: 2009-02-18 23:12:54 -0600
+category: 
 external-url: http://9to5mac.com/2009/02/18/boxee-removes-hulu-time-for-understudy/
 hash: e8dd0f8f4e0a3d9c019a16aa2f68e557
 year: 2009

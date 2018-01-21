@@ -2,6 +2,7 @@
 title: "Lady GaGa Named Creative Director at Polaroid"
 slug: lady-gaga-named-creative-director-at-polaroid
 date: 2010-01-10 21:53:16 -0600
+category: 
 external-url: http://www.aphotoeditor.com/2010/01/08/lady-gaga-named-creative-director-at-polaroid/
 hash: 5abde7bf246fa58c1a0d45f3ae47c7ca
 year: 2010

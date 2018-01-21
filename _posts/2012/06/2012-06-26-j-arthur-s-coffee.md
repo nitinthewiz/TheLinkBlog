@@ -2,6 +2,7 @@
 title: "J. Arthur's Coffee"
 slug: j-arthur-s-coffee
 date: 2012-06-26 06:56:42 -0500
+category: 
 external-url: http://jarthurscoffee.com/
 hash: 374918a0b484392a50fe6c9932cdeb6d
 year: 2012

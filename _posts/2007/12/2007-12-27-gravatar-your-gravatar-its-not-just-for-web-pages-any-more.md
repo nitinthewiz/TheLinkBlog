@@ -2,6 +2,7 @@
 title: "Gravatar: Your gravatar: it’s not just for web pages any more!"
 slug: gravatar-your-gravatar-its-not-just-for-web-pages-any-more
 date: 2007-12-27 14:54:08 -0600
+category: 
 external-url: http://blog.gravatar.com/2007/12/27/your-gravatar-its-not-just-for-web-pages-any-more/
 hash: a767067df53b4bcdb2bb746e0022fafc
 year: 2007

@@ -2,6 +2,7 @@
 title: "Northern Trackers Railroad Club - Crosslake Minnesota"
 slug: northern-trackers-railroad-club-crosslake-minnesota
 date: 2012-11-24 12:07:57 -0600
+category: 
 external-url: http://www.northerntrackersrrclub.com/index.html
 hash: ef58dcbf2753d24925c0d9488ab7a8f1
 year: 2012

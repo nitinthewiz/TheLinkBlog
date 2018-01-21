@@ -2,6 +2,7 @@
 title: "Abcjs - ABC parser, renderer and editor in javascript"
 slug: abcjs-abc-parser-renderer-and-editor-in-javascript
 date: 2012-04-02 08:39:41 -0500
+category: 
 external-url: http://code.google.com/p/abcjs/
 hash: 438be5188f5731eb0f211561bb2cb9bc
 year: 2012

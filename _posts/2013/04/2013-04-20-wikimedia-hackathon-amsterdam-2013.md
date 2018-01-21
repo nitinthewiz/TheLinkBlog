@@ -2,6 +2,7 @@
 title: "Wikimedia Hackathon Amsterdam 2013"
 slug: wikimedia-hackathon-amsterdam-2013
 date: 2013-04-20 08:54:03 -0500
+category: 
 external-url: http://www.mediawiki.org/wiki/Amsterdam_Hackathon_2013
 hash: 33a528de71e4fe3bf36c20d6fc91c3e6
 year: 2013

@@ -2,6 +2,7 @@
 title: "You don't have problems, only projects"
 slug: you-don-t-have-problems-only-projects
 date: 2016-02-27 05:42:57 -0600
+category: 
 external-url: http://www.next-action.eu/2016/02/23/you-dont-have-problems-only-projects/
 hash: 46ada4878e5a89a384aeb2f2b1fcfc73
 year: 2016

@@ -2,6 +2,7 @@
 title: "Amazon Neptune – A Fully Managed Graph Database Service | AWS News Blog"
 slug: amazon-neptune-a-fully-managed-graph-database-service-aws-news-blog
 date: 2017-12-01 14:54:32 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/amazon-neptune-a-fully-managed-graph-database-service/
 hash: bb224d639006f2fe6785550ad903b003
 year: 2017

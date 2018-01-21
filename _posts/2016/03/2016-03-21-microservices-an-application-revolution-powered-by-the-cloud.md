@@ -2,6 +2,7 @@
 title: "Microservices: An application revolution powered by the cloud"
 slug: microservices-an-application-revolution-powered-by-the-cloud
 date: 2016-03-21 11:55:07 -0500
+category: 
 external-url: https://azure.microsoft.com/en-us/blog/microservices-an-application-revolution-powered-by-the-cloud/?wt.mc_id=WW_ABG_MAPPS_OO_SCL_TW
 hash: 9ca8d4407c93d0b9b0ba296dec14e702
 year: 2016

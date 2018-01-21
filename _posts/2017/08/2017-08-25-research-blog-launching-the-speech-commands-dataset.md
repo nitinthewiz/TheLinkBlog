@@ -2,6 +2,7 @@
 title: "Research Blog: Launching the Speech Commands Dataset"
 slug: research-blog-launching-the-speech-commands-dataset
 date: 2017-08-25 20:10:07 -0500
+category: 
 external-url: https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html
 hash: be3764c480c55e2641f1b0caa14f97a2
 year: 2017

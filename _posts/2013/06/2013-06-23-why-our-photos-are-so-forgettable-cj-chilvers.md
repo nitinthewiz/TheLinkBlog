@@ -2,6 +2,7 @@
 title: "Why Our Photos Are So Forgettable — CJ Chilvers"
 slug: why-our-photos-are-so-forgettable-cj-chilvers
 date: 2013-06-23 00:32:24 -0500
+category: 
 external-url: https://www.cjchilvers.com/blog/why-our-photos-are-so-forgettable
 hash: 72a86cc744f93c807bdd95ac2103fd79
 year: 2013

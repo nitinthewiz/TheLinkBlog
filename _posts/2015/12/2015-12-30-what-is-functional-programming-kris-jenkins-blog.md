@@ -2,6 +2,7 @@
 title: "What Is Functional Programming? - Kris Jenkins' Blog"
 slug: what-is-functional-programming-kris-jenkins-blog
 date: 2015-12-30 16:49:10 -0600
+category: 
 external-url: http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 hash: a20d9691830157d44ead563b15c03c18
 year: 2015

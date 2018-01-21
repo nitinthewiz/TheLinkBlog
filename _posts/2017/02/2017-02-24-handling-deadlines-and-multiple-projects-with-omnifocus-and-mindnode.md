@@ -2,6 +2,7 @@
 title: "Handling Deadlines and Multiple Projects – with OmniFocus and MindNode | Using OmniFocus"
 slug: handling-deadlines-and-multiple-projects-with-omnifocus-and-mindnode
 date: 2017-02-24 22:26:23 -0600
+category: 
 external-url: http://www.usingomnifocus.com/2017/02/handling-deadlines-and-multiple-projects-with-omnifocus-and-mindnode/
 hash: 74085802f76adb34ca6b4e7f659c9db4
 year: 2017

@@ -2,6 +2,7 @@
 title: "Safari 4’s Full-Page Zoom"
 slug: safari-4s-full-page-zoom
 date: 2009-06-15 10:26:29 -0500
+category: 
 external-url: http://mjtsai.com/blog/2009/06/15/safari-4s-full-page-zoom/
 hash: dbc51d4bc9a8bc5e697022173809e519
 year: 2009

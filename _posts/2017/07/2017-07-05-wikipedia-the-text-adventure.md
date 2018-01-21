@@ -2,6 +2,7 @@
 title: "Wikipedia: The Text Adventure"
 slug: wikipedia-the-text-adventure
 date: 2017-07-05 21:38:15 -0500
+category: 
 external-url: http://kevan.org/wikitext/
 hash: f6ac27bbf2fc5b1a4ff839b108bc79df
 year: 2017

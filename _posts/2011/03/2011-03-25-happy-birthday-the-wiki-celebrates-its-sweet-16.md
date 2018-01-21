@@ -2,6 +2,7 @@
 title: "Happy Birthday - the Wiki Celebrates its Sweet 16"
 slug: happy-birthday-the-wiki-celebrates-its-sweet-16
 date: 2011-03-25 05:15:21 -0500
+category: 
 external-url: https://readwrite.com/2011/03/26/happy-birthday-the-wiki-cele/
 hash: 62076414d5691736cef76ddef63f7849
 year: 2011

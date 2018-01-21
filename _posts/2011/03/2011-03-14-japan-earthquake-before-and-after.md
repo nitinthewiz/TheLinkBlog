@@ -2,6 +2,7 @@
 title: "Japan Earthquake: before and after"
 slug: japan-earthquake-before-and-after
 date: 2011-03-14 16:50:23 -0500
+category: 
 external-url: http://www.abc.net.au/news/specials/japan-quake-2011/
 hash: 53c9b6a7c2d3b83b8d966a8c5dab168f
 year: 2011

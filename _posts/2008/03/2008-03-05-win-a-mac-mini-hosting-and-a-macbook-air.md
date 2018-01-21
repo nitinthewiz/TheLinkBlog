@@ -2,6 +2,7 @@
 title: "Win a Mac mini, hosting and a MacBook Air"
 slug: win-a-mac-mini-hosting-and-a-macbook-air
 date: 2008-03-05 06:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/03/05/win-a-mac-mini-hosting-and-a-macbook-air/
 hash: 5f3d04d39ba960157261361a5c9cdd9e
 year: 2008

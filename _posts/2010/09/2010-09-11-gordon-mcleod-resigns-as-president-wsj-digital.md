@@ -2,6 +2,7 @@
 title: "Gordon McLeod Resigns As President, WSJ Digital"
 slug: gordon-mcleod-resigns-as-president-wsj-digital
 date: 2010-09-11 00:25:14 -0500
+category: 
 external-url: http://gigaom.com/2010/09/08/419-gordon-mcleod-resigns-as-president-wsj-digital-network/
 hash: f7a750bd38eec1885adbde3a82269c50
 year: 2010

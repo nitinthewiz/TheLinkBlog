@@ -2,6 +2,7 @@
 title: "Speaking of True Grit"
 slug: speaking-of-true-grit
 date: 2010-09-27 20:25:29 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=7qQhODwivLU
 hash: f5cb6346512a99ede66138dc34ad1cac
 year: 2010

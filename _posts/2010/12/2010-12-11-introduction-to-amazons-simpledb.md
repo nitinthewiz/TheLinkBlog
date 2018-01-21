@@ -2,6 +2,7 @@
 title: "Introduction to Amazon’s SimpleDB"
 slug: introduction-to-amazons-simpledb
 date: 2010-12-11 10:49:43 -0600
+category: 
 external-url: http://www.copperykeenclaws.com/introduction-to-amazon’s-simpledb/
 hash: c6b7bffcebbf2caa5ea5d59cb1801f1b
 year: 2010

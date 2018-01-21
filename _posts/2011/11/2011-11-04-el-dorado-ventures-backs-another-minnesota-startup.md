@@ -2,6 +2,7 @@
 title: "El Dorado Ventures backs another Minnesota startup"
 slug: el-dorado-ventures-backs-another-minnesota-startup
 date: 2011-11-04 09:06:06 -0500
+category: 
 external-url: http://tech.mn/news/2011/11/04/enstratus-el-dorado-ventures/
 hash: dc43d4f0a9d9392bcd54b36b26fda941
 year: 2011

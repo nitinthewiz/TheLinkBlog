@@ -2,6 +2,7 @@
 title: "Don't Forget About Your Personal Blog"
 slug: don-t-forget-about-your-personal-blog
 date: 2008-08-01 21:37:49 -0500
+category: 
 external-url: http://performancing.com/blogging/dont-forget-about-your-personal-blog
 hash: abd3c2be978af8163b94a996420d98f9
 year: 2008

@@ -2,6 +2,7 @@
 title: "In The Works – Amazon Aurora Serverless | AWS News Blog"
 slug: in-the-works-amazon-aurora-serverless-aws-news-blog
 date: 2017-12-01 15:01:36 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/in-the-works-amazon-aurora-serverless/
 hash: 15ad8e90985136d637ea41c6f4c71a40
 year: 2017

@@ -2,6 +2,7 @@
 title: "Customizing OmniFocus in Version 2.3"
 slug: customizing-omnifocus-in-version-2-3
 date: 2015-10-29 13:35:41 -0500
+category: 
 external-url: http://macsparky.com/blog/2015/10/customizing-omnifocus-in-version-23
 hash: d3ebbd2f0a70c92007e2ee11ae96032e
 year: 2015

@@ -2,6 +2,7 @@
 title: "A Vegan Tour of NYC"
 slug: a-vegan-tour-of-nyc
 date: 2013-03-08 15:14:21 -0600
+category: 
 external-url: http://zenhabits.net/nyc/
 hash: 3e5d4309c34437c930d4f65c946c2726
 year: 2013

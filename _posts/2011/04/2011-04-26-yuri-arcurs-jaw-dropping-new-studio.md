@@ -2,6 +2,7 @@
 title: "Yuri Arcurs Jaw-dropping New Studio"
 slug: yuri-arcurs-jaw-dropping-new-studio
 date: 2011-04-26 10:35:12 -0500
+category: 
 external-url: http://www.profoto.com/blog/videos/yuri-arcurs-jaw-dropping-new-studio/
 hash: 779bd427f518978b070a5d7053a04728
 year: 2011

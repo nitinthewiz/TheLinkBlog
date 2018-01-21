@@ -2,6 +2,7 @@
 title: "You Might Be Evil —Tim Bray"
 slug: you-might-be-evil-tim-bray
 date: 2017-09-21 05:46:22 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2017/09/20/Tech-is-Evil
 hash: a07d9caab55d18e3b4d79c5f2f369134
 year: 2017

@@ -2,6 +2,7 @@
 title: "EventBurn: Minne*"
 slug: eventburn-minne
 date: 2011-01-14 08:51:50 -0600
+category: 
 external-url: http://www.eventburn.com/minnestar
 hash: 865b4cb876d13783b966bdb2c6ce4d48
 year: 2011

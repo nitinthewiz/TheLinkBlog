@@ -2,6 +2,7 @@
 title: "Microsoft throws down the gauntlet in business intelligence — Tech News and Analysis"
 slug: microsoft-throws-down-the-gauntlet-in-business-intelligence-tech-news
 date: 2015-01-28 08:13:51 -0600
+category: 
 external-url: https://gigaom.com/2015/01/27/microsoft-throws-down-the-gauntlet-in-business-intelligence/
 hash: 12c1aa70f94f7a456d597b8e2e5119d5
 year: 2015

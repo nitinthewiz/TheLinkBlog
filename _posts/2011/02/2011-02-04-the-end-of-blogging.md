@@ -2,6 +2,7 @@
 title: "The End of Blogging"
 slug: the-end-of-blogging
 date: 2011-02-04 18:46:41 -0600
+category: 
 external-url: http://observer.com/2011/02/the-end-of-blogging/
 hash: 9c38fac9b5732ab6360be384dca89ec4
 year: 2011

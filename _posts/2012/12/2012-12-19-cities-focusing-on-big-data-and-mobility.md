@@ -2,6 +2,7 @@
 title: "Cities Focusing On Big Data And Mobility"
 slug: cities-focusing-on-big-data-and-mobility
 date: 2012-12-19 07:33:31 -0600
+category: 
 external-url: http://www.businessinsider.com/cities-focusing-on-big-data-and-mobility-2012-12
 hash: 1e816ae3ccbba10f1ed1f46365082f1b
 year: 2012

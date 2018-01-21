@@ -2,6 +2,7 @@
 title: "What Is Facebook, Really?"
 slug: what-is-facebook-really
 date: 2011-02-03 20:35:26 -0600
+category: 
 external-url: http://blogs.hbr.org/2011/02/what-is-facebook-is-becoming/
 hash: 097ee12e33c244d897a18ffb39427de5
 year: 2011

@@ -2,6 +2,7 @@
 title: "Save The Bros - YouTube"
 slug: save-the-bros-youtube
 date: 2015-05-15 06:56:15 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=ewBG_jmMI40
 hash: be2c74d913e5a32c0063b48520da44eb
 year: 2015

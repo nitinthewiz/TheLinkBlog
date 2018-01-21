@@ -2,6 +2,7 @@
 title: "Lightroom 2 Beta - Five Favorite New Features"
 slug: lightroom-2-beta-five-favorite-new-features
 date: 2008-04-07 04:19:35 -0500
+category: 
 external-url: http://blogs.oreilly.com/lightroom/2008/04/lightroom-2-beta-five-favorite.html
 hash: bbf9e3a5c0290841df992b4845032749
 year: 2008

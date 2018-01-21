@@ -2,6 +2,7 @@
 title: "How Anonymous Picks Targets, Launches Attacks, and Takes Powerful Organizations Down"
 slug: how-anonymous-picks-targets-launches-attacks-and-takes-powerful-down
 date: 2012-07-06 12:35:59 -0500
+category: 
 external-url: http://www.wired.com/2012/07/ff_anonymous/
 hash: bd8f54e9d25edffdec95c85e4deb33cb
 year: 2012

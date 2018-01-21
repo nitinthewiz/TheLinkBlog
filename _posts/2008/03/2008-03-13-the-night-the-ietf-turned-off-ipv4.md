@@ -2,6 +2,7 @@
 title: "The night the IETF turned off IPv4"
 slug: the-night-the-ietf-turned-off-ipv4
 date: 2008-03-13 21:05:00 -0500
+category: 
 external-url: http://arstechnica.com/features/2008/03/ietf-ipv6-switchoff/
 hash: 86c0870f03af5c7fb52a92d17711ed15
 year: 2008

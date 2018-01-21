@@ -2,6 +2,7 @@
 title: "Al Franken Just Gave the Speech Big Tech Has Been Dreading"
 slug: al-franken-just-gave-the-speech-big-tech-has-been-dreading
 date: 2017-11-09 22:54:24 -0600
+category: 
 external-url: https://www.wired.com/story/al-franken-just-gave-the-speech-big-tech-has-been-dreading/amp
 hash: 3f434fc13056da4ffac48cbbe7a7bcd9
 year: 2017

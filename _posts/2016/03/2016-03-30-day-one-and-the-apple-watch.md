@@ -2,6 +2,7 @@
 title: "Day One and the Apple Watch"
 slug: day-one-and-the-apple-watch
 date: 2016-03-30 22:00:52 -0500
+category: 
 external-url: http://www.myproductivemac.com/blog/day-one-and-the-apple-watch3032016
 hash: 13b1d04cb0db85eb85a6c520e39b5a4d
 year: 2016

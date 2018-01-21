@@ -2,6 +2,7 @@
 title: "Zune fawned over"
 slug: zune-fawned-over
 date: 2009-05-28 22:47:29 -0500
+category: 
 external-url: http://9to5mac.com/zune-review
 hash: c8c7f53b66c8b2f76d99f526a455b8e1
 year: 2009

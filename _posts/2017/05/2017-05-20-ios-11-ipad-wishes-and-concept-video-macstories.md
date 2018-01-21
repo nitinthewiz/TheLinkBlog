@@ -2,6 +2,7 @@
 title: "iOS 11: iPad Wishes and Concept Video – MacStories"
 slug: ios-11-ipad-wishes-and-concept-video-macstories
 date: 2017-05-20 10:30:03 -0500
+category: 
 external-url: https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/
 hash: 2501f8aec3b2f487ca53f01a2c51088a
 year: 2017

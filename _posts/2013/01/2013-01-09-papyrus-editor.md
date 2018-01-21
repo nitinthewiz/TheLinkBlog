@@ -2,6 +2,7 @@
 title: "Papyrus Editor"
 slug: papyrus-editor
 date: 2013-01-09 11:35:19 -0600
+category: 
 external-url: http://papyruseditor.com/
 hash: 7193a30a7825de40b887026df4c63dca
 year: 2013

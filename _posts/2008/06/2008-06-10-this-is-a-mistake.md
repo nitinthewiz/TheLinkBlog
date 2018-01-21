@@ -2,6 +2,7 @@
 title: "This Is A Mistake"
 slug: this-is-a-mistake
 date: 2008-06-10 06:24:20 -0500
+category: 
 external-url: http://avc.blogs.com/a_vc/2008/06/this-is-a-mista.html
 hash: f90cfc6083b2aa62fe5be4eacc7abc04
 year: 2008

@@ -2,6 +2,7 @@
 title: "George and the Dragon Pub"
 slug: george-and-the-dragon-pub
 date: 2012-01-19 00:41:43 -0600
+category: 
 external-url: http://www.ganddpub.com/
 hash: 4cca8c13e484e73afcfe27b5318a927a
 year: 2012

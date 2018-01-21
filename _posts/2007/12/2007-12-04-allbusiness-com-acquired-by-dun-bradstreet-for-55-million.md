@@ -2,6 +2,7 @@
 title: "AllBusiness.com Acquired By Dun & Bradstreet For $55 Million"
 slug: allbusiness-com-acquired-by-dun-bradstreet-for-55-million
 date: 2007-12-04 18:05:46 -0600
+category: 
 external-url: http://gigaom.com/2007/12/04/419-allbusinesscom-acquired-by-dun-bradstreet-for-about-55-million/
 hash: f3d6557a0944379da029defcd8c953a2
 year: 2007

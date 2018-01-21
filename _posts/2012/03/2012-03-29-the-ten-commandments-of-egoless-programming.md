@@ -2,6 +2,7 @@
 title: "The Ten Commandments of Egoless Programming"
 slug: the-ten-commandments-of-egoless-programming
 date: 2012-03-29 23:21:43 -0500
+category: 
 external-url: http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming
 hash: 3e6cea6cd5b5606d82657be976701af3
 year: 2012

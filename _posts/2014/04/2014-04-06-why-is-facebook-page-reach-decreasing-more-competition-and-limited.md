@@ -2,6 +2,7 @@
 title: "Why Is Facebook Page Reach Decreasing? More Competition And Limited Attention - TechCrunch"
 slug: why-is-facebook-page-reach-decreasing-more-competition-and-limited
 date: 2014-04-06 12:09:53 -0500
+category: 
 external-url: http://techcrunch.com/2014/04/03/the-filtered-feed-problem/
 hash: b37871a3f5f7de2df47ecd39ab25f25b
 year: 2014

@@ -2,6 +2,7 @@
 title: "Relicensing React, Jest, Flow, and Immutable.js | Engineering Blog | Facebook Code | Facebook"
 slug: relicensing-react-jest-flow-and-immutable-js-engineering-blog-facebook
 date: 2017-09-22 23:50:22 -0500
+category: 
 external-url: https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/
 hash: 9dc1b0fe7c209b9d884da1b893a9cdcc
 year: 2017

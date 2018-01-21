@@ -2,6 +2,7 @@
 title: "Setting up a SFTP Server on Windows"
 slug: setting-up-a-sftp-server-on-windows
 date: 2006-01-17 13:36:57 -0600
+category: 
 external-url: http://digitalmediaminute.com/article/1487/setting-up-a-sftp-server-on-windows
 hash: b1723c5e638669e8206b416bed859386
 year: 2006

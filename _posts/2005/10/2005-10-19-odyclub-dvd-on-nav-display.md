@@ -2,6 +2,7 @@
 title: "OdyClub: DVD on Nav Display"
 slug: odyclub-dvd-on-nav-display
 date: 2005-10-19 07:18:04 -0500
+category: 
 external-url: http://www.odyclub.com/forums/11-audio-video-security-navigation/24842-dvd-2005-nav-display-yes.html
 hash: bba9441fd8c87a65ece68ad6c549ad96
 year: 2005

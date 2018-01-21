@@ -2,6 +2,7 @@
 title: "Specifying JSON —Tim Bray “I find myself tasked with polishing and publishing a little custom JSON-encoded language. It’s harder than it ought to be.”"
 slug: specifying-json-tim-bray-i-find-myself-tasked-with-polishing-and-a-its
 date: 2016-04-30 23:05:48 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2016/04/30/JSON-Schema-funnies
 hash: 6beb59936894ee8ecafa6748d7a6fcdc
 year: 2016

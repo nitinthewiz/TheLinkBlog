@@ -2,6 +2,7 @@
 title: "Our Flappy Dystopia"
 slug: our-flappy-dystopia
 date: 2014-02-11 07:26:59 -0600
+category: 
 external-url: http://www.mattiebrice.com/our-flappy-dystopia/
 hash: 97277bd3235ed2abb1a441f6a0200e0b
 year: 2014

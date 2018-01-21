@@ -2,6 +2,7 @@
 title: "Gigapxl Project"
 slug: gigapxl-project
 date: 2005-08-12 18:26:56 -0500
+category: 
 external-url: http://www.gigapxl.com/
 hash: d23843510169eab6b840c1cff48b2f7e
 year: 2005

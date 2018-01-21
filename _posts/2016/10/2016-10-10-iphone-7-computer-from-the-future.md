@@ -2,6 +2,7 @@
 title: "iPhone 7: Computer from the Future"
 slug: iphone-7-computer-from-the-future
 date: 2016-10-10 20:50:14 -0500
+category: 
 external-url: https://www.macstories.net/stories/iphone-7-computer-from-the-future/
 hash: b8c3892ecdadbff7bf18f0d62174f11a
 year: 2016

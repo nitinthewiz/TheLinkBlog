@@ -2,6 +2,7 @@
 title: "Watson Jeopardy! computer: Ken Jennings describes what it's like to play against a machine."
 slug: watson-jeopardy-computer-ken-jennings-describes-what-it-s-like-to-play
 date: 2011-02-19 09:16:23 -0600
+category: 
 external-url: http://www.slate.com/articles/arts/culturebox/2011/02/my_puny_human_brain.html
 hash: 06b4338a75731ceeff3b3150263f5f3f
 year: 2011

@@ -2,6 +2,7 @@
 title: "Get your loved ones off Facebook. - Salim Virani"
 slug: get-your-loved-ones-off-facebook-salim-virani
 date: 2017-01-09 14:54:58 -0600
+category: 
 external-url: http://www.salimvirani.com/facebook/
 hash: 8bb6a2816bdebecfa7ba587fd143adb2
 year: 2017

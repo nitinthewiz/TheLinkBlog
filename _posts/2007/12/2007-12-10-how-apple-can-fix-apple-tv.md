@@ -2,6 +2,7 @@
 title: "How Apple can ‘fix’ Apple TV"
 slug: how-apple-can-fix-apple-tv
 date: 2007-12-10 14:27:00 -0600
+category: 
 external-url: http://www.macdailynews.com/index.php/weblog/comments/how_apple_can_fix_apple_tv/
 hash: 78e362580b8595519646a7d564d54f94
 year: 2007

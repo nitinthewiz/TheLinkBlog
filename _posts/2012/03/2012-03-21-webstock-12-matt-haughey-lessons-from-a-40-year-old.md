@@ -2,6 +2,7 @@
 title: "Webstock '12: Matt Haughey - Lessons from a 40 year old"
 slug: webstock-12-matt-haughey-lessons-from-a-40-year-old
 date: 2012-03-21 11:46:46 -0500
+category: 
 external-url: https://vimeo.com/38463833
 hash: 49bd862b4ded41e209f9fd91f0aa29f3
 year: 2012

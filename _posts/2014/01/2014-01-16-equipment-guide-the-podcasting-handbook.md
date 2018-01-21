@@ -2,6 +2,7 @@
 title: "Equipment Guide The Podcasting Handbook"
 slug: equipment-guide-the-podcasting-handbook
 date: 2014-01-16 20:26:47 -0600
+category: 
 external-url: http://www.podcastinghandbook.co/podcasting-equipment-guide/
 hash: b83f4f33baa60b3fbc9d53e7e954f71b
 year: 2014

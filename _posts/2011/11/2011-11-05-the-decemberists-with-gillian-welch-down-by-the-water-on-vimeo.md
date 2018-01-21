@@ -2,6 +2,7 @@
 title: "The Decemberists with Gillian Welch \"Down by the Water\" on Vimeo"
 slug: the-decemberists-with-gillian-welch-down-by-the-water-on-vimeo
 date: 2011-11-05 00:23:01 -0500
+category: 
 external-url: http://vimeo.com/30455738
 hash: 12bf0380dc0e6a79afa8cb0bfd86b501
 year: 2011

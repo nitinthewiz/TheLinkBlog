@@ -2,6 +2,7 @@
 title: "New Mobile Obsession: U.S. Teens Triple Data Usage | Nielsen Wire"
 slug: new-mobile-obsession-u-s-teens-triple-data-usage-nielsen-wire
 date: 2011-12-18 06:35:56 -0600
+category: 
 external-url: http://blog.nielsen.com/nielsenwire/online_mobile/new-mobile-obsession-u-s-teens-triple-data-usage/
 hash: cd79dce152615eeb44310884d72b2d2a
 year: 2011

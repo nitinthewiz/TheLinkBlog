@@ -2,6 +2,7 @@
 title: "Matt: iPhone-native WordPress Client"
 slug: matt-iphone-native-wordpress-client
 date: 2008-07-10 19:21:45 -0500
+category: 
 external-url: http://ma.tt/2008/07/iphone-native-wordpress-client/
 hash: e2d25443f2c1fe2f7b86995b1e734584
 year: 2008

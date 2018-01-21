@@ -2,6 +2,7 @@
 title: "Gerrit - Gerrit Code Review"
 slug: gerrit-gerrit-code-review
 date: 2012-03-27 15:41:44 -0500
+category: 
 external-url: http://code.google.com/p/gerrit/
 hash: 9856c55f9f2a7d0bd567c8585f3282c0
 year: 2012

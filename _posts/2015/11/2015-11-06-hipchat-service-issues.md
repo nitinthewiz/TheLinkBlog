@@ -2,6 +2,7 @@
 title: "HipChat service issues"
 slug: hipchat-service-issues
 date: 2015-11-06 00:34:20 -0600
+category: 
 external-url: https://blog.hipchat.com/2015/11/05/hipchat-service-issues/
 hash: 032bfbd92af821fe0fd4ea8f8cca502e
 year: 2015

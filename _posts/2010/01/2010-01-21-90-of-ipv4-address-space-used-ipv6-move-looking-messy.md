@@ -2,6 +2,7 @@
 title: "90% of IPv4 address space used; IPv6 move looking messy"
 slug: 90-of-ipv4-address-space-used-ipv6-move-looking-messy
 date: 2010-01-21 20:05:00 -0600
+category: 
 external-url: http://arstechnica.com/tech-policy/news/2010/01/90-of-ipv4-address-space-used-ipv6-move-looking-messy.ars
 hash: e2c83ac3a57e0c15cbfbf6e19065875a
 year: 2010

@@ -2,6 +2,7 @@
 title: "Minnesota open data"
 slug: minnesota-open-data
 date: 2012-04-25 16:34:28 -0500
+category: 
 external-url: http://www.mn.gov/data/data.html
 hash: c4c3159a37b4d03bb5a8eb6e7651f32d
 year: 2012

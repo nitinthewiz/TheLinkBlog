@@ -2,6 +2,7 @@
 title: "The HipHop Virtual Machine"
 slug: the-hiphop-virtual-machine
 date: 2011-12-14 09:39:31 -0600
+category: 
 external-url: https://www.facebook.com/note.php?note_id=10150415177928920
 hash: 6f655f6db82603e7703c6203f431f390
 year: 2011

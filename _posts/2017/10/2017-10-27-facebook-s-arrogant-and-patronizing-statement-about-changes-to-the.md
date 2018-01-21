@@ -2,6 +2,7 @@
 title: "Facebook's arrogant and patronizing statement about changes to the News Feed - without bullshit"
 slug: facebook-s-arrogant-and-patronizing-statement-about-changes-to-the
 date: 2017-10-27 19:34:35 -0500
+category: 
 external-url: https://withoutbullshit.com/blog/facebooks-arrogant-patronizing-statement-changes-news-feed
 hash: 63cd1d8ed2f0152f23887c087887f591
 year: 2017

@@ -2,6 +2,7 @@
 title: "MinneBar Officially Full"
 slug: minnebar-officially-full
 date: 2009-11-04 22:14:51 -0600
+category: 
 external-url: http://minnestar.org/2009/11/minnebar-officially-full/
 hash: f7478358448fc4d24f2d9352c80f43a7
 year: 2009

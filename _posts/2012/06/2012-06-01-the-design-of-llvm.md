@@ -2,6 +2,7 @@
 title: "The Design of LLVM"
 slug: the-design-of-llvm
 date: 2012-06-01 00:20:52 -0500
+category: 
 external-url: http://www.drdobbs.com/architecture-and-design/the-design-of-llvm/240001128
 hash: 4834d8a01df0408bec34f6cdc6643e84
 year: 2012

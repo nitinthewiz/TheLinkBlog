@@ -2,6 +2,7 @@
 title: "Vagrant, Docker and Ansible. WTF? - devo.ps"
 slug: vagrant-docker-and-ansible-wtf-devo-ps
 date: 2014-08-31 04:15:45 -0500
+category: 
 external-url: http://devo.ps/blog/vagrant-docker-and-ansible-wtf/
 hash: 870eee3f0b9d8680e12d267e8489c070
 year: 2014

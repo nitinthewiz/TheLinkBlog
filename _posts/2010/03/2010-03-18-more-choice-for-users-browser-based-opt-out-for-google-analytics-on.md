@@ -2,6 +2,7 @@
 title: "More choice for users:  browser-based opt-out for Google Analytics on the way"
 slug: more-choice-for-users-browser-based-opt-out-for-google-analytics-on
 date: 2010-03-18 22:18:35 -0500
+category: 
 external-url: http://analytics.blogspot.com/2010/03/more-choice-for-users-browser-based-opt.html
 hash: 53b17e60fd6a04978ad3d166ba3026b0
 year: 2010

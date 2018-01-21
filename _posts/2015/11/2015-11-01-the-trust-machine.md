@@ -2,6 +2,7 @@
 title: "The trust machine"
 slug: the-trust-machine
 date: 2015-11-01 22:41:33 -0600
+category: 
 external-url: http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine?frsc=dg%7Cc
 hash: 50a12d06eab2c727126c37b5efc987ec
 year: 2015

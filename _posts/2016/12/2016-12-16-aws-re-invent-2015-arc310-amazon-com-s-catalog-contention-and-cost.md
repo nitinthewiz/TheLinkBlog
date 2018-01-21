@@ -2,6 +2,7 @@
 title: "AWS re:Invent 2015 | (ARC310) Amazon.com's Catalog Contention and Cost with Amazon Kinesis - YouTube"
 slug: aws-re-invent-2015-arc310-amazon-com-s-catalog-contention-and-cost
 date: 2016-12-16 10:47:45 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=9MZtBMjOFsQ
 hash: dd1f3644956144ea5f67657b718fd960
 year: 2016

@@ -2,6 +2,7 @@
 title: "Twitter User Ranking Company Klout Hires Product Hot-Shot"
 slug: twitter-user-ranking-company-klout-hires-product-hot-shot
 date: 2010-10-01 19:20:18 -0500
+category: 
 external-url: http://www.readwriteweb.com/archives/klout_staff_hotchkiss.php
 hash: 471aa3e904fa8ac43941fed335634752
 year: 2010

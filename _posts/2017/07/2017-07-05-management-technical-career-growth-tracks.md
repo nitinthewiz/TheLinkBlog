@@ -2,6 +2,7 @@
 title: "Management & Technical Career Growth Tracks"
 slug: management-technical-career-growth-tracks
 date: 2017-07-05 21:34:44 -0500
+category: 
 external-url: https://medium.com/@rajivpant/management-technical-career-growth-tracks-de0cdfb96391
 hash: bd932fc280d231286a6f6c0fc92be6b9
 year: 2017

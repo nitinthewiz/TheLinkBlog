@@ -2,6 +2,7 @@
 title: "Musings on Twitter"
 slug: musings-on-twitter
 date: 2007-01-30 22:49:14 -0600
+category: 
 external-url: http://meish.org/2007/01/25/musings-on-twitter/
 hash: 1f0f30d9e38944ecec967e8542dab295
 year: 2007

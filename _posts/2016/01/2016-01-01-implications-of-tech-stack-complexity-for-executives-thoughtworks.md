@@ -2,6 +2,7 @@
 title: "Implications of Tech Stack Complexity for Executives | ThoughtWorks"
 slug: implications-of-tech-stack-complexity-for-executives-thoughtworks
 date: 2016-01-01 08:38:43 -0600
+category: 
 external-url: https://www.thoughtworks.com/insights/blog/implications-tech-stack-complexity-executives
 hash: a76ce34ab30b1ac04b8b6dabd6438b61
 year: 2016

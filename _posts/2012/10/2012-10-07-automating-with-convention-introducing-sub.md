@@ -2,6 +2,7 @@
 title: "Automating with convention: Introducing sub"
 slug: automating-with-convention-introducing-sub
 date: 2012-10-07 11:27:40 -0500
+category: 
 external-url: https://signalvnoise.com/posts/3264-automating-with-convention-introducing-sub
 hash: aad26cb960e0c71f1a055eb8752d076b
 year: 2012

@@ -2,6 +2,7 @@
 title: "After the flood | Projects | AtF Spark"
 slug: after-the-flood-projects-atf-spark
 date: 2017-09-14 03:38:09 -0500
+category: 
 external-url: http://aftertheflood.co/projects/atf-spark
 hash: 1ad01656edc4a07a965c712514049738
 year: 2017

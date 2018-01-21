@@ -2,6 +2,7 @@
 title: "Short URL Auto-Discovery"
 slug: short-url-auto-discovery
 date: 2009-04-16 22:00:55 -0500
+category: 
 external-url: https://sites.google.com/a/snaplog.com/wiki/short_url
 hash: 306cee40ceafdf1a4d31909accab9a55
 year: 2009

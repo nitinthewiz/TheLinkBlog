@@ -2,6 +2,7 @@
 title: "Always On - Sanspoint. - Essays on Technology and Culture by Richard J. Anderson"
 slug: always-on-sanspoint-essays-on-technology-and-culture-by-richard-j
 date: 2014-08-26 15:19:44 -0500
+category: 
 external-url: http://www.sanspoint.com/archives/2014/08/26/always-on/
 hash: ae9ba9672186a4cc6ba4313733892e2c
 year: 2014

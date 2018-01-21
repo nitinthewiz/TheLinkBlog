@@ -2,6 +2,7 @@
 title: "Detect and highlight your heart-rate using just a webcam and this Python app - The Changelog"
 slug: detect-and-highlight-your-heart-rate-using-just-a-webcam-and-this-app
 date: 2013-04-17 12:22:36 -0500
+category: 
 external-url: http://thechangelog.com/detect-and-highlight-your-heart-rate-using-just-a-webcam-and-this-python-application/
 hash: fa557135ce13d9eb6a1b4c934759296f
 year: 2013

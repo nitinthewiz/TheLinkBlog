@@ -2,6 +2,7 @@
 title: "It's FOX News Channel vs. The Middle Class"
 slug: it-s-fox-news-channel-vs-the-middle-class
 date: 2008-10-16 23:03:56 -0500
+category: 
 external-url: http://www.dailykos.com/story/2008/10/16/632959/-It-s-FOX-News-Channel-vs-The-Middle-Class
 hash: 976979332f3cc7d5d8f15455fd2d7e92
 year: 2008

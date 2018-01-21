@@ -2,6 +2,7 @@
 title: "Ship, Sense, and Respond: A Culture of Continuous Learning - Jeff Gothelf keynote - YouTube"
 slug: ship-sense-and-respond-a-culture-of-continuous-learning-jeff-gothelf
 date: 2015-11-04 21:27:13 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=24XSvlR8GLA&feature=youtu.be
 hash: 43f1b624583a5c41da0ef6a40eb16a08
 year: 2015

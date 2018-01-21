@@ -2,6 +2,7 @@
 title: "How to Build a WordPress Plugin in 10 Minutes"
 slug: how-to-build-a-wordpress-plugin-in-10-minutes
 date: 2010-12-28 23:30:05 -0600
+category: 
 external-url: http://readwrite.com/2010/12/28/how-to-build-a-wordpress-plugin
 hash: cd8d3e43b4940d86e4c9d0bf334d9fea
 year: 2010

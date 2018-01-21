@@ -2,6 +2,7 @@
 title: "No. 1 Party School Infographic"
 slug: no-1-party-school-infographic
 date: 2010-04-04 23:31:34 -0500
+category: 
 external-url: http://thisamericaninfographic.tumblr.com/396-1-party-school/
 hash: afc84db02ab4740dc8a717993f1e587b
 year: 2010

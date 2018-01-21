@@ -2,6 +2,7 @@
 title: "How do I improve my storytelling? | Ask MetaFilter"
 slug: how-do-i-improve-my-storytelling-ask-metafilter
 date: 2017-08-25 20:06:20 -0500
+category: 
 external-url: http://ask.metafilter.com/312581/How-do-I-improve-my-storytelling
 hash: cca75c66f436e2f81ab46ef83cfe5f46
 year: 2017

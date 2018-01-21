@@ -2,6 +2,7 @@
 title: "Gun violence in America: Newtowns horror - The Economist"
 slug: gun-violence-in-america-newtowns-horror-the-economist
 date: 2012-12-19 12:58:25 -0600
+category: 
 external-url: http://www.economist.com/news/leaders/21568735-only-drastic-gun-control-could-make-big-difference-small-measures-can-help-bit-newtowns
 hash: 85c96675913e6e818f12f5d861b634f1
 year: 2012

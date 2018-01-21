@@ -2,6 +2,7 @@
 title: "Statistics on Friendfeed usage provide interesting insights"
 slug: statistics-on-friendfeed-usage-provide-interesting-insights
 date: 2008-04-09 21:09:44 -0500
+category: 
 external-url: http://vanelsas.wordpress.com/2008/04/09/statistics-on-friendfeed-usage-provide-interesting-insights/
 hash: 6aa83b21b5993a38d8c1e7fb63fe9de5
 year: 2008

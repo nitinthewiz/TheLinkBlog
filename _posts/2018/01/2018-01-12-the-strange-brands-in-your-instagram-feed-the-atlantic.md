@@ -2,6 +2,7 @@
 title: "The Strange Brands in Your Instagram Feed - The Atlantic"
 slug: the-strange-brands-in-your-instagram-feed-the-atlantic
 date: 2018-01-12 06:46:43 -0600
+category: 
 external-url: https://www.theatlantic.com/technology/archive/2018/01/the-strange-brands-in-your-instagram-feed/550136/
 hash: b0e9ea1d7f996c99614c8345cf021864
 year: 2018

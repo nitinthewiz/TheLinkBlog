@@ -2,6 +2,7 @@
 title: "Promises of DevOps"
 slug: promises-of-devops
 date: 2015-12-06 11:59:43 -0600
+category: 
 external-url: http://markburgess.org/blog_devops.html
 hash: 894053a42abcfc0669a897d96be2abfa
 year: 2015

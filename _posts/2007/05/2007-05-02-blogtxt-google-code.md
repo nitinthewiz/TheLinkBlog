@@ -2,6 +2,7 @@
 title: "blogtxt - Google Code"
 slug: blogtxt-google-code
 date: 2007-05-02 23:44:35 -0500
+category: 
 external-url: http://code.google.com/p/blogtxt/
 hash: 14bd99167ed00bf7116a286e617afaf8
 year: 2007

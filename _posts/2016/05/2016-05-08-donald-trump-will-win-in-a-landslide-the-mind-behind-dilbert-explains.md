@@ -2,6 +2,7 @@
 title: "Donald Trump will win in a landslide. The mind behind ‘Dilbert’ explains why. - The Washington Post"
 slug: donald-trump-will-win-in-a-landslide-the-mind-behind-dilbert-explains
 date: 2016-05-08 20:32:02 -0500
+category: 
 external-url: https://www.washingtonpost.com/news/comic-riffs/wp/2016/03/21/donald-trump-will-win-in-a-landslide-the-mind-behind-dilbert-explains-why/
 hash: 0254f7b5c78e30ee693bf21dc04fb23c
 year: 2016

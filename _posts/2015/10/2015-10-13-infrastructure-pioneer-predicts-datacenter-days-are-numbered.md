@@ -2,6 +2,7 @@
 title: "Infrastructure Pioneer Predicts Datacenter Days Are Numbered"
 slug: infrastructure-pioneer-predicts-datacenter-days-are-numbered
 date: 2015-10-13 14:38:11 -0500
+category: 
 external-url: http://www.theplatform.net/2015/10/08/infrastructure-pioneer-predicts-datacenter-days-are-numbered/
 hash: 1fc4c6c26fe1480e2136f775eec57e72
 year: 2015

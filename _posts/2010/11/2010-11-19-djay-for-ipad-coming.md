@@ -2,6 +2,7 @@
 title: "Djay for iPad Coming"
 slug: djay-for-ipad-coming
 date: 2010-11-19 04:00:17 -0600
+category: 
 external-url: http://macapper.com/2010/11/19/djay-for-ipad-coming/
 hash: c9806b1ec513a978ecb6a04b122a2210
 year: 2010

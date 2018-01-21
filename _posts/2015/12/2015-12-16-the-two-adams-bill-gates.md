@@ -2,6 +2,7 @@
 title: "The Two Adams | Bill Gates"
 slug: the-two-adams-bill-gates
 date: 2015-12-16 18:57:48 -0600
+category: 
 external-url: http://www.gatesnotes.com/Books/The-Road-to-Character
 hash: 05d1e294b485abfa7b8e4ce0ebc1fd28
 year: 2015

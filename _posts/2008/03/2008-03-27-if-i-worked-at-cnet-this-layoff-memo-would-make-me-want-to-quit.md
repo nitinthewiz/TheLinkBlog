@@ -2,6 +2,7 @@
 title: "If I worked at CNET, this layoff memo would make me want to quit"
 slug: if-i-worked-at-cnet-this-layoff-memo-would-make-me-want-to-quit
 date: 2008-03-27 18:40:00 -0500
+category: 
 external-url: http://gawker.com/373153/if-i-worked-at-cnet-this-layoff-memo-would-make-me-want-to-quit
 hash: 775c812443513510694cd091b483ee88
 year: 2008

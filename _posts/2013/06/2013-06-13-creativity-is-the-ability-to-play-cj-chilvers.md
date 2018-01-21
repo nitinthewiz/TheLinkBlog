@@ -2,6 +2,7 @@
 title: "\"Creativity is the Ability to Play\" — CJ Chilvers"
 slug: creativity-is-the-ability-to-play-cj-chilvers
 date: 2013-06-13 23:22:40 -0500
+category: 
 external-url: https://www.cjchilvers.com/blog/putting-it-very-crudely-creativity-is-the
 hash: e1e927113434d0ddce82210bc9b2d45d
 year: 2013

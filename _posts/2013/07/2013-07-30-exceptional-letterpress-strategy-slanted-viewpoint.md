@@ -2,6 +2,7 @@
 title: "Exceptional Letterpress Strategy - Slanted Viewpoint"
 slug: exceptional-letterpress-strategy-slanted-viewpoint
 date: 2013-07-30 20:35:27 -0500
+category: 
 external-url: http://www.tedlandau.com/slantedviewpoint/index.php/archives/2013/1219
 hash: fc6bfc31987c1b0134c07012339cc9ee
 year: 2013

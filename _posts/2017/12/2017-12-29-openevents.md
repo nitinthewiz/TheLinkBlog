@@ -2,6 +2,7 @@
 title: "OpenEvents"
 slug: openevents
 date: 2017-12-29 15:59:39 -0600
+category: 
 external-url: https://openevents.io/
 hash: 8d6bf7846cfe83173529fae93327fa91
 year: 2017

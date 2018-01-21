@@ -2,6 +2,7 @@
 title: "Biggest Boy Scout group in Minn. to stay inclusive"
 slug: biggest-boy-scout-group-in-minn-to-stay-inclusive
 date: 2012-07-18 11:55:12 -0500
+category: 
 external-url: http://www.startribune.com/local/west/162817346.html
 hash: 50d1302073798b03ee5bd8f778ba72cc
 year: 2012

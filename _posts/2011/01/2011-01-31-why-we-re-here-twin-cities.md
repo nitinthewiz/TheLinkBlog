@@ -2,6 +2,7 @@
 title: "Why We're Here: Twin Cities"
 slug: why-we-re-here-twin-cities
 date: 2011-01-31 13:36:47 -0600
+category: 
 external-url: http://vimeo.com/19115634
 hash: 383bece8285e27e87e4f87f82929aa90
 year: 2011

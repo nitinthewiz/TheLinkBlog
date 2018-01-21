@@ -2,6 +2,7 @@
 title: "Michael Lewis on the Greek financial crisis"
 slug: michael-lewis-on-the-greek-financial-crisis
 date: 2010-09-15 10:51:02 -0500
+category: 
 external-url: http://kottke.org/10/09/the-greek-financial-crisis
 hash: 8eccdff8beb4fc6edd83506aa6ce57ae
 year: 2010

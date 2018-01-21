@@ -2,6 +2,7 @@
 title: "Distrust for Atheists & the New Relevance of Faith"
 slug: distrust-for-atheists-the-new-relevance-of-faith
 date: 2012-03-28 12:41:30 -0500
+category: 
 external-url: http://thesocietypages.org/socimages/2012/03/27/atheist-intolerance-and-the-new-salience-of-religiosity/
 hash: 898227fef17c1e25341b7d6ae10d2757
 year: 2012

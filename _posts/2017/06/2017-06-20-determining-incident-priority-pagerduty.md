@@ -2,6 +2,7 @@
 title: "Determining Incident Priority —PagerDuty"
 slug: determining-incident-priority-pagerduty
 date: 2017-06-20 15:07:48 -0500
+category: 
 external-url: https://www.pagerduty.com/blog/determining-incident-priority/
 hash: 202e8b0fc8d1d3e49491ca1c44d966a6
 year: 2017

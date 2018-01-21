@@ -2,6 +2,7 @@
 title: "Processing.js"
 slug: processing-js
 date: 2010-11-19 11:25:01 -0600
+category: 
 external-url: http://processingjs.org/
 hash: a1a97156b5c4f206c41113ba4400e979
 year: 2010

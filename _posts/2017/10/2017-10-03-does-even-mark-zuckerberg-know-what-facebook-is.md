@@ -2,6 +2,7 @@
 title: "Does Even Mark Zuckerberg Know What Facebook Is?"
 slug: does-even-mark-zuckerberg-know-what-facebook-is
 date: 2017-10-03 22:21:44 -0500
+category: 
 external-url: http://nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html
 hash: 69c776c299fc6f03aa296e244105389e
 year: 2017

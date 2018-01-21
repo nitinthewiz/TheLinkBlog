@@ -2,6 +2,7 @@
 title: "Why I Review Weekly"
 slug: why-i-review-weekly
 date: 2015-10-26 21:08:41 -0500
+category: 
 external-url: http://www.myproductivemac.com/blog/why-i-review-weekly26102015
 hash: d654a580e6dd88c16cccf182097c3558
 year: 2015

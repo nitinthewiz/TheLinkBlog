@@ -2,6 +2,7 @@
 title: "My Internet"
 slug: my-internet
 date: 2012-06-19 16:15:39 -0500
+category: 
 external-url: http://inaquestionmark.blogspot.com/2012/05/my-internet.html
 hash: ebfdba2010b8241a6cf6e0693fa52c60
 year: 2012

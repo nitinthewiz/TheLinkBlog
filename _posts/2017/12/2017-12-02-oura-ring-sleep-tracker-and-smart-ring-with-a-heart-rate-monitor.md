@@ -2,6 +2,7 @@
 title: "Oura Ring | Sleep Tracker and Smart Ring with a Heart Rate Monitor"
 slug: oura-ring-sleep-tracker-and-smart-ring-with-a-heart-rate-monitor
 date: 2017-12-02 15:42:04 -0600
+category: 
 external-url: https://ouraring.com/
 hash: 7df7ace3cde2c953acd72ad5c4f0d37b
 year: 2017

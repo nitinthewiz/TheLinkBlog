@@ -2,6 +2,7 @@
 title: "Chip Cuccio"
 slug: chip-cuccio
 date: 2008-11-18 15:10:41 -0600
+category: 
 external-url: http://chip.cuccio.us/
 hash: 06ea96aabc3068157a5592d4c8f12d49
 year: 2008

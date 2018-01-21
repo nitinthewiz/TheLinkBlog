@@ -2,6 +2,7 @@
 title: "Regrets of the Dying"
 slug: regrets-of-the-dying
 date: 2012-04-22 23:13:35 -0500
+category: 
 external-url: http://bronnieware.com/Regrets-of-the-Dying.html
 hash: 88850337314b4ae380e72edb1e591a7a
 year: 2012

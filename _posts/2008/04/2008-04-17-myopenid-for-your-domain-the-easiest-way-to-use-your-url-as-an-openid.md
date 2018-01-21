@@ -2,6 +2,7 @@
 title: "MyOpenID for Your Domain - The Easiest Way to Use Your URL as an OpenID"
 slug: myopenid-for-your-domain-the-easiest-way-to-use-your-url-as-an-openid
 date: 2008-04-17 15:56:49 -0500
+category: 
 external-url: http://readwrite.com/2008/04/17/myopenid_for_your_domain
 hash: a54534ba6300936a8dc47ad881cf2015
 year: 2008

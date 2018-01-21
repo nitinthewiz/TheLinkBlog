@@ -2,6 +2,7 @@
 title: "Product Vision Board"
 slug: product-vision-board
 date: 2015-07-06 05:36:42 -0500
+category: 
 external-url: http://blogs.atlassian.com/2015/07/getting-roadmap-right-tips-and-tricks-from-our-planning-experts/?utm_=twitter
 hash: f4f77801f313645041e05afe0cc9f842
 year: 2015

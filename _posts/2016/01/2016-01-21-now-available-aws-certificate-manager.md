@@ -2,6 +2,7 @@
 title: "Now Available: AWS Certificate Manager"
 slug: now-available-aws-certificate-manager
 date: 2016-01-21 20:03:22 -0600
+category: 
 external-url: http://blogs.aws.amazon.com/security/post/Tx24WML741X5POQ/Now-Available-AWS-Certificate-Manager
 hash: ac484fe9cbb83dc59cf55d798df07011
 year: 2016

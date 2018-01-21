@@ -2,6 +2,7 @@
 title: "Birdhouse — A Notepad for Twitter"
 slug: birdhouse-a-notepad-for-twitter
 date: 2009-04-14 21:23:16 -0500
+category: 
 external-url: http://birdhouseapp.com/
 hash: 3e8705f929ce19ada28a21409c901d03
 year: 2009

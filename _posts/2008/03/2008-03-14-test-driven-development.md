@@ -2,6 +2,7 @@
 title: "Test driven development"
 slug: test-driven-development
 date: 2008-03-14 00:48:40 -0500
+category: 
 external-url: http://whereslou.com/2008/03/13/test-driven-development
 hash: 9d912b105ba73df73a539fee132cd65d
 year: 2008

@@ -2,6 +2,7 @@
 title: "DocumentSnap"
 slug: documentsnap
 date: 2011-06-19 06:53:47 -0500
+category: 
 external-url: http://www.documentsnap.com/
 hash: d87bcd487661990d80d9fa7dc1ea16dc
 year: 2011

@@ -2,6 +2,7 @@
 title: "How Are You Feeling?"
 slug: how-are-you-feeling
 date: 2011-02-22 19:05:55 -0600
+category: 
 external-url: http://blogs.hbr.org/2011/02/how-are-you-feeling/
 hash: 74cb3538e3a3907b7a098a3750e6763d
 year: 2011

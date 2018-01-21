@@ -2,6 +2,7 @@
 title: "Textorize: Sub-Pixel Font Rendering for the Web"
 slug: textorize-sub-pixel-font-rendering-for-the-web
 date: 2009-10-01 20:17:38 -0500
+category: 
 external-url: http://mir.aculo.us/2009/09/29/textorize-pristine-font-rendering-for-the-web/
 hash: 9d92d23d19cd8e2d69e86923a9c003f3
 year: 2009

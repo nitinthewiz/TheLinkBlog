@@ -2,6 +2,7 @@
 title: "Wikiapiary a useful website for MediaWiki admins - Yury Katkov's weblog"
 slug: wikiapiary-a-useful-website-for-mediawiki-admins-yury-katkov-s-weblog
 date: 2013-04-25 11:46:16 -0500
+category: 
 external-url: http://www.ykatkov.name/2013/04/18/wikiapiary-a-useful-website-for-mediawiki-admins/
 hash: b424357fffe03ad6f942409af5b5746d
 year: 2013

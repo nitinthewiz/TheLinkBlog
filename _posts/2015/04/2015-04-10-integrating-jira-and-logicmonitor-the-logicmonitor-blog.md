@@ -2,6 +2,7 @@
 title: "Integrating Jira and LogicMonitor | The LogicMonitor Blog"
 slug: integrating-jira-and-logicmonitor-the-logicmonitor-blog
 date: 2015-04-10 20:43:11 -0500
+category: 
 external-url: http://blog.logicmonitor.com/2015/04/10/integrating-jira-and-logicmonitor/
 hash: 6453f9948466ed11ef003ca09991c628
 year: 2015

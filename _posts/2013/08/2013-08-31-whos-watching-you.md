@@ -2,6 +2,7 @@
 title: "Whos Watching You?"
 slug: whos-watching-you
 date: 2013-08-31 21:42:20 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2013/08/20/FC3-The-Spooks
 hash: 3c3c3c5f4203d65c5111283bf152d430
 year: 2013

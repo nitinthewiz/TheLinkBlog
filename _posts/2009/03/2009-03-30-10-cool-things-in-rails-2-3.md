@@ -2,6 +2,7 @@
 title: "10 Cool Things in Rails 2.3"
 slug: 10-cool-things-in-rails-2-3
 date: 2009-03-30 09:00:00 -0500
+category: 
 external-url: http://railspikes.com/2009/3/30/10-cool-things-in-rails-23
 hash: bf8ed98019a7ba92ec4c669b34dceb4b
 year: 2009

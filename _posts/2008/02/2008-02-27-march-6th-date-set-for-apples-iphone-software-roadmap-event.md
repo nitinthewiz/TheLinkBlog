@@ -2,6 +2,7 @@
 title: "March 6th Date Set for Apples iPhone Software Roadmap Event"
 slug: march-6th-date-set-for-apples-iphone-software-roadmap-event
 date: 2008-02-27 14:33:35 -0600
+category: 
 external-url: http://techcrunch.com/2008/02/27/march-6th-date-set-for-apples-iphone-software-roadmap-event/
 hash: a291d5f3fd111223d84c4eeac32d1876
 year: 2008

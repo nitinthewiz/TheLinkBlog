@@ -2,6 +2,7 @@
 title: "Hey, Did I Miss Anything?"
 slug: hey-did-i-miss-anything
 date: 2012-05-21 21:43:40 -0500
+category: 
 external-url: http://danharmon.tumblr.com/post/23339272200/hey-did-i-miss-anything
 hash: c5afc68543e8e9c805300e61fed111b0
 year: 2012

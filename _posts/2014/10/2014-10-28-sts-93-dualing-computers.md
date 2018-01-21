@@ -2,6 +2,7 @@
 title: "STS-93: Dualing computers"
 slug: sts-93-dualing-computers
 date: 2014-10-28 20:48:37 -0500
+category: 
 external-url: http://waynehale.wordpress.com/2014/10/17/sts-93-dualing-computers/
 hash: ee41f72d529225010da35ce5dfde4a2c
 year: 2014

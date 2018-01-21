@@ -2,6 +2,7 @@
 title: "CaringBridge Russ Scheffler Welcome"
 slug: caringbridge-russ-scheffler-welcome
 date: 2012-01-13 22:12:18 -0600
+category: 
 external-url: http://www.caringbridge.org/visit/%2A
 hash: de61062f1f7a1472a91c37535589a3f5
 year: 2012

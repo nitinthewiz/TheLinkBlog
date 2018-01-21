@@ -2,6 +2,7 @@
 title: "Tesla Model 3 announced: release set for 2017, price starts at $35,000"
 slug: tesla-model-3-announced-release-set-for-2017-price-starts-at-35000
 date: 2016-04-01 20:51:11 -0500
+category: 
 external-url: http://www.theverge.com/2016/3/31/11335272/tesla-model-3-announced-price-release-date-specs-preorder
 hash: 45ff22552ec20b4c907891ff60e48902
 year: 2016

@@ -2,6 +2,7 @@
 title: "Sophia acquired by Capella Education Company"
 slug: sophia-acquired-by-capella-education-company
 date: 2012-04-16 12:37:12 -0500
+category: 
 external-url: http://tech.mn/news/2012/04/16/sophia-acquired-by-capella-education-company/
 hash: ae681dee8e24d4739a14cfe81f1b1648
 year: 2012

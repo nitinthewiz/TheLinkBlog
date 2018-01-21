@@ -2,6 +2,7 @@
 title: "Don't Do What You Love"
 slug: don-t-do-what-you-love
 date: 2011-04-26 21:42:29 -0500
+category: 
 external-url: http://blogs.hbr.org/2011/04/dont-do-what-you-love/
 hash: e24519cb15b24854224e2d2d110c71f0
 year: 2011

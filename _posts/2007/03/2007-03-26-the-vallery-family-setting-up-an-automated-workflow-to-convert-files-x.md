@@ -2,6 +2,7 @@
 title: "The Vallery Family » Setting up an automated workflow to convert files for Apple TV on OS X"
 slug: the-vallery-family-setting-up-an-automated-workflow-to-convert-files-x
 date: 2007-03-26 14:55:00 -0500
+category: 
 external-url: http://vallery.net/2007/03/23/setting-up-an-automated-workflow-to-convert-files-for-apple-tv-on-os-x/
 hash: 76687934a790356af74033e1b56114d3
 year: 2007

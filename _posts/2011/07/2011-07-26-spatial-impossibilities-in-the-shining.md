@@ -2,6 +2,7 @@
 title: "Spatial Impossibilities in ‘The Shining’"
 slug: spatial-impossibilities-in-the-shining
 date: 2011-07-26 10:43:20 -0500
+category: 
 external-url: https://www.youtube.com/watch?v=0sUIxXCCFWw
 hash: df72a4558697c0df967427402e8aeb02
 year: 2011

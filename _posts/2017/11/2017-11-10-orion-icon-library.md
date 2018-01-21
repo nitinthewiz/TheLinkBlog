@@ -2,6 +2,7 @@
 title: "Orion Icon Library"
 slug: orion-icon-library
 date: 2017-11-10 06:57:36 -0600
+category: 
 external-url: https://orioniconlibrary.com/
 hash: b8c017c5b6d2c82f6fb2b66f1aae99e7
 year: 2017

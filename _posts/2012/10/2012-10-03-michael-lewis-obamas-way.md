@@ -2,6 +2,7 @@
 title: "Michael Lewis: Obamas Way"
 slug: michael-lewis-obamas-way
 date: 2012-10-03 21:17:05 -0500
+category: 
 external-url: http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama
 hash: 352ed3eb5eb67fc63a7fcf1975eb5942
 year: 2012

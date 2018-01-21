@@ -2,6 +2,7 @@
 title: "Finally, Facebook 3.0 for the iPhone Is Here"
 slug: finally-facebook-3-0-for-the-iphone-is-here
 date: 2009-08-27 22:58:01 -0500
+category: 
 external-url: https://gigaom.com/2009/08/27/finally-facebook-3-0-for-the-iphone-is-here/
 hash: 42758162a61499a40f1426ca321654b2
 year: 2009

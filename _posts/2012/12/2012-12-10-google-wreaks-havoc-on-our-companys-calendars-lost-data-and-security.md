@@ -2,6 +2,7 @@
 title: "Google wreaks havoc on our companys calendars: lost data and security breaches"
 slug: google-wreaks-havoc-on-our-companys-calendars-lost-data-and-security
 date: 2012-12-10 07:28:37 -0600
+category: 
 external-url: http://www.elezea.com/2012/12/google-calendar-lost-data-security-breach/
 hash: 953473f3c57d89cc1d7338d0beb68d51
 year: 2012

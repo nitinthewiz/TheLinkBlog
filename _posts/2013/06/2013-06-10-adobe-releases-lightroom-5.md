@@ -2,6 +2,7 @@
 title: "Adobe Releases Lightroom 5"
 slug: adobe-releases-lightroom-5
 date: 2013-06-10 14:49:15 -0500
+category: 
 external-url: http://www.canonrumors.com/2013/06/adobe-releases-lightroom-5/
 hash: 7c039cf00058d123ac2d15481716946a
 year: 2013

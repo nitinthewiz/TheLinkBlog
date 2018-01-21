@@ -2,6 +2,7 @@
 title: "Millions of Facebook Users Have No Idea They’re Using the Internet"
 slug: millions-of-facebook-users-have-no-idea-theyre-using-the-internet
 date: 2015-10-01 22:23:15 -0500
+category: 
 external-url: http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/
 hash: 3fe6aa4410e55270e259e84f04d21505
 year: 2015

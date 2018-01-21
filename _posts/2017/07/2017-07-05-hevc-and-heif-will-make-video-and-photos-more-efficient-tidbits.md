@@ -2,6 +2,7 @@
 title: "HEVC and HEIF Will Make Video and Photos More Efficient - TidBITS"
 slug: hevc-and-heif-will-make-video-and-photos-more-efficient-tidbits
 date: 2017-07-05 21:34:58 -0500
+category: 
 external-url: http://tidbits.com/article/17310
 hash: 8377ab255da272a12fbfeef08812f4ea
 year: 2017

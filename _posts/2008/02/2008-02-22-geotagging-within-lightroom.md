@@ -2,6 +2,7 @@
 title: "Geotagging within Lightroom"
 slug: geotagging-within-lightroom
 date: 2008-02-22 19:47:30 -0600
+category: 
 external-url: http://lightroom-news.com/2008/02/22/geotagging-within-lightroom/
 hash: 41d50febcb17c0d378a95cec2d930ea9
 year: 2008

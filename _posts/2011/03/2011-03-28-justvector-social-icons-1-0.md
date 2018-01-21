@@ -2,6 +2,7 @@
 title: "JustVector Social Icons 1.0"
 slug: justvector-social-icons-1-0
 date: 2011-03-28 16:05:57 -0500
+category: 
 external-url: http://alexpeattie.com/projects/justvector_icons/
 hash: 74685995f39690d742cea4532f5e88c7
 year: 2011

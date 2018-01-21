@@ -2,6 +2,7 @@
 title: "United Airlines Bankruptcy and Newsbots"
 slug: united-airlines-bankruptcy-and-newsbots
 date: 2008-09-11 23:13:03 -0500
+category: 
 external-url: http://grouplens.org/blog/
 hash: dbfa83c305a261123b45c0dac0814eb9
 year: 2008

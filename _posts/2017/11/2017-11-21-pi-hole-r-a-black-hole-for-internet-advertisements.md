@@ -2,6 +2,7 @@
 title: "Pi-hole®: A black hole for Internet advertisements"
 slug: pi-hole-r-a-black-hole-for-internet-advertisements
 date: 2017-11-21 20:00:54 -0600
+category: 
 external-url: https://pi-hole.net/
 hash: 3019c4c56f17959e8ed6628ea694f9e0
 year: 2017

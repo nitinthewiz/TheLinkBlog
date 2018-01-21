@@ -2,6 +2,7 @@
 title: "The CEO Mentor and Coach"
 slug: the-ceo-mentor-and-coach
 date: 2010-08-25 07:40:38 -0500
+category: 
 external-url: http://avc.com/2010/08/the-ceo-mentor-and-coach/
 hash: 7b0f856dbce644762f08f4764dbcba2e
 year: 2010

@@ -2,6 +2,7 @@
 title: "A Peek At Brightkite For the iPhone"
 slug: a-peek-at-brightkite-for-the-iphone
 date: 2008-10-16 21:32:34 -0500
+category: 
 external-url: http://techcrunch.com/2008/10/16/a-peek-at-brightkite-for-the-iphone/
 hash: a0575dbace0a195f523218d64e5c666c
 year: 2008

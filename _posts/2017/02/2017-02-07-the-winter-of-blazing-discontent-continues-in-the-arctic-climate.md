@@ -2,6 +2,7 @@
 title: "The Winter of Blazing Discontent Continues in the Arctic | Climate Central"
 slug: the-winter-of-blazing-discontent-continues-in-the-arctic-climate
 date: 2017-02-07 06:40:18 -0600
+category: 
 external-url: http://www.climatecentral.org/news/winter-extreme-heat-arctic-21141
 hash: a7e1a90a9e9447a5878119a6e6eece7c
 year: 2017

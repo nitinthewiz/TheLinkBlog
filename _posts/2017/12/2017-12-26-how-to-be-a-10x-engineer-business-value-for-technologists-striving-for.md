@@ -2,6 +2,7 @@
 title: "How to be a 10x engineer: Business value for technologists – Striving for greatness"
 slug: how-to-be-a-10x-engineer-business-value-for-technologists-striving-for
 date: 2017-12-26 08:50:05 -0600
+category: 
 external-url: https://dberkholz.com/2017/12/18/how-to-be-a-10x-engineer-business-value-for-technologists/
 hash: bada72f5e9acd4841f3c169221f1bacb
 year: 2017

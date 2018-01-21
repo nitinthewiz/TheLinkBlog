@@ -2,6 +2,7 @@
 title: "Stock and flow - Snarkmarket"
 slug: stock-and-flow-snarkmarket
 date: 2013-03-04 06:03:02 -0600
+category: 
 external-url: http://snarkmarket.com/2010/4890
 hash: 83f4fbcfb69c8cafc91066b892128e99
 year: 2013

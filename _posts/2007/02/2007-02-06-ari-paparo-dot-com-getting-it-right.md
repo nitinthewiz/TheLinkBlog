@@ -2,6 +2,7 @@
 title: "Ari Paparo Dot Com: Getting it Right"
 slug: ari-paparo-dot-com-getting-it-right
 date: 2007-02-06 09:11:31 -0600
+category: 
 external-url: http://www.aripaparo.com/archive/001456.html
 hash: 3c3ccffc2c923407c016fcad526fbec0
 year: 2007

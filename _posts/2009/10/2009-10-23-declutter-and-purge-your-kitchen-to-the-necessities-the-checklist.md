@@ -2,6 +2,7 @@
 title: "Declutter and Purge Your Kitchen to the Necessities, the Checklist"
 slug: declutter-and-purge-your-kitchen-to-the-necessities-the-checklist
 date: 2009-10-23 19:43:55 -0500
+category: 
 external-url: http://lifehacker.com/5387890/declutter-and-purge-your-kitchen-to-the-necessities-the-checklist
 hash: e8c495dceb07f1d39f96b820914e0655
 year: 2009

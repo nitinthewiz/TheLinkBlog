@@ -2,6 +2,7 @@
 title: "“One Damn Slide After Another”: PowerPoint at Every Occasion for Speech : Computational Culture"
 slug: one-damn-slide-after-another-powerpoint-at-every-occasion-for-speech
 date: 2017-11-19 07:34:54 -0600
+category: 
 external-url: http://computationalculture.net/2016/01/11/one-damn-slide-after-another-powerpoint-at-every-occasion-for-speech/
 hash: df851267b35df55d2992e9b2af9c80f5
 year: 2017

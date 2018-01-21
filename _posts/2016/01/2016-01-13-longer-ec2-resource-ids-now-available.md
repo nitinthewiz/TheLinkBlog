@@ -2,6 +2,7 @@
 title: "Longer EC2 Resource IDs Now Available"
 slug: longer-ec2-resource-ids-now-available
 date: 2016-01-13 21:00:00 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/theyre-here-longer-ec2-resource-ids-now-available/
 hash: 7a6fbe8296ae60664a8c44bdb9a5f7c0
 year: 2016

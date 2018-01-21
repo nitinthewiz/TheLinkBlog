@@ -2,6 +2,7 @@
 title: "Noam Chomsky on Where Artificial Intelligence Went Wrong"
 slug: noam-chomsky-on-where-artificial-intelligence-went-wrong
 date: 2012-11-05 12:42:57 -0600
+category: 
 external-url: http://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
 hash: f0612ea31227b7c2fe32aac0dc5f582d
 year: 2012

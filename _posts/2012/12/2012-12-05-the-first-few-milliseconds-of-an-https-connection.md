@@ -2,6 +2,7 @@
 title: "The First Few Milliseconds of an HTTPS Connection"
 slug: the-first-few-milliseconds-of-an-https-connection
 date: 2012-12-05 05:47:28 -0600
+category: 
 external-url: http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
 hash: 7fd87b53fc7494011fd6ad65783fc228
 year: 2012

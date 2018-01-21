@@ -2,6 +2,7 @@
 title: "Kitchen Soap – On Being A Senior Engineer"
 slug: kitchen-soap-on-being-a-senior-engineer
 date: 2017-11-24 14:01:12 -0600
+category: 
 external-url: https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 hash: a847ef74e3a4cc46ef9a303d23ee57cd
 year: 2017

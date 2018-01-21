@@ -2,6 +2,7 @@
 title: "TradingView: Free Stock Charts and Forex Charts Online."
 slug: tradingview-free-stock-charts-and-forex-charts-online
 date: 2013-07-19 15:40:41 -0500
+category: 
 external-url: https://www.tradingview.com/
 hash: d29ed307468fa07dbf83b7c6eb329ff5
 year: 2013

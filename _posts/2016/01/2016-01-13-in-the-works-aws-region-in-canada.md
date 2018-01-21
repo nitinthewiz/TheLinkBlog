@@ -2,6 +2,7 @@
 title: "In the Works – AWS Region in Canada"
 slug: in-the-works-aws-region-in-canada
 date: 2016-01-13 14:42:13 -0600
+category: 
 external-url: https://aws.amazon.com/es/blogs/aws/in-the-works-aws-region-in-canada/
 hash: 48be29eac700d89c05645223e241c1de
 year: 2016

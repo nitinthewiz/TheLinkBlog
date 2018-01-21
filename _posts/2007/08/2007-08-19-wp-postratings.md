@@ -2,6 +2,7 @@
 title: "WP-PostRatings"
 slug: wp-postratings
 date: 2007-08-19 19:18:42 -0500
+category: 
 external-url: http://lesterchan.net/wordpress/readme/wp-postratings.html
 hash: daca52a33d961fc0df8ef4f0944ff860
 year: 2007

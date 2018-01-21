@@ -2,6 +2,7 @@
 title: "ProtoFlow: Coverflow for Prototype"
 slug: protoflow-coverflow-for-prototype
 date: 2008-03-11 08:28:35 -0500
+category: 
 external-url: http://ajaxian.com/archives/protoflow-coverflow-for-prototype
 hash: dd71d30103950bd35cd8d86f3beae283
 year: 2008

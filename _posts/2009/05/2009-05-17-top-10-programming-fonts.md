@@ -2,6 +2,7 @@
 title: "Top 10 Programming Fonts"
 slug: top-10-programming-fonts
 date: 2009-05-17 22:29:03 -0500
+category: 
 external-url: http://mjtsai.com/blog/2009/05/17/top-10-programming-fonts/
 hash: 66061473f5e246ae6b06e59e4f0262fd
 year: 2009

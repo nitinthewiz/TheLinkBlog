@@ -2,6 +2,7 @@
 title: "Best Blog Post In A Long Time"
 slug: best-blog-post-in-a-long-time
 date: 2008-05-25 11:18:52 -0500
+category: 
 external-url: http://avc.blogs.com/a_vc/2008/05/best-blog-post.html
 hash: 05566b9900d9a9d6d855342413fa6101
 year: 2008

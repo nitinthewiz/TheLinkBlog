@@ -2,6 +2,7 @@
 title: "Welcome to Project Skyway"
 slug: welcome-to-project-skyway
 date: 2010-10-27 14:38:24 -0500
+category: 
 external-url: http://www.projectskyway.com/hello-world/
 hash: 18650b618c56858be811fc77eb392efc
 year: 2010

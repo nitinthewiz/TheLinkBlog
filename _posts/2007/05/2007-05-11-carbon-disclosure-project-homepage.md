@@ -2,6 +2,7 @@
 title: "Carbon Disclosure Project: Homepage"
 slug: carbon-disclosure-project-homepage
 date: 2007-05-11 18:05:01 -0500
+category: 
 external-url: https://www.cdp.net/en-US/Pages/HomePage.aspx
 hash: c737df363c2244f120a81b08eee09ce6
 year: 2007

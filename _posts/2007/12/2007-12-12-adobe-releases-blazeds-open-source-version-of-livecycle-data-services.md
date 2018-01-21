@@ -2,6 +2,7 @@
 title: "Adobe Releases BlazeDS, Open Source Version of LiveCycle Data Services"
 slug: adobe-releases-blazeds-open-source-version-of-livecycle-data-services
 date: 2007-12-12 23:00:27 -0600
+category: 
 external-url: http://techcrunch.com/2007/12/12/adobe-releases-blazeds-open-source-version-of-livecycle-data-services/
 hash: 2d4dad16b0a75bfcd484ae17c93b7615
 year: 2007

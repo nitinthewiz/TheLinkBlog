@@ -2,6 +2,7 @@
 title: "Zenbe: Next-Generation Webmail, With A Platform Twist"
 slug: zenbe-next-generation-webmail-with-a-platform-twist
 date: 2008-04-30 10:59:26 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/30/zenbe-next-generation-webmail-with-a-platform-twist/
 hash: e4cd3eb9bfb1df1b4543be2688e6df7e
 year: 2008

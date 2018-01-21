@@ -2,6 +2,7 @@
 title: "Screenshots from developers"
 slug: screenshots-from-developers
 date: 2015-10-29 23:09:38 -0500
+category: 
 external-url: https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/
 hash: 5c4a3717d0be2f0cfecf22c5c8750458
 year: 2015

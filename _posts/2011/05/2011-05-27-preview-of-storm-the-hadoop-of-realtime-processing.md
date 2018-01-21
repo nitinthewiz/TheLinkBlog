@@ -2,6 +2,7 @@
 title: "Preview of Storm: The Hadoop of Realtime Processing"
 slug: preview-of-storm-the-hadoop-of-realtime-processing
 date: 2011-05-27 17:41:25 -0500
+category: 
 external-url: http://tech.backtype.com/preview-of-storm-the-hadoop-of-realtime-proce
 hash: 1739e289d0d73d2103bc78219b7bc57e
 year: 2011

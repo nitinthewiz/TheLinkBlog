@@ -2,6 +2,7 @@
 title: "Creating Realistic Grass in Blender"
 slug: creating-realistic-grass-in-blender
 date: 2012-10-07 04:56:18 -0500
+category: 
 external-url: http://cgcookie.com/blender/2012/09/20/creating-realistic-grass-in-blender/
 hash: b751dde1c3286ff9a7bc4f0545da6d41
 year: 2012

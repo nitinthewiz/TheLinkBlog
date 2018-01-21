@@ -2,6 +2,7 @@
 title: "Martian SlingShot"
 slug: martian-slingshot
 date: 2007-07-29 00:05:11 -0500
+category: 
 external-url: http://www.martian.com/SlingShot.html
 hash: 6b9cc230a1640f617144554d916d0758
 year: 2007

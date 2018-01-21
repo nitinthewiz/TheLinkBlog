@@ -2,6 +2,7 @@
 title: "Office 2010 Screenshots Preview What's to Come [Beta Beat]"
 slug: office-2010-screenshots-preview-what-s-to-come-beta-beat
 date: 2009-04-30 23:16:01 -0500
+category: 
 external-url: http://lifehacker.com/5231478/office-2010-screenshots-preview-whats-to-come
 hash: bc1aefefee5dcd2a4a5efcd46edf7f0c
 year: 2009

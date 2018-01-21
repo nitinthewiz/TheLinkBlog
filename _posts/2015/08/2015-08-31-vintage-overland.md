@@ -2,6 +2,7 @@
 title: "Vintage Overland"
 slug: vintage-overland
 date: 2015-08-31 18:31:33 -0500
+category: 
 external-url: http://www.vintageoverland.com/
 hash: fb53afd469e4bb925d94e6485afc402d
 year: 2015

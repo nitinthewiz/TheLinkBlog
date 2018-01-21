@@ -2,6 +2,7 @@
 title: "One Man's Year of Digital Detox - OutsideOnline.com"
 slug: one-man-s-year-of-digital-detox-outsideonline-com
 date: 2014-09-06 11:42:49 -0500
+category: 
 external-url: http://www.outsideonline.com/outdoor-adventure/media/Reboot-or-Die-Trying.html
 hash: c6421224f051cf50f206425e24dce9d9
 year: 2014

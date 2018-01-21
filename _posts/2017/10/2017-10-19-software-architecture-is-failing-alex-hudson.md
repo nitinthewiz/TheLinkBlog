@@ -2,6 +2,7 @@
 title: "Software architecture is failing – Alex Hudson"
 slug: software-architecture-is-failing-alex-hudson
 date: 2017-10-19 15:48:17 -0500
+category: 
 external-url: https://www.alexhudson.com/2017/10/14/software-architecture-failing/
 hash: 9b6544632ad71eac3f3eeb4f03d9a67d
 year: 2017

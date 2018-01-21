@@ -2,6 +2,7 @@
 title: "The Future of Blogging"
 slug: the-future-of-blogging
 date: 2010-03-03 22:37:05 -0600
+category: 
 external-url: http://gigaom.com/collaboration/the-future-of-blogging/
 hash: 56338ab1eca433adf09488cad4ffd838
 year: 2010

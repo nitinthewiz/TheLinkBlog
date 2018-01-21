@@ -2,6 +2,7 @@
 title: "How to Actually Make Text Look Interesting"
 slug: how-to-actually-make-text-look-interesting
 date: 2011-06-25 15:24:25 -0500
+category: 
 external-url: http://getspace.org/
 hash: b56fd2edc0e5d69ac70a98285e39d40d
 year: 2011

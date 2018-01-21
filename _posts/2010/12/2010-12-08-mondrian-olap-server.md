@@ -2,6 +2,7 @@
 title: "Mondrian OLAP server"
 slug: mondrian-olap-server
 date: 2010-12-08 23:09:41 -0600
+category: 
 external-url: http://en.wikipedia.org/wiki/Mondrian_OLAP_server
 hash: 76ecdd2f40f5147dfe4ebce0f8508714
 year: 2010

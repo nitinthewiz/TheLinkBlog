@@ -2,6 +2,7 @@
 title: "A Brief History of the UUID · Segment Blog"
 slug: a-brief-history-of-the-uuid-segment-blog
 date: 2017-06-08 21:06:36 -0500
+category: 
 external-url: https://segment.com/blog/a-brief-history-of-the-uuid/
 hash: e3dbba64e2be40656516ebf78ad6083a
 year: 2017

@@ -2,6 +2,7 @@
 title: "Your Income, Home Ownership & Parenthood Status Now Available as an API"
 slug: your-income-home-ownership-parenthood-status-now-available-as-an-api
 date: 2010-11-24 20:00:01 -0600
+category: 
 external-url: http://www.readwriteweb.com/archives/your_income_home_ownership_parenthood_status_privacy_api.php
 hash: 4c7a0001e3a1205afd3ab7d965614b10
 year: 2010

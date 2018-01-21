@@ -2,6 +2,7 @@
 title: "GhostReader 1.5: text to audiobook"
 slug: ghostreader-1-5-text-to-audiobook
 date: 2008-05-20 12:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/05/20/ghostreader-1-5-text-to-audiobook/
 hash: 0f1646732fd21f08e6f36b1c5380665e
 year: 2008

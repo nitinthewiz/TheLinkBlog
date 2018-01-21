@@ -2,6 +2,7 @@
 title: "Scid: A Free Chess Database App"
 slug: scid-a-free-chess-database-app
 date: 2007-02-03 19:12:46 -0600
+category: 
 external-url: http://scid.sourceforge.net/
 hash: a8fb8423d98340f20c50db3d91fd6f6d
 year: 2007

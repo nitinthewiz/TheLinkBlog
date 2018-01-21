@@ -2,6 +2,7 @@
 title: "SubEthaEdit"
 slug: subethaedit
 date: 2007-01-30 22:41:09 -0600
+category: 
 external-url: http://www.codingmonkeys.de/subethaedit/index.html
 hash: e63b7181a549bbbda057185001375791
 year: 2007

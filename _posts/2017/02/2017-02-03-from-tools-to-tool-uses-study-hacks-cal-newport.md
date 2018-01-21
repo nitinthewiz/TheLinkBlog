@@ -2,6 +2,7 @@
 title: "From Tools to Tool Uses - Study Hacks - Cal Newport"
 slug: from-tools-to-tool-uses-study-hacks-cal-newport
 date: 2017-02-03 10:15:09 -0600
+category: 
 external-url: http://calnewport.com/blog/2017/02/01/from-tools-to-tool-uses/
 hash: 87399bfa66febe72c8ca0c9eaf056354
 year: 2017

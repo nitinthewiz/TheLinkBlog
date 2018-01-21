@@ -2,6 +2,7 @@
 title: "Goodbye MongoDB, Hello PostgreSQL"
 slug: goodbye-mongodb-hello-postgresql
 date: 2015-03-12 04:29:37 -0500
+category: 
 external-url: http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
 hash: 1945d7827741f88fd868b77595a0a069
 year: 2015

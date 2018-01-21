@@ -2,6 +2,7 @@
 title: "Machine Learning and Technical Debt with D. Sculley"
 slug: machine-learning-and-technical-debt-with-d-sculley
 date: 2015-11-20 20:36:36 -0600
+category: 
 external-url: http://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/
 hash: 4fc5c47cc20f1a98b72130bed9a4c146
 year: 2015

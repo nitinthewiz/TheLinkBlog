@@ -2,6 +2,7 @@
 title: "Whois Masking Considered Harmful"
 slug: whois-masking-considered-harmful
 date: 2011-04-16 11:34:45 -0500
+category: 
 external-url: http://www.circleid.com/posts/20081120_whois_masking_considered_harmful/
 hash: 250e54c45a0071a4456707c0f30a93e3
 year: 2011

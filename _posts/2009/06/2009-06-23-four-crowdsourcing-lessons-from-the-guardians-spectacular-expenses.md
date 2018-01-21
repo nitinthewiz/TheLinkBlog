@@ -2,6 +2,7 @@
 title: "Four crowdsourcing lessons from the Guardian’s (spectacular) expenses-scandal experiment"
 slug: four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses
 date: 2009-06-23 16:47:09 -0500
+category: 
 external-url: http://www.niemanlab.org/2009/06/four-crowdsourcing-lessons-from-the-guardians-spectacular-expenses-scandal-experiment/
 hash: 07a2f1a45ad4a24a1558b76fcdd86209
 year: 2009

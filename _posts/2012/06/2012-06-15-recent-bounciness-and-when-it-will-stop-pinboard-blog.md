@@ -2,6 +2,7 @@
 title: "Recent Bounciness And When It Will Stop (Pinboard Blog)"
 slug: recent-bounciness-and-when-it-will-stop-pinboard-blog
 date: 2012-06-15 14:53:10 -0500
+category: 
 external-url: http://blog.pinboard.in/2012/06/recent_bounciness_and_when_it_will_stop/
 hash: 9f6044cb067e39b53b17af763c0d105c
 year: 2012

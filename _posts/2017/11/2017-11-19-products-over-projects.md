@@ -2,6 +2,7 @@
 title: "Products Over Projects"
 slug: products-over-projects
 date: 2017-11-19 06:27:47 -0600
+category: 
 external-url: https://martinfowler.com/articles/products-over-projects.html
 hash: 9dfea6e01496ef286b1b69f9078e9ce2
 year: 2017

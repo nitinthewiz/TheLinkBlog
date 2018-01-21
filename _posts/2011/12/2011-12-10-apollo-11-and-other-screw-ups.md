@@ -2,6 +2,7 @@
 title: "Apollo 11 and Other Screw-Ups"
 slug: apollo-11-and-other-screw-ups
 date: 2011-12-10 00:07:59 -0600
+category: 
 external-url: http://www.doneyles.com/LM/Tales.html
 hash: 224c2ecdb7dd0e3d6c3d132795217d83
 year: 2011

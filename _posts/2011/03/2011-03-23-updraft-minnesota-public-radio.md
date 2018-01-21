@@ -2,6 +2,7 @@
 title: "Updraft Minnesota Public Radio"
 slug: updraft-minnesota-public-radio
 date: 2011-03-23 18:32:40 -0500
+category: 
 external-url: http://blogs.mprnews.org/updraft/
 hash: 9082c7d02d62d8af7aee0e1c5ed6fce4
 year: 2011

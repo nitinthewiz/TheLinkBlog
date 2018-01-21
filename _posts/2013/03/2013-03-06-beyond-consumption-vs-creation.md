@@ -2,6 +2,7 @@
 title: "Beyond Consumption vs Creation"
 slug: beyond-consumption-vs-creation
 date: 2013-03-06 22:19:19 -0600
+category: 
 external-url: http://www.speirs.org/blog/2013/3/4/beyond-consumption-vs-creation.html
 hash: d777fe63d85b3bbd6e568a99c430a885
 year: 2013

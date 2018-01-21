@@ -2,6 +2,7 @@
 title: "New in Highrise: Twitter integration"
 slug: new-in-highrise-twitter-integration
 date: 2009-05-27 10:46:14 -0500
+category: 
 external-url: http://productblog.37signals.com/products/2009/05/new-in-highrise-twitter-integration.html
 hash: 2389a814d9a0f0fdee3fd75fcf685c48
 year: 2009

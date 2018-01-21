@@ -2,6 +2,7 @@
 title: "Fox News Political Account on Twitter Is Hacked"
 slug: fox-news-political-account-on-twitter-is-hacked
 date: 2011-07-05 21:59:32 -0500
+category: 
 external-url: http://www.nytimes.com/2011/07/05/business/media/05fox.html?_r=2
 hash: 444d70bd8c14ba66f1d7e45db297f701
 year: 2011

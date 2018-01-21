@@ -2,6 +2,7 @@
 title: "Wind Resource Information"
 slug: wind-resource-information
 date: 2007-05-27 08:47:09 -0500
+category: 
 external-url: http://www.nrel.gov/rredc/
 hash: 8b40359ae71ffbe19af475114bb4a7c1
 year: 2007

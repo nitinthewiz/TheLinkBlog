@@ -2,6 +2,7 @@
 title: "Shaking It Off - Migraine - Opinion Blog"
 slug: shaking-it-off-migraine-opinion-blog
 date: 2008-03-08 16:46:29 -0600
+category: 
 external-url: http://migraine.blogs.nytimes.com/2008/03/05/shaking-it-off/
 hash: 8a12bac94dbe8154f97bf308d3ab3e6f
 year: 2008

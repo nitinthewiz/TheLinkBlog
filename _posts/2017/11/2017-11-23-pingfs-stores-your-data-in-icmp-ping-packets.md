@@ -2,6 +2,7 @@
 title: "pingfs: Stores your data in ICMP ping packets"
 slug: pingfs-stores-your-data-in-icmp-ping-packets
 date: 2017-11-23 09:02:22 -0600
+category: 
 external-url: https://github.com/yarrick/pingfs
 hash: 534d1b6dd59d6d8638a926bca663c98f
 year: 2017

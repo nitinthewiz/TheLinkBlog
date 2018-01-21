@@ -2,6 +2,7 @@
 title: "Pierre Omidyar: 6 ways social media has become a direct threat to democracy - The Washington Post"
 slug: pierre-omidyar-6-ways-social-media-has-become-a-direct-threat-to-the
 date: 2017-10-12 22:07:06 -0500
+category: 
 external-url: https://www.washingtonpost.com/news/theworldpost/wp/2017/10/09/pierre-omidyar-6-ways-social-media-has-become-a-direct-threat-to-democracy/
 hash: 3b90187ba0c13da4c110b2d584e04d14
 year: 2017

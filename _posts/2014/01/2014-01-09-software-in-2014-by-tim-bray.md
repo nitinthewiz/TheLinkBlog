@@ -2,6 +2,7 @@
 title: "Software in 2014 by Tim Bray"
 slug: software-in-2014-by-tim-bray
 date: 2014-01-09 21:16:44 -0600
+category: 
 external-url: http://www.tbray.org/ongoing/When/201x/2014/01/01/Software-in-2014
 hash: 3cd6021ef12deb381903d2a44a981b55
 year: 2014

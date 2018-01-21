@@ -2,6 +2,7 @@
 title: "What Is Spacetime, Really?—Stephen Wolfram Blog"
 slug: what-is-spacetime-really-stephen-wolfram-blog
 date: 2015-12-05 16:41:27 -0600
+category: 
 external-url: http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/
 hash: 0cd69f76153eae5ab27330fdb63b328c
 year: 2015

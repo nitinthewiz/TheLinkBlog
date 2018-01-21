@@ -2,6 +2,7 @@
 title: "Sweet Maria's Brewing Instructions for Chemex Brewers"
 slug: sweet-maria-s-brewing-instructions-for-chemex-brewers
 date: 2015-10-05 06:36:43 -0500
+category: 
 external-url: http://legacy.sweetmarias.com/brewinstr/brewing.inst.chemex.php
 hash: 5c00c654d251784df6dcce02bc36fa21
 year: 2015

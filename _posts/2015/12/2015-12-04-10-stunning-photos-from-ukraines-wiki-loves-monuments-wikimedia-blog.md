@@ -2,6 +2,7 @@
 title: "10 stunning photos from Ukraine’s Wiki Loves Monuments « Wikimedia blog"
 slug: 10-stunning-photos-from-ukraines-wiki-loves-monuments-wikimedia-blog
 date: 2015-12-04 15:09:56 -0600
+category: 
 external-url: http://blog.wikimedia.org/2015/12/04/top-ten-photos-ukraine/
 hash: 959f3029dd902e6db027216e0f76709f
 year: 2015

@@ -2,6 +2,7 @@
 title: "Have women evolved to protect themselves from sexual assault?"
 slug: have-women-evolved-to-protect-themselves-from-sexual-assault
 date: 2011-01-15 10:59:25 -0600
+category: 
 external-url: http://www.slate.com/articles/health_and_science/science/2011/01/darwins_rape_whistle.html
 hash: 1e5913b29a692e0b7112b6b9afcaddfd
 year: 2011

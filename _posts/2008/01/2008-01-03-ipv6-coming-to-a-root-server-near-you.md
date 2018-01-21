@@ -2,6 +2,7 @@
 title: "IPv6: coming to a root server near you"
 slug: ipv6-coming-to-a-root-server-near-you
 date: 2008-01-03 10:11:00 -0600
+category: 
 external-url: http://www.activewin.com/awin/comments.asp?HeadlineIndex=42144
 hash: a91db4d9d98eca79679a4040a92081f8
 year: 2008

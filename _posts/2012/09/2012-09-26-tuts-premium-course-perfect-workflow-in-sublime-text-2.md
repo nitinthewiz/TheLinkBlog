@@ -2,6 +2,7 @@
 title: "Tuts+ Premium Course: Perfect Workflow in Sublime Text 2"
 slug: tuts-premium-course-perfect-workflow-in-sublime-text-2
 date: 2012-09-26 23:40:22 -0500
+category: 
 external-url: http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
 hash: 619b8e70ed336a2dc5ea33b12732c858
 year: 2012

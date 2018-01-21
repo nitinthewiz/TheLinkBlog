@@ -2,6 +2,7 @@
 title: "Dave Pell of NextDraft discusses fake news, tech, and startup investing"
 slug: dave-pell-of-nextdraft-discusses-fake-news-tech-and-startup-investing
 date: 2017-10-20 09:41:15 -0500
+category: 
 external-url: https://letterlist.com/dave-pell/
 hash: 9763b0aeb0dd0e420458b272145c65f7
 year: 2017

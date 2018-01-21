@@ -2,6 +2,7 @@
 title: "Andy – Andreessen Horowitz"
 slug: andy-andreessen-horowitz
 date: 2016-03-22 20:47:23 -0500
+category: 
 external-url: http://a16z.com/2015/11/13/high-output-management/
 hash: d3505261cebc227c2a7105e526420079
 year: 2016

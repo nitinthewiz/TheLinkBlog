@@ -2,6 +2,7 @@
 title: "The Story of India"
 slug: the-story-of-india
 date: 2010-01-08 19:52:57 -0600
+category: 
 external-url: http://www.truefilms.com/archives/2010/01/the_story_of_in.php
 hash: a3a0c46a04618f14db91dacae2e8e34f
 year: 2010

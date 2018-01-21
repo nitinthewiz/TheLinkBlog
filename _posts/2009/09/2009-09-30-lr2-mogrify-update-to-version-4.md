@@ -2,6 +2,7 @@
 title: "LR2/Mogrify update to version 4"
 slug: lr2-mogrify-update-to-version-4
 date: 2009-09-30 19:26:17 -0500
+category: 
 external-url: http://lightroom-news.com/2009/09/30/lr2mogrify-update-to-version-4/
 hash: e34315d011598ec7c7ba89dada44e1bc
 year: 2009

@@ -2,6 +2,7 @@
 title: "Homebrew, the perfect gift for command line lovers"
 slug: homebrew-the-perfect-gift-for-command-line-lovers
 date: 2009-12-25 22:53:24 -0600
+category: 
 external-url: http://www.tuaw.com/2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/
 hash: a9e47f61a49caddb2240ebfbb73620ec
 year: 2009

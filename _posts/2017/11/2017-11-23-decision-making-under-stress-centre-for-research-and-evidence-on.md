@@ -2,6 +2,7 @@
 title: "Decision making under stress - Centre for Research and Evidence on Security Threats"
 slug: decision-making-under-stress-centre-for-research-and-evidence-on
 date: 2017-11-23 13:34:34 -0600
+category: 
 external-url: https://crestresearch.ac.uk/comment/decision-making-stress/
 hash: e824c8b7b911f6c3f5c1e8b6e294736e
 year: 2017

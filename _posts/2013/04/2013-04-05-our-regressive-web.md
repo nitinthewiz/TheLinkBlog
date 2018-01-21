@@ -2,6 +2,7 @@
 title: "Our Regressive Web"
 slug: our-regressive-web
 date: 2013-04-05 17:02:52 -0500
+category: 
 external-url: https://medium.com/future-tech-future-market/7b1a7ddb6ffe
 hash: a4d109a5b8e2818a5339abb3739566dc
 year: 2013

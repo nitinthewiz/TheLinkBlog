@@ -2,6 +2,7 @@
 title: "Is Lyft Too Cute to Fight Uber?"
 slug: is-lyft-too-cute-to-fight-uber
 date: 2014-12-10 11:29:06 -0600
+category: 
 external-url: http://www.nytimes.com/2014/12/11/style/is-lyft-too-cute-to-fight-uber.html
 hash: 6cb4690d05b54f1c7661038e78eb4046
 year: 2014

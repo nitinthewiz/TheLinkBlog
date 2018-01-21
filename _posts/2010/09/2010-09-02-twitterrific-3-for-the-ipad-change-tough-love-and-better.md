@@ -2,6 +2,7 @@
 title: "Twitterrific 3 for the iPad: change, tough love, and better"
 slug: twitterrific-3-for-the-ipad-change-tough-love-and-better
 date: 2010-09-02 17:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2010/09/02/twitterrific-3-for-the-ipad-change-tough-love-and-better/
 hash: 98b465ae98cac4ab831b2ee9bd449cc5
 year: 2010

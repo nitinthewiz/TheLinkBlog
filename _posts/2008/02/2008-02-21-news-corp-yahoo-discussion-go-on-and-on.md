@@ -2,6 +2,7 @@
 title: "News Corp.-Yahoo Discussion Go On. And On."
 slug: news-corp-yahoo-discussion-go-on-and-on
 date: 2008-02-21 04:56:18 -0600
+category: 
 external-url: http://techcrunch.com/2008/02/21/news-corp-yahoo-discussion-continue/
 hash: 563c5a203549b83774a3172d10013159
 year: 2008

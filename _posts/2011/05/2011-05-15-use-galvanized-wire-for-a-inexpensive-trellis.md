@@ -2,6 +2,7 @@
 title: "Use Galvanized Wire for a Inexpensive Trellis"
 slug: use-galvanized-wire-for-a-inexpensive-trellis
 date: 2011-05-15 19:15:53 -0500
+category: 
 external-url: http://www.doityourself.com/stry/use-galvanized-wire-for-a-inexpensive-trellis
 hash: b397fb2c5837de534432306999255578
 year: 2011

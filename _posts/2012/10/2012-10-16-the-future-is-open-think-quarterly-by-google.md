@@ -2,6 +2,7 @@
 title: "The Future Is Open - Think Quarterly by Google"
 slug: the-future-is-open-think-quarterly-by-google
 date: 2012-10-16 17:02:40 -0500
+category: 
 external-url: http://www.thinkwithgoogle.com/articles/the-future-is-open.html
 hash: 0b41277f273c41ceec056fdf193f2589
 year: 2012

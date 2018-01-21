@@ -2,6 +2,7 @@
 title: "Hey dad, Wikipedia says that you"
 slug: hey-dad-wikipedia-says-that-you
 date: 2007-12-13 10:31:43 -0600
+category: 
 external-url: http://www.mathewingram.com/work/2007/12/13/hey-dad-wikipedia-says-that-you/
 hash: 2a1a0db2a4771cf7a361566cf827861b
 year: 2007

@@ -2,6 +2,7 @@
 title: "Coworking CoworkingMinneapolis"
 slug: coworking-coworkingminneapolis
 date: 2007-06-04 00:49:15 -0500
+category: 
 external-url: http://wiki.coworking.org/w/page/16583588/CoworkingMinneapolis
 hash: fff7f3d588e20f89bba331afc0ecc0a3
 year: 2007

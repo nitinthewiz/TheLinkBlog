@@ -2,6 +2,7 @@
 title: "NYP Shuts Down PageSix Standalone Site After Less Than Four Months"
 slug: nyp-shuts-down-pagesix-standalone-site-after-less-than-four-months
 date: 2008-03-20 17:27:41 -0500
+category: 
 external-url: http://gigaom.com/2008/03/21/419-nyp-shuts-down-pagesix-standalone-site-after-less-than-four-months/
 hash: a737431d9bd4e9682c28b5e6aa6819e0
 year: 2008

@@ -2,6 +2,7 @@
 title: "Javascript JPEG Encoding"
 slug: javascript-jpeg-encoding
 date: 2009-11-25 23:33:34 -0600
+category: 
 external-url: http://ajaxian.com/archives/javascript-jpeg-encoding
 hash: 78642628e3078852d36ab45936615fd1
 year: 2009

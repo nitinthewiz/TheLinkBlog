@@ -2,6 +2,7 @@
 title: "ewanvalentine.io"
 slug: ewanvalentine-io
 date: 2017-03-11 20:47:07 -0600
+category: 
 external-url: http://ewanvalentine.io/how-to-never-complete-anything/
 hash: ea59830e3bbf33d2afdeb0a0e4272834
 year: 2017

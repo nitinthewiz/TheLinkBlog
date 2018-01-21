@@ -2,6 +2,7 @@
 title: "Lawrence Lessig: We the People, and the Republic we must reclaim"
 slug: lawrence-lessig-we-the-people-and-the-republic-we-must-reclaim
 date: 2013-04-18 07:45:50 -0500
+category: 
 external-url: http://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim
 hash: 78e6eca876e5076533453c6c16093695
 year: 2013

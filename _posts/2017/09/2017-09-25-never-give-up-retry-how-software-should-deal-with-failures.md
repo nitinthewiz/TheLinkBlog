@@ -2,6 +2,7 @@
 title: "Never Give Up, Retry: How Software Should Deal with Failures"
 slug: never-give-up-retry-how-software-should-deal-with-failures
 date: 2017-09-25 06:57:44 -0500
+category: 
 external-url: http://allyouneedisbackend.com/blog/2017/09/15/how-backend-software-should-retry-on-failures/
 hash: 53aee275f77ebb93d63d1c481c2e1407
 year: 2017

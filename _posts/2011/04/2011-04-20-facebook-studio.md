@@ -2,6 +2,7 @@
 title: "Facebook Studio"
 slug: facebook-studio
 date: 2011-04-20 10:47:39 -0500
+category: 
 external-url: http://www.facebook-studio.com/
 hash: f38a921c438321e998789137046e8e81
 year: 2011

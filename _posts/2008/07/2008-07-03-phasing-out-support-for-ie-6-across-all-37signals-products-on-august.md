@@ -2,6 +2,7 @@
 title: "Phasing out support for IE 6 across all 37signals products on August 15, 2008"
 slug: phasing-out-support-for-ie-6-across-all-37signals-products-on-august
 date: 2008-07-03 11:11:43 -0500
+category: 
 external-url: http://37signals.blogs.com/products/2008/07/basecamp-phasin.html
 hash: 2e4b3445b2d5c8a2920db0c3b5ca64e8
 year: 2008

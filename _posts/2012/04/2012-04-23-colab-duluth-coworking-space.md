@@ -2,6 +2,7 @@
 title: "Colab-Duluth - CoWorking Space"
 slug: colab-duluth-coworking-space
 date: 2012-04-23 07:06:19 -0500
+category: 
 external-url: http://colabduluth.com/
 hash: 5871df2595c9188b5163b0d484e350c0
 year: 2012

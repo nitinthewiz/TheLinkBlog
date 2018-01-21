@@ -2,6 +2,7 @@
 title: "Cogmap offers free online organization charting with private sharing capabilities"
 slug: cogmap-offers-free-online-organization-charting-with-private-sharing
 date: 2008-03-04 21:04:15 -0600
+category: 
 external-url: http://www.cogmap.com/blog/2008/03/04/cogmap-offers-free-online-organization-charting-with-private-sharing-capabilities/
 hash: 1a39f60b8571b6b4503273bcc90e3435
 year: 2008

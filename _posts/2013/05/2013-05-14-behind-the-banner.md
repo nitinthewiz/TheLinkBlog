@@ -2,6 +2,7 @@
 title: "Behind The Banner"
 slug: behind-the-banner
 date: 2013-05-14 13:38:04 -0500
+category: 
 external-url: http://cmsummit.com/behindthebanner/
 hash: dd02542faa2160c043181300a9e96113
 year: 2013

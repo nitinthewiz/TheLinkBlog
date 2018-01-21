@@ -2,6 +2,7 @@
 title: "Playboy Launches SFW Site TheSmokingJacket"
 slug: playboy-launches-sfw-site-thesmokingjacket
 date: 2010-07-20 11:25:46 -0500
+category: 
 external-url: http://gigaom.com/2010/07/20/419-playboy-launches-sfw-site-thesmokingjacket/
 hash: d5333d0ba05a55e617863fd1f3637123
 year: 2010

@@ -2,6 +2,7 @@
 title: "★ The 2017 iPad Pros —Daring Fireball"
 slug: the-2017-ipad-pros-daring-fireball
 date: 2017-06-12 19:15:01 -0500
+category: 
 external-url: https://daringfireball.net/2017/06/the_2017_ipad_pros
 hash: 59960b6aceac0a40eed647b567e85861
 year: 2017

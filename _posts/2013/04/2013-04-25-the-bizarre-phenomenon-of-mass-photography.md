@@ -2,6 +2,7 @@
 title: "The Bizarre Phenomenon of Mass Photography"
 slug: the-bizarre-phenomenon-of-mass-photography
 date: 2013-04-25 20:54:18 -0500
+category: 
 external-url: http://io9.com/the-bizarre-phenomenon-of-mass-photography-477602933
 hash: 2f0807da697eb4f1de686f3914e6c644
 year: 2013

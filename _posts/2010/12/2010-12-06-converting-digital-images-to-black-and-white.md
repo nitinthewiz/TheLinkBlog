@@ -2,6 +2,7 @@
 title: "Converting digital images to black and white"
 slug: converting-digital-images-to-black-and-white
 date: 2010-12-06 21:58:26 -0600
+category: 
 external-url: http://www.pixiq.com/article/blackwhite-vs-color
 hash: 82ad2187836e66d08c60dc65af8e6252
 year: 2010

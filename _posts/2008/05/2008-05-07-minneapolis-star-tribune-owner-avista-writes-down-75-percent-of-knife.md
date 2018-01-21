@@ -2,6 +2,7 @@
 title: "Minneapolis Star-Tribune Owner Avista Writes Down 75 Percent Of Investment; Falling Knife, Anyone?"
 slug: minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-knife
 date: 2008-05-07 11:02:58 -0500
+category: 
 external-url: http://gigaom.com/2008/05/07/419-minneapolis-star-tribune-owner-avista-writes-down-75-percent-of-investm/
 hash: cdb8727fe6285d19a43be4be36d8d867
 year: 2008

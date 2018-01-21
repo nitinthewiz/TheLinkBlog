@@ -2,6 +2,7 @@
 title: "Dreaming technology in the Twin Cities"
 slug: dreaming-technology-in-the-twin-cities
 date: 2012-05-23 22:01:01 -0500
+category: 
 external-url: http://finance-commerce.com/2012/05/dreaming-technology-in-the-twin-cities/
 hash: 03998771af87715d98f58636b4b72caf
 year: 2012

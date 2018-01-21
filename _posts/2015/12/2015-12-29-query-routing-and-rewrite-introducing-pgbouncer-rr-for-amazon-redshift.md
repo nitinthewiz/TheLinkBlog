@@ -2,6 +2,7 @@
 title: "Query Routing and Rewrite: Introducing pgbouncer-rr for Amazon Redshift and PostgreSQL - AWS Big Data Blog"
 slug: query-routing-and-rewrite-introducing-pgbouncer-rr-for-amazon-redshift
 date: 2015-12-29 11:36:11 -0600
+category: 
 external-url: http://blogs.aws.amazon.com/bigdata/post/Tx3G7177U6YHY5I/Query-Routing-and-Rewrite-Introducing-pgbouncer-rr-for-Amazon-Redshift-and-Postg
 hash: a6414c0f933d9d9d5f3071db026877e8
 year: 2015

@@ -2,6 +2,7 @@
 title: "How can that be free?"
 slug: how-can-that-be-free
 date: 2010-09-27 10:16:17 -0500
+category: 
 external-url: http://www.woothemes.com/2010/09/how-can-that-be-free/
 hash: c6bd11d8e4dc83e3bcd525de9e890cec
 year: 2010

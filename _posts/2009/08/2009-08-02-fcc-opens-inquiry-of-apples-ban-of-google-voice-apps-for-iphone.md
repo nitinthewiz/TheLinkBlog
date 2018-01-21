@@ -2,6 +2,7 @@
 title: "FCC Opens Inquiry of Apples Ban of Google Voice Apps for iPhone"
 slug: fcc-opens-inquiry-of-apples-ban-of-google-voice-apps-for-iphone
 date: 2009-08-02 00:10:29 -0500
+category: 
 external-url: http://online.wsj.com/news/articles/SB124908121794098073
 hash: 8f96c6cc20ffef0ef315ea5f0ce5e104
 year: 2009

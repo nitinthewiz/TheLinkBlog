@@ -2,6 +2,7 @@
 title: "'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia | Technology | The Guardian"
 slug: our-minds-can-be-hijacked-the-tech-insiders-who-fear-a-smartphone-the
 date: 2017-10-07 13:16:38 -0500
+category: 
 external-url: https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
 hash: cc45e6a1599409d1f444737901d5c155
 year: 2017

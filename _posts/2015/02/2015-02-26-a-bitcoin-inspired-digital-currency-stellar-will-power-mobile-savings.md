@@ -2,6 +2,7 @@
 title: "A Bitcoin-Inspired Digital Currency, Stellar, Will Power Mobile Savings Accounts for Poor Teenage Girls | MIT Technology Review"
 slug: a-bitcoin-inspired-digital-currency-stellar-will-power-mobile-savings
 date: 2015-02-26 08:40:51 -0600
+category: 
 external-url: http://www.technologyreview.com/news/535271/bitcoin-inspired-digital-currency-to-power-mobile-savings-app/
 hash: d6e38fe3073b67cd5c8e5fea4bc056cb
 year: 2015

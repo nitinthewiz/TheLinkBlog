@@ -2,6 +2,7 @@
 title: "36 Cheap American Beers, Ranked"
 slug: 36-cheap-american-beers-ranked
 date: 2013-07-03 13:41:57 -0500
+category: 
 external-url: http://deadspin.com/36-cheap-american-beers-ranked-638820035
 hash: 37d9ba5a0c1f0c5f56a3679f0fa44bda
 year: 2013

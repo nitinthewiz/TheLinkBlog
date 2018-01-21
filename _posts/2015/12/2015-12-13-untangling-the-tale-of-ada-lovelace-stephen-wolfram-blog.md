@@ -2,6 +2,7 @@
 title: "Untangling the Tale of Ada Lovelace—Stephen Wolfram Blog"
 slug: untangling-the-tale-of-ada-lovelace-stephen-wolfram-blog
 date: 2015-12-13 06:04:54 -0600
+category: 
 external-url: http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/
 hash: 4da9fc8b5684e9209dddc91712e03786
 year: 2015

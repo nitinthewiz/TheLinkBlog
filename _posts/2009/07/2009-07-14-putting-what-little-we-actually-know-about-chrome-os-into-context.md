@@ -2,6 +2,7 @@
 title: "★ Putting What Little We Actually Know About Chrome OS Into Context"
 slug: putting-what-little-we-actually-know-about-chrome-os-into-context
 date: 2009-07-14 12:16:55 -0500
+category: 
 external-url: http://daringfireball.net/2009/07/chrome_os_context
 hash: f55af197d0063dcedd952801470c8b13
 year: 2009

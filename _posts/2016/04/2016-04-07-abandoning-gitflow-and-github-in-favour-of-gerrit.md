@@ -2,6 +2,7 @@
 title: "Abandoning Gitflow and GitHub in favour of Gerrit"
 slug: abandoning-gitflow-and-github-in-favour-of-gerrit
 date: 2016-04-07 22:08:03 -0500
+category: 
 external-url: http://www.beepsend.com/2016/04/05/abandoning-gitflow-github-favour-gerrit/
 hash: b6772fed731249700b7c6b46441647db
 year: 2016

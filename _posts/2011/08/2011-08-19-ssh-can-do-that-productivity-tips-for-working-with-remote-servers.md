@@ -2,6 +2,7 @@
 title: "SSH Can Do That? Productivity Tips for Working with Remote Servers"
 slug: ssh-can-do-that-productivity-tips-for-working-with-remote-servers
 date: 2011-08-19 01:04:26 -0500
+category: 
 external-url: http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html
 hash: 8ad26cbd42121f2cc0d316eaab63e7d3
 year: 2011

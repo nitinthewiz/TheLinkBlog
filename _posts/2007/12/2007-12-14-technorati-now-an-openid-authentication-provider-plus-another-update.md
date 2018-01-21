@@ -2,6 +2,7 @@
 title: "Technorati Now An OpenID Authentication Provider Plus Another Beneficial Update"
 slug: technorati-now-an-openid-authentication-provider-plus-another-update
 date: 2007-12-14 16:46:19 -0600
+category: 
 external-url: http://www.centernetworks.com/technorati-openid-authentication-provider/
 hash: f23f77318effc4449d0049dcdeb25e29
 year: 2007

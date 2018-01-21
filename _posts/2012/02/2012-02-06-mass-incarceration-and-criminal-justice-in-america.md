@@ -2,6 +2,7 @@
 title: "Mass Incarceration and Criminal Justice in America"
 slug: mass-incarceration-and-criminal-justice-in-america
 date: 2012-02-06 11:16:42 -0600
+category: 
 external-url: http://www.newyorker.com/arts/critics/atlarge/2012/01/30/120130crat_atlarge_gopnik
 hash: f61f96475f5329946132c9984cbf60ca
 year: 2012

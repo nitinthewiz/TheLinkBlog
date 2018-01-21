@@ -2,6 +2,7 @@
 title: "Why the Open Web Matters"
 slug: why-the-open-web-matters
 date: 2011-06-30 17:38:50 -0500
+category: 
 external-url: http://www.tnl.net/blog/2011/06/18/why-the-open-web-matters/
 hash: b877aeb1eab18c86f41fb1dd8907c25d
 year: 2011

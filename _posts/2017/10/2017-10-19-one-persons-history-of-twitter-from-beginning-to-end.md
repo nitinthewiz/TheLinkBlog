@@ -2,6 +2,7 @@
 title: "One person’s history of Twitter, from beginning to end"
 slug: one-persons-history-of-twitter-from-beginning-to-end
 date: 2017-10-19 16:02:50 -0500
+category: 
 external-url: https://medium.com/@monteiro/one-persons-history-of-twitter-from-beginning-to-end-5b41abed6c20
 hash: f32cf71ad5d14ee127e9a1473a5d9039
 year: 2017

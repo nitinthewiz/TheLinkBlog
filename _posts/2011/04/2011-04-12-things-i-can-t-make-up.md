@@ -2,6 +2,7 @@
 title: "THINGS I CAN'T MAKE UP"
 slug: things-i-can-t-make-up
 date: 2011-04-12 23:41:29 -0500
+category: 
 external-url: http://www.ginandtacos.com/2011/04/13/things-i-cant-make-up/
 hash: 01a7b95adc6c4d009e1c7e1b433dda17
 year: 2011

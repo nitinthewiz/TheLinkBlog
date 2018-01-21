@@ -2,6 +2,7 @@
 title: "Weblog Tools Collection: Gravatars and WordPress 2.5"
 slug: weblog-tools-collection-gravatars-and-wordpress-2-5
 date: 2008-03-03 23:30:10 -0600
+category: 
 external-url: http://weblogtoolscollection.com/archives/2008/03/03/gravatars-and-wordpress-25/
 hash: 072700de0c05fa67d672a293f396f7d9
 year: 2008

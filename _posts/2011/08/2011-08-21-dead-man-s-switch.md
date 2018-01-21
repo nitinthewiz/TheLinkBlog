@@ -2,6 +2,7 @@
 title: "Dead Man's Switch"
 slug: dead-man-s-switch
 date: 2011-08-21 05:50:08 -0500
+category: 
 external-url: http://beta.deadmansswitch.net/
 hash: 0b787377fc6c53ead497cfe31253a1d7
 year: 2011

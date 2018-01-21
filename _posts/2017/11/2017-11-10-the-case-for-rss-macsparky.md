@@ -2,6 +2,7 @@
 title: "The Case for RSS — MacSparky"
 slug: the-case-for-rss-macsparky
 date: 2017-11-10 17:33:10 -0600
+category: 
 external-url: https://www.macsparky.com/blog/2017/11/the-case-for-rss
 hash: 123c208aff8faac80704d5f3fb8b0f56
 year: 2017

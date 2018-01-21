@@ -2,6 +2,7 @@
 title: "Looking Forward to 2018 - Let's Encrypt - Free SSL/TLS Certificates"
 slug: looking-forward-to-2018-let-s-encrypt-free-ssl-tls-certificates
 date: 2017-12-08 21:53:52 -0600
+category: 
 external-url: https://letsencrypt.org//2017/12/07/looking-forward-to-2018.html
 hash: d18a44b6cdf253facb172c37ac830746
 year: 2017

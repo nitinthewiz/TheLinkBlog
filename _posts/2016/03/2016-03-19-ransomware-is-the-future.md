@@ -2,6 +2,7 @@
 title: "Ransomware is the future."
 slug: ransomware-is-the-future
 date: 2016-03-19 06:08:18 -0500
+category: 
 external-url: https://bluesoul.me/2016/03/18/ransomware-is-the-future/
 hash: e9840deb75ca69485e24e902ffea2506
 year: 2016

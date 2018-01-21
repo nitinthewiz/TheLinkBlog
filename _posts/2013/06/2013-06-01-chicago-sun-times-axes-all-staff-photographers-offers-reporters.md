@@ -2,6 +2,7 @@
 title: "Chicago Sun-Times axes all staff photographers, offers reporters 'iPhoneography training'"
 slug: chicago-sun-times-axes-all-staff-photographers-offers-reporters
 date: 2013-06-01 16:41:00 -0500
+category: 
 external-url: http://appleinsider.com/articles/13/05/31/chicago-sun-times-axes-all-staff-photographers-offers-reporters-iphoneography-training
 hash: b94b003bf8b5fde2bb2b29d3711c655f
 year: 2013

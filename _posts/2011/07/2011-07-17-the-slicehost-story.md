@@ -2,6 +2,7 @@
 title: "The Slicehost Story"
 slug: the-slicehost-story
 date: 2011-07-17 00:06:24 -0500
+category: 
 external-url: http://37signals.com/founderstories/slicehost
 hash: 60ac6e9103c2aa59bedfc2c007e7f5d2
 year: 2011

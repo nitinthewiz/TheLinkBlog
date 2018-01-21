@@ -2,6 +2,7 @@
 title: "The Rising Stakes in SaaS"
 slug: the-rising-stakes-in-saas
 date: 2017-10-27 19:36:22 -0500
+category: 
 external-url: http://tomtunguz.com/rising-table-stakes-in-saas/
 hash: 7abe2c869ffb8ef0de4c7cc7c277b982
 year: 2017

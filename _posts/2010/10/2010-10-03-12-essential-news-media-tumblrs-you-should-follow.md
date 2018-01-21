@@ -2,6 +2,7 @@
 title: "12 Essential News Media Tumblrs You Should Follow"
 slug: 12-essential-news-media-tumblrs-you-should-follow
 date: 2010-10-03 21:25:28 -0500
+category: 
 external-url: http://mashable.com/2010/10/03/news-media-tumblrs/
 hash: 110aa0934ae5dd065a9c2fc1556bac7a
 year: 2010

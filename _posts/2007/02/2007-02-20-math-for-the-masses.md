@@ -2,6 +2,7 @@
 title: "Math for the Masses"
 slug: math-for-the-masses
 date: 2007-02-20 16:15:40 -0600
+category: 
 external-url: http://en.blog.wordpress.com/2007/02/17/math-for-the-masses/
 hash: 7e5b38d74fee3f309f1f0a4b538a8061
 year: 2007

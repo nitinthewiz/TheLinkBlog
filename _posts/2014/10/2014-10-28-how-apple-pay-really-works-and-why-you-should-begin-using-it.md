@@ -2,6 +2,7 @@
 title: "How Apple Pay Really Works and Why You Should Begin Using it Immediately"
 slug: how-apple-pay-really-works-and-why-you-should-begin-using-it
 date: 2014-10-28 20:08:33 -0500
+category: 
 external-url: http://www.kirklennon.com/a/applepay.html
 hash: 6ee887be74f24d75e379a1c181f22add
 year: 2014

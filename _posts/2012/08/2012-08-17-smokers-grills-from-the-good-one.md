@@ -2,6 +2,7 @@
 title: "Smokers & Grills from The Good One"
 slug: smokers-grills-from-the-good-one
 date: 2012-08-17 13:52:52 -0500
+category: 
 external-url: http://thegood-one.com/
 hash: e2f04f25ee7b5e8c8a3b4cd0933afd8b
 year: 2012

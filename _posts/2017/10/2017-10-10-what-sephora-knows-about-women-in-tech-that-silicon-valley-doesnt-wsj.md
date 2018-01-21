@@ -2,6 +2,7 @@
 title: "What Sephora Knows About Women in Tech That Silicon Valley Doesn’t - WSJ"
 slug: what-sephora-knows-about-women-in-tech-that-silicon-valley-doesnt-wsj
 date: 2017-10-10 05:56:09 -0500
+category: 
 external-url: https://www.wsj.com/articles/what-sephora-knows-about-women-in-tech-that-silicon-valley-doesnt-1507539600
 hash: 3d9990421e2c26131cf91eaf3f93c47e
 year: 2017

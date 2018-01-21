@@ -2,6 +2,7 @@
 title: "Midnight Sun"
 slug: midnight-sun
 date: 2011-10-25 07:25:36 -0500
+category: 
 external-url: http://vimeo.com/30581015
 hash: 63378c9f66309139638e1e340344a3c5
 year: 2011

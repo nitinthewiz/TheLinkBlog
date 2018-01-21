@@ -2,6 +2,7 @@
 title: "Mobile Boilerplate"
 slug: mobile-boilerplate
 date: 2011-03-29 11:39:23 -0500
+category: 
 external-url: http://html5boilerplate.com/html5boilerplate.com/dist/mobile/
 hash: 4ef059c34c76ceaa638b740b056c8f26
 year: 2011

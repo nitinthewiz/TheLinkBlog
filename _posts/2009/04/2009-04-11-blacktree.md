@@ -2,6 +2,7 @@
 title: "Blacktree"
 slug: blacktree
 date: 2009-04-11 09:36:19 -0500
+category: 
 external-url: http://www.blacktree.com/
 hash: 241344cae078d0a7cfdc3e77a0f29bef
 year: 2009

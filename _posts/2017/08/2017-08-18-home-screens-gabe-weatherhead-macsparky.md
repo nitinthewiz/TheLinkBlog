@@ -2,6 +2,7 @@
 title: "Home Screens – Gabe Weatherhead —macsparky"
 slug: home-screens-gabe-weatherhead-macsparky
 date: 2017-08-18 11:57:21 -0500
+category: 
 external-url: https://www.macsparky.com/blog/2017/8/l404ijc5uo2bg4881ogyjyizi1q9nh
 hash: 03d814bc2c33d7c6629b05c3d46be573
 year: 2017

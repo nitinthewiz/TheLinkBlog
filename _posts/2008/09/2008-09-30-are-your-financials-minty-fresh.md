@@ -2,6 +2,7 @@
 title: "Are Your Financials Minty Fresh?"
 slug: are-your-financials-minty-fresh
 date: 2008-09-30 12:47:57 -0500
+category: 
 external-url: https://blog.compete.com/2008/09/30/mint-geezeo-wesabe-personal-0finance/
 hash: 3dd17da3478b03b76230d6a02aed5f85
 year: 2008

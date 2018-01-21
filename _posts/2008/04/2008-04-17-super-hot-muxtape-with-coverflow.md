@@ -2,6 +2,7 @@
 title: "Super Hot: Muxtape With Coverflow"
 slug: super-hot-muxtape-with-coverflow
 date: 2008-04-17 22:05:13 -0500
+category: 
 external-url: http://readwrite.com/2008/04/17/muxtape_with_coverflow
 hash: 26fcb2a32cbeecd2cc899fda4950d467
 year: 2008

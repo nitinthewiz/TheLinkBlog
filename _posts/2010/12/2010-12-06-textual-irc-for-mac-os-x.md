@@ -2,6 +2,7 @@
 title: "Textual: IRC for Mac OS X"
 slug: textual-irc-for-mac-os-x
 date: 2010-12-06 13:04:05 -0600
+category: 
 external-url: http://www.codeux.com/textual/
 hash: a78cdb0825cc046c2bd4063dbca270ae
 year: 2010

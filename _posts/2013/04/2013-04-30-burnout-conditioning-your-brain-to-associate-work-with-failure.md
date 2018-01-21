@@ -2,6 +2,7 @@
 title: "Burnout = Conditioning your brain to associate work with failure"
 slug: burnout-conditioning-your-brain-to-associate-work-with-failure
 date: 2013-04-30 10:56:57 -0500
+category: 
 external-url: https://news.ycombinator.com/item?id=5630618
 hash: 81a59257dfa444fcffb925969daf2407
 year: 2013

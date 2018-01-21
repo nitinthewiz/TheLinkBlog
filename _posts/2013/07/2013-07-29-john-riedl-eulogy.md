@@ -2,6 +2,7 @@
 title: "John Riedl Eulogy"
 slug: john-riedl-eulogy
 date: 2013-07-29 16:45:06 -0500
+category: 
 external-url: https://www.caringbridge.org/visit/windsurferjohn/journal
 hash: 5dea606f1f050fe38a39d7774723e899
 year: 2013

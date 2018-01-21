@@ -2,6 +2,7 @@
 title: "Ultimate Privacy"
 slug: ultimate-privacy
 date: 2011-03-04 13:46:30 -0600
+category: 
 external-url: http://www.ultimate-anonymity.com
 hash: 875bc8c762a746cef7135a423ab0573e
 year: 2011

@@ -2,6 +2,7 @@
 title: "A journalists quick guide to Reddit, the next thing you have to learn"
 slug: a-journalists-quick-guide-to-reddit-the-next-thing-you-have-to-learn
 date: 2012-08-30 21:36:45 -0500
+category: 
 external-url: http://www.poynter.org/latest-news/top-stories/187078/a-journalists-quick-guide-to-reddit-the-next-thing-you-have-to-learn/
 hash: d096de863e4c6fdd90749bd9a917fe16
 year: 2012

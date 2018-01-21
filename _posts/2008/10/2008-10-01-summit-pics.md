@@ -2,6 +2,7 @@
 title: "Summit Pics"
 slug: summit-pics
 date: 2008-10-01 12:10:00 -0500
+category: 
 external-url: http://www.slicehost.com/articles/2008/10/1/summit-pics
 hash: 6f8d51af43ff4eee171fca7d98bc94be
 year: 2008

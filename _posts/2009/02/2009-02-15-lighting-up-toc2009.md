@@ -2,6 +2,7 @@
 title: "Lighting Up TOC2009"
 slug: lighting-up-toc2009
 date: 2009-02-15 05:33:49 -0600
+category: 
 external-url: http://duncandavidson.com/2009/02/lighting-up-toc-2009.html
 hash: a3a4a4f7d451017f1f026242ad8f21a0
 year: 2009

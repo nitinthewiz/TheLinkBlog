@@ -2,6 +2,7 @@
 title: "Why you need a Reserved Instances Czar"
 slug: why-you-need-a-reserved-instances-czar
 date: 2015-11-20 20:05:44 -0600
+category: 
 external-url: https://blog.cloudability.com/why-your-org-needs-a-reserved-instances-czar/
 hash: 45bb54e823267c1a889a1365b1ac61e8
 year: 2015

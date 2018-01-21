@@ -2,6 +2,7 @@
 title: "A year with the Apple Watch: What works, what doesn’t, and what lies ahead?"
 slug: a-year-with-the-apple-watch-what-works-what-doesnt-and-what-lies-ahead
 date: 2016-04-22 22:56:47 -0500
+category: 
 external-url: http://arstechnica.com/apple/2016/04/a-year-with-the-apple-watch-what-works-what-doesnt-and-what-lies-ahead/#p3
 hash: 99a7058c0e85c523b46416fe1124d406
 year: 2016

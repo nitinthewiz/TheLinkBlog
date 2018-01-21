@@ -2,6 +2,7 @@
 title: "Classic Programmer Paintings"
 slug: classic-programmer-paintings
 date: 2016-04-18 20:14:38 -0500
+category: 
 external-url: http://classicprogrammerpaintings.tumblr.com/
 hash: f98f7373738a9137cf68a1d4787f5c9d
 year: 2016

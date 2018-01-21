@@ -2,6 +2,7 @@
 title: "How We Calculate Your Carbon Footprint"
 slug: how-we-calculate-your-carbon-footprint
 date: 2011-07-09 07:35:27 -0500
+category: 
 external-url: http://carbonfund.org/how-we-calculate
 hash: 0b51819b5bfc9ce9e07ae151061c2082
 year: 2011

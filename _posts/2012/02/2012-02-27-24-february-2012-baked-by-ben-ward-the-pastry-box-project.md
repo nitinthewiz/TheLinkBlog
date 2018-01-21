@@ -2,6 +2,7 @@
 title: "24 February 2012, baked by Ben Ward @ The Pastry Box Project"
 slug: 24-february-2012-baked-by-ben-ward-the-pastry-box-project
 date: 2012-02-27 14:08:08 -0600
+category: 
 external-url: http://www.the-pastry-box-project.net/ben-ward/2012-february-24/
 hash: 54704f15456ff2506f0fac6205a487df
 year: 2012

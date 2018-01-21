@@ -2,6 +2,7 @@
 title: "Geraldine Ferraro Leads The Way"
 slug: geraldine-ferraro-leads-the-way
 date: 2008-02-25 12:25:54 -0600
+category: 
 external-url: http://www.opticality.com/blog/2008/02/25/geraldine-ferraro-leads-the-way/
 hash: e0ebd609f7e201850f49cfe7ab553623
 year: 2008

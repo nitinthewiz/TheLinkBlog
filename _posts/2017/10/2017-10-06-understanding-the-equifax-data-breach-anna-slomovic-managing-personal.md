@@ -2,6 +2,7 @@
 title: "Understanding the Equifax Data Breach | Anna Slomovic| Managing Personal Data"
 slug: understanding-the-equifax-data-breach-anna-slomovic-managing-personal
 date: 2017-10-06 19:25:30 -0500
+category: 
 external-url: https://www.annaslomovic.com/single-post/2017/09/17/Understanding-the-Equifax-Data-Breach
 hash: 742e7c71e5d5f7f69f4f20ea1e06f0fe
 year: 2017

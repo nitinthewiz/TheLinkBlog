@@ -2,6 +2,7 @@
 title: "8 emerging trends in container orchestration"
 slug: 8-emerging-trends-in-container-orchestration
 date: 2017-12-10 17:10:17 -0600
+category: 
 external-url: https://www.datadoghq.com/container-orchestration/
 hash: 89e91665e6e1fea3feedb73b3cb68df0
 year: 2017

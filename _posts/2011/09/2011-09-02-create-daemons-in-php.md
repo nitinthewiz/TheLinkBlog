@@ -2,6 +2,7 @@
 title: "Create daemons in PHP"
 slug: create-daemons-in-php
 date: 2011-09-02 10:20:42 -0500
+category: 
 external-url: http://kvz.io/blog/2009/01/09/create-daemons-in-php/
 hash: 14e4bc264c34bd4c0f3406b81e22ab37
 year: 2011

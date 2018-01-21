@@ -2,6 +2,7 @@
 title: "The Interpreter"
 slug: the-interpreter
 date: 2014-03-27 13:28:27 -0500
+category: 
 external-url: http://www.interpretermag.com/
 hash: d9933960fabc0200484d53748bb63890
 year: 2014

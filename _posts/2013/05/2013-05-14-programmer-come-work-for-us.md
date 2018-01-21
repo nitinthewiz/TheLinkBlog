@@ -2,6 +2,7 @@
 title: "Programmer. Come Work For Us."
 slug: programmer-come-work-for-us
 date: 2013-05-14 21:45:45 -0500
+category: 
 external-url: http://edu.mkrecny.com/thoughts/programmer-come-work-for-us
 hash: 1754b8205a406266c804b484c7bf0ebf
 year: 2013

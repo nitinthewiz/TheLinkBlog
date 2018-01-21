@@ -2,6 +2,7 @@
 title: "How Protoblogger.com works"
 slug: how-protoblogger-com-works
 date: 2010-12-08 10:21:20 -0600
+category: 
 external-url: http://scripting.com/stories/2010/12/08/howProtobloggercomWorks.html
 hash: f47035470fcfcba911832deb31e667d2
 year: 2010

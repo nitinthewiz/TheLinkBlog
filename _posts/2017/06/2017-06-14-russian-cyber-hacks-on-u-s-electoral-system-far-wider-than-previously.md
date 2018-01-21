@@ -2,6 +2,7 @@
 title: "Russian Cyber Hacks on U.S. Electoral System Far Wider Than Previously Known - Bloomberg"
 slug: russian-cyber-hacks-on-u-s-electoral-system-far-wider-than-previously
 date: 2017-06-14 18:19:46 -0500
+category: 
 external-url: https://www.bloomberg.com/politics/articles/2017-06-13/russian-breach-of-39-states-threatens-future-u-s-elections
 hash: 151659bb876b0b2e19d8f8991755ec1f
 year: 2017

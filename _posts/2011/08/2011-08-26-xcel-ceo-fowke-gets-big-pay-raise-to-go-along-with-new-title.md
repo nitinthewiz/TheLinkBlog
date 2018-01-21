@@ -2,6 +2,7 @@
 title: "Xcel CEO Fowke gets big pay raise to go along with new title"
 slug: xcel-ceo-fowke-gets-big-pay-raise-to-go-along-with-new-title
 date: 2011-08-26 14:37:16 -0500
+category: 
 external-url: http://www.bizjournals.com/twincities/news/2011/08/26/xcel-energy-pay-raise-for-fowke.html
 hash: f3be05a994feff94610ec1f05993e084
 year: 2011

@@ -2,6 +2,7 @@
 title: "Google artificial intelligence beats champion at world's most complicated board game | PBS NewsHour"
 slug: google-artificial-intelligence-beats-champion-at-world-s-most-board
 date: 2016-01-27 22:02:07 -0600
+category: 
 external-url: http://www.pbs.org/newshour/rundown/google-artificial-intelligence-beats-champion-at-worlds-most-complicated-board-game/#.Vqlbv3QUeLQ.twitter
 hash: 4f4dbb0e1284f1632d403d4ffbb9ac57
 year: 2016

@@ -2,6 +2,7 @@
 title: "Confessions of a Car Salesman"
 slug: confessions-of-a-car-salesman
 date: 2012-04-02 14:06:11 -0500
+category: 
 external-url: http://www.edmunds.com/car-buying/confessions-of-a-car-salesman.html
 hash: 41c594785baf40215bc71a156a2805fc
 year: 2012

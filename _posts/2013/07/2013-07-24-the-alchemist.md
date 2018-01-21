@@ -2,6 +2,7 @@
 title: "The Alchemist"
 slug: the-alchemist
 date: 2013-07-24 15:10:45 -0500
+category: 
 external-url: http://alchemistbeer.com/about-us/
 hash: 32810a22c9e4807561683e5634328eef
 year: 2013

@@ -2,6 +2,7 @@
 title: "Amazon Opens Shops On Facebook"
 slug: amazon-opens-shops-on-facebook
 date: 2011-01-14 19:35:26 -0600
+category: 
 external-url: http://allfacebook.com/amazon-open-shops-on-facebook_b29231
 hash: 1642f46b52b6651955c36d134cb6ae05
 year: 2011

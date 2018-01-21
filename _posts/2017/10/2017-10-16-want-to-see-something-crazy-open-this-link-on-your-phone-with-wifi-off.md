@@ -2,6 +2,7 @@
 title: "Want to see something crazy? Open this link on your phone with WiFi turned off."
 slug: want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-off
 date: 2017-10-16 22:55:41 -0500
+category: 
 external-url: https://medium.com/@philipn/want-to-see-something-crazy-open-this-link-on-your-phone-with-wifi-turned-off-9e0adb00d024
 hash: 93fd80779cd90e184d0e362fd1930e01
 year: 2017

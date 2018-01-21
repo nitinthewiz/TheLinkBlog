@@ -2,6 +2,7 @@
 title: "Keeping Time With Amazon Time Sync Service | AWS News Blog"
 slug: keeping-time-with-amazon-time-sync-service-aws-news-blog
 date: 2017-12-01 14:50:49 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/keeping-time-with-amazon-time-sync-service/
 hash: c251aaeda661b6e7b984b304c2d8189c
 year: 2017

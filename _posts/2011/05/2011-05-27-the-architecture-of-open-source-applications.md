@@ -2,6 +2,7 @@
 title: "The Architecture of Open Source Applications"
 slug: the-architecture-of-open-source-applications
 date: 2011-05-27 06:21:29 -0500
+category: 
 external-url: http://www.aosabook.org/en/index.html
 hash: b7b6bfb5bb1115d54d2dfd5c440feaac
 year: 2011

@@ -2,6 +2,7 @@
 title: "Namaste, Bitches"
 slug: namaste-bitches
 date: 2015-12-19 15:28:32 -0600
+category: 
 external-url: http://www.namastebitchestheseries.com/
 hash: 94fc8d7c50a198849c5bb73dd6133dd6
 year: 2015

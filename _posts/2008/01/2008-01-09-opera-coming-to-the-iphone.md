@@ -2,6 +2,7 @@
 title: "Opera coming to the iPhone"
 slug: opera-coming-to-the-iphone
 date: 2008-01-09 08:30:46 -0600
+category: 
 external-url: http://9to5mac.com/2008/01/09/opera-coming-to-the-iphone/
 hash: 54937b406d7a5e89f3c7ff66f9b810f0
 year: 2008

@@ -2,6 +2,7 @@
 title: "Whats yours stays yours"
 slug: whats-yours-stays-yours
 date: 2011-07-07 17:05:59 -0500
+category: 
 external-url: https://blog.dropbox.com/2011/07/what%e2%80%99s-yours-stays-yours/
 hash: 2ac8ccd6e16b0d27a7886487c53b4fda
 year: 2011

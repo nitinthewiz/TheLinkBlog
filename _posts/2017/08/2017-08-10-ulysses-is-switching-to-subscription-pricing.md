@@ -2,6 +2,7 @@
 title: "Ulysses Is Switching to Subscription Pricing"
 slug: ulysses-is-switching-to-subscription-pricing
 date: 2017-08-10 14:45:32 -0500
+category: 
 external-url: https://medium.com/building-ulysses/why-were-switching-ulysses-to-subscription-47f80b07a9cd
 hash: d507f2c93a20ced666829dc05bd635ae
 year: 2017

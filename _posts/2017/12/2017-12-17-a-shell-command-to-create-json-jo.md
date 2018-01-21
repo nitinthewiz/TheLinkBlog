@@ -2,6 +2,7 @@
 title: "A shell command to create JSON: jo"
 slug: a-shell-command-to-create-json-jo
 date: 2017-12-17 08:18:09 -0600
+category: 
 external-url: http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/
 hash: 5e7393deacc18508e6e992ad3975e583
 year: 2017

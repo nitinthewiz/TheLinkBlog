@@ -2,6 +2,7 @@
 title: "Haskell - HaskellWiki"
 slug: haskell-haskellwiki
 date: 2007-05-29 13:58:12 -0500
+category: 
 external-url: http://www.haskell.org/haskellwiki/Haskell
 hash: 2fb2ad30140cf3695a3a625850c7f25c
 year: 2007

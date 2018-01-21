@@ -2,6 +2,7 @@
 title: "Feed Wrangler"
 slug: feed-wrangler
 date: 2013-05-08 13:19:29 -0500
+category: 
 external-url: http://feedwrangler.net/welcome.html
 hash: d206a36c7888ed8b462d943638129793
 year: 2013

@@ -2,6 +2,7 @@
 title: "Sequoias Gospel of Startups More True Than Ever"
 slug: sequoias-gospel-of-startups-more-true-than-ever
 date: 2008-03-20 04:44:59 -0500
+category: 
 external-url: http://techcrunch.com/2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/
 hash: 825bf72edff29a15936cede5fdc22076
 year: 2008

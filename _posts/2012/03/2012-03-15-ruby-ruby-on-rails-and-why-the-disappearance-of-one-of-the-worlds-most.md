@@ -2,6 +2,7 @@
 title: "Ruby, Ruby on Rails, and why: The disappearance of one of the worlds most beloved computer programmers."
 slug: ruby-ruby-on-rails-and-why-the-disappearance-of-one-of-the-worlds-most
 date: 2012-03-15 18:07:00 -0500
+category: 
 external-url: http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html
 hash: 8a8fb8a7fc2ab1a2fe009c97c0778c1d
 year: 2012

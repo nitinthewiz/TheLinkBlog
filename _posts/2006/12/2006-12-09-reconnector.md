@@ -2,6 +2,7 @@
 title: "Reconnector"
 slug: reconnector
 date: 2006-12-09 12:30:48 -0600
+category: 
 external-url: http://www.reconnector.com/index.php?action=showProduct&productId=34
 hash: b653742fdc51fa4c60a89d3f51348632
 year: 2006

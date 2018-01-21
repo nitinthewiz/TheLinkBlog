@@ -2,6 +2,7 @@
 title: "Bluehue on Vimeo"
 slug: bluehue-on-vimeo
 date: 2015-11-21 07:59:54 -0600
+category: 
 external-url: https://vimeo.com/134002940
 hash: 6a0a58fc63000cfc8e12fd3e370a4495
 year: 2015

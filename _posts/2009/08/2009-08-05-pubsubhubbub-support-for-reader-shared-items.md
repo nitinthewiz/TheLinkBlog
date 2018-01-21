@@ -2,6 +2,7 @@
 title: "PubSubHubbub support for Reader shared items"
 slug: pubsubhubbub-support-for-reader-shared-items
 date: 2009-08-05 22:51:10 -0500
+category: 
 external-url: http://googlereader.blogspot.com/2009/08/pubsubhubbub-support-for-reader-shared.html
 hash: 252648231de5981281ce581202a13621
 year: 2009

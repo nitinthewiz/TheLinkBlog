@@ -2,6 +2,7 @@
 title: "Sublime Tutor - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3"
 slug: sublime-tutor-an-interactive-in-editor-keyboard-shortcuts-tutorial-for
 date: 2017-01-18 11:47:18 -0600
+category: 
 external-url: https://sublimetutor.com/
 hash: 2bfa65cc484ad92bb9736449cad851c2
 year: 2017

@@ -2,6 +2,7 @@
 title: "Going beyond the basic checklist - Next Action Associates"
 slug: going-beyond-the-basic-checklist-next-action-associates
 date: 2017-07-12 06:39:45 -0500
+category: 
 external-url: http://www.next-action.eu/2017/07/12/going-beyond-basic-checklist/
 hash: f39e22cd9f47b4513144146a761e6737
 year: 2017

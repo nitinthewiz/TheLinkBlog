@@ -2,6 +2,7 @@
 title: "Building Real Software: Towards Compliance as Code"
 slug: building-real-software-towards-compliance-as-code
 date: 2015-05-04 11:27:43 -0500
+category: 
 external-url: http://swreflections.blogspot.co.uk/2015/04/towards-compliance-as-code.html
 hash: 127b57ded7e4e89eb0448647c7d0ec27
 year: 2015

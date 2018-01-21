@@ -2,6 +2,7 @@
 title: "Building with HTML5 Tech Talk"
 slug: building-with-html5-tech-talk
 date: 2011-01-19 13:00:00 -0600
+category: 
 external-url: http://developers.facebook.com/blog/post/448
 hash: 86452f5b78e270533bc70fe39828c4a9
 year: 2011

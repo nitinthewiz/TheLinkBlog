@@ -2,6 +2,7 @@
 title: "Announcing 37signals' new book deal"
 slug: announcing-37signals-new-book-deal
 date: 2008-12-02 09:23:14 -0600
+category: 
 external-url: http://productblogarchive.37signals.com/products/2008/12/announcing-37signals-new-book-deal-.html
 hash: 3de29af032484ee9156bb1905e4e9eed
 year: 2008

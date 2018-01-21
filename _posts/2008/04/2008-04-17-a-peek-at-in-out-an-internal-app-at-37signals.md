@@ -2,6 +2,7 @@
 title: "A peek at In/Out, an internal app at 37signals"
 slug: a-peek-at-in-out-an-internal-app-at-37signals
 date: 2008-04-17 14:16:00 -0500
+category: 
 external-url: http://www.37signals.com/svn/posts/976-a-peek-at-inout-an-internal-app-at-37signals
 hash: 135199da92f9dac2c1835f8bb82c23d5
 year: 2008

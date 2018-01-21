@@ -2,6 +2,7 @@
 title: "Essential Resources for Google Maps"
 slug: essential-resources-for-google-maps
 date: 2005-08-18 06:55:12 -0500
+category: 
 external-url: http://www.lifehack.org/articles/lifehack/essential-resources-for-google-maps.html
 hash: 98fbb0fb385732f4a5dc8a8c138f8c64
 year: 2005

@@ -2,6 +2,7 @@
 title: "The Slow Web (Jack Cheng)"
 slug: the-slow-web-jack-cheng
 date: 2012-06-16 19:01:04 -0500
+category: 
 external-url: http://jackcheng.com/post/25160553986/the-slow-web
 hash: 6ce09232469c48e16fcf99ce4f9d8f14
 year: 2012

@@ -2,6 +2,7 @@
 title: "Bush's Saturday Radio Address"
 slug: bush-s-saturday-radio-address
 date: 2008-06-07 21:05:04 -0500
+category: 
 external-url: http://www.dailykos.com/story/2008/06/07/531782/-Bush-s-Saturday-Radio-Address
 hash: 061627f4e5380bc1c11d9eb364f1f21b
 year: 2008

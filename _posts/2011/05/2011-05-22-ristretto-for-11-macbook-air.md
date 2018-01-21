@@ -2,6 +2,7 @@
 title: "Ristretto for 11 MacBook Air"
 slug: ristretto-for-11-macbook-air
 date: 2011-05-22 21:53:13 -0500
+category: 
 external-url: http://www.tombihn.com/PROD/TB0221.html
 hash: b68fdc835f543faea0983de8f8ebeadc
 year: 2011

@@ -2,6 +2,7 @@
 title: "Confessions of a Tea Party Casualty"
 slug: confessions-of-a-tea-party-casualty
 date: 2010-08-06 12:11:35 -0500
+category: 
 external-url: http://www.motherjones.com/politics/2010/08/bob-inglis-tea-party-casualty
 hash: 819b5cfcd027d02dc087f01a27eb4eee
 year: 2010

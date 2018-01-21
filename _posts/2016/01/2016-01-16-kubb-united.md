@@ -2,6 +2,7 @@
 title: "Kubb United"
 slug: kubb-united
 date: 2016-01-16 09:22:31 -0600
+category: 
 external-url: http://kubbunited.com/
 hash: f6d97a7d9f943cbee05643c621849502
 year: 2016

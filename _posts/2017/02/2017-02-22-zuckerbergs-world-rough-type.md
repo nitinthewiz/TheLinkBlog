@@ -2,6 +2,7 @@
 title: "Zuckerberg’s world | ROUGH TYPE"
 slug: zuckerbergs-world-rough-type
 date: 2017-02-22 06:50:05 -0600
+category: 
 external-url: http://www.roughtype.com/?p=7651
 hash: f3d1b3ff4971dd0d3a66895241872d78
 year: 2017

@@ -2,6 +2,7 @@
 title: "2018 and the Internet: our predictions"
 slug: 2018-and-the-internet-our-predictions
 date: 2017-12-29 15:59:59 -0600
+category: 
 external-url: https://blog.cloudflare.com/our-predictions-for-2018/
 hash: b9ff258f7561f630805ad53aca8185d4
 year: 2017

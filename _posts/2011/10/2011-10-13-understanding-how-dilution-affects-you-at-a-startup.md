@@ -2,6 +2,7 @@
 title: "Understanding How Dilution Affects You At A Startup"
 slug: understanding-how-dilution-affects-you-at-a-startup
 date: 2011-10-13 13:38:04 -0500
+category: 
 external-url: http://techcrunch.com/2011/10/13/understanding-how-dilution-affects-you-at-a-startup/
 hash: 65eee74c524a2353fa5b6a7b534714b7
 year: 2011

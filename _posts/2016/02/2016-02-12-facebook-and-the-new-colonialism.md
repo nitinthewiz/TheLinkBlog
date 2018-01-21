@@ -2,6 +2,7 @@
 title: "Facebook and the New Colonialism"
 slug: facebook-and-the-new-colonialism
 date: 2016-02-12 23:25:09 -0600
+category: 
 external-url: http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
 hash: ec088750439b9deb27cc73ef154ee896
 year: 2016

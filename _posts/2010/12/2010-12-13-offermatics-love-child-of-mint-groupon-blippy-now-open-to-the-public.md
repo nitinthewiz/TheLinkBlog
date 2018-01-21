@@ -2,6 +2,7 @@
 title: "Offermatic’s Love Child Of Mint, Groupon & Blippy Now Open To The Public"
 slug: offermatics-love-child-of-mint-groupon-blippy-now-open-to-the-public
 date: 2010-12-13 16:14:20 -0600
+category: 
 external-url: http://techcrunch.com/2010/12/08/offermatics-love-child-of-mint-groupon-blippy-now-open-to-the-public/
 hash: 5ccce51cafae090dfb842b40a90cacbe
 year: 2010

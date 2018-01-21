@@ -2,6 +2,7 @@
 title: "ShopSocially Launches Its Platform, Scores An Extra $550K In Funding"
 slug: shopsocially-launches-its-platform-scores-an-extra-550k-in-funding
 date: 2012-06-26 14:25:30 -0500
+category: 
 external-url: http://techcrunch.com/2012/06/22/shopsocially-launches-its-platform-scores-an-extra-550k-in-funding/
 hash: 7795edb0b5602dff180b6dc144d6b86f
 year: 2012

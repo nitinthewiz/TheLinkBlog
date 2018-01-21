@@ -2,6 +2,7 @@
 title: "Editor and Publisher"
 slug: editor-and-publisher
 date: 2009-05-26 09:30:10 -0500
+category: 
 external-url: http://www.google.com/reader/about/
 hash: 4ca46b64dd2809dbf02afe9da4592318
 year: 2009

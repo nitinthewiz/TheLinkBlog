@@ -2,6 +2,7 @@
 title: "HauteLook finds success with customized multichannel consumer experience"
 slug: hautelook-finds-success-with-customized-multichannel-consumer
 date: 2011-03-18 14:28:25 -0500
+category: 
 external-url: https://nrf.com/news/hautelook-finds-success-customized-multichannel-consumer-experience
 hash: 01310b49fdc275e25acfcde133509881
 year: 2011

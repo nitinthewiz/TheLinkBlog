@@ -2,6 +2,7 @@
 title: "Sweep the Sleaze"
 slug: sweep-the-sleaze
 date: 2012-05-30 20:34:36 -0500
+category: 
 external-url: http://ia.net/blog/sweep-the-sleaze/
 hash: 1b676f6a06b564ab60be0fd5b0017b3b
 year: 2012

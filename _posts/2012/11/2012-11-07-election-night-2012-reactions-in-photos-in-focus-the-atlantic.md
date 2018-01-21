@@ -2,6 +2,7 @@
 title: "Election Night 2012: Reactions in Photos - In Focus - The Atlantic"
 slug: election-night-2012-reactions-in-photos-in-focus-the-atlantic
 date: 2012-11-07 17:10:44 -0600
+category: 
 external-url: http://www.theatlantic.com/infocus/2012/11/election-night-2012-reactions-in-photos/100401/
 hash: 439301d659849f3996d09b4fdbe945f7
 year: 2012

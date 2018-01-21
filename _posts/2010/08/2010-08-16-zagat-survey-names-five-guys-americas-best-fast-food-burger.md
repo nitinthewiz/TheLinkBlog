@@ -2,6 +2,7 @@
 title: "Zagat Survey Names Five Guys Americas Best Fast-Food Burger"
 slug: zagat-survey-names-five-guys-americas-best-fast-food-burger
 date: 2010-08-16 16:58:52 -0500
+category: 
 external-url: http://www.today.com/id/38694233/ns/today-today_food/t/elite-eats-survey-names-americas-favorite-burger/
 hash: 2b139e4d490589100086390b0710a75c
 year: 2010

@@ -2,6 +2,7 @@
 title: "The Culture Map"
 slug: the-culture-map
 date: 2017-04-11 09:41:12 -0500
+category: 
 external-url: http://erinmeyer.com/tools/culture-map-premium/?r=595
 hash: c49b6dffac36cdc99c85b3a6f024c794
 year: 2017

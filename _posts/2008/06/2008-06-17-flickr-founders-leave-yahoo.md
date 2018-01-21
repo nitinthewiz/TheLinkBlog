@@ -2,6 +2,7 @@
 title: "Flickr Founders Leave Yahoo"
 slug: flickr-founders-leave-yahoo
 date: 2008-06-17 21:10:31 -0500
+category: 
 external-url: http://gigaom.com/2008/06/18/419-flickr-founders-leave-yahoo/
 hash: 8c29eaa96f7fc94001b18c92d23fadb8
 year: 2008

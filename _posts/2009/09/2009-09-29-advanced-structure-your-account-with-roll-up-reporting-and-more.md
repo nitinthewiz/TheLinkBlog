@@ -2,6 +2,7 @@
 title: "Advanced: Structure Your Account With Roll Up Reporting And More"
 slug: advanced-structure-your-account-with-roll-up-reporting-and-more
 date: 2009-09-29 23:30:27 -0500
+category: 
 external-url: http://analytics.blogspot.com/2009/09/advanced-structure-your-account-with.html
 hash: 8ecfe64a9e715d074c0a33596738982c
 year: 2009

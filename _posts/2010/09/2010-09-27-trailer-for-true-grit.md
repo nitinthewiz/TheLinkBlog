@@ -2,6 +2,7 @@
 title: "Trailer for ‘True Grit’"
 slug: trailer-for-true-grit
 date: 2010-09-27 19:06:16 -0500
+category: 
 external-url: http://trailers.apple.com/trailers/paramount/truegrit/
 hash: e20236ddf725facb193e176b7c680062
 year: 2010

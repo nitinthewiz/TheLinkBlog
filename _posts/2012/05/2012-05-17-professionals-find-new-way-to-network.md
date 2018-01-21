@@ -2,6 +2,7 @@
 title: "Professionals find new way to network"
 slug: professionals-find-new-way-to-network
 date: 2012-05-17 23:30:07 -0500
+category: 
 external-url: http://www.startribune.com/lifestyle/relationship/151729525.html
 hash: 24df7d2a503946e78481c6ea3efda8ac
 year: 2012

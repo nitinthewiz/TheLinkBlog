@@ -2,6 +2,7 @@
 title: "A Darwinian theory of beauty"
 slug: a-darwinian-theory-of-beauty
 date: 2010-11-16 19:42:42 -0600
+category: 
 external-url: http://radar.oreilly.com/2010/11/a-darwinian-theory-of-beauty.html
 hash: 0e99565f3424d6933828073ae463a192
 year: 2010

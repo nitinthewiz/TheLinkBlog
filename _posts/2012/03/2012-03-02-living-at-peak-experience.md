@@ -2,6 +2,7 @@
 title: "Living at Peak Experience"
 slug: living-at-peak-experience
 date: 2012-03-02 21:23:10 -0600
+category: 
 external-url: http://siberianfruit.com/post/17278713380/living-at-peak-experience
 hash: b02d6196df1cb4d1df6d5e1d2ddf55f0
 year: 2012

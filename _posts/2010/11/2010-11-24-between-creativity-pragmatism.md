@@ -2,6 +2,7 @@
 title: "Between Creativity & Pragmatism"
 slug: between-creativity-pragmatism
 date: 2010-11-24 16:32:28 -0600
+category: 
 external-url: http://www.josephrueter.com
 hash: b48fea1ca601f71696064342eeb60ca3
 year: 2010

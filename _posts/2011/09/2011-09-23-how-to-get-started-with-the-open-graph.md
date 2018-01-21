@@ -2,6 +2,7 @@
 title: "How To: Get Started with the Open Graph"
 slug: how-to-get-started-with-the-open-graph
 date: 2011-09-23 05:30:00 -0500
+category: 
 external-url: https://developers.facebook.com/blog/post/564/
 hash: 4d7ae521ae168c178986a02a4ba6e944
 year: 2011

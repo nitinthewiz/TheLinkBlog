@@ -2,6 +2,7 @@
 title: "Teaching with WordPress just got easy - WooThemes"
 slug: teaching-with-wordpress-just-got-easy-woothemes
 date: 2013-06-01 16:38:40 -0500
+category: 
 external-url: http://www.woothemes.com/2013/01/teaching-with-wordpress-just-got-easy/
 hash: 695b31ec5daf2164975b986f7d481824
 year: 2013

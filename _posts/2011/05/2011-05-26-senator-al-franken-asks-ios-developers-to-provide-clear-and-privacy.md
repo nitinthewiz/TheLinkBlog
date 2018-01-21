@@ -2,6 +2,7 @@
 title: "Senator Al Franken asks iOS developers to provide clear and understandable privacy policies"
 slug: senator-al-franken-asks-ios-developers-to-provide-clear-and-privacy
 date: 2011-05-26 23:37:51 -0500
+category: 
 external-url: http://www.tuaw.com/2011/05/26/senator-al-franken-asks-ios-developers-to-provide-clear-and-und/
 hash: b1e4b3ef72a3565defcd2bbc0aec1332
 year: 2011

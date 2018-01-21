@@ -2,6 +2,7 @@
 title: "VeganYumYum » Easy Weekend Pancakes"
 slug: veganyumyum-easy-weekend-pancakes
 date: 2012-02-04 08:21:08 -0600
+category: 
 external-url: http://veganyumyum.com/2008/02/easy-weekend-pancakes/
 hash: e114ef4f94b3ad34508b6219ffa9eb48
 year: 2012

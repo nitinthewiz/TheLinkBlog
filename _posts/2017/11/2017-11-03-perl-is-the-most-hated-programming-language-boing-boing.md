@@ -2,6 +2,7 @@
 title: "Perl is the most hated programming language / Boing Boing"
 slug: perl-is-the-most-hated-programming-language-boing-boing
 date: 2017-11-03 06:49:44 -0500
+category: 
 external-url: https://boingboing.net/2017/10/31/perl-is-the-most-hated-program.html
 hash: 65f078c211640d68afa7b84e84b4ebde
 year: 2017

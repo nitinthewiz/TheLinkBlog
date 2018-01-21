@@ -2,6 +2,7 @@
 title: "iPhone X: Some Early Impressions – Om Malik"
 slug: iphone-x-some-early-impressions-om-malik
 date: 2017-11-04 09:18:15 -0500
+category: 
 external-url: https://om.co/2017/11/03/iphone-x-some-early-impressions/
 hash: d45207c43ef298afaed182886aa87207
 year: 2017

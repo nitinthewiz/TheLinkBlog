@@ -2,6 +2,7 @@
 title: "bookdown: Easy Book Publishing with R Markdown"
 slug: bookdown-easy-book-publishing-with-r-markdown
 date: 2017-02-22 06:34:16 -0600
+category: 
 external-url: https://bookdown.org/
 hash: 6e7388800305ea961c5c5e928cdd585c
 year: 2017

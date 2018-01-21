@@ -2,6 +2,7 @@
 title: "RSL error 1 of 1 / error #2048 and Vista"
 slug: rsl-error-1-of-1-error-2048-and-vista
 date: 2010-12-14 13:58:48 -0600
+category: 
 external-url: http://cloudnebula.blogspot.com/2009/02/rsl-error-1-of-1-error-2048-and-vista.html
 hash: a3214095c06546781ba8077796357743
 year: 2010

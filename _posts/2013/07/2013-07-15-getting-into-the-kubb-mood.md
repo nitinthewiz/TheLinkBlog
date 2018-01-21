@@ -2,6 +2,7 @@
 title: "Getting into the kubb mood"
 slug: getting-into-the-kubb-mood
 date: 2013-07-15 16:30:16 -0500
+category: 
 external-url: http://www.leadertelegram.com/news/front_page/article_2c73aa72-ec31-11e2-994d-0019bb2963f4.html
 hash: 533cc7326d452846669970eccc31be8d
 year: 2013

@@ -2,6 +2,7 @@
 title: "Now playing on iTunes U: 60 Second Lectures"
 slug: now-playing-on-itunes-u-60-second-lectures
 date: 2008-07-25 11:12:20 -0500
+category: 
 external-url: https://itunes.apple.com/institution/university-of-pennsylvania/id431245258
 hash: 3a8c4b0b942802d9d44c8aa0e1c7ad08
 year: 2008

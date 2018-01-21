@@ -2,6 +2,7 @@
 title: "Four Interactions That Could Have Gone Better - Bridget Kromhout"
 slug: four-interactions-that-could-have-gone-better-bridget-kromhout
 date: 2014-09-23 07:35:28 -0500
+category: 
 external-url: http://bridgetkromhout.com/blog/2014/09/22/four-interactions-that-could-have-gone-better/
 hash: 7e5df8ed3994676a31e37b84afa1e9cb
 year: 2014

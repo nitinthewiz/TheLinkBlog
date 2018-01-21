@@ -2,6 +2,7 @@
 title: "Four New Types of CIO for the Future"
 slug: four-new-types-of-cio-for-the-future
 date: 2011-03-03 19:15:09 -0600
+category: 
 external-url: http://readwrite.com/2011/03/03/four-new-types-of-cio-for-the
 hash: 081db221527ac4427e0dae769861956f
 year: 2011

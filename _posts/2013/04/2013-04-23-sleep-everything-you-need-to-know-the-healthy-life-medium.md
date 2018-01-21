@@ -2,6 +2,7 @@
 title: "Sleep: Everything You Need To Know The Healthy Life Medium"
 slug: sleep-everything-you-need-to-know-the-healthy-life-medium
 date: 2013-04-23 20:41:57 -0500
+category: 
 external-url: https://medium.com/the-healthy-life/b65f8e19ed18
 hash: 89ac4684bbb7f7aab9b0ac4450ac7df5
 year: 2013

@@ -2,6 +2,7 @@
 title: "Kitchen Soap – Multiple Perspectives On Technical Problems and Solutions"
 slug: kitchen-soap-multiple-perspectives-on-technical-problems-and-solutions
 date: 2017-09-14 03:37:09 -0500
+category: 
 external-url: https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/
 hash: cc9777f885f75146ecf8eac7368e8297
 year: 2017

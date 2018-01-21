@@ -2,6 +2,7 @@
 title: "Detectify - Go hack yourself!"
 slug: detectify-go-hack-yourself
 date: 2014-04-17 21:37:07 -0500
+category: 
 external-url: https://detectify.com/
 hash: c955ec04b1a728a2e7733da1a7fa083c
 year: 2014

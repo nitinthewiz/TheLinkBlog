@@ -2,6 +2,7 @@
 title: "How to Choose Categories for Your Blog"
 slug: how-to-choose-categories-for-your-blog
 date: 2008-10-02 14:01:44 -0500
+category: 
 external-url: http://www.problogger.net/archives/2008/10/03/how-to-choose-categories-for-your-blog/
 hash: 7595067a73f0a5a27e808bc164e82ae4
 year: 2008

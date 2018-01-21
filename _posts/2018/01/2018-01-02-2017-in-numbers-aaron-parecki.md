@@ -2,6 +2,7 @@
 title: "2017 in Numbers • Aaron Parecki"
 slug: 2017-in-numbers-aaron-parecki
 date: 2018-01-02 17:39:46 -0600
+category: 
 external-url: https://aaronparecki.com/2017/12/31/11/2017-in-numbers
 hash: ba425fd27aae5d34668d97de2e8e3246
 year: 2018

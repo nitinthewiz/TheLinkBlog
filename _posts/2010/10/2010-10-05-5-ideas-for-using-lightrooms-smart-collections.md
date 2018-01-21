@@ -2,6 +2,7 @@
 title: "5 Ideas for Using Lightroom’s Smart Collections"
 slug: 5-ideas-for-using-lightrooms-smart-collections
 date: 2010-10-05 23:00:05 -0500
+category: 
 external-url: http://lightroomkillertips.com/2010/5-ideas-for-using-lightrooms-smart-collections/
 hash: 57692b34da0ea15f1be13163999e2cfb
 year: 2010

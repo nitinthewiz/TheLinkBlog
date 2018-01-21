@@ -2,6 +2,7 @@
 title: "How To Opt Out of Receiving Facebook Ads Based on Your Real-Life Shopping Activity"
 slug: how-to-opt-out-of-receiving-facebook-ads-based-on-your-real-life
 date: 2013-03-08 15:01:06 -0600
+category: 
 external-url: https://www.eff.org/deeplinks/2013/02/howto-opt-out-databrokers-showing-your-targeted-advertisements-facebook
 hash: 654d1b960b8e487e41a8cb5223f6c93b
 year: 2013

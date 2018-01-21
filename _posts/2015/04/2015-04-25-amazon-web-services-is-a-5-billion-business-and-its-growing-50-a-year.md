@@ -2,6 +2,7 @@
 title: "Amazon Web Services is a $5 billion business, and it’s growing 50% a year"
 slug: amazon-web-services-is-a-5-billion-business-and-its-growing-50-a-year
 date: 2015-04-25 23:15:16 -0500
+category: 
 external-url: http://qz.com/390191/amazon-web-services-is-a-5-billion-business-and-its-growing-50-a-year/
 hash: 38221a63d4484f310dd0303e70b0a4c5
 year: 2015

@@ -2,6 +2,7 @@
 title: "Marvel to unleash digital comic books on iTunes"
 slug: marvel-to-unleash-digital-comic-books-on-itunes
 date: 2009-02-10 22:34:15 -0600
+category: 
 external-url: http://www.appleinsider.com/articles/09/02/10/marvel_to_unleash_digital_comic_books_on_itunes.html
 hash: 152b4f563fef370c74872527149bbbdf
 year: 2009

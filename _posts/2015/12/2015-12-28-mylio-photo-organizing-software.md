@@ -2,6 +2,7 @@
 title: "Mylio Photo Organizing Software"
 slug: mylio-photo-organizing-software
 date: 2015-12-28 21:22:34 -0600
+category: 
 external-url: http://mylio.com/
 hash: 1d7fdfb2c25616ae2e85e427fe61075a
 year: 2015

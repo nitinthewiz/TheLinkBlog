@@ -2,6 +2,7 @@
 title: "Q - A Data Language"
 slug: q-a-data-language
 date: 2014-03-05 21:08:59 -0600
+category: 
 external-url: http://www.q-lang.io/
 hash: 8b39c0103972771d956592c1ffb53a54
 year: 2014

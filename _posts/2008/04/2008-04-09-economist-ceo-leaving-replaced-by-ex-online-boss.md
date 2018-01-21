@@ -2,6 +2,7 @@
 title: "Economist CEO Leaving, Replaced By Ex Online Boss"
 slug: economist-ceo-leaving-replaced-by-ex-online-boss
 date: 2008-04-09 14:38:26 -0500
+category: 
 external-url: https://gigaom.com/2008/04/09/419-industry-moves-economist-ceo-leaving-replaced-by-ex-online-boss/
 hash: 34590675178fde2d6c8f5228773492f1
 year: 2008

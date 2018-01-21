@@ -2,6 +2,7 @@
 title: "Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster – Mozilla Hacks – the Web developer blog"
 slug: entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-to
 date: 2017-11-13 20:22:55 -0600
+category: 
 external-url: https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/
 hash: 1c38a16ce01279ce23536a78b1251137
 year: 2017

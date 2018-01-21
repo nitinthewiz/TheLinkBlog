@@ -2,6 +2,7 @@
 title: "One-on-one meetings are underrated, whereas group meetings waste time | Smash Company"
 slug: one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time
 date: 2017-12-29 14:31:21 -0600
+category: 
 external-url: http://www.smashcompany.com/business/one-on-one-meetings-are-underrated-whereas-group-meetings-waste-time
 hash: f708dff520ded16ad5e38f30abb1fee7
 year: 2017

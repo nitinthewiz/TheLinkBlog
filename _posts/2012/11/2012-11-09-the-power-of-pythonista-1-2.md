@@ -2,6 +2,7 @@
 title: "The Power of Pythonista 1.2"
 slug: the-power-of-pythonista-1-2
 date: 2012-11-09 14:44:57 -0600
+category: 
 external-url: http://www.macdrifter.com/2012/11/the-power-of-pythonista-12.html
 hash: ac81ec6a5c1197549eb1ce343bc0f208
 year: 2012

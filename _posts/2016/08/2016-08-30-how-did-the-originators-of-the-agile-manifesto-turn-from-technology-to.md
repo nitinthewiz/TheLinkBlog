@@ -2,6 +2,7 @@
 title: "How Did the Originators of the Agile Manifesto Turn from Technology Leaders to Leaders of a Cultural Change?"
 slug: how-did-the-originators-of-the-agile-manifesto-turn-from-technology-to
 date: 2016-08-30 08:52:19 -0500
+category: 
 external-url: https://www.infoq.com/articles/manifesto-originators
 hash: ca1f39327ec5811dd5000e14c2a54968
 year: 2016

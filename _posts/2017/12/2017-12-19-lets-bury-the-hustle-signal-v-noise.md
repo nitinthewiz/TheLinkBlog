@@ -2,6 +2,7 @@
 title: "Let’s bury the hustle – Signal v. Noise"
 slug: lets-bury-the-hustle-signal-v-noise
 date: 2017-12-19 20:34:05 -0600
+category: 
 external-url: https://m.signalvnoise.com/lets-bury-the-hustle-9d8aee8ffe1a
 hash: 77a8ee3b94c943e8e032ab2b7b5e1e9e
 year: 2017

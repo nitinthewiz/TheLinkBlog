@@ -2,6 +2,7 @@
 title: "It's Not the News. It's the Packaging"
 slug: it-s-not-the-news-it-s-the-packaging
 date: 2009-04-19 23:28:44 -0500
+category: 
 external-url: http://recoveringjournalist.typepad.com/recovering_journalist/2009/04/its-not-the-news-its-the-packaging.html
 hash: bd6ec5ea9a48d75e677c263843d83ead
 year: 2009

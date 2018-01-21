@@ -2,6 +2,7 @@
 title: "New – Amazon Elasticsearch Service | AWS Official Blog"
 slug: new-amazon-elasticsearch-service-aws-official-blog
 date: 2015-10-04 20:43:35 -0500
+category: 
 external-url: https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
 hash: c8a442df75fea61df1e76d81e5f02447
 year: 2015

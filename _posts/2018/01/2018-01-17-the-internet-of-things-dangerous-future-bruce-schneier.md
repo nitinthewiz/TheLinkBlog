@@ -2,6 +2,7 @@
 title: "The Internet of Things' Dangerous Future: Bruce Schneier"
 slug: the-internet-of-things-dangerous-future-bruce-schneier
 date: 2018-01-17 19:28:40 -0600
+category: Security
 external-url: http://nymag.com/selectall/2017/01/the-internet-of-things-dangerous-future-bruce-schneier.html
 hash: 27161fc6cee16bf4aaecb50d8074378b
 year: 2018

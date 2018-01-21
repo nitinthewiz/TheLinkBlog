@@ -2,6 +2,7 @@
 title: "URL Shortener tr.im to Discontinue Service"
 slug: url-shortener-tr-im-to-discontinue-service
 date: 2009-08-10 11:01:38 -0500
+category: 
 external-url: https://daringfireball.net/linked/2009/08/10/trim
 hash: 0365267a4340e156fa41b6582962730d
 year: 2009

@@ -2,6 +2,7 @@
 title: "Dimmable Bulbs"
 slug: dimmable-bulbs
 date: 2007-05-11 17:37:54 -0500
+category: 
 external-url: http://www.energyfederation.org/consumer/default.php/cPath/2050_25_44
 hash: 78d625d16609ed984907254ba4b22463
 year: 2007

@@ -2,6 +2,7 @@
 title: "The Tragedy of Sarah Palin"
 slug: the-tragedy-of-sarah-palin
 date: 2011-05-13 15:32:37 -0500
+category: 
 external-url: http://www.theatlantic.com/magazine/archive/2011/06/the-tragedy-of-sarah-palin/308492/
 hash: f94b37e7aab95222ca9556c624480947
 year: 2011

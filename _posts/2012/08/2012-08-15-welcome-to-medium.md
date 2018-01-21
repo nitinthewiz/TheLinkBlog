@@ -2,6 +2,7 @@
 title: "Welcome to Medium"
 slug: welcome-to-medium
 date: 2012-08-15 22:02:05 -0500
+category: 
 external-url: https://medium.com/about/9e53ca408c48
 hash: 40f7d5ccd4c34d4890711294231c3791
 year: 2012

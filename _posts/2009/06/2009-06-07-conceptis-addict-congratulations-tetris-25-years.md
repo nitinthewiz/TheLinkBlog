@@ -2,6 +2,7 @@
 title: "Conceptis addict: Congratulations Tetris -25 years"
 slug: conceptis-addict-congratulations-tetris-25-years
 date: 2009-06-07 07:29:49 -0500
+category: 
 external-url: http://www.puzzlingqueen.com/2009/06/congratulations-tetris-25-years.html
 hash: 7cb0c2ac16e53688924f8a472d8dc04d
 year: 2009

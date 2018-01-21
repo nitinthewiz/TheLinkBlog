@@ -2,6 +2,7 @@
 title: "change.gov set free"
 slug: change-gov-set-free
 date: 2008-12-01 06:33:57 -0600
+category: 
 external-url: http://lessig.org/blog/2008/12/changegov_set_free.html
 hash: 9bfd8c092238f1f9034680556ef5e05d
 year: 2008

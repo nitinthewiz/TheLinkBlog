@@ -2,6 +2,7 @@
 title: "Retail Info Systems 2013 Review & Outlook"
 slug: retail-info-systems-2013-review-outlook
 date: 2012-12-10 15:12:40 -0600
+category: 
 external-url: http://risnews.edgl.com/retail-trends/2013-Review---Outlook83548
 hash: df29c190450e657f9b742dea37d2f66c
 year: 2012

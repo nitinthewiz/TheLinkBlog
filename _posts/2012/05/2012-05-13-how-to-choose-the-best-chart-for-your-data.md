@@ -2,6 +2,7 @@
 title: "How to Choose the Best Chart for Your Data"
 slug: how-to-choose-the-best-chart-for-your-data
 date: 2012-05-13 21:40:46 -0500
+category: 
 external-url: http://lifehacker.com/5909501/how-to-choose-the-best-chart-for-your-data
 hash: 8131877374261df9077d037d891a52bd
 year: 2012

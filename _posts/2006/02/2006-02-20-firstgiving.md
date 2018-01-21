@@ -2,6 +2,7 @@
 title: "Firstgiving"
 slug: firstgiving
 date: 2006-02-20 06:28:36 -0600
+category: 
 external-url: http://www.firstgiving.com
 hash: 5da14d2991e8dcdcdf6bf4222ee771e2
 year: 2006

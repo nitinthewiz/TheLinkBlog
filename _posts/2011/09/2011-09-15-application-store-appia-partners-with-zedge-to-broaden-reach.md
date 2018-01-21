@@ -2,6 +2,7 @@
 title: "Application Store Appia Partners With Zedge to Broaden Reach"
 slug: application-store-appia-partners-with-zedge-to-broaden-reach
 date: 2011-09-15 12:15:00 -0500
+category: 
 external-url: http://readwrite.com/2011/09/15/application-store-appia-partne
 hash: 4fdaba10e54e786d85a0ae74aa237e67
 year: 2011

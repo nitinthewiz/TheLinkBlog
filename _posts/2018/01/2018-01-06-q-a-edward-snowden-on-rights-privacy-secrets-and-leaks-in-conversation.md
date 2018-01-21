@@ -2,6 +2,7 @@
 title: "Q&A: Edward Snowden on rights, privacy, secrets and leaks in conversation with Jimmy Wales – Wikitribune"
 slug: q-a-edward-snowden-on-rights-privacy-secrets-and-leaks-in-conversation
 date: 2018-01-06 23:07:19 -0600
+category: 
 external-url: https://www.wikitribune.com/story/2018/01/05/free_speech/qa-edward-snowden-on-rights-privacy-secrets-and-leaks-in-conversation-with-jimmy-wales/26810/
 hash: 5795be55a939318b98f181d11cdb5ae7
 year: 2018

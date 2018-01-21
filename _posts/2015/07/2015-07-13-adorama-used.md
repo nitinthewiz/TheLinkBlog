@@ -2,6 +2,7 @@
 title: "Adorama Used"
 slug: adorama-used
 date: 2015-07-13 06:45:43 -0500
+category: 
 external-url: https://www.adorama.com/pages/usedQuote
 hash: b76e89763699ae9edad8a500308da707
 year: 2015

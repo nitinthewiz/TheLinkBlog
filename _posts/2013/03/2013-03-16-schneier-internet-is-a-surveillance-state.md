@@ -2,6 +2,7 @@
 title: "Schneier: Internet is a surveillance state"
 slug: schneier-internet-is-a-surveillance-state
 date: 2013-03-16 20:48:22 -0500
+category: 
 external-url: http://www.cnn.com/2013/03/16/opinion/schneier-internet-surveillance/index.html
 hash: 9fefc27d7681b4893d5aa2d648f052df
 year: 2013

@@ -2,6 +2,7 @@
 title: "Home Screens as Therapy — CJ Chilvers"
 slug: home-screens-as-therapy-cj-chilvers
 date: 2017-02-02 14:34:07 -0600
+category: 
 external-url: http://cjchilvers.com/blog/home-screens
 hash: 3500a31914d0f16d794444a0f73f1510
 year: 2017

@@ -2,6 +2,7 @@
 title: "Cacti Data Queries"
 slug: cacti-data-queries
 date: 2010-12-09 12:52:33 -0600
+category: 
 external-url: http://docs.cacti.net/manual:087:3a_advanced_topics.3_data_queries
 hash: ae22bd702c471c47b782f716786746ff
 year: 2010

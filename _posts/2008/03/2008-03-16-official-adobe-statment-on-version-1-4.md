@@ -2,6 +2,7 @@
 title: "Official Adobe Statment on version 1.4"
 slug: official-adobe-statment-on-version-1-4
 date: 2008-03-16 20:10:00 -0500
+category: 
 external-url: http://lightroom-blog.com/2008/03/17/official-adobe-statment-on-version-1-4/
 hash: b8f613376cff1c9a84bf2f36c48fa69f
 year: 2008

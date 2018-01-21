@@ -2,6 +2,7 @@
 title: "All Things Distributed"
 slug: all-things-distributed
 date: 2007-07-13 09:57:43 -0500
+category: 
 external-url: http://www.allthingsdistributed.com/
 hash: fd881202534238c4ef4960a87f207258
 year: 2007

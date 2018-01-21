@@ -2,6 +2,7 @@
 title: "Review: Canon EOS M3"
 slug: review-canon-eos-m3
 date: 2015-04-16 12:30:27 -0500
+category: 
 external-url: http://www.canonrumors.com/2015/04/review-canon-eos-m3/
 hash: 5216072e95d90175a2d87ea15e4ae600
 year: 2015

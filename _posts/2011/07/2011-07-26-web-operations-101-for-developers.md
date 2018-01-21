@@ -2,6 +2,7 @@
 title: "Web Operations 101 For Developers"
 slug: web-operations-101-for-developers
 date: 2011-07-26 22:53:44 -0500
+category: 
 external-url: http://www.paperplanes.de/2011/7/25/web_operations_101_for_developers.html
 hash: a1fc2e4a877eb1a797808e573040976a
 year: 2011

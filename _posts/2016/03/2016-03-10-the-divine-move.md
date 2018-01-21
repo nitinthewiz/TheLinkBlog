@@ -2,6 +2,7 @@
 title: "The Divine Move"
 slug: the-divine-move
 date: 2016-03-10 19:56:18 -0600
+category: 
 external-url: https://medium.com/@rafael_j/the-divine-move-a444229c2e64#.6tyr5agyp
 hash: 22f853b648a82f0a61b423b2a0d58664
 year: 2016

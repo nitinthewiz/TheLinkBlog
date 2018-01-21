@@ -2,6 +2,7 @@
 title: "PledgePage"
 slug: pledgepage
 date: 2006-02-20 06:30:35 -0600
+category: 
 external-url: http://www.pledgepage.org/
 hash: 107eafe417d157cec1a5bdec2e0d8e48
 year: 2006

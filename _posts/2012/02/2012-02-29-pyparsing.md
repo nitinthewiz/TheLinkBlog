@@ -2,6 +2,7 @@
 title: "pyparsing"
 slug: pyparsing
 date: 2012-02-29 21:26:59 -0600
+category: 
 external-url: http://pyparsing.wikispaces.com/
 hash: 074b7718304d641e7d5ac0e431fdca43
 year: 2012

@@ -2,6 +2,7 @@
 title: "Web Served 7: Wiki wiki wiki! - Ars Technica"
 slug: web-served-7-wiki-wiki-wiki-ars-technica
 date: 2013-02-18 21:09:56 -0600
+category: 
 external-url: http://arstechnica.com/information-technology/2013/02/web-served-7-wiki-wiki-wiki/
 hash: e3a738591d43d8256b7dfaaf37aa2712
 year: 2013

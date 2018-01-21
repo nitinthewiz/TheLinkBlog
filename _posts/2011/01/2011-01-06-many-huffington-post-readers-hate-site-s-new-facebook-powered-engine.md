@@ -2,6 +2,7 @@
 title: "Many Huffington Post Readers Hate Site's New Facebook-Powered Recommendation Engine"
 slug: many-huffington-post-readers-hate-site-s-new-facebook-powered-engine
 date: 2011-01-06 19:48:21 -0600
+category: 
 external-url: http://www.readwriteweb.com/archives/many_huffington_post_readers_hate_sites_new_facebo.php
 hash: fbb9185bf0cb0a284895aaf8b113fb05
 year: 2011

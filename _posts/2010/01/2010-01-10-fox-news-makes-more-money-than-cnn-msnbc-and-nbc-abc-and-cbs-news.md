@@ -2,6 +2,7 @@
 title: "FOX NEWS Makes More Money Than CNN, MSNBC, And NBC-ABC-And-CBS News Combined"
 slug: fox-news-makes-more-money-than-cnn-msnbc-and-nbc-abc-and-cbs-news
 date: 2010-01-10 20:10:28 -0600
+category: 
 external-url: http://www.businessinsider.com/henry-blodget-fox-newss-700-million-man-2010-1
 hash: dc5babdef768cb4b409b3c054b329079
 year: 2010

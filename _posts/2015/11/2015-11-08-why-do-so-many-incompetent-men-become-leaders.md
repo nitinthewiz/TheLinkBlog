@@ -2,6 +2,7 @@
 title: "Why Do So Many Incompetent Men Become Leaders?"
 slug: why-do-so-many-incompetent-men-become-leaders
 date: 2015-11-08 16:19:48 -0600
+category: 
 external-url: https://hbr.org/2013/08/why-do-so-many-incompetent-men
 hash: 958aa3bf6d6821fb294f82c264976f19
 year: 2015

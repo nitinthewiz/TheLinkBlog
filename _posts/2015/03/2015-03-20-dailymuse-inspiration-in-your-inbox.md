@@ -2,6 +2,7 @@
 title: "DailyMuse - Inspiration in your Inbox"
 slug: dailymuse-inspiration-in-your-inbox
 date: 2015-03-20 21:02:09 -0500
+category: 
 external-url: https://dailymuse.net/
 hash: 1433a56a901df3f9302776756e7eaed4
 year: 2015

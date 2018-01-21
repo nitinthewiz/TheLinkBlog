@@ -2,6 +2,7 @@
 title: "Introducing ProtonMail Bridge, email encryption for Outlook, Thunderbird, and Apple Mail - ProtonMail Blog"
 slug: introducing-protonmail-bridge-email-encryption-for-outlook-thunderbird
 date: 2017-12-08 21:49:39 -0600
+category: 
 external-url: https://protonmail.com/blog/thunderbird-outlook-encrypted-email/
 hash: ec785fc2282547d3310a6904cdb6e075
 year: 2017

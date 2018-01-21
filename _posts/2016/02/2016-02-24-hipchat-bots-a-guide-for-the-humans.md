@@ -2,6 +2,7 @@
 title: "HipChat Bots: A guide for the humans"
 slug: hipchat-bots-a-guide-for-the-humans
 date: 2016-02-24 13:19:22 -0600
+category: 
 external-url: https://blog.hipchat.com/2016/02/24/hipchat-bots-a-guide-for-the-humans/
 hash: bb2d820e3d4e19e72213a8a66aa61efd
 year: 2016

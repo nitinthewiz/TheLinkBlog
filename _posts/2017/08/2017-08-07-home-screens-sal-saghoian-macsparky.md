@@ -2,6 +2,7 @@
 title: "Home Screens - Sal Saghoian —macsparky"
 slug: home-screens-sal-saghoian-macsparky
 date: 2017-08-07 09:33:04 -0500
+category: 
 external-url: https://www.macsparky.com/blog/2017/8/home-screens-sal-saghoian
 hash: 9d2ee929981d53aade09d6479b28b342
 year: 2017

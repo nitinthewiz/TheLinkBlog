@@ -2,6 +2,7 @@
 title: "WiFi Explorer MacSparky"
 slug: wifi-explorer-macsparky
 date: 2014-03-06 20:18:57 -0600
+category: 
 external-url: http://macsparky.com/blog/2014/3/wifi-explorer
 hash: 21fcfa5a589e8a6fd99458adcd128f48
 year: 2014

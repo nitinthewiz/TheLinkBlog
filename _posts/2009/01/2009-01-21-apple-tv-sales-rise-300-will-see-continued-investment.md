@@ -2,6 +2,7 @@
 title: "Apple TV sales rise 300%, will see continued investment"
 slug: apple-tv-sales-rise-300-will-see-continued-investment
 date: 2009-01-21 22:30:49 -0600
+category: 
 external-url: http://www.appleinsider.com/articles/09/01/21/apple_tv_sales_rise_300_will_see_continued_investment.html
 hash: de44ad165824c01eab7e24b0b472d24a
 year: 2009

@@ -2,6 +2,7 @@
 title: "Google admits citing 4chan to spread fake Vegas shooter news | Ars Technica"
 slug: google-admits-citing-4chan-to-spread-fake-vegas-shooter-news-ars
 date: 2017-10-06 19:23:18 -0500
+category: 
 external-url: https://arstechnica.com/information-technology/2017/10/google-admits-citing-4chan-to-spread-fake-vegas-shooter-news/
 hash: 0966aec30ef2a4015a0808a29599e2cc
 year: 2017

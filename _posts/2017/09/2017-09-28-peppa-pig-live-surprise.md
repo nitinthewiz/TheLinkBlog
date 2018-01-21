@@ -2,6 +2,7 @@
 title: "Peppa Pig Live Surprise"
 slug: peppa-pig-live-surprise
 date: 2017-09-28 19:49:09 -0500
+category: 
 external-url: https://www.peppapigliveus.com/media/photos/85783
 hash: 5b6dafce4d6162fe72105c09a04c4dfd
 year: 2017

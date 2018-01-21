@@ -2,6 +2,7 @@
 title: "The Antifragility of the Web"
 slug: the-antifragility-of-the-web
 date: 2012-12-10 09:53:30 -0600
+category: 
 external-url: http://epeus.blogspot.com/2012/12/the-antifragility-of-web.html
 hash: 7175cf0c127d7525ccd22e891abd3e17
 year: 2012

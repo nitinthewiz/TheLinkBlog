@@ -2,6 +2,7 @@
 title: "How to use Apple Pay Cash - Six Colors"
 slug: how-to-use-apple-pay-cash-six-colors
 date: 2017-12-06 23:49:52 -0600
+category: 
 external-url: https://sixcolors.com/2017/12/how-to-use-apple-pay-cash/
 hash: fb627d84dd8f43dc1c1a9d1ca7cb32bb
 year: 2017

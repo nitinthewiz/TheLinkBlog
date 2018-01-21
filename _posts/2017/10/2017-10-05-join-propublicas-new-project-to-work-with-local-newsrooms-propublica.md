@@ -2,6 +2,7 @@
 title: "Join ProPublica’s New Project to Work With Local Newsrooms — ProPublica"
 slug: join-propublicas-new-project-to-work-with-local-newsrooms-propublica
 date: 2017-10-05 22:56:13 -0500
+category: 
 external-url: https://www.propublica.org/article/join-propublicas-new-project-to-work-with-local-newsrooms
 hash: 41680da7c74d8dfb180c02795c4c5025
 year: 2017

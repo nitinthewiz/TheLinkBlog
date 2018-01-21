@@ -2,6 +2,7 @@
 title: "Need a Baby Name? Nymbler Has A Hunch About What You Might Like."
 slug: need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like
 date: 2007-12-28 10:45:29 -0600
+category: 
 external-url: http://techcrunch.com/2007/12/28/need-a-baby-name-nymbler-has-a-hunch-about-what-you-might-like/
 hash: 995154b9169a2b62c400c586e2c4661a
 year: 2007

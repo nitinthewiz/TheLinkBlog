@@ -2,6 +2,7 @@
 title: "A Skeleton Key of Unknown Strength | Dan Kaminsky's Blog"
 slug: a-skeleton-key-of-unknown-strength-dan-kaminsky-s-blog
 date: 2016-02-21 08:06:52 -0600
+category: 
 external-url: http://dankaminsky.com/2016/02/20/skeleton/
 hash: f01546ba3a05a9ec4cfe7f1822cf84c8
 year: 2016

@@ -2,6 +2,7 @@
 title: "Drobo hits the turbo-boost with newly launched 5N home NAS"
 slug: drobo-hits-the-turbo-boost-with-newly-launched-5n-home-nas
 date: 2012-12-13 09:48:35 -0600
+category: 
 external-url: http://arstechnica.com/gadgets/2012/12/drobo-hits-the-turbo-boost-with-newly-launched-5n-home-nas/
 hash: 9404fc4d30ba45152c2febb3dcd65423
 year: 2012

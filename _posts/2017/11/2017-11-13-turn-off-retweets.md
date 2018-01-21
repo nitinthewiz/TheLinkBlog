@@ -2,6 +2,7 @@
 title: "Turn off retweets!"
 slug: turn-off-retweets
 date: 2017-11-13 20:28:15 -0600
+category: 
 external-url: http://turn-off-retweets.glitch.me/
 hash: 1cdb968fd3918c886ba4edc5dd82d6b0
 year: 2017

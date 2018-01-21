@@ -2,6 +2,7 @@
 title: "Apple shows off iPhone 4S camera with new gallery"
 slug: apple-shows-off-iphone-4s-camera-with-new-gallery
 date: 2011-10-05 12:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2011/10/05/apple-shows-off-iphone-4s-camera-with-new-gallery/
 hash: 9a018849f1d10e82e8a1f21beba3903f
 year: 2011

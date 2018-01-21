@@ -2,6 +2,7 @@
 title: "Finally: Tetris Dress"
 slug: finally-tetris-dress
 date: 2009-10-26 00:22:00 -0500
+category: 
 external-url: http://dressaday.com/2009/10/22/finally-tetris-dress/
 hash: 806f15706fb6db228b4d0d926a8b2d92
 year: 2009

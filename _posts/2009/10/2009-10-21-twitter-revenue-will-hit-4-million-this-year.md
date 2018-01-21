@@ -2,6 +2,7 @@
 title: "Twitter Revenue Will Hit $4 Million This Year"
 slug: twitter-revenue-will-hit-4-million-this-year
 date: 2009-10-21 23:31:28 -0500
+category: 
 external-url: http://www.businessinsider.com/twitter-will-earn-4-million-this-year-2009-10
 hash: 3ce366d574151d73cbd381c8af1019bb
 year: 2009

@@ -2,6 +2,7 @@
 title: "The Power of Open"
 slug: the-power-of-open
 date: 2011-07-15 15:14:55 -0500
+category: 
 external-url: http://thepowerofopen.org/
 hash: 57f4d94a0732ec2806f080ab648b8b06
 year: 2011

@@ -2,6 +2,7 @@
 title: "watchOS 4 Introduces Proactive Watch Face, Streamlined Navigation, and Fresh Refinements – MacStories"
 slug: watchos-4-introduces-proactive-watch-face-streamlined-navigation-and
 date: 2017-06-06 21:45:44 -0500
+category: 
 external-url: https://www.macstories.net/news/watchos-4-introduces-proactive-watch-face-streamlined-navigation-and-fresh-refinements/
 hash: 95c6a2b94501c2e9e6af5e3a58030dcf
 year: 2017

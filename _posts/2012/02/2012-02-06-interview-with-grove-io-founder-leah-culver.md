@@ -2,6 +2,7 @@
 title: "Interview with Grove.io founder Leah Culver"
 slug: interview-with-grove-io-founder-leah-culver
 date: 2012-02-06 11:24:28 -0600
+category: 
 external-url: http://doeswhat.com/2012/02/06/interview-with-leah-culver-grove-io/
 hash: eeacbda62aefb6506a4e1948c74715f9
 year: 2012

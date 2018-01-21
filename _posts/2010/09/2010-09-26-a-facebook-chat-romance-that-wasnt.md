@@ -2,6 +2,7 @@
 title: "A Facebook Chat Romance That Wasnt"
 slug: a-facebook-chat-romance-that-wasnt
 date: 2010-09-26 13:50:33 -0500
+category: 
 external-url: http://allfacebook.com/watch-a-facebook-chat-romance-that-wasnt_b19407
 hash: 2faad3a929fdc6c70af583733b0ec839
 year: 2010

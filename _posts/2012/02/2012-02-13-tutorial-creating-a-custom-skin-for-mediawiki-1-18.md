@@ -2,6 +2,7 @@
 title: "Tutorial: Creating a custom skin for MediaWiki 1.18+"
 slug: tutorial-creating-a-custom-skin-for-mediawiki-1-18
 date: 2012-02-13 16:32:14 -0600
+category: 
 external-url: http://blog.redwerks.org/2012/02/08/mediawiki-skinning-tutorial/
 hash: 74afc82ab6734f6e17c3d7ce6d971ffe
 year: 2012

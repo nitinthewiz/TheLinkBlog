@@ -2,6 +2,7 @@
 title: "RethinkDB - an open-source distributed database built with love"
 slug: rethinkdb-an-open-source-distributed-database-built-with-love
 date: 2013-02-22 13:46:49 -0600
+category: 
 external-url: http://www.rethinkdb.com/
 hash: 30566cbc3197f7a9b189bfba03ce61c0
 year: 2013

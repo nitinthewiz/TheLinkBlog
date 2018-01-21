@@ -2,6 +2,7 @@
 title: "Twilio for Calculus Class at Ohio State University"
 slug: twilio-for-calculus-class-at-ohio-state-university
 date: 2010-03-03 22:45:29 -0600
+category: 
 external-url: http://blog.twilio.com/2010/03/using-twlio-in-the-classroom-twilio-for-calculus.html
 hash: 5bc356053bd0ad8e0d4ae51ba9040683
 year: 2010

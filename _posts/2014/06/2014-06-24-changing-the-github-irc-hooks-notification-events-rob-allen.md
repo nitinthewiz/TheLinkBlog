@@ -2,6 +2,7 @@
 title: "Changing the GitHub IRC hooks notification events - Rob Allen"
 slug: changing-the-github-irc-hooks-notification-events-rob-allen
 date: 2014-06-24 01:00:29 -0500
+category: 
 external-url: http://akrabat.com/computing/changing-the-github-irc-hooks-notification-events/
 hash: ec0bd255f7287ec24ff9c80db571b8cc
 year: 2014

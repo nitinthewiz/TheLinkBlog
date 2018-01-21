@@ -2,6 +2,7 @@
 title: "What Software do I use on the Mac?"
 slug: what-software-do-i-use-on-the-mac
 date: 2007-12-28 13:16:34 -0600
+category: 
 external-url: http://simpable.com/software/mac-software/
 hash: fc692afec99916f15cd04007e1589d92
 year: 2007

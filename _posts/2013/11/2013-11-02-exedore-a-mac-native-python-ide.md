@@ -2,6 +2,7 @@
 title: "Exedore - A Mac-native Python IDE"
 slug: exedore-a-mac-native-python-ide
 date: 2013-11-02 18:46:23 -0500
+category: 
 external-url: http://celestialteapot.com/exedore/
 hash: 6b9c706382d07e595afb4dbc3bc27f10
 year: 2013

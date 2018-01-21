@@ -2,6 +2,7 @@
 title: "Reaching out to Photographers"
 slug: reaching-out-to-photographers
 date: 2009-09-22 00:06:27 -0500
+category: 
 external-url: http://duncandavidson.com/2009/09/photo-community-outreach.html
 hash: 1514bf244f4a1615d60d0f1ba92b39f9
 year: 2009

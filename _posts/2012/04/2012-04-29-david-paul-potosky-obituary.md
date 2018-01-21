@@ -2,6 +2,7 @@
 title: "David Paul Potosky Obituary"
 slug: david-paul-potosky-obituary
 date: 2012-04-29 07:56:30 -0500
+category: 
 external-url: http://www.legacy.com/obituaries/twincities/obituary.aspx?n=david-paul-potosky&pid=156201705&fhid=11644
 hash: e6946587c2628c4354c16d4859ed007d
 year: 2012

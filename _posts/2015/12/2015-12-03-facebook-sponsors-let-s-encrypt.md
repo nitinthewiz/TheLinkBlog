@@ -2,6 +2,7 @@
 title: "Facebook Sponsors Let's Encrypt"
 slug: facebook-sponsors-let-s-encrypt
 date: 2015-12-03 11:24:47 -0600
+category: 
 external-url: https://letsencrypt.org/2015/12/03/facebook-sponsorship.html
 hash: 0883ff77a9dafd3c0fc28039a0cb1e90
 year: 2015

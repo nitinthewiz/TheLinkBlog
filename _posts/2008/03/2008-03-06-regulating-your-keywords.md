@@ -2,6 +2,7 @@
 title: "Regulating Your Keywords"
 slug: regulating-your-keywords
 date: 2008-03-06 11:49:54 -0600
+category: 
 external-url: http://blogs.oreilly.com/lightroom/2008/03/regulating-your-keywords.html
 hash: 08d1ad5676fff43488bd9fd7338c2d8c
 year: 2008

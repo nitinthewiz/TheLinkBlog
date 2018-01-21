@@ -2,6 +2,7 @@
 title: "2017 Internet Trends — Kleiner Perkins Caufield Byers"
 slug: 2017-internet-trends-kleiner-perkins-caufield-byers
 date: 2017-06-01 05:34:31 -0500
+category: 
 external-url: http://www.kpcb.com/internet-trends
 hash: bce66fce73d61ce48f27be42f73d3884
 year: 2017

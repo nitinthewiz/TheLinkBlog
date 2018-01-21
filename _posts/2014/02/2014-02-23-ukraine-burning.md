@@ -2,6 +2,7 @@
 title: "Ukraine Burning"
 slug: ukraine-burning
 date: 2014-02-23 06:24:11 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=7eTuFAR169s
 hash: 91392a09e31af10e61db4a332b544f03
 year: 2014

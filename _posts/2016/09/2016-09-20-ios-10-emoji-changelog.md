@@ -2,6 +2,7 @@
 title: "iOS 10 Emoji Changelog"
 slug: ios-10-emoji-changelog
 date: 2016-09-20 22:26:55 -0500
+category: 
 external-url: http://blog.emojipedia.org/ios-10-emoji-changelog/
 hash: b905496fa3ad110499c07002fa8b25b0
 year: 2016

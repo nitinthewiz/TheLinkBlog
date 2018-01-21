@@ -2,6 +2,7 @@
 title: "EidosMedia"
 slug: eidosmedia
 date: 2007-10-19 11:41:12 -0500
+category: 
 external-url: http://www.eidosmedia.com/
 hash: c87e3b6cf6a7fbea996f3234dee7975d
 year: 2007

@@ -2,6 +2,7 @@
 title: "Data Modeling for NoSQL"
 slug: data-modeling-for-nosql
 date: 2012-11-12 10:53:08 -0600
+category: 
 external-url: http://www.slideshare.net/fehguy/data-modeling-for-nosql
 hash: cebca5149fca1073f5200205ef4a51f6
 year: 2012

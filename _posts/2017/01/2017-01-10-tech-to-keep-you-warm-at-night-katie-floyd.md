@@ -2,6 +2,7 @@
 title: "Tech To Keep You Warm At Night — Katie Floyd"
 slug: tech-to-keep-you-warm-at-night-katie-floyd
 date: 2017-01-10 19:32:13 -0600
+category: 
 external-url: https://katiefloyd.com/blog/tech-to-keep-you-warm-at-night
 hash: 726f1ec37892b76b2a70d89d969628cb
 year: 2017

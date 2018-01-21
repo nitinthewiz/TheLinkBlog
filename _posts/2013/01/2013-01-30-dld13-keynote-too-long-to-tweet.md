@@ -2,6 +2,7 @@
 title: "DLD13 Keynote - too long to tweet"
 slug: dld13-keynote-too-long-to-tweet
 date: 2013-01-30 09:27:50 -0600
+category: 
 external-url: http://max.levch.in/post/41116802381/dld13-keynote
 hash: 46fd9740a4809d172165339ea55a8785
 year: 2013

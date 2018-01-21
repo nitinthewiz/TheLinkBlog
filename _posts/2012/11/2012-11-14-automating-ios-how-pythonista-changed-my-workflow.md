@@ -2,6 +2,7 @@
 title: "Automating iOS: How Pythonista Changed My Workflow"
 slug: automating-ios-how-pythonista-changed-my-workflow
 date: 2012-11-14 15:53:00 -0600
+category: 
 external-url: http://www.macstories.net/stories/automating-ios-how-pythonista-changed-my-workflow/
 hash: ce76550625c26a5e16175c22daaa660d
 year: 2012

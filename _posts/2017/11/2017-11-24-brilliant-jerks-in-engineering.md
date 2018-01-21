@@ -2,6 +2,7 @@
 title: "Brilliant Jerks in Engineering"
 slug: brilliant-jerks-in-engineering
 date: 2017-11-24 08:46:33 -0600
+category: 
 external-url: http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html
 hash: fdaf911c76e0bf3c6ed5b39950093437
 year: 2017

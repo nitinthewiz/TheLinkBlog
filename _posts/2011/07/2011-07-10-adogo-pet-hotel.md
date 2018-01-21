@@ -2,6 +2,7 @@
 title: "ADOGO Pet Hotel"
 slug: adogo-pet-hotel
 date: 2011-07-10 11:36:08 -0500
+category: 
 external-url: http://www.adogopethotels.com/
 hash: b14f5c5b89d812eb730c8f1377adabd8
 year: 2011

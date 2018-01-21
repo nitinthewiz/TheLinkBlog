@@ -2,6 +2,7 @@
 title: "Apple files patent for graphics-based contact management"
 slug: apple-files-patent-for-graphics-based-contact-management
 date: 2011-03-24 23:28:59 -0500
+category: 
 external-url: http://www.tuaw.com/2011/03/24/apple-files-patent-for-graphics-based-contact-management/
 hash: a324ade853c9d66626fb674b20cabbca
 year: 2011

@@ -2,6 +2,7 @@
 title: "28 Apple Watch tips and tricks you should know"
 slug: 28-apple-watch-tips-and-tricks-you-should-know
 date: 2015-04-25 23:10:15 -0500
+category: 
 external-url: http://www.imore.com/28-apple-watch-tips-and-tricks-you-should-know
 hash: cd503e5d7eac01b95e7ffc29a70ed571
 year: 2015

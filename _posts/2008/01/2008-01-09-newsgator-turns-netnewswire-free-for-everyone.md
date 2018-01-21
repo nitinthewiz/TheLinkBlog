@@ -2,6 +2,7 @@
 title: "Newsgator turns NetNewsWire free for everyone"
 slug: newsgator-turns-netnewswire-free-for-everyone
 date: 2008-01-09 14:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/01/09/netgator-turns-netnewswire-free-for-everyone/
 hash: 078334a7a933362fc9e5bb2cea825e1c
 year: 2008

@@ -2,6 +2,7 @@
 title: "Video: How One Chief Product Officer Is Reinventing Product Management At Her Company - Product Talk"
 slug: video-how-one-chief-product-officer-is-reinventing-product-management
 date: 2016-01-30 19:59:24 -0600
+category: 
 external-url: http://www.producttalk.org/2016/01/video-how-one-chief-product-officer-is-reinventing-product-management-at-her-company/
 hash: a62203b13890c4ac9048116e9bcfc151
 year: 2016

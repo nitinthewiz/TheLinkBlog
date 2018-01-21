@@ -2,6 +2,7 @@
 title: "China hits booming cryptocurrency market with coin fundraising ban"
 slug: china-hits-booming-cryptocurrency-market-with-coin-fundraising-ban
 date: 2017-09-05 04:59:42 -0500
+category: 
 external-url: https://uk.reuters.com/article/us-china-finance-digital/china-hits-booming-cryptocurrency-market-with-coin-fundraising-ban-idUKKCN1BF0R7
 hash: 0ada22a61620a7617df16abf2abf6123
 year: 2017

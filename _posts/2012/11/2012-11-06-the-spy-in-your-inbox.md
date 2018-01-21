@@ -2,6 +2,7 @@
 title: "The spy in your inbox"
 slug: the-spy-in-your-inbox
 date: 2012-11-06 16:25:22 -0600
+category: 
 external-url: http://arstechnica.com/information-technology/2012/11/the-spy-in-your-inbox/
 hash: 1bf1e72148644e4a28428eee3013e4a8
 year: 2012

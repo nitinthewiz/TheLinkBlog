@@ -2,6 +2,7 @@
 title: "Welcome to Cast"
 slug: welcome-to-cast
 date: 2017-05-31 21:47:51 -0500
+category: 
 external-url: https://tryca.st/
 hash: c23a88cc77f701c317a205d7be022b79
 year: 2017

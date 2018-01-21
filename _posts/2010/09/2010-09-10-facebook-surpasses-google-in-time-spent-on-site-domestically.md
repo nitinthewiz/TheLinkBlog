@@ -2,6 +2,7 @@
 title: "Facebook Surpasses Google In Time Spent On Site Domestically"
 slug: facebook-surpasses-google-in-time-spent-on-site-domestically
 date: 2010-09-10 11:16:52 -0500
+category: 
 external-url: http://allfacebook.com/facebook-surpasses-google-in-time-spent-on-site-domestically_b18670
 hash: a75a5b63dfe2a5e4f62a40541555d341
 year: 2010

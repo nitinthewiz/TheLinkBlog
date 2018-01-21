@@ -2,6 +2,7 @@
 title: "How to Take an Email Sabbatical"
 slug: how-to-take-an-email-sabbatical
 date: 2011-07-10 06:29:49 -0500
+category: 
 external-url: http://www.danah.org/EmailSabbatical.html
 hash: 444e66257e49820008eb85dc52c69a2d
 year: 2011

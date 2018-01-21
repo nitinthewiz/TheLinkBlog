@@ -2,6 +2,7 @@
 title: "Making it easier to create and manage Test Users"
 slug: making-it-easier-to-create-and-manage-test-users
 date: 2011-07-28 06:41:24 -0500
+category: 
 external-url: https://developers.facebook.com/blog/post/527/
 hash: d1a1089b85ddd8f105e3a414f2b67785
 year: 2011

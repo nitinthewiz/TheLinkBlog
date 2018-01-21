@@ -2,6 +2,7 @@
 title: "Richard Stallman calls Ubuntu spyware because it tracks searches"
 slug: richard-stallman-calls-ubuntu-spyware-because-it-tracks-searches
 date: 2012-12-07 15:45:09 -0600
+category: 
 external-url: http://arstechnica.com/information-technology/2012/12/richard-stallman-calls-ubuntu-spyware-because-it-tracks-searches/
 hash: a5ac578148fed8c53795820390e7caff
 year: 2012

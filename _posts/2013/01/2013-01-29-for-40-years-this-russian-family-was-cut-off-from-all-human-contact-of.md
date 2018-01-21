@@ -2,6 +2,7 @@
 title: "For 40 Years, This Russian Family Was Cut Off From All Human Contact, Unaware of World War II"
 slug: for-40-years-this-russian-family-was-cut-off-from-all-human-contact-of
 date: 2013-01-29 16:44:23 -0600
+category: 
 external-url: http://www.smithsonianmag.com/ist/?next=/history-archaeology/For-40-Years-This-Russian-Family-Was-Cut-Off-From-Human-Contact-Unaware-of-World-War-II-188843001.html/
 hash: ff46f01f2844d62cc03b1a923ad67c6d
 year: 2013

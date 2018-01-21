@@ -2,6 +2,7 @@
 title: "vimgolf: The fewest keystrokes wins - in Vim"
 slug: vimgolf-the-fewest-keystrokes-wins-in-vim
 date: 2010-12-29 07:00:24 -0600
+category: 
 external-url: http://thechangelog.com/post/2508051212/the-fewest-keystrokes-wins-in-vim
 hash: 39586c0f446f9aadbf64d9171276c4fd
 year: 2010

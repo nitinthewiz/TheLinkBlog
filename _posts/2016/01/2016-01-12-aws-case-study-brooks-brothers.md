@@ -2,6 +2,7 @@
 title: "AWS Case Study: Brooks Brothers"
 slug: aws-case-study-brooks-brothers
 date: 2016-01-12 22:34:01 -0600
+category: 
 external-url: http://aws.amazon.com/solutions/case-studies/brooks-brothers/?sc_campaign=case_study
 hash: ccb87d79baa798209b9dbb48d8f5ae20
 year: 2016

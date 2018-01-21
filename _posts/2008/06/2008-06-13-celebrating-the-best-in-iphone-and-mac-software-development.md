@@ -2,6 +2,7 @@
 title: "Celebrating the best in iPhone and Mac software development"
 slug: celebrating-the-best-in-iphone-and-mac-software-development
 date: 2008-06-13 12:32:22 -0500
+category: 
 external-url: http://developer.apple.com/wwdc/ada/#showcase?sr=hotnews
 hash: 80c3a0895677f907e8742f1e26761e39
 year: 2008

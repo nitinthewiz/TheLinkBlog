@@ -2,6 +2,7 @@
 title: "New Kindle app for Macs adds many desired features"
 slug: new-kindle-app-for-macs-adds-many-desired-features
 date: 2010-10-19 21:30:00 -0500
+category: 
 external-url: http://www.tuaw.com/2010/10/19/new-kindle-app-for-macs-adds-many-desired-features/
 hash: 636ae6db8b2c1d9adf598e2883ec9040
 year: 2010

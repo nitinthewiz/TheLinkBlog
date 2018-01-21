@@ -2,6 +2,7 @@
 title: "Web Sockets Now Available In Google Chrome"
 slug: web-sockets-now-available-in-google-chrome
 date: 2009-12-10 21:37:08 -0600
+category: 
 external-url: http://blog.chromium.org/2009/12/web-sockets-now-available-in-google.html
 hash: a677e40caa2312df17e4be07c60bf669
 year: 2009

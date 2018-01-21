@@ -2,6 +2,7 @@
 title: "How a Radical Shift Left Zappos Reeling"
 slug: how-a-radical-shift-left-zappos-reeling
 date: 2016-03-07 21:42:17 -0600
+category: 
 external-url: http://fortune.com/zappos-tony-hsieh-holacracy/
 hash: e7d451f72802f32d30c12f1941608605
 year: 2016

@@ -2,6 +2,7 @@
 title: "How Balanced does Database Migrations with Zero-Downtime » Balanced: Blog"
 slug: how-balanced-does-database-migrations-with-zero-downtime-balanced-blog
 date: 2017-11-10 07:14:13 -0600
+category: 
 external-url: http://blog.balancedpayments.com/payments-infrastructure-suspending-traffic-zero-downtime-migrations/
 hash: e0e4d7cf1d4125eeb193aab8cdb91cfc
 year: 2017

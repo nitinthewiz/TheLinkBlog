@@ -2,6 +2,7 @@
 title: "FCC unveils plan to repeal net neutrality rules - The Washington Post"
 slug: fcc-unveils-plan-to-repeal-net-neutrality-rules-the-washington-post
 date: 2017-11-22 07:08:28 -0600
+category: 
 external-url: https://www.washingtonpost.com/news/the-switch/wp/2017/11/21/the-fcc-has-unveiled-its-plan-to-rollback-its-net-neutrality-rules/
 hash: 28d00b69e3781005e9c50d165392c673
 year: 2017

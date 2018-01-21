@@ -2,6 +2,7 @@
 title: "Twitter Your Signature"
 slug: twitter-your-signature
 date: 2008-03-20 00:46:00 -0500
+category: 
 external-url: http://blog.twitter.com/2008/03/twitter-your-signature.html
 hash: 43b23809f123748b693af2e271c47318
 year: 2008

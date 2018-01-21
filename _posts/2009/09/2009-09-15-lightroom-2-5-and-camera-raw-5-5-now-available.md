@@ -2,6 +2,7 @@
 title: "Lightroom 2.5 and Camera Raw 5.5 Now Available"
 slug: lightroom-2-5-and-camera-raw-5-5-now-available
 date: 2009-09-15 09:47:21 -0500
+category: 
 external-url: http://blogs.adobe.com/lightroomjournal/2009/09/lightroom_25_and_camera_raw_55.html
 hash: 06446aced5778b8fce790eea46583411
 year: 2009

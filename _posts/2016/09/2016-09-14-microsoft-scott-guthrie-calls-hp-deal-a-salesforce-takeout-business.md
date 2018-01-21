@@ -2,6 +2,7 @@
 title: "Microsoft Scott Guthrie calls HP deal a Salesforce takeout - Business Insider"
 slug: microsoft-scott-guthrie-calls-hp-deal-a-salesforce-takeout-business
 date: 2016-09-14 14:33:29 -0500
+category: 
 external-url: http://www.businessinsider.com/microsoft-scott-guthrie-salesforce-takeout-2016-9
 hash: 4132a45260a5e0e38f2a4c172017e49d
 year: 2016

@@ -2,6 +2,7 @@
 title: "3 reasons to stop hating one-on-one meetings - O'Reilly Media"
 slug: 3-reasons-to-stop-hating-one-on-one-meetings-o-reilly-media
 date: 2016-09-10 09:34:38 -0500
+category: 
 external-url: https://www.oreilly.com/ideas/3-reasons-to-stop-hating-one-on-one-meetings
 hash: 34925b13e5f7621881bb25dc04d5c24f
 year: 2016

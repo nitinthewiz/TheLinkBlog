@@ -2,6 +2,7 @@
 title: "Glass Half Empty - YouTube"
 slug: glass-half-empty-youtube
 date: 2014-06-19 23:58:59 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=ClvI9fZaz6M
 hash: 0252f5aa08a5ca14746b00d7a49bfbc6
 year: 2014

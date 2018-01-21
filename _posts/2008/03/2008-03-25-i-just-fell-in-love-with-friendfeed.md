@@ -2,6 +2,7 @@
 title: "I Just Fell In Love With FriendFeed"
 slug: i-just-fell-in-love-with-friendfeed
 date: 2008-03-25 09:10:51 -0500
+category: 
 external-url: http://avc.blogs.com/a_vc/2008/03/i-just-fell-in.html
 hash: 8cbb6aca543d6cae0cb2e7905ceb11cf
 year: 2008

@@ -2,6 +2,7 @@
 title: "Calvetica"
 slug: calvetica
 date: 2010-11-08 12:37:54 -0600
+category: 
 external-url: http://calvetica.com/
 hash: 453cfec166bcbdfc76ef86f26e743f77
 year: 2010

@@ -2,6 +2,7 @@
 title: "How I Learned to Live Google-free"
 slug: how-i-learned-to-live-google-free
 date: 2011-06-12 06:54:36 -0500
+category: 
 external-url: http://spectrum.ieee.org/telecom/internet/how-i-learned-to-live-google-free/0
 hash: d1e2f39221e6226a38a1351a0e8cc055
 year: 2011

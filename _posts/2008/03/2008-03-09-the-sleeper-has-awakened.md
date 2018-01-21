@@ -2,6 +2,7 @@
 title: "The sleeper has awakened"
 slug: the-sleeper-has-awakened
 date: 2008-03-09 11:01:00 -0500
+category: 
 external-url: http://paulolstad.blogspot.com/2008/03/sleeper-has-awoken.html
 hash: 9f2fb8eb1bdd660304c8423e4d29604d
 year: 2008

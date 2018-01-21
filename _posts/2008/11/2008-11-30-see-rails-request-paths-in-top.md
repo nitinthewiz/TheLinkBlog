@@ -2,6 +2,7 @@
 title: "See Rails request paths in 'top'"
 slug: see-rails-request-paths-in-top
 date: 2008-11-30 18:17:55 -0600
+category: 
 external-url: http://pragdave.blogs.pragprog.com/pragdave/2008/11/trivial-request-logging-for-rails.html
 hash: e6f847b89e71bd71d811b57b7d9a197f
 year: 2008

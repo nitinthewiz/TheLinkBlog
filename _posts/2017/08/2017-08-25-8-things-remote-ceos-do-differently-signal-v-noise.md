@@ -2,6 +2,7 @@
 title: "8 things remote CEOs do differently – Signal v. Noise"
 slug: 8-things-remote-ceos-do-differently-signal-v-noise
 date: 2017-08-25 20:10:35 -0500
+category: 
 external-url: https://m.signalvnoise.com/8-things-remote-ceos-do-differently-115f34dc24b1
 hash: b486dedc626603b1d727bc02ad612a85
 year: 2017

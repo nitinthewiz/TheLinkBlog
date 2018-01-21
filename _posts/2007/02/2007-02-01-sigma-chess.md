@@ -2,6 +2,7 @@
 title: "Sigma Chess"
 slug: sigma-chess
 date: 2007-02-01 23:07:24 -0600
+category: 
 external-url: http://www.sigmachess.com/home.html
 hash: d388a7ed5d18fdb513ff55b72c648301
 year: 2007

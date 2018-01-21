@@ -2,6 +2,7 @@
 title: "Rules Engine"
 slug: rules-engine
 date: 2014-06-11 15:38:36 -0500
+category: 
 external-url: http://martinfowler.com/bliki/RulesEngine.html
 hash: 5d583de72c52957861c83c6dc88aefa1
 year: 2014

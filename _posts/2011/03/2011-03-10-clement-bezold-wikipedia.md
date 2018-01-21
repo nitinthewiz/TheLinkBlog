@@ -2,6 +2,7 @@
 title: "Clement Bezold - Wikipedia"
 slug: clement-bezold-wikipedia
 date: 2011-03-10 11:07:43 -0600
+category: 
 external-url: http://en.wikipedia.org/wiki/Clement_Bezold
 hash: ea2c618afbbfdd9613e008c5f1a94941
 year: 2011

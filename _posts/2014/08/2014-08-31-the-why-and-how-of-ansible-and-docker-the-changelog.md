@@ -2,6 +2,7 @@
 title: "The Why and How of Ansible and Docker - The Changelog"
 slug: the-why-and-how-of-ansible-and-docker-the-changelog
 date: 2014-08-31 04:04:14 -0500
+category: 
 external-url: http://thechangelog.com/ansible-docker/
 hash: b4376a96de837b08616201e8157ed800
 year: 2014

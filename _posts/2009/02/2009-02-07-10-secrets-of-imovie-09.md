@@ -2,6 +2,7 @@
 title: "10 Secrets of iMovie '09"
 slug: 10-secrets-of-imovie-09
 date: 2009-02-07 23:25:36 -0600
+category: 
 external-url: http://db.tidbits.com/article/10052
 hash: dd020c030ef538319448c643bc92e462
 year: 2009

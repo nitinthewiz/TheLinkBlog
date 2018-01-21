@@ -2,6 +2,7 @@
 title: "Elle Tries Facebook Commerce, Launches Shoppable Trend Guide"
 slug: elle-tries-facebook-commerce-launches-shoppable-trend-guide
 date: 2012-04-18 00:17:26 -0500
+category: 
 external-url: http://mashable.com/2012/04/17/elle-facebook-fcommerce/
 hash: 45d38832b19da4ffbb11d58262f38b71
 year: 2012

@@ -2,6 +2,7 @@
 title: "Wkhtmltopdf - Convert html to pdf using webkit"
 slug: wkhtmltopdf-convert-html-to-pdf-using-webkit
 date: 2012-05-14 23:55:58 -0500
+category: 
 external-url: http://code.google.com/p/wkhtmltopdf/
 hash: cfedb25c884d33beb5efe582fac0e01c
 year: 2012

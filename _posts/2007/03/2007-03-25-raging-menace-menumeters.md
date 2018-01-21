@@ -2,6 +2,7 @@
 title: "Raging Menace - MenuMeters"
 slug: raging-menace-menumeters
 date: 2007-03-25 14:09:34 -0500
+category: 
 external-url: http://www.ragingmenace.com/software/menumeters/
 hash: 92b51bba76acd562aed35c4ff46c7092
 year: 2007

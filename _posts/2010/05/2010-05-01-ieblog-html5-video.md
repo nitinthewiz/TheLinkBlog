@@ -2,6 +2,7 @@
 title: "IEBlog - HTML5 Video"
 slug: ieblog-html5-video
 date: 2010-05-01 00:37:56 -0500
+category: 
 external-url: http://blogs.msdn.com/b/ie/archive/2010/04/29/html5-video.aspx
 hash: ef88cd41af6c100bb8d64483d96eb79c
 year: 2010

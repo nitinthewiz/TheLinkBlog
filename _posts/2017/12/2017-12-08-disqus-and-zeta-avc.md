@@ -2,6 +2,7 @@
 title: "Disqus and Zeta – AVC"
 slug: disqus-and-zeta-avc
 date: 2017-12-08 21:44:33 -0600
+category: 
 external-url: http://avc.com/2017/12/disqus-and-zeta/
 hash: e5b8d34072a3aedc5ffd32759f63eac6
 year: 2017

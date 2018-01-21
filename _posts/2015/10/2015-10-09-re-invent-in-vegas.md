@@ -2,6 +2,7 @@
 title: "re:Invent in Vegas"
 slug: re-invent-in-vegas
 date: 2015-10-09 23:08:50 -0500
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2015/10/09/ReInvent-in-Vegas
 hash: fc13aebd64f76135b2ed274ad7266383
 year: 2015

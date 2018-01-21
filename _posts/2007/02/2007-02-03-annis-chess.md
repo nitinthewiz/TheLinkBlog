@@ -2,6 +2,7 @@
 title: "Annis Chess"
 slug: annis-chess
 date: 2007-02-03 19:10:04 -0600
+category: 
 external-url: http://home.fnal.gov/~annis/chess/
 hash: fbec1abfe59dfaeadd3a75dc55fb34eb
 year: 2007

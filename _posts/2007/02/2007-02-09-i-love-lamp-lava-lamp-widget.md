@@ -2,6 +2,7 @@
 title: "I Love Lamp - Lava Lamp Widget"
 slug: i-love-lamp-lava-lamp-widget
 date: 2007-02-09 15:22:16 -0600
+category: 
 external-url: http://islayer.com/apps/ilovelamp/
 hash: be2f1331f1595dad90ef5e3914078fde
 year: 2007

@@ -2,6 +2,7 @@
 title: "No, you’re not being paranoid. Sites really are watching your every move | Ars Technica"
 slug: no-youre-not-being-paranoid-sites-really-are-watching-your-every-move
 date: 2017-11-22 07:11:42 -0600
+category: 
 external-url: https://arstechnica.com/tech-policy/2017/11/an-alarming-number-of-sites-employ-privacy-invading-session-replay-scripts/
 hash: 58280b66902e430cbb69baea3d9ecdf2
 year: 2017

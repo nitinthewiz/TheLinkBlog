@@ -2,6 +2,7 @@
 title: "3G now available on Mount Everest"
 slug: 3g-now-available-on-mount-everest
 date: 2010-10-29 18:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2010/10/29/3g-now-available-on-mount-everest/
 hash: edb451d967fbaed57b3f814540f53f47
 year: 2010

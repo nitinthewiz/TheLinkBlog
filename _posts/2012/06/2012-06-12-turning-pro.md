@@ -2,6 +2,7 @@
 title: "Turning Pro"
 slug: turning-pro
 date: 2012-06-12 12:23:41 -0500
+category: 
 external-url: http://shop.blackirishbooks.com/products/turning-pro
 hash: 965ae1be4e787cd88f9bc7daf32bda38
 year: 2012

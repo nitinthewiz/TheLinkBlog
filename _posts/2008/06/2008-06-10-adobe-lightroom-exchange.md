@@ -2,6 +2,7 @@
 title: "Adobe Lightroom Exchange"
 slug: adobe-lightroom-exchange
 date: 2008-06-10 04:55:20 -0500
+category: 
 external-url: http://lightroom-news.com/2008/06/10/adobe-lightroom-exchange/
 hash: 4574722f5238a2baf6aa0eb66e38cb55
 year: 2008

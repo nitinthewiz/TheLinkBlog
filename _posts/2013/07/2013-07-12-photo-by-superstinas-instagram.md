@@ -2,6 +2,7 @@
 title: "Photo by superstinas • Instagram"
 slug: photo-by-superstinas-instagram
 date: 2013-07-12 09:28:48 -0500
+category: 
 external-url: http://instagram.com/p/bq1Pdsgs5t/
 hash: 79ee4dae0ce3d938b8b20b3eba9c3942
 year: 2013

@@ -2,6 +2,7 @@
 title: "Swift.org - Swift 4.0 Released!"
 slug: swift-org-swift-4-0-released
 date: 2017-09-20 04:25:16 -0500
+category: 
 external-url: https://swift.org/blog/swift-4-0-released/
 hash: 2aa8c47b167799fa1d16d1b185c0a1c0
 year: 2017

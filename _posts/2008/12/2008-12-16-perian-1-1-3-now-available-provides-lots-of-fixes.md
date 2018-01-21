@@ -2,6 +2,7 @@
 title: "Perian 1.1.3 now available, provides lots of fixes"
 slug: perian-1-1-3-now-available-provides-lots-of-fixes
 date: 2008-12-16 15:00:00 -0600
+category: 
 external-url: http://www.tuaw.com/2008/12/16/perian-1-1-3-now-available-provides-lots-of-fixes/
 hash: 451873aed5cb8caa7dbc33ecc4350760
 year: 2008

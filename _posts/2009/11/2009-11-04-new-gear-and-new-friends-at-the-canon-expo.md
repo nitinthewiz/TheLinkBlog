@@ -2,6 +2,7 @@
 title: "New gear and new friends at the Canon Expo"
 slug: new-gear-and-new-friends-at-the-canon-expo
 date: 2009-11-04 10:05:01 -0600
+category: 
 external-url: http://www.dslrnewsshooter.com/2009/11/04/new-gear-and-new-friends-at-the-canon-expo/
 hash: 2db145c0b526c4166dfe870aeadf9221
 year: 2009

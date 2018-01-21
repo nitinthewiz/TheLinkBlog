@@ -2,6 +2,7 @@
 title: "The More You Use Facebook, the Worse You Feel"
 slug: the-more-you-use-facebook-the-worse-you-feel
 date: 2017-04-12 20:04:22 -0500
+category: 
 external-url: https://hbr.org/2017/04/a-new-more-rigorous-study-confirms-the-more-you-use-facebook-the-worse-you-feel
 hash: e1792dbd01a2ce7ffb18a481dbbbcd64
 year: 2017

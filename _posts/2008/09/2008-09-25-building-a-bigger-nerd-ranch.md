@@ -2,6 +2,7 @@
 title: "Building A Bigger Nerd Ranch"
 slug: building-a-bigger-nerd-ranch
 date: 2008-09-25 23:52:31 -0500
+category: 
 external-url: http://www.red-sweater.com/blog/598/building-a-bigger-nerd-ranch
 hash: 00192c47ae40b1e21001ec27e37ddb40
 year: 2008

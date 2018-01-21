@@ -2,6 +2,7 @@
 title: "Declaring love with the Mac OS X Finder"
 slug: declaring-love-with-the-mac-os-x-finder
 date: 2011-04-30 07:42:40 -0500
+category: 
 external-url: http://www.tuaw.com/2011/04/29/declaring-love-with-the-mac-os-x-finder/
 hash: 78671a4f1fce39939aecee60c13d36e7
 year: 2011

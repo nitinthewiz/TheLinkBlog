@@ -2,6 +2,7 @@
 title: "When URL shorteners fail"
 slug: when-url-shorteners-fail
 date: 2009-11-13 15:46:35 -0600
+category: 
 external-url: http://kottke.org/09/11/when-url-shorteners-fail
 hash: d4a3e75336d43c0ce2adc57259b4dc48
 year: 2009

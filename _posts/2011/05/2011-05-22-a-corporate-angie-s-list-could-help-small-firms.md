@@ -2,6 +2,7 @@
 title: "A corporate 'Angie's List' could help small firms"
 slug: a-corporate-angie-s-list-could-help-small-firms
 date: 2011-05-22 21:52:01 -0500
+category: 
 external-url: http://www.startribune.com/business/122373499.html
 hash: 288890c69121baec647d6eebbeaae8cb
 year: 2011

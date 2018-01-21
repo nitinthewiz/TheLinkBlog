@@ -2,6 +2,7 @@
 title: "Why I quit my job"
 slug: why-i-quit-my-job
 date: 2011-07-10 19:59:03 -0500
+category: 
 external-url: http://kainagata.com/2011/07/08/why-i-quit-my-job/
 hash: 92d8e6eac6bff8cedfb583d2913a8e9c
 year: 2011

@@ -2,6 +2,7 @@
 title: "'Kernel memory leaking' Intel processor design flaw forces Linux, Windows redesign • The Register"
 slug: kernel-memory-leaking-intel-processor-design-flaw-forces-linux-windows
 date: 2018-01-03 06:32:09 -0600
+category: 
 external-url: https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/
 hash: 574c1035e38c3c8fb462c780d082f0f0
 year: 2018

@@ -2,6 +2,7 @@
 title: "Short documentary on The Sartorialist"
 slug: short-documentary-on-the-sartorialist
 date: 2011-01-07 09:17:26 -0600
+category: 
 external-url: http://kottke.org/11/01/short-documentary-on-the-sartorialist
 hash: 2b6df8f7136ee39abdccbf100afe610d
 year: 2011

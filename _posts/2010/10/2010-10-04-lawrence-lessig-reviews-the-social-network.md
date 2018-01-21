@@ -2,6 +2,7 @@
 title: "Lawrence Lessig Reviews the Social Network"
 slug: lawrence-lessig-reviews-the-social-network
 date: 2010-10-04 10:58:00 -0500
+category: 
 external-url: http://entertainment.slashdot.org/story/10/10/04/1449230/lawrence-lessig-reviews-the-social-network
 hash: ea26d139032a3c372c65cb6e2e58736b
 year: 2010

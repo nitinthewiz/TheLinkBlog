@@ -2,6 +2,7 @@
 title: "inessential: Love"
 slug: inessential-love
 date: 2015-06-30 20:25:58 -0500
+category: 
 external-url: http://inessential.com/2015/06/30/love
 hash: 6e019e9b06a1f408c85983c4962f9d7b
 year: 2015

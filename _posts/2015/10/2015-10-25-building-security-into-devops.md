@@ -2,6 +2,7 @@
 title: "Building Security Into DevOps"
 slug: building-security-into-devops
 date: 2015-10-25 14:06:39 -0500
+category: 
 external-url: https://securosis.com/blog/building-security-into-devops-security-integration-points
 hash: 6e678c65b63ff099d90ba8c48a03128d
 year: 2015

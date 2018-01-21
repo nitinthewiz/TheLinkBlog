@@ -2,6 +2,7 @@
 title: "The story behind the new GitHub Enterprise"
 slug: the-story-behind-the-new-github-enterprise
 date: 2014-11-11 18:01:06 -0600
+category: 
 external-url: https://github.com/blog/1919-the-story-behind-the-new-github-enterprise
 hash: 66917a70b3ae8a18580cfa21859ba0d4
 year: 2014

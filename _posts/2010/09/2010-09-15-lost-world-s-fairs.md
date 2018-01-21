@@ -2,6 +2,7 @@
 title: "Lost World's Fairs"
 slug: lost-world-s-fairs
 date: 2010-09-15 16:36:37 -0500
+category: 
 external-url: http://kottke.org/10/09/lost-worlds-fairs
 hash: 9dfeae97dc58024d0be6e27c06176bd2
 year: 2010

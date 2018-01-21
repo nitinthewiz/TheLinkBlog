@@ -2,6 +2,7 @@
 title: "James J. Hill Reference Library to launch business incubator"
 slug: james-j-hill-reference-library-to-launch-business-incubator
 date: 2011-01-18 19:18:30 -0600
+category: 
 external-url: http://www.startribune.com/business/112353779.html
 hash: 818f96ead04762f7b744cfdd722075fb
 year: 2011

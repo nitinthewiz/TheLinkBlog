@@ -2,6 +2,7 @@
 title: "Dozens of Companies Are Using Facebook to Exclude Older… — ProPublica"
 slug: dozens-of-companies-are-using-facebook-to-exclude-older-propublica
 date: 2017-12-21 18:05:46 -0600
+category: 
 external-url: https://www.propublica.org/article/facebook-ads-age-discrimination-targeting
 hash: 2dbca0b8588937dbd4e85b5b6a9368fd
 year: 2017

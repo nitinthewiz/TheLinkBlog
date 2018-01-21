@@ -2,6 +2,7 @@
 title: "Thoughts on Google+ — Medium"
 slug: thoughts-on-google-medium
 date: 2014-11-29 07:02:14 -0600
+category: 
 external-url: https://medium.com/@chrismessina/thoughts-on-google-8883844a9ca4
 hash: adc7b0805fe99da66c6f948af0d42939
 year: 2014

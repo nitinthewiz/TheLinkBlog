@@ -2,6 +2,7 @@
 title: "MediaWiki 1.26 released « Wikimedia blog"
 slug: mediawiki-1-26-released-wikimedia-blog
 date: 2015-12-14 20:27:31 -0600
+category: 
 external-url: http://blog.wikimedia.org/2015/12/14/new-mediawiki-release/
 hash: 526a4e8edbb139275f5a268e4dcec301
 year: 2015

@@ -2,6 +2,7 @@
 title: "Who in Congress Supports SOPA and PIPA/PROTECT-IP?"
 slug: who-in-congress-supports-sopa-and-pipa-protect-ip
 date: 2012-01-20 16:27:56 -0600
+category: 
 external-url: http://projects.propublica.org/sopa/
 hash: df07a9ab06a8553752c26bdd6089fbae
 year: 2012

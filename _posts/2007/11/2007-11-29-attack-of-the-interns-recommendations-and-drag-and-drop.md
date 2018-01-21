@@ -2,6 +2,7 @@
 title: "Attack of the interns: recommendations and drag-and-drop"
 slug: attack-of-the-interns-recommendations-and-drag-and-drop
 date: 2007-11-29 20:39:00 -0600
+category: 
 external-url: http://googlereader.blogspot.com/2007/11/attack-of-interns-recommendations-and.html
 hash: 02f65d519f2715f2bbdb29a2f506aa68
 year: 2007

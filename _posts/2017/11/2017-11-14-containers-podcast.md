@@ -2,6 +2,7 @@
 title: "Containers Podcast"
 slug: containers-podcast
 date: 2017-11-14 23:11:16 -0600
+category: 
 external-url: https://soundcloud.com/containersfmg
 hash: 1c5e86c526c01b7e0915025a7f924383
 year: 2017

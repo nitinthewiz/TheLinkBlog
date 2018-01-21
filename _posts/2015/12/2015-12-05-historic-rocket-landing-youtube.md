@@ -2,6 +2,7 @@
 title: "Historic Rocket Landing - YouTube"
 slug: historic-rocket-landing-youtube
 date: 2015-12-05 21:20:34 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=9pillaOxGCo
 hash: c9d319c1fdb5c4ba996a7f6f1e68fd7d
 year: 2015

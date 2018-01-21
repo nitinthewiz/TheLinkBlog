@@ -2,6 +2,7 @@
 title: "Woz: How it all began"
 slug: woz-how-it-all-began
 date: 2008-06-21 15:30:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/06/21/woz-how-it-all-began/
 hash: 415a968efc0e68b72912c6419ab5e996
 year: 2008

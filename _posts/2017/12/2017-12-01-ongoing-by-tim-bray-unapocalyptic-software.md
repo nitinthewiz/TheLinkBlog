@@ -2,6 +2,7 @@
 title: "ongoing by Tim Bray · Unapocalyptic Software"
 slug: ongoing-by-tim-bray-unapocalyptic-software
 date: 2017-12-01 18:56:53 -0600
+category: 
 external-url: https://www.tbray.org/ongoing/When/201x/2017/11/27/Software-Reality
 hash: dc5ecd1b9d50f86c76323c62f24eaae6
 year: 2017

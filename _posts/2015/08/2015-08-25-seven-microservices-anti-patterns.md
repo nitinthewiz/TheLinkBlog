@@ -2,6 +2,7 @@
 title: "Seven Microservices Anti-patterns"
 slug: seven-microservices-anti-patterns
 date: 2015-08-25 10:49:33 -0500
+category: 
 external-url: http://www.infoq.com/articles/seven-uservices-antipatterns
 hash: 594a9ac56aaf7b6615a1d94c68232a03
 year: 2015

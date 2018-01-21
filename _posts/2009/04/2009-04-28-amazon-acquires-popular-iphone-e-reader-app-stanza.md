@@ -2,6 +2,7 @@
 title: "Amazon Acquires Popular iPhone E-Reader App Stanza"
 slug: amazon-acquires-popular-iphone-e-reader-app-stanza
 date: 2009-04-28 00:56:47 -0500
+category: 
 external-url: http://gigaom.com/2009/04/28/419-amazon-acquires-lexcycle-and-iphone-e-reader-app-stanza/
 hash: 33d65b8f1c09cfbd1b1a3ee388110a54
 year: 2009

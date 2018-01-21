@@ -2,6 +2,7 @@
 title: "David “DHH” Heinemeier Hansson: The Entrepreneurial and Unstoppable Stoic"
 slug: david-dhh-heinemeier-hansson-the-entrepreneurial-and-unstoppable-stoic
 date: 2017-06-25 17:33:21 -0500
+category: 
 external-url: https://dailystoic.com/dhh/
 hash: dcde2a723873c487ff95544a18f74777
 year: 2017

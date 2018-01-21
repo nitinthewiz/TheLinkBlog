@@ -2,6 +2,7 @@
 title: "EFF Calls on Websites to Implement HTTPS As Part of Data Privacy Day"
 slug: eff-calls-on-websites-to-implement-https-as-part-of-data-privacy-day
 date: 2012-01-23 21:53:19 -0600
+category: 
 external-url: https://www.eff.org/deeplinks/2012/01/eff-calls-websites-implement-https-part-data-privacy-day
 hash: 5365f8476fce663db8fdac0a1673b47e
 year: 2012

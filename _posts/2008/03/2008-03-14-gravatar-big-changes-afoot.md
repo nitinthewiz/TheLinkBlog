@@ -2,6 +2,7 @@
 title: "Gravatar: Big changes afoot"
 slug: gravatar-big-changes-afoot
 date: 2008-03-14 16:11:47 -0500
+category: 
 external-url: http://blog.gravatar.com/2008/03/14/big-changes-afoot/
 hash: 369e226a9f8aa471f81d12392e457cae
 year: 2008

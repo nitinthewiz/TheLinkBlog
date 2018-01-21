@@ -2,6 +2,7 @@
 title: "MediaWiki Hooks"
 slug: mediawiki-hooks
 date: 2011-08-10 17:55:28 -0500
+category: 
 external-url: http://www.mediawiki.org/wiki/Manual:Hooks
 hash: c8878ebd1829ef1fb57436285ad53d01
 year: 2011

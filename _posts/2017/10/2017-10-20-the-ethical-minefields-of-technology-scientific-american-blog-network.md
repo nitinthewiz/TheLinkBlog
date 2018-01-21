@@ -2,6 +2,7 @@
 title: "The Ethical Minefields of Technology - Scientific American Blog Network"
 slug: the-ethical-minefields-of-technology-scientific-american-blog-network
 date: 2017-10-20 22:37:11 -0500
+category: 
 external-url: https://blogs.scientificamerican.com/observations/the-ethical-minefields-of-technology/
 hash: d8e1a2f3d169d66ee8f7b84d5c1818ac
 year: 2017

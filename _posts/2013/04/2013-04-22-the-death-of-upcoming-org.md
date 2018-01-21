@@ -2,6 +2,7 @@
 title: "The Death of Upcoming.org"
 slug: the-death-of-upcoming-org
 date: 2013-04-22 16:38:50 -0500
+category: 
 external-url: http://waxy.org/2013/04/the_death_of_upcomingorg/
 hash: d43dcadda35952f09ffb8453318fb411
 year: 2013

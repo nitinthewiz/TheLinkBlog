@@ -2,6 +2,7 @@
 title: "NYT's TimesPeople Social Network: Another Good Idea From The Times"
 slug: nyt-s-timespeople-social-network-another-good-idea-from-the-times
 date: 2008-06-18 13:25:00 -0500
+category: 
 external-url: http://www.businessinsider.com/2008/6/nyt-timespeople-social-network
 hash: 34635accbfd6d38c628ed6db0a7342fe
 year: 2008

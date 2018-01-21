@@ -2,6 +2,7 @@
 title: "The Dire Straits Of Publicly Traded Tech In Minnesota [Part 1]"
 slug: the-dire-straits-of-publicly-traded-tech-in-minnesota-part-1
 date: 2016-01-13 21:09:35 -0600
+category: 
 external-url: http://tech.mn/news/2016/01/13/the-dire-straits-of-publicly-traded-tech-in-minnesota-part-1/
 hash: 98b83215bbf26b7bc6e9e0836a7bccca
 year: 2016

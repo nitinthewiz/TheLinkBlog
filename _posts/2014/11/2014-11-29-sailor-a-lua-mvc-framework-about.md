@@ -2,6 +2,7 @@
 title: "Sailor! A Lua MVC Framework - About"
 slug: sailor-a-lua-mvc-framework-about
 date: 2014-11-29 20:43:05 -0600
+category: 
 external-url: http://sailorproject.org/
 hash: 8e43c65df9ecf9fc19021c1827519da7
 year: 2014

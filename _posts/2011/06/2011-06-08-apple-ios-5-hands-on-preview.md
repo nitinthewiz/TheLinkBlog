@@ -2,6 +2,7 @@
 title: "Apple iOS 5 hands-on preview"
 slug: apple-ios-5-hands-on-preview
 date: 2011-06-08 22:55:58 -0500
+category: 
 external-url: http://www.engadget.com/wwdc-2011/apple-ios-5-hands-on-preview/
 hash: 71618e49e4a6b0ca189131a4656b5de5
 year: 2011

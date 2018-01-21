@@ -2,6 +2,7 @@
 title: "Within the Frame"
 slug: within-the-frame
 date: 2009-09-30 00:03:28 -0500
+category: 
 external-url: http://www.nickpotter.net/archive/2009/09/within-the-frame
 hash: b3184b3819f94acbf3aeffd1c2a73642
 year: 2009

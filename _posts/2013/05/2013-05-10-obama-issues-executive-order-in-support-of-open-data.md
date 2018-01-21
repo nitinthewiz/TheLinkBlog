@@ -2,6 +2,7 @@
 title: "Obama issues Executive Order in support of open data"
 slug: obama-issues-executive-order-in-support-of-open-data
 date: 2013-05-10 12:36:30 -0500
+category: 
 external-url: http://creativecommons.org/weblog/entry/38269
 hash: 77b2c045db5ae678b087dea2d73ae243
 year: 2013

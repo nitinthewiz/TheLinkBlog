@@ -2,6 +2,7 @@
 title: "Jamf to Receive Majority Investment from Vista Equity Partners | Jamf"
 slug: jamf-to-receive-majority-investment-from-vista-equity-partners-jamf
 date: 2017-10-11 20:12:25 -0500
+category: 
 external-url: https://www.jamf.com/resources/jamf-to-receive-majority-investment-from-vista-equity-partners/
 hash: e77568b653e9529d6a0a336bf9747d20
 year: 2017

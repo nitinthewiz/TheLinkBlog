@@ -2,6 +2,7 @@
 title: "GPSPhotoLinker: Overview"
 slug: gpsphotolinker-overview
 date: 2007-03-24 23:07:01 -0500
+category: 
 external-url: http://people.oregonstate.edu/~earlyj/gpsphotolinker/
 hash: 38a0a6b002253d553f20c09924cb9d6b
 year: 2007

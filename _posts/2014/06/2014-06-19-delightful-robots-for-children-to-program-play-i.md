@@ -2,6 +2,7 @@
 title: "Delightful robots for children to program - Play-i"
 slug: delightful-robots-for-children-to-program-play-i
 date: 2014-06-19 23:28:12 -0500
+category: 
 external-url: https://www.play-i.com/
 hash: 4084614eb44ce328b6adf7e607d870e3
 year: 2014

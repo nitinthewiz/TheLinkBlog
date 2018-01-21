@@ -2,6 +2,7 @@
 title: "Variance Charts"
 slug: variance-charts
 date: 2014-03-24 21:15:27 -0500
+category: 
 external-url: https://variancecharts.com/
 hash: 0e847aa68d407186e2b030724c68b57f
 year: 2014

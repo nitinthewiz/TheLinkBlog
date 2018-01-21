@@ -2,6 +2,7 @@
 title: "All your Tumblr are belong to Them"
 slug: all-your-tumblr-are-belong-to-them
 date: 2012-04-20 10:51:07 -0500
+category: 
 external-url: http://blogs.reuters.com/paulsmalera/2012/04/18/all-your-tumblr-are-belong-to-them/
 hash: 7dcbc2ee2408cc5b5e91ee713550d390
 year: 2012

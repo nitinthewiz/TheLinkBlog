@@ -2,6 +2,7 @@
 title: "Learn from social media | EventBurn"
 slug: learn-from-social-media-eventburn
 date: 2010-10-21 13:16:41 -0500
+category: 
 external-url: http://www.eventburn.com
 hash: aeaacffe4a7c7da75d9f413e7c7cb493
 year: 2010

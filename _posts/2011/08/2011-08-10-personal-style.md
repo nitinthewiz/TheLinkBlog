@@ -2,6 +2,7 @@
 title: "Personal style"
 slug: personal-style
 date: 2011-08-10 10:20:25 -0500
+category: 
 external-url: http://kottke.org/11/08/personal-style
 hash: 481b2cf331db8924bde01897260a6cce
 year: 2011

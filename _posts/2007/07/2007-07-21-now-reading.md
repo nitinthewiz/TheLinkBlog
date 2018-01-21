@@ -2,6 +2,7 @@
 title: "Now Reading"
 slug: now-reading
 date: 2007-07-21 20:29:03 -0500
+category: 
 external-url: https://robm.me.uk/projects/plugins/wordpress/now-reading
 hash: 9ba358d6dd01c30d1c0e1e812e23eb69
 year: 2007

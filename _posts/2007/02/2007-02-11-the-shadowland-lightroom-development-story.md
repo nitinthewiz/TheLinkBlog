@@ -2,6 +2,7 @@
 title: "The Shadowland/Lightroom Development Story"
 slug: the-shadowland-lightroom-development-story
 date: 2007-02-11 16:48:29 -0600
+category: 
 external-url: http://www.photoshopnews.com/2006/01/09/the-shadowlandlightroom-development-story/
 hash: e0770c8f72f57c460fc79f0957d4f19f
 year: 2007

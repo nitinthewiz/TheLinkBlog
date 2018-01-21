@@ -2,6 +2,7 @@
 title: "Veganomicon: The Ultimate Vegan Cookbook"
 slug: veganomicon-the-ultimate-vegan-cookbook
 date: 2011-09-22 20:51:03 -0500
+category: 
 external-url: http://www.theppk.com/books/veganomicon-the-ultimate-vegan-cookbook/
 hash: 4da0e4f46e70eeec70f69cf14839467f
 year: 2011

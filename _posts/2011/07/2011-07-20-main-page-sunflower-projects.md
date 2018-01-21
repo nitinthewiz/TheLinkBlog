@@ -2,6 +2,7 @@
 title: "Main Page - Sunflower Projects"
 slug: main-page-sunflower-projects
 date: 2011-07-20 02:39:12 -0500
+category: 
 external-url: http://sunflowerprojects.org/Main_Page
 hash: 344b58ee1f8660d4eca2cf837caad707
 year: 2011

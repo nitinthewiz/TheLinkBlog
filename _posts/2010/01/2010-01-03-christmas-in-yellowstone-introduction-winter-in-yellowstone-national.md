@@ -2,6 +2,7 @@
 title: "Christmas in Yellowstone - Introduction - Winter in Yellowstone National Park | Nature | PBS"
 slug: christmas-in-yellowstone-introduction-winter-in-yellowstone-national
 date: 2010-01-03 21:14:13 -0600
+category: 
 external-url: http://www.pbs.org/wnet/nature/episodes/christmas-in-yellowstone/introduction/4292/
 hash: 7b2d4a05cf5af5c30ac3fe3604f445b6
 year: 2010

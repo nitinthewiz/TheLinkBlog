@@ -2,6 +2,7 @@
 title: "The MacStories Review"
 slug: the-macstories-review
 date: 2016-09-16 20:26:11 -0500
+category: 
 external-url: https://www.macstories.net/stories/watchos-3-review/
 hash: a1b3cbceb516c293349d37b5cc04a7ed
 year: 2016

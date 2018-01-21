@@ -2,6 +2,7 @@
 title: "Apple TV Hard Drive Upgraded to 120GB"
 slug: apple-tv-hard-drive-upgraded-to-120gb
 date: 2007-03-23 10:41:59 -0500
+category: 
 external-url: http://gizmodo.com/246567/diy-apple-tv-hard-drive-upgraded-to-120gb
 hash: 4f5949664a310ec5efa71478e3d629f4
 year: 2007

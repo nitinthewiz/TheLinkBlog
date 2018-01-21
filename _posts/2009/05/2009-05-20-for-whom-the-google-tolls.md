@@ -2,6 +2,7 @@
 title: "For whom the Google tolls"
 slug: for-whom-the-google-tolls
 date: 2009-05-20 23:41:32 -0500
+category: 
 external-url: http://www.roughtype.com/archives/2009/05/for_whom_the_go.php
 hash: 50b174d0cadcb7351caa46709ec918c2
 year: 2009

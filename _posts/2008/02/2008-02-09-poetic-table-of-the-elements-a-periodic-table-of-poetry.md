@@ -2,6 +2,7 @@
 title: "Poetic Table of the Elements: A Periodic Table of Poetry"
 slug: poetic-table-of-the-elements-a-periodic-table-of-poetry
 date: 2008-02-09 06:06:12 -0600
+category: 
 external-url: http://www.everypoet.com/absurdities/elements/
 hash: d3f942b572b72bb238de57fe85e73bd2
 year: 2008

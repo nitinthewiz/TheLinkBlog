@@ -2,6 +2,7 @@
 title: "A More Powerful Way to Schedule Tasks in OmniFocus"
 slug: a-more-powerful-way-to-schedule-tasks-in-omnifocus
 date: 2017-05-11 13:47:59 -0500
+category: 
 external-url: https://colterreed.com/a-more-powerful-way-to-schedule-tasks-in-omnifocus/
 hash: 830113831a5e451507015a6b1e391881
 year: 2017

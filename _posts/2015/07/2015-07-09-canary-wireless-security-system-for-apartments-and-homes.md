@@ -2,6 +2,7 @@
 title: "Canary - Wireless security system for apartments and homes"
 slug: canary-wireless-security-system-for-apartments-and-homes
 date: 2015-07-09 20:55:44 -0500
+category: 
 external-url: http://canary.is/
 hash: a522cd53f6d154cc40e351aee6efaca4
 year: 2015

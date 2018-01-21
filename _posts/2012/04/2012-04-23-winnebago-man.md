@@ -2,6 +2,7 @@
 title: "Winnebago Man"
 slug: winnebago-man
 date: 2012-04-23 23:11:28 -0500
+category: 
 external-url: https://www.netflix.com/createNRM?locale=en-US&next=http%3A%2F%2Fmovies.netflix.com%2FWiMovie%2FWinnebago_Man%2F70115866%3Flocale%3Den-US%26noredir%3Dtrue
 hash: 7068aa0451a9aae3a740909f6c7c86ca
 year: 2012

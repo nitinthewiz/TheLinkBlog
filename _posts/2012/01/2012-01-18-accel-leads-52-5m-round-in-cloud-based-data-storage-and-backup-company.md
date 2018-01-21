@@ -2,6 +2,7 @@
 title: "Accel Leads $52.5M Round In Cloud-Based Data Storage And Backup Company Code 42 | TechCrunch"
 slug: accel-leads-52-5m-round-in-cloud-based-data-storage-and-backup-company
 date: 2012-01-18 16:05:02 -0600
+category: 
 external-url: http://techcrunch.com/2012/01/17/accel-leads-52-5m-round-in-cloud-based-data-storage-and-backup-company-code-42/
 hash: 9fa4c72d3461bb00a0c918e38bf55454
 year: 2012

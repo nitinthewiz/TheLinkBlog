@@ -2,6 +2,7 @@
 title: "Introducing LoggerFS - Rackspace Developer Center"
 slug: introducing-loggerfs-rackspace-developer-center
 date: 2014-06-06 22:07:01 -0500
+category: 
 external-url: https://developer.rackspace.com/blog/introducing-loggerfs.html
 hash: aa490990d90b70afb89d788e2bd995e3
 year: 2014

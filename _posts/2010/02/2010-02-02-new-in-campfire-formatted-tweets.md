@@ -2,6 +2,7 @@
 title: "New in Campfire: Formatted Tweets"
 slug: new-in-campfire-formatted-tweets
 date: 2010-02-02 23:25:47 -0600
+category: 
 external-url: http://productblog.37signals.com/products/2010/01/new-in-campfire-formatted-tweets.html
 hash: 551f0e7cfad7e8d541a60c30f9fa4d81
 year: 2010

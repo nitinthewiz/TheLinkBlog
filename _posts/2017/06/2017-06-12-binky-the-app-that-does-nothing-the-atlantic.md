@@ -2,6 +2,7 @@
 title: "Binky: The App That Does Nothing - The Atlantic"
 slug: binky-the-app-that-does-nothing-the-atlantic
 date: 2017-06-12 14:53:26 -0500
+category: 
 external-url: https://www.theatlantic.com/technology/archive/2017/06/the-app-that-does-nothing/529764/
 hash: bfc6d6fe8d10e667de8ad85896e1f437
 year: 2017

@@ -2,6 +2,7 @@
 title: "Let Me Google That for You - Bridget Kromhout"
 slug: let-me-google-that-for-you-bridget-kromhout
 date: 2015-05-31 16:59:27 -0500
+category: 
 external-url: http://bridgetkromhout.com/blog/2015/05/31/let-me-google-that-for-you/
 hash: 57612dbece6800c36344a5a0aafe6f18
 year: 2015

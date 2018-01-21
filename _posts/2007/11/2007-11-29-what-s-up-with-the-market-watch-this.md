@@ -2,6 +2,7 @@
 title: "What's Up With the Market? Watch This"
 slug: what-s-up-with-the-market-watch-this
 date: 2007-11-29 07:50:50 -0600
+category: 
 external-url: http://graemethickins.typepad.com/graeme_blogs_here/2007/11/whats-up-with-t.html
 hash: b4b4879be7406dada2e534321b043c66
 year: 2007

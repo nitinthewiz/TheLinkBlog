@@ -2,6 +2,7 @@
 title: "New – Route 53 Traffic Flow | AWS Official Blog"
 slug: new-route-53-traffic-flow-aws-official-blog
 date: 2015-12-10 20:16:48 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/
 hash: bb5897a6f7010c058d92a63557e8e479
 year: 2015

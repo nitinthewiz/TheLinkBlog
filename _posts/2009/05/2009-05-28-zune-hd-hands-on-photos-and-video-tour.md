@@ -2,6 +2,7 @@
 title: "Zune HD Hands On: Photos and Video Tour"
 slug: zune-hd-hands-on-photos-and-video-tour
 date: 2009-05-28 21:16:32 -0500
+category: 
 external-url: http://gizmodo.com/5272228/zune-hd-hands-on-photos-and-video-tour
 hash: a7e11d2d053070e31b4a6b48129d1010
 year: 2009

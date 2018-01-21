@@ -2,6 +2,7 @@
 title: "No Fluff Just Stuff"
 slug: no-fluff-just-stuff
 date: 2008-02-02 23:32:44 -0600
+category: 
 external-url: http://www.nofluffjuststuff.com/
 hash: dd68cb3dfbe124c978f364104265ef5c
 year: 2008

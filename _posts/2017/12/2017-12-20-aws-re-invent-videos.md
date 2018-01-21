@@ -2,6 +2,7 @@
 title: "AWS re:Invent Videos"
 slug: aws-re-invent-videos
 date: 2017-12-20 06:41:12 -0600
+category: 
 external-url: https://reinventvideos.com/
 hash: 2331c2db1ec8e5c1012b533bcc719303
 year: 2017

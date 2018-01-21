@@ -2,6 +2,7 @@
 title: "Adactio: Journal—Web! What is it good for?"
 slug: adactio-journal-web-what-is-it-good-for
 date: 2015-05-30 09:49:58 -0500
+category: 
 external-url: https://adactio.com/journal/9016
 hash: c9425e43a74f7d895935db61c32d64a3
 year: 2015

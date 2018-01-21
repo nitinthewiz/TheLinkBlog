@@ -2,6 +2,7 @@
 title: "Meekan and Convergely will elevate your chat game"
 slug: meekan-and-convergely-will-elevate-your-chat-game
 date: 2015-11-11 20:52:34 -0600
+category: 
 external-url: https://blog.hipchat.com/2015/11/11/meekan-and-convergely-will-elevate-your-chat-game/
 hash: 47a09867f6fbf297025a0409eb7376cd
 year: 2015

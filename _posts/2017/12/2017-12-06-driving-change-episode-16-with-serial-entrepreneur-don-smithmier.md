@@ -2,6 +2,7 @@
 title: "Driving Change Episode 16 with Serial Entrepreneur Don Smithmier - YouTube"
 slug: driving-change-episode-16-with-serial-entrepreneur-don-smithmier
 date: 2017-12-06 23:58:35 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=v2e8l0w2tPQ
 hash: 883aeb57a4639bab1e392a3febeeadca
 year: 2017

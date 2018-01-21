@@ -2,6 +2,7 @@
 title: "gh-ost: GitHub’s online schema migration tool for MySQL - GitHub Engineering"
 slug: gh-ost-githubs-online-schema-migration-tool-for-mysql-github
 date: 2016-08-03 15:30:44 -0500
+category: 
 external-url: http://githubengineering.com/gh-ost-github-s-online-migration-tool-for-mysql/
 hash: 0329dc2de843ba22d55172f5f3427060
 year: 2016

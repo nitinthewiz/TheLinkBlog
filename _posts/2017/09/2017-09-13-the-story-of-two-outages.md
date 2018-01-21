@@ -2,6 +2,7 @@
 title: "The Story of Two Outages"
 slug: the-story-of-two-outages
 date: 2017-09-13 13:00:00 -0500
+category: 
 external-url: https://blog.cloudflare.com/the-story-of-two-outages/
 hash: 1a17680175b3595a63531953ca97f5ad
 year: 2017

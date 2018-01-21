@@ -2,6 +2,7 @@
 title: "Open Source Friday"
 slug: open-source-friday
 date: 2017-07-05 21:35:07 -0500
+category: 
 external-url: https://opensourcefriday.com/
 hash: 15bdde643d46eeabc650c28b27843497
 year: 2017

@@ -2,6 +2,7 @@
 title: "The 13 Things That Make a Good Build System - SignalFx"
 slug: the-13-things-that-make-a-good-build-system-signalfx
 date: 2016-02-21 08:09:07 -0600
+category: 
 external-url: https://signalfx.com/the-13-things-that-make-a-good-build-system/
 hash: 9de4462fdd51b4d2f812d46ec523d82e
 year: 2016

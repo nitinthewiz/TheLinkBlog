@@ -2,6 +2,7 @@
 title: "The iPad Pro as main computer for programming"
 slug: the-ipad-pro-as-main-computer-for-programming
 date: 2017-10-27 04:43:37 -0500
+category: 
 external-url: https://jann.is/ipad-pro-for-programming/
 hash: 96c648da55eab683f93927cdb4ea7dc0
 year: 2017

@@ -2,6 +2,7 @@
 title: "MindNode 5 Screencasts by David Sparks - YouTube"
 slug: mindnode-5-screencasts-by-david-sparks-youtube
 date: 2017-12-02 15:43:38 -0600
+category: 
 external-url: https://www.youtube.com/playlist?list=PLIyABTY2AZyE4Qa_7NBaALAC6lq5mNOfv&disable_polymer=true
 hash: 8eddf9f24ca82880541db0c9e8f84589
 year: 2017

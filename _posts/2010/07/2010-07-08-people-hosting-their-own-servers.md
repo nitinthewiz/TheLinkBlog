@@ -2,6 +2,7 @@
 title: "People hosting their own servers"
 slug: people-hosting-their-own-servers
 date: 2010-07-08 04:49:31 -0500
+category: 
 external-url: http://scripting.com/stories/2010/07/08/peopleHostingTheirOwnServe.html
 hash: bba3426ff4a063ca7f5f44cceb445a59
 year: 2010

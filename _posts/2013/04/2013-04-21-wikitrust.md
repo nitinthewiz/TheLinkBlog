@@ -2,6 +2,7 @@
 title: "WikiTrust"
 slug: wikitrust
 date: 2013-04-21 13:56:27 -0500
+category: 
 external-url: http://www.wikitrust.net/
 hash: e26513cc5964ae3c079a59780d655986
 year: 2013

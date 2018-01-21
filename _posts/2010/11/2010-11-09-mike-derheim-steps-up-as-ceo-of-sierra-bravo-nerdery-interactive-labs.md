@@ -2,6 +2,7 @@
 title: "Mike Derheim Steps Up as CEO of Sierra Bravo / Nerdery Interactive Labs"
 slug: mike-derheim-steps-up-as-ceo-of-sierra-bravo-nerdery-interactive-labs
 date: 2010-11-09 01:15:08 -0600
+category: 
 external-url: http://tech.mn/news/2010/11/09/mike-derheim-ceo-sierra-bravo-nerdery-interactive-labs/
 hash: 4c35e9f5b2dd5703d8f111aeee990240
 year: 2010

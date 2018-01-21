@@ -2,6 +2,7 @@
 title: "Moving Fast with Software Verification | the morning paper"
 slug: moving-fast-with-software-verification-the-morning-paper
 date: 2015-11-29 07:44:09 -0600
+category: 
 external-url: http://blog.acolyer.org/2015/11/20/moving-fast-with-software-verification/
 hash: 6538f05da097b082ab056856c99eed93
 year: 2015

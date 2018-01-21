@@ -2,6 +2,7 @@
 title: "SPS Commerce acquires Leadtec | SPS Commerce"
 slug: sps-commerce-acquires-leadtec-sps-commerce
 date: 2014-10-13 22:30:17 -0500
+category: 
 external-url: http://www.spscommerce.com/leadtec/
 hash: 7e5531046c1954b019038f97eb6d3f28
 year: 2014

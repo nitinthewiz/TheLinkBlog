@@ -2,6 +2,7 @@
 title: "IOS Developer Program - Apple Developer"
 slug: ios-developer-program-apple-developer
 date: 2008-10-01 11:32:12 -0500
+category: 
 external-url: https://developer.apple.com/programs/ios/
 hash: ee78904680a5a4ab1da8cb46ecd5676e
 year: 2008

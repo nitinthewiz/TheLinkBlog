@@ -2,6 +2,7 @@
 title: "Tips for in-house teams in a free market software culture"
 slug: tips-for-in-house-teams-in-a-free-market-software-culture
 date: 2017-12-17 08:27:33 -0600
+category: 
 external-url: http://engineroom.ft.com/2017/12/01/tips-for-in-house-teams-in-a-free-market-software-culture/
 hash: 3ee7786fea62e6f5edae37b5d213a7db
 year: 2017

@@ -2,6 +2,7 @@
 title: "WordPress 4.4 “Clifford”"
 slug: wordpress-4-4-clifford
 date: 2015-12-09 00:30:02 -0600
+category: 
 external-url: https://wordpress.org/news/2015/12/clifford/
 hash: 02ec76da0e1f36cc154627ce193cf11d
 year: 2015

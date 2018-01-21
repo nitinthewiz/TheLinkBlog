@@ -2,6 +2,7 @@
 title: "Beauty of The Winter Carpathians | English Russia"
 slug: beauty-of-the-winter-carpathians-english-russia
 date: 2013-12-24 19:07:05 -0600
+category: 
 external-url: http://feedly.com/k/JuS4Th
 hash: 45999cb7bdb35da0f1e9eac967283af7
 year: 2013

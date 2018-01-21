@@ -2,6 +2,7 @@
 title: "Light Bulb"
 slug: light-bulb
 date: 2009-01-25 19:06:36 -0600
+category: 
 external-url: http://www.todayandtomorrow.net/2009/01/26/light-bulb/
 hash: 674ccee3db14e201a41194ccfda5948d
 year: 2009

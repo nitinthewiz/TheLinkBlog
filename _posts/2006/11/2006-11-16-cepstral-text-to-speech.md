@@ -2,6 +2,7 @@
 title: "Cepstral Text-to-Speech"
 slug: cepstral-text-to-speech
 date: 2006-11-16 06:27:29 -0600
+category: 
 external-url: http://www.cepstral.com/
 hash: 0d246dec26b1e52c2502887fe29eea54
 year: 2006

@@ -2,6 +2,7 @@
 title: "TableFlip - Simple Table Editor for Mac"
 slug: tableflip-simple-table-editor-for-mac
 date: 2016-10-23 14:53:41 -0500
+category: 
 external-url: http://tableflipapp.com/
 hash: 4334c55ded55caa3920ce8b68182a507
 year: 2016

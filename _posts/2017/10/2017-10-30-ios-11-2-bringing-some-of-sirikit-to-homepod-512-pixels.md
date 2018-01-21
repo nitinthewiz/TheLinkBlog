@@ -2,6 +2,7 @@
 title: "iOS 11.2 Bringing (some of) SiriKit to HomePod — 512 Pixels"
 slug: ios-11-2-bringing-some-of-sirikit-to-homepod-512-pixels
 date: 2017-10-30 20:53:50 -0500
+category: 
 external-url: https://512pixels.net/2017/10/ios-11-2-bringing-some-of-sirikit-to-homepod/
 hash: 71232b15a4ca8536f041158963efbf58
 year: 2017

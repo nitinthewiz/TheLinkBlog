@@ -2,6 +2,7 @@
 title: "symfony Web PHP Framework"
 slug: symfony-web-php-framework
 date: 2008-01-30 11:35:54 -0600
+category: 
 external-url: http://www.symfony-project.org/
 hash: 75753e06526158356b6f5d1d5de53e93
 year: 2008

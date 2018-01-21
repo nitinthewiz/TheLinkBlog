@@ -2,6 +2,7 @@
 title: "Advanced Economies Must Still Make Things"
 slug: advanced-economies-must-still-make-things
 date: 2016-03-31 06:18:54 -0500
+category: 
 external-url: http://spectrum.ieee.org/at-work/tech-careers/advanced-economies-must-still-make-things
 hash: b45b1686c7d5d4d6f7af805cef5342ae
 year: 2016

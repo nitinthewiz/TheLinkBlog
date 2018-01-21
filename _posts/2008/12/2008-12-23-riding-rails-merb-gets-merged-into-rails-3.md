@@ -2,6 +2,7 @@
 title: "Riding Rails: Merb gets merged into Rails 3!"
 slug: riding-rails-merb-gets-merged-into-rails-3
 date: 2008-12-23 16:02:24 -0600
+category: 
 external-url: http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3
 hash: d07ac94b35da2de133a868ea90cfe30d
 year: 2008

@@ -2,6 +2,7 @@
 title: "It Gets Worse: Joshua Schachter Leaving Yahoo"
 slug: it-gets-worse-joshua-schachter-leaving-yahoo
 date: 2008-06-19 21:40:46 -0500
+category: 
 external-url: http://techcrunch.com/2008/06/19/it-gets-worse-for-yahoo-delicious-founder-leaving/
 hash: 9f57b27104a2645e4bad4a017fc1703a
 year: 2008

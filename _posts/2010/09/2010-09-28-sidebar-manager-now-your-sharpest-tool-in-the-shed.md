@@ -2,6 +2,7 @@
 title: "Sidebar Manager, now your sharpest tool in the shed"
 slug: sidebar-manager-now-your-sharpest-tool-in-the-shed
 date: 2010-09-28 06:29:18 -0500
+category: 
 external-url: http://www.woothemes.com/2010/09/sidebar-manager-now-your-sharpest-tool-in-the-shed/
 hash: 2ae5095b5a7ca301c32dfa2e1ddc15d3
 year: 2010

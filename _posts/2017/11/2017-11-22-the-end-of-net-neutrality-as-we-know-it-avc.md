@@ -2,6 +2,7 @@
 title: "The End Of Net Neutrality As We Know It – AVC"
 slug: the-end-of-net-neutrality-as-we-know-it-avc
 date: 2017-11-22 17:47:47 -0600
+category: 
 external-url: http://avc.com/2017/11/the-end-of-net-neutrality-as-we-know-it/
 hash: fd8f878477757961428f40e2c9f835c4
 year: 2017

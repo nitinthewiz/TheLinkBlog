@@ -2,6 +2,7 @@
 title: "SplinterNet"
 slug: splinternet
 date: 2013-02-28 12:29:10 -0600
+category: 
 external-url: https://github.com/megamattron/SplinterNet
 hash: 656ae6a247ef28ea82f4a02184858f90
 year: 2013

@@ -2,6 +2,7 @@
 title: "Massive botnet 'indestructible'"
 slug: massive-botnet-indestructible
 date: 2011-06-30 21:35:04 -0500
+category: 
 external-url: http://www.computerworld.com/s/article/9218034/Massive_botnet_indestructible_say_researchers?pageNumber=1
 hash: 819a5b073a80d4a3891b4014ff2fc759
 year: 2011

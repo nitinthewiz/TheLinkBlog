@@ -2,6 +2,7 @@
 title: "10 Lessons from 10 Years of Amazon Web Services"
 slug: 10-lessons-from-10-years-of-amazon-web-services
 date: 2016-03-12 20:44:25 -0600
+category: 
 external-url: http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html
 hash: 3b2dd8728b1ad3f4cbfb6d44212e48f3
 year: 2016

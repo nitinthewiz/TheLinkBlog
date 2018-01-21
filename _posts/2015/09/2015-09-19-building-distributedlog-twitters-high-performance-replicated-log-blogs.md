@@ -2,6 +2,7 @@
 title: "Building DistributedLog: Twitter’s high-performance replicated log service | Twitter Blogs"
 slug: building-distributedlog-twitters-high-performance-replicated-log-blogs
 date: 2015-09-19 05:44:12 -0500
+category: 
 external-url: https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service
 hash: c71d848cb6097642ff1408e30dc14113
 year: 2015

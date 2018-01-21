@@ -2,6 +2,7 @@
 title: "The Dropcam Team"
 slug: the-dropcam-team
 date: 2016-03-29 19:49:33 -0500
+category: 
 external-url: https://medium.com/@gduffy/the-dropcam-team-b9e81f44f259#.xyiu323jd
 hash: f9a56c0a1954030d0b4335310fa6b591
 year: 2016

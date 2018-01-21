@@ -2,6 +2,7 @@
 title: "The War Logs"
 slug: the-war-logs
 date: 2010-07-26 13:00:57 -0500
+category: 
 external-url: http://journal.duncandavidson.com/post/862160118
 hash: 051f5a98aee26f672e5e1770be4f4f9f
 year: 2010

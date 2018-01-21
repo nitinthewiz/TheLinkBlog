@@ -2,6 +2,7 @@
 title: "Amazon Route 53"
 slug: amazon-route-53
 date: 2010-12-07 13:34:24 -0600
+category: 
 external-url: http://aws.amazon.com/route53/
 hash: a48ef02a407e6e70990576667a5dc4a5
 year: 2010

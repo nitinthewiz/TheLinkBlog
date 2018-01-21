@@ -2,6 +2,7 @@
 title: "Art Channel for Apple TV"
 slug: art-channel-for-apple-tv
 date: 2016-03-03 07:11:54 -0600
+category: 
 external-url: http://macsparky.com/blog/2016/3/art-channel-for-apple-tv
 hash: a64f2558c3b40021094803f0b9541dd0
 year: 2016

@@ -2,6 +2,7 @@
 title: "Transition Guide | YNAB"
 slug: transition-guide-ynab
 date: 2016-01-01 07:23:07 -0600
+category: 
 external-url: http://www.youneedabudget.com/learn/guide/transition-guide#migrate
 hash: 4f133c1bf7496d868754416aaad03e04
 year: 2016

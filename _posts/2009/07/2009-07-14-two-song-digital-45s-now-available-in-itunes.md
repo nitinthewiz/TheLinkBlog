@@ -2,6 +2,7 @@
 title: "Two song Digital 45s now available in iTunes"
 slug: two-song-digital-45s-now-available-in-itunes
 date: 2009-07-14 23:37:42 -0500
+category: 
 external-url: http://www.tuaw.com/2009/07/14/two-song-digital-45s-now-available-in-itunes/
 hash: 2ec1cc08f41740d9dcd4060063bc6cf4
 year: 2009

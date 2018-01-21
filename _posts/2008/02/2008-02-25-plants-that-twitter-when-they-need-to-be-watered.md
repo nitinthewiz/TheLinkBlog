@@ -2,6 +2,7 @@
 title: "Plants that Twitter when they need to be watered"
 slug: plants-that-twitter-when-they-need-to-be-watered
 date: 2008-02-25 00:44:00 -0600
+category: 
 external-url: http://www.cnet.com/8301-13772_3-9877823-52.html
 hash: e53ccbb8427ca9a0abf0480cc8bcbc59
 year: 2008

@@ -2,6 +2,7 @@
 title: "Does Assange have an agenda?"
 slug: does-assange-have-an-agenda
 date: 2011-02-02 14:54:52 -0600
+category: 
 external-url: http://scripting.com/stories/2011/02/02/doesAssangeHaveAnAgenda.html
 hash: 13d4240191bdc2e226d1b897c05b8cad
 year: 2011

@@ -2,6 +2,7 @@
 title: "Alvenda Bags $5 Million in VC"
 slug: alvenda-bags-5-million-in-vc
 date: 2010-01-17 08:28:55 -0600
+category: 
 external-url: http://minnov8.com/2010/01/17/alvenda-bags-5-million-in-vc/
 hash: d5b313271144bdfbfc8c8ae344767f18
 year: 2010

@@ -2,6 +2,7 @@
 title: "4 Reasons Every CEO Should Send a “Friday Note” | Chip House | Pulse | LinkedIn"
 slug: 4-reasons-every-ceo-should-send-a-friday-note-chip-house-pulse
 date: 2017-04-19 13:58:06 -0500
+category: 
 external-url: https://www.linkedin.com/pulse/4-reasons-every-ceo-should-send-friday-note-chip-house?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfsAibK8pn7fR42UJI5rFzA%3D%3D
 hash: 5a8e1202abf01de85b2176fd7ddb9185
 year: 2017

@@ -2,6 +2,7 @@
 title: "Mapped web pages in Google Maps"
 slug: mapped-web-pages-in-google-maps
 date: 2008-05-01 13:45:00 -0500
+category: 
 external-url: http://google-latlong.blogspot.com/2008/05/mapped-web-pages-in-google-maps.html
 hash: 81d9439ee0c65cf123cd26881ab2b994
 year: 2008

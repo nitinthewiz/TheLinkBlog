@@ -2,6 +2,7 @@
 title: "Native Win32 ports of some GNU utilities"
 slug: native-win32-ports-of-some-gnu-utilities
 date: 2007-05-29 14:16:02 -0500
+category: 
 external-url: http://unxutils.sourceforge.net/
 hash: 4655815c5804cc83b1ef3a123a9e47eb
 year: 2007

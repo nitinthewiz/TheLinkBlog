@@ -2,6 +2,7 @@
 title: "First Look: Patisserie 46 in Kingfield, Minneapolis"
 slug: first-look-patisserie-46-in-kingfield-minneapolis
 date: 2010-07-08 00:18:01 -0500
+category: 
 external-url: http://heavytable.com/first-look-patisserie-46-in-kingfield-minneapolis/
 hash: 9fe6e4bb263c0f6045dad89899536567
 year: 2010

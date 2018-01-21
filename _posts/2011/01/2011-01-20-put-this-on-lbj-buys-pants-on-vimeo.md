@@ -2,6 +2,7 @@
 title: "Put This On: LBJ Buys Pants on Vimeo"
 slug: put-this-on-lbj-buys-pants-on-vimeo
 date: 2011-01-20 00:57:01 -0600
+category: 
 external-url: http://vimeo.com/18864216
 hash: 930a2f6196abe41e6f84f2381382542a
 year: 2011

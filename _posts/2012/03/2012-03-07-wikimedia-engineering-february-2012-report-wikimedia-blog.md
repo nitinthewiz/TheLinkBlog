@@ -2,6 +2,7 @@
 title: "Wikimedia engineering February 2012 report — Wikimedia blog"
 slug: wikimedia-engineering-february-2012-report-wikimedia-blog
 date: 2012-03-07 17:08:34 -0600
+category: 
 external-url: https://blog.wikimedia.org/2012/03/07/engineering-february-2012-report/
 hash: 2f8f6742586a545bc58df6c9bad4d13d
 year: 2012

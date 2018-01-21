@@ -2,6 +2,7 @@
 title: "Photos from Chasing Ice, James Balogs Chronicle of Melting Polar Glaciers"
 slug: photos-from-chasing-ice-james-balogs-chronicle-of-melting-polar
 date: 2012-11-08 16:43:50 -0600
+category: 
 external-url: http://www.vanityfair.com/culture/2012/11/photos-chasing-ice-glaciers-melting
 hash: f47a158d989c6dcac0176b312f0528c7
 year: 2012

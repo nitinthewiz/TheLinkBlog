@@ -2,6 +2,7 @@
 title: "Introducing the \"Pint Tryst\" App for Beer Connoisseurs - The Minneapolis Egotist"
 slug: introducing-the-pint-tryst-app-for-beer-connoisseurs-the-minneapolis
 date: 2012-12-03 13:28:51 -0600
+category: 
 external-url: http://www.themplsegotist.com/news/local/2012/december/3/introducing-pint-tryst-app-beer-connoisseurs
 hash: a5058274050f7796f1a3f58bfbbe56b5
 year: 2012

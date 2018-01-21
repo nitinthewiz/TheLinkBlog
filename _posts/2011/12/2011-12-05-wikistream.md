@@ -2,6 +2,7 @@
 title: "Wikistream"
 slug: wikistream
 date: 2011-12-05 23:18:45 -0600
+category: 
 external-url: http://wikistream.wmflabs.org/
 hash: 7bb85053d1b36c255a8578378ab12688
 year: 2011

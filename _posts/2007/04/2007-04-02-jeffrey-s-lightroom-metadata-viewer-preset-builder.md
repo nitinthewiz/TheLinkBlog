@@ -2,6 +2,7 @@
 title: "Jeffrey's Lightroom Metadata-Viewer Preset Builder"
 slug: jeffrey-s-lightroom-metadata-viewer-preset-builder
 date: 2007-04-02 21:29:16 -0500
+category: 
 external-url: http://regex.info/Lightroom/Meta/
 hash: f8d7f4ae722240db7713bc68f5783c8d
 year: 2007

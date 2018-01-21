@@ -2,6 +2,7 @@
 title: "Replacing our search with Algolia | Netlify"
 slug: replacing-our-search-with-algolia-netlify
 date: 2017-10-10 19:16:04 -0500
+category: 
 external-url: https://www.netlify.com/blog/2017/10/10/replacing-our-search-with-algolia/
 hash: 8f463fc82c90c86a71c7c2a40b25ed90
 year: 2017

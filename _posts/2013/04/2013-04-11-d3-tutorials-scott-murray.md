@@ -2,6 +2,7 @@
 title: "D3 Tutorials Scott Murray"
 slug: d3-tutorials-scott-murray
 date: 2013-04-11 11:26:47 -0500
+category: 
 external-url: http://alignedleft.com/tutorials/d3/
 hash: 9dbad861404d6926c93a0e683fdf0611
 year: 2013

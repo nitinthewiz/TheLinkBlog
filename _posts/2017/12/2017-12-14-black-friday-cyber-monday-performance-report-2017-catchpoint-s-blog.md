@@ -2,6 +2,7 @@
 title: "Black Friday & Cyber Monday Performance Report 2017 - Catchpoint's Blog - Web Performance Monitoring"
 slug: black-friday-cyber-monday-performance-report-2017-catchpoint-s-blog
 date: 2017-12-14 22:53:27 -0600
+category: 
 external-url: http://blog.catchpoint.com/2017/11/29/black-friday-cyber-monday-performance-report-2017/
 hash: 568e5815ef997091a82df95ad46a6cc4
 year: 2017

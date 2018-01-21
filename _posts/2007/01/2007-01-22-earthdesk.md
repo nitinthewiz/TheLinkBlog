@@ -2,6 +2,7 @@
 title: "EarthDesk"
 slug: earthdesk
 date: 2007-01-22 21:19:07 -0600
+category: 
 external-url: http://www.xericdesign.com/earthdesk.php
 hash: 1be0a4e20803bfd78d6c1f12a05b91c3
 year: 2007

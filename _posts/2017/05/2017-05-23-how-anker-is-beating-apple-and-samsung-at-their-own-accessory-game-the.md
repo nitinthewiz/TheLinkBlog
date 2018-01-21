@@ -2,6 +2,7 @@
 title: "How Anker is beating Apple and Samsung at their own accessory game - The Verge"
 slug: how-anker-is-beating-apple-and-samsung-at-their-own-accessory-game-the
 date: 2017-05-23 10:53:40 -0500
+category: 
 external-url: https://www.theverge.com/2017/5/22/15673712/anker-battery-charger-amazon-empire-steven-yang-interview
 hash: b768c90c45c5ebac0b6d7f08df8478b8
 year: 2017

@@ -2,6 +2,7 @@
 title: "Save Yourself from Insomnia!"
 slug: save-yourself-from-insomnia
 date: 2012-05-15 00:10:54 -0500
+category: 
 external-url: http://saveyourself.ca/articles/insomnia.php
 hash: 18212f602149a7815b9897a2b971e00b
 year: 2012

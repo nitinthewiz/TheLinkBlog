@@ -2,6 +2,7 @@
 title: "One Year with Apple AirPods | Beardy Guy Musings"
 slug: one-year-with-apple-airpods-beardy-guy-musings
 date: 2017-12-29 14:31:50 -0600
+category: 
 external-url: http://beardyguycreative.com/blog/2017/12/26/one-year-with-apple-airpods/
 hash: ff58e8ecb53ef9d3b3b77d01769c03db
 year: 2017

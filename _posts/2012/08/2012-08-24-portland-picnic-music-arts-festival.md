@@ -2,6 +2,7 @@
 title: "Portland Picnic Music+Arts Festival"
 slug: portland-picnic-music-arts-festival
 date: 2012-08-24 14:52:14 -0500
+category: 
 external-url: http://www.picnicportland.com/
 hash: faa7fe3f5383509f94ed2904c2c7323e
 year: 2012

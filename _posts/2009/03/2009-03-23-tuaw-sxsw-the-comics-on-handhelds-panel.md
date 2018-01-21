@@ -2,6 +2,7 @@
 title: "TUAW @SXSW: The comics on handhelds panel"
 slug: tuaw-sxsw-the-comics-on-handhelds-panel
 date: 2009-03-23 23:50:00 -0500
+category: 
 external-url: http://www.tuaw.com/2009/03/23/tuaw-sxsw-the-comics-on-handhelds-panel/
 hash: 8f6f30fe4dc26e356bd7f024a90ca264
 year: 2009

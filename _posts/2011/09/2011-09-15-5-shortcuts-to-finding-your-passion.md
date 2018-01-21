@@ -2,6 +2,7 @@
 title: "5 Shortcuts to Finding Your Passion"
 slug: 5-shortcuts-to-finding-your-passion
 date: 2011-09-15 11:12:06 -0500
+category: 
 external-url: http://zenhabits.net/passion-webinar/
 hash: 42f1d2cde0ff67b93098e4cb4fedf171
 year: 2011

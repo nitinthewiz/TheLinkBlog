@@ -2,6 +2,7 @@
 title: "credstash"
 slug: credstash
 date: 2015-11-29 20:21:00 -0600
+category: 
 external-url: https://github.com/fugue/credstash
 hash: 9688b212a36451cae7b53f8bf17bf387
 year: 2015

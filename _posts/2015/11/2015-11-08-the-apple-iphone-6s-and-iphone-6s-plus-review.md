@@ -2,6 +2,7 @@
 title: "The Apple iPhone 6s and iPhone 6s Plus Review"
 slug: the-apple-iphone-6s-and-iphone-6s-plus-review
 date: 2015-11-08 20:32:21 -0600
+category: 
 external-url: http://www.anandtech.com/show/9686/the-apple-iphone-6s-and-iphone-6s-plus-review
 hash: e25d1e86f625e8ce10fd8fa19e5c867a
 year: 2015

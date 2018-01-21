@@ -2,6 +2,7 @@
 title: "A Fort Knox for Web crypto keys: Inside Symantecs SSL certificate vault"
 slug: a-fort-knox-for-web-crypto-keys-inside-symantecs-ssl-certificate-vault
 date: 2012-11-05 12:01:33 -0600
+category: 
 external-url: http://arstechnica.com/security/2012/11/inside-symantecs-ssl-certificate-vault/
 hash: 91a21dd1485921bcb93c0ee59047cd3c
 year: 2012

@@ -2,6 +2,7 @@
 title: "On Mobiles, There’s No Stopping Webkit"
 slug: on-mobiles-theres-no-stopping-webkit
 date: 2009-08-24 23:12:23 -0500
+category: 
 external-url: http://gigaom.com/2009/08/24/webkit-mobil/
 hash: e00e8526b3089374ecbf13d38b1632a8
 year: 2009

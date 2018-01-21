@@ -2,6 +2,7 @@
 title: "The Five Stages of Hosting (Pinboard Blog)"
 slug: the-five-stages-of-hosting-pinboard-blog
 date: 2012-01-29 17:58:52 -0600
+category: 
 external-url: http://blog.pinboard.in/2012/01/the_five_stages_of_hosting/
 hash: 6c4df56d351ad330d1678253e34dd7e2
 year: 2012

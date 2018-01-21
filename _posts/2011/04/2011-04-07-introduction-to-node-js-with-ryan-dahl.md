@@ -2,6 +2,7 @@
 title: "Introduction to Node.js with Ryan Dahl"
 slug: introduction-to-node-js-with-ryan-dahl
 date: 2011-04-07 13:05:16 -0500
+category: 
 external-url: http://ontwik.com/cgi-sys/suspendedpage.cgi
 hash: 266dbdd21ce0753687e6993fbf3d7eaf
 year: 2011

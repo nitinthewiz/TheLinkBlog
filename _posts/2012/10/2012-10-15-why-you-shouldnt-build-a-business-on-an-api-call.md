@@ -2,6 +2,7 @@
 title: "Why You Shouldnt Build A Business On An API Call"
 slug: why-you-shouldnt-build-a-business-on-an-api-call
 date: 2012-10-15 13:23:31 -0500
+category: 
 external-url: http://techcrunch.com/2012/10/14/why-you-shouldnt-build-a-business-on-an-api-call/
 hash: a9cd7b9af95ba63404bb9b5856f5d369
 year: 2012

@@ -2,6 +2,7 @@
 title: "10 Reasons Why We Don’t Stick to Things : zen habits"
 slug: 10-reasons-why-we-dont-stick-to-things-zen-habits
 date: 2017-12-15 20:53:37 -0600
+category: 
 external-url: https://zenhabits.net/wiggleroom/
 hash: 2d4110bf6b214b38363e87ec68f431e7
 year: 2017

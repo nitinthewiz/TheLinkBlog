@@ -2,6 +2,7 @@
 title: "Life Bikin': Gut Check"
 slug: life-bikin-gut-check
 date: 2007-08-27 20:44:24 -0500
+category: 
 external-url: http://lifebikin.blogspot.com/2007/07/gut-check.html
 hash: 9a7337cb8ac498c93109e23ee3bd8308
 year: 2007

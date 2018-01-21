@@ -2,6 +2,7 @@
 title: "Move mapping"
 slug: move-mapping
 date: 2010-11-16 07:39:03 -0600
+category: 
 external-url: http://bobulate.com/post/1591139175
 hash: 086b61ee518135c6cc1219eec74aa9ec
 year: 2010

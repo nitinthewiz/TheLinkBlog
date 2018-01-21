@@ -2,6 +2,7 @@
 title: "Carp | Veit's Blog"
 slug: carp-veit-s-blog
 date: 2017-11-26 11:31:42 -0600
+category: 
 external-url: http://blog.veitheller.de/Carp.html
 hash: 9a07651f0c7c93cf1b436191cd5dbef7
 year: 2017

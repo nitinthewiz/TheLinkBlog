@@ -2,6 +2,7 @@
 title: "Breville - The Naked Espresso"
 slug: breville-the-naked-espresso
 date: 2012-11-27 12:07:58 -0600
+category: 
 external-url: http://www.shinymetalthings.net/thenakedespresso/
 hash: e76a3b1fdc740928877ad3606b5e3b87
 year: 2012

@@ -2,6 +2,7 @@
 title: "Reaffirming the White House's Commitment to Net Neutrality | We the People: Your Voice in Our Government"
 slug: reaffirming-the-white-house-s-commitment-to-net-neutrality-we-the-your
 date: 2014-10-10 17:29:41 -0500
+category: 
 external-url: https://petitions.whitehouse.gov/response/reaffirming-white-houses-commitment-net-neutrality
 hash: 0da56100e55f2f7c693b64aaf52baa25
 year: 2014

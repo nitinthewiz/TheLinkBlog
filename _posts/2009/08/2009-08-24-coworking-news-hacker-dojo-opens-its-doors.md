@@ -2,6 +2,7 @@
 title: "Coworking News: Hacker Dojo Opens Its Doors"
 slug: coworking-news-hacker-dojo-opens-its-doors
 date: 2009-08-24 23:57:22 -0500
+category: 
 external-url: http://gigaom.com/2009/08/24/co-working-news-hacker-dojo-opens-its-doors/
 hash: 7c087ed0eda3d683be44c337ab134817
 year: 2009

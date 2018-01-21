@@ -2,6 +2,7 @@
 title: "Why We Need An Open Wireless Movement"
 slug: why-we-need-an-open-wireless-movement
 date: 2011-04-28 17:08:30 -0500
+category: 
 external-url: http://www.eff.org/deeplinks/2011/04/open-wireless-movement
 hash: 99a739f9262c561066036ede977f54fa
 year: 2011

@@ -2,6 +2,7 @@
 title: "devopsdays Minneapolis 2015 - Mary Poppendieck - The New New Software Game"
 slug: devopsdays-minneapolis-2015-mary-poppendieck-the-new-new-software-game
 date: 2015-07-18 18:45:46 -0500
+category: 
 external-url: https://www.youtube.com/watch?feature=youtu.be&v=K2_yPtAB7Lw&app=desktop
 hash: e02b62d021203571e580c4ac2b20c53b
 year: 2015

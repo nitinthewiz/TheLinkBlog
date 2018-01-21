@@ -2,6 +2,7 @@
 title: "Automated Workflow"
 slug: automated-workflow
 date: 2016-04-30 21:35:49 -0500
+category: 
 external-url: https://flow.microsoft.com/en-us/
 hash: f10cfde104b5e555d9a77e3c203ee5c9
 year: 2016

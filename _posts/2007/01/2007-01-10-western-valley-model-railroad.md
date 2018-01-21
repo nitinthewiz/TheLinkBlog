@@ -2,6 +2,7 @@
 title: "Western Valley Model Railroad"
 slug: western-valley-model-railroad
 date: 2007-01-10 23:47:26 -0600
+category: 
 external-url: http://realityscaled.tripod.com/howto.html
 hash: 9e1a369878e60fc053063ea7e4f7bfa9
 year: 2007

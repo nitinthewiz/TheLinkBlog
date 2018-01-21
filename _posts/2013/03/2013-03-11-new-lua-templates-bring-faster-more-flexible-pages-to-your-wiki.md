@@ -2,6 +2,7 @@
 title: "New Lua templates bring faster, more flexible pages to your wiki"
 slug: new-lua-templates-bring-faster-more-flexible-pages-to-your-wiki
 date: 2013-03-11 14:03:10 -0500
+category: 
 external-url: http://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/
 hash: 2417cc541fbec934b681ccec2f3cb5b4
 year: 2013

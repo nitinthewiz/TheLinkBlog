@@ -2,6 +2,7 @@
 title: "Do Meeting Insights"
 slug: do-meeting-insights
 date: 2016-02-10 19:29:59 -0600
+category: 
 external-url: https://do.com/insights/personal
 hash: ec25bb90ead041ee9465a4f0bf3f7bd2
 year: 2016

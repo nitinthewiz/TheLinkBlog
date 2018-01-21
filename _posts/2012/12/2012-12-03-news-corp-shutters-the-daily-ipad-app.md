@@ -2,6 +2,7 @@
 title: "News Corp. Shutters The Daily iPad App"
 slug: news-corp-shutters-the-daily-ipad-app
 date: 2012-12-03 11:14:57 -0600
+category: 
 external-url: http://allthingsd.com/20121203/news-corp-shutters-the-daily-ipad-app/
 hash: d9dbe5c39c3fbd35248d899c23aae40e
 year: 2012

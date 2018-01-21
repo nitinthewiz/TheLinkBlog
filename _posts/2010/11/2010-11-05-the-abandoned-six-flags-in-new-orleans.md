@@ -2,6 +2,7 @@
 title: "The Abandoned Six Flags in New Orleans"
 slug: the-abandoned-six-flags-in-new-orleans
 date: 2010-11-05 12:15:00 -0500
+category: 
 external-url: http://laughingsquid.com/a-post-apocalyptic-tour-of-the-abandoned-six-flags-in-new-orleans/
 hash: ad018309f3efa829f7a8f2f4b814e055
 year: 2010

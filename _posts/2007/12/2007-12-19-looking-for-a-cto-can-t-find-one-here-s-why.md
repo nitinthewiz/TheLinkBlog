@@ -2,6 +2,7 @@
 title: "Looking for a CTO? Can't find one? Here's why"
 slug: looking-for-a-cto-can-t-find-one-here-s-why
 date: 2007-12-19 06:28:36 -0600
+category: 
 external-url: http://www.thisisgoingtobebig.com/blog/2007/12/19/looking-for-a-cto-cant-find-one-heres-why.html
 hash: 34a0ef4d16552f445df563aafc8b2fd6
 year: 2007

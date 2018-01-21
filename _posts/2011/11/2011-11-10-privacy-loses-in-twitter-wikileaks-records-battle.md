@@ -2,6 +2,7 @@
 title: "Privacy Loses in Twitter/Wikileaks Records Battle"
 slug: privacy-loses-in-twitter-wikileaks-records-battle
 date: 2011-11-10 16:40:26 -0600
+category: 
 external-url: https://www.eff.org/press/releases/privacy-loses-twitterwikileaks-records-battle
 hash: ba3efa75687740de15d3f8f6fcdcb80b
 year: 2011

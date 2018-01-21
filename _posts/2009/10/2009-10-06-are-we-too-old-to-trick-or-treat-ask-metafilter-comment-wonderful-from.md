@@ -2,6 +2,7 @@
 title: "Are we too old to trick or treat? | Ask Metafilter [comment] Wonderful  anecdote from MeFi: I..."
 slug: are-we-too-old-to-trick-or-treat-ask-metafilter-comment-wonderful-from
 date: 2009-10-06 10:48:34 -0500
+category: 
 external-url: http://www.kungfugrippe.com/post/204206094
 hash: 19c400e7776869dcdfbf9804e51fade1
 year: 2009

@@ -2,6 +2,7 @@
 title: "thePHP.cc — Dates"
 slug: thephp-cc-dates
 date: 2013-06-03 08:09:25 -0500
+category: 
 external-url: http://thePHP.cc/dates
 hash: be1465334e74d96d63dcec04da15f1d4
 year: 2013

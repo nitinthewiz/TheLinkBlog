@@ -2,6 +2,7 @@
 title: "The Personal Page"
 slug: the-personal-page
 date: 2011-01-24 03:41:54 -0600
+category: 
 external-url: https://github.com/weightshift/The-Personal-Page
 hash: 4f88a336e5e95d0fb9403c7ed75399e6
 year: 2011

@@ -2,6 +2,7 @@
 title: "First Look: Twin 1.0 for Mac OS X"
 slug: first-look-twin-1-0-for-mac-os-x
 date: 2009-05-15 22:38:50 -0500
+category: 
 external-url: http://www.tuaw.com/2009/05/15/first-look-twin-1-0-for-mac-os-x/
 hash: e7f218770a160bc11a3283031894e938
 year: 2009

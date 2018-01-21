@@ -2,6 +2,7 @@
 title: "Nasdaq Launches Enterprise-Wide Blockchain Technology Initiative"
 slug: nasdaq-launches-enterprise-wide-blockchain-technology-initiative
 date: 2015-05-11 20:36:32 -0500
+category: 
 external-url: http://www.reuters.com/article/2015/05/11/idUSnGNX1Bn0Cg+1d2+GNW20150511
 hash: 812ee1f32a1c4092bf39fc6aee1ea23c
 year: 2015

@@ -2,6 +2,7 @@
 title: "Antipodes Map - Antipodal location for any map point"
 slug: antipodes-map-antipodal-location-for-any-map-point
 date: 2007-06-24 22:27:39 -0500
+category: 
 external-url: http://www.antipodemap.com/
 hash: a165f56db78fc2ae5156dba30f578591
 year: 2007

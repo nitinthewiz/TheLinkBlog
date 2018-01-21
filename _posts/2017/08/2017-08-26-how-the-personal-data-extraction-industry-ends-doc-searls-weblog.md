@@ -2,6 +2,7 @@
 title: "How the personal data extraction industry ends —Doc Searls Weblog"
 slug: how-the-personal-data-extraction-industry-ends-doc-searls-weblog
 date: 2017-08-26 15:18:55 -0500
+category: 
 external-url: http://blogs.harvard.edu/doc/2017/08/26/extraction-ends/
 hash: ebdb66e63ef5833b4724b6c081e532ef
 year: 2017

@@ -2,6 +2,7 @@
 title: "Customer Letter - Apple"
 slug: customer-letter-apple
 date: 2016-02-17 04:58:30 -0600
+category: 
 external-url: http://www.apple.com/customer-letter/
 hash: 63b6065de012b2191ef2ff24a4890a74
 year: 2016

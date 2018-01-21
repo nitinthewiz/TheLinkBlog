@@ -2,6 +2,7 @@
 title: "You Can’t Make This Stuff Up, Part Two"
 slug: you-cant-make-this-stuff-up-part-two
 date: 2009-08-10 22:21:55 -0500
+category: 
 external-url: http://www.washingtonmonthly.com/archives/individual/2009_08/019423.php
 hash: d750d79379a4aae8ab7b6fd20fc95c05
 year: 2009

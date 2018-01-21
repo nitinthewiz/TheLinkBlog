@@ -2,6 +2,7 @@
 title: "The OpenID Train Steams Ahead: Google, IBM and Verisign Said To Be Joining"
 slug: the-openid-train-steams-ahead-google-ibm-and-verisign-said-to-be
 date: 2008-01-08 23:27:58 -0600
+category: 
 external-url: http://techcrunch.com/2008/01/08/the-openid-train-steams-ahead-google-ibm-and-verisign-said-to-be-joining/
 hash: 77ec45cea308dab3dfecd7538dcd6063
 year: 2008

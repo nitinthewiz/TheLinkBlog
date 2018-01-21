@@ -2,6 +2,7 @@
 title: "Social Technographics: Conversationalists get onto the ladder"
 slug: social-technographics-conversationalists-get-onto-the-ladder
 date: 2010-01-20 20:14:00 -0600
+category: 
 external-url: http://blogs.forrester.com/groundswell/2010/01/conversationalists-get-onto-the-ladder.html
 hash: c96600c17fbe4359b08164f530fdedd1
 year: 2010

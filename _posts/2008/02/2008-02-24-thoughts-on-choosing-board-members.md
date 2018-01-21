@@ -2,6 +2,7 @@
 title: "Thoughts On Choosing Board Members"
 slug: thoughts-on-choosing-board-members
 date: 2008-02-24 06:55:21 -0600
+category: 
 external-url: http://avc.blogs.com/a_vc/2008/02/thoughts-on-cho.html
 hash: 1ad6893a00b4d9bdc07d884b557dfeab
 year: 2008

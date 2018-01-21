@@ -2,6 +2,7 @@
 title: "HTTPS Everywhere: Encryption for All WordPress.com Sites — WordPress.com News"
 slug: https-everywhere-encryption-for-all-wordpress-com-sites-wordpress-com
 date: 2016-04-09 22:55:07 -0500
+category: 
 external-url: https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
 hash: 7084b764da0f962832b368b347fd5346
 year: 2016

@@ -2,6 +2,7 @@
 title: "Why Does The Myth Persist That Wikileaks Is Indiscriminately Leaking Thousands Of Documents? | Techdirt"
 slug: why-does-the-myth-persist-that-wikileaks-is-indiscriminately-leaking
 date: 2010-12-30 13:58:48 -0600
+category: 
 external-url: http://www.techdirt.com/articles/20101229/15364312457/why-does-myth-persist-that-wikileaks-is-indiscriminately-leaking-thousands-documents.shtml
 hash: d3597d36b3ffce02af8768c98c6ef757
 year: 2010

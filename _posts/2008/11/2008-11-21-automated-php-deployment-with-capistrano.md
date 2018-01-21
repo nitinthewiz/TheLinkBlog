@@ -2,6 +2,7 @@
 title: "Automated PHP Deployment With Capistrano"
 slug: automated-php-deployment-with-capistrano
 date: 2008-11-21 20:54:59 -0600
+category: 
 external-url: http://www.simplisticcomplexity.com/php.html
 hash: a149134adf59fa8b05e2155f3422e00c
 year: 2008

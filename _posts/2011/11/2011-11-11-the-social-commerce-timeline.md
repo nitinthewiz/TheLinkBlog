@@ -2,6 +2,7 @@
 title: "The Social Commerce Timeline"
 slug: the-social-commerce-timeline
 date: 2011-11-11 14:12:37 -0600
+category: 
 external-url: http://socialcommercetoday.com/the-social-commerce-timeline-new-infographic-released-download/
 hash: 2a4d7fe9181e810058d13265b02d1786
 year: 2011

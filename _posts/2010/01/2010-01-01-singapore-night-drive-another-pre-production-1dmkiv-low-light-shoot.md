@@ -2,6 +2,7 @@
 title: "Singapore night drive – another pre-production 1DmkIV low light shoot"
 slug: singapore-night-drive-another-pre-production-1dmkiv-low-light-shoot
 date: 2010-01-01 07:37:29 -0600
+category: 
 external-url: http://www.dslrnewsshooter.com/2009/12/16/singapore-night-drive-another-pre-production-1dmkiv-low-light-shoot/
 hash: 7d182acd9367b1c4820206efd41022c2
 year: 2010

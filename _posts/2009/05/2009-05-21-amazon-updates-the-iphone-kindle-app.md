@@ -2,6 +2,7 @@
 title: "Amazon Updates the iPhone Kindle App"
 slug: amazon-updates-the-iphone-kindle-app
 date: 2009-05-21 00:30:58 -0500
+category: 
 external-url: http://techcrunch.com/2009/05/20/amazon-updates-the-kindle-app-to-be-more-iphone-ified/
 hash: c75d8c59449ca97da363d896e78eeecb
 year: 2009

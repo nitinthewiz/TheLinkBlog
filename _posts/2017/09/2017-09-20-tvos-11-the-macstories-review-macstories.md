@@ -2,6 +2,7 @@
 title: "tvOS 11: The MacStories Review – MacStories"
 slug: tvos-11-the-macstories-review-macstories
 date: 2017-09-20 19:56:37 -0500
+category: 
 external-url: https://www.macstories.net/reviews/tvos-11-the-macstories-review/
 hash: 3c61c9410017081a696dd314923b6c55
 year: 2017

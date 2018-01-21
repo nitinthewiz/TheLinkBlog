@@ -2,6 +2,7 @@
 title: "Elad Blog: Career Decisions"
 slug: elad-blog-career-decisions
 date: 2015-03-27 10:49:52 -0500
+category: 
 external-url: http://blog.eladgil.com/2015/03/career-decisions.html
 hash: 191c5c94f2944f183213c48cae43ef29
 year: 2015

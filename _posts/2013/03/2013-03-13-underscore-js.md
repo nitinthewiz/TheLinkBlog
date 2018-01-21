@@ -2,6 +2,7 @@
 title: "Underscore.js"
 slug: underscore-js
 date: 2013-03-13 11:46:55 -0500
+category: 
 external-url: http://underscorejs.org/
 hash: 728f70a4ceb768628cf8e1296fe3c751
 year: 2013

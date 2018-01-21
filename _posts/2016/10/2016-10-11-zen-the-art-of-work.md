@@ -2,6 +2,7 @@
 title: "Zen& The Art of Work"
 slug: zen-the-art-of-work
 date: 2016-10-11 10:49:40 -0500
+category: 
 external-url: http://www.zenandtheartofwork.com/
 hash: 5bb05c0ee56aef746b893cc0c4aa252f
 year: 2016

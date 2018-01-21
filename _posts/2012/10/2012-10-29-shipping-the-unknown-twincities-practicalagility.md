@@ -2,6 +2,7 @@
 title: "Shipping the Unknown - TwinCities PracticalAgility"
 slug: shipping-the-unknown-twincities-practicalagility
 date: 2012-10-29 11:00:19 -0500
+category: 
 external-url: https://sites.google.com/site/twincitiespracticalagility/agile-day-twin-cities-2012/schedule/Shipping-the-Unknown
 hash: 4447b573e2d0a55d61a9e994ad687547
 year: 2012

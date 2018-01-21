@@ -2,6 +2,7 @@
 title: "Semantic MediaWiki - semantic-mediawiki.org"
 slug: semantic-mediawiki-semantic-mediawiki-org
 date: 2011-07-31 17:46:52 -0500
+category: 
 external-url: http://semantic-mediawiki.org/wiki/Semantic_MediaWiki
 hash: 18aadf426f6005251b59db5de19d265d
 year: 2011

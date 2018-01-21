@@ -2,6 +2,7 @@
 title: "Lance Armstrong stripped of Tour de France medals"
 slug: lance-armstrong-stripped-of-tour-de-france-medals
 date: 2012-10-22 13:19:27 -0500
+category: 
 external-url: http://www.cbsnews.com/8301-400_162-57537025/lance-armstrong-stripped-of-tour-de-france-medals/
 hash: 782cccf044900c4cdcbec17019e08f51
 year: 2012

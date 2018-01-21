@@ -2,6 +2,7 @@
 title: "Delicious Library 2 beta on the streets"
 slug: delicious-library-2-beta-on-the-streets
 date: 2008-05-24 00:15:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/05/23/delicious-library-2-beta-on-the-streets/
 hash: 7b93e83d83a36a191e66cca483054a68
 year: 2008

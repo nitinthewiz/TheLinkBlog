@@ -2,6 +2,7 @@
 title: "Git - SVN Crash Course"
 slug: git-svn-crash-course
 date: 2008-04-03 13:58:48 -0500
+category: 
 external-url: http://git.or.cz/course/svn.html
 hash: a4c91e85e9cfddebf540b15d11dac1d6
 year: 2008

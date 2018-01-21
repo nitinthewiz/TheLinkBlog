@@ -2,6 +2,7 @@
 title: "Eyeo Festival | Converge to Inspire"
 slug: eyeo-festival-converge-to-inspire
 date: 2012-01-25 13:54:56 -0600
+category: 
 external-url: http://eyeofestival.com/
 hash: 63893bda6a399d5fcf7d41734767028c
 year: 2012

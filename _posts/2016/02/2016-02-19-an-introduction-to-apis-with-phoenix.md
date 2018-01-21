@@ -2,6 +2,7 @@
 title: "An Introduction to APIs with Phoenix"
 slug: an-introduction-to-apis-with-phoenix
 date: 2016-02-19 11:28:39 -0600
+category: 
 external-url: http://blog.codeship.com/an-introduction-to-apis-with-phoenix/
 hash: 53bd594125416887afa2a4ad385ba04c
 year: 2016

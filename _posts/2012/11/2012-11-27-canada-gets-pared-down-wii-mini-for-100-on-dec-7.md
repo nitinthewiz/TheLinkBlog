@@ -2,6 +2,7 @@
 title: "Canada gets pared-down Wii Mini for $100 on Dec. 7"
 slug: canada-gets-pared-down-wii-mini-for-100-on-dec-7
 date: 2012-11-27 10:35:13 -0600
+category: 
 external-url: http://arstechnica.com/gaming/2012/11/canada-gets-pared-down-wii-mini-for-100-on-dec-7/
 hash: 341e30e5278561e595e83f9eac1dda87
 year: 2012

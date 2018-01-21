@@ -2,6 +2,7 @@
 title: "So, About That Deficit Commission"
 slug: so-about-that-deficit-commission
 date: 2010-11-13 06:58:40 -0600
+category: 
 external-url: http://www.theatlantic.com/business/archive/2010/11/so-about-that-deficit-commission/66411/
 hash: 568952afc3f74edde372cd5dc545c534
 year: 2010

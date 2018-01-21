@@ -2,6 +2,7 @@
 title: "Even more sieve extensions | FastMail Blog"
 slug: even-more-sieve-extensions-fastmail-blog
 date: 2017-12-15 07:04:03 -0600
+category: 
 external-url: https://blog.fastmail.com/2017/12/12/more-sieve-extensions/
 hash: a4e6b9c8c0343429cf3320ce75a6ea7d
 year: 2017

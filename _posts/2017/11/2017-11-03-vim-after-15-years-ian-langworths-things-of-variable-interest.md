@@ -2,6 +2,7 @@
 title: "Vim After 15 Years | Ian Langworth’s Things of Variable Interest"
 slug: vim-after-15-years-ian-langworths-things-of-variable-interest
 date: 2017-11-03 06:36:17 -0500
+category: 
 external-url: https://statico.github.io/vim3.html
 hash: 37c0faac5682181b51941780a3bbf0bd
 year: 2017

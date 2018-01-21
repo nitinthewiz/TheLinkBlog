@@ -2,6 +2,7 @@
 title: "What Powers Instagram: Hundreds of Instances, Dozens of Technologies"
 slug: what-powers-instagram-hundreds-of-instances-dozens-of-technologies
 date: 2012-07-22 21:18:07 -0500
+category: 
 external-url: http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of
 hash: 20c1eca19a3baf5d75b013d8de66e31f
 year: 2012

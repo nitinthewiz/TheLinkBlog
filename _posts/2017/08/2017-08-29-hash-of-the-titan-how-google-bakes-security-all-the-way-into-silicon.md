@@ -2,6 +2,7 @@
 title: "Hash of the Titan: How Google bakes security all the way into silicon • The Register"
 slug: hash-of-the-titan-how-google-bakes-security-all-the-way-into-silicon
 date: 2017-08-29 21:26:12 -0500
+category: 
 external-url: https://www.theregister.co.uk/2017/08/25/google_titan_security_silicon/
 hash: dbc8e650a3c88ffe75706e994f87000b
 year: 2017

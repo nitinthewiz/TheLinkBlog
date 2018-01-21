@@ -2,6 +2,7 @@
 title: "Parallels 4 to tout OS X Server VM, dual-core, new interface"
 slug: parallels-4-to-tout-os-x-server-vm-dual-core-new-interface
 date: 2008-09-19 10:00:00 -0500
+category: 
 external-url: http://appleinsider.com/articles/08/09/19/parallels_4_to_tout_os_x_server_vm_dual_core_new_interface
 hash: 414d77efbece1ad52be1066e5169da51
 year: 2008

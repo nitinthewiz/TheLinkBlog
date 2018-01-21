@@ -2,6 +2,7 @@
 title: "The Internet Finally Belongs to Everyone | WIRED"
 slug: the-internet-finally-belongs-to-everyone-wired
 date: 2016-10-10 10:24:28 -0500
+category: 
 external-url: https://www.wired.com/2016/10/internet-finally-belongs-everyone/
 hash: fa06e3d332edb5b116b9df04a63f4223
 year: 2016

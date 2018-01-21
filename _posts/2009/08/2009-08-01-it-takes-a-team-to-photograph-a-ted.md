@@ -2,6 +2,7 @@
 title: "It Takes a Team to Photograph a TED"
 slug: it-takes-a-team-to-photograph-a-ted
 date: 2009-08-01 23:08:29 -0500
+category: 
 external-url: http://blog.duncandavidson.com/2009/07/it-takes-a-team-to-photograph.html
 hash: c43a056d5d2380da77a21530e9c43d77
 year: 2009

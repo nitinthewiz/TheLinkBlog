@@ -2,6 +2,7 @@
 title: "PHP Addiction"
 slug: php-addiction
 date: 2012-06-29 14:52:43 -0500
+category: 
 external-url: http://www.marco.org/2012/06/29/php-addiction
 hash: e02e3821aa76f6dd5ef532ae03fbd551
 year: 2012

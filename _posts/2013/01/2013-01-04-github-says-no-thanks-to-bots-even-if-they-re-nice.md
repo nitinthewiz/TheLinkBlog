@@ -2,6 +2,7 @@
 title: "GitHub Says 'No Thanks' to Bots Even if They're Nice"
 slug: github-says-no-thanks-to-bots-even-if-they-re-nice
 date: 2013-01-04 09:51:05 -0600
+category: 
 external-url: http://www.wired.com/2012/12/github-bots/
 hash: 050cc4b5e2dab5394ab9432605e092a1
 year: 2013

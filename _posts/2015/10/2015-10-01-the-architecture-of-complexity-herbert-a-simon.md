@@ -2,6 +2,7 @@
 title: "The Architecture Of Complexity — Herbert A. Simon"
 slug: the-architecture-of-complexity-herbert-a-simon
 date: 2015-10-01 04:39:36 -0500
+category: 
 external-url: http://www.cs.brandeis.edu/~cs146a/handouts/papers/simon-complexity.pdf
 hash: 2ea579e1e07f0dfd5666353df52b84d1
 year: 2015

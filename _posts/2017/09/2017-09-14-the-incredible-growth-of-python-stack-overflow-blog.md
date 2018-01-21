@@ -2,6 +2,7 @@
 title: "The Incredible Growth of Python - Stack Overflow Blog"
 slug: the-incredible-growth-of-python-stack-overflow-blog
 date: 2017-09-14 03:36:44 -0500
+category: 
 external-url: https://stackoverflow.blog/2017/09/06/incredible-growth-python/
 hash: 20896acc765381145eb15341b87be272
 year: 2017

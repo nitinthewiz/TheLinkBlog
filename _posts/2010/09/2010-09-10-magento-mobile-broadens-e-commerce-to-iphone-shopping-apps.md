@@ -2,6 +2,7 @@
 title: "Magento Mobile Broadens E-Commerce To iPhone Shopping Apps"
 slug: magento-mobile-broadens-e-commerce-to-iphone-shopping-apps
 date: 2010-09-10 23:10:45 -0500
+category: 
 external-url: http://techcrunch.com/2010/09/08/magento-mobile/
 hash: 3cea69e0e895833fcffe29eeb7d2ec0c
 year: 2010

@@ -2,6 +2,7 @@
 title: "Google Maps Gets Smarter: Crowdsources Live Traffic Data"
 slug: google-maps-gets-smarter-crowdsources-live-traffic-data
 date: 2009-08-25 14:05:23 -0500
+category: 
 external-url: http://readwrite.com/2009/08/25/google_maps_gets_smarter_crowdsources_traffic_data
 hash: c1ee838045f8c036380b0dfd3f9454f9
 year: 2009

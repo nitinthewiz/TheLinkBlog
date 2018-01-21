@@ -2,6 +2,7 @@
 title: "Delicious Wishlists"
 slug: delicious-wishlists
 date: 2008-02-25 10:00:00 -0600
+category: 
 external-url: https://gigaom.com/2008/02/25/delicious-wishlists/
 hash: 85287b53d710b4f751dd1b189b789de3
 year: 2008

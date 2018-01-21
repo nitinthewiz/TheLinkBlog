@@ -2,6 +2,7 @@
 title: "The fine art of renegotiating - Next Action Associates"
 slug: the-fine-art-of-renegotiating-next-action-associates
 date: 2016-11-06 18:48:10 -0600
+category: 
 external-url: http://www.next-action.eu/2016/11/03/fine-art-renegotiating/
 hash: 5e037b69774300a2b456ffdae4373c27
 year: 2016

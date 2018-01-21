@@ -2,6 +2,7 @@
 title: "Audible Commit Messages with CommitBot"
 slug: audible-commit-messages-with-commitbot
 date: 2010-10-15 09:14:33 -0500
+category: 
 external-url: http://blog.gleitzman.com/post/1216562825/audible-commit-messages-with-commitbot
 hash: 089cdf8ac51642d1253420209e7bc617
 year: 2010

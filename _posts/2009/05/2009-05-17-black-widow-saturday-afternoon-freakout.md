@@ -2,6 +2,7 @@
 title: "Black Widow: Saturday Afternoon Freakout!"
 slug: black-widow-saturday-afternoon-freakout
 date: 2009-05-17 22:25:13 -0500
+category: 
 external-url: http://www.friday.com/bbum/2009/05/16/black-widow-saturday-afternoon-freakout/
 hash: 58734e64957c1adf9c3501baf9a06b88
 year: 2009

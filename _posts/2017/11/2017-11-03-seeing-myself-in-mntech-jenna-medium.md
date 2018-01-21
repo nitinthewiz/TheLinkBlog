@@ -2,6 +2,7 @@
 title: "Seeing Myself in #MNTech – Jenna – Medium"
 slug: seeing-myself-in-mntech-jenna-medium
 date: 2017-11-03 06:41:40 -0500
+category: 
 external-url: https://medium.com/@jennapederson/seeing-myself-in-mntech-7ff7520f8874
 hash: 6b795f7970de120496e606905e1a83ab
 year: 2017

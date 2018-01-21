@@ -2,6 +2,7 @@
 title: "RethinkDB: why we failed"
 slug: rethinkdb-why-we-failed
 date: 2017-01-19 13:50:10 -0600
+category: 
 external-url: http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html
 hash: 5a9e86a189bacfdc6b05a90c2b625ed3
 year: 2017

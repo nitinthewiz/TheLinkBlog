@@ -2,6 +2,7 @@
 title: "Google Reader Died Because No One Would Run It"
 slug: google-reader-died-because-no-one-would-run-it
 date: 2013-07-23 12:25:19 -0500
+category: 
 external-url: http://www.buzzfeed.com/mattlynley/google-reader-died-because-no-one-would-run-it
 hash: 4c078b792b8cb08fd1ba2e65f7da658e
 year: 2013

@@ -2,6 +2,7 @@
 title: "Roombas have been busy mapping our homes, and now that data could be up for sale - The Verge"
 slug: roombas-have-been-busy-mapping-our-homes-and-now-that-data-could-be-up
 date: 2017-07-25 22:03:47 -0500
+category: 
 external-url: https://www.theverge.com/2017/7/24/16021610/irobot-roomba-homa-map-data-sale
 hash: b59e3cfb17d5f72d34a592a1c912b683
 year: 2017

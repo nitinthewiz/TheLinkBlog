@@ -2,6 +2,7 @@
 title: "Lightroom 4 Presets for Vintage Effects, HDR Effects, and More tutorial"
 slug: lightroom-4-presets-for-vintage-effects-hdr-effects-and-more-tutorial
 date: 2012-05-20 13:54:04 -0500
+category: 
 external-url: http://www.slrlounge.com/store-product/lightroom-presets/
 hash: 896e7d3945a792989480d331ad9e8c51
 year: 2012

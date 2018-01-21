@@ -2,6 +2,7 @@
 title: "Project Euler"
 slug: project-euler
 date: 2011-06-16 13:49:43 -0500
+category: 
 external-url: http://projecteuler.net/
 hash: 8d63cd02cf98f39eeeb3e12077075cbf
 year: 2011

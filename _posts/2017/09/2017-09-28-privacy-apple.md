@@ -2,6 +2,7 @@
 title: "Privacy - Apple"
 slug: privacy-apple
 date: 2017-09-28 21:13:56 -0500
+category: 
 external-url: https://www.apple.com/privacy/
 hash: f60e863e89c3babe6ae27f26747f46c4
 year: 2017

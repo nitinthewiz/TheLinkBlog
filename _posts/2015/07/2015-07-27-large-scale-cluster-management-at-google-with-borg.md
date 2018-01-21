@@ -2,6 +2,7 @@
 title: "Large-scale cluster management at Google with Borg"
 slug: large-scale-cluster-management-at-google-with-borg
 date: 2015-07-27 05:17:58 -0500
+category: 
 external-url: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf
 hash: c117784ecfeb26df2f7245f59bd97c84
 year: 2015

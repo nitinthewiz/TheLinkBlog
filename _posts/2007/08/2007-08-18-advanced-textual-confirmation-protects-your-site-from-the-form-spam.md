@@ -2,6 +2,7 @@
 title: "Advanced Textual Confirmation protects your site from the form spam"
 slug: advanced-textual-confirmation-protects-your-site-from-the-form-spam
 date: 2007-08-18 23:41:38 -0500
+category: 
 external-url: http://bbantispam.com/atc/
 hash: 7c70baffb5ca4f550379c7c6ea3afeee
 year: 2007

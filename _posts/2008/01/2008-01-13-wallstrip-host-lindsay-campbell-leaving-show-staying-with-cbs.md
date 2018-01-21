@@ -2,6 +2,7 @@
 title: "Wallstrip Host Lindsay Campbell Leaving Show, Staying With CBS"
 slug: wallstrip-host-lindsay-campbell-leaving-show-staying-with-cbs
 date: 2008-01-13 19:26:42 -0600
+category: 
 external-url: http://www.businessinsider.com/2008/1/wallstrip-host-lindsay-campbell-leaving-show-staying-with-cbs
 hash: 527e84204d775f1068d211dd931b036f
 year: 2008

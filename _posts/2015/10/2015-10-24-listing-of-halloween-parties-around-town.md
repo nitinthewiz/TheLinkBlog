@@ -2,6 +2,7 @@
 title: "Listing of Halloween parties around town"
 slug: listing-of-halloween-parties-around-town
 date: 2015-10-24 17:22:14 -0500
+category: 
 external-url: http://www.southwestjournal.com/news/notes/listing-of-halloween-parties-around-town
 hash: 56a5d0bc993b4cbad67102b3e65b9382
 year: 2015

@@ -2,6 +2,7 @@
 title: "Spark View Engine"
 slug: spark-view-engine
 date: 2009-03-10 08:53:50 -0500
+category: 
 external-url: http://scottw.com
 hash: 2aedb2c8a9858303e739a865b8164132
 year: 2009

@@ -2,6 +2,7 @@
 title: "Commodore 64 Emulator for iPhone Approved by Apple"
 slug: commodore-64-emulator-for-iphone-approved-by-apple
 date: 2009-09-07 13:36:37 -0500
+category: 
 external-url: http://copenhagencocoa.com/2009/09/06/interview-with-c64-designer/
 hash: 3d6eaaf1755ed9275da3d513bc9dc60e
 year: 2009

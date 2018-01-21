@@ -2,6 +2,7 @@
 title: "Raid Battles and New Gym Features are Coming! - Pokémon GO"
 slug: raid-battles-and-new-gym-features-are-coming-pokemon-go
 date: 2017-06-20 16:10:07 -0500
+category: 
 external-url: http://pokemongolive.com/en/post/raids
 hash: 1386e97fd9595f24daca25488f07e0fd
 year: 2017

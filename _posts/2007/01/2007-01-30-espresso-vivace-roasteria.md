@@ -2,6 +2,7 @@
 title: "Espresso Vivace Roasteria"
 slug: espresso-vivace-roasteria
 date: 2007-01-30 09:46:14 -0600
+category: 
 external-url: http://www.espressovivace.com/blends.html
 hash: d2b4b98cc9379d2c362fa0cf1aad8f7c
 year: 2007

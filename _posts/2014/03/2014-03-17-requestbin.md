@@ -2,6 +2,7 @@
 title: "RequestBin"
 slug: requestbin
 date: 2014-03-17 09:15:20 -0500
+category: 
 external-url: http://requestb.in/
 hash: 63e4f187a8e9cf521356349c927d59cd
 year: 2014

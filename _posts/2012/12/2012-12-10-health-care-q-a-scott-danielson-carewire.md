@@ -2,6 +2,7 @@
 title: "Health care Q&A: Scott Danielson, Carewire"
 slug: health-care-q-a-scott-danielson-carewire
 date: 2012-12-10 17:41:48 -0600
+category: 
 external-url: http://www.bizjournals.com/twincities/print-edition/2012/12/07/health-care-qa-scott-danielson.html
 hash: bb0a8d7a981a60ccf02566d19876ff6d
 year: 2012

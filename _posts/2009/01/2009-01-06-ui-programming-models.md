@@ -2,6 +2,7 @@
 title: "UI Programming Models"
 slug: ui-programming-models
 date: 2009-01-06 23:14:07 -0600
+category: 
 external-url: http://blog.rajasekharan.com/2009/01/06/ui-programming-models/
 hash: e83a7cc2aa1a737fea59a0999a6971d4
 year: 2009

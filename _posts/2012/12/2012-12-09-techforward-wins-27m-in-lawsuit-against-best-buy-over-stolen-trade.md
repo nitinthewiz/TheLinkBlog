@@ -2,6 +2,7 @@
 title: "TechForward Wins $27M In Lawsuit Against Best Buy Over Stolen Trade Secrets"
 slug: techforward-wins-27m-in-lawsuit-against-best-buy-over-stolen-trade
 date: 2012-12-09 05:47:04 -0600
+category: 
 external-url: http://techcrunch.com/2012/12/05/techforward-wins-27m-in-lawsuit-against-best-buy-over-stolen-trade-secrets/
 hash: 37d6ef1df5948378e1437cadf47fbfe1
 year: 2012

@@ -2,6 +2,7 @@
 title: "‘He’s Not My Character to Write Anymore’"
 slug: hes-not-my-character-to-write-anymore
 date: 2011-07-28 16:33:44 -0500
+category: 
 external-url: http://thebhj.com/journal/2011/7/27/13.html
 hash: 7be8b01025de6109b44cf6cf1cb629a2
 year: 2011

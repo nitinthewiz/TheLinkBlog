@@ -2,6 +2,7 @@
 title: "Fields of tears"
 slug: fields-of-tears
 date: 2010-12-30 09:02:39 -0600
+category: 
 external-url: http://www.economist.com/node/17722932?story_id=17722932
 hash: e9b9fb4b99c28fa76ae20c6d985f3fd0
 year: 2010

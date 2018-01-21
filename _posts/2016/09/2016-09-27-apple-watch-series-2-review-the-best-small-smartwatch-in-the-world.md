@@ -2,6 +2,7 @@
 title: "Apple Watch Series 2 review: The best small smartwatch in the world"
 slug: apple-watch-series-2-review-the-best-small-smartwatch-in-the-world
 date: 2016-09-27 20:47:53 -0500
+category: 
 external-url: http://www.imore.com/apple-watch-series-2-review
 hash: 0de1751a17854ad1a8575ee590c7f319
 year: 2016

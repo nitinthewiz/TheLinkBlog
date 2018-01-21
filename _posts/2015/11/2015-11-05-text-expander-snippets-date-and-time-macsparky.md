@@ -2,6 +2,7 @@
 title: "Text Expander Snippets: Date and Time — MacSparky"
 slug: text-expander-snippets-date-and-time-macsparky
 date: 2015-11-05 22:28:11 -0600
+category: 
 external-url: http://macsparky.com/blog/2013/5/text-expander-snippets-date-and-time?rq=snippets
 hash: 280792cea1afc738f3fb1112e7ee9289
 year: 2015

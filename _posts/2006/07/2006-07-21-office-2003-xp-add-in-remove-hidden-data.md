@@ -2,6 +2,7 @@
 title: "Office 2003/XP Add-in: Remove Hidden Data"
 slug: office-2003-xp-add-in-remove-hidden-data
 date: 2006-07-21 16:59:43 -0500
+category: 
 external-url: http://www.microsoft.com/en-us/download/details.aspx?id=8446
 hash: 07d11f895ff0b523efbe9e90eb1f8def
 year: 2006

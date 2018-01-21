@@ -2,6 +2,7 @@
 title: "Bob Lutz: Kiss the good times goodbye"
 slug: bob-lutz-kiss-the-good-times-goodbye
 date: 2017-11-23 16:25:41 -0600
+category: 
 external-url: http://www.autonews.com/article/20171105/INDUSTRY_REDESIGNED/171109944/industry-redesigned-bob-lutz?X-IgnoreUserAgent=1
 hash: 33e5d5bf3daa3eb9532fbb39ea937f72
 year: 2017

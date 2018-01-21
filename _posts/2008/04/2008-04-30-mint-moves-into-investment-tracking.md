@@ -2,6 +2,7 @@
 title: "Mint Moves Into Investment Tracking"
 slug: mint-moves-into-investment-tracking
 date: 2008-04-30 01:54:13 -0500
+category: 
 external-url: http://techcrunch.com/2008/04/29/mint-moves-into-investment-tracking/
 hash: 6df2c46bfeb3e5933ae047807beaddb7
 year: 2008

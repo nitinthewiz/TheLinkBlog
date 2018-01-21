@@ -2,6 +2,7 @@
 title: "“By installing Java, you will be able to experience the power of Java”"
 slug: by-installing-java-you-will-be-able-to-experience-the-power-of-java
 date: 2009-01-12 14:12:39 -0600
+category: 
 external-url: http://www.joelonsoftware.com/items/2009/01/12.html
 hash: 4ccc14054b145a63111db7f1067c337e
 year: 2009

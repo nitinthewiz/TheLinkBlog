@@ -2,6 +2,7 @@
 title: "Scapple for macOS and Windows"
 slug: scapple-for-macos-and-windows
 date: 2017-07-10 23:11:59 -0500
+category: 
 external-url: http://www.literatureandlatte.com/scapple.php
 hash: 99f6bca33636bf7057187a02a0f01071
 year: 2017

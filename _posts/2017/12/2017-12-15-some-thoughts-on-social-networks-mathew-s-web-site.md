@@ -2,6 +2,7 @@
 title: "Some thoughts on social networks | mathew's web site"
 slug: some-thoughts-on-social-networks-mathew-s-web-site
 date: 2017-12-15 20:52:54 -0600
+category: 
 external-url: http://meta.ath0.com/2017/12/social-networks/
 hash: 275651bb418c0ae0ff40e56504a0e675
 year: 2017

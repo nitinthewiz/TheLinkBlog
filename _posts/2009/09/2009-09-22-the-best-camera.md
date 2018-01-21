@@ -2,6 +2,7 @@
 title: "The Best Camera"
 slug: the-best-camera
 date: 2009-09-22 17:13:56 -0500
+category: 
 external-url: http://blog.duncandavidson.com/2009/09/the-best-camera.html
 hash: 091081bf3066575ebe4ba57565379334
 year: 2009

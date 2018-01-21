@@ -2,6 +2,7 @@
 title: "Oracle Buys Involver"
 slug: oracle-buys-involver
 date: 2012-07-10 14:12:57 -0500
+category: 
 external-url: https://blogs.oracle.com/socialspotlight/
 hash: daa1b6ce6e729af66382a0da4837a764
 year: 2012

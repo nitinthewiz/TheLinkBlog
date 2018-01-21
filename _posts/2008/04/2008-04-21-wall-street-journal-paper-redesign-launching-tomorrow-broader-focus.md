@@ -2,6 +2,7 @@
 title: "Wall Street Journal Paper Redesign: Launching Tomorrow; Broader Focus"
 slug: wall-street-journal-paper-redesign-launching-tomorrow-broader-focus
 date: 2008-04-21 14:41:23 -0500
+category: 
 external-url: http://gigaom.com/2008/04/21/419-wall-street-journal-paper-redesign-launching-tomorrow-broader-focus/
 hash: efa2a7407c07728a762975116461b684
 year: 2008

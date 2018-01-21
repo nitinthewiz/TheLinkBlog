@@ -2,6 +2,7 @@
 title: "Mediawiker"
 slug: mediawiker
 date: 2013-03-23 21:17:56 -0500
+category: 
 external-url: https://github.com/tosher/Mediawiker
 hash: 34a5e91b977e91d10d96fa87ce876288
 year: 2013

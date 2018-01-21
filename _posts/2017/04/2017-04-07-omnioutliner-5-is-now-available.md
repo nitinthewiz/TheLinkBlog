@@ -2,6 +2,7 @@
 title: "OmniOutliner 5 is now available!"
 slug: omnioutliner-5-is-now-available
 date: 2017-04-07 20:33:05 -0500
+category: 
 external-url: https://www.omnigroup.com/blog/omnioutliner-5-is-now-available
 hash: bb3e7aafe8da3a0c7d2b98f122dd1472
 year: 2017

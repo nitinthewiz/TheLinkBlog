@@ -2,6 +2,7 @@
 title: "The Context Triangle"
 slug: the-context-triangle
 date: 2016-06-26 20:42:04 -0500
+category: 
 external-url: http://www.inkandben.com/blog/the-context-triangle
 hash: 33283f6e054c03905824ac71af9fe566
 year: 2016

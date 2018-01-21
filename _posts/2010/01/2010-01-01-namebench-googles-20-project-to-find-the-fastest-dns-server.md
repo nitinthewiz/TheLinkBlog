@@ -2,6 +2,7 @@
 title: "Namebench: Google’s 20% Project To Find The Fastest DNS Server"
 slug: namebench-googles-20-project-to-find-the-fastest-dns-server
 date: 2010-01-01 23:21:58 -0600
+category: 
 external-url: http://techcrunch.com/2010/01/01/namebench-google-dns/
 hash: c86ced7e4525d66f015fb3c8814c6dae
 year: 2010

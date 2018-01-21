@@ -2,6 +2,7 @@
 title: "Compost-Fueled Cars: Wouldn't That Be Great? - Onion Talks - Ep. 1"
 slug: compost-fueled-cars-wouldn-t-that-be-great-onion-talks-ep-1
 date: 2012-10-18 10:33:29 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=DkGMY63FF3Q
 hash: 67cc7b2b91dab4c8858769ae26fc751b
 year: 2012

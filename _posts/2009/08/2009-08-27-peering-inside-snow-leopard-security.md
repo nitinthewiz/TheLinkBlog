@@ -2,6 +2,7 @@
 title: "Peering Inside Snow Leopard Security"
 slug: peering-inside-snow-leopard-security
 date: 2009-08-27 21:57:10 -0500
+category: 
 external-url: http://tidbits.com/article/10509
 hash: 3910e50e9e3135ef24e2986dd478bf15
 year: 2009

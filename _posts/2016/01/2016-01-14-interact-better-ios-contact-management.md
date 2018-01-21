@@ -2,6 +2,7 @@
 title: "Interact: Better iOS Contact Management"
 slug: interact-better-ios-contact-management
 date: 2016-01-14 21:06:52 -0600
+category: 
 external-url: http://macsparky.com/blog/2016/1/interact-better-ios-contact-management
 hash: bd0453b26257ae8ac77934c0662da5dc
 year: 2016

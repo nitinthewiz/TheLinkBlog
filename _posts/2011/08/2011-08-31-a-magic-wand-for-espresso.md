@@ -2,6 +2,7 @@
 title: "A Magic Wand for Espresso"
 slug: a-magic-wand-for-espresso
 date: 2011-08-31 15:54:38 -0500
+category: 
 external-url: http://topics.blogs.nytimes.com/2009/04/30/a-magic-wand-for-espresso/
 hash: 45c1030239d24b5b459e2f553543719f
 year: 2011

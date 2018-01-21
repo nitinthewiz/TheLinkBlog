@@ -2,6 +2,7 @@
 title: "Hadoop Corona"
 slug: hadoop-corona
 date: 2012-11-12 10:21:00 -0600
+category: 
 external-url: https://github.com/facebook/hadoop-20/tree/master/src/contrib/corona
 hash: 9c8423c347028ef74a8a71bfee096860
 year: 2012

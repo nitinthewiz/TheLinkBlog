@@ -2,6 +2,7 @@
 title: "Facebook stole every contact and phone number in your phone - here's how to undo the damage"
 slug: facebook-stole-every-contact-and-phone-number-in-your-phone-here-s-how
 date: 2011-08-12 18:06:28 -0500
+category: 
 external-url: http://bgr.com/2011/08/12/facebook-stole-every-contact-and-phone-number-in-your-phone-heres-how-to-undo-the-damage/
 hash: c5a7ce3e3f5b9f7daf26579be53eb027
 year: 2011

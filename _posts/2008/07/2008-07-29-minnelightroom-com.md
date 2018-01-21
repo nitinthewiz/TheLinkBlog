@@ -2,6 +2,7 @@
 title: "minnelightroom.com"
 slug: minnelightroom-com
 date: 2008-07-29 21:14:04 -0500
+category: 
 external-url: http://www.minnelightroom.com/
 hash: f08d6810fb4466f6d46b7c2e624e7dac
 year: 2008

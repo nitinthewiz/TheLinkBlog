@@ -2,6 +2,7 @@
 title: "Dual Track Development is not Duel Track - Jeff Patton"
 slug: dual-track-development-is-not-duel-track-jeff-patton
 date: 2017-05-31 22:28:00 -0500
+category: 
 external-url: http://jpattonassociates.com/dual-track-development/
 hash: 5bfbdd8ce32088d9f23e6ad43bd97c3b
 year: 2017

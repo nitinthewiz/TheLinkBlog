@@ -2,6 +2,7 @@
 title: "Niantic Pokémon GO Fest Chicago Update - Pokémon GO"
 slug: niantic-pokemon-go-fest-chicago-update-pokemon-go
 date: 2017-07-22 20:10:17 -0500
+category: 
 external-url: http://pokemongolive.com/en/post/pokemongofestupdate
 hash: 525e110e5c4e5a9d3d750b3bf5938a06
 year: 2017

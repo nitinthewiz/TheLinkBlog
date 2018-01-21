@@ -2,6 +2,7 @@
 title: "Atul Gawande: How do we heal medicine?"
 slug: atul-gawande-how-do-we-heal-medicine
 date: 2012-05-12 15:51:23 -0500
+category: 
 external-url: http://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine
 hash: 584ef397f7af6be57737986008f63346
 year: 2012

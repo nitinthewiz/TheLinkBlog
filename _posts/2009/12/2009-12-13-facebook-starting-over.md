@@ -2,6 +2,7 @@
 title: "Facebook: Starting Over"
 slug: facebook-starting-over
 date: 2009-12-13 09:51:11 -0600
+category: 
 external-url: http://mediactive.com/2009/12/12/facebook-starting-over/
 hash: 89a96ad149c288c7bbcc560b72dc6ba1
 year: 2009

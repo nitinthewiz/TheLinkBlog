@@ -2,6 +2,7 @@
 title: "Hope and Change - Part Two"
 slug: hope-and-change-part-two
 date: 2012-11-07 07:14:19 -0600
+category: 
 external-url: http://www.nytimes.com/2012/11/07/opinion/friedman-hope-and-change-part-two.html?hp
 hash: a099b02372c4b06b5a1899051735351e
 year: 2012

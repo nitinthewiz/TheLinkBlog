@@ -2,6 +2,7 @@
 title: "U2's Bono & The Edge Perform \"Stuck In a Moment\" on David Letterman"
 slug: u2-s-bono-the-edge-perform-stuck-in-a-moment-on-david-letterman
 date: 2012-03-26 20:31:01 -0500
+category: 
 external-url: http://www.youtube.com/watch?v=Xqrn2q3WCS8
 hash: 5a6c564577c0ffb1f1c671ab85c749b2
 year: 2012

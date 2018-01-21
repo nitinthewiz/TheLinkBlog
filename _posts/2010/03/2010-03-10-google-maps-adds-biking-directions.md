@@ -2,6 +2,7 @@
 title: "Google Maps Adds Biking Directions"
 slug: google-maps-adds-biking-directions
 date: 2010-03-10 00:12:44 -0600
+category: 
 external-url: http://gigaom.com/2010/03/09/google-maps-adds-biking-directions/
 hash: 9285a4018cd5afc94f90f78ea3b7e9fa
 year: 2010

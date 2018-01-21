@@ -2,6 +2,7 @@
 title: "Foo Fighters: Christmas Medley (Live) - SNL - YouTube"
 slug: foo-fighters-christmas-medley-live-snl-youtube
 date: 2017-12-23 07:57:16 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=YIZcaYfrIms
 hash: b6c379caa0b017224a18d50eec2ddc55
 year: 2017

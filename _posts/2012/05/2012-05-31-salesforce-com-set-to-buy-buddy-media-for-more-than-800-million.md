@@ -2,6 +2,7 @@
 title: "Salesforce.com Set to Buy Buddy Media for More Than $800 Million"
 slug: salesforce-com-set-to-buy-buddy-media-for-more-than-800-million
 date: 2012-05-31 15:46:04 -0500
+category: 
 external-url: http://allthingsd.com/20120529/salesforce-set-to-snap-up-facebook-friend-buddy-media-for-more-than-800-million/
 hash: cfa2e965aa84d32d64af72a972f7ae5d
 year: 2012

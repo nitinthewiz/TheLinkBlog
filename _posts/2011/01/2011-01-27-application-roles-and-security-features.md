@@ -2,6 +2,7 @@
 title: "Application Roles and Security Features"
 slug: application-roles-and-security-features
 date: 2011-01-27 22:18:05 -0600
+category: 
 external-url: http://developers.facebook.com/blog/post/455
 hash: f16107dfbd8e6c52df9cb0bfc45eb0d9
 year: 2011

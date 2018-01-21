@@ -2,6 +2,7 @@
 title: "@Google: Lawrence Lessig: Republic, Lost: How Money Corrupts Congress—and a Plan to Stop It - YouTube"
 slug: google-lawrence-lessig-republic-lost-how-money-corrupts-congress-and-a
 date: 2011-12-11 00:06:39 -0600
+category: 
 external-url: http://www.youtube.com/watch?v=Ik1AK56FtVc
 hash: 9821bb24b74cfe7e3d2d3b0dee14a6e7
 year: 2011

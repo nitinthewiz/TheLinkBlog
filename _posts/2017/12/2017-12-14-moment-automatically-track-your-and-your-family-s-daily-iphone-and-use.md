@@ -2,6 +2,7 @@
 title: "Moment – Automatically track your and your family's daily iPhone and iPad use"
 slug: moment-automatically-track-your-and-your-family-s-daily-iphone-and-use
 date: 2017-12-14 22:53:10 -0600
+category: 
 external-url: https://inthemoment.io/
 hash: 0a3861546a3fe9520e2e96ea348d6966
 year: 2017

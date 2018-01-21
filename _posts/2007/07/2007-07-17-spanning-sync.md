@@ -2,6 +2,7 @@
 title: "Spanning Sync"
 slug: spanning-sync
 date: 2007-07-17 18:58:23 -0500
+category: 
 external-url: http://spanningsync.com/
 hash: be87d1f9e8704cdc72ecc7c9af80776d
 year: 2007

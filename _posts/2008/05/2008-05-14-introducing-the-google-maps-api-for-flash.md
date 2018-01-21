@@ -2,6 +2,7 @@
 title: "Introducing the Google Maps API for Flash"
 slug: introducing-the-google-maps-api-for-flash
 date: 2008-05-14 07:40:00 -0500
+category: 
 external-url: http://googlemapsapi.blogspot.com/2008/05/introducing-google-maps-api-for-flash.html
 hash: 1e3c373b2eefa7a89eca5d2d1bb93418
 year: 2008

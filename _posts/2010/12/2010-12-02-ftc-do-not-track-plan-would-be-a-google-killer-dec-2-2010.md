@@ -2,6 +2,7 @@
 title: "FTC 'do not track' plan would be a Google killer - Dec. 2, 2010"
 slug: ftc-do-not-track-plan-would-be-a-google-killer-dec-2-2010
 date: 2010-12-02 17:11:14 -0600
+category: 
 external-url: http://money.cnn.com/2010/12/02/technology/ftc_do_not_track/
 hash: 62a127cab6cdf997e783b8fa45f0d55a
 year: 2010

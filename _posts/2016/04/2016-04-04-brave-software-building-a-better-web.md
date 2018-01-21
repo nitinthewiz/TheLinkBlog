@@ -2,6 +2,7 @@
 title: "Brave Software | Building a Better Web"
 slug: brave-software-building-a-better-web
 date: 2016-04-04 21:33:47 -0500
+category: 
 external-url: https://brave.com/
 hash: 07578741294fe38516cabf23453f43f5
 year: 2016

@@ -2,6 +2,7 @@
 title: "The RNC Files: Inside the Largest US Voter Data Leak"
 slug: the-rnc-files-inside-the-largest-us-voter-data-leak
 date: 2017-06-20 05:39:20 -0500
+category: 
 external-url: https://www.upguard.com/breaches/the-rnc-files
 hash: 10ae16de5899d691469cb60432f988c3
 year: 2017

@@ -2,6 +2,7 @@
 title: "WikiLoopr"
 slug: wikiloopr
 date: 2012-08-31 12:41:31 -0500
+category: 
 external-url: http://wikiloopr.com/
 hash: 06e6b86cc2ef4be36083f7197c906d56
 year: 2012

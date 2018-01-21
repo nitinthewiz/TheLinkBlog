@@ -2,6 +2,7 @@
 title: "Shit New Yorkers say"
 slug: shit-new-yorkers-say
 date: 2012-01-25 15:25:27 -0600
+category: 
 external-url: http://kottke.org/12/01/shit-new-yorkers-say
 hash: 35f63fdf17e4ac13b1d969a3aabed5dc
 year: 2012

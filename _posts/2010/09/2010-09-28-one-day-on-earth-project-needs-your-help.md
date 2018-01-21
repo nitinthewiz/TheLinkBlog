@@ -2,6 +2,7 @@
 title: "One Day on Earth project needs your help"
 slug: one-day-on-earth-project-needs-your-help
 date: 2010-09-28 07:48:33 -0500
+category: 
 external-url: http://www.newsshooter.com/2010/09/28/one-day-on-earth-project-needs-your-help/
 hash: 81cda9d24bad2a01725bb98f226b037b
 year: 2010

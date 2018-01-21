@@ -2,6 +2,7 @@
 title: "Apple responds to ad group’s criticism of Safari cookie blocking"
 slug: apple-responds-to-ad-groups-criticism-of-safari-cookie-blocking
 date: 2017-09-15 21:53:46 -0500
+category: 
 external-url: http://www.loopinsight.com/2017/09/15/apple-responds-to-ad-groups-criticism-of-safari-cookie-blocking/
 hash: 4d60c50cda95e5545622b791724550ac
 year: 2017

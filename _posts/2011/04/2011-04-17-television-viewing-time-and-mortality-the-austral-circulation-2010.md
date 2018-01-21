@@ -2,6 +2,7 @@
 title: "Television viewing time and mortality: the Austral... [Circulation. 2010] - PubMed result"
 slug: television-viewing-time-and-mortality-the-austral-circulation-2010
 date: 2011-04-17 05:53:49 -0500
+category: 
 external-url: http://www.ncbi.nlm.nih.gov/pubmed/20065160
 hash: ff9ee2e7bacfaccf36fcfb89b90ee800
 year: 2011

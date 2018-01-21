@@ -2,6 +2,7 @@
 title: "The Secret Tesla Motors Master Plan (just between you and me) | Tesla Motors"
 slug: the-secret-tesla-motors-master-plan-just-between-you-and-me-tesla
 date: 2016-04-03 10:19:48 -0500
+category: 
 external-url: https://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me
 hash: 0b4feceb986417f7236dc46aa91cc626
 year: 2016

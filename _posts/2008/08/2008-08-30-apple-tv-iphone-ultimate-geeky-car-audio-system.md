@@ -2,6 +2,7 @@
 title: "Apple TV + iPhone = Ultimate geeky car audio system"
 slug: apple-tv-iphone-ultimate-geeky-car-audio-system
 date: 2008-08-30 16:54:05 -0500
+category: 
 external-url: http://www.appletvhacks.net/2008/08/30/apple-tv-iphone-ultimate-geeky-car-audio-system/
 hash: ca23f4d7c74886ef297d81033ab43a8c
 year: 2008

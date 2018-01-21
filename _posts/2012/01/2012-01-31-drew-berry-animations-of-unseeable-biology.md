@@ -2,6 +2,7 @@
 title: "Drew Berry: Animations of unseeable biology"
 slug: drew-berry-animations-of-unseeable-biology
 date: 2012-01-31 23:23:45 -0600
+category: 
 external-url: http://www.ted.com/talks/drew_berry_animations_of_unseeable_biology
 hash: 5c4b08769e076409eaed6158f443ceb5
 year: 2012

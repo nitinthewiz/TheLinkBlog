@@ -2,6 +2,7 @@
 title: "RememBear: Secure Password Manager"
 slug: remembear-secure-password-manager
 date: 2017-11-26 11:34:57 -0600
+category: 
 external-url: https://www.remembear.com/
 hash: cd75939bbdd97373d33451d22d3f2ed3
 year: 2017

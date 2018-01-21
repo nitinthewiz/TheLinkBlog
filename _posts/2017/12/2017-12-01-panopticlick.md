@@ -2,6 +2,7 @@
 title: "Panopticlick"
 slug: panopticlick
 date: 2017-12-01 15:21:18 -0600
+category: 
 external-url: https://panopticlick.eff.org/
 hash: a83ae81646cae5f7ff56eb72abf469cf
 year: 2017

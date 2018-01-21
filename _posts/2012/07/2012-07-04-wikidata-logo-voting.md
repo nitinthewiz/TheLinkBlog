@@ -2,6 +2,7 @@
 title: "Wikidata Logo voting"
 slug: wikidata-logo-voting
 date: 2012-07-04 09:39:09 -0500
+category: 
 external-url: http://meta.wikimedia.org/wiki/Wikidata/Logo_voting
 hash: 048feaa87fb373d37029fec2dbee152d
 year: 2012

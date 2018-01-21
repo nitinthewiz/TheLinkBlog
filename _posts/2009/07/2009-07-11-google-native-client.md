@@ -2,6 +2,7 @@
 title: "Google Native Client"
 slug: google-native-client
 date: 2009-07-11 13:14:09 -0500
+category: 
 external-url: http://code.google.com/p/nativeclient/
 hash: 20c9c05bc0baaa8e0a3e87c6bd486623
 year: 2009

@@ -2,6 +2,7 @@
 title: "Netatalk - Networking Apple Macintosh through Open Source"
 slug: netatalk-networking-apple-macintosh-through-open-source
 date: 2007-03-26 09:37:40 -0500
+category: 
 external-url: http://netatalk.sourceforge.net/
 hash: a12423b24e1a4a6a549d230868a6ccc3
 year: 2007

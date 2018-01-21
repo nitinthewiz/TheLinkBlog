@@ -2,6 +2,7 @@
 title: "Apache ZooKeeper"
 slug: apache-zookeeper
 date: 2012-11-29 11:17:01 -0600
+category: 
 external-url: http://zookeeper.apache.org/
 hash: 2461c5e00510d74da763e7fb6288e76b
 year: 2012

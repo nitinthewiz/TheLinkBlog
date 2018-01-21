@@ -2,6 +2,7 @@
 title: "Your future cloud is hybrid, and so is Azure —Microsoft Azure Blog"
 slug: your-future-cloud-is-hybrid-and-so-is-azure-microsoft-azure-blog
 date: 2017-09-27 05:46:47 -0500
+category: 
 external-url: https://azure.microsoft.com/en-us/blog/your-future-cloud-is-hybrid-and-so-is-azure/
 hash: 997705177c5444c47630efef0963e466
 year: 2017

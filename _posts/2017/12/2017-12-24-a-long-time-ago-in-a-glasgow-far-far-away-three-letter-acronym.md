@@ -2,6 +2,7 @@
 title: "A long time ago, in a Glasgow far, far, away… – Three Letter Acronym"
 slug: a-long-time-ago-in-a-glasgow-far-far-away-three-letter-acronym
 date: 2017-12-24 07:13:23 -0600
+category: 
 external-url: http://tla.systems/blog/2017/12/23/a-long-time-ago-in-a-glasgow-far-far-away/
 hash: 4d02fbadf12eb3fec7bf0b6293296ffb
 year: 2017

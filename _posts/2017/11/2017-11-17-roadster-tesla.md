@@ -2,6 +2,7 @@
 title: "Roadster | Tesla"
 slug: roadster-tesla
 date: 2017-11-17 20:48:57 -0600
+category: 
 external-url: https://www.tesla.com/roadster/
 hash: c0c51e5ffd9c7851a273f88874d520c6
 year: 2017

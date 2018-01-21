@@ -2,6 +2,7 @@
 title: "Apple execs seek LED flash components for future iPhones?"
 slug: apple-execs-seek-led-flash-components-for-future-iphones
 date: 2010-01-08 19:47:05 -0600
+category: 
 external-url: http://9to5mac.com/2010/01/08/apple-execs-seek-led-flash-components-for-future-iphones/
 hash: 3cd8e0c52ccddc186a0204aac2b32d1f
 year: 2010

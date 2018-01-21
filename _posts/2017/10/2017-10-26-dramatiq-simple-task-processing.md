@@ -2,6 +2,7 @@
 title: "Dramatiq: simple task processing"
 slug: dramatiq-simple-task-processing
 date: 2017-10-26 07:09:24 -0500
+category: 
 external-url: https://dramatiq.io/
 hash: 33e3563d45a5cf7fefa188fa1f9f3840
 year: 2017

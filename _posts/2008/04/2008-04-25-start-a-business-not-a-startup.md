@@ -2,6 +2,7 @@
 title: "Start a business, not a startup"
 slug: start-a-business-not-a-startup
 date: 2008-04-25 09:46:00 -0500
+category: 
 external-url: http://signalvnoise.com/posts/997-start-a-business-not-a-startup
 hash: acc7c19ac02339b1c194e20a66e3d20b
 year: 2008

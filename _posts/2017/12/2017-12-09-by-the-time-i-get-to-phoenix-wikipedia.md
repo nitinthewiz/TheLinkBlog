@@ -2,6 +2,7 @@
 title: "By the Time I Get to Phoenix - Wikipedia"
 slug: by-the-time-i-get-to-phoenix-wikipedia
 date: 2017-12-09 22:40:20 -0600
+category: 
 external-url: https://en.wikipedia.org/wiki/By_the_Time_I_Get_to_Phoenix
 hash: 2053b560de727299fa7ac10b27d5a8e7
 year: 2017

@@ -2,6 +2,7 @@
 title: "Templates.scpt"
 slug: templates-scpt
 date: 2013-03-06 22:18:16 -0600
+category: 
 external-url: http://cmsauve.com/projects/templates/
 hash: 4d00d94e4a2d36e51973cce7db179c46
 year: 2013

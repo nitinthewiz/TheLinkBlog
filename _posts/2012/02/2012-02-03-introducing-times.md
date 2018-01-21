@@ -2,6 +2,7 @@
 title: "Introducing Times"
 slug: introducing-times
 date: 2012-02-03 15:34:40 -0600
+category: 
 external-url: http://nvie.com/posts/introducing-times/
 hash: 4e3df398069956c4240668280adfe802
 year: 2012

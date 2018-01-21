@@ -2,6 +2,7 @@
 title: "X1 Water Bike - Sportzy"
 slug: x1-water-bike-sportzy
 date: 2014-10-26 18:20:09 -0500
+category: 
 external-url: https://sportzy.com/x1-water-bike
 hash: d6af1bea9c7a252a9ca3b75f8009f6a2
 year: 2014

@@ -2,6 +2,7 @@
 title: "'Nudge' policies are another name for coercion"
 slug: nudge-policies-are-another-name-for-coercion
 date: 2011-11-13 23:06:36 -0600
+category: 
 external-url: http://www.newscientist.com/article/mg21228376.500-nudge-policies-are-another-name-for-coercion.html
 hash: 68cd779918776d32967c85a79798e3d0
 year: 2011

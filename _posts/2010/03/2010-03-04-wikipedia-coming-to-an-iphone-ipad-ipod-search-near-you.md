@@ -2,6 +2,7 @@
 title: "Wikipedia Coming to an iPhone/iPad/iPod search near you"
 slug: wikipedia-coming-to-an-iphone-ipad-ipod-search-near-you
 date: 2010-03-04 23:05:21 -0600
+category: 
 external-url: http://9to5mac.com/2010/03/04/wikipedia-coming-to-an-iphoneipadipod-search-near-you/
 hash: 24ada7e28eb0357233bfcce03adddc34
 year: 2010

@@ -2,6 +2,7 @@
 title: "Anonymous Promises to 'Shut Down the Internet' March 31"
 slug: anonymous-promises-to-shut-down-the-internet-march-31
 date: 2012-03-29 20:02:03 -0500
+category: 
 external-url: http://www.gamepolitics.com/2012/03/29/report-anonymous-promises-shut-down-internet-march-31
 hash: bcc2eb3416f77f77027a2c76c817ca64
 year: 2012

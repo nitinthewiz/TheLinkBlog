@@ -2,6 +2,7 @@
 title: "Frappe Charts"
 slug: frappe-charts
 date: 2017-11-03 06:48:16 -0500
+category: 
 external-url: https://frappe.github.io/charts/
 hash: ae3853e4f92dfbcf5fd91d25018450b1
 year: 2017

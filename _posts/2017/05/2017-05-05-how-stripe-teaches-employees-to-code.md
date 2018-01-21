@@ -2,6 +2,7 @@
 title: "How Stripe teaches employees to code"
 slug: how-stripe-teaches-employees-to-code
 date: 2017-05-05 12:43:14 -0500
+category: 
 external-url: https://stripe.com/blog/teaching-employees-to-code
 hash: fe600ee1e275864ac404913047b6cbb5
 year: 2017

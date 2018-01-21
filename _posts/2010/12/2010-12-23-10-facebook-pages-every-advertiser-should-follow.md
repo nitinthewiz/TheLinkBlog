@@ -2,6 +2,7 @@
 title: "10 Facebook Pages Every Advertiser Should Follow"
 slug: 10-facebook-pages-every-advertiser-should-follow
 date: 2010-12-23 10:28:33 -0600
+category: 
 external-url: http://allfacebook.com/10-facebook-pages-every-advertiser-should-follow_b26784
 hash: e7cbd3801a882d0e6b59b731ac8b54cd
 year: 2010

@@ -2,6 +2,7 @@
 title: "Svartifoss - National Geographic Photo of the Day"
 slug: svartifoss-national-geographic-photo-of-the-day
 date: 2012-09-12 21:03:58 -0500
+category: 
 external-url: http://photography.nationalgeographic.com/photography/photo-of-the-day/svartifoss-waterfall-iceland/
 hash: d40b3f2634b8c7ea40652504e668d61e
 year: 2012

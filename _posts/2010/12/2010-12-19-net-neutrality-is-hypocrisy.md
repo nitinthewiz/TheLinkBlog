@@ -2,6 +2,7 @@
 title: "Net neutrality is hypocrisy"
 slug: net-neutrality-is-hypocrisy
 date: 2010-12-19 11:11:52 -0600
+category: 
 external-url: http://scripting.com/stories/2010/12/19/netNeutralityIsHypocrisy.html
 hash: 98de86ee7f7297f464c4bac2b2d67a8c
 year: 2010

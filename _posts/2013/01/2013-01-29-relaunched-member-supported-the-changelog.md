@@ -2,6 +2,7 @@
 title: "Relaunched! Member supported - The Changelog"
 slug: relaunched-member-supported-the-changelog
 date: 2013-01-29 10:57:00 -0600
+category: 
 external-url: http://thechangelog.com/relaunched-member-supported/
 hash: d75f94c1793f9b433cc7609db1e65a3d
 year: 2013

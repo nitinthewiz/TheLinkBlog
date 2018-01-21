@@ -2,6 +2,7 @@
 title: "Do You Remember? The Life and legacy of Hüsker Dü : NPR"
 slug: do-you-remember-the-life-and-legacy-of-husker-du-npr
 date: 2017-11-05 22:23:11 -0600
+category: 
 external-url: http://www.npr.org/podcasts/550140934/do-you-remember-the-life-and-legacy-of-husker-du
 hash: ce435940df91e14a73a8033642dc7bf2
 year: 2017

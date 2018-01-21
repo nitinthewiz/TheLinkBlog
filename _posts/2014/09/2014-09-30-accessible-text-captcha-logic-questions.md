@@ -2,6 +2,7 @@
 title: "Accessible Text CAPTCHA Logic Questions"
 slug: accessible-text-captcha-logic-questions
 date: 2014-09-30 21:05:02 -0500
+category: 
 external-url: http://textcaptcha.com/
 hash: d2fdee928d0e9e3af30c50c719ea5d70
 year: 2014

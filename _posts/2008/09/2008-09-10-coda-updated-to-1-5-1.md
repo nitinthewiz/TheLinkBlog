@@ -2,6 +2,7 @@
 title: "Coda updated to 1.5.1"
 slug: coda-updated-to-1-5-1
 date: 2008-09-10 16:00:00 -0500
+category: 
 external-url: http://www.tuaw.com/2008/09/10/coda-updated-to-1-5-1/
 hash: 17eda1d5ce8ac15e7688220703fa9918
 year: 2008

@@ -2,6 +2,7 @@
 title: "MongoDB Best Practices Engine Yard Blog"
 slug: mongodb-best-practices-engine-yard-blog
 date: 2011-12-23 19:30:31 -0600
+category: 
 external-url: https://blog.engineyard.com/2011/mongodb-best-practices
 hash: 6f9e9fad0b31467ce9a796c11e4adf63
 year: 2011

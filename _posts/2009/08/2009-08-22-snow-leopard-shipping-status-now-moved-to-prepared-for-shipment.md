@@ -2,6 +2,7 @@
 title: "Snow Leopard shipping status now moved to \"PREPARED FOR SHIPMENT\""
 slug: snow-leopard-shipping-status-now-moved-to-prepared-for-shipment
 date: 2009-08-22 21:35:50 -0500
+category: 
 external-url: http://9to5mac.com/2009/09/17/snow-leopard-sales-roaring-outsell-tiger-and-leopard-upgrades/
 hash: 013ebce5db4cb19ee0c7803fef17a563
 year: 2009

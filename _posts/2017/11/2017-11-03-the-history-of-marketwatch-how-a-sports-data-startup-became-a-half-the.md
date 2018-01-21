@@ -2,6 +2,7 @@
 title: "The history of MarketWatch: How a sports data startup became a half-billion-dollar financial news site - Outside the Box - MarketWatch"
 slug: the-history-of-marketwatch-how-a-sports-data-startup-became-a-half-the
 date: 2017-11-03 20:11:03 -0500
+category: 
 external-url: https://www.marketwatch.com/(S(rnrsydaynixa5x55oiibxm45))/story/the-history-of-marketwatch-how-a-sports-data-startup-became-a-half-billion-dollar-financial-news-site-2017-10-30
 hash: 16eb0c73a52c696feabe7aa409082131
 year: 2017

@@ -2,6 +2,7 @@
 title: "How WikiLeaks Just Set Back Democracy in Zimbabwe"
 slug: how-wikileaks-just-set-back-democracy-in-zimbabwe
 date: 2010-12-30 23:39:34 -0600
+category: 
 external-url: http://www.theatlantic.com/international/archive/2010/12/how-wikileaks-just-set-back-democracy-in-zimbabwe/68598/
 hash: b86e41d930e7d38cdb27b6d51d18cfbe
 year: 2010

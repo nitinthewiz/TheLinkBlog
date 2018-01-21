@@ -2,6 +2,7 @@
 title: "CSE Professor John Riedl named ACM fellow"
 slug: cse-professor-john-riedl-named-acm-fellow
 date: 2009-12-08 04:30:34 -0600
+category: 
 external-url: http://www.cs.umn.edu/news/news.php?id=935
 hash: 45dc0116b929b711f3c1eea8a8c5b853
 year: 2009

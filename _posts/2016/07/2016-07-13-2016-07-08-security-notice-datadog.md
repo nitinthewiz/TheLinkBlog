@@ -2,6 +2,7 @@
 title: "2016-07-08 Security Notice - Datadog"
 slug: 2016-07-08-security-notice-datadog
 date: 2016-07-13 10:38:11 -0500
+category: 
 external-url: https://www.datadoghq.com/blog/2016-07-08-security-notice/
 hash: 97db9d7f4541b359139ec861a5f3d2ca
 year: 2016

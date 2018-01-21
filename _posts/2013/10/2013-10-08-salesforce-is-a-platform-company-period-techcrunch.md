@@ -2,6 +2,7 @@
 title: "Salesforce Is A Platform Company. Period. - TechCrunch"
 slug: salesforce-is-a-platform-company-period-techcrunch
 date: 2013-10-08 08:59:44 -0500
+category: 
 external-url: http://techcrunch.com/2013/09/30/salesforce-is-a-platform-company-period/
 hash: 3a6352ed2fc523eb5009517c44736bcd
 year: 2013

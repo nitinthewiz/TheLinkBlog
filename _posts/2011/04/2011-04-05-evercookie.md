@@ -2,6 +2,7 @@
 title: "Evercookie"
 slug: evercookie
 date: 2011-04-05 14:21:35 -0500
+category: 
 external-url: http://en.wikipedia.org/wiki/Evercookie
 hash: 73ff121038011e66aee9be003a2a9746
 year: 2011

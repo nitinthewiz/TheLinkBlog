@@ -2,6 +2,7 @@
 title: "Terms of Service; Didn't Read"
 slug: terms-of-service-didn-t-read
 date: 2014-10-04 21:47:46 -0500
+category: 
 external-url: https://tosdr.org/
 hash: 0d17330e7c162df074a68d1dae8c1cc0
 year: 2014

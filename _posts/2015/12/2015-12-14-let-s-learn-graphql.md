@@ -2,6 +2,7 @@
 title: "Let's Learn GraphQL"
 slug: let-s-learn-graphql
 date: 2015-12-14 20:09:53 -0600
+category: 
 external-url: https://learngraphql.com
 hash: ee4f95754823faf519bba48167328484
 year: 2015

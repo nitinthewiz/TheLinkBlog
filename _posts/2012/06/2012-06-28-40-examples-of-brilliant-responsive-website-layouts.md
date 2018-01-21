@@ -2,6 +2,7 @@
 title: "40 Examples of Brilliant Responsive Website Layouts"
 slug: 40-examples-of-brilliant-responsive-website-layouts
 date: 2012-06-28 08:42:36 -0500
+category: 
 external-url: http://speckyboy.com/2012/02/29/40-examples-of-brilliant-responsive-website-layouts/
 hash: 2dcbb3c6f0c0628db36e354dc48a67e5
 year: 2012

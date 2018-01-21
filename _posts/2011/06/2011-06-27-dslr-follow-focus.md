@@ -2,6 +2,7 @@
 title: "DSLR Follow Focus"
 slug: dslr-follow-focus
 date: 2011-06-27 22:18:03 -0500
+category: 
 external-url: http://www.dslrsolutions.net/dslr-follow-focus/
 hash: c5ade2e60579c0466d2f3c29364f6fcb
 year: 2011

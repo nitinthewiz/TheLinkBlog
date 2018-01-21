@@ -2,6 +2,7 @@
 title: "Tim Berners-Lees One Regret Regarding the Web"
 slug: tim-berners-lees-one-regret-regarding-the-web
 date: 2009-10-13 17:33:31 -0500
+category: 
 external-url: http://bits.blogs.nytimes.com/2009/10/12/the-webs-inventor-regrets-one-small-thing/
 hash: c45951ba2ab171b49b434f60a2503b77
 year: 2009

@@ -2,6 +2,7 @@
 title: "Google's AlphaZero Destroys Stockfish In 100-Game Match - Chess.com"
 slug: google-s-alphazero-destroys-stockfish-in-100-game-match-chess-com
 date: 2017-12-06 20:22:41 -0600
+category: 
 external-url: https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match
 hash: bcbf982f68297512a803efaadad4c8a0
 year: 2017

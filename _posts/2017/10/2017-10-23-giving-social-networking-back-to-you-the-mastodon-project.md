@@ -2,6 +2,7 @@
 title: "Giving social networking back to you - The Mastodon Project"
 slug: giving-social-networking-back-to-you-the-mastodon-project
 date: 2017-10-23 22:19:03 -0500
+category: 
 external-url: https://joinmastodon.org/
 hash: cabcb53ed2b2c9dfa2f30db3725161da
 year: 2017

@@ -2,6 +2,7 @@
 title: "Exponential growth devours and corrupts – Signal v. Noise"
 slug: exponential-growth-devours-and-corrupts-signal-v-noise
 date: 2017-05-16 20:29:01 -0500
+category: 
 external-url: https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131
 hash: 04248996b23bc6ac4a7c84dde9ec756c
 year: 2017

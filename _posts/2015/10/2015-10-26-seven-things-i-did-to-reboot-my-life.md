@@ -2,6 +2,7 @@
 title: "Seven Things I Did To Reboot My Life"
 slug: seven-things-i-did-to-reboot-my-life
 date: 2015-10-26 21:05:29 -0500
+category: 
 external-url: http://wilwheaton.net/2015/10/seven-things-i-did-to-reboot-my-life/
 hash: 90fc437571377557a257211f882a78f6
 year: 2015

@@ -2,6 +2,7 @@
 title: "Formative Labs Will Turn Energy Saving Into A Game On The Wings Of Impressive Angels"
 slug: formative-labs-will-turn-energy-saving-into-a-game-on-the-wings-of
 date: 2010-10-11 19:10:52 -0500
+category: 
 external-url: http://techcrunch.com/2010/10/11/formative-labs-funding/
 hash: 37d6e694c5d73fd9dec1d0a8f94da7e5
 year: 2010

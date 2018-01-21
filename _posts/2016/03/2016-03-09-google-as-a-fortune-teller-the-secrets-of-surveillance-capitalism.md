@@ -2,6 +2,7 @@
 title: "Google as a Fortune Teller The Secrets of Surveillance Capitalism"
 slug: google-as-a-fortune-teller-the-secrets-of-surveillance-capitalism
 date: 2016-03-09 05:43:28 -0600
+category: 
 external-url: http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616-p2.html?printPagedArticle=true
 hash: d4263672b575b7d0bf9bf165a54c9315
 year: 2016

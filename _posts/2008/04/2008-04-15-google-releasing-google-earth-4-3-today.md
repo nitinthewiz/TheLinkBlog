@@ -2,6 +2,7 @@
 title: "Google Releasing Google Earth 4.3 Today"
 slug: google-releasing-google-earth-4-3-today
 date: 2008-04-15 04:01:10 -0500
+category: 
 external-url: http://www.gearthblog.com/blog/archives/2008/04/google_releasing_google_earth_43_to.html
 hash: eb504df909e347506ebd162f4c7c2c51
 year: 2008

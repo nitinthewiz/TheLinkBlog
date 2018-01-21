@@ -2,6 +2,7 @@
 title: "Tunnel Bear VPN — MacSparky"
 slug: tunnel-bear-vpn-macsparky
 date: 2015-06-24 22:27:04 -0500
+category: 
 external-url: http://macsparky.com/blog/2015/6/tunnel-bear-vpn
 hash: eb3890cdddf67e23cdc1a02da3562a67
 year: 2015

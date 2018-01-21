@@ -2,6 +2,7 @@
 title: "TwitterLocal Peeks into the Real World"
 slug: twitterlocal-peeks-into-the-real-world
 date: 2008-04-05 11:00:00 -0500
+category: 
 external-url: https://gigaom.com/2008/04/05/twitterlocal-peeks-into-the-real-world/
 hash: b47780f78b9408a4692fff0b0d6f0e07
 year: 2008

@@ -2,6 +2,7 @@
 title: "★ The iPhones 8 —Daring Fireball"
 slug: the-iphones-8-daring-fireball
 date: 2017-09-19 20:26:15 -0500
+category: 
 external-url: https://daringfireball.net/2017/09/the_iphones_8
 hash: a1a91e23c10c471bd12b57bab584587b
 year: 2017

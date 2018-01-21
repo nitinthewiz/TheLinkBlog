@@ -2,6 +2,7 @@
 title: "California Legislature to Hear EFF’s License Plate Cover Bill | Electronic Frontier Foundation"
 slug: california-legislature-to-hear-effs-license-plate-cover-bill-frontier
 date: 2018-01-09 22:04:14 -0600
+category: 
 external-url: https://www.eff.org/deeplinks/2018/01/california-senate-hear-effs-license-plate-cover-bill
 hash: 7abb1efe06efa5c4e3e434b33b474e79
 year: 2018

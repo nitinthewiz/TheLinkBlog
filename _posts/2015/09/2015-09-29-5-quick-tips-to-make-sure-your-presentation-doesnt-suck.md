@@ -2,6 +2,7 @@
 title: "5 Quick Tips to Make Sure Your Presentation Doesn’t Suck"
 slug: 5-quick-tips-to-make-sure-your-presentation-doesnt-suck
 date: 2015-09-29 10:19:53 -0500
+category: 
 external-url: http://macsparky.com/blog/2015/9/5-quick-tips-to-make-sure-your-presentation-doesnt-suck
 hash: 189d59648498f47632414baebe72898f
 year: 2015

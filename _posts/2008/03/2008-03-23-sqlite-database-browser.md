@@ -2,6 +2,7 @@
 title: "SQLite Database Browser"
 slug: sqlite-database-browser
 date: 2008-03-23 15:05:39 -0500
+category: 
 external-url: http://sourceforge.net/projects/sqlitebrowser/
 hash: ff9d9a79baf2c8c91c3c9ab76f9dfbbc
 year: 2008

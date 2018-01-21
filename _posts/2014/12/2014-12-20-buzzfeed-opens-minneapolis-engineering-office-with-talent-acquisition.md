@@ -2,6 +2,7 @@
 title: "BuzzFeed Opens Minneapolis Engineering Office With Talent Acquisition Of Mobile And Web Development Company Hyper IQ"
 slug: buzzfeed-opens-minneapolis-engineering-office-with-talent-acquisition
 date: 2014-12-20 09:32:51 -0600
+category: 
 external-url: http://www.buzzfeed.com/buzzfeedpress/buzzfeed-opens-minneapolis-engineering-office-with-talent-ac
 hash: d8239091c7b468e29a587795732fc4a7
 year: 2014

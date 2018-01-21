@@ -2,6 +2,7 @@
 title: "U.S. National Kubb Championship"
 slug: u-s-national-kubb-championship
 date: 2012-03-16 15:04:18 -0500
+category: 
 external-url: http://www.usakubb.org/
 hash: 20afcba86359dde93fa56220f64d53a3
 year: 2012

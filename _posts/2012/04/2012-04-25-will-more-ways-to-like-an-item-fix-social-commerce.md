@@ -2,6 +2,7 @@
 title: "Will More Ways to Like An Item Fix Social Commerce?"
 slug: will-more-ways-to-like-an-item-fix-social-commerce
 date: 2012-04-25 16:55:02 -0500
+category: 
 external-url: http://thehighlow.com/2012/04/will-more-ways-to-like-an-item-fix-social-commerce/
 hash: 66bd29910c27b7c659a26b9121040cc3
 year: 2012

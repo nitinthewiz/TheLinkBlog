@@ -2,6 +2,7 @@
 title: "PGN Mentor"
 slug: pgn-mentor
 date: 2007-02-01 22:58:52 -0600
+category: 
 external-url: http://www.pgnmentor.com/index.html
 hash: fcd5755eaccb36bd8d7ebf61d1b5a21d
 year: 2007

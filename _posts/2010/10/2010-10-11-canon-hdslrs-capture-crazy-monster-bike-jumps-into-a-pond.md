@@ -2,6 +2,7 @@
 title: "Canon HDSLRs capture crazy monster bike jumps into a pond"
 slug: canon-hdslrs-capture-crazy-monster-bike-jumps-into-a-pond
 date: 2010-10-11 12:31:57 -0500
+category: 
 external-url: http://blog.planet5d.com/2010/10/canon-hdslrs-capture-crazy-monster-bike-jumps-into-a-pond/
 hash: 57fbfe58f9edb9d5121def3f0ae00b90
 year: 2010

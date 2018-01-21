@@ -2,6 +2,7 @@
 title: "Lightning adapter - Elevation Lab"
 slug: lightning-adapter-elevation-lab
 date: 2012-11-06 06:39:01 -0600
+category: 
 external-url: http://www.elevationlab.com/products/lightning-adapter
 hash: 9e28163e37a332096e516b5bf1f00dda
 year: 2012

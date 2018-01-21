@@ -2,6 +2,7 @@
 title: "Lightroom Dashboard Can Help You Visualize Your Photography Habits"
 slug: lightroom-dashboard-can-help-you-visualize-your-photography-habits
 date: 2015-08-07 21:40:02 -0500
+category: 
 external-url: http://petapixel.com/2015/07/15/lightroom-dashboard-can-help-you-visualize-your-photography-habits/
 hash: 7a19cac5cbd3ae82469439418d96a9a9
 year: 2015

@@ -2,6 +2,7 @@
 title: "3scale API Management Platform"
 slug: 3scale-api-management-platform
 date: 2016-01-30 13:40:30 -0600
+category: 
 external-url: http://www.3scale.net/
 hash: 5066c5c5657a4a55564e94f709ffe780
 year: 2016

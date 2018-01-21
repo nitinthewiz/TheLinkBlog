@@ -2,6 +2,7 @@
 title: "Calling all girl geeks! She’s Geeky unConference makes its first Midwest stop in the Twin Cities"
 slug: calling-all-girl-geeks-shes-geeky-unconference-makes-its-first-midwest
 date: 2010-07-21 08:57:27 -0500
+category: 
 external-url: http://tech.mn/news/2010/07/21/calling-all-girl-geeks-shes-geeky-unconference-makes-its-first-midwest-stop-in-the-twin-cities/
 hash: b9ff6d744cb2fe4c3ed5014918cb8b2f
 year: 2010

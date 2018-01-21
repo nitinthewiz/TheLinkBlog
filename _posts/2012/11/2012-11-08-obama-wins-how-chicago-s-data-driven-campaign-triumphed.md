@@ -2,6 +2,7 @@
 title: "Obama Wins: How Chicago's Data-Driven Campaign Triumphed"
 slug: obama-wins-how-chicago-s-data-driven-campaign-triumphed
 date: 2012-11-08 14:14:01 -0600
+category: 
 external-url: http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/
 hash: 268f644161b38d417df093cca86d159c
 year: 2012

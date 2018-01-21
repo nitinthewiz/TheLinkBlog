@@ -2,6 +2,7 @@
 title: "Simulating Chutes & Ladders in Python | Pythonic Perambulations"
 slug: simulating-chutes-ladders-in-python-pythonic-perambulations
 date: 2018-01-03 06:19:48 -0600
+category: 
 external-url: https://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/
 hash: 37bb9ce6c176eca020881098f907e938
 year: 2018

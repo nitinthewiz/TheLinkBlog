@@ -2,6 +2,7 @@
 title: "Project Jupyter | Home"
 slug: project-jupyter-home
 date: 2015-10-29 22:53:50 -0500
+category: 
 external-url: http://jupyter.org/
 hash: 3f289b07fe1315c880cb7e3ef01c62b0
 year: 2015

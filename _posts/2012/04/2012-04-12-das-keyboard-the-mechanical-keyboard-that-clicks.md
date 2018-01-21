@@ -2,6 +2,7 @@
 title: "Das Keyboard: The mechanical keyboard that clicks"
 slug: das-keyboard-the-mechanical-keyboard-that-clicks
 date: 2012-04-12 17:15:31 -0500
+category: 
 external-url: http://www.daskeyboard.com/
 hash: d19f6044af329bfec772aee0ed6d48a3
 year: 2012

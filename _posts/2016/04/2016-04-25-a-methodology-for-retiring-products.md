@@ -2,6 +2,7 @@
 title: "A Methodology for Retiring Products"
 slug: a-methodology-for-retiring-products
 date: 2016-04-25 20:01:38 -0500
+category: 
 external-url: http://neovintage.org/2016/01/24/a-methodology-for-retiring-products/
 hash: c1b6610acb42a76f830691efdd9543a1
 year: 2016

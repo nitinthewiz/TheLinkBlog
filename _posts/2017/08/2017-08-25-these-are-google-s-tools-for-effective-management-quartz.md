@@ -2,6 +2,7 @@
 title: "These are Google's tools for effective management — Quartz"
 slug: these-are-google-s-tools-for-effective-management-quartz
 date: 2017-08-25 20:08:20 -0500
+category: 
 external-url: https://qz.com/1058563/these-are-googles-tools-for-effective-management/
 hash: 76a0540060a5eea17622e842fa391fe6
 year: 2017

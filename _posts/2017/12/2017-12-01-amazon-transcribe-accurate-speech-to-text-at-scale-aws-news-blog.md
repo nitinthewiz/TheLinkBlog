@@ -2,6 +2,7 @@
 title: "Amazon Transcribe – Accurate Speech To Text At Scale | AWS News Blog"
 slug: amazon-transcribe-accurate-speech-to-text-at-scale-aws-news-blog
 date: 2017-12-01 15:00:15 -0600
+category: 
 external-url: https://aws.amazon.com/blogs/aws/amazon-transcribe-scalable-and-accurate-automatic-speech-recognition/
 hash: d9b83fc2d58d76ffbade8f9ed1ce818e
 year: 2017

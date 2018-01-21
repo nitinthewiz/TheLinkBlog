@@ -2,6 +2,7 @@
 title: "Designers and women in open source"
 slug: designers-and-women-in-open-source
 date: 2011-03-29 17:55:16 -0500
+category: 
 external-url: http://vi.to/designers-and-women-in-open-source.html
 hash: 938d1c5f7475f2834048f8b329dfbacf
 year: 2011

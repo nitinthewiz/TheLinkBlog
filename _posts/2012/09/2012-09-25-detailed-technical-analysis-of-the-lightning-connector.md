@@ -2,6 +2,7 @@
 title: "Detailed Technical Analysis of the Lightning Connector"
 slug: detailed-technical-analysis-of-the-lightning-connector
 date: 2012-09-25 14:31:03 -0500
+category: 
 external-url: http://brockerhoff.net/blog/2012/09/23/boom-pins/
 hash: e622a8d3ca4c53410ee61076f5002594
 year: 2012

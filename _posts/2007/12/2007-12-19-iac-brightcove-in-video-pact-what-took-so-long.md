@@ -2,6 +2,7 @@
 title: "IAC, Brightcove In Video Pact. What Took So Long?"
 slug: iac-brightcove-in-video-pact-what-took-so-long
 date: 2007-12-19 07:02:34 -0600
+category: 
 external-url: http://www.businessinsider.com/2007/12/iac-brightcove-in-video-pact-what-took-so-long
 hash: 1b8ab2e0b92c60f6bd2ecf4ffa2836fa
 year: 2007

@@ -2,6 +2,7 @@
 title: "The top secret rules that allow NSA to use US data without a warrant"
 slug: the-top-secret-rules-that-allow-nsa-to-use-us-data-without-a-warrant
 date: 2013-06-24 10:45:16 -0500
+category: 
 external-url: http://www.theguardian.com/world/2013/jun/20/fisa-court-nsa-without-warrant
 hash: 499bb92790ce6deef7c38ff330c1bd24
 year: 2013

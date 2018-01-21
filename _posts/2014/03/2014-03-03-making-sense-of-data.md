@@ -2,6 +2,7 @@
 title: "Making Sense of Data"
 slug: making-sense-of-data
 date: 2014-03-03 05:37:27 -0600
+category: 
 external-url: https://datasense.withgoogle.com/course
 hash: cc904d2259dfc168b05170f930dbab67
 year: 2014

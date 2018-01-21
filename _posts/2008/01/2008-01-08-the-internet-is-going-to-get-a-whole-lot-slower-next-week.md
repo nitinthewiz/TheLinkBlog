@@ -2,6 +2,7 @@
 title: "The Internet is going to get a whole lot slower next week"
 slug: the-internet-is-going-to-get-a-whole-lot-slower-next-week
 date: 2008-01-08 04:43:22 -0600
+category: 
 external-url: http://9to5mac.com/2008/01/08/the-internet-is-going-to-get-a-whole-lot-slower-next-week/
 hash: ad1c65026397e81da05166bb1ce819bb
 year: 2008

@@ -2,6 +2,7 @@
 title: "Dev Blog: Upcoming WordCamps"
 slug: dev-blog-upcoming-wordcamps
 date: 2008-04-30 05:54:48 -0500
+category: 
 external-url: http://wordpress.org/news/2008/04/upcoming-wordcamps/
 hash: 85d995d672f526253ef7e507a0b2e0e6
 year: 2008

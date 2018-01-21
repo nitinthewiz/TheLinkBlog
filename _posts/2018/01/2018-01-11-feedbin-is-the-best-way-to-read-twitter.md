@@ -2,6 +2,7 @@
 title: "Feedbin is the Best Way to Read Twitter"
 slug: feedbin-is-the-best-way-to-read-twitter
 date: 2018-01-11 16:33:59 -0600
+category: 
 external-url: https://feedbin.com/blog/2018/01/11/feedbin-is-the-best-way-to-read-twitter/
 hash: 00045e92ae094dbcf917d551676e1c80
 year: 2018

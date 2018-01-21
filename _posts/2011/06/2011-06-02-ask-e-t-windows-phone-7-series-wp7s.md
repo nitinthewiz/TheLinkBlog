@@ -2,6 +2,7 @@
 title: "Ask E.T.: Windows Phone 7 Series (WP7S)"
 slug: ask-e-t-windows-phone-7-series-wp7s
 date: 2011-06-02 12:18:56 -0500
+category: 
 external-url: http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003cy&topic_id=1&topic=Ask%2BE%2eT%2e
 hash: ca9be610fdf88e3bcf9a6bb65ff9d79a
 year: 2011

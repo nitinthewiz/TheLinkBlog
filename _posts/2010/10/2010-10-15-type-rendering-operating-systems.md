@@ -2,6 +2,7 @@
 title: "Type rendering: operating systems"
 slug: type-rendering-operating-systems
 date: 2010-10-15 10:16:22 -0500
+category: 
 external-url: http://blog.typekit.com/2010/10/15/type-rendering-operating-systems/
 hash: 46d058f7a8bd0b744eb31dbee7395171
 year: 2010

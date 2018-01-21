@@ -2,6 +2,7 @@
 title: "Mark Zuckerberg interview @ Startup School"
 slug: mark-zuckerberg-interview-startup-school
 date: 2011-10-30 20:54:43 -0500
+category: 
 external-url: http://techcrunch.com/2011/10/30/facebooks-zuckerberg-if-i-were-starting-a-company-now-i-would-have-stayed-in-boston/
 hash: 7cba249e9de0e4d7f545f3b5b81c891c
 year: 2011

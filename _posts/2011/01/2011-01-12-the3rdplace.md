@@ -2,6 +2,7 @@
 title: "The3rdPlace"
 slug: the3rdplace
 date: 2011-01-12 10:36:22 -0600
+category: 
 external-url: http://the3rdplace.us/
 hash: adc877cada11c5e464328880471a6a30
 year: 2011

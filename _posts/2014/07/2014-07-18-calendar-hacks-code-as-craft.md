@@ -2,6 +2,7 @@
 title: "Calendar Hacks Code as Craft"
 slug: calendar-hacks-code-as-craft
 date: 2014-07-18 12:40:27 -0500
+category: 
 external-url: http://codeascraft.com/2014/07/15/calendar-hacks/
 hash: 80a1a87b02cf355974adf34e3e53abdd
 year: 2014

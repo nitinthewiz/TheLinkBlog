@@ -2,6 +2,7 @@
 title: "One Fish, Two Fish, Red Fish, Blue Fish"
 slug: one-fish-two-fish-red-fish-blue-fish
 date: 2008-06-06 20:48:00 -0500
+category: 
 external-url: http://googleblog.blogspot.com/2008/06/one-fish-two-fish-red-fish-blue-fish.html
 hash: 25db0a15104cffda349d5e5c9d368274
 year: 2008

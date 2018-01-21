@@ -2,6 +2,7 @@
 title: "Bootstrap 4 · Bootstrap"
 slug: bootstrap-4-bootstrap
 date: 2018-01-18 20:41:18 -0600
+category: Tech
 external-url: http://blog.getbootstrap.com/2018/01/18/bootstrap-4/
 hash: cb6e0dda710a082b1bf82cacd84f3857
 year: 2018

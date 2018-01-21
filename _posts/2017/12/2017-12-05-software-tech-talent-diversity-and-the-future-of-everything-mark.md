@@ -2,6 +2,7 @@
 title: "Software, Tech Talent, Diversity, and the Future of Everything | Mark Hurlburt | TEDxFargo - YouTube"
 slug: software-tech-talent-diversity-and-the-future-of-everything-mark
 date: 2017-12-05 21:00:54 -0600
+category: 
 external-url: https://www.youtube.com/watch?v=gTHZ2FwnM-A
 hash: 56664f4f8b967984cdd10f7ed39c2b85
 year: 2017

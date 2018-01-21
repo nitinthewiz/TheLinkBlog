@@ -2,6 +2,7 @@
 title: "Amazon Simple Workflow Service"
 slug: amazon-simple-workflow-service
 date: 2014-02-26 17:57:35 -0600
+category: 
 external-url: http://aws.amazon.com/swf/
 hash: 2f3f396c9e60664b4aeb9db3259693a0
 year: 2014

@@ -2,6 +2,7 @@
 title: "MongoDB basic queries"
 slug: mongodb-basic-queries
 date: 2010-12-11 10:51:16 -0600
+category: 
 external-url: http://blog.teamtreehouse.com/mongodb-basic-queries
 hash: 744f9e575c0ee7cfa148a621e42b9b10
 year: 2010

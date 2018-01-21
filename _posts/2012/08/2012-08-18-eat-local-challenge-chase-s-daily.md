@@ -2,6 +2,7 @@
 title: "Eat Local Challenge - Chase's Daily"
 slug: eat-local-challenge-chase-s-daily
 date: 2012-08-18 20:27:45 -0500
+category: 
 external-url: http://www.eatlocalchallenge.com/2006/06/chases_daily.html
 hash: 27b8289299d0c27618b1a4fa1c9fd724
 year: 2012

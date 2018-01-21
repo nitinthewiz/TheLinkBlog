@@ -2,6 +2,7 @@
 title: "Powerful CSS-Techniques For Effective Coding | CSS | Smashing Magazine"
 slug: powerful-css-techniques-for-effective-coding-css-smashing-magazine
 date: 2008-02-25 10:26:08 -0600
+category: 
 external-url: http://www.smashingmagazine.com/2008/02/21/powerful-css-techniques-for-effective-coding/
 hash: 47427d7a75cb000d58b3d2d92e0031f8
 year: 2008

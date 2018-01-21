@@ -2,6 +2,7 @@
 title: "Open source container-native workflow engine for Kubernetes | Argo"
 slug: open-source-container-native-workflow-engine-for-kubernetes-argo
 date: 2018-01-17 19:40:43 -0600
+category: Tech
 external-url: https://applatix.com/open-source/argo/
 hash: 7a5df7ed7b27a9c7c7e3546b8ff8e10f
 year: 2018

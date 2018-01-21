@@ -2,6 +2,7 @@
 title: "Twitter's Future Foretold"
 slug: twitter-s-future-foretold
 date: 2009-08-25 14:03:40 -0500
+category: 
 external-url: http://www.businessinsider.com/author/henry-blodget
 hash: 4d6fbfa6b0b5005d5bb7e7b78f92ff6e
 year: 2009

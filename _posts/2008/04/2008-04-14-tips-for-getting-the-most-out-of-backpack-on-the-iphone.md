@@ -2,6 +2,7 @@
 title: "Tips for getting the most out of Backpack on the iPhone"
 slug: tips-for-getting-the-most-out-of-backpack-on-the-iphone
 date: 2008-04-14 10:09:23 -0500
+category: 
 external-url: http://37signals.blogs.com/products/2008/04/tips-for-gettin.html
 hash: 7b5c13aeec676085f0de0777302c2b8b
 year: 2008

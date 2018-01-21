@@ -2,6 +2,7 @@
 title: "Automatic Face Recognition and Surveillance - Schneier on Security"
 slug: automatic-face-recognition-and-surveillance-schneier-on-security
 date: 2015-10-08 09:01:43 -0500
+category: 
 external-url: https://www.schneier.com/blog/archives/2015/10/automatic_face_.html
 hash: cbc2d50abf5c390a30f7b9fdcb55bf89
 year: 2015

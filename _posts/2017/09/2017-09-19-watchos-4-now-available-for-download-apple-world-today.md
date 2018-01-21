@@ -2,6 +2,7 @@
 title: "watchOS 4 now available for download —Apple World Today"
 slug: watchos-4-now-available-for-download-apple-world-today
 date: 2017-09-19 20:03:42 -0500
+category: 
 external-url: https://www.appleworld.today/blog/2017/9/19/watchos-4-now-available-for-download
 hash: 6e0e41183e5a2cde9a3d1a9a949b181c
 year: 2017

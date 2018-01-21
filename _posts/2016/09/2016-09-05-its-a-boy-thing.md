@@ -2,6 +2,7 @@
 title: "It’s a boy thing"
 slug: its-a-boy-thing
 date: 2016-09-05 20:06:35 -0500
+category: 
 external-url: https://www.1843magazine.com/features/its-a-boy-thing
 hash: 71790df4b63c9f0b8f1ccec28416f44d
 year: 2016

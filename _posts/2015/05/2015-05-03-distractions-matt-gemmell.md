@@ -2,6 +2,7 @@
 title: "Distractions - Matt Gemmell"
 slug: distractions-matt-gemmell
 date: 2015-05-03 20:07:18 -0500
+category: 
 external-url: http://mattgemmell.com/distractions/
 hash: 276de0b0142e29975597a84805b96678
 year: 2015

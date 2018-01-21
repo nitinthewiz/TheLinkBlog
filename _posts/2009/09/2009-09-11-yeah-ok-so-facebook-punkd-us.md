@@ -2,6 +2,7 @@
 title: "Yeah Ok, So Facebook Punk’d Us"
 slug: yeah-ok-so-facebook-punkd-us
 date: 2009-09-11 04:32:19 -0500
+category: 
 external-url: http://techcrunch.com/2009/09/10/yeah-ok-so-facebook-punkd-us/
 hash: 4162bc9c4d9bf87a3f37e61bea0235af
 year: 2009
