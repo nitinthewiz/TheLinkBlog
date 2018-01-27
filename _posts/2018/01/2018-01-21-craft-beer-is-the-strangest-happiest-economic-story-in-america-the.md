@@ -2,7 +2,7 @@
 title: "Craft Beer Is the Strangest, Happiest Economic Story in America - The Atlantic"
 slug: craft-beer-is-the-strangest-happiest-economic-story-in-america-the
 date: 2018-01-21 11:40:59 -0600
-category: Economics
+category: Business
 external-url: https://www.theatlantic.com/business/archive/2018/01/craft-beer-industry/550850/
 hash: 405ab6e310a5c4073f8904bf634b4ca6
 year: 2018
