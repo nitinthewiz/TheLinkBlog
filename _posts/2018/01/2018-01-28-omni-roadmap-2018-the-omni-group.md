@@ -13,4 +13,4 @@ path: /blog/omni-roadmap-2018
 
 ---
 
-Half of this 2018 roadmap for Omni Group is about the future of OmniFocus! 💚 I'll be one of the first to upgrade. I like all that they are adding here!
+Half of this 2018 roadmap for Omni Group is about the future of OmniFocus! 💚 I'll be one of the first to upgrade. I like all that they are adding here! Wonder why the Apple Watch isn't on this list. 🤔
