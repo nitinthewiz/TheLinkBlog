@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: "/assets/logo/links-logo-grey-dark.png"

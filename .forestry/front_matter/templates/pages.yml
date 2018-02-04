@@ -1,0 +1,47 @@
+---
+pages:
+- search.html
+- about/index.md
+- feeds/index.md
+- archives/index.html
+- index.html
+- collections/index.html
+- about/colophon.md
+- collections/YouTube.html
+- collections/GitHub.html
+- 404.html
+- archives/2017.html
+- archives/2016.html
+- archives/2015.html
+- archives/2014.html
+- archives/2013.html
+- archives/2012.html
+- archives/2011.html
+- archives/2010.html
+- archives/2009.html
+- archives/2008.html
+- archives/2007.html
+- archives/2006.html
+- archives/2005.html
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: "/assets/logo/links-logo-grey-dark.png"
