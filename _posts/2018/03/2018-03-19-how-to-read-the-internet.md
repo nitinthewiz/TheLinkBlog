@@ -2,7 +2,7 @@
 title: "How to Read the Internet"
 slug: how-to-read-the-internet
 date: 2018-03-19 05:31:43 -0500
-category: 
+category: Web
 external-url: https://robinrendle.com/notes/how-to-read-the-internet/
 hash: 8832cb52f2afd2ee52b8b1f5d1f156e4
 year: 2018

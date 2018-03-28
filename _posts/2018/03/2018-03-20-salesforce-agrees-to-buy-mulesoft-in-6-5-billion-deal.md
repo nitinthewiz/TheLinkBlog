@@ -2,7 +2,7 @@
 title: "Salesforce agrees to buy Mulesoft in $6.5 billion deal"
 slug: salesforce-agrees-to-buy-mulesoft-in-6-5-billion-deal
 date: 2018-03-20 21:57:11 -0500
-category: 
+category: Business
 external-url: https://www.cnbc.com/2018/03/20/salesforce-agrees-to-buy-mulesoft-in-6-point-5-billion-deal.html
 hash: d808c490d4ef02b7bc55b4582d418abe
 year: 2018

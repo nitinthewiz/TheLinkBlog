@@ -2,7 +2,7 @@
 title: "RedisGraph: A High Performance In-Memory Graph Database as a Redis Module"
 slug: redisgraph-a-high-performance-in-memory-graph-database-as-a-redis
 date: 2018-03-19 05:18:24 -0500
-category: 
+category: Tech
 external-url: http://redisgraph.io/design/
 hash: db1019e6515c8903a3d74225ee1e3f4b
 year: 2018

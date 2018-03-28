@@ -2,7 +2,7 @@
 title: "D3 Graph Theory"
 slug: d3-graph-theory
 date: 2018-03-20 21:41:03 -0500
-category: 
+category: Tech
 external-url: https://mrpandey.github.io/d3graphTheory/index.html
 hash: 80a9030c5de471152ae4aee669336e0d
 year: 2018

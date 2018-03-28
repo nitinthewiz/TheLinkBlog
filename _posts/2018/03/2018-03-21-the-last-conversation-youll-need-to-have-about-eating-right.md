@@ -2,7 +2,7 @@
 title: "The Last Conversation You’ll Need to Have About Eating Right"
 slug: the-last-conversation-youll-need-to-have-about-eating-right
 date: 2018-03-21 06:11:34 -0500
-category: 
+category: Food
 external-url: http://www.grubstreet.com/2018/03/ultimate-conversation-on-healthy-eating-and-nutrition.html
 hash: 89d967f39a3cd1ec29e697b6f50e8e02
 year: 2018

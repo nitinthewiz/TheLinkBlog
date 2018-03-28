@@ -2,7 +2,7 @@
 title: "12 Things Everyone Should Understand About Tech | LinkedIn"
 slug: 12-things-everyone-should-understand-about-tech-linkedin
 date: 2018-03-21 23:39:48 -0500
-category: 
+category: Tech
 external-url: https://www.linkedin.com/pulse/12-things-everyone-should-understand-tech-anil-dash/
 hash: d49ac2803ce30cc3d095be8631241b9e
 year: 2018

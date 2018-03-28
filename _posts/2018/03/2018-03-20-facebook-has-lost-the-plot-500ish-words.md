@@ -2,7 +2,7 @@
 title: "Facebook Has Lost the Plot – 500ish Words"
 slug: facebook-has-lost-the-plot-500ish-words
 date: 2018-03-20 21:45:38 -0500
-category: 
+category: Social_Media
 external-url: https://500ish.com/foot-in-mouthbook-c35a64cd9341
 hash: f94ee64d20c75c8d7723bf2a6df536bd
 year: 2018
