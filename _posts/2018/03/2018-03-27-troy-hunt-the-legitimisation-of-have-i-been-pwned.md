@@ -2,7 +2,7 @@
 title: "Troy Hunt: The Legitimisation of Have I Been Pwned"
 slug: troy-hunt-the-legitimisation-of-have-i-been-pwned
 date: 2018-03-27 20:52:12 -0500
-category: 
+category: Security
 external-url: https://www.troyhunt.com/the-legitimisation-of-have-i-been-pwned/
 hash: 94233c45b7f0525395e33cc96e26c6c7
 year: 2018

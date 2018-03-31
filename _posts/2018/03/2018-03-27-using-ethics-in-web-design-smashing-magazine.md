@@ -2,7 +2,7 @@
 title: "Using Ethics In Web Design — Smashing Magazine"
 slug: using-ethics-in-web-design-smashing-magazine
 date: 2018-03-27 20:54:00 -0500
-category: 
+category: Ethics
 external-url: https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/
 hash: a3e132d3702b1e4aa112ee1c54c58043
 year: 2018
