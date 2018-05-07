@@ -2,7 +2,7 @@
 title: "Instagram suddenly chokes off developers as Facebook chases privacy | TechCrunch"
 slug: instagram-suddenly-chokes-off-developers-as-facebook-chases-privacy
 date: 2018-04-04 04:50:37 -0500
-category: Social_Media
+category: 
 external-url: https://techcrunch.com/2018/04/02/instagram-api-limit/
 hash: 7d817238ee28bd9d31479df675306972
 year: 2018

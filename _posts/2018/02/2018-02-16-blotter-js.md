@@ -2,7 +2,7 @@
 title: "Blotter.js"
 slug: blotter-js
 date: 2018-02-16 04:15:03 -0600
-category: Programming
+category: 
 external-url: https://blotter.js.org/
 hash: cc9c24674f2901842a029976ec286340
 year: 2018

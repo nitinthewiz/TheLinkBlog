@@ -2,7 +2,7 @@
 title: "Inside Nintendo's secretive creative process | Games | The Guardian"
 slug: inside-nintendo-s-secretive-creative-process-games-the-guardian
 date: 2018-04-29 05:11:49 -0500
-category: 
+category: _feature
 external-url: https://www.theguardian.com/games/2018/apr/25/nintendo-interview-secret-innovation-lab-ideas-working
 hash: 8a1280c805c7805215bcaa1fe19b2536
 year: 2018

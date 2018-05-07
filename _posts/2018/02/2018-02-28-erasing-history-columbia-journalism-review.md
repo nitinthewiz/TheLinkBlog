@@ -2,7 +2,7 @@
 title: "Erasing history - Columbia Journalism Review"
 slug: erasing-history-columbia-journalism-review
 date: 2018-02-28 19:24:55 -0600
-category: Web
+category: 
 external-url: https://www.cjr.org/special_report/microfilm-newspapers-media-digital.php
 hash: 9b5c9e7864bc14fed4e4f28200c7fe89
 year: 2018

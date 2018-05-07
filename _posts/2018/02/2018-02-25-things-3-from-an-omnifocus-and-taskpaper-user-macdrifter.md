@@ -2,7 +2,7 @@
 title: "Things 3 From an OmniFocus and TaskPaper User —Macdrifter"
 slug: things-3-from-an-omnifocus-and-taskpaper-user-macdrifter
 date: 2018-02-25 17:42:01 -0600
-category: Productivity
+category: 
 external-url: http://www.macdrifter.com/2018/02/things-3-from-an-omnifocus-and-taskpaper-user.html
 hash: c5a648ed3ab500d13b9790d9d9be4998
 year: 2018

@@ -2,7 +2,7 @@
 title: "Evergreen"
 slug: evergreen
 date: 2018-02-15 22:55:29 -0600
-category: Software
+category: 
 external-url: https://ranchero.com/evergreen/
 hash: b0d3b5c8abf3eb692e4c5f8c90f824f0
 year: 2018

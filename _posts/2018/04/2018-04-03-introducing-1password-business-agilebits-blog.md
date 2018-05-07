@@ -2,7 +2,7 @@
 title: "Introducing 1Password Business —AgileBits Blog"
 slug: introducing-1password-business-agilebits-blog
 date: 2018-04-03 20:07:23 -0500
-category: Software
+category: 
 external-url: https://blog.agilebits.com/2018/04/03/introducing-1password-business/
 hash: fdcd22f4b0b5235c89cbc1e02be7a318
 year: 2018

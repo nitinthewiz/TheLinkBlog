@@ -2,7 +2,7 @@
 title: "The iOS Economy, Updated | Asymco"
 slug: the-ios-economy-updated-asymco
 date: 2018-01-21 11:25:36 -0600
-category: Business
+category: 
 external-url: http://www.asymco.com/2018/01/08/the-ios-economy-updated/
 hash: f6c0189a37e94aa68bda647e9fe8374a
 year: 2018

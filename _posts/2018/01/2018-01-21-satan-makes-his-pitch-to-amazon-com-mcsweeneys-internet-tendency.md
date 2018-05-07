@@ -2,7 +2,7 @@
 title: "Satan Makes His Pitch to Amazon.com - McSweeney’s Internet Tendency"
 slug: satan-makes-his-pitch-to-amazon-com-mcsweeneys-internet-tendency
 date: 2018-01-21 11:35:06 -0600
-category: Funny
+category: 
 external-url: https://www.mcsweeneys.net/articles/satan-makes-his-pitch-to-amazoncom
 hash: 91b2bba9414f0365b8effea5021f4e4e
 year: 2018

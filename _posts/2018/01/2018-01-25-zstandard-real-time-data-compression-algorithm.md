@@ -2,7 +2,7 @@
 title: "Zstandard - Real-time data compression algorithm"
 slug: zstandard-real-time-data-compression-algorithm
 date: 2018-01-25 22:55:23 -0600
-category: Tech
+category: 
 external-url: http://facebook.github.io/zstd/
 hash: 09398d976d4dacbcbaedd89a2e0d9acb
 year: 2018

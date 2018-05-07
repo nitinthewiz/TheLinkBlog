@@ -2,7 +2,7 @@
 title: "Amazon won't sell Nest products from Google - Business Insider"
 slug: amazon-won-t-sell-nest-products-from-google-business-insider
 date: 2018-03-07 16:50:05 -0600
-category: Business
+category: 
 external-url: http://www.businessinsider.com/amazon-wont-sell-nest-products-from-google-2018-3?IR=T
 hash: 80db85f924845831312e935388e0f362
 year: 2018

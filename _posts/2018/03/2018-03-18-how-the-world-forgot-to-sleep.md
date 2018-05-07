@@ -2,7 +2,7 @@
 title: "How The World Forgot To Sleep"
 slug: how-the-world-forgot-to-sleep
 date: 2018-03-18 07:54:38 -0500
-category: Health
+category: 
 external-url: https://www.esquire.com/uk/life/fitness-wellbeing/a18577/sleep-loss-epidemic-insomnia-treatment/
 hash: 491184d41426b54da6b38772d059c4e6
 year: 2018

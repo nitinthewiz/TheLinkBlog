@@ -2,7 +2,7 @@
 title: "Take the Power Back – iA"
 slug: take-the-power-back-ia
 date: 2018-02-09 22:50:21 -0600
-category: Web
+category: 
 external-url: https://ia.net/topics/take-the-power-back/
 hash: 259d1f4eed45961e7dc78a72bd6f651f
 year: 2018

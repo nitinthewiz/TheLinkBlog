@@ -2,7 +2,7 @@
 title: "Titus, the Netflix container management platform, is now open source"
 slug: titus-the-netflix-container-management-platform-is-now-open-source
 date: 2018-04-20 08:20:59 -0500
-category: Tech
+category: 
 external-url: https://medium.com/netflix-techblog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436
 hash: fca4b9813c9a37ec6bdafc28d2796ce2
 year: 2018

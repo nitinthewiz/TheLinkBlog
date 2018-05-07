@@ -2,7 +2,7 @@
 title: "Outline - Making it safer to break the news"
 slug: outline-making-it-safer-to-break-the-news
 date: 2018-03-21 06:03:49 -0500
-category: Security
+category: 
 external-url: https://getoutline.org/en/home
 hash: a0585b96a10bea324b2debba36e8380a
 year: 2018

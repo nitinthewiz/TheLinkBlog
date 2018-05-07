@@ -2,7 +2,7 @@
 title: "Stephen Hawking, one of the world’s great scientists, has died - Physics"
 slug: stephen-hawking-one-of-the-worlds-great-scientists-has-died-physics
 date: 2018-03-14 07:22:53 -0500
-category: People
+category: 
 external-url: https://www.economist.com/news/obituary/21738688-groundbreaking-physicist-was-76-stephen-hawking-one-worlds-great-scientists-has
 hash: 2eeb0c92de135b396f0c99566f0189d8
 year: 2018

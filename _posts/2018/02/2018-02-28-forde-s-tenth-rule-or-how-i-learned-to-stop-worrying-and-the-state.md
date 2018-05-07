@@ -2,7 +2,7 @@
 title: "Forde's Tenth Rule, or, \"How I Learned to Stop Worrying and ❤️ the State Machine\""
 slug: forde-s-tenth-rule-or-how-i-learned-to-stop-worrying-and-the-state
 date: 2018-02-28 19:25:13 -0600
-category: Programming
+category: 
 external-url: http://raganwald.com/2018/02/23/forde.html
 hash: 31a0fbd13353cb8f1ccf3f2ed8f0b12e
 year: 2018

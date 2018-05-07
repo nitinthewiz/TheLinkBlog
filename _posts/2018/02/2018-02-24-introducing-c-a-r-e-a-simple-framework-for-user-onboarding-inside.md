@@ -2,7 +2,7 @@
 title: "Introducing C.A.R.E. – a simple framework for user onboarding - Inside Intercom"
 slug: introducing-c-a-r-e-a-simple-framework-for-user-onboarding-inside
 date: 2018-02-24 15:36:33 -0600
-category: Business
+category: 
 external-url: https://blog.intercom.com/c-a-r-e-simple-framework-user-onboarding/
 hash: b503bed9b528ae0b7179d3da962d9924
 year: 2018

@@ -2,7 +2,7 @@
 title: "xkcd: Background Apps"
 slug: xkcd-background-apps
 date: 2018-03-11 06:28:03 -0500
-category: Funny
+category: 
 external-url: https://xkcd.com/1965/
 hash: 284faba4edb98a985ab152adccf77614
 year: 2018

@@ -2,7 +2,7 @@
 title: "Announcing 1.1.1.1: the fastest, privacy-first consumer DNS service —Cloudflare Blog"
 slug: announcing-1-1-1-1-the-fastest-privacy-first-consumer-dns-service-blog
 date: 2018-04-01 20:29:08 -0500
-category: Tech
+category: 
 external-url: https://blog.cloudflare.com/announcing-1111/
 hash: 558df36be2c166357e092d0a774059eb
 year: 2018

@@ -2,7 +2,7 @@
 title: "Privacy, simplified."
 slug: privacy-simplified
 date: 2018-01-24 23:08:06 -0600
-category: Privacy
+category: 
 external-url: https://spreadprivacy.com/privacy-simplified/
 hash: 5c9cc21cd882d99aa93baba7b0f659bc
 year: 2018

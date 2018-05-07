@@ -2,7 +2,7 @@
 title: "Drafts 5: The MacStories Review – MacStories"
 slug: drafts-5-the-macstories-review-macstories
 date: 2018-04-20 02:42:14 -0500
-category: Apps
+category: 
 external-url: https://www.macstories.net/reviews/drafts-5-the-macstories-review/
 hash: 471080b7991cfe074baf2631da54a874
 year: 2018

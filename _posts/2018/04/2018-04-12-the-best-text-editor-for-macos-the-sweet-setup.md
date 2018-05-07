@@ -2,7 +2,7 @@
 title: "The best text editor for macOS – The Sweet Setup"
 slug: the-best-text-editor-for-macos-the-sweet-setup
 date: 2018-04-12 03:32:33 -0500
-category: Software
+category: 
 external-url: https://thesweetsetup.com/apps/best-text-editor-macos/
 hash: 050cc7eea64d95934d6ae3311cfb27c3
 year: 2018

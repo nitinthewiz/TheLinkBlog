@@ -2,7 +2,7 @@
 title: "Facebook and Cambridge Analytica - Schneier on Security"
 slug: facebook-and-cambridge-analytica-schneier-on-security
 date: 2018-03-31 22:11:44 -0500
-category: Web
+category: 
 external-url: https://www.schneier.com/blog/archives/2018/03/facebook_and_ca.html
 hash: 808dd061167c594a477de0f1f83631d8
 year: 2018

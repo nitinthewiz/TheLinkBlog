@@ -2,7 +2,7 @@
 title: "Live Like a Hydra – Thinking Is Hard – Medium"
 slug: live-like-a-hydra-thinking-is-hard-medium
 date: 2018-02-28 19:24:32 -0600
-category: Self-Improvement
+category: 
 external-url: https://medium.com/thinking-is-hard/live-like-a-hydra-c02337782a89
 hash: 1b9f2962b12e29dad358e228270789f7
 year: 2018

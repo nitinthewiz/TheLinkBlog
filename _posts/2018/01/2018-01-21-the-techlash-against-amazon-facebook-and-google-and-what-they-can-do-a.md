@@ -2,7 +2,7 @@
 title: "The techlash against Amazon, Facebook and Google—and what they can do - A memo to big tech"
 slug: the-techlash-against-amazon-facebook-and-google-and-what-they-can-do-a
 date: 2018-01-21 11:33:28 -0600
-category: Culture
+category: 
 external-url: https://www.economist.com/news/briefing/21735026-which-antitrust-remedies-welcome-which-fight-techlash-against-amazon-facebook-and
 hash: 392c1f0ae8fbf7b67243a833151765cc
 year: 2018

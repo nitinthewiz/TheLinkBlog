@@ -2,7 +2,7 @@
 title: "Structured Logging and Your Team | Honeycomb"
 slug: structured-logging-and-your-team-honeycomb
 date: 2018-02-11 20:45:29 -0600
-category: Programming
+category: 
 external-url: https://honeycomb.io/blog/2018/02/structured-logging-and-your-team/
 hash: 9356670e389f15c9d31daa591922ad89
 year: 2018

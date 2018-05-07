@@ -2,7 +2,7 @@
 title: "Billy Mitchell's Direct Feed Recordings are MAME Generated"
 slug: billy-mitchell-s-direct-feed-recordings-are-mame-generated
 date: 2018-02-05 20:53:05 -0600
-category: Games
+category: 
 external-url: http://donkeykongforum.com/index.php?topic=2055.0
 hash: ea5b882d32ee5e283d36aa64f9ff3e40
 year: 2018

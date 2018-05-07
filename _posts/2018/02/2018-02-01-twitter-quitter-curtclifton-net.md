@@ -2,7 +2,7 @@
 title: "Twitter Quitter - curtclifton.net"
 slug: twitter-quitter-curtclifton-net
 date: 2018-02-01 17:13:50 -0600
-category: Social_Media
+category: 
 external-url: http://curtclifton.net/twitter-quitter
 hash: f69796b951b218959c22f5618307a2c1
 year: 2018

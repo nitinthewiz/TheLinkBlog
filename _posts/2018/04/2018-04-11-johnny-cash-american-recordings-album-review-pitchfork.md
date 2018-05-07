@@ -2,7 +2,7 @@
 title: "Johnny Cash: American Recordings Album Review | Pitchfork"
 slug: johnny-cash-american-recordings-album-review-pitchfork
 date: 2018-04-11 05:54:30 -0500
-category: Music
+category: 
 external-url: https://pitchfork.com/reviews/albums/johnny-cash-american-recordings/
 hash: c99908c3879899dabd577687b8f90e8d
 year: 2018

@@ -2,7 +2,7 @@
 title: "Daring Fireball: Apple Previews iOS 11.3"
 slug: daring-fireball-apple-previews-ios-11-3
 date: 2018-01-25 22:56:40 -0600
-category: Tech
+category: 
 external-url: https://daringfireball.net/2018/01/ios_11_point_3
 hash: f1d55f87f4ee03bf8e9cb1febd02ce77
 year: 2018

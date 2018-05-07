@@ -2,7 +2,7 @@
 title: "The Network Effects Manual: 13 Different Network Effects (and counting)"
 slug: the-network-effects-manual-13-different-network-effects-and-counting
 date: 2018-02-02 05:34:53 -0600
-category: Business
+category: 
 external-url: https://www.nfx.com/post/network-effects-manual
 hash: 3ed9ee02c265e38d88c42bbd4312ac4c
 year: 2018

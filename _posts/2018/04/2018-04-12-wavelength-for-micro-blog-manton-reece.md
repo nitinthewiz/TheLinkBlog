@@ -2,7 +2,7 @@
 title: "Wavelength for Micro.blog | Manton Reece"
 slug: wavelength-for-micro-blog-manton-reece
 date: 2018-04-12 17:45:32 -0500
-category: Indieweb
+category: 
 external-url: http://www.manton.org/2018/04/wavelength-for-micro-blog.html
 hash: dbd5235687cd856aa34a96c5e9220340
 year: 2018

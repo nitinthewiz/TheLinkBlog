@@ -2,7 +2,7 @@
 title: "TwitRSS.me - rss of twitter user feeds by screenscraping with perl"
 slug: twitrss-me-rss-of-twitter-user-feeds-by-screenscraping-with-perl
 date: 2018-03-12 14:07:21 -0500
-category: Tech
+category: 
 external-url: https://www.twitrss.me/
 hash: 127e4e7f6c99a1d424a008f7a44ef481
 year: 2018

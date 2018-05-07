@@ -2,7 +2,7 @@
 title: "The Decemberists - Full concert (4/7/18 at Palace Theatre in Saint Paul, MN) - YouTube"
 slug: the-decemberists-full-concert-4-7-18-at-palace-theatre-in-saint-paul
 date: 2018-04-10 21:53:25 -0500
-category: Music
+category: 
 external-url: https://www.youtube.com/watch?v=P4Jz3tMddw4
 hash: 9a6d36a5bd7c8a7a26a2214396d232d6
 year: 2018

@@ -2,7 +2,7 @@
 title: "HomePod vs. Amazon Echo vs. Google Home Max vs. Sonos One: Speaker showdown | iMore"
 slug: homepod-vs-amazon-echo-vs-google-home-max-vs-sonos-one-speaker-imore
 date: 2018-01-26 20:50:17 -0600
-category: Tech
+category: 
 external-url: https://www.imore.com/homepod-vs-amazon-echo-vs-google-home-max-vs-sonos-one-speaker-showdown
 hash: 67ddd9ab8be2e3eb0268f1ee69161672
 year: 2018

@@ -2,7 +2,7 @@
 title: "Let's talk about usernames"
 slug: let-s-talk-about-usernames
 date: 2018-02-12 05:42:16 -0600
-category: Programming
+category: 
 external-url: https://www.b-list.org/weblog/2018/feb/11/usernames/
 hash: f11fd87b74b7e887269b0e4f300de405
 year: 2018

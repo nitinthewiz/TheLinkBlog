@@ -2,7 +2,7 @@
 title: "Deep Thinking In The Age of Distraction – The Startup – Medium"
 slug: deep-thinking-in-the-age-of-distraction-the-startup-medium
 date: 2018-03-04 21:53:26 -0600
-category: Culture
+category: 
 external-url: https://medium.com/swlh/deep-thinking-in-the-age-of-distraction-f7cf765b2762
 hash: eabdcfca9092a61e653fb7f947070bee
 year: 2018

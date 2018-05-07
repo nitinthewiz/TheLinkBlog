@@ -2,7 +2,7 @@
 title: "How Bikes Will Take Their Revenge on Cars and Help Us Reclaim Our Streets"
 slug: how-bikes-will-take-their-revenge-on-cars-and-help-us-reclaim-our
 date: 2018-02-06 21:21:54 -0600
-category: Transportation
+category: 
 external-url: https://shift.newco.co/how-bikes-will-take-their-revenge-on-cars-and-help-us-reclaim-our-streets-588e49ddf027
 hash: 19f9d7eaca685d659277c3ae558a1c2b
 year: 2018

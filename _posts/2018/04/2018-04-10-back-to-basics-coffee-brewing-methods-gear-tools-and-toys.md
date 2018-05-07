@@ -2,7 +2,7 @@
 title: "Back to Basics: Coffee Brewing Methods & Gear — Tools and Toys"
 slug: back-to-basics-coffee-brewing-methods-gear-tools-and-toys
 date: 2018-04-10 21:55:09 -0500
-category: Coffee
+category: 
 external-url: http://toolsandtoys.net/guides/back-to-basics-coffee-brewing-methods-and-gear/
 hash: 58c76268db70ef8dc375138c8af9e83d
 year: 2018

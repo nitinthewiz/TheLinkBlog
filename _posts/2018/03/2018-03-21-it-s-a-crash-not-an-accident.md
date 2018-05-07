@@ -2,7 +2,7 @@
 title: "It's a crash. Not an accident."
 slug: it-s-a-crash-not-an-accident
 date: 2018-03-21 06:17:51 -0500
-category: Culture
+category: 
 external-url: https://www.crashnotaccident.com/
 hash: 984c305910bb936f683e8a292a070729
 year: 2018

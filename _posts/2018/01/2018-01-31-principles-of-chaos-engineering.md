@@ -2,7 +2,7 @@
 title: "Principles of Chaos Engineering"
 slug: principles-of-chaos-engineering
 date: 2018-01-31 03:16:06 -0600
-category: Tech
+category: 
 external-url: http://principlesofchaos.org/
 hash: 20ae7799c5dc230444b9f821ea3e1ca6
 year: 2018

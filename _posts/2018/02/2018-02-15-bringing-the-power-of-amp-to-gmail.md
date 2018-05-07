@@ -2,7 +2,7 @@
 title: "Bringing the power of AMP to Gmail"
 slug: bringing-the-power-of-amp-to-gmail
 date: 2018-02-15 04:42:08 -0600
-category: Web
+category: 
 external-url: https://www.blog.google/products/g-suite/bringing-power-amp-gmail/
 hash: 8bf3bbe41d3e4305676adf8853cb4063
 year: 2018

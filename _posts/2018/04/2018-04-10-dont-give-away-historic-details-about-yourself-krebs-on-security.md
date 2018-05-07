@@ -2,7 +2,7 @@
 title: "Don’t Give Away Historic Details About Yourself — Krebs on Security"
 slug: dont-give-away-historic-details-about-yourself-krebs-on-security
 date: 2018-04-10 22:59:01 -0500
-category: Security
+category: 
 external-url: https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/
 hash: 8563a33ca25e5052bea1bd1cf82f4c57
 year: 2018

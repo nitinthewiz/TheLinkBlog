@@ -2,7 +2,7 @@
 title: "The Indispensable Document for the Modern Manager | First Round Review"
 slug: the-indispensable-document-for-the-modern-manager-first-round-review
 date: 2018-03-04 19:51:54 -0600
-category: Business
+category: 
 external-url: http://firstround.com/review/the-indispensable-document-for-the-modern-manager/
 hash: 4f41a239a50e6e5a3d870356f3cbefbe
 year: 2018

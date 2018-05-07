@@ -2,7 +2,7 @@
 title: "ACME v2 and Wildcard Certificate Support is Live - Issuance Policy - Let's Encrypt Community Support"
 slug: acme-v2-and-wildcard-certificate-support-is-live-issuance-policy-let-s
 date: 2018-03-14 03:18:22 -0500
-category: Tech
+category: 
 external-url: https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579
 hash: 751d2598060771e795090569fdc9cdc2
 year: 2018

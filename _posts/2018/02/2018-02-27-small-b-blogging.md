@@ -2,7 +2,7 @@
 title: "Small b blogging"
 slug: small-b-blogging
 date: 2018-02-27 06:59:40 -0600
-category: Web
+category: 
 external-url: http://tomcritchlow.com/2018/02/23/small-b-blogging/
 hash: 0fde1e5eb87d4dab4a73b56b9f908d66
 year: 2018

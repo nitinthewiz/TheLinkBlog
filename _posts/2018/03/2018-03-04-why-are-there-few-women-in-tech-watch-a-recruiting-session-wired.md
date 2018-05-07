@@ -2,7 +2,7 @@
 title: "Why Are There Few Women in Tech? Watch a Recruiting Session | WIRED"
 slug: why-are-there-few-women-in-tech-watch-a-recruiting-session-wired
 date: 2018-03-04 22:00:12 -0600
-category: Culture
+category: 
 external-url: https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/
 hash: 877f69e9f9955a0390db8eeb673ec6c9
 year: 2018

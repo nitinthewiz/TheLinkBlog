@@ -2,7 +2,7 @@
 title: "Highlights from CodeDay 2018 Minneapolis & Toronto at SPS Commerce | SPS Commerce"
 slug: highlights-from-codeday-2018-minneapolis-toronto-at-sps-commerce-sps
 date: 2018-04-13 12:56:45 -0500
-category: Business
+category: 
 external-url: https://www.spscommerce.com/blog/codeday-minneapolis-sps-commerce-spsa/
 hash: 4eb7ce0bbacadac2d22600f1e5e1169e
 year: 2018

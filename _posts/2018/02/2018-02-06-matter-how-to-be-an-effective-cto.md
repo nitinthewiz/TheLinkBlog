@@ -2,7 +2,7 @@
 title: "Matter. | How to be an effective CTO"
 slug: matter-how-to-be-an-effective-cto
 date: 2018-02-06 21:20:07 -0600
-category: Business
+category: 
 external-url: https://matter.vc/how-to-be-an-effective-cto/
 hash: 4a8253e02b18f360071b3a98af805096
 year: 2018

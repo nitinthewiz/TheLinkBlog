@@ -2,7 +2,7 @@
 title: "John Carlis"
 slug: john-carlis
 date: 2018-03-15 19:34:32 -0500
-category: People
+category: 
 external-url: https://johncarlis.weebly.com/about.html
 hash: 4b3658459bdd9862f8c897b8e76a411d
 year: 2018

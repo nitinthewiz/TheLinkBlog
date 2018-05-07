@@ -2,7 +2,7 @@
 title: "My Raspberry Pi Kubernetes Cluster"
 slug: my-raspberry-pi-kubernetes-cluster
 date: 2018-01-18 05:49:43 -0600
-category: Tech
+category: 
 external-url: https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/
 hash: df6e1e764c84b50a6b9abee3e404396e
 year: 2018

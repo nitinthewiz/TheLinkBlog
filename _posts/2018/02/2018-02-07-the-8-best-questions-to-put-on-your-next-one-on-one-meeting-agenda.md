@@ -2,7 +2,7 @@
 title: "The 8 best questions to put on your next one-on-one meeting agenda"
 slug: the-8-best-questions-to-put-on-your-next-one-on-one-meeting-agenda
 date: 2018-02-07 06:20:37 -0600
-category: Business
+category: 
 external-url: https://m.signalvnoise.com/the-8-best-questions-to-put-on-your-next-one-on-one-meeting-agenda-8a26d91a5f27
 hash: f8954723e3d682415133d2b3eaaf2f73
 year: 2018

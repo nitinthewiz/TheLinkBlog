@@ -2,7 +2,7 @@
 title: "The Hyper-Scheduling Experiment — MacSparky"
 slug: the-hyper-scheduling-experiment-macsparky
 date: 2018-02-22 20:18:10 -0600
-category: Productivity
+category: 
 external-url: https://www.macsparky.com/blog/2018/2/the-hyper-scheduling-experiment
 hash: 0bb4c9d0e0ab0368b4c002668b8bc142
 year: 2018

@@ -2,7 +2,7 @@
 title: "Meeting Blur – Rands in Repose"
 slug: meeting-blur-rands-in-repose
 date: 2018-02-10 22:40:10 -0600
-category: Management
+category: 
 external-url: http://randsinrepose.com/archives/meeting-blur/
 hash: 824d23769bbfbb3c0e556acdc3116488
 year: 2018

@@ -2,7 +2,7 @@
 title: "International Women's Day 2018"
 slug: international-women-s-day-2018
 date: 2018-03-08 17:31:44 -0600
-category: Culture
+category: 
 external-url: https://www.internationalwomensday.com/
 hash: e7fed9caa73d5bc492d9b619bca00bd4
 year: 2018

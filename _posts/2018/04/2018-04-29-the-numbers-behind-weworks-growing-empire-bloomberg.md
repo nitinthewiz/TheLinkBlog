@@ -2,7 +2,7 @@
 title: "The Numbers Behind WeWork’s Growing Empire - Bloomberg"
 slug: the-numbers-behind-weworks-growing-empire-bloomberg
 date: 2018-04-29 07:17:15 -0500
-category: 
+category: _feature
 external-url: https://www.bloomberg.com/news/articles/2018-04-24/the-18-billion-rent-bill-the-numbers-behind-wework-s-empire
 hash: 93e0ecb59afa037f359467f6f27a81b4
 year: 2018

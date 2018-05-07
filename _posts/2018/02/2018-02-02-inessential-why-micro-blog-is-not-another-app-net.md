@@ -2,7 +2,7 @@
 title: "inessential: Why Micro.blog is Not Another App.net"
 slug: inessential-why-micro-blog-is-not-another-app-net
 date: 2018-02-02 05:23:05 -0600
-category: Social_Media
+category: 
 external-url: http://inessential.com/2018/02/01/why_micro_blog_is_not_another_app_net
 hash: 3bdd05b4ae9c8d03edc666e54011e522
 year: 2018

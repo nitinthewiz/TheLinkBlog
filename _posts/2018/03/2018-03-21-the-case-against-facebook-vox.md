@@ -2,7 +2,7 @@
 title: "The case against Facebook - Vox"
 slug: the-case-against-facebook-vox
 date: 2018-03-21 23:01:17 -0500
-category: Social_Media
+category: 
 external-url: https://www.vox.com/policy-and-politics/2018/3/21/17144748/case-against-facebook
 hash: 234cbd146e58c2f03527dbc1babdd7f8
 year: 2018

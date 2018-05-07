@@ -2,7 +2,7 @@
 title: "The hidden costs of serverless – A Cloud Guru"
 slug: the-hidden-costs-of-serverless-a-cloud-guru
 date: 2018-01-21 15:13:39 -0600
-category: Tech
+category: 
 external-url: https://read.acloud.guru/the-hidden-costs-of-serverless-6ced7844780b
 hash: 890252b73ee486043ba708095ded6ede
 year: 2018

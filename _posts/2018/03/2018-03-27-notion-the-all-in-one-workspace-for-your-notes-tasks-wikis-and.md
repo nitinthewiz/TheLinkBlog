@@ -2,7 +2,7 @@
 title: "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
 slug: notion-the-all-in-one-workspace-for-your-notes-tasks-wikis-and
 date: 2018-03-27 20:52:37 -0500
-category: Product
+category: 
 external-url: https://www.notion.so/
 hash: 46aee8199de69da83a710feb19c939c0
 year: 2018

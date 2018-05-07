@@ -2,7 +2,7 @@
 title: "Trump’s Campaign Said It Was Better at Facebook. Facebook Agrees - Bloomberg"
 slug: trumps-campaign-said-it-was-better-at-facebook-facebook-agrees
 date: 2018-04-06 19:29:16 -0500
-category: Social_Media
+category: 
 external-url: https://www.bloomberg.com/news/articles/2018-04-03/trump-s-campaign-said-it-was-better-at-facebook-facebook-agrees
 hash: 2ed0a618f860937018f5e774802be570
 year: 2018

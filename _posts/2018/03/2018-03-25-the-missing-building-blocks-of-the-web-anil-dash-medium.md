@@ -2,7 +2,7 @@
 title: "The Missing Building Blocks of the Web – Anil Dash – Medium"
 slug: the-missing-building-blocks-of-the-web-anil-dash-medium
 date: 2018-03-25 12:00:03 -0500
-category: Web
+category: 
 external-url: https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc
 hash: 9627df4d0ce1404891e53a7cfb273b29
 year: 2018

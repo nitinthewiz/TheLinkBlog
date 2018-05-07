@@ -2,7 +2,7 @@
 title: "The House That Spied on Me"
 slug: the-house-that-spied-on-me
 date: 2018-02-08 05:59:28 -0600
-category: Privacy
+category: 
 external-url: https://gizmodo.com/the-house-that-spied-on-me-1822429852
 hash: 064d7149031e5b08c9e7e74d14294293
 year: 2018

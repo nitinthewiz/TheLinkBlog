@@ -2,7 +2,7 @@
 title: "Mental Noting: Insight Meditation Center"
 slug: mental-noting-insight-meditation-center
 date: 2018-02-02 05:33:20 -0600
-category: Meditation
+category: 
 external-url: http://www.insightmeditationcenter.org/books-articles/articles/mental-noting/
 hash: 97139e4202e8404c03a0637cd78b39b3
 year: 2018

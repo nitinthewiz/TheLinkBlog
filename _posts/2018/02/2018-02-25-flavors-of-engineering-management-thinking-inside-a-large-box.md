@@ -2,7 +2,7 @@
 title: "Flavors of Engineering Management · [Thinking inside a large box];"
 slug: flavors-of-engineering-management-thinking-inside-a-large-box
 date: 2018-02-25 21:14:01 -0600
-category: Business
+category: 
 external-url: http://blog.benjamin-encz.de/post/flavors-of-engineering-management/
 hash: 9a83f8e6ffcb7acb0671ed31584fcc68
 year: 2018

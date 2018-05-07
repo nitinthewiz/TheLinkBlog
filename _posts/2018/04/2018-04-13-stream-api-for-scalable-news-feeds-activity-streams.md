@@ -2,7 +2,7 @@
 title: "Stream | API for Scalable News Feeds & Activity Streams"
 slug: stream-api-for-scalable-news-feeds-activity-streams
 date: 2018-04-13 09:40:14 -0500
-category: Software
+category: 
 external-url: https://getstream.io/
 hash: 8dd019798ca9da6a0e4d20e05173080d
 year: 2018

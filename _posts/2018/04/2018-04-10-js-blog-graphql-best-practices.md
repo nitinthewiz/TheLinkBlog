@@ -2,7 +2,7 @@
 title: "JS - Blog - GraphQL Best Practices"
 slug: js-blog-graphql-best-practices
 date: 2018-04-10 22:55:28 -0500
-category: Tech
+category: 
 external-url: https://jsjaspreet.com/blog/graphql-best-practices
 hash: 39f58e3f38035aaf4e9098f364c6ed19
 year: 2018

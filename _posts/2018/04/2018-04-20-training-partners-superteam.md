@@ -2,7 +2,7 @@
 title: "Training Partners | superteam"
 slug: training-partners-superteam
 date: 2018-04-20 02:40:58 -0500
-category: Sports
+category: 
 external-url: https://jimbernard.net/2018/04/17/training-partners/
 hash: 592ab7b3bb4bd9a5743b249289b38757
 year: 2018

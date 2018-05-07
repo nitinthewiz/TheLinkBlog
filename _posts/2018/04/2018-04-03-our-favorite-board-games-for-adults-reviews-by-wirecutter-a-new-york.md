@@ -2,7 +2,7 @@
 title: "Our Favorite Board Games for Adults: Reviews by Wirecutter | A New York Times Company"
 slug: our-favorite-board-games-for-adults-reviews-by-wirecutter-a-new-york
 date: 2018-04-03 05:55:56 -0500
-category: Games
+category: 
 external-url: https://thewirecutter.com/reviews/board-games-for-adults/
 hash: 17ebfd1f7a46af573b1698a0499b8b41
 year: 2018

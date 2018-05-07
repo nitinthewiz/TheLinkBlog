@@ -2,7 +2,7 @@
 title: "The Kubernetes Effect"
 slug: the-kubernetes-effect
 date: 2018-02-09 05:17:17 -0600
-category: Tech
+category: 
 external-url: https://www.infoq.com/articles/kubernetes-effect
 hash: 438f73ee27edd1a1056b18599a1cbbe8
 year: 2018

@@ -2,7 +2,7 @@
 title: "Oscar Forner's personal website"
 slug: oscar-forner-s-personal-website
 date: 2018-02-27 06:56:25 -0600
-category: Tech
+category: 
 external-url: https://oscarforner.com/2018/02/24/Software_development_using_Bash
 hash: 9bb0c87f34ed1f02ad3166f7ed20cacc
 year: 2018

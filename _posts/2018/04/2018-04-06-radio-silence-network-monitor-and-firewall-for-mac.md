@@ -2,7 +2,7 @@
 title: "Radio Silence | Network monitor and firewall for Mac"
 slug: radio-silence-network-monitor-and-firewall-for-mac
 date: 2018-04-06 19:29:37 -0500
-category: Security
+category: 
 external-url: https://radiosilenceapp.com/
 hash: 970def5ef707cf2401f1a22669bc2ff8
 year: 2018

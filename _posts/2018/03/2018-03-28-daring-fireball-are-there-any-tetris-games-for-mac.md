@@ -2,7 +2,7 @@
 title: "Daring Fireball: Are There Any Tetris Games for Mac?"
 slug: daring-fireball-are-there-any-tetris-games-for-mac
 date: 2018-03-28 22:08:00 -0500
-category: Games
+category: 
 external-url: https://daringfireball.net/linked/2018/03/28/tetris-mac
 hash: d6a964338c9d022b2ce2360a9d568100
 year: 2018

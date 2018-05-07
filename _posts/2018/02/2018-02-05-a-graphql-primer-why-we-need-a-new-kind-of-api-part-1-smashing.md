@@ -2,7 +2,7 @@
 title: "A GraphQL Primer: Why We Need A New Kind Of API (Part 1) — Smashing Magazine"
 slug: a-graphql-primer-why-we-need-a-new-kind-of-api-part-1-smashing
 date: 2018-02-05 20:49:01 -0600
-category: Programming
+category: 
 external-url: https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/
 hash: c9ba11485f38e3f069514bbf474a06ca
 year: 2018

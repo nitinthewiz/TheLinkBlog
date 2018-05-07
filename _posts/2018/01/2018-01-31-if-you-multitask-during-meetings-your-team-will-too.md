@@ -2,7 +2,7 @@
 title: "If You Multitask During Meetings, Your Team Will, Too"
 slug: if-you-multitask-during-meetings-your-team-will-too
 date: 2018-01-31 07:08:54 -0600
-category: Business
+category: 
 external-url: https://hbr.org/2018/01/if-you-multitask-during-meetings-your-team-will-too
 hash: b66af750e46ce02ff892532b34922236
 year: 2018

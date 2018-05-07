@@ -2,7 +2,7 @@
 title: "Hyrum's Law"
 slug: hyrum-s-law
 date: 2018-02-20 21:29:29 -0600
-category: Programming
+category: 
 external-url: http://www.hyrumslaw.com/
 hash: 1c5b4e105c6dca22907c5150372f99d0
 year: 2018

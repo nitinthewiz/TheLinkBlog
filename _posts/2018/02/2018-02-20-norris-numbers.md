@@ -2,7 +2,7 @@
 title: "Norris Numbers"
 slug: norris-numbers
 date: 2018-02-20 21:30:00 -0600
-category: Programming
+category: 
 external-url: https://www.teamten.com/lawrence/writings/norris-numbers.html
 hash: 6ecaa3b0c715ec9cf02386c18e34895b
 year: 2018

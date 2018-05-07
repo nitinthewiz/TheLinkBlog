@@ -2,7 +2,7 @@
 title: "lcamtuf's blog: Progressing from tech to leadership"
 slug: lcamtuf-s-blog-progressing-from-tech-to-leadership
 date: 2018-02-05 20:50:24 -0600
-category: Business
+category: 
 external-url: https://lcamtuf.blogspot.com/2018/02/on-leadership.html
 hash: ad81cd64350ef701f2eee5bb67982610
 year: 2018

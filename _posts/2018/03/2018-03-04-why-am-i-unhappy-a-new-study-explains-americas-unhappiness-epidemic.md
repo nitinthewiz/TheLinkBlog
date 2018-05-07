@@ -2,7 +2,7 @@
 title: "Why am I unhappy? A new study explains Americas unhappiness epidemic — Quartz"
 slug: why-am-i-unhappy-a-new-study-explains-americas-unhappiness-epidemic
 date: 2018-03-04 20:03:50 -0600
-category: Culture
+category: 
 external-url: https://qz.com/1190151/why-am-i-unhappy-a-new-study-explains-americas-unhappiness-epidemic/
 hash: bf485b992c3ccdae8c54fba5196211cd
 year: 2018

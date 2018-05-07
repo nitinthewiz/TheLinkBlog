@@ -2,7 +2,7 @@
 title: "Stripe Atlas: Software as a Service, as a business"
 slug: stripe-atlas-software-as-a-service-as-a-business
 date: 2018-02-22 20:22:48 -0600
-category: Business
+category: 
 external-url: https://stripe.com/atlas/guides/business-of-saas
 hash: c16dd10b344311ab593f8a2358388305
 year: 2018

@@ -2,7 +2,7 @@
 title: "With teen mental health deteriorating over five years, there's a likely culprit"
 slug: with-teen-mental-health-deteriorating-over-five-years-there-s-a-likely
 date: 2018-02-01 17:14:07 -0600
-category: Social_Media
+category: 
 external-url: https://theconversation.com/with-teen-mental-health-deteriorating-over-five-years-theres-a-likely-culprit-86996
 hash: d3d07ca8ac03ef6ae3fae8c87d74e544
 year: 2018

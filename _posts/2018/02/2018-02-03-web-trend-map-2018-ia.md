@@ -2,7 +2,7 @@
 title: "Web Trend Map 2018 – iA"
 slug: web-trend-map-2018-ia
 date: 2018-02-03 14:41:18 -0600
-category: Web
+category: 
 external-url: https://ia.net/topics/web-trend-map-2018/
 hash: bac0cb5fd4f1eb008179439488bb4b0b
 year: 2018

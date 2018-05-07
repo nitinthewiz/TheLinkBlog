@@ -2,7 +2,7 @@
 title: "Coraline Ada Ehmke — Not Applicable: What Your Job Post Is Really Saying"
 slug: coraline-ada-ehmke-not-applicable-what-your-job-post-is-really-saying
 date: 2018-01-24 20:22:39 -0600
-category: Diversity
+category: 
 external-url: https://where.coraline.codes/blog/not_applicable/
 hash: 692afbd94dc7b21c262641f8dd29f190
 year: 2018

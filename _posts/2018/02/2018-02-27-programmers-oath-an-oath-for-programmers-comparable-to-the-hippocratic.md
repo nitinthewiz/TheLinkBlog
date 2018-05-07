@@ -2,7 +2,7 @@
 title: "programmers-oath: An oath for programmers, comparable to the Hippocratic Oath"
 slug: programmers-oath-an-oath-for-programmers-comparable-to-the-hippocratic
 date: 2018-02-27 06:57:53 -0600
-category: Culture
+category: 
 external-url: https://github.com/Widdershin/programmers-oath
 hash: b3fc65f512a384de9ba491f6295beeda
 year: 2018

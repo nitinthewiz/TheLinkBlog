@@ -2,7 +2,7 @@
 title: "Pre-Order Alto’s Odyssey —Tools and Toys"
 slug: pre-order-altos-odyssey-tools-and-toys
 date: 2018-02-11 20:44:03 -0600
-category: Games
+category: 
 external-url: http://toolsandtoys.net/pre-order-altos-odyssey/
 hash: 30ea4b48824d9094a72981b58f1d250e
 year: 2018

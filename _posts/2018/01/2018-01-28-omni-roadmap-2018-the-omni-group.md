@@ -2,7 +2,7 @@
 title: "Omni Roadmap 2018 - The Omni Group"
 slug: omni-roadmap-2018-the-omni-group
 date: 2018-01-28 06:17:33 -0600
-category: Productivity
+category: 
 external-url: https://www.omnigroup.com/blog/omni-roadmap-2018
 hash: 2433e2deaf7d138b47e925406480dcfb
 year: 2018

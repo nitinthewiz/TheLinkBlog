@@ -2,7 +2,7 @@
 title: "I don’t have the time. —Rhoneisms"
 slug: i-dont-have-the-time-rhoneisms
 date: 2018-03-21 23:22:25 -0500
-category: Culture
+category: 
 external-url: http://www.patrickrhone.net/i-dont-have-the-time/
 hash: 7ad70516a055acedb40b3f13eb27f8bb
 year: 2018

@@ -2,7 +2,7 @@
 title: "How Atlassian moved Jira and Confluence users to Amazon Web Services, and what it learned along the way – GeekWire"
 slug: how-atlassian-moved-jira-and-confluence-users-to-amazon-web-services
 date: 2018-03-15 21:23:50 -0500
-category: Tech
+category: 
 external-url: https://www.geekwire.com/2018/atlassian-moved-jira-confluence-users-amazon-web-services-learned-along-way/
 hash: ef32f8eb3b8cc5c14cc34ab96ecbffcc
 year: 2018

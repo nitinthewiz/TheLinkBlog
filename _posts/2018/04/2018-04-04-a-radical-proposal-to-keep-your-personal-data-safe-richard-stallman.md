@@ -2,7 +2,7 @@
 title: "A radical proposal to keep your personal data safe | Richard Stallman | Opinion | The Guardian"
 slug: a-radical-proposal-to-keep-your-personal-data-safe-richard-stallman
 date: 2018-04-04 04:52:00 -0500
-category: Culture
+category: 
 external-url: https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance
 hash: 000e972d2793807e32de5efaba161783
 year: 2018

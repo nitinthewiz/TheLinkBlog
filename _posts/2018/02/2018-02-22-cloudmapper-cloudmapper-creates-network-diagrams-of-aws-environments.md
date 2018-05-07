@@ -2,7 +2,7 @@
 title: "cloudmapper: CloudMapper creates network diagrams of AWS environments"
 slug: cloudmapper-cloudmapper-creates-network-diagrams-of-aws-environments
 date: 2018-02-22 20:20:22 -0600
-category: Tech
+category: 
 external-url: https://github.com/duo-labs/cloudmapper
 hash: ecc14bc6a6f988b04ff821bf39ff99a8
 year: 2018

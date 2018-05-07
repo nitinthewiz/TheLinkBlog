@@ -2,7 +2,7 @@
 title: "Journaling is Boss Mode Thinking — MyProductiveMac"
 slug: journaling-is-boss-mode-thinking-myproductivemac
 date: 2018-04-26 18:02:46 -0500
-category: 
+category: _feature
 external-url: http://www.myproductivemac.com/blog/journaling-is-boss-mode-thinking2442018
 hash: f838a80025447354efedf93a0aca11f6
 year: 2018

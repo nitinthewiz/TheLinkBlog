@@ -2,7 +2,7 @@
 title: "Delete Facebook. Permanent Account Deletion."
 slug: delete-facebook-permanent-account-deletion
 date: 2018-03-27 04:09:47 -0500
-category: Social_Media
+category: 
 external-url: https://deletefacebook.com/
 hash: afd6b0cb6dcd8b63323c8563e32a9c03
 year: 2018

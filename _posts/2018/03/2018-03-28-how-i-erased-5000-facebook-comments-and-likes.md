@@ -2,7 +2,7 @@
 title: "How I Erased 5000+ Facebook Comments and Likes"
 slug: how-i-erased-5000-facebook-comments-and-likes
 date: 2018-03-28 22:07:24 -0500
-category: Social_Media
+category: 
 external-url: http://www.jaruzel.com/blog/How-I-Erased-5000-Facebook-Comments-and-Likes
 hash: 4bf8f8248dedfbab9225ee3485bbc5e4
 year: 2018

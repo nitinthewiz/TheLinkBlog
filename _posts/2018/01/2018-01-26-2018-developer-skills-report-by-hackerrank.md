@@ -2,7 +2,7 @@
 title: "2018 Developer Skills Report by HackerRank"
 slug: 2018-developer-skills-report-by-hackerrank
 date: 2018-01-26 05:59:06 -0600
-category: Programming
+category: 
 external-url: http://research.hackerrank.com/developer-skills/2018/
 hash: 15b8800a9a711870ed63a974cb3c4f39
 year: 2018

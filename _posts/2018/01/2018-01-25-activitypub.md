@@ -2,7 +2,7 @@
 title: "ActivityPub"
 slug: activitypub
 date: 2018-01-25 22:55:51 -0600
-category: Tech
+category: 
 external-url: https://www.w3.org/TR/2018/REC-activitypub-20180123/
 hash: f18a4fb68afce932980db2a6381d947b
 year: 2018

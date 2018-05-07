@@ -2,7 +2,7 @@
 title: "Stack Overflow Isn't Very Welcoming. It's Time for That to Change. - Stack Overflow Blog"
 slug: stack-overflow-isn-t-very-welcoming-it-s-time-for-that-to-change-stack
 date: 2018-04-28 05:22:19 -0500
-category: 
+category: _feature
 external-url: https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/
 hash: f084e3aa2b34c5e0f0d7451b01839720
 year: 2018

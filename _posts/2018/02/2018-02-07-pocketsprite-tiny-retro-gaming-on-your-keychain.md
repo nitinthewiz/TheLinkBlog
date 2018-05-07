@@ -2,7 +2,7 @@
 title: "PocketSprite - Tiny Retro Gaming on your Keychain"
 slug: pocketsprite-tiny-retro-gaming-on-your-keychain
 date: 2018-02-07 20:27:54 -0600
-category: Games
+category: 
 external-url: https://pocketsprite.com/
 hash: 7619c82d889c2e6364e75b0904120caa
 year: 2018

@@ -2,7 +2,7 @@
 title: "BeyondCorp: How Google Ditched VPNs for Remote Employee Access - The New Stack"
 slug: beyondcorp-how-google-ditched-vpns-for-remote-employee-access-the-new
 date: 2018-01-24 23:09:18 -0600
-category: Security
+category: 
 external-url: https://thenewstack.io/beyondcorp-google-ditched-virtual-private-networking-internal-applications/
 hash: 5f5cba549bb38bfa1e4e133208463055
 year: 2018

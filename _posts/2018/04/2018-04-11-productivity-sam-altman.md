@@ -2,7 +2,7 @@
 title: "Productivity - Sam Altman"
 slug: productivity-sam-altman
 date: 2018-04-11 05:35:06 -0500
-category: Productivity
+category: 
 external-url: https://blog.samaltman.com/productivity
 hash: e2a9987a5a75a4ce035a39094d8f26a7
 year: 2018

@@ -2,7 +2,7 @@
 title: "Farewell Social Media | James Shelley"
 slug: farewell-social-media-james-shelley
 date: 2018-04-10 21:55:49 -0500
-category: Social_Media
+category: 
 external-url: https://jamesshelley.com/2018/04/10/farewell-social-media/
 hash: bf87a0768b45753426ffb4e10e64bc7f
 year: 2018

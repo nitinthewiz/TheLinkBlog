@@ -2,7 +2,7 @@
 title: "Halide, Darkroom and Rekindling Photography as a Hobby - the candler blog"
 slug: halide-darkroom-and-rekindling-photography-as-a-hobby-the-candler-blog
 date: 2018-04-05 06:31:46 -0500
-category: Photography
+category: 
 external-url: http://www.candlerblog.com/2018/03/30/iphone-photography/
 hash: 261c02550565c8283d80a7cd282d64f4
 year: 2018

@@ -2,7 +2,7 @@
 title: "Popcorn Notify"
 slug: popcorn-notify
 date: 2018-02-12 21:52:31 -0600
-category: Programming
+category: 
 external-url: https://popcornnotify.com/
 hash: 5bfc142b9df7c64de7f31ab8a7e17cd2
 year: 2018

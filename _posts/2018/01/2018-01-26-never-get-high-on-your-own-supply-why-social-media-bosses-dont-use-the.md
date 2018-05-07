@@ -2,7 +2,7 @@
 title: "‘Never get high on your own supply’ – why social media bosses don’t use social media | Media | The Guardian"
 slug: never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-the
 date: 2018-01-26 05:57:57 -0600
-category: Social_Media
+category: 
 external-url: https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media
 hash: 0b3ad5797f2033b55fe8a15f878379e6
 year: 2018

@@ -2,7 +2,7 @@
 title: "New Apps for 2018 – MacStories"
 slug: new-apps-for-2018-macstories
 date: 2018-02-15 04:40:56 -0600
-category: Apps
+category: 
 external-url: https://www.macstories.net/stories/new-apps-for-2018/
 hash: db49fce37e58fd2809f992394856e197
 year: 2018

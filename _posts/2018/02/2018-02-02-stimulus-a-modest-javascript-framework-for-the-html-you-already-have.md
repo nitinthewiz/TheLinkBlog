@@ -2,7 +2,7 @@
 title: "Stimulus: A modest JavaScript framework for the HTML you already have."
 slug: stimulus-a-modest-javascript-framework-for-the-html-you-already-have
 date: 2018-02-02 05:30:46 -0600
-category: Programming
+category: 
 external-url: https://stimulusjs.org/
 hash: 3ddb63b97fa5617a0efe8edd1d882943
 year: 2018

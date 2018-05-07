@@ -2,7 +2,7 @@
 title: "GraphQL at Braintree"
 slug: graphql-at-braintree
 date: 2018-03-20 21:42:19 -0500
-category: Tech
+category: 
 external-url: https://www.braintreepayments.com/blog/graphql-at-braintree/
 hash: decf8811f3c597cdbbe40a7c65131fb2
 year: 2018

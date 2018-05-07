@@ -2,7 +2,7 @@
 title: "How Do You Make or Maintain Friends? Put in the Time. | Psychology Today"
 slug: how-do-you-make-or-maintain-friends-put-in-the-time-psychology-today
 date: 2018-04-02 03:47:36 -0500
-category: Research
+category: 
 external-url: https://www.psychologytoday.com/us/blog/brain-waves/201803/how-do-you-make-or-maintain-friends-put-in-the-time
 hash: ece7080c94888359cfc466684c662b49
 year: 2018

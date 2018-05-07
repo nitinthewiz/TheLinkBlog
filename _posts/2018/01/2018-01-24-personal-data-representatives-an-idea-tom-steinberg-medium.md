@@ -2,7 +2,7 @@
 title: "Personal Data Representatives: An Idea – Tom Steinberg – Medium"
 slug: personal-data-representatives-an-idea-tom-steinberg-medium
 date: 2018-01-24 20:23:06 -0600
-category: Privacy
+category: 
 external-url: https://medium.com/@TomSteinberg/personal-data-representatives-an-idea-d2274d1af69b
 hash: 6e9beaae78be6abc8d7ff3949e5c6ac4
 year: 2018

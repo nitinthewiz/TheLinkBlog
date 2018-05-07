@@ -2,7 +2,7 @@
 title: "Alto’s Odyssey: A sequel to one of our favorite iOS games"
 slug: altos-odyssey-a-sequel-to-one-of-our-favorite-ios-games
 date: 2018-02-21 21:11:08 -0600
-category: Games
+category: 
 external-url: https://thesweetsetup.com/altos-odyssey-sequel-one-favorite-ios-games/
 hash: 1f7ae95b3729d4794c808ce42cb32ed0
 year: 2018

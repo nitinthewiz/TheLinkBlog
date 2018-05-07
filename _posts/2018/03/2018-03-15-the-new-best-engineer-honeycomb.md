@@ -2,7 +2,7 @@
 title: "The New Best Engineer | Honeycomb"
 slug: the-new-best-engineer-honeycomb
 date: 2018-03-15 19:34:01 -0500
-category: Tech
+category: 
 external-url: https://honeycomb.io/blog/2018/03/the-new-best-engineer/
 hash: 466a37fd0285adedd2dc92a6836907b1
 year: 2018

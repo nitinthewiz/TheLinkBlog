@@ -2,7 +2,7 @@
 title: "Apache OpenWhisk is a serverless, open source cloud platform"
 slug: apache-openwhisk-is-a-serverless-open-source-cloud-platform
 date: 2018-02-22 20:16:56 -0600
-category: Tech
+category: 
 external-url: https://openwhisk.apache.org/
 hash: 460a4d871c92bbead1b44512c2ad2d38
 year: 2018

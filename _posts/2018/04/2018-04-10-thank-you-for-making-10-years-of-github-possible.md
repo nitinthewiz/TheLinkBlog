@@ -2,7 +2,7 @@
 title: "Thank you for making 10 years of GitHub possible"
 slug: thank-you-for-making-10-years-of-github-possible
 date: 2018-04-10 22:49:44 -0500
-category: Tech
+category: 
 external-url: https://github.com/ten
 hash: 7804a44421cf29d50be044a56eef216e
 year: 2018

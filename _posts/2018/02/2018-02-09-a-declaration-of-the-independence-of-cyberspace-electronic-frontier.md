@@ -2,7 +2,7 @@
 title: "A Declaration of the Independence of Cyberspace | Electronic Frontier Foundation"
 slug: a-declaration-of-the-independence-of-cyberspace-electronic-frontier
 date: 2018-02-09 22:42:27 -0600
-category: Web
+category: 
 external-url: https://www.eff.org/cyberspace-independence
 hash: fe2419b10004e6c1d526e4161c193f7e
 year: 2018

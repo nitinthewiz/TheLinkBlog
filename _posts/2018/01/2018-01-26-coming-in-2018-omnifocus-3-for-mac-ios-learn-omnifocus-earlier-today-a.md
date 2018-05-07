@@ -2,7 +2,7 @@
 title: "Coming in 2018: OmniFocus 3 for Mac & iOS —Learn OmniFocus “Earlier today, Omni Group CEO, Ken Case shared a retrospective on the past year and a roadmap for 2018.”"
 slug: coming-in-2018-omnifocus-3-for-mac-ios-learn-omnifocus-earlier-today-a
 date: 2018-01-26 20:42:04 -0600
-category: Productivity
+category: 
 external-url: http://learnomnifocus.com/coming-2018-omnifocus-3-mac-ios/
 hash: 8b20749d7be428cc3cc3257480a0cf5e
 year: 2018

@@ -2,7 +2,7 @@
 title: "Requests-HTML: HTML Parsing for Humans™"
 slug: requests-html-html-parsing-for-humans-tm
 date: 2018-02-25 17:43:30 -0600
-category: Programming
+category: 
 external-url: https://github.com/kennethreitz/requests-html
 hash: 4915621c5d54a18124c971f115c1bdf0
 year: 2018

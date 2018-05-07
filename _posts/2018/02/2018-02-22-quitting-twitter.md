@@ -2,7 +2,7 @@
 title: "Quitting Twitter"
 slug: quitting-twitter
 date: 2018-02-22 20:23:43 -0600
-category: Social_Media
+category: 
 external-url: https://www.jordanmerrick.com/posts/quitting-twitter
 hash: 00d71687e61491f6fd9086e58214dd46
 year: 2018

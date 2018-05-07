@@ -2,7 +2,7 @@
 title: "Be a Deletist"
 slug: be-a-deletist
 date: 2018-04-20 07:19:37 -0500
-category: Social_Media
+category: 
 external-url: https://deletist.xyz/
 hash: f99acffb5bf3fbc938f3bdeff7b3ee6c
 year: 2018

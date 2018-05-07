@@ -2,7 +2,7 @@
 title: "42nd and Vanderbilt"
 slug: 42nd-and-vanderbilt
 date: 2018-03-30 14:43:01 -0500
-category: Photography
+category: 
 external-url: http://peterfunch.com/works/42ndandvanderbilt/
 hash: 809a86223b212245f52d778dd869cd05
 year: 2018

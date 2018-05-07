@@ -2,7 +2,7 @@
 title: "How to Write a Thank-You Note - The Morning News"
 slug: how-to-write-a-thank-you-note-the-morning-news
 date: 2018-04-20 08:23:26 -0500
-category: Writing
+category: 
 external-url: https://themorningnews.org/article/how-to-write-a-thank-you-note
 hash: 374a1b4745a280d032316214a058ac9d
 year: 2018

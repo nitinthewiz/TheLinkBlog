@@ -2,7 +2,7 @@
 title: "Functions | Netlify"
 slug: functions-netlify
 date: 2018-03-20 21:40:43 -0500
-category: Tech
+category: 
 external-url: https://www.netlify.com/docs/functions/
 hash: 233bb9ebefd6e4cc0c2639068be90083
 year: 2018

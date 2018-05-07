@@ -2,7 +2,7 @@
 title: "The Critical Missing Piece of DevOps…And How to Find It | AWS Cloud Enterprise Strategy Blog"
 slug: the-critical-missing-piece-of-devops-and-how-to-find-it-aws-cloud-blog
 date: 2018-04-01 09:58:11 -0500
-category: Tech
+category: 
 external-url: https://aws.amazon.com/blogs/enterprise-strategy/the-critical-missing-piece-of-devopsand-how-to-find-it/
 hash: dfccd1347ea5ff6da0c07dc0d7d5356e
 year: 2018

@@ -2,7 +2,7 @@
 title: "A 1.3Tbs DDoS Hit GitHub, the Largest Yet Recorded | WIRED"
 slug: a-1-3tbs-ddos-hit-github-the-largest-yet-recorded-wired
 date: 2018-03-02 05:24:44 -0600
-category: Security
+category: 
 external-url: https://www.wired.com/story/github-ddos-memcached/
 hash: 17f172c1dc5ac630e7883673683ed410
 year: 2018

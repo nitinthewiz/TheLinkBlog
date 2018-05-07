@@ -2,7 +2,7 @@
 title: "Facebook’s Motivations – Stratechery by Ben Thompson"
 slug: facebooks-motivations-stratechery-by-ben-thompson
 date: 2018-01-24 20:22:30 -0600
-category: Social_Media
+category: 
 external-url: https://stratechery.com/2018/facebooks-motivations/
 hash: 7e9a1dac2a6e529ca4305038e2c6b8f8
 year: 2018

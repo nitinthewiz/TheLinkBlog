@@ -2,7 +2,7 @@
 title: "Why Decentralization Matters – Chris Dixon – Medium"
 slug: why-decentralization-matters-chris-dixon-medium
 date: 2018-02-19 20:59:04 -0600
-category: Tech
+category: 
 external-url: https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e
 hash: 17c3abd73de2b97b32127e1d35d9327c
 year: 2018

@@ -2,7 +2,7 @@
 title: "Brave Enough | Jessie Diggins"
 slug: brave-enough-jessie-diggins
 date: 2018-02-27 06:50:25 -0600
-category: Self-Improvement
+category: 
 external-url: http://jessiediggins.com/brave-enough/
 hash: bbefece90d7f037d1dd13937fca6fb34
 year: 2018

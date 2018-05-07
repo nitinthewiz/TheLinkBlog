@@ -2,7 +2,7 @@
 title: "Opinion | Don’t Fix Facebook. Replace It. - The New York Times"
 slug: opinion-dont-fix-facebook-replace-it-the-new-york-times
 date: 2018-04-14 23:05:54 -0500
-category: Social_Media
+category: 
 external-url: https://www.nytimes.com/2018/04/03/opinion/facebook-fix-replace.html
 hash: 744aed9a49b0ed43ff7ddb8109cee48a
 year: 2018

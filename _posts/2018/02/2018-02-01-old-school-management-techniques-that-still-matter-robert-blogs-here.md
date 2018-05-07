@@ -2,7 +2,7 @@
 title: "Old School Management Techniques That Still Matter | Robert Blogs Here"
 slug: old-school-management-techniques-that-still-matter-robert-blogs-here
 date: 2018-02-01 17:16:50 -0600
-category: Business
+category: 
 external-url: http://robertspeer.com/old-school-management-techniques-that-still-matter/
 hash: d069e67cb9415e84fae5a8d2b56b1427
 year: 2018

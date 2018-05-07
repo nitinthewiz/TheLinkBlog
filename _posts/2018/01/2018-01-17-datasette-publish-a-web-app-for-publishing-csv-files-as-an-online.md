@@ -2,7 +2,7 @@
 title: "Datasette Publish: a web app for publishing CSV files as an online database"
 slug: datasette-publish-a-web-app-for-publishing-csv-files-as-an-online
 date: 2018-01-17 19:44:19 -0600
-category: Tech
+category: 
 external-url: https://simonwillison.net/2018/Jan/17/datasette-publish/
 hash: fa44846b7a7c9f2ca3c496a45dc1f56d
 year: 2018

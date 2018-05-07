@@ -2,7 +2,7 @@
 title: "Amazon Go and the Future – Stratechery by Ben Thompson"
 slug: amazon-go-and-the-future-stratechery-by-ben-thompson
 date: 2018-01-25 22:56:11 -0600
-category: Business
+category: 
 external-url: https://stratechery.com/2018/amazons-go-and-the-future/
 hash: d57f66d5b0ae547cfa587cc5759ad7e5
 year: 2018

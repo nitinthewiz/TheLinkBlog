@@ -2,7 +2,7 @@
 title: "How Apple Plans to Root Out Bugs, Revamp iPhone Software - Bloomberg"
 slug: how-apple-plans-to-root-out-bugs-revamp-iphone-software-bloomberg
 date: 2018-02-14 22:29:46 -0600
-category: Business
+category: 
 external-url: https://www.bloomberg.com/news/articles/2018-02-12/how-apple-plans-to-root-out-bugs-revamp-iphone-software
 hash: cede5be7576711bcf8a80eb835638e69
 year: 2018

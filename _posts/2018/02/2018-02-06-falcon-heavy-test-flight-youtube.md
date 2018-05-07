@@ -2,7 +2,7 @@
 title: "Falcon Heavy Test Flight - YouTube"
 slug: falcon-heavy-test-flight-youtube
 date: 2018-02-06 16:24:30 -0600
-category: Science
+category: 
 external-url: https://www.youtube.com/watch?v=wbSwFU6tY1c
 hash: 337928f9ef3e119e2f139570c9cadc6f
 year: 2018

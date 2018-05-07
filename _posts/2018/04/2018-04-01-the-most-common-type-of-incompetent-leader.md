@@ -2,7 +2,7 @@
 title: "The Most Common Type of Incompetent Leader"
 slug: the-most-common-type-of-incompetent-leader
 date: 2018-04-01 05:47:52 -0500
-category: Business
+category: 
 external-url: https://hbr.org/2018/03/the-most-common-type-of-incompetent-leader
 hash: c5e495d8c1ac74bc3b1b06f220a36bc3
 year: 2018

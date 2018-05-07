@@ -2,7 +2,7 @@
 title: "Empathy Mapping: The First Step in Design Thinking"
 slug: empathy-mapping-the-first-step-in-design-thinking
 date: 2018-02-01 17:15:48 -0600
-category: Culture
+category: 
 external-url: https://www.nngroup.com/articles/empathy-mapping/
 hash: 1b8cda68ce57c41c472212d062872041
 year: 2018

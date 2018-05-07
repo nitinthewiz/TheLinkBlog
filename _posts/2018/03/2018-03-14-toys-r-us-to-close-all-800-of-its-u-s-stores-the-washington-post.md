@@ -2,7 +2,7 @@
 title: "Toys R Us to close all 800 of its U.S. stores - The Washington Post"
 slug: toys-r-us-to-close-all-800-of-its-u-s-stores-the-washington-post
 date: 2018-03-14 18:51:03 -0500
-category: Business
+category: 
 external-url: https://www.washingtonpost.com/news/business/wp/2018/03/14/toys-r-us-to-close-all-800-of-its-u-s-stores/
 hash: b076d86fd57d55b506c392e206cfa828
 year: 2018

@@ -2,7 +2,7 @@
 title: "Why I stopped using roadmaps and switched to GIST instead"
 slug: why-i-stopped-using-roadmaps-and-switched-to-gist-instead
 date: 2018-02-10 23:02:07 -0600
-category: Business
+category: 
 external-url: https://docs.google.com/document/d/e/2PACX-1vSD8Xfg9OrDAgE6Dyaewo7P3em_YRLbgrJZaOzbpnbPuT3fVebntehzQevMbKlRfHLWgSokFir20eTa/pub
 hash: c7a3453e59649f0af625ddb6902896cb
 year: 2018

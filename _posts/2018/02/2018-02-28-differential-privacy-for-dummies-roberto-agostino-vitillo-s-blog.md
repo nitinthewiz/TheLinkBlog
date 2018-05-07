@@ -2,7 +2,7 @@
 title: "Differential Privacy for Dummies – Roberto Agostino Vitillo's Blog"
 slug: differential-privacy-for-dummies-roberto-agostino-vitillo-s-blog
 date: 2018-02-28 19:24:14 -0600
-category: Privacy
+category: 
 external-url: https://robertovitillo.com/2016/07/29/differential-privacy-for-dummies/
 hash: 43cbf3309ce0f2e6c96764e1c42715a0
 year: 2018

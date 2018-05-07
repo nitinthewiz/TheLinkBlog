@@ -2,7 +2,7 @@
 title: "HyperCard Zine"
 slug: hypercard-zine
 date: 2018-03-11 01:05:19 -0600
-category: Tech
+category: 
 external-url: https://crime.team/~hypercard/
 hash: 74b750bccc5290d1c1aa3fcb9ca89d59
 year: 2018

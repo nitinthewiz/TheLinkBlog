@@ -2,7 +2,7 @@
 title: "Instagram Looks Like Facebook’s Best Hope - Bloomberg"
 slug: instagram-looks-like-facebooks-best-hope-bloomberg
 date: 2018-04-13 05:15:59 -0500
-category: Social_Media
+category: 
 external-url: https://www.bloomberg.com/news/features/2018-04-10/instagram-looks-like-facebook-s-best-hope
 hash: 728dcbfe7aa8ce95e915365ce47035e7
 year: 2018

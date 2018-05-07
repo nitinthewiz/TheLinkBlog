@@ -2,7 +2,7 @@
 title: "Stack Overflow Developer Survey 2018"
 slug: stack-overflow-developer-survey-2018
 date: 2018-03-14 03:12:57 -0500
-category: Tech
+category: 
 external-url: https://insights.stackoverflow.com/survey/2018
 hash: 5454b8810fc47f9849cf5c3bc3dffdad
 year: 2018

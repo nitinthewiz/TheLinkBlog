@@ -2,7 +2,7 @@
 title: "Growing apart and losing touch is human and healthy"
 slug: growing-apart-and-losing-touch-is-human-and-healthy
 date: 2018-01-26 05:48:58 -0600
-category: Social_Media
+category: 
 external-url: https://m.signalvnoise.com/growing-apart-and-losing-touch-is-human-and-healthy-52b5a678fbf5
 hash: a0e62e3d9f0d0ae9b967cbd042dba94e
 year: 2018

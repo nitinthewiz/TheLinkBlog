@@ -2,7 +2,7 @@
 title: "ARK Invest - Big Ideas 2018 - Disruptive Innovation"
 slug: ark-invest-big-ideas-2018-disruptive-innovation
 date: 2018-01-24 20:22:49 -0600
-category: Research
+category: 
 external-url: https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/Infographics/Big%20Ideas%202018%20-%20ARK%20Invest.pdf?hsCtaTracking=37c67fc6-1932-4b42-887c-ba1332a0e7a9%7C4a9f618a-acf9-428b-a7ab-11965014a86b
 hash: fec0e52ce5214341335fdffa99dd6228
 year: 2018

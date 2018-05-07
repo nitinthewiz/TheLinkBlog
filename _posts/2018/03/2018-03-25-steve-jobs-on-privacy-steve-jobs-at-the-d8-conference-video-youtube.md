@@ -2,7 +2,7 @@
 title: "Steve Jobs on privacy, Steve Jobs at the D8 Conference (Video) - YouTube"
 slug: steve-jobs-on-privacy-steve-jobs-at-the-d8-conference-video-youtube
 date: 2018-03-25 11:55:24 -0500
-category: Privacy
+category: 
 external-url: https://www.youtube.com/watch?v=39iKLwlUqBo
 hash: c3d2625e31dffb5b0ed84695326a7289
 year: 2018

@@ -2,7 +2,7 @@
 title: "Episode 4: @patrickrhone"
 slug: episode-4-patrickrhone
 date: 2018-04-02 21:55:09 -0500
-category: People
+category: 
 external-url: https://monday.micro.blog/2018/04/02/jean-talks-with.html
 hash: f49e2e48720a77d1363db87532978a74
 year: 2018

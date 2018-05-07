@@ -2,7 +2,7 @@
 title: "Tech’s Ethical ‘Dark Side’: Harvard, Stanford and Others Want to Address It - The New York Times"
 slug: techs-ethical-dark-side-harvard-stanford-and-others-want-to-address-it
 date: 2018-02-14 22:28:00 -0600
-category: Tech
+category: 
 external-url: https://nytimes.com/2018/02/12/business/computer-science-ethics-courses.html?referer=
 hash: de4377353491f7014a07bb7c6b037801
 year: 2018

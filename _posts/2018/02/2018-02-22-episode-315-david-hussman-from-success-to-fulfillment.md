@@ -2,7 +2,7 @@
 title: "Episode 315 | David Hussman - From Success to Fulfillment"
 slug: episode-315-david-hussman-from-success-to-fulfillment
 date: 2018-02-22 20:26:41 -0600
-category: Interview
+category: 
 external-url: http://developeronfire.com/podcast/episode-315-david-hussman-from-success-to-fulfillment
 hash: 4fe198d77daad8ac67b579418cd47946
 year: 2018

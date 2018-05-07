@@ -2,7 +2,7 @@
 title: "Let's Encrypt Hits 50 Million Active Certificates and Counting | Electronic Frontier Foundation"
 slug: let-s-encrypt-hits-50-million-active-certificates-and-counting
 date: 2018-02-14 22:27:24 -0600
-category: Web
+category: 
 external-url: https://www.eff.org/deeplinks/2018/02/lets-encrypt-hits-50-million-active-certificates-and-counting
 hash: 3a643cbf1bbf72bfa3046f55aa1beefd
 year: 2018

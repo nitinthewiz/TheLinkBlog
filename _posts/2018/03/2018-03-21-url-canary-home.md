@@ -2,7 +2,7 @@
 title: "URL Canary - Home"
 slug: url-canary-home
 date: 2018-03-21 06:15:55 -0500
-category: Security
+category: 
 external-url: https://urlcanary.com/
 hash: f9fa67d562bc549b9a07591e9f2da22d
 year: 2018

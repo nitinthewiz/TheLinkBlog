@@ -2,7 +2,7 @@
 title: "Deckset for Mac: Presentations from Markdown in No Time"
 slug: deckset-for-mac-presentations-from-markdown-in-no-time
 date: 2018-03-11 01:11:35 -0600
-category: Product
+category: 
 external-url: https://www.decksetapp.com/
 hash: 7bea20f9d6e18420d8fb83e15e047bcd
 year: 2018

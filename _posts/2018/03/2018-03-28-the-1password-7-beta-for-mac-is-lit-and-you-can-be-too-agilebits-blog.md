@@ -2,7 +2,7 @@
 title: "The 1Password 7 Beta for Mac Is Lit and You Can Be, Too | AgileBits Blog"
 slug: the-1password-7-beta-for-mac-is-lit-and-you-can-be-too-agilebits-blog
 date: 2018-03-28 22:07:03 -0500
-category: Apps
+category: 
 external-url: https://blog.agilebits.com/2018/03/28/the-1password-7-beta-for-mac-is-lit-and-you-can-be-too/
 hash: f2cdf584ffa9d57c63a3f0e968fe8bfd
 year: 2018

@@ -2,7 +2,7 @@
 title: "افكار و احلام » Two weeks with Micro.blog"
 slug: fkr-w-hlm-two-weeks-with-micro-blog
 date: 2018-01-17 19:42:51 -0600
-category: Indieweb
+category: 
 external-url: https://www.ardisson.org/afkar/2018/01/12/two-weeks-with-micro-blog/
 hash: 01e9ccb51fb9df4932d7106b25944320
 year: 2018

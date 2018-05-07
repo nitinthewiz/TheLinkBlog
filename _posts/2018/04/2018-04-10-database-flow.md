@@ -2,7 +2,7 @@
 title: "Database Flow"
 slug: database-flow
 date: 2018-04-10 21:55:37 -0500
-category: Tech
+category: 
 external-url: https://databaseflow.com/
 hash: 43dbc142ec542cc42b04b828f1e90def
 year: 2018

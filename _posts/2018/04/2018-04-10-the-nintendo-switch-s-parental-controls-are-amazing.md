@@ -2,7 +2,7 @@
 title: "The Nintendo Switch's Parental Controls Are Amazing"
 slug: the-nintendo-switch-s-parental-controls-are-amazing
 date: 2018-04-10 22:44:20 -0500
-category: Games
+category: 
 external-url: https://kotaku.com/the-nintendo-switchs-parental-controls-are-amazing-1824301547
 hash: 1371e1d21c236287b8749317dddaff18
 year: 2018

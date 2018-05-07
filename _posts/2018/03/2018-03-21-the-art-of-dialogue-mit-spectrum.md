@@ -2,7 +2,7 @@
 title: "The Art of Dialogue – MIT Spectrum"
 slug: the-art-of-dialogue-mit-spectrum
 date: 2018-03-21 23:40:00 -0500
-category: Culture
+category: 
 external-url: https://spectrum.mit.edu/winter-2001/the-art-of-dialogue/
 hash: 7c865aa7740d5311dee0bb7c1117b956
 year: 2018

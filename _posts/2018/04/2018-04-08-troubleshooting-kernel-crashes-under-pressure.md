@@ -2,7 +2,7 @@
 title: "Troubleshooting kernel crashes under pressure"
 slug: troubleshooting-kernel-crashes-under-pressure
 date: 2018-04-08 23:09:56 -0500
-category: Tech
+category: 
 external-url: http://rachelbythebay.com/w/2018/04/08/estats/
 hash: 5552af071116ea4a6afd5f8ffdc8b3fe
 year: 2018

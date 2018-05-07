@@ -2,7 +2,7 @@
 title: "Life on an iPad | The Overspill: when there's more that I want to say"
 slug: life-on-an-ipad-the-overspill-when-there-s-more-that-i-want-to-say
 date: 2018-02-22 20:29:01 -0600
-category: Tech
+category: 
 external-url: https://theoverspill.blog/2018/02/19/ipad-work-python-workflow-mac-replacement/
 hash: 0773c4bfa05857a90d85a1fd8e1de4aa
 year: 2018

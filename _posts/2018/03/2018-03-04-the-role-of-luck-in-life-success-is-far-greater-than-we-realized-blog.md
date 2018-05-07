@@ -2,7 +2,7 @@
 title: "The Role of Luck in Life Success Is Far Greater Than We Realized - Scientific American Blog Network"
 slug: the-role-of-luck-in-life-success-is-far-greater-than-we-realized-blog
 date: 2018-03-04 19:51:04 -0600
-category: Business
+category: 
 external-url: https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/
 hash: 0e917960060d77ede40c8e8d898ae2e9
 year: 2018

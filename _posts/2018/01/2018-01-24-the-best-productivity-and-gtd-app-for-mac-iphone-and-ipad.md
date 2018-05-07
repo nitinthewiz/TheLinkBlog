@@ -2,7 +2,7 @@
 title: "The Best Productivity and GTD App for Mac, iPhone, and iPad"
 slug: the-best-productivity-and-gtd-app-for-mac-iphone-and-ipad
 date: 2018-01-24 23:07:38 -0600
-category: Productivity
+category: 
 external-url: https://thesweetsetup.com/apps/best-personal-gtd-app-suite/
 hash: 692e1641b41bf0f5b456472c939e77b3
 year: 2018

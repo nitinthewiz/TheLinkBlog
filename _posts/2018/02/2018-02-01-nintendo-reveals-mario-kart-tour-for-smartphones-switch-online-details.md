@@ -2,7 +2,7 @@
 title: "Nintendo reveals Mario Kart Tour for smartphones, Switch Online details —Six Colors"
 slug: nintendo-reveals-mario-kart-tour-for-smartphones-switch-online-details
 date: 2018-02-01 17:10:49 -0600
-category: Games
+category: 
 external-url: https://sixcolors.com/post/2018/02/nintendo-reveals-mario-kart-tour-for-smartphones-switch-online-details/
 hash: 8994064435e6b71fffc55cd5516f9817
 year: 2018
