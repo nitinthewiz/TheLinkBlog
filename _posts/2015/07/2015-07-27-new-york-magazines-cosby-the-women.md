@@ -13,4 +13,4 @@ path: /2015/07/27/cosby-the-women/
 
 ---
 
-This week’s issue of New York features what will likely be considered the...
+

@@ -13,4 +13,4 @@ path: /news/2015/08/11/excelsior-startup-carewire-partners-with-nashvilles-civic
 
 ---
 
-Via News Release “NASHVILLE, Tenn.– CivicHealth, a comprehensive software solution that enables connectivity and collaboration between providers, healthcare networks and human services…
+
