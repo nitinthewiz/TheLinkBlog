@@ -3,13 +3,13 @@ title: "City plans to analyze pedestrian safety near 50th & Minnehaha"
 slug: city-plans-to-analyze-pedestrian-safety-near-50th-minnehaha
 date: 2015-09-21 22:47:01 -0500
 category: 
-external-url: http://www.southwestjournal.com/news/news/city-plans-to-analyze-pedestrian-safety-near-50th-minnehaha
-hash: 3149c664a172b4d4d3b3020ab74a998f
+external-url: http://www.southwestjournal.com/news/2015/09/city-plans-to-analyze-pedestrian-safety-near-50th-minnehaha/
+hash: a0d706d4554128fde10516b5795437a4
 year: 2015
 month: 09
 scheme: http
 host: www.southwestjournal.com
-path: /news/news/city-plans-to-analyze-pedestrian-safety-near-50th-minnehaha
+path: /news/2015/09/city-plans-to-analyze-pedestrian-safety-near-50th-minnehaha/
 
 ---
 

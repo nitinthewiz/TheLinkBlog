@@ -13,4 +13,4 @@ path: /principles-for-success/
 
 ---
 
-A have the audiobook of Principles in my queue. This new 30-minute video overview is very well done. Ray Dalio is an impressive storyteller.
+I have the audiobook of Principles in my queue. This new 30-minute video overview is very well done. Ray Dalio is an impressive storyteller.
