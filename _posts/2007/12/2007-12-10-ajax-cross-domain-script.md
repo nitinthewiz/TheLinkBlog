@@ -13,31 +13,4 @@ path: /archives/ajax-cross-domain-script
 
 ---
 
-Bart Van der Donck has released his script to do Ajax Cross Domain scripting. You download the ACD.js script and then you can do things like this hello world:
 
-PLAIN TEXT
-HTML:
-
-
-
-
-
-
-
-&lt;script type="text/javascript" src="http://www.ajax-cross-domain.com/cgi-bin/ACD/ACD.js?uri=(http://216.92.176.52/?name=john)"&gt;&lt;/script&gt;
-
-
-&lt;script type="text/javascript"&gt;alert(ACD.responseText);&lt;/script&gt;
-
-
-
-
-
-
-
-
-Here is how it works:
-
-
-
-I love how the learning curve has been defined for you to Bart :)

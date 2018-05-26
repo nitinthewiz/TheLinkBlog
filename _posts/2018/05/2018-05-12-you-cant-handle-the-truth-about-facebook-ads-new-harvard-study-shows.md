@@ -2,7 +2,7 @@
 title: "You Can’t Handle the Truth About Facebook Ads, New Harvard Study Shows"
 slug: you-cant-handle-the-truth-about-facebook-ads-new-harvard-study-shows
 date: 2018-05-12 21:52:15 -0500
-category: 
+category: _feature
 external-url: https://theintercept.com/2018/05/09/facebook-ads-tracking-algorithm/
 hash: d4cfe8c8626842653e19d94a637fdbf0
 year: 2018

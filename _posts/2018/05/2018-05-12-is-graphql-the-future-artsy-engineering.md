@@ -2,7 +2,7 @@
 title: "Is GraphQL The Future? - Artsy Engineering"
 slug: is-graphql-the-future-artsy-engineering
 date: 2018-05-12 21:55:06 -0500
-category: 
+category: _feature
 external-url: http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/
 hash: 0b35cac5acaa3846c5e49a86ee171c61
 year: 2018

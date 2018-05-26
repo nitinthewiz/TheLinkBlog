@@ -2,7 +2,7 @@
 title: "Supply-Chain Security - Schneier on Security"
 slug: supply-chain-security-schneier-on-security
 date: 2018-05-13 06:56:12 -0500
-category: 
+category: _feature
 external-url: https://www.schneier.com/blog/archives/2018/05/supply-chain_se.html
 hash: f67c64d49d751f8cdf2c87a20a3c67d8
 year: 2018
