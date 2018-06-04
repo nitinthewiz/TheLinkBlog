@@ -1,5 +1,5 @@
 ---
-title: "GDPR —xkcd.com “ ”"
+title: "GDPR — xkcd.com"
 slug: gdpr-xkcd-com
 date: 2018-05-25 15:59:28 -0500
 category: _brief

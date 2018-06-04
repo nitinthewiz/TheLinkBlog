@@ -13,7 +13,7 @@ path: /stories/second-life/
 
 ---
 
-Federico Viticci writes is one of my favorite tech authors, and this post has plenty of that, but it’s also a reflection on how he has changed his life after a cancer diagnosis a few years ago.
+Federico Viticci is one of my favorite tech authors, and this post has plenty of that, but it’s also a reflection on how he has changed his life after a cancer diagnosis a few years ago.
 
 > It's important to me because I can't squander this opportunity. Because life isn't like an arcade – you can't put more coins in to continue – yet somehow I was given the chance for a do-over and I failed to appreciate it at first. Now I have to make sure I can return the favor with positivity and stories that can help others.
 
