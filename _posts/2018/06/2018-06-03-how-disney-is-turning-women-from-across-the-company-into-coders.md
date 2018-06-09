@@ -2,7 +2,7 @@
 title: "How Disney is turning women from across the company into coders"
 slug: how-disney-is-turning-women-from-across-the-company-into-coders
 date: 2018-06-03 21:51:14 -0500
-category: 
+category: _feature
 external-url: https://www.fastcompany.com/40576156/most-creative-people-2018-nikki-katz-disney
 hash: c7d157e8c1b28ae5b26acd8f2c573a36
 year: 2018
