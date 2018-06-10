@@ -13,4 +13,4 @@ path: /
 
 ---
 
-My new website is finaly up! 
+

@@ -13,4 +13,4 @@ path: /bigpicture/2010/11/national_geographics_photograp.html
 
 ---
 
-Wow. Amazing photos in the Nat'l Geographic Photo contest:  The judges have their work cut out for them.
+

@@ -13,4 +13,4 @@ path: /2010/11/05/so-you-want-to-start-a-web-startup/
 
 ---
 
-Hysterical:  
+

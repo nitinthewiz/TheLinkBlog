@@ -13,4 +13,4 @@ path: /2010/10/omnifocus/
 
 ---
 
-Thanks for writing up your thoughts on OmniFocus, Shawn! RT @shawnblancnet New: A Sledgehammer Called OmniFocus 
+

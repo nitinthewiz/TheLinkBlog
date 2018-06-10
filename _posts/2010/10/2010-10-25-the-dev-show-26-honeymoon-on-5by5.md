@@ -13,4 +13,4 @@ path: /devshow/26
 
 ---
 
-Nice in-the-row pimping of @CouchDB and @sammy_js in  — Thanks @danbenjamin (cc @aq)
+

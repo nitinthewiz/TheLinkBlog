@@ -14,4 +14,4 @@ query:
     _r: "3"
 ---
 
-NYTimes: Still the Best Congress Money Can Buy 
+

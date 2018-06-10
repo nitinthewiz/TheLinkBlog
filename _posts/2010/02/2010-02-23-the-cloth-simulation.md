@@ -1,6 +1,6 @@
 ---
-title: "Andrew Hoyer"
-slug: andrew-hoyer
+title: "The Cloth Simulation"
+slug: the-cloth-simulation
 date: 2010-02-23 16:36:06 -0600
 category: 
 external-url: http://www.andrew-hoyer.com/experiments/cloth/
@@ -13,4 +13,4 @@ path: /experiments/cloth/
 
 ---
 
-RT @shanselman: This HTML 5 (Canvas) cloth simulation is awesome 
+

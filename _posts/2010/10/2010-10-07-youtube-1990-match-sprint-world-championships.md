@@ -1,6 +1,5 @@
 ---
-title: "YouTube
-        - 1990 Match Sprint World Championships"
+title: "YouTube - 1990 Match Sprint World Championships"
 slug: youtube-1990-match-sprint-world-championships
 date: 2010-10-07 23:01:19 -0500
 category: 
@@ -15,4 +14,4 @@ query:
     v: "BkkTSVVrPYk"
 ---
 
-cycling is a weird ass sport. 
+

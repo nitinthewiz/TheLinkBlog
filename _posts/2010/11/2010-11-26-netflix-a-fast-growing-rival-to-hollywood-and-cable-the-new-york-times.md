@@ -14,4 +14,4 @@ query:
     _r: "3"
 ---
 
-Might have to finally check this out for 2nd gen Apple TV. NYTimes: Netflix’s Move Onto the Web Stirs Rivalries 
+

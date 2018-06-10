@@ -13,4 +13,4 @@ path: /biz-stone-wants-to-create-a-twitter-news-service-2010-11
 
 ---
 
-Biz Stone Wants To Create A 'Twitter News Service' 
+

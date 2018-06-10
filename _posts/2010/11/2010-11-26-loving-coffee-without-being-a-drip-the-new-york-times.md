@@ -14,4 +14,4 @@ query:
     _r: "3"
 ---
 
-Chemex, Clover,  Mr. Coffee?  Chemex home, Clover out!  NYTimes: Loving Coffee Without Being a Drip 
+

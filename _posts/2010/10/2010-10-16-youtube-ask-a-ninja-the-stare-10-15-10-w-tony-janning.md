@@ -1,6 +1,5 @@
 ---
-title: "YouTube
-        - Ask A Ninja: The Stare - 10.15.10 /w Tony Janning"
+title: "YouTube - Ask A Ninja: The Stare - 10.15.10 /w Tony Janning"
 slug: youtube-ask-a-ninja-the-stare-10-15-10-w-tony-janning
 date: 2010-10-16 09:35:57 -0500
 category: 
@@ -16,4 +15,4 @@ query:
     feature: "player_embedded"
 ---
 
-LMAO - at 1:03 into it.  Another Motor!  LOL.  
+

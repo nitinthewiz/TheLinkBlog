@@ -13,4 +13,4 @@ path: /roubini-mars-moon-eurozone-2010-11
 
 ---
 
-There's not going to be anybody coming from Mars or the Moon to bailout the IMF or the Eurozone 
+

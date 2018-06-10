@@ -16,4 +16,4 @@ query:
     twt: "nytimesbusiness"
 ---
 
-RT @nytimesbusiness: Advertising: Minneapolis Agencies Team Up to Attract Ad Talent  #mpls me: reads a bit desperate
+

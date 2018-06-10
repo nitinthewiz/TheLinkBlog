@@ -1,6 +1,5 @@
 ---
-title: "YouTube
-        - Chopin Pianoconcerto No. 1 - Movement 2"
+title: "YouTube - Chopin Pianoconcerto No. 1 - Movement 2"
 slug: youtube-chopin-pianoconcerto-no-1-movement-2
 date: 2010-06-27 11:32:13 -0500
 category: 
@@ -17,4 +16,4 @@ query:
     videos: "C4Hvh2qEZEw"
 ---
 
-if you love classical music, and you want to see an inspired performance of one of Chopin's greatest concertos 
+

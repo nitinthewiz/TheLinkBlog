@@ -13,4 +13,4 @@ path: /padday/the-real-life-social-network-v2
 
 ---
 
-Thorough analysis on the kinds of relationships people have and how they interact on social networks 
+

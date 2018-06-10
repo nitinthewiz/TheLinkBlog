@@ -1,7 +1,5 @@
 ---
-title: "OCZ’s Vertex Limited Edition Review & SSD State of the Union
-   
- - AnandTech :: Your Source for Hardware Analysis and News"
+title: "OCZ’s Vertex Limited Edition Review & SSD State of the Union - AnandTech"
 slug: oczs-vertex-limited-edition-review-ssd-state-of-the-union-anandtech
 date: 2010-02-23 17:23:41 -0600
 category: 
@@ -15,4 +13,4 @@ path: /show/2944
 
 ---
 
-Short version summary of current state of SSDs: read this recent Anandtech piece: 
+

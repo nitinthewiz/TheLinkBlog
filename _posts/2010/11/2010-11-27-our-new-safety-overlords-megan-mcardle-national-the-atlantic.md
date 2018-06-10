@@ -13,4 +13,4 @@ path: /national/archive/2010/11/our-new-safety-overlords/67079/
 
 ---
 
-Citizens like the person in this video who refuse to acquiesce to TSA abuse and who publicize it deserve immense credit: 
+

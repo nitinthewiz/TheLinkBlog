@@ -13,4 +13,4 @@ path: /2010/07/23/handmade-daft-punk-helmet-produces-some-stunning-photo-ops/
 
 ---
 
-Guy makes his own Daft Punk helmet.  It only took 17 months, but damn is that cool:  
+

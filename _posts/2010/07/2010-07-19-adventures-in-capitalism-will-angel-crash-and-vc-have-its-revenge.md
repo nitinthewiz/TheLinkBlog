@@ -13,4 +13,4 @@ path: /2010/06/will-angel-crash-and-vc-have-its.html
 
 ---
 
-Great post by @chrisyeh on Super Angels vs. VC investors (must read 4 startups) 
+

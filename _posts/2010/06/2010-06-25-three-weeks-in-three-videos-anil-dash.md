@@ -13,4 +13,4 @@ path: /anil/2010/06/three-weeks-in-three-videos.html
 
 ---
 
-Anil Dash's Ignite NY talk on "defending the indefensible" -- recommended: 
+

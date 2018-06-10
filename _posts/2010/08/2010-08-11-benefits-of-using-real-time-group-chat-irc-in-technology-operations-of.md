@@ -13,5 +13,4 @@ path: /blog/2009/12/10/tech-ops-irc/
 
 ---
 
-Benefits of Using Real-Time Group Chat (IRC) in Technology Operations Management
- #yam
+

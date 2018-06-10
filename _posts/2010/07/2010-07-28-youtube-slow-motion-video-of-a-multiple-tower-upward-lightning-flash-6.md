@@ -1,6 +1,5 @@
 ---
-title: "YouTube
-        - Slow Motion Video of a Multiple Tower Upward Lightning Flash on 6/16/10"
+title: "YouTube - Slow Motion Video of a Multiple Tower Upward Lightning Flash on 6/16/10"
 slug: youtube-slow-motion-video-of-a-multiple-tower-upward-lightning-flash-6
 date: 2010-07-28 21:23:24 -0500
 category: 
@@ -16,4 +15,4 @@ query:
     feature: "youtu.be"
 ---
 
-Slow-motion lightning strike recorded at 9000 frames per second – pure awe 
+
