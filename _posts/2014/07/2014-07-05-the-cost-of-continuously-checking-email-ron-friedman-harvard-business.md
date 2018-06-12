@@ -13,4 +13,4 @@ path: /2014/07/the-cost-of-continuously-checking-email/
 
 ---
 
-The Cost of Continuously Checking Email: by @RonFriedman @HarvardBiz 
+

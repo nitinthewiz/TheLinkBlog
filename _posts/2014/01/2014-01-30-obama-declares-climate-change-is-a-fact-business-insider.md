@@ -13,4 +13,4 @@ path: /obama-declares-climate-change-is-a-fact-2014-1
 
 ---
 
-Obama says “Climate change is a fact” - reaction from scientists: “it's a shame the president even *has* to say that” 
+

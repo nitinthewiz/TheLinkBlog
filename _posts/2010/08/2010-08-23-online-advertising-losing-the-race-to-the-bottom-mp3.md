@@ -13,9 +13,4 @@ path: /2010/podcasts/031410i_OnlineAdvertisingLosingtheRacetotheBottom.mp3
 
 ---
 
-Worth a re-link: hour-long MP3 audio of yours truly and Jim Coudal speaking at SXSW earlier this year.
-
-
-
- ★ 
 

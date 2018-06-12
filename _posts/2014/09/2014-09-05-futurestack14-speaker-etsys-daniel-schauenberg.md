@@ -14,4 +14,4 @@ query:
     mpc: "SM-TWIT-generic-EN-Blog-NRBlog-FS14DanielSchauenberg"
 ---
 
-Etsy’s Infrastructure Toolsmith @mrtazz really loves graphs. Preview his #FS14 talk on "Data Driven Monitoring" 
+

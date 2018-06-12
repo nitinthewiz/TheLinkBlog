@@ -1,6 +1,6 @@
 ---
-title: "Landscape :: Hosted continuous Python code metrics"
-slug: landscape-hosted-continuous-python-code-metrics
+title: "Pyflakes, PEP8 and McCabe Complexity Now Supported - Landscape"
+slug: pyflakes-pep8-and-mccabe-complexity-now-supported-landscape
 date: 2014-01-12 03:47:32 -0600
 category: 
 external-url: https://blog.landscape.io/pyflakes-pep8-and-mccabe-complexity-now-supported.html
@@ -13,4 +13,4 @@ path: /pyflakes-pep8-and-mccabe-complexity-now-supported.html
 
 ---
 
-Exciting news as Landscape now supports Pyflakes, PEP8 and Mccabe complexity while checking code, as well as Pylint.
+

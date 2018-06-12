@@ -13,4 +13,4 @@ path: /101193187
 
 ---
 
-Whoa! The awesome keynote for #devopsdays from @sascha_d  
+

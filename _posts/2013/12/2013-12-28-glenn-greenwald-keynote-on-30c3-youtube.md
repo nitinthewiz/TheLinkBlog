@@ -14,4 +14,4 @@ query:
     v: "xEJIR0-KJu0"
 ---
 
-The video of my keynote speech at #30c3 is now on YouTube (for real this time)  
+

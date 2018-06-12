@@ -13,4 +13,4 @@ path: /blogs/rms/20140407-geneva-tedx-talk-free-software-free-society
 
 ---
 
-Wow. Richard Stallman #RMS gave a TEDx talk. And of course it's great and right (and even has graphics). 
+

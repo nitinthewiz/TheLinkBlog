@@ -13,4 +13,4 @@ path: /2013/10/31/coffee-snob-photos_n_4177849.html
 
 ---
 
-Here are 11 things only a #coffee snob would understand. #4 made us cry with laughter:  via @HuffPostTaste
+

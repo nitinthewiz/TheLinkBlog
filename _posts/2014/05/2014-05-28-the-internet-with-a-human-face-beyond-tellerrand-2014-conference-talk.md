@@ -13,4 +13,4 @@ path: /bt14.htm
 
 ---
 
-Maciej Cegłowski: "How do we build an Internet we're not ashamed of?" 
+

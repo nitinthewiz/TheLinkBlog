@@ -13,4 +13,4 @@ path: /i8h58
 
 ---
 
-Video: @code42 CEO @dornquast Interview [part 1]: 
+

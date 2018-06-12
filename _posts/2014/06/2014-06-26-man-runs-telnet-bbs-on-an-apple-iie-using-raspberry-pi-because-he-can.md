@@ -13,4 +13,4 @@ path: /2014/06/26/man-runs-telnet-bbs-on-an-apple-iie-using-raspberry-pi-because
 
 ---
 
-Man runs Telnet BBS on an Apple IIe using Raspberry Pi because he can 
+

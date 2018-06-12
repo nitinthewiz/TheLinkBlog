@@ -13,4 +13,4 @@ path: /VersionOne/agile-live-collaboration-that-scales071713
 
 ---
 
-Blush! “@versionone: 1 of most popular #AgileLIVE presentations - Collaboration that Scales:   @DevJams #agile #pmot”
+

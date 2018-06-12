@@ -13,4 +13,4 @@ path: /money/economy/story/2011-08-27/Unemployed-Go-to-North-Dakota/50136572/1
 
 ---
 
-Unemployed? Go to North Dakota  via USA TODAY
+

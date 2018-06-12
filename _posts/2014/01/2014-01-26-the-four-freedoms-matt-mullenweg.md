@@ -13,4 +13,4 @@ path: /2014/01/four-freedoms/
 
 ---
 
-RT @hexmode: if you don’t control the software, the software controls you. 
+

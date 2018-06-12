@@ -13,4 +13,4 @@ path: /garrick-van-buren/
 
 ---
 
-How do I spent the first 90min of each day? Here it is: 
+

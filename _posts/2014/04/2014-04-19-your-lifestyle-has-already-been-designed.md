@@ -13,4 +13,4 @@ path: /2010/07/your-lifestyle-has-already-been-designed/
 
 ---
 
-Your Lifestyle Has Already Been Designed  depressing but accurate.
+

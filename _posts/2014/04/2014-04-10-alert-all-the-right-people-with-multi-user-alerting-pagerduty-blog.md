@@ -13,4 +13,4 @@ path: /2014/04/alert-all-the-right-people-with-multi-user-alerting/
 
 ---
 
-Yay! Waited forever for this! -- @pagerduty "We launched Multi-User Alerting. Notify up to 10 people at a time.  "
+

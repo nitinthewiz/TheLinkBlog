@@ -15,4 +15,4 @@ query:
     link: "sfmw"
 ---
 
-@thingles MW wrote about this very topic:  
+

@@ -13,19 +13,4 @@ path: /2010/08/joint-policy-proposal-for-open-internet.html
 
 ---
 
-Just keep repeating the word “open”:
-
-
-
-  Sixth, we both recognize that wireless broadband is different from the
-  traditional wireline world, in part because the mobile marketplace is
-  more competitive and changing rapidly. In recognition of the
-  still-nascent nature of the wireless broadband marketplace, under this
-  proposal we would not now apply most of the wireline principles to
-  wireless, except for the transparency requirement.
-
-
-
-
- ★ 
 

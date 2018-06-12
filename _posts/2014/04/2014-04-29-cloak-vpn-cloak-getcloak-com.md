@@ -13,4 +13,4 @@ path: /
 
 ---
 
-I feel good knowing @GetCloak VPN keeps me safe on public Wi-Fi. 
+

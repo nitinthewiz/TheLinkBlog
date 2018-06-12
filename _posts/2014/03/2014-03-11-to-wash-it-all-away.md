@@ -13,4 +13,4 @@ path: /system/files/1403_02-08_mickens.pdf
 
 ---
 
-Must… Resist… Quoting… Every other sentence…
+

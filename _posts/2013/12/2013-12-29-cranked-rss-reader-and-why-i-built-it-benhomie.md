@@ -13,4 +13,4 @@ path: /2013/cranked-rss-reader-and-why-i-built-it/
 
 ---
 
-RT @crankedapp: Hello. Just wrote a piece on why I built Cranked → 
+

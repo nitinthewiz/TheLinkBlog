@@ -13,4 +13,4 @@ path: /2011/01/27/map-of-scientific-collaboration-between-researchers/
 
 ---
 
-.@yolandagil Your talk as SMWCon made me think of this. (Oh, and thanks again for such a great talk.) 
+

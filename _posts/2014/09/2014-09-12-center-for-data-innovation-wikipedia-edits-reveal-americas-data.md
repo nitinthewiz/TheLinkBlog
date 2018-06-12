@@ -13,4 +13,4 @@ path: /2014/09/wikipedia-edits-reveal-americas-data-deserts/
 
 ---
 
-RT @traviskorte: I mapped Wikipedia edit rates by U.S county. The result is a nerd map that's not just population density in disguise 
+

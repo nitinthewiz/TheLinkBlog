@@ -13,4 +13,4 @@ path: /blog/2013/12/piwik-2-0-release-announced-biggest-best-release-yet/
 
 ---
 
-RT @piwik: Piwik 2.0 release announced: Biggest and best release yet!: Piwik, the world’s leading free and open source we... 
+

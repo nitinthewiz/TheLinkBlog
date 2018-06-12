@@ -13,4 +13,4 @@ path: /blog/2014-01-06-opsworks-cloud-files-and-divshot-deployment/
 
 ---
 
-RT @LukeSamaha: TravisCI now deploys to AWS OpsWorks. #opsworks #travisci 
+

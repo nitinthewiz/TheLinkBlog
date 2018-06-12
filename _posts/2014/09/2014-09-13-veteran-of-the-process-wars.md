@@ -13,4 +13,4 @@ path: /2014/09/13/veteran-of-the-process-wars/
 
 ---
 
-The Dystopian Future of #DevOps Work: Veteran of the Process Wars  #DevOpsDays
+

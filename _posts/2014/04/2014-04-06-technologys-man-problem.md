@@ -16,4 +16,4 @@ query:
     _r: "1"
 ---
 
-Then things got worse. The next day, Pax Dickinson, who was her business partner in a start-up called Glimpse Labs, as well as the chief technology officer of the news site Business Insider, took to Twitter to defend the Titstare pair against accusations of misogyny. “It is not misogyny to tell a s
+

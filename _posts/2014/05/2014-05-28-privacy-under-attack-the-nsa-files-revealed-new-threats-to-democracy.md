@@ -13,4 +13,4 @@ path: /technology/2014/may/27/-sp-privacy-under-attack-nsa-files-revealed-new-th
 
 ---
 
-I am half-way through this and already can tell you it's the most important thing you will read this month: 
+

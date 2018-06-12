@@ -13,4 +13,4 @@ path: /2011/11/03/verb-wall-the-40-billion-mark-zuckerberg-is-leaving-on-the-tab
 
 ---
 
-Facebook "view[s] everything like a data roach motel": 
+

@@ -13,9 +13,4 @@ path: /album/2010/07/13/graceland/
 
 ---
 
-Just great.
-
-
-
- ★ 
 

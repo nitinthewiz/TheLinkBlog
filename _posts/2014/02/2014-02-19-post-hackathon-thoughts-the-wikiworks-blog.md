@@ -13,4 +13,4 @@ path: /blog/2014/02/20/post-hackathon-thoughts/
 
 ---
 
-Thoughts on the first-ever enterprise MediaWiki hackathon: 
+

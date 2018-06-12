@@ -13,4 +13,4 @@ path: /@rajivpant/71ac3c05acac
 
 ---
 
-@thingles Here is an article on Three Roles of a CTO: Culture, Technology & Operations: 
+

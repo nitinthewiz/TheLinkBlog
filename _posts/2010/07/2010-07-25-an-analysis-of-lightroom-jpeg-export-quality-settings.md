@@ -13,9 +13,4 @@ path: /blog/lightroom-goodies/jpeg-quality
 
 ---
 
-Great research and analysis from Jeffrey Friedl. Must-read for any Lightroom user.
-
-
-
- ★ 
 

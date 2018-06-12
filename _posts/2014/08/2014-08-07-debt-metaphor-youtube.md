@@ -14,4 +14,4 @@ query:
     v: "pqeJFYwnkjE"
 ---
 
- Technical Debt Metaphor explained by Ward Cunningham.
+

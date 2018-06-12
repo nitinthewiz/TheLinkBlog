@@ -13,4 +13,4 @@ path: /blog/nasa-automation
 
 ---
 
-RT @ansible: NASA uses Ansible Tower to better manage their environment, provide better security as well as to increase efficiency 
+

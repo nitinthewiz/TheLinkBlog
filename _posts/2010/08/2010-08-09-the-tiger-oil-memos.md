@@ -13,16 +13,4 @@ path: /2010/08/tiger-oil-memos.html
 
 ---
 
-Hilarious collection of memos from 1978 by Edward Mike Davis, the CEO and owner of the Tiger Oil Company in Houston. A personal favorite:
-
-
-
-  Do not speak to me when you see me. If I want to speak to you, I
-  will do so. I want to save my throat. I don’t want to ruin it by
-  saying hello to all of you sons-of-bitches.
-
-
-
-
- ★ 
 

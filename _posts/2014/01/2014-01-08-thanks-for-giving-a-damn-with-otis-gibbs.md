@@ -1,8 +1,8 @@
 ---
-title: "SoundCloud - Hear the world’s sounds"
-slug: soundcloud-hear-the-worlds-sounds
+title: "Thanks For Giving A Damn with Otis Gibbs"
+slug: thanks-for-giving-a-damn-with-otis-gibbs
 date: 2014-01-08 10:18:26 -0600
-category: 
+category: _brief
 external-url: http://soundcloud.com/otisgibbs/sets/thanks-for-giving-a-damn-with
 hash: 131aa21207d7b26689cff94bf4b699ad
 year: 2014

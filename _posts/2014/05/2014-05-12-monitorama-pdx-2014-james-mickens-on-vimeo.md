@@ -13,4 +13,4 @@ path: /95066828
 
 ---
 
-Yes! You can now watch James Mickens' talk from #monitorama, and you'll want to, because he's awesomely hilarious:  
+

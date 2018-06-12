@@ -13,4 +13,4 @@ path: /2013/12/day-18-wide-columns-shaggy-yaks-hbase.html
 
 ---
 
-I'm honored to write for @sysadvent. Thanks: @sascha_d for suggesting; @cwebber for organizing; @sdmouton for editing 
+

@@ -13,4 +13,4 @@ path: /document/crypto-wars-governments-working-undermine-encryption
 
 ---
 
-RT @EFF: We thought we won the Crypto Wars in the 1990s. We were wrong. Our infrastructure is under attack:  
+

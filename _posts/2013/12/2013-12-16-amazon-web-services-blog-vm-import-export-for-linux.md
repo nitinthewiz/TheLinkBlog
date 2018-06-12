@@ -13,4 +13,4 @@ path: /aws/2013/12/vm-import-export-for-linux.html
 
 ---
 
-RT @awscloud: Announcing VM Import for Linux: RHEL, Ubuntu, CentOS, and Debian VMs, welcome to Amazon #EC2! 
+

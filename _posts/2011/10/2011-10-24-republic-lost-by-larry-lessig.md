@@ -1,6 +1,6 @@
 ---
-title: "Republic, Lost"
-slug: republic-lost
+title: "Republic, Lost by Larry Lessig"
+slug: republic-lost-by-larry-lessig
 date: 2011-10-24 01:29:52 -0500
 category: 
 external-url: http://vimeo.com/31009503
@@ -13,4 +13,4 @@ path: /31009503
 
 ---
 
-Larry Lessig
+

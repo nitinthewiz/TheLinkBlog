@@ -13,4 +13,4 @@ path: /article/57127/lego-release-female-scientist-figurines
 
 ---
 
-Cool! LEGO To Release Female Scientist Figurines: 
+

@@ -13,4 +13,4 @@ path: /linked/2014/02/28/dropbox-arbitration
 
 ---
 
-You absolutely should OptOut RT Opting Out of Dropbox’s Arbitration Clause:  (via @daringfireball)
+

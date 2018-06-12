@@ -14,4 +14,4 @@ query:
     m: "1"
 ---
 
-RT @jphenow: SOA and team structure:  interesting! Sounds familiar.
+

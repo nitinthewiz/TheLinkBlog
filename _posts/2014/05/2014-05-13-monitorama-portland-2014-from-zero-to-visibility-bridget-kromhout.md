@@ -13,4 +13,4 @@ path: /speaking/2014/monitorama-portland/
 
 ---
 
-My #monitorama video is up! I'm actually able to watch it without dying of embarrassment; I credit a friendly crowd. 
+

@@ -13,4 +13,4 @@ path: /2014/05/07/sps-commerce-omnichannel-a-big-vision/
 
 ---
 
-SPS Commerce' Omnichannel - A Big Vision  CC: @SPS_Commerce @thingles @Schwegman #SPSOmnichannel
+

@@ -13,4 +13,4 @@ path: /blog/2012/03/the-coming-future-of-system-administration/
 
 ---
 
-The Coming Future of System Administration - interesting read in regards to sysadmin stuffs #sysadmin 
+

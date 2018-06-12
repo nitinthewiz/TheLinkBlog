@@ -13,4 +13,4 @@ path: /netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million
 
 ---
 
-The Netflix Tech Blog: Benchmarking Cassandra Scalability on AWS - Over a million writes per second 
+
