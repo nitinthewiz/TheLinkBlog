@@ -13,4 +13,4 @@ path: /DanielRapp/Noisy
 
 ---
 
-Cross this off my pending experiments list, someone made a jQuery noise generator: 
+

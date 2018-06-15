@@ -1,5 +1,5 @@
 ---
-title: "elasticsearch - - Open Source, Distributed, RESTful, Search Engine"
+title: "elasticsearch - Open Source, Distributed, RESTful, Search Engine"
 slug: elasticsearch-open-source-distributed-restful-search-engine
 date: 2011-10-21 11:21:45 -0500
 category: 
@@ -13,4 +13,4 @@ path: /
 
 ---
 
-ElasticSearch looks awesome! Real-time, schema-less search with a REST API. Someone should write a Heroku addon for it. 
+

@@ -13,4 +13,4 @@ path: /zachstronaut/stop-sopa
 
 ---
 
-Venting my frustration with SOPA creatively. Here's a free option I made to black out your homepage on Jan 18. 
+

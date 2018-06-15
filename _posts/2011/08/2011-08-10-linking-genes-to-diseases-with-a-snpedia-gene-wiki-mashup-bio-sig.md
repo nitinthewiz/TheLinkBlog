@@ -13,4 +13,4 @@ path: /250
 
 ---
 
-That SNPedia-Gene Wiki mashup is pretty awesome - first known case of joining two SemanticMW wikis via RDF and SPARQL. 
+

@@ -13,4 +13,4 @@ path: /how-to-use-facebooks-turn-off-platform-setting-2013-10
 
 ---
 
-Just killed my FB..."How To Use The Facebook 'Kill Switch' That Hardly Anyone Knows About" 
+

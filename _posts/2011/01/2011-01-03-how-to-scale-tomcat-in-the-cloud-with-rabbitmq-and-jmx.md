@@ -13,4 +13,4 @@ path: //blog/2010/06/04/how-scale-tomcat-cloud-rabbitmq-and-jmx
 
 ---
 
-Good post on how to manage Tomcat instances in cloud: 
+

@@ -13,4 +13,4 @@ path: /news/2011/09/02/techdotmn-tv-debut-naiku-interview/
 
 ---
 
-New TECHdotMN TV kicks off with an interview of #mncup Tech Winner Naiku - great interview 
+

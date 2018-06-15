@@ -13,4 +13,4 @@ path: /2012/05/love-dad.html
 
 ---
 
-Just days before his 26-year-old son, Michael, got married, future-U.S. Pres Ronald Reagan sent him a letter of advice 
+

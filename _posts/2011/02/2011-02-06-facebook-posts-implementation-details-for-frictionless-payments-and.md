@@ -13,4 +13,4 @@ path: /2011/02/04/implementation-frictionless-payments-credits/
 
 ---
 
-Could something like Facebook's new Buy With Friends-  work for the @AppStore?
+

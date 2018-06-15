@@ -13,4 +13,4 @@ path: /2010/11/all-these-brilliant-people-at-facebook-make-me-sad/
 
 ---
 
-This pretty much sums up how I feet about Facebook: . Couldn't have said it better.
+

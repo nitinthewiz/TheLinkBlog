@@ -13,4 +13,4 @@ path: /
 
 ---
 
-Kartograph is a new framework for building interactive map applications without Google Maps or any other mapping service. It was created with the needs of designers and data journalists in mind.
+

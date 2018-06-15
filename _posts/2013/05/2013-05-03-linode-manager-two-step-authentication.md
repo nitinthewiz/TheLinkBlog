@@ -13,4 +13,4 @@ path: /2013/05/02/linode-manager-two-step-auth/
 
 ---
 
-Two-step authentication is now available for the Linode Manager! 
+

@@ -15,4 +15,4 @@ query:
     feature: "share"
 ---
 
-Rep. Jefferson Smith (D-OR) is great and right. His TEDx talk: Priceless politics:   #rootstrikers
+

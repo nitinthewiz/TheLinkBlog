@@ -13,4 +13,4 @@ path: /report/88/
 
 ---
 
-1995: no state had >15% obesity. Today's report: 38 states >25% obesity. It is now a presidential level issue. 
+

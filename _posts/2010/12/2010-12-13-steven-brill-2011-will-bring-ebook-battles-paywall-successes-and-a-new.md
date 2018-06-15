@@ -13,4 +13,4 @@ path: /2010/12/steve-brill-2011-will-bring-ebook-battles-paywall-successes-and-a
 
 ---
 
-Steven Brill shares his thoughts on what 2011 will bring for journalism 
+

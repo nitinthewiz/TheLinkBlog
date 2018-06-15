@@ -13,4 +13,4 @@ path: /technology/2010/dec/21/keeping-email-address-secret-spambots
 
 ---
 
-Email secrecy won't save you from spam /by @doctorow 
+

@@ -13,4 +13,4 @@ path: /2012/08/the-spoils-of-pour.html
 
 ---
 
-“@mayhapscoffee: new coffee blog (if people still blog)  ” Now THAT is #collabrewation @AndrewRstStl  ~Thanks Dale!!
+

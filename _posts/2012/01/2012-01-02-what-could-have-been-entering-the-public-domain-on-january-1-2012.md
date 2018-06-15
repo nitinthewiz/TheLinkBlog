@@ -13,4 +13,4 @@ path: /cspd/publicdomainday/2012/pre-1976
 
 ---
 
-What would have been, but isn't, in the public domain today because of perpetual extensions. 
+

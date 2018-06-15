@@ -13,4 +13,4 @@ path: /2011/08/winter-is-coming.html
 
 ---
 
-Lessons Learned: Winter is coming: 
+

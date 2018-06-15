@@ -13,4 +13,4 @@ path: /2012/1/6/favorite-books-of-2011
 
 ---
 
-New blog post: My favorite books of 2011 
+

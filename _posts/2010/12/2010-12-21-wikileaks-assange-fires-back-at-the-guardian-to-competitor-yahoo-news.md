@@ -13,4 +13,4 @@ path: /s/yblog_thecutline/20101221/ts_yblog_thecutline/wikileaks-assange-fires-b
 
 ---
 
-This really makes me question Assange's judgment  And no, it's the first time I have felt that way.
+

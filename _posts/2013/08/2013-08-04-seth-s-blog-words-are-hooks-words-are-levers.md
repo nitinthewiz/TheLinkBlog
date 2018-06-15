@@ -13,4 +13,4 @@ path: /seths_blog/2013/08/words-are-hooks-words-are-levers.html
 
 ---
 
-"Words are hooks, words are levers" just read.. 
+

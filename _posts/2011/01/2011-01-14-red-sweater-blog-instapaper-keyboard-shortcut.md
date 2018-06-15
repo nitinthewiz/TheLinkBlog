@@ -13,4 +13,4 @@ path: /blog/1594/instapaper-keyboard-shortcut
 
 ---
 
-Use FastScripts to create a keyboard-shortcut of your choice for @Instapaper's "Read Later" in Safari: 
+

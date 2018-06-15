@@ -13,4 +13,4 @@ path: /gallery/Airbag-Typeface-and-Free-Font-by-Simon-Stratford/7775793
 
 ---
 
-Found this great font #Airbag #Freefont by @itsmesimon 
+

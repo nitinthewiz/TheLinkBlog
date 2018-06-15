@@ -14,4 +14,4 @@ query:
     m: "1"
 ---
 
-Robert Stephens: A Few Key People in Minneapolis/St. Paul Can Make a Huge Difference:  #minnebar Cc @thingles
+

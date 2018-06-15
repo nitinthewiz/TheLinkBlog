@@ -13,4 +13,4 @@ path: /blog/2013/02/06/data-is-data/
 
 ---
 
-Data is data. 
+

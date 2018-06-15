@@ -13,4 +13,4 @@ path: /s/article/9139180/Wikileaks_plans_to_make_the_Web_a_leakier_place
 
 ---
 
-For each week I've followed the Wikileaks story, the significance of this Oct. 2009 article in Computer World has grown. 
+

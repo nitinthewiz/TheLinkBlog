@@ -13,4 +13,4 @@ path: /Entry/Details/658
 
 ---
 
-I made a JavaScript + HTML5 canvas whiteboard in 10KB with some simple responsiveness. Mobile friendly.  
+

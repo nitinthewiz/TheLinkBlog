@@ -13,4 +13,4 @@ path: /projects/1318318905/creative-commons-fantasy-portrait-marathon
 
 ---
 
-A @Kickstarter project to fund CC-licensed Fantasy Portraits continues to gain funding and grow in scope: 
+

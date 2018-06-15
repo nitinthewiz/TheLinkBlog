@@ -15,7 +15,4 @@ path: /2012/06/recent_bounciness_and_when_it_will_stop/
 
 These outages are very atypical for Pinboard. It's usually rock solid. This blog post is well done. Fully transparent. Reads like an informal incident report.
 
-<blockquote>
-The outages come in two flavors. In one, the server sees a big spike of load, and bogs down. It is not obvious what overwhelms the server, but the load average rockets up to scary levels, the machine runs out of physical memory, and processes start to get killed.
-</blockquote>
-
+> The outages come in two flavors. In one, the server sees a big spike of load, and bogs down. It is not obvious what overwhelms the server, but the load average rockets up to scary levels, the machine runs out of physical memory, and processes start to get killed.

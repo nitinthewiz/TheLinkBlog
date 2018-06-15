@@ -13,4 +13,4 @@ path: /2010-the-year-in-review/112618099/
 
 ---
 
-Our cup overfloweth! Beautiful words (& nice pic) in Rick Nelson's @startribune 2010 year in review: 
+

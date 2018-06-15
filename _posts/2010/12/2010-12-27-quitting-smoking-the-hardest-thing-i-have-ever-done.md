@@ -13,4 +13,4 @@ path: /2010/12/27/quitting-smoking-the-hardest-thing-i-have-ever-done/
 
 ---
 
-Wow! incredible piece by @om on his personal battle to quit smoking   (link thx to @msuster )
+

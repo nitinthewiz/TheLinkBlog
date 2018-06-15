@@ -13,4 +13,4 @@ path: /the_daily_dish/2010/12/they-grow-up-so-fast.html
 
 ---
 
-For anyone who has, or was, a child :-)  A little break from Wikileaks for things more awesome.
+

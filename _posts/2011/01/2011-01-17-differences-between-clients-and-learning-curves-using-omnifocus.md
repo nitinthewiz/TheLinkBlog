@@ -13,4 +13,4 @@ path: /ipad-vs-desktop-differences-between-clients-and-learning-curves-%E2%80%93
 
 ---
 
-Part 2 of Differences between OmniFocus clients and Learning Curves now up: 
+

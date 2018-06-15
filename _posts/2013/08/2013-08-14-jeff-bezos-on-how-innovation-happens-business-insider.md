@@ -13,5 +13,4 @@ path: /jeff-bezos-on-how-innovation-happens-2013-8
 
 ---
 
-Jeff Bezos at his best: "Invention requires a long-term willingness to be misunderstood" It is lonely out there.
 

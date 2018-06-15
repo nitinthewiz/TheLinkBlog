@@ -13,4 +13,4 @@ path: /extension/welcome/
 
 ---
 
-Welcome to Apture Highlights! – Apture -  via @Apture
+

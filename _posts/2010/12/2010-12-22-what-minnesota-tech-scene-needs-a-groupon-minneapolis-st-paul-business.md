@@ -13,4 +13,4 @@ path: /twincities/blog/in_private/2010/10/what-minnesota-tech-scene-needs-a.html
 
 ---
 
-Yeah a Groupon-level success would make a big difference in MN (think future founders, new angel investors)  via @dfrankow
+

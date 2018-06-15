@@ -13,4 +13,4 @@ path: /article/2011/07/16/us-newscorp-notw-brooks-idUSTRE76F0O420110716
 
 ---
 
-Oh, man. You gotta read what it was like to work at News of the World.  "Abandon hope, all ye who enter."
+

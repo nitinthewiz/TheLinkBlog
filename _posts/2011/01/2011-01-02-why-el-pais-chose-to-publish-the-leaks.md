@@ -13,4 +13,4 @@ path: /elpais/2010/12/23/inenglish/1293085243_850210.html
 
 ---
 
-I agree with @davidisen. This must be added to any review of best Wikileaks posts. Why EL PAÍS chose to publish the leaks: 
+

@@ -13,4 +13,4 @@ path: /id/2244683/
 
 ---
 
-Nothing contrarian about it. Slate is getting into crowdsourcing. Column:  Example: 
+

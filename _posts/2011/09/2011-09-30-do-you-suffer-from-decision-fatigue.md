@@ -15,4 +15,4 @@ query:
     pagewanted: "all"
 ---
 
-Decision fatigue: successful people structure their lives so as to conserve willpower.
+

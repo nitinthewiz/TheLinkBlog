@@ -16,4 +16,4 @@ query:
     ref: "technology"
 ---
 
-The nonprofit world is stewing over the ban Apple has put on making donations on the iPhone via charity apps.
+

@@ -14,4 +14,4 @@ query:
     p: "94018"
 ---
 
-OmniFocus 1.9 for iPhone improves the basic workflow by offering immediate access to View settings that display Next, Available, Remaining, or All items. It also improves the experience of choosing dates and setting up repeating items, and contains many other improvements to the interface.
+

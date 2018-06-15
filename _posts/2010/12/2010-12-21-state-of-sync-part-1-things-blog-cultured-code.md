@@ -13,4 +13,4 @@ path: /things/blog/2010/12/state-of-sync-part-1.html
 
 ---
 
-State of (Cloud) Sync, Part 1: 
+

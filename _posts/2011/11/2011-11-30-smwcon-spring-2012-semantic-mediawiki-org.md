@@ -13,4 +13,4 @@ path: /wiki/SMWCon_Spring_2012
 
 ---
 
-The Spring 2012 SMWCon (Semantic MediaWiki Conference) will be held in Carlsbad, California on April 25-27. 
+

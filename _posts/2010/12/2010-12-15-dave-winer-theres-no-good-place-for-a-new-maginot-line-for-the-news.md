@@ -13,4 +13,4 @@ path: /2010/12/dave-winer-theres-no-good-place-for-a-new-maginot-line-for-the-ne
 
 ---
 
-What both Groupon and local news organizations do:  by Dave Winer at @NiemanLab.
+

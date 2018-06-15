@@ -13,4 +13,4 @@ path:
 
 ---
 
-Link of the day: GerritHub, hosted Gerrit on top of GitHub. 
+

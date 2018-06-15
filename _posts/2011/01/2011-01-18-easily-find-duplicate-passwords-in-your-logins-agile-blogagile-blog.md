@@ -13,4 +13,4 @@ path: /easily-find-duplicate-passwords-in-your-logins/
 
 ---
 
-Tip: Create a smart folder of all logins that use a particular password, then change them at your convenience. 
+

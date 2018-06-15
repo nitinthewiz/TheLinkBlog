@@ -14,4 +14,4 @@ query:
     p: "382"
 ---
 
-Recap of my experience at Minnebar 8 last weekend:    #minnebar
+

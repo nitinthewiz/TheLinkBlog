@@ -13,5 +13,4 @@ path: /llorieri/extending-piwik-at-r7com
 
 ---
 
-How to handle extreme peaks of traffic with Piwik? Presentation 
-Post your questions & Feedback in: 
+

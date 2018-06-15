@@ -13,4 +13,4 @@ path: /blog/2010/the-blast-shack/
 
 ---
 
-Reading Bruce Sterling on Wikileaks and the NSA: 
+

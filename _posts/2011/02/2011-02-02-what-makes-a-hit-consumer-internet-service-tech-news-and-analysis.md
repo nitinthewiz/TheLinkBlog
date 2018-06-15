@@ -13,4 +13,4 @@ path: /2011/02/02/what-makes-a-hit-consumer-internet-service/
 
 ---
 
-@rstephens just in case you missed this pot by @om - killer read: 
+

@@ -15,4 +15,4 @@ query:
     aid: "195047"
 ---
 
-Interesting: Denton wants his sites (@gawker, @deadspin, @gizmodo, etc.) to work more like TV - for advertisers anyway. 
+

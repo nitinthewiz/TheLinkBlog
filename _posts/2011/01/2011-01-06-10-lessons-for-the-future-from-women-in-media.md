@@ -13,4 +13,4 @@ path: /latest-news/top-stories/113163/10-lessons-for-the-future-from-women-in-me
 
 ---
 
-Ten lessons about the future of media from women who really know their sh*t.  Well done, @mthomps.
+

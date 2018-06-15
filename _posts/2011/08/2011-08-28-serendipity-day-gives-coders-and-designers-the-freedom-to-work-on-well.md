@@ -13,4 +13,4 @@ path: /2011/08/npr-tries-something-new-a-day-to-let-managers-step-away-and-devel
 
 ---
 
-NPR is experimenting with something called “Serendipity Day,” wherein everyone on the technology side abandons their day jobs to work on…whatever they want. Bugs that need squashing, scratches that need itching — the ideas that never get to the top of a to-do list. The managers step back, available
+

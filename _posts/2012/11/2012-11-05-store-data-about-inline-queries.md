@@ -13,4 +13,4 @@ path: /r/
 
 ---
 
-With @SemanticMW 1.8 you will be able to query for query meta-data such as size, depth, format and query string!  :)
+

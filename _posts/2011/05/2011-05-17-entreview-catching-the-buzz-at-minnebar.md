@@ -13,4 +13,4 @@ path: /2011/05/catching-buzz-at-minnebar.html
 
 ---
 
-EntreView Blog: Catching the Buzz at MinneBar -  #siliconvalley #entrepreneurs #hightech #startups
+

@@ -13,4 +13,4 @@ path: /articles/state-senator-scott-dibble-southwest-minneapolis-anti-bullying-c
 
 ---
 
-Check out our first piece in a series looking at issue of school bullying, esp of gay kids. Pt 1 Sen. Scott Dibble: 
+

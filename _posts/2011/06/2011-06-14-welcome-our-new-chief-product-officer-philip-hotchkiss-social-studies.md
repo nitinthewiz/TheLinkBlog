@@ -13,4 +13,4 @@ path: /2011/06/14/philip-hotchkiss-chief-product-officer-get-satisfaction/
 
 ---
 
-I'm thrilled to announce that I've joined @getsatisfaction - here's the news 
+

@@ -13,4 +13,4 @@ path: /archives/facebook_makes_big_new_move_to_capture_more_user_d.php
 
 ---
 
-This is Big< RT Facebook Makes Big New Move to Capture More User Data by @marshallk  via @RWW
+

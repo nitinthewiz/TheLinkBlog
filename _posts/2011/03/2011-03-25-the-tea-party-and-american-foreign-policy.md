@@ -13,4 +13,4 @@ path: /articles/united-states/2011-03-01/tea-party-and-american-foreign-policy
 
 ---
 
-Walter Mead's essay on the force of populism and the Tea Party in foreign policy is sheer brilliance: 
+

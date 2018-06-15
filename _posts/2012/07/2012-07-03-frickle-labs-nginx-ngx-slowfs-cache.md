@@ -13,4 +13,4 @@ path: /nginx_ngx_slowfs_cache/
 
 ---
 
-Piotr Sikora announced latest versions of ngx_cache_purge and ngx_slowfs_cache  
+

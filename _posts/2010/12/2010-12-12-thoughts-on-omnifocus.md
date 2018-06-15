@@ -13,4 +13,4 @@ path: /article/thoughts-on-omnifocus/
 
 ---
 
-New Article: Thoughts on OmniFocus 
+

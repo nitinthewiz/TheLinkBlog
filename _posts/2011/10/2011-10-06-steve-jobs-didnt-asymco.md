@@ -13,4 +13,4 @@ path: /2011/10/06/steve-jobs-didnt/
 
 ---
 
-Thanks, everyone. I read all your suggestions. The two magical (to me) Steve Jobs tributes are  and 
+

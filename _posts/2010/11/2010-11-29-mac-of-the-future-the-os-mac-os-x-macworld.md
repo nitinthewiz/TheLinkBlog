@@ -14,6 +14,4 @@ query:
     lsrc: "twt_siracusa"
 ---
 
-Macintosh : DOS :: iOS : Mac OS X
 
-My take on the future of Mac OS X at macworld.com: 

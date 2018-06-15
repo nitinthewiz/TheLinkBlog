@@ -14,4 +14,4 @@ query:
     _r: "3"
 ---
 
-Thanks for the Tax Cut! Larry David had me a-chuckling this morning 
+

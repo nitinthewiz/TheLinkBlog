@@ -13,4 +13,4 @@ path: /2010/12/16/the-foursquare-for-websites-onetruefan-launches-in-beta-opens-
 
 ---
 
-congrats to @toddsampson & @onetruefan on launching Beta - Foursquare for Websites 
+

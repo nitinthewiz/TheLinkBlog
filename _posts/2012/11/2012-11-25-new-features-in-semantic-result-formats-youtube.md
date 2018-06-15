@@ -14,4 +14,4 @@ query:
     v: "iCo6up6Kftc"
 ---
 
-My talk on Semantic Result Formats 1.8 from last #SMWCon is now online!  #MediaWiki @SemanticMW
+

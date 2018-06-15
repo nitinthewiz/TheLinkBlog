@@ -13,4 +13,4 @@ path: /articles/new-46th-street-metro-transit-hub-offers-improved-options-for-so
 
 ---
 
-Patch's Amy Finch takes a look at new 46th Street Metro Transit station, how it fits into newfangled transit plans 
+

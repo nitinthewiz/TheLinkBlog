@@ -13,4 +13,4 @@ path: /with-software-small-is-the-new-big
 
 ---
 
-Small is the new Big! How @wordnik architecture makes EC2 hum at scale with #swagger, #mongodb 
+

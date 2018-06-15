@@ -13,4 +13,4 @@ path: /sites/kashmirhill/2013/10/09/godaddy-pulls-lavabits-security-creds-becaus
 
 ---
 
-"GoDaddy Pulls Lavabit's Security Creds Because The FBI Got Ahold Of Its Encryption Keys - Forbes" 
+

@@ -13,4 +13,4 @@ path: /2011/03/introducing-page-speed-online-with.html
 
 ---
 
-RT @mattcutts: Google releases free tool to help speed up websites:  <-- I scored 95/100! (WordPress powered)
+

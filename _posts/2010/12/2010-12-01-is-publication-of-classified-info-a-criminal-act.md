@@ -13,4 +13,4 @@ path: /blog/secrecy/2010/09/public_class.html
 
 ---
 
-3 interesting news pieces on #WikiLeaks & the First Amendment
+

@@ -14,4 +14,4 @@ query:
     v: "afMyH6CXiBc"
 ---
 
-Do you spend a couple hours a week filling in metadata? Save time with this helpful preset #tutorial! 
+

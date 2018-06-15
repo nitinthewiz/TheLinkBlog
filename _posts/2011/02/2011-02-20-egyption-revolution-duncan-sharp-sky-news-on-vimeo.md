@@ -13,4 +13,4 @@ path: /20015417
 
 ---
 
-Amazing footage from Egypt by Duncan Sharp of SkyNews 
+

@@ -13,4 +13,4 @@ path: /2011/05/10/scenes-from-minnebar-2011/
 
 ---
 
-It's done - my blog entry, "Scenes from #MinneBar 2011":  #in #BarCamp cc @BarCampTour
+

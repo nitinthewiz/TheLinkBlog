@@ -14,4 +14,4 @@ query:
     img: "1"
 ---
 
-So interesting: "Approval By Numbers: How Obama Compares To Past Presidents" 
+

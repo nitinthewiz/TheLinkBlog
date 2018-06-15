@@ -13,4 +13,4 @@ path: /2013/05/03/mediawiki-statistics-and-panics-status-board/
 
 ---
 
-Something fun I made at work! Using the MediaWiki API to show statistics using @panic Status Board. 
+

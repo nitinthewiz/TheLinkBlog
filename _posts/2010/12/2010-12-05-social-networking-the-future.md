@@ -13,5 +13,4 @@ path: /2010/12/05/social-networking-future/
 
 ---
 
-Provocative piece by @msuster stacks, layers & future of social networking
 

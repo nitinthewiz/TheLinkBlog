@@ -13,4 +13,4 @@ path: /2011/01/14/minnedemo-screams-diverse-developer-community/
 
 ---
 
-New post: Minnedemo Screams Diverse Developer Community 
+

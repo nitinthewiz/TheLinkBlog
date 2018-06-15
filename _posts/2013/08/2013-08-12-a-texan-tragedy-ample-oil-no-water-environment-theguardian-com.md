@@ -13,4 +13,4 @@ path: /environment/2013/aug/11/texas-tragedy-ample-oil-no-water
 
 ---
 
-.     No words
+

@@ -13,4 +13,4 @@ path: /2010/12/16/human-rights-organizations-worldwide-decry-attacks-on-freedom-
 
 ---
 
-Human Rights Organizations Worldwide Decry Attacks on Freedom of Expression   #wikileaks #netfreedom
+

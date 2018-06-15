@@ -13,4 +13,4 @@ path: /blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-hard
 
 ---
 
-Tumblr architecture  awesome stuff from @bmatheny and team!
+

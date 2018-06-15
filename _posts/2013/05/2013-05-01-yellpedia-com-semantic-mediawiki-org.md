@@ -13,4 +13,4 @@ path: /wiki/Yellpedia.com
 
 ---
 
-Congratulations to Yellpedia, the Semantic #MediaWiki #wiki of the month for May 2013 
+

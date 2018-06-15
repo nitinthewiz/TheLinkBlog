@@ -13,4 +13,4 @@ path: /deeplinks/2010/12/lawmakers-and-legal-experts-call-for-restraint
 
 ---
 
-Major themes of congressional hearing on #wikileaks: free speech, excessive secrecy, restraint  #WLHearing
+

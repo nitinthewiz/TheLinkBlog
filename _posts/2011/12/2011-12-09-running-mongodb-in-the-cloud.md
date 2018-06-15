@@ -13,4 +13,4 @@ path: /fehguy/running-mongodb-in-the-cloud
 
 ---
 
-Deck from #mongosv about how @wordnik runs mongodb in the cloud.  Now back to that down physical server 
+

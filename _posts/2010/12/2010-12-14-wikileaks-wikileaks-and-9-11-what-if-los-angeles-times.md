@@ -13,4 +13,4 @@ path: /2010/oct/15/opinion/la-oe-rowley-wikileaks-20101015
 
 ---
 
-Tragic. And worth considering. '#WikiLeaks and 9/11: What if?' 
+

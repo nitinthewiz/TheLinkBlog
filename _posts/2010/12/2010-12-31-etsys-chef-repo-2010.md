@@ -13,4 +13,4 @@ path: /2010/12/31/etsys-chef-repo-2010/
 
 ---
 
-One year of Etsy's Chef repo visualized via gource:   #devops #infoviz
+

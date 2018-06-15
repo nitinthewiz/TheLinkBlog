@@ -13,4 +13,4 @@ path: /lightroomjournal/2012/01/dng-history-and-summary.html
 
 ---
 
-Barry Pearson has recently posted a number of blog posts outlining his experience learning and writing about the DNG format since it was introduced.
+

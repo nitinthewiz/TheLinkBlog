@@ -13,4 +13,4 @@ path: /kb/otherhelp/build-a-java-web-stack
 
 ---
 
-Building a fully automated Java Web Stack with @Opscode Chef on #EC2  #opschef #aws
+

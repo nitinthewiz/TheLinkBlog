@@ -13,4 +13,4 @@ path: /2011/03/why-i-am-never-going-to-own-a-home-again/
 
 ---
 
-feeling better about my high rent. RT @jaltucher: Why I will NEVER own a Home Again:  $$
+

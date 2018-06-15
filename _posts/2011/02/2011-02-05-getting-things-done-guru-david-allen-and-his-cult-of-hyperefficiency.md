@@ -14,4 +14,4 @@ query:
     currentPage: "all"
 ---
 
-I follow the Getting Things Done system. Yes, it's a cult (). The master says purge ToDo lists weekly. So today I will.
+

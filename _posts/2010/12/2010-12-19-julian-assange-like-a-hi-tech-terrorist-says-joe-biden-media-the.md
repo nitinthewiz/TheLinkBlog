@@ -13,4 +13,4 @@ path: /media/2010/dec/19/assange-high-tech-terrorist-biden
 
 ---
 
-Vice Pres. Biden calls Assange a "high-tech terrorist" -  well, investigative journalism *is* terrorizing world leaders. 
+

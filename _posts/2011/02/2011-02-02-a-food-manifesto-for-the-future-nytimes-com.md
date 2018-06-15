@@ -13,4 +13,4 @@ path: /2011/02/01/a-food-manifesto-for-the-future/
 
 ---
 
-Bravo to @MarkBittman's manifesto for the future (of food)!  Yes, to some form of Home Ec making a come back!
+

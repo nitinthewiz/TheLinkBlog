@@ -13,4 +13,4 @@ path:
 
 ---
 
-I love the convenience & security of Duo Security for 2-factor authentication. I use the @duosec WordPress plugin on 
+

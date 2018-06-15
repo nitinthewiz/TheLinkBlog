@@ -13,4 +13,4 @@ path: /fvk/2013/10/14/fox-valley-kubb-radio-episode-6-planet-kubb
 
 ---
 
-Planet Kubb will be guests on @FoxValleyKubb #Kubb show in 1 hour! 
+

@@ -13,4 +13,4 @@ path: /2009/03/five-tips-for-citizen-journalism-from-propublicas-new-crowdsorcer
 
 ---
 
-RT @alansoon: Great tips on crowd sourcing in journalism by ProPublica's new "Editor of Distributed Reporting." 
+

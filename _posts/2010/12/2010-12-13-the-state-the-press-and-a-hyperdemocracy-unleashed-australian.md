@@ -13,4 +13,4 @@ path: /unleashed/42148.html
 
 ---
 
-... @mpesce thinks the state and the new hyperconnected press hold a knife at each other's throats:  <--- Recommended.
+

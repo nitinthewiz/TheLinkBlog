@@ -13,4 +13,4 @@ path: /2012/01/25/how-does-ravelry-make-money/
 
 ---
 
-A really terrific blog post by Ravelry to its users about how they keep the lights on: 
+

@@ -13,4 +13,4 @@ path:
 
 ---
 
-Looking to protect your online privacy? Sign up for a free trial at 
+

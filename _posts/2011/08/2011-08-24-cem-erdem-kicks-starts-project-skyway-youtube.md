@@ -14,4 +14,4 @@ query:
     v: "qdeSjUYSwCk"
 ---
 
-@cemerdem speaks to over 300 attendees at the kick-off party hosted at @CoCoMSP in the Mpls #BrainExchange   ^RR
+

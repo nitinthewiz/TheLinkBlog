@@ -13,4 +13,4 @@ path: /the-colbert-report-videos/406796/january-24-2012/grim-colberty-tales-with
 
 ---
 
-Stop everything you are doing. Watch Colbert interview Maurice Sendak. What happens 6mins in alone makes it worth it. 
+

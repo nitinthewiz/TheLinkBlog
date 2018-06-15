@@ -13,4 +13,4 @@ path: /news/opinion/article_2f63a988-60f1-565f-9469-0455cc1db500.html
 
 ---
 
-Let's have an adult conversation on the nation's debt 
+

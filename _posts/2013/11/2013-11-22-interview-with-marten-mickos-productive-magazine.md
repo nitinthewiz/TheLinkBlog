@@ -13,4 +13,4 @@ path: /15/interview-with-marten-mickos
 
 ---
 
-For a distributed team to work, "as the leader, you must go all in. You must be entirely online." -- @martenmickos 
+

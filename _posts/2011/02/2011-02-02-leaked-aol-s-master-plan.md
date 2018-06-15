@@ -13,4 +13,4 @@ path: /the-aol-way
 
 ---
 
-Your assignment this week is to study with a cool eye "The AOL Way," a leaked plan for how to profit from editorial work. 
+

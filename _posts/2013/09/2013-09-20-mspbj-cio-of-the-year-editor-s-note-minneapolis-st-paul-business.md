@@ -13,4 +13,4 @@ path: /twincities/news/2013/09/20/cio-of-the-year-editors-note.html
 
 ---
 
-2013 CIO of the year: Meet the honorees - @mspbjnews @mspbjreilly 
+

@@ -13,4 +13,4 @@ path: /story/community-broadband/
 
 ---
 
-We need you for this. Please help. RT @fixcongress: Stop cable from stopping community broadband:  #rootstrikers”
+

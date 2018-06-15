@@ -15,4 +15,4 @@ query:
     v: "8rwsuXHA7RA"
 ---
 
-It's times like these that I love how YouTube has it all.  Jobs narrates "The Crazy Ones" TV spot which never aired: 
+

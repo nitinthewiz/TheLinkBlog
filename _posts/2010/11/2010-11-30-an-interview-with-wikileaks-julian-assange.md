@@ -13,4 +13,4 @@ path: /andygreenberg/2010/11/29/an-interview-with-wikileaks-julian-assange/
 
 ---
 
-In my assessment a must read, if you haven't yet: An Interview With WikiLeaks’ Julian Assange at Forbes 
+

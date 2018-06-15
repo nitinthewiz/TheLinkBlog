@@ -15,7 +15,6 @@ path: /2011/03/anatomy_of_a_crushing/
 
 A technical writeup of December's great Delicious stampede, as seen from the Pinboard servers.
 
-<blockquote>
-On December 16th Yahoo held an all-hands meeting to rally the troops after a big round of layoffs. Around 11 AM someone at this meeting showed a slide with a couple of Yahoo properties grouped into three categories, one of which was ominously called "sunset". The most prominent logo in the group belonged to Delicious, our main competitor. Milliseconds later, the slide was on the web, and there was an ominous thundering sound as every Delicious user in North America raced for the exit.
-</blockquote>
+> On December 16th Yahoo held an all-hands meeting to rally the troops after a big round of layoffs. Around 11 AM someone at this meeting showed a slide with a couple of Yahoo properties grouped into three categories, one of which was ominously called "sunset". The most prominent logo in the group belonged to Delicious, our main competitor. Milliseconds later, the slide was on the web, and there was an ominous thundering sound as every Delicious user in North America raced for the exit.
+
 

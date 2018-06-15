@@ -14,4 +14,4 @@ query:
     p: "370"
 ---
 
-Unbelievably, the President of the Society of Prof'l Journalists makes the same error re: Wikileaks dumping 250,000 cables 
+

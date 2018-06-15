@@ -13,4 +13,4 @@ path: /
 
 ---
 
- - a Semantic MediaWiki directory of semantic web resources:  (via @LinkedWiki)
+

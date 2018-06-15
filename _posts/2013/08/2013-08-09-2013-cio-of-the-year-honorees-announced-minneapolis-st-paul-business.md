@@ -13,4 +13,4 @@ path: /twincities/news/2013/08/09/2013-cio-of-the-year-awards.html
 
 ---
 
-Congrats to @_HealthPartners, @the_nerdery, @MN_Gastro & more RT @mspbjnews: 2013 CIO of the Year honorees announced. 
+

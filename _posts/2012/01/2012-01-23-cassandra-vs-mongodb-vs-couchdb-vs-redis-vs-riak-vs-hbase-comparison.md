@@ -13,4 +13,4 @@ path: /cassandra-vs-mongodb-vs-couchdb-vs-redis
 
 ---
 
-This NoSQL comparison list is rather handy: 
+

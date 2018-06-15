@@ -13,4 +13,4 @@ path: /2011/03/11/visualizing-a-todo-list-with-treemaps/
 
 ---
 
-Just read an interesting article by David Soergel about using treemaps to visualize his OmniFocus lists: 
+

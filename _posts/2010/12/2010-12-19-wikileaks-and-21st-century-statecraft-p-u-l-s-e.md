@@ -13,4 +13,4 @@ path: /2010/12/08/wikileaks-and-21st-century-statecraft/
 
 ---
 
-Wikileaks and the over-the-top hypocrisy of our State Department: Net freedom for thee but not for me  via @cshirky
+

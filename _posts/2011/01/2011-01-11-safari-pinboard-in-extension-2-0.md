@@ -13,4 +13,4 @@ path: /blog/2011/01/11/safari-pinboard-in-extension-2-0/
 
 ---
 
-Safari pinboard.in extension 2.0 with new features.
+

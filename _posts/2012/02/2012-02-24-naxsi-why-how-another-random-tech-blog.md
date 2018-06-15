@@ -14,4 +14,4 @@ query:
     p: "39"
 ---
 
-#naxsi #nginx #waf manifesto ! 
+

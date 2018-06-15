@@ -13,4 +13,4 @@ path: /2011/01/01/shirky-and-bady-2010s-best-wikileaks-coverage/
 
 ---
 
-John Bracken (@jsb) asked his network for the best Wikileaks posts in 2010 and this is what came back. 
+

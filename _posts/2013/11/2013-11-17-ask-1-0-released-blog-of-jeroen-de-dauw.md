@@ -13,4 +13,4 @@ path: /blog/2013/11/17/ask-1-0-released/
 
 ---
 
-Just released the first version of the Ask library!  @SemanticMW @wikidata #PHP
+

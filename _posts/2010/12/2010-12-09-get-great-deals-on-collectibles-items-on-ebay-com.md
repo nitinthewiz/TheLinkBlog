@@ -13,4 +13,4 @@ path: /electronicfrontierfoundation/m.html
 
 ---
 
-Get EFF #defcon 18 t-shirts and a signed poster on eBay! 
+

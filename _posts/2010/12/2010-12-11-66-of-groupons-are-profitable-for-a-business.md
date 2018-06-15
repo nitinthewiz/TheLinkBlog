@@ -13,4 +13,4 @@ path: /chart-of-the-day-groupon-promotions-2010-12
 
 ---
 
-Groupon is a runaway success, generating revenue at $2 billion annual run rate. But is it sustainable?
+

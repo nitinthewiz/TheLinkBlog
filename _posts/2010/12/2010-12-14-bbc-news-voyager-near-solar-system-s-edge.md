@@ -13,4 +13,4 @@ path: /news/science-environment-11988466
 
 ---
 
-BBC News - Voyager near Solar System's edge  (has less processing power than my iphone and running for 33 years)
+

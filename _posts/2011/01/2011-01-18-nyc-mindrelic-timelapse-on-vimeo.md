@@ -13,4 +13,4 @@ path: /18554749
 
 ---
 
-Agree.  Beautiful. RT @dsearls Wow:  by @mindrelic Just. F***ing. Terrific.
+

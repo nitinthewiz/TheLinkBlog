@@ -13,4 +13,4 @@ path: /jiaxinwang/facets-of-applied-smw
 
 ---
 
-My Tutorial slides at #SMWCon Fall 2011 Berlin: Facets of Applied Semantic MediaWiki 
+

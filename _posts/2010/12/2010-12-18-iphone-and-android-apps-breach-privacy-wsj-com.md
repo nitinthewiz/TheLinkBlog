@@ -13,4 +13,4 @@ path: /articles/SB10001424052748704694004576020083703574602
 
 ---
 
-101 apps: 56 transmit device ID without awareness/consent. 47 transmit location. 5 sent age, gender & personal details  
+

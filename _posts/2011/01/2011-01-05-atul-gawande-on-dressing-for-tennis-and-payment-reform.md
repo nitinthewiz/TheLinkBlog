@@ -13,4 +13,4 @@ path: /2011/01/atul-gawande-exercise/
 
 ---
 
-Speaking of @Atul_Gawande, here he is talking about his fitness routine (and also payment reform in MA): 
+

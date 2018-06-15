@@ -13,4 +13,4 @@ path: /women-in-tech/2011/advocates/sona-mehring
 
 ---
 
-Before there was Facebook, MySpace, or Tumblr, there was CaringBridge, an online community that serves up free, easy-to-create websites for people dealing with health crises. CaringBridge was created in 1997 after friends of founder and computer scientist Sona Mehring had a premature baby.
+

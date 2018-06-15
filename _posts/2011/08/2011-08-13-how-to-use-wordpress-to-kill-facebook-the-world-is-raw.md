@@ -13,4 +13,4 @@ path: /how-to-use-wordpress-to-kill-facebook/
 
 ---
 
-Post-WCSD epiphany: How to use WordPress to Kill Facebook: . "You must account for yourself & your privacy." #wcsf
+

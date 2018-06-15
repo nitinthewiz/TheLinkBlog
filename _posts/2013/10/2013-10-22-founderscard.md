@@ -13,4 +13,4 @@ path: /
 
 ---
 
-I want to tell the world I'm a douchebag, but Google glasses are clunky. Is there a wallet-sized alternative? YES 
+

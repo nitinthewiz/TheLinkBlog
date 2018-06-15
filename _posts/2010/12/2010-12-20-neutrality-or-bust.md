@@ -13,4 +13,4 @@ path: /2010/12/19/neutrality/
 
 ---
 
-Neutrality or bust : A case for open rules of-the-road on the net ... by @borthwick  via @techcrunch #netneutrality
+

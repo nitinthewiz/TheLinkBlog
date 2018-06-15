@@ -13,4 +13,4 @@ path: /eric/thoughts/2011/01/03/reset-revisited/
 
 ---
 
-Eric Meyer revisits his classic CSS Reset 
+

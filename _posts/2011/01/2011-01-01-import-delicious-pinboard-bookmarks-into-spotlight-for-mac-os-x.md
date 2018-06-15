@@ -13,4 +13,4 @@ path: /2011/01/01/import-deliciouspinboard-bookmarks-into-spotlight-for-mac-os-x
 
 ---
 
-RT @Skyzyx: Import Delicious/Pinboard Bookmarks Into Spotlight for Mac OS X. 
+

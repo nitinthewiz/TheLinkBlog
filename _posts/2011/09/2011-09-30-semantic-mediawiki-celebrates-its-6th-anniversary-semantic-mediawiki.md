@@ -13,4 +13,4 @@ path: /wiki/Semantic_MediaWiki_celebrates_its_6th_anniversary
 
 ---
 
-Semantic MediaWiki celebrates its 6th anniversary! See the news item →  #SemanticMW #SMW #awesome
+

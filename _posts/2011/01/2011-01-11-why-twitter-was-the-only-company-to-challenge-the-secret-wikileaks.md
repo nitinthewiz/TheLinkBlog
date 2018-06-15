@@ -13,4 +13,4 @@ path: /1716100/why-twitter-was-the-only-company-to-challenge-the-secret-wikileak
 
 ---
 
-The government has almost certainly made secret requests for WikiLeaks-related material from other companies. But only Twitter (successfully at least) fought to have to have those orders brought into the open. Here’s why.
+

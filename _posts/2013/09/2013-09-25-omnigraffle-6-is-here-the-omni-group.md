@@ -13,4 +13,4 @@ path: /blog/omnigraffle-6-is-here
 
 ---
 
-OmniGraffle 6 is here! 
+

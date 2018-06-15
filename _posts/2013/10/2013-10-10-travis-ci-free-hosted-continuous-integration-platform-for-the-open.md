@@ -13,4 +13,4 @@ path: /wikimedia/mediawiki-extensions-Wikibase/builds
 
 ---
 
-It's over 1000 Wikibase builds on @TravisCI!  #Wikidata #MediaWiki #ContinuousIntergarion
+

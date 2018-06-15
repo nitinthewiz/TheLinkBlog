@@ -13,4 +13,4 @@ path: /news/2011/01/14/minnedemo-winter-2011/
 
 ---
 
-A New Level for #Minnedemo:  [videos]
+

@@ -13,4 +13,4 @@ path: /wikipedia/mediawiki/wiki/Extension:SemanticSignup
 
 ---
 
-Semantic Signup 0.3 released and docs updated!  Testing appreciated :) #MediaWiki #SMW #Wiki
+

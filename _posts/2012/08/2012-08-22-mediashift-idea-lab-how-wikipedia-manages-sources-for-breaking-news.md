@@ -13,4 +13,4 @@ path: /idealab/2012/08/how-wikipedia-manages-sources-for-breaking-news232.html
 
 ---
 
-Only if you geek out on such things. How the volunteer editors at Wikipedia evaluate sources when there's breaking news 
+

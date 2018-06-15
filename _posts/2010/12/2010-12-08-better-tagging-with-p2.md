@@ -13,4 +13,4 @@ path: /2010/12/09/better-tagging-with-p2/
 
 ---
 
-Our group collaboration WordPress theme, P2, now w/ auto-complete for tags and users - makes notifications a snap: 
+

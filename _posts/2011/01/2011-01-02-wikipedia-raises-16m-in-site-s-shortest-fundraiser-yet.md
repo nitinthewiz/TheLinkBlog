@@ -13,4 +13,4 @@ path: /article2/0,2817,2374963,00.asp
 
 ---
 
-Wikipedia's 'Jimmy banner' raises $16M from 500,000+ people  (via PC Mag)
+

@@ -13,4 +13,4 @@ path: /thomaserickson/personal-information-ecologies-erickson
 
 ---
 
-Personal information ecologies, a keynote for the PIM workshop at CSCW:  via @slideshare
+

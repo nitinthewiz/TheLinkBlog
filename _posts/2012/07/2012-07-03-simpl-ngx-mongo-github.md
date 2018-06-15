@@ -13,4 +13,4 @@ path: /simpl/ngx_mongo
 
 ---
 
-New module by Piotr Sikora: non-blocking upstream module for Nginx to connect to MongoDB 
+

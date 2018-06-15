@@ -13,4 +13,4 @@ path: /
 
 ---
 
-When you need to compare two text files to see, say, what edits have been made, there is no better tool then this: 
+

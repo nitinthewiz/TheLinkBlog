@@ -13,4 +13,4 @@ path: /
 
 ---
 
-Angry Birds for Chrome, no Flash involved.  The future is the Web: 
+

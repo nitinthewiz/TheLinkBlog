@@ -14,4 +14,4 @@ query:
     eref: "twitter_feed"
 ---
 
-Reminds me of the @tstmedia lounge come 5:30pm! “@si_photos: U.S. Olympic Table Tennis Trials ”
+

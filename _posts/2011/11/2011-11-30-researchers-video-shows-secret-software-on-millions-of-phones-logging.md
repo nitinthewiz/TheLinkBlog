@@ -13,4 +13,4 @@ path: /threatlevel/2011/11/secret-software-logging-video/
 
 ---
 
-Oh. My. God. "Researcher’s Video Shows Secret Software on Millions of Phones Logging Everything" 
+

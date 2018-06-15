@@ -13,4 +13,4 @@ path: /deeplinks/2011/01/social-media-and-law-enforcement-who-gets-what
 
 ---
 
-When can law enforcement get your data from Facebook, Twitter, etc? New documents and surprising comparisons 
+

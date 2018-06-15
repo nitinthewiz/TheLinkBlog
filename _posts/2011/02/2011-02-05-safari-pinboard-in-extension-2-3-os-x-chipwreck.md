@@ -13,4 +13,4 @@ path: /blog/2011/02/05/safari-pinboard-in-extension-2-3/
 
 ---
 
-RT @mario_fischer: Safari pinboard.in extension 2.3 (update) - with https now  via @mario_fischer #safari #extension
+

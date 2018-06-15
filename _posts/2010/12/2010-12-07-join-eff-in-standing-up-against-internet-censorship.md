@@ -13,4 +13,4 @@ path: /deeplinks/2010/12/join-eff-in-standing-up-against-internet-censorship
 
 ---
 
-Join @EFF in Standing up Against Internet Censorship  #WikiLeaks #NetFreedom
+

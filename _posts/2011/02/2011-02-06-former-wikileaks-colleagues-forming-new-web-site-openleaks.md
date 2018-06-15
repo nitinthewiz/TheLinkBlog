@@ -15,4 +15,4 @@ query:
     pagewanted: "all"
 ---
 
-According to  Wikileaks is dead as an encrypted drop box, unable to operate because of defections and Assange's troubles.
+

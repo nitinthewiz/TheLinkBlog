@@ -13,4 +13,4 @@ path: /slides/smwcon/2013fall/arch/
 
 ---
 
-The slides from my SMW architecture presentation can be found at  #SMWCon
+

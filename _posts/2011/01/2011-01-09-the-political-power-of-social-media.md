@@ -13,4 +13,4 @@ path: /articles/67038/clay-shirky/the-political-power-of-social-media
 
 ---
 
-For realism about the Net as a force for change in unfree countries I recommend this Clay Shirky essay in Foreign Affairs 
+

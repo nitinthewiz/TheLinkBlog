@@ -13,4 +13,4 @@ path: /2011/01/05/defining-and-managing-contexts-in-omnifocus/
 
 ---
 
-Not sure how to put contexts to use in your workflow? @Simplicitybliss has some great advice here: 
+

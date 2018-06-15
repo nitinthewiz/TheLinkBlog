@@ -13,4 +13,4 @@ path: /doc/52870229/Lars-Leafblad-Association-of-Fundraising-Professionals-Artic
 
 ---
 
-Wrote article on how to respond when phone call comes from an executive recruiter -> PDF version here: 
+

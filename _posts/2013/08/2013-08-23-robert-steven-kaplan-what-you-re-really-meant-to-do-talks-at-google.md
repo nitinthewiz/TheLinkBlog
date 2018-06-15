@@ -14,4 +14,4 @@ query:
     v: "8sY-qwEYjs0"
 ---
 
-Great talk "What You're Really Meant to Do" 
+

@@ -1,6 +1,6 @@
 ---
-title: "smallisbeautiful.pdf - Google Drive"
-slug: smallisbeautiful-pdf-google-drive
+title: "Small is Beautiful: Diseconomies of Scale/Concentration - Google Drive"
+slug: small-is-beautiful-diseconomies-of-scale-concentration-google-drive
 date: 2013-10-24 07:58:43 -0500
 category: 
 external-url: https://docs.google.com/file/d/0B_31K_MP92hUdERCV2tqMWhMTUk/edit?usp=sharing
@@ -14,4 +14,4 @@ query:
     usp: "sharing"
 ---
 
-Some people talk big but think small, not Taleb. Start your big day small; read Taleb's "Small is Beautiful" 
+

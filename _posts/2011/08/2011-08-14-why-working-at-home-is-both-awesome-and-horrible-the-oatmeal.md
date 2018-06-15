@@ -13,4 +13,4 @@ path: /comics/working_home
 
 ---
 
-When I start working 60+ hours a week, I reach for the yoga.  Feeling human again.  Helps avoid this: 
+

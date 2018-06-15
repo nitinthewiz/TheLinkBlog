@@ -19,4 +19,4 @@ query:
     share_url: "http://r-i.co/XYx"
 ---
 
-Really? RT @SAPNorthAmerica: What is #SaaS? Learn more about this ground-breaking #technology: 
+

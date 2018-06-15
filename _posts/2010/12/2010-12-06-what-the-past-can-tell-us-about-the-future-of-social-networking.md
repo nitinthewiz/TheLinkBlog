@@ -13,4 +13,4 @@ path: /2010/12/05/what-the-past-can-tell-us-about-the-future-of-social-networkin
 
 ---
 
-Excellent post from @msuster goes to my point on the need for us to route around certain companies  /cc @jsayre
+

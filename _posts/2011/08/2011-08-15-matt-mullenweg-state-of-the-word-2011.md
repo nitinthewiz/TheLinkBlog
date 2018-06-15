@@ -1,6 +1,6 @@
 ---
-title: "WordPress.tv"
-slug: wordpress-tv
+title: "Matt Mullenweg: State of the Word 2011"
+slug: matt-mullenweg-state-of-the-word-2011
 date: 2011-08-15 20:26:34 -0500
 category: 
 external-url: http://wordpress.tv/2011/08/14/matt-mullenweg-state-of-the-word-2011/

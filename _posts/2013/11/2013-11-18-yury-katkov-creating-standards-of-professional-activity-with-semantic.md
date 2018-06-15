@@ -14,4 +14,4 @@ query:
     v: "uFF23pfZvb4"
 ---
 
- my talk at SMWCon Fall 2013. Standards! SMW! Demon hunters!
+

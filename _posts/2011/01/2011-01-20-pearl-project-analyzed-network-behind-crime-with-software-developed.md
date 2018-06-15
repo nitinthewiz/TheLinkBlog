@@ -13,4 +13,4 @@ path: /2011/01/20/2188/pearl-project-analyzed-network-behind-crime-software-deve
 
 ---
 
-An exhaustive account of the kidnapping and murder of reporter Danny Pearl was published today  Years of work behind it.
+

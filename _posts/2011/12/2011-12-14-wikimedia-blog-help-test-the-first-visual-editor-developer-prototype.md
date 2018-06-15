@@ -13,4 +13,4 @@ path: /2011/12/13/help-test-the-first-visual-editor-developer-prototype/
 
 ---
 
-VisualEditor: a workable WYSIWYG editor actually coming to MediaWiki? Could it be? 
+

@@ -14,4 +14,4 @@ query:
     p: "4503"
 ---
 
-20 great quotes from photographer Ansel Adams.  #togquote
+

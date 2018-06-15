@@ -14,4 +14,4 @@ query:
     _r: "3"
 ---
 
-80 percent of antibiotics in the United States go to livestock, not humans. And this is killing us.  by @NickKristof
+

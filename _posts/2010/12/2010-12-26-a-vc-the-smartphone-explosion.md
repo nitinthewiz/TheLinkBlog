@@ -13,4 +13,4 @@ path: /a_vc/2010/12/the-smartphone-explosion.html
 
 ---
 
-Wow...read this and let it sink in: "A VC: The Smartphone Explosion": 
+

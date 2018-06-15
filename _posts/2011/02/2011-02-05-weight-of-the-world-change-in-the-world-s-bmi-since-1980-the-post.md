@@ -13,4 +13,4 @@ path: /wp-srv/special/health/weight-of-the-world-bmi/
 
 ---
 
-RT @pkedrosky: Unsettling visualization of country-by-country increasing BMI over last 30 years - 
+

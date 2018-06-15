@@ -13,4 +13,4 @@ path: /articles/my-2011-food-resolutions-with-a-local-twist
 
 ---
 
-Patch's Marsha Trainer makes some local food choices for 2011. We all could use more sustainability and good wine! 
+

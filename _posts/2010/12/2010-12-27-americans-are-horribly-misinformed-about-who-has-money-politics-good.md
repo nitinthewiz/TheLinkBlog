@@ -13,4 +13,4 @@ path: /post/americans-are-horribly-misinformed-about-who-has-money/
 
 ---
 
-Americans are horribly misinformed about who has money. 
+

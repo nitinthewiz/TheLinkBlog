@@ -13,4 +13,4 @@ path: /articles/eliminatingSalesCommissions/
 
 ---
 
-Sales commissions were a big factor in me coming to hate proserv:  ILU @tw_studios
+

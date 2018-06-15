@@ -14,4 +14,4 @@ query:
     reflink: "MW_news_stmp"
 ---
 
-If you care about an open internet, read this: RT @timberners_lee: #comcast #fail  #netneutrality
+

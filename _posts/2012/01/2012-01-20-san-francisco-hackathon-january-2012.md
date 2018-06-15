@@ -13,4 +13,4 @@ path: /wiki/San_Francisco_Hackathon_January_2012
 
 ---
 
-This is a free event put on by the Wikimedia Foundation, the non-profit that runs Wikipedia. You'll get a brief overview of all the key technologies you need, and then you'll have a weekend to build something amazing and make it open source. At the end, show it off and take the next step to get it 
+

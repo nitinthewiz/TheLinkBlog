@@ -13,4 +13,4 @@ path: /news/hank-paulson-tipped-goldman-led-plunge-protection-team-about-fannie-
 
 ---
 
-Hank Paulson Tipped Off The Goldman-Led "Plunge Protection Team" About Fannie Bankruptcy 7 Weeks In Advance | ZeroHedge 
+

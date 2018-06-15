@@ -15,4 +15,4 @@ query:
     feature: "youtu.be"
 ---
 
-This google interview with Lady Gaga is REALLY GOOD.  REALLY.   She's a total nerd.  Love it.  
+

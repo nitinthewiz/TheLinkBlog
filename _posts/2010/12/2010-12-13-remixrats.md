@@ -13,4 +13,4 @@ path: /
 
 ---
 
-@lessig  I have compiled the work of some of those remix artists. This is fascinating stuff.
+
