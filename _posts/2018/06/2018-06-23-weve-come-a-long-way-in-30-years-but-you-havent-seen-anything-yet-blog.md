@@ -1,5 +1,5 @@
 ---
-title: "We’ve Come a Long Way in 30 Years (But You Haven’t Seen Anything Yet!)—Wolfram Blog"
+title: "We’ve Come a Long Way in 30 Years (But You Haven’t Seen Anything Yet!) — Wolfram Blog"
 slug: weve-come-a-long-way-in-30-years-but-you-havent-seen-anything-yet-blog
 date: 2018-06-23 05:53:19 -0500
 category: 
