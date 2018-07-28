@@ -2,7 +2,7 @@
 title: "The P Rules"
 slug: the-p-rules
 date: 2018-07-17 22:54:57 -0500
-category: 
+category: _feature
 external-url: http://boz.com/articles/p-rules.html
 hash: 908197c869fff805832496feb7638a19
 year: 2018

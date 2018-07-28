@@ -2,7 +2,7 @@
 title: "devopsdays Minneapolis 2018 Keynote - Amy Patton, SPS Commerce"
 slug: devopsdays-minneapolis-2018-keynote-amy-patton-sps-commerce
 date: 2018-07-18 22:28:36 -0500
-category: 
+category: _feature
 external-url: https://www.youtube.com/watch?v=pMPHqlaocPQ&t=1h5m58s
 hash: b3ab07e0f2f7f1c32c616489f9118048
 year: 2018
