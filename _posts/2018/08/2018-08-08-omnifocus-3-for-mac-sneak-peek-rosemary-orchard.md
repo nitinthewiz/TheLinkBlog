@@ -1,6 +1,6 @@
 ---
-title: "OmniFocus 3 for Mac Sneak Peek —Rosemary Orchard “I am once again lucky enough to be in the early preview for OmniFocus 3 - this time on the Mac!”"
-slug: omnifocus-3-for-mac-sneak-peek-rosemary-orchard-i-am-once-again-lucky
+title: "OmniFocus 3 for Mac Sneak Peek —Rosemary Orchard"
+slug: omnifocus-3-for-mac-sneak-peek-rosemary-orchard
 date: 2018-08-08 19:23:45 -0500
 category: _brief
 external-url: https://www.rosemaryorchard.com/blog/omnifocus-3-mac-sneak-peek
