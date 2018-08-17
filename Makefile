@@ -21,7 +21,7 @@ profile:
 	
 refresh:
 	@echo "\nDeleting all posts..."
-	rm -r _posts/*
+	rm -rf _posts/*
 
 	@echo "\nGenerating posts..."
 	tools/generate_posts.py
@@ -33,7 +33,7 @@ refresh_push:
 	git pull
 
 	@echo "\nDeleting all posts..."
-	rm -r _posts/*
+	rm -rf _posts/*
 
 	@echo "\nGenerating posts..."
 	tools/generate_posts.py
