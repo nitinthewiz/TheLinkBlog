@@ -2,7 +2,7 @@
 title: "Working with timezones | David Turner says…"
 slug: working-with-timezones-david-turner-says
 date: 2018-08-15 20:12:11 -0500
-category: 
+category: _feature
 external-url: https://davecturner.github.io/2018/08/12/working-with-timezones.html
 hash: 0bc72cc3411e8c0a1e47ea678e4f9e96
 year: 2018
