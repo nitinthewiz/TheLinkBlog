@@ -13,4 +13,4 @@ path: /2016/06/take-a-gtd-challenge-around-your-stuff/
 
 ---
 
-Date: Wednesday, June 29, 2016 by GTD Times Staff Things do not get rid of themselves. There seems to be a universal law of physics that goes like this: things that exist want to keep
+Things do not get rid of themselves. There seems to be a universal law of physics that goes like this: things that exist want to keep
