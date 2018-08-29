@@ -17,7 +17,7 @@ ICS: [{{ site.url }}{% link feeds/feed.ics %}]({{ site.url }}{% link feeds/feed.
 
 ## Full Archive
 
-Link Thing is also a large database of {{ site.posts | size }} links! If you are curious to play with this database and so some analysis you can easily download the entire dataset.
+Link Thing is also a large database of {{ site.posts | size }} links! If you are curious to play with this database and do some analysis you can easily download the entire dataset.
 
 The CSV file is the easiest to put into any spreadsheet and do quick analysis.
 
