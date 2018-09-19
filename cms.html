@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 <html>
 
@@ -109,6 +110,15 @@
 		}
 		return filename
 	}
+	
+	function file_path(){
+		var mm = d.getMonth()+1 ;
+		if (mm < 10) mm = '0' + mm ;
+		var yyyy = d.getFullYear() ;
+		file_path = yyyy + '/' + mm + '/';
+		return file_path
+	}
+
 	function post_date() {
 		var d = new Date()
 		return d.toISOString()
@@ -135,7 +145,7 @@
 		$.ajax({
 			dataType: "json",
 			contentType: 'application/json; charset=UTF-8',
-			url: API_NEW_POST+post_file(title)+'.markdown',
+			url: API_NEW_POST+file_path()+post_file(title)+'.markdown',
 			type: "PUT",
 			data: JSON.stringify({
 				content: btoa(unescape(encodeURIComponent(p_body))),
