@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 <html>
 
@@ -10,6 +9,7 @@ layout: default
 	<title>Jekyll+GitHub API+JS=Dynamic CMS :-)</title>
 	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/js/strftime.js" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
@@ -30,6 +30,7 @@ layout: default
 	<form id="theform" method="get">
 		<div class="form-group">
 			<input type="text" class="form-control" placeholder="Post Title" id="p_title" name="title">
+			<input type="text" class="form-control" placeholder="Post Title" id="p_external_url" name="external_url" value="http://www.nitinkhanna.com">
 		</div>
 		<div class="form-group">
 			<textarea class="form-control" rows="10" id="p_body" placeholder="Type your post here." name="body"></textarea>
@@ -73,6 +74,10 @@ layout: default
 	</div>
 
 	<script>
+
+	var d = new Date();
+	var dd = d.getDate();
+
 	function get_query(){
 		// Source: http://fellowtuts.com/jquery/getting-query-string-values-in-javascript/
 		var url = document.location.href;
@@ -90,9 +95,7 @@ layout: default
 		return text;
 	}
 
-	function post_file(title) {
-		var d = new Date()
-		var dd = d.getDate()
+	function post_file(title) {	
 		if (dd < 10) dd = '0' + dd ;
 		var mm = d.getMonth()+1 ;
 		if (mm < 10) mm = '0' + mm ;
@@ -110,8 +113,29 @@ layout: default
 		}
 		return filename
 	}
+
+	function get_slug(title){
+		// if (dd < 10) dd = '0' + dd ;
+		// var mm = d.getMonth()+1 ;
+		// if (mm < 10) mm = '0' + mm ;
+		// var yyyy = d.getFullYear() ;
+		// filename = yyyy + '-' + mm + '-' + dd ;
+		filename = '';
+		if (!title) {
+			filename = filename + '-' + +d.getTime() ;
+		} else {
+			var slugified = title.toLowerCase().replace(/\W+/g, '-') ;
+			if (slugified != '-') {
+				filename = filename + '-' + slugified ;
+			} else {
+				filename = filename + '-' + d.getTime();
+			}
+		}
+		return filename	
+	}
 	
 	function file_path(){
+		// var d = new Date();
 		var mm = d.getMonth()+1 ;
 		if (mm < 10) mm = '0' + mm ;
 		var yyyy = d.getFullYear() ;
@@ -119,9 +143,18 @@ layout: default
 		return file_path
 	}
 
+	function get_month(){
+		var mm = d.getMonth()+1 ;
+		if (mm < 10) mm = '0' + mm ;
+		return mm
+	}
+
 	function post_date() {
-		var d = new Date()
-		return d.toISOString()
+		// var d = new Date()
+		// changing to the python strftime format used by Thingles, by using a new strftime
+		// js lib imported above. Let's hope it works!
+		// return d.toISOString();
+		return d.strftime('%Y-%m-%d %H:%M:%S %z');
 	}
 
 	var API_NEW_POST = 'https://api.github.com/repos/{{ site.github.repo }}/contents/_posts/' ;
@@ -130,11 +163,24 @@ layout: default
 		var user = $('#username').val() ;
 		var password = $('#password').val() ;
 		var title = $('#p_title').val() ;
+		var external_url = $('#p_external_url').val() ;
+
+		var loc = new URL(external_url);
 
 		var p_body = '---\n' ;
-		p_body = p_body + 'layout: post \n' ;
+		// disabling this because Thingles doesn't use layout
+		// p_body = p_body + 'layout: post \n' ;
 		p_body = p_body + 'title:  "' + title +'" \n';
+		p_body = p_body + 'slug:  "' + get_slug(title) +'" \n';
 		p_body = p_body + 'date:   '+ post_date() +' \n' ;
+		p_body = p_body + 'external-url:   '+ external_url +' \n' ;
+		p_body = p_body + 'year:   '+ d.getFullYear() +' \n' ;
+		p_body = p_body + 'month:   '+ get_month() +' \n' ;
+		
+		p_body = p_body + 'scheme:   '+ loc.protocol +' \n' ;
+		p_body = p_body + 'host:   '+ loc.host +' \n' ;
+		p_body = p_body + 'path:   '+ loc.pathname +' \n' ;
+		
 		/* Setting the category here is not the most elegant way...
 		p_body = p_body + 'categories: tests \n';
 		*/
@@ -187,6 +233,7 @@ layout: default
 		}
 		if (query_params['url']) {
 			src_body = src_body + '\n\n' + ' &#x2014;['+src_title+'](' + query_params['url'] + ')\n' ;
+			$('#p_external_url').val(query_params['url']) ;
 		}
 		$('#p_body').val(src_body) ;
 	}

@@ -1,7 +1,0 @@
----
-layout: post 
-title:  "testing" 
-date:   2018-09-19T22:14:11.218Z 
----
-
-this here is a test for cms.html. Let's see if it works! :) 
