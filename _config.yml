@@ -1,23 +1,22 @@
 
 # Basic
-title: Link Thing
-description: Links by Jamie Thingelstad
+title: The Link Blog
+description: Links by Nitin Khanna
 author:
-  name: Jamie Thingelstad
-  twitter: thingles
+  name: Nitin Khanna
+  twitter: nitinthewiz
 
 social:
-  twitter:          thingles
-  github:           thingles
-  linkedin:         jthingelstad
-  email:            jamie@thingelstad.com
-  microblog:        jthingelstad
-  pinboard:         thingles
+  twitter:          nitinthewiz
+  github:           nitinthewiz
+  linkedin:         link2nitin
+  email:            mail@nitinkhanna.com
+  microblog:        nitinkhanna
 
 url: https://links.thingelstad.com
 baseurl: ""
 
-timezone: America/Chicago
+timezone: America/Vancouver
 permalink: /:year/:month/:title/
 
 # Pagination
@@ -29,7 +28,7 @@ feed_posts:         50
 
 # SEO
 twitter:
-  username: thingles
+  username: nitinthewiz
 logo: /assets/logo/links-logo-grey-trans.png
 lang: en_US
 
@@ -62,3 +61,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+github:
+  repo: nitinthewiz/TheLinkBlog
+  branch: mine
