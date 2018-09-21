@@ -7,7 +7,7 @@ layout: null
   "author": {
     "name": {{ site.author.name | jsonify }},
     "url": "{{ site.url }}{{ site.baseurl }}{% link about/index.md %}",
-    "avatar": "https://s.gravatar.com/avatar/54e9f4f6495f7b7a218ae7051a173645?s=500"
+    "avatar": "https://www.gravatar.com/avatar/d21e628f17cd0e00a78848e0d3754699?s=500"
   },
   "description": {{ site.description | jsonify }},
   "home_page_url": "{{ site.url }}{{ site.baseurl }}",
