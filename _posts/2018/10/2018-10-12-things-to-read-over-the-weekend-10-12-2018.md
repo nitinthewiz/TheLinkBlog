@@ -18,6 +18,14 @@ path:   /
 
 [Workplace topology](https://clearleft.com/posts/workplace-topology) 
 
+[The Ghosts of the Glacier](https://www.gq.com/story/missing-parents-melting-glacier-swiss-alps)
+
+
+Inspiration -
+
+[Be the light or reflect it](https://austinkleon.com/2018/10/08/be-the-light-or-reflect-it/)
+
+
 Extra (reread) –
 
 [Software disenchantment](http://tonsky.me/blog/disenchantment/) - nice rant!
