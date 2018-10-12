@@ -2,7 +2,7 @@
 title:  "Things to read over the weekend 10/12/2018" 
 slug:  "things-to-read-over-the-weekend-10-12-2018" 
 date:   2018-10-12 11:31:41 -0700 
-external-url:   https://emit.nitinkhanna.com/ 
+external-url:   https://emit.nitinkhanna.com/2018/10/things-to-read-over-the-weekend-10-12-2018/ 
 year:   2018 
 month:   10 
 scheme:   https 
