@@ -15,13 +15,14 @@ Thread by @morganknutson -
 This is an excellent read on the pathos in Google from the point of view of a designer.
 
 There are two services I've seen that collect threads on twitter. I wonder which one you'd prefer -
-(threadreaderapp)[https://threadreaderapp.com/thread/1049523067506966529.html]
-(threader)[https://threader.app/thread/1049523067506966529]
+[threadreaderapp](https://threadreaderapp.com/thread/1049523067506966529.html)
+or
+[threader](https://threader.app/thread/1049523067506966529)
 
 Now that Workflow has been relabeled as Shortcuts, there are websites popping up that deal with sharing the same -
-(shortcutsgallery)[https://shortcutsgallery.com/?_sort=popular]
-(sharecuts)[https://sharecuts.app/]
+[shortcutsgallery](https://shortcutsgallery.com/?_sort=popular)
+[sharecuts](https://sharecuts.app/)
 
 People are really loving the dot app domains, it seems!
 
-We were having a conversation around offline reading, PDFs, notes, annotations and the such recently. I've been looking at (Polar)[https://getpolarized.io/] for a while now. Worth downloading and using?
+We were having a conversation around offline reading, PDFs, notes, annotations and the such recently. I've been looking at [Polar](https://getpolarized.io/) for a while now. Worth downloading and using?
