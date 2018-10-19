@@ -2,7 +2,7 @@
 title:  "Links for @2nipun" 
 slug:  "links-for-2nipun" 
 date:   2018-10-19 11:12:53 -0700 
-external-url:   https://emit.nitinkhanna.com/ 
+external-url:   https://emit.nitinkhanna.com/links-for-2nipun 
 year:   2018 
 month:   10 
 scheme:   https 
