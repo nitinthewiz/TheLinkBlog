@@ -12,7 +12,7 @@ path:   /
 
 Thread by @morganknutson -
 
-This is an excellent read on the pathos in Google from the point of view of a designer.
+This is an excellent read on the pathos in Google from the point of view of a designer. It's a twitter thread, so I've linked threadviews instead.
 
 There are two services I've seen that collect threads on twitter. I wonder which one you'd prefer -
 
