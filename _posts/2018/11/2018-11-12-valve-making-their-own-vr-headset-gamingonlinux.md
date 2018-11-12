@@ -10,4 +10,4 @@ host:   www.gamingonlinux.com
 path:   /articles/reports-valve-making-their-own-vr-hmd-and-apparently-a-new-vr-half-life.12943 
 ---
 
-@2nipun dude Valve VR!!! And a new Half Life!!!!!!!!
+.@2nipun dude Valve VR!!! And a new Half Life!!!!!!!!
