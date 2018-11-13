@@ -162,6 +162,7 @@ article .meta {
 article .host {
 	text-transform: uppercase;
 	padding-bottom: 6px;
+	font-size: 0.8em;
 }
 
 img.left {
