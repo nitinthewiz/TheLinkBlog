@@ -1,5 +1,5 @@
 ---
-title:  "#awesometool -> Kill the Newsletter!" 
+title:  This is an "#awesometool -> Kill the Newsletter!" 
 slug:  "-awesometool-kill-the-newsletter-" 
 date:   2018-12-05 16:17:46 -0800 
 external-url:   https://www.kill-the-newsletter.com/ 
