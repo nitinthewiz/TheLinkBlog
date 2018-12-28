@@ -23,10 +23,10 @@ layout: default
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
-		<div class="host">
+		<!-- <div class="host">
 			{% if post.scheme == 'https' %} <i class="fa fa-lock" aria-hidden="true"></i> {% endif %}
 			{{ post.host }}
-		</div>
+		</div> -->
 
 		<div class="post-content">{{ post.content }}</div>
 
