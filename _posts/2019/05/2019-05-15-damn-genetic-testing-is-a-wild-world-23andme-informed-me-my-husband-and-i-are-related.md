@@ -1,5 +1,5 @@
 ---
-title:  "Damn. Genetic testing is a wild world! -> "23andMe Informed Me My Husband and I Are Related"" 
+title:  "Damn. Genetic testing is a wild world! -> 23andMe Informed Me My Husband and I Are Related" 
 slug:  "damn-genetic-testing-is-a-wild-world-23andme-informed-me-my-husband-and-i-are-related-" 
 date:   2019-05-15 11:32:21 -0700 
 external-url:   https://www.thecut.com/2018/12/23andme-informed-me-my-husband-and-i-are-related.html 
