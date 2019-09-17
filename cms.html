@@ -201,7 +201,8 @@
 				branch: '{{ site.github.branch }}'
 			}),
 			beforeSend: function(xhr) {
-				xhr.setRequestHeader("Authorization", "Basic " + btoa(user+":"+password));
+				// xhr.setRequestHeader("Authorization", "Basic " + btoa(user+":"+password));
+				xhr.setRequestHeader("Authorization", "token " + password);
 			},
 			success: function(data) {
 				posted_ok = true ;
